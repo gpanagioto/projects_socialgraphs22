@@ -1,0 +1,59 @@
+{{short description|DC Comics supervillian}}
+{{Infobox comics character
+<!--Wikipedia:WikiProject Comics-->
+| character_name = Phosphorus Rex
+| image          = Phosphorus Rex.jpg
+| imagesize      = <!-- default 250 -->
+| caption        = A fleeing Phosphorus Rex.
+| publisher      = [[DC Comics]]
+| debut          = ''[[Batman (comic book)|Batman]]'' #666 (July 2007)
+| creators       = [[Grant Morrison]] (writer)<br> [[Andy Kubert]] (artist)
+| full_name      =
+| species        = <!-- optional -->
+| homeworld      = <!-- optional -->
+| alliances      = [[Circus of Strange]]
+| partners       = <!-- optional -->
+| supports       = <!-- optional -->
+| aliases        = <!-- optional -->
+| powers         = Pyrokinesis<br>Flame projection
+| cat            = 
+| subcat         = 
+| hero           = 
+| villain        = y
+| sortkey        = Phosphorus Rex
+| addcharcat#    = 
+}}
+'''Phosphorus Rex''' is a fictional character appearing in [[American comic book]]s published by [[DC Comics]].
+
+==Publication history==
+Phosphorus Rex first appeared in ''Batman'' #666 and was created by [[Grant Morrison]] and artist [[Andy Kubert]].
+
+==Fictional character biography==
+Phosphorus Rex is a fiery member of the [[Circus of Strange]].<ref>''Batman and Robin'' #1. DC Comics.</ref> After [[Mister Toad (comics)|Mister Toad]] is apprehended by the [[Gotham City Police Department]], Phosphorus Rex joins the Circus of Strange members Big Top, Siam, and a group of [[Professor Pyg]]'s Dollotrons in attacking the Gotham City Police Department. This results in four [[police officer]]s getting killed and six others ending up injured. Phosphorus Rex and the rest of the Circus of Strange are defeated by [[Dick Grayson|Batman]] and [[Damian Wayne|Robin]]. Batman later interrogates Phosphorus Rex into giving him the identity of the Circus of Strange's leader. What Phosphorus Rex tells Batman leads him to Professor Pyg.<ref>''Batman and Robin'' #2. DC Comics.</ref>
+
+In 2011, "[[The New 52]]" rebooted the DC universe. Phosphorus Rex and Professor Pyg are first seen as inmates of [[Arkham Asylum]]. At the time when [[Batman]] and Nightwing arrive at Arkham Asylum to capture a corrupt guard who ends up releasing the inmates, Phosphorus Rex is among those who take part in the break-out attempt only to be thwarted by Batman and Nightwing.<ref>''Batman'' (vol. 2) #1. DC Comics.</ref>
+
+==Powers and abilities==
+Phosphorus Rex has pyrokinetic abilities. He is surrounded by fires that are not lethal to him, but are lethal to everyone else.
+
+==Other versions==
+In the alternate future of ''Batman in Bethlehem'', Phosphorus Rex and his fellow Circus of Strange members are depicted as crime bosses.<ref>''Batman'' #666. DC Comics.</ref>
+
+==In other media==
+Phosphorus Rex appears in ''[[Beware the Batman]]'', voiced by [[Greg Ellis (actor)|Greg Ellis]].<ref>{{cite web | url=https://www.behindthevoiceactors.com/tv-shows/Beware-The-Batman/Phosphorous-Rex/ | title=Phosphorous Rex }}</ref> This version is '''Milo Match''', [[Tobias Whale]]'s lawyer and chief enforcer.
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://dc.fandom.com/wiki/Phosphorus_Rex_(New_Earth) Phosphorus Rex] at DC Comics Wiki
+* [https://comicvine.gamespot.com/phosphorus-rex/4005-64811/ Phosphorus Rex] at Comic Vine
+
+{{Batman characters}}
+[[Category:DC Comics metahumans]]
+[[Category:Comics characters introduced in 2006]]
+[[Category:Characters created by Grant Morrison]]
+[[Category:Characters created by Andy Kubert]]
+[[Category:DC Comics supervillains]]
+[[Category:DC Comics male supervillains]]
+[[Category:Fictional characters with fire or heat abilities]]

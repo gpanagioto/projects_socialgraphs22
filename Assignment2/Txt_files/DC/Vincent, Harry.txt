@@ -1,0 +1,433 @@
+{{short description|Fictional character}}
+{{Other uses|Shadow (disambiguation)}}
+{{redirect|Lamont Cranston|the musical group|The Lamont Cranston Band}}
+{{italic title}}
+{{Infobox comics character
+| image              = The Shadow (character).jpg
+| caption            = Art by [[John Cassaday]]
+| character_name     = The Shadow
+| publisher          = {{plainlist|
+* [[Street & Smith]]
+* [[Condé Nast]]
+}}
+| debut              = {{plainlist|
+* ''[[Detective Story Magazine|Detective Story Hour]]''<br />(July 31, 1930)<ref name="History"/> (radio)
+* "[[The Living Shadow]]"<br />(April 1, 1931)<ref name="History"/> (print)
+}}
+| creators           = [[Walter B. Gibson]]
+| alter_ego          = {{plainlist|
+* Kent Allard (print)
+* Lamont Cranston (radio, film and television)
+}}
+| species            = <!-- optional -->
+| homeworld          = <!-- optional -->
+| alliances          = <!-- optional -->
+| aliases            = {{plainlist|
+* Lamont Cranston (print)
+* Henry Arnaud (print)
+* Isaac Twambley (print)
+* Fritz the Janitor (print)
+}}
+| supports           = <!--optional-->
+| powers             = '''In print, radio, and film:'''
+* Expert detective
+* Skilled [[marksman]] and hand-to-hand combatant
+* Master of disguise and stealth
+'''In radio and film only:'''
+* Various psychic abilities such as reading a person's thoughts, controlling their mind and altering their perceptions, enabling him to turn himself invisible (except for his shadow which cannot be hidden, for unknown reasons)
+* Low-level [[psychokinesis|telekinesis]] (with small objects such as knives or glass debris)
+* Low-level superhuman strength (able to lift a sturdy armored warrior with only one hand)
+}}
+
+'''''The Shadow''''' is a fictional character created by magazine publishers [[Street & Smith]] and writer [[Walter B. Gibson]]. Originating in [[Pulp magazine|pulp novels]] of the 1930s, he was later adapted into other forms of media, including on radio, in [[American comic book]]s, [[comic strip]]s, [[television]], serials, [[video game]]s, and at least five [[feature film]]s. The [[radio drama]] include episodes voiced by [[Orson Welles]].
+
+The Shadow, originally created to be a mysterious radio show narrator,<ref name="Stedman">{{cite book | last = Stedman | first = Raymond William | title = Serials: Suspense and Drama By Installment | url = https://archive.org/details/serials00raym | url-access = registration | year = 1977 | publisher = University of Oklahoma Press | isbn = 978-0806116952 | pages = [https://archive.org/details/serials00raym/page/154 154] | quote = The definite article in The Shadow's name was always capitalized in the pulp adventures}}</ref> was developed into a distinct literary character in 1931 by writer [[Walter B. Gibson]].
+
+The Shadow [[First appearance|debut]]ed on July 31, 1930, as the mysterious narrator of the radio program ''Detective Story Hour'', which was developed to boost sales of [[Street & Smith]]'s monthly pulp ''[[Detective Story Magazine]]''.<ref name="RadioShow">{{Cite web| title = The Shadow: A Short Radio History | website=Old-time.com | url = http://www.old-time.com/sights/shadow.html | access-date = 2008-03-23}}</ref> When listeners of the program began asking at newsstands for copies of "that Shadow detective magazine", Street & Smith launched a magazine based on the character, and hired Gibson to create a concept to fit the name and voice and to write a story featuring him. The first issue of the [[Pulp magazine|pulp series]] ''[[The Shadow (magazine)|The Shadow Magazine]]'' went on sale April 1, 1931.
+
+On September 26, 1937, ''The Shadow'', a new [[radio drama]] based on the character as created by Gibson for the pulp magazine, premiered with the story "The Death House Rescue", in which The Shadow was characterized as having "the hypnotic power to cloud men's minds so they cannot see him". In the magazine stories, The Shadow did not become literally invisible.
+
+The introductory line from the radio adaptation of ''The Shadow'' – "Who knows what evil lurks in the hearts of men? The Shadow knows!" – spoken by actor [[Frank Readick]], has earned a place in the [[American English|American]] [[idiom]]. These words were accompanied by an [[ominous laugh]] and a musical theme, [[Camille Saint-Saëns]]' ''[[Le Rouet d'Omphale]]'' ("Omphale's Spinning Wheel," composed in 1872).
+
+The Shadow, at the end of each episode,  reminded listeners, "The weed of crime bears bitter fruit! Crime does not pay...The Shadow knows!"
+
+Some early episodes used the alternate statement, "As you sow evil, so shall you reap evil! Crime does not pay...The Shadow knows!"
+
+==Publication history==
+{{see also|List of The Shadow stories}}
+
+===Origin of the character's name===
+To boost the sales of its ''[[Detective Story Magazine]],'' Street & Smith Publications hired David Chrisman, of the Ruthrauff & Ryan [[advertising agency]], and writer-director William Sweets to adapt the magazine's stories into a radio series. Chrisman and Sweets thought the upcoming series should be narrated by a mysterious storyteller with a sinister voice and began searching for a suitable name. One of their scriptwriters, Harry Engman Charlot, suggested various possibilities, such as "The Inspector" or "The Sleuth."<ref name="Foreshadowings">Anthony Tollin. "Foreshadowings," ''The Shadow #5: The Salamanders and The Black Falcon;'' February 2007, Nostalgia Ventures.</ref> Charlot then proposed the ideal name for the phantom announcer: "The Shadow."<ref name="Foreshadowings"/>
+
+Thus, beginning on July 31, 1930,<ref name="History">{{Cite web| title =History of The Shadow| url =http://www.fortunecity.com/meltingpot/kes/350/history.html| access-date =2008-01-11| url-status=dead| archive-url =https://web.archive.org/web/20120321072356/http://www.fortunecity.com/meltingpot/kes/350/history.html| archive-date =2012-03-21}}</ref><ref name="Anthony Tollin">{{cite journal | last = Tollin | first = Anthony | title = Spotlight on The Shadow | journal = The Shadow #1: The Golden Vulture and Crime Insured | pages = 4–5 | publisher = Nostalgia Ventures | date = June 2006 }}</ref> "The Shadow" was the name given to the mysterious narrator of the ''Detective Story Hour'' radio program. The narrator was initially voiced by James LaCurto,<ref name="Anthony Tollin"/> who was replaced after four months by prolific character actor Frank Readick Jr. The episodes were drawn from the ''Detective Story Magazine'' issued by Street & Smith, "the nation's oldest and largest publisher of pulp magazines."<ref name="Anthony Tollin"/> Although the latter company had hoped the radio broadcasts would boost the declining sales of ''Detective Story Magazine'', the result was quite different. Listeners found the sinister announcer much more compelling than the unrelated stories. They soon began asking newsdealers for copies of "that ''Shadow'' detective magazine," even though it did not exist.<ref name="Anthony Tollin"/>
+
+===Creation as a distinctive literary character===
+[[File:Shadow Death From Nowhere.jpg|thumb|upright|left|''"Who knows what evil lurks in the hearts of men?"'' The Shadow as depicted on the cover of the July 15, 1939, issue of ''[[The Shadow (magazine)|The Shadow Magazine]]''. The story, "Death from Nowhere", was one of the magazine plots adapted for the legendary radio drama.]]
+Recognizing the demand and responding promptly, circulation manager Henry William Ralston of Street & Smith commissioned [[Walter B. Gibson]] to begin writing stories about "The Shadow." Using the [[pen name]] of [[Maxwell Grant]] and claiming the stories were "from The Shadow's private annals" as told to him, Gibson wrote 282 out of 325 tales over the next 20 years: a novel-length story twice a month (1st and 15th). The first story produced was "[[The Living Shadow]]," published April 1, 1931.<ref name="Anthony Tollin"/>
+
+Gibson's characterization of The Shadow laid the foundations for the [[archetype]] of the superhero, including stylized imagery and title, sidekicks, supervillains, and a secret identity. Clad in black, The Shadow operated mainly after dark as a vigilante in the name of justice, terrifying criminals into vulnerability. Gibson himself claimed the literary inspirations upon which he had drawn were [[Bram Stoker]]'s ''[[Dracula]]'' and [[Edward Bulwer-Lytton]]'s "The House and the Brain."<ref name="Foreshadowings"/> Another possible inspiration{{citation needed|date=November 2019}} for The Shadow is the [[France|French]] character [[Judex]]; the first episode of the original ''[[Judex (1916 film)|Judex]]'' [[Serial film|film serial]] was released in the United States as ''The Mysterious Shadow'', and Judex's costume is similar to The Shadow's. French comics historian Xavier Fournier notes other similarities with another silent serial, ''[[The Shielding Shadow]]'', whose protagonist had a power of invisibility, and considers The Shadow to be a mix between the two characters. In the 1940s, some ''Shadow'' comic strips were translated in France as adventures of Judex.<ref>Xavier Fournier, ''Super-héros : une histoire française'', Huginn Muninn, 2014, p. 70–73</ref>
+
+Because of the great effort involved in writing two full-length novels every month, several guest writers were hired to write occasional installments in order to lighten Gibson's workload. Those guest writers included [[Lester Dent]], who also wrote the [[Doc Savage]] stories, and [[Theodore Tinsley]]. In the late 1940s, mystery novelist Bruce Elliott (also a magician) temporarily replaced Gibson as the primary author of the pulp series.<ref name="BruceElliot">{{Cite web|title=The Shadow in Review |url=http://www.spaceports.com/~deshadow/reviews/shadow321.html|website=Spaceports.com |access-date=2008-02-02}}</ref> [[Richard Wormser]], a [[Publisher's reader|reader]] for Street & Smith, wrote two Shadow stories.<ref>p.28 Wormser, Richard & Skutch, Ira ''How to Become a Complete Non-Entity: A Memoir'' 2006 iUniverse</ref> For a complete list of Street and Smith's Shadow novels, see the [[List of The Shadow stories]] article.
+
+===Belmont Books a new beginning===
+''The Shadow Magazine'' ceased publication with the Summer 1949 issue, but Walter B. Gibson wrote three new "official" stories between 1963 and 1980. The first began a new series of nine Shadow mass market paperback novels from [[Belmont Books]], In this series, The Shadow is given psychic powers, including the radio character's ability "to cloud men's minds," so that he effectively became invisible starting with ''Return of The Shadow'' under his own name. The remaining eight novels in this series, ''The Shadow Strikes'', ''Shadow Beware'', ''Cry Shadow'', ''The Shadow's Revenge'', ''Mark of The Shadow'', ''Shadow Go Mad'', ''Night of The Shadow'', and ''The Shadow, Destination: Moon'', were written by [[Michael Collins (American author)|Dennis Lynds]], not Gibson, under the Maxwell Grant pseudonym. 
+
+The other two Gibson works were the novelettes "The Riddle of the Rangoon Ruby", published June 1, 1979 in ''The Shadow Scrapbook''.<ref>{{Cite web|url=https://adventurehouse.com/shop/product/shadow-scrapbook/|title=Shadow Scrapbook – Adventure House}}</ref><ref>{{Cite web|url=http://public-library.uk/ebooks/80/22.pdf|title=The Riddle of the Rangoon Ruby}}</ref> and "Blackmail Bay", published February 1, 1980 in ''The Duende History of The Shadow Magazine''.<ref>http://www.shadowsanctum.net/history/history_images/duende_shadow_fc.jpg {{Bare URL image|date=March 2022}}</ref><ref>{{Cite web|url=https://epdf.tips/blackmail-bay.html|title=Blackmail Bay}}</ref>
+
+===Literary sequels and reboots===
+The Shadow returned in 2015 in the authorized novel ''The Sinister Shadow'', an entry in the ''Wild Adventures of Doc Savage'' series from [[Altus Press]]. The novel, written by [[Will Murray]], used unpublished material originally written in 1932 by Doc Savage originator Lester Dent and published under the pen name Kenneth Robeson. Set in 1933, the story details the conflict between the two pulp magazine icons during a crime wave caused by a murderous kidnapping-extortion ring led by the mysterious [[Supervillain|criminal mastermind]] known as the Funeral Director.
+
+A sequel, ''Empire of Doom'', was published in 2016 and takes place seven years later in 1940. The Shadow's old enemy, Shiwan Khan, attacks his hated adversary. Doc Savage joins forces with The Shadow to vanquish Khan in a Doc Savage novel written by Will Murray, from a concept by Lester Dent.
+
+In 2020, James Patterson Entertainment and Condé Nast Entertainment announced a new series written by [[James Patterson]] and Brian Sitts. The arrangement also includes potential screen adaptions of these novels.<ref>{{Cite web|url=https://www.forbes.com/sites/robsalkowitz/2020/07/16/james-patterson-reviving-30s-era-crimefighter-the-shadow-for-new-novels-films/|title=James Patterson Reviving 30s-Era Crimefighter 'The Shadow' For New Novels, Films|first=Rob|last=Salkowitz|website=Forbes}}</ref><ref>{{Cite web|url=https://deadline.com/2020/07/james-patterson-conde-nast-reviving-crime-fighter-the-shadow-new-book-series-1202987269/|title=James Patterson, Condé Nast Reviving The Shadow In New Original Book Series|first1=Dade|last1=Hayes|date=July 16, 2020}}</ref> The first novel, ''The Shadow'', released in 2021, serves as a sequel-update with some science-fiction elements, bringing Lamont Cranston from 1937 into 2087 to battle Shiwan Khan in a futuristic New York.
+
+==Character development==
+The character and look of The Shadow gradually evolved over his lengthy fictional existence:
+
+As depicted in the pulps, The Shadow wore a wide-brimmed black hat and a black, crimson-lined cloak with an upturned collar over a standard black business suit. In the 1940s comic books, the later comic book series, and the 1994 film starring [[Alec Baldwin]], he wore either the black hat or a wide-brimmed, black [[fedora]] and a crimson scarf just below his nose and across his mouth and chin. Both the cloak and scarf covered either a black double-breasted [[trench coat]] or a regular black suit. As seen in some of the later comics series, The Shadow also would wear his hat and scarf with either a black [[Inverness coat]] or [[Inverness cape]].{{citation needed|date=April 2020}}
+
+In the [[radio drama]] that debuted in 1937, The Shadow does not wear a costume because he is invisible when he operates as a vigilante, a feature born out of necessity. Time constraints of 1930s radio made it difficult to explain to listeners where The Shadow was hiding and how he remained concealed from criminals until he was ready to strike, so the character was given invisibility, meaning the criminals (like the radio audience) only knew him by his haunting voice. The actors used their normal voice when the hero was in his civilian identity of Lamont Cranston and effects were added when he became invisible and acted as The Shadow, his voice now having a sinister and seemingly omnipresent quality. To explain this power, radio episodes regularly said that while a young man, The Shadow traveled around the world and then through the Orient, where he learned how to read thoughts and became a master of [[Hypnosis|hypnotism]], granting him "the mysterious power to cloud men's minds, so they could not see him." In the episode  "The Temple Bells of Neban" (1937), The Shadow said he developed these abilities in India specifically, under the guidance of a "Yogi priest" who was "Keeper of the Temple of Cobras" in [[Delhi]]. He does not wear a mask or any disguise while invisible, and so in episodes such as "The Temple Bells of Neban" (1937) he is cautious when he meets an enemy who could potentially disrupt his hypnotic abilities, exposing his true face and instantly making him a visible target for attack.
+
+===Background===
+[[File:Shadow1livingshadow.JPG|left|thumb|"[[The Living Shadow]]" from ''The Shadow'' #1 (April 7, 1931)]]
+
+In the print adventures, The Shadow is '''Kent Allard''', although his [[secret identity|real name]] is not revealed until ''The Shadow Unmasks'' (1937). Early stories explain he was once a famed aviator who fought for the [[France|French]] during [[World War I]], known by the alias the "Black Eagle" according to one character in ''The Shadow's Shadow'' (1933). Later stories revised this alias as the "Dark Eagle," beginning with ''The Shadow Unmasks''. After the war's conclusion, Allard finds a new challenge in waging war on criminals. Allard falsifies his death by crash landing his plane in [[Guatemala]], encountering the indigenous "Xinca tribe" as a result, who see him as a supernatural being and provide him with two loyal aides. Allard returns to the United States and takes residence in [[New York City]], adopting numerous identities to acquire valuable information and conceal his true nature, and recruiting a variety of agents to aid his war on crime, only a few of whom are aware of his other identities.
+
+As the vigilante called The Shadow, Allard hunts down and often violently confronts criminals, armed with Colt .45 pistols and sometimes using magician tricks to convince his prey that he's supernatural. One such trick is '''The Devil's Whisper,''' a chemical compound on the thumb and forefinger, causing a flash of bright flame and sharp explosion when he snaps his fingers. The Shadow is also known for wearing a girasol ring with a purple stone (sometimes depicted as a red stone in cover artwork), gifted to Kent Allard from the Czar of Russia (''The Romanoff Jewels,'' 1932) during World War I. The ring is later said to be one of two rings made with gemstones taken from the eyes of an idol made by the Xinca tribe (''The Shadow Unmasks,'' 1937).
+
+The Shadow's best known alter ego is '''Lamont Cranston,''' a "wealthy young man-about-town." In the pulps, Cranston is a separate character, a rich playboy who travels the world while The Shadow uses his identity and resources in New York (''The Shadow Laughs,'' 1931). The Shadow's disguise as Cranston works well because the two men resemble each other (''Dictator of Crime'', 1941). In their first meeting, The Shadow threatens Cranston, saying that unless the playboy agrees to allow the aviator to use his identity when he is abroad, then Allard will simply take over the man's identity entirely, having already made arrangements to begin the process, including switching signatures on various documents. Although alarmed at first, the real Lamont Cranston agrees, deciding that sharing his resources and identity is better than losing both entirely. The two men sometimes meet afterward in order to impersonate each other (''Crime over Miami'', 1940). As Cranston, The Shadow often attends the Cobalt Club, an exclusive restaurant and lounge catering to the wealthy, and associates with [[New York City Police Commissioner]] Ralph Weston.
+
+The Shadow's other disguises include: businessman '''Henry Arnaud''', who like Cranston is a real person whose identity Allard simply assumes at times, as revealed in Arnaud's first appearance ''The Black Master'' (March 1, 1932); elderly '''Isaac Twambley''', who first appears in ''No Time For Murder'' (December 1944); and '''Fritz''', an old, seemingly slow-witted, uncommunicative janitor who works at police headquarters, listening in on conversations and examining recovered evidence, first appearing in ''[[The Living Shadow]]'' (April 1931).
+
+In ''Teeth of the Dragon'' and later stories including ''The Golden Pagoda'', The Shadow is known in Chinatown as '''Ying Ko''', often fighting the criminal [[Tong (organization)|Tong]].
+
+In the 2015 [[Altus Press]] novel ''The Sinister Shadow'' by [[Will Murray]], The Shadow masquerades as celebrated criminologist '''George Clarendon''' of [[Chicago]], a past member of the Cobalt Club and long-time friend of [[New York City Police Commissioner|Commissioner]] Weston.
+
+For the first half of The Shadow's tenure in the pulps, his past and true identity (outside of his Cranston disguise) are ambiguous. In ''The Living Shadow'', a thug claiming to have seen the Shadow's face recalls seeing "a piece of white that looked like a bandage." In ''The Black Master'' and ''The Shadow's Shadow'', the villains of both stories see The Shadow's true face and remark the vigilante is a man of many faces with no face of his own. It was not until the August 1937 issue, ''The Shadow Unmasks'', that The Shadow's real name was revealed.
+
+In the radio drama series that premiered in 1937, the Allard [[secret identity]] and backstory were dropped for simplicity's sake. The radio incarnation of The Shadow is really and only '''Lamont Cranston''' with no other regular cover identities, though he does adopt disguises and short-term aliases during some adventures. The radio version of Cranston travels the world to "learn the old mysteries that modern science has not yet rediscovered" ("Death House Rescue" in 1937). Along with learning skills and knowledge in Europe, Africa, and Asia, he spends time training with a Yogi priest, "Keeper of the Temple of Cobras," in [[Delhi]] and learns how to read thoughts and hypnotize people enough to "cloud" their minds, making himself invisible to them (as revealed in the episode "The Temple Bells of Neban" in 1937). He explicitly states in several episodes that his talents are not magic but based on science. Returning to New York, he decides he can best aid the police and his city by operating outside the law as an invisible vigilante. He is somewhat less ruthless and more compassionate than the pulp incarnation, and without the vast network of agents and operatives. Only cab driver/chauffeur Shrevvy makes regular appearances on the radio series, but the character is different from his print counterpart. Commissioner Weston and a few other supporting characters from the print stories also are adapted to radio.
+
+===Supporting characters===
+[[File:The Shadow and Margo Lane.jpg|thumb|upright|[[Margo Lane]] and The Shadow, art by [[Alex Ross]]]]
+
+The Shadow has a network of agents who assist him in his war on crime. These include:
+
+* Harry Vincent - A man who tries to commit [[suicide]] in the first Shadow story. The Shadow saves and recruits him, after which Vincent is a regular recurring character in the pulp stories and one of the most trusted agents.
+* Moses "Moe" Shrevnitz, a.k.a. "Shrevvy" - A cab driver who doubles as his chauffeur. The radio version of Shrevvy is dim-witted and does not knowingly work for The Shadow, aiding Lamont Cranston on many occasions. [[Peter Boyle]] performed the role in the [[The Shadow (1994 film)|1994 film]].
+* [[Margo Lane]] - A socialite created for the radio drama and introduced in the debut episode "The Death House Rescue" as The Shadow's companion who loves him. Margo aids the Shadow in nearly every radio episode and was later introduced into the pulps as one of his agents. [[Penelope Ann Miller]] performed the role in the 1994 film, in which Margo had the power of telepathy, allowing her to pierce The Shadow's hypnotic mental-clouding abilities.
+* Clyde Burke - A newspaper reporter who also is initially paid to collect news clippings for The Shadow.
+* Burbank - A radio operator who maintains contact between The Shadow and his agents. He was portrayed by [[Andre Gregory]] in the 1994 film.
+* Clifford "Cliff" Marsland - He first appeared in the ninth novel ''Mobsmen on the Spot''. A man with a checkered past known to The Shadow, he changed his name to Clifford Marsland. Having spent years in [[Sing Sing]] maximum security prison for a crime he did not commit, he is wrongly believed by the underworld to have murdered one or more people. He infiltrates gangs using his crooked reputation (the [[Green Hornet]] is often described as having a ''modus operandi'' similar to that of Marsland).
+* Dr. Rupert Sayre - The Shadow's personal physician.
+* Jericho Druke - A large, immensely strong black man.
+* Slade Farrow - He works with The Shadow to rehabilitate criminals.
+* Miles Crofton - He sometimes pilots The Shadow's [[autogyro]].
+* Claude Fellows - The only agent of The Shadow ever shown to be killed, in ''Gangdom's Doom'' (1931).
+* Rutledge Mann - A stockbroker who collects information, taking over for Claude Fellows after the latter's death. First appeared in ''Double Z'' (June 1, 1932). After his business failed and he acquired heavy debt, he was ready to commit suicide before The Shadow, knowing about his situation, recruited him.
+* Hawkeye - A reformed underworld snoop who trails gangsters and other criminals.
+* Myra Reldon - A female operative who uses the alias of Ming Dwan when in [[Chinatown]].
+* Dr. Roy Tam - The Shadow's contact man in New York's Chinatown. [[Sab Shimono]] portrayed him in the 1994 film, in which he provided valuable scientific information to Lamont Cranston, believing the latter to be an agent of The Shadow.
+
+Though initially wanted by the police, The Shadow also works with and through them, notably gleaning information from his many chats (as Cranston) at the Cobalt Club with NYPD Commissioner Ralph Weston and later Commissioner Wainwright Barth, who is also Cranston's uncle (portrayed by [[Jonathan Winters]] in the 1994 film). Weston believes Cranston is merely a rich playboy who dabbles in detective work out of curiosity. Another police contact is Detective (later Inspector) Joseph Cardona, a key character in many Shadow novels.
+
+In contrast to the pulps, ''The Shadow'' [[radio drama]] limited the cast of major characters to The Shadow, Commissioner Weston, and Margo Lane, the last of whom was created for the radio series. Along with giving The Shadow a love interest, Margo was created because it was believed that including Harry Vincent as a regular would mean an overabundance of male characters (considering the criminals in the stories were usually male, too) and could possibly make it difficult for the audience to distinguish between the voices of so many male actors.<ref name="Tollin-5">{{cite journal |last= Tollin |first= Anthony |title= The Shadow on the Radio |journal= The Shadow |issue= #5: The Salamanders and The Black Falcon |publisher= Nostalgia Ventures |date= February 2007 }}</ref> The radio script for "The Death House Rescue" (reprinted in ''The Shadow Scrapbook'') features Harry Vincent, but he did not appear in the actual radio broadcast or any episode of the radio drama series. Clyde Burke made occasional appearances, but not as an agent of The Shadow. Lieutenant Cardona was a minor character in several episodes. Moe Shrevnitz (identified only as "Shrevvy") made several appearances as a simple-minded acquaintance of Cranston and Lane who sometimes acted as their chauffeur, unaware Cranston was actually The Shadow.
+
+===Enemies===
+The Shadow also faces a wide variety of enemies, ranging from [[Crime boss|kingpin]]s and [[mad scientist]]s to international spies.
+
+Among his recurring foes are:
+
+* Shiwan Khan - A would-be conqueror who is the last living descendant of [[Genghis Khan]]. Seen in ''[[The Golden Master]]'', ''Shiwan Khan Returns'', ''The Invincible Shiwan Khan'' and ''Masters of Death''.
+* Dr. Rodil Moquino - A doctor and self-proclaimed Voodoo Master who uses hypnosis to make people do his bidding. Seen in ''The Voodoo Master'', ''The City of Doom'' and ''Voodoo Trail''.
+* Wasp - Basil Gannaford is a criminal mastermind with a bulbous head on a tall frail body whose grasp contained an electric sting and spoke in a buzzing voice. Seen in ''The Wasp'' and ''The Wasp Returns''.
+* Benedict Stark - The self-described Prince of Evil. Seen in ''The Prince of Evil'', ''The Murder Genius'', ''The Man Who Died Twice'' and ''The Devil's Paymaster'', all written by Theodore Tinsley
+
+The only recurring criminal organization he fought was the Hand (''The Hand'', ''Murder for Sale'', ''Chicago Crime'', ''Crime Rides the Sea'' and ''Realm of Doom''), where he defeated one Finger of the organization in each book.
+
+In addition, the villain King Kauger from the Shadow story ''Wizard of Crime'' is the unseen mastermind behind the events of ''Intimidation, Inc.'', and the organization known as ''The Silent Seven'' was referenced in the previous title ''The Death Tower''.
+
+Villains Diamond Bert Farwell, Isaac Coffran, Steve Cronin, Spotter, and Birdie Crull all originated in the first two pulps and returned at least once.
+
+The series featured a myriad of one-shot villains including: The Golden Vulture, Malmordo, The Red Blot, The Black Falcon, The Cobra, Five-Face, Li Hoang, Velma Thane, Quetzal, Judge Lawless, The Gray Ghost, The Silver Skull, Gaspard Zemba, Thade the Death Giver, Kwa the Living Joss, Mox, and The Green Terror.
+
+In addition to The Hand and The Silent Seven, The Shadow also battled other one-shot collectives of criminals, including The Hydra, The Green Hoods, The White Skulls, The Five Chameleons, and The Salamanders.
+
+==Radio program==
+{{See also|List of The Shadow episodes}}
+[[File:Detective-Story-Hour-1930.jpg|thumb|Promotional photograph for ''The Detective Story Hour'', with James La Curto as The Shadow (1930)]]
+In early 1930, [[Street & Smith]] hired David Chrisman and Bill Sweets to adapt the ''[[Detective Story Magazine]]'' to radio format.<ref>{{cite book |last1=Harmon |first1=Jim |title=The Great Radio Heroes |date=1967 |publisher=Doubleday & Company |url=https://archive.org/details/greatradioheroes00harm |url-access=registration |access-date=9 April 2020 |chapter=Who Knows What Evil Lurks |pages=[https://archive.org/details/greatradioheroes00harm/page/55 55]-71}}</ref> Chrisman and Sweets thought the program should be introduced by a mysterious storyteller. A young scriptwriter, Harry Charlot, suggested the name of "The Shadow."<ref name="Foreshadowings"/> Thus, "The Shadow" premiered over [[CBS]] airwaves on July 31, 1930,<ref name="History"/> as the host of the ''Detective Story Hour'',<ref name="Anthony Tollin"/> narrating "tales of mystery and suspense from the pages of the [[Detective Story Magazine|premier detective fiction magazine]]."<ref name="Anthony Tollin"/> The bulk of the radio show was written primarily by [[Sidney Slon]]. The narrator was first voiced by James La Curto,<ref name="Anthony Tollin"/> but became a national sensation when radio veteran Frank Readick, Jr. assumed the role and gave it "a hauntingly sibilant quality that thrilled radio listeners."<ref name="Anthony Tollin"/>
+
+===Early years===
+{{more citations needed|date=October 2021}}
+Following a brief tenure as narrator of Street & Smith's ''Detective Story Hour'', "The Shadow" character was used to host segments of ''[[The Blue Coal Radio Revue]]'', airing on Sundays at 5:30&nbsp;p.m. Eastern Standard Time. This marked the beginning of a long association between the radio persona and sponsor [[Anthracite#Names|Blue Coal]].
+
+While functioning as a narrator of ''The Blue Coal Radio Revue'', the character was recycled by Street & Smith in October 1931, for its newly created ''[[Love Story Hour]]''. Contrary to dozens of encyclopedias, published reference guides, and even Walter Gibson himself, The Shadow never served as narrator of ''Love Story Hour''. He appeared only in advertisements for ''[[The Shadow Magazine]]'' at the end of each episode.<ref name="Grams, Jr.">{{Cite book|last= Grams|first= Martin Jr. |author-link= Martin Grams, Jr. |title=The Shadow: The History and Mystery of the Radio Program, 1930–1954 |publisher= OTR Publishing, LLC |year= 2011 |pages=55–57 |isbn=978-0-9825311-1-2 }}</ref>
+
+In October 1932, the radio persona temporarily moved to [[NBC]]. Frank Readick Jr. again played the role of the sinister-voiced host on Mondays and Wednesdays, both at 6:30&nbsp;p.m., with La Curto taking occasional turns as the title character.
+
+Readick returned as The Shadow to host a final CBS mystery anthology that fall. The series disappeared from CBS airwaves on March 27, 1935, due to Street & Smith's insistence that the radio storyteller be completely replaced by the master crime-fighter described in Walter B. Gibson's ongoing pulps.
+
+===Radio drama===
+[[File:WellesShadow.jpg|thumb|[[Orson Welles]] was the voice of The Shadow from September 1937 to October 1938]]
+Street & Smith entered into a new broadcasting agreement with Blue Coal in 1937, and that summer Gibson teamed with scriptwriter Edward Hale Bierstadt to develop the new series. ''The Shadow'' returned to network airwaves with the episode "The Death House Rescue" on September 26, 1937,<ref name="The Shadow">{{Cite web|title=The Shadow's return to network airwaves began with the first episode, Deathhouse Rescue |url=http://www.rusc.com/old-time-radio/Deathhouse-Rescue.aspx?id=19204|website=Rusc.com |access-date=2014-04-11}}</ref> over the [[Mutual Broadcasting System]]. Thus began the "official" [[radio drama]], with 22-year-old Orson Welles starring as Lamont Cranston, a "wealthy young man about town." Once ''The Shadow'' joined Mutual as a half-hour series on Sunday evenings, the program was broadcast by Mutual until December 26, 1954.<ref>{{cite book |last1=Harmon |first1=Jim |title=Radio Mystery and Adventure and Its Appearances in Film, Television and Other Media |date=2011 |publisher=McFarland & Co |isbn=9780786485086 |url=https://www.google.com/books/edition/Radio_Mystery_and_Adventure_and_Its_Appe/fReqCt2Nqk4C?hl=en&gbpv=1&d |access-date=8 April 2020 |pages=149–168}}</ref>
+
+Welles did not speak the signature line, "Who knows what evil lurks in the hearts of men?" Instead, Readick did, using a water glass next to his mouth for the echo effect. The famous catchphrase was accompanied by the strains of an excerpt from Opus 31 of the [[Camille Saint-Saëns]] classical composition, ''[[Le Rouet d'Omphale]].''
+
+In the debut episode "The Death House Rescue," Cranston explains he spent years studying in London, Paris, Vienna, Egypt, China, and India, learning different fields of science as well as "the old mysteries that modern science has not yet rediscovered, the natural magic that modern psychology is beginning to understand." He states his hypnotic and seemingly telepathic abilities are not magic but based on scientific secrets most of the world has forgotten or does not yet understand. In "The Temple Bells of Neban" in 1937, he specifies that a Yogi priest, "Keeper of the Temple of Cobras" in [[Delhi]], taught him how to be invisible by "clouding" peoples' minds. He indicates in "The Death House Rescue" that he always intended to use his acquired knowledge to secretly fight evil forces that evaded conventional authorities. In the same episode, when his companion Margo Lane suggests he work openly with the police, Cranston implies the police and general public would not understand or approve of his strange methods and abilities, concluding he is only effective by working outside of the law. The radio version of The Shadow is less ruthless than his pulp counterpart, preferring to capture his foes more often than gun them down. He sometimes openly shows compassion for his enemies, even at time criticizing society for creating circumstances that lead to certain crimes and cause some people to lose hope and support.
+
+After Welles departed the show in 1938, [[William Johnstone (actor)|Bill Johnstone]] was chosen to replace him and voiced the character for five seasons. Following Johnstone's departure, The Shadow was portrayed by such actors as [[Bret Morrison]] (the longest tenure, with 10 years total in two separate runs), [[John Archer (actor)|John Archer]], and Steven Courtleigh (the actors were rarely credited).
+
+''The Shadow'' also inspired another radio hit, ''[[The Whistler]]'', with a similarly mysterious narrator.
+
+===Margo Lane===
+{{Main|Margo Lane}}
+The radio drama also introduced [[Margo Lane]] (played by [[Agnes Moorehead]], among others) as Cranston's love interest, crime-solving partner, and the only person who knows his identity as The Shadow.<ref name="Margo Lane"/> Described as Cranston's "friend and companion" in many episodes, the exact nature of their relationship was not explicitly stated, but Margo mentions in the first episode that she loves him and hopes he will retire The Shadow identity and operate without secrecy if the police really need his help. Four years after the radio show began, the character was introduced into the pulp novels as one of The Shadow's agents. Her sudden, unexplained appearance in the pulps annoyed readers and generated a flurry of [[hate mail]] printed on ''The Shadow Magazine's'' letters page.<ref name="Margo Lane"/>
+
+In early scripts of the radio drama, the character's name was spelled "Margot." The name itself was originally inspired by [[Margot Stevenson]],<ref name="Margo Lane">Will Murray. "Introducing Margo Lane", p. 127, ''The Shadow #4: Murder Master and The Hydra''; January 2007, Nostalgia Ventures.</ref> the [[Broadway theatre|Broadway]] ingénue who would later be chosen to voice Lane opposite Welles's The Shadow during "the 1938 Goodrich summer season of the radio drama."<ref name="Voices from the Shadows">Anthony Tollin. "Voices from the Shadows," p. 120, ''The Shadow #5: The Salamanders and The Black Falcon''; February 2007, Nostalgia Ventures.</ref> In the 1994 film in which [[Penelope Ann Miller]] played the character, Margo is portrayed as telepathic, making her aware of and able to counter The Shadow's mental abilities.
+
+===Radio drama LPs and CDs===
+In 1968, [[MGM Records|Metro Record's "Leo the Lion" label]] released an [[LP record|LP]] titled ''The Official Adventures of The Shadow'' (CH-1048) with two original 15-minute radio-style productions written by John Fleming: "The Computer Calculates, but The Shadow Knows" and "Air Freight Fracas." [[Bret Morrison]], [[Grace Matthews]], and [[Santos Ortega]] reprised their roles as Cranston/The Shadow, Margo Lane, and Commissioner Weston. [[Ken Roberts (announcer)|Ken Roberts]] also returned as the announcer. 
+   
+Throughout the 1970s, 1980s, and 1990s, several dozen+ spoken word LPs appeared in print from other record labels featuring recordings taken from the original broadcast Shadow radio show dramas.<ref name="Grams, Jr."/> With the advent of the [[compact disc]], more of the radio shows were commercially released.
+
+==Comic strip==
+[[File:Shadowverngreene1.jpg|750px|thumb|center|[[Walter B. Gibson|Walter Gibson]]'s and [[Vernon Greene]]'s ''The Shadow'' (August 12, 1940).]]
+
+''The Shadow'' has been adapted for the comics several times during his long history; his first comics appearance was on June 17, 1940, as a syndicated daily newspaper [[comic strip]] offered through the [[Ledger Syndicate]].<ref name=Holtz>{{cite book |last1=Holtz |first1=Allan |title=American Newspaper Comics: An Encyclopedic Reference Guide |date=2012 |publisher=The University of Michigan Press |location=Ann Arbor |isbn=9780472117567 |page=348}}</ref> The strip's story continuity was written by Walter B. Gibson, with plot lines adapted from the Shadow pulps, and the strip was illustrated by [[Vernon Greene]].<ref name=Holtz/>
+
+The comic strip, which ran until June 20, 1942, comprised 14 stories, the last of which was left uncompleted when the strip was canceled:<ref name=Holtz/>
+
+# Mystery of the Sealed Box (June 17 - Aug 10, 1940)
+# The Shadow in His Sanctum (Aug 12 - Sept 21, 1940)
+# The Shadow vs. Hoang Hu (Sept 23 - Nov 2, 1940)
+# The Shadow on Shark Island (Nov 4, 1940 - Jan 25, 1941)
+# The Shadow vs. the Bund (Jan 27 - April 19, 1941)
+# The Shadow vs. Shiwan Khan (April 21 - July 26, 1941)
+# The Darvin Fortune (July 28 - Oct 11, 1941)
+# The Adele Varne Mystery (Oct 13 - Nov 22, 1941)
+# The Shadow and Professor Scorpio (Nov 24 - Dec 13, 1941)
+# The Shadow and the Gray Ghost (Dec 15, 1941 - Jan 10, 1942)
+# The Star of Delhi (Jan 12 - Jan 31, 1942)
+# The Earthquake Machines (Feb 2 - March 28, 1942)
+# The Return of Althor (March 30 - May 23, 1942)
+# The Cliff Castle Mystery (May 25 - June 20, 1942)
+
+''The Shadow'' daily was collected decades later in two comic book series from two different publishers (see below), first in 1988 and then in 1999.
+
+==Comic books==
+===Summary===
+*[[Street & Smith]]
+** Shadow Comics v1, 1 – v9, 5, March 1940 – September 1949 (101 issues)
+* [[Archie Comics]]
+** The Shadow, 1–8, August 1964 – September 1965
+* [[DC Comics]]
+** The Shadow, 1–12, November 1973 – September 1975
+** The Shadow:  Blood and Judgment, 1–4, May–August 1986
+** The Shadow, 1–19 + 2 annuals, August 1987 – January 1989
+** The Shadow Strikes!, 1–31 + 1 annual, September 1989 – May 1992
+** Batman and The Shadow: The Murder Geniuses, 1–6, 2017 (co-published with Dynamite Entertainment)
+* [[Dark Horse Comics]]
+** The Shadow: In the Coils of Leviathan, 1–4, 1993
+** The Shadow Movie Adaptation, 1–2, 1994, Dark Horse Comics
+** The Shadow: Hell's Heat Wave, 1–3, 1995, Dark Horse Comics
+** The Shadow and Doc Savage, 1–2, 1995, Dark Horse Comics
+*[[Dynamite Entertainment]]
+** The Shadow, 1–25 + 0 + 2 annuals + 2 specials, 2012–2015
+** The Shadow Now, 1–6, 2013
+** The Shadow: Year One, 1–10, 2013–2014
+** The Shadow, 1–5, 2015
+** The Shadow: Midnight In Moscow, 2014
+** The Shadow, 1–6, 2016
+** The Shadow: The Death of Margo Lane, 1–6, 2016
+** The Shadow and Batman, 1–6, 2017 (co-published with DC Comics)
+
+{{More citations needed section|date=July 2020}}
+To both cross-promote ''The Shadow'' and attract a younger audience to its other pulp magazines, [[Street & Smith]] published 101 issues of the comic book ''Shadow Comics'' from Vol. 1, #1 – Vol. 9, #5 (March 1940 – Sept. 1949).<ref>{{cite web|url=https://www.comics.org/series/208/|title=GCD :: Series :: Shadow Comics|website=Comics.org|access-date=25 April 2019}}</ref> A Shadow story led off each issue, with the remainder of the stories being strips based on other Street & Smith pulp heroes.<ref>{{cite book |last1=Benton |first1=Mike |title=Superhero Comics of the Golden Age: The Illustrated History |date=1992 |publisher=Taylor Publishing Company |location=Dallas |isbn=0-87833-808-X |url=https://archive.org/details/superherocomicso0000bent |url-access=registration |access-date=1 April 2020 |pages=[https://archive.org/details/superherocomicso0000bent/page/134 134]-135}}</ref>
+
+In ''[[Mad (magazine)|Mad]]'' #4 (April–May 1953), ''The Shadow'' was spoofed by [[Harvey Kurtzman]] and [[Will Elder]]. Their character was called "The Shadow'" (with an apostrophe), which is short for "Lamont Shadowskeedeeboomboom."<ref>{{cite web|url=https://www.comics.org/issue/1551050/|title=GCD :: Issue :: The Complete Color Mad #3|website=Comics.org|access-date=25 April 2019}}</ref> The Shadow' is invisible as in the radio series; when he makes himself visible, he is attired like the pulp character but is very short and ugly; his companion, "Margo Pain," begs him to cloud her mind again. Throughout the story, someone is trying to kill Margo, getting "Shad," as she calls him, into various predicaments: He is beaten up by gangsters and has a piano dropped on him. He tricks Margo into an [[outhouse]] (the interior of which is an impossibly huge mansion) that he demolishes with dynamite. As The Shadow' gleefully presses the detonator, he says, "NOBODY knows to whom the voice of the invisible Shadow' belongs!" This story was reprinted in ''The Brothers Mad'' (ibooks, New York, 2002, {{ISBN|0-7434-4482-5}}). Lamont Shadowskeedeeboomboom returned in ''[[Mad (magazine)|Mad]]'' #14 (August 1954) to guest-star in "Manduck the Magician," a spoof by [[Harvey Kurtzman]] and [[Will Elder]] of the ''[[Mandrake the Magician]]'' comic strip. This story was reprinted in ''Mad Strikes Back!'' (ibooks, New York, 2002, {{ISBN|0-7434-4478-7}}).
+
+During the superhero revival of the 1960s, [[Archie Comics]] published an eight-issue series, ''The Shadow'' (Aug. 1964 – Sept. 1965), under the company's [[Dark Circle Comics|Mighty Comics]] [[imprint (trade name)|imprint]]. In the first issue, The Shadow was loosely based on the radio version, but with blond hair. In issue #2 (Sept. 1964), the character was transformed into a campy, heavily muscled superhero in a green and blue costume by writer [[Robert Bernstein (comics)|Robert Bernstein]] and artist [[John Rosenberger]]. Later issues of this eight-issue series were written by [[Superman]] co-creator [[Jerry Siegel]].<ref>{{cite web|url=https://www.comics.org/series/1859/|title=GCD :: Series :: The Shadow|website=Comics.org|access-date=25 April 2019}}</ref> The change was not well received. "Totally at odds with everything that personified the classic Shadow," ''American Comic Book Chronicles'' says, "Archie's incarnation is still regarded in many quarters as one of the greatest comic book misfires of the 1960s."<ref>{{cite book |last=Wells |first=John |title=American Comic Book Chronicles: 1960-64 |date=2015 |publisher=TwoMorrows Publishing |isbn=978-1605490458 |page=185}}</ref>
+
+During the mid-1970s, [[DC Comics]] published an "atmospheric interpretation" of the character by writer [[Dennis O'Neil]] and artist [[Michael Kaluta]]<ref>{{cite book|last1=McAvennie|first1= Michael|last2=Dolan|first2=Hannah, ed.|chapter= 1970s|title = DC Comics Year By Year A Visual Chronicle|publisher=[[Dorling Kindersley]] |year=2010 |isbn= 978-0-7566-6742-9 |page=157  |quote =Writer Denny O'Neil and artist Mike Kaluta presented their interpretation of writer Walter B. Gibson's pulp-fiction mystery man of the 1930s}}</ref> in a 12-issue series (Nov. 1973 – Sept. 1975) attempting to be faithful to both the pulp-magazine character and radio-drama character. Kaluta drew issues 1–4 and 6 and was followed by [[Frank Robbins]] and then E. R. Cruz. Fellow pulp fiction hero the [[Avenger (pulp-magazine character)|Avenger]] guest-starred in issue #11.<ref>{{cite web|url=https://www.comics.org/series/2105/|title=GCD :: Series :: The Shadow|website=Comics.org|access-date=25 April 2019}}</ref> The Shadow also appeared in DC's ''[[Batman]]'' #253 (Nov. 1973), in which Batman teams with an aging Shadow and calls the famous crime fighter his "biggest inspiration." In ''Batman'' #259 (Nov.-Dec. 1974), Batman again meets The Shadow, and we learn that, in the past, The Shadow saved Bruce Wayne's life when the future Batman was a boy and that The Shadow knows Batman's secret identity (he assures Batman, however, that his secret is safe with him).
+
+The Shadow is also referenced in DC's ''[[Detective Comics]]'' #446 (1975), page 4, panel 2: Batman, out of costume and in disguise as an older night janitor, makes a crime fighting acknowledgement, in a [[thought balloon]], to the Shadow.
+
+In 1986, another DC adaptation was developed by [[Howard Chaykin]]. This four-issue miniseries, ''The Shadow: Blood and Judgement'', brought The Shadow to modern-day New York. While initially successful,<ref>"the series sold well – earning an early graphic novel treatment and leading to an ongoing series by Andy Helfer, Bill Sienkiewicz and Kyle Baker". Kiel Phegley, [http://www.comicbookresources.com/?page=article&id=37084 Howard Chaykin: The Art of The Shadow]. In ''Comic Book Resources'', Feb. 28, 2012, page found 2012-03-30.</ref> this version proved unpopular with traditional Shadow fans<ref>"... Simply for bucks because he has confessed in interviews that he never cared a gram about the character, ''auteur'' Howard Chaykin has taken The Shadow and turned him, in a four-issue mini-series, into a sexist, calloused, clearly psychopathic obscenity. Rather than simply ignoring characters from the Shadow's past, Chaykin has murdered them in full view... And when Mr. Chaykin was asked why he had this penchant for drawing pictures of thugs jamming .45's into the mouths of terrified women, Mr. Chaykin responded that the only readers who might object to this bastardization of a much-beloved fictional character were 'forty-year-old boys'. These comics bear the legend FOR MATURE READERS. For MATURE read DERANGED." Harlan Ellison, essay titled "In Which Youth Goeth Before A Fall", in ''The Magazine of Fantasy & Science Fiction'', August 1986.</ref> because it depicted The Shadow using two [[Uzi]] submachine guns, as well as featuring a strong strain of [[black comedy]] and extreme violence throughout.<ref>Chaykin, in an interview after the book came out, had this to say: "I thought the book was well received by the people I cared about. Comic book fandom is evenly divided between people who like comics in a general way and are fans of comics in general, and then there's an entire spate of juvenilists who attach themselves to the old joke about the Golden Age of comics. 'What's the Golden Age of comics? 12!' There's this tremendous idea that their tastes were formed and refined at 12, and frankly, I'm not interested in supporting that sensibility. By the same token, if I'm going to be doing a mature readers product, I don't feel the need to stand by the standards of a 12-year-old sensibility. I certainly feel the pain of the people who were offended by the material, but fuck 'em. Life is hard all over. I was hired to do a job, and I feel I did a pretty damn good job with the material I had to work with. I'm happy with the work. I know that I antagonize and piss people off, but it's fine. Who cares?" Kiel Phegley, [http://www.comicbookresources.com/?page=article&id=37084 Howard Chaykin: The Art of The Shadow]. In ''Comic Book Resources'', Feb. 28, 2012, page found 2012-03-30.</ref>
+
+''The Shadow'', set in our modern era, was continued in 1987 as a monthly DC comics series by writer [[Andy Helfer]] (editor of the miniseries); it was drawn primarily by artists [[Bill Sienkiewicz]] (issues 1–6) and [[Kyle Baker]] (issues 8–19 and the second of two ''Shadow Annual''s, the first having been drawn by [[Joe Orlando]]).
+
+In 1988, O'Neil and Kaluta, with inker Russ Heath, returned to The Shadow with the [[Marvel Comics]] [[graphic novel]] ''The Shadow: Hitler's Astrologer'', set during [[World War II]]. This one-shot appeared in both [[hardcover]] and [[Trade paperback (comics)|trade paperback]] editions.
+
+The Vernon Greene/Walter Gibson Shadow newspaper comic strip from the early 1940s was collected by Malibu Graphics ([[Malibu Comics]]) under its [[Eternity Comics]] imprint, beginning with the first issue of ''Crime Classics'' dated July 1988. Each cover was illustrated by Greene and colored by one of Eternity's colorists. A total of 13 issues appeared featuring just the black-and-white daily until the final issue, dated November 1989. Some of the Shadow storylines were contained in one issue, while others were continued over into the next. When a Shadow story ended, another tale would begin in the same issue. This back-to-back format continued until the final issue (#13). Here is a list of the reprinted strip's storylines:
+ 
+''Crime Classics''
+1 and 2, "Riddle of the Sealed Box"; 
+2 and 3, "Mystery of the Sleeping Gas"; 
+3 and 4, "The Shadow vs. Hoang Hu"; 
+4, 5 and 6, "Danger on Shark Island";
+6, 7 and 8, "The Shadow vs. the Bund";
+8, 9 and 10, "The Shadow vs. Shiwan Khan";
+10, 11 and 12, "The Shadow vs. the Swindlers";
+12 and 13, "The Shadow and the Adele Varne Mystery";
+13, "Robberies at Lake Calada".
+ 
+[[Dave Stevens]]' nostalgic comics series ''[[Rocketeer]]'' contains a great number of pop culture references to the 1930s. Various characters from the Shadow pulps make appearances in the storyline published in the ''Rocketeer Adventure Magazine'', including The Shadow's famous [[alter ego]] Lamont Cranston. Two issues were published by [[Comico: The Comic Company|Comico]] in 1988 and 1989, but the third and final installment did not appear until years later, finally appearing in 1995 from [[Dark Horse Comics]]. All three issues were then collected by Dark Horse into a slick trade paperback titled ''The Rocketeer: Cliff's New York Adventure'' ({{ISBN|1-56971-092-9}}).
+
+In 1989, DC released a hardcover graphic novel reprinting five issues (#1–4 and 6 by Dennis O'Neil and Michael Kaluta) of their 1970s series as ''The Private Files of The Shadow''. The volume also featured "In the Toils of Wing Fat'', a new Shadow adventure drawn by Kaluta.
+
+From 1989 to 1992, DC published a new Shadow comic book series, ''The Shadow Strikes!'', written by [[Gerard Jones]] and [[Eduardo Barreto]]. This series was set in the 1930s and returned The Shadow to his pulp origins. During its run, it featured The Shadow's first-ever team-up with [[Doc Savage]], another popular hero of the pulp magazine era. The two characters appeared together in a four-issue story that crossed back and forth between each character's DC comic book series. ''The Shadow Strikes'' often led The Shadow into encounters with well-known celebrities of the 1930s, such as [[Albert Einstein]], [[Amelia Earhart]], [[Charles Lindbergh]], union organizer [[John L. Lewis]], and [[Chicago]] gangsters [[Frank Nitti]] and [[Jake Guzik]]. In issue #7, The Shadow meets a radio announcer named Grover Mills, a character based on the young [[Orson Welles]], who has been impersonating The Shadow on the radio. The character's name is taken from [[Grover's Mill, New Jersey]], the name of the small town where the [[Martian]]s land in Welles's 1938 radio broadcast of ''[[The War of the Worlds (radio drama)|The War of the Worlds]].'' When Shadow rights holder [[Condé Nast]] increased its licensing fee, DC concluded the series after 31 issues and one ''Annual''; it became the longest-running Shadow comic book series since Street & Smith's original 1940s series.
+
+During the early-to-mid-1990s, [[Dark Horse Comics]] acquired the rights to The Shadow from Condé Nast. It published the Shadow [[miniseries]] ''The Shadow: In the Coils of Leviathan'' (four issues) in 1993, and ''The Shadow: Hell's Heat Wave'' (three issues) in 1995. ''In the Coils of Leviathan'' was later collected by Dark Horse in 1994 as a trade paperback. Both series were written by Joel Goss and Michael Kaluta and drawn by [[Gary Gianni]]. A one-shot issue, ''The Shadow and the Mysterious Three'', was published by Dark Horse in 1994, again written by Joel Goss and Michael Kaluta, with Stan Manoukian and Vince Roucher taking over the illustration duties but working from Kaluta's layouts. A comics adaptation of the 1994 film ''The Shadow'' was published in two issues by Dark Horse as part of the movie's merchandising campaign. The script was by Goss and Kaluta and drawn by Kaluta. It was collected and published in England by Boxtree as a graphic novel tie-in for the film's British release. Emulating DC's earlier team-up, Dark Horse also published a two-issue miniseries in 1995 called ''The Shadow and Doc Savage: The Case of the Shrieking Skeletons''. It was written by Steve Vance and illustrated by Manoukian and Roucher. Both issues' covers were drawn by [[Rocketeer]] creator [[Dave Stevens]]. A final Dark Horse Shadow team-up was published in 1995: another one-shot issue, ''[[Ghost (Dark Horse Comics)|Ghost]] and The Shadow'', written by Doug Moench, pencilled by H. M. Baker, and inked by Bernard Kolle. It was set in modern times.
+
+The Shadow made an uncredited cameo in issue #2 of DC's 1996 four-issue miniseries ''[[Kingdom Come (comics)|Kingdom Come]]'', re-released as a trade paperback in 1997. The Shadow appears in the nightclub scene standing in the background next to the [[Question (character)|Question]] and [[Rorschach (comics)|Rorschach]].
+
+The early 1940s Shadow newspaper daily strip was reprinted by [[Roger Broughton|Avalon Communications]] under its [[Roger Broughton|ACG Classix]] imprint. The Shadow daily began appearing in the first issue of ''Pulp Action'' comics. It carried no monthly date or issue number on the cover, only a 1999 copyright and a ''Pulp Action'' #1 notation at the bottom of the inside cover. Each issue's cover is a colorized panel blow-up, taken from one of the reprinted strips. The eighth issue uses for its cover a Shadow serial black-and-white [[film still]], with several hand-drawn alterations. The first issue of ''Pulp Action'' is devoted entirely to reprinting the Shadow daily, but subsequent issues began offering back-up stories not involving The Shadow in every issue. These Shadow strip reprints stopped with ''Pulp Action''{{'}}s eighth issue, before the story was complete. Here are the strip's reprinted storylines (the last issue carries a 2000 copyright date):
+
+''Pulp Action'':
+1, "Riddle of the Sealed Box"; 
+2, "Mystery of the Sleeping Gas"; 
+3 and 4, "The Shadow vs. the Swindlers"; 
+5 and 6, "The Shadow and the Adele Varne Mystery";
+7 and 8, "The Shadow and the Darvin Fortune".
+
+In August 2011, [[Dynamite Entertainment|Dynamite]] licensed ''The Shadow'' from Condé Nast for an ongoing comic book series and several limited run miniseries.<ref>Siegel, Lucas (August 17, 2011). [http://www.newsarama.com/comics/dynamite-the-shadow-comics-110817.html "Dynamite Returns THE SHADOW to Comics After 16-Year Hiatus"] [[Newsarama]].</ref> Its first on-going series was written by [[Garth Ennis]] and illustrated by Aaron Campbell; it debuted on April 19, 2012. This series ran for 26 issues; the regular series ended in May 2014, but a prologue issue #0 was published in July 2014. Dynamite followed with the release of an eight-issue miniseries, ''Masks'', teaming the 1930s Shadow with Dynamite's other pulp hero comic book adaptations, the [[Spider (pulp fiction)|Spider]], the [[Green Hornet]] and [[Kato (The Green Hornet)|Kato]], and a 1930s [[Zorro]], plus four other heroes of the pulp era from Dynamite's comics lineup. Dynamite offered a 10-issue Shadow miniseries, ''The Shadow: Year One'', followed by the team-up five-issue miniseries, ''The Shadow/Green Hornet: Dark Nights'', and a Shadow six-issue miniseries set in the modern era, ''The Shadow: Now''.  In August 2015, Dynamite Entertainment launched volume 2 of ''The Shadow'', a new ongoing series written by Cullen Bunn and drawn by Giovanni Timpano.
+
+==Films==
+{{More citations needed section|date=July 2020}}
+The Shadow character has been adapted for film shorts and films.
+
+===Shadow film shorts (1931–1932)===
+In 1931 and 1932, [[Bryan Foy|Bryan Foy Productions]] created<ref>{{Cite web|url=http://www.imdb.com/search/title/?companies=co0132038|title=With Bryan Foy Productions (Sorted by Release Date Ascending)|website=IMDb}}</ref> and [[Universal Studios|Universal Pictures]] distributed<ref>{{Cite web|url=http://www.imdb.com/search/title/?companies=co0005073&start=1851|title=With Universal Pictures (Sorted by Release Date Ascending)|website=IMDb}}</ref> a series of six film shorts based on the popular ''Detective Story Hour'' radio program, narrated by The Shadow. The shorts featured the voice of Frank Readick Jr., who portrayed The Shadow on the radio program.<ref>{{Cite web|url=http://www.imdb.com/name/nm0713930/|title=Frank Readick|website=IMDb}}</ref>  The six films are: ''A Burglar to the Rescue'' (© July 22, 1931), ''Trapped'' (© Sep. 21, 1931), ''Sealed Lips'' (© Oct. 30, 1931), ''House of Mystery'' (© Dec. 11, 1931),<ref>{{Cite web|url=http://archive.org/details/catalogofcopyri41libr|title=Catalog of Copyright Entries, 1931 Dramatic Compositions Motion Pictures For the Year 1931 Vol 4 Part 1|date=December 16, 1931|publisher=U.S. Govt. Print. Off.|via=Internet Archive}}</ref> ''The Red Shadow'' (© Jan. 12, 1932), and ''The Circus Show-Up'' (© Jan. 27, 1932).<ref>{{Cite web|url=http://archive.org/details/catalogofcopyrig51libr|title=Catalog of Copyright Entries 1932 Dramatic Compositions Motion Pictures Vol 5 Pt 1 For the Year 1932|date=December 16, 1932|publisher=U.S. Govt. Print. Off.|via=Internet Archive}}</ref>
+
+===''The Shadow Strikes'' (1937)===
+The film ''[[The Shadow Strikes]]'' was released in 1937, starring [[Rod La Rocque]] in the title role. Lamont Granston (as his name was spelled in both opening credits and a newspaper article) assumes the secret identity of "The Shadow" in order to thwart an attempted robbery at an attorney's office. Both ''The Shadow Strikes'' (1937) and its sequel, ''International Crime'' (1938), were released by [[Grand National Films Inc.|Grand National Pictures]].
+
+===''International Crime'' (1938)===
+La Rocque returned the following year in ''[[International Crime (1938 film)|International Crime]]''. In this version, reporter Lamont Cranston (despite being spelled Granston in the previous film) is an amateur [[criminology|criminologist]] and detective who uses the name of "The Shadow" as a radio gimmick. Thomas Jackson portrayed Police Commissioner Weston, and Astrid Allwyn was cast as Phoebe Lane, Cranston's assistant.
+
+===''The Shadow'' (1940)===
+''[[The Shadow (serial)|The Shadow]]'', a 15-chapter movie [[Serial film|serial]], produced by [[Columbia Pictures]] and starring [[Victor Jory]], premiered in theaters in 1940. The serial's villain, The Black Tiger, is a criminal mastermind who sabotages rail lines and factories across the [[United States]]. Lamont Cranston must become his shadowy alter ego in order to unmask the criminal and halt his fiendish crime spree. As The Shadow, Jory wears an all-black suit and cloak, as well as a black [[Kerchief|bandana]] that helps conceal his facial features.
+
+===''The Shadow Returns'', ''Behind the Mask'', and ''Missing Lady'' (1946)===
+Low-budget motion picture studio [[Monogram Pictures]] produced a trio of quickie Shadow B-movie features in 1946 starring [[Kane Richmond]]: ''[[The Shadow Returns]]'' (© Jan. 31, 1946),<ref name="auto2">{{Cite web|url=http://archive.org/details/catalogofcopyrig191libr|title=Catalog of Copyright Entries 1946 Dramatic Compositions, Lectures, Motion Pictures Including List of Renewals New Series Vol 19 Pt 1|date=December 16, 1946|publisher=U.S. Govt. Print. Off.|via=Internet Archive}}</ref> ''[[Behind the Mask (1946 film)|Behind the Mask]]'' (© April 1, 1946)<ref>{{Cite web|url=http://archive.org/details/catalogofc19733271213libr|title=Catalog of Copyright Entries 3D Ser Vol 27 Pts 12-13|date=December 16, 1973|publisher=U.S. Govt. Print. Off.|via=Internet Archive}}</ref> and ''[[Missing Lady]]'' (© July 20, 1946).<ref name="auto2"/> Richmond's Shadow wore all black, including a trench coat, a wide-brimmed fedora, and a full face-mask similar to the type worn by movie serial hero [[The Masked Marvel]], instead of the character's signature black cape with red lining and red scarf.
+
+===''Invisible Avenger'' (1958)===
+Episodes of a [[television pilot]] shot in 1957 were edited into the 1958 theatrical feature ''[[Invisible Avenger]]'', rereleased in 1962 as ''Bourbon Street Shadows''.<ref name="auto1">p. 128 ''Radio Daily-Television Daily''  Volume 78</ref><ref name="auto">{{cite book | last= Shimeld | first = Thomas J. | title = Walter B. Gibson and the Shadow | publisher = [[McFarland & Co.]] | year = 2003 | page =86}}</ref>
+
+===''The Shadow'' (1994)===
+{{Main|The Shadow (1994 film)}}
+[[File:The Shadow (Alec Baldwin).jpg|thumb|upright|[[Alec Baldwin]] as the eponymous character in the 1994 film ''[[The Shadow (1994 film)|The Shadow]].'']]
+In 1994 the character was adapted once again into a feature film, ''[[The Shadow (1994 film)|The Shadow]],'' starring [[Alec Baldwin]] as Lamont Cranston and [[Penelope Ann Miller]] as [[Margo Lane]], with [[John Lone]] playing the recurring Asian villain from the pulp series Shiwan Khan, who claims to be a direct descendant of [[Genghis Khan]]. As the film opens, Cranston has become the evil and corrupt Yin-Ko (literally "Dark Eagle"), a brutal [[warlord]] and [[opium]] smuggler in early 1930s [[Mongolia]]. Yin-Ko is kidnapped by agents of the mysterious holy man [[Tulku]], who knows the warlord is really Lamont Cranston of New York. He says he is determined to reform the man, that since Cranston knows the evil that lurks in his own heart he will be effective in knowing and fighting such evil in other men, and will learn how to tap into his latent psychic power. Resistant at first, Cranston accepts that is now under the Tulku's control. Over time, he reforms and learns how to read thoughts, as well as how to "cloud men's minds" to alter their perception and make himself invisible. Cranston eventually returns to his native [[New York City]] and takes up the guise of the mysterious crime fighter "The Shadow," in payment to humanity for his past evil misdeeds: "Who knows what evil lurks in the hearts of men? The Shadow ''knows'' ..."
+
+The Shadow has a network of agents, each of whom now wears a ring similar to his own, and is then joined by Margo Lane, a socialite born with the gift of telepathy herself who quickly discovers Cranston's identity. In the film, the evil Shiwan Khan is an admirer of Ying-Ko who later also becomes a student of the Tulku, learning the same powers of illusion and telepathy but never reforming or regretting his murderous ways. He seeks to finish his ancestor's legacy of conquering the world by first destroying [[New York City]], using a newly developed [[Nuclear weapon|atomic bomb]] as a show of his power. Khan nearly succeeds, but is thwarted by The Shadow. In a final psychic duel, the hero telekinetically hurls a shattered piece of mirror directly into the villain's forehead, instantly rendering him unconscious. Shiwan Khan is not killed and wakes up in an unidentified [[history of psychiatric institutions|asylum]] where he is now under the care of a doctor who is secretly one of The Shadow's agents. Due to his head injury, surgery was performed on his [[frontal lobe]], removing his telepathic powers and forcing him to remain imprisoned in the asylum.
+
+The film combines elements from The Shadow pulp novels and comic books with the aforementioned ability to cloud minds described only on the radio show. In the film [[Alec Baldwin]], as The Shadow, wears a black cloak and a long red scarf that covers his mouth and chin; he also wears a black, double-breasted [[trench coat]] and a wide-brimmed, black [[fedora|slouch hat]]. Contrarily to pulp novels, he is armed with a pair of modified [[M1911]] .45-caliber semi-automatic pistols that for the film have longer barrels, are nickel plated, and have ivory grips. In reality, the prop guns were modified [[LAR Grizzly Win Mag]]s nicknamed "Silver Heat."{{citation needed|date=May 2020}} The film also displays a first: Cranston's ability to conjure the illusion of a false face whenever he is in his guise as The Shadow, giving him an appearance similar to the character's physical portrayal in the pulp magazines and comics.
+
+The film was financially and critically unsuccessful.<ref>"[http://www.rottentomatoes.com/m/1054125-shadow/ The Shadow (1994)]." ''[[Rotten Tomatoes]]''.</ref><ref>"[http://www.ew.com/ew/gallery/0,,20186843_2,00.html 20 Worst Comic-Book Movies Ever. ''The Shadow'', Alec Baldwin]." ''[[Entertainment Weekly]]'' {{Webarchive|url=https://web.archive.org/web/20131005014547/http://www.ew.com/ew/gallery/0,,20186843_2,00.html |date=2013-10-05 }}</ref>
+
+===Unmade Sam Raimi ''Shadow'' feature film===
+On December 11, 2006, the website SuperHero Hype reported that director [[Sam Raimi]] and [[Michael Uslan]] would co-produce a new ''Shadow'' film for [[Columbia Pictures]].<ref>{{cite web|url=http://www.superherohype.com/news.php?id=4988|title=Columbia & Raimi Team on The Shadow|work=SuperHeroHype|date=11 December 2006}}</ref> It was rumored to also be a film involving several [[Street and Smith Publications|Street and Smith]] [[pulp magazine|pulp]] heroes, including The Shadow, the [[The Avenger (character)|Avenger]], and [[Doc Savage]]. This screenplay was supposedly written by Siavash Farahani.<ref>{{Cite web|url=https://www.ign.com/articles/2006/12/06/exclusive-sam-raimis-pulp-fiction|title=Exclusive: Sam Raimi's Pulp Fiction|date=November 1, 2021|website=IGN}}</ref>
+
+On October 16, 2007, Raimi stated, "I don't have any news on ''The Shadow'' at this time, except that the company that I have with Josh Donen, my producing partner, we've got the rights to ''The Shadow.'' I love the character very much and we're trying to work on a story that'll do justice to the character".<ref>{{Cite web|last=Rotten |first=Ryan |title= Sam Raimi on Spider-Man 4 and The Shadow |url=http://www.superherohype.com/news/topnews.php?id=6410 |work=Superherohype.com |publisher=Coming Soon Media, ltd. |date=2007-10-16 |access-date=2008-07-28}}</ref>
+
+On August 23, 2012, the website ShadowFan reported that during a Q&A session at [[San Diego]]'s 2012 [[San Diego Comic-Con International|Comic-Con]], director Sam Raimi, when asked about the status of his Shadow film project, stated they had not been able to develop a good script and the film would not be produced as planned.
+
+==Video games==
+[[Ocean Software]] developed a video game version of ''The Shadow'' to tie in with the 1994 film. The game was supposed to be published on the [[Super Nintendo Entertainment System]],<ref>{{cite web|title=The Shadow – Super NES|url=http://www.ign.com/games/the-shadow/snes-853058|website=[[IGN]]|access-date=18 October 2016}}</ref> but after the low box office gross of the film, the game was never released despite being completed. Since then, a ROM of the game has been leaked online.<ref>{{cite web|last1=Laraque|first1=J.A.|title=Unreleased: The Shadow|url=http://obsoletegamer.com/unreleased-the-shadow/|website=ObsoleteGamer.com|access-date=18 October 2016|date=May 19, 2011}}</ref>
+
+==Pinball machine==
+[[Bally Manufacturing|Bally]] released a [[pinball machine]] based on ''The Shadow'' in 1994.
+
+==Television==
+Two attempts were made to adapt the character to television. The first, in 1954, was titled ''The Shadow'' and starred [[Tom Helmore]] as Lamont Cranston.
+
+The second attempt in 1958 was titled ''The Invisible Avenger''; it never aired. The two episodes produced were compiled into a theatrical film and released with the same title. It was re-released with additional footage in 1962 as ''Bourbon Street Shadows''.<ref name="auto1"/><ref name="auto"/> Starring [[Richard Derr]] as The Shadow, the film depicts Lamont Cranston investigating the murder of a [[New Orleans]] bandleader. The film is notable as the second directorial effort of [[James Wong Howe]], who directed only one of the two unaired episodes.
+
+==Influence on superheroes and other media==
+
+When [[Bob Kane]] and [[Bill Finger]] first developed [[Batman|Bat-Man]], they patterned the character after pulp mystery men such as The Shadow.<ref name="dialbforblog.com">{{cite web|url=http://www.dialbforblog.com/archives/389/|title=DIAL B for BLOG - THE WORLD'S GREATEST COMIC BLOGAZINE|website=Dialbforblog.com|access-date=25 April 2019}}</ref> Finger then used "[[List of The Shadow stories|Partners of Peril]]"<ref>{{cite web|url=http://www.shadowsanctum.com/pulps/shadow9.html|title=The SHADOW'S SANCTUM - PULPS|website=Shadowsanctum.com|access-date=25 April 2019}}</ref>—a Shadow pulp written by [[Theodore Tinsley]]—as the basis for Batman's debut story, "[[The Case of the Chemical Syndicate]]".<ref>{{cite web|url=http://www.dialbforblog.com/archives/390/|title=DIAL B for BLOG - THE WORLD'S GREATEST COMIC BLOGAZINE|website=Dialbforblog.com|access-date=25 April 2019}}</ref> Finger later publicly acknowledged that "my first Batman script was a takeoff on a Shadow story"<ref>{{Cite book|last=Steranko |first=James |title=The Steranko History of Comics |publisher=Crown Publishing Group |year=1972|isbn=0-7851-2116-1}}</ref> and that "Batman was originally written in the style of the pulps."<ref name="Batman">{{Cite book|last= Daniels |first= Les |author-link= Les Daniels |title= Batman: The Complete History |publisher= Chronicle Books |year= 1999 |page= 25 |isbn= 0-8118-4232-0}}</ref> This influence was further evident with Batman showing little remorse over killing or maiming criminals and not above using firearms.<ref name="Batman"/> Decades later, noted comic book writer Dennis O'Neil would have Batman and The Shadow meet in ''Batman'' #253 (November 1973) and ''Batman'' #259 (December 1974) to solve crimes.<ref>{{cite web|url=http://www.shadowsanctum.net/comic/comic_gallery-co.html|title=The Shadow Comic Cover Gallery: Comic Crossover|website=Shadowsanctum.net}}</ref> In the former, Batman acknowledged that The Shadow was his biggest influence<ref>{{cite web|url=http://www.shadowsanctum.net/comic/comic_images/batman-253_p20.jpg|format=JPG|title=Image of page|page=20|website=Shadowsanctum.net|access-date=25 April 2019}}</ref> and in the latter, The Shadow reveals to Batman that he knows his true identity of Bruce Wayne but assures him that his secret is safe with him.
+
+An excerpt from the radio show ''The Shadow'' is heard in a scene in the film  ''[[The Kansas City Massacre]]'' (1975).
+
+[[Alan Moore]] has credited The Shadow as one of the key influences for the creation of [[V (comics)|V]], the title character in his DC Comics miniseries ''[[V for Vendetta]]'',<ref name="Moore">{{Cite book|last= Moore |first= Alan |author-link= Alan Moore |title=V for Vendetta: Behind the Painted Smile |publisher= DC Comics |year= 1990 }}</ref><ref name="utahUnderground">{{Cite web |last=Boudreaux |first=Madelyn |title=Annotation of References in Alan Moore's V For Vendetta |url=http://madelyn.utahunderground.net/vendetta/vendetta1.html |date=2006-10-17 |access-date=2008-07-28 |url-status=dead |archive-url=https://web.archive.org/web/20060308001244/http://madelyn.utahunderground.net/vendetta/vendetta1.html |archive-date=2006-03-08 }}</ref> which later became a [[Warner Bros.]] feature film released in 2006. 
+ 
+The Shadow is also one of the inspirations for Disney's 1991-1992 cartoon series ''[[Darkwing Duck]]''.
+
+The 2015 video game ''[[Fallout 4]]'' includes a quest series centered on a character called "The Silver Shroud," a masked crime-fighting detective from old-world radio shows; the character is based largely on The Shadow.<ref>{{cite web |last1=Roberts |first1=Samuel |title=Why I love the Silver Shroud quest in Fallout 4 |url=https://www.pcgamer.com/why-i-love-the-silver-shroud-quest-in-fallout-4/ |website=PC Gamer |access-date=11 April 2022 |language=en |date=7 June 2017}}</ref>
+
+==See also==
+* [[List of The Shadow episodes|List of ''The Shadow'' Radio episodes]]
+
+==References==
+
+===Notes===
+{{Reflist}}
+
+===Bibliography===
+* Cox, J. Randolph. ''Man of Magic & Mystery: A Guide to the Work of Walter B. Gibson''. Scarecrow Press, 1998. {{ISBN|0-8108-2192-3}}. (Comprehensive history and career bibliography of Gibson's works.)
+* Eisgruber, Frank, Jr. ''Gangland's Doom: The Shadow of the Pulps''. Starmont House, 1985. {{ISBN|0-930261-74-7}}.
+* Gibson, Walter B., and Anthony Tollin. ''The Shadow Scrapbook''. Harcourt Brace Jovanovich, 1979. {{ISBN|0-15-681475-7}}. (Comprehensive history of The Shadow in all media forms up through its 1979 publication.)
+* Goulart, Ron. ''Cheap Thrills: An Informal History of the Pulp Magazine'', Arlington House, 1972. {{ISBN|0870001728}}
+* Grams, Martin. ''The Shadow: The History and Mystery of the Radio Program'', OTR Publishing, 2011. {{ISBN|1629331929}}
+* Multiple authors, ''The Shadow at 90'', 5 articles and 1 interview in ''Pulpster #30'', an annual published for Pulpfest, 2021.
+* Murray, Will. ''Duende History of The Shadow Magazine''. Odyssey Publications, 1980. {{ISBN|0-933752-21-0}}.
+* Murray, Will. ''Master of Mystery: The Rise of the Shadow''. Odyssey Publications, 2021. No ISBN.
+* Overstreet, Robert. ''The Official Overstreet Comic Book Price Guide, 35th Edition''. House of Collectibles, 2005. {{ISBN|0-375-72107-X}}. (Lists all Shadow comics published up to 2005.)
+* Olsen, John. ''The Shadow in Review'', Pulplandia Press, 2016. No {{text|ISBN}}. (519 pages of comprehensive reviews of all 326 Shadow novels. Includes multiple Appendices.) 
+* Sampson, Robert. ''The Night Master'', Pulp Press, 1982. {{ISBN|0-934498-08-3}}.
+* Shimfield, Thomas J. ''Walter B. Gibson and The Shadow''. McFarland & Company, 2003. {{ISBN|0-7864-1466-9}}. (Comprehensive Walter Gibson biography with an emphasis on The Shadow.)
+* Steranko, James. ''Steranko's History of the Comics, Vol. 1'', Supergraphics, 1970. No ISBN.
+* Steranko, James (1972). ''Steranko's History of the Comics, Vol. 2'', Supergraphics, 1972. No ISBN.
+* Steranko, James. ''Unseen Shadows'', Supergraphics, 1978. No ISBN. (Collection of Steranko's detailed black-and-white cover roughs, including alternate/unused versions, done for the Shadow novel reprints from Pyramid Books and Jove/HBJ.)
+* Van Hise, James. ''The Serial Adventures of the Shadow''. Edited by Hal Schuster. Las Vegas: Pioneer Books, 1989. {{oclc|166327164}}.
+
+==External links==
+{{sister links|d=Q967116|c=Category:The Shadow (radio character)|n=no|b=no|v=no|voy=no|m=no|mw=no|s=no|wikt=no|species=no}}
+* [https://web.archive.org/web/20161122130812/http://www.imdb.com/character/ch0020398/ The Shadow] on [[IMDb]]
+*{{Internet Archive|the-shadow-1938-10-09-141-death-stalks-the-shadow|''239 radio episodes of The Shadow''}}
+* {{Comicbookdb|type=character|id=10850|title=The Shadow}}
+* http://www.shadowsanctum.net/index.html (Shadow fan site)
+
+{{The Shadow|state=expanded}}
+{{Orson Welles}}
+{{GoldenAge}}
+{{Authority control}}
+
+{{DEFAULTSORT:Shadow, The}}
+[[Category:The Shadow| ]]
+[[Category:1930 radio programme debuts]]
+[[Category:1930s American radio programs]]
+[[Category:1937 radio dramas]]
+[[Category:1940 comics debuts]]
+[[Category:1940s American radio programs]]
+[[Category:1950s American radio programs]]
+[[Category:American comic strips]]
+[[Category:American comics characters]]
+[[Category:American radio dramas]]
+[[Category:Archie Comics superheroes]]
+[[Category:Archie Comics titles]]
+[[Category:CBS Radio programs]]
+[[Category:Characters in pulp fiction]]
+[[Category:DC Comics superheroes]]
+[[Category:DC Comics titles]]
+[[Category:Detective comic strips]]
+[[Category:Dynamite Entertainment characters]]
+[[Category:Fictional aviators]]
+[[Category:Fictional businesspeople]]
+[[Category:Literary characters introduced in 1930]]
+[[Category:Fictional characters who can manipulate darkness or shadows]]
+[[Category:Fictional characters who can turn invisible]]
+[[Category:Fictional detectives]]
+[[Category:Fictional hypnotists and indoctrinators]]
+[[Category:Fictional socialites]]
+[[Category:Fictional telepaths]]
+[[Category:Fictional vigilantes]]
+[[Category:Fictional World War I veterans]]
+[[Category:Film serial characters]]
+[[Category:Mutual Broadcasting System programs]]
+[[Category:Pulp magazines]]
+[[Category:Radio characters introduced in 1930]]
+[[Category:Radio superheroes]]
+[[Category:Street & Smith]]
+[[Category:Superhero comic strips]]
+[[Category:Superhero film characters]]

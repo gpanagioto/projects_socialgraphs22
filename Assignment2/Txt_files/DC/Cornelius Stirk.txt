@@ -1,0 +1,70 @@
+{{Short description|DC Comics character}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+| image = Cornelius Stirk.jpg
+| caption =
+| character_name = Cornelius Stirk
+| publisher = [[DC Comics]]
+| debut = ''Detective Comics'' #592 (November 1988)
+| creators = [[Alan Grant (writer)|Alan Grant]] (writer)<br>[[Norm Breyfogle]] (artist)
+| alter_ego =
+| full_name =
+| species = <!-- optional -->
+| homeworld = <!-- optional -->
+| alliances = <!-- optional -->
+| aliases = Fear
+| supports=<!--optional-->
+| powers = Can cause fear or hallucinations through telepathy
+}}
+'''Cornelius Stirk''' is a fictional character appearing in [[DC Comics]]. He is a cannibalistic [[Supervillain|supervillian]] with the ability to cause fear or hallucinations through [[telepathy]] and appears as a recurring adversary of [[Batman]].
+
+==Publication history==
+He first appeared in ''[[Detective Comics]]'' #592 (November 1988) and was created by [[Alan Grant (writer)|Alan Grant]] and [[Norm Breyfogle]].<ref>{{cite book |last1=Greenberger |first1=Robert |title=The Essential Batman Encyclopedia |date=2008 |publisher=Del Rey |isbn=9780345501066 |page=335}}</ref>
+
+==Fictional character biography==
+Stirk is a supervillain who, like [[Scarecrow (DC Comics)|Scarecrow]], uses fear to get to his victims. Stirk has the ability to make other people see him as someone else, allowing him to get close to his victims. He operates under the delusion that he requires the nutrients and hormones from peoples' hearts in order to stay alive, and these are best prepared with norepinephrine by inducing fear in the victim prior to death.
+
+In his first appearance, Stirk is released from [[Arkham Asylum]] after being certified as sane. He had been confined since the age of 16 for trying to kill a classmate. After his release, Stirk subsequently stops taking his medication and begins his escalation into a serial killer.
+
+Despite his many murders, Stirk professes to dislike violence. He also dislikes light and therefore operates almost exclusively at night. Oddly, he refers to almost everyone as "sir".
+
+===''The Last Arkham''===
+Stirk makes a brief cameo in the beginning of the four-part storyline ''[[Batman: The Last Arkham|The Last Arkham]]'', where Jeremiah Arkham, Arkham Asylum's new director, utilizes more barbaric methods to "cure" him. When Stirk refuses to take his medication, for instance, Jeremiah has two orderlies brutally beat him with billy clubs and forces the medication down to his throat.
+
+===Knightfall===
+During the "[[Batman: Knightfall|Knightfall]]" storyline, Stirk works with the [[Joker (character)|Joker]] in an attempt to kidnap [[James Gordon (comics)|Commissioner Gordon]]. However, Stirk tries to kill Gordon rather than kidnap him, much to Joker's dismay. Gordon hallucinates that Stirk is actually Batman as Stirk tried to kill Gordon with a knife. Batman stops Stirk, but Gordon is still screaming in fear. In order to capture Stirk, Batman is forced to leave a terrified Gordon with [[Sarah Essen Gordon|his wife]], who brings him to a hospital.<ref>''Batman'' #494</ref>
+
+Stirk later appears during the "Madmen Across the Water" storyline, taking place after his capture but before Arkham Asylum (destroyed by [[Bane (comics)|Bane]] beforehand) is rebuilt. He, along with the likes of [[Riddler]], [[Poison Ivy (comics)|Ivy]], and [[Amygdala (comics)|Amygdala]], are instead incarcerated in Blackgate Penitentiary, and involve themselves in a [[softball]] game with the prison's "normal" criminals. During the game, Stirk is revealed to be an excellent pitcher, because the ball feels "just like a human heart".<ref>''Showcase '94'' #3–4</ref>
+
+===Road to No Man's Land===
+Stirk makes several more cameos in the "Waxman and the Clown" story arc (''Shadow of the Bat'' #80–82), itself part of the "Road to No Man's Land" crossover, the prequel to "No Man's Land". He is seen in the story arc offering to eat human hearts to save medication (as Arkham Asylum, in post-earthquake lockdown after the "Cataclysm" storyline, is running short of supplies). He later watches the gladiatorial match between fellow inmates [[Killer Croc]] and Pinhead, and is released with all the other inmates under Jeremiah's demand that none of them return to Gotham.
+
+===''The Widening Gyre''===
+Stirk returns in [[Kevin Smith]]'s storyline, ''[[Batman: The Widening Gyre]]''. Stirk gets the drop on a distracted Batman but [[Robin (comics)|Robin]] manages to save Batman.
+
+==Powers and abilities==
+Cornelius Stirk is able to cast a hypnotic aura which allows him to take on any face he chooses, generally a face that people will trust.
+
+==In other media==
+
+* Cornelius Stirk appears in the ''[[Gotham (TV series)|Gotham]]'' episode "Wrath of the Villains: A Legion of Horribles", portrayed by Kameron Omidian. Just like the comics, he has a cannibalistic personality. He appears as [[Riddler|Edward Nygma]]'s cellmate at Arkham Asylum, with both of them chained up in the same cell. In order to avoid Stirk, Nygma asks Ethel Peabody to contact [[Hugo Strange]] about a deal to stop James Gordon.
+* Cornelius Stirk appears in the podcast ''[[Batman Unburied]]'', voiced by [[Sam Witwer]], as a former [[diener]] who becomes Gotham's newest serial killer, the '''Harvester'''.
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://web.archive.org/web/20070321123320/http://www.dcuguide.com/who.php?name=corneliusstirk Cornelius Stirk] at the Unofficial Guide to the DC Universe
+
+{{Batman characters}}
+{{Alan Grant|Stirk, Cornelius|type=character}}
+
+{{DEFAULTSORT:Stirk, Cornelius}}
+[[Category:Characters created by Norm Breyfogle]]
+[[Category:Comics characters introduced in 1988]]
+[[Category:DC Comics metahumans]]
+[[Category:DC Comics supervillains]]
+[[Category:DC Comics male supervillains]]
+[[Category:DC Comics characters who have mental powers]]
+[[Category:DC Comics telepaths]]
+[[Category:Fictional cannibals]]
+[[Category:Fictional serial killers]]

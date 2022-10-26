@@ -1,0 +1,365 @@
+{{Short description|Marvel Comics fictional character}}
+{{for|the television series|Luke Cage (TV series)}}
+{{redirect|Hero for Hire|his partner with whom he shares the title|Iron Fist (character)|the ''DuckTales'' episode|Hero for Hire (DuckTales episode)}}
+{{Infobox comics character<!--Wikipedia:WikiProject Comics-->
+|character_name=Luke Cage	
+|image=Luke Cage by Stuart Immonen.png	
+|caption=Luke Cage<br/>Art by [[Stuart Immonen]]
+|real_name=Lucas Cage (legally changed from Carl Lucas)<ref>''Power Man'' #50</ref><ref>''[[Official Handbook of the Marvel Universe|Marvel Legacy: The 1970s Handbook]]''</ref>
+|publisher=[[Marvel Comics]]
+|debut=''Luke Cage, Hero for Hire'' #1 (June 1972)
+|creators={{ubl|[[Archie Goodwin (comics)|Archie Goodwin]]|[[George Tuska]]|[[Roy Thomas]]|[[John Romita Sr.]]}}
+|alliances={{ubl|[[Avengers (comics)|Avengers]]|[[The New Avengers (comics)|New Avengers]]|[[Heroes for Hire]]|[[Defenders (comics)|Defenders]]|[[Fantastic Four]]|[[Marvel Knights#Team|Marvel Knights]]|[[Thunderbolts (comics)|Thunderbolts]]}}
+|partners={{ubl|[[Iron Fist (character)|Iron Fist]]|[[Misty Knight]]|[[Colleen Wing]]|[[Jessica Jones]]}}
+|aliases=Power Man
+|species=[[Human]] Mutate
+|supports=
+|powers=*Superhuman strength and durability
+*[[Invulnerability|Unbreakable skin]]
+*Skilled street fighter and hand-to-hand combatant 
+*Accelerated healing
+}}
+'''Lucas''' "'''Luke'''" '''Cage''', born '''Carl Lucas''' and also known as '''Power Man''', is a [[fiction]]al [[Character (arts)|character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. He first appeared in ''Luke Cage, Hero for Hire'' #1 (June 1972) and was created by [[Archie Goodwin (comics)|Archie Goodwin]], [[George Tuska]], [[Roy Thomas]], and [[John Romita Sr.]]<ref>[https://www.comics.org/issue/25193/ ''Hero for Hire'' #1 (June 1972)] at the [[Grand Comics Database]]. Retrieved on February 14, 2018. "Out of Hell -- A Hero! / Luke Cage / comic story / 23 pages / Script: Roy Thomas; John Romita; Archie Goodwin."</ref> He is one of the earliest [[African diaspora|black]] superheroes to be featured as the protagonist and [[title character]] of a Marvel [[comic book]].<ref name="guardian">{{cite news| url = https://www.theguardian.com/tv-and-radio/2016/sep/30/luke-cage-netflix-marvel-a-bulletproof-black-man-the-superhero-america-needs-now | title= A bulletproof black man: Luke Cage is the superhero America needs now | first=Ben| last= Child| work =[[The Guardian]] | location = UK| date= September 30, 2016 |access-date= November 7, 2016| archive-date=September 30, 2016 | archive-url = https://web.archive.org/web/20160930122202/https://www.theguardian.com/tv-and-radio/2016/sep/30/luke-cage-netflix-marvel-a-bulletproof-black-man-the-superhero-america-needs-now | url-status=live|quote=He was the first black superhero to get his own comic book. Now, Luke Cage is the first black superhero with his own TV show.}}</ref>
+
+Created during the height of the [[blaxploitation]] genre, Luke Cage had been imprisoned for a crime he did not commit and gained the powers of superhuman strength and [[Invulnerability|unbreakable skin]] after being subjected voluntarily to an experimental procedure. Once freed, he becomes a "[[Heroes for Hire|hero for hire]]" and has forty-nine issues of solo adventures (comic title renamed to ''Luke Cage, Power Man'' with issue #17). In issue #50, Cage teams up with fellow superhero [[Iron Fist (comics)|Iron Fist]] as part of a crime-fighting duo in the renamed title, ''[[Power Man and Iron Fist]]''. He later marries the super-powered private investigator [[Jessica Jones]], with whom he has a [[Danielle Cage|daughter]]. In 2005, writer [[Brian Michael Bendis]] added Luke Cage to the lineup of [[The New Avengers (comics)|the New Avengers]], and he has since appeared in various ''Avengers'' titles, becoming leader of a group of reformed [[supervillain]]s called the [[Thunderbolts (comics)|Thunderbolts]].
+
+The character has been substantially adapted from the comics into various forms of media. In the [[Marvel Cinematic Universe]] (MCU), [[Mike Colter]] portrayed [[Luke Cage (Marvel Cinematic Universe)|the character]] in the [[Netflix]] [[Netflix's Marvel television series|television series]] ''[[Jessica Jones (TV series)|Jessica Jones]]'' (2015–2019), ''[[Luke Cage (TV series)|Luke Cage]]'' (2016–2018), and ''[[The Defenders (miniseries)|The Defenders]]'' (2017).
+
+==Development==
+Roy Thomas publicly discussed the characters creation, "In 1971, when the success of the movie [[Shaft (1971 film)|Shaft]] had reached an interracial audience, [[Stan Lee]] decided it was time to go beyond [[Black Panther (character)|Black Panther]] and Captain America's partner the [[Falcon (comics)|Falcon]] as a support character.  I think he briefly toyed with the notion of a Falcon comic book, but probably felt the Falcon was better off where he was, and that he was perhaps not as strong a character as was needed.  When he mentioned that he wanted to work up a new African-American super-hero who would be a bit different and would start right out in his own comic, he asked me for my suggestions as to the writer.  I didn't feel I should do the character myself, so I suggested [[Archie Goodwin (comics)|Archie Goodwin]], although [[Gerry Conway]], [[Len Wein]], and others must've crossed my (and Stan's) mind.  Archie, Stan, and I--with [[John Romita Sr.|John Romita]] perhaps present, spent a half hour or so in deliberations within the next day or so, and each of us contributed something to the mix.  Stan's was definitely the guiding hand, because he knew he wanted a super-hero who was off the beaten track, off to make a living at crime-fighting (a la a private eye), and with a different look or feel than a typical super-hero, even a Marvel one.  Romita helped provide that, of course, with the outfit that was perfectly suited to the 1970s, including the chains.  Stan was looking for a name for the character, and I suggested Cage, which later I realized I'd seen some time before on a list of potential character names Gil Kane had shown me and had consciously forgotten about. Archie would add the "Luke" when he did the script later.  Stan wanted an untypical name for the mag, too... not a usual super-hero name, but something indicating what he was.  I'd recently written an [[Avengers (comics)|Avengers]] issue titled "Heroes for Hire," so I suggested HERO FOR HIRE as the title.  As for powers, I suggested he be very strong and bulletproof, though bullets could cause him some discomfort by raising temporary welts on his skin, etc.... [[Philip Wylie]]'s [[Gladiator (novel)|Gladiator]] was my main inspiration here, though Stan and I agreed that we didn't want him to have [[Hugo Danner]]'s leaping abilities (which had been borrowed by [[Superman]] years before).  Archie, I believe, came up with the precise escaped-innocent-prisoner concept, though Stan probably contributed to that as well.  And out of that committee of three (four, counting John's concept sketch) was Luke Cage, Hero for Hire born."<ref>{{cite web|last=Cimino |first=John |url=http://hero-envy.blogspot.com/2020/01/the-roy-thomas-marvel-comics-characters.html |title="Hero Envy" The Blog Adventures: THE ROY THOMAS MARVEL COMICS CHARACTERS, CONCEPTS AND CREATIONS PART 2 |publisher=Hero-envy.blogspot.com |date=2020-01-01 |accessdate=2022-08-28}}</ref>
+
+Romita commented on the design of the character stating "We did it together. The chains were because we wanted the slavery angle. His costume was supposed to say super-hero, yet not super-hero. It was whatever he salvaged when he escaped from prison. He had the yellow shirt and headband and wristbands to contrast with his black skin."<ref>{{cite book |last1=Romita |first1=John |title=John Romita --and all that jazz! |date=2007 |publisher=TwoMorrows Pub |location=Raleigh, N.C. |isbn=978-1-893905-75-7 |pages=54-55}}</ref>
+
+==Publication history==
+[[File:Luke Cage, Hero For Hire v1 1.jpg|thumb|left|''Luke Cage, Hero for Hire'' #1 ([[cover-date]]d June 1972), the debut of Luke Cage. Cover art by [[John Romita Sr.]]]]
+
+Luke Cage was created following conversations between [[Archie Goodwin (comics)|Archie Goodwin]] and [[Roy Thomas]] shortly after [[blaxploitation]] films emerged as a popular new genre.<ref name="back45">{{cite journal |last= Callahan |first= Timothy |date= December 2010 |title= Power Man and Iron Fist |journal= [[Back Issue!]] |issue= 45 |pages= 3–11 |publisher= [[TwoMorrows Publishing]]}}</ref> He debuted in his own series, with the cover trademark ''Luke Cage, Hero for Hire'' and the title ''Hero for Hire.''<ref>[https://www.comics.org/series/2051/ ''Hero for Hire'' (Marvel, 1972 series)] at the Grand Comics Database. Retrieved on February 14, 2018.</ref> The series initially was written by Goodwin and [[pencilled]] by [[George Tuska]], with the character's costume designed by [[John Romita Sr.]]<ref>{{cite web|url=https://www.syfy.com/syfywire/watch-john-romita-sr-on-why-he-has-mixed-emotions-about-luke-cages-original-costume|title=Watch: John Romita Sr. on why he has mixed emotions about Luke Cage's original costume|first=Mike|last=Avila|date=August 18, 2017|website=Syfy Wire}}</ref> The character was the first [[African diaspora|Black]] American superhero to star in his own comic-book series,<ref name=guardian/> which was retitled with the cover trademark ''Luke Cage, Power Man'' and the trademarked title ''Power Man'' with issue #17.<ref>[https://www.comics.org/series/2186/ ''Power Man'' (Marvel, 1974 series)]  at the Grand Comics Database. Retrieved on February 14, 2018.</ref> Cage's adventures were set in a grungier, more crime-dominated [[New York City]] than that inhabited by other Marvel superheroes of the time.<ref name="back45"/>
+
+As blaxploitation's popularity faded, Cage was paired with the superhero [[Iron Fist (comics)|Iron Fist]], whose popularity was based on the declining [[martial arts]] film genre, in an effort to save both characters from cancellation.<ref name="back45"/> The series' title remained ''Power Man'', though with issue #50 (April 1978) the trademarked cover title became ''[[Power Man and Iron Fist]]'', retained through the series' cancellation with issue #125 (September 1986). The series' final writer, [[James Owsley]] (a.k.a. Christopher Priest), attempted to shed Cage's blaxploitation roots by giving him a larger vocabulary and reducing usage of his [[catchphrase]], "Sweet Christmas!"<ref name="back45"/>
+
+In 1992, Cage was relaunched in a new series simply titled ''Cage'', set primarily in Chicago. The revived series updated the character, with Cage symbolically destroying his original costume on the cover of the first issue. The series, written by [[Marcus McLaurin|Marc McLaurin]], ran 20 issues. Cage received exposure in other books at the time, including his own serial in the anthology series ''[[Marvel Comics Presents]]''. In the aftermath of the "[[Onslaught (Marvel Comics)|Onslaught]]" and "[[Heroes Reborn (1996 comic)|Heroes Reborn]]" companywide storylines, Cage was included in the series ''[[Heroes for Hire]]'', written by [[John Ostrander]], which lasted 19 issues. In 2002, writer [[Brian Azzarello]] and artist [[Richard Corben]] collaborated on ''Cage'', a standalone mini-series set outside the mainstream Marvel canon. The mini-series was published under the [[Marvel MAX]] imprint, which allowed for a much greater degree of violence, sexual content and profanity.<ref>{{cite web|url=https://www.vulture.com/2016/09/brian-michael-bendis-luke-cage.html|title=How Luke Cage Went From Cutting Edge to Caricature, and Then Back Again|website=Vulture}}</ref>
+
+Subsequently, Cage was featured in the [[Brian Michael Bendis]]-written series ''[[Alias (comics)|Alias]]'', ''[[Secret War (comics)|Secret War]]'', ''[[The Pulse (comics)|The Pulse]]'', ''[[Daredevil (Marvel Comics series)|Daredevil]]'', and ''[[The New Avengers (comics)|The New Avengers]]''.
+
+In 2010, Cage became a regular character in ''[[Thunderbolts (comics)|Thunderbolts]]'', starting with issue #144,<ref>{{cite web |last1=Arrant |first1=Chris |title=Luke Cage Powers Into Thunderbolts as Heroic Age Leader |url= http://www.newsarama.com/comics/Thunderbolts-Luke-Cage-100209.html |website=Newsarama |access-date=29 July 2014 |date=February 9, 2010}}</ref> and continued as leader of the team when the title transitioned into ''Dark Avengers'' beginning with issue #175. Cage also reappeared as a regular character in the second volume of ''The New Avengers'' series.<ref>{{cite web |title=Luke Cage Is a New Avenger Again |url= http://www.comicbookresources.com/?page=article&id=25026 |website=Comic Book Resources |access-date=29 July 2014 |date=March 1, 2010}}</ref>
+
+In 2007, it was announced that cartoonist and ''[[Samurai Jack]]'' creator [[Genndy Tartakovsky]] would write and illustrate a four-issue limited series called ''Cage!'', which would take place in a retro 1970s setting outside of the established continuity.<ref>{{cite web|url=https://comicsalliance.com/genndy-tartakovsky-luke-cage-comic-interview/|title=Genndy Tartakovsky on The Status of His Luke Cage Comic|first=Eric|last=Larnick|website=ComicsAlliance}}</ref> The project was heavily delayed, but finally saw publication in 2016.<ref>{{cite web|url=https://www.newsarama.com/26447-genndy-tartakovsky-talks-luke-cage-hotel-transylvania-2-and-more.html|title=Tartakovsky On Returning to Luke Cage, Directing for Marvel, and Hotel Transylvania 2|website=Newsarama}}</ref>
+
+In 2016, a new volume of ''Power Man and Iron Fist'' was launched, written by David F. Walker. The series ran for 15 issues before transitioning into a new ''Luke Cage'' series (also written by Walker), which ran for another 10 issues.
+
+==Fictional character biography==
+===Origin===
+Born Carl Lucas and raised in [[New York City]]'s [[Harlem]] neighborhood, he spends his youth in a gang called the Rivals. With his friend [[Diamondback (Willis Stryker)|Willis Stryker]], he fights rival gangs and commits petty crimes. In and out of juvenile homes throughout his teens, Lucas dreams of becoming a major New York racketeer until he finally realizes how his actions are hurting his family. He seeks to better himself as an adult by finding legitimate employment. Meanwhile, Stryker rises through the ranks of crime, but the two men remain friends. When Stryker's activities anger the [[Maggia (comics)|Maggia]] crime syndicate, he is badly beaten in a mob hit, saved only by Lucas's intervention. When Stryker's girlfriend, [[Reva Connors]], breaks up with him in fear of his violent work, she seeks solace with Lucas. Stryker is convinced that Lucas is responsible for the breakup, so he plants heroin in Lucas's apartment and tips off the police. Lucas is arrested and sent to prison where contact with his family is sparse due to the resentment of his brother James Lucas Jr., who intercepts Lucas's letters to their father [[James Lucas (comics)|James]] and eventually leads each to believe the other is dead.<ref>''Cage'' #8-10. Marvel Comics.</ref> During this time, Reva is killed by members of the Maggia, whose drugs Stryker had stolen to frame Lucas in the first place.<ref name=autogenerated8>''Hero For Hire'' #1. Marvel Comics.</ref>
+
+Lucas is consumed by rage over Stryker's betrayal and his father's supposed death, engaging in frequent brawls and escape attempts. Eventually transferred to Seagate Prison off the coast of Georgia, he becomes the favorite target of racist corrections officer Albert "Billy Bob" Rackham, whose sadistic brutality ultimately leads to a demotion that he blames on Lucas. Research scientist Dr. [[Noah Burstein]] recruits Lucas as a volunteer for a [[Regeneration (biology)|cellular regeneration]] experiment based on a variant of the Super-Soldier process he had previously used to empower [[List of S.H.I.E.L.D. members#Warhawk|Warhawk]]. This experiment would later be revealed to be part of the [[Weapon Plus]] program, specifically, Weapon VI.<ref>''Wolverine & Captain America: Weapon Plus'' #1. Marvel Comics.</ref> Burstein immerses Lucas in an electrical field conducted by an organic chemical compound; then he leaves Lucas unattended, Rackham alters the experiment's controls, hoping to maim or kill Lucas. Lucas' treatment is accelerated past its intended limits, inducing body-wide enhancements that give him superhuman strength and durability. He uses his new power to escape Seagate and makes his way back to New York, where a chance encounter with criminals inspires him to use his new powers for profit.<ref name=autogenerated8/>
+
+Adopting the alias Luke Cage and donning a distinctive costume, he launches a career as a Hero for Hire, helping anyone who can meet his price. He soon establishes an office above [[Times Square]]'s Gem Theater, where he befriends film student [[David Griffith (comics)|D. W. Griffith]].<ref name="mnyc">{{cite book | last = Sanderson | first = Peter | title = The Marvel Comics Guide to New York City | publisher = [[Pocket Books]] | year = 2007 | location = New York City | pages = 74–75 | isbn = 978-1-4165-3141-8}}</ref> Burstein, aware of his friend's innocence, also relocates to New York and opens a medical clinic, assisted by Dr. [[Claire Temple]], whom Cage begins dating. Although Cage is content to battle strictly conventional criminals, he soon learns that New York is hardly the place to do so. Stryker himself has become a Maggia agent known as Diamondback and dies battling Cage.<ref name=autogenerated8/><ref>''Hero for Hire'' #2. Marvel Comics</ref>
+
+===Superhero ties===
+Although Cage has little in common with most of New York's other superhumans, an ill-conceived attempt to collect a fee from a reneging [[Doctor Doom]] leads him to befriend the [[Fantastic Four]].<ref>''Hero for Hire'' #9 (1973). Marvel Comics.</ref> Via a later retcon, Cage also befriends [[Jessica Jones]], a young woman whose superhuman strength and unconventional style match his own.<ref name=Pulse14>Bendis, Brian Michael (w). ''Pulse'' #14. Marvel Comics.</ref> During a mission in which Cage and [[Iron Man]] track down Orville Smythe, who had duped him into stealing an experimental starsuit from [[Stark Enterprises#Stark International|Stark International]], Cage follows the example of his new peers and takes the codename of Power Man.<ref>''Power Man'' #17. Marvel Comics.</ref> Cage battles a rogue [[Erik Josten]] for the use of the Power Man name, winning the right.<ref>''Power Man'' #21. Marvel Comics</ref>
+
+Shortly afterward, Luke Cage begins associating with the loose-knit super-team the [[Defenders (comics)|Defenders]], alongside whom he battles the [[Wrecking Crew (comics)|Wrecking Crew]]<ref>''The Defenders'' #17–19. Marvel Comics.</ref> and the [[Sons of the Serpent]].<ref>''The Defenders'' #24–25. Marvel Comics.</ref> Called to assist the Defenders against the [[Plantman]], Cage begins to complain that his participation in their group is interfering with his paying work. Wealthy Defenders member [[Nighthawk (Marvel Comics)|Nighthawk]] solves this problem by placing Power Man on retainer, giving Luke a steady paycheck for his Defenders activities. For some time thereafter, Power Man serves as a core member of the Defenders. Together, they defeat minor threats including the [[Eel (comics)|Eel]] and the [[Porcupine (comics)|Porcupine]], and major menaces such as the [[Headmen]], [[Nebulon (comics)|Nebulon]], Egghead's [[Emissaries of Evil]], and the Red Rajah; but Cage feels out of place in the often-bizarre exploits of the Defenders and eventually resigns.<ref>''The Defenders'' #36–46. Marvel Comics.</ref>
+
+===Power Man and Iron Fist===
+{{Main|Power Man and Iron Fist}}
+
+Having obtained proof of Cage's innocence in his original drug charges, the criminal [[Bushmaster (John McIver)|Bushmaster]] abducts Burstein and Temple, using their safety and the hope of acquittal to blackmail Cage into abducting detective [[Misty Knight]], who humiliated Bushmaster in an earlier encounter. Cage's efforts lead to a fight with Knight's boyfriend, the martial artist [[Iron Fist (comics)|Iron Fist]], who had spent most of his life in the extra-dimensional city of [[K'un-L'un]] and was unfamiliar with Earth society. Upon learning of Cage's situation, Iron Fist and Knight help him defeat Bushmaster and rescue his friends.<ref>''Power Man'' #48–49. Marvel Comics.</ref> Cleared of criminal charges, Power Man legally changes his name to "Lucas Cage".<ref>''Power Man and Iron Fist'' #50. Marvel Comics.</ref> He briefly works for Misty Knight and [[Colleen Wing]]'s detective agency, Nightwing Restorations, but soon elects to join Iron Fist in a two-man team, [[Heroes for Hire]],<ref>''Power Man and Iron Fist'' #54. Marvel Comics.</ref> founded by attorney [[Jeryn Hogarth]] and staffed by administrative wunderkind [[List of Marvel Comics characters: W#White Jennie|Jennie Royce]]. Although the streetwise Power Man and the unworldly Iron Fist seem to have little in common, they soon become the best of friends. Cage's relationship with Claire Temple proves less durable, and he instead begins dating model Harmony Young.<ref>''Power Man and Iron Fist'' #51. Marvel Comics.</ref>
+
+Power Man and Iron Fist achieve great success with Heroes for Hire, earning an international reputation and fighting a wide variety of criminals. Their partnership's downfall begins when the mysterious government agency S.M.I.L.E. manipulates Power Man and Iron Fist into the employment of Consolidated Conglomerates, Inc., which eventually frames Cage for the apparent murder of Iron Fist, causing Cage to become a fugitive.<ref>''Power Man and Iron Fist'' #125. Marvel Comics.</ref>
+
+===Chicago===
+A fugitive again, Cage breaks contact with his New York friends and relocates to Chicago,<ref>''Marvel Comics Presents'' #82. Marvel Comics.</ref> but, with Hogarth's help, he is cleared of criminal charges when Iron Fist turns up alive. Cage discovers that Iron Fist had been replaced by a doppelganger of the plantlike [[H'ylthri]] race, K'un-Lun's ancient enemies during his treatment. This doppelganger's existence and destruction at the hands of the Super-Skrull are part of a bizarre scheme engineered by Iron Fist's enemy, [[Master Khan]].<ref>''Namor, the Sub-Mariner'' #15-25</ref>
+
+Wanting a new start after his murder charge is dropped, Cage abandons his Power Man guise and begins operating out of Chicago as the plainclothes Luke Cage, Hero for Hire; he makes arrangements with the ''Chicago Spectator'' for exclusive reports of his adventures and frequently works with detective [[Dakota North (comics)|Dakota North]]. On his first mission in Chicago, he assists the [[Punisher]] in battling drug dealers.<ref>''Punisher'' #60–62. Marvel Comics.</ref> Cage attracts the interest of the refined assassin Hardcore, an employee of Cruz Bushmaster, son of the villain whose defeat cleared Cage's name the first time.<ref>''Cage'' #1. Marvel Comics.</ref> Cage learns that Cruz, following in his father's extortion footsteps, has abducted Noah Burstein's wife Emma to force the scientist to recreate the process that had empowered Cage. Cruz undergoes the procedure himself, but the elder Bushmaster drains the power from his son, reversing his near-catatonia and declaring himself the Power Master. Cage teams with Iron Fist to thwart their plans, freeing the Bursteins while the Bushmasters apparently perish. Cage's power is augmented further by exposure to the Power Man virus.<ref>''Cage'' #6. Marvel Comics.</ref>
+
+While Cage tries to locate his surviving family members with the aid of Dakota North, his brother keeps moving his father around to keep Cage away from them. James Lucas Jr., is eventually recruited by the criminal [[Corporation (comics)|Corporation]], whose power-enhancing scientist Dr. [[Karl Malus]] mutates him into the superhuman [[Coldfire (comics)|Coldfire]]. As Coldfire, James Jr. hopes to be a match for his brother, whom he regards as a threat. Though James, Jr. works with the Corporation quite willingly, Malus has James Sr. held hostage as extra insurance of Coldfire's cooperation. When Cage learns the Corporation is holding his family, he invades their headquarters and battles Coldfire. The brothers ultimately join forces to rescue their father from Malus, and Coldfire sacrifices himself to destroy the Corporation's headquarters.<ref>''Cage'' #14. Marvel Comics.</ref>
+
+===''Heroes for Hire'' return===
+A few months later, Cage investigates the murder of Harmony Young and fights her killer, the demon Darklove, alongside [[Ghost Rider]].<ref>''Marvel Comics Presents'' #131–136 (June–September 1993). Marvel Comics.</ref> The mystic [[Doctor Druid]] recruits Cage to serve in his [[Defenders (comics)#Secret Defenders|Secret Defenders]] against the sorcerer Malachi. Cage returns to New York and, deciding his heart is no longer in superheroics, becomes co-owner of the Gem Theater with his friend D.W. Griffith. Even an invitation from Iron Fist to join a new and expanded Heroes for Hire fails to interest him; yet when the [[Master of the World (comics)|Master of the World]] tries to recruit Cage as a spy within Iron Fist's team, destroying Cage's theater in the process, a curious Cage plays along. Cage joins Heroes for Hire and serves with them for some time while reporting to the Master. Cage begins to sympathize with the more benevolent aspects of the Master's goals, but in the end, Cage can neither betray Iron Fist nor reconcile himself to the tremendous loss of life the Master's plans of conquest will entail, and he helps Heroes for Hire destroy the Master of the World's plans. Cage remains with the group thereafter, and dates a fellow member, the [[She-Hulk]]. When the Stark-Fujikawa Corporation buys out Heroes for Hire, Cage and [[Ant-Man]] are fired because of their prison records, and the rest of the team quits in protest.<ref>''Heroes for Hire'' #19. Marvel Comics.</ref>
+
+Cage, bitten by the hero bug once more, continues to share adventures with Iron Fist and other heroes. Briefly resuming his Power Man identity, he is hired by Moon Knight to join an unnamed team of street-level New York vigilantes, but mere days after he joins, the group dissolves following clashes with the forces of [[Tombstone (comics)|Tombstone]] and [[Zheng Zu|Fu Manchu]]. Deciding that a return to basics is in order, he re-establishes his Hero for Hire activities and soon learns that, despite his international fame, he is almost forgotten on the streets where he originally made his reputation. He invests his money in a bar and sets about ridding his immediate neighborhood of criminal elements, deciding that the business of world-saving is best left to others.{{Issue|date=April 2009}}
+
+===Jessica Jones and the New Avengers===
+After a sexual encounter with a drunken [[Jessica Jones]], now a private investigator, Cage's life is briefly thrown into disarray by Jones's reaction to the incident.<ref>''Alias'' #1–2. Marvel Comics.</ref> The two make peace while working as bodyguards for [[Daredevil (Marvel Comics character)|Matt Murdock]].<ref>''Alias'' #15. Marvel Comics.</ref> Cage extends emotional support to Jones when she is forced to revisit past abuses by the villainous [[Purple Man]], and Cage's feelings for her grow.<ref>''Alias'' #25–26</ref> After Jones reveals that she is pregnant from their tryst,<ref>''Alias'' #28</ref> she and Cage move in together.<ref>''The Pulse'' #1. Marvel Comics.</ref> Soon afterward, Jones becomes a superhuman consultant with the ''Daily Bugle''.<ref>''The Pulse'' #4. Marvel Comics.</ref> After she is attacked by the [[Green Goblin]] during a ''Bugle'' investigation, Cage, helped by Spider-Man, deliberately attacks Norman Osborn in order to provoke him into revealing he is the Goblin.<ref>''The Pulse'' #5. Marvel Comics.</ref>
+
+Months afterwards, Cage is present at the breakout at the supervillain prison 'The Raft' and becomes a founding member of the re-formed [[Avengers (comics)|Avengers]].<ref>''The New Avengers'' #1. Marvel Comics.</ref> Luke and Jessica Jones then have a daughter, whom they named [[Danielle Cage|Danielle]], in honor of [[Danny Rand]].<ref>''The New Avengers'' #34. Marvel Comics.</ref> Soon thereafter, he and Jessica are married.<ref>''The New Avengers Annual'' #1. Marvel Comics.</ref> He also meets the [[Black Panther (Marvel Comics)|Black Panther]] (revealed to be one of Luke's personal heroes), joining him and several other superhumans of African descent on a mission against vampires in New Orleans.<ref>''Black Panther'' vol. 4 #10–13 (2005–2006). Marvel Comics.</ref><ref>In a case of [[retroactive continuity]], this is depicted as the first encounter between Luke Cage and the Black Panther, even though they previously met when all of Earth's superheroes were abducted by the [[Grandmaster (Marvel Comics)|Grandmaster]], as part of a cosmic game he was playing with [[Death (Marvel Comics)|Death]]. ''[[Marvel Super Hero Contest of Champions|Contest of Champions]]'' #1, p. 16 (June 1982). Marvel Comics.</ref>
+
+When the [[Superhuman Registration Act]] is enacted, Cage refuses to register, comparing the act to [[Jim Crow laws]]. He and Jessica agree that she will take their newborn daughter away to [[Canada]] where they can be safe, though he himself refuses to leave. [[S.H.I.E.L.D.]] forces come to arrest Cage, but he fights his way to safety with the help of [[Captain America]], the [[Falcon (comics)|Falcon]], and [[Iron Fist (comics)|Iron Fist]] (posing as [[Daredevil (Marvel Comics character)|Daredevil]]), and joins Captain America's "Secret Avengers".<ref>''The New Avengers'' #22. Marvel Comics.</ref> He fights alongside them in opposition to the act until Captain America surrenders to U.S. authorities.<ref>''[[Civil War (comics)|Civil War]]'' #7. Marvel Comics.</ref>
+
+Cage does not comply with the amnesty offered to the Secret Avengers, going underground and re-forming [[The New Avengers (comics)|the New Avengers]].<ref>''Civil War'' #2–7. Marvel Comics.</ref> Luke assumes leadership of the New Avengers after the assassination of Captain America, with the team now operating underground and provided with secure accommodation by [[Doctor Strange]].<ref name="auto1">''The New Avengers'' #28. Marvel Comics.</ref>
+
+Following a [[Skrull]] invasion, Captain America (James "Bucky" Barnes) organizes a meeting with the New Avengers at his home, offering it as a base of operations.<ref>''The New Avengers'' #48. Marvel Comics.</ref> Cage is offered the role as leader of the New Avengers, but turns it down, giving the role to [[Ronin (Clint Barton)|Ronin]].<ref>''The New Avengers'' #51. Marvel Comics.</ref>
+
+===Thunderbolts===
+Following the Siege of Asgard, Steve Rogers appoints Luke Cage leader of the Thunderbolts program. Soon after, he begins to recruit new Thunderbolts, a balanced mix of former and older members, personally inducting the [[Ghost (Marvel Comics)|Ghost]], [[Moonstone (comics)|Moonstone]], the [[Juggernaut (comics)|Juggernaut]] and [[Crossbones (comics)|Crossbones]], with [[Abner Jenkins|MACH-V]], [[Fixer (comics)#Fixer/Techno|Fixer]] and [[Songbird (comics)|Songbird]]'s cooperation, and using the [[Man-Thing]]'s powers for long-distance transportation.<ref>''Thunderbolts'' #144 (2010). Marvel Comics.</ref>
+
+===Reforming the Avengers===
+To convince Cage to rejoin the Avengers, Steve Rogers and Tony Stark sell the newly renovated mansion to Luke Cage for a dollar, allowing him freedom to recruit his own Avengers team and operate without directly taking orders from Rogers, though Rogers insists on having [[Victoria Hand]] join them as a liaison. Cage and his team are forced to assist [[Doctor Strange]], [[Daimon Hellstrom]], and [[Brother Voodoo]] in thwarting an attempt by Agamotto—the original owner of the [[Eye of Agamotto]]—to destroy existence, culminating in the apparent death of Brother Voodoo.<ref>''Heroic Age: New Avengers'' #1–6. Marvel Comics.</ref> Although initially against the idea of being paid for being on the team, Cage is convinced to accept the offer.<ref>''The New Avengers'' #7. Marvel Comics.</ref>
+
+Following his imprisonment on Utopia,<ref name="auto1"/> he decides, following a conversation with [[Daredevil (Marvel Comics character)|Daredevil]], to resign from his Avenger duties to ensure the security of his wife and child.<ref>''The New Avengers'' #30. Marvel Comics.</ref> After the X-Men are defeated, Cage, Jessica, [[Squirrel Girl]], and Iron Fist resign from the Avengers.<ref>''The New Avengers'' vol. 2 #34. Marvel Comics.</ref> In volume 2 of ''The Mighty Avengers'', Luke Cage wears a costume reminiscent of his yellow Bronze Age outfit, with a yellow top and blue jeans.<ref name="auto">[[Slott, Dan]] (w). ''Mighty Avengers'' vol. 2, #1–3. Marvel Comics.</ref>
+
+===Marvel NOW!===
+During the series ''[[The Superior Spider-Man]]'', Cage assembles an incarnation of the Mighty Avengers, and officially declares the new assembled group to be Avengers.<ref name="auto"/>
+
+===All-New, All-Different Marvel===
+As part of the "All-New, All-Different Marvel", Luke Cage and Iron Fist take on the murder case of their former secretary, [[List of Marvel Comics characters: W#White Jennie|Jennifer "White Jennie" Royce]], and discover she has been corrupted by an ancient African artifact called the Super Soulstone.<ref>''Power Man and Iron Fist'' vol. 3 #1–4. Marvel Comics.</ref>
+
+During the "[[Civil War II]]" storyline, Luke Cage hears about the talents of [[Ulysses Cain]] and the fight over him. After thinking this through, Luke tells Iron Fist that he is sitting this fight out.<ref>''Power Man and Iron Fist'' vol. 3 #6. Marvel Comics.</ref>
+
+During the "[[Secret Empire (comics)|Secret Empire]]" storyline, Luke Cage became a member of the Defenders alongside Daredevil, Iron Fist, and Jessica Jones. They alongside Cloak and Dagger, Doctor Strange, and Spider-Woman fought the Army of Evil during Hydra's rise to power where they were defeated by Nitro. Luke Cage and those with him were trapped in the [[Darkforce]] dome by [[Blackout (Marcus Daniels)|Blackout]] when his powers were enhanced by Baron [[Helmut Zemo]] using the [[Darkhold]].<ref>''Secret Empire'' #0. Marvel Comics.</ref>
+
+During the "[[Hunt for Wolverine]]" storyline, Luke Cage and Jessica Jones assist Iron Man and Spider-Man in finding Wolverine when his body has gone missing from his unmarked grave. When the four of them arrive undercover at a submarine in international waters upon hearing that a genetic material will be auctioned off, Luke and Jessica are shocked to find that the genetic material that will be auctioned off belongs to their daughter Danielle.<ref>''Hunt for Wolverine: The Adamantium Agenda'' #1. Marvel Comics.</ref> When Mister Sinister crashes the auction and attacks the unidentified seller claiming that he stole the DNA of Wolverine from him, the attack causes a hole in the submarine as Jessica Jones uses Luke Cage's body to help plug it up.<ref>''Hunt for Wolverine: The Adamantium Agenda'' #2. Marvel Comics.</ref> After Mister Sinister is defeated with the help of [[X-23]] and the seller Declan Foy is questioned, Luke Cage is given a special Iron Man armor as part of their attack on Mister Sinister's base on the [[Kerguelen Islands]].<ref>''Hunt for Wolverine: The Adamantium Agenda'' #3. Marvel Comics.</ref> After the database was destroyed and the mission was over, Luke and Jessica head home with Tony Stark, Peter Parker, and X-23 where Iron Fist had been babysitting Danielle Cage. After a talk with X-23, Tony informs Luke and Jessica that the destroyed database reveals that one of the X-Men members is not a mutant and there is a genetically-altered sleeper agent among them.<ref>''Hunt for Wolverine: The Adamantium Agenda'' #4. Marvel Comics.</ref>
+
+===Fresh Start===
+During the "[[Empyre]]" storyline, [[Vision (Marvel Comics)|Vision]] and [[Doctor Nemesis]] meet up with Luke Cage as they investigate the [[Cotati (comics)|Cotati]]'s plants that have taken over Central Park.<ref>''Empyre: Avengers'' #1. Marvel Comics.</ref> As Vision brings the fight with his plant-like opponent outside of Central Park, Luke Cage and Doctor Nemesis mistake it for a Cotati only for Vision to correct them by stating that his opponent is actually [[Plantman]].<ref>''Empyre: Avengers'' #2. Marvel Comics.</ref> Doctor Nemesis, Luke Cage, and Vision continue their fight with Plantman and his Sprout Soldiers. They managed to defeat Plantman, but are unable to make contact with Black Panther.<ref>''Empyre: Avengers'' #3. Marvel Comics.</ref>
+
+When Fisk attempts to start a new campaign against superhumans,<ref>''Devil's Reign'' #1</ref> the heroes decide to oppose this plan by having Luke Cage run for mayor against him (Tony Stark initially volunteered, but others noted that this would basically involve two white men competing for a position of power, and they wanted to establish themselves as different from Fisk, and the "Tony" who volunteered was later revealed to be the Chameleon in disguise<ref>''Devil's Reign'' #3</ref>). After Fisk was forced to flee the city,<ref>''Devil's Reign'' #6</ref> Cage won the election by default, but is forced to maintain the anti-vigilante laws as he lacks the authority to have them dismantled right away. His first step to control these laws is to appoint Clint Barton the leader of a new branch of the Thunderbolts, which Fisk had restarted as an anti-vigilante taskforce.<ref>''Devil's Reign: Omega'' #1</ref>
+
+At the end of [[Devil's Reign]] he was elected mayor of New York.<ref>''Devil's Reign Omega'' #1</ref>
+
+==Powers and abilities==
+Luke Cage possesses superhuman strength and stamina, and has extremely dense skin and muscle tissue which render him highly resistant to physical injury. Cage possesses these abilities as a result of a [[Regeneration (biology)|cellular regeneration]] experiment which fortified the various tissues of his body. His skin can resist large-caliber bullets, puncture wounds, corrosives, biological attacks, and extreme temperatures and pressures without sustaining damage.<ref name="New Avengers #7">New Avengers #7</ref> A second exposure to said experiments further enhanced his strength and durability.<ref name="Cage #5-8">''Cage'' #5–8. Marvel Comics.</ref>
+
+The same experiment which granted him his great strength and durability has also given him a faster-than-normal recovery time from injury.<ref>''Civil War:'' Battle Damage Report (March 2007). Marvel Comics.</ref>
+
+Luke Cage is an exceptional street fighter and was a gifted athlete before receiving superhuman abilities. He has also studied martial arts under [[Iron Fist (comics)|Iron Fist]]'s instruction, learning how to couple leverage with his strength in order to increase his combat effectiveness against more powerful opponents.{{citation needed|date=July 2014}}
+
+He owns a jacket that is as durable as his skin, having been exposed to the "Power Man" treatment during his second exposure.<ref name="Cage #5-8"/>
+
+==Supporting characters==
+{{main|List of Luke Cage and Iron Fist supporting characters}}
+
+==Other versions==
+===''Earth X''===
+In the alternate future of ''[[Earth X]]'', most of humanity has gained superpowers, but is still in need of policing. An older Luke Cage is a police officer, complete with uniform, and he recruits Peter Parker.<ref>''Earth X'' #1 (April 1999). Marvel Comics.</ref>
+
+===Exiles===
+In an alternate reality depicted in the one-shot ''[[Exiles (Marvel Comics)|Exiles]]: Days of Then and Now'', Luke Cage is '''Power Fist''', a mix between the [[Earth-616|616]] versions of Luke Cage/Power Man and his friend [[Iron Fist (comics)|Iron Fist]]. He is also this reality's leader of the Avengers. He leads them to eradicate the [[Phalanx (comics)#Exiles|Vi-Locks]] and his life is saved by [[Sunfire (Exiles)|Sunfire]] when she is stuck on his world. He later moves to [[Quentin Quire]]'s reality to replace one of his selves who had died when he shouldn't have.<ref>''Exiles: Days of Then and Now'' One Shot. Marvel Comics.</ref>
+
+==="Heroes Reborn"===
+In an alternate reality depicted in the 2021 "[[Heroes Reborn (2021 comic)|Heroes Reborn]]" miniseries, Luke Cage became the NYPD's [[police commissioner]] and an ally of [[Nighthawk (Marvel Comics)|Nighthawk]].<ref>''Heroes Reborn'' vol. 2 #5. Marvel Comics.</ref>
+
+==="House of M"===
+A version of Luke Cage resides in the "[[House of M]]" reality. After gaining his powers, Luke forms a crime syndicate in Hell's Kitchen, which he later turns into a Human Resistance Movement<ref>''House of M: Avengers'' #1–2. Marvel Comics.</ref> and recruits several human heroes to his side, including [[Cloak and Dagger (comics)|Cloak]], who looks up to Luke as a father figure. He is the first person to whom [[Layla Miller]] comes to 'awaken' from the House of M reality, and joins the force that takes down [[Magneto (Marvel Comics)|Magneto]] and his children in [[Genosha]].<ref>''House of M'' #4. Marvel Comics.</ref>
+
+===Marvel MAX===
+In the [[Marvel MAX]] ''Cage'' limited series, Cage's origin is much the same, with Luke and Willis Stryker growing up as hoodlums working for the deformed mobster [[Hammerhead (comics)|Sonny "The Hammer" Caputo]]. When Willis double-crossed Luke and had him sent to prison, Luke retaliated by putting out a hit on his former friend. However, Caputo's men botched the hit, accidentally killing Reva Connors instead.<ref>''Cage'' #4. Marvel Comics.</ref> While in prison, Cage voluntarily underwent an experimental procedure that gave him enhanced strength and durability.<ref>''Cage'' #5. Marvel Comics.</ref> However, the procedure did ''not'' actually leave him bulletproof, as demonstrated when he was badly beaten and nearly killed by [[Man Mountain Marko|Mick "Mountain" Marko]].
+
+After being hired by the mother of a young girl who was killed by a stray bullet, Cage is drawn into a gang war among Caputo, Tombstone and Clifford "Clifto" Townsend. The mini-series ends on an uncertain note, with Cage standing between Caputo and Tombstone as both men fire their guns.<ref name = "CageMAX">{{Cite comic|writer = Brian Azzarello|penciller = Richard Corben|inker = Richard Corben|colorist = Jose Villarrubia|letterer = RS and Comicraft's Wes Abbott|editor = Axel Alonso||title = Cage|volume = 2|issue = #1–5|date = March 2002 - September 2002|publisher = Marvel Comics|location = United States}}</ref>
+
+===''Marvel Noir''===
+In the ''[[Marvel Noir]]'' universe, former criminal Luke Cage uses his bulletproof reputation to clean up his life and neighborhood after a stay in prison.<ref>''Luke Cage Noir'' #1–4. Marvel Comics.</ref>
+
+===''Marvel Zombies''===
+In ''[[Marvel Zombies]]'', Luke Cage is a member of the [[Avengers (comics)|Avengers]] and one of the first heroes to become infected by the alien virus, ultimately infected by the zombified [[Sentry (Robert Reynolds)|Sentry]], along with the other Avengers.{{issue|date=December 2011}} He also encounters [[Ash Williams]] not long after being infected.{{issue|date=December 2011}} He is among the few heroes who manages to eat the [[Silver Surfer]], and receives cosmic powers by doing so.{{issue|date=December 2011}} At the end of the [[Marvel Zombies]] miniseries, he helps to devour [[Galactus]] and becomes a member of "The Galacti" (along with [[Iron Man]], [[Spider-Man]], [[Hank Pym#Marvel Zombies|Giant Man]], [[Wolverine (character)|Wolverine]], and the [[Alternative versions of the Hulk#Marvel Zombies|Hulk]]), who travel across the universe devouring all life on planets, however Galactus's energy bolts hit the lower half of Cage's body.{{issue|date=December 2011}} Next, the Marvel Zombies attack a Skrull planet, only to encounter the [[Fantastic Four]]—consisting of [[Black Panther (Marvel Comics)|Black Panther]], [[Storm (Marvel Comics)|Storm]], the [[Thing (comics)|Thing]] and the [[Human Torch]]. It pleases the zombies so much that they attempt to capture the Fantastic Four and try to transport back to their fully populated reality, but the FF manage to escape.<ref>''Black Panther'' #28–30 (July - September 2007). Marvel Comics.</ref>
+
+Luke Cage also has a role in ''[[Marvel Zombies 2]]'', joining Spider-Man in fighting against the other Galactus as he realizes that their hunger has faded over time.{{Issue|date=April 2009}} His lost arm is replaced by a transplanted arm from an unknown being (possibly alien) and his lost lower half is also replaced with a cybernetic one. At the series conclusion, he is transported to another universe which also gets taken by the infection. Cage fights to defeat the hungry zombies of this reality, leading the converted Shi'ar against Earth, but is defeated and killed by the prime zombies of the new world.<ref>''Marvel Zombies Return'' #3 (2009). Marvel Comics.</ref>
+
+==="Secret Wars"===
+During the "[[Secret Wars (2015 comic book)|Secret Wars]]" storyline, different versions of Luke Cage appear in the different [[Battleworld]] domains:
+
+* In the Battleworld domain of Spider-Island, Luke Cage was part of the resistance's attack on Spider Queen.<ref>''Spider-Island'' #1. Marvel Comics.</ref>
+* In the Battleworld domain of the Valley of Doom, Luke Cage helped Sheriff Red Wolf keep the peace in Timely following the death of Mayor Wilson Fisk.<ref>''1872'' #4. Marvel Comics.</ref>
+* In the Battleworld domain of the Warzone, Luke Cage was still on Captain America's side as the superhuman civil war has intensified.<ref>''Civil War'' vol. 2 #1. Marvel Comics.</ref>
+* In the Battleworld domain of Arcadia, Luke Cage and Jessica Jones assisted in fighting a horde of zombies from the Deadlands after the female Loki attacked part of the Shield.<ref>''A-Force'' #5. Marvel Comics.</ref>
+* In the Battleworld domain of the Walled City of New York, Luke Cage and Jessica Jones are married and live in their residence in Harlem.<ref>''Secret Wars: Secret Love'' #1. Marvel Comics.</ref>
+
+===Ultimate Marvel===
+A different version of Power Man appears in the [[Ultimate Marvel]] universe as a member of the [[Defenders (comics)|Defenders]], although he is never referred to as "Luke Cage".<ref>''Ultimates 2'' #6. Marvel Comics.</ref> In this universe, the Defenders consist of several people who want to be superheroes but have no superpowers, and appear to be more interested in the celebrity aspect of being heroes than actually doing anything heroic.<ref>''New Ultimates'' #5. Marvel Comics.</ref>
+
+However, in ''[[Ultimate Comics: New Ultimates]]'', he and the Defenders all appear with powers similar to their mainstream versions, given to them by [[Gunnar Golmen|Loki]].<ref>''New Ultimates'' #1. Marvel Comics.</ref>
+
+==In other media==
+===Television===
+* Luke Cage appears in ''[[The Super Hero Squad Show]]'', voiced by [[Lil' JJ]].<ref>{{cite web|url=http://www.comicscontinuum.com/stories/0907/28/voices.htm|title=Comics Continuum: Marvel Super Hero Squad|website=www.comicscontinuum.com|access-date=3 July 2017}}</ref> This version is a member of Heroes for Hire alongside [[Iron Fist (comics)|Iron Fist]] and [[Misty Knight]] in the episode "A Brat Walks Among Us". He also has a cameo appearance in the episode "And Lo... A Pilot Shall Come!".
+* Luke Cage appears in ''[[The Avengers: Earth's Mightiest Heroes]]'',<ref>{{cite web|url=http://blog.newsarama.com/2012/03/29/is-avengers-earths-mightiest-heroes-getting-unlimited-in-season-two/ |title=Is AVENGERS: EARTH'S MIGHTIEST HEROES Getting 'Unlimited' in Season Two? |date=March 29, 2012 |last=Ching |first=Albert |website=[[Newsarama]] |archive-url=https://web.archive.org/web/20130617065632/http://blog.newsarama.com/2012/03/29/is-avengers-earths-mightiest-heroes-getting-unlimited-in-season-two/ |archive-date=17 June 2013 |access-date=2013-12-13}}</ref> voiced by [[Christopher B. Duncan]].<ref name="btva">{{cite web|url=http://behindthevoiceactors.com/characters/Marvel-Universe/Luke-Cage/ |title=Luke Cage - Marvel Universe - Behind The Voice Actors |website=behindthevoiceactors.com |access-date=July 19, 2019 |postscript=. Check mark indicates role has been confirmed using screenshots of closing credits and other reliable sources.}}</ref> In the episode "To Steal an Ant-Man", he and Iron Fist are hired by [[Hank Pym]] to retrieve the stolen Ant-Man suit from [[Scott Lang]]. Later on, Power Man becomes a member of the New Avengers and helps to fight off Galactus' invasion.
+* Luke Cage appears in ''[[Ultimate Spider-Man (TV series)|Ultimate Spider-Man]]'',<ref>{{cite web|url=http://marvel.com/news/story/18207/spider-man_his_ultimate_friends_power_man|title=I Am Groot: Brave New Dimension|website=News - Marvel.com|access-date=3 July 2017}}</ref><ref>{{cite web|url=http://www.newsarama.com/tv/ultimate-spider-man-tv-characters-120228.html|title=UPDATE: Nova Rounds Out ULTIMATE SPIDER-MAN TV Cast|access-date=3 July 2017}}</ref> voiced by [[Ogie Banks]].<ref>{{cite web|url=http://marvel.toonzone.net/news.php?action=fullnews&id=770|title=Marvel Animation Age - The Marvel Animation News Resource|website=marvel.toonzone.net|access-date=3 July 2017}}</ref> This incarnation is a teenager and part of [[Spider-Man]]'s [[New Warriors|original S.H.I.E.L.D. team]] (along with Iron Fist, [[White Tiger (Ava Ayala)|White Tiger]], and [[Nova (Sam Alexander)|Nova]]). He adopts the Power Man alias as he feels that he should name himself after his powers. Power Man's abilities are super strength and his impenetrable skin; however, he is not invulnerable as he was able to be gashed by the [[Rhino (comics)|Rhino]] in the episode "The Rhino", and proven potentially helpful in containing an infectious [[Lizard (comics)|Lizard]] outbreak since his unbreakable skin would make him immune to the Lizards' bites in the episode "Lizards". The episode "The Parent Trap" reveals that Luke received his powers from a [[S.H.I.E.L.D.]] version of the Super Soldier Formula developed by his parents (voiced by [[Phil LaMarr]] and [[Kimberly Brooks]]) and his civilian name is presented here as his actual birth name. He also finds his parents (Walter and Amanda) were working for [[Scorpio (Marvel Comics)|Scorpio]] because they were lied to about Luke being captured and promised their son in return. He soon reunites with them at the end of the episode.<ref>''Ultimate Spider-Man'' episode "The Parent Trap".</ref> The episode "Return to the Spider-Verse Pt. 1" featured a vampire version of Power Man who is loyal to Lizard King at the time when Spider-Man and [[Miles Morales|Kid Arachnid]] visited this reality. Thanks to a combination of the Siege Perilous shard and a UV light, everyone gets cured of the vampire strain. In the episode "The Spider-Slayers, Pt. 3", after Nova attacks [[Scarlet Spider]] because he learned that he was the spy Doctor Octopus for revealing Spider-Man's identity, to endanger S.H.I.E.L.D. Academy and [[Aunt May]], he along with Iron Fist and [[Squirrel Girl]] attack the [[Spider-Slayer]]s and when they stop they agree to watch him with [[Agent Venom]] for his bad actions that deserve to be locked up for life, before his energy was drained by [[Kaine Parker|Kaine]]. At the end, "Graduation Day, Pt. 1 and 2", he, Iron Fist, Nova and White Tiger are with Spider-Man for the last time to find Doctor Octopus and protect Aunt May, and fight the [[Scorpion (Marvel Comics)|Scorpion]] and [[Crossbones (comics)|Crossbones]] that becomes the new Lizard, and defeat them. Then at the graduation ceremony and reunited with his parents, he is trapped with the team in a contracting shield in the Triskelion and in the end is released by Spider-Man.
+* Luke Cage appears in ''[[Marvel Disk Wars: The Avengers]]'', voiced by Ryōkan Koyanagi in Japanese and Catero Colbert in English.<ref name="btva" />
+* Luke Cage appears in the [[Netflix]] series set in the [[Marvel Cinematic Universe]], portrayed by [[Mike Colter]].
+** Luke Cage first appears in ''[[Jessica Jones (TV series)|Jessica Jones]]''.<ref>{{cite web|url=http://marvel.com/news/tv/23866/mike_colter_to_star_as_luke_cage_in_marvels_aka_jessica_jones |title=Mike Colter to Star as Luke Cage in Marvel's A.K.A. Jessica Jones |last=Strom |first=Marc |publisher=[[Marvel Comics|Marvel.com]] |date=December 22, 2014 |access-date=December 22, 2014 |archive-url=https://web.archive.org/web/20141223052345/http://marvel.com/news/tv/23866/mike_colter_to_star_as_luke_cage_in_marvels_aka_jessica_jones |archive-date=December 23, 2014 |url-status=live }}</ref> In the [[Jessica Jones (season 1)|first season]], the character is introduced as a bar owner who Jones meets during the course of an investigation.<ref name="colterusatoday">{{cite web|url=https://www.usatoday.com/story/life/tv/2015/11/20/jessica-jones-mike-colter-luke-cage/76099760/|title='Jessica Jones' star Mike Colter a powerhouse as Luke Cage|last=Truitt|first=Brian|work=[[USA Today]]|date=November 20, 2015|access-date=December 1, 2015}}</ref> He was formerly married to a woman named Reva Connors until Kilgrave manipulates Jessica Jones into killing her. Cage also appears in the [[Jessica Jones (season 3)|third season]], showing up at Alias Investigations to see how Jessica is doing following the events of the season.
+** Luke Cage is a main character of ''[[Luke Cage (TV series)|Luke Cage]]''.<ref>{{cite web|url=https://www.deadline.com/2013/11/disney-netflix-marvel-series/|title=Disney To Provide Netflix With Four Series Based On Marvel Characters|last=Lieberman|first=David|website=[[Deadline Hollywood]]|date=November 7, 2013|access-date=November 7, 2013}}</ref><ref>{{cite web|url=https://variety.com/2015/digital/news/netflix-marvel-pick-luke-cage-showrunner-cheo-hodari-coker-1201463456/ |title=Netflix, Marvel Pick 'Luke Cage' Showrunner, Cheo Hodari Coker |last=Spangler |first=Todd |work=[[Variety (magazine)|Variety]] |date=March 31, 2015 |access-date=March 31, 2015 |archive-url=https://web.archive.org/web/20150402201718/http://variety.com/2015/digital/news/netflix-marvel-pick-luke-cage-showrunner-cheo-hodari-coker-1201463456/ |archive-date=April 2, 2015 |url-status=live }}</ref> 
+** Luke Cage appears in ''[[The Defenders (miniseries)|The Defenders]]'' as a member of the team, alongside Jones, [[Daredevil (Marvel Comics character)|Daredevil]] and [[Iron Fist (comics)|Iron Fist]].<ref name="colterusatoday"/>
+
+===Film===
+*A film adaptation of Luke Cage had been in development since 2003 by [[Columbia Pictures]], with a screenplay penned by [[Ben Ramsey (filmmaker)|Ben Ramsey]], [[Avi Arad]] serving as producer,<ref>{{cite news |first=Zorianna |last=Kit |url=https://hollywoodreporter.com/hollywoodreporter/film/brief_display.jsp?vnu_content_id=1903480 |title=Col locks up 'Cage' rights |work=[[The Hollywood Reporter]] |date=2003-06-05 |access-date=2012-07-01 |archive-url=https://web.archive.org/web/20030609230003/http://hollywoodreporter.com/hollywoodreporter/film/brief_display.jsp?vnu_content_id=1903480 |archive-date=2003-06-09}}</ref> and [[John Singleton]] directing.{{citation needed|date=May 2013}} [[Jamie Foxx]]<ref>{{cite news | url=http://www.superherohype.com/news/x-mennews.php?id=2663 | title= Avi Arad on Marvel Studios' Upcoming Slate! | publisher=SuperHeroHype.com | date=2005-03-01 | access-date=2006-10-24 }}</ref> and [[Tyrese Gibson]] were considered for the lead role,<ref>{{cite news|first=Kellvin |last=Chavez |url=http://latinoreview.com/interviews/trans-lukecage.html |title=Lorenzo di Bonaventura Talks Tranformers And John Singleton Talks Luke Cage |publisher=LatinoReview.com |date=2005-07-25 |access-date=2006-10-24 |url-status=dead |archive-url=https://web.archive.org/web/20060903210107/http://www.latinoreview.com/interviews/trans-lukecage.html |archive-date=September 3, 2006 }}</ref> while [[Dwayne Johnson]],<ref>{{cite web | url=https://www.ign.com/articles/2013/05/20/the-rock-wants-to-play-luke-cage | title= The Rock Wants To Play Luke Cage | website= IGN | date=October 2015}}</ref> [[Isaiah Mustafa]]<ref>{{cite news | url=http://g4tv.com/attackoftheshow/moviesandtv/71300/Old-Spices-Isaiah-Mustafa-in-Studio.html | title= Isaiah Mustafa Reveals Secrets Behind Old Spice Commercial | publisher=Attack of the Show | date=2010-07-01 | access-date=2010-07-02 }}</ref> and [[Idris Elba]]<ref>{{cite web|url=https://comicbook.com/blog/2012/02/14/idris-elba-wants-to-do-dark-and-sexy-luke-cage-movie/|title=Idris Elba Wants To Do Dark And Sexy Luke Cage Movie|last=Johnson|first=Scott|publisher=Comic Book|date=February 14, 2012|access-date=February 14, 2012}}</ref><ref>{{cite web|url=https://comicbook.com/blog/2013/11/20/idris-elba-was-up-for-luke-cage-movie-role/|title=Idris Elba Was Up For Luke Cage Movie Role|last=Johnson|first=Scott|publisher=Comic Book|date=November 20, 2012|access-date=November 20, 2012}}</ref> expressed interest in playing Luke Cage. In May 2013, it was announced that the film rights for Power Man had reverted to [[Marvel Studios]].<ref>{{cite web|url=https://www.hollywoodreporter.com/heat-vision/marvel-cliffhanger-robert-downey-jrs-518837|title=A Spago dinner sets the stage for Downey's epic contract talks that could lead to more "Avengers" and "Iron Man 4" -- or a new Tony Stark.|last1=Kit|first1=Borys|last2=Bond|first2=Paul|date=May 7, 2013|access-date=May 8, 2013}}</ref>
+* In November 2013, [[The Walt Disney Company|Disney]] CEO [[Bob Iger]] stated that if Marvel's Netflix TV series such as ''Luke Cage'' become popular, "It's quite possible that they could become feature films."<ref>{{cite web|url=https://variety.com/2013/digital/news/why-disney-chose-to-put-marvels-new-tv-shows-on-netflix-1200805867/ |title=Why Disney Chose to Put Marvel's New TV Shows on Netflix |last=Graser |first=Marc |work=[[Variety (magazine)|Variety]] |date=November 7, 2013 |access-date=February 20, 2014 |archive-url=https://web.archive.org/web/20140215071118/http://variety.com/2013/digital/news/why-disney-chose-to-put-marvels-new-tv-shows-on-netflix-1200805867/ |archive-date=February 15, 2014 |url-status=live }}</ref>
+
+===Video games===
+* Luke Cage appears as a playable character in ''[[Marvel: Ultimate Alliance]]'', voiced by [[Greg Eagles]].<ref name="btva"/> He is heavily a [[melee]] character and his powers include super strength and chain-related attacks. His New Avengers, Hero for Hire, Cage, and street costumes are included. Cage has special dialogue with [[Arcade (Marvel Comics)|Arcade]] and the [[Wrecking Crew (comics)|Wrecking Crew]]. A simulation disk has Cage fighting [[Ultron]] in [[S.H.I.E.L.D.]]'s Omega Base.<ref name="MUA1">{{cite book |title=Marvel Ultimate Alliance: Signature Series Guide |first=Thom |last=Denick |publisher=Brady Games |location=Indianapolis, Indiana| isbn=0-7440-0844-1 |year=2006 |pages=20, 21}}</ref>
+* Luke Cage appears in ''[[Spider-Man: Web of Shadows]]'', voiced by [[Robert Wisdom]].<ref name="btva"/> At the beginning of the game, he enlists Spider-Man's help in stopping a gang war in Harlem. He later becomes an assist character that the player can summon to help them fight enemies. During the [[Symbiote (comics)|symbiote]] invasion portion of the game, Cage and [[Mary Jane Watson]] help to evacuate the residents of Harlem. In the [[PlayStation 2]] and [[PlayStation Portable]] versions, Luke Cage appears as a [[Non-player character|NPC]] in the fifth level of the game, where he enlists Spider-Man's help in fighting symbiotes across the city. He serves as the [[Boss (video games)|boss]] at the end of the level, where he is either infected by a symbiote, or is trying to remove Spider-Man's symbiote costume, believing that it is controlling him (the latter occurs only if Spider-Man redirected a train full of symbiotes towards Cage's location earlier in the level). Either way, Spider-Man defeats Cage, who then becomes an assist character.{{Citation needed|date=October 2008}}
+* Luke Cage appears as a playable character in ''[[Marvel: Ultimate Alliance 2]]'', voiced by [[Khary Payton]].{{citation needed|date=March 2021}} He is locked into the Anti-Reg side during the Civil War portion of the game. His stealth costume from ''Secret War'' is his [[unlockable (gaming)|unlockable]] alternate costume. His default costume heavily resembles his design seen in ''Spider-Man: Web of Shadows'' both in clothes and overall appearance.
+* Luke Cage appears in Iron Fist's ending for ''[[Ultimate Marvel vs. Capcom 3]]'' as a member of his new Heroes for Hire and a card for the Heroes and Heralds mode. Additionally, his Power Fist counterpart from an alternate universe in the ''New Exiles'' series appears as an alternate costume for Iron Fist.<ref>{{cite web|title=UMvC3 – Alternate Color Explanations for Iron Fist and Vergil|url=http://shoryuken.com/2011/09/20/umvc3-alternate-color-explanations-for-iron-fist-and-vergil/|website=shoryuken.com}}</ref>
+* Luke Cage appeared as an unlockable playable character in ''[[Marvel Super Hero Squad Online]]''.{{citation needed|date=March 2021}}
+* Luke Cage appeared as an unlockable playable character in ''[[Marvel Avengers Alliance]]''.{{citation needed|date=March 2021}} He is later transformed into one of the Worthy as Nul, Breaker of Worlds.
+* Luke Cage appeared as an unlockable playable character in ''[[Marvel Heroes (video game)|Marvel Heroes]]'',<ref name="MarvelHeroesMMORPG">{{cite web |url=https://marvelheroes.com/news/news-articles/new-heroes-revealed-nycc-2012 |title=New Heroes Revealed at NYCC 2012! |publisher=[[Marvel Heroes (video game)|Marvel Heroes]] |date=2012-10-13 | access-date=2012-10-14}}</ref> voiced by [[James C. Mathis III]].<ref name="btva"/>
+* Power Man appears as an unlockable playable character in ''[[Lego Marvel Super Heroes]]'',<ref>{{cite web|url=https://www.youtube.com/watch?v=fo1nY5kH-SE| archive-url=https://ghostarchive.org/varchive/youtube/20211107/fo1nY5kH-SE| archive-date=2021-11-07 | url-status=live|title=LEGO Marvel Super Heroes Preview With Game Director - Venom Big Fig Transformation, Wii Version|last=FamilyGamerTV|date=2 October 2013|access-date=3 July 2017|via=YouTube}}{{cbignore}}</ref> voiced by John Eric Bentley.{{citation needed|date=November 2013}}
+* Luke Cage appears as a NPC in ''[[Disney Infinity: Marvel Super Heroes]]'',<ref>{{cite web|url=http://www.comicbookresources.com/?page=article&id=53340|title=Spider-Man, Venom and More Added to "Disney Infinity: Marvel Super Heroes"|date=10 June 2014|access-date=3 July 2017}}</ref> voiced by [[Ogie Banks]].{{citation needed|date=April 2015}} He also appears in ''[[Disney Infinity 3.0]]''.{{citation needed|date=September 2015}}
+* Luke Cage appears as an unlockable playable character in ''[[Lego Marvel's Avengers]]'',<ref>{{cite web|url=http://www.comicbookresources.com/article/lego-marvels-avengers-age-of-ultron-mixes-action-humor-fan-favorite-scenes|title="LEGO Marvel's Avengers: Age of Ultron" Mixes Action, Humor & Fan-Favorite Scenes|date=30 October 2015|access-date=3 July 2017}}</ref> voiced by [[Ogie Banks]].{{citation needed|date=January 2016}}
+* Luke Cage appears as an unlockable playable character in ''[[Marvel Future Fight]]''.{{citation needed|date=December 2015}}
+* Luke Cage appears as an unlockable playable character in ''[[Marvel Contest of Champions]]''.{{Citation needed|date=July 2016}}
+* Luke Cage appeared as an unlockable playable character in ''[[Marvel Avengers Academy]]''.{{citation needed|date=March 2021}}
+* Luke Cage appears as an unlockable playable character in ''[[Lego Marvel Super Heroes 2]]''.{{citation needed|date=May 2021}}
+* Luke Cage appears as an unlockable playable character in ''[[Marvel Strike Force]]''.<ref>{{cite web|url=https://news.marvel.com/games/86782/marvel-strike-force-now-recruiting-heroes-worldwide-launch/|title='MARVEL Strike Force' Now Recruiting Heroes with Worldwide Launch|website=Marvel.com}}</ref> He is a City Protector allied with the Defenders team. His default costume is based on his plainclothes costume, with elements of his Power Man identity in the yellow shirt and gauntlets.
+* Luke Cage appears as an unlockable playable character in ''[[Marvel Puzzle Quest]]'' in two versions, "Hero for Hire" and "Power Man".{{citation needed|date=December 2018}}
+* Luke Cage appears as an unlockable playable character in ''[[Marvel Ultimate Alliance 3: The Black Order]]'',<ref>{{cite web|url=https://www.marvel.com/articles/games/e3-2019-luke-cage-elektra-elsa-bloodstone-ghost-rider-enter-marvel-ultimate-alliance-3-trailer|title=E3 2019: Luke Cage, Elektra, Elsa Bloodstone, and Ghost Rider Enter Battle for Justice in 'MARVEL ULTIMATE ALLIANCE 3: The Black Order' Trailer - News - Marvel|website=Marvel Entertainment}}</ref> voiced again by James C. Mathis III.<ref name="btva"/>
+
+===Motion comics===
+* Luke Cage appears in ''[[Spider-Woman (2009 series)|Spider-Woman: Agent of S.W.O.R.D]]'', voiced by [[Jesse Falcon]].<ref name="btva"/>
+* Luke Cage appears in ''Wolverine: Weapon X'', voiced [[Trevor Devall]].<ref name="btva"/>
+* Luke Cage appears in ''War of the Realms: Marvel Ultimate Comics'', voiced by Deven Mack.<ref name="btva"/>
+
+==Reception==
+In a 2008 poll, Luke Cage was ranked as the 34th-greatest comic book character of all time by ''[[Wizard (magazine)|Wizard]]'' magazine.<ref>{{cite magazine|url=http://herochat.com/forum/index.php?topic=170859.0 |title=Wizard's top 200 characters. External link consists of a forum site summing up the top 200 characters of Wizard Magazine since the real site that contains the list is broken |magazine=[[Wizard (magazine)|Wizard magazine]]. |access-date=May 7, 2011 |url-status=dead |archive-url=https://web.archive.org/web/20110608020121/http://herochat.com/forum/index.php?topic=170859.0 |archive-date=June 8, 2011 }}</ref> [[IGN]] also ranked Luke Cage as the 72nd-greatest comic book hero of all time stating that "Cage embodies much of what we love about Marvel's heroes",<ref>{{cite web | url=https://www.ign.com/top/comic-book-heroes/72 | title=Luke Cage is number 72 | website=[[IGN]] | access-date=May 11, 2011}}</ref> and 15th in their list of "The Top 50 Avengers" in 2012.<ref>{{cite web |date=April 30, 2012 |title=The Top 50 Avengers |url=https://www.ign.com/top/avengers/15 |website=[[IGN]] |access-date=July 28, 2015}}</ref>
+
+In her analysis of the comics, Sharon Packer, M.D., made connections between Cage's origin story and historical events taking place in the time of the comics' publication. Carl Lucas uses his newfound power to crash through the prison's cement barricades, he symbolically breaks through barriers that were once closed to him, similar to other black people of his era. Luke Cage's story has a distinct connection to unethical medical experiments; his comics presumably enhanced awareness of the [[Tuskegee syphilis experiment]]s that made ''[[New York Times]]'' headlines in the very same month and year that Luke Cage debuted. Dr. Altman published a book on self-experimentation ethics, one of many texts discussing ethical breaches in medical experiments at that time, meaning that the Luke Cage stories likely picked up on the rhetoric on prison experiments during that time and tapped into opprobrium about ethics. Since his comics were released at the same time that the news broke about the Tuskegee syphilis experiments on black men in Alabama, an event which caused public outrage and swayed public opinion against non-consenting or coercive human experimentation, it can be inferred that Luke Cage's story influenced some of the aforementioned public opinion.<ref name=ethics>{{cite web|url=http://www.priory.com/history_of_medicine/ethics_Luke_Cage.htm|title=ethics_Luke_Cage|website=www.priory.com|access-date=3 July 2017}}</ref>
+
+==Collected editions==
+{| class="wikitable"
+|+
+!Title
+!Material collected
+!Published date
+!ISBN
+|-
+|''Essential Luke Cage, Power Man'' Vol. 1
+|''Luke Cage, Hero for Hire'' #1–16; ''Luke Cage, Power Man'' #17–27
+|March 2005
+|{{ISBNT|978-0785116851}}
+|-
+|''Essential Luke Cage, Power Man'' Vol. 2
+|''Luke Cage, Power Man'' #28–47, Annual #1
+|August 2006
+|{{ISBNT|978-0785121473}}
+|-
+|''Marvel Masterworks: Luke Cage, Hero For Hire Vol. 1'' 
+|''Luke Cage, Hero For Hire'' #1–16
+|August 2015
+|{{ISBNT|978-0785191803}}
+|-
+|''Marvel Masterworks: Luke Cage, Hero For Hire Vol. 2''
+|''Luke Cage, Hero For Hire'' #17–31
+|September 2017
+|{{ISBNT|978-1302903435}}
+|-
+|''Marvel Masterworks: Luke Cage, Hero For Hire Vol. 3''
+|''Luke Cage, Hero for Hire'' #32–47, Annual #1
+|February 2019
+|{{ISBNT|978-1302916350}}
+|-
+|''Luke Cage Epic Collection Vol. 1: Retribution''
+|''Luke Cage, Hero for Hire'' #1–16; ''Luke Cage, Power Man'' #17–23
+|February 2021
+|{{ISBNT|978-1302928315}}
+|-
+|''Luke Cage Omnibus''
+|''Luke Cage, Hero for Hire'' #1–16; ''Luke Cage, Power Man'' #17–47, Annual #1
+|May 2022
+|{{ISBNT|978-1302944964}}
+|-
+|''Luke Cage: Second Chances Vol. 1''
+|''Cage'' (vol. 1) #1–12, material from ''Marvel Comics Presents'' #82
+|September 2015
+|{{ISBNT|978-0785192985}}
+|-
+|''Luke Cage: Second Chances Vol. 2'' 
+|''Cage'' (vol. 1) #13–20, ''Terror Inc.'' #11–12, material from ''Silver Sable & the Wild Pack'' #13–14
+|April 2016
+|{{ISBNT|978-0785195078}}
+|-
+|''Marvel MAX: Cage''
+|''Cage'' (vol. 2) #1–5
+|August 2003
+|{{ISBNT|978-0785113010}}
+|-
+|''New Avengers: Luke Cage - Town Without Pity''
+|''Avengers: Luke Cage'' #1-3, ''Daredevil: Cage Match'' #1, ''Hero for Hire'' #1
+|October 2010
+|{{ISBNT|978-0785144175}}
+|-
+|''Luke Cage: Avenger''
+|''Avengers Origins: Luke Cage'', ''New Avengers'' (vol. 1) #22, 49, ''New Avengers: Luke Cage'' #1-3, ''Marvel Team-Up Annual'' #4
+|August 2016
+|{{ISBNT|978-1302901943}}
+|-
+|''Luke Cage Vol. 1: Sins of the Father''
+|''Luke Cage'' #1-5
+|November 2017
+|{{ISBNT|978-1302907785}}
+|-
+|''Luke Cage Vol. 2: Caged''
+|''Luke Cage'' #166-170
+|May 2018
+|{{ISBNT|978-1302907792}}
+|-
+|''Luke Cage: Everyman''
+|''Luke Cage MDO Digital Comic'' #1-3
+|November 2018
+|{{ISBNT|978-1302912918}}
+|-
+|''Luke Cage: City on Fire''
+|''Luke Cage: City on Fire'' #1-3
+|December 2022
+|{{ISBNT|978-1302932787}}
+|-
+|''Luke Cage Noir'' 
+|''Luke Cage Noir'' #1–4
+|March 2010
+|{{ISBNT|978-0785139423}}
+|-
+|''Marvel Noir: Daredevil/Cage/Iron Man''
+|''Luke Cage Noir'' #1-4 and ''Daredevil Noir'' #1-4, ''Iron Man Noir'' #1-4
+|June 2013
+|{{ISBNT|978-0785184041}}
+|-
+|''Cage!''
+|''Cage!'' #1-4
+|May 2017
+|{{ISBNT|978-0785127864}}
+|}
+
+==See also==
+* [[List of African-American firsts]]
+
+==References==
+{{reflist|colwidth=30em}}
+
+==External links==
+* [http://www.toonopedia.com/lukecage.htm Luke Cage] at [[Don Markstein's Toonopedia]]. [https://www.webcitation.org/62hbLxWr2?url=http://www.toonopedia.com/lukecage.htm Archived] October 25, 2011
+*{{Marvelwiki|Cage%2C_Luke|Luke Cage}}
+* {{Marveldatabase}}
+* {{IMDb title|id=3322314|title=Luke Cage}}
+
+{{Luke Cage}}
+{{Avengers characters}}
+{{Heroes for Hire}}
+{{Defenders}}
+{{Iron Fist}}
+{{Daredevil}}
+{{Jessica Jones}}
+{{New Avengers}}
+{{Spider-Man characters}}
+{{Thunderbolts}}
+{{Weapon Plus}}
+{{authority control}}
+{{Portal bar|Speculative fiction|Comics}}
+
+{{DEFAULTSORT:Cage, Luke}}
+[[Category:Luke Cage| ]]
+[[Category:1972 comics debuts]]
+[[Category:African-American superheroes]]
+[[Category:Avengers (comics) characters]]
+[[Category:Characters created by Archie Goodwin (comics)]]
+[[Category:Characters created by John Romita Sr.]]
+[[Category:Characters created by George Tuska]]
+[[Category:Characters created by Roy Thomas]]
+[[Category:Comics characters introduced in 1972]]
+[[Category:Fictional characters from Manhattan]]
+[[Category:Fictional male detectives]]
+[[Category:Fictional mercenaries in comics]]
+[[Category:Human experimentation in fiction]]
+[[Category:Marvel Comics characters with accelerated healing]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics male superheroes]]
+[[Category:Marvel Comics mutates]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Vigilante characters in comics]]

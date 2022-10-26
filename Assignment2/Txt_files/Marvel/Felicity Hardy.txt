@@ -1,0 +1,10 @@
+#redirect [[Scarlet Spider#MC2]]
+
+{{Redirect category shell|1=
+{{R from related topic}}
+{{R from merge}}
+{{R to section}}
+{{R from fictional character|Marvel Comics}}
+{{R comics to list entry}}
+}}
+{{DEFAULTSORT:Hardy, Felicity}}

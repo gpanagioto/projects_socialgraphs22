@@ -1,0 +1,5 @@
+#REDIRECT [[Mister M (character)]]
+
+{{Redirect category shell|
+{{R from move}}
+}}

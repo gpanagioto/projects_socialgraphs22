@@ -1,0 +1,127 @@
+{{short description|DC Comics character}}
+{{Use mdy dates|date=May 2022}}
+{{Use American English|date=May 2022}}
+{{Infobox comics character
+<!-- Wikipedia:WikiProject Comics -->
+|image = Ace the Bat-Hound (circa 2019).png
+|caption = Ace the Bat-Hound as he appeared in ''[[Detective Comics]]'' #1000 (March [[2019 in comics|2019]]), art by [[Tony S. Daniel]].
+|publisher = [[DC Comics]]
+|debut = ''[[Batman (comic book)|Batman]]'' #92 (June [[1955 in comics|1955]])
+|creators = {{Plainlist|
+* [[Bill Finger]]
+* [[Sheldon Moldoff]]
+}}
+|species = [[Domestic dog]] (''Canis lupus familiaris'')
+|homeworld = Earth
+|alliances=[[Justice League]]<br>[[Legion of Super-Pets]]<br>[[Space Canine Patrol Agents]]
+|aliases=
+|supports = {{plainlist|
+*[[Batman]] 
+*[[Robin (character)|Robin]]
+*[[Alfred Pennyworth]]}}
+|powers=*Agility
+}}
+'''Ace the Bat-Hound''' is a [[superhero]] [[dog]] appearing in [[American comic books]] published by [[DC Comics]]. He is commonly featured as the canine crime-fighting partner of [[Batman]].
+
+[[Kevin Hart]] voices the character in the animated film ''[[DC League of Super-Pets]]'', which was released in the United States on July 29, 2022.<ref>{{cite web |last1=Hipes |first1=Patrick |title=Warner Bros' 'DC Super Pets' Animated Movie Moves To 2022 |url=https://deadline.com/2019/05/dc-super-pets-movie-release-date-2022-1202620965/ |website=Deadline |date=22 May 2019}}</ref>
+
+==Publication history==
+[[File:batman092.jpg|thumb|upright|left|Ace the Bat-Hound's first appearance in ''Batman'' #92 (July [[1955 in comics|1955]]), art by [[Win Mortimer]] and [[Ira Schnapp]].]]
+Ace debuted in ''[[Batman (comic book)|Batman]]'' #92 (July 1955) and was created by writer [[Bill Finger]] and artist [[Sheldon Moldoff]].<ref>[http://www.comics.org/search/advanced/process/?target=sequence&method=icontains&logic=False&order1=date&order2=series&order3=&title=&feature=&job_number=&pages=&script=&pencils=&inks=&colors=&letters=&story_editing=&genre=&characters=Ace+the+BatHound&synopsis=&reprint_notes=&notes=&start_date=&end_date=&pub_name=DC&country=us&pub_notes=&series=&series_notes=&tracking_notes=&publication_notes=&language=en&issues=&volume=&issue_date=&brand=&indicia_publisher=&price=&issue_pages=&format=&issue_editing=&isbn=&issue_notes=&is_indexed=None Ace the Bat-Hound] at the [[Grand Comics Database]]</ref> Ace's introduction followed on [[Krypto]] the Superdog's debut in ''[[Adventure Comics]]'' #210 (March 1955),<ref>{{cite book|last1=Irvine|author-link = Alexander C. Irvine|first1= Alex|editor-last=Dolan|editor-first=Hannah|chapter= 1950s|title = DC Comics Year By Year A Visual Chronicle|publisher=[[Dorling Kindersley]] |year=2010 |isbn= 978-0-7566-6742-9 |page= 77 |quote = Once Superman had a dog, Batman got one too, in "Ace, the Bat-Hound!" In the story by writer Bill Finger and artist Sheldon Moldoff, Batman and Robin found a German Shepherd called Ace.}}</ref> and by [[German Shepherd Dogs]] from detective films and serials, such as [[Rin Tin Tin]] and [[Ace the Wonder Dog]].
+
+Ace, along with [[Batwoman (Kathy Kane)|Batwoman]], [[Batgirl]] and [[Bat-Mite]], retired from the comic in 1964, when editor [[Julius Schwartz]] instituted a "New Look" Batman that shed some of the sillier elements in the series.<ref>{{cite book |last=Wells |first=John |title=American Comic Book Chronicles: 1960-64 |date=2015 |publisher=TwoMorrows Publishing |isbn=978-1605490458 |pages=167–169}}</ref>
+
+==Fictional character biography==
+===Pre-''Crisis''===
+Ace was a [[German Shepherd Dog]] originally owned by an engraver named John Wilker. He was found by Batman and [[Dick Grayson|Robin]] after his master was kidnapped by a gang of counterfeiters.<ref>{{cite book |last1=Rovin |first1=Jeff |title=The Illustrated Encyclopedia of Cartoon Animals |date=1991 |publisher=Prentice Hall Press |isbn=0-13-275561-0 |access-date=31 March 2020 |url=https://archive.org/details/illustratedencyc00rovi/page/2/mode/2up/ |page=3}}</ref> Batman used Ace to try to locate Wilker. Because he had already placed a large number of "lost dog" announcements for Ace in his civilian identity of Bruce Wayne, he was concerned that anyone recognizing Ace (who had a prominent star-shaped marking on his forehead) might make the connection between Bruce Wayne and Batman. To forestall that problem, he hastily improvised a hood-like mask for the dog that incorporated the bat-emblem as a [[dog tag]] dangling from Ace's collar.<ref>{{cite book |last1=Schelly |first1=William |title=American Comic Book Chronicles: The 1950s |date=2013 |publisher=TwoMorrows Publishing |isbn=9781605490540 |pages=120, 124}}</ref> Ace was subsequently christened the Bat-Hound by a criminal that the dog helped Batman to apprehend.<ref>{{cite book |last1=Fleisher |first1=Michael L. |title=The Encyclopedia of Comic Book Heroes, Volume 1: Batman |date=1976 |publisher=Macmillan Publishing Co |isbn=0-02-538700-6 |pages=1–3 |url=https://archive.org/details/encyclopediaofco01flei/page/n25/mode/2up |access-date=29 March 2020}}</ref>
+
+Wilker later took a new job that made it difficult for him to take care of Ace, so he left the dog to Bruce Wayne.<ref>{{cite book |title= Baby Boomer Comics: The Wild, Wacky, Wonderful Comic Books of the 1960s!|last= Shutt|first= Craig|year= 1994|publisher= Krause Publications|isbn= 0-87349-668-X|page=98}}</ref> Wilker was never aware that Ace was the Bat-Hound or that Bruce Wayne was Batman.
+
+An early case involved Ace tracking down a mentally unhinged ancient weapons expert who was using his own weapons to commit crimes.<ref>''Batman'' #130 (March 1960)</ref> At one point, Ace acquired superpowers thanks to [[Bat-Mite]], but this was short-lived.<ref>''Batman'' #158 (September 1963)</ref> He did have his own training. For example; his specialized radio collar, when activated, told him to don his own mask (via a hands-free device) and track down Batman and Robin.<ref>{{cite book |title= Batman: The Complete History|last= Daniels|first= Les|year= 2004|publisher= Chronicle Books|isbn= 0-81184-232-0|page=86}}</ref> Ace was used less and less over time, and for various reasons. When Bruce was overcome with night terrors, Robin suggested that Ace sleep beside him.<ref>''Batman'' #156 (1963)</ref>
+
+Ace disappeared from the ''Batman'' comics after [[Julius Schwartz]] took over as editor in 1964. His last appearance was a cameo in a story where Batman had lost his fighting spirit.<ref>''Batman'' #162 (1964)</ref>
+
+===Post-''Crisis''===
+[[File:Batman_462.jpg|thumb|right|[[Batman (comic book)|''Batman'']] #462 by [[Alan Grant (writer)|Alan Grant]] and [[Norm Breyfogle]]. A [[Native American Graves Protection and Repatriation Act|homicide]] leads Batman to [[San Francisco]], [[Treaty of Ruby Valley (1863)|Ruby Valley]], and the first appearance of the post-''Crisis'' Ace.]]
+
+A version of Ace is seen in the cosmic realm of Limbo when the hero [[Animal Man]] takes a trip through it.<ref>''Animal Man'' #25 (July 1990)</ref>
+
+A post-''Crisis'' version of Ace was reintroduced in ''Batman'' #462 (June 1991) by the late [[Alan Grant (writer)|Alan Grant]] and the late [[Norm Breyfogle]], although he has been rarely seen in recent years. This version was originally a [[guide dog]] belonging to a blind [[Native Americans in the United States|Native American]] named Black Wolf, who called him "Dog". The dog assisted Batman in fighting criminals from Black Wolf's tribe. Following Black Wolf's death, Batman adopted Dog, renaming him Ace.
+
+He did not wear a mask, nor was he ever referred to as Bat-Hound, and has the appearance of an [[English Mastiff]] with a bat-shaped dark patch on his flank. Ace has at times helped Batman on cases<ref>''Batman'' #471 (November 1991)</ref> and is depicted to be very affectionate towards his owner and vice versa.
+
+After Batman is disabled by the villain Bane, [[Azrael (DC Comics)|Azrael]] takes over the identity and ejects Ace, Nightwing, Robin and [[Harold Allnut]] from the Batcaves. Harold, a trusted confidante of Batman, takes in Ace; they live in a part of the caverns that Azrael is unfamiliar with.<ref>''Batman'' #500 (October 1993)</ref> To keep busy, Ace enjoys playing with a robotic mouse built by Harold.<ref>{{cite book |title= The Essential Batman Encyclopedia|last= Greenberger|first= Robert|year= 2008|publisher= Random House Digital, Inc|isbn= 9780345501066|page=4}}</ref>
+
+Ace disappeared without explanation after the events of the ''[[No Man's Land (comics)|No Man's Land]]'' storyline in the late 1990s. He cameos in ''[[Ambush Bug: Year None]]''.
+
+A traditional Ace was seen in ''[[Final Crisis]]: Superman Beyond 3D''. He is in Limbo with other "forgotten characters", such as [[Gunfire (comics)|Gunfire]], [[Geist (DC Comics)|Geist]], Hardhat of the [[Demolition Team]] and Merryman of the [[Inferior Five]]. Merryman explains that everyone is here where no stories exist, because nobody is writing about them. Despite this, [[Superman]] and his allies work to rescue all the residents of Limbo, who then assist in the battle against the cosmic threat of Mandrakk.<ref>''Final Crisis: Superman Beyond 3D'' #1-2 (October–November 2008)</ref>
+
+The original Ace appeared in a flashback scene in ''[[Batman Inc.]]'' #4, thus making the current canon status of the Post-''Crisis'' Ace unclear. In this story, Ace is trying to play with Robin, who is fuming over Kathy Kane, a.k.a. [[Batwoman (Kathy Kane)|Batwoman]], and her influence on Batman.<ref>''Batman Inc.'' #4 (October 2012)</ref>
+
+===''The New 52''===
+In ''Batman and Robin Vol. 1: Born to Kill'', as part of ''[[The New 52]]'' (a 2011 reboot of the DC Comics universe), Bruce is seen purchasing a black Great Dane from a kennel. He later gives this dog to his son, Damian, who names him Titus. Damian rejects the dog at first, but eventually bonds with him.<ref>''Batman and Robin'' vol. 2 #2</ref> Writer [[Peter Tomasi]] revealed that he thought about naming Damian's dog Ace, but "it was best not to drop [Ace] in at this point in the New 52".<ref>{{Cite web|url=https://thebatmanuniverse.net/peter-tomasi-on-batman-and-robin/|title=Peter Tomasi on Batman and Robin|date=20 January 2012}}</ref>
+
+===''DC Rebirth''===
+In ''[[DC Rebirth]]'', a different Ace was introduced in ''Batman'' vol. 3 Annual #1, in which he is depicted as a former guard dog of the [[Joker (character)|Joker]] who fought Batman until Joker left him and the other dogs without food in a ditch to fight amongst themselves. The dogs had card symbols on them, and the brown dog with an ace on it killed the others. He was sent to the Gotham Pound, and [[Alfred Pennyworth|Alfred]] adopted him two days later. In order to facilitate this, Alfred actually purchases the Gotham Pound, turning it into the Martha and Thomas Wayne Humane Society. Alfred spends the next couple of months training the dog despite Bruce's objections, as he thinks Ace's wounds from the Joker's actions cannot be healed. Despite this, Alfred manages to properly train him in time for Christmas, and Bruce starts bonding with the dog after getting injured during one of his night shifts. He gets Ace a bat-mask for Christmas and calls him a "Bat Hound". Though the Gotham Pound owner described Ace as a female, Bruce and Alfred have called Ace a him, leaving the gender ambiguous.<ref>''Batman'' vol. 3 Annual #1 (January 2017)</ref>
+
+Ace is seen later, playing with visitors. He again obeys Alfred without question.<ref>''Batman'' vol. 3 #33 (December 2017)</ref>
+
+Titus is seen as a pet living in [[Wayne Manor]]. It alerts Alfred of [[Duke Thomas (character)|Duke Thomas]]'s sneaking out.<ref>''All-Star Batman'' #7 (April 2017)</ref> Titus and Ace are later shown sleeping in twin baskets, confirming that both dogs now exist in the same continuity.<ref>''Super-Sons'' Annual #1 (January 2018)</ref> Ace is seen following Bruce Wayne around the manor after he has a difficult night out.<ref>''Detective Comics'' #1015 (2019)</ref>
+
+Much like the TV show ''Batman Beyond'', a [[Great Dane]] named Ace is shown to have been owned by Bruce in his old age.<ref>''Batman Beyond: Rebirth'' #1</ref>
+
+==Other versions==
+In [[Mark Waid]]'s and [[Alex Ross]]'s ''[[Kingdom Come (comic book)|Kingdom Come]]'' miniseries, Ace is portrayed as the giant winged steed of the [[Fourth World (comics)|Fourth World]] Batwoman. Ace is also mentioned in [[Howard Chaykin]]'s ''[[Elseworlds]]'' crossover ''[[Batman/Houdini: The Devil's Workshop]]''. During a seance attended by Bruce Wayne and mystic debunker [[Harry Houdini]], Ace was referred to as Bruce Wayne's childhood pet. In the ''Elseworlds'' [[Frankenstein]] pastiche ''[[Batman: Castle of the Bat]]'', Dr. Bruce Wayne tests his theories by creating a literal Bat-Hound: a dog with some of the attributes of a bat. A version of Ace appears in multiple issues of ''[[Tiny Titans]]'', a comic created for younger readers. Ace appears in the alternate universe 'Unkillables' storyline, assisting Jason Todd.<ref>''DCeased: Unkillables'' #1 (2020)</ref>
+
+Pre-''Crisis'', [[Superman]]'s Batman-like identity of [[Nightwing]] included a [[Kandor (comics)|Kandor]]ian counterpart to Ace the Bat-Hound, a telepathic dog named "Nighthound".<ref>''World's Finest'' #143 (August 1964)</ref>
+
+==In other media==
+===Television===
+[[Image:bathound2005.jpg|200px|thumb|right|Ace the Bat-Hound as he appeared in the animated series ''[[Krypto the Superdog]]'']]
+* Ace appears in ''[[Batman Beyond]]'', with vocal effects provided by [[Frank Welker]]. This version is a [[Great Dane]] mix and Bruce Wayne's pet and guard dog who was originally a puppy involved in an illegal dog-fighting ring who eventually escaped and found Wayne in Crime Alley. After being injured while saving Wayne from a gang of Jokerz, Wayne adopted the dog, who became his sole companion in [[Wayne Manor]] until [[Batman (Terry McGinnis)|Terry McGinnis]] came into their lives.
+* Ace makes a cameo appearance in the ''[[Static Shock]]'' episode "Future Shock".
+* Ace appears in ''[[Krypto the Superdog]]'', voiced by [[Scott McNeil]]. Similarly to Batman, this version employs various gadgets and equipment in his crime-fighting efforts, sees himself as Batman's partner instead of his pet, and battles the pets of [[List of Batman family enemies|Batman's rogues gallery]] such as the Joker's [[hyena]]s, [[Bud and Lou]]; the [[Penguin (character)|Penguin]]'s Bad News Birds; and [[Catwoman]]'s pet cat Isis.
+* Ace appears in ''[[Batman: The Brave and the Bold]]'', with vocal effects provided by [[Dee Bradley Baker]].<ref>{{cite web | url=http://caninechronicle.com/current-articles/dogs-hollywood-and-the-entertainment-industry/ | title = Dogs, Hollywood, and the Entertainment Industry | work = The Canine Chronicle | first=Carmen | last=Battaglia | date = 2013-04-23}}</ref> 
+* Ace appears in the "DC Super-Pets!" segment of ''[[DC Nation Shorts]]'', voiced by [[Diedrich Bader]].
+* Ace appears in the ''[[Robot Chicken DC Comics Special 2: Villains in Paradise]]''.
+* Ace appears in the ''[[Justice League Action]]'' episode "Best Day Ever". 
+* Ace appears in the ''[[DC Super Hero Girls (TV series)|DC Super Hero Girls]]'', with vocal effects provided again by Dee Bradley Baker. This version is [[Barbara Gordon]]'s pet and a retired [[Gotham City Police Department]] dog who was originally partnered with Barbara's father [[James Gordon (character)|Commissioner Gordon]].
+
+===Film===
+* Ace appears in ''[[Batman Beyond: Return of the Joker]]'', with vocal effects provided again by Frank Welker.
+* Ace appears in ''[[Lego DC Comics Super Heroes: The Flash]]''. This version is a member of the [[Justice League]].
+* A robotic Ace appears in ''[[Batman Unlimited: Animal Instincts]]'' and ''[[Batman Unlimited: Monster Mayhem]]''. It was originally created to serve in the [[Penguin (character)|Penguin]]'s "Animiltia" before Batman reprogrammed it to help him thwart the Penguin.
+* Ace, renamed '''Titus''', appears in films set in the [[DC Animated Movie Universe]]. Introduced as a puppy in ''[[Teen Titans: The Judas Contract]]'', this version is [[Damian Wayne]]'s pet, who he received from [[Raven (DC Comics)|Raven]]. A fully-grown Ace subsequently appears in ''[[The Death of Superman (film)|The Death of Superman]]'', ''[[Batman: Hush (film)|Batman: Hush]]'', and ''[[Justice League Dark: Apokolips War]]''.
+* Ace appears in ''[[DC League of Super-Pets]]'', voiced by [[Kevin Hart]]. This version is a [[Boxer (dog)|boxer]]. As a puppy, he was given to the shelter by his adoptive family after he bit the infant daughter's arm to prevent her from falling down the stairs. He later gains super-strength and invulnerability after being exposed to orange [[Kryptonite]]. After helping Krypto and the other super-powered shelter pets rescue the Justice League, he is adopted by Batman.<ref name="Cast3">{{Cite web |last=Agard |first=Chancellor |date=November 17, 2021 |title=Dwayne Johnson's Krypto assembles a team in DC League of Super-Pets first look |url=https://ew.com/movies/dc-league-of-super-pets-first-look/ |url-status=live |archive-url=https://web.archive.org/web/20211117170417/https://ew.com/movies/dc-league-of-super-pets-first-look/ |archive-date=November 17, 2021 |access-date=November 18, 2021 |website=[[Entertainment Weekly]]}}</ref><ref name="Cast2">{{Cite web |last=Anderson |first=Jenna |date=November 17, 2021 |title=DC League of Super-Pets Reveals Full Lineup in New Images and Plot Details |url=https://comicbook.com/dc/news/dc-league-of-super-pets-movie-spoilers-new-images/ |url-status=live |archive-url=https://web.archive.org/web/20211118042542/https://comicbook.com/dc/news/dc-league-of-super-pets-movie-spoilers-new-images/ |archive-date=November 18, 2021 |access-date=November 18, 2021 |website=[[ComicBook.com]]}}</ref>
+
+===Video games===
+Ace appears as an unlockable playable character in ''[[Lego Batman 3: Beyond Gotham]]'', with vocal effects provided again by Dee Bradley Baker.
+
+===Web series===
+* Ace appears in ''[[DC Super Hero Girls]]''.
+* The robotic Ace appears in the ''[[Batman Unlimited]]'' shorts.
+
+===Books===
+Ace's appeal is discussed in ''Mythology: The DC Comics Art of Alex Ross''. Ross feels that as a child, the idea of Batman having a dog is "cool", but as an adult the same idea is "outrageous".<ref>{{Cite book|title= The DC Comics Art of Alex Ross|last= Ross|first= Alex|year= 2003|publisher= Pantheon Books|isbn= 978-0375422409}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://dc.fandom.com/wiki/Ace_the_Bat-Hound_%28New_Earth%29 Ace the Bat-Hound] at DC Comics Wiki
+** [https://dc.fandom.com/wiki/Titus_the_Dog_%28Prime_Earth%29 Titus] at DC Comics Wiki
+* [https://comicvine.gamespot.com/ace-the-bat-hound/4005-31302/ Ace the Bat-Hound] at Comic Vine
+* [http://www.dcuguide.com/who.php?name=ace Modern day Ace biography at the Unofficial Guide to the DCU] {{Webarchive|url=https://web.archive.org/web/20150923213141/http://www.dcuguide.com/who.php?name=ace |date=2015-09-23}}.
+
+{{Batman characters}}
+{{GoldenAge}}
+
+{{DEFAULTSORT:Bat-Hound}}
+[[Category:Batman characters]]
+[[Category:DC Comics animals]]
+[[Category:DC Comics superheroes]]
+[[Category:Dog superheroes]]
+[[Category:Comics characters introduced in 1955]]
+[[Category:Characters created by Bill Finger]]
+[[Category:Characters created by Sheldon Moldoff]]
+[[Category:German shepherds]]

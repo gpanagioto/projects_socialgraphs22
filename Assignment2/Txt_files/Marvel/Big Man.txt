@@ -1,0 +1,77 @@
+{{Short description|Set index of fictional characters in comics}}
+{{Lead too short|date=February 2022}}
+'''Big Man''' is the name of different fictional characters appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Fictional character biography==
+===Frederick Foswell===
+{{main|Frederick Foswell}}
+'''Frederick Foswell''' was the first person to assume the Big Man mantle.<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=49}}</ref> He used to be a reporter for the ''[[Daily Bugle]]'', but in reality he lived a secret life as a criminal boss named Big Man. He was eventually defeated by Spider-Man after which he apparently turned new leaf. He died saving [[J. Jonah Jameson]] by taking a bullet for him.
+
+===Janice Foswell===
+{{Infobox comics character<!--Wikipedia:WikiProject Comics-->
+|character_names=Janice Foswell
+|image=
+|caption=
+|real_name=Janice Foswell 
+|publisher=[[Marvel Comics]]
+|debut=''[[Marvel Team-Up]]'' #39 (November 1975)
+|creators=[[Bill Mantlo]] and [[Sal Buscema]]
+|alliances=[[Enforcers (comics)|Enforcers]]
+|aliases= 
+|supports=
+|powers=She was adept at disguise and an excellent marksman with handguns.
+|}}
+'''Janice Foswell''' is the daughter of the original Big Man (Frederick Foswell) and sought to follow in her father's footsteps to gain control of the New York underworld. She was soon joined by a new [[Crime Master]] and [[Sandman (Marvel Comics)|Sandman]].<ref>''Marvel Team-Up'' #39. Marvel Comics.</ref>
+
+She and her Enforcers were defeated by [[Spider-Man]], the [[Human Torch]] and the [[Sons of the Tiger]]. Over a dispute about eliminating Spider-Man and the Sons, Janice was killed by the Crime Master who turned out to be her fiancé and son of the original Crime-Master, Nick Lewis Jr. (both had separately pursued vengeance against Spider-Man without knowledge of each other's identity).<ref>''Marvel Team-Up'' #40. Marvel Comics.</ref>
+{{Clear}}
+
+===Frederick Foswell Jr.===
+{{Infobox comics character
+|character_name=Frederick Foswell Jr.
+|image=
+|caption=
+|publisher=[[Marvel Comics]]
+|debut=''[[Amazing Spider-Man]]'' #13 (January 2019)
+|creators=[[Nick Spencer]] and [[Ryan Ottley]]
+|aliases=
+|powers=
+}}
+'''Frederick Foswell Jr''' is the son of the Frederick Foswell and the brother of Janice Foswell. He took over the role to gain revenge for the death of his father and sister, which, owing to [[J. Jonah Jameson]]'s then-hostile attitude towards Spider-Man, he blamed on the webslinger. Using one of [[Arcade (Marvel Comics)|Arcade]]'s Murderworlds, Foswell Jr. attacked them with [[Mac Gargan|Scorpion]], [[Life Model Decoy]]s of [[Human Fly (comics)|Human Fly]], and replicas of the [[Spider-Slayers]]. Piloting a giant robot version of Big Man, he attacked Spider-Man and Jameson, assuming Jameson would help kill Spider-Man. Spider-Man and the remorseful Jameson quickly defeated Foswell Jr. as Spider-Man hurls the Big Man robot outside before it can self-destruct. Foswell Jr. is then arrested by the police.<ref>''The Amazing Spider-Man'' vol. 5 #11-13 (2019). Marvel Comics.</ref>
+{{Clear}}
+
+==Other versions==
+===MC2===
+'''Henry Pym Jr.''' is the son of [[Hank Pym]] and [[Wasp (character)|Janet van Dyne]] in the [[Marvel Comics 2|MC2]] universe. He inherits his father's size changing powers and takes the Big Man name. He is briefly a member of the [[Revengers]] before going straight and joining a government-sponsored team.<ref>''A-Next'' #12. Marvel Comics.</ref>
+
+===Ultimate Marvel===
+The [[Ultimate Marvel]] equivalent is named '''Mr. Big''', a mobster and the Enforcers' leader.<ref>''Ultimate Spider-Man'' #9. Marvel Comics.</ref> Mr. Big was scheming to overthrow [[Kingpin (character)#Ultimate Marvel|Wilson Fisk]], using [[Spider-Man (Ultimate Marvel character)|Spider-Man]] as a secret weapon. The plan backfired, and when Fisk learned that he was the one responsible for Spidey's assault on Fisk's office, Fisk crushed the mobster's head bare-handed.<ref>''Ultimate Spider-Man'' #10. Marvel Comics.</ref>
+
+==In other media==
+===Television===
+A variation of the Big Man is depicted in ''[[The Spectacular Spider-Man (TV series)|The Spectacular Spider-Man]]'' animated series as a mysterious crime lord who operates from behind the scenes. '''[[Tombstone (comics)|Tombstone]]''' (voiced initially by [[Keith David]] and subsequently by [[Kevin Michael Richardson]] in later appearances) is the initial bearer of the name until eventually being overthrown by the '''[[Norman Osborn|Green Goblin]]''' (voiced by [[Steve Blum]]). Frederick Foswell (voiced by [[James Arnold Taylor]]) also appears as a reporter for the ''Daily Bugle'', who goes undercover using the name "Patch". He ends up helping to expose Tombstone as the Big Man.
+
+===Films===
+A variation of Henry Pym Jr. appears in the [[animation|animated]] direct-to-video film ''[[Next Avengers: Heroes of Tomorrow]]'', voiced by Aidan Drummond.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.marvunapp.com/Appendix/bigman.htm Janice Foswell at Marvunapp.com]
+
+{{Spider-Man characters}}
+{{Ant-Man and Wasp}}
+{{Stan Lee}}
+
+{{Marvel-char-stub}}
+[[Category:Characters created by Bill Mantlo]]
+[[Category:Characters created by Sal Buscema]]
+[[Category:Comics characters introduced in 1975]]
+[[Category:Fictional crime bosses]]
+[[Category:Twin characters in comics]]
+[[Category:Marvel Comics supervillains]]
+[[Category:Marvel Comics female supervillains]]
+[[Category:Marvel Comics male supervillains]]
+[[Category:Articles about multiple fictional characters]]
+[[Category:Spider-Man characters]]

@@ -1,0 +1,80 @@
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+| image = Girobotdcu0.jpg
+| caption = The G.I. Robot J.A.K.E. 1 in ''Weird War Tales'' #101 (July 1981), art by [[Ross Andru]] and [[Dick Giordano]].
+| character_name = G.I. Robot
+| publisher = [[DC Comics]]
+| debut = ''[[Star Spangled War Stories]]'' #101 (February–March 1962)
+| creators = [[Robert Kanigher]] (writer)<br> Ross Andru (artist)<br>Mike Esposito (artist)
+| real_name =
+| species = Robot
+| homeworld = <!-- optional -->
+| alliances = [[United States Army Rangers]]<br>[[Suicide Squad]]<br>[[United States Marine Corps]]<br>[[Creature Commandos]]<br>[[Checkmate (comics)|Checkmate]]
+| aliases = Joe, Mac, J.A.K.E. 1, J.A.K.E. 2, J.A.K.E. #6.1, Lord Job
+| supports=<!--optional-->
+| powers = Superhuman strength<br>[[Bulletproof]] casing<br>Mechanical stamina<br>Built-in [[machine gun]] arm
+}}
+
+The '''G.I. Robot''' is the name of a series of six fictional robots that appeared in [[comic book]]s published by [[DC Comics]].<ref name="dc-ency">{{Citation|last = Greenberger|first = Robert|author-link = Robert Greenberger|contribution = G. I. Robot|editor-last = Dougall|editor-first = Alastair|title = The DC Comics Encyclopedia|pages = 134|publisher = [[Dorling Kindersley]]|place = New York|year = 2008|isbn = 978-0-7566-4119-1|oclc = 213309017}}</ref> The very first G.I. Robot, nicknamed '''Joe''', first appeared in ''[[Star Spangled War Stories]]'' #101 (February–March 1962), created by [[Robert Kanigher]] and [[Ross Andru]], with a second one named '''Mac''' in ''Star Spangled War Stories'' #125 (February–March 1966), by Kanigher and [[Joe Kubert]].
+
+The better-known '''J.A.K.E. 1''' first appeared in ''[[Weird War Tales]]'' #101 (July 1981), created by Kanigher and Pepe Morino Casaras. '''J.A.K.E. 2''' first appeared in ''Weird War Tales'' #113 (July 1982), by Kanigher and Fred Carrillo.
+
+A newer model of the G.I. Robot, designed by [[Lex Luthor]] for use by the United States military, was introduced in ''[[Batman Confidential]]'' #4, by [[Andy Diggle]] and [[Whilce Portacio]]. Subsequently, '''J.A.K.E. #6.1''' appeared in ''[[Checkmate (comics)|Checkmate]]'' (vol. 2) #24 (May 2008), created by [[Greg Rucka]] and Eric Trautmann.
+
+==Fictional character biographies==
+===Joe===
+During [[World War II]], "Joe" the G.I. Robot is handed over to a [[United States Army Rangers|Ranger]] unit to be tested in the field. Humanoid, with smooth features, no mouth and a control panel on its chest, Joe is assigned a human "buddy", a Corporal named Mac. In three stories from ''Star Spangled War Stories'' #101—#103, Joe and Mac end up fighting "[[The War that Time Forgot]]" against prehistoric creatures (and a giant German robot soldier) on [[Dinosaur Island]].
+
+===Mac===
+''Star Spangled War Stories'' #125 introduced another G.I. Robot (this one with a visible mouth) nicknamed "Mac" and his human partner Reed as part of the war-era [[Suicide Squad]], a "top secret Ranger outfit" specially trained for missions no ordinary soldier was expected to survive. In this story, the first G.I. Robot and its human buddy are described as having also belonged to the Squad but are missing in action. Mac sacrifices itself on its first mission to save Reed and another soldier from a [[Tyrannosaurus]].
+
+===J.A.K.E. 1===
+The next G.I. Robot is designed by Professor Thompson of [[Massachusetts Institute of Technology|MIT]]. In ''Weird War Tales'' #101, it is deployed to a Pacific island alongside the [[United States Marine Corps|Marines]] to fight the Japanese military and placed under the control of Sergeant Coker. Although the robot is technically named "'''J'''ungle '''A'''utomatic '''K'''iller - '''E'''xperimental Number 1" (J.A.K.E. 1), Coker gives the robot the nickname of the G.I. Robot. Coker is skeptical of the robot's abilities, but it soon earns his trust.<ref name="dc-ency"/>
+
+===J.A.K.E. 2===
+J.A.K.E. 1 is destroyed in ''Weird War Tales'' #111, but is replaced by J.A.K.E. 2, which continues to fight on various Pacific islands, including Dinosaur Island. It later teams with the [[Creature Commandos]]. J.A.K.E. 2 and the Creature Commandos are presumed killed when the rocket they are riding to [[Berlin]] misfires and heads into deep space (''Weird War Tales'' #124). The Creature Commandos are known to have survived, but J.A.K.E. 2's fate is unknown. The ''DC Comics Encyclopedia'' describes J.A.K.E. 2 as having survived into the [[31st century]].<ref name="dc-ency"/> However, the Creature Commandos later gained possession of an entire army of mass-produced J.A.K.E.s. It is still unknown whether one of them is the ''original'' J.A.K.E. 2.<ref>''Justice League: Generation Lost'' #15 (2011)</ref>
+
+===J.A.K.E. #6.1===
+In ''Checkmate'' (vol. 2) #24, a new G.I. Robot is revealed, with the designation J.A.K.E. #6.1. It is one of the organization's Rooks, a team of four elite operatives of last resort. Apparently constructed using the original World War II era programming, it has a new body made of components formerly used by the industrialist/murderer [[Maxwell Lord]] during a time when his consciousness was contained in an android form.
+
+===Lord Job===
+A new G.I. Robot of unknown origin appears in the 2008-2009 ''The War That Time Forgot'' miniseries written by [[Bruce Jones (comics)|Bruce Jones]], where it is known as "Lord Job", but calls himself "Joe". This version can speak and has bright red eyes, but is otherwise of a similar appearance to the earlier models, particularly Joe. It has not been established from which time period it comes.
+
+==Powers and abilities==
+The G.I. Robots are all fully autonomous mechanical soldiers, capable of making decisions and adapting to changes in their environment. Joe responds to spoken commands as well as the sound of weapons fire and machines, and in situations where voice commands are impractical, to light signals flashed on its control panel. Mac responds similarly, but appears to be smarter, and has no control panel. No built-in weapons are apparent, but both are capable of using firearms like an ordinary soldier and can withstand direct fire from small arms.
+
+J.A.K.E.s 1 and 2 are also armor-plated models. Their left arms consist of a fully functional machine gun, which can fire bullets, mini-torpedoes, and small anti-aircraft missiles. They can also fly for short distances, thanks to small rockets in their boots.
+
+J.A.K.E. #6.1, unlike its predecessors, can communicate verbally, appears to have a sophisticated artificial intelligence system, and is equipped with various weapons, including a minigun as its left arm, an automatic grenade launcher mounted on its right shoulder and magnetically accelerated anti-personnel [[caltrop]]s deployed from its chest cavity. Its role during missions is to monitor its fellow Rooks, who are telepathically linked thanks to an alien DNA infusion derived from [[Starro|Starro the Conqueror]]. If J.A.K.E. determines the DNA is gaining control, it will terminate the link by killing its teammates.
+
+Lord Job is also capable of speech and has some degree of superhuman strength and resilience. He does however seem to be completely artificial, with no sign of a human will or even a facsimile of same, unlike most of his predecessors. He has shown some tactical analysis and personal combat skills. He has suffered some damage before ever being seen. He has not demonstrated built-in weapons of any kind.
+
+While J.A.K.E. 1 and #6.1 are unique beings, there currently exist a whole army of J.A.K.E. 2s, apparently sporting the same abilities and equipment of the original.
+
+==Other versions==
+===''Flashpoint''===
+In the alternate timeline of the ''[[Flashpoint (comics)|Flashpoint]]'' event, the G.I. Robot replaces [[Frankenstein (DC Comics)|Frankenstein]] and the [[Creature Commandos]] after they were deemed obsolete by [[Robotman (Robert Crane)|Robert Crane]]'s government services.<ref>''Flashpoint: Frankenstein and the Creatures of the Unknown'' #1 (June 2011)</ref> In the modern era, Robert Crane revives the G.I. Robot to eliminate Frankenstein and the Creatures of the Unknown after they escape from the lab facility. During attacks from the Creatures of the Unknown in a [[Gotham City]] forest, the G.I. Robot sprang at Frankenstein to subdue him, but a Creatures of the Unknown member severed the G.I. Robot's head.<ref>''Flashpoint: Frankenstein and the Creatures of the Unknown'' #2 (July 2011)</ref>
+
+==In other media==
+The G.I. Robot appeared in the ''[[Batman: The Brave and the Bold]]'' episode "The Plague of the Prototypes!", voiced by [[James Arnold Taylor]]. He and Sgt. Rock team up with Batman to stop Nazi soldiers before sacrificing himself to save Sgt. Rock from a landmine.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.cosmicteams.com/cosmic/ccomandos.htm Creature Commandos at Cosmic Teams] {{Webarchive|url=https://web.archive.org/web/20130602041805/http://www.cosmicteams.com/cosmic/ccomandos.htm |date=2013-06-02 }}
+
+{{DC Comics War Titles|state=collapsed}}
+
+[[Category:DC Comics robots]]
+[[Category:Fictional soldiers]]
+[[Category:Fictional World War II veterans]]
+[[Category:War comics]]
+[[Category:Comics characters introduced in 1962|G.I. Robot (Joe)]]
+[[Category:Comics characters introduced in 1966|G.I. Robot (Mac)]]
+[[Category:Comics characters introduced in 1981|G.I. Robot (J.A.K.E. 1)]]
+[[Category:Comics characters introduced in 1982|G.I. Robot (J.A.K.E. 2)]]
+[[Category:Comics characters introduced in 2008|G.I. Robot (Lord Job)]]
+[[Category:Characters created by Robert Kanigher]]
+[[Category:Characters created by Ross Andru]]
+[[Category:DC Comics characters with superhuman strength]]
+[[Category:DC Comics set during World War II]]

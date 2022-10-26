@@ -1,0 +1,231 @@
+{{short description|Watchmen character}}
+{{Use mdy dates|date=December 2019}}
+{{for multi|the band|Dr Manhattan (band)|the album|Dr Manhattan (album)}}
+{{Infobox comics character
+<!--Wikipedia:WikiProject Comics-->
+| image = Doctor Manhattan.jpg
+| caption = Art by [[Dave Gibbons]]
+| publisher = [[DC Comics]]
+|debut = ''[[Watchmen]]'' #1 (September 1986)
+| creators = {{ubl|[[Alan Moore]]|[[Dave Gibbons]]}}
+| alter_ego = Dr. Jonathan "Jon" Osterman<br>Calvin "Cal" Abar (né Jelani)
+| alliances = [[United States Department of Defense]]
+| partners = '''Romantic partners:'''<br>[[List of Watchmen characters#Janey Slater|Janey Slater]]<br>[[Silk Spectre#Laurie Juspeczyk|Laurie Juspeczyk]]<br>[[List of Watchmen characters#Sister Night|Angela Abar]]<hr>'''Children:'''<br>Christopher "Topher" Abar<br>Unnamed daughters<br>Clark Osterman
+| powers = {{collapsible list
+| titlestyle     = background:transparent;text-align:left;font-weight:normal;
+| title = ''See list''
+|
+*Nigh-[[omnipotence]]
+*Nigh-[[omniscience]]
+*[[omnipresence]]
+*Reality warping
+*[[Disintegration]]
+*Chronokinesis
+*[[Time Travel]]
+*[[Cosmic awareness]]
+*Science manipulation
+*[[Telekinesis]]
+*Energy manipulation
+*[[Atomic manipulation]]
+*Density manipulation
+*[[Precognition]]
+*Subatomic perception and control
+*Size manipulation
+*Intangibility
+*[[Healing factor]]
+*[[Immortality]]
+*[[Resurrection]]
+*[[Superstrength]]
+*[[Flight]]
+**[[Levitation]]
+*[[Permeation|Phasing]]
+*[[Extrasensory perception]]
+*[[Nuclear transmutation|Elemental transmutation]]
+*[[Teleportation]]
+*[[Superintelligence|Super-genius intelligence]]
+*[[Invulnerability]] 
+*[[Eidetic memory|Perfect memory]]
+*Dimensional travel
+*[[Self-replication|Self-duplication]]
+*Self-sustenance
+*Temporal and history manipulation
+}}
+}}
+'''Doctor Manhattan''' ('''Dr. Jonathan Osterman'''), often shortened to '''Dr. Manhattan''' or simply '''Manhattan''', is a [[fictional character]] who appears in comics published by [[DC Comics]]. He debuted in the [[graphic novel]] [[Limited series (comics)|limited series]] ''[[Watchmen]]''. Doctor Manhattan was created by writer [[Alan Moore]] and artist [[Dave Gibbons]].
+
+The ''Watchmen'' series is noted for addressing metaphysical issues and questions, Doctor Manhattan being the primary exponent. He is often used as an example of a post-human god. Reception of the character is positive and he has appeared and been mentioned in various forms of media. Doctor Manhattan later appeared in the ''[[Before Watchmen]]'' comic book prequel, with his own individual issue miniseries.
+
+In 2016, as part of DC Comics' [[DC Rebirth|''Rebirth'' relaunch]], Manhattan became a major character in the [[DC Universe]]. He was revealed to be responsible for the [[Flashpoint (comics)|Flashpoint]] event, creating [[The New 52]] timeline/universe in the process, a factor that removed 10 years of history of the DC characters.<ref>{{cite web|last=Arrant |first=Chris |url=https://www.newsarama.com/35504-official-the-mastermind-of-dc-s-rebirth-is-dr-manhattan.html |title=OFFICIAL: DR. MANHATTAN Behind DC REBIRTH's Stolen Time |publisher=Newsarama.com |date=July 20, 2017 |access-date=December 29, 2019}}</ref> This led him to become one of the main characters in the [[Doomsday Clock (comics)|''Doomsday Clock'']] miniseries, published from 2017 to 2019.<ref>{{cite web|last=Moore |first=Rose |url=http://screenrant.com/doomsday-clock-trailer-watchmen-crossover/ |title=Geoff Johns' Doomsday Clock Trailer |publisher=Screen Rant |date=September 22, 2017 |access-date=December 29, 2019}}</ref>
+
+Doctor Manhattan made his first live-action debut in the 2009 film ''[[Watchmen (film)|Watchmen]]'', played by [[Billy Crudup]]. He also appeared in the 2019 limited television series ''[[Watchmen (TV series)|Watchmen]]'', played by [[Yahya Abdul-Mateen II]] with his original form played by Darrell Snedeger.
+
+==Publication history==
+[[File:Dr Manhattan symbol.svg|left|thumb|Dr. Manhattan's chosen symbol]]
+Doctor Manhattan was partly based on [[DC Comics]]' [[Captain Atom]], who in Moore's original proposal was surrounded by the shadow of nuclear threat. However, the writer found he could do more with Manhattan as "a supreme super-hero" than he ever could have with Captain Atom. Moore sought to delve into [[nuclear physics]] and [[quantum mechanics]] in constructing the character of Dr. Manhattan. The writer believed that a character living in a quantum universe would not perceive time from a linear perspective, which would influence the character's perception of human affairs. Moore also wanted to avoid creating an emotionless character like [[Spock]] from ''[[Star Trek]]'', so he sought for Dr. Manhattan to retain "human habits" and to grow away from them and humanity in general. Gibbons had created the blue character [[Rogue Trooper]], and reused the blue skin motif for Doctor Manhattan, as it resembles skin tonally but with a different hue. Moore incorporated color into the story, and Gibbons noted the rest of the comic's color scheme made Manhattan unique.<ref>{{cite web|title = Watchmen Secrets Revealed – WatchmenComicMovie.com|url = http://www.watchmencomicmovie.com/110308-watchmen-movie-dave-gibbons.php|website = www.watchmencomicmovie.com|access-date = November 11, 2015}}</ref> Moore recalled that he was unsure if DC would allow the creators to depict the character as fully nude, which partially influenced how they portrayed the character.<ref name="TCJ116">"A Portal to Another Dimension". ''The Comics Journal''. July 1987.</ref> Gibbons wanted to tastefully depict Manhattan's nudity, selecting carefully when [[Nudity|full frontal]] shots would occur and giving him "understated" genitals—like a classical sculpture—so the reader would not initially notice it.<ref name="SeqTart">Kallies, Christy. "[http://www.sequentialtart.com/archive/july99/gibbons.shtml Under the Hood: Dave Gibbons]". SequentialTart.com. July 1999. Retrieved on October 12, 2008.</ref> Dr. Manhattan's forehead is marked with the atomic structure of [[hydrogen]], which he put on himself, declining a helmet with the [[Rutherford model|atom symbol]].
+
+==Fictional character biography==
+
+===Origins===
+Jonathan Osterman is born in 1929 to a [[German-American]] family. Jon plans to follow in his father's footsteps as a watchmaker, but when the U.S. drops the [[Atomic bombings of Hiroshima and Nagasaki|atomic bomb on Hiroshima]], his father declares his profession outdated and instead forces him to work toward a career studying [[nuclear physics]]. The incident represents the turning point in Jon's potential future from watchmaker to nuclear physicist, and foreshadows Doctor Manhattan's "exterior" perception of time as [[predetermination|predetermined]] and all things within it as so determined, including Manhattan's own reactions and emotions.
+
+Jon attends [[Princeton University]] and graduates with a [[Doctor of Philosophy|Ph.D.]] in atomic physics. In early 1959, he moves to a research base at Gila Flats, where experiments are being performed on the "intrinsic fields" of physical objects which, if tampered with, result in their disintegration. Here he meets Janey Slater, a fellow researcher; they eventually become lovers. During a visit to an amusement park in [[New Jersey]], Janey's wristwatch is broken, which Jon promises to fix. However, one month later, Jon discovers he has left the repaired watch in his labcoat inside a test chamber. While he is inside the test chamber, the door closes and locks. The researchers are unable to open the door or override the countdown, and Jon's body is torn to pieces from the force of the generator.
+
+In the following months, a series of strange events and apparitions occur at the research base, leading residents to speculate that the area is haunted. It becomes apparent that Jon is progressively re-forming himself during this time, as indicated by a series of partial bodily reappearances: first a disembodied nervous system including the brain and eyes; then as a circulatory system; and then as a partially muscled skeleton. Each time, the appearance lasts for only a few seconds. Jon eventually fully reappears as a tall, muscular, hairless, naked, blue-skinned man, glowing with a "flare of ultraviolet."
+
+===Before ''Watchmen''===
+Jon gradually becomes a pawn of the U.S. government, which gives him the code name "Doctor Manhattan"—a reference to the [[Manhattan Project]]—and a costume which he begrudgingly accepts. Doctor Manhattan chooses as his emblem a representation of a [[hydrogen atom]], whose simplicity he declares to be something that kindles his respect; accordingly, he painlessly burns the mark into his forehead. This preference for material mechanisms marks the beginning of his declining humanity, which is progressively mirrored by his gradual shedding of the uniform; by the end of the 1970s, he refuses to wear anything at all except during mandatory public appearances.
+
+However, Manhattan's presence tips the balance of the [[Cold War]] in the West's favor, and U.S. foreign policy becomes more militaristic as a result. At [[President of the United States|President]] [[Richard Nixon]]'s request, he secures an American victory in the [[Vietnam War]] one week after Manhattan's direct involvement, which subsequently allows Nixon to repeal the [[Twenty-second Amendment to the United States Constitution|22nd Amendment]] and serve up to five terms. Moreover, far from solving the problems underlying international tensions, Manhattan's presence exacerbates them while stifling their expression, which inevitably builds toward disaster; the entire plot of ''Watchmen'' occurs during the countdown to a potential nuclear war.
+
+Since he works for the U.S. government, Manhattan is exempt from a federal law outlawing costumed heroes, but spends much of his time conducting research. He is single-handedly responsible for the shift to electric-powered vehicles, and [[Adrian Veidt]] credits him with causing a huge leap forward in a myriad of science and technology sectors. As a result, the technology of the [[alternate history|alternative 1985]] of the ''Watchmen'' universe is far more advanced. During the only meeting of the Crimebusters group, Manhattan becomes attracted to [[Laurie Juspeczyk]], the second Silk Spectre. His relationship with Janey ends acrimoniously shortly after, and he begins dating Laurie.
+
+===Events of ''Watchmen''===
+At the start of ''Watchmen'', Manhattan works at the Rockefeller Military Research Center, where he lives with Laurie. [[Rorschach (comics)|Rorschach]] comes to inform the two of the murder of Edward Blake, aka the Comedian, and warns them that all former costumed adventurers are being targeted by a "mask killer." Manhattan dismisses Rorschach by teleporting him outside, and encourages Laurie to go out with Dan Dreiberg, the second Nite Owl. Shortly afterwards, Manhattan attends Blake's funeral with Veidt and Dreiberg, reflects on his association with Blake during the Vietnam War, and senses the presence of the former villain [[Janey Slater|Moloch]].
+
+During an appearance on a talk show, a reporter ambushes Manhattan with allegations that he caused cancer in his former associates, including Janey. Seeking solitude, he transports himself to [[Mars]]. The [[Soviet Union]] exploits his absence by invading [[Afghanistan]] and sparking an international crisis. Eventually, Manhattan brings Laurie to Mars to discuss why he should aid humanity, an argument Laurie inadvertently wins when she realizes to her shock that her father is Blake, a man she despised for sexually assaulting her mother. From this revelation, Manhattan is amazed by the improbable chances that occurred to result in the birth of Laurie, a chain of events he sees as a stunning "thermodynamic miracle." Realizing that, by extension, this miracle can apply to any living thing on Earth, Manhattan is persuaded to return to Earth to protect humanity rather than disregarding it as insignificant.
+
+Veidt is found to have framed Manhattan as part of his overall plot to avert World War III by attacking New York with an engineered monster, killing half of the city in the process. Although Manhattan and Laurie return too late to stop Veidt, they teleport to his base in [[Antarctica]] to confront him. Veidt tries to disintegrate Manhattan, only for Manhattan to restore himself more quickly than Veidt expected. However, upon seeing that Veidt's plan has averted war, Manhattan realizes that exposing him would be too dangerous for life on Earth, and agrees to stay silent. Rorschach leaves with the intention of exposing the truth, causing Manhattan to vaporize him. Manhattan decides to depart Earth again, suggesting that he desires to find a galaxy "less complicated than this one." When Veidt asks if his plan worked out in the end, Manhattan replies, "In the end? Nothing ends, Adrian. Nothing ever ends."
+
+===In the DC Universe===
+==== ''The New 52'' and ''DC Rebirth'' ====
+After departing from the ''Watchmen'' universe, Manhattan was aware of the [[DC Universe]] being filled with hope inside humanity, and traveled there to find a place among those people and start a new life. But at some point, his visions showed him an [[arms race]] among [[Metahuman|metahumans]] that caused an incoming "[[World War III]]", leading Manhattan to have a confrontation with [[Superman]], and then he saw "nothing".<ref>''DC Nation'' #6 (September 2018). DC Comics.</ref> This revelation led Manhattan to modify the DC Universe's mainstream timeline to fix the fissures caused by the several Crises across the [[Multiverse (DC Comics)|Multiverse]]; unaware it was the doing of [[Perpetua]] to free herself from the [[Source Wall]]. However, those actions would not get the expected result, and would lead to the creation of [[The New 52]].<ref name=":2" />
+
+During the events of ''[[Flashpoint (comics)|Flashpoint]]'', Manhattan deceived [[Pandora (DC Comics)|Pandora]] into convincing [[Flash (Barry Allen)|Barry Allen]] to merge three separate timelines (the [[DC Universe]], the Wildstorm Universe, and select [[Vertigo (DC Comics)|Vertigo]] titles) in order to create Prime Earth.<ref name=":2">''Flashpoint'' #5 (August 2011)</ref> The merger enabled him to erase ten years from the reverted universe, which not only reversed the age of its inhabitants by ten years, but also caused the multiple resurrections of several deceased characters.<ref name="DCUR">''DC Universe: Rebirth'' one-shot (May 2016)</ref> 
+
+In the new timeline, Manhattan prevents the last [[Shazam (wizard)|wizard]] of the Council of Eternity from revealing to Pandora how to open the [[Trinity War|skull shaped box]],<ref>''Justice League'' vol. 2 #0</ref> and kills [[Owlman (comics)|Owlman]] and [[Metron (comics)|Metron]] after the former tries to access the secrets of the universe.<ref>''Justice League'' vol. 2 #50 (May 2016)</ref> However, the [[Convergence (comics)|Convergence]] caused by [[Brainiac (character)|Brainiac]] and [[Arak (comics)|Telos]] restored the Multiverse, bringing back the pre-Flashpoint timeline.<ref name="Convergence">''Convergence'' (April–May 2015)</ref>
+
+Doctor Manhattan used [[Abra Kadabra (comics)|Abra Kadabra]] to trap [[Wally West]] within the Speed Force, and this modification in the timeline also caused the other speedsters [[Jesse Chambers|Jesse Quick]], [[Bart Allen]], [[Flash (Jay Garrick)|Jay Garrick]], and [[Max Mercury]] to be removed from history and trapped in the Speed Force. However Wally West was saved by Barry, therefore initiating the events of ''[[DC Rebirth]]''. Doctor Manhattan then kills Pandora after she finally realizes that he was the one responsible for all of the sins for which she had been blamed.<ref name="DCUR" /> Barry and [[Batman]] later began investigating the unknown force behind these changes,<ref>''The Flash: Rebirth'' one-shot (June 2016)</ref> learning from [[Lilith Clay]] that "Manhattan" was a prominent thought in Kadabra's mind when he claimed responsibility for removing Wally from history.<ref>''Titans'' vol. 3 #6 (December 2016)</ref>
+
+[[Eobard Thawne]] attacks Batman as he is studying a blood-stained [[smiley face]] button left embedded within the wall of the [[Batcave]]. When Thawne picks up the button, he is briefly teleported away, returning with the left half of his body charred to the bone. Just before his death, he claims to have seen "God."<ref>''Batman'' vol. 3 #21 (April 2017)</ref> Using the cosmic treadmill to chase after the radiation emitted from the button among the timestream, Batman and Barry discover Thawne as he was trying to reach "God." Upon reaching the unseen figure, Thawne boosted his ability to exist as a paradox before he was vaporized by Manhattan, leaving only the button behind. Sometime later, Manhattan picks up the button as he recalls his dialogue with Laurie.<ref>''The Flash'' vol. 5 #22 (May 2017)</ref>
+
+Manhattan puts Bruce Wayne in contact with the ''Flashpoint'' [[Thomas Wayne]], who tells his son not to become Batman before his "death" and the destruction of the last of the ''Flashpoint'' timeline,<ref>''Batman'' vol. 3 #22 (May 2017)</ref> prompting Bruce not to respond to the [[Bat-Signal]] the following night. Manhattan also saves [[Jor-El]] from the destruction of [[Krypton (comics)|Krypton]] before conditioning him to see only the very worst of humanity.<ref>''Action Comics'' #988</ref> Jor-El assumes the identity of Mister Oz and tries to convince his son Kal-El, or [[Superman]], to abandon Earth. However, when Jor-El begins to realize that he has been pushing against his son too far, he is pulled away. Superman acknowledges Jor-El's warnings even as he rejects his misanthropy.<ref>''Action Comics'' #991</ref> All of which were to test the will and hope of the two major heroes of the DC Universes.
+
+During the events of ''[[Heroes in Crisis]]'', Batman suspects that the massacre on Sanctuary might be related to Manhattan's actions.<ref>''[[Heroes in Crisis]]'' DC Comics.</ref> This theory was later proven to be partially true, as Wally gets in contact with [[Metron (comics)|Metron]]'s Mobius Chair, which grants him part of Manhattan's powers.<ref>''Flash Forward''. DC Comics.</ref>
+
+==== Events of ''Doomsday Clock'' ====
+During the events of ''[[Doomsday Clock (comics)|Doomsday Clock]]'', seven years after the events set in the ''Watchmen'' universe, [[Ozymandias (Watchmen)|Ozymandias]] (Adrian Veidt) is determined to find Doctor Manhattan to restore the world from chaos after his previous plan for world peace was exposed by [[Rorschach (comics)|Rorschach]]'s journal.<ref>''Doomsday Clock'' #1 (November 2017). DC Comics.</ref> Veidt narrates that he is able to track Doctor Manhattan, because Doctor Manhattan leaks electrons as his intrinsic field was stripped during his initial accident and an event caused by Veidt. Using the Owlship to quantum tunnel, accompanied by Rorschach II, Marionette, and Mime, Veidt follows the electron trail left by Doctor Manhattan to the DC Universe where they land in [[Gotham City]].<ref>''Doomsday Clock'' #2 (December 2017). DC Comics.</ref> Later, it is revealed that Doctor Manhattan is responsible for preventing the Comedian's death by teleporting him to the DC Universe.<ref>''Doomsday Clock'' #3 (January 2018). DC Comics.</ref>
+
+Doctor Manhattan recalls various events in which he indirectly killed [[Alan Scott]] and thus brought about changes in the timeline. On July 16, 1940, Alan Scott was riding on a train over a collapsing bridge, but he survived by grabbing onto a green lantern. He continues his life, eventually "[[Justice Society of America|sitting at a round table wearing a mask]]" and later testifying before the House Un-American Activities Committee but refusing to implicate anyone in his employ. On July 16, 1940, again, Doctor Manhattan moves the green lantern six inches out of his reach so that Alan Scott dies in the train accident and leaves no family behind, as the green lantern is passed through different locations. At a fun house in the present time, Bubastis II begins glowing, so Ozymandias moves him closer to the lantern to let him feed on Doctor Manhattan's temporal energies left on the lantern and thereby force Doctor Manhattan to their current location. Doctor Manhattan immediately proceeds to transport himself and the Watchmen group away, separating them from [[Batman]] and [[Joker (character)|Joker]]. He tells Ozymandias that he isn't returning to their world as he's in the middle of something. He reveals that he didn't kill Marionette in the robbery years back, because he saw what her child would do and that she is pregnant again. He also reveals that Ozymandias lied to Rorschach about having cancer, so Ozymandias admits to Rorschach that he deceived him and used him for his help. Doctor Manhattan then tells everyone that he came to the DC Universe looking for a place among them, but that he saw a vision of "the most hopeful among them. Heading toward [him]. Now hopeless," and then nothing in the future thereafter. Doctor Manhattan returns the team to the fun house. He returns to Mars, reflecting on a vision set one month in his future: a confrontation with [[Superman]] that may result in Superman destroying Doctor Manhattan or Doctor Manhattan destroying everything.<ref>''Doomsday Clock'' #7 (September 2018). DC Comics.</ref>
+
+On Mars, looking at a [[Legion Flight Ring|Legion Ring]] that once belonged to [[Ferro Lad]], Doctor Manhattan contemplates the events in which Ferro Lad sacrificed his life to save Earth's sun and thereby caused his ring to careen through time, the events in which he moved Alan Scott's lantern and thereby caused the ring never to have existed, as well as his confrontation with Superman set one week from then. On Earth, Batman and Superman are recovering from a massive explosion, which has produced a fog of tachyon particles that obscures the immediate past and future to Doctor Manhattan. Meanwhile, after tracing the energy signature of the explosion to Mars, many of Earth's superheroes travel in several spaceships to Mars for a confrontation with the suspected perpetrator. However, Batman believes that they are being "played," as he is unsure if they have the right person. With the heroes surrounding Doctor Manhattan, [[Martian Manhunter]] telepathically broadcasts Doctor Manhattan's final vision of Superman to everyone. The heroes believe that Doctor Manhattan is trying to destroy Superman and all of them before Superman destroys him. As Doctor Manhattan easily deals with the attacks by the heroes, he curiously examines and discloses the nature of the emotional spectrum by dissecting [[Guy Gardner (comics)|Guy Gardner]]'s power ring and stating that the magic used by the [[Justice League Dark]] is from the "scraps of Creation." To prove the point that even hope decays, he shows [[Ronnie Raymond]] that Professor [[Martin Stein]] purposely caused the circumstances where Raymond and Stein merged into [[Firestorm (comics)|Firestorm]] to learn more about [[Metahuman|metahumans]] from the inside. Back on Mars, refusing to believe the events of the past that were shown, Firestorm attacks and harms Doctor Manhattan upon which the heroes realize that Doctor Manhattan is not invulnerable and destroy him. However, the superheroes watch in shock as Doctor Manhattan reconstitutes himself before he attacks and incapacitates them.<ref name=":0">''Doomsday Clock'' #9 (2019). DC Comics.</ref>
+
+As he incapacitates the remaining heroes, Doctor Manhattan recounts the first time he arrived in the DC Universe on April 18, 1938. He meets Carver Colman. As they talk in a diner, Doctor Manhattan sees all moments of Carver's future until his death prior to April 19, 1955. Overhearing news of a mysterious man who lifted a car over his head, Doctor Manhattan leaves and witnesses the first appearance of the Golden Age Superman. From there, he witnesses the beginnings of Alan Scott/Green Lantern, [[Jay Garrick]]/The Flash, [[Hawkman (Carter Hall)|Hawkman]], [[Atom (Al Pratt)|Atom]], [[Doctor Fate (Kent Nelson)|Doctor Fate]], [[Sandman (Wesley Dodds)|Sandman]], [[Jim Corrigan|Spectre]], and [[Hourman (Rex Tyler)|Hourman]], and the formation of the [[Justice Society of America]]. Doctor Manhattan then sees a different timeline where Superman was never a member of the JSA and first appeared in 1956 instead (Silver Age/[[Earth-1]]). Doctor Manhattan witnesses several variations of the death of Superman's foster parents: [[Jonathan and Martha Kent]], the origins of Superman, and also when a young Superboy met the [[Legion of Super-Heroes]]. To appease his curiosity, Doctor Manhattan moves the Green Lantern away from Alan Scott, preventing the creation of the Green Lantern and the formation of the JSA, to see how the changes affect Superman. In doing this, Doctor Manhattan realizes that this universe is not part of the Multiverse, but is the Metaverse, with the Multiverse reacting to the changes within this universe (hence why there have been endless parallel worlds, none at all, 52 universes, and a Dark Multiverse). Having changed history in the Metaverse, Doctor Manhattan created the New 52 Universe, and as he witnesses the first appearance of the New 52 Superman, he is confronted by Wally West of the Pre-Flashpoint Universe, who briefly escapes the Speed Force to warn him that he knows what Doctor Manhattan did and that the heroes of the DC Universe will stop him, before being dragged back into the Speed Force. Doctor Manhattan likens Wally's appearance to the Metaverse fighting back at the changes done to it, an innate hope that fights back to the surface. He returns to Carver Colman on June 8, 1954, 10 seconds before he is killed by his mother, and he thinks upon the future he sees where Superman attacks him, believing that he will either die by Superman's hands, or destroy the Metaverse. Back to present day, Doctor Manhattan returns to Earth and ponders that he is a being of inaction on a collision course with a man of action (Superman), and to this universe of hope, he has become the villain.<ref>''Doomsday Clock'' #10 (2019)</ref>
+
+After arriving on Earth, Manhattan meets Superman in person during [[Black Adam]]'s invasion on the White House, with Ozymandias watching.<ref>''Doomsday Clock'' #11 (2019)</ref> Manhattan witnesses Superman's fight with Black Adam and Russia's superhero team called the People's Heroes. He eventually reveals to Superman that he is the one who has been tampering with reality, and that he also caused the death of Jonathan and Martha Kent. Manhattan expects Superman to attack him, but Superman instead protects him from [[Pozhar]] and then tells him that he should use his powers for good. Manhattan is inspired by Superman's heroism and his pivotal role in the fabric of reality; he undoes part of his actions, restoring much of the pre-New 52 timeline. Many characters are brought back into existence, including Superman's parents. Manhattan also goes back in time and changes Carver Colman's future for the better. He then goes back to the ''Watchmen'' universe, bringing Rorschach and Ozymandias with him. Manhattan saves his Earth by making all nuclear weapons disappear. Afterwards, he takes Mime and Marionette's infant son with him and proceeds to raise him on his own, so he will become their planet's equivalent to Superman. His final thought wanders to what his life could have been if he had not become Doctor Manhattan: Janey convinces him to not retrieve the watch so he is not involved in the incident that would have given him his powers; he marries Janey and they start a family together, having two daughters and a son, living a life without any worry of time. He smiles one last time, believing it to be a nice daydream to live in. Doctor Manhattan then erases himself from existence, transferring his lifeforce to the Planet and his powers to Mime and Marionette's son. He leaves the boy – whom he has named Clark – to be adopted by the former Nite Owl and Silk Spectre.<ref name=":1">''Doomsday Clock'' #12 (2019)</ref>
+
+==== After ''Doomsday Clock''====
+During the events of ''[[Dark Nights: Death Metal]]'', Wally West reveals Doctor Manhattan's energy is Connective Energy, and after he restored the DC Universe,<ref name=":1" /> the Quintessence's members used that same energy against Perpetua. [[The Batman Who Laughs]] has Wally prisoner to get Manhattan's powers, but Wonder Woman suggests to use both the Connective and Crisis Energies to create an "Anti-Crisis". The event also features the "Final Bruce Wayne," an amalgamated version of Batman and Doctor Manhattan created when an alternate Batman tried to track Manhattan and ended up recreating the accident that gave Jon his powers. The Batman Who Laughs was able to capture this alternate and extract his brain before he could properly harness his powers, allowing the Batman Who Laughs to transplant himself into the body, transforming the villain into "The Darkest Knight" with the goal of creating a Multiverse consisting of chaos.<ref>''Dark Nights: Death Metal: Legends of the Dark Knights'' (2020). DC Comics.</ref>
+
+==Characterization==
+===Appearance===
+Doctor Manhattan's body is humanoid, and his build tall and muscular. His height and relative size vary depending on his needs, but generally remains above {{cvt|1.83|m|ft}} tall. He is completely blue (altering his shade and luminosity at will) and has no hair. On his forehead he has etched a stylized image of a hydrogen atom. He did this during preparations by the military for his unveiling to the general public. They presented him with a hat as a part of his uniform that had a group of crossed ellipses on it, intended to look like an atom but Jon did not see the resemblance. He replaced it with a symbol of his own, saying that if he were to have a symbol it should at least be one that he respects.
+
+As Doctor Manhattan, his costume started out as a black leotard, which presumably he created. As time progressed the costume shrank progressively to a pair of shorts, then a brief, then a thong; he eventually went on to wear nothing at all, since he had become indifferent to the need for clothing. The only purpose his original costume served was to make those around him (including the general public) more comfortable.
+
+Before the experiment Jon Osterman was a human of average height. He had brown hair and brown eyes. As a physicist, he often wore a suit.
+
+===Personality===
+Dr. Manhattan, though supremely powerful, suffers from a decreasing ability to relate to normal humans. Perhaps due to his perception of time and realisation of the deterministic universe, he begins to show symptoms of apathy. From his radically altered perspective, almost all human concerns appear pointless and without obvious merit.
+
+He describes Laurie as his 'only remaining link to humanity'. This is demonstrated when the relationship ends, and Doctor Manhattan leaves Earth. This is also due to evidence coming to light that a number of those who were once close to him, including his former girlfriend Janey Slater, have come down with terminal cancer. Manhattan feels that he poses a threat to others, and he exiles himself to Mars, stating "I am tired of Earth, these people. I'm tired of being caught in the tangle of their lives." His interest in humanity is revived after he witnesses Laurie's epiphany that she is the daughter of the Comedian. It causes him to reflect on the sheer chance that life should come to be in any form, but after the Watchmen fail to prevent Ozymandias's destruction of New York, he departs Earth, commenting that he may explore new life in other parts of the galaxy.
+
+In ''DC Rebirth'' #1, [[Pandora (DC Comics)|Pandora]] accuses her killer — currently thought to be Doctor Manhattan — of believing in skepticism, doubt and corruption, proclaiming that he cannot understand the hope personified in the heroes of the [[DC Universe]], and that they will "prove [him] wrong".
+
+His meddling with the DC Universe to satisfy his own curiosity shows extreme apathy. He's altered the timeline so much, that several events and people were altered or wiped out. However, thanks to the [[Convergence (comics)|Convergence]], [[Wally West]] and [[Superman]], much of the damage was undone; though Manhattan wasn't deterred from continuing his experiment. He erased the [[Golden Age of Comic Books|Golden Age]] by preventing [[Alan Scott]] from getting his powers and helping form the [[Justice Society of America|JSA]]; no JSA to inspire Clark to be Superboy meant no [[Legion of Superheroes|Legion]] existed either. He remained indifferent to [[Saturn Girl|a survivor]] who avoided erasure.
+
+In the last ''Watchmen'' issue, Manhattan claimed that "nothing ends" despite Ozymandias succeeding in his plan for world peace. But in ''Doomsday Clock'', Manhattan withdrew from what he previously said after witnessing the DC Universe's citizens losing their own faith in their heroes, now affirming that "everything ends". His sole interest was in the moment Superman was to punch at him; a moment he couldn't see past. In irony, Manhattan was the [[antithesis]] of Superman, being a human who had lost all senses of humanity; while Superman was an alien who embodied the best of humanity. 
+
+When the foretold moment came, Manhattan revealed he was responsible for erasing Superman's loved ones; however, he was shocked that the punch was meant to knock away a villain behind him. Superman sought only to help and be better, which Manhattan saw  as the answer; the entire DC multiverse created new worlds for Superman to be born in every era until the 31st century, where his ideals brought peace.
+
+After resorting the JSA and Legion, Manhattan decided his world and multiverse could use someone like Superman, but Manhattan himself was too detached from his humanity; so he would need to raise a child and impact his powers to him. To this end, he raises Clark Maez, Mime and Marionette's son, before leaving him to be adopted by his former teammates.
+
+===Powers and abilities===
+Jon is the only character in ''Watchmen'' to possess superpowers. Throughout ''Watchmen'', he is shown to be absolutely powerful and invulnerable to all harm; even when his body is disintegrated, he can reconstruct it in a matter of seconds and remains unharmed. He is capable of altering his size depending on his needs, for example, reconstructing himself in a much bigger form. He can hurl huge objects effortlessly with his hands. He is also unable to exhaust himself. Jon has complete awareness of and control over atomic and subatomic particles. He is also an omnikinetic. He does not need air, water, food, or sleep, and is immortal. He can teleport himself and others over limitless distances. He is also capable of true flight, although he uses only levitation in most of his appearances. Due to his perception of time, he sees his past, present, and future simultaneously.
+
+Jon is able to phase any part of his body through solid objects without damaging them; produce multiple copies of himself which function independently of each other; project destructive energy; disintegrate people; create force fields; transmute, create, and destroy matter; move objects without physically touching them (telekinesis); reverse entropy; repair anything, no matter how damaged; and, he suggests, create life. He also claims to have walked on the surface of the sun. At one point it is stated that, in the event of a nuclear war, he would be capable of destroying Soviet nuclear missiles while at the same time 'destroying' large areas of Russia. As a result of these capabilities, Jon becomes central to the United States' Cold War strategy of deterrence.
+
+He is also capable of manipulating reality as he sees fit through the use of time manipulation, as seen when he erased ten years from the DC Universe, when [[The Flash (Barry Allen)|Barry Allen]] tried to bring his [[New Earth (DC Comics)|original universe]] back to normal. Jon's intervention caused The New 52 timeline to be formed, within which most superheroes are younger and less experienced, and most of them lose their most important relationships before they begin. However, despite his immense power, he was unable to erase or permanently kill [[Eobard Thawne]], the Reverse-Flash.
+
+In the DC Universe, Manhattan's power is revealed to be Connective Energy, the opposite to Crisis Energy.
+
+====Scientific accuracy====
+In the 2009 film adaptation ''[[Watchmen (film)|Watchmen]]'', physics professor [[James Kakalios]] of the [[University of Minnesota]] was used as a scientific consultant, and shed light on the potential scientific explanations of Doctor Manhattan's powers both in the [[Watchmen (film)|film]] and the [[Watchmen|comic]].
+
+[[File:Advanced Test Reactor.jpg|thumb|right|175px|[[Cherenkov radiation]] inspired Doctor Manhattan's appearance in the 2009 film adaptation.]]
+Kakalios explained that the intrinsic field has basis in reality in that it is a representation of a collection of the [[Electromagnetism|electromagnetic]], and [[Strong force|strong]] and [[weak nuclear force]]s. Kakalios explained that if a being were able to manipulate matter, such a being would have complete control over these three forces; hence, the "intrinsic field" would exist. Kakalios also explained that while it is unlikely, Doctor Manhattan's teleportation abilities seemingly could be achieved through [[quantum tunnelling]], should Doctor Manhattan have control over his probability wave functions.
+
+===Philosophical implications===
+The character of Doctor Manhattan is one that invokes thought on the philosophy of metaphysics. There are various themes addressed throughout the ''Watchmen'' series from [[philosophy of time]] and [[Eternalism (philosophy of time)|eternalism]], to [[determinism]] and its relationship to [[ethics]], to addressing questions such as "What does it mean to be human?" and "Do the ends justify the means?"
+
+The character is primarily cited as the representation of the potential side effects and dangers of a superintelligence, which include detachment from the rest of humanity and potentially characteristics of apathy.<ref name="io9.com">{{cite web|title = Is human super-intelligence a bad idea?|url = http://io9.com/is-human-super-intelligence-a-bad-idea-733655691|website = io9| date=July 10, 2013 |access-date = November 11, 2015|language = en-US}}</ref>
+
+==In other media==
+===Television===
+* Doctor Manhattan appears in ''[[Watchmen: Motion Comic]]'', where he, along with every other character in the series, is voiced by [[Tom Stechschulte]].<ref name="IMDbref">{{cite web|url=https://www.imdb.com/title/tt1322240/|title="Watchmen" (2008) TV Series|publisher=[[Internet Movie Database]]|access-date=March 25, 2009}}</ref>
+*In the ''[[Teen Titans Go!]]'' episode "Yearbook Madness", Doctor Manhattan's is one of many [[DC Comics]] superhero signatures in [[Starfire (Teen Titans)|Starfire]]'s yearbook.
+*Doctor Manhattan appears in ''[[Watchmen (TV series)|Watchmen]]'', portrayed by [[Yahya Abdul-Mateen II]]. He first appears as '''Cal Abar''', who is the husband of Angela Abar, aka Sister Night. It is revealed that despite his progressive detachment from (and growth beyond) humanity, Doctor Manhattan has reversed course and once again desired love and a relationship with a woman. He is eventually destroyed, but, in the series finale  it is hinted he transferred some of his powers to Angela.
+
+===Film===
+{{multiple image
+ | align     = right
+ | direction = horizontal
+ | header    =
+ | width1    = 150
+ | width2    = 120
+ | image1    = Dr-Manhattan l.jpg
+ | caption1  = Billy Crudup wearing facial markers to [[Facial motion capture|track facial expressions]]
+ | image2    = Doctor Manhattan (Billy Crudup).png
+ | caption2  = Doctor Manhattan (portrayed by [[Billy Crudup]]/[[Greg Plitt]]) in the 2009 film adaptation
+}}
+* Doctor Manhattan appears in ''[[Watchmen (film)|Watchmen]]'', portrayed by [[Billy Crudup]], with Jaryd Heidrick playing the young Jon Osterman in flashbacks. In the film, Ozymandias uses Doctor Manhattan's energy research to destroy several large cities. This persuades the world powers to unite against an apparently malevolent Doctor Manhattan, rather than a transdimensional alien as in the books.
+
+===Video games===
+* Doctor Manhattan appears in a [[cutscene]] in ''[[Watchmen: The End Is Nigh]]'', voiced by [[Crispin Freeman]].<ref>{{cite web|url=https://www.behindthevoiceactors.com/characters/Watchmen/Doctor-Manhattan/ |title=Doctor Manhattan Voice – Watchmen franchise |publisher=Behind The Voice Actors |access-date=December 29, 2019}}</ref>
+
+==References in other works==
+*In ''[[Final Crisis]]'' #2, the exiled Monitor [[Monitors (comics)|Nix Uotan]] sketches a character resembling Doctor Manhattan. [[Grant Morrison]] stated in an interview that the ''Final Crisis'' two-part series ''Superman: Beyond'' will feature "[[Captain Atom]] from [[List of DC Multiverse worlds|Earth 4]], which is kind of a weird amalgam of the original [[Charlton Comics|Charlton]] universe and this kind of ''[[Watchmen]]'' parallel world."<ref>{{cite web|last=Phillips |first=Dan |url=http://comics.ign.com/articles/876/876418p4.html |title=Grant Morrison's Master Plan For Batman – IGN |publisher=Comics.ign.com |access-date=December 29, 2019}}</ref> This character is named 'Captain Adam', and appears in ''Superman Beyond'' #1. He is blue-skinned and has the hydrogen atom mark of Doctor Manhattan, and is addicted to drugs which keep his "quantum senses" in check. When he is off the drugs, he becomes very similar to Doctor Manhattan in demeanor and powers, duplicating himself hundreds of times over to repair the Bleed Starship and allow the various Supermen to pilot the Thought-Robot Armor, which itself is confirmed to grant one powers capable of beating Captain Adam. However, even when he is using his full potential without the aid of drugs, Captain Adam has difficulty controlling his powers, something Doctor Manhattan never had a problem with.
+
+==See also==
+*[[List of DC Comics characters]]
+
+==References==
+{{reflist}}
+
+{{Watchmen}}
+
+{{Portal bar|Comics|Speculative fiction}}
+
+[[Category:Comics characters introduced in 1986]]
+[[Category:DC Comics characters with accelerated healing]]
+[[Category:DC Comics characters with superhuman strength]]
+[[Category:DC Comics male superheroes]]
+[[Category:DC Comics male supervillains]]
+[[Category:DC Comics metahumans]]
+[[Category:DC Comics characters who can teleport]] 
+[[Category:DC Comics characters who are shapeshifters]]
+[[Category:DC Comics characters who have mental powers]]
+[[Category:DC Comics telekinetics]] 
+[[Category:DC Comics telepaths]]
+[[Category:Fictional physicists]]
+[[Category:Watchmen characters]]
+[[Category:Superhero film characters]]
+[[Category:Fictional characters from New York City]]
+[[Category:Fictional characters who can manipulate time]]
+[[Category:Fictional characters who can manipulate reality]] 
+[[Category:Fictional characters who can manipulate light]]
+[[Category:Fictional characters with nuclear or radiation abilities]]
+[[Category:Fictional characters with precognition]]
+[[Category:Fictional characters who can change size]]
+[[Category:Fictional characters who can duplicate themselves]]
+[[Category:Fictional characters with elemental transmutation abilities]]
+[[Category:Fictional characters with energy-manipulation abilities]]
+[[Category:Fictional characters who can turn intangible]]
+[[Category:Fictional characters with immortality]]
+[[Category:Fictional characters with elemental and environmental abilities]]
+[[Category:Fictional characters with superhuman senses]]
+[[Category:Fictional characters with dimensional travel abilities]]
+[[Category:Fictional characters with electric or magnetic abilities]]
+[[Category:Fictional characters with X-ray vision]]
+[[Category:Fictional suicides]]
+[[Category:Jewish superheroes]]
+[[Category:Time travelers]]

@@ -1,0 +1,73 @@
+{{Short description|Marvel Comics fictional character}}
+{{Lead too short|date=October 2021}}
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+image=JackFrost_Marvel.jpg
+|caption=Detail from cover of ''The Invaders'' #6 (May 1976).<br>Art by [[Jack Kirby]] and [[Joe Sinnott]].
+|character_name=Jack Frost
+|real_name=Unrevealed<br><small>(possibly Jack Frost)</small>
+|publisher=[[Marvel Comics]]
+|debut=''[[U.S.A. Comics]]'' #1 (August 1941)
+|creators=[[Stan Lee]]<br>[[Charles Wojtkoski]]
+|alliances=[[Liberty Legion]]
+|aliases=The God in the Ice
+|powers= Cold and ice manipulation<br>Superhuman stamina and durability
+}}
+
+'''Jack Frost''' is a fictional superhero appearing in [[American comic book]]s published by [[Marvel Comics]]. The character first appeared in 1941 in ''[[U.S.A. Comics]]'' published by Marvel's 1940s forerunner [[Timely Comics]], during the period fans and historians call the [[Golden Age of comic books]].<ref name=Benton>{{cite book |last1=Benton |first1=Mike |title=Superhero Comics of the Golden Age: The Illustrated History |date=1992 |publisher=Taylor Publishing Company |location=Dallas |isbn=0-87833-808-X |url=https://archive.org/details/superherocomicso0000bent/page/188 |access-date=1 April 2020 |page=189}}</ref>
+
+==Publication history==
+First appearing in ''[[U.S.A. Comics]]'' #1 ([[cover-date]]d August 1941) from Marvel predecessor [[Timely Comics]], Jack Frost was one of the first creations of future Marvel editor-in-chief and publisher [[Stan Lee]],<ref>{{cite book |last1=Howe |first1=Sean |title=Marvel Comics: The Untold Story |date=2013 |publisher=Harper Perennial |isbn=978-0061992117 |chapter=Chapter 1}}</ref> who collaborated with penciler [[Charles Wojtkoski]].  Another of the Jack Frost stories was written by [[Carmine Infantino]] and drawn by [[Frank Giacoia]].<ref>{{cite journal |last1=Amash |first1=Jim |title=The Incredible Infantino Interview |journal=The Jack Kirby Collector |date=March 2002 |issue=34 |pages=16–20}}</ref> Attribution for the other stories has been debated.<ref>{{cite web |last1=Vassallo |first1=Michael J. |title=Carmine Infantino (1925-2013) - The Timely Years |url=http://timely-atlas-comics.blogspot.com/2013/04/ |website=Timely-Atlas Comics |access-date=13 April 2020 |date=April 9, 2013}}</ref> The character appeared in four issues (''U.S.A. Comics'' #1-4), before he was swept aside by a more popular headliner, [[Captain America]].<ref>{{cite book |last1=Mitchell |first1=Kurt |last2=Thomas |first2=Roy |title=American Comic Book Chronicles: 1940-1944 |date=2019 |publisher=TwoMorrows Publishing |isbn=978-1605490892 |page=129}}</ref>
+
+Jack Frost outwardly recalls the [[folklore|folklorish]] spirit of winter [[Jack Frost]], with icy blue skin and blue shorts.<ref name=Benton/> His powers and appearance resemble [[Iceman (Marvel Comics)|Iceman]], another Stan Lee creation who appeared twenty years later, in 1963's ''[[Uncanny X-Men|The X-Men]]''.<ref>{{cite book |last1=Sanderson |first1=Peter |title=Marvel Year By Year: A Visual History |date=2017 |publisher=DK Publishing |isbn=978-1465455505 |page=19}}</ref>
+
+Jack Frost's four stories were originally untitled, but comics historians refer to them as "The Origin of Jack Frost", "The Mechanical Octopus Pirates", "The Ambulance Racketeers" and "The Adventure of the Frozen Corpses".<ref name=Nevins/>
+
+In addition to the four comics stories in ''U.S.A. Comics'', Jack also appeared in a two-page text feature written by Lee in issue #2, "When U.S.A. Heroes Meet!" In this story, there's a gathering at the home of Dan Kane (also known as the superhero Captain Terror) of that issue's heroes: Jack Frost, Rockman, [[Whizzer (Robert Frank)|the Whizzer]], the Defender and the Vagabond. Jack makes friends with the other heroes, although at one point he does call them "a bunch of sissies". The group agrees to meet next issue and present the tale that they've decided is the best story of the month. The conceit was dropped, and the group did not reassemble in the next issue.
+
+More than three decades after Jack Frost's final appearance, Marvel launched ''[[Invaders (comics)|The Invaders]]'' in 1975, an intentionally nostalgic comic featuring star characters from the Golden Age — [[Captain America]], [[Bucky Barnes]], [[Human Torch (android)|the Human Torch]] and [[Namor|the Sub-Mariner]] — in [[World War II]]-era adventures. Writer and editor [[Roy Thomas]] wanted to expand the franchise, so he created a second superteam — the [[Liberty Legion]] — with a group of second-string Golden Age heroes including Jack Frost, along with [[Miss America (Madeline Joyce)|Miss America]], [[Whizzer (Robert Frank)|the Whizzer]], [[Jeffrey Mace|the Patriot]], [[Thin Man (comics)|the Thin Man]], [[Red Raven (Marvel Comics)|Red Raven]] and [[Blue Diamond (comics)|the Blue Diamond]].<ref name=BackIssue>{{cite journal |last1=Cassell |first1=Dewey |title=The Liberty Legion |journal=Back Issue |date=August 2018 |issue=106 |publisher = [[TwoMorrows Publishing]] |pages=19–22}}</ref>
+
+Thomas said that he chose Jack Frost for the team because the character fit an archetype that Thomas was looking for: "I felt I should have a Sub-Mariner type and, in a way, Jack Frost kind of fit that bill", he said. He chose not to explore Jack's backstory, although there are indications that he may be an alien: "His background was vague in the original stories, so I wanted to keep it vague", said Thomas.<ref name=BackIssue/>
+
+Jack fought with the Legion in five stories in 1976. The team was introduced in ''[[Marvel Premiere]]'' #29 and 30 (April and May 1976), as well as an issue of ''The Invaders'' and two issues of ''[[Marvel Two-in-One]]''. The Liberty Legion returned for another four issues of ''The Invaders'' in 1978-1979, and then the team disappeared from the canvas. Thomas said that there were plans for a ''Liberty Legion'' series, but by that point, the sales figures on the ''Invaders'' comic were dropping, and Marvel decided against launching a spin-off.<ref name=BackIssue/>
+
+Frost came back for one issue in April 1991 — ''Captain America'' #384, "Lair of the Ice Worm" — and then went back into hibernation. He made another two appearances in 2009, in the Golden Age nostalgia series ''[[Avengers/Invaders]]'' #10 and 12 (June & Aug 2009).
+
+==Fictional character biography==
+
+Jack Frost resembles a young man made of ice, and can create and withstand extremely cold temperatures and generate large amounts of ice.<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=196}}</ref>
+
+The introduction in his first story implies that he is a mythical creature, a lonely figure existing in the [[Arctic]] landscape: "The far north! Challenging! Mysterious! Foreboding! The land that no man really knows... in this great, frozen waste, surrounded by an eternal, deathly quiet, lives a person we have all heard of but few men have seen — the King of the Cold — Jack Frost!"<ref name=Nevins>{{cite book |last1=Nevins |first1=Jess |title=Encyclopedia of Golden Age Superheroes |date=2013 |publisher=High Rock Press |isbn=978-1-61318-023-5 |page=136}}</ref>
+
+This spirit was awoken by the cries of a dying prospector, who's been shot by a claim-jumper. In his final moments, the man pleads with Jack to protect his daughter in [[New York City]], and Jack — horrified by the crime — transports himself to America to confer with the police. They don't believe his story, so he determines to fight evil wherever he can find it.<ref>{{cite book |last1=Steranko |first1=Jim |title=The Steranko History of Comics, vol 1 |date=1970 |publisher=Supergraphics |page=62}}</ref>
+
+During [[World War II]], he joined with other superheroes to form the team [[Liberty Legion]] and protect the United States from [[Axis powers of World War II|Axis]] home-front infiltration. The Liberty Legion was initially assembled by [[Bucky Barnes|Bucky]] to rescue the [[Invaders (comics)|Invaders]] brainwashed by the [[Red Skull]]. With the Legion, Jack Frost battled [[Namor|Namor the Sub-Mariner]] and the original [[Human Torch (android)|Human Torch]], and protected bystanders from shrapnel with an ice umbrella.<ref>''Marvel Premiere'' #29; ''The Invaders'' #6; ''Marvel Premiere'' #30</ref>
+
+Jack Frost was seen again in a 1991 issue of ''Captain America'', in which it was explained that he had sacrificed himself by melding with a powerful Arctic "ice-worm" monster, in order to neutralize it and keep it from savaging innocent people. Jack Frost was briefly freed during an encounter with Captain America, before willingly being swallowed by and joining with the ice-worm once more. [[Thor (Marvel Comics)|Thor]] speculates that Jack Frost may be the diminutive child of a [[Norse mythology]] [[Giants (Marvel Comics)|Frost giant]].<ref>''[[Captain America (comic book)|Captain America]]'' #384 (April 1991)</ref>
+
+==Powers and abilities==
+Jack Frost has the ability to generate sub-freezing temperatures.  Combined with ambient water vapor, he can create snow, sleet, and ice for various effects such as propelling snow flurries at hurricane wind-speeds or fashioning ice into various simple constructs such as spheres, bridges, or walls.  He also has superhuman stamina and durability. Jack Frost has bluish-white skin that glistens from the glaze of frost that covers it. His skin temperature is {{convert|32|°F|°C}}.
+
+==Related characters==
+* In modern Marvel continuity, an unrelated, human scientist, Professor Gregor Shapanka, using technological means to generate incapacitating ice which he first planned to use to prolong life, became the [[supervillain]] Jack Frost in ''[[Tales of Suspense]]'' #45 (Sept 1963). He was introduced as an [[antagonist]] of the [[superhero]] [[Iron Man]], as he was a former Stark employee who was fired for attempted robbery. He later took on the name [[Blizzard (Marvel Comics)#Gregor Shapanka|Blizzard]].<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=57}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://marvel.wikia.com/wiki/Jack_Frost_(Earth-616) Jack Frost] at Marvel Wiki
+* [http://www.internationalhero.co.uk/j/jackfrost.htm Golden Age Jack Frost at International Hero]
+
+{{Jack Frost}}
+{{GoldenAge}}
+{{Avengers characters}}
+
+[[Category:Characters created by Charles Nicholas]]
+[[Category:Characters created by Stan Lee]]
+[[Category:Comics characters introduced in 1941]]
+[[Category:Fictional characters with ice or cold abilities]]
+[[Category:Fictional war veterans]]
+[[Category:Golden Age superheroes]]
+[[Category:Jack Frost]]
+[[Category:Marvel Comics male superheroes]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Timely Comics characters]]

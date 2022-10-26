@@ -1,0 +1,78 @@
+{{Infobox comics character<!--Wikipedia:WikiProject Comics-->
+| character_name = Super-Turtle
+| image     = [[Image:SuperTurtle.JPG]]
+| caption   = 
+| publisher = [[DC Comics]]
+| debut     = ''[[Adventure Comics]]'' #304 (January 1963)
+| creators  = [[Henry Boltinoff]]
+| alter_ego = 
+| full_name = Tur-Tel
+| species   = [[Turtle]]
+| homeworld = Galapagon
+| alliances = <!-- optional -->
+| partners  = <!-- optional -->
+| supports  = <!-- optional -->
+| aliases   = <!-- optional -->
+| powers    = Same range of powers as [[Superman]]
+}}
+
+'''Super-Turtle''' (or '''Super Turtle''') is a fictional character from [[DC Comics]], created by [[Henry Boltinoff]]; he is depicted as a [[bipedal]] [[anthropomorphic]] [[turtle]] wearing a [[cape]] like [[Superman]]'s. His emblem, which is on his cape, is a letter T in a shield.<ref>{{cite book |last1=Becattini |first1=Alberto |title=American Funny Animal Comics in the 20th Century: Volume Two |date=2019 |publisher=Theme Park Press |isbn=978-1683902218 |chapter=Super-Animals}}</ref>
+
+==Publication history==
+Created to be a lighthearted parody of Superman, Super-Turtle appeared mostly in one-page comic stories in [[Silver Age of Comic Books|Silver Age]] comic books, starting in ''[[Adventure Comics]]'' #304 (January 1963).<ref name=Krypton>{{cite book |last1=Eury |first1=Michael |title=The Krypton Companion |date=2006 |publisher=TwoMorrows Publishing |isbn=9781893905610 |page=192}}</ref>
+
+An accepted part of DC Comics history, Super-Turtle tends to show up once in a while in one form or another; e.g., a Super-Turtle figure hangs from the ceiling of the Planet Krypton restaurant in ''[[Kingdom Come (comics)|Kingdom Come]]'' and he had a [[cameo appearance]] in the one-shot ''[[Superman and Batman: World's Funnest]]''. Two one-page Super-Turtle stories were created for and appeared in the 2000 ''[[Silver Age (DC Comics)|Silver Age]]'' series.
+
+His most recent comic book appearance was in issue #3 of the 2008 miniseries ''[[Ambush Bug: Year None]]'', in which he plays a role like the one [[Superboy-Prime]] played in ''[[Infinite Crisis]]''; after living in Limbo with [[Superman (Earth-Two)|Kal-L]] and company, Super-Turtle (who now calls himself Clark Kent) starts destroying anyone he considers to be a phony Super-Turtle, including [[Bat-Mite]] and [[Superboy (Kon-El)|Connor Kent]].
+
+Super-Turtle makes a cameo in the final issue of ''[[Batman: The Brave and the Bold (comics)|Batman: The Brave and the Bold]]'' as Bat-Mite is upset of the comic book's cancelation and states several missed crossover opportunities, including Super-Turtle.<ref>''Batman: The All New Brave and The Bold'' #16</ref>
+
+Super-Turtle has since appeared in ''Sleepy Time Crime'' from Capstone Publishing's DC Super-Pets line of children books.<ref>{{cite web|title=Sleepy Time Crime|url=http://www.capstonepub.com/product/9781404864856}}</ref>
+
+==Fictional character biography==
+On the planet Galapagon (a parody of [[Krypton (comics)|Krypton]] and the [[Galápagos Islands]]), the scientist Shh-Ell (a parody of [[Jor-El]]) of an advanced race of turtles realized that their planet was doomed, and convinced the Science Council that they should build 1,000 spaceships to evacuate it. Slow by nature, the turtles only managed to build one spaceship, in which Shh-Ell's infant son, Tur-Tel (Kal-El), was sent to Earth. Found by a kindly homespun farming couple, the turtle grew up and gained super-powers, becoming '''Super-Turtle''', the '''Reptile of Steel'''.<ref>{{cite book |last1=Greenberger |first1=Robert |last2=Pasko |first2=Martin |title=The Essential Superman Encyclopedia |date=2010 |publisher=Del Rey |isbn=978-0-345-50108-0 |page=428}}</ref>
+
+Super-Turtle's enemies and allies include parodies of Superman's (such as Brainy-[[yak]], who is a parody of [[Brainiac (character)|Brainiac]] and [[Lex Luthor]]) and, in curious circumstances, Superman himself.
+
+==Powers and abilities==
+Super-Turtle has the same powers as Superman, including flight, invulnerability, superhuman speed and strength, and vision powers.
+
+==Appearances==
+Super-Turtle appeared in the following comics:<ref name=Krypton/>
+
+===Bronze Age===
+* ''[[Action Comics]]'' #299, 301, 305, 309, 318, 321, 336, 374, 381 (1963-1969)
+* ''[[Adventure Comics]]'' #304, 312, 316–317, 326, 329, 341–342, 363, 377, 379 (1963-1969)
+* ''[[Superboy (comic book)|Superboy]]'' #103, 105, 107–108, 110, 113–114, 127, 130, 156 (1963-1969)
+* ''[[Superman (comic book)|Superman]]'' #159, 162, 170, 175, 181, 188, 190 (1963-1966)
+* ''[[World's Finest Comics]]'' #149, 151–152, 154, 156, 158, 166, 181 (1965-1968)
+* ''[[Superman's Pal Jimmy Olsen]]'' #90-91, 115 (1966-1968)
+* ''[[The Brave and the Bold]]'' #70 (1967)
+
+===Modern Age revivals===
+* ''[[Ambush Bug]]'' #1, 3 (1985)
+* ''[[80-Page Giant|Silver Age 80-Page Giant]]'' #1 (2000)
+* ''[[Secret Files and Origins|Silver Age Secret Files and Origins]]'' #1 (2000)
+* ''[[Superman and Batman: World's Funnest]]'' (2001)
+* ''[[Ambush Bug: Year None]]'' #3 (2008)
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.dcuguide.com/who.php?name=superturtle Unofficial Guide to the DC Universe: Super-Turtle]
+**[http://www.dcuguide.com/chronology.php?name=superturtle Unofficial Super-Turtle Chronology]
+*{{comicbookdb|type=character|id=6577}}
+*[http://www.dialbforblog.com/archives/314/ Dial B for Blog #314] (with Super-Turtle comic pages)
+
+[[Category:Animal superheroes]]
+[[Category:Comics characters introduced in 1963]]
+[[Category:DC Comics animals]]
+[[Category:DC Comics characters who can move at superhuman speeds]]
+[[Category:DC Comics characters with superhuman strength]]
+[[Category:DC Comics extraterrestrial superheroes]]
+[[Category:DC Comics superheroes]]
+[[Category:Fictional turtles]]
+[[Category:Parody superheroes]]
+[[Category:Parodies of Superman]]
+[[Category:Comics about animals]]

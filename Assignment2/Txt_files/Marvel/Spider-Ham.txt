@@ -1,0 +1,750 @@
+{{short description|Fictional comic book character, porcine parody of Spider-Man}}
+{{Infobox comics character
+| character_name = Peter Porker<br>{{small|'''Spider-Ham'''}}
+| image          = Spiderham12.PNG
+| imagesize      = <!-- default 250 -->
+| converted      = y
+| caption        = Cover to ''Peter Porker, The Spectacular Spider-Ham'' #12, by Joe Albelo.
+| publisher      = [[Marvel Comics]]
+| debut          = ''Marvel Tails Starring Peter Porker, the Spectacular Spider-Ham'' (November 1983)
+| creators       = [[Larry Hama]]<br />[[Tom DeFalco]]<br />Mark Armstrong
+| alter_ego      = Peter Benjamin Porker
+| full_name      = 
+| species        = [[Pig]] mutate
+| homeworld      = Earth-8311
+| alliances      = [[Spider-Verse#Secret Wars (2015)|Web Warriors]]
+| partners       = <!-- optional -->
+| supports       = <!-- optional -->
+| aliases        = <!-- optional -->
+| powers         = {{Plainlist|
+* Enhanced strength, agility and durability
+* Precognitive Spider-Sense
+* Organic webbing
+* Ability to cling to surfaces 
+}}
+| cat            = 
+| subcat         = 
+| hero           = y 
+| villain        = 
+| sortkey        = 
+| addcharcat#    = 
+}}
+
+'''Spider-Ham''' ('''Peter Porker''') is a fictional [[superhero]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character is an [[anthropomorphism|anthropomorphic pig]] and is a [[cartoon animal]] [[parody]] version of [[Spider-Man]]. He was created by editor [[Larry Hama]], [[Tom DeFalco]] and Mark Armstrong.<ref>{{cite book |last1=Brevoort |first1=Tom |last2=DeFalco |first2=Tom |last3=Manning |first3=Matthew K. |last4=Sanderson |first4=Peter |last5=Wiacek |first5=Win |title=Marvel Year By Year: A Visual History |date=2017 |publisher=DK Publishing |isbn=978-1465455505 |page=213}}</ref>
+
+He first appeared in the one-shot humor [[comic book]] ''Marvel Tails Starring Peter Porker, the Spectacular Spider-Ham'' (November 1983), which was then followed by an ongoing bi-monthly series, ''Peter Porker, the Spectacular Spider-Ham'', under Marvel's [[Star Comics]] imprint, with both titles edited by Hama. The character existed on Earth-8311, which was a universe populated by anthropomorphic parody versions of the Marvel superheroes and supervillains.<ref name="Time">{{cite magazine|title= Top 10 Oddest Marvel Characters|magazine= Time|date=2009-09-03|url=http://entertainment.time.com/2009/09/02/top-10-oddest-marvel-characters/slide/spider-ham/|access-date=2010-03-04}}</ref> Spider-Ham made his feature film debut in ''[[Spider-Man: Into the Spider-Verse]]'' (2018), voiced by [[John Mulaney]].
+
+==Publication history==
+{{Infobox comic book title
+| title = Marvel Tails Starring Peter Porker
+| 2ndary_box = y
+| image = Marvel Tails 1 cover.jpg
+| imagesize = 198
+| caption =
+| schedule =
+| format =
+| ongoing =
+| genre =
+| publisher = [[Marvel Comics]]
+| date = November 1983
+| startmo =
+| startyr =
+| endmo =
+| endyr =
+| issues = 1
+| main_char_team = Spider-Ham <br /> Captain Americat <br /> Hulk-Bunny <br /> Goose Rider
+| writers =
+| artists =
+| pencillers =
+| inkers =
+| letterers =
+| colorists =
+| editors =
+| creative_team_month =
+| creative_team_year =
+| creators =
+| TPB =
+| ISBN =
+| TPB# =
+| ISBN# =
+| subcat =
+| altcat =
+| sort = Marvel Tails
+| addpubcat# =
+| nonUS =
+}}
+
+Spider-Ham was first featured as star of the 1983 humorous one-shot ''Marvel Tails'', with a backup cast of other anthropomorphic talking-animal parody versions of popular Marvel superheroes, such as Captain AmeriCat (a cat version of [[Captain America]]), Hulk-Bunny (a rabbit version of [[Hulk]]) and Goose Rider (a goose version of [[Ghost Rider]]).<ref>{{cite book |last1=Becattini |first1=Alberto |title=American Funny Animal Comics in the 20th Century: Volume Two |date=2019 |publisher=Theme Park Press |isbn=978-1683902218 |chapter=Super-Animals}}</ref>
+
+Two years later, a solo series, titled ''Peter Porker, the Spectacular Spider-Ham'' debuted under Marvel's Star Comics imprint. The series, published bi-monthly, lasted seventeen issues before its cancellation in 1987. With the cancellation of ''Peter Porker, the Spectacular Spider-Ham'', the character became a backup feature in ''Marvel Tales'', a monthly reprint series showcasing Spider-Man's past adventures. Beginning with issue #201 ([[cover date]]d July 1987), these new Spider-Ham stories appeared in issues #201–212, 214–219, 223–230, 233, 236, 237, 239, 240, and 247 before ceasing altogether.
+
+In issue #3 of ''[[What The--?!]]'' (cover dated October 1988), Porker meets with Raven the Hunter (a parody of Spider-Man's nemesis [[Kraven the Hunter]]) in a story that satirized the popular "[[Kraven's Last Hunt]]" storyline which had been featured a year earlier in Marvel's Spider-Man titles. Spider-Ham also makes appearances in issues #18, 20, 22, and 24 of ''What The--?!'' The 26th issue of ''What The--?!'' (cover dated fall 1993) features "Spider-Ham 15.88", a humorous take-off on Peter Parker's future counterpart, Miguel O'Hara a.k.a. ''[[Spider-Man 2099]]''. The "15.88" is not seen as a year, but rather a humorous take on the price of a ham (the cover states that it was marked down from the original price of $20.99).
+
+Spider-Ham has also appeared on the cover of ''[[Wha...Huh?]]'' #1, and was referred to as a fictional character in the [[Earth-616]] Marvel Universe, in ''[[Generation X (comics)|Generation X]]'' #52.
+
+''Spider-Man Family'' #1 (2005 one-shot) features a sixteen-page ''[[Spider-Girl (Mayday Parker)|Spider-Girl]]'' story, in which May Parker ([[Spider-Man|Peter Parker]]'s daughter) watches a [[DVD]] showing a small portion of a fictional Spider-Ham animated series, discovering that it was created by one of Spider-Man's enemies, [[Jack O'Lantern (Marvel Comics)|Jack O'Lantern]]. Here, Spider-Ham appears to mostly be a parody of [[Batman]]. Also in the issue, there is a partial reprint of ''Marvel Tails'' #1.
+
+Spider-Ham was selected by fans and retailers to be the focus of the final variant cover by Mike Wieringo to the ''[[Spider-Man: The Other]]'' crossover, ''Amazing Spider-Man'' #528.<ref>{{cite web|url= http://www.newsarama.com/forums/showthread.php?threadid=53776 |archive-url= https://web.archive.org/web/20081211063549/http://www.newsarama.com/forums/showthread.php?threadid=53776 |url-status= dead |archive-date= 2008-12-11 |title= [Updated] CHECKING OUT THE SPIDER-HAM | work = Newsarama |via= Web.archive.org |date=2008-12-11 |access-date=2019-06-30}}</ref>
+
+In January 2007, [[J. Michael Straczynski]] authored the ''[[Ultimate Marvel|Ultimate]] [[Civil War (comic book)|Civil War]] Spider-Ham'' [[One-shot (comics)|one-shot]], featuring Spider-Ham's attempt to find his missing "thought balloons" against a Civil War parody. The story does not fit in with previously established Spider-Ham continuity.
+
+Tom Defalco returned to Spider-Ham's world in 2009, in the pages of ''Amazing Spider-Man Family'' #4–5. He introduces Swiney-Girl, the daughter of Spider-Ham and counterpart of Defalco's other creation [[Spider-Girl (Mayday Parker)|Spider-Girl]]. Once again, the story strays away from the established, albeit loose, continuity of the original Spider-Ham stories by altering the character's origin and supporting characters, most notably in establishing Peter Porker as a natural-born [[pig]] bitten by a radioactive spider (directly mirroring Spider-Man's origin) and altering his love interest (a counterpart of [[Mary Jane Watson]]) from a [[water buffalo]] to a [[crane (bird)|crane]].
+
+He fights alongside the ''X-Babies'' in issue #4 (March 2010) of their four-issue miniseries from 2009–2010.
+
+To mark the anniversary of ''Peter Porker, The Spectacular Spider-Ham'' #1, Marvel released the ''Spider-Ham 25th Anniversary Special'' in July 2010, with Tom Defalco writing both Spider-Ham and Swiney-Girl stories. These stories feature most of Spider-Ham's original cast and origin, but incorporates the Mary Crane Watsow character from ''Amazing Spider-Man Family'' rather than her original counterpart.
+
+==Fictional character biography==
+Peter Porker was born a spider (simply named Peter). He resided in the basement lab of May Porker, a slightly goofy animal scientist who had created "the world's first atomic powered hairdryer", hoping that "the introduction of nuclear fusion into America's beauty salons" would "revolutionize the hair care industry".<ref name="Time"/> After dousing her head with water and activating the dryer, May Porker accidentally irradiated herself, and in a fit of delusion, bit Peter, who then found himself transformed into an anthropomorphic swine much like May Porker herself. Running from the Porker homestead disoriented, Peter soon came to realize that he still retained a spider's abilities:
+
+<blockquote>''"This is astounding! Am I a spider with the limitations of a pig? Or a pig with the proportionate strength and agility of a spider? I've become something greater than either spider or pig... I've become a '''Spider-Ham!'''"'' – ''Peter Porker, the Spectacular Spider-Ham'' #15 (May 1987)</blockquote>
+
+After this startling series of events, Peter (who adopted the surname "Porker", that of his benefactor May Porker, who after the accident mentally attuned to a state in which she believed she was Peter's loving aunt) dedicated himself and his new-found abilities to fighting injustice and the occasional animal parody of established Marvel Comics villains. May Porker's scientific genius was transferred to Peter, giving him the know-how to devise his webspinner gauntlets to replace his lost natural ability.
+
+===Misadventures===
+Porker, in his spider-themed alter-ego's first adventure, teamed up with Captain Americat, as they attempted to foil the nefarious plot of The Marauder, in a series of events that led to the creation of the Hulk-Bunny (''Marvel Tails'' #1, "If He Should Punch Me").
+
+Several months later, Spider-Ham encountered his main nemesis and one of his only recurring enemies in the form of Ducktor Doom, a duck parody of Doctor Doom (''Peter Porker, the Spectacular Spider-Ham'' #1, "The Mysterious Island of Ducktor Doom"). Spider-Ham would meet again with Doom when Porker would foil the would-be world conqueror's plot to create an army of living super vegetables (''Peter Porker, the Spectacular Spider-Ham'' #6, "Salad Daze").
+
+Other notable menaces Porker would face along the way include the Bull-Frog (a parody of the Marvel villain [[Man-Bull]]), the Buzzard (an opossum take on the Spider-Man adversary the [[Vulture (Marvel Comics)|Vulture]]), Hogzilla (a swine counterpart to the more popular [[Godzilla]]), and the King-Pig (seemingly the swine equivalent of Marvel's mob-boss the [[Kingpin (comics)|Kingpin]]).
+
+Three characters, not parallels to anybody in the Spider-Man series, also begin in #1: J. Jeremiah Jackal, Jr. (J. Jonah Jackal's nephew), Bunson Bunny and Upton Adam Stray (a cat with shades), all junior trainees at the Daily Beagle. They acquire super-powers in #15, encouraging Spider-Ham in his already made decision to abandon his super-hero career, but they fumble their first mission, forcing Peter Porker to resume his alter-ego as Spider-Ham. Further misadventures of the Beagle Brigadeers were presented within the back-up stories in ''Marvel Tales''.
+
+The series also included back-up stories featuring such characters as Deerdevil ([[Daredevil (Marvel Comics series)|Daredevil]]), Goose Rider ([[Ghost Rider]]) and the Fantastic Fur (the [[Fantastic Four]]).
+
+===Marvel Zombies===
+When Spider-Ham accidentally travels to the ''[[Marvel Zombies]]'' universe, he is suddenly zombified by a group of zombies, namely [[Captain America]], [[Hulk]], and [[Wolverine (character)|Wolverine]]. It appears that he is directly shot in the head by an energy bullet by [[Ultron|Earth 616's Ultron]], effectively killing him but, in a zombie state, Spider-Ham turned into [[Hannibal Lecter|Ham-ibal Lecter.]]
+
+===Spider-Verse===
+During the ''[[Spider-Verse]]'' storyline which featured Spider-Men from various alternate realities, Spider-Ham became a member of the Spider-Army fighting against the Inheritors. He played a crucial role in the final confrontation when he switches places with Benjy Parker (the baby brother of [[Spider-Girl (Mayday Parker)|Spider-Girl]] of [[Marvel Comics 2|Earth-982]]) – one of the three sacrifices needed for the Inheritors to destroy the Spider-Totems – allowing [[Uncle Ben#Spider-Verse|Ben Parker]] to get Benjy to safety.<ref>''The Amazing Spider-Man'' vol. 3 #14</ref>
+
+===''Secret Wars''===
+During the ''[[Secret Wars (2015 comic book)|Secret Wars]]'' event when all universes were destroyed and their remains formed a single planet called Battleworld, Spider-Ham found himself the only pig in the domain of the [[Battleworld]] called Arachnia and ended up as the captive of its [[Mayor]], [[Norman Osborn]]. He was rescued by [[Spider-Gwen]],<ref>''Secret Wars: Spider-Verse'' #1 (May 2015)</ref> and the two eventually discovered and teamed up with other spider-powered people ([[Spider-Man Noir]], [[Spider-Man: India]], [[Captain Britain Corps|Spider-UK]] and [[Anya Corazon]]), neither of whom remembered their previous encounter during the original ''Spider-Verse''.<ref>''Spider-Verse'' vol. 2 #2 (Jun. 2015)</ref>
+
+===''Web Warriors''===
+Following the conclusion of ''Secret Wars'', the team of six Spiders that formed during the event feature in a new ongoing series called ''Web Warriors'', a name that was coined by the Peter Parker of the [[Ultimate Spider-Man (TV series)|''Ultimate Spider-Man'' TV series]] during the original ''Spider-Verse''.<ref>{{cite web|url=https://www.bleedingcool.com/2015/06/29/spider-gwen-stars-in-web-warriors-launched-by-mike-costa-and-david-baldeon-marveloctober/|title=Spider-Gwen Stars In Web Warriors Launched By Mike Costa And David Baldeon #MarvelOctober (UPDATE)|website=www.bleedingcool.com|date=29 June 2015|access-date=22 December 2018}}</ref>
+
+==Other characters==
+Earth-8311 features [[talking animals in fiction|talking animal]] parody versions of a variety of other Marvel characters including some superheroes and supervillains.
+
+{|class="wikitable sortable"
+|-
+! Character !! Real Marvel Character !! Animal !! First Appearance
+|-
+| '''Spider-Ham/Peter Porker'''
+| [[Spider-Man]]
+| [[Spider]]/[[Pig]]
+| ''Marvel Tails Starring Peter Porker, the Spectacular Spider-Ham'' #1
+|-
+| '''Spider-Ham 2099/Piguel O'Malley'''
+| [[Spider-Man 2099]]
+| [[Spider]]/[[Pig]]
+| ''What The--?!'' #26
+|-
+| '''May Porker'''
+| [[Aunt May]]
+| [[Pig]]
+| ''Marvel Tails Starring Peter Porker, the Spectacular Spider-Ham'' #1
+|-
+| '''Mary Jane Waterbuffalo'''
+| [[Mary Jane Watson]]
+| [[Water buffalo|Water Buffalo]]
+| ''Peter Porker, the Spectacular Spider-Ham'' #15
+|-
+| '''Mary Crane Watsow'''
+| [[Mary Jane Watson]]
+| [[Crane (bird)|Crane]]
+| ''Amazing Spider-Man Family'' #4
+|-
+| '''J. Jonah Jackal/Black Jackal'''
+| [[J. Jonah Jameson]]
+| [[Jackal]]
+| ''Marvel Tails Starring Peter Porker, the Spectacular Spider-Ham'' #1
+|-
+| '''Batty Brant'''
+| [[Betty Brant]]
+| [[Bat]]
+| ''Peter Porker, the Spectacular Spider-Ham'' #15
+|-
+| '''Betty Branteater'''
+| [[Betty Brant]]
+| [[Anteater]]
+| ''Marvel Tales'' #230
+|-
+| '''Flash Tomcat'''
+| [[Flash Thompson]]
+| [[Cat]]
+| ''Peter Porker, the Spectacular Spider-Ham'' #15
+|-
+| '''Liz Alleycat'''
+| [[Liz Allan]]
+| [[Cat]]
+| ''Peter Porker, the Spectacular Spider-Ham'' #15
+|-
+| '''Awful Flight'''
+| [[Alpha Flight]]
+| Various
+| ''Peter Porker, the Spectacular Spider-Ham'' #6
+|-
+| '''Summersquash/Walrus Lamebrainski''' of Awful Flight
+| [[Sasquatch (comics)|Sasquatch]]
+| [[Walrus]]
+| ''Peter Porker, the Spectacular Spider-Ham'' #6
+|-
+| '''Snow-Youse''' of Awful Flight
+| [[Snowbird (comics)|Snowbird]]
+| Unknown
+| ''Peter Porker, the Spectacular Spider-Ham'' #6
+|-
+| '''Hockeypuck''' of Awful Flight
+| [[Puck (Marvel Comics)|Puck]]
+| [[Beaver]]
+| ''Peter Porker, the Spectacular Spider-Ham'' #6
+|-
+| '''Aroma''' of Awful Flight
+| [[Aurora (comics)|Aurora]]
+| [[Skunk]]
+| ''Peter Porker, the Spectacular Spider-Ham'' #6
+|-
+| '''Trinket''' of Awful Flight
+| [[Talisman (Alpha Flight)|Talisman]]
+| [[Rabbit]]
+| ''Peter Porker, the Spectacular Spider-Ham'' #6
+|-
+| '''Deerdevil / Batt Burdock'''
+| [[Daredevil (Marvel Comics character)|Daredevil]]
+| [[Deer]]
+| ''Peter Porker, the Spectacular Spider-Ham'' #7
+|-
+| '''Froggy Nelson'''
+| [[Foggy Nelson]]
+| [[Frog]]
+| ''Peter Porker, the Spectacular Spider-Ham'' #7
+|-
+| '''Kay-Mar the Sub-Merchandizer'''
+| [[Namor|Namor The Sub-Mariner]]
+| [[Dog]]
+| ''Peter Porker, the Spectacular Spider-Ham'' #10
+|-
+| '''Sub-Marsupial'''
+| [[Namor|Namor The Sub-Mariner]] (Golden Age)
+| Unspecified marsupial
+| ''Peter Porker, the Spectacular Spider-Ham'' #9
+|-
+| '''Asinine Torch'''
+| [[Human Torch (android)|Human Torch]]
+| [[Donkey]]
+| ''Peter Porker, the Spectacular Spider-Ham'' #9
+|-
+| '''Goose Rider'''
+| [[Ghost Rider (Johnny Blaze)|Ghost Rider]]
+| [[Goose]]
+| ''Marvel Tails Starring Peter Porker, the Spectacular Spider-Ham'' #1
+|-
+| '''Ducktor Doom'''
+| [[Doctor Doom]]
+| [[Duck]]
+| ''Peter Porker, the Spectacular Spider-Ham'' #1
+|-
+| '''Buzzard'''
+| [[Vulture (Marvel Comics)|Vulture]]
+| [[Opossum]]
+| ''Peter Porker, the Spectacular Spider-Ham'' #2
+|-
+| '''Bull-Frog'''
+| [[Man-Bull]]
+| [[Frog]]
+| ''Peter Porker, the Spectacular Spider-Ham'' #2
+|-
+| '''Doctor Octopussy Cat'''
+| [[Doctor Octopus]]
+| [[Cat]]
+| ''Peter Porker, the Spectacular Spider-Ham'' #17
+|-
+| '''Hulk-Bunny / Dr. Bruce Bunny'''
+| [[Hulk]]
+| [[Rabbit]]
+| ''Marvel Tails Starring Peter Porker, the Spectacular Spider-Ham'' #1
+|-
+| '''Captain Americat / Steve Mouser'''
+| [[Captain America]]
+| [[Cat]]
+| ''Marvel Tails Starring Peter Porker, the Spectacular Spider-Ham'' #1
+|-
+| '''King-Pig'''
+| [[Kingpin (character)|Kingpin]]
+| [[Pig]]
+| ''Peter Porker, the Spectacular Spider-Ham'' #12
+|-
+| '''Bee-Yonder'''
+| [[Beyonder]]
+| [[Bee]]
+| ''Peter Porker, the Spectacular Spider-Ham'' #12
+|-
+| '''Bee-Dazzler'''
+| [[Dazzler (comics)|Dazzler]]
+| [[Bee]]
+| ''Peter Porker, the Spectacular Spider-Ham'' #17
+|-
+| '''Hogzilla'''
+| [[Godzilla]]
+| [[Pig]]/[[Dinosaur]]
+| ''Peter Porker, the Spectacular Spider-Ham'' #8
+|-
+| '''Mechano-Hogzilla'''
+| [[Mechagodzilla]]
+| [[Pig]]/[[Dinosaur]] Robot
+| ''Peter Porker, the Spectacular Spider-Ham'' #8
+|-
+| '''Hobgobbler'''
+| [[Hobgoblin (comics)|Hobgoblin]]
+| [[Turkey (bird)|Turkey]]
+| ''Peter Porker, the Spectacular Spider-Ham'' #15
+|-
+| '''Paw'''
+| [[Klaw (Marvel Comics)|Klaw]]
+| [[Bear]]
+| ''Marvel Tales'' #207
+|-
+| '''Black Catfish'''
+| [[Black Cat (Marvel Comics)|Black Cat]]
+| [[Catfish]]
+| ''Marvel Tales'' #207
+|-
+| '''Raven the Hunter'''
+| [[Kraven the Hunter]]
+| [[Raven]]
+| ''What The--?!'' #3
+|-
+| '''Crayfin the Bunter'''
+| [[Kraven the Hunter]]
+| [[Crayfish]]
+| ''Spider-Ham 25th Anniversary Special'' #1
+|-
+| '''Doc Clamson'''
+| [[Doc Samson]]
+| [[Clam]]
+| ''Peter Porker, the Spectacular Spider-Ham'' #16
+|-
+| '''Croctor Strange'''
+| [[Doctor Strange]]
+| [[Crocodile]]
+| ''Peter Porker, the Spectacular Spider-Ham'' #4
+|-
+| '''Magsquito'''
+| [[Magneto (Marvel Comics)|Magneto]]
+| [[Mosquito]]
+| ''Peter Porker, the Spectacular Spider-Ham'' #2
+|-
+| '''X-Bugs'''
+| [[X-Men]]
+| Various insects
+| ''Peter Porker, the Spectacular Spider-Ham'' #2
+|-
+| '''Professor X-Bug'''
+| [[Professor X]]
+| [[Worm]]
+| ''Peter Porker, the Spectacular Spider-Ham'' #2
+|-
+| '''Iron Mouse'''
+| [[Iron Man]]
+| [[Mouse]]
+| ''Peter Porker, the Spectacular Spider-Ham'' #3
+|-
+| '''Nagneto'''
+| [[Magneto (Marvel Comics)|Magneto]]
+| [[Horse]]
+| ''Peter Porker, the Spectacular Spider-Ham'' #3
+|-
+| '''Thrr, Dog of Thunder'''
+| [[Thor (Marvel Comics)|Thor]]
+| [[Dog]]
+| ''Peter Porker, the Spectacular Spider-Ham'' #5
+|-
+| '''Odarn'''
+| [[Odin (comics)|Odin]]
+| [[Bulldog]]
+| ''Peter Porker, the Spectacular Spider-Ham'' #5
+|-
+| '''Looky'''
+| [[Loki (Marvel Comics)|Loki]]
+| [[Dog]]
+| ''Peter Porker, the Spectacular Spider-Ham'' #5
+|-
+| '''Silver Squirrel'''
+| [[Silver Surfer]]
+| [[Squirrel]]
+| ''Peter Porker, the Spectacular Spider-Ham'' #8
+|-
+| '''The Watchdog'''
+| [[Uatu]] the [[Watcher (comics)|Watcher]]
+| [[Dog]]
+| ''Peter Porker, the Spectacular Spider-Ham'' #8
+|-
+| '''The Whoatcher'''
+| [[Uatu]] the [[Watcher (comics)|Watcher]]
+| [[Owl]]
+| ''Marvel Tales'' #237
+|-
+| '''Croak and Badger'''
+| [[Cloak and Dagger (comics)|Cloak and Dagger]]
+| [[Frog]] and [[Badger]]
+| ''Peter Porker, the Spectacular Spider-Ham'' #16
+|-
+| '''J. Hamilton Hampster'''
+| [[Man-Thing]]
+| [[Hamster]]
+| ''Peter Porker, the Spectacular Spider-Ham'' #10
+|-
+| '''Ant Ant'''
+| [[Hank Pym|Ant-Man]]
+| [[Ant]]
+| ''Peter Porker, the Spectacular Spider-Ham'' #11
+|-
+| '''Waspbunny'''
+| [[Wasp (character)|Wasp]]
+| [[Rabbit]]
+| ''Peter Porker, the Spectacular Spider-Ham'' #11
+|-
+| '''Sandmanatee'''
+| [[Sandman (Marvel Comics)|Sandman]]
+| [[Manatee]]
+| ''Peter Porker, the Spectacular Spider-Ham'' #11
+|-
+| '''Galactypus'''
+| [[Galactus]]
+| [[Platypus]]
+| ''Peter Porker, the Spectacular Spider-Ham'' #12
+|-
+| '''Nick Furry, Agent of S.H.E.E.P.'''
+| [[Nick Fury]]
+| [[Bear]]
+| ''Peter Porker, the Spectacular Spider-Ham'' #13
+|-
+| '''Dodo Dugan'''
+| [[Dum Dum Dugan]]
+| [[Dodo]]
+| ''Peter Porker, the Spectacular Spider-Ham'' #13
+|-
+| '''Kangaroo the Conqueror'''
+| [[Kang the Conqueror]]
+| [[Kangaroo]]
+| ''Peter Porker, the Spectacular Spider-Ham'' #15
+|-
+| '''Ultrog'''
+| [[Ultron]]
+| [[Gorilla]]
+| ''Peter Porker, the Spectacular Spider-Ham'' #15
+|-
+| '''Quackula'''
+| [[Dracula (Marvel Comics)|Dracula]]
+| [[Vampire]] [[Duck]]
+| ''Peter Porker, the Spectacular Spider-Ham'' #13
+|-
+| '''Chickenstein's Monster'''
+| [[Frankenstein's Monster (Marvel Comics)|Frankenstein's Monster]]
+| None. Composed of different vegetables.
+| ''Peter Porker, the Spectacular Spider-Ham'' #13
+|-
+| '''Living Moooooooomy''' (a.k.a. '''Living Moomy''')
+| [[N'Kantu, the Living Mummy]]
+| [[Cattle]] [[Mummy (undead)|Mummy]]
+| ''Peter Porker, the Spectacular Spider-Ham'' #13
+|-
+| '''Pinhead of Crime'''
+| [[Kingpin (character)|Kingpin]]
+| [[Polar bear|Polar Bear]]
+| ''Peter Porker, the Spectacular Spider-Ham'' #13
+|-
+| '''The Fantastic Fur'''
+| The [[Fantastic Four]]
+| Various
+| ''Peter Porker, the Spectacular Spider-Ham'' #1
+|-
+| '''Mooster Fantastic''' of the Fantastic Fur
+| [[Mister Fantastic]]
+| [[Moose]]
+| ''Peter Porker, the Spectacular Spider-Ham'' #1
+|-
+| '''Invisible Gorilla''' of the Fantastic Fur
+| [[Invisible Woman]]
+| [[Gorilla]]
+| ''Peter Porker, the Spectacular Spider-Ham'' #1
+|-
+| '''Simian Torch''' of the Fantastic Fur
+| [[Human Torch]]
+| [[Gorilla]]
+| ''Peter Porker, the Spectacular Spider-Ham'' #1
+|-
+| '''Thang / Ben Grizzly''' of the Fantastic Fur
+| [[Thing (comics)|Thing]]
+| [[Grizzly bear|Grizzly Bear]]
+| ''Peter Porker, the Spectacular Spider-Ham'' #1
+|-
+| '''The Scavengers'''
+| [[Avengers (comics)|The Avengers]]
+| Various
+| ''Peter Porker, the Spectacular Spider-Ham'' #15
+|-
+| '''Scarlet Pooch''' of the Scavengers
+| [[Scarlet Witch]]
+| [[Dog]]
+| ''Peter Porker, the Spectacular Spider-Ham'' #15
+|-
+| '''Quacksilver''' of the Scavengers
+| [[Quicksilver (comics)|Quicksilver]]
+| [[Duck]]
+| ''Peter Porker, the Spectacular Spider-Ham'' #15
+|-
+| '''Squawkeye''' of the Scavengers
+| [[Hawkeye (Clint Barton)|Hawkeye]]
+| [[Chicken]]
+| ''Peter Porker, the Spectacular Spider-Ham'' #15
+|-
+| '''Black Panda''' of the Scavengers
+| [[Black Panther (comics)|Black Panther]]
+| [[Giant panda|Panda]]
+| ''Peter Porker, the Spectacular Spider-Ham'' #15
+|-
+| '''Pigeon''' of the Scavengers
+| [[Vision (Marvel Comics)|Vision]]
+| [[Columbidae|Pigeon]]
+| ''Peter Porker, the Spectacular Spider-Ham'' #15
+|-
+| '''Baron Zebro'''
+| [[Helmut Zemo|Baron Helmut Zemo]]
+| [[Zebra]]
+| ''Peter Porker, the Spectacular Spider-Ham'' #16
+|-
+| '''Paste Pot Peep'''
+| [[Trapster|Paste Pot Pete, a.k.a. the Trapster]]
+| [[Columbidae|Pigeon]]
+| ''Peter Porker, the Spectacular Spider-Ham'' #16
+|-
+| '''Mad Stinker'''
+| [[Mad Thinker]]
+| [[Skunk]]
+| ''Peter Porker, the Spectacular Spider-Ham'' #16
+|-
+| '''Humongous Ham-Droid'''
+| [[Awesome Android]]
+| [[Pig]]
+| ''Peter Porker, the Spectacular Spider-Ham'' #16
+|-
+| '''Mandaringtail'''
+| [[Mandarin (comics)|Mandarin]]
+| [[Ring-tailed lemur|Ring-Tailed Lemur]]
+| ''Peter Porker, the Spectacular Spider-Ham'' #16
+|-
+| '''Doo Wop Doo'''
+| [[Fin Fang Foom]]
+| [[Dragon]]
+| ''Peter Porker, the Spectacular Spider-Ham'' #16
+|-
+| '''Grey Gopher'''
+| [[Grey Gargoyle]]
+| [[Gopher]]
+| ''Peter Porker, the Spectacular Spider-Ham'' #14
+|-
+| '''Punfisher / Frank Carple'''
+| [[Punisher]]
+| [[Fish]]
+| ''Marvel Tales'' #212
+|-
+| '''Pork Grind'''
+| [[Venom (Marvel Comics character)|Venom]]/[[Symbiote (comics)|Symbiote]]
+| [[Pig]]/Symbiote
+| ''What The--?!'' #20
+|-
+| '''Shock-Cur'''
+| [[Shocker (comics)|Shocker]]
+| [[Dog]]
+| ''Marvel Tales'' #201
+|-
+| '''Flash "Tombenstain" Bear'''
+| [[Tombstone (comics)|Tombstone]]/[[Flash Thompson]]
+| [[Bear]]
+| ''Marvel Tales'' #227
+|-
+| '''Captain Zooniverse'''
+| [[Captain Universe]]
+| Cosmic force/[[Pig]] (Spider-Ham host body)
+| ''Marvel Tales'' # 236
+|-
+| '''Anya the Ant-Girl'''
+| [[Anya Corazon]]
+| [[Ant]]
+| ''Spider-Man Family'' #1
+|-
+| '''Hamneto'''
+| [[Magneto (Marvel Comics)|Magneto]]
+| [[Pig]]
+| ''Ultimate Civil War Spider-Ham'' #1
+|-
+| '''Ultimate Captain Hamerica'''
+| [[Captain America]]
+| [[Pig]]
+| ''Ultimate Civil War Spider-Ham'' #1
+|-
+| '''Green Ham (And Eggs)'''
+| [[Hulk]]
+| [[Pig]]
+| ''Ultimate Civil War Spider-Ham'' #1
+|-
+| '''Deviled Ham'''
+| [[Daredevil (Marvel Comics character)|Daredevil]]
+| [[Pig]]
+| ''Ultimate Civil War Spider-Ham'' #1
+|-
+| '''Hambit'''
+| [[Gambit (Marvel Comics)|Gambit]]
+| [[Pig]]
+| ''Ultimate Civil War Spider-Ham'' #1
+|-
+| '''Iron Ham'''
+| [[Iron Man]]
+| [[Pig]]
+| ''Ultimate Civil War Spider-Ham'' #1
+|-
+| '''Wolverham'''
+| [[Wolverine (character)|Wolverine]]
+| [[Pig]]
+| ''Ultimate Civil War Spider-Ham'' #1
+|-
+| '''The Fantastic Ham'''
+| The [[Fantastic Four]]
+| [[Pig]]s
+| ''Ultimate Civil War Spider-Ham'' #1
+|-
+| '''Ant-Ham'''
+| [[Hank Pym|Ant-Man]]
+| [[Pig]]
+| ''Ultimate Civil War Spider-Ham'' #1
+|-
+| '''Swiney-Girl'''
+| [[Spider-Girl (Mayday Parker)|Spider-Girl]] of [[Marvel Comics 2|Earth-982]]
+| [[Spider]]/[[Pig]]
+| ''Amazing Spider-Man Family'' #4
+|-
+| '''Green Gobbler'''
+| [[Green Goblin]]
+| [[Turkey (bird)|Turkey]]
+| ''Amazing Spider-Man Family'' #4
+|-
+| '''Eelectro'''
+| [[Electro (Marvel Comics)|Electro]]
+| [[Electric eel|Electric Eel]]
+| ''Spider-Ham 25th Anniversary Special'' #1
+|-
+| '''Mysteriape'''
+| [[Mysterio]]
+| [[Gorilla]]
+| ''Spider-Ham 25th Anniversary Special'' #1
+|-
+| '''Doc Jaw'''
+| [[Lockjaw (comics)|Lockjaw]]
+| [[Dog]]
+| ''Lockjaw'' #3
+|-
+| '''Miles Morhames/Ultimate Spider-Ham'''
+| [[Miles Morales]]
+| [[Spider]]/[[Pig]]
+| ''Ultimate FF'' #4
+|-
+| '''Guin Stacy/Spider-Guin'''
+| [[Gwen Stacy]]
+| [[Spider]]/[[Penguin]]
+| ''Spider-Gwen Vol. 2'' Annual #1
+|}
+
+==In other media==
+===Television===
+* Spider-Ham appears in the ''[[Ultimate Spider-Man (TV series)|Ultimate Spider-Man]]'' animated series in two different forms.<ref>{{cite web |date= July 24, 2011 | author = David Brothers | title = Marvel Animation: Ultimate Spider-Man, Hulk and the Agents of SMASH [Comic-Con] |url= http://www.comicsalliance.com/2011/07/24/marvel-television-animation-comic-con/ |url-status=dead |archive-url= https://web.archive.org/web/20120402061057/http://www.comicsalliance.com/2011/07/24/marvel-television-animation-comic-con/ |archive-date=2012-04-02 }}</ref> 
+** In the season one episode "Run Pig Run", [[Loki (Marvel Comics)|Loki]] disguises himself as a [[hot dog]] [[vendor]] and gives Spider-Man an enchanted hot dog that turns him into an anthropomorphic pig resembling Spider-Ham on the day of Asgardsreia, a holiday where Asgardians go on a day long hunt, as payback for foiling a previous scheme of his. With the help of [[Thor (Marvel Comics)|Thor]], [[Phil Coulson]], [[Nick Fury (Ultimate Marvel character)|Nick Fury]], and his fellow [[New Warriors|S.H.I.E.L.D. trainees]], "Spider-Ham" evades the [[Executioner (comics)|Executioner]] and his Asgardian hunters until he turns back to normal.<ref name="Run Pig Run">{{cite episode|title=Run Pig Run|series=Ultimate Spider-Man|network=Disney XD|season=1|number=20|airdate=September 16, 2012}}</ref>
+** Spider-Ham proper appears in seasons three and four, voiced by [[Benjamin Diskin]]. This version of Peter Porker was a pig who got his powers from a spider that fell into his [[Aunt May]]'s vitamin pancake batter and transferred said vitamins and powers to him, turning him into Spider-Ham. He used his powers for good and even joined his world's [[Avengers (comics)|Avengers]], but [[J. Jonah Jameson|J. Jonah Jackal]] turned the public against him and forced him to quit. In the episode "The Spider-Verse" Pt. 2, Porker encounters the "prime" Spider-Man while relaxing on his farm. With his encouragement, Porker decides to become Spider-Ham once again and help him fight the [[Norman Osborn|Green Goblin]]. Following the battle, [[Iron Man|Iron Mouse]] offers Spider-Ham a spot on the Avengers again, which he accepts.<ref name="The Spider-Verse Pt. 2">{{cite episode|title=The Spider-Verse Pt. 2|series=Ultimate Spider-Man|network=Disney XD|season=3|number=10|airdate=March 12, 2015}}</ref> In "The Spider-Verse" Pt. 4, Spider-Ham joins forces with a group of alternate reality Spider-Men to help the "prime" Spider-Man defeat the Spider-Goblin and [[Electro (Marvel Comics)|Electro]].<ref name="The Spider-Verse Pt. 4">{{cite episode|title=The Spider-Verse Pt. 4|series=Ultimate Spider-Man|network=Disney XD|season=3|number=12|airdate=March 26, 2015}}</ref> In "Return to the Spider-Verse" Pt. 1, Spider-Ham ends up in "prime" Peter Parker's living room due to the effects of the shattered [[Siege Perilous (comics)|Siege Perilous]].<ref name="Return to the Spider-Verse Pt. 1">{{cite episode|title=Return to the Spider-Verse Pt. 1|series=Ultimate Spider-Man|network=Disney XD|season=4|number=16|airdate=August 27, 2016}}</ref> In "Return to the Spider-Verse" Pt. 4, Spider-Ham is captured by [[Wolf Spider (comics)|Wolf Spider]], who seeks to drain all of his multiversal counterparts' life forces, before the "prime" Spider-Man defeats Wolf Spider.<ref name="Return to the Spider-Verse Pt. 4">{{cite episode|title=Return to the Spider-Verse Pt. 4|series=Ultimate Spider-Man|network=Disney XD|season=4|number=19|airdate=September 17, 2016}}</ref>
+
+===Film===
+* Spider-Ham appears in the animated film ''[[Spider-Man: Into the Spider-Verse]]'', voiced by [[John Mulaney]].<ref>{{cite web|title=Sony confirms John Mulaney is joining Into The Spider-Verse…as the Spectacular Spider-Ham|url=https://news.avclub.com/sony-confirms-john-mulaney-is-joining-into-the-spider-v-1827765792?rev=1532138912455|website=AV News|access-date=20 July 2018}}</ref> This version follows similar cartoon animal behavior as seen in cartoons from the [[golden age of American animation]] and bears a resemblance to [[Porky Pig]] from the ''[[Looney Tunes]]'' franchise. Additionally, Spider-Ham's origin remains the same and he seems to be aware of the fact that anthropomorphic animals are not common in other universes. He arrives in [[Miles Morales]]' universe along with [[Spider-Man Noir]] and [[Peni Parker]] due to the [[Kingpin (character)|Kingpin]]'s machinations before teaming up with them, Morales, Peter B. Parker, and [[Spider-Woman (Gwen Stacy)|Spider-Woman]] to get back to their respective home universes; using his unique skill set to fight off the Kingpin's henchmen along the way. Before returning home to his own universe, he leaves his cartoon mallet with Morales as a keepsake.
+** Spider-Ham appears in the animated prequel short ''[[Spider-Ham: Caught in a Ham|Caught in a Ham]]'', with Mulaney reprising his role. He battles and defeats Doctor Crawdaddy (voiced by Aaron LaPlante) in his typical cartoonish fashion until an interdimensional portal appears and affects him and his surroundings in a manner similar to the ''Looney Tunes'' short ''[[Duck Amuck]]'' before whisking him away, leading into his appearance in the film.
+** Mulaney also expressed interest in a potential film starring Spider-Ham; describing its plot as a [[Watergate]]-like story along the lines of ''[[The Post (film)|The Post]]'' or ''[[All the President's Men (film)|All the President's Men]]'' while focusing on the character's career as a reporter.<ref>{{cite news |last1=Donnelly |first1=Matt |title=John Mulaney's Pitch for 'Spider-Ham' Film: ''Spotlight''… but Family Friendly' |url=https://variety.com/2018/film/news/spiderham-spiderman-john-mulaney-1203092130/ |access-date=March 14, 2020 |work=Variety |date=December 18, 2018 |language=en}}</ref><ref>{{cite news |last1=Long |first1=Christian |title=John Mulaney has a pitch for a Spider-Ham solo film |url=https://www.comingsoon.net/movies/news/1020497-john-mulaney-has-a-pitch-for-spider-ham-solo-film |access-date=March 14, 2020 |work=ComingSoon.net |date=December 19, 2018}}</ref>
+* Mulaney returned to voice Spider-Ham in the animated short film ''Back on the Air'', which was created to promote the character's appearance in the video game ''Marvel Contest of Champions''.<ref name="The Gamer">{{cite web |last=Kobek|first=Patrick|date=December 2, 2020|url=https://www.thegamer.com/spider-ham-spider-man-marvel-contest-of-champions-john-mulaney/|title=Spider-Ham Swings Into Marvel Contest Of Champions With Animated Short|publisher=TheGamer|access-date=December 3, 2020}}</ref><ref name="Superherohype">{{cite web |last=Abbate|first=Jake|date=November 30, 2020|url=https://www.superherohype.com/video-games/489923-marvel-contest-of-champions-brings-back-john-mulaney-as-spider-ham|title=Marvel Contest of Champions Brings Back John Mulaney As Spider-Ham|publisher=Superherohype|access-date=December 2, 2020}}</ref>
+
+===Video games===
+* Spider-Ham makes a cameo appearance in ''[[Spider-Man: Shattered Dimensions]]'', voiced by an uncredited, former Activision Associate Producer [[Kevin Umbricht]].<ref>{{cite web|url=https://www.youtube.com/watch?v=-D9hJEbQCPY |archive-url=https://ghostarchive.org/varchive/youtube/20211221/-D9hJEbQCPY |archive-date=2021-12-21 |url-status=live|title=Spider-Ham's First Voice Actor & More! (Spider-Man: Shattered Dimensions, Into the Spider-Verse)|date=December 21, 2018|via=YouTube}}{{cbignore}}</ref> During a mid-credits scene, Spider-Ham answers [[Madame Web]]'s call to save the multiverse, but arrives after the Amazing Spider-Man, Spider-Man Noir, [[Spider-Man 2099]], and the [[Spider-Man (Ultimate Marvel character)|Ultimate Spider-Man]] already did so.
+* Spider-Ham appears as a support card in ''[[Ultimate Marvel vs. Capcom 3]]''{{'}}s "Heroes vs. Heralds" mode.
+* Spider-Ham was available as a purchasable hero in ''[[Marvel Super Hero Squad Online]]'' on March 15, 2014 to celebrate the game's anniversary.
+* Spider-Ham makes a cameo appearance in ''[[Spider-Man: Edge of Time]]''. He is seen in an [[Alchemax]] stasis tank and in Peter Parker's drawings during the credits.
+* Spider-Ham appears in ''[[Marvel Heroes (video game)|Marvel Heroes]]'' as a purchasable pet.
+* Spider-Ham and other associated "spider" characters from the ''Spider-Ham'' comics appear as playable characters in ''[[Spider-Man Unlimited (video game)|Spider-Man Unlimited]]''.
+* Spider-Ham appears in ''[[Marvel Avengers Academy]]'', voiced by [http://www.mccannvoicestudios.com Christopher McCann].
+* Spider-Ham appears as an unlockable playable character in ''[[Lego Marvel Super Heroes 2]]''.<ref>{{cite web|title=Characters|url=http://m.ign.com/wikis/lego-marvel-super-heroes-2/Characters|website=IGN Database|access-date=28 January 2018}}</ref>
+* Spider-Ham appears as a playable character in ''[[Marvel Puzzle Quest]]''.
+* Spider-Ham appears as a playable character in ''[[Marvel Contest of Champions]]'', voiced again by John Mulaney.<ref name="Superherohype"/>
+
+===Miscellaneous===
+Spider-Ham appears in the ''[[Twisted ToyFare Theatre]]'' parody comic "Four Webbings and a Funeral" as part of ''The Wizard Spider-Man Special''. In the comic, Spider-Ham appears as one of the entrees being served at Spider-Man's funeral.
+
+==Reception==
+In August 2009, ''[[Time (magazine)|TIME]]'' listed Spider-Ham as one of the "Top 10 Oddest Marvel Characters".<ref name="Time"/>
+
+== Collected editions ==
+{| class="wikitable"
+|+
+!Title
+!Material collected
+!Published date
+!ISBN
+|-
+|''Peter Porker, The Spectacular Spider-Ham Volume 1''
+|''Marvel Tails'' #1, ''Peter Porker, The Spectacular Spider-Ham'' #1-5
+|June 2010
+|{{ISBNT|978-0785143529}}
+|-
+|''Spider-Man: Animal Magnetism''
+|''Spider-Ham 25th Anniversary Special'', ''Ultimate Civil War Spider-Ham'' and ''Spider-Man: Back in Quack, Top Dog'' #10
+|February 2011
+|{{ISBNT|978-0785151937}}
+|-
+|''Peter Porker, The Spectacular Spider-Ham: The Complete Collection Vol. 1''
+|''Marvel Tails'' #1, ''Peter Porker, The Spectacular Spider-Ham'' #1-17
+|July 2019
+|{{ISBNT|978-1302918439}}
+|-
+|''Peter Porker, The Spectacular Spider-Ham: The Complete Collection Vol. 2''
+|''Marvel Tales'' #201-212, 214-219, 223-230, 233, 236-237, 239-240, 247, ''What The--?!'' #20, ''Ultimate Civil War: Spider-Ham'' #1, ''Spider-Ham 25th Anniversary Special'' #1, ''Spider-Man Annual'' (vol. 3) #1, material from ''What The--?!'' #3, 18, 22, 24, 26, ''Spider-Verse'' #1
+|February 2021
+|{{ISBNT|978-1302923662}}
+|-
+|''Spider-Ham: Aporkalypse Now''
+|''Spider-Ham'' #1-5
+|August 2020
+|{{ISBNT|978-1302921620}}
+|}
+
+==See also==
+* [[Just'a Lotta Animals]], a concept by [[DC Comics]] featuring [[anthropomorphism|anthropomorphic animal]] [[parody]] versions of DC superheroes and supervillains similar to Larval (Marvel).
+* [[Marvel Apes]], an alternate Marvel reality featuring ape versions of Marvel characters.
+
+==References==
+{{Reflist}}
+
+{{Marvel Multiverse}}
+{{Spider-Man characters}}
+{{Spider-Man}}
+{{Spider-Man in popular media}}
+
+[[Category:Comics characters introduced in 1983]]
+[[Category:Star Comics titles]]
+[[Category:Fictional characters with precognition]]
+[[Category:Fictional spiders]]
+[[Category:Fictional pigs]]
+[[Category:Parodies of Spider-Man]]
+[[Category:Parody superheroes]]
+[[Category:Parody comics]]
+[[Category:Animal superheroes]]
+[[Category:Marvel Comics animals]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Characters created by Tom DeFalco]]
+[[Category:1983 comics debuts]]
+[[Category:Alternative versions of Spider-Man]]
+[[Category:Vigilante characters in comics]]

@@ -1,0 +1,46 @@
+{{More citations needed|date=January 2009}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+| character_name = The Timebroker
+| image          =
+| converted      = y
+| imagesize      = <!-- default 250 -->
+| caption        = The Timebroker
+| publisher      = [[Marvel Comics]]
+| debut          = ''[[Exiles (comic book)|Exiles]]'' #1 (August 2001)
+| creators       = [[Judd Winick]]<br />[[Mike McKone]]
+| alter_ego      = 
+| full_name      =
+| species        = <!-- optional -->
+| homeworld      = <!-- optional -->
+| alliances      = <!-- optional -->
+| partners       = <!-- optional -->
+| supports       = <!-- optional -->
+| aliases        = <!-- optional -->
+| powers         = 
+| cat            = 
+| subcat         = Marvel Comics
+| hero           = 
+| villain        = 
+| sortkey        = Timebroker
+}}
+'''The Timebroker''' is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]]. The character was created by [[Judd Winick]] for the comic book [[Exiles (comic book)|''Exiles'']]; a psychic construct created by the Timebreakers, a race of alien bug-people who accidentally damaged a large number of alternate universes.
+
+==Fictional character biography==
+The Timebroker first appeared in ''Exiles'' #1, when he invited the [[Age of Apocalypse]] version of [[Blink (comics)|Blink]] to join a group of dimension-lost superheroes whom he named "The Exiles", whose mission would be to repair the damaged realities, and hopefully, to return home safely. A team member whose home reality is repaired is immediately sent home, and replaced with someone new.{{issue|date=December 2012}}
+
+To repair each damaged reality, the Exiles must complete a mission given to them by the Timebroker through a communications device called, "The [[Tallus]]," worn by the leader of the group, be it [[Blink (comics)|Blink]], [[Mimic (Exiles)|Mimic]], or [[Sabretooth (comics)#Age of Apocalypse and the Exiles|Sabretooth]]. These missions are usually humanitarian or super-heroic in nature, but sometimes involve assassination.{{issue|date=December 2012}}
+
+The Timebroker also created a separate team of lost heroes, called [[Weapon X (Exiles)|Weapon X]], whose job is mainly [[wetwork]]. When they grew out of control, the Timebroker ordered the Exiles and Weapon X to battle each other until only 6 remained alive.{{issue|date=December 2012}}
+
+In #53, the Exiles received a warning: "Beware the Timebreaker. He is not what he seems." Almost immediately after, the Timebroker acted irrationally, giving orders to murder the [[Age of Apocalypse]] X-Men as well as the Exiles' [[Mimic (Exiles)|Mimic]]. He also did not pop in when [[Sasquatch (comics)|Tanaraq]] and [[Holocaust (Marvel Comics)|Holocaust]] attempted to rebel and get their old lives back. The Exiles learned later the true nature of the Timebroker during a raid on Panoptichron, namely that "he" is an illusion created by bug-men.{{issue|date=December 2012}}
+
+Later, Mimic used him to convince Blink and the others to cast the infiltrating [[Hyperion (comics)#Other versions|Hyperion]] back to his original Earth during a raid on Panoptichron. [[Heather Hudson (Exiles)|Heather Hudson]] used the Tallus in #78 to tell the Exiles and [[Squadron Supreme]] about each other to save the Exiles from life in prison. The Timebroker then proceeded to fire the Exiles (albeit temporarily) in #84. He then appeared, controlled by Blink, in "Exiles: Days of Then and Now" when new Exiles needed to be recruited to save a world where the [[Hulk]] hijacked the [[Annihilation (comics)|Annihilation Wave]]. The Timebroker has not appeared since, and oddly enough, the final team of Exiles, led by Blink and coordinated by Morph, [[Nocturne (Talia Wagner)|Nocturne]], and [[Heather Hudson (Exiles)|Heather]], treat the Timebroker as the Timebreakers' predecessor instead of interface.{{issue|date=December 2012}}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{comicbookdb|type=character|id=7932|title=Timebroker}}
+
+[[Category:Comics characters introduced in 2001]]
+[[Category:Characters created by Judd Winick]]

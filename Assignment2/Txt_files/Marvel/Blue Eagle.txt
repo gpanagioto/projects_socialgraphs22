@@ -1,0 +1,5 @@
+#REDIRECT [[Blue Eagle (character)]]
+
+{{Redirect category shell|
+{{R from move}}
+}}

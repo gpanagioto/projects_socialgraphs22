@@ -1,0 +1,56 @@
+{{Lead too short|date=October 2021}}
+{{short description|Marvel Comics superhero}}
+{{Superherobox|
+image=Father Time (Marvel Comics).jpg
+|caption=
+|character_name=Father Time
+|real_name=Larry Scott
+|publisher=[[Marvel Comics]]
+|debut=''[[Captain America Comics]]'' #6 (Sept. 1941)
+|creators=[[Stan Lee]] & [[Al Avison]]
+|alliances= Crazy S.U.E.S
+|aliases= Larry Scott
+|species= [[Human]]
+|homeworld= [[Earth-616]]
+|powers= None
+|}}
+
+'''Father Time (Larry Scott)''' is a [[Character (arts)|fictional]] [[superhero]] appearing in [[American comic book|American comic books]] published by [[Marvel Comics]]. The character was created by writer [[Stan Lee]] and artist [[Al Avison]] and first appeared in [[Captain America (comic book)|Captain America Comics]] #6 (Sept. 1941),<ref>[http://www.comics.org/details.lasso?id=1639#4 Grand Comics Database: ''Captain America  Comics'' #6 (Sept. 1941)]</ref> published by Marvel predecessor [[Timely Comics]] during the period fans and historians call the [[Golden Age of Comic Books|Golden Age of comic books]].<ref>{{cite book |last1=Brevoort |first1=Tom |last2=DeFalco |first2=Tom |last3=Manning |first3=Matthew K. |last4=Sanderson |first4=Peter |last5=Wiacek |first5=Win |title=Marvel Year By Year: A Visual History |date=2017 |publisher=DK Publishing |isbn=978-1465455505 |page=19}}</ref> He was one of the many costumed operatives who were recruited into the United States military.
+
+Like many heroes recruited in this fashion, Father Time's fictional exploits were few. For most of these early heroes it was due to their deaths in combat. Presumably, much like the Young Allies, the fictional exploits of the Father Time were based on actual events.{{cn|date=December 2021}}
+
+==Publication history==
+In addition to his appearances in ''Captain America'' issues #6-12, he also appeared in ''[[Mystic Comics]]'' #10 and ''[[Young Allies (Marvel Comics)|Young Allies]]'' #3.<ref>{{cite book |last1=Benton |first1=Mike |title=Superhero Comics of the Golden Age: The Illustrated History |date=1992 |publisher=Taylor Publishing Company |location=Dallas |isbn=0-87833-808-X |url=https://archive.org/details/superherocomicso0000bent/page/154 |access-date=8 April 2020 |pages=155–156}}</ref>
+In 2011 he appeared again in ''All-Winners Squad: Band of Heroes'' as a member of the war time team [[Crazy Sues]].{{cn|date=May 2020}}
+
+A different, non-superhero Father Time appeared as a character in the [[Blonde Phantom]] story "Doomed for Death" in ''Blonde Phantom Comics'' #22 (March 1949).
+
+[[Hawkeye (Clint Barton)|Hawkeye]] (Clint Barton), the superhero archer of the team the [[Avengers (comics)|Avengers]], disguised himself as an unrelated character named Father Time in the 50th-anniversary issue ''Captain America'' #383 (March 1991). Another [[Father Time (DC Comics)|unrelated character of the same name]] appears  in [[DC Comics]].
+
+==Fictional character biography==
+===1940s===
+Larry Scott's father John became framed for homicide and became sentenced to the electrical chair. Learning that crook Chips Brant was the one behind his father's framing, Larry tried to pressure the crook to confess. Knocked out for his trouble, Larry recovered and tried to carry new proof that might clean his father's name. Unfortunately, Larry arrived too late and his father was executed just moments before his name could be cleared.<ref>{{cite book |last1=Steranko |first1=Jim |title=The Steranko History of Comics, vol 1 |date=1970 |publisher=Supergraphics |page=65}}</ref> Wishing that time could be on the side of law and the innocent victims of crime, Larry decided to become a crime fighter. Donning a hooded cloak and wielding a scythe, Larry takes on the name Father Time and seeks to make time work against criminals, rather than the innocent.<ref>{{cite book |last1=Nevins |first1=Jess |title=Encyclopedia of Golden Age Superheroes |date=2013 |publisher=High Rock Press |isbn=978-1-61318-023-5 |page=97}}</ref> He captured Chips Brant before he could skip town and became a champion against evil.{{issue|date=December 2021}}  
+
+Shortly after his first adventure, Larry found out that his pal Hal Sakson was accused of murdering the group of the Southern Princess to be able to loot the salvaged deliver of gold that they had uncovered recently.As Father Time, Larry exposed the crooked District Attorney as the one responsible by using the superstitions of his hired thugs to frighten them into a confession.{{issue|date=December 2021}}
+
+===Crazy S.U.E.S===
+Father Time was one of the many costumed heroes drafted into the military following the United States entry into World War II. He was assigned to the Crazy S.U.E.S., under the command of [[Captain America]]. His involvement with the squad is unrecorded, however, he is one of the few members to survive, as he was one of the many heroes gathered by Captain America ([[Spirit of '76 (Marvel Comics)|William Nasland]]) to invade Berlin in 1945.<ref>{{Cite journal|date=2006-06-20|title=Twelve Angry Men|url=http://dx.doi.org/10.5040/9781580815444|journal=Twelve Angry Men|doi=10.5040/9781580815444}}</ref>
+
+==Legacy ==
+Although not one of the most popular heroes of his time, Father Time maintained some notoriety. In the modern age during a celebration of the birth of Steve Rogers as Captain America, his fellow Avenger Hawkeye dressed as Father Time.{{issue|date=December 2021}}
+
+==References==
+{{reflist}}
+
+{{GoldenAge}}
+{{Avengers characters}}
+
+[[Category:Characters created by Stan Lee]]
+[[Category:Comics characters introduced in 1941]]
+[[Category:Fictional World War II veterans]]
+[[Category:Golden Age superheroes]]
+[[Category:Marvel Comics male superheroes]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Timely Comics characters]]
+
+{{Marvel-hero-stub}}

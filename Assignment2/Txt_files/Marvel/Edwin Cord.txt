@@ -1,0 +1,57 @@
+{{in-universe|date=June 2018}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|image=
+|imagesize=200
+|caption=Edwin Cord
+|character_name=Edwin Cord
+|real_name=Edwin Cord
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Daredevil (Marvel Comics series)|Daredevil]]'' #167 (November 1980)
+|creators=[[David Michelinie]], [[Bob Layton]], and [[John Romita Jr.]]
+|alliances=
+|aliases=
+|powers=
+}}
+'''Edwin Cord''' is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Publication history==
+Edwin Cord was created by [[David Michelinie]] and [[Frank Miller (comics)|Frank Miller]] and first appeared in ''[[Daredevil (Marvel Comics series)|Daredevil]]'' #167 (November 1980).<ref>''Daredevil'' #167</ref>
+
+==Fictional character biography==
+Head of the Cord Conglomerate, Edwin Cord is a well-connected yet frustrated [[Businessperson|businessman]]. He first appeared as the target of Aaron Soames using the stolen [[Mauler (comics)|Mauler]] armor from Cord Conglomerate and planning to get revenge on Edwin for interference. This was thwarted by [[Daredevil (Marvel Comics character)|Daredevil]] which ended with Aaron being killed by Cord's men using advanced weapons to open fire on Mauler.<ref>''Daredevil'' #167</ref>
+
+From his palatial estate on the East Coast, he plotted to bring down [[Iron Man|Tony Stark]]'s companies on a regular basis. Stark first encountered Cord at the Conclave of Electronics Engineers and Innovators in Dallas Texas where representatives from [[Roxxon Energy Corporation|Roxxon Oil Corporation]], [[S.H.I.E.L.D.]], and [[Cross Technological Enterprises]]. Cord hired the [[Raiders (comics)|Raiders]] to take on [[Iron Man]]. He returned with the Raiders in an attempt to destroy the newly formed Stark Enterprises. After the Raiders were defeated, Cord shows a film of their exploits to S.H.I.E.L.D. to try to get the weapons contract formerly offered to Stark. S.H.I.E.L.D. is unimpressed by Cord's illegal means and Cord is arrested by the S.H.I.E.L.D. agents.<ref>''Iron Man'' #145</ref>
+
+While in prison, Edwin hires Brendan Doyle to infiltrate [[Stark Enterprises]] and steal the Mauler armor to destroy Iron Man's armor design's records and histories, but Cord was thwarted by [[War Machine|Jim Rhodes]].<ref>''Iron Man'' #156</ref>
+
+During the ''[[Armor Wars]]'' storyline, Cord was released from prison where he, [[Senator Boynton]], and [[General Meade (comics)|General Meade]] were overseeing Jack Taggert operating the [[Firepower (comics)|Firepower]] armor which Cord's company created. The three watch as Firepower completes training, managing to defeat a bunch of jets and tanks.<ref>''Iron Man'' #230</ref> As Firepower is training with Private Baskin and Corporal Winters, Cord is approached by Boynton and Meade where the two want Cord to hand over the Firepower armor to which Cord turns down. Cord says he'll reveal to the tabloids how the Firepower armor was conceived as a riot-control device and then has Taggart blow up the flatbed truck the two were going to use to take away the Firepower armor should Boynton and Meade try to take the Firepower armor. The two are cowed though Meade is very unhappy. Over the next few days, Cord and Firepower seem determined to sabotage Stark Enterprises. Cord and Firepower intimidate a manufacturing group into not accepting a contract bid and blow up a shipment for Acutech Research and Development (a subsidiary of Stark Enterprises). After more days of destruction and harassment, Cord and Firepower drive Stark Enterprises to the point where Tony "can’t afford to lose another account". Firepower arrives at the Stark Railyard, injuring Bill Segrist (who is in charge of the railyard) and gives Stark a message from Cord that says that he destroyed Iron Man and now plans to destroy the rest of Stark’s life.<ref>''Iron Man'' #231</ref>
+
+Cord would later go on to finance [[U.S. Agent (character)|U.S. Agent]] and [[The Jury (comics)|the Jury]] in a failed attempt to apprehend the [[Thunderbolts (comics)|Thunderbolts]] at the time when the group and [[Warren Worthington III]] were fighting [[Graviton (comics)|Graviton]].<ref>''Thunderbolts'' #28</ref>
+
+==Relatives==
+* '''Drexel Cord''' - An unspecified relation of Edwin Cord (maybe that of a father) who founded the Cord Corporation. He created the Demolisher to destroy Iron Man, but lost control of the robot and sacrificed his life to stop the Demolisher.
+* '''Janice Cord''' - The daughter of Drexel Cord and the unspecified relative of Edwin Cord. She was killed during Iron Man's fight with Titanium Man and Crimson Dynamo.
+
+==In other media==
+The character was originally going to appear in the 2013 live-action film ''[[Iron Man 3]]'' alongside another villain, Simon Krieger, but they were both replaced by [[Aldrich Killian]] (played by [[Guy Pearce]]).<ref>{{cite web |url=https://www.syfy.com/syfywire/pepper-sex-tape-5-ways-iron-man-3s-original-draft-was-different |title=Pepper sex tape? 5 ways Iron Man 3's original draft was different |website=www.syfy.com |url-status=dead |archive-url=https://web.archive.org/web/20210128151331/https://www.syfy.com/syfywire/pepper-sex-tape-5-ways-iron-man-3s-original-draft-was-different |archive-date=2021-01-28}} </ref><ref>{{Cite web|url=https://www.empireonline.com/movies/features/iron-man-3-spoilers/|title = Shane Black and Drew Pearce Share 18 Incredible Iron Man 3 Secrets}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://marvel.wikia.com/Edwin_Cord_%28Earth-616%29 Edwin Cord] at Marvel Wiki
+* [http://www.comicvine.com/edwin-cord/4005-10377/ Edwin Cord] at Comic Vine
+* [http://www.ironmanarmory.com/bios.html#ecord Edwin Cord Edwin Cord] at Iron Man Armory
+* [http://www.ironmanarmory.com/bios.html#cord Janice Cord Janice Foswell] at Iron Man Armory
+
+{{Iron Man}}
+{{John Romita Jr.}}
+
+{{DEFAULTSORT:Cord, Edwin}}
+[[Category:Fictional business executives]]
+[[Category:Comics characters introduced in 1988]]
+[[Category:Characters created by John Romita Jr.]]
+[[Category:Characters created by David Michelinie]]
+[[Category:Marvel Comics characters]]
+[[Category:Characters created by Bob Layton]]

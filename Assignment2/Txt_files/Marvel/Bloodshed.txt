@@ -1,0 +1,5 @@
+#REDIRECT [[Bloodshed (character)]]
+
+{{Redirect category shell|
+{{R from move}}
+}}

@@ -1,0 +1,331 @@
+{{Short description|Marvel Comics fictional character}}
+{{Infobox comics character
+| image          = Blade (Marvel Comics).png
+| imagesize      = 
+| converted      = y
+| caption        = Textless cover of ''Strange Tales: Blade'' #3 (January 1999).<br />Art by [[Bart Sears]].
+| character_name = Blade
+| real_name      = Eric Cross Brooks<ref>{{gcdb series|id=21541|title=Blade (2006)}}</ref>
+| species        = [[Dhampir]] ([[Retroactive continuity|retconned]] from vampire-immune human)<ref name="retcon">{{cite web|url=https://www.cbr.com/the-abandoned-an-forsaked-so-what-are-blades-powers-exactly|title=The Abandoned An' Forsaked — So What Are Blade's Powers Exactly?|date=May 22, 2015|last=Cronin|first=Brian|publisher=[[Comic Book Resources]]}}</ref>
+| publisher      = [[Marvel Comics]]
+| debut          = ''[[The Tomb of Dracula]]'' #10 (July 1973)
+| creators       = {{Plainlist|
+* [[Marv Wolfman]] (writer)
+* [[Gene Colan]] (artist)
+}}
+| alliances      = [[Avengers (comics)|Avengers]]<br />[[MI-13 (comics)|MI: 13]]<br />[[Nightstalkers (comics)|Nightstalkers]]<br />[[Vanguard (Marvel Comics)|Vanguard]]<br />[[Midnight Sons]]<br />[[The Mighty Avengers|Mighty Avengers]]
+| aliases        = The Daywalker, Frank Blade, SwitchBlade, Spider Hero, [[Ronin (Marvel Comics)|Ronin]]
+| powers         =
+* Master martial artist
+* Skilled swordsman and marksman
+* Highly knowledgeable about vampire lore
+* Superhuman strength, speed, agility and stamina
+* Enhanced senses
+* Accelerated healing
+* Immunity to both vampire bites and vampire hypnosis
+* Slowed aging
+* Ability to sense supernatural creatures
+| cat           = super
+| subcat        = Marvel Comics
+| hero          = y
+| sortkey       = Blade
+}}
+'''Blade''' ('''Eric Cross Brooks''') is a [[fiction]]al [[Character (arts)|character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. Created by writer [[Marv Wolfman]] and [[penciller]] [[Gene Colan]], his [[first appearance]] was in the [[comic book]] ''[[The Tomb of Dracula]]'' #10 (July 1973) as a [[supporting character]], but later went on to star in his own storylines. Devoting his life to ridding the world of all [[Vampire (Marvel Comics)|vampires]], Blade utilizes his unique physiology to become the perfect [[vampire hunter]]; while originally depicted as a human immune to vampire bites, Blade was [[Retroactive continuity|retroactively established]] to be a [[dhampir]] following his adaptation as such in [[Spider-Man (1994 TV series)|''Spider-Man: The Animated Series'']] and the [[Blade (franchise)|''Blade'' film series]].<ref name="retcon" /> He is the father of [[Fallon Grey]].
+
+The character has been substantially adapted from the comics into various forms of media, including films, television series, and video games. [[Blade (New Line franchise character)|Blade]] was portrayed by [[Wesley Snipes]] in the films ''[[Blade (1998 film)|Blade]]'', ''[[Blade II]]'' and ''[[Blade: Trinity]]'', and by [[Sticky Fingaz]] in the television series ''[[Blade: The Series]]'', with J.D. Hall voicing the character in [[Spider-Man (1994 TV series)|''Spider-Man: The Animated Series'']], and [[Terry Crews]] voicing him in [[Ultimate Spider-Man (TV series)|''Ultimate Spider-Man'']] and ''[[Hulk and the Agents of S.M.A.S.H.]]''. [[Mahershala Ali]] has been cast as [[Blade (Marvel Cinematic Universe)|the character]] in the [[Marvel Cinematic Universe]] (MCU) media franchise, debuting with an uncredited vocal cameo in the film ''[[Eternals (film)|Eternals]]'' (2021) ahead of his [[Blade (2023 film)|upcoming standalone film]] (2023).<ref name=":0">{{Cite web|date=2021-02-05|title='Watchmen' Scribe Stacy Osei-Kuffour to Write Marvel's 'Blade' Movie (Exclusive)|url=https://www.hollywoodreporter.com/heat-vision/marvels-blade-movie-finds-its-writer-in-watchmen-scribe-exclusive|access-date=2021-02-06|website=The Hollywood Reporter|language=en}}</ref><ref>{{Citation|last=am|first=Jesse SchedeenUpdated: 5 Nov 2021 3:30 pmPosted: 5 Nov 2021 2:00|title=The Eternals Post-Credits Scene Explained: What's Next for Kit Harington's Dane Whitman? - IGN|date=5 November 2021|url=https://www.ign.com/articles/eternals-marvel-post-credits-black-knight-kit-harington-blade|language=en|access-date=2021-11-05}}</ref>
+
+==Publication history==
+Blade was introduced as a supporting character in Marvel Comics' ''[[The Tomb of Dracula]]'' #10 (July 1973), written by [[Marv Wolfman]] and [[penciller|penciled]] by [[Gene Colan]].<ref>{{cite book |last1=Sacks |first1=Jason |last2=Dallas |first2=Keith |title=American Comic Book Chronicles: The 1970s |date=2014 |publisher=TwoMorrows Publishing |isbn=978-1605490564 |page=101}}</ref> The artist recalled in 2003, "Marv told me Blade was a black man, and we talked about how he should dress, and how he should look – very heroic looking. That was my input. [...] The bandolier of blades – that was Marv's idea. But, I dressed him up. I put the leather jacket on him and so on".<ref name=cba>{{cite web|url=http://www.twomorrows.com/comicbookartist/articles/13colan.html |title=Gene Colan interview, ''Comic Book Artist'' #13 (May 2001) |publisher=[[TwoMorrows Publishing]] |date=2001-02-18 |access-date=2011-01-07}}</ref> Colan based the character's features on "a composite of black actors" including [[National Football League|NFL]] football star-turned-actor [[Jim Brown]].<ref name=cba /> He initially sported 1970s-style [[Afro]] hair and wielded [[teak]] bladed knives. Blade appeared in issues #10–21, with additional appearances in #24 and 28 (altogether ranging from July 1973 – Sept. 1974).
+
+Wolfman recalled in 2009,
+{{blockquote|I knew if I let him, Blade would eclipse the other characters so I pulled him back and let original supporting characters [[Rachel van Helsing|Rachel]], [[Frank Drake (comics)|Frank]] and [[Quincy Harker|Quincy]] shine. I also wasn't happy with my Blade dialogue, so I pulled him out of the book for a while — I think almost a year — and when I brought him back I played him a bit straighter. The early Blade dialogue was cliche 'Marvel Black' dialogue. Later on, I tried to make him more real. But it took growing up as a writer.<ref name=spotlight2009>{{cite news | author-link= Robert Greenberger | first=Robert | last= Greenberger | title= Inside the Tome of Dracula | work = Marvel Spotlight: Marvel Zombies Return | year = 2009 | page = 28 (unnumbered) }}</ref>}}
+
+Outside ''The Tomb of Dracula'', he fought the scientifically created vampire [[Morbius, the Living Vampire|Morbius the Living Vampire]] in the latter's series in ''[[Adventure into Fear]]'' #24 (Oct. 1974), in a story written by [[Steve Gerber]] and penciled by [[P. Craig Russell]].
+
+Blade's first solo story came in Marvel's black-and-white [[Horror fiction|horror]]-comics magazine ''[[Vampire Tales]]'' #8 (Dec. 1974), in an 11-page story by Wolfman and penciller-inker [[Tony DeZuniga]]. This feature continued in issue #9 (Feb. 1975), with Wolfman and [[Chris Claremont]] co-scripting. Blade then appeared in a 56-page solo story that concluded the story begun in ''Vampire Tales'' #8-9 in the black-and-white showcase magazine ''[[Marvel Preview]]'' #3 (Sept. 1975), written by Claremont, with two chapters each drawn by DeZuniga and by Rico Rival (this story was announced for ''Vampire Tales'' #12, but was published here after that magazine was cancelled). A six-page backup story by Wolfman and Colan followed in ''Marvel Preview'' #8 (Fall 1976).
+
+Blade next came into prominence in the 1990s, beginning with ''[[Ghost Rider (Danny Ketch)|Ghost Rider]]'' #28 (Aug. 1992), in the [[Midnight Sons]] imprint that included issues of ''[[Darkhold|Darkhold: Pages from the Book of Sins]]'', ''Ghost Rider'', ''Ghost Rider/[[Ghost Rider (Johnny Blaze)|Blaze]]: Spirits of Vengeance'', ''Midnight Sons Unlimited'', ''[[Morbius, the Living Vampire|Morbius]]'', and ''[[Nightstalkers (comics)|Nightstalkers]]''. Blade co-starred in the 18-issue series ''Nightstalkers'', and appeared with that team in a story in the [[anthology]] issue ''Midnight Sons Unlimited'' #1 (April 1993). He appeared in two solo stories, in ''Midnight Sons Unlimited'' #2 and 7 (July 1993 and Oct. 1994).
+
+Following the cancellation of ''Nightstalkers'', Blade debuted in his first color-comics series, ''Blade the Vampire Hunter'' #1–10 (July 1994 – April 1995), written by [[Ian Edginton]] (with the last two issues by [[Terry Kavanagh]]) and penciled by [[Doug Wheatley]]. Blade next appeared in a 12-page inventory story in issue #1 (Feb. 1997) of the short-lived black-and-white anthology series ''Marvel: Shadows and Light''. He then starred again in two solo one-shots: ''Blade: Crescent City Blues'' #1 (March 1998), by writer [[Christopher Golden]] and penciller and co-creator Colan; and ''Blade: Sins of the Father'' #1 (Oct. 1998), by writer [[Marc Andreyko]] and penciller Bart Sears.
+
+Marvel next announced a six-issue [[miniseries]], ''Blade'' (storyline: "Blade: Blood Allies") by the writer [[Don McGregor]] and penciller Brian Hagen, but only issues #1–3 (Nov. 1998–Jan. 1999) were published. Marvel published a different six-issue miniseries later that year, ''Blade: Vampire Hunter'' (storyline: "Chaos (A)"; Dec. 1999 – May 2000), written and, except the last two issues, pencilled by Bart Sears.
+<!--The following guest appearances can go as footnotes in FCB:
+Blade, additionally, guest-starred with [[Spider-Man]] in ''[[Marvel Team-Up]]'' vol. 2 #7 (March 1998), and ''[[Peter Parker: Spider-Man]]'' vol. 2 #7-8 (July-Aug. 1999)-->
+
+The next ongoing series, ''Blade'' vol. 2 by writer [[Christopher Hinz]] and artist [[Steve Pugh]], ran six issues, published by [[Max (comics)|Marvel MAX]] in 2002. ''Blade'' vol. 3 by the writer [[Marc Guggenheim]] and penciller-inker [[Howard Chaykin]], ran 12 issues (Sept. 2006–Aug. 2007). The final two pages of the last issue were drawn by co-creator Colan.
+
+Blade also starred in two promotional comic books: ''Blade'' #{{frac|1|2}} (1999) by writer-artist Sears and inker [[Bill Sienkiewicz]], bundled with issues of ''[[Wizard (magazine)|Wizard: The Comic Magazine]]'' #2000; and ''Blade: Nightstalking'' (2005), a 22-page story by writers [[Jimmy Palmiotti]] and Justin Gray and penciller [[Amanda Conner]], based on [[New Line Cinema]]'s ''[[Blade (film series)|Blade]]'' films, and bundled with the ''Blade: Trinity Deluxe Edition'' [[DVD]]. Additionally, the second ''Blade'' movie was adapted as the Marvel comic ''Blade 2: Bloodhunt — The Official Comic Adaptation'' (April 2002) by writers [[Steve Gerber]] and [[David S. Goyer]] and penciller-inker Alberto Ponticelli.
+
+Blade joined the cast of ''[[Captain Britain and MI13|Captain Britain and MI: 13]]'' beginning with issue #5 (Nov. 2008).
+
+In 2015, it was announced that Tim Seeley and Logan Faerber would be launching a new ''Blade'' series, starting in October 2015, as part of Marvel's post-''[[Secret Wars (2015 comic book)|Secret Wars]]'' relaunch, focusing on his and Queen Cilla's daughter [[Fallon Grey]]. However, this book has since been delayed for an unspecified time.<ref name=":Blade">{{Cite web|last=Johnston|first=Rich|title=''Blade'' Delayed, For All-New All-Different Marvel|url=http://www.bleedingcool.com/2015/08/06/blade-delayed-for-all-new-all-different-marvel|website=Bleeding Cool Comic Book, Movie, TV News|access-date=August 6, 2015|date=August 6, 2015}}</ref>
+
+==Fictional character biography==
+{{long plot|date=August 2015}}
+
+===Early life and career===
+[[File:blademu2.png|thumb|''Marvel Preview'' #3 (Sept. 1975), painted cover art by [[Gray Morrow]]]]
+Eric Cross Brooks was born in a [[brothel]] in the [[Soho]] neighborhood of [[London]], [[England]] in 1929<ref name="mpreview">''Marvel Preview'' #3. Marvel Comics.</ref> to [[Vanessa Brooks|Tara Vanessa Cross-Brooks]], an heiress seeking sanctuary with Madame Vanity, an agent of the Order of Tyrana.<ref name=":Cross">[[Blade (comics)|''Blade'' vol. 4]] #1—12 (September 2006—August 2007)</ref> When Tara experienced severe labor complications, a doctor was called; in actuality, the doctor was the [[Vampire (Marvel Comics)|vampire]] [[Deacon Frost]], who killed Tara by drinking all of her blood. However, this inadvertently passed along certain vampire enzymes to her baby son as he was born. Eric thus became part-vampire, preventing him from being turned by a vampire's bite. Blade has also speculated that it gave him a hatred of vampires, though this may simply be hyperbole on his part. The brothel's [[sex worker]]s drove off Frost once they realized what he had done.<ref name=":Cross" />
+
+Due to his father Lucas Cross being falsely imprisoned in his native [[Latveria]], Eric was raised in the brothel, believing his mother to have been an employee there, and at age 9, returning home from school one day, he saw an old man being attacked by three vampires. Eric helped the man, [[Jamal Afari]], distract his attackers so that he could kill them with a silver sword. Afari, posing as a [[jazz]] musician, soon became a father figure to Eric, teaching him music and training him in the ways of fighting vampires. Eric was soon able to defeat many of the weak, younger vampires that he and Afari found in abundance.<ref name="mpreview"/> Over time, the young man became an Olympic-level athlete and a formidable hand-to-hand combatant; his skill with [[Knife|knives]] and [[dagger]]s was such that it earned him the nickname "Blade" among both his fellow hunters and the vampires they opposed, who began to fear him. Blade also received additional training from the legendary [[Stick (comics)|Stick]].
+
+Blade's easy victories made him cocky. He joined a gang of young hunters, the Bloodshadows,<ref>[http://www.marvunapp.com/Appendix3/bloodshadowsblade.htm Bloodshadows] at the Appendix to the Handbook of the Marvel Universe</ref> headed by Cyrus Cutter, later killed by Blade in a knife fight caused by Blade's disapproval of Cutter's actions as leader. Glory Anah, Cutter's girlfriend, became Blade's first lover. Having gone to London, where for months the group hunted vampires, demons, and warlocks under Blade's leadership, the group encountered a much older and more powerful vampire than any Blade had met before, named Lamia. Blade barely defeated Lamia, who slaughtered the other Bloodshadows and bit Glory, turning her into a vampire. Although Glory subsequently refused to kill Blade, she warned him never to look for her or she would kill him. The tragedy of the experience changed Blade considerably, as he became much more focused and determined in his hunting.
+
+Afari himself later fell prey to [[Dracula (Marvel Comics)|Dracula]], the first occurrence in an ongoing feud between the vampire lord and Blade.<ref name="Tomb30">''The Tomb of Dracula'' #30. Marvel Comics.</ref> Blade mercy-killed his mentor after Afari rose as a vampire, and tracked Dracula back to [[Europe]], [[Asia]], and [[Anatolia|Asia Minor]], staking him many times, but never completely destroying him.<ref>''The Tomb of Dracula'' #10. Marvel Comics.</ref> While in [[China]], Blade joined Ogun Strong's vampire hunters,<ref name="Tomb30"/> which included Azu, Orji, and Musenda. Together, they staked Dracula again. Dracula survived, and killed all of the hunters except Blade and Musenda, who eventually retired from vampire hunting. Orji had created a lasting impression on Blade with his use of wooden daggers to combat vampires, leading to Blade adopting that weapon as his preferred arms. Consumed by grief for his fallen comrades, Blade resumed his quest alone.
+
+===Quincy Harker's vampire hunters===
+Blade eventually located Dracula in Paris, where he first encountered the vampire hunter [[Quincy Harker]], son of [[Jonathan Harker]], who he knew by reputation, and Harker's fellow vampire hunters: [[Rachel van Helsing]], great-granddaughter of [[Abraham Van Helsing]]; Taj Nital; and [[Frank Drake (comics)|Frank Drake]], last mortal descendant of Dracula.<ref>''The Tomb of Dracula'' #12-14. Marvel Comics.</ref> Because of his mercurial temperament, Blade had a strained but steady relationship with the group, allying himself with them on several occasions but always parting ways with them in the end.
+
+Later, after an unsuccessful battle with Dracula,<ref>''The Tomb of Dracula'' #17. Marvel Comics.</ref> Blade realized he was immune to the vampire's curse that had felled many other hunters.<ref>''The Tomb of Dracula'' #19. Marvel Comics.</ref> Armed with this knowledge, he parted company with Harker<ref>''The Tomb of Dracula'' #21. Marvel Comics.</ref> and went after Deacon Frost alone. Blade later battled Dracula in London,<ref>''The Tomb of Dracula'' #24. Marvel Comics.</ref> as well as [[Morbius, the Living Vampire|Morbius the Living Vampire]],<ref>''Adventure into Fear'' #24. Marvel Comics.</ref> and the Legion of the Damned, who unsuccessfully framed him for murder.<ref>''Vampire Tales'' #8-9 and ''Marvel Preview'' #3. Marvel Comics.</ref> Blade also destroyed a band of vampire children without hesitation.<ref>''Marvel Preview'' #8. Marvel Comics.</ref>
+
+Blade's hunt for his mother's killer led him to [[Boston]], [[Massachusetts]], where he allied with Dracula against [[Doctor Sun]].<ref>''The Tomb of Dracula'' #41. Marvel Comics.</ref> Following this battle, Dracula vanished and Blade again set out on his own.<ref>''The Tomb of Dracula'' #42. Marvel Comics.</ref>
+
+He eventually encountered [[Hannibal King]], a [[Private investigator|private detective]] whom Deacon Frost had turned into a vampire.<ref>''The Tomb of Dracula'' #45. Marvel Comics.</ref> While initially distrusting King, Blade teamed up with him to hunt Frost. Blade and King fought together against Blade's evil [[doppelgänger]] who absorbed the real Blade into his form. King enlisted the help of Daimon Hellstrom, the [[Daimon Hellstrom|Son of Satan]], who exorcised Blade from the doppelgänger and killed it with King's help. Blade and King eventually caught up with Frost, who had created an army of vampiric doppelgängers, one for each of his victims. Together, they shut down Frost for good, destroying the vampire, and forging a lasting friendship.<ref>''The Tomb of Dracula'' #48-53. Marvel Comics.</ref>
+
+Blade, Rachel van Helsing, and [[Harold H. Harold]] later confronted Dracula.<ref>''The Tomb of Dracula'' #54. Marvel Comics.</ref> Later, Blade returned to China and honored the memory of his former allies by saving Musenda's wife from being turned into a vampire.<ref>''The Tomb of Dracula'' #58. Marvel Comics.</ref>
+
+===The Nightstalkers===
+{{Main|Nightstalkers (comics)}}
+In later years, Blade, along with King and Drake, became a frequent ally of the [[wikt:sorcerer|sorcerer]] [[Doctor Strange]], and the three assisted Strange in battles with Dracula and the [[Darkhold]]ers and assisted in the casting of the Montesi Formula which, for a time, destroyed all vampires on Earth.<ref>''Doctor Strange'' #59-62. Marvel Comics.</ref> Blade, King, and Drake then formed the private detective agency Borderline Investigations, Inc. to combat supernatural threats. Alongside Doctor Strange, the three detectives battled the Darkholders again.<ref>''Doctor Strange'' #67. Marvel Comics.</ref> Blade also rescued his close friend Safron Caulder from the Darkholders.<ref>''Marvel Comics Presents'' #64. Marvel Comics.</ref>
+
+The agency discontinued after Drake left and Blade was committed to a psychiatric hospital following a battle with a temporarily resurrected [[Dracula (Marvel Comics)|Dracula]]. Doctor Strange later arranged the release of Blade so that he could join Drake and King in reforming Borderline Investigations, Inc. as the [[Nightstalkers (comics)|Nightstalkers]]. Blade, King, and Drake were hired by [[Lilith (Marvel Comics)#Mother of All Demons|Lilith the Mother of All Demons]] to kill the second [[Ghost Rider (Danny Ketch)|Ghost Rider]] and the non-infernally powered [[Ghost Rider (Johnny Blaze)|John Blaze]]. The three Nightstalkers battled Meatmarket.<ref>''Nightstalkers'' #1. Marvel Comics.</ref> The Nightstalkers then teamed with the Ghost Rider, Blaze, Morbius, Doctor Strange, and the [[Darkhold Redeemers]] to battle Lilith and her Lilin.<ref>''Ghost Rider'' (vol. 3) #31. Marvel Comics.</ref> The Nightstalkers also battled other threats, such as [[Hydra (Marvel Comics)|HYDRA]]'s DOA.<ref>''Nightstalkers'' #2-4. Marvel Comics.</ref>
+
+Upon the eventual weakening of the Montesi Formula and the return of vampires, Blade encountered and staked a former ally, the now-vampiric Taj Nital, and survived a battle with the first Lord of Vampires, [[Varnae]], in which Drake and King appeared to have been killed.<ref>''Nightstalkers'' #18. Marvel Comics.</ref>
+
+===The Daywalker===
+A solo vampire-hunter once again, Blade briefly joined forces with the mystic [[John Carik|Bible John Carik]], and encountered a vampire impersonating [[Deacon Frost]] and a once-again resurrected Dracula. Later, in [[New Orleans]], [[Louisiana]], Blade discovered that [[Hannibal King]] had survived, and the two joined forces to defeat a genuinely resurrected Frost.<ref>''Blade'' #1. Marvel Comics.</ref> Blade remained active in New Orleans, defeating the vampire Ulysses Sojourner and his own former ally, Morbius, who was under Sojourner's mental thrall. Blade followed Morbius to New York, where, while teamed with [[Spider-Man]], Blade was bitten by Morbius.<ref>''Peter Parker: Spider-Man'' #7-8. Marvel Comics.</ref> Blade's blood enzymes reacted unexpectedly with Morbius's unique form of [[Vampire (Marvel Comics)|vampirism]] to grant Blade many vampire strengths, while eliminating weaknesses inherent to a true vampire, most notably the vulnerability to sunlight. It was at this time that Blade assumed the unofficial title of "the Daywalker" among his prey.
+
+The [[United Nations]]-sanctioned [[espionage]] agency [[S.H.I.E.L.D.]] sought to use Blade's blood for Project: Silvereye, an attempt at cloning vampire operatives. Blade and the vampire-hunting twins Mosha and Mikado shut down the project. Blade later joined Noah van Helsing, actually Noah Tremayne, Rachel van Helsing's adopted cousin, and several vampire hunters worldwide to stop Dracula from becoming a genuinely god-like vampire lord. Blade then returned to New Orleans.
+
+Blade re-encountered Dracula, and appeared to fully destroy the vampire lord once again aboard the S.H.I.E.L.D. [[Helicarrier]] ''Pericles V''. Unbeknownst to Blade, his wealthy father, Lucas Cross, had been responsible for Dracula's most recent resurrection. Cross later kidnapped Blade and attempted to force Blade to feed on a [[Virginity|virgin]] girl in an attempt to fulfill a prophecy. Blade escaped after biting through his own hand. Later, Blade would feed on a virgin after biting an evil vampire [[priest]], Draconis.<ref name=":8">''Blade'' #8. Marvel Comics.</ref>
+
+In exchange for undertaking a [[time travel]] adventure for the [[supervillain]] [[Doctor Doom]], Blade received from Doom an [[wikt:elixir|elixir]] that would purportedly cure a vampire of thirst for human blood, but would also remove the bloodlust vampire hunters get for killing the undead. At the end of the series, Blade gave Hannibal King the elixir. During this time travel mission, Blade fulfilled another part of the prophecy by freeing his imprisoned father.
+
+===''Civil War'' and beyond===
+During the ''[[Civil War (comics)|Civil War]]'' storyline, in which the superheroes of the Marvel Universe were split over the [[Superhuman Registration Act]], Blade registers and begins cooperating with S.H.I.E.L.D.<ref>''Civil War'' #5. Marvel Comics.</ref> This alliance allowed Blade access to S.H.I.E.L.D. tech, gaining himself a "gun hand" to replace his missing one. Blade completes a prophecy he believes would give all extant vampires back their souls, but which instead returns to existence every vampire that had ever been killed.<ref>''Blade'' #12. Marvel Comics.</ref>
+
+Blade next leads a group of superhuman black-ops agents funded secretly by the U.S. government, called the [[Vanguard (team)|Vanguard]],<ref>''[[Marvel Comics Presents]]'' vol. 2 #5. Marvel Comics.</ref> of which even the President is unaware. During his time with this squad, Blade receives a cybernetic replacement hand. The squad disbands after their cover is compromised, and Blade returns home to the [[United Kingdom]] to join [[MI-13 (comics)|MI-13]] in its fight against supernatural evil.<ref name="ReferenceA">''[[Captain Britain and MI13|Captain Britain and MI: 13]]'' #5. Marvel Comics.</ref> He soon afterwards stakes his new teammate, the vampire hero [[Spitfire (comics)|Spitfire]].<ref name="ReferenceA"/> Blade and Spitfire clashed again with each other in a fierce battle, but the two were forced to work together and seemed to have formed an unlikely friendship. Upon completing their first mission together, Blade attempts to apologize to Spitfire for trying to kill her, but before he could finish, she kisses him.<ref>''Captain Britain and MI:13'' #9. Marvel Comics.</ref>
+
+During the "[[Curse of the Mutants]]" storyline, Blade appears in San Francisco to assist the X-Men in capturing a vampire specimen for the X-Club. He confirms Dracula's death and reveals that his son Xarus is the new Lord of Vampires, having united all of the vampire sects under a single flag. He immediately objects to Cyclops' plan to resurrect Dracula, stating "You don't dig up [[Adolf Hitler|Hitler]] to get rid of [[Saddam Hussein]]".<ref>''[[X-Men (vol. 3)|X-Men]]'' vol. 3 #2. Marvel Comics.</ref> The conflict concluded with Dracula being resurrected anyway, despite Blade's objections. Blade attempts to kill the now-vampire [[Jubilee (comics)|Jubilee]], but is forced to withdraw after a stand-off with Wolverine, who refuses to allow her to be staked, even as Blade warns the X-Men that they will eventually have to kill her.<ref>''[[X-Men (vol. 3)|X-Men]]'' vol. 3 #5. Marvel Comics.</ref>
+
+Blade was later revealed to have been the character (whose identity is kept from the reader) on the [[The Mighty Avengers|Mighty Avengers]] team who dons the Halloween-type '''Spider Hero''' alias during the ''[[Infinity (comic book)|Infinity]]'' storyline,<ref>''Mighty Avengers'' vol. 2 #1. Marvel Comics.</ref> and the '''[[Ronin (Marvel Comics)|Ronin]]''' identity from a "big box of [[Hawkeye (Clint Barton)|Clint Barton]]'s old stuff" during the ''[[Inhumanity (comics)|Inhumanity]]'' storyline;<ref>''Mighty Avengers'' #4.INH. Marvel Comics.</ref> his true identity was eventually revealed.<ref>''Mighty Avengers'' #9. Marvel Comics.</ref>
+
+In order to prepare for his next TV program, [[Mojo (comics)|Mojo]] paired Blade up with Doctor Strange, the Ghost Rider, the [[Manphibian]], the [[Man-Thing]], and [[Satana (Marvel Comics)|Satana the Devil's Daughter]], where he formed the Avengers of the Supernatural. He mind-controlled them and had them fight the [[Uncanny Avengers|Avengers Unity Division]]. Both groups managed to break free from the mind-control and returned to their world after preventing the Ghost Rider from using his Penance Stare on the inhabitants of Mojoworld.<ref>''Uncanny Avengers'' Annual #1. Marvel Comics.</ref>
+
+Blade later appears in a small town hunting down a necromancer and ends up confronting [[Gwenpool]], who was unknowingly hired to kill him. After Gwenpool explains that the dead residents are living peacefully, Blade leaves after he gives her his cellphone number, dubbing her "Pink Slayer", but is called back when Gwenpool discovers that the mayor/necromancer is actually draining the life-force from children to keep his undead citizens alive.<ref>''The Unbelievable Gwenpool'' #11. Marvel Comics.</ref>
+
+During the "[[Secret Empire (comics)|Secret Empire]]" storyline, Blade was shown to have been trapped in Manhattan when it was isolated by a [[Darkforce]] dome. Due to the vampire attacks at the time, Blade takes advantage of this by killing every attacking vampire to protect the humans.<ref>''Secret Empire: Brave New World'' #5. Marvel Comics.</ref>
+
+Blade was later captured by an army of vampires and imprisoned until he was freed by Wasp.<ref>''Avengers'' vol. 8 #10. Marvel Comics.</ref> He took up the [[Black Panther (comics)|Black Panther]]'s offer to join the Avengers.<ref>''Avengers'' vol. 8 #12. Marvel Comics.</ref> Blade, along with the Avengers, faces a civil war among the vampire community orchestrated by the Shadow Coronel and the [[Legion of the Unliving]].<ref>''Avengers'' vol. 8 #14-17. Marvel Comics.</ref>
+
+During the ''[[War of the Realms]]'' storyline, Blade appears with the Avengers and the other heroes fighting [[Malekith the Accursed]] and his army. He also joins the group sent to destroy the Black Bifrost.<ref>''War of the Realms'' #1-6. Marvel Comics.</ref> He also appears attacking Roxxon's secret base in [[Antarctica]], fighting the Berserkers along with the [[Gorilla-Man]] and [[Ka-Zar (Kevin Plunder)|Ka-Zar]].<ref>''Avengers'' vol. 8 #20. Marvel Comics.</ref>
+
+==Powers and abilities==
+===Comics===
+Due to an enzyme in his bloodstream resultant from his mother's being bitten by a vampire while giving birth to him, Blade is immune to the bites of typical, supernatural vampires. In certain instances, he also appeared immune to vampire hypnosis as well. He lacked superhuman physical attributes, however, and relied solely on his considerable skill and determination until [[Morbius, the Living Vampire]], an atypical, scientifically created vampire, bit him and Blade was turned into something resembling a [[dhampir]]. Blade possesses superhuman strength, stamina, speed, agility, heightened senses, and a rapid healing factor that attacks any alien substances (chemicals/viruses) in his body. The healing factor also eliminates any chance of him being rendered helpless or maimed from the inside. Blade is unaffected by daylight and most other traditional vampire weaknesses. He also ages very slowly (although he is not immortal) and can preternaturally sense supernatural activity.
+
+When he was raised and trained by [[Jamal Afari (comics)|Jamal Afari]], Blade learned everything about vampire lore, from their strengths to their weaknesses, and how he could use his powers and skills to hunt down vampires so he could fight and kill them.{{issue|date=November 2018}}
+
+Blade is a master martial artist, mastering styles like [[boxing]], [[capoeira]], [[escrima]], [[jeet kune do]], [[hapkido]], [[jujutsu]], [[Shotokan karate]], [[kung fu]], and [[ninjutsu]].{{issue|date=July 2014}} He is also a skilled swordsman, marksman, and street-fighter. He is adept in the usage of throwing knives. He is highly knowledgeable about vampire lore as well as the supernatural.
+
+In "Dracula's Gauntlet", Blade and Deadpool are surrounded by monsters and Blade threatens to turn into a bat and leave Deadpool there to die.{{issue|date=February 2017}} He may have all vampire powers, but feels conflicted about using the ones that make him seem less human.{{issue|date=February 2017}}
+
+===Films and television series===
+In the films and television series, Blade originated from [[Detroit|Detroit, Michigan]]. Blade is depicted as having all of a vampire's strengths and none of the weaknesses, except for the bloodlust. Blade attempts to suppress the thirst with a serum, but during the first film, his body develops a resistance to it. At the beginning of the second film, it is stated that Dr. Karen Jenson, from the first film, improved the serum, presumably in the time between the two films. Although he does not want to drink blood, he has been shown to be capable of it; prior to the development of the serum, [[Abraham Whistler]] noted that he found Blade as a teenager when Blade was feeding on the homeless, with Blade ingesting blood during the first and second films when in a position where he was badly injured and needed to be back at full strength as soon as possible.
+
+Blade's half-vampire physiology results in him being completely immune to silver, garlic, and sunlight. Blade has superhuman strength, speed, stamina, agility, reflexes, and senses. He also has a healing factor that allows him to heal completely from wounds overnight, although in the first and second films he was forced to drink blood to accelerate his usual healing abilities when faced with an immediate threat and too badly injured to confront it on his own. It is also mentioned in the first film that he ages like a human, while vampires age much slower. He is a master of [[martial arts]], practices [[meditation]], and can speak [[Czech language|Czech]], [[Russian language|Russian]], and to a degree the vampire language, and he has a great deal of knowledge about hunting vampires. It is seen in the television series that, while he is only half-vampire, Blade's saliva still produces the enzyme that turns humans into vampires.
+
+==Equipment==
+===Comics===
+According to his earliest appearances in the original ''[[The Tomb of Dracula]]'' comics, Blade relied on [[teak]]wood [[dagger]]s which he used to [[Impalement|impale]] opponents, and a variety of [[mahogany]] [[wikt:stake#Noun|stake]]s. He was an excellent hand-to-hand combatant and knife-fighter. Later comics upgraded his arsenal significantly over the years, including a variety of different bladed weapons ranging from long swords to katanas, as well as guns, flamethrowers, and UV and silver-based weapons. He relies mainly on a double-edged sword he carries on his back. He has also had some success with improvised weapons, such as stakes made from snapped brooms and, after losing his hand, a replacement appendage made from duct tape and a pointed stick. He would replace this with a new [[machine gun]]-esque firearm used in place of his missing hand, which responds to different muscle twitches as an indication of reloading and firing, among other functions (including a grappling hook, which Blade describes as his "favorite feature"). It also uses three different kinds of ammo. This weapon was created by S.H.I.E.L.D. Blade also had an arsenal of EMP grenades.
+
+===Films and television series===
+Much in the same way as in the comics,<ref>{{cite web|url=http://withfriendship.com/images/d/18984/Blade-comics-image.jpg|title=Blade's model sheet in ''The Official Handbook of the Marvel Universe: Master Edition''|archiveurl=https://web.archive.org/web/20160306081026/https://www.withfriendship.com/images/d/18984/Blade-comics-image.jpg|archivedate=2016-03-06|website=withfriendship.com}}</ref> in the movie series, Blade employs a stylized double-edged sword as one of his main offense and defense tools. Although not much detail is specified in the comics about the composition of the sword, in the films, it is equipped with an acid-etched titanium blade that has a security feature that will release blades into the wielder's hand after a set time. This is aborted by Blade or others who know of the system by pushing a hidden switch in the sword's [[Sword#Hilt|hilt]]. The movies also depict him wielding varieties of throwable "glaives" (boomerang- or chakram-like weapons which return when thrown), different knives, silver stakes, and firearms. He also uses specialized weapons, such as throwable injector canisters filled with an anticoagulant which is explosively lethal to vampires, and extendable injector spikes worn on the back of the hand.
+
+===Anime===
+In addition to all his above skills and powers, Blade's swordsmanship in particular is shown in ''[[Marvel Anime]]'' to be especially advanced.<ref>{{cite web|url=https://www.animenewsnetwork.com/news/2011-06-01/blade-fairy-tail-ro-kyu-bu-promo-videos-streamed|title=Blade, Fairy Tail, Ro-Kyu-Bu! Promo Videos Streamed|work=[[Anime News Network]]}}</ref> Blade's sword-style revolves mainly around his mastery of Yagu Shinkage-ryu, a kenjutsu art that can unleash powerful shockwaves or transparent wind blades from his sword swings, allowing him to blast or slice respectively his opponents from a distance. The Yagu Shinkage-ryu also has three principal Yagyu techniques. The first technique, "The First Blade: Residual Moon", draws a small circle with the tip of his sword, producing a perfectly tangible after-image of himself for diversions. The second technique, "The Second Blade: Phantom Moon", involves a high-speed spin, allowing Blade to launch an omnidirectional slash in rapid succession with such intensity that it sets his strike ablaze. The final technique, "The Third Blade: Chaotic Moon", launches several shadow blades around the opponent, hiding the user's attack path with little chance of being noticed.
+
+==Other versions==
+===''Marvel Zombies''===
+In ''[[Marvel Zombies]]'', [[Nick Fury]] explained to Blade and those who joined the resistance aboard the S.H.I.E.L.D. Helicarrier how serious he believed the situation to be; that it was the end of the world. He also explained that whatever the histories of those assembled, they were all on the same side. However, Blade was later seen as one of the infected heroes.<ref>''Marvel Zombies'' #2. Marvel Comics.</ref>
+
+=== ''Ultimate Marvel'' ===
+An ''[[Ultimate Marvel]]'' [[Imprint (trade name)|imprint]] of Blade appears. This [[Multiverse (Marvel Comics)|alternate universe]] version, called "the [[#The Daywalker|Daywalker]]" by the ''[[Daily Bugle]]'', has numerous small scars across his eyes and cheeks.
+
+[[Spider-Man (Ultimate Marvel character)|Spider-Man]] met Blade when the Daywalker was hunting a vampire in an alley. Believing Blade to be a crazed gunman, Spider-Man webbed him and tended to a person who he thought was an ordinary civilian, until the vampire attacked. Blade freed himself and staked the creature, saving Spider-Man from being bitten. Blade then threatened Spider-Man with his superior strength and menacing vampiric appearance, that if the youth ever attacked him again, he would "eat [Spider-Man's] heart for breakfast!" Shaken by this encounter, Spider-Man later took Blade's discarded wooden stake as a [[wikt:memento|memento]] of the discovery of the existence of vampires. This experience also later helps when trying to save [[Ben Urich]] from being one.<ref>''Ultimate Spider-Man Super Special'' #1 and ''Ultimate Spider-Man'' #95. Marvel Comics.</ref>
+
+Blade is one of the many heroes recruited by [[Nick Fury (Ultimate Marvel character)|Nick Fury]] in ''[[Ultimate Comics: Avengers]]''. When vampires started infecting superheroes, going from street-heroes, such as the new [[Daredevil (Marvel Comics character)|Daredevil]], to major heroes such as the Nerd Hulk, and even [[Captain America (Ultimate Marvel character)|Captain America]], Blade became the center of attention as he infiltrated the [[Triskelion (comics)|Triskelion]], where he fought more vampires. After repelling Captain America, Blade was taken into custody by [[S.H.I.E.L.D.]] and interrogated on the nature of the vampires and who was behind this. He explained that this was orchestrated by Anthony, another vampire hunter like Blade, who was turned into a vampire and put his mind and strategy into infecting the superhero community in order to dominate the world. As S.H.I.E.L.D. and the Avengers were preparing to fight against the vampires, Blade was incarcerated below the Triskelion, as he could not be trusted until the situation was over. When the vampires assaulted the Triskelion, Blade was let out by his handlers in confronting the vampires Daredevil and his [[Stick (comics)|former master]]. He was forced to retreat from the vampires armed with Iron Man's armor before being subdued and prepared to be beheaded by Daredevil, but Captain America was cured and teleported the Triskelion to a daylight [[Iran]] where the vampires were incinerated, saving Blade in the process.<ref>''Ultimate Avengers 3'' #1-6. Marvel Comics.</ref>
+
+Nick Fury managed to convince Blade to join a [[Avengers (comics)|black ops group]] by promising to deliver to him the recently captured [[Deacon Frost|vampire]] who is responsible for his condition. While attempting to intervene on an illegal sale of S.H.I.E.L.D. Super-Soldiers, the Avengers were attacked by [[Tyrone Cash]]. However, Blade was able to hypnotize him before he could cause any real threat. Cash revealed that he was working for [[Carol Danvers]]. During the main battle between the Avengers and the New Ultimates, Blade managed to capture Danvers briefly before he was intercepted by the [[Monica Chang|Black Widow]]. [[Iron Man (Ultimate Marvel character)|Iron Man]] intervened to help but Blade was crushed, not realizing that Blade did not have super-human invulnerability.<ref>''New Ultimates vs. Avengers'' #3. Marvel Comics.</ref> After being arrested by the New Ultimates, Blade and the rest of the Avengers take Cash's serum and they gain massive strength and bulk bodies. When they confront [[Gregory Stark]], the group is easily overpowered by Stark's nanite-based powers and sends them over the edge of the {{USS|Jimmy Carter|SSN-23|6}}. They later join the New Ultimates on their mission to [[South Korea]] to settle the civil unrest which Stark engineered.<ref>''New Ultimates vs. Avengers'' #1-6. Marvel Comics.</ref>
+
+An alternate version of Earth 1610 was introduced as member of the ''[[Thor Corps]]'' of Earth-61610 in ''[[Mrs. Deadpool and the Howling Commandos]]''.<ref>''Mrs. Deadpool and the Howling Commandos'' #2</ref>
+
+==Marv Wolfman lawsuit==
+In 1997, on the eve of the impending release of the [[Blade (1998 film)|''Blade'' film]], [[Marv Wolfman]] sued Marvel Characters Inc. over ownership of all characters he had created for Marvel Comics, including Blade and [[Nova (Richard Rider)|Nova]].<ref name=tcj239>{{cite news | url =http://tcj.com/239/n_wolfman.html | title=Post Mortem: Marv Wolfman Talks About His Day in Court| first=Michael | last=Dean| work=[[The Comics Journal]]| issue=239| date= November 2001| publisher=[[Fantagraphics Books]]|archive-url= https://web.archive.org/web/20080510153705/http://tcj.com/239/n_wolfman.html | archive-date=May 10, 2008}}</ref> A ruling in Marvel's favor was handed down on November 6, 2000.<ref name=tcj239 /> Wolfman's stance was that he had not signed work-for-hire contracts when he created his characters, including Blade and Nova. In a non-jury trial, the judge ruled that Marvel's later use of the characters was sufficiently different to protect it from Wolfman's claim of copyright ownership.<ref>{{cite news|url= http://archives.tcj.com/index.php?option=com_content&task=view&id=238&Itemid=48 |title=Wolfman loses Blade lawsuit against Marvel| first=Michael |last=Dean |work=The Comics Journal |issue=229 |publisher= Fantagraphics Books |date=November 16, 2000 |access-date=January 7, 2011 |archive-url = https://web.archive.org/web/20120224224934/http://archives.tcj.com/index.php?option=com_content&task=view&id=238&Itemid=48 |archive-date= February 24, 2012}}</ref>
+
+==Reception==
+[[IGN]] ranked Blade as the 63rd greatest comic character, stating that Blade is the most iconic hero to spring from the period of monster-themed stories.<ref>{{cite web | url=https://www.ign.com/top/comic-book-heroes/63| title=Blade is number 63 | publisher=[[IGN]] |access-date= May 14, 2011}}</ref> [[UGO Networks]] placed Blade as one of the top heroes of entertainment, quoting that "Blade has to get props for being the most obscure Marvel character to ever get a film deal...and television deal, too!"<ref>{{cite web |url=http://www.ugo.com/games/best-heroes-of-all-time?page=2 |title=Best Heroes of All Time |publisher=[[UGO Networks]] |access-date=May 21, 2011 |url-status=dead |archive-url=https://web.archive.org/web/20101222034550/http://www.ugo.com/games/best-heroes-of-all-time?page=2 |archive-date=December 22, 2010 }}</ref> Blade was ranked 4th on a listing of Marvel Comics' monster characters in 2015.<ref>{{cite web|url= https://www.denofgeek.com/us/books-comics/marvel/250132/marvels-31-best-monsters/page/0/2|title= Marvel's 31 Best Monsters|first= Marc|last= Buxton|date= October 30, 2015|publisher= [[Dennis Publishing|Den of Geek]]|archive-url= https://web.archive.org/web/20181001030953/http://www.denofgeek.com/us/books-comics/marvel/250132/marvels-31-best-monsters/page/0/2|archive-date= 2018-10-01|url-status= live|quote= Blade isn't really a monster. In fact, he might be the greatest monster hunter in comics (sorry Buffy). But consider the fact that Blade is part vampire, and you have a heroic bloodsucker worthy of making our top 5.|access-date= 2018-09-30}}</ref>
+
+==In other media==
+===Television===
+* Blade appears in ''[[Spider-Man (1994 TV series)|Spider-Man]]'', voiced by J.D. Hall.{{citation needed|date=December 2019}} This version was the son of a male vampire who had fallen in love with a human woman who left him in foster care before she became a vampire herself. Blade appeared in the episodes "Neogenic Nightmare Chapter 9: Blade the Vampire Hunter", "The Immortal Vampire", "Partners in Danger Chapter 7: The Vampire Queen", and "Secret Wars Chapter 2: Gauntlet of the Red Skull".
+* [[Blade (New Line franchise character)|Blade]] appears in a [[Blade: The Series|self-titled TV series]], portrayed by [[Sticky Fingaz]]. Set after the events of ''[[Blade: Trinity]]'', this version's birth name is Eric Brooks and was born in Detroit. Additionally, Blade's father is Robert Brooks, who raised him until he was 12, when elements of his vampiric nature became more apparent.
+* Blade appears in ''[[Marvel Anime|Marvel Anime: Blade]]'', voiced by [[Akio Ōtsuka]] in the Japanese version and [[Harold Perrineau]] in the English dub, while his younger self is voiced by [[Junko Minagawa]] in the Japanese version and by Noah Bentley in the English dub.<ref>{{cite web|last1=Sherman|first1=Jennifer|title=Blade English Dub's Lead Cast|url=https://www.animenewsnetwork.com/news/2011-10-14/blade-english-dub-lead-casted|work=[[Anime News Network]]|access-date=2 January 2016|date=October 14, 2011}}</ref> This version had to kill his vampire-converted mother in self-defense and was trained in vampire-hunting by Noah van Helsing and Tanba Yagyo.
+* Blade appears in the ''[[Ultimate Spider-Man (TV series)|Ultimate Spider-Man]]'' two-part episode "Blade and the Howling Commandos", voiced by [[Terry Crews]].<ref name="btva"/><ref>{{cite web|url=https://www.cbr.com/blade-man-thing-guest-star-on-ultimate-spider-man-halloween-special|title=Blade, Man-Thing Guest-Star on {{'}}''Ultimate Spider-Man''{{'}} Halloween Special|date=September 20, 2013|author=CBR Staff|publisher=[[Comic Book Resources]]}}</ref> This version sports tattoos of ancient runes on his scalp and is a former member of [[Nick Fury (Ultimate Marvel character)|Nick Fury]]'s [[Nick Fury's Howling Commandos|Howling Commandos]] who left for unknown reasons. Blade joins [[Spider-Man]] and his team of [[S.H.I.E.L.D.]] [[New Warriors|trainees]] in battling an army of shadow vampires working for [[Dracula (Marvel Comics)|Dracula]] before joining the web-slinger and the Howling Commandos to retrieve a relic called Tekamentep's Ankh from the vampire.
+* Blade appears in ''[[Hulk and the Agents of S.M.A.S.H.]]'', voiced again by Terry Crews.<ref name="btva"/> This version is a member of Nick Fury's Howling Commandos. In the episode "Hulking Commandos", Blade and the Howling Commandos are tasked by Nick Fury to apprehend the agents of S.M.A.S.H., but the two teams are forced to work together to defeat [[Dormammu]]. In the episode "Planet Monster: Part 2", he and the Howling Commandos help the agents of S.M.A.S.H. battle a [[Kree]] invasion force.
+* Blade first appeared in episode 42 of the ''[[Marvel Disk Wars: The Avengers]]'', voiced by [[Hiroki Yasumoto]] (Japanese) and [[Beau Billingslea]] (English).<ref name="btva" />
+
+===Film===
+[[File:Blade (Wesley Snipes).png|thumb|upright|[[Wesley Snipes]] as [[Blade (New Line franchise character)|the titular character]] in the ''[[Blade (franchise)|Blade]]'' film series.|alt=]]
+{{See also|Blade (New Line franchise character)}}
+* Blade appears in a trilogy of live-action films from [[New Line Cinema]], portrayed by [[Wesley Snipes]]. The first, ''[[Blade (1998 film)|Blade]]'', was released in 1998, and presented the character as stoic while revising his powers and weaknesses. Rather than a normal human with immunity to vampirism, the film version is a [[dhampir]] with vampiric powers and a bloodthirst, the latter of which is controlled through a special serum. The financially successful film received two sequels, ''[[Blade II]]'' (2002) and ''[[Blade: Trinity]]'' (2004).
+* By August 2012, the film rights to Blade had reverted to [[Marvel Studios]],<ref>{{cite news |first=Borys |last=Kit |title=Fox's Daredevil Rights on Verge of Reverting to Marvel as Ticking Clock Looms (Video) |url=https://www.hollywoodreporter.com/heat-vision/daredevil-marvel-fox-comic-adaptation-sequel-361982 |website=[[The Hollywood Reporter]] |date=August 14, 2012 |access-date=September 27, 2019 |archive-url=https://web.archive.org/web/20120815190217/http://www.hollywoodreporter.com/heat-vision/daredevil-marvel-fox-comic-adaptation-sequel-361982 |archive-date=August 15, 2012 |url-status=live |df=mdy }}</ref> and a script for a new film was ready by May 2013.<ref>{{cite news|url=https://www.hollywoodreporter.com/heat-vision/marvel-cliffhanger-robert-downey-jrs-518837|title=A Spago dinner sets the stage for Downey's epic contract talks that could lead to more "Avengers" and "Iron Man 4" — or a new Tony Stark|last1=Kit|first1=Borys|last2=Bond|first2=Paul|date=May 7, 2013|access-date=May 8, 2013|work=The Hollywood Reporter}}</ref> By July 2015, Snipes and Marvel had discussed the actor reprising his role.<ref name="SnipesBlade">{{cite web |url=https://deadline.com/2015/07/wesley-snipes-blade-comic-con-interview-blade-the-player-1201472733/ |title=Comic-Con: Wesley Snipes On 'Blade' Marvel Talks, 'The Player' & Spike Lee – Deadline |first=Dominic |last=Patten |date=July 9, 2015 |website=[[Deadline Hollywood]] |access-date=July 11, 2015 |archive-url=https://web.archive.org/web/20150710071119/http://deadline.com/2015/07/wesley-snipes-blade-comic-con-interview-blade-the-player-1201472733/ |archive-date=July 10, 2015 |url-status=dead }}</ref> A crossover with the [[Underworld (film series)|''Underworld'' film series]] had also been discussed, but was rejected because Marvel Studios wanted to introduce Blade into the [[Marvel Cinematic Universe]] (MCU).<ref>{{cite web |url=https://screenrant.com/blade-marvel-kate-beckinsale/ |title=Kate Beckinsale Says Marvel Is Working On A Blade Project |first=Cooper |last=Hood |date=October 7, 2016 |work=[[Screen Rant]]}}</ref> [[Mahershala Ali]] had been cast as Blade in July 2019.<ref>{{cite web|url=https://www.theverge.com/2019/7/20/20702411/marvel-cinematic-universe-blade-reboot-mahershala-ali |title=Marvel is rebooting Blade, with Mahershala Ali set to star |website=The Verge |date=2019-07-20}}</ref> In 2021, [[Stacy Amma Osei-Kuffour]] was hired to write the script in February,<ref name=":0" /> while [[Bassam Tariq]] was confirmed to direct in September.<ref>{{Cite web |last=Bartfield |first=Charles |date=September 1, 2021 |title=Bassam Tariq Talks 'Mogul Mowgli,' Working With Riz Ahmed & Directing The 'Blade' Reboot [The Playlist Podcast] |url=https://theplaylist.net/bassam-tariq-mogul-mowgli-the-playlist-podcast-20210901/ |url-status=live |archive-url=https://web.archive.org/web/20210902020853/https://theplaylist.net/bassam-tariq-mogul-mowgli-the-playlist-podcast-20210901/ |archive-date=September 2, 2021 |access-date=November 24, 2021 |website=ThePlaylist}}</ref> The film will begin principal photography in October 2022 at [[Tyler Perry Studios]], [[Atlanta]]. ''[[Blade (2023 film)|Blade]]'' is scheduled to be released on November 3, 2023, as part of [[Marvel Cinematic Universe: Phase Five|Phase Five]] of the MCU.<ref>{{Cite web |title=SDCC 2022: Marvel Studios' 'Blade' Release Date Announced |url=https://www.marvel.com/articles/movies/sdcc-2022-marvel-studios-blade-release-date-announced |access-date=2022-07-26 |website=Marvel Entertainment |language=en}}</ref><ref>{{Cite web |last=Woerner |first=Wilson Chapman,Meredith |last2=Chapman |first2=Wilson |last3=Woerner |first3=Meredith |date=2022-07-24 |title=Marvel’s ‘Blade’ Sets 2023 Release Date |url=https://variety.com/2022/film/news/marvel-blade-release-date-1235323874/ |access-date=2022-07-26 |website=Variety |language=en-US}}</ref>
+** Ali has an uncredited vocal [[cameo appearance]] as Blade in a [[post-credits scene]] for ''[[Eternals (film)|Eternals]]''. Just as [[Dane Whitman (Marvel Cinematic Universe)|Dane Whitman]] is about to pick up the [[Ebony Blade (Marvel Cinematic Universe)|Ebony Blade]], an unseen Blade asks him whether he is actually ready for it.<ref>{{Cite web |last=Vary |first=Adam B. |date=November 5, 2021 |title=How 'Eternals' Pulled Off Those Wild Post-Credits Scenes: 'I Still Can't Believe It Happened' |url=https://variety.com/2021/film/news/eternals-post-credits-harry-styles-starfox-kit-harington-mahershala-ali-black-knight-ebony-blade-1235105503/ |url-status=live |archive-url=https://web.archive.org/web/20211106013729/https://variety.com/2021/film/news/eternals-post-credits-harry-styles-starfox-kit-harington-mahershala-ali-black-knight-ebony-blade-1235105503/ |archive-date=November 6, 2021 |access-date=November 6, 2021 |website=[[Variety (magazine)|Variety]]}}</ref>
+
+===Video games===
+{{Repetition|section|date=August 2020}}
+* [[Blade (New Line franchise character)|Blade]] appears in ''[[Blade (video game)|Blade]]'', voiced by [[Redd Pepper]].<ref name="btva">{{cite web | title=Blade Voice – Marvel Universe franchise <nowiki>|</nowiki> Behind The Voice Actors | url=https://www.behindthevoiceactors.com/characters/Marvel-Universe/Blade/ | work=Behind The Voice Actors | access-date=December 24, 2019| postscript=. Check mark indicates role has been confirmed using screenshots of closing credits and other reliable sources.}}</ref>
+* Blade appears in ''[[Blade II (video game)|Blade II]]'', voiced by Tom Clarke Hill.<ref name="btva"/>
+* Blade appears as an unlockable playable character in ''[[Marvel Ultimate Alliance]]'', voiced by [[Khary Payton]].<ref name="btva"/><ref name="MUA1">{{cite book |title=Marvel Ultimate Alliance: Signature Series Guide |first=Thom |last=Denick |publisher=Brady Games |location=Indianapolis, Indiana| isbn=0-7440-0844-1 |year=2006 |pages=40, 41}}</ref>
+* Blade appears as an unlockable playable character in ''[[Ghost Rider (video game)|Ghost Rider]]'', voiced by [[Fred Tatasciore]].{{citation needed|date=July 2019}}
+* Blade appears as an unlockable playable character in ''[[Spider-Man: Friend or Foe]]'', voiced again by Khary Payton.<ref name="btva"/> This version sports a costume similar to Sticky Fingaz's portrayal of the character. In the game's story, Spider-Man encounters Blade in Stokerstov, Transylvania decimating [[Mysterio]]'s P.H.A.N.T.O.M.s. After Blade informs him that he is hunting [[Eddie Brock|Venom]], Spider-Man convinces Blade to join forces with him.
+* Blade appears as an unlockable playable character in the [[PlayStation 3]], [[PlayStation Portable]], and [[Wii]] versions of ''[[Marvel Ultimate Alliance 2]]'', voiced again by Khary Payton.{{citation needed|date=July 2019}}
+* Blade appears in ''[[Marvel Pinball]]''.<ref>{{cite web|url=http://uk.ps3.gamespy.com/playstation-3/marvel-pinball/1134312p1.html |title=GameSpy: Zen Studios Announces Marvel Pinball - Page 1 |publisher=Uk.ps3.gamespy.com |access-date=2011-01-07}}</ref>
+* Blade appears in ''[[Marvel vs. Capcom 3: Fate of Two Worlds]]'' and ''[[Ultimate Marvel vs. Capcom 3]]''. He is featured in [[Jill Valentine]]'s ending, joining forces with her against an army of monsters.
+* Blade appears as an unlockable playable character in ''[[Lego Marvel Super Heroes]]'', voiced by [[Phil LaMarr]].{{citation needed|date=July 2019}}
+* The Eric Brooks incarnation of Ronin appears as an unlockable playable character in ''[[Lego Marvel's Avengers]]''.{{citation needed|date=July 2019}}
+* Blade appeared as an unlockable playable character in ''[[Marvel Avengers Alliance]]''.{{citation needed|date=July 2019}}
+* Blade appears as an unlockable playable character in ''[[Marvel Future Fight]]''.{{citation needed|date=July 2019}}
+* Blade appears as an unlockable playable character in ''[[Marvel Puzzle Quest]]''.<ref>{{cite web |url=http://www.gamezone.com/news/blade-the-vampire-hunter-coming-to-marvel-puzzle-quest-for-halloween |title=Blade, the Vampire Hunter coming to Marvel Puzzle Quest for Halloween |first=Lance |last=Liebl |date=October 23, 2014 |work=GameZone}}</ref>
+* Blade appeared as a playable character in ''[[Marvel Heroes (video game)|Marvel Heroes]]'', voiced by [[Dave Fennoy]]. He was available through the [[Downloadable content|DLC]] "Advance Pack 2".<ref>{{cite web|title=Blade Joins Marvel Heroes 2015!|url=https://marvelheroes.com/news/news-articles/blade-joins-marvel-heroes-2015|website=MarvelHeroes.com|publisher=Gazillion Entertainment|access-date=25 November 2016|date=29 October 2015|archive-url=https://web.archive.org/web/20161126130418/https://marvelheroes.com/news/news-articles/blade-joins-marvel-heroes-2015|archive-date=2016-11-26|url-status=dead}}</ref><ref>{{cite web|title=Marvel Heroes 2016|url=https://www.facebook.com/marvelheroes/videos/1134662179895121/|website=www.facebook.com|access-date=25 November 2016|postscript=. This is a post on the official Marvel Heroes Facebook page, which is linked to by the game's website at MarvelHeroes.com.}}</ref>
+* Blade appeared as an unlockable playable character in ''[[Marvel Avengers Academy]]''.{{citation needed|date=July 2019}}
+* Blade appears as an unlockable playable character in ''[[Marvel Contest of Champions]]''.<ref>{{cite web|url=https://playcontestofchampions.com/champion-spotlight-blade/ |title=CHAMPION SPOTLIGHT – BLADE |website=Marvel Contest of Champions|date=October 26, 2017|access-date=May 5, 2018}}</ref>
+* Blade appears as an unlockable playable character in ''[[Lego Marvel Super Heroes 2]]'', voiced again by Tom Clarke Hill.<ref>{{cite web|title=The English voice cast for Space Channel 5 VE Kinda Funky News Flash is Revealed!|url=https://sc5-vr.com/en/news/449/|website=sc5-vr.com|date=February 10, 2020|access-date=February 22, 2020}}</ref>
+* Blade appears as a playable character in ''[[Marvel Ultimate Alliance 3: The Black Order]]'', voiced by Imari Williams.<ref>{{cite tweet|first=Imari |last=Williams |user=ImariSpeaks |title=I've been waiting to tweet this! I voice #Blade in the new #MarvelUltimateAlliance3 : The Black Order 😭❤️! I idolized this slayer, role played him so many times in my mind growing up. Thank U @jdmortellaro @msumerak , & the #MUA3 team for fulfilling this fan boy's dream|number=1179060632026374145|date=October 1, 2019|access-date=October 1, 2019}}</ref> He is available through the DLC "Marvel Knights: Curse of the Vampire".<ref>{{cite web|first=Wesley |last=Yin-Poole|title=Blade, Moon Knight, Morbius and The Punisher confirmed for Marvel Ultimate Alliance 3 DLC|url=https://www.eurogamer.net/articles/2019-07-19-blade-moon-knight-morbius-and-the-punisher-confirmed-for-marvel-ultimate-alliance-3-dlc|website=Eurogamer|access-date=21 July 2019|date=10 July 2018}}</ref>
+* Blade appears as a card in ''[[Marvel Duel]]''.
+* Blade appears as a purchasable outfit in ''[[Fortnite Battle Royale]]''.<ref>{{cite web|url=https://www.epicgames.com/fortnite/en-US/news/blade-the-vampire-hunter-daybreaks-into-fortnite|title=Blade the Vampire Hunter Daybreaks into Fortnite|website=Epic Games|date=September 24, 2020|access-date=March 7, 2021}}</ref>
+* Blade appears as a playable character in ''[[Marvel's Midnight Suns]]''.<ref>{{Cite web|last=Hall|first=Charlie|date=2021-08-25|title=Marvel's Midnight Suns is the next game from the XCOM team|url=https://www.polygon.com/22641096/marvels-midnight-suns-announcement-trailer-xcom-firaxis-gamescom-2021|access-date=2021-11-06|website=Polygon|language=en-US}}</ref>
+
+==Collected editions==
+{| class="wikitable"
+|+
+!Title
+!Material collected
+!Published date
+!ISBN
+|-
+|''Blade the Vampire-Slayer: Black & White''
+|''Vampire Tales'' #8-9, ''Marvel Preview'' #3, 8, ''Marvel: Shadows and Light'' #1, ''Blade'' (vol. 1) #1
+|December 2004
+|{{ISBNT|978-0785114697}}
+|-
+|''Blade: Undead by Daylight'' 
+|''The Tomb of Dracula'' #10, 24, 58, ''Blade: Crescent City Blues'' #1
+|November 2015
+|{{ISBNT|978-0785194392}}
+|-
+|''Blade: Blood and Chaos''
+|''Blade: Crescent City Blues'' #1, ''Marvel Team-Up'' (vol. 2) #7, ''Blade: Sins of the Father'' #1, ''Blade'' (vol. 2) #1-3, ''Gambit'' (vol. 3) #4, ''Peter Parker: Spider-Man'' (vol. 2) #7-8, ''Blade'' ''Blade: Vampire Hunter'' #1-6,1/2
+|October 2018
+|{{ISBNT|978-1302914219}}
+|-
+|''Blade Vol. 1: Undead Again''
+|''Blade'' (vol. 4) #1-6
+|May 2007
+|{{ISBNT|978-0785123644}}
+|-
+|''Blade Vol. 2: Sins of the Father''
+|''Blade'' (vol. 4) #7-12
+|October 2007
+|{{ISBNT|978-0785123651}}
+|-
+|''Blade by Marc Guggenheim: The Complete Collection''
+|''Blade'' (vol. 4) #1-12, ''Wolverine Vs. Blade Special'' #1
+|March 2020
+|{{ISBNT|978-1302923204}}
+|-
+|''X-Men: Curse of the Mutants: Mutants vs. Vampires''
+|''X-Men: Curse Of The Mutants - Blade'' and ''X-Men: Curse Of The Mutants - Storm & Gambit'', ''X-Men: Curse Of The Mutants - Smoke & Blood'', ''X-Men Vs. Vampires'' #1-2, ''Uncanny X-Men'' #159
+|March 2011
+|{{ISBNT|978-0785152941}}
+|-
+|''Avenging Spider-Man: Threats and Menaces''
+|''Spider-Man vs. Vampires'' and ''Avenging Spider-Man'' #14-15, ''Avenging Spider-Man Annual'' #1, ''Amazing Spider-Man Annual'' #39, ''Amazing Spider-Man'' #692
+|May 2013
+|{{ISBNT|978-0785165736}}
+|-
+|''The Darkhold''
+|''The Darkhold: Blade'' #1 and ''The Darkhold: Alpha'' #1, ''The Darkhold: Wasp'' #1, ''The Darkhold: Iron Man'' #1, ''The Darkhold: Black Bolt'' #1, ''The Darkhold: Spider-Man'' #1, ''The Darkhold: Omega'' #1
+|March 2022
+|{{ISBNT|978-1302925840}}
+|-
+|''Death of Doctor Strange Companion''
+|''Death Of Doctor Strange: Blade'' #1 and ''Death Of Doctor Strange: Bloodstone'' #1, ''Death Of Doctor Strange: Avengers'' #1, ''Strange Academy Presents: The Death Of Doctor Strange'' #1, ''Death Of Doctor Strange: Spider-Man'' #1, ''Death Of Doctor Strange: White Fox'' #1, ''Death Of Doctor Strange: X-Men/Black Knight'' #1
+|March 2022
+|{{ISBNT|978-1302933104}}
+|}
+
+==See also==
+* [[List of dhampirs]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://marvel.com/universe/Blade_%28Eric_Brooks%29 Blade] at Marvel.com
+* {{Marvunapp|http://www.marvunapp.com/Appendix3/crossbowblade.htm|Crossbow}}
+* {{gcdb|type=character|search=Blade|title=Blade}}
+* {{gcdb series|id=4992|title=Blade: The Vampire Hunter}}
+* {{gcdb series|id=16569|title=Blade: Vampire Hunter}}
+* {{gcdb series|id=21541|title=Blade (2006)}}
+* [http://www.toonopedia.com/blade.htm Blade] at [[Don Markstein's Toonopedia]]. [https://www.webcitation.org/6xQr5UKW5?url=http://www.toonopedia.com/blade.htm Archived] from the original on February 22, 2018.
+* [https://web.archive.org/web/20080620010236/http://www.maelmill-insi.de/UHBMCC/SELBD.HTM#G14 Blade] at the Unofficial Handbook of Marvel Comics Creators
+* [http://www.marveldirectory.com/individuals/b/blade.htm Blade] at the Marvel Directory
+* {{comicbookdb|type=character|id=1753|title=Blade}}
+* [https://archive.today/20130120000927/http://www.comics-db.com/Marvel_Comics/B/Blade/index.html Blade] at the [[Big Comic Book DataBase]]
+* {{Marveldatabase|Blade}}
+
+{{Blade}}
+{{Avengers characters}}
+{{Midnight Sons}}
+{{Ultimate Spider-Man}}
+{{Ghost Rider}}
+{{Moon Knight}}
+
+{{DEFAULTSORT:Blade (Comics)}}
+[[Category:Blade (comics)| ]]
+[[Category:Blade (comics) characters]]
+[[Category:Avengers (comics) characters]]
+[[Category:British superheroes]]
+[[Category:Characters created by Gene Colan]]
+[[Category:Characters created by Marv Wolfman]]
+[[Category:Comics characters introduced in 1973]]
+[[Category:Fictional amputees]]
+[[Category:Fictional Black British people]]
+[[Category:Fictional blade and dart throwers]]
+[[Category:Fictional capoeira practitioners]]
+[[Category:Fictional characters with slowed ageing]]
+[[Category:Fictional characters with superhuman senses]]
+[[Category:Fictional half-vampires]]
+[[Category:Fictional hapkido practitioners]]
+[[Category:Fictional Jeet Kune Do practitioners]]
+[[Category:Fictional karateka]]
+[[Category:Fictional kenjutsuka]]
+[[Category:Fictional knife-fighters]]
+[[Category:Fictional people from London]]
+[[Category:Fictional swordfighters in comics]]
+[[Category:Fictional vampire hunters]]
+[[Category:Fictional wushu practitioners]]
+[[Category:Marvel Comics adapted into films]]
+[[Category:Marvel Comics adapted into video games]]
+[[Category:Marvel Comics characters who can move at superhuman speeds]]
+[[Category:Marvel Comics characters with accelerated healing]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics film characters]]
+[[Category:Marvel Comics hybrids]]
+[[Category:Marvel Comics male superheroes]]
+[[Category:Marvel Comics martial artists]]
+[[Category:Marvel Comics titles]]
+[[Category:Marvel Comics vampires]]
+[[Category:Vampire superheroes]]
+[[Category:Vigilante characters in comics]]

@@ -1,0 +1,613 @@
+{{Short description|American animated television series about a team of superheroes, which ran from 1973 to 1986}}
+{{Use mdy dates|date=September 2015}}
+{{Infobox television
+| name                 = Super Friends
+| image                = Super Friends.jpg
+| caption              = 1973–1974 season title card
+| genre                = [[Superhero fiction]]
+| creator              =
+| developer            = 
+| voices               = [[Danny Dark]]<br />[[Olan Soule]]<br />[[Casey Kasem]]<br />[[Shannon Farnon]]<br />[[Norman Alden]]<br />[[Sherry Alberoni]]<br />[[Frank Welker]]<br />[[Ted Knight]]<br />[[Ted Cassidy]]
+| company              = [[Hanna-Barbera|Hanna-Barbera Productions]]<br />[[DC Comics]]<br />[[Warner Bros. Television]] (uncredited)
+| theme_music_composer = Hoyt S. Curtin<br />[[Will Schaefer]]
+| composer             = 
+| country              = United States
+| language             = English
+| num_seasons          = 9
+| num_episodes         = 93
+| list_episodes        = List of Super Friends episodes
+| executive_producer   = [[Joseph Barbera]]<br />[[William Hanna]]
+| producer             = Lewis Marshall<br />[[Iwao Takamoto]]
+| runtime              = 60 minutes approx.
+| distributor          = [[Taft Broadcasting]] (1973–79)<br />[[Worldvision Enterprises]] (1979–85)<br />[[Lexington Broadcast Services Company|LBS Communications]]<ref>{{cite news|title=Lexington Broadcast's "4th Network"|url=http://www.americanradiohistory.com/Archive-Channels-of-Communication/Channels-1983-10.pdf|access-date=24 October 2017|work=Channels of Communications|date=October 1983}}</ref> (1983–88, syndication)<br />[[Warner Bros. Television Distribution]] (1983–present, syndication)
+| network              = [[American Broadcasting Company|ABC]]
+| first_aired          = {{Start date|1973|9|8}}
+| last_aired           = {{End date|1986|9|6}}
+| related              = ''[[Justice League (TV series)|Justice League]]''<br />''[[Justice League Unlimited]]'' 
+}}
+
+'''''Super Friends''''' is an American [[Animated series|animated television series]] about a team of [[superhero]]es, which ran from 1973 to 1985<ref>{{Citation|title=Superfriends and Justice league every season intro|url=https://www.bitchute.com/video/CxvFKwdU0IbW/|language=en|access-date=2021-07-21}}</ref> on [[American Broadcasting Company|ABC]] as part of its [[Saturday-morning cartoon]] lineup. It was produced by [[Hanna-Barbera]] and was based on the [[Justice League|Justice League of America]] and associated [[comic book]] characters published by [[DC Comics]].<ref name=Erickson>{{cite book |last1=Erickson |first1=Hal |title=Television Cartoon Shows: An Illustrated Encyclopedia, 1949 Through 2003 |date=2005 |edition=2nd |publisher=McFarland & Co |isbn=978-1476665993 |pages=114–122}}</ref>
+
+The name of the program (and the Justice League members featured with the Super Friends) has been variously represented (as ''Super Friends'' and ''[[Challenge of the Superfriends]]'', for example) at different points in its broadcast history. There were a total of [[List of Super Friends episodes|93 episodes]] and two [[Television pilot#Backdoor pilot|backdoor-pilot]] episodes of ''[[The New Scooby-Doo Movies]]'', with [[Batman]] and [[Robin (comics)|Robin]] appearing in "The Dynamic Scooby-Doo Affair" and "The Caped Crusader Caper".
+
+==Series titles==
+Over the years, the show existed under several titles:<ref>{{cite web |url=http://www.batmanytb.com/animated/sf |title=Batman: Yesterday, Today, And Beyond ~ The Batman Homepage ~ The Largest Batman Site on the Net! |publisher=Batmanytb.com |access-date=January 2, 2011 |url-status=dead |archive-url=https://web.archive.org/web/20100814154304/http://www.batmanytb.com/animated/sf/ |archive-date=August 14, 2010 |df=mdy-all }}</ref>
+* ''[[Super Friends (1973 TV series)|Super Friends]]'' (1973–1974)
+* ''[[The All-New Super Friends Hour]]'' (1977–1978)
+* ''[[Challenge of the Superfriends]]'' (1978–1979)
+* ''[[The World's Greatest SuperFriends]]'' (1979–1980)
+* ''[[Super Friends (1980 TV series)|SuperFriends]]'' (1980–1983)
+* ''[[SuperFriends: The Legendary Super Powers Show]]'' (1984–1985)
+* ''[[The Super Powers Team: Galactic Guardians]]'' (1985–1986)
+
+==Writing==
+Plot lines for the later series involved many of the familiar [[DC Comics]] super-villains that the first incarnation of the ''Super Friends'' did not. Instead, like the comic books, they focused on the far-fetched schemes of mad scientists and aliens, who were invariably revealed as being well-intentioned, and simply pursuing their goals through unlawful or disreputable means.<ref name="Vault">{{cite book|last = Pasko|first = Martin|authorlink = Martin Pasko|title = The DC Vault: A Museum-in-a-Book with Rare Collectibles from the DC Universe|publisher = [[Running Press]]|date= 2008|location= Philadelphia, Pennsylvania|isbn = 978-0762432578|page= 10}}</ref> Typically, at the end of each story, a peaceful and reasonable discussion would be performed by the heroes to convince the antagonists to adopt more reasonable methods.<ref>{{cite news|title= A History of Batman on TV|work= IGN|url= http://uk.tv.ign.com/articles/891/891807p4.html|access-date=August 15, 2010}}</ref>
+
+''The All-New Super Friends Hour'' departed somewhat from the previous series' formula by featuring villains using more elaborate methods to further their goals; as a rule they could not be reasoned with, requiring the heroes to use direct force to stop them. Beginning with ''Challenge of the Superfriends'', several of the heroes' arch-villains from the comic books (such as [[Lex Luthor]] and [[Riddler|The Riddler]]) began to feature prominently in comic-style stories. Throughout the series, plots often wrapped themselves up neatly in the final minutes of an episode in the fashion of the typical comic books and [[deus ex machina]].<ref name="Vault"/>
+
+==Production history==
+In 1973, the [[American Broadcasting Company]] (ABC) acquired rights to the DC Comics characters and partnered with animation company [[Hanna-Barbera]] to adapt the ''[[Justice League|Justice League of America]]'' comic book for [[television]].<ref name="Browsh">Jared Bahir Browsh, ''Hanna-Barbera: A History'' (2021), p. 104.</ref> The network made several changes in the transition, including the change of name to ''Super Friends'', to "cut off any accusations of extreme patriotism".<ref name="Browsh"/> Nevertheless, team members sometimes referred to themselves as the Justice League on the show. The violence common in [[superhero]] [[Comic book|comics]] was toned down for a younger audience and to adhere to broadcast standards governing violence in 1970s [[Saturday morning cartoon|children's television]].
+
+As a DC Comics-based show, the ''Super Friends'' franchise was owned by DC's parent company [[Warner Bros.]], who later put the series into syndication. [[Cartoon Network]], which had the rights to air most of the rest of the Hanna-Barbera library from its inception in 1992, was not able to air ''Super Friends'' until after the merger of Warner Bros.' parent company, [[Time Warner]] and Cartoon Network's parent company, [[Turner Broadcasting System]] was completed in 1996. This merger also led to Warner Bros. taking control of Hanna-Barbera and all of its other assets as well. The series was owned by Hanna-Barbera Cartoons, [[DC Comics|DC Comics Entertainment]], [[Warner Bros. Family Entertainment]], and [[Warner Bros. Animation]].
+
+===1973–1974 series===
+{{Main|Super Friends (1973 TV series)}}
+''Super Friends'' first aired on ABC on September 8, 1973, featuring well-known DC characters [[Superman]], [[Batman]] and [[Robin (comics)|Robin]], [[Wonder Woman]], and [[Aquaman]].<ref>{{cite book |last1=Woolery |first1=George W. |title=Children's Television: The First Thirty-Five Years, 1946-1981, Part I: Animated Cartoon Series |date=1983 |publisher=Scarecrow Press |isbn=0-8108-1557-5  |url=https://archive.org/details/childrenstelevis0000wool/page/274/mode/2up |access-date=9 April 2020 |pages=275–278}}</ref> Superman, Batman and Robin, and Aquaman had each previously appeared in their own animated series produced by [[Filmation]], and voice talent from these prior programs was brought in to work on the new show (with the exception of [[Marvin Miller (actor)|Marvin Miller]] who was replaced by [[Norman Alden]] as the voice of Aquaman). Shortly before the ''Super Friends'' series was developed, Superman and Wonder Woman also guest-starred in two episodes of ''[[The Brady Kids]]'' (voiced by Lennie Weinrib and Jane Webb under [[Filmation]]), while Batman and Robin appeared in two episodes of ''[[The New Scooby-Doo Movies]]''.
+
+In addition to the superheroes, a trio of sidekicks was introduced, each of whom were new characters not drawn from the comic books: [[Wendy, Marvin and Wonder Dog|Wendy and Marvin]] (voiced by [[Sherry Alberoni|Sherri Alberoni]] and [[Frank Welker]]) and [[Wendy, Marvin and Wonder Dog|Wonder Dog]] (also voiced by [[Frank Welker]]), none of whom had any special abilities (save the dog's unexplained ability to reason and talk). The trio—or at least its human members—were depicted as detectives and/or superheroes-in-training; the "teen detectives and their talking animal" [[trope (literature)|cliché]], originally popularized by  ''[[Scooby-Doo]]'' , and was typical in Hanna-Barbera cartoons of the mid/late 1970s.
+
+Each episode began with the heroes responding to an emergency detected by the massive TroubAlert computer in the [[Hall of Justice (comics)|Hall of Justice]], which served as the headquarters of the team. Colonel Wilcox, a [[United States Army|U.S. Army]] official, was a recurring character who would act as a government liaison with the Super Friends during emergencies. Colonel Wilcox was voiced by [[John Stephenson (actor)|John Stephenson]].
+Conflicts were usually resolved with the antagonists persuaded to adapt more reasonable methods to achieve their aims (with the assistance of the heroes). Natural disasters triggered by human (or alien) activity were often shown, and environmental themes featured strongly in the program. Three other DC Comics superheroes were featured as guest stars during this season: [[Flash (Barry Allen)|the Flash]], [[Plastic Man]], and [[Green Arrow]].
+
+This first run of ''Super Friends'', consisting of 16 one-hour episodes which were rerun several times, concluded on August 24, 1974. At this point, the series was cancelled. However, interest in superheroes among ABC's prime-time viewers (with the success of ''[[The Six Million Dollar Man]]'' and the live-action ''[[Wonder Woman (TV series)|Wonder Woman]]'' series) caused the network to revive ''Super Friends''.<ref name="Erickson" /> The original 16 episodes of the series were rebroadcast as a mid-season replacement, running from February 7, 1976, to September 3, 1977. These episodes were edited into half-hour versions. At the same time, DC Comics published a ''Super Friends'' comic, which used Wendy and Marvin from issue #1 (November 1976) to #6 (August 1977). In the meantime, Hanna-Barbera began production on a revamped version of the show.
+
+===1977–1978 season: ''The All-New Super Friends Hour''===
+{{Main|The All-New Super Friends Hour}}
+''The All-New Super Friends Hour'' featured four animated shorts per program. Wendy, Marvin, and Wonder Dog were dropped from this and all future TV iterations of ''Super Friends'', and were replaced by [[Wonder Twins]] Zan and Jayna, and their pet monkey, [[Gleek (Super Friends)|Gleek]]. Unlike Wendy and Marvin, Zan and Jayna had actual super powers. A total of 15 episodes were produced. [[Darrell McNeil]] of the Hanna-Barbera animation studios later explained the change in cast: {{blockquote|When the decision was made by ABC to renew ''Super Friends'' three years after the first series' 1973 production, ABC and Hanna-Barbara wanted to ramp up (as much as they could) the series' action content. And since we were ramping ''that'' up, that meant making all of our cast a bit more serious, and giving our five leads a bit more backup than three non-powered sidekicks. [New sidekicks] also helped emphasize the 'New' in ''All-New Super Friends''. [emphasis in original]<ref name="Back38">{{cite journal|last= Schwirian|first= John|date= February 2010|title= Purple Prose: The Perplexing Popularity of the Wonder Twins|journal= [[Back Issue!]]|issue= 38|pages= 59–64|publisher= [[TwoMorrows Publishing]]}}</ref>}}
+
+The show followed a basic format each week. The first segment of every show featured two of the heroes (for the purposes of the team-ups in the first and fourth segments, Batman and Robin were considered "one hero") teaming up in a separate mini-story. The second segment featured a story with the Wonder Twins. The third segment was considered the "primary" adventure of the week, featuring the entire Super Friends roster (including the Wonder Twins) in a longer adventure. The fourth and final segment featured a story with one of the primary lineup and a "special guest star". This segment typically featured a problem that was solved using the guest star's unique abilities.
+
+Between segments there were short spots with members of the Super Friends giving basic safety lessons, providing first-aid advice, demonstrating magic tricks, creating crafts, and presenting a two-part riddle featuring the week's primary plot line. This was the first season to feature two villains appearing in the comic books, [[Black Manta]] and [[Gentleman Ghost]]. Each appeared in only one episode this season and each was somewhat modified for television. Black Manta's costume was not black and he was only referred to as "Manta". The Gentleman Ghost was referred to as "Gentleman Jim Craddock" which is his human name in the comics.
+
+===1978–1979 season ''Super Friends'' / ''Challenge of the Superfriends''===
+{{Main|Challenge of the Superfriends}}
+The next season of ''Super Friends'' featured two segments:
+
+====First segment: ''Super Friends'' episodes====
+The first segment of the program featured the established group of heroes: Superman, Batman and Robin, Aquaman, Wonder Woman, and the Wonder Twins and Gleek. They were rerun with intro from the ''All-New Super Friends'' Hour when in syndication in the early 1980s, but they are seldom seen in syndication since then.
+
+====Second segment: ''Challenge of the Superfriends''====
+The second half-hour of the show introduced the [[Legion of Doom (Super Friends)|Legion of Doom]], a team of 13 recurring foes who are the Super Friends' worst enemies. They used a swamp-based mechanical flying headquarters, the Hall of Doom (resembling the helmet of [[Darth Vader]]), as a contrast to the Super Friends' gleaming Hall of Justice. A total of 16 episodes were produced.
+
+Additional heroes who had previously appeared as guest stars were added to the roster as well, to make a total of 11. These included [[Flash (Barry Allen)|The Flash]], [[Hal Jordan|Green Lantern]], and [[Hawkman]] from DC Comics and three Hanna-Barbera creations: [[Black Vulcan]], [[Apache Chief]], and [[Samurai (Super Friends)|Samurai]]. Despite the Riddler showing a set of playing cards with (from left to right) Gleek, Zan, Aquaman, Wonder Woman, Robin, Batman, and Superman (which he then burns to ashes in his introduction in "Wanted: The Super Friends"), the Wonder Twins and Gleek did not appear in ''Challenge''. Enthusiasts have expressed the view that the storylines for the ''Challenge'' episodes were the ''Super Friends'' era's best portrayal of the DC heroes.{{citation needed|date=October 2014}}
+
+''The'' ''Challenge of the Superfriends'' segment was expanded to 90 minutes mid-season, with reruns of earlier episodes filling out the last half-hour.<ref name="Back38"/>
+
+===1979–1980 season: ''The World's Greatest SuperFriends''===
+{{Main|The World's Greatest SuperFriends}}
+
+In the fall of 1979, the ''Super Friends'' returned to their prior format, bringing back the original set of five DC superheroes and Zan, Jayna, and Gleek. Eight half-hour episodes were created for this run, with the majority of the season consisting of repeats of ''The All-New Super Friends Hour'' from 1977 to 1978 and The Super Friends segments from ''Challenge of the Superfriends'' from 1978 to 1979. Renamed ''The World's Greatest SuperFriends'', this series began on September 22, 1979, and ran until September 27, 1980.<ref>{{cite web|url=http://members.aol.com/SprFriends/chronology.htm#worldsgreatest |title=Hanna-Barbera Superfriends Chronology |publisher=Members.aol.com |access-date=January 2, 2011}}</ref>
+
+===1980–1982 seasons: ''SuperFriends''===
+{{Main|Super Friends (1980 TV series)}}
+Renamed ''[[Super Friends (1980 TV series)|SuperFriends]]'' in 1980, the series changed formats again, abandoning the production of half-hour episodes and producing seven-minute shorts. Each episode of ''SuperFriends'' would feature a rerun from one of the previous six years and three new shorts. These new adventures featured appearances by the core group of five Super Friends and Zan, Jayna, & Gleek. There were also guest appearances from members previously depicted in ''Challenge of the Superfriends'' and the Hanna-Barbera-created hero [[El Dorado (Super Friends)|El Dorado]], who was added to the show in 1981 to provide cultural diversity.
+
+This would prove to be one of the longer-lived incarnations of the series (three years). A total of 22 episodes were produced.
+
+===1982–1983 season: ''The Best of the Super Friends'' (reruns)===
+For the 1982–1983 television season ABC ran half-hour reruns of shows from the previous seven seasons, with none of the seven-minute shorts rebroadcast. ABC called the rerun package ''The Best of the Super Friends''.
+
+===1983–1984 season: Cancellation and the "lost episodes"===
+Hanna-Barbera and Warner Bros. had created a [[Broadcast syndication|syndication]] package of the earlier ''Super Friends'' series (co-distributed by [[Lexington Broadcast Services Company|LBS Communications]]); these were picked up by stations across the United States and typically broadcast on weekday afternoons. Not wishing to compete with the syndication programming, ABC dropped the series from the 1983–1984 Saturday morning television line-up. For the second time, ''Super Friends'' was cancelled.
+
+However, during this time Hanna-Barbera continued to produce new episodes with the Super Friends, with ABC's approval and funding.<ref name="Back38"/> In total, 24 "lost episodes" were produced, but not aired in the United States that season; the series appeared in Australia. Three of these episodes were aired when ''Super Friends'' returned to Saturday-morning ABC television the following year. The remainder aired on the USA Network in 1995, as part of the ''[[The Superman/Batman Adventures|Superman/Batman Adventures]]'' show. The 1983 Lost Episodes of ''Super Friends'' were released on DVD by [[Warner Home Entertainment]] (via [[DC Comics|DC Comics Entertainment]], [[Hanna-Barbera Cartoons]], and [[Warner Bros. Family Entertainment]]) in April 2009.<ref>{{cite web|url=http://members.aol.com/SprFriends/chronology.htm#lost83-84 |title=Hanna-Barbera Superfriends Chronology |publisher=Members.aol.com |access-date=January 2, 2011}}</ref>
+
+===1984–1985 season: ''SuperFriends: The Legendary Super Powers Show''===
+{{Main|SuperFriends: The Legendary Super Powers Show|Super Powers Collection}}
+
+''Super Friends'' returned to ABC Saturday, September 8, 1984, with a new 30-minute program typically featuring two 11-minute stories per episode. This incarnation featured Superman, Batman, Robin, Wonder Woman, and the Wonder Twins and Gleek, this time teamed up with [[Firestorm (comics)|Firestorm]]. In addition to this core group, episodes during this season also featured cameos by old (and new) Super Friends. The series ended August 31, 1985, and featured comic-book villains such as [[Brainiac (character)|Brainiac]], [[Lex Luthor]], [[Mirror Master]], [[Mister Mxyzptlk|Mr. Mxyzptlk]], [[Darkseid]], and his henchmen from [[Apokolips]]. This season and the next featured the "Super Powers" tagline, which was part of a marketing tie-in with a [[Super Powers Collection|toy line of the same name]] produced by [[Kenner]].<ref name="Back38"/><ref>{{cite web |url=http://toyotter.com/sp/ |title=Super Powers Archive |publisher=Toy Otter |archive-url=https://web.archive.org/web/20041010052808/http://www.toyotter.com/sp/ |date=September 9, 2004 |archive-date=October 10, 2004}}</ref>
+
+===1985–1986 season: ''The Super Powers Team: Galactic Guardians''===
+{{Main|The Super Powers Team: Galactic Guardians}}
+
+In fall 1985, the next version of Hanna-Barbera's depiction of the DC Comics heroes began, although it no longer carried the ''Super Friends'' name. This series returned to a conventional lineup for the team, with a focus on teen members [[Cyborg (comics)|Cyborg]] and Firestorm. Once again headquartered at the Hall of Justice in [[Metropolis (comics)|Metropolis]], the heroes battled such familiar foes as [[Lex Luthor]], [[Brainiac (character)|Brainiac]], the [[Scarecrow (DC Comics)|Scarecrow]], and recurring villain [[Darkseid]]. It also contained the only appearances by [[Joker (comics)|The Joker]], [[Penguin (comics)|The Penguin]], the [[Royal Flush Gang]], and [[Felix Faust]].
+
+Most notably, it is in this series that Batman's origin is depicted for the first time outside of comics and the first cartoon series. Batman and Robin chase The Scarecrow into Crime Alley, where Thomas and Martha Wayne were murdered, which triggers a fear-induced flashback. Additionally, in the same episode, Professor Jonathan Crane appears as the Scarecrow's secret identity, which was unknown to the authorities, allowing Scarecrow to use it to secretly sabotage the Super Friends' investigations until Batman managed to deduce his identity, leading to his arrest.
+
+''The Super Powers Team: Galactic Guardians'' lasted one season before being canceled. The final new episode aired was "Escape From Space City" on October 26, 1985. This third cancellation would be the final one, and ''Galactic Guardians'' marked the end of Hanna-Barbera's 13-year run of the series on October 26, 1985.
+
+==Characters==
+{{Main|List of Super Friends members|List of Super Friends villains}}
+
+===The Justice League of America===
+The core group of five heroes made up the "Super Friends":
+{|
+|valign="top"|
+* [[Aquaman]]
+* [[Batman]]
+* [[Dick Grayson|Robin]]
+* [[Superman]]
+* [[Wonder Woman]]
+|}
+
+Additional Justice League members included:
+* [[Atom (Ray Palmer)|The Atom]] (1977; 1980–1983)
+* [[Firestorm (comics)|Firestorm]] (1984–1985)
+* [[Flash (Barry Allen)|The Flash]] (1973; 1977–1985)
+* [[Hal Jordan|Green Lantern]] (1977–1985)
+* [[Hawkgirl]] (1977; 1980; 1983)
+* [[Hawkman]] (1977–1978; 1980–1985)
+* [[Cyborg (comics)|Cyborg]] (1985)
+* [[Rima|Rima the Jungle Girl]] (1977; 1980) (not featured in DC superhero comics)
+
+Justice League members created for the series:
+* [[Apache Chief]] (1977–1978; 1980–1984)
+* [[Black Vulcan]] (1977–1978; 1980–1984)
+* [[El Dorado (Super Friends)|El Dorado]] (1982–1985)
+* [[Samurai (Super Friends)|Samurai]] (1977–1978; 1980–1985)
+
+One-shot Justice League appearances were made by:
+* [[Abin Sur]] (1978)
+* [[Green Arrow]] (1973–1974)
+* [[Plastic Man]] (1973–1974)
+* [[Superboy (Kal-El)|Superboy]] (1978; 1983)
+
+The teen sidekicks and their pets:
+* Pets:
+** [[Gleek (Super Friends)|Gleek]] (1977–1984)
+** [[Wendy, Marvin and Wonder Dog|Wonder Dog]] (1973–1975)
+* Wendy and Marvin:
+** [[Wendy, Marvin and Wonder Dog|Wendy Harris]] (1973–1975)
+** [[Wendy, Marvin and Wonder Dog|Marvin White]] (1973–1975)
+* Wonder Twins:
+** [[Wonder Twins|Jayna]] (1977–1984)
+** [[Wonder Twins|Zan]] (1977–1984)
+
+Other DC comic characters that appeared in the series:
+* [[James Gordon (comics)|Commissioner James Gordon]]
+* [[Hippolyta (DC Comics)|Hippolyta]]
+* [[Lois Lane]]
+* [[Jimmy Olsen]]
+* [[Alfred Pennyworth]]
+* [[Solovar]] (ruler of [[Gorilla City]])
+* [[Steve Trevor]]
+
+===Legion of Doom===
+Thirteen villains composed the [[Legion of Doom]] during the ''Challenge of the Superfriends'' season. They were:
+{|
+|-
+|valign="top"|
+* [[Bizarro]]
+* [[Black Manta]]
+* [[Brainiac (character)|Brainiac]]
+* [[Captain Cold]]
+* [[Cheetah (character)|Cheetah]]
+* [[Giganta]]
+* [[Gorilla Grodd]]
+|width="40"|&nbsp;
+|valign="top"|
+* [[Solomon Grundy (comics)|Solomon Grundy]]
+* [[Lex Luthor]]
+* [[Riddler|The Riddler]]
+* [[Scarecrow (DC Comics)|The Scarecrow]]
+* [[Sinestro]]
+* [[Toyman]]
+|}
+
+===Other DC Comics villains===
+Villains appearing independently from the Legion of Doom:
+{|
+|-
+|valign="top"|
+* From Apokolips:
+** [[Darkseid]]
+** [[Desaad|DeSaad]]
+** [[Kalibak]]
+** [[Parademon|The Paradrones]]
+* Bizarro's Clones:
+** Cyzarro (Cyborg Bizarro)
+** Firezarro (Firestorm Bizarro)
+** Mr. Kltpzyxm (Mr. Mxyzptlk Bizarro)
+** [[Bizarra|Wondezarro]] (Wonder Woman Bizarro)
+** [[Alfred Pennyworth|Alfred]] Bizarro (Bizarro of Batman's butler Alfred Pennyworth, appeared briefly in ''Challenge'')
+|width="40"|&nbsp;
+|valign="top"|
+* [[Felix Faust]]
+* [[Gentleman Ghost]]
+* [[Joker (character)|The Joker]]
+* [[Mirror Master]]
+* [[Mister Mxyzptlk|Mr. Mxyzptlk]]
+* [[Penguin (character)|The Penguin]]
+* [[Royal Flush Gang|The Royal Flush Gang]]
+|}
+
+Villains appearing not adapted from the comic books:
+* The Alien Mummy
+* The Anti-Matter Monster
+* Barko
+* Bigfoot creatures
+* [[Blackbeard]]
+* Bulgor the Behemoth
+* The Brain Creatures
+* The Capricorn Kid
+* Captain Shark
+* The Collector
+* The Incredible Crude Oil Monster
+* Darkon
+* Dictor and the mysterious Time Creatures
+* The Dollmaker
+* [[Count Dracula|Dracula]]
+* Dr. Cranium
+* Dr. Droid
+* [[Victor Frankenstein|Dr. Frankenstein]]
+* Dr. Fright
+* Dr. Gulliver
+* The Earthors
+* The Enforcer
+* Giant Snow Creature
+* The Highway Angels
+* The Hydronoids
+* The Ice Demon
+* Insecta and the Arthropods
+* The Iron Cyclops
+* John Palette
+* The Junk Creature from the Dump
+* Kareem Azaar
+* Keelhaul Kelly
+* [[King Arthur]]
+* The Lion Men
+* The Make Up Monster
+* Mal Havok
+* The Man Beasts Of Xra
+* The Marsh Monster
+* Medula and her Mind Maidens
+* Mongor
+* The Mummy Of Nazca
+* The Mysterious Mutants of the Space Sphere
+* Nartan
+* Ocina and the Ancient Atlantean Warriors
+* Old Man Holmes
+* Orville Gump (Otis in ''[[Superman (1978 film)|Superman]]'')
+* The Outlaws of Orion (Pack and Stardust)
+* The [[Phantom Zone]] Villains (Hul, Logar, Rom-Lok)
+* The Plant Creatures
+* Professor Amy Zhan
+* Professor Fearo
+* Professor Korloff
+* The Power Pirate
+* The Robber Baron and Sleeves
+* The Rock and Roll Space Bandits
+* Rock Batman
+* Rokan
+* R.O.M.A.C.
+* The Secret Four
+* Scorpio
+* Sculpin
+* Sinbad and the Space Pirates
+* Solderath and the Lava Men
+* The Space Dolls
+* The Evil Space Genie
+* The Space Racers
+* The Star Energy Creature
+* [[Crime Syndicate of America|The Super Enemies]]
+* The Termites from Venus
+* Torhana
+* Tyrannic
+* Vampiress, the Voodoo Vampire
+* Yuna the Terrible
+* Zarnum
+* The Zoons
+* Zycree (see [[General Zod]])
+
+===Other DC Comics characters in ''Super Friends'' comics and merchandising related to the series===
+* [[Barbara Gordon|Batgirl]]
+* [[Black Canary]]
+* [[Black Orchid (character)|Black Orchid]]
+* [[Cyclotron (comics)|Cyclotron]]
+* [[Elongated Man]]
+* [[Fire (comics)|Green Fury]]
+* [[Global Guardians]]: Doctor Mist, Icemaiden, Little Mermaid, Seraph, Tasmanian Devil
+* Golden Pharaoh
+* [[Huntress (comics)|Huntress]]
+* [[Captain Marvel (DC Comics)|Captain Marvel]]
+* [[Mary Marvel]]
+* [[Mister Miracle|Mr. Miracle]]
+* [[Orion (comics)|Orion]]
+* [[Red Tornado]]
+* [[Supergirl (Kara Zor-El)|Supergirl]]
+
+==References to the Justice League of America name==
+Beginning with the original ''Super Friends'' season, the opening narration describes the team's headquarters as "the great hall of the Justice League". The opening credits of ''Challenge of the Superfriends'' names the Super Friends as the [[Justice League|Justice League of America]]. In addition to the appearance of a JLA emblem on a communicator and a reference to a mission to repair the Justice League satellite, the Super Friends are often linked with the JLA. The Justice League satellite under repair is clearly the same design as the [[Justice League Satellite]] that appeared in the comics at the time, but was shown to be substantially smaller than its comic book counterpart.
+
+==Notable voice actors==
+The voice of the Narrator was provided by actor [[Ted Knight]] during the early hour-long episodes. [[Bill Woodson]] took over with the revival of the series in 1977. His signature line was "Meanwhile, back at the Hall of Justice...". The voices of Marvin and Wonder Dog as well as Mr. Mxyzptlk, Toyman, The Dollmaker, Darkseid, Kalibak, and The Joker were performed by [[Frank Welker]]. [[Adam West]] provided the voice of Batman in ''[[SuperFriends: The Legendary Super Powers Show]]'' and ''[[The Super Powers Team: Galactic Guardians]]''. [[Casey Kasem]] provided the voice of Robin (and many others in the show). [[René Auberjonois]] lends his voice as DeSaad.
+
+==Reception==
+In January 2009, [[IGN]] listed ''Super Friends'' as the 50th best animated television series.<ref>{{cite web |url=http://tv.ign.com/top-100-animated-tv-series/50.html |title=IGN - 50. SuperFriends |publisher=Tv.ign.com |access-date=January 2, 2011 |url-status=dead |archive-url=https://web.archive.org/web/20101214104212/http://tv.ign.com/top-100-animated-tv-series/50.html |archive-date=December 14, 2010 |df=mdy-all }}</ref>
+
+==DVD releases==
+{| class="wikitable" style="width:100%;"
+|-
+! colspan="2" rowspan="2"|Season !! rowspan="2"|Episodes !! rowspan="2"|Season premiere !! rowspan="2"|Season finale !! rowspan="2"|DVD title/volume !! colspan="4"|DVD release date and ASIN
+|-
+! [[DVD region code#1|Region 1]] !! Region 2 !! ASIN Number
+|- style="text-align: center;"
+|  style="width:1%; background:#FBEC5C;"|
+| 1
+| width=3%| 16
+| September 8, 1973
+| August 24, 1974
+| '''Super Friends - Season 1: Volume 1'''<br />'''Super Friends - Season 1: Volume 2'''
+| align=left|January 5, 2010<br />July 20, 2010
+| align=left|
+| align=left|B002S3Y1LQ<br />B003F3NE4S
+|- style="text-align: center;"
+| style="background:#69c;"|
+| 2
+| 15
+| September 10, 1977
+| September 2, 1978
+| '''Super Friends - Season 2: The All-New Super Friends Hour, Volume 1'''<br />'''Super Friends - Season 2: The All-New Super Friends Hour, Volume 2'''
+| align=left|January 8, 2008<br />January 27, 2009
+| align=left|
+| align=left|B000W2C28Y<br />B001HRS8HW
+|- style="text-align: center;"
+| style="background:#2fce1f;"|
+| 3
+| 16
+| September 9, 1978
+| September 3, 1979
+| '''Super Friends - Season 3: Challenge of the Superfriends, The First Season'''<br />'''Super Friends - Season 3, Volume 2'''
+| align=left|July 6, 2004<br />May 24, 2005
+| align=left|
+| align=left|B00023E88U<br />B0007XFZMS
+|- style="text-align: center;"
+| style="background:#a847f3;"|
+| 4
+| 8
+| September 22, 1979
+| September 27, 1980
+| '''Super Friends - Season 4: The World's Greatest Super Friends, The Complete Series'''
+| align=left|April 23, 2013
+| align=left|
+| align=left|B00CREAO9O
+|- style="text-align: center;"
+| style="background:#f93;"|
+| 5
+| 24
+| September 13, 1980
+| September 1, 1981
+| '''Super Friends - Season 5: A Dangerous Fate, The Complete Series'''
+| align=left|July 23, 2013
+| align=left|
+| align=left|B00CM0DIT6
+|- style="text-align: center;"
+| style="background:#d3212d;"|
+| 6
+| 18
+| September 26, 1981
+| October 31, 1982
+| '''Super Friends - Season 6: Super Friends! Legacy Of Super Powers, The Complete Season Six (6 on DVD label)'''
+| align=left|October 8, 2013
+| align=left|
+| align=left|B00DVKKWFE
+|- style="text-align: center;"
+| style="background:#fbec5d; height:10px; width:3px;"|
+| 7
+| 8
+| September 10, 1983
+| September 8, 1984
+| '''Super Friends - Season 7: Super Friends The Lost Episodes'''
+| align=left|August 11, 2009
+| align=left|
+| align=left|B0027WNRV8
+|- style="text-align: center;"
+| style="background:skyBlue;"|
+| 8
+| 16
+| September 8, 1984
+| August 31, 1985
+| '''Super Friends - Season 8:  The Legendary Super Powers Show, The Complete Series'''
+| align=left|August 7, 2007
+| align=left|
+| align=left|B000PC8AKK
+|- style="text-align: center;"
+| style="background:#302a81; height:10px; width:3px;"|
+| 9
+| 10
+| September 11, 1985
+| November 6, 1986
+| '''Super Friends - Season 9: The Super Powers Team: Galactic Guardians, The Complete Series'''
+| align=left|October 23, 2007
+| align=left|
+| align=left|B000TSTEJG
+|-
+|}
+
+==Spin-offs==
+
+===''Legends of the Superheroes''===
+{{Main|Legends of the Superheroes}}
+On January 18 and 25, 1979, Hanna-Barbera ran two one-hour live-action specials under the umbrella title ''[[Legends of the Superheroes]]''. The first special, subtitled "The Challenge", was loosely based on the Super Friends and the 1960s ''Batman'' series (played for laughs, but this time, including a laugh track) and included several other DC characters who replaced Samurai, Black Vulcan, and Apache Chief: [[Black Canary]], the E-2 [[Huntress (Helena Wayne)|Huntress]] Helena Wayne (a new DC character, gathering her own following in ''All-Star'' and ''Adventure Comics'' JSA runs as a JSA member), and [[Captain Marvel (DC Comics)|Captain Marvel]] (who had previously had his own live action series through Filmation studios). The second special, entitled "The Roast", featured [[Ed McMahon]] as emcee of the roast, along the lines of ''[[The Dean Martin Celebrity Roast]]'' specials. Due to Warner Bros.' contracts on Wonder Woman (already being used in her own live action series; [[Lynda Carter]]) and Superman (in his own live-action theatrical movie at the time; [[Christopher Reeve]]), they were unable to be featured on the specials.
+
+===''The Plastic Man Comedy Adventure Show''===
+{{Main|The Plastic Man Comedy/Adventure Show}}
+Plastic Man first appeared in the first season of ''Super Friends'', in one episode. Later, [[Ruby-Spears|Ruby-Spears Productions]] released a series starring the character in his own solo adventures.
+
+===''Batman''===
+A Batman animated series was also considered in the mid-1980s, presumably with [[Adam West]] reprising his role as the voice of Batman.{{citation needed|date=December 2012}} "The Fear" was written as a pilot episode for the series, but it was instead adapted in to an episode of ''[[The Super Powers Team: Galactic Guardians]]''.
+
+===''The New Teen Titans''===
+In 1983, a cartoon based upon ''[[Teen Titans|The New Teen Titans]]'' comics began development. It was created as a companion for the ''Super Friends'', to be set in the same continuity. Robin was not going to be featured in the cartoon though, at least not as a regular, since in the ''Super Friends'' universe, he was a member of the Justice League. Like ''Super Friends'', the show was to be developed by Hanna-Barbera for ABC, but since shows like ''[[The Smurfs (1981 TV series)|The Smurfs]]'' (airing on [[NBC]]) were so popular at the time, this show was never picked up by the network. The show would have featured [[Donna Troy|Wonder Girl]] as the leader, along with [[Cyborg (comics)|Cyborg]], [[Wally West|Kid Flash]], [[Beast Boy|Changeling]], [[Raven (DC Comics)|Raven]] and [[Starfire (Koriand'r)|Starfire]]. Although the show failed to get picked up, a television commercial with a [[substance abuse]] theme did feature the Titans, as they would have appeared in the animated series, along with a new superhero named "The Protector" who would have been the replacement character for Robin. A Teen Titans animated TV program was eventually [[Teen Titans (TV series)|produced]], adding Robin and removing Wonder Girl, Kid Flash and The Protector.
+
+===''DC Super Friends''===
+{{Main|Imaginext#DC Super Friends}}
+[[Fisher-Price]] developed a toy line named DC Super Friends featuring DC Comics characters as toys for young children. A comic book series and direct-to-video original animation called ''The Joker's Playhouse'' (2010) was developed to tie-in. The video features the World's Greatest Super Friends theme, allusions to the Legion of Doom, and the Super Friends and their Hall of Justice.
+
+==Comic books==
+
+===''Super Friends''===
+The first use of the ''Super Friends'' name on a [[DC Comics]] publication was in ''[[Limited Collectors' Edition]]'' #C-41 (December 1975-January 1976) which reprinted stories from ''Justice League of America'' #36 and 61 and featured a new framing sequence by writer [[E. Nelson Bridwell]] and artist [[Alex Toth]].<ref>{{cite journal|last= Franklin|first= Chris|title= The Kids in the Hall (of Justice) A Whirlwind Tour with the Super Friends|journal= Back Issue!|issue= 61|pages= 24–28|publisher= TwoMorrows Publishing|date = December 2012}}</ref><ref>[http://www.comics.org/issue/68956/ ''Limited Collectors' Edition'' #C-41] at the Grand Comics Database</ref> DC published a [[comic book]] version of the ''Super Friends'' from November 1976 to August 1981. The comic book series was launched by E. Nelson Bridwell and artist [[Ric Estrada]].<ref>{{cite book|last=McAvennie|first= Michael|editor-last = Dolan|editor-first = Hannah|chapter= 1970s|title = DC Comics Year By Year A Visual Chronicle|publisher=[[Dorling Kindersley]] |year=2010 |isbn= 978-0-7566-6742-9 |page= 171 |quote = Hanna-Barbera's animated ''Super Friends'' proved so successful that DC brought the concept full circle, adapting the show into a comic. Scribe E. Nelson Bridwell and artist Ric Estrada crafted the inaugural issue.}}</ref> Zan and Jayna were given back stories and secret identities as a pair of blond-haired high school kids; they were more competent heroes than their cartoon counterparts.
+
+While the television cartoons were not part of the same fictional universe as the DC comic books, writer E. Nelson Bridwell made the comic book accord with the other DC titles via [[footnote]]s. An example of trying to fit ''Super Friends'' into the DC Universe:
+* Wendy, Marvin and Wonder Dog were the only ones active at the Hall of Justice, because the Justice League are in the 30th Century with the [[Justice Society]] (as shown in ''[[Justice League of America]]'' #147–148). Robin was busy helping the Titans in ''[[Teen Titans]]'' #50-52. Bridwell also gave them last names and ties to the other characters' histories; Wendy Harris was the niece of detective Harvey Harris (who helped train [[Batman]]) and Marvin White was the son of Diana Prince (the woman who helped provide [[Wonder Woman]] with a secret identity upon her arrival in America). While the show never explained the departure of Wendy, Marvin and Wonder Dog, the story was found in ''Super Friends'' #6–9.
+
+The argument for the comic being part of the Earth-One continuity also included the fact that certain elements of the series impacted other books in the DC line:
+
+1.  TNT's appearance in Kandor in an issue of ''[[Superman Family]]'' that references events exclusively from ''Super Friends'' issue #12
+
+2.  Sinestro's lack of a power ring in an issue of ''[[The Brave and The Bold]]'' after the ring was destroyed in ''Super Friends'' issue #46.
+
+3.  Superman already being familiar with Dr. Mist and the international heroes in ''[[DC Comics Presents]]'' after meeting them in ''Super Friends'' issues 7–9 and 12–13.
+
+Because the Super Friends stories were referenced in and the events in them remembered by the characters in the core DC superhero titles - for example, in ''Justice League of America'' #155 (June 1978 - Red Tornado remembers using his powers to break the time barrier, which he did in ''Super Friends'' #8) - they have to be considered part of the Pre-Crisis Earth 1 ensemble of stories.
+
+In 2008, DC began publishing a new ''[[Imaginext#DC Super Friends|Super Friends]]'' comic book starring Superman, Batman, Wonder Woman, Aquaman, Flash ([[Wally West]]) and Green Lantern ([[John Stewart (comics)|John Stewart]]). Based on the eponymous [[Imaginext]] toyline; it is aimed at children, with an art style reminiscent to that of Marvel's ''[[Super Hero Squad]]''. Written by Sholly Fisch with art mainly from Dario Brizuela, [[Stewart McKenny]] and [[J. Bone]] (who was cover artist throughout the series), it ran for 29 issues, from May 2008 to September 2010.
+
+===''Collected Editions''===
+* ''Super Friends: For Justice!'' (collects #1-7)
+* ''Super Friends: Calling All Super Friends'' (collects #8-14)
+* ''Super Friends: Head of the Class'' (collects #15-21)
+* ''Super Friends: Mystery In Space'' (collects #22-28)
+* ''DC Goes Ape'' (576 pages, October 2008, {{ISBN|978-1401219352}}) collects #30
+* ''DC Through the 80s: The End of Eras'' (520 pages, December 2020, {{ISBN|978-1779500878}}) collects #36
+* ''Super Friends: Saturday Morning Comics''
+** Volume 1 (520 pages, June 2020, {{ISBN|978-1401295424}}) collects #1-26, ''Aquateers Meet the Super Friends'', and the Super Friends stories from Limited Collector's Edition C-41 and C-46
+** Volume 2 (488 pages, December 2020, {{ISBN|978-1779505927}}) collects #27-47
+
+===''Extreme Justice''===
+In the comics, the Wonder Twins were members of the short-lived ''[[Justice League International|JLI]]'' offshoot, ''[[Extreme Justice]]''.
+
+===''Young Justice''===
+''[[Young Justice]]'' was a comic series that followed the adventures of a group composed of the latest teen superheroes of the late 1990s and early 2000s, including [[Tim Drake|Robin]], [[Superboy]], [[Bart Allen|Impulse]] and [[Wonder Girl]].  Towards the end of the run, Young Justice was involved in a mission which required them to invade an island whose population was made up of super-villains.  In order to conduct a successful attack, the core team assembled all the then-known teen heroes (including the [[Wonder Twins]]).  As in ''Extreme Justice'', neither spoke English and both seemed to enjoy eating CDs.  Unlike their cartoon counterparts, the Wonder Twins were rude and sarcastic.
+
+===''Super Buddies''===
+{{Main|Super Buddies}}
+The lighthearted nature of the show was spoofed in the 2000s with two DC [[miniseries]], ''Formerly Known as the Justice League'' and ''I Can't Believe It's Not the Justice League!'' (although these series were more direct take-offs on the 1980s [[Blue Beetle]]/[[Booster Gold]]-era [[Justice League]]). In these miniseries the group is known as the "Super Buddies", and consists of a team of ex-Justice League members. A television advertisement for the team shows them posing in the postures of the original ''Super Friends'' title card.
+
+===''Teen Titans''===
+As of issue #34 (2006), Wendy and Marvin were part of the DC continuity. They are now [[fraternal twin]]s (a nod to their ''Super Friends'' successors, the Wonder Twins), engineering geniuses (having graduated from the [[Massachusetts Institute of Technology]] at age 16), and are employed at [[Titans Tower]] as maintenance crew and mechanical troubleshooters. They were responsible for restoring Titans member [[Cyborg (comics)|Cyborg]] to full functionality after he sustained damage to his artificial body parts during the events of the ''[[Infinite Crisis]]'' mini-series.  Wonder Dog was also introduced into the series, although (unlike the cartoon) he was not a lovable sidekick and pet, but a murderous, shape-shifting demon dog who was sent to Titans Tower to kill the team. Wonder Dog killed Marvin and attacked Wendy, leaving her crippled from the waist down.  Wendy is a supporting character in the ''[[Stephanie Brown (comics)|Batgirl]]'' series, where she receives help accepting her disabilities from former Batgirl [[Barbara Gordon]].
+
+===''Justice League of America''===
+During the events of the 2005 company-wide ''[[Infinite Crisis]]'' crossover the [[Justice League Watchtower]] was destroyed by [[Superboy-Prime]], leaving the JLA without a base of operations. To that end, the team established the Hall of Justice in Washington, D.C. to act as an embassy for the team and an emergency base of operations if needed. In the continuity of the comics, the Hall was designed by [[Green Lantern (John Stewart)|Green Lantern]] and Wonder Woman. In ''Justice League of America'' #46 (2010) [[Samurai (Super Friends)|Samurai]] made his first appearance in the [[DC Universe]], where he was shown as one of the heroes driven temporarily insane by [[Alan Scott]].
+
+===''Wizard'' magazine===
+Issue #77 of ''[[Wizard (magazine)|Wizard]]'' magazine parodied the Super Friends; the JLA was sent through a dimensional rift and met some of the Super Friends. After [[Martian Manhunter]] used his Martian vision to melt the villain and his machine (much to Green Lantern's dismay: "You have to trick him into leaving, or shutting off his machine, NOT direct physical violence!"), the Super Friends decided to send the Justice Leaguers back to their own dimension. As a jest, the magazine also ran an [[April Fool's Day|April Fool's]] promotion for a Wonder Twins special by painter [[Alex Ross]]. The book, entitled ''Wonder Twins: Form of Water'', was to be one of Alex Ross' oversized books chronicling the Justice League. The plot would see Zan and Jayna using their powers to help the Earth's famine- and drought-stricken nations after their monkey, Gleek, contracted super-rabies from severe dehydration.
+
+===''Superman and Batman: World's Funnest''===
+In the [[Elseworlds]] [[One-shot (comics)|one-shot]] ''[[Superman and Batman: World's Funnest]]'', [[Bat-Mite]] and Mr. Mxyzptlk travel to different worlds within the DC Universe. On one of them, they encounter the Super Friends.
+
+==The Super Friends in other DC media==
+
+===''Superman: The Animated Series''===
+In the ''[[Superman: The Animated Series]]'' two-part episode "Apokolips... Now!", Superman is fighting the [[Parademons]] in Metropolis. In the background is a building resembling the Hall of Justice, referred to in dialogue as "Metropolis Plaza". This was likely a reference to Darkseid's forces previously appearing in the final two seasons of ''Super Friends''.
+
+===''Justice League''===
+At the end of "Secret Origins," the premiere three-episode arc of ''Justice League'', Superman proposes the formation of a superhero coalition including himself, Batman, Wonder Woman, the Flash (Wally West), the Green Lantern (John Stewart), the Martian Manhunter, and Hawkgirl. In a direct reference (and perhaps a criticism of the somewhat silly name), the Flash jokingly asks if such a team would be called "Super Friends". Superman relabels the guild as the "Justice League".
+
+===''Justice League Unlimited''===
+In the animated series ''[[Justice League Unlimited]]'', Gorilla Grodd reforms his [[Secret Society of Super Villains|Secret Society]] this time an even larger group of villains. While not called "The Legion of Doom" (due to DC executives disallowing the creative team from using the name), their [[headquarters]] is a craft similar to the Hall of Doom, located in a swamp. Additionally, the Justice League's Metro Tower headquarters in Metropolis strongly resembled the Hall of Justice.
+
+The '''Ultimen''', loosely based on characters created for the Super Friends, were briefly allies and later antagonists to the JLU. The Ultimen consisted of '''Long Shadow''' (based on [[Apache Chief]] and voiced by [[Gregg Rainwater]]), '''Juice''' (based on [[Black Vulcan]] and voiced by an uncredited [[CCH Pounder]] in a digitally-altered voice), '''Wind Dragon''' (based on [[Samurai (Super Friends)|Samurai]] and voiced by [[James Sie]]), '''Downpour and Shifter''' (based on the [[Wonder Twins]] and voiced by [[Grey DeLisle]]). The group appeared in the episode "Ultimatum" where it is revealed that they are clones created by [[Project Cadmus]] with [[Maxwell Lord]] as their manager.
+
+===''The Batman''===
+The animated series ''[[The Batman (TV series)|The Batman]]'' featured a modified version of the [[JLA Watchtower]] which closely resembled the Hall of Justice.
+
+===''Batman: The Brave and the Bold''===
+The Hall of Justice appeared in the ''[[Batman: The Brave and the Bold]]'' episode "Sidekicks Assemble!", with a pastiche of the music played when the Hall appeared in ''Super Friends''.
+
+===''Smallville''===
+The Wonder Twins appeared in the ''[[Smallville]]'' episode "Idol", with Zan played by [[David Gallagher]] and Jayna played by [[Allison Scagliotti]]. Gleek did not appear physically, but a cartoonish image of him was shown on each of the twins' cellphones.
+
+===''Young Justice''===
+The Hall of Justice was featured in ''[[Young Justice (TV series)|Young Justice]]'' as the Justice League's decoy base of operations. Additionally, Wendy and Marvin appear as classmates of [[Superboy (Kon-El)|Conner Kent]] and [[Miss Martian|Megan Morse]]. The members of the [[Injustice League]] operate out of a base resembling the Legion's Hall of Doom.
+
+In the second season, approximations of the minority members created for ''Super Friends'' (similar to the Ultimen example above) are introduced as teenagers given powers by the [[Reach (comics)|Reach]]. The group consists of '''Tye Longshadow''' (Apache Chief), '''Asami "Sam" Koizumi''' (Samurai) and '''Eduardo "Ed" Dorado Jr.''' (El Dorado). The exception is Black Vulcan, whose place is taken by [[Milestone Media]] hero '''[[Static (DC Comics)|Static]]''' (though Black Lightning also appears in the series).
+
+===''DC Nation Shorts''===
+The title of the ''Super Best Friends Forever'' [[DC Nation Shorts]] is a play on the title ''Super Friends''. Additionally, Black Vulcan's costume can be seen in the background of the first ''[[Black Lightning]]'' short. The ''[[Just'a Lotta Animals|Farm League]]'' carries several homages to the Super Friends including its narrator, characters used and graphics.
+
+=== ''Teen Titans Go!'' ===
+In the ''[[Teen Titans Go!]]'' ''Two-Parter'' episode, the Titans go to the Hall of Justice to use the pool, as later, they become members of the Justice League to save the Justice League members from Darkseid, this sequence parodies the introduction of the super heroes as in the ''Super Friends'' series.
+
+In the episode "You're Fired", Beast Boy is fired from the Teen Titans, and a competition is held to find his replacement.  The eventual winners are the Wonder Twins.
+
+===Arrowverse===
+The shows set in [[The CW]]'s ''[[Arrowverse]]'' have featured multiple references to the Super Friends.
+
+In the pilot episode of ''[[Supergirl (TV series)|Supergirl]]'', [[Winn Schott]] considers calling the group of [[Kara Danvers|Supergirl/Kara Zor-El]] and her allies (himself, [[Jimmy Olsen|James Olsen]], and [[Alex Danvers]]) "The Super Friends". In the fourth season episode, "[[Supergirl_(season_4)#ep78|What's So Funny About Truth, Justice And The American Way?]]", Kara forms a small team of heroes that includes herself, [[Brainiac 5]], [[Nia Nal|The Dreamer]], and the [[Martian Manhunter]] and directly calls them "The Super Friends". In the fifth-season episode, "Back From the Future - Part One", the S.T.A.R. Labs base (see below) is noted to be called the Hall of Justice in the future.
+
+In the "[[Invasion! (Arrowverse)|Invasion]]" cross-over event, across ''Supergirl'', ''[[The Flash (2014 TV series)|The Flash]]'', ''[[Arrow (TV series)|Arrow]]'' and DC's ''[[Legends of Tomorrow]]'', the secret STAR Labs base used by the heroes was based on the Hall of Justice. Also later on in that season, [[Flash (Arrowverse)|Barry]] and Supergirl sing a duet called "Super Friends" in order to escape the [[Music Meister]]'s musical.
+
+Season 2 of ''[[Legends of Tomorrow]]'' features multiple references to ''Super Friends'', including the villainous group being dubbed the "Legion of Doom" by [[Nate Heywood (Arrowverse)|Nate Heywood]]; in the episode "Doomworld", the new design of S.T.A.R. Labs in the altered timeline resembles the Hall of Doom. In the final scene of [[Crisis on Infinite Earths (Arrowverse)|''Crisis on Infinite Earths'']], Barry repurposed the secret S.T.A.R. Labs base previously used in "Invasion!" as the headquarters for Earth-Prime's heroes. In the closing moments of the crossover, the unnamed team is disrupted by the confusing sound of laughter (revealed to be an escaped Gleek, hinting at a possible future inclusion of the character and/or Wonder Twins). Afterwards, the camera pans out to the headquarters as music based on the original series plays in the background.
+
+===''The Lego Batman Movie''===
+In ''[[The Lego Batman Movie]]'', the cast of the ''Super Friends'' are seen celebrating an anniversary party in the Fortress of Solitude, which Batman was not invited to, featuring characters like El Dorado, The Wonder Twins, Gleek and Wonder Dog.
+
+==Video games==
+
+===''Injustice: Gods Among Us''===
+The Hall of Justice is a playable stage in ''[[Injustice: Gods Among Us]]''.
+
+===''Lego Batman 3: Beyond Gotham''===
+In ''[[Lego Batman 3: Beyond Gotham]]'', the Hall of Justice is one of the game's hubs, while the Hall of Doom and the surrounding swamp environs are explorable areas.
+
+==Toys==
+
+===Super Powers Collection===
+{{Main|Super Powers Collection}}
+The Super Powers toy line (and associated tie-in merchandise) was based on the final two seasons of ''Super Friends''. Samurai, an original character from the show, and the Hall of Justice were both released. Plans for future waves from Super Powers would have also included Apache Chief, El Dorado, Black Vulcan and the Wonder Twins.
+
+===''Justice League Unlimited''===
+{{Main|DC Universe: Justice League Unlimited Fan Collection}}
+The toy line based on ''Justice League Unlimited'' released a three pack of figures from characters created for ''Super Friends'', namely Black Vulcan, Apache Chief and Samurai. They were chosen over the Ultimen characters that actually appeared in the JLU animated series: Juice, Long Shadow and Wind Dragon.
+
+===''DC Super Friends''===
+Fisher-Price began to produce DC Comics characters in a kid-friendly toyline named after the ''Super Friends''.
+
+===''DC Universe Classics''===
+{{Main|DC Universe Classics}}
+Paying homage to Super Powers, DC Universe Classics produced original ''Super Friends'' characters such as Apache Chief, Black Vulcan, El Dorado, Samurai and the Wonder Twins.
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{IMDb title|id=0069641|title=Super Friends}}
+* [https://web.archive.org/web/20080603141807/http://user1291318.sites.myregisteredsite.com/willsultimatesuperfriendsepisodeguide/index.html Will's Ultimate ''Super Friends'' Episode Guide!]
+* [https://web.archive.org/web/20100814154304/http://www.batmanytb.com/animated/sf/ ''Super Friends'' @ BatmanYTB.com]
+* [https://web.archive.org/web/20070622090537/http://www.pazsaz.com/superfr.html ''Super Friends'' at Pazsaz.com]
+* [http://www.legionsofgotham.org/TOONSsf.html ''Super Friends'' at Legions of Gotham]
+
+{{Superfriends series}}
+{{Justice League in popular media|state=collapsed}}
+{{Justice League}}
+{{Aquaman}}
+{{Children's programming on the American Broadcasting Company}}
+{{Toonami Cartoon Network}}
+{{Authority control}}
+
+[[Category:Super Friends| ]]
+[[Category:1973 American television series debuts]]
+[[Category:1986 American television series endings]]
+[[Category:1970s American animated television series]]
+[[Category:1980s American animated television series]]
+[[Category:1970s American science fiction television series]]
+[[Category:1980s American science fiction television series]]
+[[Category:American Broadcasting Company original programming]]
+[[Category:Animated Batman television series]]
+[[Category:Animated Superman television series]]
+[[Category:Wonder Woman in other media]]
+[[Category:DC Comics superhero teams]]
+[[Category:DC Comics titles]]
+[[Category:Hanna-Barbera superheroes]]
+[[Category:1976 comics debuts]]
+[[Category:Toonami]]
+[[Category:Animated Justice League television series]]
+[[Category:American children's animated action television series]]
+[[Category:American children's animated adventure television series]]
+[[Category:American children's animated science fantasy television series]]
+[[Category:American children's animated superhero television series]]
+[[Category:English-language television shows]]
+[[Category:Animated television series about robots]]
+[[Category:Television series by Warner Bros. Television Studios]]

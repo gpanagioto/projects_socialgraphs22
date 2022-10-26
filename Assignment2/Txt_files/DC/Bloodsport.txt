@@ -1,0 +1,5 @@
+#REDIRECT [[Bloodsport (character)]]
+
+{{Redirect category shell|
+{{R from move}}
+}}

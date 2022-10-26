@@ -1,0 +1,5 @@
+#REDIRECT [[Humbug (character)]]
+
+{{Redirect category shell|
+{{R from move}}
+}}

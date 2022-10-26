@@ -1,0 +1,89 @@
+{{short description|Fictional character}}
+{{Use American English|date=August 2021}}
+{{Use mdy dates|date=August 2021}}
+{{Infobox comics character and title <!--Wikipedia:WikiProject Comics-->
+| image = WesternKid1.jpg
+| caption = ''The Western Kid'' #1 (Nov. 1954).<br>Cover art by [[John Romita Sr.]]<!--Both pencils & inks per GCD-->
+| character_name = The Western Kid
+| publisher = [[Marvel Comics]]
+| debut = ''The Western Kid'' #1 (Nov. 1954)
+| creators = [[John Romita Sr.]] (art)
+| alter_ego = Tex Dawson
+| full_name =
+<!--Series section-->
+|cvr_image           = 
+|cvr_caption         = 
+|cvr_alt             =
+|schedule            = Bimonthly
+|format              = [[Ongoing series]]
+|limited             =
+|ongoing             = y
+|1shot               =
+|genre               = [[Western comics|Western]]
+|pub_series          = [[Atlas Comics (1950s)|Atlas Comics]]
+|date                =
+|1stishhead          = 
+|1stishyr            = 1954
+|1stishmo            = Dec.
+|endishyr            = 1957
+|endishmo            = Aug.
+|issues              = 17
+|main_char_team      = Western Kid
+|writers             = 
+|artists             = [[John Romita, Sr.]]
+|pencillers          = 
+|inkers              = 
+|letterers           =
+|colorists           =
+|editors             = 
+|creative_team_month = 
+|creative_team_year  = 
+|creators_series     = 
+|TPB                 = 
+|ISBN                = 
+|TPB1                = 
+|ISBN1               = 
+|nonUS               =
+|}}
+{{Lead too short|date=January 2022}}
+The '''Western Kid''' is a [[fictional character|fictional]] [[Old West]] character appearing in [[American comic book]]s published by [[Marvel Comics]]. The character was the star of [[Western comics|Western]] feature published by Marvel's 1950s precursor, [[Atlas Comics (1950s)|Atlas Comics]].
+
+==Publication history==
+Tex Dawson, the Western Kid, debuted in ''Western Kid'' #1 ([[cover-date]]d Nov. 1954), from publisher [[Atlas Comics (1950s)|Atlas Comics]], a predecessor of [[Marvel Comics]].<ref>{{cite book |last1=Horn |first1=Maurice |title=Comics of the American West |date=1977 |publisher=Winchester Press |isbn=9780876911907 |page=97}}</ref> The character was created by an unknown writer and [[penciler]]-[[inker]] [[John Romita Sr.]], who the following decade would become one of [[Spider-Man]]'s signature artists. The feature, drawn exclusively by Romita, ran through issue #17 (Aug. 1957), with cover art by Romita, [[Joe Maneely]], [[John Severin]], and, for one cover each, [[Carl Burgos]], [[Russ Heath]], and [[Syd Shores]].<ref name=gcd>[http://www.comics.org/search.lasso?type=character&query=western+kid&sort=chrono&Submit=Search/ The Western Kid] (character) at the [[Grand Comics Database]]</ref>
+
+The character resurfaced as the lead feature of the omnibus title ''[[Gunsmoke Western]]'' #51 (March 1959), in a story written by Atlas/Marvel editor-in-chief [[Stan Lee]] and drawn by [[Dick Ayers]].<ref name=gcd />
+
+Western Kid reprints appeared in Marvel's 1970s omnibus series ''[[Western Gunfighters]]'' #3–6 and 17–33 (Dec.1970 – Sept. 1971, Sept. 1973 – Nov. 1975). In-between, the character starred in the reprint series ''The Western Kid'' vol. 2, #1–5 (Dec. 1971 – Aug. 1972) — the first issue of which sported a new cover by original artist Romita — and in ''[[Rawhide Kid]]'' #105 (Nov. 1972) and ''Gun-Slinger'' #1–3 (Jan.-June 1973), a series reflecting the character's temporary new name. The first issue, with a cover drawn by [[Jim Steranko]], was titled ''Tex Dawson, Gun-Slinger''.<ref name=gcd />
+
+The character returned in ''[[Apache Skies]]'' (2002), a four-issue [[miniseries]] starring the [[Rawhide Kid]] and two persons called the Apache Kid: Dazii Aloysius Kare, and his wife, Rosa. This was a sequel to the miniseries ''[[Blaze of Glory (comics)|Blaze of Glory]]'' (2000), which specifically [[retconned]] that the naively clean-cut Marvel Western stories of years past were merely [[dime novel]] fictions of the characters' actual lives.
+
+==Fictional character biography==
+Tex Dawson, a.k.a. the Western Kid, was a clean-cut [[Old West]] [[gunfighter]] with a [[stallion]] named Whirlwind and a white [[German shepherd]] dog named Lightning. Unlike such fellow Atlas Western stars as [[Kid Colt]] and the [[Rawhide Kid]], he was not hunted by the law for a perceived crime, and unlike the [[Two-Gun Kid]] or the [[Outlaw Kid]], he wore no mask. Wandering the range as a do-gooder adventurer, the Western Kid was respected by [[sheriff]]s and [[marshal]]s, whom he often helped, and idolized by children.
+
+==Other versions==
+A modern-day version of the character stars in the five-issue ensemble [[miniseries]] ''Six Guns'' (#1–4 [[cover-date]]d Jan.-March 2012), by writer [[Andy Diggle]] and artist Davide Gianfelice, and also starring the extant female mercenary [[Tarantula (Marvel Comics)#Maria Vasquez|Tarantula]] and new contemporary versions of the Marvel [[Old West]] heroes the [[Black Rider (comics)|Black Rider]]; [[Matt Slade]]; and the [[Two-Gun Kid]].<ref>{{cite web|url=http://marvel.com/news/story/16788/six_guns_trigger_happy|title=Six Guns: Trigger Happy|date=October 6, 2011|first= Jim |last=Beard|publisher=Comic News (column), [[Marvel Comics|Marvel.com]] | archiveurl= https://web.archive.org/web/20111207115103/http://marvel.com/news/story/16788/six_guns_trigger_happy|archivedate= December 7, 2011 | url-status=live}}</ref><ref>{{cite web|url=http://marvel.com/news/story/16160/six_guns_locked_and_loaded |title=Six Guns: Locked and Loaded| date=June 23, 2011|first= Jim |last=Beard|publisher=Comic News (column), [[Marvel Comics|Marvel.com]]| archiveurl= https://web.archive.org/web/20110810022542/http://marvel.com/news/story/16160/six_guns_locked_and_loaded |archivedate= August 10, 2011 | url-status=live}}</ref><ref>[http://www.maelmill-insi.de/UHBMCC/smisc6.htm#S6259 "''Six Guns'' (2012)"] at The Unofficial Handbook of Marvel Comics Creators. [https://web.archive.org/web/20120512201954/http://www.maelmill-insi.de/UHBMCC/smisc6.htm Archived] from the original (required scrolldown) November 20, 2011</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.maelmill-insi.de/UHBMCC/ The Unofficial Handbook of Marvel Comics Creators]
+* [http://www.atlastales.com Atlas Tales]
+* [http://www.internationalhero.co.uk/w/westernkid.htm Western Kid] at International Heroes
+
+==Further reading==
+*''Marvel Westerns: Outlaw Files'' (June 2006)
+
+{{Marvel Western Characters}}
+[[Category:1954 comics debuts]]
+[[Category:1957 comics endings]]
+[[Category:American comics characters]]
+[[Category:Atlas Comics characters]]
+[[Category:Atlas Comics titles]]
+[[Category:Characters created by John Romita Sr.]]
+[[Category:Comics characters introduced in 1954]]
+[[Category:Fictional American people]]
+[[Category:Fictional gunfighters]]
+[[Category:Western (genre) comics]]
+[[Category:Marvel Comics male characters]]
+[[Category:Marvel Comics Western (genre) characters]]

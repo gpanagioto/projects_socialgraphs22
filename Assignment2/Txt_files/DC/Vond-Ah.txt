@@ -1,0 +1,555 @@
+{{Short description|1978 superhero film directed by Richard Donner}}
+{{Good article}}
+{{Use mdy dates|date=December 2018}}
+{{Infobox film
+| name           = Superman
+| image          = Superman (1978 film poster).jpg
+| caption        = Theatrical release poster
+| director       = [[Richard Donner]]
+| producer       = [[Pierre Spengler]]
+| screenplay     = {{Plainlist|
+* [[Mario Puzo]]
+* [[David Newman (screenwriter)|David Newman]]
+* [[Leslie Newman]]
+* [[Robert Benton]]
+}}
+| story          = Mario Puzo
+| based_on       = {{Based on|[[Superman]]|[[Jerry Siegel]]|[[Joe Shuster]]}}
+| starring       = {{Plainlist|
+* [[Marlon Brando]]
+* [[Gene Hackman]]
+* [[Christopher Reeve]]
+* [[Ned Beatty]]
+* [[Jackie Cooper]]
+* [[Glenn Ford]]
+* [[Trevor Howard]]
+* [[Margot Kidder]]
+* [[Valerie Perrine]]
+* [[Maria Schell]]
+* [[Terence Stamp]]
+* [[Phyllis Thaxter]]
+* [[Susannah York]]
+}}
+| music          = [[John Williams]]
+| cinematography = [[Geoffrey Unsworth]]
+| editing        = {{Plainlist|
+* [[Stuart Baird]]
+}}
+| production_companies = {{Plainlist|
+* Dovemead Ltd.<ref name=afi />
+* International Film Production<ref name=afi>{{cite web|url=https://catalog.afi.com/Catalog/MovieDetails/57040|title=Superman|work=[[AFI Catalog of Feature Films]]|access-date=September 14, 2018|archive-date=September 14, 2018|archive-url=https://web.archive.org/web/20180914094511/https://catalog.afi.com/Catalog/MovieDetails/57040|url-status=live}}</ref>
+}}
+| distributor    = {{Plainlist|
+* [[Columbia Pictures|Columbia]]–[[EMI Films|EMI]]–[[Warner Bros. Pictures|Warner Distributors]] (United Kingdom)
+* Warner Bros. Pictures(United States)
+}}
+| released       = {{Film date|1978|12|10|[[Kennedy Center]]|1978|12|14|United Kingdom|1978|12|15|United States}}
+| runtime        = 143 minutes<ref>{{cite web|title=Superman|publisher=[[British Board of Film Classification]]|url=http://www.bbfc.co.uk/releases/superman-1970-3|access-date=December 1, 2012|archive-date=June 22, 2013|archive-url=https://web.archive.org/web/20130622140651/http://bbfc.co.uk/releases/superman-1970-3|url-status=live}}</ref>
+| country        = {{Plainlist|
+* United Kingdom<ref name="AFI">{{cite web|title=Superman|url=http://www.afi.com/members/catalog/DetailView.aspx?s=&Movie=57040|publisher=[[American Film Institute]]|access-date=December 11, 2015|archive-date=March 23, 2016|archive-url=https://web.archive.org/web/20160323053016/http://www.afi.com/members/catalog/DetailView.aspx?s=&Movie=57040|url-status=live}}</ref><ref name="BFI">{{cite web|url=https://www2.bfi.org.uk/films-tv-people/4ce2b6b75d373|title=Superman|publisher=[[British Film Institute]]|access-date=June 26, 2021}}</ref><ref name="Lumiere">{{cite web|url=https://lumiere.obs.coe.int/web/film_info/?id=53002|title=Superman|publisher=[[Lumiere (database)|Lumiere]]|access-date=June 26, 2021}}</ref>
+* Switzerland<ref name="AFI" /><ref name="BFI" />
+* Panama<ref name="AFI" /><ref name="BFI" />
+* United States<ref name="AFI" /><ref name="BFI" /><ref name="Lumiere" />
+}}
+| language       = English
+| budget         = $55 million<ref name= BOM>{{cite web|url=https://www.boxofficemojo.com/title/tt0078346/|title=Superman (1978)|website=[[Box Office Mojo]]|access-date=December 29, 2020|archive-date=December 10, 2019|archive-url=https://web.archive.org/web/20191210200413/https://www.boxofficemojo.com/title/tt0078346/|url-status=live}}</ref>
+| gross          = $300.5 million<ref name= BOM />
+}}
+
+'''''Superman''''' (stylized as '''''Superman: The Movie''''') is a 1978 [[superhero film]] based on [[Superman|the character]] by [[DC Comics]]. An [[international co-production]] between the United Kingdom, Switzerland, Panama and the United States,<ref name=AFI /> it was supervised by [[Alexander Salkind|Alexander]] and [[Ilya Salkind]], produced by their partner [[Pierre Spengler]] and written by [[Mario Puzo]] from a story by Puzo, and is the first installment in the [[Superman in film|Superman film series]]. Directed by [[Richard Donner]], the film features an [[ensemble cast]] including [[Marlon Brando]], [[Gene Hackman]], [[Christopher Reeve]], [[Jeff East]], [[Margot Kidder]], [[Glenn Ford]], [[Phyllis Thaxter]], [[Jackie Cooper]], [[Trevor Howard]], [[Marc McClure]], [[Terence Stamp]], [[Valerie Perrine]], [[Ned Beatty]], [[Jack O'Halloran]], [[Maria Schell]], and [[Sarah Douglas (actress)|Sarah Douglas]]. It depicts the origin of Superman (Reeve), including his infancy as Kal-El of [[Krypton (comics)|Krypton]], son of Jor-El (Brando) and his youthful years in the rural town of [[Smallville (comics)|Smallville]]. Disguised as reporter [[Clark Kent]], he adopts a mild-mannered disposition in [[Metropolis (comics)|Metropolis]] and develops a romance with [[Lois Lane]] (Kidder) whilst battling the villainous [[Lex Luthor]] (Hackman).
+
+Ilya had the idea of a Superman film in 1973 and after a difficult process with DC Comics, the Salkinds and Spengler bought the rights to the character the following year. Several directors, most notably [[Guy Hamilton]], and screenwriters ([[Mario Puzo]], [[David Newman (filmmaker)|David]] and [[Leslie Newman]], and [[Robert Benton]]), were associated with the project before Richard Donner was hired to direct. [[Tom Mankiewicz]] was drafted in to rewrite the script and was given a "[[creative consultant]]" credit. It was decided to film both ''Superman'' and its sequel ''[[Superman II]]'' (1980) simultaneously, with [[principal photography]] beginning in March 1977 and ending in October 1978. Tensions arose between Donner and the producers, and a decision was made to stop filming the sequel, of which 75 percent had already been completed, and finish the first film.<ref>{{Cite web |first=Peter |last=Tonguette |url=http://www.brightlightsfilm.com/36/lester1.html |archive-url=https://wayback.archive-it.org/all/20101212005734/http://www.brightlightsfilm.com/36/lester1.html |url-status=dead |archive-date=December 12, 2010 |title=Bright Lights Film Journal :: The Superman Films of Richard Lester |publisher=Brightlightsfilm.com |access-date=June 17, 2010 }}</ref>
+
+The [[List of most expensive films#Record-holders|most expensive film]] made up to that point, with a budget of $55&nbsp;million,<ref name="Cook (2000)">{{Cite book |last=Cook|first=David A.|year=2000|title=Lost Illusions: American Cinema in the Shadow of Watergate and Vietnam, 1970–1979|volume=9 of History of the American Cinema, Richard Koszarski|publisher=[[Charles Scribner's Sons|Scribner]]|page=[https://books.google.com/books?id=sUUNAQAAMAAJ&q=superman+%22$55+million+production%22 58]}}</ref><ref name=superman-tcm>{{cite web |title=Superman: The Movie (1978) – Articles |publisher=[[Turner Classic Movies]] |url=http://www.tcm.com/tcmdb/title/91973/Superman-The-Movie/articles.html |access-date=26 April 2012 |archive-date=July 24, 2019 |archive-url=https://web.archive.org/web/20190724083358/http://www.tcm.com/tcmdb/title/91973/Superman-The-Movie/articles.html |url-status=live }}</ref> ''Superman'' was released in December 1978 to critical and financial success; its worldwide box office earnings of $300&nbsp;million made it the second-highest-grossing release of the year. It received praise for Reeve's performance and [[John Williams]]' musical score,<ref name=comment /> and was nominated for three [[Academy Awards]], including [[Academy Award for Best Film Editing|Best Film Editing]], [[Academy Award for Best Original Score|Best Music (Original Score)]], and [[Academy Award for Best Sound Mixing|Best Sound]], and received a [[Special Achievement Academy Award]] for [[Academy Award for Best Visual Effects|Visual Effects]].<ref>[http://awardsdatabase.oscars.org/ampas_awards/DisplayMain.jsp?curTime=1448874964259 "Superman (1978) – Awards and Nominations"]{{dead link|date=September 2017 |bot=InternetArchiveBot |fix-attempted=yes }}, ''AwardsDatabase.oscars.org'', Retrieved November 30, 2015</ref> Groundbreaking in its use of [[special effect]]s and science fiction/fantasy storytelling, the film's legacy presaged the mainstream popularity of Hollywood's [[superhero film]] franchises. In 2017, ''Superman'' was selected for preservation by the [[Library of Congress]]'s [[National Film Registry]].
+
+== Plot ==
+<!--per [[WP:FILMPLOT]], plots should be between 400 and 700 words only-->
+On the planet [[Krypton (comics)|Krypton]], [[Jor-El]] of the Kryptonian high council discovers that the planet will soon be destroyed when its [[red supergiant]] sun explodes. The other council members dismiss his claims. To save [[Superman (1978 film series character)|Kal-E]]l, his infant son, Jor-El sends him in a spaceship to Earth, where his dense molecular structure will give him superhuman strength and other powers. Krypton, thereafter, is destroyed.
+
+The ship lands near [[Smallville (comics)|Smallville]], Kansas. Kal-El, now about three Earth years old, is found by [[Jonathan and Martha Kent]], who are astonished when he lifts their truck. They decide to raise him as their own, naming him [[Clark Kent|Clark]] after Martha's maiden name. Jonathan tells the boy that he must have been sent to Earth for "a reason".
+
+After Jonathan's death from a [[heart attack]], 18-year-old Clark hears a psychic "call" and discovers a glowing green crystal in the remains of his spacecraft. It compels him to travel to the [[Arctic]] where he uses the crystal to construct a [[Fortress of Solitude]], which resembles the architecture of Krypton. Inside, a hologram of Jor-El explains Clark's true origins, and after twelve years of educating him on his reason for being sent to Earth and his powers, he leaves the Fortress wearing a blue and red suit with a red cape and the [[Superman logo|House of El family crest]] emblazoned on his chest. Becoming a reporter at the ''[[Daily Planet]]'' in [[Metropolis (comics)|Metropolis]], Clark meets and develops a romantic attraction to coworker [[Lois Lane (1978 film series character)|Lois Lane]].
+
+Lois is involved in a helicopter mishap. Clark publicly uses his powers for the first time to save her, astonishing the crowd gathered below. He then thwarts a jewel thief attempting to scale the [[Solow Building]], captures robbers fleeing police and depositing their getaway [[cabin cruiser]] on [[Wall Street]], rescues a girl's cat from a tree, and saves [[Air Force One]] after a lightning strike destroys an engine. The "caped wonder" is an instant celebrity. Daily Planet boss [[Perry White]] wants the newspaper to find out more information about him. Superman visits Lois at her penthouse apartment the next night for an interview and takes her for a flight; Lois subsequently writes an article naming him "[[Superman]]".
+
+Meanwhile, criminal genius [[Lex Luthor (1978 film series character)|Lex Luthor]] learns of a joint [[U.S. Army]] and [[U.S. Navy]] [[nuclear missile]] test. He buys hundreds of acres of empty desert land and reprograms the two missiles to detonate in the [[San Andreas Fault]], with his assistant Otis accidentally programming the second missile coordinates incorrectly. Knowing Superman could stop his plan, Lex deduces that a recently discovered meteorite is from Krypton and is radioactive to Superman. After he and his accomplices Otis and Eve Teschmacher retrieve a piece of it, Luthor lures Superman to his underground lair and reveals his plan to cause everything west of the San Andreas Fault to sink into the Pacific Ocean, leaving Luthor's desert land as the new [[West Coast of the United States]]. Luthor then exposes him to the meteor piece's mineral, [[Kryptonite]], which weakens Superman greatly as Luthor taunts him about the second missile which will detonate in [[Hackensack, New Jersey]].
+
+Teschmacher is horrified that Luthor does not care that her mother lives in Hackensack. Luthor leaves Superman to die. Knowing he always keeps his word, Teschmacher helps Superman on the condition he will stop the eastbound missile first. After being freed, Superman diverts the eastbound missile into outer space, consequently preventing him from reaching the westbound missile before it explodes in the San Andreas Fault. Massive earthquakes erupt across California, damaging the [[Golden Gate Bridge]] and breaching the [[Hoover Dam]]. Superman mitigates the effects of the explosion by sealing the fault line.
+
+While Superman is busy saving others, Lois's car falls into a crevice from one of the [[aftershocks]], trapping her as it fills with dirt and debris. She suffocates before Superman can reach her. Angered over failing to save her, Superman defies Jor-El's earlier warning not to manipulate human history, and instead heeds Jonathan's advice that he must be there for "a reason". He accelerates around Earth, traveling several minutes backward in time to prevent Lois's death while also undoing the damage caused by the missile and earthquake. After saving the West Coast, Superman delivers Luthor and Otis to prison before flying into the sunrise.
+
+== Cast ==
+* [[Marlon Brando]] as [[Jor-El]]: Superman's biological father on [[Krypton (comics)|Krypton]]. He has a theory about the planet exploding, yet the Council refuses to listen. He dies as the planet explodes but successfully sends his infant son to Earth as a means to help the child. Brando sued the Salkinds and Warner Bros. for $50&nbsp;million because he felt cheated out of his share of the box office profits.<ref name=Kroll /> This stopped Brando's footage from being used in Richard Lester's version of ''Superman II''.<ref name=DVD />
+* [[Gene Hackman]] as [[Lex Luthor (1978 film series character)|Lex Luthor]]: A scientific genius and businessman who is Superman's nemesis. It is he who discovers Superman's weakness and hatches a plan that puts millions of people in danger.
+* [[Christopher Reeve]] as [[Superman (1978 film series character)|Clark Kent / Superman]]: Born on Krypton as Kal-El and raised on Earth, he is a being of immense power, strength, flight and invulnerability who, after realizing his destiny to serve mankind, uses his powers to protect and save others. As a means to protect his identity, he works in [[Metropolis (comics)|Metropolis]] at the ''[[Daily Planet]]'' as mild-mannered newspaper reporter [[Clark Kent]] and changes his clothes into a red-blue red caped suit with an S shield on its chest and is dubbed "[[Superman]]" by Lois. Reeve was picked from over 200 actors who auditioned for the role.
+** [[Jeff East]] as the teenage Clark Kent: As a teenager, he is forced to hide his superhuman abilities, making him unpopular among his classmates and frustrating his efforts to gain the attention of classmate [[Lana Lang]] (Diane Sherry). Following the death of his adoptive father, he travels to the Arctic to discover his Kryptonian heritage. East's dialogue in the film is redubbed by Christopher Reeve for the final cut.<ref name=East />
+* [[Ned Beatty]] as Otis: Lex Luthor's bumbling henchman.
+* [[Jackie Cooper]] as [[Perry White]]: Clark Kent's hot-tempered boss at the ''Daily Planet''. He assigns Lois to uncover the news of an unknown businessman purchasing a large amount of property in California. [[Keenan Wynn]] was originally cast, but dropped out shortly before filming because of [[heart disease]]. Cooper, who originally auditioned for Otis, was subsequently cast.<ref name=Ilya />
+* [[Glenn Ford]] as [[Jonathan and Martha Kent|Jonathan Kent]]: Clark Kent's adoptive father in Smallville during his youth. He is a farmer who teaches Clark skills that will help him in the future. He later has a fatal heart attack that changes Clark's outlook on his duty to others.
+* [[Trevor Howard]] as the First Elder: Head of the Kryptonian Council, who does not believe Jor-El's claim that Krypton is doomed. He warns Jor-El: "Any attempt by you to create a climate of fear and panic amongst the populace must be deemed by us an act of insurrection."
+* [[Margot Kidder]] as [[Lois Lane (1978 film series character)|Lois Lane]]: A reporter at the ''[[Daily Planet]]'', who becomes a romantic interest to Clark Kent. The producers and director had a very specific concept for Lois: liberated, hard-nosed, witty and attractive. Kidder was cast because her performance had a certain spark and vitality, and because of her strong interaction with Christopher Reeve.<ref>{{cite book|last=Petrou|first=David Michael|title =The Making of Superman the Movie|publisher=[[Warner Books]]|year=1978|isbn=0-352-30452-9|pages=47, 81}}</ref> Over 100 actresses were considered for the role. Margot Kidder (suggested by Stalmaster), [[Anne Archer]], [[Susan Blakely]], [[Lesley Ann Warren]], [[Deborah Raffin]] and [[Stockard Channing]] screen tested from March through May 1977. The final decision was between Channing and Kidder, with the latter winning the role.<ref name=flight /><ref name=screen />
+* [[Jack O'Halloran]] as [[Non (comics)|Non]]: Large and mute, the third of the Kryptonian villains who are sentenced to be isolated in the Phantom Zone.
+* [[Valerie Perrine]] as [[Eve Teschmacher (character)|Eve Teschmacher]]: Lex Luthor's girlfriend and accomplice. Already cynical of his increasing grandiosity and disturbed by his cruelty, she saves Superman's life after learning that Luthor has launched a nuclear missile toward her mother's hometown of [[Hackensack, New Jersey]]. She shows a romantic interest in Superman, implied by her fixing her hair before she makes her presence known to him, and then by kissing him before she saves his life.
+* [[Maria Schell]] as Vond-Ah: Like Jor-El, a top Kryptonian scientist; but she too is not swayed by Jor-El's theories.
+* [[Terence Stamp]] as [[General Zod (1978 film series character)|General Zod]]: Evil leader of the three Kryptonian criminals who swears vengeance against Jor-El when he is sentenced to the [[Phantom Zone]]. His appearance was to set him and his accomplices as the main antagonists of ''Superman II''.
+* [[Phyllis Thaxter]] as [[Jonathan and Martha Kent|Martha Kent]] (née Clark): Clark Kent's faithful adoptive mother. A kindly woman who dotes on her adoptive son and is fiercely devoted to her husband, Jonathan. She is her son's emotional support after Clark is devastated by Jonathan's death. Thaxter was producer [[Ilya Salkind]]'s mother-in-law.<ref name=saga />
+* [[Susannah York]] as [[Lara (comics)|Lara]]: Superman's biological mother on Krypton. She, after learning of Krypton's fate, has apprehensions about sending her infant son to a strange planet alone.
+* [[Marc McClure]] as [[Jimmy Olsen]]: A teenage photographer at the ''Daily Planet''. Jeff East, who portrayed the teenage Clark Kent, originally auditioned for this role but outranked following his portrayal of the teen Clark.<ref name=East />
+* [[Sarah Douglas (actress)|Sarah Douglas]] as [[Ursa (comics)|Ursa]]: General Zod's second in command and consort, sentenced to the Phantom Zone for her unethical scientific experiments. [[Caroline Munro]] turned down the opportunity to play Ursa, in favour of Naomi in ''[[The Spy Who Loved Me (film)|The Spy Who Loved Me]].''<ref>{{Cite web |url=https://horrornews.net/85005/actress-interview-caroline-munro |title=Interview: Caroline Munro |date=May 15, 2014 |access-date=March 2, 2021 |archive-date=January 23, 2021 |archive-url=https://web.archive.org/web/20210123044059/https://horrornews.net/85005/actress-interview-caroline-munro/ |url-status=live }}</ref>
+* [[Harry Andrews]] as the Second Elder: Council member, who urges Jor-El to be reasonable about plans to save Krypton.
+
+[[Kirk Alyn]] and [[Noel Neill]] have [[cameo appearance]]s as the parents of Lois Lane in a deleted scene that was restored in later home media releases.<ref>{{cite news|url=https://www.independent.co.uk/arts-entertainment/obituary-kirk-alyn-1083768.html|title=Obituary: Kirk Alyn|last=Vallance|first=Tom|newspaper=[[The Independent]]|date=March 28, 1999|access-date=January 28, 2018|archive-date=January 13, 2018|archive-url=https://web.archive.org/web/20180113115648/http://www.independent.co.uk/arts-entertainment/obituary-kirk-alyn-1083768.html|url-status=live}}</ref> Alyn and Neill portrayed Superman and Lois Lane in the film serials ''[[Superman (serial)|Superman]]'' (1948) and ''[[Atom Man vs. Superman]]'' (1950), and were the first actors to portray the characters onscreen in a live-action format. Neill reprised her role in the 1950s ''[[Adventures of Superman (TV series)|Adventures of Superman]]'' TV series.
+
+[[Larry Hagman]] and [[Rex Reed]] also make cameos; Hagman plays an army major in charge of a convoy that is transporting one of the missiles, and Reed plays himself as he meets Lois and Clark outside the ''Daily Planet'' headquarters.
+
+== Production ==
+=== Development ===
+[[Ilya Salkind]] had first conceived the idea for a Superman film in late 1973.<ref name=one>{{Cite news | author = Barry Freiman | url = http://www.supermanhomepage.com/movies/movies.php?topic=interview-salkind | title = One-on-One Interview with Producer Ilya Salkind | work = Superman Homepage | date = February 2006 | access-date = September 9, 2008 | archive-date = July 4, 2014 | archive-url = https://web.archive.org/web/20140704005928/http://www.supermanhomepage.com/movies/movies.php?topic=interview-salkind | url-status = live }}</ref> In November 1974, after a long, difficult process with [[DC Comics]], the Superman [[film rights]] were purchased by Ilya, his father [[Alexander Salkind]], and their partner [[Pierre Spengler]]. DC wanted a list of actors that were to be considered for Superman, and approved the producer's choices of [[Muhammad Ali]], [[Al Pacino]], [[James Caan]], [[Steve McQueen]], [[Clint Eastwood]] and [[Dustin Hoffman]].<ref name=saga>Richard Donner, [[Tom Mankiewicz]], Ilya Salkind, [[Pierre Spengler]], [[David Prowse]], ''You Will Believe: The Cinematic Saga of Superman'', 2006, [[Warner Home Video]]</ref> The filmmakers felt it was best to film ''Superman'' and ''[[Superman II]]'' [[Back to back film production|back-to-back]], and to make a [[negative pickup deal]] with [[Warner Bros.]]<ref name=flight>{{cite AV media notes|url=https://www.youtube.com/watch?v=g-tgqMbGulA|title=Taking Flight: The Development of {{''}}Superman{{''}}|others=Richard Donner, [[Tom Mankiewicz]], Christopher Reeve, Margot Kidder, Lynn Stalmaster, [[Marc McClure]]|year=2001|type=Documentary feature|format=DVD|publisher=[[Warner Home Video]]|via=YouTube|access-date=April 7, 2021|archive-date=November 2, 2020|archive-url=https://web.archive.org/web/20201102030606/https://www.youtube.com/watch?v=g-tgqMbGulA|url-status=live}}</ref> [[William Goldman]] was approached to write the screenplay, while [[Leigh Brackett]] was considered. Ilya hired [[Alfred Bester]], who began writing a [[film treatment]]. Alexander felt, however, that Bester was not famous enough, so he hired [[Mario Puzo]] to write the screenplay at a $600,000 salary.<ref name=life>{{Cite book| author = [[Julius Schwartz]]; Brian M. Thomsen| title = Man of Two Worlds: My Life In Science Fiction and Comics| publisher = [[HarperCollins]]| year = 2000| location = New York City| pages = [https://archive.org/details/manoftwoworldsmy00schw/page/135 135–142]| isbn = 0-380-81051-4| chapter = B.O.| chapter-url-access = registration| chapter-url = https://archive.org/details/manoftwoworldsmy00schw/page/135}}</ref><ref name=market /> [[Francis Ford Coppola]], [[William Friedkin]], [[Richard Lester]] (who later directed Superman II and III), [[Peter Yates]], [[John Guillermin]], [[Ronald Neame]] and [[Sam Peckinpah]] were in negotiations to direct. Peckinpah dropped out when he produced a gun during a meeting with Ilya. [[George Lucas]] turned down the offer because of his commitment to ''[[Star Wars (film)|Star Wars]]''.<ref name=Ilya /><ref name=one />
+
+Ilya wanted to hire [[Steven Spielberg]] to direct, but Alexander was skeptical, feeling it was best to "wait until [Spielberg's] big fish opens." ''[[Jaws (film)|Jaws]]'' was very successful, prompting the producers to offer Spielberg the position, but by then Spielberg had already committed to ''[[Close Encounters of the Third Kind]]''.<ref name="one" /> [[Guy Hamilton]] was hired as director, while Puzo delivered his 500-page script for ''Superman'' and ''Superman II'' in July 1975.<ref name="flight" /> [[Jax-Ur]] appeared as one of [[General Zod]]'s [[henchman|henchmen]], with Clark Kent written as a television reporter. Dustin Hoffman, who was previously considered for Superman, turned down [[Lex Luthor]].<ref name="saga" /><ref name="life" />
+
+In early 1975, Brando signed on as Jor-El with a salary of $3.7&nbsp;million and 11.75% of the box office gross profits, totaling $19&nbsp;million. He horrified Salkind by proposing in their first meeting that Jor-El appear as a green [[suitcase]] or a [[bagel]] with Brando's voice, but Donner used flattery to persuade the actor to portray Jor-El himself.<ref name="one" /> Brando hoped to use some of his salary for a proposed 13-part ''[[Roots (1977 miniseries)|Roots]]''-style [[miniseries]] on [[Native Americans in the United States]].<ref>{{Cite book| author= Peter Manso| title = Brando the Biography | publisher =[[Hyperion (publisher)|Hyperion]] |date=November 1995 | isbn = 0-7868-8128-3 | chapter = The Way It's Never Been Done Before}}</ref> Brando had it in his contract to complete all of his scenes in twelve days. He also refused to memorize his dialogue, so [[cue card]]s were compiled across the set. Fellow [[Academy Award for Best Actor|Oscar winner]] Hackman was cast as Lex Luthor days later. The filmmakers made it a priority to shoot all of Brando's and Hackman's footage "because they would be committed to other films immediately."<ref name="flight" /><ref name="one" /> Though the Salkinds felt that Puzo had written a solid story for the two-part film, they deemed his scripts too long and so hired [[Robert Benton]] and [[David Newman (filmmaker)|David Newman]] for rewrite work. Benton became too busy directing ''[[The Late Show (film)|The Late Show]]'', so David's wife [[Leslie Newman|Leslie]] was brought in to help her husband finish writing duties.<ref name="Ilya" /> [[George MacDonald Fraser]] was later hired to do some work on the script, but he says he did little.<ref name="fraser">George MacDonald Fraser, ''The Light's on at Signpost'', HarperCollins 2002 pp. 55–65</ref>
+
+Their script was submitted in July 1976,<ref name="flight" /> and had a [[camp (style)|camp]] tone, including a [[cameo appearance]] by [[Telly Savalas]] as his ''[[Kojak]]'' character. The scripts for ''Superman'' and ''Superman II'' were now at over 400 pages combined.<ref name="Kroll">{{Cite news| author = Jack Kroll | title = ''Superman'' to the Rescue | work = [[Newsweek]] | date = January 1, 1979 | pages = 34–41 }}</ref><ref name="Dick">{{Cite news| author = Daniel Dickholtz | title = Steel Dreams: Interview with Tom Mankiewicz | work = [[Starlog]] | date = December 16, 1998 | pages = 67–71 }}</ref> Pre-production started at [[Cinecittà]] Studios in Rome, with sets starting construction and flying tests being unsuccessfully experimented. "In Italy", producer Ilya Salkind remembered, "we lost about $2&nbsp;million [on flying tests]."<ref name="one" /> Marlon Brando found out he could not film in Italy because of a warrant out for his arrest: a sexual-obscenity charge from ''[[Last Tango in Paris]]''. Production moved to England in late 1976, but Hamilton could not join because he was a [[tax exile]].<ref name="Dick" />
+
+[[Mark Robson (film director)|Mark Robson]] was strongly considered and was in talks to direct, but after seeing ''[[The Omen]]'', the producers hired [[Richard Donner]]. Donner had previously been planning ''[[Damien: Omen II]]'' when he was hired in January 1977 for $1&nbsp;million to direct ''Superman'' and ''Superman II''.<ref name="Hughes" /> Donner felt it was best to start from scratch. "They had prepared the picture for a year and not one bit was useful to me."<ref name="Hughes">{{Cite book| author=David Hughes | title =Comic Book Movies | publisher =[[Virgin Books]] | year =2003 | pages = 5–23 | isbn = 0-7535-0767-6| chapter = Superman: The Movie}}</ref> Donner was dissatisfied with the campy script and brought in [[Tom Mankiewicz]] to perform a rewrite. According to Mankiewicz, "not a word from the Puzo script was used."<ref name="Dick" /> "It was a well-written, but still a ridiculous script. It was 550 pages. I said, 'You can't shoot this screenplay because you'll be shooting for five years'", Donner continued. "That was literally a [[shooting script]] and they planned to shoot all 550 pages. You know, 110 pages is plenty for a script, so even for two features, that was way too much."<ref name="cine">{{Cite magazine| author = Don Shay | title = Richard Donner on ''Superman'' | url = https://archive.org/details/cinefantastique_1970-2002/Cinefantastique%20Vol%2008%20No%204%20%281979%29/page/n11/mode/2up | magazine = [[Cinefantastique]] | date = Summer 1979 | pages = 26–36 | via = [[Internet Archive]]}}</ref> Mankiewicz conceived having each Kryptonian family wear a [[crest (heraldry)|crest]] resembling a different letter, justifying the 'S' on Superman's costume.<ref name="Hughes" /> The [[Writers Guild of America]] refused to credit Mankiewicz for his rewrites, so Donner gave him a [[creative consultant]] credit, much to the annoyance of the Guild.<ref name="Hughes" />
+
+==== Casting of Superman ====
+It was initially decided to first sign an [[A-list]] actor for Superman before Richard Donner was hired as director. [[Robert Redford]] was offered a large sum, but felt he was too famous. [[Burt Reynolds]] also turned down the role, while [[Sylvester Stallone]] was interested, but nothing ever came of it. [[Paul Newman]] was offered his choice of roles as Superman, Lex Luthor or Jor-El for $4&nbsp;million, turning down all three roles.<ref name="Ilya" />
+
+When it was next decided to cast an unknown actor, [[Casting (performing arts)|casting director]] Lynn Stalmaster first suggested [[Christopher Reeve]], but Donner and the producers felt he was too young and skinny.<ref name=flight /> Over 200 unknown actors auditioned for Superman.<ref>{{cite news | author = Peter Coutros | title = Young Actor to Play in Super Role | work = [[Daily News (New York)|New York Daily News]] | date = February 24, 1977 }}</ref>
+
+Olympic champion [[Caitlyn Jenner]] auditioned for the title role.<ref name="Ilya" /> [[Patrick Wayne]] was cast, but dropped out when his father [[John Wayne]] was diagnosed with stomach cancer.<ref name="Hughes" />
+
+Both [[Neil Diamond]] and [[Arnold Schwarzenegger]] lobbied hard for the role, but were ignored. [[James Caan]], [[James Brolin]], [[Lyle Waggoner]], [[Christopher Walken]], [[Nick Nolte]], [[Jon Voight]], and [[Perry King]] were approached.<ref name="Ilya" /><ref name="one" /> [[Kris Kristofferson]] and [[Charles Bronson]] were also considered for the title role.<ref>2001 introduction to Turner Classic Movies broadcast of ''Superman'' by Robert Osbourne, TCM</ref> [[Warren Beatty]] was offered the role but turned it down.<ref>{{cite web |url=http://www.mtv.com/news/2954653/happy-sad-confused-with-legend-warren-beatty/ |title='Happy Sad Confused,' With Legend Warren Beatty |work=MTV News |date=November 17, 2016 |access-date=July 26, 2021 }}</ref>
+
+James Caan said he was offered the part but turned it down. "I just couldn't wear that suit."<ref>{{cite news|title=James Caan's career hitting tough times|author=Siskel, Gene|url=https://www.newspapers.com/newspage/386697430|work=Chicago Tribune|date=November 27, 1977|page=E7|via=[[Newspapers.com]]|access-date=April 7, 2021|archive-date=May 5, 2021|archive-url=https://web.archive.org/web/20210505080302/https://www.newspapers.com/newspage/386697430/|url-status=live}}</ref>
+
+"We found guys with fabulous physique who couldn't act or wonderful actors who did not look remotely like Superman", creative consultant [[Tom Mankiewicz]] remembered. The search became so desperate that producer [[Ilya Salkind]]'s wife's dentist was [[screen test]]ed.<ref name=Ilya /><ref name=one />
+
+Stalmaster convinced Donner and Ilya to have Reeve screen test in February 1977. Reeve stunned the director and producers, but he was told to wear a "muscle suit" to produce the desired muscular physique. Reeve refused,<ref name=screen>{{cite AV media notes|others=Lynn Stalmaster|title=''Superman'': Screen Tests|year=2001|publisher=Warner Home Video}}</ref><ref>{{cite AV media|title=The Making of ''Superman: The Movie''|type=Television special|year=1980|publisher=Film Export, A.G.}}</ref> undertaking a strict [[physical exercise]] regime headed by [[David Prowse]]. Prowse had wanted to portray Superman, but was denied an audition by the filmmakers because he was not American. Prowse also auditioned for [[Non (comics)|Non]]. Reeve went from {{convert|188|lb}} to {{convert|212|lb}} during pre-production and filming.<ref>{{cite book | author=[[David Prowse]] | title =Straight from the Force's Mouth | publisher =Filament Publishing |date=June 2005 | isbn = 978-0-9546531-6-3 | chapter = Chapter 25}}</ref> Reeve earned only $250,000 for both ''Superman'' and ''Superman II'', whilst his veteran co-stars received huge sums of money: $3.7&nbsp;million for Brando and $2&nbsp;million for Hackman for ''Superman I''.{{sfn|Andersen|2008|p=32}} However, Reeve felt, "'Superman' brought me many opportunities, rather than closing a door in my face."<ref>{{cite news | url = http://www.supermanhomepage.com/movies/movies.php?topic=interview-aol-chrisreeve1 | title = AOL Online Chat with Christopher Reeve | work = Superman Homepage | date = May 1, 2001 | access-date = September 10, 2008 | archive-date = October 14, 2008 | archive-url = https://web.archive.org/web/20081014174122/http://www.supermanhomepage.com/movies/movies.php?topic=interview-aol-chrisreeve1 | url-status = live }}</ref> [[Jeff East]] portrays [[Superboy (Kal-El)|teenage Clark Kent]]. East's lines were [[overdubbing|overdubbed]] by Reeve during post-production. "I was not happy about it because the producers never told me what they had in mind", East commented. "It was done without my permission but it turned out to be okay. Chris did a good job but it caused tension between us. We resolved our issues with each other years later."<ref name=East /> East also tore several thigh muscles when performing the stunt of racing alongside the train. He applied 3 to 4 hours of [[prosthetic makeup]] daily to facially resemble Reeve.<ref name=East>{{cite news | author = Steve Younis | url = http://www.supermanhomepage.com/movies/movies.php?topic=interview-jeff-east | title = Exclusive Jeff East Interview | work = Superman Homepage | date = November 17, 2004 | access-date = September 4, 2008 | archive-date = September 1, 2018 | archive-url = https://web.archive.org/web/20180901044821/https://www.supermanhomepage.com/movies/movies.php?topic=interview-jeff-east | url-status = live }}</ref>
+
+=== Filming ===
+[[Principal photography]] began on March 28, 1977, at [[Pinewood Studios]] for Krypton scenes, budgeted as the most expensive film ever made at that point. Since ''Superman'' was being shot simultaneously with ''[[Superman II]]'', filming lasted nineteen months, until October 1978. Filming was originally scheduled to last between seven and eight months, but problems arose during production. [[John Barry (set designer)|John Barry]] served as [[production designer]], while [[Stuart Craig]] and [[Norman Reynolds]] worked as [[art director]]s. [[Derek Meddings]] and [[Les Bowie]] were credited as [[visual effects supervisor]]s. [[Stuart Freeborn]] was the [[make-up artist]], while Barry, [[David Tomblin]], [[John Glen (director)|John Glen]], [[David Lane (director)|David Lane]], [[Robert Lynn (director)|Robert Lynn]] and an uncredited [[Peter Duffell]] and [[André de Toth]]<ref>{{cite book|last=Duffell|first=Peter|title=Playing Piano in a Brothel: Memoirs of a Film Director|year=2010|publisher=BearManor Media|isbn=978-1-59393-612-9}}</ref> directed [[second unit]] scenes. [[Vic Armstrong]] was hired as the [[stunt coordinator]] and Reeve's [[stunt double]]; his wife Wendy Leech was Kidder's double. ''Superman'' was also the final complete film by [[cinematographer]] [[Geoffrey Unsworth]], who died during post-production while working on ''[[Tess (1979 film)|Tess]]'' for director [[Roman Polanski]]. The [[Fortress of Solitude]] was constructed at [[Shepperton Studios]] and at Pinewood's [[007 Stage]].<ref name=legend>Making ''Superman'': Filming The Legend, 2001, [[Warner Home Video]]</ref><ref name=look>{{cite AV media|title=[[Look, Up in the Sky: The Amazing Story of Superman]]|type=Documentary film|year=2006|publisher=Warner Home Video}}</ref> Upon viewing the footage of Krypton, [[Warner Bros.]] decided to distribute in not only North America, but also in foreign countries. Due to complications and problems during filming, Warner Bros. also supplied $20&nbsp;million and acquired [[broadcasting|television rights]].<ref name=market /><ref name=legend />
+
+New York City doubled for Metropolis, while the [[Daily News Building|''New York Daily News'' Building]] served as the location for the offices of the ''[[Daily Planet]]''. [[Brooklyn Heights, Brooklyn|Brooklyn Heights]] was also used.<ref>{{Cite news| author = Peter Coutros | title = Clark Kent Uses Our Lobby for a Phone Booth | work = [[New York Daily News]] | date = June 1977 }}</ref> Filming in New York lasted five weeks, during the time of the [[New York City blackout of 1977]]. Production moved to [[Alberta]] for scenes set in [[Smallville (comics)|Smallville]], with the cemetery scene filmed in the canyon of [[Beynon, Alberta]], the high school football scenes at [[Barons, Alberta]], and the Kent farm constructed at [[Blackie, Alberta]].<ref>The Making of Superman the Movie, David Michael Petrou, New York:Warner Books, 1978.</ref><ref>[[David Michael Petrou]]</ref> Brief filming also took place in [[Gallup, New Mexico]]; [[Lake Mead]]; and [[Grand Central Terminal]].<ref name=comment /> Director Donner had tensions with the Salkinds and Spengler concerning the escalating production budget and the [[shooting schedule]]. [[Creative consultant]] [[Tom Mankiewicz]] reflected, "Donner never got a budget or a schedule. He was constantly told he was way over schedule and budget. At one point he said, 'Why don't you just schedule the film for the next two days, and then I'll be nine months over?'."<ref name=legend /> [[Richard Lester]], who worked with the Salkinds on ''[[The Three Musketeers (1973 live-action film)|The Three Musketeers]]'' and ''[[The Four Musketeers (1974 film)|The Four Musketeers]]'', was then brought in as a temporary co-producer to mediate the relationship between Donner and the Salkinds,<ref name=one /> who by now were refusing to talk to each other.<ref name=legend /> With his relationship with Spengler, Donner remarked, "At one time if I'd seen him, I would have killed him."<ref name=market />
+
+Lester was offered producing credit but refused, going uncredited for his work.<ref name="legend" /> Salkind felt that bringing a second director onto the set meant there would be someone ready in the event that Donner could not fulfill his directing duties. "Being there all the time meant he [Lester] could take over", Salkind admitted. "[Donner] couldn't make up his mind on stuff."<ref name="one" /> On Lester, Donner reflected, "He'd been suing the Salkinds for his money on ''Three'' and ''Four Musketeers'', which he'd never gotten. He won a lot of his lawsuits, but each time he sued the Salkinds in one country, they'd move to another, from Costa Rica to Panama to Switzerland. When I was hired, Lester told me, 'Don't do it. Don't work for them. I was told not to, but I did it. Now I'm telling you not to, but you'll probably do it and end up telling the next guy.' Lester came in as a 'go-between'. I didn't trust Lester, and I told him. He said, 'Believe me, I'm only doing it because they're paying me the money that they owe me from the lawsuit. I'll never come onto your set unless you ask me; I'll never go to your [[dailies]]. If I can help you in any way, call me."<ref name="cine" />
+
+It was decided to stop shooting ''Superman II'' and focus on finishing ''Superman''. Donner had already completed 75% of the sequel.<ref>{{Cite news| author = Richard Fyrbourne | title = The Man Behind ''Superman'': Richard Donner | work = [[Starlog]] | date = January 1979 | pages = 40–44 }}</ref> The filmmakers took a risk: if ''Superman'' was a [[box office bomb]], they would not finish ''Superman II''. The original [[climax (narrative)|climax]] for ''Superman II'' had [[General Zod]], [[Ursa (comics)|Ursa]], and [[Non (comics)|Non]] destroying the planet, with Superman [[time travel]]ing to fix the damage.<ref name="Ilya" />
+
+Donner commented, "I decided if ''Superman'' is a success, they're going to do a sequel. If it ain't a success, a [[cliffhanger]] ain't gonna bring them to see ''Superman II''."<ref name=Hughes />
+
+=== Effects ===
+{{more citations needed section|date=February 2020}}
+{{multiple image
+ | align     = right
+ | direction = vertical
+ | width     =
+ | header    =
+ | footer    =
+ | header_align = left/right/center
+ | footer_align = left/right/center
+ | header_background =
+ | footer_background =
+ | image1    = Superman (1978 film still).jpg
+ | width1    = 240
+ | caption1  = Publicity still emulating screen shot in which Superman (Christopher Reeve), with his traditional suit, flies toward the sky, with Metropolis underneath him.
+ | image2    = Superman movie vid cap2.JPG
+ | width2    = 240
+ | caption2  = Actual screen shot for comparison. Suit has greenish hue, for use with [[Chroma key#Bluescreen|blue-screen effects]].
+}}
+
+''Superman'' contains large-scale [[visual effects]] sequences. The [[Golden Gate Bridge]] [[scale model]] stood {{convert|70|ft|round=5}} long and {{convert|20|ft|0}} tall. Other miniatures included the Krypton Council Dome and the [[Hoover Dam]]. [[Slow motion]] was used to simulate the vast amount of water for the Hoover Dam destruction. The [[Fortress of Solitude]] was a combination of a full-scale set and [[matte painting]]s. The car crashes on the Golden Gate Bridge were a mixture of models and stunt drivers on a disused [[runway]]. [[Superboy (Kal-El)|Young Clark Kent]]'s long-distance [[Punt (gridiron football)|football punt]] was executed with a wooden football loaded into an [[air blaster]] placed in the ground. The Superman costume was to be a much darker blue, but the use of [[chroma key|blue screen]] made it [[transparency (optics)|transparent]].<ref name=magic>The Magic Behind The Cape, 2001, [[Warner Home Video]]</ref>
+
+As detailed in the ''Superman: The Movie'' DVD special effects documentary 'The Magic Behind The Cape', presented by optical effects supervisor [[Roy Field]], in the end, three techniques were used to achieve the flying effects.
+
+For landings and take-offs, wire flying riggings were devised and used. On location, these were suspended from tower cranes, whereas in the studio elaborate rigs were suspended from the studio ceilings. Some of the wire-flying work was quite audacious—the penultimate shot where Superman flies out of the prison yard, for example. Although stuntmen were used, Reeve did much of the work himself, and was suspended as high as {{convert|50|ft|round=5}} in the air. Counterweights and pulleys were typically used to achieve flying movement, rather than electronic or motorized devices. The thin wires used to suspend Reeve were typically removed from the film in post-production using rotoscope techniques, although this wasn't necessary in all shots (in certain lighting conditions or when Superman is very distant in the frame, the wires were more or less imperceptible).
+
+For stationary shots where Superman is seen flying toward or away from the camera, blue screen matte techniques were used. Reeve would be photographed suspended against a blue screen. While a special device made his cape flap to give the illusion of movement, the actor himself would remain stationary (save for banking his body). Instead, the camera would use a mixture of long zoom-ins and zoom-outs and dolly in/dolly outs to cause him to become larger or smaller in the frame. The blue background would then be photochemically removed and Reeve's isolated image would be 'inserted' into a matted area of a background plate shot. The zoom-ins or zoom-outs would give the appearance of flying away or toward the contents of the background plate. The disparity in lighting and color between the matted image and the background plate, the occasional presence of black matte lines (where the [[Matte (filmmaking)|matte area]] and the matted image—in this case, Superman—do not exactly match up), and the slightly unconvincing impression of movement achieved through the use of zoom lenses is characteristic of these shots.
+
+Where the shot is tracking with Superman as he flies (such as in the Superman and Lois Metropolis flying sequence), front projection was used. This involved photographing the actors suspended in front of a background image dimly projected from the front onto a special screen made by 3M that would reflect light back directly into a combined camera/projector. The result was a very clear and intense photographic reproduction of both the actors and the background plate, with far less image deterioration or lighting problems than occur with rear projection.
+
+A technique was developed that combined the [[front projection effect]] with specially designed [[zoom lens]]es.<ref name=magic /> The illusion of movement was created by zooming in on Reeve while making the front projected image appear to recede. For scenes where Superman interacts with other people or objects while in flight, Reeve and actors were put in a variety of rigging equipment with careful lighting and photography.<ref name=magic /> This also led to the creation of the [[Zoptic]] system.<ref>{{Cite news| author = Nicholas Leahy | title = How Superman flies | work = [[Starburst (magazine)|Starburst]] | date = April 1982 | pages = 16–19 }}</ref>
+
+The highly reflective costumes worn by the Kryptonians are made of the same 3M material used for the front projection screens and were the result of an accident during Superman flying tests. "We noticed the material lit up on its own", Donner explained. "We tore the material into tiny pieces and glued it on the costumes, designing a front projection effect for each camera. There was a little light on each camera, and it would project into a mirror, bounce out in front of the lens, hit the costume, [and] millions of little glass beads would light up and bring the image back into the camera."<ref name=Hughes />
+
+=== Music ===
+{{Main|Superman music#Superman}}
+
+[[Jerry Goldsmith]], who scored Donner's ''[[The Omen]]'', was originally set to compose ''Superman''. Portions of Jerry Goldsmith's work from ''[[Planet of the Apes (1968 film)|Planet of the Apes]]'' were used in ''Superman''<nowiki/>'s teaser trailer. He dropped out over scheduling conflicts, and [[John Williams]] was hired. Williams conducted the [[London Symphony Orchestra]] to record the soundtrack.<ref>[http://lso.co.uk/page/3151/LSO-and-Film-Music London Symphony Orchestra and Film Music] {{webarchive |url=https://web.archive.org/web/20110930173905/http://lso.co.uk/page/3151/LSO-and-Film-Music |date=September 30, 2011 }} LSO. Retrieved June 30, 2011</ref> The music was one of the last pieces to come into place. Williams' "Theme from Superman (Main Title)" was released as a single, reaching #81 on the U.S. ''Billboard'' Hot 100 and #69 ''Cash Box''.<ref>{{Cite web |url=http://tropicalglen.com/Archives/70s_files/19790210.html |title=Cash Box Top 100 Singles, February 10, 1979 |access-date=February 17, 2019 |archive-url=https://web.archive.org/web/20150214184656/http://tropicalglen.com/Archives/70s_files/19790210.html |archive-date=February 14, 2015 |url-status=dead }}</ref> Williams liked that the film did not take itself too seriously and that it had a theatrical camp feel to it.<ref name="Ilya">Ilya Salkind, [[Pierre Spengler]], DVD [[audio commentary]], 2006, [[Warner Home Video]]</ref>
+
+Kidder was supposed to sing "Can You Read My Mind?", the lyrics to which were written by [[Leslie Bricusse]], but Donner disliked it and changed it to a composition accompanied by a voiceover.<ref name=comment /> [[Maureen McGovern]] eventually recorded the single, "Can You Read My Mind?" in 1979, although the song did not appear on the film soundtrack. It became a mid-chart hit on the [[Billboard Hot 100|''Billboard'' Hot 100]] that year (#52), spending three weeks at number five on the U.S. Adult Contemporary chart, as well as making lesser appearances on the corresponding Canadian charts. It was also a very minor hit on the U.S. Country chart, reaching #93. Both Williams' and McGovern's singles contained theme music from the score. The score earned John Williams an Academy Award nomination, but he lost to [[Giorgio Moroder]]'s score for ''[[Midnight Express (film)|Midnight Express]]''.<ref>[http://awardsdatabase.oscars.org/ampas_awards/DisplayMain.jsp?curTime=1448874611974 "51st Academy Awards – Music (Original Score)"]{{dead link|date=September 2017 |bot=InternetArchiveBot |fix-attempted=yes }}, ''AwardsDatabase.oscars.org'', Retrieved November 30, 2015</ref>
+
+The soundtrack was originally released as a 2-LP set in December 1978, and the same recording was issued on CD for the first time in 1987 (with the tracks "Growing Up" and "Lex Luthor's Lair" omitted to fit the recording onto one disc).
+
+A re-recording of the score, conducted by [[John Debney]] and performed by the [[Royal Scottish National Orchestra]], was released by [[Varèse Sarabande|Varese Sarabande]] records in 1998. In 2000, an expanded edition of the original score was released on a 2-CD set by [[Rhino Entertainment|Rhino Records]].
+
+In February 2008, [[Film Score Monthly]] released an 8-CD boxed set titled ''Superman: The Music'', including a newly restored complete score on the first two discs, as well as alternates and source cues on disc 8. As part of the film's 40th anniversary in February 2019, La-La Land Records released the fully expanded restoration of Williams' score on a 3-disc set, including the previously issued alternates and source music.<ref>{{Cite web|title=SUPERMAN: THE MOVIE – 40th ANNIV. REMASTERED LIMITED EDITION (3-CD SET)|url=https://lalalandrecords.com/superman-the-movie-40th-anniv-remastered-limited-edition-3-cd-set/|access-date=2020-07-04|website=La-La Land Records|language=en|archive-date=July 16, 2020|archive-url=https://web.archive.org/web/20200716052736/https://lalalandrecords.com/superman-the-movie-40th-anniv-remastered-limited-edition-3-cd-set/|url-status=live}}</ref>
+
+==== Charts ====
+{| class="wikitable sortable"
+|-
+! Chart (1979)
+! Peak<br />position
+|-
+|Australia ([[Kent Music Report]])<ref name=aus>{{cite book|last=Kent|first=David|author-link=David Kent (historian)|title=Australian Chart Book 1970–1992|edition=illustrated|publisher=Australian Chart Book|location=St Ives, N.S.W.|year=1993|isbn=0-646-11917-6|page=282}}</ref>
+| style="text-align:center;"| 57
+|-
+|Canada ''RPM'' Adult Contemporary<ref name="Item Display – RPM – Library and Ar">Collectionscanada.gc.ca</ref>
+| style="text-align:center;"|40
+|-
+|Canada ''[[RPM (magazine)|RPM]]'' Top Singles<ref name="Item Display – RPM – Library and Ar" />
+| style="text-align:center;"|68
+|-
+|U.S. ''[[Billboard (magazine)|Billboard]]'' [[Billboard Hot 100|Hot 100]]<ref>''Joel Whitburn's Top Pop Singles 1955–1990'' - {{ISBN|0-89820-089-X}}</ref>
+| style="text-align:center;"|52
+|-
+|U.S. ''Billboard'' [[Adult Contemporary (chart)|Adult Contemporary]]
+| style="text-align:center;"|5
+|-
+|U.S. ''Billboard'' [[Hot Country Songs|Country]]
+| style="text-align:center;"|93
+|-
+|U.S. [[Cash Box (magazine)|''Cash Box'']] Top 100
+|align="center"|69
+|-
+|}
+
+==== 2000 Rhino complete album ====
+{{Track listing
+| collapsed = yes
+| headline  = Disc One
+| title1    = Prelude and Main Title March**
+| length1   = 5:30
+| title2    = The Planet Krypton**
+| length2   = 6:40
+| title3    = Destruction of Krypton**
+| length3   = 7:52
+| title4    = Star Ship Escapes*
+| length4   = 2:21
+| title5    = The Trip to Earth
+| length5   = 2:29
+| title6    = Growing Up**
+| length6   = 2:35
+| title7    = Death of Jonathan Kent*
+| length7   = 3:24
+| title8    = Leaving Home
+| length8   = 4:52
+| title9    = The Fortress of Solitude**
+| length9   = 9:18
+| title10   = Welcome to Metropolis*
+| length10  = 2:12
+| title11   = Lex Luthor's Lair**
+| length11  = 4:48
+| title12   = The Big Rescue*
+| length12  = 5:55
+| title13   = Super Crime Fighter**
+| length13  = 3:20
+| title14   = Super Rescues**
+| length14  = 2:14
+| title15   = Luthor's Luau (Source)*
+| length15  = 2:48
+| title16   = The Planet Krypton (Alternate)**
+| length16  = 4:25
+| title17   = Main Title March (Alternate)
+| length17  = 4:37
+}}
+{{Track listing
+| collapsed = yes
+| headline  = Disc Two
+| title1    = Superman March (Alternate)**
+| length1   = 3:49
+| title2    = The March of the Villains
+| length2   = 3:36
+| title3    = The Terrace*
+| length3   = 1:34
+| title4    = The Flying Sequence
+| length4   = 8:14
+| title5    = Lois and Clark*
+| length5   = 0:50
+| title6    = Crime of the Century*
+| length6   = 3:24
+| title7    = Sonic Greeting*
+| length7   = 2:22
+| title8    = Misguided Missiles and Kryptonite*
+| length8   = 3:27
+| title9    = Chasing Rockets**
+| length9   = 4:55
+| title10   = Superfeats**
+| length10  = 4:53
+| title11   = Super Dam and Finding Lois**
+| length11  = 5:11
+| title12   = Turning Back the World
+| length12  = 2:07
+| title13   = Finale and End Title March**
+| length13  = 5:42
+| title14   = Love Theme from ''Superman''
+| length14  = 5:06
+| title15   = Can You Read My Mind (Alternate)*
+| length15  = 2:58
+| title16   = The Flying Sequence / Can You Read My Mind
+| length16  = 8:10
+| title17   = Can You Read My Mind (Alternate Instrumental)*
+| length17  = 2:57
+| title18   = Theme from ''Superman'' (Concert Version)
+| length18  = 4:24
+}}
+
+: * Previously unreleased selection
+: ** Contains previously unreleased material
+
+== Themes ==
+{{See also|Christ figure}}
+{{quote box
+| quote="You will travel far, my little Kal-El. But we will never leave you, even in the face of our deaths. The richness of our lives shall be yours. All that I have, all that I've learned, everything I feel—all this and more I bequeath you, my son. You will carry me inside you all the days of your life. You will make my strength your own, and see my life through your eyes, as your life will be seen through mine. The son becomes the father and the father the son. This is all I, all I can send you, Kal-El."
+| source = &nbsp;– Jor-El
+| align = right
+| width = 30em
+}}
+
+''Superman'' is divided into three basic sections, each having a distinct theme and visual style. The first segment, set on Krypton, is meant to be typical of [[science fiction films]], but also lays the groundwork for an analogy that emerges in the relationship between Jor-El and Kal-El. The second segment, set in Smallville, is reminiscent of 1950s films, and its small-town atmosphere is meant to evoke a [[Norman Rockwell]] painting. The third (and largest) segment, set mostly in Metropolis, was an attempt to present the superhero story with as much realism as possible (what Donner called "verisimilitude"), relying on traditional cinematic drama and using only subtle humor instead of a [[camp (style)|campy]] approach.<ref name=comment>Richard Donner, [[Tom Mankiewicz]], DVD [[audio commentary]], 2001, [[Warner Home Video]]</ref>
+
+In each of the three acts, the mythic status of Superman is enhanced by events that recall the hero's journey (or [[monomyth]]) as described by [[Joseph Campbell]]. Each act has a discernible cycle of "call" and journey. The journey is from Krypton to Earth in the first act, from Smallville to the Fortress of Solitude in the second act, and then from Metropolis to the whole world in the third act.<ref>{{cite journal|last=Stucky|first=Mark|title=The Superhero's Mythic Journey: Death and the Heroic Cycle in Superman|journal=Journal of Religion and Film|year=2006|volume=10|issue=2|url=http://www.unomaha.edu/jrf/Vol10No2/Stucky_Superman.htm|access-date=May 10, 2013|url-status=dead|archive-url=https://web.archive.org/web/20130618040335/http://www.unomaha.edu/jrf/Vol10No2/Stucky_Superman.htm|archive-date=June 18, 2013}}</ref>
+
+Many have noted the examples of apparent Christian symbolism. Donner, [[Tom Mankiewicz]] and Ilya Salkind have commented on the use of [[religious perspectives on Jesus|Christian references]] to discuss the themes of ''Superman''.<ref name="comment" /><ref name=Ilya /> Mankiewicz deliberately fostered analogies with Jor-El ([[El (god)|God]]) and [[Superman|Kal-El]] (Jesus).<ref name=Dick /> Donner is somewhat skeptical of Mankiewicz's actions, joking "I got enough [[death threat]]s because of that."<ref name=comment />
+
+Several concepts and items of imagery have been used in [[Bible|Biblical]] comparisons. Jor-El casts out [[General Zod]] from Krypton, a parallel to [[War in Heaven|the casting out]] of [[Satan]] from [[Heaven]].<ref name=comment /> The [[spacecraft]] that brings Kal-El to Earth is in the form of a star ([[Star of Bethlehem]]). Kal-El comes to [[Ma and Pa Kent|Jonathan and Martha Kent]], who are unable to have children. [[Martha Kent]] states, "All these years how we've prayed and prayed that the good Lord would see fit to give us a child", which was compared to [[Mary (mother of Jesus)|the Virgin Mary]].<ref name=comment />
+
+Just as little is known about Jesus during his middle years, Clark travels into the wilderness to find out who he is and what he has to do. Jor-El says, "Live as one of them, Kal-El, to discover where your strength and power are needed. But always hold in your heart the pride of your special heritage. They can be a great people, Kal-El, and they wish to be. They only lack [[Light of the World|the light to show the way]]. For this reason above all, their capacity for good, I have sent them you, my only son."<ref name=comment /> The theme resembles the Biblical account of God sending his only son Jesus to Earth in hope for the good of mankind. More were seen when Donner was able to complete ''[[Superman II: The Richard Donner Cut]]'', featuring [[Crucifixion of Jesus|the fall]], [[Resurrection of Jesus|resurrection]] and his [[Harrowing of Hell|battle with evil]]. Another vision was that of ''[[The Creation of Adam]]''.<ref name=comment />
+
+The Christian imagery in the Reeve films has provoked comment on the Jewish origins of Superman. Rabbi [[Simcha Weinstein]]'s book ''[[Up, Up and Oy Vey]]: How Jewish History, Culture and Values Shaped the Comic Book Superhero'', says that Superman is both a pillar of society and one whose cape conceals a "nebbish", saying "He's a bumbling, nebbish Jewish stereotype. He's [[Woody Allen]]."<ref name="neb">{{Cite news|author=Michael Elkin |title=Super ... Mensch? |url=http://www.jewishexponent.com/article/10036 |work=[[The Jewish Exponent]] |date=July 6, 2006 |access-date=November 1, 2008 |url-status=dead |archive-url=https://web.archive.org/web/20081013013543/http://www.jewishexponent.com/article/10036/ |archive-date=October 13, 2008 }}</ref><ref name="Allen">{{Cite news | work = Contact Music | url = http://www.contactmusic.com/new/xmlfeed.nsf/mndwebpages/superman%20is%20jewish_1000359 | title = Clark Kent&nbsp;– Superman is 'Jewish' | date = June 20, 2006 | access-date = November 1, 2008 | archive-date = December 24, 2008 | archive-url = https://web.archive.org/web/20081224093031/http://www.contactmusic.com/new/xmlfeed.nsf/mndwebpages/superman%20is%20jewish_1000359 | url-status = live }}</ref> Ironically, it is also in the Reeve films that Clark Kent's persona has the greatest resemblance to Woody Allen, though his conscious model was [[Cary Grant]]'s character in ''[[Bringing Up Baby]]''. This same theme is pursued about 1940s superheroes generally in ''Disguised as Clark Kent: Jews, Comics, and the Creation of the Superhero'' by [[Danny Fingeroth]].<ref name=neb /><ref name=Allen />
+
+In the scene where Lois Lane interviews Superman on the balcony, Superman replies, "I never lie." Salkind felt this was an important point in the film, since Superman, living under his [[secret identity]] as Clark Kent, is "telling the biggest lie of all time." [[Relationship of Clark Kent and Lois Lane|His romance with Lois]] also leads him to contradict Jor-El's orders to avoid [[alternate history|altering human history]], [[time travel]]ing to save her from dying. Superman instead takes the advice of Jonathan Kent, his father on Earth.<ref name=Ilya />
+
+== Release ==
+
+''Superman'' was originally scheduled to be released in June 1978, the 40th anniversary of ''[[Action Comics 1]]'', which first introduced Superman, but the problems during filming pushed the film back by six months. Editor [[Stuart Baird]] reflected, "Filming was finished in October 1978 and it is a miracle we had the film released two months later. Big-budgeted films today tend to take six to eight months."<ref name=legend /> Donner, for his part, wished that he had "had another six months; I would have perfected a lot of things. But at some point, you've gotta turn the picture over."<ref name=cine />
+
+[[Warner Bros. Pictures]] spent $6–7&nbsp;million on marketing the film.<ref name="market">{{Cite news | author = Ivor Davis | url = https://archive.macleans.ca/issue/19781211#!&pid=46 | title = Marketing of Superman | work = [[Maclean's]] | date = December 11, 1978 | pages = 22–26 | access-date = October 2, 2018 | archive-date = October 2, 2018 | archive-url = https://web.archive.org/web/20181002102343/https://archive.macleans.ca/issue/19781211#!&pid=46 | url-status = live }}</ref> ''Superman'' premiered at the [[Uptown Theater (Washington, D.C.)|Uptown Theater]] in Washington, D.C. on December 10, 1978,<ref>{{Cite web|url=https://www.usatoday.com/story/life/people/2018/08/08/superman-actress-margot-kidder-death-suicide/942170002/|title='Superman' actress Margot Kidder's death is ruled a suicide|last=Henderson|first=Cydney|date=2018-08-09|website=USA Today|access-date=2018-12-09|archive-date=August 9, 2018|archive-url=https://web.archive.org/web/20180809011839/https://www.usatoday.com/story/life/people/2018/08/08/superman-actress-margot-kidder-death-suicide/942170002/|url-status=live}}</ref>{{not in citation|date=September 2022}} with director Richard Donner and several cast members in attendance. Three days later, on December 13, it had a European Royal Charity Premiere at the [[Empire, Leicester Square]] in London in the presence of [[HM Queen Elizabeth II|Queen Elizabeth II]] and [[Prince Andrew]].{{citation needed|date=February 2020}}
+
+== Reception ==
+
+=== Box office ===
+
+The film set a new all-time U.S. industry record for business during a pre-Christmas week with $12 million, and set new records for Warner Bros. for their best opening day ($2.8 million) and three-day weekend ($7.5 million).<ref>{{Cite news| title ='Superman' gross leaps over $12 mil in a single week | work = [[The Hollywood Reporter]] | date = December 26, 1978 | page = 1}}</ref> In the week of December 22–28, it set an all-time U.S. weekly record of $18.5 million.<ref>{{Cite news| title =WB shatters industry marks with $29 mil 7-day boxoffice | work = [[The Hollywood Reporter]] | date = January 2, 1979 | page = 1}}</ref> It also set a record single day gross for Warner Bros. with a gross of $3.8 million.<ref>{{cite magazine|magazine=[[Variety (magazine)|Variety]]|page=3|date=December 31, 1980|title='Any Which' In New Single Day WB High}}</ref> In its third weekend it grossed $13.1 million for the four day holiday weekend setting a record 18 day gross of $43.7 million.<ref>{{Cite news| title ='Superman' adds more records to his collection | work = [[Variety (magazine)|Daily Variety]] | date = January 3, 1979 | page = 1}}</ref>
+
+Including re-releases, it went on to gross $134.5&nbsp;million in the United States and Canada, and $166&nbsp;million internationally, totaling $300.5&nbsp;million worldwide.<ref name= BOM /> ''Superman'' was the [[1978 in film|highest-grossing film of 1978 in North America]], and became the sixth-highest-grossing film of all time after its theatrical run. It was also [[Warner Bros.]]'s most successful film at the time.<ref name=legend />
+
+=== Critical response ===
+According to [[Rotten Tomatoes]], {{RT data|score}} of {{RT data|count}} critics gave ''Superman'' a positive review, with an average rating of {{RT data|average}}. The website's critical consensus reads, "''Superman'' deftly blends humor and gravitas, taking advantage of the perfectly cast Reeve to craft a loving, nostalgic tribute to an American pop culture icon."<ref>{{Cite web|url=https://www.rottentomatoes.com/m/superman_the_movie|title=Superman: The Movie (1978)|website=[[Rotten Tomatoes]]|publisher=[[Fandango Media|Fandango]]|access-date={{RT data|access date}}|archive-url=https://web.archive.org/web/20140115161049/http://www.rottentomatoes.com/m/superman_the_movie/|archive-date=January 15, 2014|url-status=live}}{{RT data|edit}}</ref> [[Metacritic]] assigned the film a weighted average score of 81 out of 100, based on 19 critics, indicating "universal acclaim".<ref>{{Cite web | url = http://www.metacritic.com/movie/superman | title = Superman Reviews | work = [[Metacritic]] | access-date = September 1, 2008 | archive-date = September 2, 2010 | archive-url = https://web.archive.org/web/20100902165801/http://www.metacritic.com/movie/superman | url-status = live }}</ref> The film was widely regarded as one of top 10 films of 1978.<ref>{{Cite web |url=http://www.filmsite.org/1978.html |title=The Greatest Films of 1978 |publisher=Filmsite.org |access-date=May 22, 2010 |archive-date=December 10, 2005 |archive-url=https://web.archive.org/web/20051210070316/http://www.filmsite.org/1978.html |url-status=live }}</ref><ref>{{Cite web |url=http://www.film.com/features/story/10-best-movies-of-1978/14955431 |title=The 10 Best Movies of 1978 |publisher=Film.com |access-date=May 22, 2010 |archive-date=July 1, 2010 |archive-url=https://web.archive.org/web/20100701173433/http://www.film.com/features/story/10-best-movies-of-1978/14955431 |url-status=live }}</ref><ref>{{Cite web |url=http://www.films101.com/y1978r.htm |title=The Best Movies of 1978 by Rank |publisher=Films101.com |access-date=May 22, 2010 |archive-date=March 22, 2016 |archive-url=https://web.archive.org/web/20160322213531/http://www.films101.com/y1978r.htm |url-status=live }}</ref> ''Superman'' creators [[Jerry Siegel]] and [[Joe Shuster]] gave a positive reaction.<ref name=saga /> Shuster was "delighted to see Superman on the screen. I got chills. Chris Reeve has just the right touch of humor. He really is Superman."<ref name=Kroll />
+
+[[Roger Ebert]] gave the film four out of four stars. Although describing the Krypton scenes as "ponderous" ("Brando was allegedly paid $3 million for his role, or, judging by his dialogue, $500,000 a cliché"), Ebert wrote that "''Superman'' is a pure delight, a wondrous combination of all the old-fashioned things we never really get tired of: adventure and romance, heroes and villains, earthshaking special effects, and -- you know what else? Wit". He praised Reeve, stating that he "sells the role; wrong casting here would have sunk everything", and concluded that the film "works so well because of its wit and its special effects".<ref>{{Cite news |last=Ebert |first=Roger |title=Superman |work=Chicago Sun-Times |via=[[RogerEbert.com]] |url=https://www.rogerebert.com/reviews/superman |date=December 15, 1978 |access-date=September 5, 2020 |archive-date=September 25, 2020 |archive-url=https://web.archive.org/web/20200925005949/https://www.rogerebert.com/reviews/superman |url-status=live }}</ref> Ebert placed the film on his ten best list of 1978.<ref>{{Cite news|title=Ebert's 10 Best Lists: 1967–present |work=Chicago Sun-Times |url=http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20041215/COMMENTARY/41215001/1023 |access-date=May 22, 2010 |url-status=dead |archive-url=https://web.archive.org/web/20060908200137/http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=%2F20041215%2FCOMMENTARY%2F41215001%2F1023 |archive-date=September 8, 2006}}</ref> He would later go on to place it on his "Great Movies" list.<ref>{{Cite news |website=RogerEbert.com |last=Ebert |first=Roger |author-link=Roger Ebert |date=November 4, 2010 |title=Great Movies: Superman |url=https://www.rogerebert.com/reviews/great-movie-superman-1978 |access-date=November 6, 2010 |archive-date=April 17, 2013 |archive-url=https://web.archive.org/web/20130417100255/http://www.rogerebert.com/reviews/great-movie-superman-1978 |url-status=live }}</ref> [[Gene Siskel]] of the ''[[Chicago Tribune]]'' gave the film three stars out of four, calling it "a delightful mess. Good performances. Sloppy editing. Cheap nonflying special effects. Funny dialog. In sum, 'Superman' is the kind of picture critics tear apart, but still say, 'You ought to see it.{{' "}}<ref>{{cite news |last=Siskel |first=Gene |date=December 15, 1978 |url=https://www.newspapers.com/clip/43707803/gene-siskel-movie-reviewsuperman/ |title=Too many cooks spoil the froth: Sloppy 'Superman' is a fun but fumbling film |work=[[Chicago Tribune]] |at=Section 6, pp. [https://www.newspapers.com/clip/43707816/gene-siskel-movie-reviewsuperman/ 1–2] |archive-url=https://web.archive.org/web/20210505080245/https://www.newspapers.com/clip/43707803/gene-siskel-movie-reviewsuperman/ |archive-date=May 5, 2021 |via=[[Newspapers.com]] |url-status=live}} {{Open access}}</ref>
+
+James Harwood of ''[[Variety (magazine)|Variety]]'' called the film "a wonderful, chuckling, preposterously exciting fantasy", and further added: "As both the wholesome man of steel and his bumbling secret identity Clark Kent, Reeve is excellent."<ref>{{cite magazine |last=Harwood |first=James |url=https://variety.com/1978/film/reviews/superman-1200424325/ |title=Film Reviews: Superman |magazine=[[Variety (magazine)|Variety]] |date=December 13, 1978 |page=13 |access-date=April 6, 2021 |archive-date=February 26, 2021 |archive-url=https://web.archive.org/web/20210226224633/https://variety.com/1978/film/reviews/superman-1200424325/ |url-status=live }}</ref> [[Vincent Canby]] of ''[[The New York Times]]'' wrote in a mixed review, "The Superman comic strip has been carefully, elaborately, sometimes wittily blown up for the big-theater screen, which, though busy, often seems sort of empty."<ref>{{cite news |last=Canby |first=Vincent |url=https://www.nytimes.com/1978/12/15/archives/screen-its-a-bird-its-a-plane-its-a-movie.html |title=Screen: It's a Bird, It's a Plane, It's a Movie |work=[[The New York Times]] |page=C15 |date=December 15, 1978 |access-date=April 6, 2021 |archive-date=February 2, 2021 |archive-url=https://web.archive.org/web/20210202224656/https://www.nytimes.com/1978/12/15/archives/screen-its-a-bird-its-a-plane-its-a-movie.html |url-status=live }}</ref> [[Charles Champlin]] of the ''[[Los Angeles Times]]'' called the film "a big letdown", praising Reeve as "the salvaging strength of the film" but referring to the matter of the villain as "an essential problem", finding that "even in a succession of wigs, Gene Hackman is not preposterous, funny or dementedly menacing, and what he's doing here is not evident."<ref>{{cite news |last=Champlin |first=Charles |date=December 15, 1978 |url=https://www.newspapers.com/clip/75216639/the-los-angeles-times/ |title=Man of Steel, Feat of Clay |work=[[Los Angeles Times]] |at=Part IV, pp. 1, 18 |archive-url=https://web.archive.org/web/20210505080233/https://www.newspapers.com/clip/75216639/the-los-angeles-times/ |archive-date=May 5, 2021 |via=Newspapers.com |url-status=live}} {{Open access}}</ref> Gary Arnold of ''[[The Washington Post]]'' wrote in a positive review, "Despite a lull here and a lapse there, this superproduction turns out to be prodigiously inventive and enjoyable, doubly blessed by sophisticated illusionists behind the cameras and a brilliant new stellar personality in front of the cameras—Christopher Reeve, a young actor at once handsome and astute enough to rationalize the preposterous fancy of a comic-book superhero in the flesh."<ref>{{cite news |last=Arnold |first=Gary |title=Look! Up on the Screen! |url=https://www.washingtonpost.com/archive/lifestyle/1978/12/15/look-up-on-the-screen-its-superman-a-classy-cliffhanger/203141ca-4ac8-4fad-9528-8b2313a14e4b/ |newspaper=The Washington Post |page=E1 |date=December 15, 1978 |archive-url=https://web.archive.org/web/20220309172554/https://www.washingtonpost.com/archive/lifestyle/1978/12/15/look-up-on-the-screen-its-superman-a-classy-cliffhanger/203141ca-4ac8-4fad-9528-8b2313a14e4b/ |archive-date=March 9, 2022 |url-status=live }}</ref>
+
+Writing in a retrospective review, [[James Berardinelli]] believed "there's no doubt that it's a flawed movie, but it's one of the most wonderfully entertaining flawed movies made during the 1970s. It's exactly what comic book fans hoped it would be. Perhaps most heartening of all, however, is the message at the end of the credits announcing the impending arrival of ''[[Superman II]]''."<ref>{{Cite web | last=Berardinelli | first=James | title=Superman | url=http://preview.reelviews.net/movies/s/superman.html | website=ReelViews | access-date=July 14, 2017 | archive-date=March 28, 2020 | archive-url=https://web.archive.org/web/20200328172532/http://preview.reelviews.net/movies/s/superman.html | url-status=live }}</ref> [[Harry Knowles]] is a longtime fan of the film, but was critical of elements that did not represent the Superman stories as seen in the comics.<ref>{{Cite news | last = Knowles | first = Harry | url = http://legacy.aintitcool.com/node/13404 | title = Harry talks with JJ Abrams for a Couple of Hours about ''Superman'' | website = [[Ain't It Cool News]] | date = September 28, 2002 | access-date = July 14, 2017 | archive-date = January 25, 2021 | archive-url = https://web.archive.org/web/20210125083333/http://legacy.aintitcool.com/node/13404 | url-status = live }}</ref> [[Neal Gabler]] similarly felt that the film focused too much on shallow comedy. He also argued that the film should have adhered more to the spirit of Mario Puzo's original script, and referred to the first three Superman films collectively as "simply puffed-up TV episodes."<ref>{{cite news | first = Dan | last = Hagen | date = January 1988 | title = Neal Gabler | work = [[Comics Interview]] | issue = 54 | pages = 61–63 | publisher = [[Fictioneer Books]]}}</ref>
+
+=== Accolades ===
+''Superman'' was nominated for three [[Academy Award]]s: [[Academy Award for Best Film Editing|Best Film Editing]] ([[Stuart Baird]]), [[Academy Award for Best Original Score|Best Original Score]] ([[John Williams]]) and [[Academy Award for Best Sound|Best Sound]] ([[Gordon K. McCallum]], [[Graham V. Hartstone]], [[Nicolas Le Messurier]] and [[Roy Charman]])<ref name="Oscars1979">{{Cite web|title=The 51st Academy Awards (1979) Nominees and Winners|url=http://www.oscars.org/oscars/ceremonies/1979|url-status=live|archive-url=https://web.archive.org/web/20150402004111/http://www.oscars.org/oscars/ceremonies/1979|archive-date=April 2, 2015|access-date=October 6, 2011|work=oscars.org}}</ref> and received a [[Special Achievement Academy Award]] for its [[visual effects]]. Donner publicly expressed disgust that [[production designer]] [[John Barry (set designer)|John Barry]] and [[cinematographer]] [[Geoffrey Unsworth]] had not been recognized by the [[Academy of Motion Picture Arts and Sciences|Academy]].<ref name="Hughes" />
+
+''Superman'' was also successful at the [[32nd British Academy Film Awards]]. Reeve won [[BAFTA Award for Best Newcomer|Best Newcomer]], while Hackman, Unsworth, Barry, and the [[sound design]]ers earned nominations.<ref>{{Cite web|title=Film in 1979 {{!}} BAFTA Awards|url=http://awards.bafta.org/award/1979/film|access-date=2021-07-12|website=awards.bafta.org}}</ref> The film won the [[Hugo Award for Best Dramatic Presentation]].<ref>{{Cite web|date=2007-07-26|title=1979 Hugo Awards|url=http://www.thehugoawards.org/hugo-history/1979-hugo-awards/|access-date=2021-07-12|website=The Hugo Awards|language=en-US}}</ref> At the [[Saturn Award]]s, Kidder, Barry, [[John Williams]], and the [[visual effects]] department received awards, and the film won [[Saturn Award for Best Science Fiction Film|Best Science Fiction Film]].<ref>{{Cite web|title=Past Saturn Award Recipients|url=http://www.saturnawards.org/The-Saturn-Awards-Past-Winners.php?category=1&year=1978#b|access-date=2021-07-12|website=www.saturnawards.org}}</ref> Reeve, Hackman, Donner, [[Valerie Perrine]], and [[costume designer]] [[Yvonne Blake]] were nominated for their work as well.{{citation needed|date=December 2015}} In addition, Williams was nominated at the [[36th Golden Globe Awards]] and won the [[Grammy Award for Best Score Soundtrack for Visual Media]].<ref>{{Cite web|title=Superman|url=https://www.goldenglobes.com/film/superman|access-date=2021-07-12|website=www.goldenglobes.com}}</ref>
+
+{|class="wikitable"
+|-
+! Organization
+! Category
+! Result
+!Ref.
+|-
+| rowspan="4" | [[51st Academy Awards|Academy Awards]]
+| [[Academy Award for Best Film Editing|Best Film Editing]]
+| {{Nom}}
+| rowspan="4" |<ref>{{Cite web|title=The 51st Academy Awards {{!}} 1979|url=https://www.oscars.org/oscars/ceremonies/1979|access-date=2021-07-12|website=Oscars.org {{!}} Academy of Motion Picture Arts and Sciences|language=en}}</ref>
+|-
+| [[Academy Award for Best Original Score|Best Original Score]]
+| {{Nom}}
+|-
+| [[Academy Award for Best Sound|Best Sound]]
+| {{Nom}}
+|-
+| [[Academy Award for Best Visual Effects|Best Visual Effects]] ([[Special Achievement Academy Award|Special Achievement]])
+| {{Won}}
+|-
+| rowspan="6" | [[32nd British Academy Film Awards|British Academy Film Awards]]
+| [[BAFTA Award for Best Actor in a Supporting Role|Best Actor in a Supporting Role]]
+| {{Nom}}
+| rowspan="6" |<ref>{{Cite web|title=Film in 1979 {{!}} BAFTA Awards|url=http://awards.bafta.org/award/1979/film|access-date=2021-07-12|website=awards.bafta.org}}</ref>
+|-
+| [[BAFTA Award for Best Cinematography|Best Cinematography]]
+| {{Nom}}
+|-
+| [[BAFTA Award for Best Production Design|Best Production Design]]
+| {{Nom}}
+|-
+| [[BAFTA Award for Best Sound|Best Sound]]
+| {{Nom}}
+|-
+| [[BAFTA Award for Most Promising Newcomer to Leading Film Roles|Most Promising Newcomer to Leading Film Roles]]
+| {{Won}}
+|-
+| [[BAFTA Outstanding British Contribution to Cinema Award|Outstanding British Contribution to Cinema Award]]
+| {{Won}}
+|-
+| [[36th Golden Globe Awards|Golden Globe Awards]]
+| [[Golden Globe Award for Best Original Score|Best Original Score]]
+| {{Nom}}
+|<ref>{{Cite web|title=Winners & Nominees 1979|url=https://www.goldenglobes.com/winners-nominees/1979|access-date=2021-07-12|website=www.goldenglobes.com|language=en}}</ref>
+|-
+| rowspan="8" | [[6th Saturn Awards|Saturn Awards]]
+| [[Saturn Award for Best Science Fiction Film|Best Science Fiction Film]]
+| {{Won}}
+| rowspan="8" |<ref>{{Cite web|title=Academy of Science Fiction, Fantasy & Horror Films, USA (1979)|url=http://www.imdb.com/event/ev0000004/1979/1/|access-date=2021-07-12|website=IMDb}}</ref>
+|-
+| [[Saturn Award for Best Director|Best Director]]
+| {{Nom}}
+|-
+| [[Saturn Award for Best Actor|Best Actor]]
+| {{Nom}}
+|-
+| [[Saturn Award for Best Actress|Best Actress]]
+| {{Won}}
+|-
+| [[Saturn Award for Best Supporting Actress|Best Supporting Actress]]
+| {{Nom}}
+|-
+| [[Saturn Award for Best Costume Design|Best Costume Design]]
+| {{Nom}}
+|-
+| [[Saturn Award for Best Music|Best Music]]
+| {{Won}}
+|-
+| [[Saturn Award for Best Special Effects|Best Special Effects]]
+| {{Won}}
+|}
+
+== Television and home media ==
+{{more citations needed section|date=February 2020}}
+
+=== The extended TV version ===
+While, by contract, Richard Donner had major editorial control over what was theatrically released, the Salkinds had editorial control on what was shown outside of theaters. This was the result of deals that had been made between the producers and the [[American Broadcasting Company|ABC]] television network prior to the film's release. Financially, the more footage that was restored for television, the more revenue that could be made for the broadcast (the producers charged by the minute for every bit of footage added back in). During production of the film, Alexander and Ilya Salkind had been relegated to having to sell more and more of their rights back to Warner Bros. in exchange for financial help,<ref>{{Cite web|title=ALEX AND ILYA SALKIND – IN INTERVIEW – BY HARLAN KENNEDY|url=https://www.americancinemapapers.com/files/SUPER_SALKINDS.htm|access-date=2021-07-26|website=www.americancinemapapers.com}}</ref> which is why Warner Bros. would have theatrical and home video distribution rights. So by 1981, when the television rights reverted to the Salkinds, the producers had already prepared a 3-hour-and-8-minute version that actually had been the first version of the film visually locked down prior to being re-edited for theatrical release. This extended cut, which would be utilized for worldwide television distribution, reincorporated some 45 minutes of footage and music deleted from the theatrical cut. Networks and stations could then re-edit their own version at their discretion. This edit is commonly known as the "Salkind International Television Cut".
+
+ABC aired the broadcast television debut of ''Superman'' over two nights in February 1982, with a majority of the unused footage. The 182-minute network cut (which was slightly cut down for content) was repeated in November of that same year, this time in its entirety in one evening. The remaining two ABC broadcasts were presented in its original theatrical version.
+
+When the TV rights reverted to [[Warner Bros.]] in 1985, [[CBS]] aired the film one last time on network television in its theatrical version. When the movie entered the [[Broadcast syndication|syndication]]<ref>{{cite web|title=Monday, May 14th. 7:00–10:00&nbsp;pm- WPIX New York airs the theatrical version of 'Superman The Movie'|url=http://www.supermanii.com/siiweb/sii%20behind-the-scenes/SMT_194.html|url-status=dead|archive-url=https://web.archive.org/web/20110205082009/http://www.supermanii.com/siiweb/sii%20behind-the-scenes/SMT_194.html|archive-date=February 5, 2011|access-date=November 30, 2010|publisher=Supermanii.com}}</ref> market in 1988 (following a play-out run on pay cable<ref name="The Salkind International Cut">[https://web.archive.org/web/20200807155329/http://www.capedwonder.com/newwebsite/pages/si-ii.htm The Salkind International Cut at CapedWonder.com]</ref><ref>{{cite web|title=HBO premieres the theatrical version of 'Superman The Movie'. Sunday, October 12th.- 7:00–9:30&nbsp;pm. Thursday, October 16th.- 7:30–10:00&nbsp;pm. Monday, October 20th.- 9:00–11:30&nbsp;pm. Saturday, October 25th.- 3:30–6:00&nbsp;pm. Wednesday, October 29th. – 11:30 p.m-2:00 a.m|url=http://www.supermanii.com/siiweb/sii%20behind-the-scenes/SMT_157.html|url-status=dead|archive-url=https://web.archive.org/web/20110205081634/http://www.supermanii.com/siiweb/sii%20behind-the-scenes/SMT_157.html|archive-date=February 5, 2011|access-date=March 11, 2011|publisher=Supermanii.com}}</ref>) TV stations were offered the extended cut or the theatrical cut. The stations that showed the extended cut<ref name="The Salkind International Cut" /> edited the second half to add more advertising time and "previously on{{nbsp}}..." cutback scenes just as ABC had done in 1982.
+
+In 1994 (following a pay-cable reissue and its obligatory run on [[USA Network]]), [[Warner Bros. Television]] syndicated the full 188-minute international television version, most famously on Los Angeles station [[KCOP]]. The most notable additions unseen on U.S. television were two additional scenes never seen before, in addition to what had been previously reinstated.<ref name="DVD">{{Cite news|last=Freiman|first=Barry|date=January 2006|title=Special Edition Superman DVDs on the Way|work=Superman Homepage|url=http://www.supermanhomepage.com/movies/movies.php?topic=interview-salkind-SE|url-status=live|access-date=September 8, 2008|archive-url=https://web.archive.org/web/20100107052950/http://www.supermanhomepage.com/movies/movies.php?topic=interview-salkind-SE|archive-date=January 7, 2010}}</ref> This version also surfaced outside of Los Angeles. For example, [[WJLA-TV|WJLA]] Channel 7, an ABC affiliate in Washington, D.C., aired the extended cut in July 1994. Because its first known airing was on the aforementioned KCOP, it is also known in fan circles as the "KCOP Version".
+
+There were various extended TV versions each broadcast in various countries. Most of these are in [[pan and scan]], as they were made in the 1980s, when films were not letterboxed to preserve the theatrical aspect ratio on old TVs.
+
+Until 2017, it was thought the quality of the extended network TV version was inferior to any theatrical or previous home video release because it was mastered in [[16mm]] (using the "[[film chain system]]") and a [[Monophonic sound|mono]] sound mix done, as by the time the extended cut was prepared in 1981, stereo was not available in television broadcasts (16&nbsp;mm television prints were, in fact, made and mastered on NTSC Standard Definition video for the initial ABC network broadcasts). However, during an inventory of the Warner Bros. library, an [[interpositive|IP master]] of the full 188-minute television version was discovered. This eighteen-reel master was not marked with an aspect ratio, but the print was inspected and, as it turned out, was in the proper 2.35:1 [[Panavision]] ratio. This was the source of the [[Warner Archive Collection]] Blu-Ray release of what would officially be called the "Superman: The Movie Extended Cut", issued on October 3, 2017.<ref>{{cite web|title=The Three-Hour Extended Cut of Superman: The Movie Is Finally Getting a Home Release|url=https://io9.gizmodo.com/the-three-hour-extended-cut-of-superman-the-movie-is-f-1818543643|url-status=live|archive-url=https://web.archive.org/web/20170919205409/https://io9.gizmodo.com/the-three-hour-extended-cut-of-superman-the-movie-is-f-1818543643|archive-date=September 19, 2017|access-date=September 19, 2017|website=gizmodo.com}}</ref> The video release was visually restored by WB's imaging department, and, other than the opening and end credits (which are in true stereo), the film is presented in an enhanced version of the mono TV sound mix. This particular release also includes another version discussed below.
+
+Richard Donner was critical of this extended cut of the film. He called this version of the film "terrible," saying it "was nothing more than an assembly." He said he cut the bad material out of the movie and that the producers and Warner Bros. added it back in just "to make a buck."<ref>{{cite podcast|host=Spocklight: A Star Trek Podcast|title=Supplemental 6: Interview with Richard Donner|website=Spocklight The Audio Podcast|publisher=PodBean|date=5 December 2017|time=56:25|url=https://spocklight.podbean.com/e/supplemental-6-interview-with-richard-donner/|access-date=23 April 2021|archive-date=April 23, 2021|archive-url=https://web.archive.org/web/20210423003636/https://spocklight.podbean.com/e/supplemental-6-interview-with-richard-donner/|url-status=live}}</ref>
+
+=== Other editions ===
+When Michael Thau and [[Warner Home Video]] started working on a [[film restoration]] in 2000, only eight minutes of the added footage that had been used in the TV cut could be considered restored into a version that director Richard Donner called his preferred version of the film. Thau determined that some of the extra footage could not be added because of poor visual effects. Thau felt "the pace of the film's storyline would be adversely affected [and there were] timing problems matching [footage] with John Williams' musical score, etc… The cut of the movie shown on KCOP was put together to make the movie longer when shown on TV as the Television Station paid per minute to air the movie. The "[[Special Edition]]" cut is designed for the best viewing experience in the true spirit of movie making."<ref name="paid per minute">{{Cite web|title=Superman "Special Edition" Interview|url=http://www.supermanhomepage.com/movies/movies.php?topic=interview-michael-thau1|url-status=live|archive-url=https://web.archive.org/web/20100107052937/http://www.supermanhomepage.com/movies/movies.php?topic=interview-michael-thau1|archive-date=January 7, 2010|access-date=July 14, 2017|work=Superman Homepage}}</ref> There was a special test screening of the Special Edition in 2001 in [[Austin, Texas]], on March 23 with plans for a possible wider theatrical release later that year, which did not occur.<ref>{{Cite news|author=Jim Bowers|date=March 29, 2001|title=Superman San Antonio Report|work=Superman Homepage|url=http://www.supermanhomepage.com/news/2001-news/2001-news-movie.php?topic=2001-news-movie/0329|url-status=live|access-date=April 20, 2009|archive-url=https://web.archive.org/web/20190330070609/https://www.supermanhomepage.com/news/2001-news/2001-news-movie.php?topic=2001-news-movie%2F0329|archive-date=March 30, 2019}}</ref> In May 2001, Warner Home Video released the special edition on DVD.<ref>{{Cite web|title=Superman: The Movie (1978)|url=https://www.amazon.com/dp/B000059Z8J|url-status=live|archive-url=https://web.archive.org/web/20210316075759/https://www.amazon.com/dp/B000059Z8J|archive-date=March 16, 2021|access-date=September 7, 2008|work=[[Amazon.com|Amazon]]}}</ref> Director Donner also assisted, working slightly over a year on the project. The release included [[making-of]] documentaries directed by Thau and eight minutes of restored footage.<ref name="plot">{{Cite news|last=Freiman|first=Barry|date=December 2006|title=Interview with Michael Thau|work=Superman Homepage|url=http://www.supermanhomepage.com/movies/movies.php?topic=interview-michael-thau2|url-status=live|access-date=July 14, 2017|archive-url=https://web.archive.org/web/20110527170325/http://www.supermanhomepage.com/movies/movies.php?topic=interview-michael-thau2|archive-date=May 27, 2011}}</ref>
+
+Thau explained, "I worked on ''[[Ladyhawke (film)|Ladyhawke]]'' and that's how I really met Dick [Donner] and [[Tom Mankiewicz]]. I used to hear those wonderful stories in the cutting room that Tom and Dick and [[Stuart Baird|Stuart]] would tell about ''Superman'' and that's how I kind of got the ideas for the plots of 'Taking Flight' and 'Making Superman'".<ref name="plot" /> Donner commented, "There are a few shots where Chris [Reeve]'s costume looked green. We went in and cleaned that up, bringing the color back to where it should be."<ref name="ex">{{Cite news|last=Younis|first=Steve|date=March 27, 2001|title=Exclusive Richard Donner Interview|work=Superman Homepage|url=http://www.supermanhomepage.com/movies/movies.php?topic=interview-richard-donner|url-status=live|access-date=July 14, 2017|archive-url=https://web.archive.org/web/20110604151336/http://www.supermanhomepage.com/movies/movies.php?topic=interview-richard-donner|archive-date=June 4, 2011}}</ref> Thau wanted to make the film shorter: "I wanted to take out the damn poem where Lois is reciting a poem ("Can You Read My Mind") when they're flying around. I also wanted to take out a lot of that car chase where it was just generic action... It was like a two-minute car chase. But Dick didn't want to take [that] out [or] the poem."<ref name="plot" /> It was followed by a [[box set]] release in the same month, containing "bare bones" editions of ''Superman II'', ''Superman III'', and ''Superman IV: The Quest for Peace''.<ref>{{Cite web|title=The Complete Superman Collection|url=https://www.amazon.com/dp/B000059Z8L|url-status=live|archive-url=https://web.archive.org/web/20210505080230/https://www.amazon.com/dp/B000059Z8L|archive-date=May 5, 2021|access-date=September 7, 2008|work=[[Amazon.com|Amazon]]}}</ref> In November 2006, a four-disc special edition was released,<ref>{{Cite web|title=Superman: The Movie (4-disc special edition)|url=https://www.amazon.com/dp/B000IJ79UW|url-status=live|archive-url=https://web.archive.org/web/20210128131839/http://www.amazon.com/dp/B000IJ79UW|archive-date=January 28, 2021|access-date=September 7, 2008|work=[[Amazon.com|Amazon]]}}</ref> followed by an [[HD DVD]] release<ref>{{Cite web|title=Superman: The Movie (4-disc special edition HD DVD)|url=https://www.amazon.com/dp/B000I2JKEC|url-status=live|archive-url=https://web.archive.org/web/20210505080226/https://www.amazon.com/dp/B000I2JKEC|archive-date=May 5, 2021|access-date=September 7, 2008|work=[[Amazon.com|Amazon]]}}</ref> and [[Blu-ray]].<ref>{{Cite web|title=Superman: The Movie (Blu-ray)|url=https://www.amazon.com/dp/B000K4X5XA|url-status=live|archive-url=https://web.archive.org/web/20210505080217/https://www.amazon.com/dp/B000K4X5XA|archive-date=May 5, 2021|access-date=September 7, 2008|work=[[Amazon.com|Amazon]]}}</ref> Also available (with other films) is the nine-disc "Christopher Reeve Superman Collection"<ref>{{Cite web|title=The Christopher Reeve Superman Collection|url=https://www.amazon.com/dp/B000IJ79VQ|url-status=live|archive-url=https://web.archive.org/web/20210505080226/https://www.amazon.com/dp/B000IJ79VQ|archive-date=May 5, 2021|access-date=September 7, 2008|work=[[Amazon.com|Amazon]]}}</ref> and the 14-disc "Superman Ultimate Collector's Edition".<ref>{{Cite web|title=Superman Ultimate Collector's Edition|url=https://www.amazon.com/dp/B000J10ERE|url-status=live|archive-url=https://web.archive.org/web/20210505080228/https://www.amazon.com/dp/B000J10ERE|archive-date=May 5, 2021|access-date=September 7, 2008|work=[[Amazon.com|Amazon]]}}</ref>
+
+On November 6, 2018 (following year-long worldwide revival theatrical screenings to commemorate the 40th anniversary of the film's original release), Warner Bros. Home Entertainment released an [[Ultra HD Blu-ray]] of ''Superman'' presented in a new [[Dolby Vision]] transfer of the original theatrical version straight from the original camera negative, with its original [[70mm]]/six-track stereo mix rendered in 5.1 surround, in addition to the 2000 remix in [[Dolby Atmos]]. This new release also includes a standard Blu-Ray of the theatrical cut, plus select bonus features carried over from previous video releases, and digital copies of both the theatrical and three-hour TV versions.
+
+== Legacy ==
+In 2007, the [[Visual Effects Society]] listed ''Superman'' as the 44th-most influential use of visual effects of all time.<ref>{{Cite web|date=May 10, 2007|title=The Visual Effects Society Unveils 50 Most Influential Visual Effects Films of All Time|url=http://www.visualeffectssociety.com/documents/ves50revelfin.pdf|archive-url=https://web.archive.org/web/20080625175321/http://www.visualeffectssociety.com/documents/ves50revelfin.pdf|archive-date=June 25, 2008|access-date=September 1, 2008|work=[[Visual Effects Society]]}}</ref> In 2008, ''[[Empire (film magazine)|Empire]]'' magazine named it the 174th-greatest film of all time on its list of 500.<ref>{{Cite web|title=The 500 Greatest Movies of All Time|url=http://www.empireonline.com/500/63.asp|url-status=live|archive-url=https://web.archive.org/web/20120120071940/http://www.empireonline.com/500/63.asp|archive-date=January 20, 2012|access-date=September 29, 2008|work=[[Empire (film magazine)|Empire]]}}</ref> In 2009, ''[[Entertainment Weekly]]'' ranked Superman 3rd on their list of ''The All-Time Coolest Heroes in Pop Culture''.<ref>{{cite magazine|title=''Entertainment Weekly's'' 20 All-Time Coolest Heroes in Pop Culture|url=http://www.ew.com/ew/gallery/0,,20268279_18,00.html|url-status=live|magazine=[[Entertainment Weekly]]|archive-url=https://web.archive.org/web/20100819224331/http://www.ew.com/ew/gallery/0,,20268279_18,00.html|archive-date=August 19, 2010|access-date=May 22, 2010}}</ref>
+
+With the film's success, it was immediately decided to finish ''[[Superman II]]''. Ilya and Alexander Salkind and [[Pierre Spengler]] did not ask Donner to return because Donner had criticized them during the film's publicity phase.<ref name="Ilya" /> Donner commented in January 1979, "I'd work with Spengler again, but only on my terms. As long as he has nothing to say as the producer, and is just liaison between Alexander Salkind and his money, that's fine. If they don't want it on those terms, then they need to go out and find another director, it sure as shit ain't gonna be me."<ref name="cine" /> Kidder, who portrayed Lois Lane, was dissatisfied by the producers' decision,<ref name="legend" /> and also criticized the Salkinds during publicity. Kidder said that as a result, she was only given a [[cameo appearance]] for ''Superman III'', and not a main supporting role.<ref>{{Cite news|author=Barry Freiman|date=February 8, 2005|title=One-on-One with Margot Kidder|work=Superman Homepage|url=http://www.supermanhomepage.com/movies/movies.php?topic=interview-expo-kidder|url-status=live|access-date=September 9, 2008|archive-url=https://web.archive.org/web/20110527170508/http://www.supermanhomepage.com/movies/movies.php?topic=interview-expo-kidder|archive-date=May 27, 2011}}</ref> [[Jack O'Halloran]], who portrayed [[Non (DC Comics)|Non]], stated, "It was great to work with Donner. Richard Lester was as big an asshole as the Salkinds."<ref>{{Cite news|author=Steve Younis|date=October 25, 2001|title=Exclusive Jack O'Halloran Interview|work=Superman Homepage|url=http://www.supermanhomepage.com/movies/movies.php?topic=interview-jack-ohalloran|url-status=live|access-date=September 10, 2008|archive-url=https://web.archive.org/web/20110527170225/http://www.supermanhomepage.com/movies/movies.php?topic=interview-jack-ohalloran|archive-date=May 27, 2011}}</ref> Two more films, ''[[Superman III]]'' (1983) and ''[[Superman IV: The Quest for Peace]]'' (1987), were produced. Donner's vision for ''Superman II'' was eventually realized nearly three decades later, when he supervised the editing of [[Superman II: The Richard Donner Cut]], which was released in 2006.<ref name="look" /> In the same year, Donner and writer [[Geoff Johns]] wrote "[[Last Son (comics)|Last Son]]", a comic book story arc in Action Comics featuring Superman.<ref>{{Cite web|date=2012-03-09|title=SUPERMAN: LAST SON|url=https://www.dccomics.com/graphic-novels/action-comics-1938/superman-last-son-0|access-date=2021-07-12|website=DC|language=en}}</ref> Unused footage of Marlon Brando as Jor-El, discovered during the restoration of Superman II: The Richard Donner Cut, was used in ''[[Superman Returns]]'' (2006).<ref name="look" />
+
+Because ''Superman'' went into production prior to the releases of ''[[Star Wars (film)|Star Wars]]'' (May 1977) and ''[[Close Encounters of the Third Kind]]'' (November 1977), some observers credit the three films collectively for launching the reemergence of a large market for [[science fiction film]]s
+[[List of science fiction films of the 1980s|in the 1980s]]. This is certainly the view of ''Superman'' producer Ilya Salkind and some who have interviewed him,<ref name="Ilya" /><ref name="one" /> as well as of film production assistant Brad Lohan.<ref>{{cite web|author=Brad Lohan|title=What If "Star Wars" Had Never Been Made?|url=http://www.entertainmentbuff.com/culture/what-if-star-wars-had-never-been-made/|url-status=dead|archive-url=https://web.archive.org/web/20110710193902/http://www.entertainmentbuff.com/culture/what-if-star-wars-had-never-been-made/|archive-date=July 10, 2011|access-date=January 26, 2011|publisher=Entertainment Buff}}</ref> Other observers of film history tend to credit the resurgence of science fiction films simply to the Lucas and Spielberg productions, and see ''Superman'' as the first of the new cycle of films launched by the first two.<ref>{{cite book|last=Drate|first=Spencer|title=VFX Artistry: A Visual Tour of How the Studios Create Their Magic|author2=Judith Salavetz|publisher=Focal Press|year=2009|isbn=978-0-240-81162-8|page=164}}</ref> Ilya Salkind denies any connection between ''Superman''—which began filming in March 1977—and the other films, stating that "I did not know about '<nowiki/>''Star Wars''<nowiki/>'; '<nowiki/>''Star Wars''<nowiki/>' did not know about '<nowiki/>''Superman''<nowiki/>'; '<nowiki/>''Close Encounters''<nowiki/>' did not know about '''Superman''.' It really was completely independent—nobody knew anything about anybody."<ref name="one" /> ''Superman'' also established the [[superhero film]] genre as viable outside the production of low-budget Saturday matinee serials. Director [[Christopher Nolan]] cited Richard Donner's vision and scope of ''Superman'' when pitching the concept for ''[[Batman Begins]]'' to Warner Bros. in 2002.<ref name="journeybegins">''The Fire Rises: The Creation and Impact of the Dark Knight Trilogy'' [Blu-ray, 2013]</ref>
+
+In 2021, DC Comics revived the [[Fictional universe|continuity]] of the 1978 film with their ''[[Superman '78]]'' comic book series, emulating the look of the Christopher Reeve films. The series picks up where the first two films left off, thereby acting as a direct sequel.<ref>{{cite web|last1=Rolph|first1=Ben|title=Brainiac Arrives in Superman '78 First Look Preview|url=https://screenrant.com/superman-78-cover-brainiac-christopher-reeve-lex-luthor/|access-date=4 June 2021|website=ScreenRant}}</ref>
+
+The film inspired [[The Kinks]]' 1979 song "[[(Wish I Could Fly Like) Superman]]", when the band's main songwriter, [[Ray Davies]], watched the film in late 1978.<ref name="story">{{cite book|author=Hasted, N.|url=https://archive.org/details/storyofkinksyour0000hast|title=You Really Got Me: The Story of The Kinks|publisher=Omnibus Press|year=2011|isbn=978-1-84938-660-9|url-access=registration}}</ref>
+
+The film is recognized by [[American Film Institute]] in these lists:
+* 2003: [[AFI's 100 Years...100 Heroes & Villains]]:
+** [[Superman]] (Clark Kent) – #26 Hero<ref>{{cite web|title=AFI's 100 Years...100 Heroes & Villains|url=http://www.afi.com/Docs/100Years/handv100.pdf|url-status=live|archive-url=https://web.archive.org/web/20140328082215/http://www.afi.com/Docs/100Years/handv100.pdf|archive-date=March 28, 2014|access-date=August 14, 2016|publisher=[[American Film Institute]]}}</ref>
+
+In December 2017, the film was selected for preservation by the United States [[Library of Congress]] [[National Film Registry]], for being "culturally, historically or aesthetically significant".<ref>{{cite web|date=December 13, 2017|title='Titanic,' 'The Goonies,' 'Field of Dreams,' 'Memento' Added to National Film Registry|url=https://variety.com/2017/film/news/the-goonies-titanic-field-of-dreams-die-hard-national-film-registry-1202638298/|url-status=live|archive-url=https://web.archive.org/web/20171213101146/http://variety.com/2017/film/news/the-goonies-titanic-field-of-dreams-die-hard-national-film-registry-1202638298/|archive-date=December 13, 2017|access-date=December 13, 2017|work=Variety}}</ref>
+
+== References ==
+{{Reflist}}
+
+<references />
+
+=== Cited works ===
+* {{cite book|last=Andersen|first=Christopher|author-link=Christopher Andersen|title=Somewhere in Heaven: The Remarkable Love Story of Dana and Christopher Reeve|publisher=Hyperion|year=2008}}
+
+== External links ==
+{{Wikiquote|Superman (1978 film)}}
+* {{Official website|https://www.warnerbros.com/movies/superman-movie/|Official site}}
+* {{IMDb title|0078346|Superman}}
+* {{AllMovie title|66900}}
+* {{Rotten Tomatoes|superman_the_movie}}
+* {{Metacritic film}}
+* {{TCMDb title|91973}}
+* {{AFI film|57040}}
+
+{{Superman in popular media}}
+{{DC Comics films}}
+{{Richard Donner}}
+{{Mario Puzo}}
+{{Grammy Award for Best Score Soundtrack for Visual Media}}
+{{Hugo Award for Best Dramatic Presentation}}
+{{Saturn Award for Best Science Fiction Film}}
+{{Authority control}}
+{{DEFAULTSORT:Superman (Film)}}
+<!--[[WP:FILMCAT]]-->
+<!--Year categories-->
+<!-- DO NOT ADD DISTRIBUTOR CATEGORIES TO THIS ARTICLE. SUPERMAN WAS INDEPENDENTLY DISTRIBUTED BY LOTS OF COMPANIES AND CATEGORIES SHOULD ONLY BE ADDED IF THE FILM HAD A MAIN DISTRIBUTOR. -->
+[[Category:1978 films]]
+[[Category:1970s action films]]
+[[Category:1970s coming-of-age films]]
+[[Category:1970s science fiction films]]
+[[Category:1970s American films]]
+[[Category:British action films]]
+[[Category:British coming-of-age films]]
+[[Category:British fantasy adventure films]]
+[[Category:British science fiction films]]
+[[Category:American action films]]
+[[Category:American coming-of-age films]]
+[[Category:American fantasy adventure films]]
+[[Category:American science fiction films]]
+[[Category:American superhero films]]
+[[Category:1970s superhero films]]
+[[Category:1970s English-language films]]
+[[Category:English-language Swiss films]]
+[[Category:English-language Panamanian films]]
+<!--Primary grouping categories-->
+[[Category:Superman films]]
+<!--Company categories-->
+[[Category:Films shot at Pinewood Studios]]
+<!--Setting categories-->
+[[Category:Films set in Kansas]]
+[[Category:Films set in Los Angeles]]
+[[Category:Films set in New York City]]
+[[Category:Films set in Nevada]]
+[[Category:Films set in San Francisco]]
+[[Category:Films set in the San Francisco Bay Area]]
+[[Category:Films set on fictional planets]]
+<!--Filming location categories-->
+[[Category:Films shot in Alberta]]
+[[Category:Films shot in New Mexico]]
+[[Category:Films shot in New York City]]
+<!--Additional categories-->
+[[Category:BAFTA winners (films)]]
+[[Category:Films about nuclear war and weapons]]
+[[Category:Films about time travel]]
+[[Category:Films directed by Richard Donner]]
+[[Category:Films scored by John Williams]]
+[[Category:Hugo Award for Best Dramatic Presentation winning works]]
+[[Category:Films with screenplays by Mario Puzo]]
+[[Category:Films with screenplays by David Newman (screenwriter)]]
+[[Category:Films with screenplays by Leslie Newman]]
+[[Category:Films with screenplays by Robert Benton]]
+[[Category:Films with screenplays by Tom Mankiewicz]]
+[[Category:United States National Film Registry films]]
+[[Category:Warner Bros. films]]
+[[Category:Superman (1978 film series)]]
+[[Category:Films produced by Pierre Spengler]]
+[[Category:Swiss coming-of-age films]]
+[[Category:Swiss science fiction films]]
+[[Category:Swiss adventure films]]
+[[Category:Panamanian science fiction films]]
+[[Category:Swiss action films]]
+[[Category:British superhero films]]
+[[Category:1970s British films]]

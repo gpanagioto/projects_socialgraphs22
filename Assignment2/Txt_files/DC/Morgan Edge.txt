@@ -1,0 +1,80 @@
+{{short description|Fictional DC comics character}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|character_name = Morgan Edge
+|image          = Morgan Edge (circa 1970).png
+|caption        = Morgan Edge as he first appeared.<br>Art by [[Jack Kirby]].
+|publisher      = [[DC Comics]]
+|debut          = ''[[Superman's Pal, Jimmy Olsen]]'' #133 (October 1970)
+|creators       = [[Jack Kirby]] (writer & artist)
+|real_name      = Morris Edelstein
+|species        = [[Human]]
+|homeworld      = <!-- optional -->
+|alliances      = [[Intergang]]<br>[[Galaxy Communications (comics)|Galaxy Communications]]<br>[[Superman Revenge Squad]]
+|aliases        = <!-- optional: actual identities the character uses, not nicknames -->
+|supports       = <!-- optional -->
+|}}
+'''Morgan Edge''' is a fictional character appearing in [[American comic book]]s published by [[DC Comics]]. Originally a supporting character, he is a media mogul who acquires ''[[The Daily Planet]]'' and employs [[Clark Kent]] as a television journalist for his WGBS TV network. After the ''[[Crisis on Infinite Earth]]'' series which led to a revision of the [[DC Universe]], the character was changed to a [[Superman]] villain and one of the known leaders of [[Intergang]].<ref>{{cite book |last1=Greenberger |first1=Robert |last2=Pasko |first2=Martin |title=The Essential Superman Encyclopedia |date=2010 |publisher=[[Del Rey Books]]|location=New York City|isbn=978-0-345-50108-0 |pages=81–83}}</ref>
+
+[[Adrian Pasdar]] portrayed Morgan Edge in the [[Arrowverse]] series ''[[Supergirl (TV series)|Supergirl]]''. In ''[[Superman & Lois]]'', [[Adam Rayner]] played a version of the character who is also Superman's Kryptonian half-brother named Tal-Rho.
+
+==Publication history==
+Morgan Edge first appeared in ''[[Superman's Pal, Jimmy Olsen]]'' #133 and was created by [[Jack Kirby]].<ref name=Guide>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Korte |first3=Steve |last4=Manning |first4=Matt |last5=Wiacek |first5=Win |last6=Wilson |first6=Sven |title=The DC Comics Encyclopedia: The Definitive Guide to the Characters of the DC Universe |date=2016 |publisher=DK Publishing |isbn=978-1-4654-5357-0 |page=99}}</ref> Kirby based his physical appearance on actor [[Kevin McCarthy (actor)|Kevin McCarthy]], while his personality was inspired by television executive [[James T. Aubrey]].<ref name="back91">{{cite journal|last=Wells|first=John |title=Bullies and Blowhards of the DC Bronze Age |journal=[[Back Issue!]]|issue=#91|pages=15–16 |publisher=[[TwoMorrows Publishing]]| date=September 2016|location=Raleigh, North Carolina}}</ref> According to Kirby's production assistant [[Mark Evanier]], Kirby "wanted to explore the theme of organized crime gaining a foothold in corporate America - particularly a giant media conglomerate. Given the shady background of [[Kinney National Company|the company]] that acquired [[Warner Bros.]] and [[DC Comics|DC]], it was something of an inside joke".<ref name="back91"/> However, under prodding from editorial staff who preferred Edge to be an ongoing supporting character rather than a villain who would ultimately have to be brought to justice (and thus written out of the series), the "Morgan Edge" connected to [[Intergang]] was revealed to be an imposter.<ref name="back91"/>
+
+==Fictional character biography==
+===Pre-Crisis===
+In his original incarnation, Edge was the president of the Galaxy Broadcasting System (owners of television station WGBS), the media corporation which eventually bought the ''[[Daily Planet]]''. Edge was in many ways a stereotype of a ruthless capitalist, intervening in the ''Planet''{{'}}s homey atmosphere and challenging the authority of the somewhat older [[Perry White]], but he was a decent man who had moments of good-heartedness and maintained reasonably friendly relationships with most of his employees, including [[Superman|Clark Kent]]. Following the takeover of the ''Planet'', Edge transferred Kent to the news division, making him a traveling correspondent and later anchorman on WGBS. This move added several TV co-workers to the ''Superman'' supporting cast, including fretful producer Josh Coyle, sports broadcaster [[Steve Lombard]],<ref name="superman264">{{Cite comic | writer = Cary Bates | penciller = Curt Swan | inker = Murphy Anderson | story = Secret of the Phantom Quarterback! | title = '''Superman''' | volume =  | issue = #264 | date = '''June 1973''' | publisher = '''DC Comics''' | location =  | page =  | panel =  | id = }}</ref> weather forecaster Oscar Asherman, and co-anchor [[Lana Lang]] (who had been one of Clark's childhood friends in [[Smallville (comics)|Smallville]]).
+
+As one of the wealthiest men in [[Metropolis (comics)|Metropolis]], Edge was a major political figure in the city and frequently encountered [[Superman]], the subject of many of his network's news stories, whom he, like most others, failed to realize was also Clark Kent. Although rarely integral to a plotline, Edge was a supporting character in many Superman stories.
+
+For a while it appeared that Edge was connected to the [[Apokolips]]-sponsored crime organisation [[Intergang]], but this was revealed to be a clone created by the 'Evil Factory', a genetics laboratory working for Darkseid.<ref>''Superman's Pal Jimmy Olsen'' #152 (September 1972)</ref> For example, this clone attempted to have [[Jimmy Olsen]], the [[Guardian (DC Comics)|Guardian]] and, incidentally, a random ''Daily Planet'' employee named Goody Rickels, a [[Don Rickles]] lookalike, murdered as part of a cover-up.<ref>''Superman's Pal, Jimmy Olsen'' #139 (August 1971). DC Comics.</ref>
+
+It was later revealed that Morgan Edge's birth name was '''Morris Edelstein'''. After he won his first TV station in a game of poker, Morris Edelstein changed his name to Morgan Edge because he was ashamed of his lower-class Jewish background and kept the details of his past closely guarded.<ref>''Action Comics'' #468. DC Comics.</ref>
+
+===Post-Crisis===
+When DC [[continuity (fiction)|continuity]] was rebooted after the ''[[Crisis on Infinite Earths]]'', Edge remained president of WGBS, but his ties to the ''Planet'' and friendship with Superman were [[retcon]]ned away, and he was genuinely connected to Intergang. He was eventually exposed by the ''Daily Planet'', in articles by Clark Kent and [[Cat Grant]], who was working for WGBS undercover. Edge was imprisoned, but even managed to cause trouble there by publishing his [[autobiography]] ''On the Edge'', which dumped upon his father [[Vincent Edge]] as well as Cat Grant, revealing that she slept her way into a scoop. After his release from jail, Morgan Edge returned as sponsor of the [[Superman Revenge Squad]]. Prior to his imprisonment, one of his actions generated much fan anger, in which Edge sadistically and gleefully ran over a [[raccoon]] on the road, prompting one fan to write in saying "[[Lex Luthor]] treats people like animals, but even he does not run them over intentionally".
+
+Recently, Morgan Edge has resurfaced as a powerful media pundit, with the show ''Edge of Reason'', where he gives off anti-Kryptonian spin for [[Sam Lane (comics)|General Lane]]. He is also seen in a "flash-forward" panel in ''Adventure Comics'' (vol. 2) #1, making a mysterious deal with [[Despero]].<ref>''Adventure Comics'' (vol. 2) #1. DC Comics.</ref>
+
+===The New 52===
+In 2011, "[[The New 52]]" rebooted the DC universe. Morgan Edge appears as a powerful and self-centered media mogul and the new owner of the ''Daily Planet'', he is seen as the sponsor of the [[Challengers of the Unknown]] program before they all leave due to his ruthless business strategy. This version of Morgan Edge is depicted as a bald [[African American]] man with a goatee.<ref>''Superman'' (vol. 3) #1 (October 2011). DC Comics.</ref> Although a tough businessman, Edge did recognize talent, and awarded Lois Lane the editorship of the ''Daily Planet''.
+
+Edge's multiple media holdings become a benefit to Superman as Lois Lane, now director of Edge's Metropolis news station, has said building's security cameras "hacked" to provide vital intelligence on a rampaging villain.<ref>''Superman'' (vol. 3) #2 (December 2011). DC Comics.</ref>
+
+Prior to ''[[DC Rebirth]]'', in the last issue of the 2011 Justice League series, it is mentioned that [[Lex Luthor]] had bought the Daily Planet from him.<ref>''Justice League'' (vol. 2) #52. DC Comics.</ref>
+
+==In other media==
+* A character inspired by Morgan Edge named '''Bill Church, Jr.''' appeared in ''[[Lois & Clark: The New Adventures of Superman]]'',{{citation needed|date=May 2022}} portrayed by [[Bruce Campbell]]. Similarly to Edge, Church Jr. is the head of [[Intergang]] and owns a TV station called "Multiworld Communications" as well as a supermarket chain to help him launder money. Additionally, he has a father named Bill Church, Sr. (portrayed by [[Peter Boyle]]) and a wife named Mindy Church (portrayed by [[Jessica Collins]]).
+* Morgan Edge appears in ''[[Smallville]]'', portrayed by [[Rutger Hauer]] (original likeness) and by [[Patrick Bergin]] (surgically-altered likeness). This version is a [[Metropolis (comics)|Metropolis]] crime lord and an old friend of [[Lionel Luthor]], who he grew up with in [[Suicide Slum]]. After learning [[Clark Kent (Smallville)|Clark Kent]] stole money from one of Edge's gangs while under the influence of Red [[Kryptonite]], Edge recruits Clark to steal a package, which the latter later discovers is his own blood sample, from Lionel's LuthorCorp office. When [[Jonathan and Martha Kent|Jonathan Kent]] destroys the sample, Edge takes him and [[Jonathan and Martha Kent|Martha Kent]] hostage in retaliation. Clark procures a new sample from himself and gives it to Edge, who in turn gives it to Lionel, promising to give him the source. Edge's thugs kidnap Clark and attempt to bring him to Metropolis, but the latter escapes. Lionel, believing he was betrayed, orders his security to kill Edge, who is presumed dead, but secretly found by [[Lex Luthor (Smallville)|Lex Luthor]]. Now in hiding, Edge undergoes plastic surgery, but later conspires with Lionel to break Lex's psyche. While attempting to kill Lex, Edge is killed.
+* Morgan Edge appears in the ''[[Justice League (TV series)|Justice League]]'' episode "Secret Society" Pt. 1, voiced by an uncredited [[Brian George]]. This version is a collector of unique oddities and displays no moral qualms against collecting sentient beings.
+* Morgan Edge appears in the [[Supergirl (season 3)|third season]] of ''[[Supergirl (TV series)|Supergirl]]'', portrayed by [[Adrian Pasdar]].<ref>{{cite web|url=http://tvline.com/2017/07/22/supergirl-season-3-spoilers-adrian-pasdar-yael-grobglas-cast/|title=Supergirl Season 3 Adds Adrian Pasdar, Yael Grobglas and Alias' Carl Lumbly|first1=Andy|last1=Swift|date=22 July 2017}}</ref> This version is an amoral real estate developer who runs Edge Global.
+* {{anchor|Tal-Rho}}Morgan Edge appears in ''[[Superman & Lois]]'', portrayed by [[Adam Rayner]].<ref>{{cite web|url=https://deadline.com/2020/12/superman-and-lois-adam-rayner-as-series-regular-morgan-edge-the-cw-1234658041/|title='Superman & Lois' Adds 'Tyrant' Star Adam Rayner As Morgan Edge|first1=Dino-Ray|last1=Ramos|date=December 17, 2020}}</ref> This version is a Kryptonian named '''Tal-Rho''', the son of [[Lara (character)|Lara Lor-Van]] and Zeta-Rho (portrayed by A.C. Peterson) and the maternal half-brother of [[Clark Kent (Superman & Lois)|Superman]]. Like Superman, Tal-Rho was also sent off of Krypton in an escape pod, which landed in England, where he immediately came into conflict with the local townspeople. He was captured and experimented on, but later managed to escape, causing him to hate mankind. In the intervening years, he developed the identity of "Morgan Edge", an intelligent, eloquent, and impassioned self-made mogul and the head of EnerCorp and Galaxy Holdings, as well as a plot to resurrect Krypton on Earth by implanting Kryptonian consciousnesses into human hosts using X-Kryptonite and the [[Eradicator (DC Comics)|Eradicator]], only to be defeated by Superman and [[Steel (John Henry Irons)|John Henry Irons]] and remanded to a cell with red solar lighting.
+** A [[Bizarro]] version of Tal-Rho appears in the episode "Bizarros in a Bizarro World", also portrayed by Rayner. He is married to his version of [[Lana Lang]] and is on good terms with Bizarro. The Bizarro Tal-Rho is later killed by [[Parasite (comics)|Ally Allston]].
+
+==See also==
+* [[List of Superman enemies]]
+
+==References==
+<references/>
+
+==External links==
+* [http://www.supermanhomepage.com/comics/who/who-intro.php?topic=edge-morgan Superman Homepage: Morgan Edge]
+* [http://www.dcuguide.com/chronology.php?name=morganedgeprec DCU Guide: Morgan Edge Pre-Crisis chronology]
+* [http://www.dcuguide.com/chronology.php?name=morganedgeclone DCU Guide: Morgan Edge Clone Pre-Crisis chronology]
+* [http://www.dcuguide.com/chronology.php?name=morganedge DCU Guide: Morgan Edge Post-Crisis chronology]
+{{Clear}}
+
+{{Superman characters}}
+{{Darkseid}}
+{{Jack Kirby}}
+
+{{DEFAULTSORT:Edge, Morgan}}
+[[Category:DC Comics male supervillains]]
+[[Category:Fictional businesspeople]]
+[[Category:Comics characters introduced in 1970]]
+[[Category:Fictional gangsters]]
+[[Category:Characters created by Jack Kirby]]
+[[Category:Clone characters in comics]]
+[[Category:Superman characters]]
+[[Category:Fictional American Jews]]
+
+[[de:Nebenfiguren im Superman-Universum#Morgan Edge]]

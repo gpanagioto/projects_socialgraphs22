@@ -1,0 +1,93 @@
+{{Use mdy dates|date=May 2022}}
+{{Use American English|date=May 2022}}
+{{Infobox comic book title  <!--Wikipedia:WikiProject Comics-->
+| image = Showcase 77.jpg
+| caption = ''Angel and the Ape''{{'}}s first appearance in ''[[Showcase (comic book)|Showcase]]'' #77 (December 1968). Pencils by [[Bob Oksner]], inks by [[Tex Blaisdell]].
+| schedule = Bi-monthly
+| format = '''(vol. 1)'''<br>[[Ongoing series]]<br>'''(vol. 2–3)'''<br>[[Limited series (comics)|Limited series]]
+|ongoing=y
+|limited=y
+| publisher = '''(vol. 1–2)'''<br>[[DC Comics]]<br>'''(vol. 3)'''<br>[[Vertigo Comics]]
+| date = '''(vol. 1)'''<br>November [[1968 in comics|1968]]-September [[1969 in comics|1969]]<br>'''(vol. 2)'''<br>March–June [[1991 in comics|1991]]<br>'''(vol. 3)'''<br>October [[2001 in comics|2001]]-January [[2002 in comics|2002]]
+| issues = '''(vol. 1)''': 7<br>'''(vol. 2–3)''': 4 each
+| main_char_team = Angel O'Day<br>Sam Simeon
+| writers = '''(vol. 1)'''<br>E. Nelson Bridwell<br>'''(vol. 2)'''<br>[[Phil Foglio]]<br>'''(vol. 3)'''<br>[[Howard Chaykin]] and [[David Tischman]]
+| artists = '''(vol. 1)'''<br>[[Bob Oksner]]<br>'''(vol. 2)'''<br>Phil Foglio<br>'''(vol. 3)'''<br>[[Philip Bond]]
+| pencillers = 
+| inkers = '''(vol. 1)'''<br>[[Wally Wood]]
+| colorists = '''(vol. 2)'''<br>Tom Ziuko
+| creative_team_month = 
+| creative_team_year = 
+| creators = [[E. Nelson Bridwell]] & [[Bob Oksner]]
+|subcat=DC Comics
+|sort=Angel and the Ape
+}}
+
+'''''Angel and the Ape''''' was a humor [[comic book]] created by [[E. Nelson Bridwell]] & [[Bob Oksner]] published by [[DC Comics]]. The characters first appeared in [[1968 in comics|1968]] in ''[[Showcase (comic book)|Showcase]]'' #77<ref>{{cite book|last=McAvennie|first= Michael|editor-last = Dolan|editor-first = Hannah|chapter= 1960s|title = DC Comics Year By Year, A Visual Chronicle|publisher=[[Dorling Kindersley]] |year=2010 |isbn= 978-0-7566-6742-9 |page= 130 |quote = [E. Nelson Bridwell] and artist Bob Oksner injected pretty primitive humor into the classic [[beauty and the beast]] concept when they opened the O'Day and Simeon Detective Agency for business.}}</ref> then graduated to their own title, with art by comic artist [[Bob Oksner]], most often inked by [[Wally Wood]]. The title lasted for seven issues, changing its name to ''Meet Angel'' for its final appearance.<ref>{{cite web |last1=Markstein |first1=Don |title=Angel and the Ape |url=http://www.toonopedia.com/angelape.htm |website=Don Markstein's Toonopedia |access-date=1 April 2020}}</ref>
+
+==Series overview==
+Angel O'Day is a private investigator who manages the O'Day and Simeon Detective Agency with her partner Sam Simeon.<ref name=Guide>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Korte |first3=Steve |last4=Manning |first4=Matt |last5=Wiacek |first5=Win |last6=Wilson |first6=Sven |title=The DC Comics Encyclopedia: The Definitive Guide to the Characters of the DC Universe |date=2016 |publisher=DK Publishing |isbn=978-1-4654-5357-0 |page=14}}</ref> Sam differs from many [[stereotype|stereotypical]] detectives; besides helping Angel, Sam is both a comic book artist and a talking [[gorilla]].<ref name="dc-ency">{{Citation | last = Wallace | first = Dan | contribution = Angel and the Ape | editor-last = Dougall | editor-first = Alastair | title = The DC Comics Encyclopedia | pages = 15 | publisher = [[Dorling Kindersley]] | place = London | year = 2008 | isbn = 978-0-7566-4119-1}}</ref> Sam's name is a double-pun on the word "simian" ("of or pertaining to an ape or monkey") and the [[San Simeon]] estate of publisher [[William Randolph Hearst]].<ref name="Alter Ego">{{Cite magazine |last=Amash |first=Jim |date=April 2007 |title=My Women Had Saturday Night Bodies And Sunday School Faces |url=https://issuu.com/twomorrows/docs/alterego67preview |magazine=Alter Ego #67 |page=21 |access-date=2022-07-06}}</ref> In the first few stories, Sam draws comics for a self-obsessed editor named [[Stan Lee|Stan Bragg]], then moves to a competitor, working for [[Mort Weisinger|Morton Stoops]].<ref>{{cite book |last1=Wells |first1=John |title=American Comic Book Chronicles: 1965-1969 |date=2014 |publisher=TwoMorrows Publishing |isbn=978-1605490557 |page=209}}</ref>
+
+===Revivals===
+The series has been revived twice. The first was by [[Phil Foglio]] in the [[1990s in comics|1990s]], where ''Angel and the Ape'' stuck true to its zany roots. In [[Phil Foglio]]'s [[1991 in comics|1991]] [[Limited series (comics)|mini-series]], Angel is revealed to be the half-sister of the Dumb Bunny, a member of the super-heroic group the [[Inferior Five]], also created by Bridwell. Sam is changed, too; he is not only employed by "[[DC Comics|DZ Comics]]" as an artist, but is also the grandson of [[Gorilla Grodd]], a nemesis of the [[Flash (comics)|Flash]]. As such, Sam has mental powers that he can use to make a limited number of people see him as a human being. However, a break in his concentration allows people to see him in his true form. This is in contrast to the original series, wherein people see Sam's true form but convince themselves he is simply an unusually ape-like human male, since it is "impossible" for there to be such a thing as a talking gorilla.
+
+A second revival was made in early [[2001 in comics|2001]] under DC's [[Vertigo Comics|Vertigo]] imprint, with a vastly different take. The four-issue limited series was written by [[Howard Chaykin]] and [[David Tischman]], with art by [[Philip Bond]] and covers by [[Arthur Adams (comics)|Arthur Adams]].
+
+The two appeared in a one-page story in ''DC Holiday Special '09'', written and drawn by [[Andrew Pepoy]].
+
+In 2011, "[[The New 52]]" rebooted the DC universe. Sam Simeon was a scientist at [[A.R.G.U.S.]] where he was paired with Dr. O'Day. An accident involving gorilla DNA from [[Gorilla City]] turned Sam into a humanoid gorilla. During the "[[Forever Evil]]" storyline, Simeon fell under the control of [[Cheetah (character)|Cheetah]] who had him operate as '''Primeape'''.<ref>''Forever Evil: A.R.G.U.S.'' #5. DC Comics.</ref>
+
+In 2012, Angel and Sam appeared in a segment of the anthology title ''Joe Kubert Presents''.
+
+Angel and Sam are briefly seen when they sense [[Dial H for Hero|Miguel Montez]] using the H-Dial for the first time.<ref>''Dial H for Hero'' #1. DC Comics.</ref>
+
+==Appearances==
+# ''Showcase'' #77 (September 1968): "Angel and the Ape"
+# ''Angel and the Ape'' Vol. 1 #1 (November–December 1968)
+# ''Angel and the Ape'' Vol. 1 #2 (January–February 1969)
+# ''Angel and the Ape'' Vol. 1 #3 (March–April 1969)
+# ''Angel and the Ape'' Vol. 1 #4 (May–June 1969)
+# ''Angel and the Ape'' Vol. 1 #5 (July–August 1969)
+# ''Angel and the Ape'' Vol. 1 #6 (September–October 1969)
+# ''Meet Angel'' #7 (November–December 1969)
+# ''[[Limited Collectors' Edition]]'' #C-34 (February–March 1975) (''Christmas with the Super-Heroes'')
+# ''Showcase'' #100 (May 1978): "There Shall Come a Gathering"
+# ''Crisis on Infinite Earths'' #11 (February 1986): "Aftershock" (Angel appears with [[Harvey Bullock (comics)|Harvey Bullock]] and [[Jonni Thunder]] and Sam appears with [[Detective Chimp]], but they do not appear together)
+# ''Swamp Thing Annual'' Vol. 2 #3 (1987): "Distant Cousins"
+# ''Angel and the Ape'' Vol. 2 #1 (March 1991): "Shaking the Family Tree"
+# ''Angel and the Ape'' Vol. 2 #2 (April 1991): "The Apes of Wrath"
+# ''Angel and the Ape'' Vol. 2 #3 (May 1991): "Family Feud"
+# ''Angel and the Ape'' Vol. 2 #4 (June 1991): "Monkey See - Monkey Doom"
+# ''Guy Gardner: Warrior'' #29 (March 1995): "It's My Party And I'll Fight If I Want To"
+# ''Martian Manhunter Annual'' #2 (1999): "Fear and Loathing on the Planet of Apes"
+# ''Angel and the Ape'' Vol. 3 #1 (October 2001): "Model Behavior"
+# ''Angel and the Ape'' Vol. 3 #2 (November 2001): "Death Becomes Her"
+# ''Angel and the Ape'' Vol. 3 #3 (December 2001): "36DD For Death"
+# ''Angel and the Ape'' Vol. 3 #4 (January 2002): "Deux Ex Machina"
+#''Infinite Crisis'' #5 (April 2006) 
+# ''DC Holiday Special 2009'' (February 2010): "Angel and The Ape"
+# ''Joe Kubert Presents'' #1 (December 2012)
+# ''Joe Kubert Presents'' #2 (January 2013)
+# ''Joe Kubert Presents'' #3 (February 2013)
+# ''Joe Kubert Presents'' #4 (March 2013)
+# ''Joe Kubert Presents'' #5 (April 2013)
+# ''Joe Kubert Presents'' #6 (May 2013)
+
+==In other media==
+Angel O'Day appears in the ''[[Young Justice (TV series)|Young Justice]]'' episode "Influence", voiced by [[Danica McKellar]]. She is a civilian in Los Angeles who Beast Boy got a selfie with.
+
+A variation of Sam Simeon appears in the tie-in comics of ''Young Justice''. This version is depicted as the son of [[Gorilla Grodd]] and Primat.
+
+==References==
+{{reflist|30em}}
+
+==External links==
+* [http://www.toonopedia.com/angelape.htm Angel and the Ape] at [[Don Markstein's Toonopedia]]. [https://www.webcitation.org/66fw5cRZp?url=http://www.toonopedia.com/angelape.htm Archived] from the original on April 4, 2012.
+
+[[Category:Vertigo Comics titles]]
+[[Category:Comics characters introduced in 1968]]
+[[Category:1991 comics debuts]]
+[[Category:2001 comics debuts]]
+[[Category:Fictional private investigators]]
+[[Category:Gorilla characters in comics]]
+[[Category:DC Comics titles]]

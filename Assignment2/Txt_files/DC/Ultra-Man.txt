@@ -1,0 +1,54 @@
+{{other uses|Ultraman (disambiguation)}}
+{{Use mdy dates|date=October 2015}}
+{{Superherobox
+|image=AllAmericanComics8.jpg
+|image_size=250
+|caption=''[[All-American Comics]]'' #8 (Nov. 1939), cover art by Jon L. Blummer (as Don Shelby).
+|character_name=Ultra-Man
+|publisher=[[All-American Publications]]
+|debut=(Gary Concord Sr.) ''[[All-American Comics]]'' #8 (Nov. 1939<br>(Gary Concord Jr.) ''All-American Comics'' #9 (Dec. 1939)
+|creators=Jon L. Blummer (as Don Shelby)
+|alter_ego =Gary Concord Sr.<br>Gary Concord Jr.
+|species = Human
+|homeworld = Earth
+|alliances=[[Legion of Super-Heroes]]
+|aliases=
+|supports=<!--optional-->
+|powers=Enhanced strength and stature
+|}}
+'''Ultra-Man''' ('''Gary Concord''') is the name of two fictional [[comic-book]] [[superheroes]], father and son, that [[first appeared]] during the 1940s, the period fans and historians call the [[Golden Age of comic books]]. Both were characters of [[All-American Publications]], which merged, in 1946, with [[DC Comics]]-predecessor [[National Periodical Publications]].
+
+They are separate from the [[DC Universe]] character [[Ultraman (DC Comics)|Ultraman]].
+
+==Publication history==
+Created by writer-artist Jon L. Blummer under the pseudonym Don Shelby, Gary Concord the Ultra-Man debuted in All-American's flagship title, ''[[All-American Comics]]'' #8 (Nov. 1939), in the first part of a two-part story. In ''All-American Comics'' #9 (Dec. 1939), the story continues with Gary Concord, Jr., who would appear until issue #19 in 1940.<ref>{{cite book |last1=Mitchell |first1=Kurt |last2=Thomas |first2=Roy |title=American Comic Book Chronicles: 1940-1944 |date=2019 |publisher=TwoMorrows Publishing |isbn=978-1605490892 |page=28}}</ref>
+
+In summer 1940, Ultra-Man was included in the first issue of ''[[All Star Comics]]'', however he made no further appearances in that title.<ref>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Manning |first3=Matthew K. |last4=McAvennie |first4=Michael |last5=Wallace |first5=Daniel |title=DC Comics Year By Year: A Visual Chronicle |date=2019 |publisher=DK Publishing |isbn=978-1-4654-8578-6 |page=30}}</ref>
+
+Ultra-Man had a cameo as a potentially sentient billboard in "Ultra Comics" (2015).
+
+A Superman analogue character named Ultra-Man made a [[flashback (literary technique)|flashback]] appearance in "The Last Earth-Prime Story", in ''[[Superman (comic book)|Superman]]'' #411 (Sept. 1985) but is not connected to the Gary Concord characters.
+
+==Fictional character biographies==
+Gary Concord Sr., a 20th-century scientist, had devoted his life to finding the means to end war. In 1950, an accident put him into suspended animation.<ref>{{cite book |last1=Nevins |first1=Jess |title=Encyclopedia of Golden Age Superheroes |date=2013 |publisher=High Rock Press |isbn=978-1-61318-023-5 |page=62}}</ref> He awoke as a chemically altered superhuman in the year 2174.<ref>{{cite web |last1=Markstein |first1=Don |website=Don Markstein's Toonopedia |access-date=2 April 2020  |url=http://www.toonopedia.com/ultraman.htm |title=Gary Concord, the Ultra-Man}}</ref> His son, Gary Concord Jr., is born in 2214 to the lifespan-lengthened Gary Sr. and wife Leandra – daughter of the tyrant Rebborizon, whom Gary Sr. defeated. Rebborizon eventually returned to kill his own daughter, however, prompting Gary Sr. to kill Rebborizon in return.
+
+After Gary Sr. dies of natural causes in 2239, Gary Jr. succeeds him as both Ultra-Man and as High Moderator of the United States of North America, the country's chief executive.<ref>{{cite book |last1=Thomas |first1=Roy |title=The All-Star Companion: Vol 1 |date=2004 |publisher=TwoMorrows Publishing |isbn=9781893905054 |page=15}}</ref> He battles the warlord Tor and other menaces, and is later put into suspended animation until the 100th century. An encounter with the superheroine [[XS (comics)|XS]] (Jenni Ognats) of the [[Legion of Super-Heroes]] inspires Ultra-Man to form his own such team with fellow heroes Avatar, Behemoth, and Metallica on the planet Almeer-5.
+
+Years later, Gary Jr. would appear in [[Grant Morrison]]'s ''[[Multiversity]]'' series.  He is seen to currently inhabit an unnamed version of Earth, alongside other characters with variants of the word "ultra" in their names, including [[Ultra the Multi-Alien]] and [[Ultraa]].
+
+==References==
+<references/>
+
+==External links==
+* [http://www.toonopedia.com/ultraman.htm Gary Concord, The Ultra-Man] at [[Don Markstein's Toonopedia]]. [https://www.webcitation.org/62vqGPk6b Archived] November 3, 2011
+* [http://www.comics.org The Grand Comics Database]
+* [http://ratmmjess.tripod.com/ga/goldg.html Jess Nevins' The Golden Age Directory: G]
+* [http://www.fanzing.com/mag/fanzminus1/feature2.shtml Fanzing: "Paroled From Limbo", by Douglas Ethington]
+* [http://www.dcuguide.com/who.php?name=ultraman3 The Unofficial Guide to the DC Universe: Ultraman III — Gary Concord Sr.] and [http://www.dcuguide.com/who.php?name=ultraman4 IV — Gary Concord Jr.]
+
+{{GoldenAge}}
+[[Category:DC Comics characters with superhuman strength]]
+[[Category:Golden Age superheroes]]
+[[Category:All-American Publications characters]]
+[[Category:DC Comics superheroes]]
+[[Category:Fictional scientists]]

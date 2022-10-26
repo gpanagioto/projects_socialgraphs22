@@ -1,0 +1,5 @@
+#REDIRECT [[Mr. Immortal]]
+
+{{Redirect category shell|
+{{R from move}}
+}}

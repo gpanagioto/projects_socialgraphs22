@@ -1,0 +1,64 @@
+{{Other uses|Captain Wonder}}
+
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics--> 
+|image=Captain Wonder colour.jpg
+|image_size=250
+|caption=Captain Wonder.<br>Art by [[Chris Weston]].
+|character_name=Captain Wonder
+|real_name=Jeff Jordan
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''Kid Komics'' #1 (Feb 1943)
+|creators=[[Otto Binder]] (writer)<br>[[Frank Giacoia]] (artist)
+|alliances=[[The Twelve (comics)|The Twelve]]
+|aliases=
+|powers=Super-strength, flight
+}}
+
+'''Captain Wonder''' ('''Professor Jeff<ref name="The Twelve #1">''The Twelve'' #1</ref> Jordan''') is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character was first published by [[Timely Comics]], the forerunner of Marvel Comics during the period known to fans and historians as the [[Golden Age of Comic Books]].  He is a superhero who possesses the power of super strength. He first appeared in ''Kid Komics'' #1 (Feb 1943) and #2 (Summer 1943).<ref name=Benton>{{cite book |last1=Benton |first1=Mike |title=Superhero Comics of the Golden Age: The Illustrated History |date=1992 |publisher=Taylor Publishing Company |location=Dallas |isbn=0-87833-808-X |url=https://archive.org/details/superherocomicso0000bent/page/168 |access-date=8 April 2020 |page=168}}</ref>
+
+==Publication history==
+The character appeared on the cover of ''Kid Komics'' #1, but by #2 he had faded into the shadow cast by the [[Young Allies]]. He disappeared altogether in issue #3.<ref>{{cite book |last1=Brevoort |first1=Tom |last2=DeFalco |first2=Tom |last3=Manning |first3=Matthew K. |last4=Sanderson |first4=Peter |last5=Wiacek |first5=Win |title=Marvel Year By Year: A Visual History |date=2017 |publisher=DK Publishing |isbn=978-1465455505 |page=24}}</ref>
+
+He returned in ''[[The Twelve (comic)|The Twelve]]''.<ref>[http://www.comicbookresources.com/news/newsitem.cgi?id=11312 Mystery Men's Dozen: Brevoort Talks "The Twelve"], July 26, 2007, [[Comic Book Resources]]</ref><ref>[http://forum.newsarama.com/showthread.php?t=123753 12 Days of the Twelve: Captain Wonder] {{webarchive |url=https://web.archive.org/web/20070929083256/http://forum.newsarama.com/showthread.php?t=123753 |date=September 29, 2007 }}, August 2, 2007, [[Newsarama]]</ref>
+
+==Fictional character biography==
+Accounts differ on how exactly Captain Wonder got his powers, but the basic story is that Professor Jordan invented a miracle drug that gave the user the strength of twelve men.<ref>{{cite book |last1=Nevins |first1=Jess |title=Encyclopedia of Golden Age Superheroes |date=2013 |publisher=High Rock Press |isbn=978-1-61318-023-5 |pages=51–52}}</ref>  A young man named Tim Mulrooney somehow ended up at his laboratory, where the Professor was to show him the drug.  However, there was an accident in which the vial containing the drug was dropped, causing Tim and Jordan to pass out, with Tim saving Jordan's life.  When they awoke, Jordan had superhuman strength, and Tim may or may not have had the same power.  Jordan decided to use his powers as a superhero, fighting crime and the Nazis.  He took Tim as his sidekick.<ref name=Benton/>
+
+===The Twelve===
+{{Main|The Twelve (comics)}}
+Captain Wonder is among the heroes who fought the Nazis at the end of World War II and while searching a base, was captured and put in suspended animation.
+
+When they are awoken 60 years later, Captain Wonder is one of the two who discover that it is the 21st Century.  He also discovers that his wife died 20 years earlier and his two sons were killed in the [[Vietnam War]].<ref name="The Twelve #1"/> Later he meets his old sidekick, now an old man who commits suicide rather than die from cancer.<ref>''The Twelve'' #7</ref> Captain Wonder is badly burnt when fighting Dynamic Man.<ref>The Twelve #11, 2012</ref>
+
+==Powers and abilities==
+Captain Wonder had, at one time, been described as having "the strength of twelve men."{{Citation needed|date=November 2009}} In ''The Twelve'', he is shown to have sufficient strength and flying power to support a damaged space shuttle.
+
+==Appearances==
+*''Kid Komics'' #1-2
+*''The Twelve'' #1-12
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://web.archive.org/web/20100516005424/http://www.reocities.com/jjnevins/wonder.html Captain Wonder & Tim] at [[Jess Nevins|Nevins, Jess]], [http://www.reocities.com/Athens/Olympus/7160/gaguide.html A Guide to Golden Age Marvel Characters]. [https://web.archive.org/web/20100220010800/http://www.reocities.com/Athens/Olympus/7160/gaguide.html WebCitation archive] of latter.
+*[http://internationalhero.co.uk/c/captainwonder.htm Captain Wonder] at International Catalogue of Superheroes
+*[http://timely_goldenage.tripod.com/captain_wonder.html Captain Wonder & Tim page]
+
+{{Otto Binder}}
+{{GoldenAge}}
+{{Avengers characters}}
+
+{{DEFAULTSORT:Captain Wonder}}
+[[Category:1943 comics debuts]]
+[[Category:Comics characters introduced in 1943]]
+[[Category:Golden Age superheroes]]
+[[Category:Timely Comics characters]]
+[[Category:Fictional World War II veterans]]
+[[Category:Fictional scientists]]
+[[Category:American comics characters]]
+[[Category:Characters created by Otto Binder]]
+[[Category:Marvel Comics American superheroes]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics male superheroes]]

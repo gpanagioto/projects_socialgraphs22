@@ -1,0 +1,256 @@
+{{short description|Fictional character from Marvel Comics}}
+{{About||the heavy metal cartoon band|Dethklok|the computing state|Deadlock}}
+
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+| character_name = Deathlok
+| image          = AstonishingTales25.jpg
+| converted      = y
+| caption        = ''[[Astonishing Tales]]'' #25 (Aug. 1974).<br />Cover art by [[Rich Buckler]] and [[Klaus Janson]]
+| publisher      = [[Marvel Comics]]
+| debut          = '''Manning:'''<br /> ''[[Astonishing Tales]]'' #25<br /> (August 1974)<br />'''Collins:'''<br /> ''Deathlok'' #1 (July 1990)<br />'''Hayes:'''<br />''Original Sins'' #1 (June 2014)
+| creators       = '''Manning:'''<br /> [[Rich Buckler]] <br/>'''Collins:'''<br /> [[Dwayne McDuffie]] (writer)<br /> [[Gregory Wright (comics)|Gregory Wright]] (artist)<br /> [[Jackson Guice]] <br />'''Hayes:'''<br />[[Nathan Edmondson]] (writer)<br />[[Mike Perkins]] (artist)
+| real_name      = Luther Manning<br />[[Siege (John Kelly)|John Kelly]]<br />Michael Collins <br />Jack Truman/Larry Young<br />Henry Hayes
+| full_name      =
+| species        = <!-- optional -->
+| homeworld      = <!-- optional -->
+| alliances      = '''(Manning)'''<br />[[Central Intelligence Agency|CIA]]<br />'''(Collins)'''<br />[[Defenders (comics)#Secret Defenders|Secret Defenders]]<br />[[Wild Pack]]<br />[[S.H.I.E.L.D.]] (all three)<br />[[United States Army]]<br />'''(Young/Truman)'''<br />M-Tech<br />'''(Deathlok Prime Unit L17)'''<br />[[X-Force]]<br />[[X-Mansion|Jean Grey School Staff]]<ref>''Wolverine and the X-Men'' #14, 15, 17</ref>
+| partners       = <!-- optional -->
+| aliases        = 
+| supports       = <!--optional-->
+| powers         = Cybernetic enhancements granting superhuman speed, strength, durability and reflexes<br />Ability to repair bodily damage<br />Ability to track multiple objects
+| cat            = super
+| subcat         = Marvel Comics
+| hero           = y
+| villain        =
+| sortkey        = Deathlok
+| addcharcat#    =
+}}
+'''Deathlok''' (also referred to as '''Deathlok the Demolisher''') is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. He first appeared in ''[[Astonishing Tales]]'' #25 (Aug. 1974), created by [[Rich Buckler]].<ref>{{cite web |last1=Markstein |first1=Don |title=Deathlok |url=http://www.toonopedia.com/deathlok.htm |website=Don Markstein's Toonopedia |access-date=2 April 2020}}</ref> At least three subsequent Marvel characters have used the "Deathlok" identity since then. A recurring theme among these characters is that a [[undead|dead human]] has been [[reanimated]] with [[cybernetic]] technology. "Deathlok technology" has also been used thematically by Marvel writers in other stories.
+
+The character has also appeared on television in animation and live action, with [[J. August Richards]] portraying a variation in the [[Television series#Seasons/series|television series]], ''[[Agents of S.H.I.E.L.D.]]''
+
+==Publication history==
+Although initially announced as the new lead feature for Marvel's ''[[Worlds Unknown]]'' comic, under the title "Cyborg",<ref>"Far-Out Fanfare and Infoomation!", ''[[FOOM]]'', November 1973, p. 18</ref> the first Deathlok series ran in  ''[[Astonishing Tales]]'' #25–28, 30–36 ([[cover-date]]d Aug. 1974–July 1976). This initial version of the character, '''Luther Manning''', later guest-starred with [[Spider-Man]] in ''[[Marvel Team-Up]]'' #46 (June 1976), and the story from the cancelled ''Astonishing Tales'' comics was finished in ''[[Marvel Spotlight]]'' #33 (April 1977). Deathlok subsequently appeared with the [[Thing (comics)|Thing]], a member of the superhero team the [[Fantastic Four]], in ''[[Marvel Two-in-One]]'' #27 and 54. The Luther Manning Deathlok then appeared in ''[[Captain America (comic book)|Captain America]]'' #286–288 (Oct.-Dec. 1983).
+
+A new Deathlok, '''Michael Collins''', debuted in the [[Limited series (comics)|miniseries]] ''Deathlok'' #1–4 (July–Oct. 1990, reprinted as ''Deathlok Special'' #1–4 the following year). This second Deathlok went on to a 34-issue series cover-dated July 1991 to April 1994, plus two [[Annual publication|summer ''Annual''s]] in 1992 and 1993.
+
+The third Deathlok, [[S.H.I.E.L.D.]] espionage agent '''Jack Truman''', debuted in an 11-issue miniseries (Sept. 1999–June 2000).
+
+Deathlok has also appeared in four issues of the miniseries ''[[Beyond!]]'', and Michael Collins, in human form and not as Deathlok, appeared in ''[[Fantastic Four]]'' #544–545 (May–June 2007). Multiple unnamed Deathlok units appear in ''[[Black Panther (comics)|Black Panther]]'' vol. 4 #1–6. Possessing no human sentience, they were automatons created from corpses of soldiers killed in [[Iraq]].
+
+A new Deathlok named '''Henry Hayes''' debuted during the "[[Original Sin (comics)|Original Sin]]" event from [[Nathan Edmondson]] and [[Mike Perkins]]. While the character was considered to be an adaptation of the [[Marvel Cinematic Universe]] portrayal of Deathlok, Mike Petersen, Edmondson stated that the coincidences were just "happy similarities" and that ultimately they tried to go for a total original concept.<ref>{{cite web|url=https://www.newsarama.com/21378-writer-promises-new-old-deathlok-in-new-ongoing-series.html|title=Writer Promises New & Old DEATHLOK In New Ongoing Series|website=Newsarama|last=Arrant|first=Chris|date=June 18, 2014|access-date=October 1, 2017}}</ref> This Deathlok has his own ongoing series that began in October 2014.<ref>{{cite web|url=http://marvel.com/comics/issue/50984/deathlok_2014_1|title=Deathlok (2014) #1|website=marvel.com|access-date=31 March 2018}}</ref>
+
+==Fictional character biography==
+===Luther Manning===
+Colonel Luther Manning is an American soldier from [[Detroit]], [[Michigan]], who, after being fatally injured, is reanimated in a post-apocalyptic future (originally given the date of 1990) only to discover that what remains of his dead body has been turned into the experimental Deathlok cyborg by Simon Ryker. He verbally communicates with his symbiotic computer, to which he refers as the abbreviated "'Puter".<ref>{{cite book |last1=Brevoort |first1=Tom |last2=DeFalco |first2=Tom |last3=Manning |first3=Matthew K. |last4=Sanderson |first4=Peter |last5=Wiacek |first5=Win |title=Marvel Year By Year: A Visual History |date=2017 |publisher=DK Publishing |isbn=978-1465455505 |page=166}}</ref> He escapes from Ryker's control,<ref>''Astonishing Tales'' #25 (Aug. 1974). Marvel Comics.</ref> although he dreams he has regained his humanity.<ref>''Marvel Fanfare'' #4 (Sept. 1982). Marvel Comics.</ref> He battles the evil corporate and military regimes that have taken over the [[United States]], while simultaneously struggling not to lose his humanity. He battles Simon Ryker and the first [[Warwolf (Marvel Comics)|War-Wolf]], and encounters his wife and son for the first time after becoming a cyborg.<ref>''Astonishing Tales'' #26–27 (Oct. & Dec. 1974). Marvel Comics.</ref> He battles Simon Ryker's Super-Tank,<ref>''Astonishing Tales'' #28, 30 (Feb. & June 1975)</ref> and then begins a hunt for a "cyborg doctor".<ref>''Astonishing Tales'' #32 (Nov. 1975). Marvel Comics.</ref> He battles Simon Ryker as the Savior Machine, and his mind is ultimately transferred into a Luther Manning clone.<ref>''Astonishing Tales'' #33–35 (Jan.-May 1976). Marvel Comics.</ref> He battles mutants alongside a time-traveling [[Spider-Man]].<ref>''Marvel Team-Up'' #46 (June 1976). Marvel Comics.</ref> He begins working for the [[Central Intelligence Agency|CIA]], encounters Godwulf for the first time, and is then finally sent back in time to the modern era.<ref>''Astonishing Tales'' #36 (July 1976); final issue of the series. Marvel Comics.</ref>
+
+Deathlok battles the [[Devil-Slayer]], but then battles demons alongside Devil-Slayer.<ref>''Marvel Spotlight'' #33 (April 1977). Marvel Comics.</ref> He later becomes controlled by [[Mentallo]] and the [[Fixer (comics)#Fixer/Techno|Fixer]] and is sent to assassinate the President, but is stopped by the [[Thing (comics)|Thing]] and [[Nick Fury]].<ref>''Marvel Two-in-One'' #26–27 (April–May 1977). Marvel Comics.</ref> After his capture he becomes catatonic, and is taken to England for treatment by the Thing.<ref>''Marvel Two-in-One'' #28 (June 1977). Marvel Comics.</ref> He is cured by Louis Kort, and Nick Fury takes him into custody.<ref name="Marvel Two-in-One' 1979">''Marvel Two-in-One'' #54 (Aug. 1979). Marvel Comics.</ref> Deathlok is rebuilt by [[Roxxon Energy Corporation|Roxxon]] as a robot and sent to sabotage [[Features of the Marvel Universe#Government agencies|Project Pegasus]]. The robot battles the Thing and [[Quasar (comics)|Quasar]], and self-destructs.<ref name="Marvel Two-in-One' 1979"/> The real Deathlok, now working for the [[Roxxon Energy Corporation|Brand Corporation]], battles [[Captain America]] and a time-traveling Luther Manning clone. Alongside Captain America, Godwulf, and the Redeemers, he battles Hellinger.<ref>''Captain America'' #286–288. Marvel Comics.</ref> Some time later, the [[Earth-616|"mainstream timeline"]] Luther Manning begins dreaming that he is Deathlok.<ref>''Deathlok'' vol. 2 #25–26. Marvel Comics.</ref> He is charged with temporal energy by Timestream.<ref>''Deathlok'' vol. 2 #27. Marvel Comics.</ref> Timestream recruits this "mainstream" human Manning.<ref>''Deathlok'' vol. 2 #29. Marvel Comics.</ref> Deathlok, Timestream, and Manning battled the Collins Deathlok, [[Siege (John Kelly)|Siege]], and Godwulf.<ref>''Deathlok'' vol. 2 #31–34. Marvel Comics.</ref> The Manning Deathlok eventually returns to his own time and overthrows the megalomaniac who had taken over the country. Manning remains in his near-future alternate reality, searching for a purpose in life and unable to disconnect himself from the machine bonded to him.
+
+Eventually, Manning travels to the mainstream [[Marvel Universe]] and encounters [[Daredevil (Marvel Comics character)|Daredevil]] and the [[Kingpin (character)|Kingpin]]. He lives a life of solitude until being apprehended by [[S.H.I.E.L.D.]], from which he is later kidnapped by the supervillain the [[Owl (Marvel Comics)|Owl]] and, immobilized, put up for auction as a weapon. Before a sale can be completed, he is stolen by the crime lord the [[Hood (comics)|Hood]] and sent on a [[kamikaze]] decoy run.
+
+===John Kelly===
+Kelly first appeared as Deathlok in ''Marvel Comics Presents'' #62. This version of Deathlok was originally controlled by Kelly until its systems determined that Kelly's brain function was detrimental to its completion of the "First Run" program. The Deathlok unit then completed its mission. Kelly's brain was removed from the cyborg and disposed of. One of Ryker's assistants took the brain presumably for use in the SIEGE unit. This version was made for the [[United States Army]] by the [[Central Intelligence Agency|CIA]]'s Deathlok-program co-head, Harlan Ryker, after studying Luther Manning's cyborg body. The Kelly Deathlok later became known as [[Siege (John Kelly)|Siege]].<ref>Wright, Gregory; ''Deathlok'' vol. 2 #19 (Jan. 1993). Marvel Comics.</ref>
+
+===Michael Collins===
+Professor Michael Collins was born in [[Philadelphia]], [[Pennsylvania]]. He was a pacifist working for the [[Roxxon Energy Corporation|Roxxon]] cybernetics corporation Cybertek. Upon discovery of the Deathlok program, he was shot with a sedative by Harlan Ryker and his brain was transplanted into the body of the [[Siege (John Kelly)|John Kelly]] Deathlok cyborg. The machine was used against rebels fighting against Roxxon's influence in the fictional South American country of Estrella. Collins regained his consciousness during that mission and stopped the cyborg programming that would have killed a small child.
+
+Although his brain was intended to serve only as a medium for the robot's programming, he was able to assert his will over it (installing a "no-killing parameter" into its programming).<ref name=one>''Deathlok''  #1 (July 1990). Marvel Comics.</ref> The computer is fully willing to listen to Collins, though he must take care to present his orders in a way that helps fulfill the mission and keep people from dying. The computer is fully capable of understanding distinct concepts, such as bluffing, as when Collins is forced to pretend to take a hostage. Later he met Jesus Badalamente and also battles Mainframe.<ref>''Deathlok'' #2 (Aug. 1991). Marvel Comics.</ref> Collins learns that his human body was still alive, and encounters [[Nick Fury]] and [[S.H.I.E.L.D.]]<ref>''Deathlok'' #3. Marvel Comics.</ref> Harlan Ryker hides Collins's human body. Collins aids Nick Fury and S.H.I.E.L.D. in preventing a nuclear strike on the United States.<ref name=one /> With the [[Fantastic Four]], the [[X-Men]], and [[Misty Knight]], Deathlok later battles Mechadoom.<ref>''Deathlok'' vol. 2 #2–5 (Aug.-Nov. 1991). Marvel Comics.</ref> He meets the [[Punisher]], and battles [[Silvermane]].<ref>''Deathlok'' vol. 2 #6–7 (Dec. 1991–Jan. 1992). Marvel Comics.</ref> After that, he teams up with [[Spider-Man]] and several other heroes to stop the [[Sinister Six]].<ref>''Spider-Man'' #18–23 (Jan. 1992–Jun. 1992). Marvel Comics.</ref> He next meets [[Moses Magnum]].<ref>''Deathlok'' vol. 2 #11 (May 1992). Marvel Comics.</ref> Collins finally reveals his existence as a cyborg to his family.<ref>''Deathlok'' vol. 2 #12 (June 1992). Marvel Comics.</ref> Collins then begins to search for his human body. During this time he fought the [[Sleepwalker (comics)|Sleepwalker]],<ref>''Sleepwalker'' #8 (Jan. 1992). Marvel Comics.</ref> and helps [[Silver Sable]] retrieve a purloined Statue of Liberty.<ref>''Silver Sable and the Wild Pack'' #6–7 (Nov. & Dec. 1992). Marvel Comics.</ref> He assists a makeshift team of other heroes in the "[[Maximum Carnage]]" incident, protecting the people of New York from a mass-murdering group of supervillains.<ref>''The Amazing Spider-Man'' #379–380, ''Spider-Man'' #36–37, ''Web of Spider-Man'' #103 and ''The Spectacular Spider-Man'' #203 (July & Aug. 1993). Marvel Comics.</ref>
+
+During the events of the miniseries ''[[Beyond!]]'', the cosmic being the [[Stranger (comics)|Stranger]] (pretending to be the [[Beyonder]]) transported Collins to an alien planet, where he was forced to live for years until being rescued with the aid of several other heroes. However, his rescue required the sacrifice of Greg Willis, the superhero known as [[Gravity (comics)|Gravity]]. As an act of gratitude, Collins arranged Gravity's funeral.<ref>McDuffie, Dwayne ''Beyond!'' #2–6 (July–Dec. 2006). Marvel Comics.</ref> When Willis' body was later stolen by the cosmic entity known as Epoch, Collins enlisted the aid of the [[Fantastic Four]] in retrieving it.<ref>''Fantastic Four'' #544–546 (May–July 2007). Marvel Comics.</ref>
+
+===Jack Truman/Larry Young===
+Jack Truman was an agent of the international espionage outfit [[S.H.I.E.L.D.]] who was transformed into a cyborg to battle the [[Red Skull]]. Through telepathic means, he eventually swapped his mind into the body of another former S.H.I.E.L.D. agent, '''Larry Young'''. Young is being considered as a "potential recruit" for the [[Fifty State Initiative|Initiative]] program.<ref>[[Anthony Flamini|Flamini, Anthony]] & Byrd, Ronald; ''Civil War: Battle Damage Report''; March 2007; page 62. Marvel Comics.</ref>
+
+===Project: Deathlok===
+During the "[[Dark Reign (comics)|Dark Reign]]" storyline, a [[H.A.M.M.E.R.]] strike force consisting of corpses animated with crude bionics was sent to capture a super-soldier research center known as "[[Weapon Plus|The World]]". These models acted like traditional zombies, craving brains. Their mission was unsuccessful and as a result, the research group which produced them, called "Project: Deathlok", was scrapped.<ref>''Dark Reign The List: Wolverine'' #1. Marvel Comics.</ref>
+
+===Deathlok Prime===
+[[Wolverine (character)|Wolverine]]'s rogue ops team joins an alternate future Deathlok-Prime – now free from its homicidal human host's brain – to face down invaders from a different possible future where X-Force, and all other superheroes, have been turned into "Deathloks" controlled by worldly authorities with popular support, which produces a crime-free [[utopia]] for everyone else.<ref>''Uncanny X-Force'' #5, 6, 7. Marvel Comics.</ref>
+
+Deathlok appeared later as a guest speaker for one of the Jean Grey School for Higher Learning's classes.  Deathlok revealed the potential futures of the students present and the probabilities of them occurring. Notably, Deathlok refused to comment on Genesis' future, revealing to him in private that only he can choose his fate.<ref>''Wolverine and the X-Men'' #4 (March 2012). Marvel Comics.</ref>
+
+===Death Locket===
+{{Main|Death Locket}}
+In the ''[[Avengers Arena]]'' series as part of the ''[[Marvel NOW!]]'' event, a female teenage version of Deathlok dubbed Death Locket is introduced. She is revealed to be Rebecca Ryker, the daughter of Harlan Ryker. After being maimed in an explosion that killed her mother and brother, Rebecca was rebuilt using the Deathlok technology that her father developed.<ref>''Avengers Arena'' #2</ref> [[Arcade (Marvel Comics)|Arcade]] later kidnaps her alongside the students of the [[Avengers Academy]] and Braddock Academy and forces them to fight other teenage superhumans in his latest version of Murderworld.<ref>''Avengers Arena'' #1. Marvel Comics.</ref>
+
+===Henry Hayes===
+A new Deathlok debuted during the "[[Original Sin (comics)|Original Sin]]" storyline. Henry Hayes worked at [[Médecins Sans Frontières|Doctors Without Borders]]. During his duty, he lost a leg in a suicide bomber attack in Kandahar (or was brainwashed into thinking he did). Henry was taken care of by the company Biotek, who provided him with a composite fiber prosthesis. Upon being placed under mind-control, Henry Hayes became Deathlok, where he was used as an assassin, a soldier, a killer, a fighter, and an operative. He had participated in at least one armed conflict alongside organized troops, and assassinated countless people even in populated areas. He was even once close to being captured by S.H.I.E.L.D. when a mission went bad in Russia. Henry Hayes was often memory-wiped and did not remember his assignments. While at MTA Metro-North station, he tried to engage discussion with another leg amputee and advised him to contact Biotek, as his own prosthesis (plastic ones, as it was the only kind his pension afforded him) forced the man to use crutches. This man left, seemingly displeased with the discussion. Immediately afterward, he met Seth Horne, an off-duty S.H.I.E.L.D. agent who was present when the Eye of the Watcher exploded, releasing a blast of energy which revealed deep secrets to anyone in its radius. To Horne, it revealed Hayes' true story. This level 4 agent wanted to congratulate him, stating that S.H.I.E.L.D. would wish to have him in their ranks. As Henry Hayes really did not know what Horne was talking about, he threatened to call the authorities, forcing the agent to leave after a last congratulations. Immediately, Henry Hayes was ordered to kill him as the announcement board of the station indicated the words "Whiskey David", triggering Henry Hayes' Deathlok persona. After following Seth Horne into the restroom, Deathlok quickly executed him, left, took some medications, and returned to his civilian life heading to the train to join his daughter Aria.<ref>''Original Sins'' #1. Marvel Comics.</ref>
+
+===Jemma Simmons===
+{{Main|Jemma Simmons}}
+In the ''Agents of S.H.I.E.L.D.'' comic book, Jemma Simmons (based on the character from the [[Agents of S.H.I.E.L.D.|TV show of the same name]]) became the newest Deathlok, though she has yet to actually take the name. She becomes one after getting infected with an unknown substance contained within a "targeted DNA bomb" that begins to deteriorate her condition, which also placed her in a coma. With the help of Henry Hayes and [[Mockingbird (Marvel Comics)|Bobbi Morse]], she is transformed into a Deathlok, which successfully saves her life.<ref>''Agents of S.H.I.E.L.D.'' #10. Marvel Comics.</ref>
+
+===Deathloks of Lingares===
+During the "[[Iron Man 2020 (event)|Iron Man 2020]]" event, [[Force Works]] encounters a group of Deathloks on the island of Lingares who overwhelm and capture them. Quake states to the soldiers that the dead that captured them are Deathloks. With Quake translating, War Machine, U.S. Agent, and Mockingbird learned that someone called the "Scientist" showed up claiming to help them where he made Deathloks from the fallen countrymen to help deal with a giant. Unfortunately, something went wrong. It is soon discovered that the giant attacking Lingares is [[Ultimo (Marvel Comics)|Ultimo]] who attacks both sides. As Quake, U.S. Agent, and Mockingbird get the prisoners to safety, War Machine fights off his paralysis and starts fighting the Deathloks trying to experiment on him. War Machine is then saved by someone he recognizes who is in need of his services. Moments later, War Machine arrives with his armor, U.S. Agent's shield, and the equipment of Quake and Mockingbird as he fights off the Deathloks. The rest of Force Works discover that War Machine's rescuer is [[MODOK Superior]]. It is then revealed that MODOK Superior created these Deathloks in order to help gain control of Ultimo which transforms him into Ulti-MODOK. Once the bearded Deathlok with the central processing unit is beheaded, James Rhodes briefly turns himself into a Deathlok to control the other Deathloks who follow Ulti-MODOK into the lava-filled chasm that Quake briefly opened.<ref>''2020 Force Works'' #1–3. Marvel Comics.</ref>
+
+==Powers and abilities==
+{{Unreferenced section|date=December 2009}}
+
+===Manning===
+Col. Luther Manning's body was rebuilt into a cyborg body by Harlan Ryker. Deathlok's mechanical, cybernetic physiology granted him several superhuman powers including superhuman strength, stamina, agility, reflexes, and a computer augmented brain. The right arm and left half of his face are armored cybernetic implants. He wears a woven metal-mesh body suit of considerable durability. Deathlok also carried a helium-neon laser pistol designed by the U.S. Army of his time, and a throwing dagger.
+
+Manning was a military academy graduate, and a brilliant military strategist. He is a formidable hand-to-hand combatant, and proficient with knives, daggers, handguns, and laser pistols.
+
+He was later captured and upgraded by Earth-616's S.H.I.E.L.D. and given jet boots that allowed him to leap at great heights and his other abilities were perhaps enhanced to greater levels.
+
+===Collins===
+Michael Collins' human brain was transplanted into a cyborg body by a group of scientists at Cybertek. His cyborg body grants him the same powers as Manning, only with much greater strength, speed, and resistance to injury. He possesses a broad spectrum of visual and auditory powers. Deathlok has the ability to interface with virtually any computer system. He is also able to project his consciousness and sensory projections directly into the Net, making him capable of directly hacking computer systems far more efficiently than a traditional hacker. His body can also target (nearly infallibly) multiple objects and track them. He could scan the entire electromagnetic spectrum. He has learned to use internal nano-bots to repair and alter both his organic and inorganic parts, enabling him to appear as either a humanoid cyborg, or completely human.
+
+He also has a very sophisticated A.I., capable of quickly making complex strategies and evaluating their chance of success. If requested, the A.I. can take control of the body to perform these operations. Collins himself possesses no combat skills, but under computer-guided combat routines, he is an excellent hand-to-hand combatant with an extensive database of combat techniques and strategies.
+
+Collins is an excellent computer programmer with an advanced degree in computer science and prosthetics, and helped construct the Deathlok body, along with other Cybertek scientists including William Hansen, Ben Jacobs, Stanley Cross, Dr. Hu, and Jim Dworman. After becoming Deathlok, Collins later modified his own systems.
+
+Like Manning, Collins wears a woven metal-mesh body suit of considerable durability. He carries a plasma pistol which draws its energy from his internal power source. Thus, the weapon can only be fired if in contact with the outlets in Deathlok's hand. Deathlok also possesses a collapsible plasma rifle capable of greater firepower with the same limitations, a supply of fragmentation plasma grenades, and a molybdenum steel knife. He wears a wrist bracelet that allows Deathlok to override similar cybernetic operating systems, and an [[adamantium]]/[[vibranium]] alloy shock dampening helmet. He sometimes uses a refitted Cybertek Dragonfly fighter with a range of several hundred miles.
+
+==Other versions==
+===Mutant X===
+In the ''[[Mutant X (comics)|Mutant X]]'' reality, Deathlok is a member of the [[Avengers (comics)|Avengers]].<ref>''Mutant X'' #1. Marvel Comics.</ref>
+
+===Ultimate Marvel===
+In ''[[Ultimate Spider-Man]]'' #70 (Feb. 2005), the [[Ultimates]] fight a person they refer to as Luther Manning, who looks like Deathlok and whom [[Spider-Man]] describes as a "half-robot half-zombie guy". The superheroes take him into custody.<ref>''Ultimate Spider-Man'' #70. Marvel Comics.</ref>
+
+===X-Factor===
+In ''[[X-Factor (comics)|X-Factor]]'' #231 (Apr. 2012), in a version of reality where [[Scarlet Witch|Wanda Maximoff]] declared "no more humans" instead of "no more mutants", Tony Stark is attacked by a mostly-cyborg version of Steve Rogers, who refers to himself as "Deathlok".<ref>''X-Factor'' #231. Marvel Comics.</ref>
+
+===Amalgam===
+In the ''[[Amalgam Comics|Amalgam Universe]]'', '''[[Jason Todd]]''' was a young [[S.H.I.E.L.D.]] recruit with a bright future, who was personally mentored by Director Bruce Wayne and [[Dick Grayson|Moonwing]]. Despite his reckless nature, Dick chose Jason as his successor when he temporarily left S.H.I.E.L.D. to attend college. As Moonwing, he made a careless mistake, which resulted in a S.H.I.E.L.D. agent's death, causing him to be dismissed from S.H.I.E.L.D. Jason became furious and blamed his mentors. He was then caught in an explosion when the villain Hyena detonated a bomb intended to kill Bruce and [[Wolverine (character)|Dark Claw]]. Despite his body never being recovered, S.H.I.E.L.D. presumed he was dead, but he survived and his body was recovered by [[Hydra (comics)|HYDRA]], who replaced his damaged body parts with robotic parts, transforming him into '''Deathlok'''. He then participated in a coup to help [[Catwoman|Madame Cat]] overthrow the Supreme Leader of Hydra, [[Lex Luthor]] a.k.a. Green Skull. Afterward, he swore allegiance to her. Later, when S.H.I.E.L.D. agents launched an attack on HYDRA's base, Deathlok was sent to confront them, where he spotted his former mentor, Moonwing, and attacked him from behind. He then revealed that he's been waiting a long time to kill both Dick and Logan. He then unmasked Moonwing and accused him and Logan of abandoning him. He then began strangling Dick, but before he could kill him Colonel [[Nick Fury]] and [[Sgt. Rock|Sergeant Joe Rock]] commandeered an aircraft and shot Deathlok several times in the back. Despite feeling sorry for Jason, Dick left Jason to die again so he could continue the attack on the HYDRA base.<ref>'' Bruce Wayne: Agent of S.H.I.E.L.D.'' #1</ref>
+
+===Tomorrow Dies Today===
+Featured in the ''[[Weapon X]]'' comic, the Roxxon-controlled future known as Earth-10511 where '''[[Bucky Barnes|James Barnes]]''' is transformed into a Deathlok known as "General".<ref>''Wolverine Weapon X'' #14</ref>
+
+==In other media==
+===Television===
+* In the ''[[Black Panther (TV series)|Black Panther]]'' episode "To the End", a team of Deathloks are sent by the US government to "assist" [[Wakanda]] in repelling an invasion by a neighboring country backed by [[Klaw (Marvel Comics)|Klaw]], though their true objective is to coerce or otherwise foster a regime friendly to an American agenda. They arrive in time, but are sent back by the [[Black Panther (comics)|Black Panther]].
+* The Deathlok concept is adapted for the live-action [[Marvel Cinematic Universe]] series ''[[Agents of S.H.I.E.L.D.]]'' The show's incarnation of Deathlok is '''[[Mike Peterson (Marvel Cinematic Universe)|Mike Peterson]]''' (portrayed by [[J. August Richards]]), who is introduced in the show's [[Pilot (Agents of S.H.I.E.L.D.)|pilot episode]]. Mike was an ordinary man who received superhuman strength and other attributes from a variation of the [[Extremis]] drug created by Project Centipede after he was injured. After [[Phil Coulson]]'s team manage to save his life and avert civilian casualties after he goes into a violent rage, Mike joins [[S.H.I.E.L.D.]]<ref>{{cite episode|title=Pilot|series=Agents of S.H.I.E.L.D.|credits=Whedon, Joss (director); Joss Whedon, Jed Whedon and Maurissa Tancharoen (writer)|network=[[American Broadcasting Company|ABC]]|airdate=September 24, 2013|season=1|number=1}}</ref> However, on a later mission, Mike is severely injured and captured by Project Centipede,<ref>{{cite episode|title=The Bridge|series=Agents of S.H.I.E.L.D.|credits=Dale, Holly (director); Shalisha Francis (writer)|network=[[American Broadcasting Company|ABC]]|airdate=December 10, 2013|season=1|number=10}}</ref> a division of the terrorist organization [[Hydra (comics)|Hydra]], and converted into a cyborg assassin.<ref>{{cite episode|title=The Magical Place|series=Agents of S.H.I.E.L.D.|credits=Hooks, Kevin (director); Paul Zbyszewski & Brent Fletcher (writer)|network=[[American Broadcasting Company|ABC]]|airdate=January 7, 2014|season=1|number=11}}</ref> He is eventually saved from Hydra by Coulson's team, and helps to prevent the terrorists from using the company Cybertek to create an army of Deathloks. Following this, Mike leaves on a mission of self-discovery in the [[Beginning of the End (Agents of S.H.I.E.L.D.)|season one finale]].<ref>{{cite episode|title=Beginning of the End|series=Agents of S.H.I.E.L.D.|credits=Straiton, David (director); Maurissa Tancharoen and Jed Whedon (writer)|network=[[American Broadcasting Company|ABC]]|airdate=May 13, 2014|season=1|number=22}}</ref> The character reappears to aid Coulson in [[Agents of S.H.I.E.L.D. (season 2)|season two]] while the latter is on the run from an independent faction of S.H.I.E.L.D., having been personally contacted and recruited by Coulson to work as his agent in the intervening months and provided with several technological upgrades.<ref>{{cite episode|title=Afterlife|series=Agents of S.H.I.E.L.D.|credits=Hooks, Kevin (director); Craig Titley (writer)|network=[[American Broadcasting Company|ABC]]|airdate=April 7, 2015|season=2|number=16}}</ref> Later in the season, Mike is recaptured by Hydra, who remove his cybernetic parts. Once he is back in S.H.I.E.L.D.'s care, they offer to restore his missing prosthetics and abilities.<ref>{{cite episode|title=The Dirty Half Dozen|series=Agents of S.H.I.E.L.D.|credits=Tancharoen, Kevin (director); Brent Fletcher and Drew Z. Greenberg (writer)|network=[[American Broadcasting Company|ABC]]|airdate=April 28, 2015|season=2|number=19}}</ref> He makes his final appearance in the show's 100th episode, "[[The Real Deal (Agents of S.H.I.E.L.D. episode)|The Real Deal]]", wherein he aids Coulson in sealing an inter-dimensional rift while fighting manifestations of his pre-Deathlok form, [[Hive (comics)|Hive]], [[Lash (comics)|Lash]], and the alien Vrellnexians. Mike also attends [[Leo Fitz]] and [[Jemma Simmons]]' wedding before leaving once again.<ref>{{cite episode|title=The Real Deal|series=Agents of S.H.I.E.L.D.|credits=Tancharoen, Kevin (director); Jed Whedon & Maurissa Tancharoen & Jeffrey Bell (writer)|network=[[American Broadcasting Company|ABC]]|airdate=March 9, 2018|season=5|number=12}}</ref>
+** In the episode "[[Ragtag (Agents of S.H.I.E.L.D.)|Ragtag]]", Coulson's team discover files on "Project Deathlok" while infiltrating Cybertek and discover S.H.I.E.L.D. turncoat '''[[John Garrett (comics)|John Garrett]]''' was the first Deathlok.<ref>{{cite episode|title=Ragtag|series=Agents of S.H.I.E.L.D.|credits=Dawson, Roxann (director); Jeffrey Bell (writer)|network=[[American Broadcasting Company|ABC]]|airdate=May 6, 2014|season=1|number=21}}</ref>
+* A variation of Deathlok appears in ''[[Hulk and the Agents of S.M.A.S.H.]]'', voiced by [[Mark Hildreth (actor)|Mark Hildreth]].<ref name="Deathlok">{{cite episode|title=Deathlok|series=Hulk and the Agents of S.M.A.S.H.|network=Disney XD|season=1|number=21|airdate=March 14, 2014}}</ref> Introduced in his self-titled episode, this depiction of Deathlok is a cyborg from a future where the [[Skrull]]s' invasion of Earth succeeded and Deathlok was one of the few human survivors. He was turned into a cyborg and sent to the present to avert this future, but temporarily ran afoul of the agents of S.M.A.S.H. while targeting a seemingly normal girl inside a busy mall until [[She-Hulk]] discovers Deathlok's target is actually the [[Super-Skrull]] and everyone in the mall are other Skrulls preparing for the invasion. After the [[Hulk]] defeats Super-Skrull, Deathlok activates his self-destruct sequence, but She-Hulk removes his power core and uses it to destroy the Skrull ship. Following this, [[Iron Man]] builds a new core for Deathlok. In the episode "Planet Monster" [Pt. 2], Deathlok joins the agents of S.M.A.S.H. and the [[Avengers (comics)|Avengers]], among other heroes, to fight the [[Supreme Intelligence]]'s forces.
+
+===Film===
+In the early 1990s, a Deathlok film was at the script stage, with [[Randall Frakes]] as the screenwriter.<ref>{{cite book |last=Frakes |first=Randall |author-link=Randall Frakes |title=Terminator 2: Judgment Day |chapter=About the Author |date=July 1991 |publisher=[[Bantam Books]] |isbn=0-553-29169-6 |url-access=registration |url=https://archive.org/details/isbn_9780553291698 }}</ref> [[Paramount Pictures]] bought the film rights in 2001, and hired [[Lee Tamahori]] to direct. Stu Zicherman and [[M. Raven Metzner|Raven Metzner]] were assigned as writers, while [[Avi Arad]] and [[Steven Paul]] would produce.<ref>{{cite web |url= http://www.hollywoodreporter.com/thr/film/brief_display.jsp?vnu_content_id=1939225|title= Tamahori has 'Deathlok' on Par-Marvel pic|date= July 23, 2003|access-date= July 12, 2022|first= Zorianna|last= Kit|work= The Hollywood Reporter|archiveurl= https://web.archive.org/web/20040815014808/http://www.hollywoodreporter.com/thr/film/brief_display.jsp?vnu_content_id=1939225|archivedate= August 15, 2004}}</ref> In 2004, [[Paul McGuigan (filmmaker)|Paul McGuigan]] was being considered to replace Tamahori, while [[David Self]] provided rewrites.<ref>{{cite web |url= http://www.hollywoodreporter.com/thr/film/brief_display.jsp?vnu_content_id=1000617914|title= Self reprograms 'Deathlok' script|date= August 25, 2004|access-date= July 12, 2022|first= Liza|last= Foreman|work= The Hollywood Reporter|archive-url=https://web.archive.org/web/20051214080713/http://www.hollywoodreporter.com:80/thr/film/brief_display.jsp?vnu_content_id=1000617914|archive-date= December 14, 2005|url-status=live}}</ref> McGuigan later revealed that he was involved, but [[Marvel Studios]] put the film on a hiatus. He also praised Self's screenplay and that he envisioned [[Robert Downey Jr.]] for the lead role.<ref>{{cite web |url= https://gizmodo.com/paul-mcguigan-talks-push-and-deathlok-5131529|title= Paul McGuigan Talks Push — And Deathlok|date= January 15, 2009|access-date= July 12, 2022|first= Charlie|last= Jane Anders|work= Gizmodo}}</ref>
+
+===Video games===
+* Deathlok appears as an assist character during the later stages of ''[[Spider-Man and Venom: Maximum Carnage]]''.{{citation needed|date=January 2021}}
+* The MCU incarnation of Deathlok appears as a downloadable playable character in ''[[Lego Marvel's Avengers]]'', as part of the ''Agents of S.H.I.E.L.D.'' DLC pack.{{citation needed|date=January 2021}}
+* Deathlok appears as a playable character in ''[[Marvel: Future Fight]]''.<ref>{{cite web|url=http://marvel.com/games/172/marvel_future_fight|title=Marvel Future Fight|website=marvel.com|access-date=31 March 2018}}</ref>
+* Deathlok appears as a playable character in ''[[Marvel: Avengers Alliance 2]]''.<ref>[https://marvelavengersalliance2.com] {{webarchive|url=https://web.archive.org/web/20160817235648/https://marvelavengersalliance2.com/ |date=2016-08-17 }}</ref>
+
+===Toys===
+* In 1992, [[Marvel Toys|Toy Biz]] released a Deathlok action figure as part of its Marvel Super Heroes Cosmic Defenders line.
+* In 1999, Toy Biz released a Spider-Man: Heroes Revenge box set featuring a Deathlok figure packaged alongside a Cyborg Spider-Man figure.
+* A [[Marvel Legends]] [[action figure]] of Deathlok is part of the [[Galactus]] Series.
+* In 2009, a new Deathlok figure was released alongside [[Iron Man 2020]] in a [[Marvel Super Hero Squad]] two-pack.
+* Deathlok is one of the figures in the [[Marvel Infinite Series]], an extension of the [[Marvel Universe]] toyline.
+* In 2018, Marvel Legends released another Deathlok figure as part of the Deadpool (Sasquach Build-a-Figure) Wave
+* In 2019, Marvel Legends re-released the 2018 Deathlok figure, repainted to represent the character's appearance in Uncanny X-Force. This version is a Fan Channel exclusive and not part of any Build-A-Figure wave.
+
+==In popular culture==
+* "Psychotron" by [[Megadeth]] (from the album ''[[Countdown to Extinction]]'', 1992) was inspired by the Deathlok character.<ref>{{cite book|title=Countdown to Extinction liner notes|year=2004|page=5|publisher=[[Capitol Records]]|edition=remastered }}</ref>
+
+==Collected editions==
+{| class="wikitable" width="100%"
+|-
+! width=30%| Title
+! width=30%| Material collected
+! width=3%| Pages
+! width=15%| Publication Date
+! width=14%| ISBN 
+|-
+| ''Captain America: Deathlok Lives'' 
+| ''Captain America'' #286–288
+| 64 
+| 1993
+| {{ISBNT|0-7851-0019-9}}
+|-
+| ''[[Marvel Masterworks]]: Deathlok Volume 1'' 
+| ''Astonishing Tales'' #25–28 and #30–36; ''Marvel Spotlight'' #33; ''Marvel Team-Up'' #46; ''Marvel Two-In-One'' #27 and #54; ''Captain America'' #286–288
+| 352 
+| November 2009
+| {{ISBNT|0-7851-3050-0}}
+|-
+| ''Deathlok the Demolisher: The Complete Collection'' 
+| ''Astonishing Tales'' #25–28 and #30–36; ''Marvel Team-Up'' #46; ''Marvel Spotlight'' #33; ''Marvel Two-In-One'' #27 and #54; ''Captain America'' #286–288  
+| 368 
+| October 2014
+| {{ISBNT|0-7851-9112-7}}
+|-
+| ''Deathlok: The Living Nightmare Of Michael Collins'' 
+| ''Deathlok'' #1–4  
+| 216 
+| June 2012 
+| {{ISBNT|0-7851-5988-6}}
+|-
+| ''Deathlok: The Souls Of Cyber-Folk'' 
+| ''Deathlok'' (vol. 2) #1–15 and ''Annual'' #1
+| 400 
+| January 2015
+| {{ISBNT|0-7851-9334-0}}
+|-
+| ''Deathlok: Rage Against The Machine'' 
+| ''Deathlok'' (vol. 3) #1–11; ''Cable'' #58–62; ''Uncanny X-Men'' #371; ''X-Men'' (vol. 2) #91; ''X-Men Annual '99''
+| 456 
+| February 2015
+| {{ISBNT|978-0-7851-9291-6}}
+|-
+| ''Deathlok: The Demolisher'' 
+| ''Deathlok'' (vol. 4) #1–7  
+| 176 
+| January 2011
+| {{ISBNT|0-7851-2828-X}}
+|-
+| ''Deathlok Vol. 1: Control. Alt. Delete.'' 
+| ''Deathlok'' (vol. 5) #1–5; ''Original Sins'' #1
+| 120 
+| June 2015
+| {{ISBNT|0-7851-9278-6}}
+|-
+| ''Deathlok Vol. 2: Man Versus Machine''
+| ''Deathlok'' (vol. 5) #6–10
+| 112
+| October 2015
+| {{ISBNT|978-0785192794}}
+|}
+
+==References==
+{{Reflist|2}}
+
+==External links==
+{{Portal|Speculative fiction|1990s}}
+* [http://www.marvel.com/universe/Deathlok_%28Luther_Manning%29 Deathlok (Luther Manning)] at Marvel.com
+* [http://www.marvel.com/universe/Deathlok_(Michael_Collins) Deathlok (Michael Collins)] at Marvel.com
+* {{gcdb|type=character|search=Deathlok|title=Deathlok}}
+* [https://web.archive.org/web/20041130092915/http://homepage.mac.com/dmcduffie/site/Deathlokpitch.html The original 1990s Deathlok pitch] at Dwayne McDuffie's official site
+* [http://www.marveldirectory.com/individuals/d/deathlok.htm Deathlok] at the Marvel Directory
+* [http://www.toonopedia.com/deathlok.htm Deathlok the Demolisher] at [[Don Markstein's Toonopedia]]
+* [https://web.archive.org/web/20120404022524/http://www.scifi2k.com/archives/03mar.html March News] www.scifi2k.com
+* {{marvunapp|http://www.marvunapp.com/Appendix2/deathlokdemolisher.htm|Deathlok the Demolisher}}
+* {{comicbookdb|type=character|id=683|title=Deathlok (Luther Manning)}}
+* {{comicbookdb|type=character|id=10847|title=Deathlok (John Kelly)}}
+* {{comicbookdb|type=character|id=684|title=Deathlok (Michael Collins)}}
+* {{comicbookdb|type=character|id=16436|title=Deathlok (Luther Manning of the main timeline)}}
+* {{comicbookdb|type=character|id=685|title=Deathlok (Jack Truman)}}
+* [http://marvelcinematicuniverse.wikia.com/wiki/Deathlok Deathlok (Michael Peterson)] at the Marvel Cinematic Universe Wiki
+
+{{Defenders}}
+{{S.H.I.E.L.D.}}
+
+[[Category:1990 comics debuts]]
+[[Category:1999 comics debuts]]
+[[Category:Characters created by Doug Moench]]
+[[Category:Characters created by Dwayne McDuffie]]
+[[Category:Comics characters introduced in 1974]]
+[[Category:Comics characters introduced in 1990]]
+[[Category:Comics characters introduced in 2014]]
+[[Category:Fictional African-American people]]
+[[Category:Fictional characters from Detroit]]
+[[Category:Fictional Central Intelligence Agency personnel]]
+[[Category:Fictional colonels]]
+[[Category:Fictional military strategists]]
+[[Category:Fictional special forces personnel]]
+[[Category:Fictional super soldiers]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics cyborgs]]
+[[Category:Marvel Comics robots]]
+[[Category:Marvel Comics television characters]]
+[[Category:Marvel Comics titles]]
+[[Category:Post-apocalyptic comics]]
+[[Category:S.H.I.E.L.D. agents]]

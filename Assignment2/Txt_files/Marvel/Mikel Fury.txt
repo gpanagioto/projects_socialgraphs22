@@ -1,0 +1,11 @@
+#REDIRECT [[Scorpio (Marvel Comics)#Scorpio (Mikel Fury)]]
+
+{{Redirect category shell|
+{{R from fictional character|Marvel Comics}}
+{{R with possibilities}}
+{{R from subtopic}}
+{{R to section}}
+}}
+
+{{DEFAULTSORT:Fury, Mikel}}
+[[Category:Nick Fury]]

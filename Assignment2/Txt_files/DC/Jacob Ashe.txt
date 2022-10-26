@@ -1,0 +1,37 @@
+{{Infobox comic book title
+<!--Wikipedia:WikiProject Comics--> 
+| image = Cinder&Ashe1.jpg
+| caption = Cover to ''Cinder and Ashe'' #1.
+| schedule = Monthly
+| format = 
+| limited = y
+| publisher = [[DC Comics]]
+| date = May - August 1988
+| issues = 4
+| main_char_team = 
+| writers = [[Gerry Conway]]
+| artists = [[José Luis García-López]]
+| pencillers = 
+| inkers = 
+| colorists = [[Joe Orlando]]
+| creative_team_month = 
+| creative_team_year = 
+| creators = 
+| subcat=DC Comics
+| sort=Cinder and Ashe
+}}
+
+'''''Cinder and Ashe''''' is a four issue [[comic book]] [[Limited series (comics)|mini-series]] published by American company [[DC Comics]] in 1988.<ref>{{cite web |url=http://www.comics.org/series/3579/covers/ |title=Cinder and Ashe |accessdate=2009-10-23 |publisher=The Grand Comics Database}}</ref> The series was written by [[Gerry Conway]] and drawn by [[José Luis García-López]]. The series was labelled "[[adult comic|Suggested for Mature Readers]]" to indicate that its content may be inappropriate for young children.
+
+==Plot summary==
+The story follows the two partners in a [[private investigator|private investigation]] firm; Jacob Ashe is a [[United States|U.S.]] [[Vietnam War]] veteran, while Cinder DuBois is the child of an African-American soldier and a Vietnamese woman.<ref>''Cinder and Ashe'' #1 (May 1988)</ref> The series is set in [[New Orleans, Louisiana]] with [[flashback (literary technique)|flashbacks]] to [[Vietnam]].
+
+Cinder and Ashe are hired by a farmer from [[Iowa]] to find his kidnapped daughter. As the investigations unfold, flashbacks reveal how Cinder and Ashe met, and the development of their relationship. A complication in the investigation is the involvement of a man named Lacey, who had raped Cinder when she was a thirteen-year-old girl in Vietnam.
+
+==References==
+{{Reflist}}
+
+[[Category:1988 comics debuts]]
+
+
+{{DC-Comics-stub}}

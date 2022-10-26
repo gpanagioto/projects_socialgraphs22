@@ -1,0 +1,326 @@
+{{about|the given name|subjects known as "The Donald"|The Donald (disambiguation)|other uses}}
+{{distinguish|Ronald}}
+{{pp-pc1|small=yes}}
+{{Infobox given name
+| name                 = Donald
+| pronunciation        = {{IPAc-en|ˈ|d|ɒ|n|əl|d}}
+| gender               = Male
+| language             = [[English language|English]], [[Scottish Gaelic]]
+| origin               = Domhnall, Dómhnall, Dòmhnall, Domhnull, Dòmhnull
+| derivation           = [[Proto-Celtic language|Proto-Celtic]] *''dumno-ualos''
+| meaning              = "world ruler", "world wielder"
+| shortform            = [[Don (given name)|Don]]
+| petname              = Donnie, Donny, [[Dolly (name)|Dolly]]
+| cognate              = Domnall, Dónal, Donal, Donall, Donnell, Dolan, Dyfnwal, Dumnagual
+| derivative           = Donella
+}}
+'''Donald''' is a masculine [[given name]] derived from the [[Goidelic languages|Gaelic]] name ''Dòmhnall''.<ref name="Hanks1">{{citation |last1=Hanks |first1=Patrick |last2=Hardcastle |author-link1=Patrick Hanks |first2=Kate |last3=Hodges |first3=Flavia |title=A Dictionary of First Names |edition=2nd |series=Oxford Paperback Reference |year=2006 |publisher=[[Oxford University Press]] |isbn=978-0-19-861060-1 |pages=78, 402}}.</ref> This comes from the [[Proto-Celtic language|Proto-Celtic]] *''Dumno-ualos'' ("world-ruler" or "world-wielder").<ref name="Koch1">{{citation |last=Koch |first=John T. |author-link=John T. Koch |contribution=Dyfnwal ap Tewdor |title=Celtic Culture: A Historical Encyclopedia |editor1-last=Koch |editor1-first=John T. |editor1-link=John T. Koch |year=2006 |publisher=[[ABC-CLIO]] |isbn=1-85109-445-8 |pages=639–640}}</ref><ref name="Koch2">{{citation |last=Koch |first=John T. |author-link=John T. Koch |contribution=Domnall Brecc |title=Celtic Culture: A Historical Encyclopedia |editor1-last=Koch |editor1-first=John T. |editor1-link=John T. Koch |year=2006 |publisher=[[ABC-CLIO]] |isbn=1-85109-445-8 |pages=604}}</ref><ref>Norman, Teresa. ''Names Through the Ages''. [[Berkley Books]], 1999. pp.129, 136</ref> The final -''d'' in ''Donald'' is partly derived from a misinterpretation of the Gaelic pronunciation by English speakers, and partly associated with the spelling of similar-sounding Germanic names, such as ''[[Ronald]]''. A short form of ''Donald'' is ''[[Don (given name)|Don]]''. [[Pet form]]s of ''Donald'' include ''Donnie'' and ''Donny''. The feminine given name ''Donella'' is derived from ''Donald''.<ref name="Hanks1" />
+
+''Donald'' has cognates in other Celtic languages: [[Irish language|Modern Irish]] ''Dónal'' (anglicised as ''Donal'' and ''Donall'');<ref name="Hanks-226">{{citation |last1=Hanks |first1=Patrick |last2=Hardcastle |author-link1=Patrick Hanks |first2=Kate |last3=Hodges |first3=Flavia |title=A Dictionary of First Names |edition=2nd |series=Oxford Paperback Reference |year=2006 |publisher=[[Oxford University Press]] | isbn=978-0-19-861060-1 |page=346}}.</ref> [[Scottish Gaelic]]  ''Dòmhnall'',<ref>{{citation |last=Mark |first=Colin |title=The Gaelic-English Dictionary |publisher=[[Routledge]] |year=2006 |isbn=0-203-22259-8 |page=714}}.</ref> ''Domhnull''<ref>{{citation |last=Maceachen |first=Ewan |title=Maceachen's Gaelic-English Dictionary |edition=4, revised and enlarged |url=https://archive.org/details/gaelicenglishdic00mace |publisher=The Northern Counties Newspaper and Printing and Publishing Company |year=1922 |pages=467–469}}.</ref> and ''Dòmhnull'';<ref>{{citation |last=MacFarlane |first=Malcolm |author-link=Malcolm MacFarlane |title=The School Gaelic Dictionary prepared for the use of learners of the Gaelic language |publisher=Eneas Mackay |year=1912 |url=https://archive.org/details/cu31924026841043 |page=144}}</ref> [[Welsh language|Welsh]] ''[[Dyfnwal (disambiguation)|Dyfnwal]]'' and [[Cumbric]] ''Dumnagual''. Although the feminine given name ''[[Donna (given name)|Donna]]'' is sometimes used as a feminine form of ''Donald'', the names are not etymologically related.<ref name="Hanks1" />
+
+<!-- Infobox template for pronunciation-->
+{| class="collapsible infobox collapsed" width="280" style="font-size:90%;"
+|-
+! colspan="2" style="background:#EFEFEF" | Pronunciation
+|- class="note"
+|- style="vertical-align:top;"
+| style="width: 40%;" |
+! colspan="2" style="background:#EFEFEF" | 
+|-
+| [[Irish language|Irish]]: || Dónall
+|-
+| Pronunciation: || {{IPA-ga|ˈd̪ˠoːnˠəl̪ˠ|}}
+|-
+| [[Manx Gaelic]]: || Dolyn
+|-
+| Pronunciation: || {{IPA-gv|ˈdðolən|}}
+|-
+| [[Scottish Gaelic]]: || Dòmhnall
+|-
+| Pronunciation: || {{IPA-gd|ˈt̪õːəl̪ˠ|}}
+|}
+
+== Variations ==
+{| class="wikitable" style="text-align:right"
+! width="16%" |  [[Old Irish]]
+! width="16%" |  [[Modern Irish]]
+! width="16%" |  [[Hiberno-English]]
+! width="16%" |  [[Scottish Gaelic]]
+! width="16%" |  [[Scottish English]]
+! width="16%" |  [[Scots language|Scots]]
+|-
+| align="center" | Domhnall
+| align="center" | Dónal
+| align="center" | Donal
+| align="center" | Dòmhnall
+| align="center" | Donald
+| align="center" | Donnald
+|}
+
+== Kings and noblemen ==
+'''Domnall''' or '''Domhnall''' is the name of many ancient and medieval Gaelic kings and noblemen:
+* [[Dyfnwal Hen]] (Dumnagual I), Ruler of Alt Clut (Strathclyde) (450–475)
+* [[Domnall Brecc]], king of Dál Riata (d. 642)
+* [[Domnall mac Áedo]], High King of the [[Northern Uí Néill]] and Ireland (d. 642)
+* [[Domnall Midi]], High King of Clann Cholmáin and Ireland (d. 763)
+* [[Domnall mac Ailpín]] (812–863)
+* [[Donald II of Scotland]] (889–900)
+* [[Domnall mac Eimín]], Mormaer of Mar (d. 1014)
+* [[Donald III of Scotland]] (1033–1099)
+* [[Domnall Gerrlámhach]], King of Dublin (d. 1135)
+* [[Domnall Ua Lochlainn]], High King of Ireland (1083 and 1121)
+* [[Domhnall I, Earl of Mar]] (1276–1301)
+* [[Domhnall II, Earl of Mar]] (1305–1332)
+* [[Domhnall, Earl of Lennox]] (1333–1365)
+* [[Dyfnwal, King of Strathclyde]] (d. 908×915), also known by the names ''Donald'', ''Domhnall'', and ''Domnall''
+* [[Dyfnwal ab Owain]] (d. 975), also known by the names ''Donald'' and ''Domnall''
+* [[Owain ap Dyfnwal (fl. 934)]]
+
+== Given name ==
+
+=== Domhnall ===
+* [[Domhnall mac Conchobair Ó Briain]] (died 1579), Gaelic Irish military leader 
+* [[Domhnall Gleeson]] (born 1983), Irish actor
+*[[Domhnall mac Dáire Mac Bruaideadha]] (fl. c. 1600), Irish poet 
+*[[Domhnall MacAuley]] (born 1957), Scottish physician and professor
+* [[Dòmhnall Ruadh Chorùna]] (1887–1967), Scottish Gaelic poet
+
+=== Donnell ===
+* [[Donnell Ballagh O'Cahan]] (died 1627), Irish landowner and rebel
+* [[Donnell Rawlings]] (born 1968), comedian
+
+=== Don ===
+* [[Don Adams]] (1923–2005), American actor, comedian and director
+* [[Don Airey]] (born 1948), English keyboardist
+* [[Don Ameche]] (1908–1993), Hollywood actor
+* [[Don Barksdale]] (1923–1993), American basketball player
+* [[Don Bertoia]], Canadian middle-distance runner
+* [[Don Bluth]] (born 1937), animator, film director, producer, writer, production designer, video game designer and independent studio owner
+* [[Don Bowman (singer)]] (1937–2013), American comedian, country music singer, and songwriter
+* [[Don Cheadle]] (born 1964), American actor and producer
+* [[Don Cherry (ice hockey)|Don Cherry]] (born 1934), Canadian ice hockey player, coach, and television commentator
+* [[Don Cherry (American football)]] (born 1994), American football player
+* [[Don Cherry (singer)]] (1924–2018), American singer and golfer
+* [[Don Cherry (trumpeter)]] (1936–1995), American jazz trumpeter
+* [[Don Ciccone]] (1946–2016), American singer-songwriter, member of the band The Critters
+* [[Don Cornelius]] (1936–2012), American television show host and producer
+* [[Don Cornell]] (1919–2004), stage name of Luigi Varlaro, American singer
+* Dominick [[Don Costa]] (1925–1983), American conductor and record producer
+* [[Don Covay]] (1936–2015), American singer and songwriter
+* [[Don Criqui]] (born 1950), American sportscaster
+* [[Don Diablo]] (born 1980), Dutch DJ, record producer, musician and songwriter of electronic music
+* [[Don Digirolamo]], American re-recording mixer
+* [[Don Dunstan]] (1926–1999), South Australian politician
+* [[Don Estelle]] (1933–2003), British actor and singer
+* [[Don Everly]] (born 1937), American country-influenced rock and roll singer and guitarist
+* [[Don Felder]] (born 1947), American singer-songwriter and guitarist, former member of the Eagles
+* [[Don Frye]] (born 1965), American mixed martial artist and professional wrestler
+* [[Don Garber]] (born 1957), American sports executive
+* [[Don Gardner]] (1931–2018), American singer-songwriter
+* [[Don Gibson]] (1928–2003), American songwriter and country musician
+* [[Don Goldstein]], American basketball player
+* [[Don Gorske]] (born 1953), “Big Mac” Enthusiast and Guinness World Record holder of most Big Macs eaten
+* [[Don Gullett]] (born 1951), American baseball pitcher
+* [[Don Gullick]] (1924–2000), Welsh rugby union and rugby league footballer and coach
+* [[Don Hasselbeck]] (born 1955), American football player
+* [[Don Henley]] (born 1947), founding member of the [[Eagles (band)|Eagles]] rock group
+* [[Don Hewitt]] (1922–2009), American television news producer
+* [[Don Ho]] (1930–2007), American pop musician, singer and entertainer
+* [[Don Hutson]] (1913–1997), American football player
+* [[Don Imus]] (1940–2019), American radio and television host
+* [[Don Johnson (sports executive)]] (1930–2012), Canadian sports executive and president of the Canadian Amateur Hockey Association
+* [[Don King (boxing promoter)]] (born 1931), American boxing promoter
+* [[Don King (coach)]] (born 1926), American football player and coach
+* [[Don King (defensive back)]] (born 1964), American football player
+* [[Don King (defensive lineman)]] (1929–2014), American football player
+* [[Don King (musician)]] (born 1954), American singer, songwriter, guitarist, and trumpeter
+* [[Don King (photographer)]] (born 1960), American photographer, cinematographer, and film director
+* [[Don Roy King]] (born 1947), American television director
+* [[Don Kirshner]] (1934–2011), American music publisher, rock music producer, talent manager, and songwriter
+* [[Don Knotts]] (1924–2006), American actor and comedian
+* [[Don Larsen]] (1929–2020), American baseball player
+* [[Don Lemon]] (born 1966), American television personality and current host of CNN Tonight
+* [[Don L. Lind]] (born 1930), American scientist and a former naval officer and aviator, and NASA astronaut
+* [[Don MacLean (basketball)]] (born 1970), American basketball player and color commentator
+* [[Don Marion Davis]] (1917–2020), American child actor
+* [[Don Mattingly]], American pro baseball player for the New York Yankees and manager of the LA Dodgers; aka "Donnie Baseball" and "The Hitman"
+* [[Don McLean]] (born 1945), American singer-songwriter and musician
+* [[Don Nelson]] (born 1940), American basketball player and coach
+* [[Don Nelson (screenwriter)]] (1927–2013), American screenwriter, film producer, and jazz musician
+* [[Don Nickles]] (born 1948), American politician 
+* [[Don Patinkin]] (1922–1995), Israeli-American economist, and President of the [[Hebrew University of Jerusalem]]
+* [[Don Payne (writer)|Don Payne]], American writer and producer
+* [[Don Quarrie]] (born 1951), Jamaican sprinter
+* [[Don Reid (singer)|Don Reid]] (born 1945), lead singer of American country group The Statler Brothers
+* [[Don Rickles]] (1926–2017), American stand-up comedian
+* [[Don Robesky]] (1906–2002), American football player
+* [[Don Rondo]] (1930–2011), American singer
+* [[Don Shula]] (1930–2020), American football coach
+* [[Don Slater]] (born 1954), British sociologist
+* [[Don Trahan]] (born 1949), American golfer, father of D. J. Trahan
+* Don Van Vliet (1941–2010), American singer, songwriter and musician, also known as [[Captain Beefheart]]
+* [[Don Warrington]] (born 1951), Trinidadian-born British actor
+* [[Don Waterman]] (born 1950), American racing driver
+* [[Don Webb (American football)]] (born 1939), American football player
+* [[Don Webb (playwright)]], English playwright and dramatist
+* [[Don Webb (writer)]] (born 1960), American science fiction, mystery, and horror writer
+* [[Don Wilson (American football)]] (born 1961), American football player
+* [[Don Wilson (announcer)]] (1900–1982), American radio and television announcer and actor
+* [[Don Wilson (Australian footballer)]] (1914–2015), Australian footballer
+* [[Don Wilson (baseball)]] (1945–1975), American baseball pitcher
+* [[Don Wilson (cricketer)]] (1927–2012), English cricketer
+* [[Don Wilson (pastor)]] (born 1949), American Christian pastor and creationist
+* [[Don E. Wilson]] (born 1944), American zoologist
+* [[Don M. Wilson III]] (born 1948), American banker and corporate director
+* [[Don W. Wilson]] (born 1942), American historian and archivist
+* [[Don Williams]] (1939–2017), American singer-songwriter
+* [[Don Williams (offensive lineman)]] (1919–2001), American football player
+* [[Don Williams (American football coach)]] (1927–2013), American football, track and field coach
+* [[Don Williams (footballer, born 1935)]] (1935–1995), Australian rules footballer
+* [[Don Williams (footballer, born 1939)]] (born 1939), Australian rules footballer
+* [[Don Williams (poker player)]] (1942–2013), American poker player
+* [[Don Williams (racing driver)]] (1947–1989), American racing driver
+
+=== Donal ===
+* [[Donal Logue]] (born 1969), Canadian actor
+* [[Donal MacIntyre]] (born 1966), Irish investigative reporter
+* [[Donal Murray (bishop)]] (born 1940), the Roman Catholic Bishop of Limerick (1996–2009)
+* [[Donal O'Brien (disambiguation)]], several individuals
+* [[Donal O'Donoghue]] (1894–1971), Irish Fianna Fáil politician
+* [[Donal O'Shea]], Canadian mathematician
+* [[Donal O'Sullivan (disambiguation)]], several individuals
+* [[Donal Roe MacCarthy Mór]] (died 1302), 13th-century noble of Ireland, Prince of the Kingdom of Desmond
+* [[Donal MacCarthy Reagh]] (1450/1460–1531), 9th Prince of Carbery (1505–1531)
+* [[Donal Skehan]] (born 1986), Irish singer, television personality/presenter, food writer/cook and photographer
+
+=== Dónal ===
+* [[Dónal Lunny]] (born 1947), Irish folk musician
+*[[Donal Óg Cusack]] (born 1977), Irish [[Hurling|hurler]]
+
+=== Donald ===
+* [[Donald Bailey (musician)|Donald Bailey]] (1934–2013), American jazz drummer
+* [[Donald Bradman]] (1908–2001), Australian cricketer
+* [[Donald Brashear]], American ice hockey player
+* [[Donald Burgess]], British track cyclist
+* [[Donald Byrd]] (1932–2013), American jazz and rhythm and blues trumpeter
+* [[Donald Cameron (water polo)|Donald Cameron]] (born 1954), Australian water polo player and coach
+* [[Donald Campbell]] (1921–1967), British world land and water speed record breaker
+* [[Donald M. Campbell Jr.]] (born 1955), retired United States Army lieutenant general who served as the commanding general of United States Army Europe
+* [[Donald Capelle]], Marshallese politician
+* [[Donald Chumley]] (born 1962), American football player
+* [[Donald Crisp]] (1882–1974), filmmaker
+* [[Donald D. Deshler]], American educator
+* [[Donald Dewar]] (1937–2000), [[Labour Party (UK)|Labour Party]] MP and first [[First Minister of Scotland]] (1999–2000)
+* [[Donald Disney]], Fellow of the Institute of Electrical and Electronics Engineers
+* [[Donald Driver]], [[National Football League|NFL]] player for the [[Green Bay Packers]]
+* [[Donald "Duck" Dunn]] (1941–2012), American bass guitarist
+* [[Donald Fagen]] (born 1948), American musician
+* [[Donald Faison]] (born 1974), American actor and comedian
+* [[Donald Foss]] (born 1945), American billionaire, founder of Credit Acceptance
+* [[Donald Friese]] (born 1940), American billionaire businessman
+* [[Donald Henry Gaskins]] (1933–1991), American cannibalistic serial killer, rapist, and thief
+* [[Donald Geisler]] (born 1978), Filipino taekwondo athlete
+* [[Donald Glover]] (born 1983), American actor, musician, writer, comedian, and producer
+* [[Donald Gordon (cricketer)]] (born 1990), English cricketer
+* [[Donald J. Guter]] (born 1948), American educator and 37th Judge Advocate General of the Navy
+* [[Donald Hawkins]] (born 1992), American football player
+* [[Donald Harvey]] (1952–2017), prolific American serial killer
+* [[Donald Hewagama]] (1926–2009), Sri Lankan Sinhala Judge Advocate General, Sri Lanka Army
+* [[Donald Hewlett]] (1922–2011), British actor
+* [[Donald Izacus Panjaitan]] (1925–1965), Indonesian general
+* [[Disappearance of Donald Izzett|Donald Izzett]] (born 1975), American man who has been missing since 1995
+* [[Don Jones (Louisiana politician)|Donald Edward Jones]] (born 1949), American politician
+* [[Donald Keene]] (1922–2019), American-Japanese literary scholar
+* [[Donald Knuth]] (born 1938), American computer scientist
+* [[Donald Maclean (spy)]] (1913–1983), British diplomat and Soviet spy
+* [[Donald MacCormick]] (1939–2009), Scottish journalist
+* [[Donald R. MacLeod]], Canadian politician
+* [[Donald R. McMonagle]] (born 1952), former astronaut and a veteran of three shuttle flights
+* [[Donald (South African musician)|Donald Moatshe]] (born 1985), South African musician
+* [[Donald Mote]] (1900–1968), Justice of the Indiana Supreme Court
+* [[Don Muraco|Donald "Don" Muraco]] (born 1939), American retired wrestler
+* [[Donald Nicol (MP)|Donald Nicol]] (1843–1903), Scottish politician
+* [[Donald Nicolaisen]], American politician
+* [[Donald Nixon]] (1914–1987), younger brother of 37th [[President of the United States|U.S. President]] Richard Nixon
+* [[Donald Obeyesekere]] (1888-1964), Sri Lankan Sinhala legislator
+* [[Donald of Ogilvy]] (Saint Donald)
+* [[Donald Parham]] (born 1997), American football player
+* [[Donald Perera]], 11th Commander of the Sri Lanka Air Force
+* [[Donald H. Peterson]] (1933–2018), United States Air Force officer and NASA astronaut
+* [[Donald Pettit]] (born 1955), American chemical engineer and a NASA astronaut
+* [[Donald Pleasence]] (1919–1995), English actor
+* [[Donald Ramotar]], President of [[Guyana]]
+* [[Donald Jasen Ranaweera]], Sri Lankan Sinhala planter, press baron, and politician
+* [[Don Vaughan (North Carolina politician)|Donald Ray "Don" Vaughan]] (born 1952), North Carolina, US, politician
+* [[Donald Richie]] (1924–2013), American-born author who wrote about the Japanese people, the culture of Japan, and especially Japanese cinema
+* [[Donald A. Ritchie]] (born December 23, 1945), Historian Emeritus of the United States Senate
+* [[Buck Dharma|Donald "Buck Dharma" Roeser]] (born 1947), rock musician, guitarist for Blue Öyster Cult
+* [[Donald Rumsfeld]] (1932–2021), United States Secretary of Defense
+* [[Donald Sanford (athlete)|Donald Sanford]] (born 1987), American-Israeli Olympic sprinter
+* [[Donald Sild]] (born 1968), Estonian javelin thrower
+* [[Deke Slayton|Donald "Deke" Slayton]] (1924–1993), American astronaut
+* [[Donald Spero]], world champion rower
+* [[Donald Sterling]], sports team owner
+* [[Donald Sutherland]] (born 1935), Canadian actor
+* [[Donald A. Thomas]] (born 1955), American engineer and a former NASA astronaut
+* [[D. J. Trahan|Donald J. Trahan, Jr.]] (born 1980), American golfer
+* [[Donald Triplett]] (born 1933), first person to be diagnosed with [[autism]]
+* [[Donald Trump]] (born 1946), 45th President of the United States, businessman
+* [[Donald Tsang]] (born 1944), Chief Executive of Hong Kong
+* [[Donald Tusk]] (born 1957), former President of the European Council, former Polish Prime Minister (2007–14)
+* [[Donald Wailan-Walalangi]] (born 1960), Indonesian tennis player
+* [[Donald Watson]] (1910–2005), English animal rights advocate and founder of the [[The Vegan Society|Vegan Society]]
+* [[Donald Woodward Lee]] (1910–1977), American philologist
+* [[Donald Whiston]] (1927–2020), American ice hockey player
+* [[Donald Whitton]], Canadian cellist and teacher
+* [[Donald E. Williams]] (1942–2016), American naval officer and aviator, test pilot, mechanical engineer and NASA astronaut
+* [[Donald Williamson (disambiguation)]], multiple people
+* [[Donald Wilson (disambiguation)]], multiple people
+* [[Donald Young (tennis)]] (born 1989), American tennis player
+
+=== Donaldo ===
+* [[Donaldo Arza]] (born 1946), Panamanian track and field athlete
+* [[Donaldo González]] (born 1971), Panamanian footballer
+* [[Dondon Hontiveros|Donaldo Hontiveros]] (born 1977), Filipino basketball player
+* [[Donaldo Macedo]] (born 1950), American academic
+* [[Donaldo Méndez]] (born 1978), Venezuelan baseball player
+* [[Donaldo Morales]] (born 1982), Honduran footballer
+* [[Donaldo Ortiz Colín]] (born 1961), Mexican politician
+* [[Donaldo Ernesto Reyes]] (born 1939), Honduran lawyer and politician
+
+=== Donnie ===
+*[[Donnie McKinnon]] (born 1940), Scottish footballer
+* [[Donnie Wahlberg]] (born 1969), American singer, actor and film producer
+
+=== Donny ===
+* [[Donny Hathaway]] (1945–1979), American soul musician
+* [[Donny Osmond]] (born 1957), American singer and actor
+
+=== Fictional ===
+* [[Donald Blake (Marvel Comics)]], the secret identity of The Mighty Thor, from [[Marvel Comics]]
+* [[Donald Duck]], Disney animated cartoon and comic-book character
+* [[Donnie Darko]], protagonist of a film of the same name
+* [[Don Draper|Donald "Don" Draper]], protagonist of the AMC television series ''Mad Men''
+* [[Donald "Ducky" Mallard]], character in the TV show ''NCIS''
+* [[Donald Fisher (Home and Away)|Donald Fisher]], fictional character portrayed by Norman Coburn in Home and Away
+*[[General Morden|Donald Morden]], fictional character from the video game series [[Metal Slug (series)|Metal Slug]]
+* Sir [[Donald McDuck]], Disney character who is an ancestor of Scrooge McDuck and Donald Duck
+* [[Donald and Douglas|Donald the Twin Engine]], a fictional character from ''[[The Railway Series]]'' and its televised adaptation ''[[Thomas & Friends]]''
+
+== See also ==
+* [[List of Irish-language given names]]
+* [[List of Scottish Gaelic given names]]
+* [[Clan Donald]], one of the largest Scottish clans
+* [[Donald (surname)]]
+* [[Dumnorix]]
+* [[Macdonald (name)]]
+
+== References ==
+{{reflist}}
+
+{{Gaelic names}}
+{{given name}}
+
+[[Category:English-language masculine given names]]
+[[Category:English masculine given names]]
+[[Category:Scottish masculine given names]]

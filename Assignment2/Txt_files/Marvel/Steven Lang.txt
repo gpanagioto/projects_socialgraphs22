@@ -1,0 +1,5 @@
+#REDIRECT [[Steven Lang (character)]]
+
+{{Redirect category shell|
+{{R from move}}
+}}

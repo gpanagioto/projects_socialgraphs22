@@ -1,0 +1,161 @@
+{{Short description|1949 film serial}}
+{{Distinguish|text=1997 movie [[Batman & Robin (film)|Batman & Robin]]}}
+{{Infobox film
+| name           = Batman and Robin
+| image          = Batman and Robin 1949 poster.jpg
+| caption        = 
+| director       = [[Spencer Gordon Bennet]]
+| producer       = [[Sam Katzman]]
+| writer         = {{Plainlist| 
+* [[George H. Plympton]]
+* [[Joseph F. Poland]]
+* Royal K. Cole
+}}
+| based_on       = {{Based on|[[Batman]]||[[Bob Kane]]|[[Bill Finger]]}}<br />{{Based on|[[Robin (Batman)|Robin]]||Bob Kane|Bill Finger|[[Jerry Robinson]]}}
+| starring       = {{Plainlist| 
+* [[Robert Lowery (actor)|Robert Lowery]]
+* [[Johnny Duncan (actor)|Johnny Duncan]]
+* [[Poni Adams|Jane Adams]]
+* [[Lyle Talbot]]
+* [[Ralph Graves]]
+* [[Don C. Harvey]]
+* [[William Fawcett (actor)|William Fawcett]]
+* [[Leonard Penn]]
+}}
+| music          = 
+| cinematography = Ira H. Morgan
+| editing        = Dwight Caldwell<br />[[Earl Turner (film editor)|Earl Turner]]
+| color_process  = [[Black and white]]
+| studio         = 
+| distributor    = [[Columbia Pictures]]
+| released       = {{Film date|1949|05|26|United States}}
+| runtime        = 15 chapters (264 minutes)
+| country        = United States
+| language       = English
+| budget         = 
+| gross          = 
+}}
+'''''New Adventures of Batman and Robin, the Boy Wonder''''',<ref>{{cite web |url=http://www.tcm.com/tcmdb/title/490378/Batman-and-Robin/home-video-reviews.html |title=Batman and Robin (1949) - Home Video Reviews - TCM.com |archive-url=https://web.archive.org/web/20161029113211/http://www.tcm.com/tcmdb/title/490378/Batman-and-Robin/home-video-reviews.html |archive-date=29 October 2016 |url-status=dead}}</ref><ref>http://www.doctormacro.com/Images/Posters/B/Poster%20-%20Batman%20and%20Robin%20(1949)_01.jpg {{Bare URL image|date=March 2022}}</ref> also known as simply '''''Batman and Robin''''', is a 15-chapter [[Serial film|serial]] released in 1949 by [[Columbia Pictures]]. It is a sequel to the [[Batman (serial)|1943 serial ''Batman'']], although with different actors. [[Robert Lowery (actor)|Robert Lowery]] played [[Batman]], while [[Johnny Duncan (actor)|Johnny Duncan]] played [[Robin (comics)|Robin]]. Supporting players included [[Poni Adams|Jane Adams]] as [[Vicki Vale]] and veteran character actor [[Lyle Talbot]] as [[James Gordon (comics)|Commissioner Gordon]].
+
+The serials were re-released as Video On Demand titles by [[Rifftrax]], the alumni project of former ''[[Mystery Science Theater 3000]]''  members Michael J. Nelson, Kevin Murphy and Bill Corbett. As of September 2014, they have released the entire serial.<ref>{{cite web|url=http://www.rifftrax.com/search/apachesolr_search/batman|title=Search|access-date=2014-02-14|archive-url=https://web.archive.org/web/20170327054831/http://www.rifftrax.com/search/apachesolr_search/batman|archive-date=2017-03-27|url-status=dead}}</ref> [[Turner Classic Movies]] has broadcast the film serial from June to November 2015 and from October 2021 to January 2022 in a weekly half-hour slot on Saturday mornings.
+
+==Plot==
+The dynamic duo face off against the Wizard, a hooded villain with an electrical device which controls cars to augment his compulsion to set challenges for Batman and Robin. The Wizard's identity remains a mystery to the caped crusaders throughout until the end.<ref>{{cite book |last =Rovin |first =Jeff |title =The Encyclopedia of Supervillains |publisher =Facts on File |date =1987 |location =New York |isbn = 0-8160-1356-X |page=373}}</ref>
+
+==Cast==
+* [[Robert Lowery (actor)|Robert Lowery]] as [[Batman|Bruce Wayne / Batman]]
+* [[Johnny Duncan (actor)|Johnny Duncan]] as [[Dick Grayson]] / [[Robin (comics)|Robin]]
+* [[Poni Adams|Jane Adams]] as [[Vicki Vale]]
+* [[Lyle Talbot]] as [[James Gordon (character)|Commissioner Jim Gordon]]
+* [[Ralph Graves]] as Winslow Harrison
+* [[Don C. Harvey]] as Nolan, a [[henchman]]
+* [[William Fawcett (actor)|William Fawcett]] as Professor Hammil
+* [[Leonard Penn]] as Carter, Hammil's valet, and The Wizard, Carter's [[evil twin]]
+* [[Rick Vallin]] as Barry Brown, a tabloid radio gossip
+* [[Michael Whalen (actor)|Michael Whalen]] as Dunne, a private investigator
+* [[Lee Roberts]] as Neal, a henchman {{Small|(uncredited)}}
+* [[Greg McClure]] as Evans, a henchman
+* [[House Peters, Jr.]] as Earl, a henchman
+* Jim Diehl as Jason, a henchman
+* [[Rusty Wescoatt]] as Ives, a henchman
+* Eric Wilton as [[Alfred Pennyworth]] {{Small|(uncredited)}}
+* George Offerman Jr. as Jimmie Vale, Vicki's brother and henchman {{Small|(uncredited)}}
+
+==Production==
+[[File:Robert Lowery in Charlie Chan's Murder Cruise.jpg|left|thumb|<center>[[Robert Lowery (actor)|Robert Lowery]]</center>]]
+"As usual on a Katzman production," note Harmon and Glut, "the low budget showed everywhere in money-saving shortcuts, and inadequacies." The Batman costume had a poorly fitting cowl and the Robin costume added pink tights to cover the "hairy legs" of both the actor and the stuntman. The [[Batmobile]] is again excluded, but instead of a limousine as in [[Batman (serial)|the first serial]], the duo drive around in a [[Mercury Eight|1949 Mercury]].<ref name="GMS">{{cite book
+| last = Harmon
+| first = Jim
+|author2=Donald F. Glut
+|author2-link=Donald F. Glut
+| author-link = Jim Harmon
+| title = The Great Movie Serials: Their Sound and Fury
+| year = 1973
+| publisher = Routledge
+| isbn = 978-0-7130-0097-9
+| pages = 240–242
+| chapter = 10. The Long-Underwear Boys "You've Met Me, Now Meet My Fist!"
+}}</ref>
+
+Several mistakes and failures of logic occur in the serial. One example is that the film shows the [[Bat-Signal]] working in broad daylight. Another occurs when, despite the fact that the heroes' [[utility belt]]s had been replaced by normal belts with no pockets or pouches for this serial, in order to escape from a vault, Batman pulls the nozzle and hose of an [[Oxy-fuel welding and cutting|oxy-acetylene torch]] from his belt to cut through a steel door (the tanks for the torch are not shown); to compound this mistake, it is a full-sized oxy-acetylene torch that would have been impossible to carry unseen on his person. Harmon and Glut suggest that this was probably scripted to be a miniaturised 3-inch torch, as used in the comics, but the filmmakers improvised in following the directions for a "blowtorch."<ref name="GMS" />
+
+==Release==
+[[File:Batman&RobinSerialDVDCover.jpg|thumb|DVD cover]]
+In 1989, [[GoodTimes Entertainment]] released the serial on VHS, splitting the entire serial into two separate, budget-priced tapes recorded in LP mode. The GoodTimes edition was slightly edited, as well, with several minutes of the opening chapter mysteriously cut. In 1997, [[Columbia TriStar Home Video]] re-released the uncut serial (in SP mode) as a complete 2-tape VHS set. [[Sony Pictures Home Entertainment]] released the serial on [[DVD]] in 2005, timed to coincide with the theatrical release of ''[[Batman Begins]]''. Unlike [[Batman (serial)|its predecessor]], ''Batman and Robin: The Complete 1949 Movie Serial Collection'' has been given a restoration. On February 4, 2014, Mill Creek Entertainment released Gotham City Serials, a two-disc DVD set that includes both the 1943 Batman serial and the 1949 Batman and Robin serial. [[Rifftrax]] released a Video On Demand of the first installment of the short on July 16, 2013, featuring a running mocking commentary from [[Michael J. Nelson]], [[Kevin Murphy (actor)|Kevin Murphy]] and [[Bill Corbett]] of ''[[Mystery Science Theater 3000]]'' fame.<ref>{{cite web|url=http://www.mst3kinfo.com/?p=16136#comments|title=New Short from RiffTrax… « Satellite News}}</ref> The final episode, "Batman Victorious," was released with commentary on September 19, 2014.
+
+==Chapter titles==
+[[Turner Classic Movies]] began airing episodes of ''Batman and Robin'' in June 2015, following one week after the conclusion of airing the previous 1943 serial. Broadcast paused in August in favor of alternate programming, but resumed in September.
+
+# ''Batman Takes Over'' (broadcast June 27, 2015 on TCM)
+# ''Tunnel of Terror'' (broadcast July 11, 2015 on TCM)
+# ''Robin's Wild Ride'' (broadcast July 18, 2015 on TCM)
+# ''Batman Trapped!'' (broadcast July 25, 2015 on TCM)
+# ''Robin Rescues Batman!'' (broadcast September 5, 2015 on TCM)
+# ''Target - Robin!'' (broadcast September 12, 2015 on TCM)
+# ''The Fatal Blast'' (broadcast September 19, 2015 on TCM)
+# ''Robin Meets the Wizard!'' (broadcast September 26, 2015 on TCM)
+# ''The Wizard Strikes Back!'' (broadcast October 3, 2015 on TCM)
+# ''Batman's Last Chance!'' (broadcast October 10, 2015 on TCM)
+# ''Robin's Ruse'' (broadcast October 17, 2015 on TCM)
+# ''Robin Rides the Wind'' (broadcast October 24, 2015 on TCM)
+# ''The Wizard's Challenge'' (broadcast November 7, 2015 on TCM)
+# ''Batman vs. Wizard'' (broadcast November 14, 2015 on TCM)
+# ''Batman Victorious'' (broadcast November 21, 2015 on TCM)
+<sub>Source:</sub><ref>{{cite book
+| last = Cline
+| first = William C.
+| title = In the Nick of Time
+| url = https://archive.org/details/innickoftimemot00clin
+| url-access = registration
+| year = 1984
+| publisher = McFarland & Company, Inc.
+| isbn = 0-7864-0471-X
+| pages = [https://archive.org/details/innickoftimemot00clin/page/249 249]
+| chapter = Filmography
+}}</ref>
+
+==See also==
+* [[List of film serials]]
+* [[List of film serials by studio]]
+* [[List of films based on English-language comics]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{IMDb title|0041162|Batman and Robin}}
+* {{Allmovie title|143325|Batman and Robin}}
+* {{Internet Archive film|id=batman-and-robin-1949-}}
+
+{{s-start}}
+{{succession box 
+| title=[[Columbia Pictures|Columbia]] [[Serial (film)|Serial]]
+| before=''[[Bruce Gentry]]'' (1949)
+| years='''''Batman and Robin'' (1949)'''
+| after=''[[Adventures of Sir Galahad]]'' (1949)}}
+{{end}}
+{{Batman fan films}}
+{{Robin}}
+{{Sam Katzman}}
+{{Batman in popular media}}
+{{DC Comics films}}
+{{Columbia serials}}
+{{Authority control}}
+
+{{DEFAULTSORT:Batman And Robin (Serial)}}
+[[Category:1949 films]]
+[[Category:1940s action films]]
+[[Category:1940s superhero films]]
+[[Category:American superhero films]]
+[[Category:Live-action films based on DC Comics]]
+[[Category:American action films]]
+[[Category:American sequel films]]
+[[Category:Batman films]]
+[[Category:Columbia Pictures film serials]]
+[[Category:Films directed by Spencer Gordon Bennet]]
+[[Category:Robin (character) films]]
+[[Category:American black-and-white films]]
+[[Category:1940s English-language films]]
+[[Category:Films with screenplays by George H. Plympton]]
+[[Category:Films with screenplays by Joseph F. Poland]]
+[[Category:1940s American films]]

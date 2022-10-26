@@ -1,0 +1,5 @@
+#REDIRECT [[X-Statix]]
+
+{{Redirect category shell|
+{{R avoided double redirect|Mister Sensitive}}
+}}

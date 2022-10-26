@@ -1,0 +1,57 @@
+{{other uses|Legion (disambiguation){{!}}Legion (comics)}}
+{{Superherobox <!--Wikipedia:WikiProject Comics-->
+| image = [[Image:LegionGreenLantern.png]]
+| caption = Legion in his armored form.
+| character_name = Legion
+| publisher = [[DC Comics]]
+| debut = ''Green Lantern: Emerald Dawn'' #2 (January 1990)
+| creators = [[Keith Giffen]] (plot and pencils)<br>[[Gerard Jones]] (script)<br>[[Romeo Tanghal]] (inks)
+| alter_ego = *
+| full_name =
+| species = [[List of alien races in DC Comics#Tchk-Tchkii|Tchk-Tchkii]]
+| homeworld = <!-- optional -->
+| alliances = <!-- optional -->
+| aliases = <!-- optional: actual identities the character uses, not nicknames -->
+| supports=<!--optional-->
+| powers = Super-strength, invulnerability
+}}
+'''Legion''' is a <!--Do not add "fictional" as it is tautological; supervillains (and characters in general) are by definition implied to be fictionalized to some extent.-->[[supervillain]] in the [[DC Comics]] [[DC Universe|universe]]. He was created by [[Keith Giffen]], [[Gerard Jones]], and [[Romeo Tanghal]]. He is a foe of [[Abin Sur]], the Green Lantern of Sector 2814, the [[Silver Age of comics|Silver Age]] [[Hal Jordan|Green Lantern]] and the [[Green Lantern Corps]]. His only appearance is in the 1990 mini-series ''[[Green Lantern: Emerald Dawn]]''.
+
+==Fictional character biography==
+Legion was introduced in the 1990 comic mini-series ''Green Lantern: Emerald Dawn'', which covers the early days of [[Hal Jordan]]'s career as the Silver Age [[Green Lantern]].
+
+In ancient times, the [[Green Lantern Corps]] came across the planet Tchk-Tchk in Space Sector 407, which was home to an aggressive, insectile race. After conquering their own planet, they began to spread to the rest of the galaxy, at which point the [[Guardians of the Universe]] decided to take action, sending the Green Lanterns to beat back the Tchk-Tchk and seal off their planet.<ref>''Green Lantern: Emerald Dawn'' #4</ref>
+
+Unable to leave, the Tchk-Tchk quickly expended their food supply and began to die out. Realizing what was happening, they put their minds into their new invention, the Soul Jar, wherein they became a sort of hive mind. Once all the remaining minds had entered, they built themselves a new body and called themselves Legion.<ref name="Emerald Dawn #5">''Green Lantern: Emerald Dawn'' #5</ref>
+
+Quickly discovering that he was powerful enough to break through the Lantern's barrier, Legion set out to exact revenge on the Guardians. It managed to kill the Lanterns of Space Sectors 2817, 2816, and 2815 before encountering [[Abin Sur]]. The Lantern was unable to harm Legion due to his yellow color, but did manage to escape the encounter.
+
+Following Abin Sur's energy trail, Legion found himself on Earth where, upon learning of Abin Sur's death, he set out to kill his replacement, [[Hal Jordan]].
+
+When he found Jordan, his ring was depleted, thus leading Legion to believe he had lost the trail. In a rage, he destroyed everywhere the ring had been. Jordan took the opportunity to go to Abin Sur's spaceship to recharge his ring, which again attracted Legion. Jordan detonated the ships reactors, using his ring to protect himself, and afterwards believed Legion to be dead.<ref>''Green Lantern: Emerald Dawn'' #2-3</ref>
+
+However, Legion had escaped to the moon to continue his vendetta. When Jordan was taken to be trained by [[Kilowog]], Legion went to [[Oa]] for a final assault on the Guardians. He easily broke through their defenses, and Jordan and Kilowog were forced to assist in Oa's defense. Nothing seemed able to stop him, and many Lanterns were killed. He reached the Guardian's citadel, but Jordan, thinking quickly, covered him with mud (so his ring could affect him) and shattered his armor, believing this would kill him. Instead, its consciousness absorbed the power of Oa and grew to immense proportions.<ref name="Emerald Dawn #5"/>
+
+The Guardians fled Oa, but Jordan stayed to confront Legion. He hurled himself into the Central Power Battery, gaining immense power, and was able to hurl Legion into space, where the other Green Lanterns took him back to Tchk-Tchk to hopefully begin a new life.<ref>''Green Lantern: Emerald Dawn'' #6</ref>
+
+Legion made no further appearances following the series and has been [[retcon]]ned out of DC comics continuity following the events of ''[[Infinite Crisis]]'' and the ''[[Sinestro Corps War]]'' (as explained in the "Secret Origin" arc of ''Green Lantern'' [Vol. 4]).
+
+==In other media==
+Legion was planned to be the main villain in an unproduced screenplay for a ''[[Green Lantern (film)|Green Lantern]]'' film written by [[Robert Smigel]].
+
+== References ==
+{{reflist}}
+
+==External links==
+* [https://web.archive.org/web/20070930031500/http://www.dcuguide.com/glcorps/profile.php?name=legion Legion at the Unofficial Guide to the DC Universe]
+
+{{Green Lantern}}
+
+[[Category:DC Comics aliens]]
+[[Category:DC Comics male supervillains]]
+[[Category:Characters created by Keith Giffen]]
+[[Category:Fictional giants]]
+[[Category:DC Comics characters with superhuman strength]]
+[[Category:DC Comics extraterrestrial supervillains]]
+[[Category:Fictional serial killers]]
+[[Category:Comics characters introduced in 1990]]

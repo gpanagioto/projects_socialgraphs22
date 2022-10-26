@@ -1,0 +1,838 @@
+{{pp-protect|small=yes}}
+{{Short description|Comic book character}}
+{{other}}
+{{distinguish|Harlequin (DC Comics)}}
+{{Use mdy dates|date=January 2015}}
+{{Infobox comics character
+| character_name = Harley Quinn
+| image          = Harley Quinn Infobox.png
+| image_size     = 
+| caption        = Promotional illustration for ''Suicide Squad'' (vol. 6). Art by Bruno Redondo.
+| real_name      = Harleen Frances Quinzel<ref>{{cite book|editor1-first=Shelley E.|editor1-last=Barba|editor2-first=Joy M.|editor2-last=Perrin|title=The Ascendance of Harley Quinn: Essays on DC's Enigmatic Villain|publisher=[[McFarland (publisher)|McFarland]] |location=Jefferson, North Carolina|year=2017 |isbn=978-1476665238|page=204}}</ref><ref>{{cite book |first1=Martin|last1=Gitlin|first2=Joseph|last2=Wos |title=A Celebration of Animation: The 100 Greatest Cartoon Characters in Television History |publisher=[[Rowman & Littlefield]]|location=Lanham, Maryland|year=2018|url=https://books.google.com/books?id=l8BIDwAAQBAJ |isbn=978-1630762780|page=114}}</ref>
+| publisher      = [[DC Comics]]
+| first_series   = [[Batman: The Animated Series]]<br />''"[[Joker's Favor]]" (September 11, 1992)'
+| first_comic    = ''[[The Batman Adventures]]'' #12 (September 1993)
+| creators       = [[Paul Dini]]<br />[[Bruce Timm]]
+| homeworld      = [[Brooklyn]] / [[Gotham City]]
+| alliances      = [[Suicide Squad]]<br />[[Gotham City Sirens]]<br />Quinntets<br />Gang of Harleys<br />[[Secret Six (comics)|Secret Six]]<br />[[Justice League of Anarchy]]<br />[[Batman family|Batman Family]]<ref>{{cite web | last=McGuire | first=Liam | title=Harley Quinn Is Officially Part Of The Bat-Family, DC Confirms | website=ScreenRant | date=2021-08-10 | url=https://screenrant.com/harley-quinn-batman-bat-family-dc-comics/ | access-date=2021-08-20}}</ref>
+| aliases        = Holly Chance<ref>Harley Quinn vol. 1</ref><br />Dr. Jessica Seaborn<ref>Harley Quinn vol. 1</ref>
+| partners       = <!--Pls keep this list short. Don't add insignificant allies and other Suicide Squad/Gotham City Sirens/other teams members-->[[Joker (character)|Joker]]<br /> [[Poison Ivy (character)|Poison Ivy]]<br /> [[Bud and Lou]]
+| powers         = * Trained [[Psychiatry|psychiatrist]]
+* Expert [[gymnastics|gymnast]]
+* Enhanced  strength, durability, stamina, reflexes, and agility
+* Immunity to various toxins
+* Uses weaponized props
+| cat            = super
+| subcat         = DC Comics
+| hero           = y
+| villain        = y
+}}
+'''Harley Quinn''' is a [[character (arts)|character]] appearing in <!--This article's main topic is the main comic iteration. Do not change-->[[American comic book]]s published by [[DC Comics]]. Quinn was created by [[Paul Dini]] and [[Bruce Timm]] as a [[comic relief]] [[henchwoman]] for the [[supervillain]] [[Joker (character)|Joker]] in ''[[Batman: The Animated Series]]'', and debuted in its 22nd episode, "[[Joker's Favor]]", on September 11, 1992. While intended to appear in one episode, Quinn became a [[recurring character]] within the [[DC Animated Universe]] as the Joker's [[sidekick]] and love interest, and was adapted into [[DC Comics]]' [[Batman (comic book)|Batman comic book]] [[Canon (fiction)|canon]] seven years later, beginning with the [[One-shot (comics)|one-shot]] ''Batman: Harley Quinn'' #1 (October 1999). Quinn's [[origin story]] features her as a former [[psychiatrist]] at [[Gotham City]]'s [[Arkham Asylum]] named '''Dr. Harleen Quinzel''' who fell in love with the Joker, her patient, eventually becoming his accomplice and lover. The character's alias is a [[word play|play]] on the [[stock character]] [[Harlequin]] from the 16th-century [[theater]] {{Lang|it|[[commedia dell'arte]]}}.
+
+Following her introduction to the [[DC Universe]] in 1999, Harley Quinn was depicted as a frequent accomplice and lover of the Joker as well as the best friend of fellow supervillain [[Poison Ivy (character)|Poison Ivy]]. Later stories depicted Quinn as a supervillain who has left her [[domestic violence|abusive]] relationship with the Joker behind, beginning with the publication of her first [[ongoing series]] written by [[Karl Kesel]] in 2000. After years of scarce appearances in comics, Quinn returned in a leading role in 2009 with the ''[[Gotham City Sirens]]'' series, as part of an unstable alliance with Poison Ivy and [[Catwoman]]. In 2011, DC's line-wide [[reboot (fiction)|reboot]] ''[[The New 52]]'' reintroduced Quinn in the relaunched ''[[Suicide Squad]]'' title, which changed the character's personality, design, and origin, replacing her original jester costume with a revealing ensemble and depicting her to be darker than her earlier counterpart. The character took a lighthearted and humorous direction with her second ongoing series in 2013, written by [[Amanda Conner]] and [[Jimmy Palmiotti]], which features the character moving to her hometown of [[Brooklyn]] and starting her own life in [[Coney Island]]. The character has since been depicted as an [[antihero]] independent of the Joker and a recurring core member of the Suicide Squad, with Poison Ivy becoming her primary romantic interest.<ref name="intoherown">{{cite web | last=Knight | first=Rosie | title=Brilliant Women of Batman: Harley Quinn Comes Into her Own | website=[[DC Comics]]| date=2019-05-22 | url=https://www.dccomics.com/blog/2019/05/22/brilliant-women-of-batman-harley-quinn-comes-into-her-own | access-date=2021-03-04}}</ref> In 2021, DC's line-wide ''[[Infinite Frontier]]'' relaunch brought Quinn back to [[Gotham City]] and reestablished her as a [[superhero]] seeking redemption for her past actions, with a new design combining her early and modern appearances.
+
+Harley Quinn's abilities include [[expert]] [[gymnastic]] skills, proficiency in [[weapons]] and [[hand-to-hand combat]], complete unpredictability, immunity to toxins, and enhanced strength, agility, and durability. Quinn often wields [[clown|clown-themed]] gag weapons, with an oversized [[mallet]] being her signature weapon. The character has a pair of pet [[hyenas]], [[Bud and Lou]], which sometimes serve as her [[attack dog]]s. As a trained psychiatrist with a genius-level intellect, she is adept at [[deception]] and [[psychological manipulation]].
+
+Harley Quinn has become one of DC Comics' most popular and profitable characters, and has been featured in many of DC's comic books and adapted in various other media and merchandise. DC Comics Publisher [[Jim Lee]] considers Harley Quinn the fourth pillar of DC Comics' publishing line, behind [[Superman]], [[Batman]], and [[Wonder Woman]].
+
+Originally voiced by [[Arleen Sorkin]] in the [[DC Animated Universe]], she has since appeared in many other DC projects voiced by actresses such as [[Tara Strong]], [[Hynden Walch]], [[Laura Bailey (voice actress)|Laura Bailey]], [[Jenny Slate]], [[Melissa Rauch]], [[Laura Post]], and [[Kaley Cuoco]]; the latter provided the character's voice in the 2019 animated series ''[[Harley Quinn (TV series)|Harley Quinn]]''. [[Mia Sara]] portrayed the character in the 2002 television series ''[[Birds of Prey (TV series)|Birds of Prey]]''. [[Harley Quinn (DC Extended Universe)|Harley Quinn]] makes her live-action cinematic debut in the [[DC Extended Universe]] (DCEU) film ''[[Suicide Squad (film)|Suicide Squad]]'' (2016), where she is portrayed by [[Margot Robbie]]. Robbie reprises her role in ''[[Birds of Prey (2020 film)|Birds of Prey]]'' (2020) and ''[[The Suicide Squad (film)|The Suicide Squad]]'' (2021), with elements of her portrayal's design consequentially incorporated into comics, while [[Lady Gaga]] will portray the character in ''[[Joker: Folie à Deux]]'' (2024).
+{{TOC limit|3}}
+
+==History==
+===Creation and development===
+[[File:Harley Quinn (Dr. Harleen Frances Quinzel).png|thumb|140px|right|upright|Harley Quinn as she appears in the [[DC Animated Universe]]. Art by [[Bruce Timm]].]]
+Harley Quinn was created by [[Paul Dini]] and [[Bruce Timm]] for the 1992 ''[[Batman: The Animated Series]]'' episode entitled "[[Joker's Favor]]" while Dini was writing the episode.<ref name="McCabe2017">{{cite book|last=McCabe|first=Joseph|title=100 Things Batman Fans Should Know & Do Before They Die|url=https://books.google.com/books?id=SLU0DwAAQBAJ|date=October 15, 2017|publisher=Triumph Books|isbn=978-1-63319-914-9|chapter=26. Harley Quinn}}</ref> Initially written as an animated equivalent of a [[bit part|walk-on role]], Harley Quinn was intended to appear in just one episode.<ref name="Polo 2015">{{cite web|last=Polo|first=Susana|title=Harley Quinn co-creator Bruce Timm thinks Suicide Squad's Harley is pretty cute|website=[[Polygon (website)|Polygon]]|date=May 4, 2015|url=https://www.polygon.com/2015/5/4/8548191/harley-quinn-co-creator-bruce-timm-thinks-suicide-squads-harley-is|access-date=March 2, 2021}}</ref><ref name="The Hollywood Reporter 2016">{{cite web|last=Couch|first=Aaron|title=Harley Quinn: History of the 90s Icon|website=[[The Hollywood Reporter]]|date=August 8, 2016|url=https://www.hollywoodreporter.com/movies/movie-news/harley-quinn-history-917464|access-date=March 3, 2021}}</ref> As Dini was putting together the story for the episode, he wanted to introduce a [[foil (narrative)|foil]] for the supervillain Joker; Dini recalled, "The way I created her was I was writing a story called “Joker’s Favor” and it was my first Joker story and I wanted to make it good and I wanted to make the Joker everything he is in the better comics books, which is funny and scary and egotistical and I thought maybe a foil would bring out some of those personality traits."<ref name="onemanstrash">{{cite web|title=One on One with Paul Dini – HoboTrashcan|website=Hobo Trashcan|date=January 3, 2006|url=https://www.hobotrashcan.com/2006/01/03/one-on-one-with-paul-dini/|access-date=August 21, 2021}}</ref><ref name="batmananimated"/> He then thought of giving Joker a female henchperson, inspired by the [[gun moll|molls]] of the [[Batman (TV series)|1960s live-action ''Batman'' series]],<ref name="The Hollywood Reporter 2016" /><ref name="EW.com 2017">{{cite magazine|last=Holub|first=Christian|title=Paul Dini Reflects On 25 Years Of Harley Quinn|magazine=[[Entertainment Weekly]]|date=September 5, 2017|url=https://ew.com/books/2017/09/05/paul-dini-25-years-of-harley-quinn/|access-date=March 3, 2021}}</ref><ref name="Riesman 2020">{{cite web|last=Riesman|first=Abraham|title=The Strange, Hidden Story of Harley Quinn|website=Vulture|date=February 5, 2020|url=https://www.vulture.com/2014/12/harley-quinn-dc-comics-suicide-squad.html|access-date=March 3, 2021}}</ref> and then decided she would be a "funny counterpart to the Joker to maybe work up a little [[Punch and Judy]] attitude between them";<ref name="onemanstrash"/> Dini stated, "[...] she could crack a joke and the henchmen would laugh, and the Joker would kind of glare at her."<ref name="Strangebuttrue"/> In 1991, after seeing his college friend [[Arleen Sorkin]] play a roller-skating [[jester]] from a [[dream sequence]] in the [[soap opera]] ''[[Days of Our Lives]]'', Dini decided to have Sorkin voice her.<ref name="onemanstrash"/><ref name="Riesman 2020"/> Dini then partly based Harley Quinn on Sorkin, with Dini incorporating aspects of Sorkin, such as her "very snappy, wisecracking, bubbly blonde" personality into the character as well as her mannerisms.<ref name="Strangebuttrue">{{cite web|title=#BatmanDay: The strange but true history of Harley Quinn revealed!|date=September 23, 2017|website=Yahoo|url=https://www.yahoo.com/entertainment/batmanday-strange-true-history-harley-quinn-revealed-015353505.html|access-date=August 21, 2021|first=Marcus|last=Errico}}</ref><ref name="batmananimated">{{cite book|last1=Dini|first1=Paul|last2=Chip|first2=Kidd|title=Batman Animated|publisher=[[HarperCollins Publishers]]|location=New York City|date=1998|isbn=978-0-06-107327-4}}</ref><ref name="onemanstrash"/> In recording Harley Quinn's voice, Sorkin spoke in her normal [[Brooklyn accent]] while putting in a "little [[Yiddish]] sound", since Dini made the character [[Jewish]], another aspect of the character borrowed from Sorkin.<ref name="Riesman 2020" /><ref>{{cite web|last=Riesman|first=Abraham|title=An Oral History of 'Batman: The Animated Series'|website=Vulture|date=October 6, 2017|url=https://www.vulture.com/article/oral-history-batman-the-animated-series.html|access-date=March 16, 2021}}</ref><ref name="funlovingpsycho">{{cite news|last=Ito|first=Robert|title=Harley Quinn, Just the Nice, Fun-Loving Psycho Next Door|website=The New York Times|date=August 2, 2016|url=https://www.nytimes.com/2016/08/07/movies/harley-quinn-suicide-squad.html|access-date=March 14, 2021}}</ref><ref>{{cite web|title=Harley Quinnesday: The Jewish Roots of Harley Quinn|website=DC UNIVERSE INFINITE|date=November 21, 2019|url=https://www.dcuniverseinfinite.com/news/harley-quinnesday-jewish-roots-harley-quinn/|access-date=August 13, 2021|first=Alex|last=Jaffe}}</ref>
+
+{{external media
+| width  = x150px
+| float  = left
+| video1 = [https://www.youtube.com/watch?v=5e1uFAEcR4A The dream sequence from the show ''Days of Our Lives'' in which Arleen Sorkin plays a jester], which served as inspiration for the character's creation. Dini came across the scene while watching a [[VHS tape]] of Sorkin's "favorite ''Days'' moments", given to Dini by Sorkin.<ref name="onemanstrash"/><ref name="Riesman 2020"/>
+| image1 = [https://web.archive.org/web/20210826084103/https://s.yimg.com/ny/api/res/1.2/Zr2.EVt0r3H7BVenH4qr_w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTYyNi43NDU1NjIxMzAxNzc1O2NmPXdlYnA-/https://s.yimg.com/uu/api/res/1.2/YfHBqbsmKoRYoXPGA7faAA--~B/aD0zMzE7dz01MDc7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en/homerun/feed_manager_auto_publish_494/47d1e8b82f9b0bdd8b7c3b8396ded47d Paul Dini's original design for Harley Quinn], a "crazy blond character in a [[miniskirt]]" based on actress [[Barbara Eden]] and "1940s screwballs" such as [[Betty Hutton]], [[Gloria Grahame]], and [[Claudette Colbert]].<ref name="Strangebuttrue"/><ref>{{cite web|last=Errico|first=Marcus|title=The Evolution of Harley Quinn, From Sketch to Screen Queen|website=Yahoo! News|date=August 4, 2016|url=https://www.yahoo.com/entertainment/evolution-harley-quinn-sketch-screen-144902163.html|access-date=November 15, 2021}}</ref>
+}}
+
+Dini had several names in mind while naming the character, such as [[Columbina|Columbine]], and eventually settled on the name "Harley Quinn".<ref>{{cite web|url=https://www.angelfire.com/tv/harleyquinn/interview.html|title=Interview with Paul Dini|website=www.angelfire.com}}</ref> Dini chose the name for the character to be in line with other Batman characters's names being [[puns]], and also because he thought "Harley was a fun name for a girl."<ref name="digitalspysecrethistory">{{cite web|last=McCabe|first=Joseph|title=Harley Quinn – her secret history, according to her creators Paul Dini and Bruce Timm|website=Digital Spy|date=November 30, 2018|url=https://www.digitalspy.com/movies/a837762/harley-quinn-bruce-timm-paul-dini-interview/|access-date=March 15, 2021}}</ref><ref name="Strangebuttrue"/> The name Harley Quinn is a [[word play|play]] on [[Harlequin]], a  [[stock character]] from the [[sixteenth-century]] Italian physical comedy [[theater]] {{Lang|it|[[commedia dell'arte]]}}.<ref name="The Hollywood Reporter 2016" /><ref>{{cite web|last=Kaya|first=Jennet|title=The Evolution Of The Harlequin Archetype To DC's 'Harley Quinn'|website=[[The Odyssey Online]]|date=March 18, 2019|url=https://www.theodysseyonline.com/harley-quinn-vs-harlequin|access-date=March 15, 2021}}</ref>
+
+In designing the character, Timm did a "simplified supervillain version" of traditional Harlequin gear; from the {{Lang|it|commedia dell'arte}} original, he took the [[jester hat]], [[ruffled]] collar, diamond pattern, and domino mask and put them on a red-and-black [[bodysuit]], on which the diamonds were strategically placed for easier animation.<ref name="The Hollywood Reporter 2016" /><ref name="funlovingpsycho" /> Timm took Harley Quinn's red and black [[Motif (visual arts)|motif]] from the [[Golden Age of Comic Books|Golden Age]] comic book character [[Daredevil (Lev Gleason Publications)|Daredevil]].<ref name="The Hollywood Reporter 2016" /> Dini had previously made a rough design for the character, which Timm improved on.<ref name="Riesman 2020" />
+
+===Expanded role===
+{{quote box|align=right|width=30em|quote="Eventually each of the directors wanted to do a Harley episode, so the character began to appear in stories without the Joker. Over the years she allied herself with best gal pal Poison Ivy for occasional romps through Gotham, and has even succeeded in giving Batman a hard time on her own. We now look upon Harley as our series' wild card, capable of showing up anytime to bedevil our heroes with her screwball antics."|source=Paul Dini<ref name="batmananimated"/>}}
+
+{{quote box|align=right|width=30em|quote="The more we used Harley and the more we used her in different roles, the more we discovered what a richer character she was; she just blossomed, in a very short time, to the point where she was just as interesting as [[Catwoman]] or [[Penguin (comics)|Penguin]] or [[Ra’s al Ghul]] or one of the other core Batman characters."|source=Paul Dini<ref name="Strangebuttrue"/>}}
+
+After seeing Harley Quinn in the [[rough cut]] of "Joker's Favor", the producers of ''Batman: The Animated Series'', which include Dini and Timm, were impressed with the result, with Dini wanting to bring the character back for more episodes.<ref name="backissue">{{cite magazine |last=Trumbull|first=John |date=September 2017 |title=Crazy in Love: A Harley Quinn History |url=https://books.google.com/books?id=xBgxDwAAQBAJ&pg=PA67 |magazine=[[Back Issue!]] |publisher=[[TwoMorrows Publishing]] |access-date=March 21, 2021}}</ref><ref name="The Hollywood Reporter 2016" /> Timm and another producer, [[Alan Burnett]], were initially reluctant of this, and thought that giving Joker a girlfriend "played more towards his comedic side" and would "humanize him too much", which contrasted their vision for Joker as a character who is "as serious a threat as possible to Batman".<ref name="backissue" /><ref name="The Hollywood Reporter 2016" /> Nevertheless, months after "Joker's Favor", Harley made a second appearance on the show in the episode "The Laughing Fish" and became the Joker's love interest.<ref name="The Hollywood Reporter 2016" /> Harley Quinn gained popularity with fans of ''The Animated Series'', with the character being featured more on the show and eventually starring in her own episodes, such as 1993's "Harley and Ivy", which introduced a friendship between Harley Quinn and fellow supervillain [[Poison Ivy (character)|Poison Ivy]], and 1994's "Harlequinade" and "Harley's Holiday", which explored Harley Quinn's life without the Joker.<ref>{{cite web|last=Black|first=Dorian Reyes|title=How Did Harley Quinn & Poison Ivy's Romance First Start?|website=ScreenRant|date=April 5, 2020|url=https://screenrant.com/harley-quinn-poison-ivy-romance-origin/|access-date=March 22, 2021}}</ref><ref name="gftostar"/><ref name="itistolaugh">{{cite book|last=Owens|first=Emilee|title=The Ascendance of Harley Quinn: Essays on DC's Enigmatic Villain|chapter-url=https://books.google.com/books?id=rtg5DwAAQBAJ&pg=PP1|date=October 12, 2017|publisher=McFarland|isbn=978-1-4766-2999-5|chapter="It is to laugh": The History of Harley Quinn}}</ref> Harley Quinn then became a [[recurring character]] in the [[DC Animated Universe]], appearing in ''The Animated Series'' sequel ''[[The New Batman Adventures]]'', and in non-Batman animation such as ''[[Superman: The Animated Series]]'', ''[[Static Shock]]'', and ''[[Justice League (TV series)|Justice League]]''. On February 7, 1994, she made her first appearance in a video game in ''[[The Adventures of Batman and Robin (video game)|The Adventures of Batman and Robin]]'', an [[action platformer]] based on ''Batman: The Animated Series''.<ref>{{cite web | title=The Adventures of Batman & Robin &#91;SNES&#93; | website=IGN | url=https://www.ign.com/games/the-adventures-of-batman-and-robin-super-nes | access-date=March 21, 2021}}</ref><ref>{{cite web|last=Negron|first=Sage|title=Every Harley Quinn Appearance in Video Games|website=Comic Book Resources|date=August 28, 2020|url=https://www.cbr.com/harley-quinn-every-video-game-appearance/|access-date=March 21, 2021}}</ref>
+
+===Transition to comic books===
+[[File:Harley_Quinn_and_Joker.png|thumb|"Tango With Evil" by [[Alex Ross]], from the cover of Harley's canonical debut ''Batman: Harley Quinn''. Widely described as iconic, the artwork depicts Harley dancing with a tuxedo-clad Joker and was later recreated in the 2016 film ''[[Suicide Squad (film)|Suicide Squad]]''.<ref>{{cite web | last=Yehl | first=Joshua | title=DC Writers Reflect on 25 Crazy Years of Harley Quinn | website=IGN | date=September 23, 2017 | url=https://www.ign.com/articles/2017/09/23/dc-writers-reflect-on-25-crazy-years-of-harley-quinn | access-date=March 21, 2021}}</ref><ref name="backissue" /><ref>{{cite web | last=Morrison | first=Pete | title=15 Iconic Alex Ross Covers | website=CBR | date=March 24, 2017 | url=https://www.cbr.com/15-iconic-alex-ross-covers/ | access-date=March 22, 2021}}</ref><ref>{{cite web | last=Bell | first=Crystal | title=Did You Catch This Iconic Harley Quinn And Joker Moment In Suicide Squad? | website=MTV News | date=August 9, 2016 | url=https://www.mtv.com/news/2916641/suicide-squad-harley-quinn-joker-alex-ross/ | access-date=March 22, 2021}}</ref><ref>{{cite web | last=Yehl | first=Joshua | title=The Joker and Harley Quinn Tango in New Statue | website=IGN | date=February 24, 2015 | url=https://www.ign.com/articles/2015/02/24/the-joker-and-harley-quinn-tango-in-new-statue | access-date=March 22, 2021}}</ref><ref>{{cite web | last=Diaz | first=Eric | title=7 HARLEY QUINN Stories to Read Before Her New Cartoon | website=Nerdist | date=July 26, 2019 | url=https://nerdist.com/article/7-harley-quinn-comics-dc-universe/ | access-date=March 22, 2021}}</ref>]]
+
+Because of her popularity, Harley Quinn was adapted into DC's comic books.<ref name="FallAndRiseDOG">{{cite web | title=The fall and rise of Harley Quinn | website=Den of Geek | date=December 20, 2011 | url=https://www.denofgeek.com/comics/the-fall-and-rise-of-harley-quinn/ | access-date=April 3, 2021|first=Jennie|last=Whitwood}}</ref> In September 1993, a year following Harley Quinn's first appearance in ''Batman: The Animated Series'', the character made her comic book debut in the twelfth issue of ''[[The Batman Adventures]]'', a series set in the universe of ''The Animated Series'', and became a regular character.<ref name="intoherown"/><ref name="McCabe2017" /> In 1997, she appeared in the story ''[[Batman: Thrillkiller]]'', released under [[Elseworlds]], a DC Comics [[imprint (trade name)|imprint]] that published out-of-continuity alternate reality stories, as '''Hayley Fitzpatrick'''.<ref name="intoherown" /> In 1999, she became a canonical character with the release of ''Batman: Harley Quinn'' #1.<ref name="intoherown" />
+
+====Origin story====
+{{Main|The Batman Adventures: Mad Love}}
+{{quote box|align=right|width=30em|quote="Bruce and I [...] were talking about what if there was some sort of surprise to her origin? What if she’s not just a hench girl? We came up with the idea that she had been a doctor at Arkham Asylum and the Joker had gotten into her head and worked her into being his follower. … Then we thought, what if Harley’s in the role of the long-suffering girlfriend?."|source=Paul Dini about the creation of ''Mad Love''<ref name="Strangebuttrue"/>}}
+In February 1994, the [[one-shot (comics)|one-shot]] ''The Batman Adventures: Mad Love'' recounting Harley's [[origin story|origin]] was released. Written by Dini and drawn by Timm, the story marks their first comic book collaboration.<ref name="backissue" />  ''Mad Love'' introduces Harley Quinn as a former [[psychiatrist]] named Harleen Quinzel who fell in love with the Joker during her [[internship]] at [[Gotham City|Gotham City's]] [[Arkham Asylum]] and details her transformation into the Joker's villainous accomplice Harley Quinn, as well as the Joker's lack of respect for Harley.<ref name="backissue" /><ref name="gftostar">{{cite web|first=Graeme|last=McMillan|title='Suicide Squad': How Harley Quinn Went From Girlfriend to Star|website=The Hollywood Reporter|date=April 29, 2016|url=https://www.hollywoodreporter.com/news/general-news/suicide-squad-how-harley-quinn-888823|access-date=March 21, 2021}}</ref><ref>{{cite web|last=Plummer|first=Jessica|title=A Close Look at the Paradox of Harley Quinn|website=BOOK RIOT|date=November 7, 2019|url=https://bookriot.com/paradox-of-harley-quinn/|access-date=July 13, 2021}}</ref><ref name="mltoss">{{cite magazine|last=Dockterman|first=Eliana|title=From Mad Love to Suicide Squad: The Evolution of Harley Quinn|magazine=Time|date=August 5, 2016|url=https://time.com/4438824/harley-quinn-evolution-joker-suicide-squad/|access-date=July 13, 2021}}</ref> Widely considered the definitive Harley Quinn story,<ref>{{cite web|last=Callahan|first=Timothy|title=Batman: Mad Love and Other Stories|website=CBR|date=May 23, 2009|url=https://www.cbr.com/batman-mad-love-and-other-stories/|access-date=August 10, 2021}}</ref><ref>{{cite web|last=Sims|first=Chris|title=DC's Harley Quinn Sale Is The Best $10 You'll Spend All Week|website=ComicsAlliance|date=August 20, 2015|url=https://comicsalliance.com/on-the-cheap-harley-quinn-sale/|access-date=August 10, 2021}}</ref><ref>{{cite web|title=Ten Must Watch Episodes of BATMAN: THE ANIMATED SERIES|website=DC UNIVERSE INFINITE|date=July 9, 2019|url=https://www.dcuniverseinfinite.com/news/ten-must-watch-episodes-batman-animated-series/|access-date=August 10, 2021}}</ref> ''Mad Love'' added dimensions to the character, with Dini introducing Harley Quinn's motivations as well as establishing her as a tragic figure and [[sympathetic villain]].<ref>{{harvp|Owens|2017|p=5}}</ref><ref>{{cite web|last=Meenan|first=Devin|title=10 Of The Best Single Issue Batman Stories|website=CBR|date=July 27, 2020|url=https://www.cbr.com/best-batman-single-issue-stores-dc-comics/|access-date=August 10, 2021}}</ref><ref name="harleysoralhistory">{{cite web|last=Keck|first=Catie|title=The Oral History of Harley Quinn|website=Complex|date=August 4, 2016|url=https://www.complex.com/pop-culture/2016/08/harley-quinn-oral-history|access-date=August 10, 2021}}</ref><ref>{{cite web|title=Harley Quinn and Poison Ivy are the Most Healing Couple In Gotham|website=Film School Rejects|date=April 7, 2020|url=https://filmschoolrejects.com/harley-quinn-poison-ivy-couple/|access-date=August 10, 2021}}</ref><ref>Archived at [https://ghostarchive.org/varchive/youtube/20211211/D6r6fqpDdO0 Ghostarchive]{{cbignore}} and the [https://web.archive.org/web/20210810144523/https://www.youtube.com/watch?v=D6r6fqpDdO0 Wayback Machine]{{cbignore}}: {{cite interview|last=|first=|subject-link=|interviewer=|title=Harley Quinn's Origin Revealed by Co-Creator Bruce Timm|work=|date=|publisher=|location=|url=https://www.youtube.com/watch?v=D6r6fqpDdO0|access-date=August 9, 2021}}{{cbignore}}</ref> The story received wide praise and won the [[Eisner Award|Eisner]] and [[Harvey Award|Harvey]] awards for Best Single Issue in the same year and was later adapted into an episode of the same name in ''The New Batman Adventures'' in 1999.<ref>{{cite journal|url=http://www.hahnlibrary.net/comics/awards/eisner94.php|title=Will Eisner Comic Industry Award Nominees and Winners|journal=Comic Book Awards Almanac|publisher=The Hahn Library|date=1994}}</ref><ref>{{cite web|title=Previous Winners|website=Harvey Awards|url=https://www.harveyawards.com/en-us/winners/previous-winners.html|access-date=March 21, 2021}}</ref><ref name="itistolaugh" />
+
+====Name origin====
+Harley Quinn's actual name is established in ''Mad Love'' as Harleen Frances Quinzel. "Harleen Frances" was borrowed by Dini from Sorkin's first and middle name, Arleen Frances. "Quinzel" was taken from a former teacher of Dini's from [[Emerson College]] named Quenzel.<ref name="Strangebuttrue"/>
+
+====Introduction to main DC continuity====
+Harley Quinn was adapted into the main [[DC universe]] with the 1999 one-shot graphic novel ''Batman: Harley Quinn'', written by Dini and illustrated by Yvel Guichet.<ref name="batmanhqreview">{{cite web | last=Goldstein | first=Hilary | title=Batman: Harley Quinn Review | website=IGN | date=May 25, 2005 | url=https://www.ign.com/articles/2005/05/25/batman-harley-quinn-review | access-date=March 21, 2021}}</ref>, which put her origin in the middle of the "[[No Man's Land (comics)|No Man's Land]]" storyline.<ref>{{cite web | last=Howie | first=William | title=Batman: How No Man's Land Changed Harley Quinn's Origin | website=Comic Book Resources | date=December 16, 2020 | url=https://www.cbr.com/batman-harley-quinn-comics-origin/ | access-date=March 21, 2021}}</ref> Dini changed Harley and Joker's relationship to be darker to match Joker's character in the comics; in the story, Joker attempts to kill Harley at the first opportunity. Dini also gave Harley new abilities, such as immunity to toxins and enhanced strength and agility, which she received after having been injected a special formula by Poison Ivy. These changes were made to match the needs of the DC Universe; on her new abilities, Dini said: "I figured if she'd be going head-to-head with Batman and the other DC heroes, Harley would need some kind of physical edge."<ref name="backissue" /><ref name="batmanhqreview" />
+
+===First ongoing series===
+{{quote box|align=right|width=30em|quote="[The series] is an interesting assignment because the main character is a) insane and b) a criminal, and both of these things are pretty essential to the character, so we don’t want to get rid of either of them. [...] [We] hammered out a direction for the book which [...] will establish a motivation and agenda for Harley. Depending on the storyline, she will be on the side of the angels sometimes, and on the side of the demons and devils on others. Like most great crime characters, she’s not concerned with the law. What concerns her is something totally different. What that is will be revealed as the first half dozen issues progress."|source=Karl Kesel, 2000.<ref name="keselinterview">{{cite web | title=Karl Kesel Interview | website=Westfield Comics | url=http://westfieldcomics.com/wow/frm_int_042.html | access-date=March 29, 2021}}</ref>}}
+While pursuing new assignments at DC Comics' offices in [[New York City]], [[Karl Kesel]] was approached by former DC editor Matt Idelson to create a pitch for Harley Quinn's first [[ongoing series]], which Karl accepted, being a fan of the character after having read Dini's ''Mad Love''.<ref name="backissue"/> Kesel chose [[Terry Dodson]] as the artist for the series, whose art Kesel thought complemented the character's cartoonish roots and worldview.<ref name="backissue"/><ref name="terrydodson">{{cite web| title=Interview with Terry Dodson | website=SugarBombs.Com | url=http://www.sugarbombs.com/genx/dodson.htm | access-date=March 29, 2021}}</ref> Kesel called Dodson and asked him if he was interested on working on the comic, to which Dodson agreed, and the two worked for a month on their proposal for the series, which was to make a comic about "love gone horribly, terribly wrong".<ref name="terrydodson"/><ref name="backissue"/> The proposal was accepted by DC Comics, and the pair began work on the series, with Kesel and Dodson both being involved in the storytelling, and Dodson bringing in his wife, [[Rachel Dodson]], to ink.<ref name="backissue"/> Kesel's run on the series began being published in December 2000, and was about Harley Quinn leaving the Joker and becoming a solo criminal, alongside a supporting cast of henchmen named the Quinntets.<ref name="backissue"/> Because of underwhelming sales, his 25-issue run ended in December 2002, and DC decided to change the creative team; the series was given to writer A.J. Lieberman and artists [[Mike Huddleston]] and [[Troy Nixey]] by Idelson, and took on a grittier and darker direction, contrasting Kesel's run.<ref name="10artofhq">{{cite web | title=10 things concerning Andrew Farago and 'The Art of Harley Quinn' | website=DoomRocket | date=December 8, 2017 | url=https://doomrocket.com/10-things-andrew-farago/ | access-date=March 29, 2021|first=Jarrod|last=Jones}}</ref> The decision renewed interest in the character, but the sales remained lackluster and the series was cancelled in 2003.<ref name="10artofhq"/><ref name="Riesman 2020"/>
+
+===''Gotham City Sirens''===
+{{Main|Gotham City Sirens}}
+After years of scarce appearances in comics, Harley Quinn resurfaced in a leading role in July 2009 with ''Gotham City Sirens'', a team-up title created by Dini.<ref name="GCSpolygon">{{cite web | last=Alexander | first=Julia | title=Gotham City Sirens: Here's what you should know about DC and Warner Bros.' new movie | website=Polygon | date=December 14, 2016 | url=https://www.polygon.com/2016/12/14/13952484/harley-quinn-gotham-city-sirens-warner-bros-suicide-squad | access-date=August 13, 2021}}</ref><ref name="intoherown"/><ref name="Riesman 2020"/> The series brought together Batman's most popular female villains, Harley Quinn, Catwoman, and Poison Ivy, in an unstable alliance.<ref name="DininterviewGCS">{{cite web | last=Renaud | first=Jeffrey | title=Dini's "Sirens" Blare in Gotham City | website=Comic Book Resources | date=June 18, 2009 | url=https://www.cbr.com/dinis-sirens-blare-in-gotham-city/ | access-date=March 29, 2021}}</ref><ref name="GCSreview">{{cite web | last=Chiu-Tabet | first=Christopher | title='Gotham City Sirens' | website=Multiversity Comics | date=September 20, 2017 | url=http://www.multiversitycomics.com/reviews/gotham-city-sirens/ | access-date=April 3, 2021}}</ref><ref name="whatisgcs">{{cite web | last=Awesome | first=Amy | title=What Is Gotham City Sirens? | website=Comic Book | date=September 5, 2017 | url=https://comicbook.com/dc/news/what-is-gotham-city-sirens/ | access-date=April 3, 2021}}</ref> The series also expanded on Harley Quinn's background and early life; in ''Gotham City Sirens'' #7, Dini established the character's hometown being [[Brooklyn]], and also introduced her [[dysfunctional family]], with her swindling father being described as the main reason for her pursuing [[psychiatry]].<ref>{{cite web | title=Daddy's Lil Monster: Facts You Didn't Know About Harley Quinn | website=The Gamer | date=November 3, 2017 | url=https://www.thegamer.com/harley-quinn-dc-trivia/ | access-date=July 9, 2021}}</ref><ref>{{harvp|Owens|2017|p=7}}</ref><ref name="auto2">{{Cite comic|writer=[[Paul Dini|Dini, Paul]]|penciller=Lopez, David|inker=March, Guillem|colorist=Morey, Tomeau|letterer=Wands, Steve|editor=DiDio, Dan|story=Holiday Story| title=[[Gotham City Sirens]]|issue=7|date=December 23, 2009 | publisher=[[DC Comics]]| location=[[New York City]]|id={{ISBN|978-1-4012-2245-1}}}}</ref>
+
+The first several issues of ''Gotham City Sirens'' were written by Dini and illustrated by Guillem March. Other creatives who worked for the series include writers [[Tony Bedard]] and Peter Calloway, and artists [[David López (artist)|David López]], Andres Guinaldo, Peter Nguyen, Jeremy Haun, and Ramon Bachs.<ref name="GCSreview"/> The series was cancelled in August 2011 for ''[[The New 52]]'', DC Comics' relaunch of their entire comic line.<ref name="whatisgcs"/>
+
+===''The New 52''===
+====''Suicide Squad''====
+{{quote box|align=right|width=30em|quote="One thing that we're trying to show with her, and I don't think it gets played with enough with Harley, is here's a woman who was a very intelligent and very manipulative doctor. We're trying to play up that quality. She is crazy, but there is something behind the madness. In the new DCU maybe everyone doesn't get shipped off to Arkham Asylum. Some people may have to do hard time and get shipped off to Belle Reve [the prison the Suicide Squad operates out of], and her presence here doesn't mean she hasn't been or won't end up in Arkham. Basically we needed a bad girl character and the best bad girl character in the DCU is Harley Quinn."|source=Adam Glass, 2011.<ref>{{cite web|last=Richards|first=Dave|title="Supernatural's" Adam Glass Commits "Suicide Squad"|website=Comic Book Resources|date=October 12, 2011|url=https://www.cbr.com/supernaturals-adam-glass-commits-suicide-squad/|access-date=July 11, 2021}}</ref>}}
+
+As part of the [[New 52]] [[reboot (fiction)|reboot]] in September 2011, Harley Quinn was reintroduced by [[Adam Glass]] as a prominent member of the supervillain team Task Force X in the relaunched ''[[Suicide Squad]]'' series.<ref name="gftostar"/><ref name=autogenerated3>{{harvp|Owens|2017|p=8}}</ref> The character was heavily redesigned to fit the tone of the book; her color motif was changed to red and blue, her jester costume was replaced with a revealing ensemble consisting of a [[corset]] and [[hot pants]], her skin was bleached white, and her previously blonde hair was altered to half-blue and half-red.<ref>{{cite web|last=Uzumeri|first=David|title=DC Publishers Talk New 52 Costume Redesigns, Chip Kidd Batman, Earth One &#91;NYCC&#93;|website=Comics Alliance|date=October 16, 2011|url=https://comicsalliance.com/dc-publishers-nycc-panel/|access-date=August 22, 2021}}</ref><ref name="Riesman 2020"/><ref name=autogenerated3 /><ref name="HQLooks">{{cite web|title=How Harley Quinn Should Really Look|author=Looper Staff|website=Looper.com|date=July 12, 2017|url=https://www.looper.com/22521/harley-quinn-really-look|access-date=August 22, 2021}}</ref> Her personality had also been depicted to be more violent and psychopathic than her former iteration.<ref name="Riesman 2020"/><ref name="FallAndRiseDOG"/><ref name=autogenerated3 />
+
+{{External media
+| align  = right
+| width  =
+| image1= [https://www.dccomics.com/sites/default/files/files/2011/06/suicidesquad_cover_2498710928570987987asdfhjakjhskaf.jpg The controversial cover artwork for ''Suicide Squad'' (vol. 4) #1], which introduced Harley Quinn's revealing look for the relaunched title.<ref name="Riesman 2020"/> Art by Ryan Benjamin.
+}}
+
+In the series, Glass separated Harley Quinn from the Joker and explored her "becom[ing] her own person", with the Suicide Squad becoming a family to her;<ref name="glasscbrtv">{{cite web|title=CBR TV 2012: Adam Glass On "Suicide Squad," Harley Quinn & Angry Fans|website=Comic Book Resources|date=May 7, 2012|url=https://www.cbr.com/cbr-tv-2012-adam-glass-on-suicide-squad-harley-quinn-angry-fans|access-date=July 11, 2021}}</ref><ref name="glasshqev">{{cite web|last=Gallaher|first=Valerie|title='Suicide Squad' Scribe Adam Glass On The Evolution Of Harley Quinn (And The Return Of The Joker!)|website=MTV News|date=November 13, 2012|url=https://www.mtv.com/news/2627205/suicide-squad-harley-quinn|access-date=July 11, 2021}}</ref> Glass stated, "Harley's always wanted to belong to something. And if not Joker, then the team – and she's finding herself in all this. She's finding her place in the world, that she's not just a sidekick."<ref name="glasshqev"/>
+
+''Suicide Squad'' was cancelled in April 2014 to coincide with the conclusion of the "[[Forever Evil]]" storyline.<ref>{{cite web|last=Ching|first=Albert|title=Six DC Series to End in April, Including "Superman Unchained" and "Nightwing" [UPDATED]|website=Comic Book Resources|date=January 21, 2014|url=https://www.cbr.com/six-dc-series-to-end-in-april-including-superman-unchained-and-nightwing-updated|access-date=July 11, 2021}}</ref>
+
+====New origin====
+In the seventh issue of ''Suicide Squad'', Glass revised Harley Quinn's origin story, making it reflect the Joker's origins. In the story, the Joker takes Harleen Quinzel to the [[chemical plant]] where he originated and pushes her into a vat of chemicals against her will, which bleaches her skin and drives her insane, resulting in her transformation to Harley Quinn, similar to the Joker's transformation in his origins.<ref name=autogenerated2>{{harvp|Owens|2017|p=9}}</ref> This origin was received negatively by fans of the character, who felt that its removal of Harley Quinn's choice to become the Joker's accomplice herself, as depicted in her previous origin stories, took out an essential part of her character.<ref name=autogenerated2 />
+
+====Second ongoing series====
+[[File:Harley Quinn's New 52 Roller Derby Costume by Amanda Conner.jpg|thumb|Textless cover art of the series' first issue featuring Harley Quinn's roller derby inspired costume. Harley Quinn co-creator Bruce Timm said of the design, "I really like Amanda's design a lot because it's modern and a little bit punk rock, but it's really fun without being trashy. I think the whole roller-derby look is really fun because it's tough but it's still playful. It's not... It's not skanky."<ref name="backissue"/> Art by Amanda Conner and [[Paul Mounts]].]]
+Harley Quinn's second ongoing series, written by husband and wife [[Jimmy Palmiotti]] and [[Amanda Conner]], with the interior art illustrated by Chad Hardin and John Timms, explored Harley Quinn leaving Gotham City and starting her own life in her hometown of Brooklyn, depicting her as a [[landlord]] in [[Coney Island]], where she shares an [[apartment building]] with a supporting cast of "[[sideshow]] freaks".<ref name="sdccharley">{{cite web | last=Phegley | first=Kiel | title=SDCC EXCLUSIVE: Conner & Palmiotti Launch "Harley Quinn" Monthly | website=Comic Book Resources | date=July 16, 2013 | url=https://www.cbr.com/sdcc-exclusive-conner-palmiotti-launch-harley-quinn-monthly/ | access-date=July 12, 2021}}</ref><ref name="Riesman 2020"/><ref>{{cite web | last=Opam | first=Kwame | title=The creative team behind Harley Quinn on letting an icon grow | website=The Verge | date=October 8, 2016 | url=https://www.theverge.com/2016/10/8/13213252/harley-quinn-creative-team-palmiotti-conner-dc-comics-nycc-2016 | access-date=July 12, 2021}}</ref><ref name="harleycbrreview">{{cite web | last=Mozzocco | first=J. Caleb | title='Harley Quinn' #1: Introducing DC's answer to Deadpool? | website=Comic Book Resources | date=December 19, 2013 | url=https://www.cbr.com/harley-quinn-1-introducing-dcs-answer-to-deadpool/ | access-date=July 12, 2021}}</ref><ref>{{cite web | last=Outcast | first=Hunnic | title=Review of D.C. New 52 Harley Quinn Issues 1–9 | website=The GeekCast Radio Network | date=August 13, 2014 | url=https://www.geekcastradio.com/comics/review-d-c-new-52-harley-quinn-issues-1-9/ | access-date=July 14, 2021}}</ref> Considered to be the most defining writers to work on the character since Dini and Timm, Palmiotti and Conner reinvented Harley Quinn as an antihero who has left her controlling relationship with the Joker behind.<ref name="gftostar"/><ref>{{cite web | last=Lydon | first=Pierce | title=Best Harley Quinn stories of all time | website=Newsarama | date=February 25, 2021 | url=https://www.gamesradar.com/harley-quinn-comic/ | access-date=July 12, 2021}}</ref><ref name="ignbestofdecade">{{cite web | title=The Best Comics of the Decade (2010–2019) | website=IGN | author=IGN Staff | date=January 1, 2020 | url=https://www.ign.com/articles/2020/01/01/best-comics-of-the-decade-2010-2019 | access-date=July 12, 2021}}</ref>
+
+In contrast to Harley Quinn's depiction in Glass' ''Suicide Squad'', Palmiotti and Conner wrote Harley Quinn with a lighthearted, cartoonish, and humorous tone. Her costume has also been changed with a [[roller derby]]-inspired costume designed by Conner, which incorporates Conner's favorite aspects of Harley Quinn's early costume and her costume in Glass' ''Suicide Squad''.<ref name="harleycbrreview"/><ref name="ignhq25yrs">{{cite web | last=Schedeen | first=Jesse | title=Between the Panels: Harley Quinn's Maddening 25-Year History | website=IGN | date=September 15, 2017 | url=https://www.ign.com/articles/2017/09/15/between-the-panels-harley-quinns-maddening-25-year-history | access-date=July 14, 2021}}</ref><ref name="sdccharley"/> The series also brought back Harley Quinn's red and black motif.<ref name="HQLooks"/>
+
+The series began being published in November 2013, starting with ''Harley Quinn'' #0, which brought together seventeen comic book artists, including Harley Quinn co-creator Bruce Timm, to illustrate a [[fourth wall]]-breaking story about Harley thinking of the artists that could illustrate her in her own comic book series.<ref>{{harvp|Owens|2017|p=10}}</ref><ref>{{cite web | last=Schedeen | first=Jesse | title=Harley Quinn #0 Review | website=IGN | date=November 21, 2013 | url=https://www.ign.com/articles/2013/11/21/harley-quinn-0-review | access-date=July 12, 2021}}</ref> The rest of the series details Harley Quinn's adventures in Coney Island with her supporting cast.<ref name=autogenerated1>{{harvp|Owens|2017|p=11}}</ref> In ''Harley Quinn'' #25, Palmiotti and Conner reunited Harley Quinn with the Joker; the story depicts Harley Quinn returning to Gotham City to confront the Joker and end their relationship.<ref>{{cite web | last=Schedeen | first=Jesse | title=Harley Quinn #25 Review | website=IGN | date=February 17, 2016 | url=https://www.ign.com/articles/2016/02/17/harley-quinn-25-review | access-date=July 12, 2021}}</ref><ref>{{cite web | last=Sava | first=Oliver | title=Harley Quinn #25 features a breakthrough for DC's hit character | website=The A.V. Club | date=February 23, 2016 | url=https://www.avclub.com/harley-quinn-25-features-a-breakthrough-for-dc-s-hit-c-1798244474 | access-date=July 12, 2021}}</ref>
+
+With Harley Quinn's longtime friend Poison Ivy being a recurring character in the series, Palmiotti and Conner built on their relationship and hinted at romantic feelings between the two characters; Poison Ivy is shown kissing Harley Quinn multiple times throughout the series, and a [[sexual relationship]] between them was alluded to in the twenty-fifth issue.<ref name=autogenerated1 /><ref name="ignbestofdecade"/> When asked regarding their relationship in a Twitter Q&A, Palmiotti and Conner replied, "Yes, they are girlfriends without the jealousy of [[monogamy]]."<ref name="mltoss"/>
+
+The New 52 ''Harley Quinn'' series received positive reception, and was also one of DC Comics' top selling series, inspiring multiple [[Spin-off (media)|spin-offs]].<ref name=autogenerated1 /><ref name="ignhq25yrs"/> The series was ended for the ''[[DC Rebirth]]'' relaunch of DC's titles.<ref>{{cite web | last=Renaud | first=Jeffrey | title=Conner & Palmiotti on "Harley Quinn's" Rebirth: "If It Ain't Broke, Don't Fix It" | website=Comic Book Resources | date=August 3, 2016 | url=https://www.cbr.com/conner-palmiotti-on-harley-quinns-rebirth-if-it-aint-broke-dont-fix-it/ | access-date=July 12, 2021}}</ref>
+
+====Controversies====
+The cover of the first issue of the New 52's ''Suicide Squad'' title drew controversy for its [[oversexualized]] depiction of Harley Quinn.<ref name="Riesman 2020"/> This also caused some fans of the character to send Glass [[hatemail]] and personal threats.<ref name="glasscbrtv"/>
+
+In September 2013, DC Comics announced an art contest entitled "Break into comics with Harley Quinn!", in which contestants were to draw Harley in four different [[suicide]] scenarios. This contest drew controversy not only because it was announced close to [[National Suicide Prevention Week]], but because some artists did not like the sexualized portrayal of Harley Quinn in the fourth scenario, in which the character attempts suicide while naked in her bathtub. The [[American Foundation for Suicide Prevention]], [[American Psychiatric Association]], and [[National Alliance on Mental Illness]] all responded to the controversy in an emailed group statement to [[Huffington Post]], stating, "We are disappointed that DC Comics has decided to host a contest looking for artists to develop ways to depict suicide attempts by one of its main villains – Harley Quinn". After seeing the reactions to the contest, DC Comics apologized, saying they should have made it clear it was a dream sequence that was not supposed to be taken seriously. In the final version, the bathtub scene was cut and replaced with Harley Quinn sitting on a rocket while flying in space.<ref>{{cite web|url=http://www.dccomics.com/blog/2013/09/05/break-into-comics-with-harley-quinn#1|title=Break into comics with Harley Quinn!|work=DC Comics|date=September 5, 2013|access-date=January 10, 2015}}</ref><ref>{{cite news|url=https://www.huffpost.com/entry/dc-comics-harley-quinn-suicide-_n_3913842|work=[[The Huffington Post]]|first=Cavan|last=Sieczkowski|title=Awful Comic Contest Asks For Drawings of Naked Woman Committing Suicide|date=September 12, 2013}}</ref><ref>{{cite web|url=http://jezebel.com/dc-comics-contest-draw-a-naked-woman-committing-suicid-1265537616|title=DC Comics Contest: Draw a Naked Woman Committing Suicide|first=Callie|last=Beusman|work=Jezebel|date=September 6, 2013 |access-date=January 10, 2015}}</ref>
+
+===''DC Rebirth''===
+In June 2016, the [[DC Rebirth]] event relaunched DC Comics' entire line of comic book titles. Both ''Harley Quinn'' as well as ''Suicide Squad'' were rebooted, with the latter starting with the one-shot issue ''Suicide Squad: Rebirth'' #1 (October 2016). Harley Quinn's ''DC Rebirth'' design included pink and blue [[hair coloring|dyed]] hair tips and a [[jacket]] inspired by [[Margot Robbie]]'s portrayal of the character in the 2016 film ''[[Suicide Squad (film)|Suicide Squad]]'', a change established in the last issues of her ''New 52'' series.<ref>{{cite web | title=Harley Quinn's Complete Costume History in DC Comics | last = King | first = Samantha | website=Screen Rant | date=April 11, 2021 | url=https://screenrant.com/harley-quinn-costume-history-new-52-comics/ | access-date=January 27, 2022}}</ref><ref>{{cite web | last=Shiach | first=Kieran | title=Harley Gets A 'Cinematic' Makeover In 'Harley Quinn' #26 | website=ComicsAlliance | date=March 24, 2016 | url=https://comicsalliance.com/harley-quinn-cinematic-makeover/ | access-date=January 27, 2022}}</ref>
+
+Harley Quinn returns as a regular character in the relaunched Suicide Squad series, written by [[Rob Williams (comics)|Rob Williams]]. The series was cancelled in January 2019.<ref>{{cite web | last=Burlingame | first=Russ | title='Suicide Squad' To End With January's #50 | website=DC | date=2018-10-15 | url=https://comicbook.com/dc/news/suicide-squad-to-end-with-januarys-50/ | access-date=2021-07-12}}</ref>
+
+Harley Quinn's relaunched ongoing series is a direct continuation of the former, with Conner and Palmiotti still writing for the character, and Hardin and Timms illustrating the interior art.<ref>{{cite web|last=Renaud|first=Jeffrey|title=Conner & Palmiotti on "Harley Quinn's" Rebirth: "If It Ain't Broke, Don't Fix It"|website=CBR|date=August 3, 2016|url=https://www.cbr.com/conner-palmiotti-on-harley-quinns-rebirth-if-it-aint-broke-dont-fix-it/ |access-date=July 12, 2021}}</ref> After having written 64 issues of Harley Quinn's ongoing series, Conner and Palmiotti's five-year run ended with the 34th issue of the series in December 2017, with writer [[Frank Tieri (writer)|Frank Tieri]] and artist Inaki Miranda taking over the title.<ref>{{cite web|last=Schedeen|first=Jesse|title=Harley Quinn #34 Review|website=IGN|date=2018-01-10|url=https://www.ign.com/articles/2018/01/10/harley-quinn-34-review|access-date=2021-07-12}}</ref><ref>{{cite news|last=Betancourt|first=David|title=This married couple helped make Harley Quinn one of the biggest names in comics|newspaper=Washington Post|date=October 11, 2017|url=https://www.washingtonpost.com/news/comic-riffs/wp/2017/10/11/this-married-couple-helped-make-harley-quinn-one-of-the-biggest-names-in-comics/|access-date=September 6, 2021}}</ref><ref name="HumphriesHarley">{{cite news|last=Betancourt|first=David|title=Harley Quinn will meet the New Gods in comic books this summer|newspaper=Washington Post|date=March 29, 2018|url=https://www.washingtonpost.com/news/comic-riffs/wp/2018/03/29/harley-quinn-will-meet-the-new-gods-in-comic-books-this-summer/|access-date=September 6, 2021}}</ref> Tieri's run on the series ended with the series' 42nd issue, followed by a two-issue storyline written by Christopher Sebela and illustrated by Mirka Andolfo.<ref name="humphriesmultiversity"/> By issue 45 in July 2018, [[Sam Humphries]] was the new writer for the series, with John Timms returning to provide art.<ref name="HumphriesHarley"/><ref name="humphriesmultiversity">{{cite web|title=Sam Humphries Takes Over 'Harley Quinn' in July|website=Multiversity Comics|date=2018-03-29|url=http://www.multiversitycomics.com/news/sam-humphries-harley-quinn/|access-date=2021-07-12}}</ref> The series ended in August 2020.<ref>{{cite web|last=Adams|first=Tim|title=Harley Quinn's Final Issue Arrives in August|website=Comic Book Resources|date=2020-05-15|url=https://www.cbr.com/harley-quinn-75-final-issue-august-2020/|access-date=2021-07-12}}</ref>
+
+====''Harley Loves Joker''====
+In 2017, Harley Quinn co-creator Paul Dini wrote a backup feature for Harley Quinn's Rebirth monthly series entitled ''Harley Loves Joker'', co-written by Palmiotti and illustrated by [[Bret Blevins]], which ran for 9 issues.<ref>{{cite web|last=Gerding|first=Stephen|title=Paul Dini Joins Harley Quinn Comic's Creative Team|website=Comic Book Resources|date=January 17, 2017|url=https://www.cbr.com/paul-dini-joins-harley-quinn-comics-creative-team|access-date=August 8, 2021}}</ref> The story brought back Harley Quinn's classic characterization and focuses on her past with the Joker. Unlike her characterization in ''Batman: The Animated Series'', Dini and Palmiotti wrote Harley Quinn in the story as less of a "[[wikt:doormat#Noun|doormat]]", with Harley Quinn and Joker being on equal footing in their relationship.<ref>{{cite web|last=Renaud|first=Jeffrey|title=How Paul Dini & Jimmy Palmiotti Are Changing Harley Quinn, One Untold Story At A Time|website=Comic Book Resources|date=June 8, 2017|url=https://www.cbr.com/interview-paul-dini-harley-quinn-jimmy-palmiotti|access-date=August 8, 2021}}</ref> The story concluded with the two-part [[limited series (comics)|limited series]] of the same name, which also expanded on Harley Quinn's past as a former intern in animal research at [[S.T.A.R. Labs]], where she met her pet [[hyenas]] [[Bud and Lou]].<ref>{{cite web|last=Herviou|first=Nicole|title=Go Back to the Golden Age with HARLEY LOVES JOKER #1|website=ComicsVerse|date=May 2, 2018|url=https://comicsverse.com/harley-loves-joker-1-review|access-date=August 8, 2021}}</ref> In the second part of the story, Dini and Palmiotti explained Harley Quinn's change in costume, establishing the character's modern design as a reflection of her having left her relationship with the Joker.<ref>{{cite web|last=Cardona|first=Ian|title=Paul Dini Explains Harley Quinn Dropping Her Classic Jester Costume|website=Comic Book Resources|date=May 18, 2018|url=https://www.cbr.com/harley-quinn-paul-dini-costume-change|access-date=August 8, 2021}}</ref><ref>{{cite web|last=Herviou|first=Nicole|title=A Mad Love Story Wraps Up in HARLEY LOVES JOKER #2|website=ComicsVerse|date=May 16, 2018|url=https://comicsverse.com/harley-loves-joker-2-review|access-date=August 8, 2021}}</ref>
+
+===''Infinite Frontier''===
+[[File:Infinite Frontier Harley Quinn Concept Art.png|thumb|right|250px|upright|Concept art for Harley Quinn's ''Infinite Frontier'' design by Riley Rossmo, which combines Rossmo's favorite aspects of Harley's classic jester getup and more recent designs. Art by Rossmo.<ref name="phillipsdcinterview"/><ref name="phillipsnewsarama"/>]]
+For the 2021 ''[[Infinite Frontier]]'' relaunch, Harley Quinn is moved back to Gotham City as a superheroine, where she frequently interacts with and aids the Batman family, and she is given a new design by [[Riley Rossmo]].<ref name="phillipsdcinterview"/> Harley Quinn's fourth ongoing series, written by Stephanie Phillips and illustrated by Rossmo, depicts her "actively looking to make up for her past sins", alongside a former Joker henchman named Kevin.<ref name="phillipsnewsarama">{{cite web|last=Calamia|first=Kat|title=Harley Quinn aims to re-invent herself and save Gotham in new DC ongoing|website=Newsarama|date=February 24, 2021|url=https://www.gamesradar.com/harley-quinn-aims-to-re-invent-herself-and-save-gotham-in-new-dc-ongoing|access-date=July 12, 2021}}</ref><ref name="phillipsdcinterview">{{cite web|last=Ching|first=Albert|title=Harley Quinn is Back to Save Gotham...Whether Gotham Likes It or Not!|website=DC Comics|date=March 23, 2021|url=https://www.dccomics.com/blog/2021/03/23/harley-quinn-is-back-to-save-gothamwhether-gotham-likes-it-or-not|access-date=November 15, 2021}}</ref> Harley Quinn also has a prominent role in the [[Fear State]] crossover event.<ref>{{cite web|last=Grunenwald|first=Joe|title=INTERVIEW: Stephanie Phillips talks a Harley & Ivy FEAR STATE reunion, WONDER WOMAN: EVOLUTION, and more|website=The Beat|date=October 6, 2021|url=https://www.comicsbeat.com/stephanie-phillips-interview-harley-quinn-wonder-woman-wokeo/|access-date=November 15, 2021}}</ref>
+
+==Skills, abilities, and equipment==
+Harley Quinn has no [[superpower (ability)|superpowers]], and relies on her unpredictability, [[gymnastics]] skills, and [[weapons]] and [[hand-to-hand]] proficiency.<ref name="dcuinfiniteprofile">{{cite web | title=Harley Quinn | website=DC UNIVERSE INFINITE | url=https://www.dcuniverseinfinite.com/encyclopedia/harley-quinn/ | access-date=September 11, 2021 | archive-date=September 11, 2021 | archive-url=https://web.archive.org/web/20210911022412/https://www.dcuniverseinfinite.com/encyclopedia/harley-quinn/ | url-status=dead }}</ref> She is a peak [[athlete]], having won a gymnastics [[scholarship]] at Gotham City's Gotham State University.<ref name="dcuinfiniteprofile"/><ref>{{cite web | title=Suicide Squad's Harley Quinn: Everything You Need to Know | website=GameSpot | date=July 20, 2016 | url=https://www.gamespot.com/gallery/suicide-squads-harley-quinn-everything-you-need-to/2900-775/ | access-date=September 11, 2021 | quote=As a teenager, she earned a gymnastics scholarship at Gotham State University. She used this opportunity to pursue a degree in psychology.}}</ref><ref name="backissue"/> Following her transition to main DC canon in 1999, Harley Quinn was established as having immunity to toxins and enhanced strength, agility, durability, and reflexes, which she received after having been injected a serum concocted by Poison Ivy.<ref name="dcuinfiniteprofile"/> "Vengeance Unlimited, Part Five" (''Harley Quinn'' vol. 1 #30) revealed that it also gave her the ability to breathe underwater.<ref>{{cite web | last=Egan | first=James | title=10 Powers Comic Book Characters Only Used ONCE | website=WhatCulture | date=April 12, 2020 | url=https://whatculture.com/comics/10-powers-comic-book-characters-only-used-once-4 | access-date=September 11, 2021}}</ref>
+
+Harley Quinn is skilled in using various weapons, often employing weaponized clown-themed gag items, including [[pop gun]]s, [[rubber chicken]]s, and a gun that shoots a boxing glove, as well as oversized [[pistol]]s and [[mallet]]s, the latter being her signature weapon.<ref>{{Cite comic| writer = Scott Beaty | artist = Bruce Timm | story = The Origin of Harley Quinn | title = Countdown to Final Crisis| volume = 1| issue = 10 | date = February 2008| publisher = DC Comics}}</ref><ref>{{cite web | last=Nason | first=Max | title=Harley Quinn: Her 10 Best Gag Items/Weapons, Ranked | website=CBR | date=February 7, 2020 | url=https://www.cbr.com/harley-quinn-best-gag-items-weapons-ranked-compared/ | access-date=September 11, 2021}}</ref><ref>{{cite web | title=The Most F'd Up Moments in HARLEY QUINN's Premiere Episode, "Till Death Do Us Part" | website=DC UNIVERSE INFINITE | date=December 3, 2019 | url=https://www.dcuniverseinfinite.com/news/most-fd-moments-harley-quinns-premiere-episode-till-death-do-us-/ | access-date=September 11, 2021 | quote=When Harley attacks the yacht in the first scene, she’s using a giant mallet, which has been her signature weapon since the New Batman Adventures episode “Holiday Knights.” | archive-date=September 11, 2021 | archive-url=https://web.archive.org/web/20210911022411/https://www.dcuniverseinfinite.com/news/most-fd-moments-harley-quinns-premiere-episode-till-death-do-us-/ | url-status=dead }}</ref> Other weapons she uses include: [[Improvised weapon|unconventional weapons]], such as a [[baseball bat]]; [[explosive weapons]] such as [[bazookas]], customized [[bombs]], and [[dynamite]]s;<ref name="bestweapons">{{cite web | last=Fida | first=Bisma | title=Harley Quinn's Bat: 10 Of Her Favorite Weapons | website=CBR | date=December 6, 2019 | url=https://www.cbr.com/dc-comics-harley-quinn-bat-favorite-best-weapons/ | access-date=September 11, 2021}}</ref> [[firearms]], such as [[pistols]], [[assault rifles]], and [[machine guns]];<ref name="bestweapons"/> Harley Quinn also has a pair of pet hyenas, Bud and Lou, which she can order to attack her opponents.<ref name="dcuinfiniteprofile"/>
+
+Despite being mentally unstable and sometimes distracted, Harley is highly [[intelligent]]. Her intellect extends to her psychological, tactical and [[deception]] abilities, but she does not stand out for particular strategic or scientific skills and often remains subordinate to the Joker, who between the two is the genius and the inventor. Harleen Quinzel earned a bachelor's degree in psychology and as a former Arkham psychiatrist, was highly qualified in [[psychoanalysis]], criminology, and [[forensic psychiatry]]. While not on par with Joker, she is still an expert tactician, deceiver and escapologist, and still shows traces of her psychological experience. Harley Quinn is the only person besides the Joker to concoct Joker Venom, the Joker's signature weapon, and is shown to have reverse-engineered its formula and developed an antitoxin.<ref>{{Cite comic|writer=Dixon, Chuck & Beaty, Scott|artist =Ruhn, Andy|colorist=McCraw, Tom|letterer=Schubert, Willie|editor=Idelson, Matt & Castro, Nachie|story=Part Four: Everyone Knows This Is Nowhere|title=Joker: Last Laugh|volume=1|issue =4|date=December 2001|publisher=DC Comics|page=22}}</ref><ref>{{Cite comic|writer=Kesel, Karl|penciller=Woods, Pete|inker=Lipka, Mark|colorist=Pantazis, Peter|letterer=Lopez, Ken|editor=Idelson, Matt & Castro, Nachie|story=Night and Day|title=Harley Quinn|volume=1|issue=13|date=December 2001|publisher=DC Comics}}</ref> She also has an indomitable pathological will. 
+
+Just like Poison Ivy, sometimes and not as much, Harley uses her feminine charm to attract men but only to be able to manipulate them. Unlike the Joker, she is able to simulate sanity, thus being able to pretend to be a "normal" person. In this way, she disguised herself as a security guard, a lawyer and even Poison Ivy and Batgirl.
+
+==Romantic interests==
+Harley Quinn has had several love interests, the most notable being Joker and Poison Ivy. Other love interests include Mason Macabre, a character created by Conner and Palmiotti.<ref>{{cite book|editor1-first=Shelley E.|editor1-last=Barba|editor2-first=Joy M.|editor2-last=Perrin|title=The Ascendance of Harley Quinn: Essays on DC's Enigmatic Villain|publisher=[[McFarland (publisher)|McFarland]] |location=Jefferson, North Carolina|year=2017 |isbn=978-1476665238|page=127|quote=}}</ref> [[Plastic Man]] was initially intended to be a love interest for Harley Quinn by Kesel, but was not approved by DC.<ref>{{cite web | title=INTERVIEW: Karl Kesel and David Hahn on their latest Kickstarter, IMPOSSIBLE JONES | website=The Beat | date=June 24, 2019 | url=https://www.comicsbeat.com/interview-karl-kesel-david-hahn-impossible-jones/ | access-date=October 2, 2021 |first=Joe| last=Grunenwald}}</ref>
+===The Joker===
+{{quote box|align=right|width=30em|quote="So Harley in her earlier incarnation really felt like she was the one for the Joker, that she could catch him and cure him and bring him back to humanity. But actually, in the process, she lost hers. Before she knew it she had fallen head-over-heels in love with him. I think initially he was looking to play her and get what he could out of her, and then realized he had opened Pandora’s box and this woman in her madness could match him at just about anything he does. I think he finds that, in some ways, very sexy and attractive. But he’s not really set up to love in the way a regular person is. I think there are sparks and intensity and weird passion of a sort to their relationship, but I would not call it a loving relationship in the traditional sense."|source=Paul Dini, 2017<ref name="EW.com 2017"/>}}
+
+The Joker is Harley Quinn's former lover. Harley's solo comics often explores her former association with the Joker through "[[flashback (narrative)|flashbacks]] of their past exploits, present-day conflicts", or through Harley as she "laments his absence".{{sfn|Weiner|Peaslee|2015|pp=82}} Harley often refers to him as ''"Mistah J"'' and ''"Puddin'"''.<ref>{{cite web |url=https://screenrant.com/harley-quinn-joker-puddin-nickname-reason/ |title=Why Harley Quinn Calls Joker Puddin' |last=Tyler |first=Adrienne |date=November 30, 2019 |website=Screen Rant |access-date=November 29, 2021}}</ref>
+
+Their relationship is known for its [[Abusive power and control|abusive]] and [[codependent]] nature, first established in Harley's first origin story ''Mad Love''.<ref name="backissue"/> The Joker habitually abuses Harley, and despite the verbal abuse, Harley Quinn returns to him.<ref>{{cite web|first=Chris |last=Sims |title=Ask Chris #173: The Trouble with the Joker's Girlfriend Harley Quinn |url=http://comicsalliance.com/harley-quinn-paul-dini-bruce-timm-dc-ask-chris/ |work=Comics Alliance |date=December 6, 2013 |access-date=February 12, 2014 |archive-url=https://web.archive.org/web/20140223095904/http://comicsalliance.com/harley-quinn-paul-dini-bruce-timm-dc-ask-chris/ |archive-date=February 23, 2014 |url-status=dead |df=mdy-all }}</ref> In the 1999 one-shot comic ''Batman: Harley Quinn'', the Joker decides to kill Harley, after admitting that he does care for her, that their relationship is romantic, and that these feelings prevent him from fulfilling his purpose.{{sfn|Weiner|Peaslee|2015|pp=85–86}} Dini describes their relationship as abusive,<ref>{{cite web |url=http://www.rocketllama.com/blog-it/2010/03/19/interview-paul-dini-arkham-asylum-harley-quinn-ewoks-and-pomegranate-blackberry-yogurt/ |title=Interview: Paul Dini (Arkham Asylum, Harley Quinn, Ewoks, and Pomegranate Blackberry Yogurt) |last=Langley |first=Nick |date=March 19, 2010 |website=Rocket Llama |access-date=October 2, 2021 | archive-url=https://web.archive.org/web/20151017105254/http://www.rocketllama.com/blog-it/2010/03/19/interview-paul-dini-arkham-asylum-harley-quinn-ewoks-and-pomegranate-blackberry-yogurt/ |archive-date=October 17, 2015}}</ref> and empathizes with Harley's feelings of [[abandonment (emotional)|abandonment]], with Dini basing most of Harley's dialogue on his past experiences.<ref>{{cite book|editor1-first=Liam|editor1-last=Burke|editor2-first=Ian|editor2-last=Gordon|editor3-first=Angela|editor3-last=Ndalianis|title=The Superhero Symbol: Media, Culture, and Politics|publisher=[[Rutgers University Press]] |year=2019 |isbn=9780813597188|pages=208–209|chapter=An Interview with ''Dark Knight: A True Batman Story'' Writer Paul Dini|last=Burke|first=Liam}}</ref>
+
+The Joker's controlling and codependent relationship with Harley Quinn has been analyzed as a means of the Joker reinforcing his own belief in his power in a world where he may be killed or neutralized by another villain or Batman.{{sfn|Weiner|Peaslee|2015|pp=83–84}} Joker mirrors his identity through Harley in her appearance, and even though he may ignore or act indifferent towards her, he continues to try to subject her to his control.{{sfn|Weiner|Peaslee|2015|pp=83–84}} When Harley successfully defeats Batman in ''[[The Batman Adventures: Mad Love|Mad Love]]'' (1994), the Joker, emasculated by his own failure, severely injures her out of fear of what the other villains will think of him; however, while Harley recovers, the Joker sends her flowers, which she accepts, reasserting his control over her.{{sfn|Weiner|Peaslee|2015|pp=86–87}}
+
+===Poison Ivy===
+[[File:Harley Quinn and Poison Ivy.jpg|thumb|300px|right|upright|Harley Quinn and Poison Ivy in "New Roots" from ''Batman: Urban Legends'' #1. Art by Laura Braga.]]
+ 
+Poison Ivy is Harley Quinn's current love interest and best friend, and Harley often refers to her as ''"Red"''.<ref>{{cite web |url=https://www.cbr.com/harley-quinn-black-white-red-best-moments/ |title=Harley Quinn: Black +White +Red's 10 Best Moments |last=Sheridan |first=Brian|date=November 6, 2020 |website=Screen Rant |access-date=November 29, 2021}}</ref> Ivy was first introduced as a new friend to Harley by Dini in the 1993 ''Batman: The Animated Series'' episode "Harley and Ivy".<ref name="beautifulfriendship">{{cite web | title=Harley Quinn and Poison Ivy: An Oral History of the Beginning of a Beautiful Friendship | website=Yahoo | date=October 5, 2016 | url=https://www.yahoo.com/entertainment/harley-quinn-poison-ivy-batman-animated-series-155135937.html | access-date=October 2, 2021}}</ref> The episode came from Dini wanting to make Harley a stronger character and write a story where she leaves the Joker; Dini decided to pair her up with Ivy because she was "the strongest contrast to Harley".<ref name="beautifulfriendship"/> The two later became close friends within the [[DC Animated Universe]]. Dini has stated that he could see a romantic relationship between the two happening the more he worked with the two characters, but the impossibility of properly portraying their relationship in a kids cartoon at the time prevented it from happening.<ref name="harleysoralhistory"/>
+
+Prior to the [[The New 52|New 52]] reboot, Ivy is shown as having teamed up on occasion with Harley with Harley being her best friend and recurring ally. Unlike most villain team-ups, their partnership is based on genuine friendship and mutual respect. Ivy sincerely wants to save Harley from her unhealthy [[Abusive power and control|abusive]] relationship with the Joker. Accordingly, Poison Ivy despises the Joker, and the two exchange vicious banter at every opportunity. In the final storyline of the ''[[Gotham City Sirens]]'' series, Harley suggests that Ivy may be in love with her, an accusation that stuns her.<ref name="Gotham City Sirens' 2011">''Gotham City Sirens'' #24 (June 2011). DC Comics.</ref> The following issue has Poison Ivy acknowledge that she may indeed love Harley, but the details of her love are never specified, and the series ended with the New 52 reboot before their relationship could be addressed.<ref name="ReferenceC">''Gotham City Sirens'' #25 (July 2011). DC Comics.</ref>
+
+Conner and Palmiotti hinted at a romantic relationship in the New 52 Harley Quinn series,<ref name=autogenerated1 /><ref name="ignbestofdecade"/> and later confirmed that Harley and Ivy are in a non-monogamous relationship.<ref>{{cite web|url=http://kotaku.com/dc-comics-harley-quinn-poison-ivy-are-girlfriends-w-1711038615|title=DC Comics: Harley Quinn & Poison Ivy Are Girlfriends "Without Monogamy"|author=Evan Narcisse|publisher=Gawker Media|work=Kotaku|date=June 13, 2015 }}</ref><ref name="mltoss"/> 2017's Harley Quinn #25 marked their first canonical kiss.<ref>{{cite web | last=Dominguez | first=Noah | title=DC Artist Shares Harley Quinn and Poison Ivy's ORIGINAL First Canon Kiss | website=CBR | date=June 28, 2021 | url=https://www.cbr.com/dc-harley-quinn-ivy-kiss-art-unedited/ | access-date=October 2, 2021}}</ref>
+
+==Character biography==
+===DC Animated Universe===
+{{main|DC Animated Universe}}
+<!-- Deleted image removed: [[File:Harley Quinn (model sheet).jpg|thumb|upright|Harley Quinn as she appears in ''[[The New Batman Adventures]]'']] -->
+Harley Quinn first appeared in ''[[Batman: The Animated Series]]'' (1992–1995), voiced by [[Arleen Sorkin]], who subsequently reprised her role in other [[DC Animated Universe]] series, including ''[[Superman: The Animated Series]]'' (1996–2000), ''[[The New Batman Adventures]]'' (1997–1999), ''[[Static Shock]]'' (2000–2004), and ''[[Justice League (TV series)|Justice League]]'' (2001–2004), as well as the film ''[[Batman Beyond: Return of the Joker]]'' (2000). Following Sorkin's [[retirement]] in 2012, the character was voiced by [[Melissa Rauch]] in ''[[Batman and Harley Quinn]]'' (2017) and an uncredited [[Tara Strong]] in ''[[Justice League vs. the Fatal Five]]'' (2019).
+
+Originally a career-oriented [[psychologist]], Dr. Harleen Quinzel's life took a radical turn when she chose to take an internship at [[Arkham Asylum]] for a semester of college. Convinced by the [[Joker (character)|Joker]] himself to do it, Harleen interviewed him and learned he was [[Child abuse|abuse]]d as a child by his [[alcoholic]] father (later learning this backstory to have been one of several different stories he had told to others, some with different details each time), and after more interviews, determined [[Batman]] was the primary source of the Joker's anger and was to blame for his actions, but that she also had fallen in love with him. Harleen helped the Joker escape and, renaming herself Harley Quinn, became his sidekick in hopes that she could win his love, going on a crime spree across the [[United States of America]].<ref name="Mad Love">"[[The Batman Adventures: Mad Love#In other media|Mad Love]]" (''[[The New Batman Adventures]]''; 1999)</ref>
+
+After assisting Joker in attempting to assassinate [[Jim Gordon (character)|Commissioner James Gordon]] by planting a bomb at a dinner in his honour, she was subdued by Batman, and subsequently an accomplice in virtually all of Joker's criminal schemes.<ref>"[[Joker's Favor]]" (''[[Batman: The Animated Series]]''; 1992)</ref> On occasion, she would be kicked out of Joker's gang when unintentionally upstaging or annoying the Joker, on one of these occasions teaming up with [[Poison Ivy]], with the two becoming close friends and a successful crime duo independently.<ref>"[[Harley and Ivy]]" (''[[Batman: The Animated Series]]''; 1993)</ref> While imprisoned on her own in [[Arkham Asylum]], Batman offered her a pardon in exchange for helping him track down the Joker after he had stolen a [[nuclear bomb]].<ref>"[[Harlequinade (Batman: The Animated Series)|Harlequinade]]" (''[[Batman: The Animated Series]]''; 1994)</ref> The day she is declared rehabilitated and paroled, Harley's hyperactivity and unfamiliarity with the "real" world leads to her accidentally kidnap someone and be returned to Arkham yet again.<ref>"[[Harley's Holiday]]" (''[[Batman: The Animated Series]]''; 1994)</ref>
+
+In the 31-episode ''[[Gotham Girls]]'' webtoon, Harley joins forces with [[Poison Ivy (character)|Poison Ivy]] and [[Catwoman]] in a co-starring role.
+
+After several failed attempts at rehabilitation, Harley returns to the Joker's side. However, after another failed attempt to kill Commissioner Gordon leads the Joker to forgetting their anniversary, Harley re-examines her life and decides that as Batman was the cause of the Joker's obsession, she should capture and kill him herself for him to kill, doing so by falsely pretending to have found sanity and luring Batman into a trap. Recognizing Harley to have come closer to killing him than Joker has ever done, Batman tricks her into facilitating his escape by making her call the Joker and tell him what she has done, knowing that he would not allow anyone other than himself to kill Batman, pushing her aside and unknowingly knocking her out a window. Recovering in Arkham, Harley decides that the Joker will never truly love her, before returning to her devotion upon seeing that he has left her a rose in a vase from him by her bedside table, with a note hoping that she gets better soon.<ref name="Mad Love" /> Harley later references having convinced the Joker to attend [[couple's counseling]] with her.<ref>"[[List of Justice League episodes#48|Wild Cards, Part II]]" ([[Justice League (TV series)|''Justice League'']], 2003)</ref>
+
+In the film ''[[Batman and Harley Quinn]]'', Harley (voiced by [[Melissa Rauch]]) is working as a waitress after breaking up with the Joker again. Approached by Batman and [[Nightwing]] to help stop Ivy from accidentally causing the extinction of all life on Earth, Harley agrees to help them after having [[sex]] with Nightwing, convincing them to light [[Floronic Man|Jason Woodroe]] on fire after she talks Ivy down with tears. Sometime later, Harley hosts a reality television game show, where she makes contestants run an elaborate obstacle course to win a year of therapy from a professional, in a scathing indictment of the American insurance system.<ref>{{cite web|url=https://www.cbr.com/sdcc-justice-league-dark-animated-film-confirmed-teen-titans-more-announced|title=SDCC: "Justice League Dark" Animated Film Confirmed; "Teen Titans" & More Announced|publisher=Comic Book Resources|last=Damore|first=Meagan|date=July 23, 2016}}</ref><ref>{{cite web|url=https://collider.com/batman-and-harley-quinn-movie-cast-plot/|title=Batman and Harley Quinn Cast, Characters Revealed|last=Trubore|first=Dave|publisher=Collider|date=April 3, 2017|access-date=April 7, 2017}}</ref>
+
+In the film ''[[Batman Beyond: Return of the Joker]]'' (again voiced by Sorkin), flashbacks reveal Harley's apparent final actions after returning to the Joker again were assisting him in kidnapping [[Tim Drake]] and torturing him into insanity in order to transform him into their son "J.J", so that they can start a family together. She later fought [[Batgirl]] who angrily chastised her for even helping Joker commit a heinous act but fell deep into an abyss, leading to the latter presuming her dead, though she survived as depicted in the present, where she appears at the end of the movie, revealed to be the grandmother of the Jokerz members, the [[List of Batman Beyond characters#Dee Dee Twins|Dee Dee Twins]], who address her as "Nana Harley", having reformed from her life of crime.
+
+===DC Comics Universe===
+{{main|DC Universe}}
+Harleen Quinzel was a psychiatrist at Arkham Asylum, and after meeting the Joker, she became his frequent accomplice, takes on the name Harley Quinn, and gets in an abusive codependent relationship with him. She eventually splits up with him, and becomes a solo criminal, forming a criminal gang called the Quinntets. Following the Quinntet's dissolution, Harley Quinn moves to Metropolis with her best friend Poison Ivy, where she works as a love columnist in the [[Daily Planet]] under the alias Holly Chance. She then moves back to Gotham City, where she then voluntarily incarcerates herself in Arkham.<ref>Harley Quinn vol. 1</ref> Harley Quinn then spents a year applying for parole, only to see her request systematically rejected by Bruce Wayne, the layman member of Arkham's medical commission. She is kidnapped by Peyton Riley, the new female Ventriloquist, who offers her a job; Harley turns the job down out of respect for the memory of Arnold Wesker, the original Ventriloquist, who attempted to cheer her up during her first week in Arkham while the Joker was still on the loose. She then helps Batman and Commissioner Jim Gordon foil the impostor's plans. Although Riley escapes, Bruce Wayne is impressed with Harley's effort at redemption and agrees with granting her parole. <ref>''Detective Comics'' #831 (June 2007) by Paul Dini</ref> She then briefly joins the [[Secret Six (comics)|Secret Six]], then decides to quit.<ref>''Birds of Prey'' #105 (June 2007)</ref>
+
+====''Final Crisis''====
+During ''[[Countdown to Final Crisis]]'', a reformed Harley Quinn resides in an Amazon-run women's shelter. Having abandoned her jester costume and clown make-up, she now only wears an Amazonian stola or chiton. She befriends the former Catwoman replacement [[Holly Robinson (comics)|Holly Robinson]] and then succeeds in persuading her to join her at the shelter, where she is working as an assistant. They are both brought to [[Themyscira (DC Comics)|Themiscyra]] by "Athena" (really [[Granny Goodness]]) and begin Amazon training. Holly and Harley then meet the real Athena and encounter Mary Marvel. The group reveals Granny's deception, and Holly, Harley, and Mary follow her as she retreats to Apokolips. Mary finds the Olympian gods, whom Granny had been holding prisoner, and the group frees them. Harley is granted powers by Thalia as a reward. Upon returning to Earth, the powers vanish, and Harley and Holly return to Gotham City.
+
+====''Gotham City Sirens''====
+{{main|Gotham City Sirens}}
+Harley Quinn then joins forces with Poison Ivy (Pamela Isley) and Catwoman (Selina Kyle) in the series ''[[Gotham City Sirens]]''. In ''[[Gotham City Sirens]]'' #7, Harley Quinn visits her family in [[Bensonhurst]], Brooklyn, during the holiday season. Harley's father is a swindler who is still in jail, and her brother, Barry, is a loser with dead-end dreams of rock stardom. Her mother, Sharon, wants her to stop the "villain and hero stuff." The dysfunctional, "horrible" experience while visiting family causes her to return home to the Sirens' shared Gotham City hideout where Harley, Catwoman, and Poison Ivy spend the rest of Christmas together. Following several adventures with Catwoman and Ivy, Harley betrays them and breaks into Arkham Asylum, intending to kill the Joker for his years of abuse towards her. However, Harley ultimately chooses instead to release the Joker from his cell, and together the two orchestrate a violent takeover of the facility that results in most of the guards and staff members either being killed or taken hostage by the inmates.<ref>''Gotham City Sirens'' #20–23. DC Comics</ref> Harley and the Joker are eventually defeated by Batman and Catwoman, and Harley is last seen being wheeled away while bound in a straitjacket and muzzle.<ref>''Gotham City Sirens'' #24 (June 2011). DC Comics</ref> Shortly afterward, Poison Ivy breaks into Harley's cell and attempts to kill her for her betrayal, but instead offers to free her if she helps her kill Catwoman, who had left both of her fellow Sirens behind in Arkham. Harley agrees, and the two set out to trap Catwoman.<ref>''Gotham City Sirens'' #25 (July 2011). DC Comics</ref> During the ensuing fight, Catwoman says she saw good in them and only wanted to help. As Batman is about to arrest them, Catwoman helps the two of them escape.<ref>''Gotham City Sirens'' #26 (August 2011). DC Comics</ref>
+
+====''New 52'' and ''Rebirth''====
+Like her previous incarnations, Harleen Quinzel was still the Joker's psychiatrist, but before she becomes Harley, the Joker pushes her into a vat of chemicals, bleaching her skin white and driving her insane. Harley Quinn is forced to join the Suicide Squad by Amanda Waller. Harley Quinn then leaves Gotham City and moves back to her hometown [[Brooklyn]] and resides in [[Coney Island]].
+
+====''Infinite Frontier''====
+Harley Quinn moves back to Gotham City in an attempt to reestablish herself as a hero, aiding the Batman Family and trying to make up for her past "where she often [[Enabling|enabled]] the Joker".<ref name="phillipsdcinterview"/>
+
+==Cultural impact==
+{{multiple image
+ | align = right
+ | total_width = 450
+ | image1 = Comic Con 2013 - Harley Quinn (9333210259).jpg
+ | image2 = Harley Quinn cosplay - 2018 Atlanta Comic Con.jpg
+ | image3 = Harley Quinn Chicago Comic Con (cropped).jpg
+ | footer = Harley Quinn cosplayers at various [[comic convention]]s.
+}}
+Harley Quinn has become one of [[DC Comics]]' most popular characters.<ref>{{cite web|first=David|last=Harper|title=The New Trinity: Has Harley Quinn Displaced Wonder Woman as DC's Leading Lady?|url=https://sktchd.com/longform/harley-quinn-longform|work=SKTCHD|date=February 2, 2016|access-date=February 26, 2016}}</ref> The 2016 relaunch of her comic shipped more copies than any other ''[[DC Rebirth]]'' title and was one of the best-selling comics of the year.<ref>{{cite web|first=Tim|last=Reedle|title=Ten Moments that Mattered: Wonder Woman and Harley Quinn Capture Imaginations|url=http://www.dccomics.com/blog/2016/12/23/ten-moments-that-mattered-wonder-woman-and-harley-quinn-capture-imaginations|work=[[DC Comics]]|publisher=[[Warner Bros. Entertainment Company]]|date=December 23, 2016|access-date=December 23, 2016}}</ref> DC Comics Publisher [[Jim Lee]] refers to Harley Quinn as the fourth pillar in their publishing line, behind [[Superman]], [[Batman]], and [[Wonder Woman]].<ref name="Riesman">{{cite web|first=Abraham|last=Reisman|title=The Harley Quinn Boom Is Just Getting Started|url=https://www.vulture.com/2016/08/harley-quinn-boom-suicide-squad.html|work=[[Vulture (blog)|Vulture]]|publisher=[[New York (magazine)|New York Media, LLC]]|location=New York City|date=August 10, 2016|access-date=August 10, 2016}}</ref><ref name="digitalspysecrethistory"/><ref name="ignhq25yrs"/> Harley Quinn currently stars in four separate ongoing series — three eponymous titles and ''[[Suicide Squad]]''. Only Batman and Superman have comparable numbers of monthly appearances, making Harley DC Comics' most prominent and profitable female character.<ref name="Riesman"/> Kevin Kiniry, vice-president of DC Collectibles, says Harley Quinn is always a top-seller and she "can go toe-to-toe with Batman and the [[Joker (character)|Joker]] as one of the most fan-requested and sought-after characters."<ref name="Riesman"/> In 2016, Harley Quinn's [[Halloween]] costume ranked as the most popular costume in both the United States and the [[United Kingdom]] and it remains a popular subject for [[cosplay]].<ref>{{cite news |author=Dockterman, Eliana|title=Superheroes Dethrone Princesses as Most Popular Kids' Halloween Costume|url=https://time.com/4510616/most-popular-halloween-costume-superhero-princess/|magazine=[[Time (magazine)|Time]] |date=September 27, 2016|access-date=September 27, 2016}}</ref><ref>{{cite news|first=Stefan|last=Kyriazis|title=Harley Quinn is Top UK Halloween Costume As Lookalikes Invade London|url=https://www.express.co.uk/entertainment/films/726408/Harley-Quinn-Halloween-costume-Margot-Robbie-suicide-squad|work=[[Daily Express]]|publisher=[[Northern & Shell|Northern and Shell Media]]|location=London, England|date=28 October 2016|access-date=24 March 2017}}</ref> To celebrate the character, DC Comics declared the month of February to be Harley Quinn Month and published 22 Harley Quinn [[variant cover]]s across their line of comic books.<ref>{{cite web|author=<!--Not stated-->|title=Harley Quinn Month|url=https://www.dccomics.com/blog/2015/02/02/harley-quinn-month|work=[[DC Comics]]|publisher=[[Warner Bros. Entertainment Company]]|date=February 2, 2015|access-date=April 14, 2017|archive-url=https://web.archive.org/web/20150204004843/https://www.dccomics.com/blog/2015/02/02/harley-quinn-month|archive-date=February 4, 2015}}</ref> [[IGN]]'s 2009 list of the Top 100 Comic Book Villains of All Time ranked Harley Quinn as #45.<ref>{{cite web|year=2009|title=Top 100 Comic Book Villains: 45. Harley Quinn|website=[[IGN]]|url=https://www.ign.com/lists/top/comic-book-villains/45}}</ref> She was ranked 16th in ''[[Comics Buyer's Guide]]''{{'}}s 2011 "100 Sexiest Women in Comics" list.<ref>{{cite book|last=Frankenhoff|first=Brent|author-link=Brent Frankenhoff|title=Comics Buyer's Guide Presents: 100 Sexiest Women in Comics|publisher=[[Krause Publications]]|location=Iola, Wisconsin|date=2011|page=19|isbn=978-1-4402-2988-6}}</ref> Joker voice actor Mark Hamill attributes the success of Harley Quinn to Arleen Sorkin's performance.<ref name="hamillhqsuccess">{{cite web|first=Jamie|last=Jirak|url=https://comicbook.com/dc/news/mark-hamill-pays-tribute-to-original-harley-quinn-arleen-sorkin|title=Mark Hamill Pays Tribute to Original Harley Quinn Arleen Sorkin|date=October 15, 2020|website=ComicBook}}</ref> On [[Twitter]], he stated: "In the script she was just an unnamed Joker "hench-wench" w/ no discernible personality. When Arleen began reading her lines in that unforgettable voice so poignant & full of heart I nearly fell off my chair! She brought SO much more than was on the page & a legend was born."<ref name="hamillhqsuccess" />
+
+==Collected editions==
+This section lists the collected editions, from [[trade paperbacks]] to [[omnibus edition]]s, of various comics in which Harley Quinn is mainly featured.
+===Ongoing series===
+{|  class="wikitable mw-collapsible autocollapse"
+|-
+! '''Vol. #'''
+! '''Title'''
+! '''Material collected'''
+! '''Pages'''
+! '''Publication date'''
+! '''ISBN'''
+|-
+! colspan="6" | ''Harley Quinn'' (2000–2002)
+|-
+| 1
+| ''Preludes and Knock Knock Jokes''
+| ''Harley Quinn'' vol. 1 #1–7
+| 192
+| {{Dts|December 2007}}
+| {{ISBNT|978-1401216573}}
+|-
+| 2
+| ''Night and Day''
+| ''Harley Quinn'' vol. 1 #8–13 and ''Harley Quinn: Our Worlds at War''
+| 190
+| {{Dts|June 2013}}
+| {{ISBNT|978-1401240417}}
+|-
+| 3
+| ''Welcome to Metropolis''
+| ''Harley Quinn'' vol. 1 #14–25
+| 288
+| {{Dts|March 2014}}
+| {{ISBNT|978-1401245955}}
+|-
+| 4
+| ''Vengeance Unlimited''
+| ''Harley Quinn'' vol. 1 #26–38
+| 314
+| {{Dts|September 2014}}
+| {{ISBNT|978-1401250683}}
+|-
+! colspan="6" | The Deluxe Edition
+|-
+| 1
+| ''Harley Quinn By Karl Kesel And Terry Dodson: The Deluxe Edition Book One''
+| ''Harley Quinn'' vol. 1 #1–8
+| 224
+| {{Dts|September 2017}}
+| {{ISBNT|978-1401276423}}
+|-
+| 2
+| ''Harley Quinn By Karl Kesel And Terry Dodson: The Deluxe Edition Book Two''
+| ''Harley Quinn'' vol. 1 #9–19
+| 288
+| {{Dts|November 2018}}
+| {{ISBNT|978-1401285098}}
+|-
+! colspan="6" | ''Harley Quinn'' (2014–2016)
+|-
+| 1
+| ''Hot In The City''
+| ''Harley Quinn'' vol. 2 #0–8
+| 224
+| {{Dts|October 2014}}
+| {{ISBNT|978-1401254155}}
+|-
+| 2
+| ''Power Outage''
+| ''Harley Quinn'' vol. 2 #9–13, ''Harley Quinn Futures End'' #1, ''Harley Quinn Invades Comic-Con International San Diego'' and material from ''Secret Origin'' #4
+| 208
+| {{Dts|April 2015}}
+| {{ISBNT|978-1401257637}}
+|-
+| 3
+| ''Kiss Kiss Bang Stab''
+| ''Harley Quinn'' vol. 2 #14–16, ''Annual'' #1, ''Harley Quinn Holiday Special'' #1 and ''Harley Quinn Valentine's Special'' #1
+| 168
+| {{Dts|December 2015}}
+| {{ISBNT|978-1401262525}}
+|-
+| 4
+| ''A Call to Arms''
+| ''Harley Quinn'' vol. 2 #17–21 and ''Harley Quinn Road Trip Special'' #1
+| 176
+| {{Dts|June 2016}}
+| {{ISBNT|978-1401269296}}
+|-
+| 5
+| ''The Joker's Last Laugh''
+| ''Harley Quinn'' vol. 2 #22–25 and ''Harley Quinn: Be Careful What You Wish For''
+| 144
+| {{Dts|September 2016}}
+| {{ISBNT|978-1401271992}}
+|-
+| 6
+| ''Black, White and Red All Over''
+| ''Harley Quinn'' vol. 2 #26–30
+| 144
+| {{Dts|January 2017}}
+| {{ISBNT|978-1401272593}}
+|-
+! colspan="6" | ''Harley Quinn'' (2016–2018)
+|-
+| 1
+| ''Die Laughing''
+| ''Harley Quinn'' vol. 3 #1–7
+| 168
+| {{Dts|March 2017}}
+| {{ISBNT|978-1401268312}}
+|-
+| 2
+| ''Joker Loves Harley''
+| ''Harley Quinn'' vol. 3 #8–13
+| 144
+| {{Dts|June 2017}}
+| {{ISBNT|978-1401270957}}
+|-
+| 3
+| ''Red Meat''
+| ''Harley Quinn'' vol. 3 #14–21
+| 168
+| {{Dts|September 2017}}
+| {{ISBNT|978-1401273699}}
+|-
+| 4
+| ''Surprise, Surprise''
+| ''Harley Quinn'' vol. 3 #22–27 and ''Harley Quinn 25th Anniversary Special''
+| 168
+| {{Dts|January 2018}}
+| {{ISBNT|978-1401275266}}
+|-
+| 5
+| ''Vote Harley''
+| ''Harley Quinn'' vol. 3 #28–34
+| 168
+| {{Dts|May 2018}}
+| {{ISBNT|978-1401278823}}
+|-
+| 6
+| ''Angry Bird''
+| ''Harley Quinn'' vol. 3 #35–42
+| 192
+| {{Dts|August 2018}}
+| {{ISBNT|978-1401281526}}
+|-
+! colspan="6" | Deluxe Edition
+|-
+| 1
+| ''Harley Quinn: The Rebirth Deluxe Edition Book 1''
+| ''Harley Quinn'' vol. 3 #1–13
+| 304
+| {{Dts|September 2017}}
+| {{ISBNT|978-1401273682}}
+|-
+| 2
+| ''Harley Quinn: The Rebirth Deluxe Edition Book 2''
+| ''Harley Quinn'' vol. 3 #14–27 and ''Harley Quinn 25th Anniversary Special''
+| 384
+| {{Dts|July 2018}}
+| {{ISBNT|978-1401280659}}
+|-
+| 3
+| ''Harley Quinn: The Rebirth Deluxe Edition Book 3''
+| ''Harley Quinn'' vol. 3 #28–42
+| 392
+| {{Dts|January 2019}}
+| {{ISBNT|978-1401285531}}
+|-
+! colspan="6" |''Harley Quinn'' (2018–2020)
+|-
+| 1
+| ''Harley vs. Apokolips''
+| ''Harley Quinn'' vol. 3 #43–49
+| 168
+| {{Dts|December 2018}}
+| {{ISBNT|978-1401285074}}
+|-
+| 2
+| ''Harley Destroys the Universe''
+| ''Harley Quinn'' vol. 3 #50–54 and #56
+| 160
+| {{Dts|April 2019}}
+| {{ISBNT|978-1401288099}}
+|-
+| 3
+| ''The Trials of Harley Quinn''
+| ''Harley Quinn'' vol. 3 #55 and #57–63
+| 208
+| {{Dts|October 2019}}
+| {{ISBNT|978-1401291914}}
+|-
+| 4
+| ''The Final Trial''
+| ''Harley Quinn'' vol. 3 #64–69 and ''Harley Quinn: Villain of the Year'' #1
+| 208
+| {{Dts|March 2020}}
+| {{ISBNT|978-1401294557}}
+|-
+| 5
+| ''Hollywood or Die''
+| ''Harley Quinn'' vol. 3 #70–75
+| 176
+| {{Dts|April 2021}}
+| {{ISBNT|978-1779503091}}
+|-
+! colspan="6" |''Harley Quinn'' (2021–present)
+|-
+| 1
+| ''No Good Deed''
+| ''Batman: Urban Legends'' #1 and ''Harley Quinn'' #1–6
+| 168
+| {{Dts|December 2021}}
+| {{ISBNT|978-1779513465}}
+|-
+| 2
+| ''Keepsake''
+| ''Harley Quinn'' #7–12
+| 168
+| {{Dts|August 2022}}
+| {{ISBNT|978-1779516633}}
+|}
+
+===Omnibuses===
+{|  class="wikitable mw-collapsible autocollapse"
+|-
+! '''Title'''
+! '''Material collected'''
+! '''Pages'''
+! '''Publication date'''
+! '''ISBN'''
+|-
+| ''Harley Quinn Omnibus By Amanda Conner and Jimmy Palmiotti 1''
+| ''Harley Quinn'' vol. 2 #0–16, ''Annual'' #1, ''Harley Quinn: Futures End'' #1, ''Harley Quinn Invades Comic-Con International San Diego'', ''Harley Quinn Holiday Special'' #1, ''Harley Quinn Valentine's Special'' #1, ''Harley Quinn and Power Girl'' #1–6 and material from ''Secret Origin'' #4
+| 768
+| {{Dts|September 2017}}
+| {{ISBNT|978-1401276430}}
+|-
+| ''Harley Quinn Omnibus By Amanda Conner and Jimmy Palmiotti 2''
+| ''Harley Quinn'' vol. 2 #17–30, ''Harley Quinn Road Trip Special'' #1, ''Harley Quinn: Be Careful What You Wish For Special Edition'', ''Harley Quinn and Her Gang of Harleys'' #1–6 and ''Harley's Little Black Book'' #1–6
+| 864
+| {{Dts|October 2018}}
+| {{ISBNT|978-1401284565}}
+|-
+| ''Harley Quinn Omnibus By Amanda Conner and Jimmy Palmiotti 3''
+| ''Harley Quinn'' vol. 3 #1–34 and ''Harley Quinn 25th Anniversary Special''
+| 800
+| {{Dts|October 2019}}
+| {{ISBNT|978-1401294465}}
+|-
+| ''Harley Quinn & the Gotham City Sirens Omnibus''
+| ''Gotham City Sirens'' #1–26 & ''Catwoman'' #83
+| 648
+| {{Dts|April 2018}} {{Dts|September 2022}}
+| {{ISBNT|978-1401278397}} {{ISBNT|978-1779516763}}
+
+|-
+| ''Harley Quinn: 30 Years of the Maid of Mischief Deluxe Edition''
+| ''The Batman Adventures'' #12, ''Detective Comics'' #831, ''The Batman and Robin Adventures'' #18, ''Batman: Gotham Adventures'' #10, ''Batman: Gotham Knights'' #14, ''Harley Quinn'' #3, ''Gotham City Sirens'' #20–21, ''Harley Quinn Holiday Special'' #1, ''Harley Quinn: Be Careful What You Wish For Special Edition'' #1, ''Harley Quinn 25th Anniversary Special'' #1, ''Harley Quinn: Make 'em Laugh'' #3, ''Harley Quinn Black + White + Red'' #14, ''Batman'' #98, and story from ''Harley Quinn 30th Anniversary Special'' #1
+| 336
+| {{Dts|September 2022}}
+| {{ISBNT|978-1779517180}}
+|}
+
+===One-shots and limited series===
+{|  class="wikitable mw-collapsible autocollapse"
+|-
+! '''Title'''
+! '''Material collected'''
+! '''Writer & artist'''
+! '''Pages'''
+! '''Publication date'''
+! '''ISBN'''
+|-
+| ''Batman: Harley and Ivy''
+| ''Batman: Harley and Ivy'' #1–3, ''Harley and Ivy: Love on the Lam'', and a story from ''Batman: Black & White'' Vol. 2
+| Paul Dini, Judd Winick (story)<br />Bruce Timm, [[Joe Chiodo]] (art)
+| 136
+| July 2007
+| {{ISBNT|978-1401213336}}
+|-
+| ''Batman: Mad Love and Other Stories''
+| ''The Batman Adventures: Mad Love'', ''Batman Adventures'' Annual #1–2, ''Batman Adventures Holiday Special'', ''Adventures in the DC Universe'' #3 & ''Batman Black and White'' #1
+| Paul Dini, Bruce Timm, [[Glen Murakami]] (story)<br /> Bruce Timm, [[Mike Parobeck]], [[Matt Wagner]], [[Dan DeCarlo]], [[Klaus Janson]], and Glen Murakami (art)
+| 208
+| {{Dts|September 2011}}
+| {{ISBNT|978-1401231156}}
+|-
+| ''Batman Adventures: Mad Love Deluxe Edition''
+| ''The Batman Adventures: Mad Love''
+| Paul Dini (story)<br />Bruce Timm (art)
+| 144
+| {{Dts|April 2015}}
+| {{ISBNT|978-1401255121}}
+|-
+| ''Harley and Ivy: The Deluxe Edition''
+| ''Batman: Harley and Ivy'' #1–3, ''Batman Adventures'' Annual #1, ''Batman Adventures'' Holiday Annual #1, ''Batman: Gotham Knights'' #14 & ''Batman: Black and White'' #3
+| Various
+| 176
+| {{Dts|February 2016}}
+| {{ISBNT|978-1401260804}}
+|-
+| ''Harley Quinn and Power Girl''
+| ''Harley Quinn and Power Girl'' #1–6
+| Amanda Conner & Jimmy Palmiotti (story)<br />[[Stéphane Roux (comics)|Stéphane Roux]] (art)
+| 144
+| {{Dts|March 2016}}
+| {{ISBNT|978-1401259747}}
+|-
+| ''Harley Quinn's Gang of Harleys''
+| ''Harley Quinn and Her Gang of Harleys'' #1–6
+| [[Frank Tieri (writer)|Frank Tieri]] & Jimmy Palmiotti<br />Mauricet (art)
+| 152
+| {{Dts|February 2017}}
+| {{ISBNT|978-1401267858}}
+|-
+| ''Harley's Little Black Book''
+| ''Harley's Little Black Book'' #1–8
+| Amanda Conner & Jimmy Palmiotti (story)<br />Amanda Conner, John Timms, Mauricet, Joseph Michael Linsner, [[Billy Tucci]], Flaviano, [[Neal Adams]], and [[Simon Bisley]] (art)
+| 256
+| {{Dts|November 2018}}
+| {{ISBNT|978-1401273606}}
+|-
+| ''Harley Loves Joker''
+| ''Harley Loves Joker'' #1–2 and back stories from ''Harley Quinn'' vol. 3 #17–25
+| Paul Dini & Jimmy Palmiotti (story)<br />Bret Blevins and [[J. Bone]]
+| 128
+| {{Dts|December 2018}}
+| {{ISBNT|978-1401283490}}
+|-
+| ''Old Lady Harley''
+| ''Old Lady Harley'' #1–5 and ''Harley Quinn'' vol. 3 #42
+| Frank Tieri (story)<br />Inaki Miranda, Tom Derenick, and Mauricet (art)
+| 152
+| {{Dts|July 2019}}
+| {{ISBNT|978-1401292164}}
+|-
+| ''[[Harley & Ivy Meet Betty & Veronica]]''
+| ''Harley & Ivy Meet Betty & Veronica'' #1–6
+| [[Marc Andreyko]] & Paul Dini (story)<br />Laura Braga (art)
+| 160
+| {{Dts|September 2019}}
+| {{ISBNT|978-1401292751|invalid1=yes}}
+|-
+| ''Harley Quinn and Poison Ivy''
+| ''Harley Quinn and Poison Ivy'' #1–6
+| Jody Houser (story)<br />[[Adriana Melo]], [[Wade Von Grawbadger]], and Mark Morales (art)
+| 152
+| {{Dts|May 2021}}
+| {{ISBNT|978-1779505989}}
+|-
+| ''Harley Quinn Black + White + Red''
+| ''Harley Quinn Black + White + Red'' #1–17 and two new original stories<ref name="Various2021">{{cite book|author=Various|title=Harley Quinn Black + White + Red|url=https://books.google.com/books?id=476czQEACAAJ|year=2021|publisher=DC Comics|isbn=978-1-77950-995-6}}</ref>
+| Various
+| 224
+| {{Dts|June 2021}}
+| {{ISBNT|978-1779509956}}
+|-
+| ''Harley Quinn: The Animated Series Vol. 1: The Eat. Bang! Kill. Tour''
+| ''Harley Quinn: The Animated Series Vol. 1: The Eat. Bang! Kill. Tour'' #1–6
+| Tee Franklin (story)<br />Max Sarin and Erich Owen (art)
+| 144
+| {{Dts|August 2022}}
+| {{ISBNT|978-1779516640}}
+|}
+
+===DC Black Label===
+Harley Quinn stars in various series under DC Comics' adult-oriented [[DC Black Label|Black Label]] imprint.
+{|  class="wikitable mw-collapsible autocollapse"
+|-
+! '''Title'''
+! '''Material collected'''
+! '''Writer & artist'''
+! '''Pages'''
+! '''Publication date'''
+! '''ISBN'''
+|-
+| ''Harleen''
+| ''Harleen'' #1–3
+| [[Stjepan Šejić]] (story and art)
+| 200 
+| {{Dts|February 2020}}
+| {{ISBNT|978-1779501110}}
+|-
+| ''Harley Quinn & the Birds of Prey: The Hunt for Harley''
+| ''Harley Quinn & the Birds of Prey'' #1–4 and a short story from ''Harley Quinn Black + White + Red'' #12
+| Amanda Conner & Jimmy Palmiotti (story)<br />Amanda Conner & Chad Hardin (art)
+| 160
+| {{Dts|March 2021}}
+| {{ISBNT|978-1779504494}}
+|-
+| ''Joker/Harley: Criminal Sanity''
+| ''Joker/Harley: Criminal Sanity'' #1–8 & ''Joker/Harley: Criminal Sanity-Secret Files'' (2022 edition adds story from ''Harley Quinn 30th Anniversary Special'' #1)
+| [[Kami Garcia]] (story)<br /> Mico Suayan,  Jason Badower, and Mike Mayhew (art)
+| 304 312
+| {{Dts|September 2021}} {{Dts|September 2022}}
+| {{ISBNT|978-1779512024}} {{ISBNT|978-1779517203}}
+|}
+
+==Other versions==
+* Harley Quinn's first major appearance outside the Batman animated world was in the [[Elseworlds]] miniseries ''[[Batman: Thrillkiller|Thrillkiller]]''. This version of Harley is a schoolgirl named '''Hayley Fitzpatrick''' who dresses up to help a female version of the Joker called Bianca Steeplechase. After Batgirl kills Bianca, Harley is shown killing her own family, intent on revenge in the final frames of the story.<ref>''Batman: Thrillkiller''. DC Comics</ref>
+* In the ''[[Elseworlds 80-Page Giant]]'', one of the stories is about [[Lex Luthor]] as a music producer. One of his groups is, as the press puts it, "[[alternative lifestyle]] [[folk music|folkies]] Ivy and Harley".<ref>''Elseworlds 80-Page Giant''. DC Comics</ref>
+* On the new [[Earth-Three|Earth-3]], Harleen Quinzel is the Jokester's business manager and is killed by the [[Owlman (comics)|Owlman]].<ref>''Countdown'' #32. DC Comics</ref>
+* Harley appears in ''[[Batman/The Spirit]]''. In this crossover, Harley is one of the many villains who helps try to take down the Batman and the [[Spirit (comics)|Spirit]]. She initially appears disguised as a flight attendant.
+* In the [[Joker (graphic novel)|2008 graphic novel ''Joker'']], Harley Quinn appears as the Joker's helper and [[aide-de-camp]]. She at one point acts as a stripper (though this may be a ruse) and is never shown speaking.<ref>''Joker'' (2008). DC Comics</ref> In ''[[Batman: Damned]]'', the sequel to ''Joker'', Harley snaps after the Joker's mysterious death following a battle with Batman and performs surgery on herself and dressing herself to make her resemble the Joker. Harley leads the Joker's remaining henchman on a revenge mission, blowing up several buildings and taking over the GCPD building and defacing the Batsignal so that it resembles the Joker's smile. Batman arrives and defeats the henchman before Harley paralyzes him with a toxin, beats him with her baseball bat, and attempts to sexually abuse him. Batman is then possessed by the Enchantress and strangles Harley against the Batsignal.<ref>''Batman: Damned'' #2</ref>
+* In the [[Ame-Comi Girls]] universe, Harley is partnered with the [[Catwoman]] and [[Poison Ivy (character)|Poison Ivy]] as part of a trio of villains.
+* The [[Flashpoint (comics)|Flashpoint]] version of Harley Quinn is named '''Yo-Yo'''. She was a henchwoman of the [[Alternate versions of the Joker#Flashpoint|Joker]], and the [[Batman (Thomas Wayne)|Batman]] chased her down to find the Joker's location, as she had kidnapped [[Two-Face|Judge Dent]]'s children. He chased her to the ledge of the building around Crime Alley. Batman drops her off the roof, but she is luckily saved by [[Cyborg (comics)|Cyborg]].<ref>''Flashpoint'' #1</ref>
+* In ''[[Batman '66]]'', a version of Harley Quinn designed more around the 1960s television show (she is slightly taller and her hair is short; she also wears prominent slanted glasses, a long red dress and red blouse, large pearl necklace, and fairly prominent earrings) appears as '''Dr. Holly Quinn''', Ph.D., a psychologist at [[Arkham Asylum]], referred to as Arkham Institute for the Criminally Insane. She convinces the Joker to cooperate with Batman and Robin in exchange for approving his comedy night proposal.<ref name=":0">''Batman '66'' #3. DC Comics</ref> Dr. Quinn is manipulated by the Catwoman and the Joker to perfect the Joker Wave — a hysteria-inducing transmitting dish used on Gotham. Quinn is devastated by her role in the plot and to atone for her mistake, Dr. Quinn reverses the device by submitting herself to its effects — freeing the people of Gotham but sacrificing her sanity in the process. She escapes and becomes a supervillain named Harlequin, wearing a [[roller derby]]-inspired version of the classic Harley costume. She retains her considerable intelligence and psychological training, making her a difficult foe for the Dynamic Duo, but is eventually captured when Batman and Robin disguise themselves as criminals (Batman in his regular alternate guise of [[Matches Malone]]) who beat up other bad guys who were auditioning to be Holly's henchmen.<ref>''Batman '66'' #24. DC Comics</ref>
+* Harley Quinn appears in the prequel comic to the game ''[[Injustice: Gods Among Us]]''. She helps the Joker kidnaps [[Lois Lane]] and surgically plant a trigger in her heart that will set off a nuclear bomb in Metropolis should her heart stop; when Superman accidentally kills her (thinking she is [[Doomsday (comics)|Doomsday]]) he becomes devastated, with the grieving Superman killing the Joker as a result. Harley struggles to come to terms with the Joker's death but develops an attachment to the Green Arrow when he kidnaps her to protect her from Superman's wrath but is also grief-stricken when he is killed by Superman. She later confronts the Black Canary but hesitates upon realizing she is pregnant upon vomiting mid-battle and reveals to the Black Canary she has a four-year-old daughter named Lucy who lives with her sister. Harley and the Canary befriend each other as a result and Harley starts helping Batman's Insurgency, though most members distrust her due to her lover's actions. In ''[[Injustice 2]]'', she helps to fight Grodd's Society and Brainiac alongside the Black Canary, the Green Arrow, and the other Justice League and Regime members. It is revealed in the ending she later joins the Justice League as a fully accepted member, though she occasionally has to deal with her violent impulses. It is also revealed her daughter thinks her mother is her Aunt Harley, though Harley hopes to one day tell her the truth.
+* In the ''[[Batman/Teenage Mutant Ninja Turtles]]'' crossover, Harley is mutated into a humanoid hyena by the [[Shredder (Teenage Mutant Ninja Turtles)|Shredder]]. She is knocked out by Batman during the battle at Arkham Asylum, and [[Splinter (Teenage Mutant Ninja Turtles)|Splinter]] uses her hammer to take down the rest of the inmates. After the Shredder is defeated, the mutagen in her system decays naturally, causing her and the rest of the mutated inmates to revert to normal.<ref>''Batman/Teenage Mutant Ninja Turtles'' #6. DC Comics/IDW</ref>
+* In ''[[Batman: White Knight]]'', it is revealed that Harley Quinn was two different women all along. The first Harley Quinn, Harleen Quinzel, quit when the Joker captured and tortured [[Robin (character)|Robin]] ([[Jason Todd]]), and she was replaced by another girl, '''Marian Drews''', without the Joker even realizing it. Once the Joker was cured of his insanity, he proposes marriage to Harley, only for her to beat him and mock him for acting "normal". The original Harley Quinn then appears, kicks the "fake Harley" unconscious, and reveals to Jack Napier (Joker's true identity in this continuity) there were two Harleys all along. While Harleen loved the Joker "despite his flaws", Marian loved the Joker by "his flaws". She accepts his marriage proposal and joins him in his quest to rid Gotham City of Batman. Drews then takes the mantle of the Joker for herself "until the real Joker returns", dubbed the '''Neo Joker''', and later romancing Poison Ivy.<ref>''Batman: White Knight'' #2</ref><ref>''Batman: White Knight'' #3</ref>
+*In ''[[DC Comics Bombshells]]'', Harley fell in with the Joker (in this version, a gangster) after leaving Charm School, but left him when he began his journey into the occult. By the time of the events of the story, Harley is drawn to England by a voice she believes is the Joker, but turns out to be the Joker's Daughter. She rejects the Joker's Daughter's attempt to have the Joker resurrected in the body of Poison Ivy, instead of beginning a relationship with Ivy herself.
+* In the [[Marvel Comics]] series ''[[Gwenpool Strikes Back]]'', a variant of [[Gwenpool|Gwen Poole]] based on Harley Quinn (from ''[[Civil War II]]'') is introduced as a member of the [[Gwenpool Strikes Back|GwenHive]], dubbed "[[Gwenpool Strikes Back|Harley Gwen]]".<ref>''[[Gwenpool Strikes Back]]'' #4, [[Marvel Comics]]</ref>
+*In [[DCeased]], an alternate universe wherein a virus spreads around the world that turns people into zombie-like creatures, Harley Quinn kills a zombie Joker and convinces Ivy to let what was left of the human race take shelter in Ivy's territory.
+
+==In other media==
+===Television===
+====Live-action====
+<!--Deleted image removed: [[File:HarleyBirdsOfPrey.jpg|thumb|upright|[[Mia Sara]] portraying Harley Quinn in ''[[Birds of Prey (TV series)|Birds of Prey]]'']]-->
+* In 2002, a short-lived television series, ''[[Birds of Prey (TV series)|Birds of Prey]]'', an alternate continuation of ''[[Batman Returns]]'', included Harley Quinn as a psychologist and the main antagonist, portrayed by actress [[Mia Sara]]. In this show, Harleen Quinzel uses her day job as a psychologist to achieve her hidden purpose: to take control of the city of New Gotham. She does not wear a costume, although she does wear an outfit that is reminiscent of her cartoon costume in the series finale "[[Devil's Eyes]]".
+*Harley Quinn made a [[cameo appearance]] in the ''[[Arrow (TV series)|Arrow]]'' season two episode "[[Suicide Squad (Arrow episode)|Suicide Squad]]", voiced again by [[Tara Strong]], while physically portrayed by Cassidy Alexa (credited as "Deranged Squad Female").<ref>{{cite web|url=https://www.ign.com/articles/2014/03/20/arrow-suicide-squad-review|title=This Ain't No Task Force.|last=Schedeen|first=Jesse|publisher=IGN|date=March 19, 2014|access-date=March 19, 2014}}</ref><ref>{{cite web|url=https://screencrush.com/arrow-review-suicide-squad/|title='ARROW' REVIEW: "SUICIDE SQUAD"|last=Fitzpatrick|first=Kevin|publisher=Screencrush|date=March 19, 2014|access-date=March 20, 2014}}</ref> The series star [[Stephen Amell]] revealed in an interview she was set to appear in the season two finale episode "[[Unthinkable (Arrow)|Unthinkable]]", but was cut due to time.<ref>{{cite web|url=https://comicbook.com/news/harley-quinn-scene-got-cut-from-arrow-season-2-finale/|title=Harley Quinn Scene Got Cut From Arrow Season 2 Finale|last=Burlingame|first=Russ|publisher=Comic Book|date=June 9, 2014|access-date=June 9, 2014}}</ref> The show's producer [[Andrew Kreisberg]] revealed there were plans for the character to appear, but series actress [[Willa Holland]] stated they had been axed due to the ''Suicide Squad'' film.<ref>{{cite web|url=https://www.cbr.com/amell-kreisberg-more-on-how-arrow-continues-to-grow-the-dc-universe/|title=Amell, Kreisberg & More on How "Arrow" Continues to Grow the DC Universe|last=Phegley|first=Kiel|publisher=Comic Book Resources|date=June 9, 2014|access-date=June 9, 2014}}</ref><ref>Archived at [https://ghostarchive.org/varchive/youtube/20211211/eGX_4BG0qc4 Ghostarchive]{{cbignore}} and the [https://web.archive.org/web/20150527084856/https://www.youtube.com/watch?v=eGX_4BG0qc4 Wayback Machine]{{cbignore}}: {{cite web|url=https://www.youtube.com/watch?v=eGX_4BG0qc4|title=Willa Holland Interview – Arrow, Suicide Squad, Harley Quinn & Female Superheroes|last=Flicks And The City|date=May 24, 2015|via=YouTube}}{{cbignore}}</ref> Harley was mentioned by Kiki Roulette in the ''[[Batwoman (TV series)|Batwoman]]'' episode "Broken Toys".
+*A character loosely based on Harley Quinn named [[Ecco (Gotham)|Ecco]] appears in the [[Gotham (season 4)|fourth]] and [[Gotham (season 5)|fifth seasons]] of ''[[Gotham (TV series)|Gotham]]'', portrayed by [[Francesca Root-Dodson]]. Like Quinn, Ecco wears a black and red outfit, clown makeup, and roller-skates, refers to other characters as "Puddin", and is completely devoted and infatuated with [[Jerome and Jeremiah Valeska|Jeremiah Valeska]], the show's incarnation of the Joker; additionally, the character of [[Barbara Kean (Gotham)|Barbara Kean]], portrayed by [[Erin Richards]], was also modelled off of Quinn during their appearance in the fourth season, while Meggie Vilcina portrays a young Harleen Quinzel, whose family [[Bruce Wayne (Gotham)|Bruce Wayne]] ([[David Mazouz]]) rescues, in the final moments of the [[Gotham (season 3)|third season]] finale "[[Heavydirtysoul (Gotham)|Heavydirtysoul]]", dressed in black and red. Following Ecco's death in "[[The Beginning...]]", Jeremiah mentions that "there are always other fish in the sea."<ref>{{cite news|url=https://www.independent.co.uk/arts-entertainment/tv/news/harley-quinn-gotham-season-3-joker-finale-a7533551.html |archive-url=https://ghostarchive.org/archive/20220509/https://www.independent.co.uk/arts-entertainment/tv/news/harley-quinn-gotham-season-3-joker-finale-a7533551.html |archive-date=May 9, 2022 |url-access=subscription |url-status=live|title=''Gotham'' season 3: Harley Quinn teased for finale|last=Loughrey|first=Clarisse|work=[[The Independent]]|date=January 18, 2017|access-date=June 6, 2017}}</ref><ref>{{cite web|url=http://www.cbr.com/gotham-season-finale-harley-quinn-david-mazouz/|title=''Gotham'': Harley Quinn Will Appear in Season Finale, Says David Mazouz|last=Cave|first=Rob|work=ComicBookResources.com|date=May 30, 2017|access-date=June 6, 2017}}</ref><ref>{{cite web|url=https://www.douxreviews.com/2017/06/gotham-destiny-calling-heavydirtysoul.html|title=Doux Reviews: ''Gotham'': Destiny Calling / HeavyDirtySoul|last=Tichy|first=Thomas Ijon|work=Doux Reviews|date=June 6, 2017|access-date=June 6, 2017}}</ref>
+
+====Animation====
+* Harley Quinn appears in ''[[The Batman (TV series)|The Batman]]'', voiced by [[Hynden Walch]]. This version is a former television pop-psychiatrist who also ends up being seduced by the Joker, sharing a normal relationship.
+* Harley Quinn appears in ''[[Batman: The Brave and the Bold]]'', voiced by [[Meghan Strange]].
+* Harley Quinn makes several cameos in ''[[Teen Titans Go!]]''.
+* Harley Quinn appears in ''[[Justice League Action]]'', voiced by [[Tara Strong]].
+* Harley Quinn appears in the 2019 animated series ''[[DC Super Hero Girls (TV series)|DC Super Hero Girls]]'', voiced again by Tara Strong. In this version, Harleen is a fangirl of the Joker and [[Barbara Gordon]]'s best friend from Gotham City, though they are unaware of each other's identities as Harley Quinn and Batgirl up until "Nightmare in Gotham". While initially living at Gotham, she moves to Metropolis in "#Frenemies Part 1", and becomes friends and partners with [[Catwoman]], [[Poison Ivy (character)|Poison Ivy]], [[Giganta]], [[Star Sapphire (comics)|Star Sapphire]], and  [[Livewire (DC Comics)|Livewire]], while also becoming enemy of the DC Super Hero Girls.
+
+=====''Harley Quinn''=====
+{{main|Harley Quinn (TV series)}}
+* In 2017, it was reported [[Warner Bros. Animation]] had ordered 26 half-hour episodes of an adult-oriented ''[[Harley Quinn (TV series)|Harley Quinn]]'' animated series for their new streaming service, [[DC Universe (streaming service)|DC Universe]].<ref name="HarleyCartoon2017">{{cite web|url=https://deadline.com/2017/11/harley-quinn-dc-digital-service-orders-animated-action-comedy-series-justin-halpern-patrick-schumacker-1202212632/|title='Harley Quinn': DC Digital Service Orders Animated Series About Comic Book Villainess From 'Powerless' Trio|website=Deadline Hollywood|date=November 20, 2017}}</ref> In 2018, it was announced that [[Kaley Cuoco]] would provide Harley Quinn's voice, and a short teaser trailer was released.<ref>{{cite web|url=https://variety.com/2018/tv/news/harley-quinn-dc-universe-kaley-cuoco-1202967504/|title='Big Bang Theory' Star Kaley Cuoco to Voice Harley Quinn in DC Universe Series|first=Joe|last=Otterson|website=variety|date=October 3, 2018|access-date=October 3, 2018}}</ref> The series officially began streaming in 2019.<ref>{{cite web|url=https://deadline.com/2018/06/dc-universe-streaming-service-titans-doom-patrol-swamp-thing-young-justice-outsiders-harley-quinn-1202418644/|title=DC Universe Streaming Service Set To Launch With Live-Action 'Titans', 'Doom Patrol', & 'Swamp Thing'|website=Deadline Hollywood|first=Dino-Ray|last=Ramos|date=June 28, 2018}}</ref> It focuses on Harley as she "attempts to make it on her own as the criminal Queenpin of Gotham City",<ref name="HarleyCartoon2017" /> and step out of the Joker's shadow with the help of Poison Ivy and her crew of supervillains.<ref>{{cite web|url=http://www.mtv.co.uk/margot-robbie/news/harley-quinn-tv-show|title=A Harley Quinn TV Show Is On The Way|work=MTV News|date=November 24, 2017}}</ref><ref>{{cite web|url=https://www.inverse.com/article/38624-harley-quinn-dc-tv-series-animated-poison-ivy-streaming|title=Harley Quinn's New Adult Animated Series Includes Main Squeeze Poison Ivy|work=Inverse|date=November 22, 2017}}</ref>
+
+===Film===
+====Live-action====
+*Harley Quinn was initially set to appear in ''Batman Unchained'', the fifth film planned for the original Batman film series.<ref>{{cite web|first=Kelly|last=Konda|url=https://weminoredinfilm.com/2015/06/15/the-inside-story-on-5-batman-movies-which-almost-got-made-before-batman-begins|title=The Inside Story on 5 Batman Movies Which Almost Got Made Before Batman Begins|website=We Majored in Film|date=June 15, 2015|access-date=June 23, 2016}}</ref><ref>{{cite magazine|first=Michael|last=Fleming|url=https://www.variety.com/1997/voices/columns/schumacher-trims-sails-1116680121/|title=Schumacher trims sails|magazine=[[Variety (magazine)|Variety]]|publisher=[[Penske Media Corporation]]|location=Los Angeles, California|date=November 11, 1997|access-date=November 11, 2008}}</ref> She was to be featured as the [[Joker (Jack Napier)|Joker]]'s ([[Jack Nicholson]]) daughter, who allies herself with the Scarecrow to get revenge on Batman for her father's death.<ref>{{cite news|last=Linder|first=Brian|url=https://www.ign.com/articles/2000/07/27/rumblings-from-gotham|title=Rumblings From Gotham|website=[[IGN]]|publisher=[[j2 Global]]|location=San Francisco, California|date=July 27, 2000|access-date=August 23, 2021}}</ref> However, due to the critical and commercial failure of [[Batman & Robin (film)|''Batman & Robin'']], this film was cancelled.
+*The ''[[Batman: Arkham]]'' version of Harley makes a cameo appearance in the 2018 film ''[[Ready Player One (film)|Ready Player One]]''.<ref>{{cite web|first=Chris|last=Begley|url=https://batman-news.com/2017/12/11/joker-harley-quinn-ready-player-one-trailer|title=The Joker and Harley Quinn appear in 'Ready Player One' trailer|date=December 11, 2017|publisher=Batman News|access-date=December 11, 2017}}</ref>
+*On August 4, 2022, [[Lady Gaga]] was confirmed to be set to play Quinn in the 2024 film ''[[Joker: Folie à Deux]]''.<ref>{{cite web|last=Hood |first=Cooper |url=https://screenrant.com/joker-2-trailer-joaquin-phoenix-lady-gaga-video |title=Joker 2 Teaser Trailer: Lady Gaga's Harley Quinn Dances With Joaquin Phoenix |publisher=Screenrant.com |date=2021-08-02 |accessdate=2022-08-05}}</ref><ref>{{cite web|last=Kim|first=Matt|title=Lady Gaga Officially Confirmed for Joker 2|url=https://www.ign.com/articles/lady-gaga-officially-confirmed-joker-2-folie-a-deux-harley-quinn|website=[[IGN]]|date=August 4, 2022|access-date=August 4, 2022}}</ref>
+
+====DC Extended Universe====
+{{main|Harley Quinn (DC Extended Universe)}}
+[[File:SuicideSquadHarleyQuinn.jpg|thumb|right|150px|[[Margot Robbie]] as Harley Quinn in ''[[Suicide Squad (film)|Suicide Squad]]'' (2016)]]
+[[Margot Robbie]] portrays Dr. Harleen Quinzel / Harley Quinn in the [[DC Extended Universe]].<ref name=AdditionalCast>{{cite news|title='Suicide Squad': First Cast Photo Revealed|url=https://variety.com/2015/film/news/suicide-squad-first-cast-photo-revealed-1201468975|access-date=April 9, 2015|work=variety.com|date=July 25, 2015}}</ref>
+*The character debuted in the 2016 film ''[[Suicide Squad (film)|Suicide Squad]]''. [[Paul Dini]], the creator of Harley Quinn, said Robbie "nailed" her role.<ref>{{cite web|url=https://www.cinemablend.com/news/1541850/what-harley-quinns-creator-thinks-of-margot-robbies-suicide-squad-performance|title=What Harley Quinn's Creator Thinks Of Margot Robbie's Suicide Squad Performance|last=Libbey|first=Dirk|date=August 4, 2016|publisher=CinemaBlend|access-date=August 4, 2016}}</ref>
+*Harley Quinn appears in the 2020 spin-off film ''[[Birds of Prey (2020 film)|Birds of Prey]]'', which Robbie also produced. On Robbie's portrayal of the character in the movie, Dini stated, "I think they really got the essence of the character down, and they made her quite a lot of fun and appealing in so many ways. She’s not totally the animated version, and it’s not totally the Jimmy [Palmiotti] and Amanda [Conner] version, but it kind of borrows from all of them and creates its own reality and its own fun. There are so many moments in that movie that I just think are wonderful. [...] When I saw her running, laughing hysterically, pushing a shopping cart full of [[Peeps]], I said, "That’s my girl." All those little [[impish]] things that she did in the movie – sitting down eating cereal, watching [[Tweety Bird]] cartoons, and just kind of skipping through life cheerfully oblivious of the devastation she’s caused – that’s Harley."<ref>{{cite web|title=Paul Dini Talks BATMAN: THE ADVENTURES CONTINUE|website=DC UNIVERSE INFINITE|date=April 3, 2020|first=Joseph|last=McCabe|url=https://www.dcuniverseinfinite.com/news/paul-dini-talks-batman-adventures-continue/|access-date=September 6, 2021}}</ref>
+*Harley Quinn appeared in the film ''[[The Suicide Squad (film)|The Suicide Squad]]'' (2021), a standalone sequel to ''Suicide Squad''.
+
+====Animation====
+*Harley Quinn has a [[cameo appearance]] in ''[[Justice League: The New Frontier]]'' during a speech by [[John F. Kennedy]].
+*An alternate universe version of Harley Quinn appears in ''[[Justice League: Crisis on Two Earths]]''. In the film, she is a monkey of "The Jester" (the film version of the Joker).
+*Harley Quinn is featured in ''[[Batman: Assault on Arkham]]'', voiced by Hynden Walch.
+*Harley Quinn appears in ''[[Lego DC Comics Super Heroes: Justice League: Gotham City Breakout]]'' with [[Tara Strong]] reprising her role.
+*Dr. Harleen Quinzel appears in ''[[Batman vs. Two-Face]]'', voiced by [[Sirena Irwin]]. She is the assistant to [[Hugo Strange]], who reciprocates the Joker's flirting. In a Blu-ray exclusive bonus scene, Quinzel, dressed as Harley Quinn, busts the Joker out of prison.
+*Harley Quinn appears in ''DC Super Heroes vs. Eagle Talon'', voiced by [[Kang Ji-young]].<ref>{{cite web|url=http://dc-taka.com/character/ハーレイ・クイン/|title=サイト名|website=dc-taka.com|language=ja|access-date=April 4, 2018}}</ref>
+*''The Brave and the Bold'' version of Harley Quinn appears in ''[[Scooby-Doo! & Batman: The Brave and the Bold]]'', with Tara Strong voicing her.
+*A feudal Japanese version of Harley Quinn appears in the anime film ''[[Batman Ninja]]'', voiced by [[Rie Kugimiya]] and [[Tara Strong]] in Japanese and English respectively.<ref>{{cite web|url=https://comicbook.com/anime/news/2017/10/05/nycc-2017-batman-ninja-live-recap-/|title='Batman Ninja' Anime: First Details & Poster Revealed|website=Anime}}</ref><ref name="fandompost">{{cite web|url=https://www.fandompost.com/2018/02/14/check-out-the-batman-ninja-dub-cast|title=Check Out The 'Batman Ninja' Dub Cast|date=February 14, 2018}}</ref>
+*Harley Quinn appears in ''[[Teen Titans Go! To the Movies]]''. She has a cameo appearance in an altered future where the villains have taken over.
+*Harley Quinn appears in ''[[Batman vs. Teenage Mutant Ninja Turtles]]'', with Tara Strong reprising her role. Harley is first introduced as an inmate at Arkham, who mocks Shredder from inside her cell. After the Joker frees her, she is mutated into a crazy and anthropomorphic [[spotted hyena|hyena]] and assists her lover in fighting the Bat-family and the [[Teenage Mutant Ninja Turtles|Turtles]]. She is knocked out by a crazed and mutated Batman, and abandoned by the Joker as he attempts to escape. She was presumably demutated by the Gotham police.
+*Harley Quinn has a cameo appearance in ''[[Space Jam: A New Legacy]]'' on a train that [[LeBron James]] and [[Bugs Bunny]] are on while searching the DC World in the “Serververse” for the Toons.
+*Harley Quinn appears in the animated film ''[[Injustice (2021 film)|Injustice]]'' voice by [[Gillian Jacobs]].<ref>{{cite web|last=Couch|first=Aaron|date=2021-07-21|title=DC's 'Injustice' Sets Cast for Animated Movie (Exclusive)|url=https://www.hollywoodreporter.com/movies/movie-news/injustice-gods-among-us-movie-dc-1234985568/|access-date=2021-07-21|website=The Hollywood Reporter|language=en-US}}</ref>
+
+=====DC Animated Movie Universe=====
+{{further|DC Animated Movie Universe}}
+*The [[Flashpoint (comics)|Flashpoint]] version of Harley Quinn named [[List of minor DC Comics characters#Yo-Yo|Yo-Yo]] appears in ''[[Justice League: The Flashpoint Paradox]]'', voiced by [[Hynden Walch]].
+*Harley Quinn appears in ''[[Suicide Squad: Hell to Pay]]'', with Tara Strong reprising her role. Again, she is a member of the [[Suicide Squad]] and is primarily designed after her appearance in ''[[The New 52]]''.
+*Harley Quinn appears in ''[[Batman: Hush (film)|Batman: Hush]]'' and ''[[Justice League Dark: Apokolips War]]'', with Hynden Walch reprising her role. In ''Apokolips War'', she is shown to have become the new leader of the Suicide Squad following Amanda Waller's death by cancer and seeks to avenge the death of Joker, who was apparently killed by Batman, who at the time was under Darkseid's control.
+
+=====''Lego Batman''=====
+{{further|The Lego Movie (franchise)}}
+*Harley Quinn appears in ''[[Lego Batman: The Movie – DC Super Heroes Unite]]'', an adaptation of the video game of the [[Lego Batman 2: DC Super Heroes|same name]], with [[Laura Bailey (voice actress)|Laura Bailey]] reprising her role.
+*Harley Quinn appears in ''[[The Lego Batman Movie]]'', voiced by [[Jenny Slate]].
+*Harley Quinn appears in ''[[The Lego Movie 2: The Second Part]]'', voiced by Margot Rubin.
+
+===Web series===
+* Harley Quinn appears in the ''[[Batman Black and White#Motion comics|Batman Black and White]]'' motion comics, voiced by [[Janyse Jaud]].
+* Harley Quinn (credited as [[Harlequin (comics)|Harlequin]]) appears in the first episode of the web series ''[[Justice League: Gods and Monsters Chronicles]]'', in which she kidnaps and mutilates an unknown number of people and makes toys and dolls out of the bodies. She fights Batman after he frees her latest victim and ends up surrendering, only to be drained of her blood and possibly killed after Batman reveals his fangs to her. She is voiced by [[Tara Strong]] reprising her role from the ''Arkham'' franchise.
+* Harley Quinn appears in the web series ''[[DC Super Hero Girls]]'', in which she is a student at Super Hero High and the roommate of [[Wonder Woman]]. Unusually for the character, she is portrayed as a hero instead of a villain and has a mostly positive relationship with her superhero counterparts. She is once again voiced by Tara Strong.
+
+===Video games===
+==== DC Animated Universe games ====
+* Harley cameos in ''[[The Adventures of Batman & Robin (video game)|The Adventures of Batman & Robin]]'' for the [[Super Nintendo Entertainment System|Super NES]], and as a [[Boss (video gaming)|boss]] in ''The Adventures of Batman & Robin'' for the [[Mega Drive|Sega Genesis]].
+* She appears in ''The Adventures of Batman & Robin'' for the [[Mega-CD|Sega CD]] and ''[[Batman: Chaos in Gotham]]'', voiced by Arleen Sorkin.
+* Harley Quinn appears in ''[[Batman Vengeance]]'', voiced by Arleen Sorkin. At the beginning of the game, she disguises herself as Mary Flynn who got her son Toby kidnapped by the Joker. The whole thing came out as a plan to kill Batman, but the plan failed and the Joker apparently died falling off the Gotham bridge. In the final phase of the game, it was revealed the Joker is alive and faked his death to make a bigger plan to destroy Gotham City, with Harley supporting him all along.
+*Harley appears in the sequel ''[[Batman: Rise of Sin Tzu]]'' where she is locked in her Arkham Asylum cell, being paralyzed by [[Sin Tzu]]'s mind control.
+
+==== DC Universe Online ====
+Harley appears in the ''[[DC Universe Online]]'' video game, with Arleen Sorkin returning as her voice. Harley is the basic ''Legends'' PVP character granted to Villains without having to spend Marks of Legend. To date, this was the last time Arleen Sorkin voiced the character; {{as of|2016|lc=y}}, Harley Quinn is now voiced by Jen Brown, starting with a DLC episode based on the ''Gotham City Sirens''.
+
+==== ''Lego'' series ====
+* Harley Quinn appears in ''[[Lego Batman: The Videogame]]'', with her sound effects provided by [[Grey DeLisle]]. She appears as an enemy of Batman, a 1st deputy of the [[Joker (character)|Joker]], and the second [[Boss (video gaming)|boss]] of Chapter 3 "The Joker's Return".<ref>{{cite web|date=February 15, 2008|first=Stephen|last=Totilo|title=Exclusive: See A New 'LEGO Batman' Villain|url=https://www.mtv.com/2456377/exclusive-see-a-new-lego-batman-villain|work=MTV News|publisher=[[MTV News]]|location=New York City|url-status=live|archive-url=https://web.archive.org/web/20080305053112/http://multiplayerblog.mtv.com/2008/02/15/exclusive-see-a-new-lego-batman-villain|archive-date=March 5, 2008|df=mdy-all}}</ref><ref>''[[Game Informer]]'' magazine <!-- publisher = [[GameStop]] --> features a two-page gallery of the many heroes and villains who appear in the game with a picture for each character and a descriptive paragraph. See "''LEGO Batman'': Character Gallery", ''Game Informer'' 186 (October 2008): 93.</ref> Harley Quinn in ''Lego Batman'' is a playable character, can be unlocked through the villain levels and carries a pistol and her giant mallet. She is one of three bosses that later appear as minibosses, the other two being [[Two-Face]] and [[Catwoman]].
+* Harley Quinn appears in ''[[Lego Batman 2: DC Super Heroes]]'', voiced by [[Laura Bailey (voice actress)|Laura Bailey]].<ref>{{cite web|url=https://www.comicsalliance.com/2012/05/23/lego-batman-2-trailer-screen-shots-flash-cyborg-aquaman|title=New 'Lego Batman 2' Trailer and Stills Show Off The Flash, Aquaman, Cyborg and More [Video]|work=Comics Alliance|access-date=January 10, 2015|url-status=live|archive-url=https://web.archive.org/web/20120526121704/http://www.comicsalliance.com/2012/05/23/lego-batman-2-trailer-screen-shots-flash-cyborg-aquaman|archive-date=May 26, 2012|df=mdy-all }}</ref> She first appears as the first miniboss in "Theatrical Pursuits". In "[[Arkham Asylum]] Antics", she rides with the [[Riddler]] and [[Two-Face]] on the latter's truck. She also appears as a boss at the Gotham Funland entrance.
+* Harley Quinn appears in ''[[Lego Batman 3: Beyond Gotham]]'', voiced by [[Tara Strong]]. She has two side-quests in the [[Hall of Doom]], after which she is unlocked as a playable character.
+* Harley Quinn is a playable character in ''[[Lego Dimensions]]'', with Tara Strong reprising the role.
+* Harley Quinn serves as one of the main characters in ''[[Lego DC Super-Villains]]'', voiced again by Tara Strong.<ref>{{cite web|url=https://www.polygon.com/2018/5/30/17408628/lego-dc-super-villains-announcement-release-date|title=New Lego game lets you team up with Joker, Harley Quinn and other DC bad guys|first=Michael|last=McWhertor|work=[[Polygon (website)|Polygon]]|date=May 30, 2018|access-date=June 1, 2018}}</ref> Her design is based on [[The New 52]].
+
+==== ''Batman: Arkham series'' ====
+Harley Quinn appears in the ''[[Batman: Arkham]]'' franchise. While [[Arleen Sorkin]] reprised her role from the [[DC Animated Universe]] in the first installment, she was replaced by [[Tara Strong]] for the rest of the series.<ref>{{cite web|url=http://community.batmanarkhamcity.com/forums/showthread.php/951-The-Voice-Behind-Harley-Quinn|title=The Voice Behind Harley Quinn: Batman Arkham City Community|publisher=Community.batmanarkhamcity.com|date=May 19, 2011|access-date=2011-12-31|archive-url=https://web.archive.org/web/20110624034044/http://community.batmanarkhamcity.com/forums/showthread.php/951-The-Voice-Behind-Harley-Quinn|archive-date=June 24, 2011|url-status=dead|df=mdy-all}}</ref><ref name="2014MarCVG">{{cite web|last=Hussain|first=Tamoor|url=http://www.computerandvideogames.com/452194/batman-arkham-knight-detailed-batmobile-gameplay-new-villain-combat-tweaks-and-more|title=Batman: Arkham Knight detailed: Batmobile gameplay, new villain, combat tweaks and more|publisher=[[Computer and Video Games]]|date=March 4, 2014|access-date=March 4, 2014|archive-url=https://web.archive.org/web/20140306145023/http://www.computerandvideogames.com/452194/batman-arkham-knight-detailed-batmobile-gameplay-new-villain-combat-tweaks-and-more/|archive-date=March 6, 2014|url-status=dead|df=mdy-all}}</ref>
+
+<!-- Deleted image removed: [[File:Arkham Knight Harley Quinn Promo.jpg|thumb|right|Harley Quinn in a promotional image for ''[[Batman: Arkham Knight]]'']] -->
+* In ''[[Batman: Arkham Asylum]]'', she takes control of the eponymous asylum to facilitate the Joker's escape, and makes subsequent appearances throughout the game; kidnapping Warden [[Quincy Sharp]] and [[James Gordon (character)|Commissioner Gordon]], releasing [[Poison Ivy (character)|Poison Ivy]] from her cell, and attempting to kill Batman on the Joker's orders. After Batman defeats Harley, he locks her up in a vacant cell, where she remains for the rest of the storyline. In this game, Harley wears an original nurse-themed costume.
+* In ''[[Batman: Arkham City]]'', she continues to work with the Joker within the eponymous city-prison, making several appearances throughout the main story. Following the Joker's death due to his Titan-inflicted disease, Harley watches in shock as Batman carries his lifeless body outside Arkham City. In this game, Harley wears a biker-girl themed costume, using a low-key version of her usual makeup, with heavy eye shadow in lieu of her domino mask. 
+**Harley also appears in the ''Harley Quinn's Revenge'' [[expansion pack]], set after the events of the main story, wherein she seeks revenge on Batman for the Joker's death. After taking several police officers hostage in Arkham City to lure Batman into a trap, she manages to capture him, but is ultimately defeated after [[Tim Drake|Robin]] rescues Batman. By this point, Harley has taken full control of the Joker's gang, and has an adopted a new look: mostly black clothes, with hair dyed black, a mourning veil, and a "J" necklace.
+* Harley Quinn appears in the mobile game ''[[Batman: Arkham City Lockdown]]'', set before the events of ''Arkham City'', where she takes a reporter a hostage to ransom her for the Joker's release from prison. After luring Batman into a trap, she tries to execute the bound and gagged reporter but is stopped by one of Batman's batarangs.
+* Dr. Harleen Quinzel appears in ''[[Batman: Arkham Origins]]'', which takes place before her transformation into Harley Quinn. She interviews the Joker at Blackgate Prison and falls in love with him after he confesses his fascination with someone whom he considers special to him (with Harley believing the Joker is talking about her, when in reality he is thinking of Batman). She later appears amongst the prison's other staff members held hostage by the Joker when he takes over the facility, but she is rescued by Batman. Quinzel is last seen escorting the Joker to his cell after he is defeated by Batman.
+* Harley returns in ''[[Batman: Arkham Knight]]''. Still in charge of the remains of the Joker's gang and vengeful against Batman, she is recruited by the [[Scarecrow (DC Comics)|Scarecrow]] to assist him in his plot to kill the Dark Knight. Harley discovers Batman and Robin's hideout at the abandoned Panessa Studios, where the two are keeping the victims of the Joker's blood transfusion who were not affected by the cure under observation. She leads her gang to invade the hideout and release the Joker patients, but is foiled after one of them betrays her and kills the others before committing suicide. Harley is then locked up by Batman in one of the Joker victims' cells left vacant, where she remains for the rest of the storyline. In this game, she wears a modified version of her ''Arkham City'' costume.
+** Apart from the main game, she is a playable character via downloadable content. She was included in her self-titled expansion pack, which also features four challenge maps and a story-driven mission for the character, set shortly before the events of ''Arkham Knight'', wherein she breaks into the [[Blüdhaven]] Police Headquarters to free [[Poison Ivy (character)|Poison Ivy]] on Scarecrow's orders.<ref name="HarleyDLC">{{cite web|url=https://www.facebook.com/photo.php?fbid=794562063909621&set=a.157294880969679.40633.140262999339534&type=1|title=Pre-order Batman: Arkham Knight right now for the chance to play as Harley Quinn in an exclusive story-driven mission starring the psychotic psychiatrist!|author=Batman Arkham|publisher=Facebook|date=June 30, 2014|access-date=June 30, 2014}}</ref> Harley has several unique gagdets at her disposal, including her baseball bat, explosive [[jack-in-the-box]], and laughing gas, as well as a variant of Detective Mode, called Psychosis Mode, which allows the player to see enemies and objects of interest through walls; when the player keeps Psychosis Mode active for an extended period of time, the character's Harleen and Harley personas can be heard fighting for control of her body. Harley also appears as a boss in the ''Batgirl: A Matter of Family'' DLC mission, set before the events of ''Arkham Asylum'', in which she dons her classic [[jester]] costume.
+* Harley appears as a playable character in the mobile game ''Batman: Arkham Underworld''. She is unlocked after the player completes a mission for her, and wields a special pistol, grenades, and a baseball bat. She can also summon her pet hyenas.
+* Harley will appear as a playable character in ''[[Suicide Squad: Kill the Justice League]]''.<ref>{{cite web|last=Durnbush|first=Jonathon|date=August 23, 2020|title=Suicide Squad: Kill the Justice League Set in Batman: Arkham Universe|url=https://www.ign.com/articles/suicide-squad-kill-the-justice-league-in-batman-arkham-universe|access-date=August 23, 2020|work=[[IGN]]}}</ref> In the game, she is part of the [[Suicide Squad]] assembled by [[Amanda Waller]] to eliminate [[Brainiac (character)|Brainiac]] and the members of the [[Justice League]] brainwashed by him in [[Metropolis (comics)|Metropolis]].
+
+==== ''Injustice'' series ====
+* Harley Quinn appears as a playable fighter in ''[[Injustice: Gods Among Us]]'', voiced by Tara Strong.<ref>{{cite web|url=https://www.mtv.com/news/2464628/netherrealm-developing-new-dc-comics-fighting-game-injustice-gods-among-us|title=NetherRealm Developing New DC Comics Fighting Game, "Injustice: Gods Among Us"|work=MTV News|access-date=August 22, 2021}}</ref> In the alternate universe depicted in the game, Quinn establishes the Joker Clan to honor the Clown Prince of Crime after he is murdered by Superman. She is part of Batman's Insurgency and is tempted in the story to revert to her older ways when an alternate Joker arrives in her dimension until [[Lex Luthor]] manages to convince her the Joker is manipulating her for his ends. In her arcade ending, she fatally slits the Joker's throat after a wedding gone wrong.<ref>{{cite video|people=Tara Strong|date=November 14, 2013|title=Infinite Crisis – Behind the Voice – Tara Strong as Harley Quinn|url=https://www.youtube.com/watch?v=eUPZxr2Y7zM|medium=interview|publisher=YouTube|access-date=2014-03-05|quote=Why, hellllo Harley! What better way to welcome Harley Quinn to the pantheon of Infinite Crisis champions than by going behind the voice with Tara Strong. Find out what this fabulous, fan-favorite voice actor thinks of returning once again to the character she helped make famous.}}</ref>
+* Harley Quinn appears as a playable fighter in ''[[Injustice 2]]'', with Tara Strong reprising her role.<ref>{{cite tweet|title=Kicking @tarastrong 's very cute butt.|user=GreyDeLisle|first=Grey|last=DeLisle|number=848987432716337152|date=April 3, 2017|access-date=May 16, 2017}}</ref><ref>{{cite web|last1=Copeland|first1=Wesley|title=Gamescom 2016: Harley Quinn And Deadshot Join Injustice 2 Roster|url=https://www.ign.com/articles/2016/08/17/gamescom-2016-harley-quinn-and-deadshot-join-injustice-2-roster|website=IGN|date=August 17, 2016|access-date=17 August 2016}}</ref> She is a main character in the single-player campaign, wherein she serves as one of Batman's most trustworthy allies, and assists him and the other heroes in combating [[Brainiac (character)|Brainiac]] and the [[Secret Society of Super Villains|Society]], which includes [[Poison Ivy (character)|Poison Ivy]]. Harley is also shown to have completely overcome her feelings for the Joker after realizing he had been controlling and abusing her for years. In her arcade ending, she is offered a position within the [[Justice League]] and admits that she still has violent impulses from time to time, but manages to keep them under control by being heroic and spending time with her daughter Lucy (who believes her to be her aunt, though Harley hopes to tell her the truth someday).
+
+==== ''Batman: The Enemy Within'' ====
+Harley Quinn appears in ''[[Batman: The Enemy Within]]'' (the sequel to ''[[Batman: The Telltale Series]]''), voiced by [[Laura Post]].<ref>{{cite web|last1=Dornbush|first1=Jonathon|title=Telltale's Batman: The Enemy Within First Harley Quinn Clip Revealed|url=https://www.ign.com/articles/2017/09/23/telltales-batman-the-enemy-within-first-harley-quinn-clip-revealed|website=IGN|date=September 23, 2017|access-date=27 September 2017}}</ref> This version of Dr. Harleen Quinzel was driven insane following her father's long bout with mental illness and eventual suicide. Attempting to avoid her father's fate, she joins a criminal organization called the Pact to steal a virus able to cure her hereditary condition. This depiction initially reverses the dynamic between Harley and the Joker. Quinn manipulates and abuses her former patient at Arkham Asylum, named "John Doe", who is infatuated with her. As the series progresses, John's confidence will increase, and depending on the player's choices, he will either aid Bruce Wayne in capturing Quinn or transform into the traditional version of the Joker. In the latter outcome, Harley will become the Joker's girlfriend and the two use the virus to threaten Gotham City.
+
+==== Other appearances ====
+* Harley Quinn appears in ''[[Infinite Crisis (video game)|Infinite Crisis]]'' as a playable character, voiced by Tara Strong.<ref>{{cite web|url=https://www.youtube.com/watch?v=eUPZxr2Y7zM|title=Infinite Crisis – Behind the Voice – Tara Strong as Harley Quinn|publisher=[[YouTube]]|access-date=January 10, 2015}}</ref>
+* Harley Quinn is among the villains summoned by [[Brainiac (character)|Brainiac]] to retrieve Starites in ''[[Scribblenauts Unmasked]]''.
+* Harley Quinn appears as a playable character in the mobile game, ''Suicide Squad: Special Ops'', based on the film.
+* She appears as a playable character in ''DC Legends'' and ''DC Unchained''.
+* In ''[[Mortal Kombat 11]]'', Harley Quinn appears as a DLC costume skin for [[Cassie Cage]].
+* Harley Quinn is a usable skin in ''[[Fortnite]]''.
+* Harley Quinn appears as a playable character in ''[[SINoALICE]]'', voiced by Rie Kugimiya.<ref>{{cite web|url=https://www.4gamer.net/games/371/G037176/20210916105/|title=「SINoALICE」×「DC」コラボが開幕。バットマンやジョーカーらが参戦|website=4gamer.net|date=September 16, 2021|access-date=October 19, 2021|language=ja}}</ref>
+* Harley Quinn appears as a playable character in the mobile game, ''DC Battle Arena'', voiced by [[Kira Buckland]].<ref>{{cite tweet |last=Buckland |first=Kira |author-link=Kira Buckland |user=KiraBuckland |number=1373915723475550210|date= March 22, 2021 |title=So excited to be voicing Harley Quinn in #DCBattleArena!|language=en |access-date=December 1, 2021}}</ref>
+* Harley Quinn is a playable character in ''[[MultiVersus]]'', voiced by Tara Strong.<ref>{{cite web|last=McWhertor|first=Michael|url=https://www.polygon.com/22789132/multiversus-warner-bros-dc-game-of-thrones-bugs-bunny|title=New fighter MultiVersus is Smash Bros. but with Bugs Bunny, Batman, and Game of Thrones|date=November 18, 2021|access-date=November 19, 2021|work=[[Polygon (website)|Polygon]]}}</ref>
+* Harley Quinn will appear in ''[[Gotham Knights (video game)|Gotham Knights]]'', voiced by [[Kari Wahlgren]].<ref>{{cite tweet|user=GothamKnights|number=1565761565642702850|title=.@KariWahlgren is Harley Quinn.|date=September 2, 2022|access-date=September 5, 2022}}</ref>
+
+===Novels===
+Harley Quinn has her own novel adaptation from comics as part of the DC Comic Novels series. ''Mad Love'' was released in November 2018 and written by Pat Cardigan and original co-creator Paul Dini and published by [[Titan Books]].
+
+She is reinterpreted as Pauline Ketch in ''[[The Refrigerator Monologues]]''.<ref>{{cite web|url=https://www.barnesandnoble.com/blog/sci-fi-fantasy/guide-comic-book-wives-girlfriends-inspired-refrigerator-monologues|title=A Guide to the Comic Book Wives and Girlfriends Who Inspired the Refrigerator Monologues|date=June 7, 2017}}</ref>
+
+==See also==
+* [[Hybristophilia]]
+* [[List of Batman Family adversaries]]
+
+==References==
+{{reflist}}
+===Sources===
+{{Refbegin|30em}}
+* {{cite book |last1=Weiner |first1=Robert G. |last2=Peaslee |first2=Robert Moses|title=The Joker: A Serious Study of the Clown Prince of Crime |date=February 26, 2015 |publisher=[[University Press of Mississippi]] |isbn=978-1-62846-238-8}}
+{{Refend}}
+
+==Further reading==
+* {{cite book |last1=Langley|first1=Travis |title=Batman and Psychology: A Dark and Stormy Knight |year=2012 |publisher=[[John Wiley & Sons]] |location=New York City, New York |isbn=978-1-118-16765-6 }}
+* {{cite book |last1=Barba |first1=Shelley E. |last2=Perrin |first2=Joy M. |title=The Ascendance of Harley Quinn: Essays on DC's Enigmatic Villain |date=2017 |publisher= [[McFarland & Company]] |isbn=978-1476665238}}
+
+==External links==
+{{Wikiquote|Batman (comics)#Harley Quinn|Harley Quinn}}
+{{Commons}}
+* [http://www.dccomics.com/characters/harley-quinn Harley Quinn] at DC Comics' official website
+* {{dcauw|Harley Quinn}}
+* {{curlie|Arts/Comics/Titles/B/Batman/Harley_Quinn/|''Harley Quinn''}}
+* [http://buffycomics.hellmouthcentral.com/harley/ Collecting Harley Quinn]
+* [https://web.archive.org/web/19991004060103/http://batman-superman.com/batman/cmp/harley.html Harley Quinn] on the official Superman/Batman Adventures homepage, archived 1999-10-04
+
+{{Harley Quinn}}
+{{Batman characters}}
+{{Navboxes
+|title = Links to related topics
+|list1=
+{{Batgirl}}
+{{Birds of Prey}}
+{{Catwoman}}
+{{The Joker}}
+{{Justice League characters}}
+{{Robin}}
+{{Suicide Squad}}
+{{DC Animated Universe}}
+}}
+{{Portal bar|1990s|Speculative fiction}}
+
+{{DEFAULTSORT:Quinn, Harley}}
+[[Category:Harley Quinn| ]]
+[[Category:Action film villains]]
+[[Category:Animated human characters]]
+[[Category:Villains in animated television series]]
+[[Category:Television characters introduced in 1992]]
+[[Category:Animated characters introduced in 1992]]
+[[Category:Batman: The Animated Series characters]]
+[[Category:Batman characters]]
+[[Category:Characters created by Paul Dini]]
+[[Category:Characters created by Bruce Timm]]
+[[Category:DC Comics sidekicks]]
+[[Category:Comics characters introduced in 1993]]
+[[Category:DC Animated Universe characters]]
+[[Category:DC Comics female superheroes]]
+[[Category:DC Comics female supervillains]]
+[[Category:DC Comics LGBT supervillains]]
+[[Category:DC Comics LGBT superheroes]]
+[[Category:DC Comics martial artists]]
+[[Category:DC Comics titles]]
+[[Category:DC Comics metahumans]]
+[[Category:Female characters in animated series]]
+[[Category:Female characters in television]]
+[[Category:Fictional American psychiatrists]]
+[[Category:Fictional bisexual females]]
+[[Category:Fictional clowns]]
+[[Category:Fictional female doctors]]
+[[Category:Fictional gymnasts]]
+[[Category:Fictional jesters]]
+[[Category:Fictional Jewish women]]
+[[Category:Fictional mad scientists]]
+[[Category:Fictional psychologists]]
+[[Category:Fictional hammer fighters]]
+[[Category:Fictional stick-fighters]]<!--She usually fights with a baseball bat-->
+[[Category:Fictional therapists]]
+[[Category:Fictional female scientists]]
+[[Category:Jewish superheroes]]
+[[Category:Joker (character)]]
+[[Category:LGBT characters in animated television series]]
+[[Category:LGBT characters in animation]]
+[[Category:Supervillains with their own comic book titles]]
+[[Category:Fictional American Jews in comics]]
+[[Category:Fictional victims of domestic abuse]]
+[[Category:Female characters in animation]]
+[[Category:Fictional characters from New York City]]
+[[Category:Suicide Squad members]]
+[[Category:Vigilante characters in comics]]
+[[Category:Fictional female murderers]]
+[[Category:Fictional mass murderers]]
+[[Category:Harlequin]]

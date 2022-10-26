@@ -1,0 +1,61 @@
+{{Short description|Fictional character in the Marvel Universe}}
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+|character_name=Metal Master
+|image=Metal Master 63.jpg
+|caption=Metal Master as seen in ''[[The Incredible Hulk (comic book)|The Incredible Hulk]]'' #6.
+|publisher=[[Marvel Comics]]
+|debut=''[[The Incredible Hulk (comic book)|The Incredible Hulk]]'' #6 (Mar 1963)
+|creators=[[Stan Lee]]<br>[[Steve Ditko]]
+|real_name=Molyb
+|species=[[Astran]]
+|alliances=
+|aliases=
+|powers= *[[Metal]] manipulation
+*Spacecraft aptitude 
+
+|}}
+'''Metal Master''' is the name of two fictional characters appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Publication history==
+The first Metal Master first appeared in ''[[The Incredible Hulk (comic book)|The Incredible Hulk]]'' #6 (March 1963), and was created by [[Stan Lee]] and [[Steve Ditko]].<ref>{{cite book |last =Rovin |first =Jeff |title =The Encyclopedia of Supervillains |publisher =Facts on File |date =1987 |location =New York |isbn = 0-8160-1356-X |page=218}}</ref> The character subsequently appears in ''Rampaging Hulk'' #3 (June 1977), ''ROM'' #30 (May 1982), and ''Maximum Security'' #2 (December 2000). Metal Master received an entry in the ''Official Handbook of the Marvel Universe A-Z'' #7 (2009).
+
+The second Metal Master first appeared in ''Avengers'' #676 and was created by [[Mark Waid]], [[Al Ewing]], Jim Zub, and Pepe Larraz.
+
+==Fictional character biography==
+===Molyb===
+Metal Master was an alien who can psionically control the atoms and molecules of metals like the rest of his species on a planet in the Galaxy of Astra. He was banished from his world for trying to take it over. When he came to Earth, the Metal Master attacked Gamma Base and defeated the [[Hulk]] when he refused to join him, bombarding him with metal and preventing him from getting up close.  The Hulk returned with a plastic weapon; when the Metal Master's powers could not affect the gun, he was caught off guard and the Hulk easily beat him and forced him to reverse his actions.<ref>''The Incredible Hulk'' #6. Marvel Comics.</ref>
+
+The Metal Master returned to Earth again later, seeking large amounts of metals that the [[Astran]]s thrive on. There he encountered the [[Spaceknights|Spaceknight]] [[Rom (comics)|Rom]], and tried to control Rom's metal armor. Rom resisted him, and the Metal Master was nearly driven mad by the thought of a metal that he could not control.<ref>''Rom'' #30. Marvel Comics.</ref>
+
+Later, the Metal Master wound up in an intergalactic prison. During the events of "[[Maximum Security (comics)|Maximum Security]]", Metal Master was one of the many aliens sent to Earth and he fought the [[Scarlet Witch]].<ref>''Maximum Security'' #1-3. Marvel Comics.</ref>
+
+Sometime later, the Conclave of Seven Planets sentenced Metal Master to a deep space torture prison. He made acquaintances with his fellow cellmates [[Black Bolt]], [[Absorbing Man]], Blinky, and Raava.<ref>''Black Bolt'' #1-3. Marvel Comics.</ref> He and his fellow inmates escape after Absorbing Man seemingly sacrifices himself to help Black Bolt kill the torture prison's Jailer.<ref>''Black Bolt'' #5-6. Marvel Comics.</ref>
+
+===Molyn===
+A new Metal Master named Molyn appears in the "No Surrender" arc" as a member of [[Grandmaster (Marvel Comics)|Grandmaster]]'s [[Lethal Legion]] where he was nicknamed the "All-New Metal Master." He and the Lethal Legion go up against Challenger's [[Black Order (comics)|Black Order]] in a contest where Earth is the battlefield.<ref>''Avengers'' #676-679. Marvel Comics. Marvel Comics.</ref>
+
+==Powers and abilities==
+The Metal Master possesses the ability to manipulate virtually all types of metal. He can alter their shape and density at will, forming complex objects, liquefy, animate, or levitate them, etc.<ref>''The Rampaging Hulk'' Vol. 1 #3 (June 1977)</ref> One exception is Plandarium, the metal from which the armor of Galador's Spaceknights is made. He could affect this rare [[alloy]] to some degree, but he cannot control it as with other metals.<ref>''Official Handbook of the Marvel Universe A to Z'' Vol 1 #7 (March 2009)</ref> His alien-like intellect allows him to build [[starships]] with intermediate hyperdrive functions, but otherwise at Earth's [[Technology|technological]] level.
+
+==In other media==
+The Molyb version of Metal Master appeared in ''The Incredible Hulk'' segment of ''[[The Marvel Super Heroes]]'', voiced by [[Paul Kligman]].{{citation needed|date=July 2017}}
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://www.writeups.org/metal-master-marvel-comics/ Metal Master] at Writeups.org
+* [https://marvel.fandom.com/wiki/Molyb_(Earth-616) Metal Master] at Marvel Database
+* {{Marvunapp|http://www.marvunapp.com/Appendix/mtlmst.htm|Metal Master}}
+
+{{Hulk}}
+{{Stan Lee}}
+{{Steve Ditko}}
+
+{{DEFAULTSORT:Metal Master (Comics)}}
+[[Category:Characters created by Stan Lee]]
+[[Category:Characters created by Steve Ditko]]
+[[Category:Comics characters introduced in 1963]]
+[[Category:Fictional characters with slowed ageing]]
+[[Category:Marvel Comics aliens]]
+[[Category:Marvel Comics supervillains]]

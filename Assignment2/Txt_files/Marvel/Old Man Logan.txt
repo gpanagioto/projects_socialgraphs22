@@ -1,0 +1,277 @@
+{{short description|Comic book character}}
+{{use mdy dates|date=August 2022}}
+{{Infobox comics character and title
+| image          = Logan (Earth-807128).png
+| converted      = y
+| caption        = Artwork for the variant cover of<br>''Old Man Logan'' vol. 2, #50 (October 2018)<br/>Art by [[Mike Deodato Jr.]]
+| alt            = An old grey-haired Logan, his fists are lowered, and his six claws are extended. 
+| publisher      = [[Marvel Comics]]
+| debut          = ''Fantastic Four'' (vol. 1) #558 (August 2008) 
+| creators       = {{Plain list|
+* [[Mark Millar]]
+* [[Steve McNiven]]
+* (based upon the original [[Wolverine (character)|Wolverine]] by [[Len Wein]], [[John Romita, Sr.]], and [[Herb Trimpe]])
+}}
+| alter_ego      = James "Logan" Howlett
+| homeworld     = Earth-807128
+| alliances     = {{Plainlist|
+* [[X-Men]]
+* [[Fantastic Force]]
+* [[X-Force|Weapon X-Force]]
+}}
+| aliases        = 
+| powers         = * Superhuman senses, strength, speed, durability, reflexes, stamina
+* Regeneration and slowed aging
+* [[Adamantium]]-laced skeleton
+* Retractable bone-claws
+* Skilled martial artist and master hand-to-hand combatant
+| cat            = super
+| hero           = y
+<!--Series section-->
+| title=Wolverine: Old Man Logan
+| 2ndary_box = y
+| cvr_image=
+| cvr_caption =
+| schedule='''vol. 1–3''': Monthly
+| ongoing=y
+| startmo        = June
+| startyr        = 2008
+| endmo          = 
+| endyr          = 
+| genre          = <!--covered by the cat -->
+| titles         = [[Wolverine (comic book)|Wolverine]] #66–72
+| main_char_team = [[Wolverine (character)|Wolverine]]
+| writers        = '''(vol. 1)'''<br>[[Mark Millar]] <br>'''(vol. 2)'''<br>[[Brian Michael Bendis]]<br>'''(vol. 3-5)'''<br>[[Jeff Lemire]] <br>'''(vol. 6-12)'''<br>[[Ed Brisson]]
+| pencillers     ='''(vol. 1)'''<br>[[Steve McNiven]] <br>'''(vol. 2)'''<br>Andrea Sorrentino<br>'''(vol. 3)'''<br>Andrea Sorrentino
+| TPB            = Wolverine: Old Man Logan
+| ISBN           = 0-7851-3159-0
+| subcat         = X-Men
+| sort           = Old Man Logan
+}}
+'''Old Man Logan''' is an [[Alternative versions of Wolverine|alternative version]] of the [[Marvel Comics]] [[fiction]]al [[Character (arts)|character]] [[Wolverine (character)|Wolverine]]. This character is an aged version of Wolverine set in an alternate future universe designated '''Earth-807128''', where the supervillains overthrew the superheroes. Introduced as a self-contained story arc within the ''[[Wolverine (comic book)|Wolverine]]'' [[ongoing series]] by writer [[Mark Millar]] and artist [[Steve McNiven]], the character became popular with fans. After the [[Death of Wolverine]], [[X-23|Laura Kinney]] took the Wolverine mantle but an Old Man Logan from the similar '''Earth-21923''' was brought in to serve as an [[Extraordinary X-Men|X-Man]] and featured in his own [[ongoing series]].<ref>{{cite web| url= http://marywashicomics.com/article/old-man-logan-and-the-revival-of-wolverine/| work= Comics Studies At the University of Mary Washington; MaryWashiComics.com| date= December 10, 2016| author= jmyers3| title= Old Man Logan and the Revival of Wolverine| access-date= March 20, 2017| archive-url= https://web.archive.org/web/20170307183333/http://marywashicomics.com/article/old-man-logan-and-the-revival-of-wolverine/| archive-date= March 7, 2017| url-status= dead}}</ref>
+
+Old Man Logan was a principal inspiration for the 2017 film ''[[Logan (film)|Logan]]'', starring [[Hugh Jackman]] as the [[Logan (film series character)|title character]].
+
+==Publication history==
+Old Man Logan debuted as a character in [[Mark Millar]]'s run on ''[[Fantastic Four]]'', which featured characters who are heavily implied to be the aged Wolverine and Bruce Banner Jr. as an adult. ''Wolverine: Old Man Logan'' started as an eight-issue storyline from the third volume of ''[[Wolverine (comic book)|Wolverine]]'' ongoing series by writer [[Mark Millar]] and artist [[Steve McNiven]], published by [[Marvel Comics]] in June 2008. The series ran through ''Wolverine'' (volume 3) #66–72 and ended in ''Wolverine Giant-Size Old Man Logan'' #1 on September 9, 2009.
+
+Old Man Logan debuted in his solo series during the 2015 ''[[Secret Wars (2015 comic book)|Secret Wars]]'' storyline,<ref name= joins>{{cite web|url=http://www.mtv.com/news/2078290/old-man-logan-secret-wars-marvel/ |title=Exclusive: Wolverine Joins Marvel's 'Secret Wars' With 'Old Man Logan' |website= [[MTV]].com |date=2015-02-13 |access-date=2015-11-28}}</ref> written by [[Brian Michael Bendis]] with art by Andrea Sorrentino. This story is continued in an ongoing series with the same name beginning in January 2016,<ref name="Axel-In-Chage">{{cite web|url=http://www.comicbookresources.com/article/axel-in-charge-the-question-of-a-bisexual-hercules-looking-inside-invincible-iron-man-2015 |title=Axel-In-Charge: The Question of a Bisexual 'Hercules,' Looking Inside 'Invincible Iron Man' |website=Comic Book Resources |access-date=2015-11-28}}</ref> written by [[Jeff Lemire]] with Sorrentino returning as artist.
+
+==Fictional character biography==
+===Original story===
+The [[United States]] and the world of Earth-807128 has been conquered and divided among supervillains, with territories belonging to the [[Abomination (comics)|Abomination]] (later conquered by the [[Alternative versions of the Hulk#Old Man Logan|Hulk]]), [[Alternative versions of Magneto#Old Man Logan|Magneto]] (later conquered by a new [[Kingpin (character)#Old Man Logan|Kingpin]]), Doctor Doom, and the [[Red Skull]], who has named himself President of the United States. Superheroes have been wiped out of existence, with the few survivors in hiding. [[Alternative versions of Wolverine#Old Man Logan|Logan]] lives with his wife Maureen and young children Scotty and Jade on a barren plot of land in [[Sacramento, California|Sacramento]], [[California]], now part of the territory known as Hulkland. Needing money to pay rent to his landlords the Hulk Gang (the [[incest]]uous [[hillbilly]] grandchildren of the Hulk and his first cousin [[She-Hulk]]), Logan accepts a job from a blind [[Hawkeye (Clint Barton)#Old Man Logan|Clint Barton]] to help him travel east to the capital of New Babylon and deliver a secret package (which Logan assumes to be drugs).<ref>{{Cite comic|writer=[[Millar, Mark]]|penciller=[[McNiven, Steve]]|inker=[[Vines, Dexter]]| title = [[Wolverine (comic book)|Wolverine]]| volume = 3| issue = #66| date = 2008| publisher = [[Marvel Comics]]}}</ref>
+
+Logan and Barton encounter several diversions on their journey. They rescue Barton's estranged daughter [[Spider-Bitch (Ashley Barton)|Ashley]] (who seems to be an aspiring Spider-Girl) from the clutches of the new Kingpin. However, she then murders Kingpin and reveals her intention to seize his territory of [[Mjolnir (comics)|Hammer]] Falls (formerly [[Las Vegas]]) herself as the new Kingpin and "Spider-Bitch", before attempting to kill her father; Logan rescues him and the pair escape, as Spider-Bitch sends her forces after them.<ref>{{Cite comic|writer=Millar, Mark|penciller=McNiven, Steve|inker=Vines, Dexter| title = Wolverine| volume = 3|issue = #68| date = 2008| publisher =Marvel Comics}}</ref>
+
+They escape a cluster of [[Moloids]] who are destroying cities by sinking them from beneath the surface. They then get chased by a [[Alternative versions of Venom#Old Man Logan|Venom symbiote]]-infused dinosaur (imported from the [[Savage Land]]), but they are rescued and teleported by the [[Emma Frost#Old Man Logan|White Queen]] and [[Black Bolt#Old Man Logan|Black Bolt]].<ref name= logan71 />
+
+Throughout the story it is reiterated that the "Wolverine" persona died the day the villains attacked and that since then, Logan has refused to use his claws. [[Flashback (continuity)|Flashbacks]] reveal that on the night the attack happened, a group of 40 supervillains attacked the [[X-Mansion]]. Unable to locate his teammates, Logan slaughtered the attackers to ensure the safety of the mutant children. As the last "attacker" Bullseye was killed, Logan realized that the entire assault was an illusion created by [[Mysterio#Old Man Logan|Mysterio]] and his perceived enemies were actually his fellow [[X-Men]]. This destroyed Wolverine emotionally and mentally, and he fled the mansion and wandered away to a train track in shock and shame. Though he made a subsequent suicide attempt by allowing a freight train to run him over, Logan could not actually kill himself, but had effectively killed "Wolverine".<ref>{{Cite comic|writer= Millar, Mark| penciller= McNiven, Steve| inker= Vines, Dexter| title =Wolverine| volume = 3|issue = #70| date = 2009| publisher = Marvel Comics}}</ref>
+
+[[File:4.25.13MarkMillarByLuigiNovi55.jpg|thumb|Writer [[Mark Millar]] signing a copy of the collected edition during an appearance at [[Midtown Comics]] in Manhattan]]
+When they arrive at the capital, Hawkeye delivers his package to an [[resistance movement|underground resistance]] group hoping to begin a new team like the [[Avengers (comics)|Avengers]]. The package contains Super-Soldier Formula, enough to form an army, but Barton's clients expose themselves as undercover [[S.H.I.E.L.D.]] agents. They shoot and kill Logan and Barton.<ref name= logan71>{{Cite comic|writer=Millar, Mark|penciller=McNiven, Steve|inker=Vines, Dexter|title = Wolverine| volume = 3| issue = #71| date = 2009| publisher = Marvel Comics}}</ref> Logan's body heals and he awakens in Red Skull's trophy room amongst the armaments and costumes of fallen superheroes. Without using his claws, he kills Red Skull's men and engages Red Skull himself, eventually decapitating him with [[Captain America's shield]]. He grabs a briefcase of money (their intended reward for the delivery) and uses pieces of [[Iron Man's armor]] to fly back home. Upon arriving, Logan discovers that the Hulk Gang murdered his family and left the bodies unburied in his absence. His neighbor Abraham Donovan states that Logan's family was killed when the Hulk Gang got tired of waiting for their payment. This results in Logan finally unleashing his claws.<ref>{{Cite comic|writer=Millar, Mark|penciller=McNiven, Steve |inker= Vines, Dexter|title = Wolverine| volume = 3| issue = #72| date = 2009| publisher = Marvel Comics}}</ref>
+
+He seeks out and slaughters the Hulk's grandchildren Beau, Bobbie-Jo, Charlie, Elrod, Eustace, Luke, Otis, Rufus, and Woody before encountering Old Man Banner himself who displays monstrous strength, even in his human form. It is implied that the gamma poisoning in his body had begun to deteriorate his sanity in his old age. Banner reveals that while the murder of Logan's family was intended as a message to others, he really just wanted to get Logan angry enough to fight him because he had gotten bored with being a "super-villain landlord", like the others. In his Hulk form, Banner easily defeats Logan and then consumes him. Logan recuperates within Banner's stomach and bursts out, killing the Hulk. Afterward, he discovers a baby Hulk named Bruce Banner, Jr. A month later, Logan and his neighbors hold a small memorial for Logan's family. With nothing left of his old home, Logan then says he plans to defeat all the new world villains and bring peace to the land—with himself and Bruce Banner, Jr. being the first members of a new group of superheroes—before riding off into the sunset.<ref>{{cite comic|writer=Millar, Mark|penciller=McNiven, Steve|inker=Vines, Dexter|title=Giant-Size Wolverine Old Man Logan|issue=#1|date=September 2009|publisher=Marvel Comics}}</ref>
+
+After a fight with the Ghost Riders, Old Man Logan found that Pappy Banner's head was placed on a gamma-powered robot made from Adamantium by [[Tinkerer (Marvel Comics)#Old Man Logan|Tinkerer]]. He used it in his revenge on Old Man Logan. Before Old Man Logan can be finished off by Pappy Banner, he is suddenly attacked by Bruce Banner Jr. who separated Pappy Banner's head from the Adamantium armor. Rather than kill his head, Old Man Logan buried it and planted a tree over him so that its roots can slowly dig into his skull.<ref>''Wastelanders: Wolverine'' #1. Marvel Comics.</ref>
+
+====''Fantastic Four''====
+Some time later, Old Man Logan and the now adult Bruce Banner Jr. are featured during a scene when the new [[Defenders (comics)|Defenders]], led by an older [[Invisible Woman|Susan Storm]], travel back in time to use cosmic energy to restore their dying Earth. Now calling himself the Hooded Man, Old Man Logan accompanies Gaia back to his original timeline in order to repopulate the now desolate Earth and keep her from going insane from the lack of inhabitants. He is later seen gardening with Gaia, who is now pregnant with his child.<ref>''Fantastic Four'' #558 (August 2008). Marvel Comics.</ref>
+
+===Earth-21923 version===
+The history of this Old Man Logan is the same as the one on Earth-807128. When the Multiverse was destroyed and [[Battleworld]] was created, a different version from an altered universe version of "Old Man Logan" called Earth-21923<ref>''X of Swords Handbook'' #1. Marvel Comics.</ref> is reborn on the Battleworld domain called the Wastelands, a re-creation of his native reality with his memories still intact, although he does not know how he arrived in Battleworld. After having declared to set his world right, Logan disrupts a [[poker]] game between the [[Gladiator (Melvin Potter)|Gladiator]] and his Flying Devils, and he ends their [[human trafficking]] ring by killing them, freeing those imprisoned. While on the way back to meet with [[Danielle Cage]], Logan witnesses the head of an [[Ultron|Ultron Sentinel]] fall from above. Wishing to investigate further, he brings it along with him back home, where Bruce Jr. and Danielle also reside. After explaining this new development, he investigates the head's origins. He visits Hammer Falls and meets with the dying Emma Frost, and he learns that the head is from beyond the Wastelands, so he begins traveling beyond his domain.<ref>''Old Man Logan'' #1. Marvel Comics.</ref>
+
+When Logan trespasses upon its borders, he is approached by an unidentified [[Thor (Marvel Comics)|Thor]] of the Thor Corps. She attacks Logan with a lightning bolt for breaking [[Doctor Doom]]'s laws, falling into the [[Age of Apocalypse|Domain of Apocalypse]] in the process. Already healed from the burns caused by the Thor's attack, Logan is attacked by [[Sabretooth (comics)|Victor Creed]] (who is one of the [[Horsemen of Apocalypse]]) and his soldiers, but Logan is rescued by the X-Men and taken to their hideout, where they are attacked by [[Apocalypse (comics)|Apocalypse]] and his other Horsemen.<ref>''Old Man Logan'' #2. Marvel Comics.</ref>
+
+The battle that ensues is intervened by the Thor who attacked Logan earlier and as she argues with Apocalypse, Logan flees and hides. The Thor then demands to know to where he had run, but no one answers. Angry, she attacks both the X-Men and the Horsemen with a lightning bolt and then looks for Logan through the domain. When she is near the domain's walls, Logan climbs it and attacks her from behind. Enraged, the Thor attacks him with another lightning bolt and lets him fall into the neighboring domain of Technopolis, as she is attacked by Apocalypse's Infinite Soldiers. Logan is taken to Stark Tower by [[Iron Man|Baron Stark]] and [[War Machine|Grand Marshal Rhodes]], the Thor of that domain. After healing from his injuries, Logan awakens only to find himself in a totally different domain from the one where he was. He ends up fighting Rhodes, but is defeated and sent to the Deadlands as punishment for breaking Doom's laws.<ref>''Old Man Logan'' #3. Marvel Comics.</ref>
+
+Due to his healing factor, Logan succeeds in fighting through hordes of zombies in the Deadlands. He takes shelter inside a cave where he finds an uninfected She-Hulk who has been there for a long time. He tries to convince her to throw him out of the Deadlands when the zombies find them. In a desperate attempt to save Logan's life, She-Hulk grabs him and jumps as high as she can to throw him out of the Deadlands as he had suggested, ultimately sacrificing her own life to do so. Afterwards, Logan finds himself in the Battleworld domain called the Kingdom of Manhattan.<ref>''Old Man Logan'' #4. Marvel Comics.</ref>
+
+While wandering the city he has not seen in years, Logan meets this domain's [[Jean Grey]] and Emma Frost. They take him to meet the rest of the X-Men, as well as "his" son [[Jimmy Hudson]]. Logan later leads the superhero population of the Kingdom of Manhattan in a rebellion against God Emperor Doom. Subsequently, Logan finds himself in a new world.<ref>''Old Man Logan'' #5. Marvel Comics.</ref>
+
+====All-New All-Different Marvel====
+{{long plot|date=May 2020}}
+Logan awakens on [[Earth-616]] in [[New York City]]. He is not sure how he has been relocated, but he knows he is in the past. He decides to prevent his post-apocalyptic future. His first target is a minor villain named Black Butcher who, in his future, stole Scotty Logan's baseball cap. Logan easily kills him.<ref>''Old Man Logan'' vol. 2 #1. Marvel Comics.</ref>
+
+Logan uses Black Butcher's workshop to prepare. He hears on the radio that the Hulk is in [[Manhattan]]. Logan confronts Hulk and after a brief fight, learns that the Hulk in question is actually [[Amadeus Cho]] and not Bruce Banner. After evading the police, Logan goes to Hawkeye's apartment in [[Brooklyn]] to ask for his help, but he finds [[Hawkeye (Kate Bishop)|Kate Bishop]].<ref>''Old Man Logan'' vol. 2 #2. Marvel Comics.</ref>
+
+He explains his situation and drops exhausted on Hawkeye's couch, awakening 33 hours later. Knowing that Logan is seeking [[Mysterio]], Kate accesses the villain's last known whereabouts on [[S.H.I.E.L.D.]]'s database. She demands to join Logan on his search. When they arrive, they find a man named Eddie and his unnamed partner there. Logan immediately attacks them, cutting off one man's hand despite them denying that they knew who Mysterio is. A horrified Kate tries to stop him, but Logan quickly neutralizes her as the two men escape. Logan chases them, but he is stopped by the arrival of [[Captain America|Commander Steve Rogers]].<ref>''Old Man Logan'' vol. 2 #3. Marvel Comics.</ref>
+
+After gaining Logan's trust and bringing him to [[Alberta]], [[Canada]], Rogers reassures Logan that this is not his past by showing him the [[adamantium]]-coated corpse of his younger self. The sight reminds Logan to enjoy life, rather than brood over his own past ghosts. Although he tells Rogers what he had experienced in his timeline, Logan declines Rogers' offer of help.<ref>''Old Man Logan'' vol. 2 #4. Marvel Comics.</ref>
+
+Logan later appears in ''[[Extraordinary X-Men]]'' where he decides to remain under the radar, believing his destiny was to kill the X-Men and determined to try anything to avoid it. He also vows to take out those who would orchestrate the villain uprising.<ref name="Extr X-Men #3">''Extraordinary X-Men'' #3. Marvel Comics.</ref> Logan catches the X-Men's attention when confronted by Cerebra. The X-Men believe Logan to be their late Wolverine.<ref>''Extraordinary X-Men'' #1. Marvel Comics</ref> [[Storm (Marvel Comics)|Storm]] wants Logan to rejoin the team, but he declines.<ref>''Extraordinary X-Men'' #2. Marvel Comics.</ref> The time-displaced Jean Grey [[All-New X-Men|of the past]] convinces Logan to change his mind and promises to stop him from killing the X-Men again.<ref name="Extr X-Men #3"/>
+
+After taking a momentary leave, Logan decides to head to the old Weapon X facility where he initially met Maureen. He finds her, but she is still a child. The [[Reavers (comics)|Reavers]] arrive at Killhorn Falls with Lady Deathstrike and attempt to hunt down Logan.<ref>''Old Man Logan'' vol. 2 #5. Marvel Comics.</ref> When Logan searches for Maureen's missing dog, he discovers its corpse which was killed by the Reavers. As the Reavers massacre the town, Logan singlehandedly kills them all and confronts Lady Deathstrike before saving Maureen. He is wounded multiple times, but Logan defeats Deathstrike. As she leaves, limping, Logan falls unconscious. Realizing that he failed to protect Maureen from the chaos, Logan decides to hunt down Lady Deathstrike.<ref>''Old Man Logan'' vol. 2 #7–8. Marvel Comics.</ref>
+
+Logan returns to X-Haven where he has a nightmare about the villain uprising which quickly alerts Jean. In order to calm Logan, Jean assists Logan's travels to Manhattan where in his timeline, [[Daredevil (Marvel Comics character)|Daredevil]], [[She-Hulk]], and [[Moon Knight]] had been killed by [[Enchantress (Marvel Comics)|Enchantress]] and [[Electro (Marvel Comics)|Electro]]. While [[Punisher]] managed to kill Electro, he was stabbed by [[Kraven the Hunter]]. [[Cerebra]] then teleports Logan and Jean to [[Connecticut]] where Pym Falls would be established in Logan's timeline. It is here where [[Crossbones (comics)|Crossbones]], and the rest of the villains with him, killed [[Wonder Man]] before Crossbones was stepped on by [[Hank Pym|Giant-Man]] who also crushes [[Vulture (Marvel Comics)|Vulture]] with his hand. When [[Wasp (comics)|Wasp]] was killed after shooting down [[Roderick Kingsley|Hobgoblin]], Giant-Man was devoured by the Moloids that emerged from the ground when [[Avalanche (character)|Avalanche]] shook the area around Giant-Man. Again not assured, Jean and Cerebra teleport Logan to [[Westchester County, New York|Westchester County]], [[New York (state)|New York]] where Logan was tricked by Mysterio into killing the X-Men. As Jean manages to assure Logan of no invasion, she takes Logan to [[Madripoor]] where he is greeted by [[Puck (Marvel Comics)|Puck]], Hawkeye, Steve Rogers, and [[Jubilee (comics)|Jubilee]]. Logan realizes that if and when the villain uprising comes, he will not need to face it alone.<ref>''Old Man Logan'' vol. 2 #8. Marvel Comics.</ref>
+
+Logan goes to a bar in [[Tokyo]] as Patch where he meets Eito, a minor crime lord. Logan attempts to bribe him for information on Lady Deathstrike's whereabouts, but the meeting turns out to be a ruse. He is gunned down by Eito's henchmen, but he heals and then slaughters them all. Before he kills Eito, Logan interrogates him and learns that Lady Deathstrike is in a remote village. Logan travels there, noting that it is where he and Maureen had attempted to find refuge in his past. The village is seemingly abandoned, but he finds Yuriko chained to a wall, begging for his help. He is then ambushed by a [[ninja]] clan, the Silent Order. Four days later, he awakens in a well and attempts to climb out, but he is shot down by Sohei, the Order's leader. Once Logan succeeds in climbing out of the well, he sees he is in a temple and Lady Deathstrike is in a cage. He is attacked by Sohei and the rest of the Silent Order. Logan is overwhelmed by the horde of ninjas, so he has no choice but to free Lady Deathstrike. After Logan and Yuriko manage to kill all of the ninjas, she attempts to kill Sohei, but is cut down by him, causing her to stumble back into the well. Just as Logan attempts to confront Sohei, he is [[Psychokinesis|telekinetically]] assaulted by his unwitting enforcer, a mutant child called the Silent Monk, whose older self Logan had killed in his timeline sometime after Mysterio tricked him into killing his fellow X-Men. The Monk has had a vision of his death and tries to kill Logan by throwing him into the well over and over again. Lady Deathstrike throws an arrow into the Silent Monk's thigh, causing him to fall in. Logan then threatens to kill the young mutant unless Sohei releases he and Yuriko. Sohei calls Logan's bluff, but knows that Yuriko is more than willing to murder a helpless child. Sohei agrees to their demands, just as the Silent Monk regains consciousness and lashes out. The Monk transforms into a giant creature as his powers run wild. Logan convinces the young boy to [[Telepathy|read his mind]], assuring the Monk that Logan's future will never likely come true. The young boy then realizes that Sohei has been manipulating him and subdues Sohei and the remaining Silent Order ninjas. Logan offers to take the Silent Monk to X-Haven, to which he accepts.<ref>''Old Man Logan'' vol. 2 #9–14. Marvel Comics.</ref>
+
+One day at X-Haven, Logan is approached by Cerebra, who informs him of Jubilee's disappearance. Logan begins his search by going to Jubilee's apartment, only to find her infant son, Shogo, by himself. Logan leaves the baby in Cerebra's care before telling her to teleport him to wherever Jubilee was last located, which is Romania. Soon after arriving, Logan encounters the [[Howling Commandos]] who mistake him for a vampire and attack him. After the misunderstanding is cleared, their leader [[Warwolf (Marvel Comics)|Warwolf]] informs Logan of their war with [[Dracula (Marvel Comics)|Dracula]]. Dracula has been psychically calling all vampires to his castle which, Logan deduces, must include Jubilee. The Commandos attack Dracula's castle while Logan sneaks in, but are subdued by his army, led by [[Vampire by Night]], who is under Dracula's control. Logan finds Jubilee who, also under Dracula's control, begs him to save her. Just as he lets his guard down, Dracula attacks Logan from behind, biting him. Logan fights Dracula as his healing factor fights off the vampirism. The Vampire King easily beats the weakened Logan, who then passes out. Logan wakes up in the dungeon, along with the Howling Commandos. As Dracula taunts them, Jubilee begins resisting his control. Logan encourages her to fight back just before [[Man-Thing]] and [[Orrgo]] break in to free everyone. Dracula threatens to kill Jubilee as Logan approaches him. Now free from his control, Jubilee throws Dracula towards Logan, who then impales him. After a brief scuffle, Orrgo grabs Dracula and exposes him to the sun. Logan then proceeds to decapitate Dracula, freeing his thralls. Logan instructs Cerebra to throw Dracula's head into the sun in order to prevent or at the very least, delay his resurrection. Later, Logan spends time with Jubilee and Shogo over dinner.<ref>''Old Man Logan'' vol. 2 #14–15. Marvel Comics.</ref>
+
+Logan awakens in a desert, his memory hazy. Logan realizes that he is somehow back in the Wastelands, as he is attacked by the Venom ''[[Tyrannosaurus|T-rex]]''. After killing the beast, Logan retraces his steps and remembers receiving a distress call from Puck, who he and the rest of [[Alpha Flight]] were trapped in an abandoned space station formerly owned by [[Mister Fantastic|Reed Richards]]. After going into space and entering said space station via X-Shuttle, Logan found it infested with the [[Brood (comics)|Brood]]. He managed to kill the Brood drones that attacked him and proceeded to look for Alpha Flight, only to find most of them encased in cocoons. Logan was then attacked by [[Sasquatch (comics)|Sasquatch]] and [[Abigail Brand]], who had been converted into Brood drones. He was saved by Puck at the last minute and the two escaped through an air vent. After finding a safe place to regroup, the hull was ripped open, causing Logan to be pulled into space. Logan regained consciousness aboard the Alpha Flight Squadron Jet, piloted by Puck, who had saved him. The two then snuck back onto the station. Logan and Puck were discovered by the Brood, forcing them to fight. The Brood then inexplicably disappeared. Logan goes back to his old house looking for Dani Cage and Bruce Banner Jr. only to find it seemingly abandoned. Logan then hears a noise and finds Dani bound in the closet. She tells him that Bruce has been kidnapped by [[Kang the Conqueror]]. Logan then sets out to hunt down Kang down and rescue the baby. Logan's search leads him to [[Niagara Falls]], where he is assaulted by some thugs and kicked down a cliff. Logan regains consciousness and soon encounters a hysterical Puck, surrounded by the corpses of Alpha Flight. Puck warns Logan about the "Warlord of the Wastelands" just before Kang reveals himself. Kang claims to have taken the baby in order to prevent the Warlord's rise to power, confusing Logan. They are confronted by the Warlord, who is revealed to be a fully grown Bruce Banner Jr. As the Warlord beats Logan, Puck urges him to remember what has happened. It is revealed that the X-Men came to help, but were converted by the Brood and that Logan's experiences in the Wastelands were an illusion created by Jean Grey. Jean telepathically assaults Logan by forcing him to relive his greatest crimes and failures. He resists the attack and kills the parasite controlling Jean. Jean shuts down the Brood hive mind, freeing everyone from its control. In the aftermath, Logan resolves to go back to the Wastelands to save baby Bruce.<ref>''Old Man Logan'' vol. 2 #16–18. Marvel Comics.</ref>
+
+Logan seeks help from the foremost experts on [[time travel]] and [[Magic (paranormal)|sorcery]], including [[Magik (Illyana Rasputina)|Magik]], [[Beast (Marvel Comics)|Beast]], [[Shaman (comics)|Shaman]], [[Cable (comics)|Cable]], [[Wiccan (comics)|Wiccan]], Doctor Doom, [[Scarlet Witch]], [[Black Panther (character)|Black Panther]], and [[Doctor Strange]], who all refuse to help him, due to how his plan might affect the timestream. Desperate and left with no options, Logan breaks into the Cellar: a maximum-security super-prison. After subduing the guards, Logan is confronted by [[Spider-Man (Miles Morales)|Spider-Man]], whom he distracts by freeing some of the inmates. Logan then enters the cell of Asmodeus, a servant of [[Satannish]] and makes him an offer.<ref>''Old Man Logan'' vol. 2 #19. Marvel Comics.</ref> Asmodeus states to Logan that he would help him in his mission if he picked up some of his things. Afterwards, Asmodeus begins to help Logan in his mission to rescue Bruce Banner Jr.<ref>''Old Man Logan'' vol. 2 #20. Marvel Comics.</ref> After reliving each moment, Logan finally arrives in the current time where he finds that the remainder of the Hulk Gang are now working for an unidentified version of [[Maestro (comics)|Maestro]]. Logan discovers that Maestro has rounded up the remaining members of the Hulk Gang in his plan to make a paradise for all Hulks on Earth-616. Hearing about what Logan did, Hawkeye followed Logan to his timeline and helped to fight the Hulk Gang. With help from the Cambria Banner (a member of the Hulk gang who defected), Logan and Hawkeye of Earth-616 were able to defeat Maestro and the surviving members of the Hulk Gang went their separate ways. Afterwards, Logan and Hawkeye returned to Earth-616.<ref>''Old Man Logan'' vol. 2 #25-30. Marvel Comics.</ref>
+
+During the "[[Civil War II]]" storyline, [[Maria Hill]] recruited Logan to investigate the missing S.H.I.E.L.D. Agents. He was saved by [[X-23|Wolverine (X-23)]] before he can be eaten by [[Fin Fang Foom]]. [[Ulysses Cain]]'s vision stated that Logan would kill X-23's clone Honey Badger. This led to Captain America and the S.H.I.E.L.D. Agents to show up to arrest Logan moments after Logan, Wolverine, and Honey Badger defeated the burglars. While a similar event happened during the conflict, Honey Badger survived Logan's attack as Logan commented that he killed the X-23 of his world due to his hallucination. After Wolverine threatened to have Logan thrown in jail if Honey Badger is harmed again, Logan quoted to Honey Badger that he will come after her if Wolverine is harmed. After Honey Badger threatened Logan, Wolverine and Honey Badger told Captain America that they are not partaking in the second civil war.<ref>''All-New Wolverine'' #8-10. Marvel Comics.</ref> Ulysses Cain's latest vision has him in the Wastelands where he meets Logan after he saves Ulysses from a Hulk. Ulysses learns that the Inhumans left Earth when Tony Stark "pushed [[Carol Danvers|her]] too far".<ref>''Civil War II'' #7. Marvel Comics.</ref>
+
+During the "[[Inhumans vs. X-Men]]" storyline, [[Inferno (Dante Pertuz)|Inferno]] and [[Iso (comics)|Iso]] escape through [[Eldrac]] to get away from Wolverine, only to end up running into Logan.<ref>''IVX'' #2. Marvel Comics.</ref> While Inferno distracts Logan, Iso discovers Forge nearby with a device that the X-Men are planning to use to destroy the Terrigen Cloud. Iso and Inferno manage to defeat Logan and Forge, then flee as they take Forge prisoner.<ref>''IVX'' #3. Marvel Comics.</ref>
+
+During the "[[Monsters Unleashed (comics)|Monsters Unleashed]]" storyline, Logan is seen fighting Leviathons in Louisiana and receives help from [[List of monsters in Marvel Comics#Monstrom|Monstrom]].<ref>''Monsters Unleashed'' vol. 2 #4. Marvel Comics.</ref>
+
+During the "[[RessurXion]]" storyline, Logan is seen as a member of [[Kitty Pryde]]'s new Gold Team of X-Men as they fight [[Mesmero]]'s incarnation of the [[Brotherhood of Mutants]]. It was discovered that the members were under Mesmero's control on behalf of Lydia Nance. After the Brotherhood of Mutants was defeated, the X-Men track down Lydia Nance and state that they will come for her if she tries anything against them again.<ref>''X-Men Gold'' #1-3. Marvel Comics.</ref>
+
+While spending some alone time in the woods as part of the "Weapons of Mutant Destruction" storyline, Logan is attacked by [[Weapon X]] cyborgs, forcing him to team up with [[Sabretooth (comics)|Sabretooth]] to confront the current iteration of the organization, whose goal is to hunt mutantkind to extinction.<ref>''Weapon X'' vol. 3 #1. Marvel Comics.</ref> This experiment led to the creation of [[Weapon H]].<ref>''Totally Awesome Hulk'' #22. Marvel Comics.</ref>
+
+Logan later went on the trail of the Regenix drug which took him to Ikebukuro where he fought the head of the operation and the Crazy Thunder Gang. After being directed to Touku Kenmochi, he learns that he has died and meets with his widow Asami where she stated that Touku was coerced into bringing the Regenix samples to the Crazy Thunder Gang. Their conversation is crashed by the [[The Hand (comics)|Hand]] Ninjas led by [[Gorgon (Tomi Shishido)|Gorgon]] and Scarlet Samurai. When Logan was subdued, Gorgon ordered Scarlet Samurai to remove her helmet as Logan discovered that Scarlet Samurai is the resurrected [[Mariko Yashida]] who hesitated to attack Logan enabling him and Asami to get away. When the [[Shingen Yashida|Silver Samurai]] wanted to ally himself with Logan, he agreed in exchange that he doesn't kill Mariko and that Touku and Asami's child is taken care of. When Logan and Silver Samurai attack the Hand's Regenix operations, Silver Samurai fought Gorgon while Logan fought the Hand Ninjas to confront Mariko. After Gorgon got away, Silver Samurai injected nanites into Mariko to break the Hand's control over her. Afterwards, Logan and Mariko sent Silver Samurai to destroy the Regenix shipments in Madripoor.<ref>''Old Man Logan'' #31-33. Marvel Comics.</ref>
+
+Recently, Old Man Logan, Lady Deathstrike, and Sabretooth were captured by a group of anti-mutant terrorists called the Orphans Of X and were all killed, having all their heads blown off by bullets covered in Muramasa metal and their healing factors nullified temporarily, until being rescued by X-23 Wolverine. They were later revived.<ref>''All New Wolverine'' vol. 1 #28-30. Marvel Comics.</ref>
+
+====''Dead Man Logan''====
+After defeating an alternate version of the Maestro, Logan recognized that he was dying of old age, now relying on regenix to supplement his failing healing factor. He decided to set out to return to his original timeline after sorting out a few loose ends in this one, which included eliminating Mysterio so that the villain could never attempt the same feat he accomplished in Logan's past. Mysterio was recruited by Neo-HYDRA and Miss Sinister when they learned about Logan's history, but Mysterio eventually turned against Neo-HYDRA to aid the Avengers when he learned that Neo-HYDRA intended to kill him once they had won. Mysterio subsequently faked his death after Logan and the Avengers defeated Neo-HYDRA.<ref>''Dead Man Logan'' #1-5. Marvel Comics.</ref>
+
+After a meeting with his resurrected counterpart, Logan asked Mariko to keep an eye on the version of his future wife in this timeline before he returned to the Wasteland via a time portal created by Forge.<ref>''Dead Man Logan'' #6. Marvel Comics.</ref> Returning to the Wastelands, Logan engaged [[Blackwing (character)|Joseph Manfredi]] and his henchmen who are allied with [[Lizard (character)#Lizard|Lizard]] in Florida, the Creel Gang in Georgia, and the [[Phantom Rider#Other versions|Phantom Riders]] in Nashville, Tennessee. When Logan was captured by cannibals operating in the [[Ozarks]], he is saved by [[Danielle Cage]] and Bruce Banner Jr. who inform him that a lot of villains like the Punisher Gang are looking for him after what he did to Red Skull and Hulk. What happened to Red Skull and the Hulk Gang caused a power vacuum in the Wastelands. After a fight with the Tranquility Temple that tried to kill him and Bruce Banner Jr., Logan drove his group to the Badlands where they met with Forge and Dwight Barrett. Forge's lair was attacked by Sabretooth and his clones. Forge unleashed an unstable [[Robbie Baldwin|Speedball]] from him container who destroyed the Sabretooth clones as Sabretooth made off with Bruce Jr.<ref>''Dead Man Logan'' #7-10. Marvel Comics (2018)</ref> Tracking Sabretooth to a Weapon X facility, Logan and Danielle discovered that the head of the Weapon X facility is Mister Sinister who created the Sabretooth clones and claimed that he orchestrated the villains' rise to power which Red Skull took the credit for. After Logan and Danielle Cage rescued Bruce Banner Jr., they got chased by the Sabretooth clones until Danielle picked up Mjolnir and became the new Thor.<ref>''Dead Man Logan'' #11. Marvel Comics.</ref> Logan would eventually meet his end after killing Sabretooth and Mister Sinister, weakly affirming that his healing factor has finally worn out and he just exhausted his final vial of Regenix. Dani and Bruce take him back to the graves of his deceased family and he dies looking up into the sun. After burying Logan with his family, Danielle Cage, now acting as the new Thor, Bruce Banner Jr. as the new Hulk, and Dwight Barrett as the new Ant-Man, formed a new incarnation of the Avengers and vow to keep fighting the opposition until they can find a place they can call home.<ref>''Dead Man Logan'' #12. Marvel Comics.</ref>
+
+==Other versions==
+===''Venomverse''===
+In the ''[[Venomverse]]'' crossover, the Earth-21923 version of Old Man Logan raises Bruce Jr. for fifteen years before telling him of his true parentage. Bruce Jr. leaves his adoptive father in anger as Logan is eventually found by Archangel, who evaded being killed by the villains. Archangel (seeking revenge for the massacre of the X-Men) is then revealed to be working with Bruce Jr. and [[Spider-Bitch (Ashley Barton)|Spider-Bitch]], who viewing Logan's escape with her father fifteen years earlier as the only blemish on her career as Kingpin of the Wastelands, restrains him with web-shooters she had gotten from her grandfather [[Spider-Man|Peter Parker]]'s corpse and attempts to feed him to her captured [[Alternative versions of Venom#Old Man Logan|Venom symbiote]]-infused  ''[[Tyrannosaurus|T-rex]]''; due to Ashley not inheriting a [[spider-sense]], Logan pulls on the webs to feed her to the ''T-rex'' instead, only to be successfully fed to the ''T-rex'' himself by Archangel and Bruce Jr.. Emerging from the ''T-rex'' (killing it) with the symbiote bonded to himself as the '''Old Man Venom''', Logan kills Archangel before berating Bruce Jr. for his actions. After considering killing him, Logan tells him that he cannot because he loves him, only to be transported to another reality before he can finish his sentence, where a Venomized Captain America tells him to prepare for war with the Poisons.<ref>''[[Edge of Venomverse]]'' #4 (August [[2017 in comics|2017]]) Marvel Comics.</ref> Logan then spends much of the war fighting alongside a Venomized Laura Kinney, before he is apparently killed when the Venoms destroy the Poisons' ship.<ref>''[[Venomverse]]'' #1-5 ([[2017 in comics|2017]])</ref>
+
+==In other media==
+===Film===
+''Old Man Logan'' was an inspiration for the 2017 film ''[[Logan (film)|Logan]]''.<ref>{{cite web|url=http://uk.ign.com/articles/2015/09/25/mark-millar-explains-how-a-wolverine-old-man-logan-movie-could-work-without-marvel-studios-characters|title=Mark Millar Explains How a Wolverine: Old Man Logan Movie Could Work Without Marvel Studios Characters |last= Yehl |first=Joshua|work=[[IGN]]|date=September 25, 2015|access-date=October 30, 2016}}</ref> While featuring an original premise and being set in an alternate timeline just like the comic, the film likewise features an aging Logan suffering from a degrading healing factor while going on a journey across the country with an old friend in a bleak future after the deaths of his fellow X-Men (implied to be due to Professor X suffering a psychic seizure due to old age).
+
+===Novels===
+In November 2021, author [[Eoin Colfer]] expressed interest in writing a future "[[wiktionary:superviolent|superviolent]]" sequel to his ''[[Artemis Fowl]]'' series inspired by ''Old Man Logan''.<ref>{{cite news|title=''The Fowl Twins Get What They Deserve'' Launch Event with Eoin Colfer and Pádraig Kenny|author=Books of Wonder|date=November 28, 2021|work=[[Crowdcasting|Crowd Cast]]|url=https://www.crowdcast.io/e/fowltwinsgetwhattheydeserve|access-date=November 28, 2021}}</ref><ref>{{cite news|title=Eoin Colfer kinda confirms Artemis/Holly|author=Artemis Fowl Appreciation|date=November 28, 2021|work=[[YouTube]]|url=https://www.youtube.com/watch?v=TSxKIlyccrg|access-date=November 28, 2021}}</ref> Colfer has written the novel ''[[Iron Man in other media#Books|Iron Man: The Gauntlet]]'', adapted from the Iron Man comics.
+
+===Podcast===
+In 2021, [[Marvel Entertainment#Podcasts|Marvel New Media]] and [[Sirius XM]] announced ''[[Marvel's Wastelanders]],'' a series of podcasts set in a version of the Old Man Logan/Wastelands universe, with [[Robert Patrick]] voicing [[Wolverine (character)|Wolverine]].<ref>{{cite news|title=Wastelanders: Old Man Star-Lord kicks off Marvel & SiriusXM's slate of scripted podcasts|last=Grunenwald|first=Joe|date=May 18, 2021|work=Comics Beat|url=https://www.comicsbeat.com/wastelanders-old-man-star-lord-kicks-off-marvel-siriusxms-slate-of-scripted-podcasts/|access-date=June 4, 2021}}</ref><ref>{{Cite news |last=Schreur |first=Brandon |date=2022-06-13 |title=Old Man Logan Returns to Battle President Red Skull in New Season of Marvel's Wastelanders |language=en-US |work=CBR.com |url=https://www.cbr.com/old-man-logan-returns-battle-president-red-skull-wastelanders-marvel/ |access-date=2022-08-09}}</ref> The 10-episode ''Marvel's Wastelanders: Wolverine'' story arc began in June 2022 and featured a guilt-ridden Wolverine working to help a young mutant reach safety as the [[Red Skull#Old Man Logan|President Red Skull]] tries to hunt him down.<ref>{{cite web|title=Marvel's Wastelanders: Wolverine|website=Apple Podcasts|url=https://podcasts.apple.com/us/podcast/marvels-wastelanders-wolverine/id1625915759|access-date=June 14, 2022}}</ref>
+
+===Video games===
+* The Old Man Logan incarnations of Emma Frost, Hawkeye and Wolverine are available as alternate costumes for the respective characters in ''[[Marvel Heroes (video game)|Marvel Heroes]]''.<ref>{{cite web|title=Emma Frost Old Man Logan Costume|url=https://marvelheroes.com/news/news-articles/emma-frost-old-man-logan-costume|archive-url=https://web.archive.org/web/20161127152928/https://marvelheroes.com/news/news-articles/emma-frost-old-man-logan-costume|url-status=dead|archive-date=2016-11-27|website=MarvelHeroes.com|publisher=Gazillion Entertainment|access-date=2016-11-27|date=2014-08-13}}</ref><ref>{{cite web| title= Costume Page&nbsp;– Hawkeye Old Man Logan| url= https://marvelheroes.com/content/costume-page-hawkeye-old-man-logan| website= MarvelHeroes.com| publisher= Gazillion Entertainment| access-date= 2016-11-27| url-status= dead| archive-url= https://web.archive.org/web/20161127152916/https://marvelheroes.com/content/costume-page-hawkeye-old-man-logan| archive-date= 2016-11-27}}</ref><ref>{{cite web |title=Chase Costumes are Back! |url=https://marvelheroes.com/news/news-articles/chase-costumes-are-back |archive-url=https://web.archive.org/web/20161127152748/https://marvelheroes.com/news/news-articles/chase-costumes-are-back |url-status=dead |archive-date=2016-11-27 |website=MarvelHeroes.com |publisher=Gazillion Entertainment |access-date=2016-11-27 |date=2014-09-17 }}</ref>
+* Old Man Logan is a playable character in ''[[Marvel: Contest of Champions]]''.<ref>{{cite web|title= Marvel Contest of Champions Old Man Logan Spotlight |url= https://www.youtube.com/watch?v=yNCs3XXbMTs |website=YouTube.com| publisher= Marvel Entertainment| date= February 4, 2016| access-date= March 20, 2017}}</ref>
+* Old Man Logan is a playable character in ''[[Marvel Puzzle Quest]]''.<ref>{{cite web| url= https://www.youtube.com/watch?v=phehPMlitxE |website=YouTube.com| author= captainjoel| title= Wolverine (Old Man Logan) – New Character Introduction and Analysis – Marvel Puzzle Quest| date= October 9, 2015 |access-date= March 20, 2017}}</ref>
+
+==Collected editions==
+{| class="wikitable"
+|-
+!#
+! width="23%" | Title !! Material collected !! width="15%" | Publication date !! | ISBN
+|-
+| colspan="2" |'''''Wolverine: Old Man Logan'''''
+| ''Wolverine'' vol. 3 #66–72, ''Giant-Size Wolverine Old Man Logan'' #1
+|{{dts|2010-9-22}}
+| {{nowrap|{{ISBNT|978-0785131724}}}}
+|-
+|0
+|'''Warzones'''
+| ''Old Man Logan'' vol. 1 #1–5
+|{{dts|2015-12-8}}
+| {{nowrap|{{ISBNT|978-0785198932}}}}
+|-
+|1
+| '''Berzerker'''
+| ''Old Man Logan'' vol. 2 #1–4, ''Giant-Size Wolverine Old Man Logan'' #1
+|{{dts|2016-7-26}}
+| {{nowrap|{{ISBNT|978-0785196204}}}}
+|-
+|2
+|'''Bordertown'''
+| ''Old Man Logan'' vol. 2 #5–8, ''Uncanny X-Men'' #205
+|{{dts|2016-10-25}}
+| {{nowrap|{{ISBNT|978-0785196211}}}}
+|-
+|3
+| '''The Last Ronin'''
+|''Old Man Logan'' vol. 2 #9–13
+|{{dts|2016-12-27}}
+| {{nowrap|{{ISBNT|978-1302903145}}}}
+|-
+|4
+|'''Old Monsters'''
+|''Old Man Logan'' vol. 2 #14–18
+|{{dts|2017-6-13}}
+| {{nowrap|{{ISBNT|978-1302905736}}}}
+|-
+|5
+|'''Past Lives'''
+|''Old Man Logan'' vol. 2 #19–24
+|{{dts|2017-10-3}}
+| {{nowrap|{{ISBNT|978-1302905743}}}}
+|-
+|6
+|'''Days of Anger'''
+|''Old Man Logan'' vol. 2 #25–30
+|{{dts|2018-2-6}}
+| {{nowrap|{{ISBNT|978-1302905750}}}}
+|-
+|7
+|'''Scarlet Samurai'''
+|''Old Man Logan'' vol. 2 #31–35
+|{{dts|2018-7-24}}
+| {{nowrap|{{ISBNT|978-1302910945}}}}
+|-
+|8
+|'''To Kill For'''
+|''Old Man Logan'' vol. 2 #36–40
+|{{dts|2018-9-18}}
+| {{nowrap|{{ISBNT|978-1302910952}}}}
+|-
+|9
+|'''The Hunter and the Hunted'''
+|''Old Man Logan'' vol. 2 #41–45
+|{{dts|2018-12-18}}
+| {{nowrap|{{ISBNT|978-1302910969}}}}
+|-
+|10
+|'''End of the World'''
+|''Old Man Logan'' vol. 2 #46–50, ''Old Man Logan Annual''
+|{{dts|2019-1-22}}
+| {{nowrap|{{ISBNT|978-1302913427}}}}
+|-
+|1
+|'''Sins Of The Father'''
+|''Dead Man Logan'' #1–6
+|June 19, 2019
+|{{Nowrap|{{ISBNT|978-1302914653}}}}
+|-
+|2
+|'''Welcome Back, Logan'''
+|''Dead Man Logan'' #7–12
+|{{dts|2019-12-18}}
+| {{nowrap|{{ISBNT|978-1302914660}}}}
+|}
+
+==Notes==
+{{notelist}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://marvel.fandom.com/wiki/James_Howlett_(Earth-807128) Old Man Logan of Earth-807128] at Marvel Wiki
+* [https://marvel.fandom.com/wiki/James_Howlett_(Earth-21923) Old Man Logan of Earth-21923] at Marvel Wiki
+* [http://www.howtolovecomics.com/2016/11/08/old-man-logan-reading-order/ Old Man Logan Reading Order Guide] at How to Love Comics
+
+{{Wastelanders}}
+{{Wolverine}}
+{{Marvel Multiverse}}
+{{X-Comics}}
+{{Mark Millar}}
+
+[[Category:Comics by Mark Millar]]
+[[Category:Wolverine (comics) titles]]
+[[Category:Cannibalism in fiction]]
+[[Category:Incest in fiction]]
+[[Category:Fictional characters from parallel universes]]
+[[Category:Fictional characters with slowed ageing]]
+[[Category:Fictional characters with superhuman senses]]
+[[Category:Marvel Comics characters with accelerated healing]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics martial artists]]
+[[Category:Marvel Comics mutants]]
+[[Category:Fictional characters from Sacramento, California]]
+[[Category:Fictional Canadian people in comics]]
+[[Category:Fictional fist-load fighters]]
+[[Category:Fictional pacifists]]
+[[Category:Cyberpunk comics]]
+[[Category:Wolverine (comics)]]
+[[Category:X-Men members]]

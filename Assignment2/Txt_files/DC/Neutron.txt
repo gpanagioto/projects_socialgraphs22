@@ -1,0 +1,70 @@
+{{notability|date=April 2021}}
+{{Infobox comics character<!--Wikipedia:WikiProject Comics-->
+| character_name = Neutron
+| image = [[Image:Action525.jpg|225px]]
+| caption = The cover of ''[[Action Comics]]'' #525 (November 1981), Neutron's first appearance, art by [[Ross Andru]].
+| publisher = [[DC Comics]]
+| debut = ''[[Action Comics]]'' #525 (November 1981)
+| creators = [[Marv Wolfman]] (writer)<br />[[Joe Staton]] (artist)
+| real_name = Nathaniel Tryon
+| species = [[Metahuman]]
+| homeworld = <!-- optional -->
+| alliances = TNT Trio<br/>[[Fearsome Five]]<br/>[[Intergang]]<br/>[[Secret Society of Super Villains]]<br/>Nuclear Legion
+| aliases = <!-- optional: actual identities the character uses, not nicknames -->
+| supports=  <!-- optional -->
+| powers = Super strength<br>Durability <br>Nuclear blasts <br>Flight<br>Radiation absorption
+}}
+'''Neutron''' is a fictional character appearing in [[American comic book]]s published by [[DC Comics]]. He is usually an adversary of [[Superman]].<ref>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Korte |first3=Steve |last4=Manning |first4=Matt |last5=Wiacek |first5=Win |last6=Wilson |first6=Sven |title=The DC Comics Encyclopedia: The Definitive Guide to the Characters of the DC Universe |date=2016 |publisher=DK Publishing |isbn=978-1-4654-5357-0 |page=213}}</ref>
+
+==Publication history==
+Neutron first appeared in ''[[Action Comics]]'' #525 (November 1981) and was created by [[Marv Wolfman]] and [[Joe Staton]].<ref>{{cite book |last1=Greenberger |first1=Robert |last2=Pasko |first2=Martin |title=The Essential Superman Encyclopedia |date=2010 |publisher=Del Rey |isbn=978-0-345-50108-0 |pages=276-277}}</ref>
+
+==Fictional character biography==
+'''Nathaniel Tryon''' was a petty thug who teamed up with two others as the TNT Trio.  While on a caper at a nuclear power plant at which he worked as a security guard, Tryon was caught in the meltdown of a nuclear reactor, turning his body into sentient nuclear energy that could only be contained in a special containment suit. After learning how to control his energy, and learning that the accident was allegedly caused and covered up by the [[U.S. Government]], Tryon killed those responsible for the accident and took up a criminal career as Neutron.
+
+Eventually, he battled [[Superman]], and was defeated and imprisoned. He was later released by the manipulations of Abraxas Industries as part of an apparent work release program, when actually it was part of a propaganda campaign against Superman spearheaded by [[Vandal Savage]]. Neutron's part was to engage in seemingly random acts of destruction, when actually he had hired himself out as a [[Deconstruction (building)|deconstruction]] engineer, a fact which of course did not come out until after Superman had fought and arrested him. Vandal's schemes would later be revealed to the public, and Neutron was apparently arrested and re-imprisoned for his part in them.
+
+He is next seen held at the research facility, [[S.T.A.R. Labs]]. He was eventually freed when S.T.A.R. Labs was attacked by mercenaries hired by the [[Fearsome Five]]. They took him and [[Jinx (DC Comics)|Jinx]], whom they freed from Tri-State prison, into their ranks. Neutron subsequently left the group.<ref name="dc-fear">{{Cite book | last = Greenberger | first = Robert | author-link = Robert Greenberger | contribution = Fearsome Five | editor-last = Dougall | editor-first = Alastair | title = The DC Comics Encyclopedia | pages = 120 | publisher = [[Dorling Kindersley]] | place = New York  | year = 2008 | isbn = 0-7566-4119-5 | oclc = 213309017}}</ref>
+
+Neutron eventually joined [[Warp (comics)|Warp]] and [[Plasmus]] on a mission from [[Conduit (comics)|Conduit]] to assassinate [[Ma and Pa Kent|Jonathan]] and [[Martha Kent]], the adoptive parents of Superman. Superman intervened and the clash ended with Plasmus and Neutron colliding in a blast that obliterated them both. Both later turned up alive, and Neutron was next seen in Slabside Island prison (aka "The Slab"), from which he was freed during the [[Joker (comics)|Joker]]’s "Last Laugh" riots. Recently, Neutron and several other villains were manipulated by [[Manchester Black]] into threatening Clark Kent’s loved ones, but as had happened before, the ensuing confrontation with Superman ended with Neutron disappearing in an atomic blast.
+
+In ''[[Infinite Crisis]]'', Neutron became a member of the [[Secret Society of Super Villains]].
+
+[[Image:SupermanNeutron.jpg|thumb|left|170px|Neutron, from ''Superman'' #654 (September 2006). Art by [[Carlos Pacheco]].]]
+
+==="One Year Later"===
+{{main|One Year Later}}
+After the 2006 [[fictional crossover|crossover]] [[miniseries]] ''[[Infinite Crisis]]'', Neutron is working as a villain for hire. He and another radiation-powered villain, Radion, were hired by [[Intergang]] to kill [[Clark Kent]]. After Kent was hit by a commuter train, Neutron and Radion left, thinking him dead, though the accident actually caused Kent to regain his powers as [[Superman]].
+
+Neutron is also a member of the '''Nuclear Legion''' alongside Professor Radium, Geiger, Nuclear, Mister Nitro and [[Reactron]]. The Nuclear Legion was hired by the [[Secret Society of Super Villains]] to invade [[Blüdhaven]] and assist the [[Nuclear Family (comics)|Nuclear Family]] in recovering the source of a radiation leak. While there, the group fought the new [[Atomic Knight]]s. Now sporting a new containment suit, Neutron was also seen fighting Superman in the pages of ''Superman'' #654, during a storyline in which Superman discovered that Intergang was planting mysterious energy spheres, about the size of softballs, in various locations in Metropolis. Although Superman has not yet determined the nature or purpose of the spheres, he discovered that they were connected to his adversary [[Bruno "Ugly" Mannheim|Bruno Mannheim]], as well to other mysterious allies of Manheim who have yet to be revealed.
+
+Neutron is one of the villains featured in ''[[Salvation Run]]''. He is used by [[Lex Luthor]] as a power source for a teleporter. He is seemingly killed when the device self-destructs.
+
+==Powers and abilities==
+Neutron's body is composed of nuclear energy that grants him super strength, durability, nuclear blasts, flight at immense speed, transformation into pure energy, and radiation absorption.
+
+==In other media==
+===Television===
+* Neutron makes non-speaking appearances in ''[[Justice League Unlimited]]'', as a member of [[Gorilla Grodd]]'s [[Secret Society of Super Villains|Secret Society]]. Prior to and during the events of the episode "Alive!", [[Lex Luthor]] takes control of the Society, but Grodd launches a mutiny to retake command. Neutron sides with the latter, but is frozen by [[Killer Frost]] and killed off-screen by [[Darkseid]].
+* Neutron appears in the ''[[Smallville (TV series)|Smallville]]'' episode "Injustice", portrayed by Jae Lee. He joins [[Parasite (comics)|Parasite]], [[Livewire (DC Comics)|Livewire]], and [[Plastique (character)|Plastique]] in forming a group to search for [[Doomsday (DC Comics)|Davis Bloome]], only to be killed by the monster in the group's first encounter.<ref>{{cite episode|title=Injustice|series=Smallville|credits=Al Septien, Turi Meyer (writers) & Tom Welling (director)|network=The CW|airdate=2009-05-07|season=8|number=21}}</ref>
+* Neutron appears in ''[[Young Justice (TV series)|Young Justice]]'', voiced by [[James Arnold Taylor]]. In the episode "Bloodlines", Neutron sends [[Bart Allen|Impulse]] back in time to avert their post-apocalyptic future by saving the [[Flash (Barry Allen)|Flash]]. While Impulse succeeds in his mission and de-powering the present-day Neutron, the future version is horrified to discover that, other than his attire, his time did not change. As of the episode "Runaways", the present-day Neutron attends therapy with [[Black Canary (Dinah Laurel Lance)|Black Canary]] and later becomes a counselor at the Metahuman Youth Center as of the [[Young Justice: Outsiders|third season]].
+
+===Miscellaneous===
+Neutron appears in the audio drama, "Superman & The Neutron Nightmare".
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://web.archive.org/web/20060112085923/http://www.titanstower.com/source/whoswho/fear5.html#neu/ Titans Tower: Neutron]
+* [http://www.dcuguide.com/chronology.php?name=neutron DCU Guide: Neutron]
+
+{{Superman characters}}
+
+[[Category:Characters created by Marv Wolfman]]
+[[Category:Comics characters introduced in 1981]]
+[[Category:DC Comics characters with superhuman strength]]
+[[Category:DC Comics metahumans]]
+[[Category:DC Comics supervillains]]
+[[Category:Fictional characters with nuclear or radiation abilities]]
+[[Category:Superman characters]]

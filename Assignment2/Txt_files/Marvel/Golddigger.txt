@@ -1,0 +1,189 @@
+{{short description|Fictional comic book groups}}
+{{notability|date=June 2018}}
+'''Femizon''' is the name of two fictional groups appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Fictional team history==
+===Earth-712 Femizons===
+{{Infobox comics organization
+<!--Wikipedia:WikiProject Comics-->
+| name         = Femizons
+| image        = <!-- file name format only -->
+| imagesize    = <!-- default 250 -->
+| caption      = 
+| publisher    = [[Marvel Comics]]
+| debut        = ''[[Savage Tales]]'' #1 (May 1971)
+| creators     = [[Stan Lee]]<br>[[John Romita Sr.]]
+| type         = 
+| business     = 
+| organisation = 
+| organization = 
+| team         = 
+| base         = 
+| owners       = 
+| employees    = 
+| members      = [[She-Hulk (Lyra)|Princess Lyra]]<br>Syrani<br>[[Thundra]]
+| fullroster   = 
+| cat          = 
+| subcat       = 
+| altcat       = 
+| hero         = 
+| villain      = y
+| sortkey      = Femizons
+}}
+The first group to be called Femizons were the women of Femizonia, a [[Matrifocal family|gynarchic]] future world in an alternate timeline where women had become [[Amazons|Amazon-like warriors]], ruling over male slaves. It was this world that produced [[Thundra]], a recurring enemy, and later ally, of [[Thing (comics)|The Thing]].<ref>''Savage Tales'' #1. Marvel Comics.</ref>
+{{-}}
+
+===Earth-616 Femizons===
+{{Infobox comics organization
+<!--Wikipedia:WikiProject Comics-->
+| name         = 
+| image        = <!-- file name format only -->
+| imagesize    = <!-- default 250 -->
+| caption      = 
+| publisher    = [[Marvel Comics]]
+| debut        = ''[[Captain America (comic book)|Captain America]]'' #386 (June 1991)
+| creators     = [[Mark Gruenwald]]<br>[[Rik Levins]]
+| type         = 
+| business     = 
+| organisation = 
+| organization = 
+| team         = 
+| base         = 
+| owners       = 
+| employees    = 
+| members      = [[#Earth-616 version|Membership]]
+| fullroster   = 
+| cat          = 
+| subcat       = 
+| altcat       = 
+| hero         = 
+| villain      = y
+| sortkey      = Femizons
+}}
+The second group to be called Femizons was a group of all-female [[supervillain]]s in the [[Marvel Comics]] universe. They were enemies mainly for [[Captain America]], and their goal was to conquer [[Earth]] and create a utopia where women ruled. Led by [[Superia]], who claimed to be inspired by stories of Thundra's Femizons, the group consisted of a large number of established female criminals and super villainesses. Superia gained Blackbird, Iron Maiden, MODAM, Moonstone, and Nightshade as her lieutenants.<ref>''Captain America'' #386-388. Marvel Comics. The team disbanded due to the vast majority of its members (all but Blackbird, Iron Maiden, and Snapdragon) disapproving of Superia's misandristic and genocidal plans.</ref>
+{{-}}
+
+==Members==
+===Earth-712 version===
+* '''Princess Lyra''' - 
+* '''Syrani''' - 
+* '''Thundra''' -
+
+===Earth-616 version===
+{| class="wikitable"
+|- "
+! style="width:13%;"|Member !! style="width:20%;"| First appearance !! style="width:67%;"| Description
+|-
+| '''[[Superia]]''' || ''Captain America'' #387 (July 1991) || '''Deidre Wentworth''' is the founder of the Femizons. A brilliant scientist with superhuman strength (on par with [[Carol Danvers|Captain Marvel]]), durability, and the ability of flight, Wentworth took the codename Superia and banded together Earth's mightiest female villains in a plot to gain power. She later became the head of [[H.A.M.M.E.R.]], and served as Ms. Marvel in [[Norman Osborn]]'s [[Dark Avengers]].
+|-
+| '''[[Anaconda (comics)|Anaconda]]''' || ''Marvel Two-In-One'' #64 (June 1980) || '''Blanche Sitznski''' is a mercenary often associated with the [[Serpent Society]]. Anaconda has the ability to elongate her limbs which she uses to constrict her enemies with her superhuman strength. She can also breathe underwater and possesses super-regenerative abilities. While aboard Superia's cruise ship, Anaconda brawled with her teammate Quicksand.
+|-
+| '''[[Arclight (comics)|Arclight]]''' || ''Uncanny X-Men'' #210 (October 1986) || '''Philippa Sontag''' is a mutant assassin and member of the [[Marauders (comics)|Marauders]]. A war veteran, Arclight has the mutant ability to create shockwaves upon physical impact in addition to superhuman strength.
+|-
+| '''[[Asp (comics)|Asp]]''' || ''Captain America'' #310 (October 1985) || '''Cleo Nefertiti''' is a mutant criminal and member of the Serpent Society. Asp possesses the ability to fire paralyzing bolts from her hands. Asp defected from the Femizons alongside Black Mamba and Diamondback, aiding Captain America and Nomad against the group.
+|-
+| '''[[Battleaxe (comics)|Battleaxe]]''' || ''Thing'' #33 (March 1986) || '''Anita Ehren''' is a former wrestler and member of the [[Grapplers (comics)|Grapplers]] who uses an axe as her weapon of choice.
+|-
+| '''Black Lotus''' || ''Marvel Fanfare'' #11 (November 1983) || An Asian assassin and enemy of [[Black Widow (Natasha Romanova)|Black Widow]].
+|-
+| '''[[Black Mamba (comics)|Black Mamba]]''' || ''Marvel Two-In-One'' #64 (June 1980) || '''Tanya Sealy''' is a member of the [[Serpent Society]] and [[BAD Girls, Inc.]] She has the ability to pluck the image of her victim's loved one and use [[Darkforce]] to embody that person, eventually suffocating them.
+|-
+| '''Blackbird''' || ''Incredible Hulk'' #274 (August 1982) || '''Heather O'Gara''' is an enemy of the [[Hulk]]. Formerly known as Jackdaw, Blackbird served the [[Leader (comics)|Leader]] before becoming one of Superia's lieutenants in the Femizons. She is equipped with mechanical wings enabling her to fly and wields an array of weaponry.
+|-
+| '''[[Bloodlust (comics)|Bloodlust]]''' || ''Marvel Comics Presents'' #49 (May 1990) || '''Beatta Dubiel''' is a ferocious member of the [[Femme Fatales (comics)|Femme Fatales]]. She has enhanced strength, speed, agility, and senses.
+|-
+| '''[[Bombshell (Marvel Comics)|Bombshell]]''' || ''Hawkeye'' #3 (November 1983) || '''Wendy Conrad''' is a [[Hawkeye (Clint Barton)|Hawkeye]] enemy and expert juggler that uses explosives.
+|-
+| '''[[Chimera (Marvel Comics)|Chimera]]''' || ''Captain America'' #390 (August 1991) || A metamorph that can grow wings and claws.
+|-
+| '''[[Dansen Macabre]]''' || ''Marvel Team-Up #93 (May 1980)'' || A hypnotist that kills her victims by dancing.
+|-
+| '''[[Diamondback (Rachel Leighton)|Diamondback]]''' || ''Captain America'' #310 (October 1985) || '''Rachel Leighton''' is a member of the [[Serpent Society]] and ''[[BAD Girls, Inc.]]''. She throws diamonds laced with a variety of chemicals (acid, poison). Diamondback is also an ex-girlfriend of [[Captain America]].
+|-
+| '''[[Dragonfly (Marvel Comics)|Dragonfly]]''' || ''X-Men'' #94 (August, 1975) || '''Veronica Dultry''' is a villainess with flight and hypnotic abilities.
+|-
+| '''[[Ferocia]]''' || ''Marvel Premiere'' #15 (May, 1974) || An Iron Fist villain who was magically-evolved from a K'un-L'un [[wolf]].
+|-
+| '''[[Joanna Cargill|Frenzy]]''' || ''X-Factor'' #4 (May 1986) || '''Joanna Cargill''' is a super-strong mutant with steel-hard skin. She has been a member of the [[Alliance of Evil]], [[Acolytes (comics)|Acolytes]], and [[X-Men]].
+|-
+| '''[[Gladiatrix (comics)|Gladiatrix]]''' || ''Thing'' #33 (March, 1986) || '''Robin Braxton''' is a member of the Grapplers and a professional wrestler with super strength.
+|-
+| '''Golddigger''' || ''Captain America'' #389 (August, 1991) || '''Angela Golden''' is a [[Captain America]] villain that has no super powers, but has athletic and martial arts abilities. She mostly relies on her feminine charm.
+|-
+| '''[[Skein (comics)|Gypsy Moth]]''' || ''Spider-Woman'' #10 (January 1979) || '''Sybil Dvorak''' is a moth-themed villain who has the ability to fly and manipulate various organic objects.
+|-
+| '''Ice Princess''' || ''Captain America'' #387 (July 1991) || A villain with the ability to generate and control ice.
+|-
+| '''Impala''' || ''Captain America'' #388 (July 1991) || An African javelin thrower and former member of ''[[BAD Girls, Inc.]]''
+|-
+| '''Ion''' || ''Machine Man'' #15 (June 1980) || '''Voletta Todd''' is a [[Fantastic Four]] villain and the niece of [[Blazing Skull]] who projects electromagnetic energy.
+|-
+| '''[[Iron Maiden (comics)|Iron Maiden]]''' || ''Marvel Fanfare'' #11 (November 1983) || '''Melina Vostokoff''' is a Russian assassin and longtime enemy of [[Black Widow (Natasha Romanova)|Black Widow]]. She wears an armored metal suit that protects her from physical harm. Iron Maiden served as one of Superia's lieutenants in the Femizons.
+|-
+| '''Karisma''' || ''Fantastic Four'' #266 (May, 1984) || '''Mary Brown''' is a [[Fantastic Four]] villainess that uses radiation wavelengths to become irresistible to men.
+|-
+| '''[[Knockout (Marvel Comics)|Knockout]]''' || ''Amazing Spider-Man'' #340 (October 1990) || '''Elizabeth Rawson''' is a super-strong woman and member of the Femme Fatales.
+|-
+| '''[[Mindblast]]''' || ''Amazing Spider-Man'' #340 (October 1990) || '''Danielle Forte''' is a member of the Femme Fatales with telekinetic abilities.
+|-
+| '''[[Maria Pym|MODAM]]''' || ''West Coast Avengers'' #36 (September 1988) || '''Olinka Barankova''' is a [[MODOK]]-like super-genius created by [[Advanced Idea Mechanics|A.I.M.]] with various psionic abilities.
+|-
+| '''[[Karla Sofen|Moonstone]]''' || ''Captain America'' #192 (December 1975) || '''Dr. Karla Sofen''' is a former psychiatrist and current supervillain. She has been known to work with several supervillain groups such as the [[Masters of Evil]], the [[Thunderbolts (comics)|Thunderbolts]], and the Dark Avengers. One of Superia's lieutenants, Moonstone possessed the abilities of flight, intangibility, emitting light, and projection of energy blasts.
+|-
+| '''Mysteria''' || ''Captain America'' #387 (July 1991) || '''Mysteria Winters''' is a villainess that uses mist as her weapon.
+|-
+| '''[[Nightshade (Marvel Comics)|Nightshade]]''' || ''Captain America'' #164 (August 1973) || '''Tilda Johnson''' is a [[Captain America]] villainess and second-in-command of the Femizons. She is a [[mad scientist]] who has the ability to secrete pheromones.
+|-
+| '''[[Pink Pearl (comics)|Pink Pearl]]''' || ''Alpha Flight'' #22 (May 1985) || An obese [[Alpha Flight]] villain with above-average strength.
+|-
+| '''[[Poundcakes (Marvel Comics)|Poundcakes]]''' || ''Marvel Two-In-One'' #54 (August 1979) || A member of the "Grapplers" that creates tremors with her boots.
+|-
+| '''[[Princess Python]]''' || ''Amazing Spider-Man'' #22 (March 1965) || '''Zelda DuBois''' is a member of the [[Serpent Society]] and the [[Circus of Crime]]. Has a pet [[boa constrictor]].
+|-
+| '''[[Quicksand (comics)|Quicksand]]''' || ''Thor'' #392 (June 1988) || A woman with super strength and the ability to turn her body into sand.
+|-
+| '''[[Songbird (comics)|Screaming Mimi]]''' || ''Marvel Two-In-One #54 (August 1979)'' || '''Melissa Gold''' is a member of the [[Thunderbolts (comics)|Thunderbolts]] who had (then) a sonic scream.
+|-
+| '''[[Snapdragon (comics)|Snapdragon]]''' || ''Marvel Fanfare'' #12 (January 1984) || '''Sheoke Sanada''' is a martial artist and long-time enemy of [[Diamondback (Rachel Leighton)|Diamondback]].
+|-
+| '''[[Steel Wind]]''' || ''Ghost Rider'' #75 (December 1982) || A [[Ghost Rider]] villain, a cyborg with enhanced strength and durability.
+|-
+| '''[[Titania (Marvel Comics)|Titania]]''' || ''Marvel Super Heroes Secret Wars'' #3 (July 1984) || '''Mary MacPherran''' possesses super strength and durability, and is married to the [[Absorbing Man]].
+|-
+| '''[[U-Foes#Vapor|Vapor]]''' || ''Incredible Hulk'' #254 (December 1980) || '''Ann Darnell''' is a member of the [[U-Foes]] who can transform into any gaseous matter.
+|-
+| '''[[Vertigo (Marvel Comics)|Vertigo]]''' || ''Marvel Fanfare'' #1 (March 1982) || A member of the [[Savage Land Mutates]] and [[Marauders (comics)|Marauders]] who can cause nausea and disorientation.
+|-
+| '''Water Witch''' || ''Fantastic Four Annual'' #13 (December 1978) || A servant of the [[Mole Man]] and member of the [[Outcasts (Marvel Comics Subterranea)|Outcasts]]. She is a woman that can control water.
+|-
+| '''[[Whiplash (comics)#Leeann Foreman|Whiplash]]''' || ''Marvel Comics Presents'' #49 (May 1990) || '''Leeann Foreman''' is a member of the Femme Fatales with whips extending from her gloves.
+|-
+| '''[[Whiteout (Marvel Comics)|Whiteout]]''' || ''Uncanny X-Men'' #249 (October 1989) || A [[Savage Land Mutates|Savage Land Mutate]] with the ability to project beams of light, often blinding her enemies.
+|-
+| '''Wrangler''' || ''Marvel Fanfare'' #11 (November 1983) || '''Laralie''' is a [[Black Widow (Natasha Romanova)|Black Widow]] villainess that uses cowboy-themed weapons.
+|-
+| '''[[Yellowjacket (Rita DeMara)|Yellowjacket]]''' || ''Avengers'' #264 (February 1986) || '''Rita DeMara''' was an initial [[Avengers (comics)|Avengers]] enemy and later member of both the Avengers and [[Guardians of the Galaxy (1969 team)|Guardians of the Galaxy]] who could shrink her body and also project bioelectric blasts.
+|}
+
+In the group shot, there are two unidentified members of the Femizons who are briefly shown.
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://marvel.fandom.com/wiki/Femizons_(Earth-616) Femizons (Earth-616 version)] at Marvel Wiki
+* [http://www.marvunapp.com/Appendix/femt.htm The original Femizons at Appendix to the Marvel Universe]
+* [http://www.marvunapp.com/Appendix/femizons.htm Superia's Femizons at Appendix to the Marvel Universe]
+
+{{Black Widow}}
+{{Captain America}}
+{{Hulk}}
+{{She-Hulk}}
+{{Hercules}}
+{{Stan Lee}}
+
+[[Category:Marvel Comics supervillain teams]]
+[[Category:Characters created by Stan Lee]]
+[[Category:Characters created by John Romita Sr.]]
+[[Category:Characters created by Mark Gruenwald]]
+[[Category:Marvel Comics female supervillains]]

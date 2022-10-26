@@ -1,0 +1,8 @@
+#redirect [[Nasty Boys#Slab]]
+
+{{Redirect category shell|1=
+{{R from related topic}}
+{{R from merge}}
+{{R to section}}
+{{R from fictional character|Marvel Comics}}
+}}

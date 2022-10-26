@@ -1,0 +1,58 @@
+{{Infobox comic book title <!--Wikipedia:WikiProject Comics--> 
+|title               = Saint Sinner
+|image               = SaintSinner1.jpeg
+|caption             = ''Saint Sinner'' #1 (Oct. 1993), cover art by Max Douglas.
+|schedule            = Monthly
+|ongoing             = y
+|Superhero           = y
+|Horror              = y
+|Fantasy             = y
+|multigenre          = y
+|publisher           = [[Marvel Comics]]
+|date                = October 1993 - April 1994
+|issues              = 7
+|main_char_team      = Philip Fetter
+|writers             = [[Elaine Lee]]
+|artists             = [[Max Douglas]]
+|pencillers          = Richard Pace<br />Larry Brown
+|inkers              = [[Max Douglas]]<br />Rick Bryant<br />[[Gabriel Morrissette]]
+|letterers           = [[Janice Chiang]]
+|colorists           = Christie Scheele<br />Maria Parwulski
+|editors             = [[Marcus McLaurin]]
+|creative_team_month =
+|creative_team_year  =
+|creators            = [[Clive Barker]]
+|TPB                 =
+|ISBN                =
+|subcat              = Marvel Comics
+|sort                = Saint Sinner (comics)
+}}
+'''''Saint Sinner''''' is a [[Superhero fiction|superhero]] [[Horror fiction|horror]] [[comic book]] series published by [[Marvel Comics]]' [[Razorline]] [[imprint (trade name)|imprint]] that ran from 1993 to 1994. Created by filmmaker and [[horror fiction|horror]]/[[fantasy]] novelist [[Clive Barker]] as one of the imprint's four interconnected series, it starred Philip Fetter, a man possessed by both a demon and an angel.
+
+Aside from the title, it is unrelated to the Barker-produced [[telefilm]] ''[[Saint Sinner (film)|Saint Sinner]]''.
+
+==Publication history==
+Created by filmmaker and [[horror fiction|horror]]/[[fantasy]] novelist [[Clive Barker]], ''Saint Sinner'' was published for seven issues ([[cover-date]]d Oct. 1993 - April 1994). Written by [[Elaine Lee]], it was drawn by [[Max Douglas]] for the first four issues. Richard Pace [[penciler|penciled]] issue #5, with inks by Douglas. Larry Brown drew the final two issues.<ref name=gcd>{{gcdb series|id=4729|title=Saint Sinner}}</ref>
+
+Lee also wrote a ''Saint Sinner'' prose [[short story]] in the final release of the Razorline imprint, ''[[Ectokid]] Unleashed'' (Oct. 1994), a 48-page one-shot starring the title character of another Razorline comic.<ref>[http://www.maelmill-insi.de/UHBMCC/razor.htm#S1570 ''Ectokid Unleashed'' #1] at The Unofficial Handbook of Marvel Comics Creators. ("Features" link) [https://web.archive.org/web/20150715163237/http://www.maelmill-insi.de/UHBMCC/razor.htm Archived] from the original on October 23, 2015.</ref>
+
+[[Clive Barker]] called ''Saint Sinner'' "just a wild one, the series which hopefully will press the limits of what comics can do".<ref>Barker, Clive, in {{cite news| title=Razorline| first=Tom |last=Russo| work=[[Marvel Age]]| issue= 126|date= July 1993}} Quote excerpted in {{cite web| url=http://www.clivebarker.info/ints93b.html| publisher=Clive Barker (official site)| title=Interviews, Part Two| archiveurl=https://www.webcitation.org/5qpSos8Nt?url=http://www.clivebarker.info/ints93b.html| archivedate=June 28, 2010| url-status=live}}</ref>
+
+==Fictional character biography==
+''Saint Sinner'' centered on Philip Fetter, a man possessed by both a demon and an angel. With the ability to evolve or regress anyone from superhuman to primal beast, Fetter travels the world changing lives.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.maelmill-insi.de/UHBMCC/razor.htm#S1991 ''Saint Sinner''] at the Unofficial Handbook of Marvel Comics Creators. [https://web.archive.org/web/20150715163237/http://www.maelmill-insi.de/UHBMCC/razor.htm Archived] from the original on October 23, 2015.
+* {{comicbookdb|type=title|id=2954|title=''Saint Sinner''}}
+* [http://www.clivebarker.com/html/visions/bib/comics/saint/index.html ''Saint Sinner''] at CliveBarker.com (unofficial site). [https://web.archive.org/web/20170718215846/http://www.clivebarker.com/html/visions/bib/comics/saint/index.html Archived] from the original on October 23, 2015.
+* [http://www.internationalhero.co.uk/s/saintsin.htm ''Saint Sinner''] at An International Catalogue of Superheroes. [https://web.archive.org/web/20160303212434/http://www.internationalhero.co.uk/s/saintsin.htm Archived] from the original on October 23, 2015.
+
+{{Clive Barker}}
+
+[[Category:1993 comics debuts]]
+[[Category:Marvel Comics titles]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Superhero horror comics]]

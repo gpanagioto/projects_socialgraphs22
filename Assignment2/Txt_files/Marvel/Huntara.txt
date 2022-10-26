@@ -1,0 +1,50 @@
+{{short description|Fictional comic book superhero team}}
+{{Infobox comics organization <!--Wikipedia:WikiProject Comics-->
+|image=Fforce.jpg
+|imagesize=
+|caption=
+|name=Fantastic Force
+|publisher=[[Marvel Comics]]
+|debut=''Fantastic Force'' #1 (1994)
+|creators=[[Tom Brevoort]]
+|base=[[Baxter Building]]
+|members=[[Franklin Richards (Fantastic Four)|Psi-Lord]]<br>Vibraxas<br>Huntara<br>Devlor<br>[[She-Hulk]]<br>[[Black Panther (comics)|Black Panther]]<br/>[[Human Torch]]
+|subcat=Marvel Comics
+|hero=y
+|villain=
+}}
+
+'''Fantastic Force''' is a fictional [[superhero]] team appearing in [[American comic book]]s published by [[Marvel Comics]]. It is a spin-off of the [[Fantastic Four]]. The team had its own title, which lasted for eighteen issues from November 1994 to April 1996. Its average monthly sales for 1995, its only full year of publication, were 33,675 copies.<ref>[http://www.comichron.com/titlespotlights/fantasticforce.html The Comics Chronicles]</ref> The title was revived for a miniseries involving a new team in April 2009.<ref>{{cite web|url=http://au.comics.ign.com/objects/143/14331922.html |title=Fantastic Force Vol. 2 at IGN |publisher=Au.comics.ign.com |access-date=2011-04-14}}</ref><ref>{{cite web|url=http://marvel.com/catalog/?id=11482 |title=Fantastic Force (2009) #1 &#124; Comic Books &#124; Comics |publisher=Marvel.com |access-date=2011-04-14}}</ref>
+
+==Original team==
+Rumors started circulating in the early 1990s that ''[[Fantastic Four (comic book)|Fantastic Four]]'' was to be cancelled and a new title called ''Fantastic Force'' launched in its place. At the time the rumors were false, but the [[editor-in-chief]] of [[Marvel Comics]], [[Tom DeFalco]], decided that due to the amount of traction the rumor had gained that they should create a new [[comic book]] with the same title.<ref>[https://www.cbr.com/ahearne-populates-nu-world-with-fantastic-force/ Ahearne Populates Nu-World with "Fantastic Force"], [[Comic Book Resources]], May 17, 2009</ref>
+
+A creative team was brought together; however, after it disbanded due to creative differences,{{Citation needed|date=June 2010}} [[Tom Brevoort]] wrote the new book while [[Dante Bastianoni]] took on the responsibilities of cover design and penciller. It launched in November 1994 as a spinoff book to ''[[Fantastic Four]]'' rather than as a replacement.<ref>{{cite web|author=Brian Cronin |url= https://www.cbr.com/comic-book-urban-legends-revealed-90/|title=Comic Book Urban Legends Revealed #90 |publisher=CBR |date=2007-02-15 |access-date=2020-06-09}}</ref>
+
+The founding members of the original team were:<ref>{{cite book |last1=Brevoort |first1=Tom |last2=DeFalco |first2=Tom |last3=Manning |first3=Matthew K. |last4=Sanderson |first4=Peter |last5=Wiacek |first5=Win |title=Marvel Year By Year: A Visual History |date=2017 |publisher=DK Publishing |isbn=978-1465455505 |page=271}}</ref>
+* '''Psi-Lord''' ([[Franklin Richards (Fantastic Four)|Franklin Richards]]) was the leader, son of [[Mister Fantastic]] and [[Invisible Woman]] of the [[Fantastic Four]]
+* '''Huntara''' (Tara Richards), Franklin Richards' aunt from an [[Alternative future|alternate future]], armed with a scythe that enabled her to open interdimensional portals
+* '''Vibraxas''', a [[Wakanda]]n with the power to generate vibratory force
+* '''Devlor''', an [[Inhumans|Inhuman]] who could transform into a large ape-like creature
+
+Vibraxas later became a supporting character in ''[[Black Panther (comics)|Black Panther]]'' volume 2.
+
+The Black Panther, who also served as an unofficial member of the team, joining them in the field on occasion, funded Fantastic Force. For a short time the [[Human Torch]] became team leader.<ref>''Fantastic Force'' #10; cover date Aug. 1995 up to ''Fantastic Force'' #18; cover date April 1996</ref> Eventually Huntara left the group for another dimension, and her slot on the team was filled by [[She-Hulk]].<ref>''Fantastic Force'' #13; cover date Nov. 1995</ref>
+
+==2009 series==
+The new miniseries in 2009 followed the exploits of a group formerly known as "[[The New Defenders]]". This team was composed of the last superheroes of a bleak future who brought the remaining members of the human race to the present day where they settled on Nu Earth, an artificial copy of Earth. This group first appeared in the storyline "Death of The Invisible Woman" featured in ''[[Fantastic Four]]'' #558-562.  This team includes a descendant of Bruce Banner/Hulk and a future version of Wolverine as well as a number of less recognizable characters.
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+*[http://www.marvel.com/universe/Fantastic_Force Marvel universe article on the Fantastic Force]
+*[http://fans.marvel.com/tom_brevoort/blog/2007/04/28/still_bad_after_all_these_years 'Still Bad After All These Years' - Marvel.com blog entry from writer Tom Brevoort, looking back on Fantastic Force]
+
+{{Fantastic Four}}
+{{She-Hulk}}
+
+[[Category:1994 comics debuts]]
+[[Category:Fantastic Four]]
+[[Category:Marvel Comics superhero teams]]
+[[Category:Marvel Comics titles]]

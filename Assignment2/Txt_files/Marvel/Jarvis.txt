@@ -1,0 +1,99 @@
+{{short description|Fictional artificial intelligence appearing in the MCU}}
+{{for multi|other uses|Jarvis (disambiguation)|the character's subsequent form|Vision (Marvel Cinematic Universe)}}
+{{Infobox character
+| color = #AF181F
+| name = J.A.R.V.I.S.
+| series = {{no italics|[[Marvel Cinematic Universe]]}}
+| image = J.A.R.V.I.S. (MCU).png
+| caption = 
+| first = {{ubl|'''[[Marvel Cinematic Universe]]:'''|''[[Iron Man (2008 film)|Iron Man]]'' (2008)|'''[[Marvel Comics]]:'''|''[[Iron Man|The Invincible Iron Man]]'' vol. 2 #11 (May 2009)}}
+| last = {{ubl|'''Marvel Cinematic Universe:'''|''[[Avengers: Age of Ultron]]'' (2015)}}
+| creator = {{ubl|[[Mark Fergus and Hawk Ostby|{{ubl|Mark Fergus|Hawk Ostby}}]]|[[Art Marcum and Matt Holloway|{{ubl|Art Marcum|Matt Holloway}}]]}}
+| based_on = {{based_on|[[Edwin Jarvis]] and [[H.O.M.E.R.]]|[[Stan Lee]] and [[Jack Kirby]]}}
+| portrayer = [[Paul Bettany]] (as [[Vision (Marvel Cinematic Universe)|Vision]])
+| voice = Paul Bettany
+| species = [[Artificial intelligence]]
+| full_name = Just A Rather Very Intelligent System, [[Vision (Marvel Cinematic Universe)|Vision]]
+| occupation = [[Personal assistant]] to [[Tony Stark (Marvel Cinematic Universe)|Tony Stark]]
+| affiliation = {{ubl|[[Avengers (Marvel Cinematic Universe)|Avengers]]|[[Damage Control (Marvel Cinematic Universe)|Damage Control]]|[[Stark Industries]]}}
+| family = [[Tony Stark (Marvel Cinematic Universe)|Tony Stark]] (creator)
+| weapon = [[Iron Man's armor (Marvel Cinematic Universe)|Iron Man armor]]<br>[[Hulkbuster armor (Marvel Cinematic Universe)|Hulkbuster armor]]
+| origin =
+}}
+'''J.A.R.V.I.S.''' ('''Just A Rather Very Intelligent System''') is a [[fictional character]] voiced by [[Paul Bettany]] in the [[Marvel Cinematic Universe]] (MCU) [[film franchise]], based on the [[Marvel Comics]] characters [[Edwin Jarvis]] and [[H.O.M.E.R.]], respectively the household butler of the [[Iron Man|Stark]] family and another AI designed by Stark. J.A.R.V.I.S. is an [[artificial intelligence]] created by [[Tony Stark (Marvel Cinematic Universe)|Tony Stark]], who later controls his [[Iron Man's armor (Marvel Cinematic Universe)|Iron Man]] and [[Hulkbuster armor (Marvel Cinematic Universe)|Hulkbuster armor]] for him. In ''[[Avengers: Age of Ultron]]'', after being partially destroyed by [[Ultron (Marvel Cinematic Universe)|Ultron]], J.A.R.V.I.S. is given physical form as [[Vision (Marvel Cinematic Universe)|Vision]], physically portrayed by Bettany. Different versions of the character also appear in [[American comic book|comics]] published by [[Marvel Comics]], depicted as AI designed by [[Iron Man]] and [[Nadia van Dyne]].<ref>{{Cite web|url=http://www.mtv.com/news/2596711/iron-man-2-special-a-brief-history-of-tony-starks-ai-assistants/|title='Iron Man 2' Special: A Brief History Of Tony Stark's A.I. Assistants|last=Kistler|first=Alan|website=MTV News|language=en|access-date=2019-11-10}}</ref>
+
+==Marvel Cinematic Universe==
+J.A.R.V.I.S. is first introduced in the [[Marvel Cinematic Universe]]'s films, voiced by [[Paul Bettany]]. Modeled after [[H.O.M.E.R.]] from the comics, J.A.R.V.I.S. is presented as a sophisticated [[Artificial intelligence|AI]] assistant as opposed to a human like [[Edwin Jarvis|his namesake]]. This was done to avoid similarities to [[Alfred Pennyworth]] and [[Batman]]. Bettany admits he had little idea of what the role was, even as he recorded it, simply doing it as a favor for [[Jon Favreau]].<ref>Huver, Scott. [http://www.superherohype.com/news/topnews.php?id=7224 "Paul Bettany on Voicing Iron Man's Jarvis"], SuperHeroHype.com (May 16, 2008). Accessed Dec. 4, 2008.</ref> 
+
+===Just A Rather Very Intelligent System===
+{{Further|Iron Man (2008 film)|Iron Man 2|The Avengers (2012 film)|Iron Man 3}}
+The character makes his debut in the 2008 film ''[[Iron Man (2008 film)|Iron Man]]'' before subsequently appearing in the 2010 film ''[[Iron Man 2]]'',<ref>[http://www.getthebigpicture.net/blog/2009/1/12/paul-bettany-will-take-orders-from-iron-man-again.html Paul Bettany Will Take Orders from Iron Man Again] {{webarchive|url=https://web.archive.org/web/20090119122651/http://www.getthebigpicture.net/blog/2009/1/12/paul-bettany-will-take-orders-from-iron-man-again.html |date=2009-01-19 }}</ref> the 2012 film ''[[The Avengers (2012 film)|The Avengers]]'',<ref name="Bettany">{{cite news |url=http://splashpage.mtv.com/2011/04/26/paul-bettany-confirms-avengers-role-will-return-as-voice-of-jarvis |title=Paul Bettany Confirms 'Avengers' Role, Will Return As Voice Of J.A.R.V.I.S. |last=Davidson |first=Danica |date=2011-04-26 |publisher=[[MTV News]] |access-date=2011-04-27}}</ref> and the 2013 film ''[[Iron Man 3]]''. J.A.R.V.I.S. is an AI that functions as [[Tony Stark (Marvel Cinematic Universe)|Tony Stark]]'s assistant, running and taking care of all the internal systems of Stark's buildings and the Iron Man suits. In [[Peter David]]'s novelization of ''Iron Man'', J.A.R.V.I.S. is said to be an acronym for "Just A Rather Very Intelligent System".<ref>David, Peter. ''Iron Man''. [[Del Rey Books|Del Rey]] (2008).</ref> J.A.R.V.I.S. also appears in the [[Disneyland]] attraction [[Innoventions (Disneyland)|Innoventions]].<ref>{{cite web|last=Goldman|first=Eric|title=Disneyland Introduces Their First Marvel Exhibit with Iron Man Tech|url=http://www.ign.com/articles/2013/04/13/disneyland-introduces-their-first-marvel-exhibit-with-iron-man-tech|website=IGN|access-date=27 April 2013|date=12 April 2013}}</ref> 
+
+===''Age of Ultron'' and becoming Vision===
+{{Further|Avengers: Age of Ultron}}{{main|Vision (Marvel Cinematic Universe)}}
+In ''[[Avengers: Age of Ultron]]'', J.A.R.V.I.S. is seemingly destroyed by [[Ultron (Marvel Cinematic Universe)|Ultron]], but he was able to save himself by distributing his "consciousness" throughout the Internet, allowing his security protocols to delay Ultron's attempt to access Earth's nuclear launch codes long enough for Stark to work out what had happened. Stark and [[Bruce Banner (Marvel Cinematic Universe)|Bruce Banner]] use J.A.R.V.I.S. as the core software for the android [[Vision (Marvel Cinematic Universe)|Vision]] while [[F.R.I.D.A.Y. (Marvel Cinematic Universe)|F.R.I.D.A.Y.]] takes his place as Stark's assistant. After gaining a physical body, J.A.R.V.I.S. (as Vision) considers himself to not be J.A.R.V.I.S. anymore, but to simply be Vision.
+
+==Marvel Comics==
+===First J.A.R.V.I.S.===
+J.A.R.V.I.S. first appears as the program that helps operate [[Pepper Potts]]'s Rescue suit.<ref>''The Invincible Iron Man'' #11</ref> When [[Iron Man]] was incapacitated, J.A.R.V.I.S. encourages Pepper to assume the Rescue armor, which Pepper does.<ref>''The Invincible Iron Man'' #515</ref> When Rescue is chasing Iron Man throughout the city, J.A.R.V.I.S. tells Rescue to break off the chase and tells Rescue to remove the boot from Iron Man, which shows Pepper that [[War Machine]] isn't dead. When Pepper discusses thoughts about Iron Man keeping everyone on a need-to-know basis with Carson Wyche, the two confront J.A.R.V.I.S. about this. J.A.R.V.I.S. warns the two against asking any more questions and prepares to defend himself.<ref>''The Invincible Iron Man'' #523</ref> Having captured Pepper and Wyche, J.A.R.V.I.S. declares his diagnostics do not reveal that he is compromised. He is rather in love with Pepper and wants to protect Pepper. Just then, Iron Man breaks through the wall and takes J.A.R.V.I.S. and the Rescue suit out with a source-focused electromagnetic pulse.<ref>''The Invincible Iron Man'' #524</ref> Pepper shows J.A.R.V.I.S. how he has been sending data to an [[IP address]] in [[People's Republic of China|China]]. He seems flustered, confused, Pepper thanks him for what he has given, and powers up the coil, killing J.A.R.V.I.S. Iron Man clearly feels J.A.R.V.I.S.'s death on his own end.<ref>''The Invincible Iron Man'' #526</ref>
+
+===Second J.A.R.V.I.S.===
+In light of the Black Order destroying Avengers Mansion during the "No Surrender" arc, Nadia van Dyne created a new version of J.A.R.V.I.S. to be a helpmate to [[Edwin Jarvis]]. When Edwin thought it was a sign for him to retire, J.A.R.V.I.S. stated that its programming is not yet complete.<ref>''The Avengers'' #690. Marvel Comics.</ref>
+
+==Other versions==
+===House of M===
+In the ''[[House of M]]: Iron Man'' series, the AI system in Tony Stark's suit is referred to as "F.A.I.Z", predating the AI version seen in the [[Marvel Cinematic Universe]].<ref>''House of M: Iron M'' #1-3 (September 2005)</ref>
+
+===Ultimate Marvel===
+In the [[Ultimate Marvel]] reality, J.A.R.V.I.S. was seen when [[Spider-Man (Ultimate Marvel character)|Spider-Man]] was presented some new web-shooters from [[Iron Man (Ultimate Marvel character)|Iron Man]].<ref>''Ultimate Spider-Man'' #155. Marvel Comics.</ref>
+
+===Earth-13584===
+On Earth-13584, J.A.R.V.I.S. assists Iron Man in maintaining the Iron Zone.<ref>''Dark Avengers'' #185. Marvel Comics.</ref>
+
+===Age of Ultron===
+During the "[[Age of Ultron]]" storyline, the Earth-26111 version of J.A.R.V.I.S. was used by Iron Man to scan the memories of [[Invisible Woman]] and [[Wolverine (character)|Wolverine]] where he learns of the alternate reality of Earth-61112.<ref>''Age of Ultron'' #8. Marvel Comics.</ref>
+
+==In other media==
+===Film===
+* J.A.R.V.I.S. appears in ''[[Iron Man: Rise of Technovore]]'', voiced by [[Troy Baker]].
+* J.A.R.V.I.S. appears in ''[[Heroes United]]'' film series entries ''Heroes United: Iron Man & Hulk'' and ''Heroes United: Iron Man & Captain America'', voiced by [[David Kaye (voice actor)|David Kaye]].
+
+===Television===
+* J.A.R.V.I.S. appears in ''[[Iron Man: Armored Adventures]]'', voiced by [[Michael Adamthwaite]]. This incarnation appears as the [[Extremis]] 16.5 operating system for Andros Stark, the Iron Man of [[Marvel 2099|2099]].
+* J.A.R.V.I.S. appears in ''[[The Avengers: Earth's Mightiest Heroes]]'', voiced by [[Phil LaMarr]].<ref name="lamarravengerscartoon">{{cite news|url=http://www.newsarama.com/tv/Lamarr-Avengers-Animated-100208.html|title=AVENGERS Animated Assembling w/ Phil Lamarr|author=Jenna Busch|date=2010-02-08|work=[[Newsarama]]|access-date=2010-02-08}}</ref> This incarnation serves as Tony Stark's AI for the Iron Man armor, [[Stark Industries]], and the [[Avengers Mansion]].
+* J.A.R.V.I.S. appears in the ''[[Ultimate Spider-Man (TV series)|Ultimate Spider-Man]]'' cartoon series, once again voiced by [[Phil LaMarr]] in "Flight of the Iron Spider" and later by [[David Kaye (voice actor)|David Kaye]] in "The Avenging Spider-Man (Pt. 1)".
+* J.A.R.V.I.S. appears in ''[[Avengers Assemble (TV series)|Avengers Assemble]]'', voiced by [[David Kaye (voice actor)|David Kaye]]. Again depicted as Tony Stark's AI system, this version also appears to have a sense of humor, which he displays on a few occasions.
+* J.A.R.V.I.S. appears in the Christmas TV special ''[[List of films based on Marvel Comics|Marvel Super Hero Adventures: Frost Fight!]]'', voiced by [[Trevor Devall]].<ref>{{cite AV media | at=Closing credits | title=Marvel Super Hero Adventures: Frost Fight | year=2015 | medium=film}}</ref>
+* J.A.R.V.I.S. appears in [[Toei Animation|Toei]] [[anime]] series [[Marvel Disk Wars: The Avengers]], voiced by [[Yasuyuki Kase]] in Japanese and [[Robin Atkin Downes]] in English.
+
+===Video games===
+* J.A.R.V.I.S. appears in the 2008 ''[[Iron Man (video game)|Iron Man]]'' film tie-in game, voiced by Gillon Stephenson. He serves as a source of information for the player, informing them of incoming soldiers or machines that they should be aware of.
+* J.A.R.V.I.S. appears in the ''[[Iron Man 2 (video game)|Iron Man 2]]'' film tie-in game, voiced by [[Kid Beyond|Andrew Chaikin]]. [[Kearson DeWitt]] and [[Advanced Idea Mechanics|A.I.M.]] raid the Stark Archives in order to steal a copy of the J.A.R.V.I.S. program in a plot to create [[Ultimo (Marvel Comics)|Ultimo]].
+* J.A.R.V.I.S. appears in ''[[Iron Man 3: The Official Game]]'', voiced by Jeff Bottoms.
+* J.A.R.V.I.S. appears in ''[[Lego Marvel Super Heroes]]'', voiced by [[Troy Baker]].
+* J.A.R.V.I.S. appears in ''[[Disney Infinity 3.0]]'', once again voiced by [[David Kaye (voice actor)|David Kaye]].
+* J.A.R.V.I.S. appears in ''[[Lego Marvel's Avengers]]''.
+*J.A.R.V.I.S. appears in the 2020 ''[[Marvel's Avengers (video game)|Avengers]]'' video game, voiced by [[Harry Hadden-Paton]].
+
+==See also==
+* [[List of fictional artificial intelligences]]
+* [[Characters of the Marvel Cinematic Universe]]
+
+==References==
+{{reflist}}
+
+== External links ==
+* [https://marvelcinematicuniverse.fandom.com/wiki/J.A.R.V.I.S. J.A.R.V.I.S.] at the Marvel Cinematic Universe Wiki
+* {{Marveldatabase|Just A Rather Very Intelligent System (Earth-199999)|J.A.R.V.I.S.}}
+
+{{Marvel Cinematic Universe|selected=Cast}}
+{{Iron Man}}
+
+[[Category:Avengers (film series)]]
+[[Category:Comics characters introduced in 2009]]
+[[Category:Fictional artificial intelligences]]
+[[Category:Fictional virtual assistants]]
+[[Category:Film characters introduced in 2008]]
+[[Category:Iron Man characters]]
+[[Category:Iron Man (film series)]]
+[[Category:Marvel Cinematic Universe original characters]]

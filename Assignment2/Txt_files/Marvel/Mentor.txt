@@ -1,0 +1,62 @@
+{{Short description|Marvel Comics fictional character}}
+{{For|the member of the [[Imperial Guard (Marvel Comics)|Imperial Guard]]|Mentor (Imperial Guard)}}
+{{more citations needed|date=March 2015}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|image=[[File:A'lars.png]]
+|caption=
+|character_name=Mentor
+|real_name=A'lars
+|publisher=[[Marvel Comics]]
+|debut=''[[Iron Man (comic book)|Iron Man]]'' #55 (February 1973)
+|creators=[[Jim Starlin]] (writer / artist)
+|status=
+|alliances=[[Eternals (comics)|Eternals]]
+|aliases=
+|powers= Superhuman stamina and durability<br>Ability to project cosmic energy<br>Molecular manipulation<br>Telepathy
+}}
+'''Mentor''' ('''A'lars''') is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character first appeared in ''[[Iron Man (comic book)|Iron Man]]'' #55 (February 1973), and was created by [[Jim Starlin]].
+
+Mentor is the leader of the [[Titan (Marvel Comics location)|Titanian]] colony where he is the father of [[Thanos]] and [[Starfox (comics)|Starfox]], the brother of [[Zuras]], and the nephew of [[Uranos (comics)|Uranos]]. His back-story was based on Greek mythology. Some years later,<ref>''The Eternals'' #1 (July 1976).</ref> he was [[retcon]]ned to be a member of the [[Eternals (comics)|Eternals]], a race in the [[Marvel Universe]] created by [[Jack Kirby]], separately based on Greek mythology.
+
+==Fictional character biography==
+A'lars was the second son of [[Kronos (comics)|Kronos]] and Daina, two of the first generation of [[Eternals (comics)|The Eternals]], and was born eons ago in the city of Titanos. A'lars and his brother [[Zuras]] were raised in the aftermath of the great civil war which divided the first colony of Eternals. Their father Kronos, who was on the winning side of the civil war, toiled away in his laboratory attempting to discover the secrets of the self-regenerating cosmic life force that he felt his race was capable of attaining. A force field cylinder containing cosmic energy exploded, disintegrating Kronos' body and imparted immortality to all nearby Eternals. A'lars then became a scientist like his father.
+
+A'lars and Zuras, both adults at the time of Kronos's death, held a general assembly to determine who would succeed him. The assembly chose Zuras, so A'lars chose to leave the colony to avoid the sort of fraternal rivalry that led Kronos and his brother [[Uranos (comics)|Uranos]] to the first civil war.<ref>''What If?'' #25: "The First Uni-Mind" (February 1981).</ref> He settled on [[Saturn]]'s moon [[Titan (Marvel Comics location)|Titan]], taking over as leader of the underground colony that his uncle Uranos had built centuries earlier.
+
+Upon arriving on Titan, A'lars discovered the [[Uranian (comics)|Uranian]] Eternal [[Sui-San]], the sole survivor of the civil war that destroyed the Eternals of Titan previously.  Sui-San bore two children for Mentor, [[Thanos]] and Eros (later known as [[Starfox (comics)|Starfox]]). Sui-San died in Thanos' first major attack against Titan.{{issue|date=March 2013}}
+
+Mentor implored his father Kronos to aid Titan against Thanos, causing Kronos to create [[Drax the Destroyer]].<ref>''Iron Man'' #55 (February 1973).</ref>
+
+Mentor later met [[Rick Jones (comics)|Rick Jones]] and [[Mar-Vell|Captain Mar-Vell]]. With his son Eros, he informed Jones and Mar-Vell of Thanos's degradation of Titan. Mentor enlisted Mar-Vell's aid against Thanos.<ref>''Captain Marvel'' #27 (July 1973).</ref> Mentor was imprisoned by Thanos, but freed by Captain Mar-Vell. Mentor joined in the battle against Thanos.<ref>''Captain Marvel'' #31 (March 1974).</ref> Later, Mentor joined in the attempt to cure Captain Mar-Vell of cancer, and attended Mar-Vell's last hours.<ref>''The Death of Captain Marvel'' graphic novel (1994).</ref>
+
+Mentor later informed the [[Silver Surfer]] of Thanos's history.<ref>''Silver Surfer'' (vol. 3) #37 (May 1990).</ref>
+
+[[Phyla-Vell|Quasar]] and [[Drax the Destroyer|Drax]] attempt to consult Mentor, who apparently kills them.<ref>''Guardians of the Galaxy'' (vol. 2) #9 (March 2009).</ref>
+
+Thanos escapes captivity and reclaims his [[Black Order (comics)|Black Order]] forces from [[Corvus Glaive]]. After retaking command of his Black Quadrant outpost, Thanos discovers that he is dying.<ref>''Thanos'' (vol. 2) #1 (January 2017).</ref> Thanos tries to force Mentor to find a cure for his malady, but kills him when he is unable to.<ref>''Thanos'' (vol. 2) #2 (February 2017).</ref>
+
+==Powers and abilities==
+As a member of the [[Eternals (comics)|Eternals]], Mentor has superhuman stamina and durability, and a gifted intellect. He possesses various superhuman powers, including the ability to project cosmic energy as waves of concussive force and the ability to manipulate matter on the molecular level. Mentor has displayed telepathic abilities, the limits of which are as yet unknown.{{fact|date=March 2022}}
+
+Mentor has knowledge of science and technology far in advance of present-day Earth. As ruler of Titan, Mentor has access to and full use of a wide range of advanced technology located on that artificial moon.{{fact|date=March 2022}}
+
+==In other media==
+Mentor appears in "Learning Curve", an episode of the ''[[Silver Surfer (TV series)|Silver Surfer]]'' animated series, voiced by [[Cedric Smith (actor)|Cedric Smith]].{{cn|date=February 2022}} He is Thanos' brother, rather than [[Starfox (comics)|Starfox]], due to a [[typographical error]] in the script.<ref>{{cite web|url=http://marvelite.prohosting.com/surfer/toon/lbrody.html |title=Interview with Larry Brody |publisher=Marvelite.prohosting.com |access-date=2011-03-12}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.marveldirectory.com/individuals/m/mentori.htm Mentor (Alars the Eternal)] at the Marvel Directory
+
+{{Jim Starlin}}
+{{Eternals}}
+{{Captain Marvel (Marvel Comics)}}
+{{Thanos}}
+
+[[Category:Characters created by Jim Starlin]]
+[[Category:Comics characters introduced in 1973]]
+[[Category:Eternals (comics)]]
+[[Category:Fictional characters from the Solar System]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics telepaths]]

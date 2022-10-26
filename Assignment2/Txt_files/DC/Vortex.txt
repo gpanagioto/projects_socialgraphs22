@@ -1,0 +1,494 @@
+{{short description|Group of fictional characters}}
+{{for|the television series|Doom Patrol (TV series)}}
+{{Use mdy dates|date=April 2021}}
+{{Infobox comics organization
+<!--Wikipedia:WikiProject Comics-->
+<!-- |name= -->
+|image=Doom Patrol, Weight of the Worlds No 1 Textless.jpg
+|imagesize=
+|caption=Cover of ''Doom Patrol: Weight of the Worlds'' #1 (September 2019), depicting the [[List of Doom Patrol members#Seventh roster|seventh roster]] of the Doom Patrol: (clockwise from top) Lucius Reynolds, [[Crazy Jane]], [[Robotman (Cliff Steele)|Robotman]]'s head, [[Negative Man]], Lotion the Cat, [[Elasti-Girl]], [[Flex Mentallo]], Casey Brinke, and Fugg.<br/>Art by Nick Derington.
+|publisher=[[DC Comics]]
+|debut=''[[My Greatest Adventure]]'' #80 (June 1963)
+|creators=[[Arnold Drake]]<br />[[Bob Haney]]<br />[[Bruno Premiani]]
+|base=Former: Dayton Manor<br />Former: The Secret Sanctuary<br />Former: Violet Valley's Rainbow Estates<br />Former: Oolong Island<br />[[Danny the Street]]
+|members=[[Chief (comics)|Chief]]<br />[[Negative Man]]<br />[[Robotman (Cliff Steele)|Robotman]]<br />[[Elasti-Girl]]<br />[[Mento (comics)|Mento]]<br />[[Beast Boy]]<br />Space Case<br />[[Crazy Jane]]<br />[[Flex Mentallo]]<br />[[Danny the Street|Danny the Ambulance]]
+|fullroster= [[List of Doom Patrol members]]
+|cat=teams
+|subcat=DC Comics
+|hero=y
+|villain=
+|sortkey=Doom Patrol
+}}
+'''Doom Patrol''' is a [[superhero]] team from [[DC Comics]].  The original Doom Patrol first appeared in ''My Greatest Adventure'' #80 (June 1963),<ref name="dc-ency">{{Cite book | last = Beatty | first = Scott | author-link = Scott Beatty | contribution = Doom Patrol | editor-last = Dougall  | editor-first = Alastair  | title = The DC Comics Encyclopedia  | page = 109  | publisher = [[Dorling Kindersley]]  | place = New York  | year = 2008 | isbn = 978-0-7566-4119-1 | oclc = 213309017 }}</ref> and was created by writers [[Arnold Drake]] and [[Bob Haney]], along with artist [[Bruno Premiani]].  Doom Patrol has appeared in different incarnations in multiple comics, and have been adapted to other media.  Although not one of the most popular superhero teams, they have never been out of print for more than a few years since their introduction.{{citation needed|date=July 2021}}  The series' creator and fans have suspected that [[Marvel Comics]] copied the basic concept to create the [[X-Men]], which debuted a few months later, but other fans also speculate that they share similarities with another Marvel superhero team, the [[Fantastic Four]].
+
+Doom Patrol are a group of super-powered misfits whose "gifts" caused them alienation and trauma.  Dubbed the "world's strangest heroes"  by editor [[Murray Boltinoff]]),<ref name="back65">{{cite journal|last=Browning|first=Michael |title=The Doom Patrol Interviews: Arnold Drake|journal=[[Back Issue!]] |issue=65 |pages=38–41|publisher=[[TwoMorrows Publishing]]|date=July 2013|location=Raleigh, North Carolina}}</ref> the original team included the [[Chief (comics)|Chief]] (Niles Caulder), [[Robotman (Cliff Steele)]], [[Elasti-Girl]] (Rita Farr), and [[Negative Man]] (Larry Trainor); [[Beast Boy]] (Garfield Logan) and [[Mento (comics)|Mento]] (Steve Dayton) joined soon after.  The team remained the featured characters of ''My Greatest Adventure'', which was re-titled ''Doom Patrol'' as of issue #86 (March 1964).  The original series was canceled in 1968 when Drake killed the team off in issue #121, last of that series, (September–October 1968).  Since then, there have been six ''Doom Patrol'' series, with Robotman as the only character to appear in all of them.
+
+{{TOC limit|limit=3}}
+
+==Publication history==
+===''My Greatest Adventure'': ''Doom Patrol'' (volume 1)===
+[[File:Mygreatestadventure80.JPG|thumb|150px|left|Cover to ''My Greatest Adventure'' #80 (June 1963), the first appearance of the Doom Patrol, with art by [[Bruno Premiani]].]]
+Doom Patrol first appeared in 1963, when the DC title ''[[My Greatest Adventure]]'', an adventure anthology, was being converted to a superhero format. The task, assigned to writer Arnold Drake, was to create a team that fit both of these formats. With fellow writer Bob Haney and artist Bruno Premiani, he created Doom Patrol, a team of super-powered misfits who were regarded as freaks by the world at large.<ref name="dc-ency"/> According to Drake, editor Murray Boltinoff told him ''My Greatest Adventure'' was in danger of cancellation and he wanted him to create a new feature which might save it.<ref name="back65"/> Boltinoff was enthusiastic about Drake's initial pitch with [[Elasti-Girl]] and Automaton (changed to [[Robotman (Cliff Steele)|Robotman]] by the team's third appearance, issue #82), but Drake wanted a third character and enlisted Haney's help in coming up with [[Negative Man]].<ref name="back65"/>  The team was initially announced as "The Legion of the Strange".<ref>''My Greatest Adventure'' letters column in #79, May 1963, "ANNOUNCEMENT TO OUR READERS: The next issue... will be devoted entirely to a full-length, three-part action-packed blockbuster...  a new unique team called "The Legion of the Strange"...</ref>
+
+Doom Patrol were announced on the cover art of ''My Greatest Adventure'' #80 ([[cover date]]d June 1963). Drake and Haney devised the plot for the issue together, and then each scripted half the issue independently (Drake the first half, Haney the second).<ref name="back65"/> [[Chief (comics)|Doctor Niles Caulder]] motivated the original Doom Patrol, bitter from being isolated from the world, to use their powers for the greater good. ''My Greatest Adventure'' was officially retitled ''The Doom Patrol'' beginning with issue #86.
+
+In an interview, Drake discussed the conception of Doom Patrol.<ref>{{cite web | url=http://www.sequentialtart.com/archive/jan00/drake.shtml | title=Sequential Tart: Arnold Drake - This Old Drake Still Has the Fire in Him (Vol III/Iss 1/January 2000) }}</ref>{{quote|[[Murray Boltinoff]] the editor, came to me one day, or I went to him one day and he said, "We're having a lot of trouble with [[My Greatest Adventure]], it's starting to lay an egg. The era of the superhero has taken over completely. My Greatest Adventure has ordinary heroes. We need some kind of superhero to punch it up." So I said okay, went out and came back a couple of hours later with the basic idea about the man in the wheelchair who is the great brain, and runs this group of superheroes who hate being superheroes. That was the new aspect. That was the thing that made Doom Patrol different, these people hated being superheroes. And they were a little bit self-pitying, just a little bit, and the chief was constantly telling them, "Stop crying in your beer." That made them something that wasn't around at the time.}}
+
+The members of the Doom Patrol often quarrelled and suffered personal problems, something that was already common among superhero teams published by [[Marvel Comics]] such as [[Fantastic Four]], but was novel among the DC lineup.<ref>{{cite journal|last=Eury |first=Michael|title=The Doom Patrol Interviews: Editor's Note|journal=[[Back Issue!]]|issue=65 |page=37|publisher=[[TwoMorrows Publishing]]|date=July 2013 |location=Raleigh, North Carolina}}</ref> Doom Patrol's rogues gallery matched the strange, weird tone of the series.<ref name="back65"/> Villains included the immortality-seeking [[General Immortus]], the shape-shifting [[Animal-Vegetable-Mineral Man]], and the [[Brotherhood of Evil]] led by the [[Brain (comics)|Brain]], a disembodied brain kept alive by technology. The Brotherhood of Evil also included the intelligent [[gorilla]] [[Monsieur Mallah]] and [[Madame Rouge]], who was given powers similar to those of [[Elongated Man]], with the extra attribute of a malleable face, allowing her to impersonate various people.
+
+[[File:Doompatrol121.JPG|thumb|150px|Cover to ''Doom Patrol'' #121 (September–October 1968), the last original issue of the series, with art by [[Joe Orlando]].]]
+The Doom Patrol had two crossovers: one with the [[Challengers of the Unknown]], teaming up to fight Multi-Man and Multi-Woman; and second with the Flash in ''[[The Brave and the Bold]]'' #65.
+
+As the popularity of the book waned, the publisher cancelled it. Drake killed off the entire Doom Patrol in the final issue, ''Doom Patrol'' #121 (September–October 1968) where Doom Patrol sacrificed their lives to Madame Rouge and [[General Zahl]] to save the small fishing village of Codsville, [[Maine]]. This was the first time in comic book history that a cancelled title was concluded with the death of its cast.{{citation needed|date=August 2017}} Artist Bruno Premiani and editor Murray Boltinoff appeared at the beginning and the end of the story, asking fans to write to DC to resurrect Doom Patrol, although the latter was supposed to have been Arnold Drake.<ref>{{cite book |last1=Wells |first1=John |title=American Comic Book Chronicles: 1965-1969 |date=2014 |publisher=TwoMorrows Publishing |isbn=978-1605490557 |page=212}}</ref> According to the writer, he was replaced with the editor because he had just resigned over a pay dispute and moved to Marvel Comics. He finished the script only out of friendship for Boltinoff.<ref>Guay, George, "The Life and Death of the Doom Patrol," ''Amazing Heroes'' #6, November 1981, Zam, Inc., Stamford, CT, p. 47 (footnote).</ref> A few years later, three more issues appeared, reprints of earlier issues (#89, #95 and #90 appeared as #122, #123 and #124 respectively). A proper ''Doom Patrol'' revival did not occur until 1977, nine years after the original's demise.
+
+Some similarities exist between the original Doom Patrol and Marvel Comics' original [[X-Men]];<ref>{{Cite web |url=http://www.cracked.com/article_17299_6-famous-characters-you-didnt-know-were-shameless-rip-offs.html |title=6 Famous Characters You Didn't Know Were Shameless Rip Offs |date=April 29, 2009 |access-date=May 1, 2009 |archive-date=November 15, 2020 |archive-url=https://web.archive.org/web/20201115211541/https://www.cracked.com/article_17299_6-famous-characters-you-didnt-know-were-shameless-rip-offs.html |url-status=live }}</ref> Marvel acknowledged the similarity in its humor title ''[[Not Brand Echh]]''.<ref name="notbrandechhvol1no4">''Not Brand Echh'' #4, November 1967</ref> Both include misfit superheroes shunned by society and both are led by men of preternatural intelligence who use wheelchairs. These similarities ultimately led series writer Arnold Drake to argue that the concept of the X-Men must have been based on the Doom Patrol.
+
+Drake stated:
+{{blockquote|...I've become more and more convinced that <nowiki>[</nowiki>[[Stan Lee]]<nowiki>]</nowiki> knowingly stole The X-Men from The Doom Patrol. Over the years I learned that an awful lot of writers and artists were working surreptitiously between [Marvel and DC]. Therefore from when I first brought the idea into [DC editor] Murray Boltinoff's office, it would've been easy for someone to walk over and hear that [I was] working on a story about a bunch of reluctant superheroes who are led by a man in a wheelchair. So over the years, I began to feel that Stan had more lead time than I realized. He may well have had four, five, or even six months.<ref>{{cite web
+| url = http://classic.newsarama.com/general/ArnoldDrake/DrakneInterview.htm
+| archive-url = https://web.archive.org/web/20071011174524/http://newsarama.com/general/ArnoldDrake/DrakneInterview.htm
+| title = Talking to Arnold Drake
+| archive-date = 2007-10-11
+| access-date = 2009-05-15
+| last = Epstein
+| first = Daniel Robert
+| date = 2005-11-11
+| publisher = [[Newsarama]]
+}}</ref>}}
+
+In an interview shortly before his death in 2007, Drake took a more moderate position, stating that while it is possible Lee took his ideas from Doom Patrol, he could also have arrived at a similar concept independently: "Since we were working in the same vineyards, and if you do enough of that stuff, sooner or later, you will kind of look like you are imitating each other."<ref name="back65"/> 
+They also share the same writers such as [[Grant Morrison]] and [[John Byrne (comics)|John Byrne]] as well. 
+Though the Doom Patrol and the X-Men do share some similarities, there are major differences, such as the Doom Patrol tends to go on bizarre and weird adventures, while the X-Men share their own bizarre adventures they tended to be more focus on the themes of racism, prejudices, and hate crimes. Both have stories that shows them to carry their heroics and are family oriented with internal problems that are disputed or resolved as well as finding common ground with their morals and so forth but while the X-Men still do heroic stories somewhat with certain social political themes, the Doom Patrol was more centered to focus on wacky and bizarre stories more akin to the Fantastic Four.
+
+===''Showcase'': Paul Kupperberg's ''Doom Patrol''===
+Writer [[Paul Kupperberg]], a longtime ''Doom Patrol'' fan, and artist [[Joe Staton]] introduced a new team in ''[[Showcase (comics)|Showcase]]'' #94 (August–September 1977).<ref>{{cite book|last=McAvennie|first= Michael|editor-last = Dolan|editor-first = Hannah|chapter=1970s|title=DC Comics Year By Year A Visual Chronicle|publisher=[[Dorling Kindersley]] |year=2010 |isbn=978-0-7566-6742-9 |page=175 |quote=''Showcase'' #94 (August–September 1977) Writer Paul Kupperberg and artist Joe Staton revived DC's "try-out" series from its seven-year slumber by resurrecting the super-hero team, Doom Patrol.}}</ref> DC was then lining up features for the ''Showcase'' revival—the series was initially an anthology that would debut new characters who could springboard into their own series if they proved sufficiently popular, and ''Showcase'' #94 was the first new issue of the series in almost seven years. Editor [[Paul Levitz]] instructed Kupperberg and Staton to do a Doom Patrol feature.<ref name="backKupp">{{cite journal |last=Browning|first=Michael|title=The Doom Patrol Interviews: Paul Kupperberg |journal=[[Back Issue!]]|issue=65|pages=42–45 |publisher=[[TwoMorrows Publishing]] |date=July 2013|location=Raleigh, North Carolina}}</ref> Kupperberg opted to create a new lineup because he wanted to respect the story in which the Doom Patrol met their deaths, and was inspired by [[Len Wein]] and [[Dave Cockrum]]'s then-recent "all-new, all-different X-Men".<ref>{{cite journal |last=Johnson|first=Dan|title=Showcase Presents... Again|journal=[[Back Issue!]]|issue=71|pages=50–51|publisher=[[TwoMorrows Publishing]] |date=April 2014|location=Raleigh, North Carolina}}</ref> Kupperberg has since said he is not proud of the reboot, remarking that "[I was] missing the point of the Doom Patrol. The original group were outsiders and freaks, while my new guys were just comic-book superheroes. I was young and inexperienced and new to writing, with about two years under my belt before getting the gig."<ref name="backKupp"/>
+
+The new team is led by [[Celsius (comics)|Celsius]] (Arani Desai), [[Chief (comics)|the Chief]]'s previously-unseen wife, who recreates the Doom Patrol to protect herself from General Immortus. Robotman is the only survivor of the original Doom Patrol, and his ruined body is replaced by a new, futuristic one built by [[Will Magnus|Dr. Will Magnus]]. The Negative Spirit now possesses Russian [[cosmonaut]] [[Valentina Vostok]], making her Negative Woman (although its presence does not render her radioactive), and she is able to transform her own body into its form rather than sending it out under control. The final member is Tempest aka [[Joshua Clay]], a Vietnam veteran/deserter who fires energy blasts from his hands.<ref name="vert-ency">{{Cite book | last = Irvine | first = Alex | author-link = Alexander C. Irvine | contribution = Doom Patrol | editor-last = Dougall | editor-first = Alastair | title = The Vertigo Encyclopedia | pages = 61–63 | publisher = [[Dorling Kindersley]] | place = New York | year = 2008 | isbn = 978-0-7566-4122-1 | oclc = 213309015 }}</ref>
+
+This new version of the team did not receive its own series following its three-issue tryout. Kupperberg said this was most likely due to poor sales, as even in the months prior to the [[DC Implosion]] he heard no word of a new ''Doom Patrol'' series.<ref name="backKupp"/> However, the team did receive a series of guest appearances in various DC titles, such as ''[[Superman Family]]'' (in a three part arc in the [[Supergirl (Kara Zor-El)|Supergirl]] feature that was intended for the recently canceled ''[[Super-Team Family]]''),<ref>{{Citation|last = Wells|first = John|title = 'Lost' DC: 1976–1980|newspaper = [[Comics Buyer's Guide]]|issue = 1249|page = 128|date = October 24, 1997}}</ref> ''[[DC Comics Presents]]'' (teaming up with [[Superman]] in a story which revealed that Vostok's powers had changed to match Larry Trainor's exactly), and ''[[Supergirl (comic book)|Supergirl]]''. Robotman also appeared as an occasional supporting character in the [[Marv Wolfman]] and [[George Pérez]] era of ''[[Teen Titans]]'', where it was revealed that Changeling, formerly DP associate [[Beast Boy]], had arranged for Dayton Industries technicians to recreate the Caulder body design for Cliff. His first storyline here had him, the Titans, and a new [[Brotherhood of Evil]] battle [[Madame Rouge]] and [[General Zahl]], the murderers of the original Doom Patrol, who died in the battle.
+
+[[Eclipse Comics]] published ''Doom Patrol: The Official Index'' with covers drawn by [[John Byrne (comics)|John Byrne]] in 1984. The two-part series included all of their appearances from ''My Greatest Adventure'' #80 to their final appearance before their 1980s return.
+
+===Post-''Crisis'' relaunch (volume 2, part 1)===
+Kupperberg's enthusiasm for the Doom Patrol remained, and in addition to writing some of the team's post-''Showcase'' appearances, he eventually wrote a proposal for a new Doom Patrol series.<ref name="backKupp"/> The proposal was green-lit, and Kupperberg laid the groundwork for the new series by writing the John Byrne-illustrated ''Secret Origins Annual'' #1, published in 1987, which recapped the origins of the two iterations of the Doom Patrol that had existed thus far. In October 1987, DC relaunched ''Doom Patrol'', written by Kupperberg and illustrated by [[Steve Lightle]].<ref>Manning, Matthew K. "1980s" in Dolan, p. 229: "October [1987] saw a new ''Doom Patrol'' series, by writer Paul Kupperberg and artist Steve Lightle."</ref> Lightle took on the assignment with reluctance, having read and disliked Kupperberg's new Doom Patrol in ''Showcase'' #94–96, and soon quit due to several grievances, such as not being involved in plotting the comic despite the editor repeatedly promising that he would be.<ref>{{cite journal|last=Browning|first=Michael |title=The Doom Patrol Interviews: Steve Lightle|journal=[[Back Issue!]]|issue=65 |pages=46–51 |publisher=[[TwoMorrows Publishing]]|date=July 2013|location=Raleigh, North Carolina}}</ref> He was replaced by a young [[Erik Larsen]] after issue #5. Kupperberg later commented, "I like Erik's work, but I don't think he was exactly right for the Doom Patrol. To tell the truth, I don't think either Erik or myself were happy with the arrangement, but we did our best to make it work."<ref name="backKupp"/> For his part, Larsen said he was perfectly happy on the series, in part because on the few occasions where he disliked an aspect of Kupperberg's plots, he would simply revise the plot when he drew the issue. In retrospect, Larsen felt that this practice was overstepping his bounds, but said the editor never objected to it.<ref>{{cite journal|last=Browning|first=Michael |title=The Doom Patrol Interviews: Erik Larsen |journal=[[Back Issue!]]|issue=65|pages=52–54 |publisher=[[TwoMorrows Publishing]]| date=July 2013|location=Raleigh, North Carolina}}</ref>
+
+This incarnation was a more conventional superhero series than the original volume.<ref name="backKupp"/> It included new members who were hired to the team: the magnetically empowered strong-girl [[Rhea Jones|Lodestone]] (Rhea Jones); Karma (Wayne Hawking), whose psychic power make anyone trying to attack him fall over themselves; and Scorch (Scott Fischer), whose body generates phenomenal quantities of heat focused through his hands, requiring him to wear protective gloves at all times. A [[DC Comics Bonus Book]] appeared in issue #9 (June 1988).<ref>[http://www.comics.org/issue/44527/ ''Doom Patrol'' #9] {{Webarchive|url=https://web.archive.org/web/20201115211607/https://www.comics.org/issue/44527/ |date=November 15, 2020 }} at the Grand Comics Database</ref> According to Kupperberg, sales on the series "started out okay, and descended to the point where I was removed from the book and replaced by [[Grant Morrison]] in the hopes he could salvage the title."<ref name="backKupp"/>
+
+===Grant Morrison's ''Doom Patrol'' (volume 2, part 2)===
+After the first 18 issues (and various crossovers and annuals), Kupperberg was replaced by [[Grant Morrison]] and the comic was no longer submitted to the [[Comics Code Authority|CCA]] for approval (relieving the stories and images depicted of several constraints), starting with issue #19. Kupperberg agreed to help Morrison by writing out characters Morrison did not want to use: Celsius and Scott Fischer died before issue #18 - Celsius was killed in an explosion in DC Comics' "[[Invasion! (DC Comics)|Invasion!]]" event, and Scott Fischer (already suffering from a recurrence of childhood leukemia) was the only known active superhero casualty of the [[Dominators (DC Comics)|Dominators]]' gene-bomb (also in "Invasion!"); Karma had left the team as he was still on the run from the law (he became a member of the [[Suicide Squad]] and died on his first mission with them in the "[[War of the Gods (comics)|War of the Gods]]" crossover event); the Negative Spirit left Negative Woman's body; and Lodestone plunged into a coma, where she would remain for the first half of Morrison's run on the book. Tempest gave up fieldwork to become the team's physician. Conversely, Morrison picked up a throw-away character from ''DP'' #14, who was slipped into the art on the last page of #18 to set up Morrison's use: [[Dorothy Spinner]] is an ape-faced girl with powerful "imaginary friends." Morrison also substantially retooled Negative Man: Larry Trainor (revealed to be alive in the Kupperburg run, as a prisoner of an underground society but now powerless) is forcibly merged with the Negative Spirit (now a cosmic entity) and a black doctor named Dr. Eleanor Poole, to create a multigender multiracial gestalt entity known as Rebis. The new writer introduced some new characters to the team, including the multiple personality-afflicted [[Crazy Jane]] and sentient neighborhood [[Danny the Street]].
+
+Morrison used DC's ''Invasion'' crossover to restart the book. They incorporated bizarre [[secret society|secret societies]], elements of [[Dada]], [[surrealism]], and the [[cut-up technique]] pioneered by [[William S. Burroughs]] and [[Brion Gysin]]. They also borrowed the ideas of [[Jorge Luis Borges]] and [[Heinrich Hoffmann (author)|Heinrich Hoffmann]]. The original creator, Arnold Drake, said Morrison's was the only subsequent run to reflect the intent of the original series.<ref>{{cite web| url = http://www.comicbookresources.com/?page=article&id=15513| title = I Hardly Knew You| access-date = April 3, 2007| last = Johnston
+| first = Rich| author-link = Rich Johnston| date = March 12, 2007| work = [[Lying in the Gutters]]| publisher = [[CBR.com]]| archive-date = November 15, 2020| archive-url = https://web.archive.org/web/20201115211607/https://www.cbr.com/273325-2/| url-status = live
+}}</ref>
+
+[[File:Doom Force special July 1992.jpg|thumb|150px|right|Cover of ''Doom Force'' one-shot, parody of X-Force.  Art by [[Keith Giffen]] and [[Mike Mignola]].]]
+Over the course of the series, Morrison dedicated some issues to parody and homage. [[Willoughby Kipling]] led the Doom Patrol on a parody of the Brujería story arc of ''[[Swamp Thing]]: A Murder of Crows'' in issues #31–32. Issue #42 featured the origin of [[Flex Mentallo]], who was supposed to be the character in the [[Charles Atlas]] ad.  A belated lawsuit from the Charles Atlas Company showed that DC was protected under [[Fair Use]] doctrine in addition to an expired [[statute of limitations]].<ref>{{cite news | url=https://www.nytimes.com/2000/08/31/nyregion/charles-atlas-complaint-held-as-legal-weakling.html | work=The New York Times | first=John | last=Sullivan | title=Charles Atlas Complaint Held as Legal Weakling | date=August 31, 2000 | access-date=April 6, 2017 | archive-date=November 15, 2020 | archive-url=https://web.archive.org/web/20201115211605/https://www.nytimes.com/2000/08/31/nyregion/charles-atlas-complaint-held-as-legal-weakling.html | url-status=live }}</ref> Issue #53 featured a dream sequence that mimicked the [[Stan Lee]]/[[Jack Kirby]] ''Fantastic Four'', borrowing plot points both from the Galactus Trilogy (FF #48–50) and FF #51, "This Man, This Monster." A 1992 special called ''Doom Force'' was released as a one-shot and was meant to mimic and parody the ''[[X-Force]]'' book by [[Rob Liefeld]]. Issue #45 parodied Marvel's [[Punisher]] and Alan Moore in a satire called the Beard Hunter, a perpetually clean-shaven serial killer who murders bearded men and targets the Chief.
+
+Morrison's villains were extremely unusual and strange, even by Doom Patrol's eccentric standards. For example:
+*Red Jack is a near-omnipotent being who thinks he is both [[Jack the Ripper]] and [[God]]. He lives in a house without windows, torturing butterflies to create the pain he needs to survive.
+*[[Brotherhood of Dada|The Brotherhood of Dada]] are an anarchistic group who fight against reality and reason. It features members such as Sleepwalk, who can only use her tremendous powers when asleep (she takes sleeping pills and listens to [[Barry Manilow]] before battles), and The Quiz, who has "every superpower you hadn't thought of" and a pathological fear of dirt.
+*The [[Scissormen]], a race of beings that attack non-fictional beings in the "real world" (i.e., the world the Doom Patrol live in) with their large scissor-like hands and cut people out of reality.
+
+In issue #57, it was revealed that the Chief had secretly caused the "accidents" which turned Cliff, Larry Trainor, and Rita Farr into super beings. Chief stated he caused them to gain their powers (or in the case of Robotman, destroyed his original body in order to obtain his brain to put into his robot body) because of his hatred for them. He felt they were spoiled and narcissistic as well as shallow individuals, and that by turning them into "freaks," he could "improve" them as human beings. He further revealed that he lied about not being married to Celsius (the leader of the second Doom Patrol, who Caulder claimed was insane/lying about being married to him) out of anger. He was upset over how the experiments performed on her (like with Elasti-Girl) only gave her super-powers and did not turn her into a freak. When Tempest and Robotman found out his role in "creating" Robotman, Elasti-Girl, and Negative Man, Tempest was killed and Robotman paralyzed. Having been exposed as a villain, Caulder planned to unleash [[nanobots]] into the world, hoping to create a [[catastrophe theory|catastrophe]] that would "improve" humanity, regardless of the carnage it would cause. But Caulder's plan was hijacked by the Candlemaker, a violent cosmic horror who is freed by Dorothy in exchange for his resurrection of Tempest (who Candlemaker re-killed). Candlemaker then decapitated Caulder and sought to use the nanobots to enslave humanity. Dorothy, Crazy Jane, and Robotman (freed by the former two) defeated Candlemaker with help from the new reborn version of Rebis. Rebis briefly left the team to mate with a double of himself in order to be "reborn" in a new body as part of a cosmic ritual. However, during the battle, Jane was sent flying into a portal and landed in a world without heroes. Forcibly institutionalized for her mental issues in this new world, the final issue of Morrison's run had Robotman locate Jane as she was about to kill herself and take her to live with Cliff within the confines of Danny the Street.
+
+===Rachel Pollack's ''Doom Patrol'' (volume 2, part 3)===
+Morrison left the book with issue #63, and [[Rachel Pollack]] took over writing the book the next issue. Pollack's first issue was also the first under the new [[Vertigo Comics|Vertigo]] imprint of DC Comics (although the trade paperback editions of Morrison's work do bear the imprint, the original issues did not). Returning characters for Rachel Pollack's run included Cliff Steele, Niles Caulder (kept alive by the nanobots, but reduced to a disembodied head, usually kept on a tray filled with ice), and Dorothy Spinner. Pollack's run had Dorothy as a primary member of the Patrol; she brought her imaginary friends to her aid in combat. Overall, Pollack's run dealt with issues such as the [[generation gap]], [[Human condition|humanity]], [[Personal identity|identity]], [[transgender |transgender issues]], [[bisexuality]], and borrowed elements from [[Judaism]] and [[Kabbalah]] in the last few issues. The angel [[Akatriel]] is used as a major character in the last seven issues.
+
+The first story arc of her run was called "Sliding in the Wreckage". Cliff's computer brain started to malfunction, and he regressed into flashbacks from previous storylines. Dorothy was haunted by African spirits while dealing with living alone in the real world. The Chief was given a new body by Will Magnus, but to atone for his sins, Caulder ripped his head off the body and was kept in cryogenic storage. Meanwhile, the entire Earth had been suffering from random outbreaks of weirdness, contributed by the arrival of something called "The Book of Ice." A government agency known as the Builders, similar to the Men from N.O.W.H.E.R.E., were trying to stop the outbreak, which was apparently linked to a race of shapeshifters known as the Teiresias. As the Chief was kept in a cryogenic state, he appeared in the land of the Teiresias as a face carved in a mountain. They warned him that his arrival in this world was causing the craziness in the real world. Throughout the storyline, little people with backward letters for heads had been seen altering people. These people were apparently older version of nanomachines, referred to as "nannos". At the Doom Patrol headquarters, Builder agents attacked, and in the craziness, two of the Teiresias approached Dorothy with a new brain for Cliff, but to insert it she needed the Chief's expertise. In the Teiresias world, nannos "repaired" the Chief so he could live as a severed head. After his awakening, the craziness seemed to stop, and Dorothy, Cliff, and the Chief each realized that they needed to be together.
+
+The team relocated to Violet Valley's Rainbow Estates, a house haunted by ghosts of those who died in sexual accidents. There, three new members joined. The Bandage People, George and Marion, who were once two workers for the Builders but managed to escape; and the Inner Child, a manifestation of the ghosts' purity and innocence. Another later newcomer of the team was Kate Godwin, aka [[Coagula]], one of the first transgender superheroes. A one-time ally of the team called the Identity Addict, who could become different superheroes by shedding her skin like a lizard, integrated herself back into the team while using the False Memory identity to change the team's memories until she was kicked out by Dorothy.
+
+Villains that the team fought, besides the Builders, included the Fox and the Crow, two animal spirits whose feud Dorothy and Cliff were subsequently pulled into; the Master Cleaner, a being with a human fetus inside a bubble for a head who began "cleaning" the world by stripping it down to nothing and replacing the stolen items, including people, with a paper ticket; and a group of Hassidic healers who called themselves the False Healers and their leader, the Rabbi of Darkness.
+
+Toward the end of the series, Cliff Steele's brain became entirely robotic, until Dorothy Spinner used her imaginary friends to "repair" it. The Chief would later die after trying to enter the [[Sephirot]] or Tree of Life.
+
+A new artist, [[Ted McKeever]], took over the artwork for most of the final 13 issues. Pollack continued writing the title until its cancellation with issue #87, in February 1995.
+
+===John Arcudi's Doom Patrol (volume 3)===
+In December 2001, writer [[John Arcudi]] and artist [[Tan Eng Huat]] launched a new ''Doom Patrol'' series. This relaunch was not under the Vertigo imprint and returned the title to the mainstream DC universe. The series lasted for 22 issues before it was cancelled.
+
+Arcudi's run largely ignored Morrison and Pollack's runs at first; Arcudi stated in interviews at the time, that the disconnect with the Vertigo run was due to DC editorial having an agreement in play banning writers from using characters and concepts from his run; most notably Rebis/Negative Man and Crazy Jane. However, due to negative fan response to the run; Arcudi was allowed to make reference to the Vertigo series to explain what had happened to the characters from the Pollack run.
+
+The run featured two Doom Patrols: a corporate run Doom Patrol employed by Thayer Jost for Jost Enterprises featuring existing DC characters (Metamophoro, Elongated Man, the second Doctor Light and Beast Boy) and a second "underground" Doom Patrol, run by Robotman and featuring new characters: Fast Forward who could look 60 seconds into the future, Kid Slick who could become entirely frictionless, [[Fever (DC Comics)|Fever]] who could set herself alight, and Freak who possessed mysterious powers from a patristic entity in her soul. The later Doom Patrol were the main characters of the run, with the Jost owned group disbanding when it is revealed by Metamorpho that Robotman had reportedly died four years earlier which results in the 'imposter' Robotman in the team to vanish into nothingness.<ref>''Doom Patrol'' Vol. 3 #5</ref>
+
+The Doom Patrol later rebuild the real Robotman once they recover his head and come to an agreement that Thayer Jost will fund the group so long as Jost has the distributing rights to the Doom Patrol which he uses to create a Doom Patrol TV series based on the Silver Age Team. Over the course of the run Fast Forward loses control of his powers when he tries to look beyond 60 seconds into the future and has to suppress them with medicine in order to function while Kid Slick and Fever start a relationship with one another despite the latter accidentally hospitalising  the former with her powers. It is later revealed that part of Robotman's agreement with Jost involves Jost funding for Dorothy Spinner's healthcare as she has been in a coma for the last four years, Cliff deduces that the 'imposter' Robotman was an imaginary Cliff that Dorothy had subconsciously manifested.<ref>''Doom Patrol'' Vol. 3 #9</ref>
+
+Visiting Dorothy, Cliff regained his lost memories and how Dorothy became comatose. Deciding to end the Doom Patrol, Colagula and Cliff took Dorothy to Kentucky to meet her previously unknown birth mother to offer Dorothy a chance at a more 'normal' life, but fearing that Colagula and Cliff were abandoning her, Dorothy had an explosive psychic outburst that reportedly killed Colagula and Cliff, and left her comatose. After finding out that Dorothy was permanently brain dead, Cliff gave the doctors permission to turn off her life support.<ref>''Doom Patrol'' Vol. 3 #22</ref> The death of Dorothy ended Robotman's contract with Jost resulting in Fast Forward, Fever, Kid Slick and Freak being evicted and striking out together with royalty money that Jost gave them from his Doom Patrol TV series, while Cliff set off into the world once again alone.
+
+Arcudi's new characters have made very few subsequent appearances, mainly constituting cameos.
+
+===John Byrne's ''Doom Patrol'' (volume 4)===
+In August 2004, DC launched a new ''Doom Patrol'' series after the new team debuted in ''[[Justice League|JLA]]''. [[John Byrne (comics)|John Byrne]] wrote and illustrated this series, with inks by [[Doug Hazlewood]]. Touted as "Together again for the first time!", Byrne rebooted the series, eliminating all previous Doom Patrol continuity.<ref>[http://www.icv2.com/articles/news/4422.html "John Byrne Reboots the Doom Patrol: Writing and Penciling New Issue Due Out in June,"] {{Webarchive|url=https://web.archive.org/web/20201115211537/https://icv2.com/articles/comics/view/4422/john-byrne-reboots-doom-patrol |date=November 15, 2020 }} ICv2 (March 12, 2004).</ref>
+
+The series debuted as part of a six-part storyline that ran in ''JLA'' #94–99 as "The Tenth Circle", though Byrne only drew this arc as it was written by Chris Claremont.
+
+This reboot was both controversial and short-lived.<ref>Tipton, Scott. [http://www.asitecalledfred.com/comics101/72.html "Comics 101: Gloom and Doom,"] {{webarchive |url=https://web.archive.org/web/20110707175116/http://www.asitecalledfred.com/comics101/72.html |date=July 7, 2011 }} Movie Poop-Shoot (July 7, 2004).</ref> Besides the removal of the popular Morrison run (and its characters) from canon and the [[butterfly effect]] it had on the Teen Titans  (which did its best to limit references to Beast Boy's past and avoided using the Brotherhood of Evil until the Byrne run was canceled and Geoff Johns could restore the previous lore),the series garnered controversy over a scene where Robotman and Elasti-Girl are sent back in time and inhabit their younger selves' bodies. During their time in the past, Robotman declares his love for Elasti-Girl. However, due to an age gap between the two heroes, Rita is trapped in her twelve-year-old self's body when the adult Cliff reveals his romantic feelings and kisses her. DC canceled Byrne's series with issue #18. The events in DC's ''[[Infinite Crisis]]'' crossover saw the restoration of the Doom Patrol's full continuity, with the inclusion of all previous incarnations  with the reveal that Superboy Prime had "retcon punched" the previous versions of Doom Patrol from existence and for him to "retcon punch" them back into existence after being shot with an arrow that briefly imprisoned Superboy Prime into a rectangular shaped mini-Phantom Zone by Speedy II.
+
+==="Infinite Crisis" and "One Year Later"===
+DC editorial used the events of the "[[Infinite Crisis]]" storyline to restore the Doom Patrol's continuity. In escaping from the paradise dimension they had inhabited since the end of ''[[Crisis on Infinite Earths]]'', [[Superboy-Prime]] and [[Alexander Luthor, Jr.|Alex Luthor]] created temporal ripples which spread throughout reality, causing overlaps on parallel timelines of certain events ([[Hypertime]]), such as restoring [[Jason Todd]] to life.
+
+In the reprinted edition of ''Infinite Crisis'', additional scenes added to the collection showed Fever, Kid Slick, Ava, Nudge, Grunt, and Vortex among a two-page spread of heroes.<ref>''Infinite Crisis'' Hardcover Edition.</ref>
+
+While assisting the Teen Titans in battling Superboy-Prime, members of the Doom Patrol had flashbacks to their original history. Robotman and Niles Caulder regained memories of the previous Doom Patrol teams with which they had worked. This battle apparently undid some of Superboy-Prime's timeline changes and resulted in a timeline incorporating all previous incarnations of the Doom Patrol, but with Rita Farr and Larry Trainor still alive. The Chief confirmed that Rita was indeed killed by Zahl's explosion. The Chief claimed that he later found her skull and treated it with synthetic proteins until her malleable body was regrown from it.<ref>''Teen Titans'' vol. 3, #36.</ref>
+
+Steve Dayton is again using the [[Mento (comics)|Mento]] helmet and he is mentally unstable; however, he remembers his time as the Crime Lord. The Chief appears to be manipulating the Doom Patrol members once again; he claims to wish to return them to normal so "maybe one day [they] won't be freaks anymore." After the Doom Patrol encounters the Titans, the Chief tells them that [[Kid Devil]] should be a member of the Doom Patrol instead of the Titans, since his unique appearance and nature will always separate him from others. However, Beast Boy, Elasti-Girl, and Mento all stand up to the Chief and force him to step down as the Doom Patrol's leader, with Mento taking over that role.
+
+Two former members of the Teen Titans were dramatically altered during the course of the "Infinite Crisis". [[Mal Duncan]], now code-named Vox, and his wife ([[Bumblebee (comics)|Bumblebee]]) now reside in the Doom Patrol's castle headquarters.
+
+The Doom Patrol later appear in ''The Four Horsemen'' series (2007), with Caulder back in charge. According to ''Titans'' (vol. 2) #1, Beast Boy has recently become the team leader.
+
+In ''DC Universe: Decisions'', Robotman has a supporting role while Mento appears in issue #4.
+
+===Keith Giffen's ''Doom Patrol'' (volume 5)===
+On February 7, 2009, it was announced at the [[New York Comic Con]] that [[Keith Giffen]] would be spearheading a revival of Doom Patrol, a title which he has long said he wanted to write.<ref>[http://www.comicbookresources.com/?page=article&id=19932 NYCC: Giffen New Chief of "Doom Patrol"] {{Webarchive|url=https://web.archive.org/web/20130420004537/http://www.comicbookresources.com/?page=article&id=19932 |date=April 20, 2013 }}, [[Comic Book Resources]], February 7, 2009</ref><ref>[http://www.newsarama.com/comics/090226-giffen-doom-patrol.html Dr. Doom Patrol – Keith Giffen Looks to Healthy New Era] {{Webarchive|url=https://web.archive.org/web/20201115211606/https://www.gamesradar.com/newsarama/ |date=November 15, 2020 }}, [[Newsarama]], February 26, 2009</ref> He was joined by artist Matt Clark, who has also long expressed a desire to work on the team.<ref>[http://www.comicbookresources.com/?page=article&id=10719 REFLECTIONS #214: Matthew Clark] {{Webarchive|url=https://web.archive.org/web/20201115211544/https://www.cbr.com/reflections-214-matthew-clark/ |date=November 15, 2020 }}, [[Comic Book Resources]], July 9, 2007</ref> The new series focused on the core members Elasti-Girl, Negative Man, Robotman, and the Chief, while other members such as Mento, Bumblebee, and Vox were to be seen later. The title launched with a 10-page ongoing [[Metal Men]] co-feature written by [[J. M. DeMatteis]].<ref>[http://www.comicbookresources.com/?page=article&id=20099 J.M. DeMatteis Finds His Inner Magnus on "Doom Patrol"] {{Webarchive|url=https://web.archive.org/web/20141017063222/http://www.comicbookresources.com/?page=article&id=20099 |date=October 17, 2014 }}, [[Comic Book Resources]], February 18, 2009</ref><ref>[http://www.newsarama.com/comics/040908-Metal-Men.html Back to the Shop: J.M. DeMatteis on the Metal Men] {{Webarchive|url=https://web.archive.org/web/20201115211540/https://www.gamesradar.com/newsarama/ |date=November 15, 2020 }}, [[Newsarama]]. April 9, 2009</ref>
+
+In the first issue, Rita takes on the alias "Elasti-'''Woman'''", and according to the team shrink, she's "mothering" Bumblebee, who's now eight inches tall after being shrunk—rather conveniently for her codename—to the size of a bee in ''Infinite Crisis''.
+
+Nudge, Byrne's addition to the team, was killed in the line of duty and Grunt took off with her corpse.
+
+The current team is working out of Oolong Island (from ''[[52 (comics)|52]]''), which has been turned into a resort town while still maintaining a large super-science background. The [[Challengers of the Unknown]]'s Rocky Davis is also working closely with the team for spiritual support.
+
+Former member Crazy Jane appears in issue #7. Danny the Street, in a reduced aspect, appears in issue #8.
+
+[[Ambush Bug]] joined the team at the end of issue #9.
+
+The series was canceled, due to a decrease in sales, with issue #22 in May 2011.
+
+===The New 52===
+In September 2011, [[The New 52]] rebooted DC's continuity. In this new timeline, the Doom Patrol is briefly mentioned in issue #24 of [[Justice League]]. The team is depicted to be identical in appearance to [[Paul Kupperberg]]'s 1977 Doom Patrol, consisting of members [[Celsius (comics)|Celsius]], [[Joshua Clay]], and [[Valentina Vostok|Negative Woman]], with additional members '''Karma''' and '''Scott Fischer'''.<ref>''Justice League'' Vol. 2 #24</ref>
+
+During the "[[Forever Evil]]" storyline, Valentina Vostok, Karma, and Scott are killed during a confrontation with [[Johnny Quick]] and Atomica of the [[Crime Syndicate of America#The New 52|Crime Syndicate]], while Celsius and Joshua Clay are presumably killed. Upon learning of his team's demise, [[Chief (comics)|Doctor Niles Caulder]] sets about assembling a new Doom Patrol.<ref>''Justice League'' Vol. 2 #27</ref>
+
+Following the defeat of the [[Crime Syndicate of America#The New 52|Crime Syndicate]], the newly created Doom Patrol is introduced in issue #30 of [[Justice League]]. The team includes '''Robotman''', '''Elasti-Girl''', '''Negative Man''' and M.I.A. Justice League member '''Element Woman''', whom Caulder refuses to let leave the group and tricks into thinking she was abandoned by the Justice League.
+
+The team attempt to capture Jessica Cruz, the new Power Ring, to force her to join the team. During their attempt to capture her, Caulder demands the team refuse to save civilians in a collapsing building to allow him to lobotomize Cruz and force her to serve him. The Justice League save the people in the building and Lex Luthor manages to hold Caulder back so Batman can convince Cruz to go with the League instead. During their fight, Luthor reveals that Caulder (as he did in the Morrison run) was responsible for causing the "accidents" that gave the Doom Patrol their powers and that both Celsius and Joshua Clay used the chaos of the events of ''Forever Evil'' to fake their deaths and escape from Caulder. It is also revealed that Caulder poisoned an entire fishing village as part of an experiment, and cured the residents only after Luthor discovered the truth and threatened to expose him.
+
+===Gerard Way's ''Doom Patrol'' (volume 6)===
+A new Doom Patrol series written by [[Gerard Way]] and drawn by Nick Derington was created as part of the [[Young Animal (DC Comics)|Young Animal]] imprint. The first issue was published on September 14, 2016. The series has created a multitude of original characters as well as some taken from former team rosters.
+
+Casey Brinke, a fictional character that [[Danny the Street|Danny The Street]] created in order to communicate with people through comic books, was contacted by Danny when he became threatened by a group of aliens known as Vectra. They wished to profit from his power to create life by turning his fictional people into cheap meat at a fast food restaurant. Danny reached out to Casey, hoping that she could find and join the Doom Patrol after explaining her origin story, both the fictional origin story he had created for her and how she had become a real person.
+
+Casey agreed to help. She piloted Danny, currently taking the form of an ambulance, into his attackers' headquarters, discovering that the leader of the organization was none other than her fictional father Torminox, accidentally brought to life when Vectra had tortured Danny. Alongside Torminox was an evil version of Casey, known as Doodle Bug. She was also created when Danny was tortured and reflects his concern regarding how Casey would become in the real world. Despite the family drama, Casey and the Doom Patrol defeated Vectra and freed Danny from Vectra's clutches.<ref name=":0">{{Cite book|title=Doom Patrol Vol. 1: Brick by Brick (Young Animal)|last=Way|first=Gerard|publisher=DC Comics|year=2017|isbn=978-1401269791}}</ref>
+
+Afterward, the team sets out to find [[Crazy Jane]], who was running a cult under the influence of her current dominant ego Dr. Harrison. Harrison wished to purge the 63 other personalities within Jane's mind by distributing them among the mind-controlled cult members using a gene bomb. After the process, she would kill them all. Jane and the team managed to stop this plan and save the cult members while also killing the Dr. Harrison personality within Jane.<ref name=":0" />
+
+The team is contacted by [[Niles Caulder]] in a later issue and embark on a mission with him leading. The mission goes haywire and it is revealed that Niles Caulder is gambling again, leading the team to evict him as a leader and as a member of the team. This marks the team embracing being a new iteration of the Doom Patrol.
+
+===''Doom Patrol: Weight of the Worlds''===
+{{expand section|date=November 2019}}
+First published in July 2019, ''Doom Patrol: Weight of the Worlds'' retained the oversight of [[Gerard Way]]'s [[Young Animal (DC Comics)|Young Animal]] imprint, and directly continued from the ending of Volume 6. The series saw the return of [[Elasti-Girl]] and [[Mento (character)|Mento]] to the team and a brief appearance of [[Beast Boy]]. The plot primarily concerned Cliff Steele acquiring a new robot body that was ever upgrading to the point that he became an entire planet in an attempt to protect the universe from hurt, motivated by his mother disowning him and the loss of [[Dorothy Spinner]].
+Cliff was eventually persuaded to stop by [[Crazy Jane]] who helped to deconstruct him into an infantile form.
+The series was cancelled in October 2019<ref>{{Cite web |url=https://www.bleedingcool.com/2020/01/15/late-doom-patrol-inferior-five-and-more/ |title=LATE: Doom Patrol, Inferior Five and More |date=January 15, 2020 |access-date=January 16, 2020 |archive-date=November 15, 2020 |archive-url=https://web.archive.org/web/20201115211607/https://bleedingcool.com/comics/late-doom-patrol-inferior-five-and-more/ |url-status=live }}</ref> and came to a conclusion with its seventh issue in July 2020.<ref>{{Cite web |url=https://www.dccomics.com/comics/doom-patrol-weight-of-the-worlds-2019/doom-patrol-weight-of-the-worlds-7 |title=Doom Patrol: Weight of the Worlds #7 &#124; DC |access-date=August 4, 2020 |archive-date=November 15, 2020 |archive-url=https://web.archive.org/web/20201115211539/https://www.dccomics.com/comics/doom-patrol-weight-of-the-worlds-2019/doom-patrol-weight-of-the-worlds-7 |url-status=live }}</ref>
+
+===''Infinite Frontier''===
+Following the cancellation of their series, Robotman, Elasti-Girl, and Negative Man were reintroduced to the main DC continuity, alongside Niles Caulder, in issue #1 of ''Batman/Superman: World's Finest''. The series saw the team help the titular superheroes defeat [[Metallo]], and later performing surgery on Superman in order to cure him from [[Red Kryptonite|red kryptonite]] poisoning.<ref>''Batman/Superman: World's Finest Vol. 1 #2</ref>
+
+==Other versions==
+===Tangent Comics===
+In 1997, DC released the ''[[Tangent Comics]]'' series of books, built on the premise of a world that diverged from the mainstream following the events of the [[Cuban Missile Crisis]]. The series featured characters with the same names as mainstream DC characters but were otherwise unrelated to them. The series included a one-shot ''Doom Patrol'' title. This Doom Patrol consisted of four heroes: [[Doomsday (comics)|Doomsday]], [[Star Sapphire (comics)|Star Sapphire]], [[Firehawk (comics)|Firehawk]], and [[Rampage (DC Comics)|Rampage]]. The heroes traveled back in time from 2030 to 1997 to prevent Earth's destruction. The Tangent books were later integrated into the [[Multiverse (DC Comics)|DC Multiverse]] (as [[List of DC Multiverse worlds#Catalogued|Earth-9]]) as part of the events of ''[[Infinite Crisis]]''.
+
+===Just Imagine...===
+In [[Stan Lee's]] ''[[Just Imagine...]]'', a version of the Doom Patrol appeared as villains under the Reverend Darrk, as three [[death row]] criminals are under his son [[Adam Strange|Adam]]'s control later on against the JLA. They consisted of crime boss Brock Smith/[[Blockbuster (DC Comics)|Blockbuster]], serial killer Lucinda Radama/[[Parasite (comics)|Parasite]], and criminal Deke Durgan/[[Deathstroke]]. 
+<ref>''Just Imagine..." JLA #1</ref>
+
+==Collected editions==
+===''My Greatest Adventure''/Volume 1===
+Drake and Premiani's run is available in color as:
+
+{| class="wikitable sortable"
+|-
+! Title
+! Material collected
+! Year
+! ISBN
+|-
+|''The Doom Patrol Archives Volume 1''
+|''My Greatest Adventure'' Vol.1 #80–85; ''Doom Patrol'' Vol. 1 86–89
+|2002
+|{{ISBN|1-5638-9795-4}}
+|-
+|''The Doom Patrol Archives Volume 2''
+|''Doom Patrol'' Vol. 1 #90–97
+|2004
+|{{ISBN|1-4012-0150-4}}
+|-
+|''The Doom Patrol Archives Volume 3''
+|''Doom Patrol'' Vol. 1 #98–105; ''Challengers of the Unknown'' Vol. 1 #48
+|2006
+|{{ISBN|1-4012-0766-9}}
+|-
+|''The Doom Patrol Archives Volume 4''
+|''Doom Patrol'' Vol. 1 #106–113
+|2007
+| {{ISBN|1-4012-1646-3}}
+|-
+|''The Doom Patrol Archives Volume 5''
+|''Doom Patrol'' Vol. 1 #114–121
+|2008
+| {{ISBN|978-1-4012-1720-4}}
+|-
+|}
+
+It is available in black and white Showcase editions as well:
+
+{| class="wikitable sortable"
+|-
+! Title
+! Material collected
+! Year
+! ISBN
+|-
+|''Showcase Presents: The Doom Patrol'' Volume 1
+|''My Greatest Adventure'' Vol. 1 #80–85, ''Doom Patrol'' Vol. 1 #86–101
+|2009
+|{{ISBN|1-4012-2182-3}}
+|-
+|''Showcase Presents: The Doom Patrol'' Volume 2
+|''Doom Patrol'' Vol. 1 #102–121
+|2010
+|{{ISBN|1-4012-2770-8}}
+|-
+|}
+
+An omnibus collecting the entire run was also released.
+
+{| class="wikitable sortable"
+|-
+! Title
+! Material collected
+! Year
+! ISBN
+|-
+|''Doom Patrol: The Silver Age Omnibus''
+|''My Greatest Adventure'' Vol. 1 #80–85; ''Doom Patrol'' Vol. 1 #86–121; ''The Brave and the Bold'' Vol. 1 #65; ''Challengers of the Unknown'' Vol. 1 #48
+|2017
+|{{ISBN|978-1401273552}}
+|-
+|''Doom Patrol The Silver Age Vol. 1''
+|''My Greatest Adventure'' Vol. #80-85; ''Doom Patrol'' Vol. 1 #86-95
+|2018
+|{{ISBN|978-1401281113}}
+|-
+|''Doom Patrol The Silver Age Vol. 2''
+|''Doom Patrol #96-107; Challengers of the Unknown #48;  The Brave and the Bold #65''
+|2020
+|{{ISBN|978-1779500984|}}
+|-
+|}
+
+Issues #122–124 of ''Doom Patrol'' are reprinted material.
+
+===Volume 2===
+Of the 87 issues in the Paul Kupperberg/Grant Morrison/Rachel Pollack run, only Pollack's work has not been reprinted.
+
+A collected edition of Pollack's run was announced in May 2017,<ref>{{cite web |url=https://www.bleedingcool.com/2017/05/12/dc-comics-collects-rachel-pollacks-doom-patrol-first-time-2018/ |title=DC Comics Collects Rachel Pollack's Doom Patrol For The First Time In 2018 |date=May 12, 2017 |publisher=BleedingCool.com |access-date=December 21, 2017 |archive-date=November 15, 2020 |archive-url=https://web.archive.org/web/20201115211556/https://bleedingcool.com/comics/dc-comics-collects-rachel-pollacks-doom-patrol-first-time-2018/ |url-status=live }}</ref> but was cancelled in November 2017 with no explanation given.<ref>{{cite web |url=https://www.newsarama.com/37563-dc-cancels-rachel-pollack-s-doom-patrol-collection.html |title=DC Cancels Rachel Pollack's DOOM PATROL Collection |publisher=Newsarama |access-date=December 21, 2017 |archive-date=November 15, 2020 |archive-url=https://web.archive.org/web/20201115211541/https://www.gamesradar.com/newsarama/ |url-status=live }}</ref> However it is available digitally, both in single issues and as a collected edition.<ref>{{Cite web |url=https://www.comixology.com/Doom-Patrol-1987-1995/comics-series/7337 |title=Doom Patrol (1987-1995) Digital Comics - Comics by comiXology |access-date=April 30, 2019 |archive-date=November 15, 2020 |archive-url=https://web.archive.org/web/20201115211541/https://www.comixology.com/Doom-Patrol-1987-1995/comics-series/7337 |url-status=dead }}</ref>
+
+{| class="wikitable sortable"
+|-
+! Title
+! Material collected
+! Year
+! ISBN
+|-
+
+|''Superman: The Man of Steel'' Vol. 9
+|''Superman'' Vol. 2 #19–22; ''Adventures of Superman'' #441–444 and ''Superman Annual'' #2; ''Doom Patrol'' Vol. 2 #10
+|2016
+|{{ISBN|978-1401266370}}
+|-
+|''DC Through the 80s: The Experiments''
+|''[[Secret Origins]]'' #48, ''[[Swamp Thing (comic book)|The Saga of the Swamp Thing]]'' #40, ''[[The Sandman (comic book)|The Sandman]]'' #8, ''Doom Patrol'' Vol. 2 #25, ''[[Warlord (DC Comics)|The Warlord]]'' #48 and 55, ''[[Legion of Super-Heroes]]'' #298, ''[[Nathaniel Dusk]]'' #1, ''[[The Best of DC|The Best of DC: Blue Ribbon Digest]]'' #58, ''[[Watchmen]]'' #1, ''[[Camelot 3000]]'' #1, ''[[The Dark Knight Returns]]'' #2, ''[[Angel Love]]'' #1, ''[[History of the DC Universe]]'' #1-2
+|2021
+|{{ISBN|978-1779507099}}
+|-
+|''Doom Patrol: The Bronze Age Omnibus''
+|''[[Showcase (comics)|Showcase]]'' #94-96, ''[[DC Comics Presents]]'' #52, ''[[Supergirl (comic book)#Volume 2 (1982-1984)|Daring New Adventures of Supergirl]]'' #7-9, ''[[Secret Origins]] Annual'' #1, ''Doom Patrol'' Vol. 2 #1-18, ''Doom Patrol and Suicide Squad Special'' #1, ''[[Superman vol. 2|Superman Vol. 2]]'' #20, ''Doom Patrol Annual'' #1 and stories from ''[[The Superman Family]]'' #191-193
+|2019
+|{{ISBN|978-1401298838}}
+|-
+|''Crawling From the Wreckage''
+|''Doom Patrol'' Vol. 2 #19–25
+|2000
+|{{ISBN|1-56389-034-8}}
+|-
+|''The Painting That Ate Paris''
+|''Doom Patrol'' Vol. 2 #26–34
+|2004
+|{{ISBN|1-4012-0342-6}}
+|-
+|''Down Paradise Way''
+|''Doom Patrol'' Vol. 2 #35–41
+|2005
+|{{ISBN|1-4012-0726-X}}
+|-
+|''Musclebound''
+|''Doom Patrol'' Vol. 2 #42–50
+|2006
+|{{ISBN|1-4012-0999-8}}
+|-
+|''Magic Bus''
+|''Doom Patrol'' Vol. 2 #51–57
+|2007
+|{{ISBN|1-4012-1202-6}}
+|-
+|''Planet Love''
+|''Doom Patrol'' Vol.2 #58–63 and ''Doom Force'' #1
+|2008
+|{{ISBN|1-4012-1624-2}}
+|-
+|''Doom Patrol Book One''
+|''Doom Patrol'' Vol. 2 #19–34
+|2016
+|{{ISBN|1-4012-6312-7}}
+|-
+|''Doom Patrol Book Two''
+|''Doom Patrol'' Vol. 2 #35–50 
+|2016
+|{{ISBN|1-4012-6379-8}}
+|-
+|''Doom Patrol Book Three''
+|''Doom Patrol'' Vol. 2 #51–63, ''Doom Force'' #1
+|2017
+|{{ISBN|1-4012-6597-9}}
+|-
+|''Doom Patrol Omnibus''
+|''Doom Patrol'' Vol. 2 #19–63, ''Doom Force'' #1
+|2014
+|{{ISBN|978-1401245627}}
+|-
+|}
+
+====Volume 2-related miniseries====
+{| class="wikitable sortable"
+|-
+! Title
+! Material collected
+! Year
+! ISBN
+|-
+|''Flex Mentallo: Man of Muscle Mystery''
+|''Flex Mentallo'' #1–4
+|HC: 2012 <br> PB: 2014
+|HC: {{ISBN|978-1401232214}}<br> PB: {{ISBN|978-1401247027}}
+|-
+|}
+
+===Volume 4===
+
+{| class="wikitable sortable"
+|-
+! Title
+! Material collected
+! Year
+! ISBN
+|-
+|''Doom Patrol by John Byrne: The Complete Series''
+|''Doom Patrol'' Vol. 4 #1-18, ''JLA'' #94-99, material from ''Secret Origins Annual'' #1, and ''Superman'' Vol. 2 #20
+|2020
+|{{ISBN|978-1779500847}}
+|-
+|}
+
+===Volume 5===
+The Keith Giffen written ''Doom Patrol'' has been collected in the following trades:
+
+{| class="wikitable sortable"
+|-
+! Title
+! Material collected
+! Year
+! ISBN
+|-
+|''We Who Are About to Die''
+|''Doom Patrol'' Vol.5 #1–6
+|2010
+|{{ISBN|1-4012-2751-1}}
+|-
+|''Brotherhood''
+|''Doom Patrol'' Vol.5 #7–13
+|2011
+|{{ISBN|978-1401229986}}
+|-
+|}
+
+A third collection, titled ''Fire Away'' containing issues #14–22, was originally scheduled but never released.
+
+===Volume 6===
+The sixth volume of ''Doom Patrol'', written by [[Gerard Way]], is published under DC's ''Young Animal'' Imprint, headed by Way.
+
+{| class="wikitable sortable"
+|-
+! Title
+! Material collected
+! Year
+! ISBN
+|-
+|''Doom Patrol: Brick by Brick''
+|''Doom Patrol'' Vol. 6 #1–6
+|2017
+|{{ISBN|978-1401269791}}
+|-
+|''Doom Patrol: Nada''
+|''Doom Patrol'' Vol. 6 #7–12
+|2018
+|{{ISBN|978-1401275006}}
+|-
+|''Doom Patrol: Weight of the Worlds''
+|''Doom Patrol: Weight of the Worlds'' #1-7
+|2020
+|{{ISBN|978-1779500786}}
+|}
+
+==In other media==
+[[File:DoomPatrolPoster.jpg|thumb|right|upright|Promotional poster for the ''Doom Patrol'' series]]
+* Due to the success of ''[[The Superman/Aquaman Hour of Adventure]]'', [[Filmation]] had produced and planned pilots for multiple DC heroes in the hopes of jump starting a DC Comics cartoon hour, with one of the concept drawings featuring the Doom Patrol. However, the plans were cancelled when CBS secured the animation rights to [[Batman]] in the wake of ABC's recent success with the live-action [[Batman (TV series)|''Batman'' television series]] at the time.
+* The Doom Patrol appear in the ''[[Teen Titans (TV series)|Teen Titans]]'' two-part episode "Homecoming", consisting of [[Mento (character)|Mento]], [[Negative Man]], [[Robotman (Cliff Steele)|Robotman]], and [[Elasti-Girl]]. Additionally, [[Beast Boy]] was also a member of the team before he left and eventually joined the [[Teen Titans]].<ref>*[http://titanstower.com/source/animated/behindcomiconpanel2005.html 'San Diego Comicon 2005: Teen Titans Behind The Scenes', ''Titans Tower''] {{webarchive |url=https://web.archive.org/web/20051121081750/http://titanstower.com/source/animated/behindcomiconpanel2005.html |date=November 21, 2005 }} (July 19, 2005). Retrieved July 27, 2005.</ref>
+* The Doom Patrol appears in the ''[[Batman: The Brave and the Bold]]'' episode "The Last Patrol", consisting of the [[Chief (DC Comics)|Chief]], Elasti-Girl, Negative Man, and Robotman. This version of the team operated years prior until they failed to save a hostage amidst [[General Zahl]]'s invasion of Paris and disbanded. In the present, Batman helps the Doom Patrol come out of retirement when Zahl forms an alliance with the rest of the Doom Patrol's enemies to seek revenge. While Batman defeats Zahl, the Doom Patrol sacrifice themselves to save the town of Codsville, whose residents rename their town to "Four Heroes" in their memory.
+* The original Doom Patrol appear in a self-titled segment of ''[[DC Nation Shorts]]'', consisting of the Chief, Elasti-Girl, Negative Man, and Robotman.<ref>{{cite web |url=http://superheroshows.blogspot.co.uk/2012/03/first-look-at-doom-patrol-and-animal.html |title=Superhero Shows: First Look at Doom Patrol and Animal Man, Citizens of DC Nation |work=superheroshows.blogspot.co.uk |date=March 22, 2012 |access-date=August 5, 2018 |archive-date=November 15, 2020 |archive-url=https://web.archive.org/web/20201115211624/http://superheroshows.blogspot.com/2012/03/first-look-at-doom-patrol-and-animal.html |url-status=live }}</ref>
+* The Doom Patrol appear on ''[[Teen Titans Go!]]'', consisting of the Chief, Robotman, Elasti-Girl, and Negative Girl. Similarly to the ''Teen Titans'' series, Beast Boy was also a member before he joined the Teen Titans.<ref>{{cite web|url=https://www.comicsbeat.com/doom-patrol-teen-titans-go-special/|title=Beast Boy visits his Doom Patrol family in TEEN TITANS GO!|website=The Beat|last=Dar|first=Taimur|date=November 29, 2019|access-date=May 9, 2020|archive-date=November 15, 2020|archive-url=https://web.archive.org/web/20201115211611/https://www.comicsbeat.com/doom-patrol-teen-titans-go-special/|url-status=live}}</ref>
+* The Doom Patrol appear in a self-titled episode of ''[[Titans (2018 TV series)|Titans]]'',<ref>{{cite web |url=https://comicbook.com/dc/2018/02/09/titans-tv-series-dc-doom-patrol-geoff-johns |title=Doom Patrol Confirmed for 'Titans' TV Series |last=Ridgely |first=Charlie |work=Comicbook.com |date=February 9, 2018 |access-date=February 10, 2018 |archive-date=November 15, 2020 |archive-url=https://web.archive.org/web/20201115211610/https://comicbook.com/dc/news/titans-tv-series-dc-doom-patrol-geoff-johns/ |url-status=live }}</ref> consisting of the Chief, Elasti-Woman, Robotman, and Negative Man.
+* The Doom Patrol appear in the ''[[Young Justice: Outsiders]]'' episode "Nightmare Monkeys", consisting of the Chief, Mento, Elasti-Girl, Robotman, [[Valentina Vostok|Negative Woman]], and Beast Boy. This version of the team, barring Mento, Beast Boy, and Robotman, were all killed while on a mission years prior.
+* The Doom Patrol appear in a [[Doom Patrol (TV series)|self-titled TV series]],<ref>{{cite news |last=Petski |first=Denise |url=https://deadline.com/2018/05/doom-patrol-live-action-drama-series-greg-berlanti-order-dc-universe-1202390689/ |title='Doom Patrol' Live-Action Drama Series From Greg Berlanti Greenlighted By DC Universe |date=May 14, 2018 |access-date=May 14, 2018 |work=Deadline Hollywood |archive-date=March 28, 2019 |archive-url=https://web.archive.org/web/20190328164753/https://deadline.com/2018/05/doom-patrol-live-action-drama-series-greg-berlanti-order-dc-universe-1202390689/ |url-status=live }}</ref> consisting of the Chief, Robotman, Negative Man, Elasti-Woman, [[Crazy Jane|Jane]], and [[Cyborg (DC Comics)|Cyborg]]. Additionally, a 1950s incarnation of the team appears in the episode "Doom Patrol Patrol", consisting of the Chief, Mento, [[Joshua Clay]], [[Celsius (character)|Arani Desai]], and [[Rhea Jones]].
+** The present day Doom Patrol also make a cameo appearance in the [[Arrowverse]] crossover "[[Crisis on Infinite Earths (Arrowverse)|Crisis on Infinite Earths]]" via archive footage of a deleted scene from a season one episode.<ref>{{Cite web |url=https://www.looper.com/179414/every-crisis-on-infinite-earths-cameo-ranked/ |title=Every Crisis on Infinite Earths cameo ranked |last=Martin |first=Michileen |date=January 15, 2020 |website=Looper |url-status=live |archive-url=https://web.archive.org/web/20200402174627/https://www.looper.com/179414/every-crisis-on-infinite-earths-cameo-ranked/ |archive-date=April 2, 2020 |access-date=April 2, 2020}}</ref>
+
+==See also==
+* [[List of Doom Patrol members]]
+* [[List of Doom Patrol enemies]]
+
+==References==
+{{Reflist}}
+* Callahan, Timothy (2007) [http://www.sequart.org/books/1/grant-morrison-the-early-years/ Grant Morrison: The Early Years]. Masters of the Medium. [http://www.sequart.org/ Sequart Research & Literacy Organization]. {{ISBN|978-0-615-21215-9}}
+
+==External links==
+* [http://en.dcdatabaseproject.com/Doom_Patrol Doom Patrol] at the DC Database Project
+* [http://toonopedia.com/doompatr.htm Doom Patrol] at [[Don Markstein's Toonopedia]]. [https://www.webcitation.org/6gyA5vVhV?url=http://toonopedia.com/doompatr.htm Archived] from the original on April 22, 2016.
+* {{cite web|last= Khouri|first= Andy|url= http://www.comicbookresources.com/?page=article&id=10722|title= Grant Morrison: The Early Years – Part III: "Doom Patrol"|publisher= [[ComicBookResources.com]]|date= July 9, 2007|access-date= April 22, 2016|archive-date= May 7, 2016|archive-url= https://web.archive.org/web/20160507221958/http://www.comicbookresources.com/?page=article&id=10722|url-status= live}}
+* {{gcdb|type=character|search=Doom+Patrol|title=Doom Patrol}}
+* {{comicbookdb|type=team|id=108|title=Doom Patrol (I)}}
+* {{comicbookdb|type=team|id=55|title=Doom Patrol (II)}}
+* {{comicbookdb|type=team|id=233|title=Doom Patrol (III – Morrison)}}
+* {{comicbookdb|type=team|id=234|title=Doom Patrol (IV – Arcudi)}}
+* {{comicbookdb|type=team|id=63|title=Doom Patrol (V – Byrne)}}
+*[http://www.waitingfordoom.com Waiting For Doom] fan made podcast, reviewing all issues of the Doom Patrol
+
+{{Doom Patrol|state=expanded}}
+{{Steel}}
+{{Teen Titans}}
+{{Justice League characters}}
+{{Grant Morrison}}
+{{Vertigo Comics Ongoing Series}}
+
+[[Category:Doom Patrol| ]]
+[[Category:DC Comics titles]]
+[[Category:DC Comics franchises]]
+[[Category:Comics characters introduced in 1963]]
+[[Category:1987 comics debuts]]
+[[Category:Comics by Grant Morrison]]
+[[Category:Comics by J. M. DeMatteis]]
+[[Category:Comics by John Byrne (comics)]]
+[[Category:Comics by Paul Kupperberg]]
+[[Category:Characters created by Bob Haney]]
+[[Category:Characters created by Arnold Drake]]
+[[Category:Comics by Gerard Way]]
+[[Category:Transgender-related comics]]
+[[Category:Comics adapted into television series]]

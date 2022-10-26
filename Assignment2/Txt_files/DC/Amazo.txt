@@ -1,0 +1,124 @@
+{{Short description|DC Comics supervillain}}
+{{Infobox comics character
+| character_name = Amazo
+| image = Amazo.png
+| imagesize = 
+| converted = y
+| caption = Interior artwork of ''Who's Who: The Definitive Directory of the DC Universe'' #1 (March 1985, DC Comics), art by [[Mike Zeck]].
+| publisher = [[DC Comics]]
+| debut = ''[[The Brave and the Bold]]'' #30 (June 1960)
+| creators = [[Gardner Fox]]<br>[[Mike Sekowsky]]
+| species = Android<br>Sentient virus
+| alter_ego = Armen Ikarus (Amazo virus Patient Zero)
+| alliances = Injustice League<br>[[Secret Society of Super Villains]]<br>Cabal
+| aliases = Professor Ivo's Amazing Android
+| powers = Ability and power duplication<br>Computer intelligence<br>Weapon mimicry<br>''Virus version:''<br/>Power bestowal/negation<br>Hive mind<br> Mind control
+| cat = super
+| subcat = DC Comics
+| villain = y
+| sortkey = Amazo
+}}
+'''Amazo''' ({{IPAc-en|ə|ˈ|m|eɪ|z|oʊ}}) is a fictional character appearing in [[American comic book]]s published by [[DC Comics]]. The character was created by [[Gardner Fox]] and [[Mike Sekowsky]] and first appeared in ''[[The Brave and the Bold]]'' #30 (June 1960) as an adversary of the [[Justice League of America]].<ref>{{cite book | last =Rovin | first =Jeff |title =The Encyclopedia of Supervillains | publisher =Facts on File | date =1987 | location =New York | isbn = 0-8160-1356-X | pages=4–5}}</ref> Since debuting during the [[Silver Age of Comic Books]], the character has appeared in comic books and other DC Comics-related products, including [[animated]] [[television series]], [[trading card]]s and [[video games]]. Traditionally, Amazo is an android created by the villain scientist '''[[Professor Ivo]]''' and gifted with technology that allows him to mimic the abilities and powers of superheroes he fights (usually the [[Justice League]]), as well as make copies of their weapons (though these copies are less powerful than the originals). His default powers are often those of [[Flash (DC Comics character)|Flash]], [[Aquaman]], [[Martian Manhunter]], [[Wonder Woman]], and [[Green Lantern]] (the Justice League founding members that he first fought). He is similar and often compared to the later created Marvel android villain [[Super-Adaptoid]].
+
+In the ''[[The New 52|New 52]]'' timeline of DC Comics, Amazo begins as the A-Maze Operating System and then becomes an android capable of duplicating superhuman powers. Later on, a sentient '''Amazo Virus''' infects research scientist '''Armen Ikarus''' and takes over his mind. With Ikarus as a host, the Amazo Virus infects other people, granting them super-powers and controlling their minds before they die within 24 hours.
+
+In live-action media, multiple Amazo robots appeared in the [[Arrowverse]] crossover event ''[[Elseworlds (Arrowverse)|Elseworlds]]''.
+
+==Publication history==
+Amazo first appeared in a one-off story in ''The Brave and the Bold'' #30 (June 1960)<ref>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Manning |first3=Matthew K. |last4=McAvennie |first4=Michael |last5=Wallace |first5=Daniel |title=DC Comics Year By Year: A Visual Chronicle |date=2019 |publisher=DK Publishing |isbn=978-1-4654-8578-6 |page=94}}</ref> and returned as an opponent of the [[Justice League of America]] in ''Justice League of America'' #27 (May 1964) and #112 (August 1974), plus a briefer appearance in #65 when another antagonist weaponized Amazo and other items from the JLA trophy room. Other significant issues included an encounter with a depowered [[Superman]] in ''[[Action Comics]]'' #480-483 (February – May 1978), and in ''Justice League of America'' #191 (June 1981) and #241-243 (August – October 1985). Amazo also battles a fully powered Superman in ''Superman Special'' #3 (1985).
+
+A different Amazo model featured in ''[[Justice League Quarterly]]'' #12 (Fall 1993) and battled the hero [[Aztek (comics)|Aztek]] in ''Aztek: The Ultimate Man'' #10 (May 1997) before being destroyed in ''[[Resurrection Man (comics)|Resurrection Man]]'' #2 (June 1997). An advanced version debuted in a one-off story in ''[[JLA (comic book)|JLA]]'' #27 (March 1999), while another appeared in the [[Limited series (comics)|limited series]] ''[[Hourman (android)|Hourman]]'', specifically issues #1, #5-7, #17, and #19-21 (April 1999 – December 2000).
+
+Amazo's origin is revealed in ''Secret Origins of Super-Villains 80-Page Giant'' #1 (December 1999). Another version is discovered to be part of a weapons shipment in ''[[Batman (comic book)|Batman]]'' #636-637 (March – April 2005) and during the ''[[Villains United]]'' storyline in ''[[Firestorm (comics)|Firestorm]]'' vol. 2 #14-16 (August – October 2005), ''Villains United'' #5-6 (November – December 2005), and the ''Villains United: Infinite Crisis Special'' (June 2006).
+
+Amazo's consciousness returned in ''Justice League of America'' #1-5 (October 2006 – March 2007), planted in the body of fellow android the [[Red Tornado]]. Ivo also created Amazo's "offspring" in ''JLA Classified'' #37-41 (June – October 2007). A story continuing the first Red Tornado storyline featured in ''Justice League of America'' vol. 2 #21-23 (July – September 2008).
+
+Writer [[Mike Conroy (writer)|Mike Conroy]] noted: "Amazo was a persistent thorn in the JLA's side... although his programming and own sentience have displayed no ambition towards world conquest... His very existence is a hazard to all of humanity".<ref>{{Cite book | last=Conroy | first=Mike | author-link=Mike Conroy (writer) | title=500 Comic Book Villains | publisher=[[Barron's Educational Series]] | date=October 2004 | isbn=978-0-7641-2908-7}}</ref>
+
+==Fictional character biography==
+The android Amazo was created by [[Professor Ivo|Professor Anthony Ivo]], a scientist with expertise in multiple fields who is obsessed with [[immortality]].<ref name=Guide>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Korte |first3=Steve |last4=Manning |first4=Matt |last5=Wiacek |first5=Win |last6=Wilson |first6=Sven |title=The DC Comics Encyclopedia: The Definitive Guide to the Characters of the DC Universe |date=2016 |publisher=DK Publishing |isbn=978-1-4654-5357-0 |page=12}}</ref> The original Justice League of America ([[Hal Jordan|Green Lantern]], [[Flash (Barry Allen)|Flash]], [[Aquaman]], [[Wonder Woman]], and the [[Martian Manhunter]]) discover their powers are being drained and somehow then being used by a thief who is after animals known to have long lifespans. While attempting to discover the perpetrator, the League is confronted and defeated by Amazo, who has duplicated their powers thanks to "absorption cell" technology created by Ivo.<ref>{{cite book |last1=Greenberger |first1=Robert |last2=Pasko |first2=Martin |title=The Essential Superman Encyclopedia |date=2010 |publisher=Del Rey |isbn=978-0-345-50108-0 |pages=8–9}}</ref> Amazo brings the team to Ivo, who reveals he has created a means of extending his life span courtesy of the data obtained from studying the creatures Amazo captured. The League then defeats Ivo and the android. Ivo's immortality results in his body becoming monstrous in form, and the android is stored in the League trophy room.<ref>''The Brave and the Bold'' #30 (July 1960)</ref>
+
+The android is temporarily re-activated twice to assist the League in regaining lost abilities.<ref>''Justice League of America'' #27 (May 1964)</ref><ref>''Justice League of America'' #111-112 (June – August 1974)</ref> In these and subsequent stories, the android's duplication of powers don't make others feel their powers being drained. When [[Rao (comics)|red sun]] radiation reaches Earth, Amazo reactivates and engages in an extensive battle with [[Superman]] involving time-travel, only to be defeated before it can murder Ivo and the League.<ref>''[[Action Comics]]'' #480-483 (February – May 1978)</ref> Later, the super-villain called the [[Key (comics)|Key]], having been shrunken in size, re-activates the android in a failed bid to restore his original height. The League defeats Amazo and then new team member [[Zatanna]] restores the Key to his former state.<ref>''Justice League of America'' #191 (June 1981)</ref>
+
+After the Justice League of America disbands and reforms as a small team of mostly new heroes based in Detroit, Ivo reactivates Amazo to attack this less experienced, "weaker" League. The android defeats all the new members but is finally stopped by Justice League founding members the Martian Manhunter and Aquaman.<ref>''Justice League of America'' #241-243 (August – October 1985)</ref>
+
+A different Amazo model is later activated and battles the superhero team the Conglomerate.<ref>''Justice League Quarterly'' #12 (Fall 1993)</ref> This updated Amazo searches for Ivo and encounters the hero Aztek, who succeeds in reasoning with the android rather than overpowering it.<ref>''Aztek: The Ultimate Man'' #10 (May 1997)</ref> This Amazo model also briefly battles the [[Resurrection Man (comics)|Resurrection Man]] before finally being destroyed.<ref>''Resurrection Man'' #2 (June 1997)</ref> Before his destruction, the second model of Amazo is summoned into the future by the android hero [[Hourman (android)|Hourman]], who wishes to meet his "ancestor". This Amazo copies Hourman's time-warping "Worlogog" artifact, becoming "Timazo" in the process. Timazo wreaks havoc with his new ability to manipulate time, but is defeated by Hourman and returned to his place in the past so his history can run its course.<ref>''[[Hourman (android)|Hourman]]'' #1 (April 1999)</ref> Another, similar model of Amazo later has several more encounters with Hourman.<ref>''Hourman'' #5-7 (August – October 1999), #17 (August 2000) and #19-21 (October – December 2000)</ref>
+
+Another model of Amazo is activated that can wield multiple powers at once and is programmed to automatically upgrade its abilities to match those of all active Justice League members. Initially not understanding this upgrade, the Justice League calls in reserve members to help defeat Amazo, which only results in its power increasing. On the Atom's advice, Superman (active team chairman at the time) announces the League is officially disbanded. Programmed only to mimic the powers of active members, this Amazo is suddenly depowered and easily deactivated.<ref>''JLA'' #27 (March 1999)</ref> Years later, Batman and [[Nightwing]] discover a partially built Amazo android in a weapons shipment and destroy it.<ref>''Batman'' #636-637 (March – April 2005)</ref>
+
+Another Amazo participates in a massive attack by a group of villains on the city of [[Metropolis (comics)|Metropolis]], but is destroyed by [[Black Adam]].<ref>''Villains United: Infinite Crisis Special'' (June 2006)</ref>
+
+It is eventually revealed that after perfecting Amazo's absorption cells, Ivo combined this technology with human [[Ovum|ova]] and [[DNA]] to create a "son" of Amazo who grows up as Frank Halloran, unaware of his heritage. Years later, Frank is a philosophy student dating a young woman named Sara when his powers are awakened prematurely. Rather than emulate his villainous "father", Frank hopes to be a hero called "[[Kid Amazo]]". Slowly becoming mentally unstable, Kid Amazo discovers Sara is Ivo's daughter and was instructed to monitor Frank by posing as a girlfriend. Kid Amazo goes on a rampage. Batman deduces Kid Amazo has not only the powers of the Leaguers but also their contrasting personality traits. This is later used to cause greater internal instability, destroying Kid Amazo.<ref>''JLA Classified'' #37-41 (June – October 2007)</ref>
+
+Later, Ivo downloads Amazo's programming into the body of the Red Tornado, the android villain-turned-hero created by Professor [[T. O. Morrow|T.O. Morrow]], another enemy of the Justice League. The League battles an army of Red Tornado androids before discovering that the villain [[Solomon Grundy (character)|Solomon Grundy]] intends to transfer his mind into the original android Tornado's body. Although this plan is defeated, the Amazo programming asserts itself and attacks the League until member [[Vixen (comics)|Vixen]] destroys it.<ref>''Justice League of America'' vol. 2 #1-5 (October 2006 – March 2007)</ref> A new body is created to house Red Tornado's consciousness but the Amazo programming inhabits it instead, battling Justice League before he's defeated by being teleported into the [[gravity well]] of the red star [[Antares]].<ref>''Justice League of America'' vol. 2 #21-23 (July – September 2008)</ref>
+
+===The New 52===
+As part of [[The New 52]], the new origin story of the Justice League references the "A-Maze Operating System" and "B-Maze Operating System" designed by Anthony Ivo.<ref>''Justice League'' vol. 2 #4 (February 2012)</ref> The League later battles an android equipped with a corrupt version of this operating system.<ref>''Justice League'' vol. 2 #8 (June 2012)</ref>
+
+During the ''[[Forever Evil]]'' storyline, the New 52 Amazo appears as a member of the Secret Society of Super Villains.<ref>''Forever Evil'' #1 (September 2013)</ref>
+
+During the "Amazo Virus" storyline, a biotech pathogen is created based on the android's absorption cells. The first person to be infected by this virus is former Lexcorp research scientist '''Armen Ikarus''', whose mind becomes corrupted in the process and replaced by the virus's will. Now possessing power and driven to infect others, Ikarus's personality is replaced by the new Amazo. The Ikarus Amazo infects others, granting them super-powers based on desires and personality traits, but killing them within 24 hours. The Ikarus Amazo, able to enhance infected humans and control them through a "hive-mind" connection, is defeated by the Justice League. Young '''Reggie Meyer''' and his family are also affected. Influenced by technology from the original Amazo android, Reggie becomes '''[[Kid Amazo|Kid-Amazo]]'''.<ref>''Super Sons'' #1</ref>
+
+===DC Rebirth===
+In the storyline '''"Outbreak"''', Amazo is one of the villains recruited by an A.I. named Genie, created by the daughter of computer technician James Palmer.<ref name="JL10">''Justice League'' vol. 3 #10 (February 2017)</ref> His technology cells are later hacked and he briefly joins the Justice League's side.<ref name="JL11">''Justice League'' vol. 3 #11 (March 2017)</ref>
+
+Amazo later appeared as a member of the Cabal, alongside [[Per Degaton]], [[Doctor Psycho]], [[Queen Bee (comics)|Queen Bee]], and [[Hugo Strange]].<ref>''Plastic Man'' (vol. 5) #3. DC Comics.</ref> <ref>''Plastic Man'' vol. 5 #4. DC Comics.</ref>
+
+==Powers and abilities==
+===Amazo (Android)===
+Amazo is an advanced android built using Professor Anthony Ivo's "absorption cell" technology. This technology (later indicated to involve nanites) allows Amazo's cells to mimic the physical structure and energy output of organic beings he encounters, empowering him to mimic physical and energy-based abilities (such as the strength of [[Superman]], the speed of the [[Flash (comics)|Flash]], or the fighting skill of [[Batman]]). Amazo's internal energy source provides power for these abilities, so it does not matter what source of power is used by the superhuman he is mimicking (such as Wonder Woman's speed being based on magical empowerment and Superman's speed being a result of Kryptonian cells fueled by solar radiation). After his first story, many Amazo models retain the powers of the first five founding Leaguers he met as a default power set, absorbing new abilities based on other Leaguers they encounter. The models are usually only able to access a single target's unique attributes at a time. Some models have internally possessed the powers of many Justice League members, not just founding members, in their internal database and can summon them at will, but again only utilizing one person's powers at a time.<ref>''The Brave and the Bold'' #30 (July 1 1960)</ref> Some later Amazo versions are upgraded to use and mimic multiple powers at once from any superhuman they come in contact with or anyone it identifies as a Justice League member.<ref>''JLA'' #27 (March 1999)</ref> Several Amazo models can create duplicates of weapons as well, such as the [[Power ring (DC Comics)|power ring]] of [[Green Lantern]], the metal mace of [[Hawkgirl]], or the lasso of [[Wonder Woman]]. These copied weapons are more limited in power than the original products.<ref>''Justice League of America'' #27, 65 & 112 (1960)</ref>
+
+At times, Amazo is a simple minded android, capable of basic strategies and possessing average intelligence but with narrow focus. Some models of Amazo have demonstrated advanced analysis and tactics in battle, helping them maneuver to apply their stolen powers effectively to defeat opponents.<ref>''Justice League of America'' vol. 2 #22 (July 2008)</ref> In most incarnations, Amazo takes on a person's weaknesses simultaneously when mimicking their powers (as an example, becoming vulnerable to [[kryptonite]] radiation while using Superman abilities). Multiple stories have also indicated that his android body, designed to emulate the form and function of a human being, also possesses the pressure points and stress spots the average human body possesses.
+
+===Amazo (Ikarus)===
+Arman Ikarus is a former scientist and researcher at Lexcorp who is the first to be exposed to the '''Amazo Virus''' outbreak.<ref name="JL36">''Justice League'' vol. 2 #36 (January 2015)</ref> This version of Amazo is driven to infect others with the Amazo virus, causing them to develop psychoactive superhuman abilities based on inherent desires and characteristics before dying within 24 hours. The Ikarus Amazo could emulate technology and super-powers he encountered by crudely modifying his genetic structure and biological structure.<ref name="JL37">''Justice League'' vol. 2 #37 (February 2015)</ref> The Ikarus Amazo can remotely augment the physical abilities of anyone infected with the Amazo virus and influence their behavior through establishing a mental "hive-mind" connection.<ref name="JL39">''Justice League'' vol. 2 #39 (April 2015)</ref> Initially, Ikarus's body seemed to degenerate from the strain of the virus altering his biology, but later his form stabilized and evolved into the appearance of the classic Amazo android.
+
+==Other versions==
+===Captain Carrot and His Amazing Zoo Crew!===
+''[[Captain Carrot and His Amazing Zoo Crew!]]'' #14-15 featured the [[Multiverse (DC Comics)|parallel Earth]] of "Earth-C-Minus", a world populated by [[talking animals in fiction|talking animal]] superheroes that paralleled the mainstream [[DC Universe]]. On Earth-C-Minus a counterpart of the character Amazo existed called "'''Amazoo'''": a robotic composite of a dozen different animal body parts and abilities.
+
+===DC Super Friends===
+Amazo appears in the ''[[DC Super Friends]]'' comics.<ref>''DC Super Friends'' #18</ref>
+
+===Injustice 2===
+Amazo appears in the ''[[Injustice 2]]'' comics based on the ''Injustice'' reality. After the fall of Chancellor Superman's Regime, Ivo sold off Amazo to a terrorist initiative under the control of [[Ra's al Ghul]] and [[Solovar]].<ref>''Injustice 2'' #12</ref><ref>''Injustice 2'' #17</ref><ref>''Injustice 2'' #20</ref>
+
+==In other media==
+===Television===
+* Amazo appears in series set in the [[DC Animated Universe]] (DCAU), voiced by [[Robert Picardo]]:
+** First appearing in the ''[[Justice League (TV series)|Justice League]]'' two-part episode "Tabula Rasa" and initially referred to simply as the "Android", this version resembles a gray, blank humanoid that is capable of accessing several replicated abilities simultaneously and eventually adapt away weaknesses. While looking for [[Professor Ivo|Doctor Ivo]] to help him fix his battle suit, [[Lex Luthor]] finds Amazo and uses him to steal the [[Justice League]]'s abilities and the parts he needs to fix his suit. After absorbing the [[Martian Manhunter]]'s abilities however, Amazo takes on a gold coloration and flies off into space to find the meaning behind his existence.
+** As of the ''[[Justice League Unlimited]]'' episode "The Return", Amazo has attained godhood and the ability to teleport objects to other locations. He intends to kill Luthor for using him, but eventually gives up this quest after fighting [[Doctor Fate (Kent Nelson)|Doctor Fate]] and is given sanctuary in the Tower of Fate to find his purpose. In the episode "Wake the Dead", Amazo attempts to defeat the recently empowered and resurrected [[Solomon Grundy (character)|Solomon Grundy]], but the latter drains Amazo's powers. Realizing he is putting the League at risk, Amazo teleports away.
+* Amazo appears in the ''[[Young Justice (TV series)|Young Justice]]'' episode "Schooled", voiced by [[Peter MacNicol]].
+* Amazo appears in the ''[[Batman: The Brave and the Bold]]'' episode "Triumvirate of Terror!", voiced by [[Roger Rose]].
+* Amazo appears in the ''[[Justice League Action]]'' episode "Boo-ray for Bizarro", voiced by [[Thomas Lennon]]. In addition to replicating a target's skills, powers, and personal tools, he is also able to replicate an individual's mental prowess. He captures the Justice League in an attempt to replicate their powers, only to be overloaded and rendered catatonic by [[Bizarro]]'s backwards mentality.
+* A.M.A.Z.O. ('''Anti Metahuman Adaptive Zootomic Organism''') appears in the [[Arrowverse]] crossover special "[[Elseworlds (Arrowverse)|Elseworlds]]". This version is an android built by Ivo Laboratories for [[A.R.G.U.S. (Arrowverse)|A.R.G.U.S.]] to replicate the natural skills and special abilities of any normal, metahuman, and extraterrestrial individual it comes across. After Dr. [[John Deegan (Arrowverse)|John Deegan]] fails to rewrite reality to his liking, causing [[Oliver Queen (Arrowverse)|Oliver Queen]] and [[Barry Allen (Arrowverse)|Barry Allen]] to switch lives instead, the former unknowingly activates A.M.A.Z.O. while thwarting a robbery at Ivo Laboratories. Upon learning of what happened and receiving help from [[Cisco Ramon (Arrowverse)|Cisco Ramon]], [[Kara Danvers (Arrowverse)|Supergirl]], and [[Clark Kent (Arrowverse)|Superman]], Queen and Allen defeat the android. After successfully altering reality, Deegan brings back A.M.A.Z.O. to assist him, but it is destroyed by [[Brainiac 5 (Arrowverse)|Brainiac 5]].
+
+===Film===
+* Amazo appears in ''[[Batman: Under the Red Hood]]'', voiced by [[Fred Tatasciore]]. This version has the same weak points as a human being.
+* Amazo appears in ''[[Injustice (2021 film)|Injustice]]''. This version was built by [[Ra's al Ghul]] ostensibly to help Superman enforce global peace, but with the secret goal of killing Superman after replicating his powers. After becoming violent in its quest to maintain order, Superman and his allies join forces with Batman's resistance to fight Amazo. It kills [[Hawkman]] and [[Cyborg (DC Comics)|Cyborg]] before [[Plastic Man]] destroys it from the inside.
+
+===Video games===
+* Amazo appears in ''[[Justice League: Chronicles]]''.
+* While Amazo does not appear in ''[[Lego DC Super-Villains]]'', players have access to the "Amazo Project", which allows them customize their character, the Rookie's, powers.
+
+==See also==
+* [[Kid Amazo]]
+
+==References==
+{{reflist}}
+
+{{Justice League characters}}
+{{Plastic Man}}
+{{Young Justice}}
+{{Gardner Fox}}
+
+[[Category:Comics characters introduced in 1960]]
+[[Category:Characters created by Gardner Fox]]
+[[Category:Characters created by Murphy Anderson]]
+[[Category:DC Comics robots]] 
+[[Category:DC Comics characters who have mental powers]]
+[[Category:Fictional androids]]
+[[Category:Robot supervillains]]
+[[Category:DC Comics supervillains]]
+[[Category:Fictional characters with anti-magic or power negation abilities]]
+[[Category:Fictional characters with spirit possession or body swapping abilities]]

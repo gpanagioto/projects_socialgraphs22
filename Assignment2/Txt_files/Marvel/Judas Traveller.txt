@@ -1,0 +1,5 @@
+#REDIRECT [[Clone Saga]]
+
+{{Rcat shell|
+{{R to related topic}}
+}}

@@ -1,0 +1,5 @@
+#REDIRECT [[Walrus (Marvel Comics)]]
+
+{{Redirect category shell|
+{{R from move}}
+}}

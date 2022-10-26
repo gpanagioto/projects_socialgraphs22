@@ -1,0 +1,574 @@
+{{Short description|Fictional character}}
+{{Infobox comics set and title <!-- Wikipedia:WikiProject Comics -->
+<!--Character section-->|code_name=Doctor Fate|image=Doctor_Fate_13_Cover_(Textless).jpg|imagesize=|caption=The Kent Neslon and Khalid Nassour incarnations of Doctor Fate, art by 
+Ibrahim Moustafa|publisher=[[DC Comics]]|debut='''Kent, Inza:'''<br />''[[More Fun Comics]]'' #55 (May 1940)<br/>'''Strauss:'''<br /> ''Doctor Fate'' #1 (July 1987)<br />'''Hall:'''<br />(as Doctor Fate) ''[[Justice Society of America#JSA (1999–2006)|JSA]]'' #3 (October 1999)<br />'''Kent V.:'''<br />''[[Countdown to Mystery]]'' #1 (November 2007)<br/>'''Khalid Ben-Hassin:'''<br />''Earth 2'' #9 (February 2013)<br />'''Khalid Nassour:'''<br />(as Doctor Fate)<br />''Doctor Fate'' (vol. 4) #1 (June 2015)|debutmo=May|debutyr=1940|| creators='''Kent, Inza:'''<br />[[Gardner Fox]] (writer)<br />Howard Sherman (artist)<br />'''Eric, Linda Strauss:'''<br />[[J. M. DeMatteis]]<br />[[Shawn McManus]]<br />'''Kent V.:'''<br />[[Steve Gerber]]<br />[[Justiniano]]<br />'''Khalid Nassour:'''<br />[[Paul Levitz]]<br />[[Sonny Liew]]|characters=|title=Doctor Fate|cvr_image=|cvr_caption=|format=|limited=Y|ongoing=Y|Superhero=y|pub_series=DC Comics|1stishhead=|1stishyr=|1stishmo=|endishyr=|endishmo=|issues=|main_char_team=|writers='''Vol. 1'''<br>J.M. DeMatteis<br>'''Vol. 2'''<br>J.M. DeMatteis<br>William Messner-Loebs<br> '''Vol. 3'''<br>Christopher Golden<br>'''Vol. 4'''<br>[[Paul Levitz]]|artists='''Vol. 1'''<br>Keith Giffen<br>Dave Hunt (cover artist)<br>'''Vol. 2'''<br>Keith Giffen<br>Dave Hunt<br>Vince Giarrano<br>'''Vol. 3'''<br>Don Kramer<br>'''Vol. 4'''<br>[[Sonny Liew]]<br>Ibrahim Moustafa<br>Tony Harris (cover artist)|pencillers=|inkers='''Vol. 1'''<br>Dave Hunt<br>'''Vol. 2'''<br>Dave Hunt<br>Lovern Kindzierski<br>'''Vol. 3'''<br>Prentis Rollins<br>'''Vol. 4'''<br>[[Sonny Liew]]|letterers=|colorists='''Vol. 1'''<br>Anthony Tollin<br>'''Vol. 2'''<br>Anthony Tollin<br>Peter Gross<br>'''Vol. 3'''<br>John Kalisz<br>Heroic Age Studio<br>'''Vol. 4'''<br>Lee Loughridge|editors='''Vol. 1'''<br>[[Dennis O'Neil]]<br>'''Vol. 2'''<br>[[Dennis O'Neil]]<br>Stuart Moore<br>'''Vol. 3'''<br>[[Peter Tomasi]]<br>Stephen Wacker<br>'''Vol. 4'''<br>Brian Cunningham<br>Andy Khouri<br>David Wohl|creative_team_month=|creative_team_year=|creators_series=|TPB=Doctor Fate: The Blood Price|ISBN=978-1401261214|nonUS=|cat=super|altcat=|hero=y|villain=|sortkey=Doctor Fate|sort_title=Robin|schedule=|TPB2=Doctor Fate: Prisoners of the Past|ISBN2=978-1401264925|TPB3=Doctor Fate: Fateful Threads|ISBN3=978-1401272418}}
+
+'''Doctor Fate''' (also known as '''Fate''') is the name of multiple [[superhero]]es appearing in [[American comic book]]s published by [[DC Comics]], the original version of the character first created by writer [[Gardner Fox]] and artist Howard Sherman, debuting in ''[[More Fun Comics]]'' #55 (May 1940). The character has appeared in various incarnations, with Doctor Fate being the name of several different individuals in the [[DC Universe]] who are a succession of [[Magician (fantasy)|sorcerers]] with several attempts to revitalize the character.<ref name=":6" /><ref name=":03"/><ref name="newsarama1" />
+
+In the [[DC Universe]] continuity, Doctor Fate was originally conceived as a force fighting against the supernatural being [[Nabu (comics)|'''Nabu''']], a cosmic being affiliated with the Lords of Order, [[Mesopotamian deities|Mesopotamia deities]],<ref>Note: Throughout the character's history, despite being referenced in Mesopotamia as early as ''1st Issue Special'' #9, he is erroneously stated to be Egyptian.</ref> and a chief enemy of his cosmic opposites, the Lords of Chaos. Over time, Nabu instead empowered mortal agents to act on his behalf and the Lords of Order, the first being [[Doctor Fate (Kent Nelson)|'''Kent Nelson''']], the Strauss family, and various others. Other versions of the character differ, acting as solely supernatural-based heroes, affiliated with the [[Lords of Chaos and Order|Lords of Chaos]], or [[Demonology|demon hunters]]. Several years after the [[The New 52|New 52]] reboot, DC Comics introduced its latest and second-longest-running incarnation, '''[[Doctor Fate (Khalid Nassour)|Khalid Nassour]]''', the grandnephew of Kent Nelson chosen by [[ancient Egyptian deities]] and [[archangel]]s.
+
+The Doctor Fate character has appeared in various incarnations across multiple forms of media based on both comic and original characters; The Kent Nelson incarnation has appeared in several media, such as the television series ''[[Smallville (TV series)|Smallville]]'', in which he is portrayed by [[Brent Stait]], and the upcoming [[DC Extended Universe]] film ''[[Black Adam (film)|Black Adam]]'', in which he will be portrayed by [[Pierce Brosnan]]. In animated media, several incarnations of Doctor Fate have appeared in the [[Young Justice (TV series)|''Young Justice'']] animated series; Nabu, Khalid Nassour and Kent Nelson's versions of Doctor Fate have appeared in the animated series alongside other original incarnations based on pre-existing characters such as [[Zatara]], [[Zatanna]], and [[Traci 13]].
+
+{{TOC limit|3}}
+
+==Publication history==
+
+=== Golden Age ===
+The first character to debut as Doctor Fate was Kent Nelson, who appeared in his own self-titled six page strip in ''[[More Fun Comics]]'' #55 (May 1940) during the [[Golden Age of Comic Books]]. The character was created by writer [[Gardner Fox]] and artist Howard Sherman, who produced the first three years of monthly Doctor Fate stories.<ref>{{cite book |last1=Benton |first1=Mike |url=https://archive.org/details/superherocomicso0000bent |title=Superhero Comics of the Golden Age: The Illustrated History |date=1992 |publisher=[[L.G. Balfour Company|Taylor Publishing]] |isbn=087833808X |location=Dallas |pages=[https://archive.org/details/superherocomicso0000bent/page/97 97]-98 |access-date=15 January 2020 |url-access=registration}}</ref> After a year with no background, his alter ego and origins were shown in ''More Fun Comics'' #67 (May 1941).<ref name="Beatty2">{{cite book |last1=Beatty |first1=Scott |title=The DC Comics Encyclopedia: The Definitive Guide to the Characters of the DC Universe |last2=Wallace |first2=Dan |date=2008 |publisher=[[DK (publisher)|DK Publishing]] |isbn=9780756641191 |location=New York |page=103}}</ref> Stories during the Golden Age included his love interest, Inza, who was known variably throughout the Golden Age as Inza Cramer,<ref name="mf80">''More Fun Comics'' #80 (June 1942)</ref> Inza Sanders,<ref>''More Fun Comics'' #75 (January 1942)</ref><ref>''More Fun Comics'' #77 (March 1942)</ref> and Inza Carmer.<ref>''More Fun Comics'' #76 (February 1942)</ref><ref>''More Fun Comics'' #78 (April 1942)</ref><ref>''More Fun Comics'' #89 (March 1943)</ref><ref>''More Fun Comics'' #90 (April 1943)</ref>
+
+When the [[Justice Society of America]] was created for ''[[All Star Comics]]'' #3 (Winter 1940), Doctor Fate was one of the characters [[DC Comics#Golden Age|National Comics]] used for the joint venture with [[All-American Publications]]. He made his last appearance in the book in issue #21 (Summer 1944), virtually simultaneously with the end of his own strip in ''More Fun Comics'' #98 (July–August 1944). Aside from the annual JSA/JLA team-ups in ''Justice League of America'' that began in 1963, Doctor Fate appeared in other stories through the 1960s and 1970s, including a two-issue run with [[Hourman]] in ''[[Showcase (comics)|Showcase]]'' #55–56, two appearances with [[Superman]] in ''[[World's Finest Comics]]'' #201 (March 1971) and #208 (December 1971).
+
+=== Silver Age ===
+Aside from the annual JSA/JLA team-ups in ''Justice League of America'' that began in 1963, Doctor Fate appeared in other stories through the 1960s and 1970s, including a two-issue run with [[Hourman]] in ''[[Showcase (comics)|Showcase]]'' #55–56, two appearances with [[Superman]] in ''[[World's Finest Comics]]'' #201 (March 1971 and #208, December 1971); an appearance with [[Batman]] in ''[[The Brave and the Bold]]'' #156 (November 1979); and a solo story in ''[[1st Issue Special]]'' #9 (December 1975), written by [[Martin Pasko]] and drawn by [[Walt Simonson]]. Doctor Fate and the rest of The Justice Society returned to ''All-Star Comics'' in 1976 with #58 for a two-year run ending with issue #74 and ''Adventure Comics'' #461-462 in 1978, and ''Adventure Comics'' #466 related the untold tale of the Justice Society's 1951 disbanding. During this period, Inza Cramer's name as such was amended.<ref name="showcase55-562">{{Comic book reference|writer=[[Gardner Fox|Fox, Gardner]]|penciller=[[Murphy Anderson|Anderson, Murphy]]|inker=Anderson, Murphy|story=|title=[[Showcase (comics)|Showcase]]|volume=|issue=#55–56|date=March/April & May/June, 1965|publisher=[[DC Comics]]|page=|panel=}}</ref>
+
+=== Bronze Age ===
+Doctor Fate's origin was retold in ''DC Special Series'' #10, and Doctor Fate again teamed up with Superman in ''[[DC Comics Presents]]'' #23 (July 1980), and featured in a series of back-up stories running in ''The Flash'' from #306 (February 1982) to #313 (September 1982) written by [[Martin Pasko]] (aided by [[Steve Gerber]] from #310 to #313) and drawn by [[Keith Giffen]].<ref>{{cite journal |last=Riley |first=Shannon E. |date=May 2013 |title=A Matter of (Dr.) Fate Martin Pasko and Keith Giffen Discuss Their Magical ''Flash'' Backup Series |journal=[[Back Issue!]] |issue=64 |pages=64–68}}</ref>
+
+Beginning in 1981, DC's ''[[All-Star Squadron]]'' elaborated upon the adventures of many World War II-era heroes, including Doctor Fate and the JSA. The series ran for 67 issues and three annuals, concluding in 1987. Doctor Fate made occasional modern-day appearances in ''[[Infinity, Inc.]]'' in 1984, the same year which witnessed the 22nd and final annual Justice Society/Justice League team-up.<ref>''Justice League'' #231-232 (October–November 1984). DC Comics.</ref> Doctor Fate also made a guest appearance in a 3-issue 1985 crossover in the pages of ''Infinity, Inc.'' #19-20 and ''Justice League'' #244. Doctor Fate then appeared in the four-part special ''America vs. the Justice Society'' (1985) which finalized the story of the Justice Society, featuring an elaboration of the events of ''Adventure Comics'' #466 and a recap of the Justice Society's annual team-ups with the Justice League. In 1985, DC collected the Doctor Fate back-up stories from ''The Flash'', a retelling of Doctor Fate's origin by [[Paul Levitz]], [[Joe Staton]], and [[Michael Netzer|Michael Nasser]] originally published in ''Secret Origins of Super-Heroes'' (January 1978) (''DC Special Series'' #10 in the indicia), the Pasko/Simonson Doctor Fate story from ''1st Issue Special'' #9, and a Doctor Fate tale from ''More Fun Comics'' #56 (June 1940), in a three-issue [[Limited series (comics)|limited series]] titled ''The Immortal Doctor Fate''. Doctor Fate appeared in several issues of the ''[[Crisis on Infinite Earths]]'', after which Doctor Fate briefly joined the Justice League.<ref>''Legends'' #6 (April 1987). DC Comics.</ref>
+
+=== Modern Age ===
+
+==== ''Doctor Fate'' series ====
+In 1987, ''Doctor Fate'' mini-series was released soon afterward, featuring the debut of Eric and Linda Strauss, who would replace the character Kent Nelson as Doctor Fate after being seemingly killed off by the antagonist of the book.<ref name="Fate19872">''Doctor Fate'' #1–4 (July–October 1987). DC Comics.</ref> Later, DC Comics would release a Doctor Fate ongoing series focusing on both characters acting simultaneously as Doctor Fate, the first twenty-four issues written and drawn by [[J.M. DeMatteis]] and [[Shawn McManus]] starting in the winter of 1988. The series focused on magically aged up Eric and Linda acting as Doctor Fate under the guidance of Nabu, whom has inhabited and taken the identity of Kent Nelson. Despite their differences in personality and both Eric's immaturity and true age, Linda is portrayed as having feelings for Erica which are mutual.<ref>''Doctor Fate'' (vol. 2) #1 (Winter 1988). DC Comics.</ref> The Eric Stauss character was seemingly killed off later in the run, making the Linda Strauss character the sole Doctor Fate for a time.<ref name=":5">''Doctor Fate'' (vol. 2) #12 (December 1989)</ref> The character would also briefly become a permanent member of the Justice League International.<ref>{{Cite book |last=Giffen |first=Keith |title=Justice League of America #31 |publisher=DC Comics |year=1989}}</ref> Eventually, Linda and Eric's characters were dropped as Doctor Fate, the last arc of the story revealing their fates to have reincarnated into the bodies of Eugene and Wendy DiBellia while Nabu reincarnates in Eugene and Wendy's unborn child.<ref name="df24">''Doctor Fate'' (vol. 2) #24 (January 1991)</ref>
+
+In 1991, later issues of the series saw Kent's wife Inza take over as the new Doctor Fate with a different benefactor unlike her husband, starting with the 25th issue of the series Inza's tenure as Doctor Fate differs from Nelson in her focus on [[social class]] issues and inequality, using her powers to improve one of the poorest districts in New York City while defending it from corruption and genuine malevolent evil forces. The series ended with issue #41.<ref>''Doctor Fate'' (vol. 2) #41 (June 1992). DC Comics.</ref> Following ''[[Zero Hour (comics)|Zero Hour]]'', DC killed off both Kent and Inza and replaced them with a new character, Jared Stevens.
+
+===== ''Book of Fate'' series =====
+DC eventually replaced the existing Doctor Fate with a new character, Jared Stevens. Stevens was introduced in a self-titled series called ''Fate'', launched in the wake of ''[[Zero Hour: Crisis in Time|Zero Hour]]'' in 1994.<ref name="fate0">''Fate'' #0 (October 1994)</ref> The Doctor Fate character went through a radical redesign, dropping the "Doctor" title and gaining new weapons made from the previous related artifacts of Dcotor Fate. Unlike prior depictions of the Doctor Fate character as a sorcerer, the character was instead cast as a demon hunter.<ref name=":2" /> Considered an upopular re-imagining of the character,<ref name=":6">{{Cite web |last=Kane |first=Gary |date=2013-09-24 |title=GK's Where Are They Now?: A Fate Worse Than … Well Fate |url=https://bigcomicpage.com/2013/09/24/gks-where-are-they-now-a-fate-worse-than-well-fate/ |url-status= |access-date=2022-05-18 |website=BIG COMIC PAGE |language=en}}</ref> the series was cancelled after 23 issues in September 1996.  The character then starred in ''The Book of Fate'' written by Keith Giffen, which ran from February 1997 to January 1998 for twelve issues as part of DC's "[[Weirdoverse]]" imprint, rebooting the character's origins and adventures. In 1999, the revival of the Justice Society in ''[[Justice Society of America#JSA|JSA]]'' allowed the Doctor Fate character to be re-worked once more and subsequently killed off the Jared Stevens character.<ref name="jsa12">''JSA'' #1 (August 1999). DC Comics.</ref><ref name="jsa42">''JSA'' #4 (November 1999). DC Comics.</ref>
+
+==== ''Doctor Fate'' (vol. 3) ====
+The next incarnation of the Doctor Fate character would come in the form of Hector Hall, the son of the Golden Age Hawkman and Hawgirl. In addition to appearing in ''JSA'', DC published a self-titled, five-issue limited series in 2003.<ref>''Dr. Fate'' (vol. 3) #1–5 (October 2003–February 2004). DC Comics.</ref> The character was killed in the ''[[Day of Vengeance]]'' limited series in 2005 as part of the lead in to the 2005 company-wide event story, ''[[Infinite Crisis]]''.<ref>''Day of Vengeance'' #1–6 (June–November 2005). DC Comics.</ref>
+
+==== ''Countdown to Mystery''<nowiki/>'s ''Doctor Fate'' & other appearances ====
+In 2007, a new incarnation of Doctor Fate, Kent V. Nelson, was created by [[Steve Gerber]] and [[Justiniano]] and serves as an attempt to revitalize the Doctor Fate character. Unlike prior depictions, the character is instead no longer rooted in Egyptian/Mesopotamian mythology and is disassociated with the Lords of Chaos and Order due to being killed off during Infinite Crisis. Gerber also stated his intentions of not directly contradicting previous runs while raising the subject as little as possible. The character was also the grand nephew of the original Doctor Fate, establishing a connection to the most recognized Doctor Fate.<ref name=":03">{{cite web |last=McLauchlin |first=Jim |date=2006-12-03 |title=A Twist of Fate |url=http://www.wizarduniverse.com/magazine/wizard/002578766.cfm |website=Wizard |access-date=2007-02-11 |archive-url=https://web.archive.org/web/20071212102237/http://www.wizarduniverse.com/magazine/wizard/002578766.cfm |archive-date=2007-12-12}}</ref><ref name=":14">{{cite web |date=2007-03-03 |title=Some Thoughts on Doctor Fate – Part 1 |url=http://www.stevegerber.com/sgblog/?p=283 |url-status=dead |website=stevegerberblog |access-date=2011-01-16 |archive-url=https://web.archive.org/web/20110716174624/http://www.stevegerber.com/sgblog/?p=283 |archive-date=2011-07-16}}</ref> Due to Steve Gerber's death, the seventh issue was written by [[Adam Beechen]] using Gerber's notes. The final issue was written by Beechen, [[Gail Simone]], [[Mark Waid]], and [[Mark Evanier]], who each wrote a different ending to the story.<ref>{{cite web |date=2008-02-22 |title=CBR News: WonderCon: DC Nation Panel |url=http://www.comicbookresources.com/news/newsitem.cgi?id=13096 |url-status=dead |archive-url=https://web.archive.org/web/20080225150908/http://www.comicbookresources.com/news/newsitem.cgi?id=13096 |archive-date=2008-02-25 |access-date=2011-01-16 |website=[[Comic Book Resources]]}}</ref> The character would appear in the ''Reign in Hell'' miniseries<ref>''Reign in Hell'' #1–8 (September 2008–April 2009). DC Comics.</ref> and in ''Justice Society of America'' (vol. 3) #30 (August 2009), featuring in the book until its cancellation with #54 in August 2011.
+
+====The New 52====
+{{see also|The New 52}}
+Following the events of the ''[[Flashpoint (comics)|Flashpoint]]'' mini-series in 2011, DC's continuity was [[Reboot (fiction)|reboot]]ed. As part of [[The New 52]] initiative, an alternate version of Doctor Fate named Khalid Ben-Hassin was created by writer James Robinson<ref>{{cite web |author=Jeffery Renaud |date=2012-12-06 |title=Robinson Unleashes Fury, Doctor Fate on "Earth 2" |url=http://www.cbr.com/robinson-unleashes-fury-doctor-fate-on-earth-2/ |access-date=2013-09-12 |website=Comic Book Resources}}</ref> and artist Brett Booth. The character was featured in the ''Earth 2'' ongoing series from #9 (February 2013) onwards.<ref>{{cite web |date=2012-12-10 |title=DC Comics Solicitations for March, 2013 |url=http://www.cbr.com/dc-comics-solicitations-for-march-2013/ |access-date=2013-09-12 |website=Comic Book Resources}}</ref>
+
+====DC You & DC Rebirth-onward====
+{{see also|DC You|DC Rebirth}} 
+After the conclusion of the ''[[Convergence (comics)|Convergence]]'' limited series in June 2015, DC launched a new ''Doctor Fate'' ongoing series, written by [[Paul Levitz]] and drawn by [[Sonny Liew]] as part of the DC You initiative, which saw an emphasis on "story over continuity", loosening the restrictions of continuity to allow for a diverse range of genres while some characters underwent status quo changes. The title focused on the newest and most recent incarnation of Doctor Fate, an [[Egyptian American|Egyptian-American]] medical student named Khalid Nassour.<ref name="newsarama1">{{cite web |date=2015-04-16 |title=LEVITZ Channels DITKO For June's New, Unusual DR. FATE |url=http://www.newsarama.com/24153-levitz-channels-ditko-for-june-s-new-unusual-dr-fate.html |access-date=2015-05-04 |website=[[Newsarama]]}}</ref> Created with an emphasis on diversity and to take the character in a different direction, the bi-racial character's inspirations included Marvel characters like Spider-Man and Doctor Strange, the latter character having been influenced by Sonny Liew; Liew intended to depict a character entrusted with great responsibilities going through a journey of self-discovery in a world similar to the likes of ''Doctor Strange''.<ref name="newsarama14">{{cite web |date=2015-04-16 |title=LEVITZ Channels DITKO For June's New, Unusual DR. FATE |url=http://www.newsarama.com/24153-levitz-channels-ditko-for-june-s-new-unusual-dr-fate.html |url-status=dead |archive-url=https://web.archive.org/web/20160304003017/http://www.newsarama.com/24153-levitz-channels-ditko-for-june-s-new-unusual-dr-fate.html |archive-date=2016-03-04 |access-date=2015-05-04 |website=[[Newsarama]]}}</ref> The series also would re-introduce a rebooted version of the Kent Nelson character, depicting him as a previous Doctor Fate with some of his old histories intact and as a mentor figure. Both Khalid and Kent would simultaneously act as Doctor Fate, the former being his apprentice to prepare to fully inherit the role. The series ran for 18 issues from June 2015 to November 2016.<ref>{{cite web |date=2015-08-01 |title=GCD :: Series :: Doctor Fate |url=https://www.comics.org/series/90250/ |access-date=2017-02-20 |publisher=Comics.org}}</ref>
+
+In 2018, DC launched a second ''Justice League Dark'' series written by [[James Tynion IV]] starring a new roster led by Wonder Woman. In this roster, Khalid and Kent Nelson were revealed to be eventual new members of the Justice League, originally acting as "advisors" in the team and became reoccurring characters. Nassour would eventually permanently become the new Doctor Fate instead of Kent Nelson in the "Lords of Order" storyline. Nassour would also receive a new redesign as Doctor Fate.<ref>{{Cite web |last=Sharp |first=Kevin |date=2018-06-11 |title=James Tynion IV Reveals New Justice League Dark Characters And Villain |url=https://dccomicsnews.com/2018/06/11/james-tynion-iv-reveals-new-justice-league-dark-characters-and-villain/ |access-date=2022-02-05 |website=DC Comics News |language=en-US}}</ref> Nelson's character would be later killed off in the "A Costly Trick of Magic" storyline, leaving Nassour as the sole Doctor Fate character in present times. While the original 2018 series was cancelled in 2020, the ''Justice League Dark'' series was instead re-purposed as a backup issue to the mainstream ''Justice League'' title, the backup issue written by author [https://imagecomics.com/creators/ram-v Ram V] featuring a new storyline with Khalid remaining a reoccurring member of the Justice League Dark subdivision.<ref>{{Cite web |last=Johnston |first=Rich |date=2020-12-18 |title=Justice League Dark Series Cancelled, Repurposed As Back-Up Strip |url=https://bleedingcool.com/comics/justice-league-dark-series-cancelled-repurposed-as-back-up-strip/ |access-date=2022-02-05 |website=Bleeding Cool News And Rumors |language=en}}</ref> Khalid would also appear in several title crossovers such as ''Superman'', ''Teen Titans Academy'', and ''The Flash''.
+
+In 2021, Khalid Nassour would appear in major storylines such as the Justice League Dark's "The Great Wickedness" storyline, depicting a status quo change in which the Helm of Fate is damaged from a previous battle with the villain, Upside-Down Man, and is inhabited by a new entity.<ref name="DC COMICS">{{Cite book |url=https://www.worldcat.org/oclc/1269618795 |title=JUSTICE LEAGUE DARK THE GREAT WICKEDNESS. |date=2022 |publisher=DC COMICS |isbn=978-1-77951-551-3 |location=[S.l.] |oclc=1269618795}}</ref> Connected to the [[Future State]] crossover event depicting an older Khalid Nassour having lived through the aftermath of the events of the "Great Wickedness" storyline, the entity is revealed to be the Egyptian goddess, Hauhhet.<ref name="DC COMICS" /> Nassour would also play a role in the ''Justice League''/''Justice League Dark'' crossover involving the return of the character, Xanadoth.
+
+==Incarnations==
+
+=== Nabu ===
+{{Main|Nabu (comics)}}
+
+In recent continuities, Nabu's time on Earth with his own physical body is the first person to be called Doctor Fate. In the ''Blue Beetle'' series, he is depicted in the past having one battle the Blue Beetle's scarab, Khaji-Da and the demigod Arion, once a fellow Lord of Order corrupted due to Khaji-Da (later stories retconned this reasoning) and their promise to protect his beloved city.  He defeats Arion but the scarab escapes his grasp. He would later resume using the name in the modern era in an ensuing conflict between himself, Jaime Reyes, and a resurrected Arion. During this time-frame, he had used his successor, Kent Nelson, to manifest on the physical plane due to his physical body having deteriorated long after the initial conflict between Arion and the scarab centuries ago.<ref name=":10">{{Cite book |last=Giffen |first=Keith |url=https://www.worldcat.org/oclc/837140933 |title=Hard choices |date=2017 |others=J. M. DeMatteis, Scott Kolins, Romulo Fajardo, Josh Reed |isbn=978-1-4012-7507-5 |location=Burbank, CA |oclc=837140933}}</ref>
+
+=== Kent Nelson ===
+{{Main|Doctor Fate (Kent Nelson)}}
+
+The original Doctor Fate, Kent Nelson is a Swedish-American who discovered the tomb of Nabu with his father. Having accidentally killed his father due to a deadly gas released from his tomb, the Lord of Order felt pity for the child and trained him in the ways of magic for two decades, bequeathing him his mystical amulet, helmet, and cloak, as well as all of his knowledge before Nelson started his career as a mystic superhero. He was a founding member of the [[Justice Society of America]].<ref name=":2">{{Cite web|date=2021-03-07|title=DC Universe Infinite Encyclopedia: Doctor Fate|url=https://www.dcuniverseinfinite.com/encyclopedia/doctor-fate/|url-status=dead|archive-url=https://web.archive.org/web/20210307110104/https://www.dcuniverseinfinite.com/encyclopedia/doctor-fate/|archive-date=2021-03-07|access-date=2022-02-24}}</ref>
+
+Kent Nelson in the newly revised continuity is the first mortal host to be Doctor Fate. He retains his original origin from the previous continuity and some of his earlier adventures. This version of Nelson is treated more callously by Nabu overall, used initially as an unconscious host to materialize himself onto the physical plane due to no longer having a body to create for himself. Nelson eventually regains control of his body in an ensuing magical conflict involving one of Nabu's former allies. He would come to find his apprentice and successor in the form of his great nephew, Khalid Nassour, who was chosen by Nabu's allies, the Egyptian Gods, to become Doctor Fate.
+
+=== Eric Strauss ===
+{{Comics character list header|debut=Doctor Fate #1|creators=J.M. DeMatteis & Keith Giffen|abilities=*Access to the Helmet of Fate, Amulet of Anubis, and the Cloak of Destiny grants Eric a number of magical abilities and can merge with another being selected as Doctor Fate, increasing their power. 
+*Enhanced mystical awareness|alias=Doctor Fate<br>Dr. Fate<br>Eugene DiBellia|name=Eric Strauss|teams=[[Lords of Chaos and Order|Lords of Order]]|debutyr=1987}}
+
+'''Eric Strauss''' (later '''Eugene DiBellia''') debuted in ''Doctor Fate'' #1 in July 1987. Created by J.M Dematteis and Keith Giffen, the character was created to replace the original Doctor Fate character, Kent Nelson. He is the second character to assume the Doctor Fate mantle.
+
+Born to a wealthy billionaire Henry Strauss and Rebecca Stauss, the latter whom was abusive to his wife and Eric himself. Selected as a future agent of order, Eric grew up aware of the existence of the Lords of Order, giving him a level of enhanced mystical awareness although it resulted in him possessing an abnormal personality that made him unable to interact with children his own age. He also possessed a special connection to his step-mother Linda due to the both of them being selected as future agents of order.<ref name="Fate1987">''Doctor Fate'' #1–4 (July–October 1987)</ref>
+
+At the age of ten, Eric was chosen as Nabu's next agent of order to inherit the Doctor Fate mantle, subquentionally aging up the boy in a similar manner to Nelson before although this time, Eric's mind did not mature.<ref name="Fate1987" /> He would act as Doctor Fate alongside Linda, the two often merging in order to become Doctor Fate. Nabu goes on to possess Kent's corpse in order to personally advise them.<ref name="Fate1987" /> The three of them are soon joined by a friendly demon called Petey and lawyer Jack C. Small.<ref name=":9">''Doctor Fate'' (vol. 2) #2 (December 1988)</ref><ref name="Fate1987" />
+
+Overtime, despite Eric's mind being similar to a child of ten years old, Linda developed romantic feelings for her step-son while Eric reciprocated such feelings.  Eric is eventually killed on [[Apokolips]] during a battle with [[Desaad]], forcing Linda to become Doctor Fate on her own.<ref name=":5" /> Linda is killed soon afterward by the [[Lords of Chaos and Order#Lords of Chaos|Lords of Chaos]]. Eric and Linda's souls were reincarnated in the bodies of Eugene and Wendy DiBellia while Nabu reincarnates in Eugene and Wendy's unborn child.<ref name="df24" />
+
+=== Linda Strauss ===
+[[File:Drfateinzanelson.jpg|thumb|181x181px|''Justice League America'' #31 (October 1989): Linda Strauss as Doctor Fate. Cover art by [[Adam Hughes]].|left]]{{Comics character list header|debut=Doctor Fate #1|creators=J.M. DeMatteis & Keith Giffen|abilities=*Access to the Helmet of Fate, Amulet of Anubis, and the Cloak of Destiny grants Linda a number of magical abilities and can merge with another being selected as Doctor Fate, increasing their power.|alias=Doctor Fate<br>Dr. Fate<br>Wendy DiBellia|name=Linda Strauss|teams=[[Lords of Chaos and Order|Lords of Order]]<br>[[Justice League|Justice League International]]|debutyr=1987}}'''Linda Strauss''' (later '''Wendy DiBellia''') debuted in ''Doctor Fate'' #1 in July 1987.Created by J.M Dematteis and Keith Giffen, the character would eventually serve as the successor to Eric Strauss as Doctor Fate. She is the third character to assume the Doctor Fate mantle and the first female character to serve as Doctor Fate.
+
+Husband to wealthy billionaire Henry Strauss, she would come to regret her marriage with Henry, having married him for his wealth despite the two having an age gap and was subjected to physical and emotional abuse by him prior to his death. She would also come to care for Eric Strauss, possessing a special connection with him due to being unknowingly selected as an agent of order. She eventually becomes Doctor Fate, often working alongside Eric in tandem while being guided by Nabu, whom possessed Kent Nelson's body, and are assisted by a friendly demon name Petey and Lawyer, Jack C. Small.<ref name="Fate1987" /><ref name=":9" /> Overtime, despite Eric's mind being similar to a child of ten years old, Linda developed romantic feelings for her step-son.
+
+Eric is eventually killed on [[Apokolips]] during a battle with [[Desaad]], forcing Linda to become Doctor Fate on her own.<ref name=":5" /> During her short tenure as Doctor Fate, she would become a member of the Justice League International.  Linda is killed soon afterward by the [[Lords of Chaos and Order#Lords of Chaos|Lords of Chaos]]. Eric and Linda's souls were reincarnated in the bodies of Eugene and Wendy DiBellia while Nabu reincarnates in Eugene and Wendy's unborn child.<ref name="df24" />
+
+=== Inza Cramer Nelson ===
+{{Comics character list header|debut=More Fun Comics #55|creators=Gardner Fox & Howard Sherman|abilities=*Access to artifacts such as the Helm of Fate allows her mastery over magic by using chaos magic due to a Chaos Lord patron. Later replaces her chaos magic by drawing from life forces. 
+*Occult expert & talented spell-caster without the aid of magical artifacts.
+*Skilled nurse & archaeologist; certified nurse and docotrate in archaeology|alias=Doctor Fate<br>Dr. Fate<br>Inza Saunders|name=Inza Nelson (nee Cramer)|teams=[[Lords of Chaos and Order|Lords of Chaos]] (unknowingly)<br>[[Justice League|Justice League Task Force]]|debutyr=1940}}
+
+'''Inza Cramer-Nelson''' (also '''Inza Saunders''') debuted in ''More Fun Comics'' #55 in 1940, created by created by writer [[Gardner Fox]] and artist Howard Sherman. Originally, the character was created as a love interest for Kent Nelson, the original character to have starred as Doctor Fate. She would eventually become the fourth character to bear the Doctor Fate name and the second female character to become Doctor Fate.
+
+In a scheme to lure in Doctor Fate, Inza was kidnapped by the scientific villain, Wotan. Inza and Doctor Fate meet, the woman enamoured with a life potentially filled with adventure and would accompany Doctor Fate as his partner. Eventually, Kent Nelson revealed his identity to her and she would support him when he became a medical doctor, accompanying him as a nurse.
+
+At some point, she also pursued a doctorate in archaeology similarly to her husband.<ref name=":13" />
+
+Later, the two would marry, the magics of the Tower of Fate keeping them young. Overtime, their marriage became strained due to Nabu's influence on Doctor Fate and Inza coming to resent having to be in a passive role within the Tower of Fate, resulting in a loss of a social life. Despite later having some romantic feelings for another man, Inza ultimately remained faithful to Kent with intent on working through their martial problems.<ref name=":13">{{Cite book |last=Pasko |first=Martin |url=https://www.worldcat.org/oclc/920677015 |title=The Immortal Doctor Fate |date=2016 |others=Keith Giffen, Walter Simonson |isbn=978-1-4012-5876-4 |location=Burbank, CA |oclc=920677015}}</ref> 
+
+Eventually, Inza and Nelson would be killed in the wake of the cosmic event known as kali yuga, the Lords of Chaos empowered and weakening Nabu, rapidly aging both of them and the strain being too much for Inza to bear. Eventually, Nelson too was killed and in the aftermath, the two would live out their afterlfie within the Amulet of Anubis for a time, the pair creating the life they missed out in their lifetime in the dimension, including a child.
+
+Eventually, the pair are resurrected into younger bodies and Inza becomes the sole Doctor Fate for a time, unable to merge with Nelson. As Doctor Fate, Inza's methods are more proactive although she becomes more reckless in their use, stemming a temporary separation from Kent. The two reconcile their differences upon learning Inza's patron as Doctor Fate originating from a Lord of Chaos, making her an agent of chaos.  The Chaos Lord revealing himself to have subtly influenced some events enough to cause the two to have strife against one another and enjoyed having the Lords of Chaos be a force of good, reasoning that even Chaos Lords did not find evil as favorable. The Chaos Lord would relinquish the powers bestowed to Inza back to himself although she would replace her chaos magic with magics stemming from life and continued acting as Doctor Fate, with Nelson acting alongside her.<ref name="df25">''Doctor Fate'' (vol. 2) #25 (February 1991)</ref><ref>''Doctor Fate'' (vol. 2) #26–32 (March 1991–September 1991)</ref> When operating as separate Doctor Fates, Inza wears the helmet and Kent's original costume while Kent wears the half helmet and costume he used in the late 1940s.<ref>''Doctor Fate'' (vol. 2) #36 (January 1992)</ref> Sometime later, the Nelsons and the JSA face the supervillain [[Hank Hall#Zero Hour: Extant|Extant]] during [[Parallax (comics)|Parallax]]'s attempt to change the history of the universe. Extant uses his time manipulation powers to rapidly age Kent and Inza to their proper physical ages. Extant also scatters the helmet, amulet, and cloak. The aged and depowered Nelsons then retire.<ref>{{Comic book reference|writer=[[Dan Jurgens|Jurgens, Dan]]|penciller=Jurgens, Dan|inker=|story=|title=Zero Hour|volume=|issue=#4-0|date=September 1994|publisher=[[DC Comics]]|page=|panel=}}</ref>
+
+After the New 52 reboot, Inza would make a minor appearance in a flashback, establishing her as Nelson's wife like the previous continuities. The flashback also implies her history being similar to her depiction in the Silver Age, Bronze Age, and Golden Age.<ref name=":8">{{Cite book |last=Tynion |first=James, IV |url=https://www.worldcat.org/oclc/1110150328 |title=Justice League Dark. Vol. 2, Lords of order |date=2019 |others=Ram V, Alvaro Martinez, Guillem March, Daniel Sampere, Mark Buckingham, Miguel Mendonça |isbn=978-1-4012-9460-1 |location=Burbank, CA |oclc=1110150328}}</ref>
+
+=== Jared Stevens ===
+[[File:Fatejaredstevens.jpg|thumb|184x184px|''Fate'' #1 (November 1994) featuring Jared Stevens. Cover art by [[Anthony Williams (comics)|Anthony Williams]] and [[Andy Lanning]].|left]]
+{{Comics character list header|debut=Fate #0|creators=John Francis Moore & Anthony Williams|abilities=*Agent of balance; contains the magical abilities derived from both chaos magic and order magic; Grants him high resistance to most kinds of magic, mystically enhanced physiology (superhuman strenngth, resistance to poisons), and numerous magical powers. 
+*Access to artifacts such as magical knives created from a re-shaped Helm of Fate; can damage magical beings and mystically returns to him at will. 
+*Proficient demon hunter and thief|alias=Fate|name=Jared Stevens|teams=[[Lords of Chaos and Order]]|debutyr=1994}}'''Jared Stevens''' debuted in ''Fate #0'' in 1994, created by John Francis More and Anthony Williams. The character was created as the fifth incarnation of the Doctor Fate character. Unlike other depictions of the character, he is instead referred to as simply '''Fate'''. As opposed to being a traditional sorcerer and spell-caster, he is instead cast similarly to a demon hunter and has the most radical of designs compared to other incarnations of Doctor Fate. This incarnation was considered an unpopular reinvention of the character.<ref name=":6" />
+
+After retiring, the Nelsons hire smuggler Jared Stevens to recover the helmet, amulet, and cloak from an Egyptian tomb. When the Nelsons try to collect the artifacts, they are murdered by two demons. During the battle, Jared attempts to use the amulet as a weapon, which then explodes and imbues him with various magical abilities and a red ankh-shaped scar over his right eye. Jared's injuries force him to use the cloak as a wrap for his right arm and to melt the helmet into a set of ankh-shaped darts and a dagger for use as weapons. After defeating the demons, Jared is contacted by Nabu, who attempts to make Jared the new Doctor Fate. Jared refuses and escapes, becoming a demon hunter using the alias "Fate". Due to<ref name="fate0" />
+
+During his battles, he teams up with the supernaturally powered team of fugitives [[Scare Tactics (comics)|Scare Tactics]], [[Etrigan the Demon]] and other forces to combat threats from the realm of [[Gemworld]].{{Citation needed|date=October 2014}} Jared is later murdered by [[Mordru]], who attempts to kill all the agents of the Lords of Chaos and Order and claim Fate's artifacts for himself.<ref name="jsa1">''JSA'' #1 (August 1999)</ref> Jared's equipment reverts to its original forms and returns to the Tower of Fate upon his death.<ref>''JSA'' #3 (October 1999)</ref>
+
+During the ''[[Dark Nights: Death Metal]]'' storyline, Jared is briefly seen among the superheroes that were revived by [[Batman]] using a Black Lantern ring. His appearance implies he was involved as an incarnation of Doctor Fate after the New 52 reboot although the exact history has yet to be explained.<ref>''Dark Nights: Death Metal'' #5. DC Comics.</ref>
+
+=== Hector Hall ===
+{{Main|Hector Hall}}
+After Jared's murder, the mantle of Doctor Fate, along with a restored helmet, amulet, and cloak, is passed to a reincarnated Hector Hall.<ref name="jsa4">''JSA'' #4 (November 1999)</ref> The Justice Society is reformed to protect the newly reborn Hector, who is being sought by Mordru so that he can use the boy's body to unlock the magical potential of Doctor Fate's artifacts for his own benefit.<ref>''JSA'' #2 (September 1999)</ref> Hector's new body is the biological son of [[Hawkgirl (Shiera Sanders)|Hawkman and Hawkgirl]], who are agents of Chaos and Order, respectively, which makes Hector an agent of balance instead of one side or the other.<ref>''JSA'' #46 (May 2003)</ref> When the [[Spectre (DC Comics character)|Spectre]] goes on a quest to extinguish magic, he banishes Hector and his [[Fury (DC Comics)#Hippolyta "Lyta" Trevor-Hall|wife]] to a snowy mountain landscape for all eternity, which they are only able to 'escape' by entering the Dream realm, although this essentially kills their bodies and means they can never return to Earth.<ref>{{Comic book reference|writer=[[Keith Champagne|Champagne, Keith]]|penciller=[[Don Kramer|Kramer, Don]]|inker=|story=|title=[[Justice Society of America|JSA]]|volume=|issue=#79–80|date=January and February 2006 |publisher=[[DC Comics]]|page=|panel=}}</ref>
+
+=== Kent V. Nelson ===
+{{Main|Doctor Fate (Kent V. Nelson)}}
+[[File:Kent V Nelson (Doctor Fate).jpg|left|thumb|188x188px|Kent V. Nelson's as Doctor Fate in ''Justice Society of America'' #33 (2010); art by Matt Sturges.]]
+The latest incarnation of Doctor Fate prior to the [[The New 52|New 52 reboot]], the character debuted in the first issue of ''Countdown to Mystery'' in 2007 as an attempt to revitalize the character; unlike other Doctor Fates, the character lacks any connections to Nabu and either of the Lords of Order or Lords of Chaos, as the two factions were killed off in a previous storyline. In addition, the character's powers is not tied to any known mythology, making the Doctor Fate character exclusively a mystic superhero.<ref name=":03"/><ref name=":14"/>
+
+A [[psychiatrist]] and the grand-nephew of Kent Nelson, the character would lose his status following his infidelity leading to a divorce, leading to depression and losing his license following negligent practices in the workplace. Eventually, the Helm of Fate, seeking a new host, would choose him as the next incarnation of Doctor Fate. The character would become a member of the Justice Society of America, struggling with upholding the legacy of spell-casters with his initial lack of magical expertise.<ref name="mystery">''Countdown to Mystery'' #1–8 (November 2007–July 2008)</ref><ref name=":22">''Justice Society of America'' (vol. 3) #35 (March 2010)</ref>
+
+=== Khalid Nassour ===
+{{Main|Doctor Fate (Khalid Nassour)}}
+The newest and current incarnation of Doctor Fate, Khalid first appeared in June 2015, starring in a ''Doctor Fate'' solo series, created as another attempt to revilize the character, this time using the Egyptian-related background of the character.<ref name="newsarama14"/> The character's journey & world would be inspired by [[Marvel Comics]]' [[Spider-Man]] and [[Doctor Strange]]<ref name="newsarama14"/> and is notably one of DC Comics's first [[Muslims|Muslim]] characters to healine a solo series.<ref name=":52">{{cite web |last1=Plummer |first1=Jessica |date=19 March 2020 |title=Give This Hero a Comic Book: Khalid Nassour (Doctor Fate) |url=https://bookriot.com/2020/03/19/khalid-nassour-doctor-fate-comic/ |access-date=3 April 2020 |website=Book Riot}}</ref> Unlike the other incarnations, the character's designation as Doctor Fate comes from both a cultural connection to [[Ancient Egyptian deities|Egyptian deities]] and a religious connection to [[Archangel]]s instead of Nabu.<ref name=":12" />
+
+An Egyptian-American medical student,<ref name="newsarama1" /> Khalid would be bestowed the Helmet of Fate by the Egyptian goddess Bastet masquerading as his pet cat. Initially, He was not as widely powerful as the other Doctor Fates of the previous reality though he retained some magical powers in spite of it. It was later revealed that Khalid's mother, Elizabeth, was the niece of Kent Nelson, making Khalid his grandnephew.<ref name=":2" /> Due to his inexperience, he is eventually taken in by Kent Nelson as his apprentice, the both of them being Doctor Fate.<ref name=":12">{{Cite book |last=Levitz |first=Paul |url=https://www.worldcat.org/oclc/933580456 |title=Blood price |date=2016 |others=Sonny Liew, Lee Loughridge, Nick Napolitano, Steve Wands |isbn=978-1-4012-6121-4 |location=Burbank, CA |oclc=933580456}}</ref> Khalid would become the sole Doctor Fate in the pages of ''[[Justice League Dark]]'' when Nelson perished in battle with Upside Down Man, having completed enough of his training to be considered one of the world's foremost magicians.<ref>{{Cite book |last=V |first=Ram |url=https://www.worldcat.org/oclc/1198086664 |title=A costly trick of magic |date=2021 |others=James, IV Tynion, Amancay Nahuelpan, Kyle Hotz, Álvaro Martínez Bueno, Raul Fernandez, June Chung |isbn=978-1-77950-714-3 |location=Burbank, CA |oclc=1198086664}}</ref>
+
+== Powers, abilities, and resources ==
+Nearly synonymous among all the bearers (with the exception being Jared Stevens), Doctor Fate is considered a powerful sorcerer nearly unmatched in the art of spell-casting in the DC Universe; with the combined might of all artifacts associated with Nabu, Doctor Fate is said to possess nearly unstoppable magical abilities (flight, teleportation, dimensional travelling, invisibility, necromancy, etc.). While not present in all bearers, the majority of Doctor Fate's magic and abilities appear in the form of an [[ankh]]. Though all bearers vary in actual skill, the Helm of Fate grants all Doctor Fates to have sufficient mystic power that potentially makes them among the most powerful practitioners of magic within DC Universe's Earth.<ref name=":0">{{Cite book |last=Scott |first=Melanie |url=https://www.worldcat.org/oclc/1089398386 |title=DC ultimate character guide |date=2019 |isbn=978-1-4654-7975-4 |edition=New |location=New York, New York |oclc=1089398386}}</ref><ref name=":2" />
+
+=== Mystic artifacts ===
+==== Helmet of Fate ====
+The Helmet of Fate (sometimes called the '''Helm of Fate''', '''Helmet of Anubis''', '''Helmet of Thoth''', or '''Helm of Thoth''') is a magical [[Corinthian helmet|corinthian]] helmet that grants the bearer godly level powers and is considered one of the most powerful magical artifacts in the [[DC Universe]]. While most continuities establish it to be a creation of [[Nabu (comics)|Nabu]], the fourth ''Doctor Fate'' series presents a different origin, the helm instead associated with [[Thoth]] and is presented with an altered origin, the object of power being rooted in the DC's version of Egyptian mythology; being a creation of [[Osiris]] and Thoth's hand, it was created in order to trap Nabu, who once served alongside Thoth for reasons not revealed.<ref name=":12" />
+
+Acting as a respository of  magical energy, the helm was constructed using the fictitious metal known as Nth metal, granting it mystical properties as well as some anti-magic properties against those of magical origin.<ref>{{Cite book |last=Snyder |first=Scott |url=https://www.worldcat.org/oclc/1061866233 |title=Dark nights : metal |date=2019 |others=Greg Capullo, Jonathan Glapion, Fco Plascencia, Mikel Janín, Jorge Jiménez, Doug Mahnke |isbn=978-1-4012-8858-7 |location=Burbank, CA |oclc=1061866233}}</ref> Bearing the helm allows for magical capabilitiy (spell-casting) and grant it's user’s numerous powers: flight, healing, and the manipulation of the natural elements (wind, earth, water, fire, and lightning).<ref name=":1">{{Cite book |url=https://www.worldcat.org/oclc/1253363543 |title=The DC comics encyclopedia : the definitive guide to the characters of the DC universe |publisher=[[DK (publisher)|DK Publishing]] |last1=Manning |first1=Matthew K. |last2=Wiacek |first2=Stephen |last3=Scott |first3=Melanie |last4=Jones |first4=Nick |last5=Walker |first5=Landry Q. |last6=Cowsill |first6=Alan |year=2021 |isbn=978-0-7440-2056-4 |edition=New |location=New York, New York |language=en |oclc=1253363543}}</ref><ref name=":0" /> The helm also contains a vast library of spells in which the user can draw from,<ref>{{Cite book |last=Willingham |first=Bill |url=https://www.worldcat.org/oclc/567099447 |title=Justice Society of America : axis of evil |date=2010 |publisher=DC Comics |others=Travis Moore, Jesús. Merino, Dan Green, Jesse Delperdang |isbn=978-1-4012-2901-6 |location=New York |oclc=567099447}}</ref>  posses the power to trap entities within it's separate world,<ref>{{Cite book |last=Tynion |first=James, IV |url=https://www.worldcat.org/oclc/1089196038 |title=Justice League Dark. Vol. 1, The last age of magic |date=2019 |others=Alvaro Martinez, Daniel Sampere, Raul Fernandez, Juan Albarran, Brad Anderson, Adriano Lucas |isbn=978-1-4012-8811-2 |location=Burbank, CA |oclc=1089196038}}</ref> and is both durable and capable of regerating from damage.<ref name=":15">{{Cite book |last=Giffen |first=Keith |url=https://www.worldcat.org/oclc/837140933 |title=Hard choices |date=2017 |others=J. M. DeMatteis, Scott Kolins, Romulo Fajardo, Josh Reed |isbn=978-1-4012-7507-5 |location=Burbank, CA |oclc=837140933}}</ref><ref name=":16">{{Cite book |last=Jordan |first=Justin |url=https://www.worldcat.org/oclc/1104219260 |title=Ashes |date=2019 |others=Eduardo Pansica, Denys Cowan, Júlio Ferreira, John Stanisci, Rain Beredo, Wes Abbott |isbn=978-1-4012-9381-9 |location=Burbank, CA |oclc=1104219260}}</ref>
+
+However, the Helm of Fate is not completely impervious, as powerful entities (i.e [[Arion (character)|Arion]], [[Brimstone (DC Comics)|Brimstone]]) have shown the ability to damage the helm itself enough to require regeneration, showcasing a vulnerability to powerful forms of magic and applications from the Firestorm matrix.<ref name=":16" /><ref name=":15" /> The helm can also be overload with magical power, rendering much of it's power inert; this took place during the ''A Costly Trick of Magic'' storyline when Nabu and Nelson sacrificed themselves to creating a spell powerful enough to injure Upside-Down Man, leaving Khalid's incarnation of Doctor Fate unable to call upon it's powers.<ref>{{Cite book |last=V |first=Ram |url=https://www.worldcat.org/oclc/1198086664 |title=A costly trick of magic |date=2021 |others=James, IV Tynion, Amancay Nahuelpan, Kyle Hotz, Álvaro Martínez Bueno, Raul Fernandez, June Chung |isbn=978-1-77950-714-3 |location=Burbank, CA |oclc=1198086664}}</ref>
+
+===== Patron entities' powers =====
+While the Helm of Fate itself is a magical artifact suffused with potent magical power, the Helm can also house an entity to act as a patron; each patron of the Helm of Fate allows certain incarnations of Doctor Fate to access unique abilities and powers as well as exert a level of influence onto its bearers:
+
+*'''Nabu''': The most commonly depicted patron; A powerful Lord of Order and often the creator of the Helmet of Fate, Nabu's patronage allows for the bearer to have potential access to all of his knowledge and can assist his bearers with his insight and thoughts. However, Nabu can also usurp control of his bearer's will by force, pitting him at odds with some of his hosts.
+* '''Chaos''': Inza Cramer's version of Doctor Fate was later revealed to be powered by a Lord of Chaos simply known as "Chaos". Chaos's patronage allows Doctor Fate to practice chaos magic, allowing them the ability to perform magic powered by imagination.<ref name=":4" /> Later establishment of chaos magic refer to this form of magic as a form of magic that requires no system (sigils, chanting, etc.) to perform.<ref name=":8" /> Chaos would claim that his influence over Inza was subtle and typically allowed free will due to believing the evil she fought being an opponent to the Lord of Chaos's objectives inherently along with amusement over the confusion of the Lords of Chaos fighting evil.<ref name=":4" /> 
+* '''Hauhet''': Khalid Nassour's version of Doctor Fate would later have the Egyptian deity inhabit the helm. Due to her divine sphere of influence within space and time, the Helm of Fate is capable of seeing through multiple timelines although much of it's abilities is shown in a damage state, costing some of the bearer's sight to see into the future.<ref>{{Cite book |last=V |first=Ram |title=Justice League Dark: The Great Wickedness |publisher=DC Comics |others=Dan Watters, Sumit Kumar, Xermanico, Christopher Mitten, José, Jr. Marzán, Romulo Fajardo |year=2022 |isbn=978-1-77951-551-3 |location=Burbank, CA |oclc=}}</ref> The Future State event showcases the helm's repaired power with Hauhet as it's patron, allowing the bearer to see both different timelines and experience them individually without costing the bearer's sight.<ref>{{Cite book |last=Altbacker |first=E. J. |url=https://www.worldcat.org/oclc/1240265473 |title=Future state : Justice League |date=2021 |others=Ryan Cady, Josie Campbell, Will Conrad, Sami Basri, Dale Eaglesham, Daniel Henriques |isbn=978-1-77951-065-5 |location=Burbank, CA |oclc=1240265473}}</ref>
+
+==== Amulet of Anubis ====
+The '''Amulet of Anubis''' (sometimes called the '''Amulet of Nabu''' or the '''Amulet of Thoth''') is an [[amulet]] that was once bestowed to Anubis's most devout follower, being created by the death god himself. The amulet itself is automatically granted to those who bear the Helm of Fate, bestowed to them alongside the magical cloak. The amulet affords several abilities, including resistance to psychic/astral probing, allows for mind control, and bolsters a user's magical power.<ref name=":3">{{Cite book |last=Pasko |first=Martin |title=1st Issue Special #9 |publisher=DC Comics |year=1975}}</ref> While seldomly used by Doctor Fate himself, the amulet also allows for the wearer to call upon the decease spirits, allowing him to commune with spirits<ref>{{Cite book |last=Joyner |first=Tom |title=Doctor Fate (vol. 2) #38 |publisher=DC Comics |year=1992}}</ref> as well as houses its own universe  separate from the main universe, allowing the wearer to hide their existence or to trap powerful entities within.
+
+The amulet's history was revised several times; in one story, the Amulet of Anubis was a powerful artifact forged by the Lords of Order at the dawn of time, being so powerful the Lords of Chaos formerly sought the artifact themselves. Eventually, it came into Nabu's possession to be granted to his chosen agent.<ref>{{Cite book |last=Pasko |first=Martin |title=The Flash #306 / Immortal Doctor Fate #2 |publisher=DC Comics |year=1981}}</ref>
+
+==== Other artifacts ====
+
+* '''Cloak of Destiny''': A magical cloak with mystic properities; the cloak is both fireproof<ref>{{Cite book |last=Fox |first=Garnder |title=More Fun Comics #57 |publisher=DC Comics |year=1940}}</ref> and highly resistant towards some forms of magic in the [[DC Universe]]; Jared Stevens notably used it to suppress the chaos magic that infected his arm.<ref>{{Cite book |last=Giffen |first=Keith |title=The Book of Fate #3 |publisher=DC Comics |year=1997}}</ref>
+* '''Orb of Nabu''': An orb-like device used by Doctor Fate in order to search for unknown threats, functioning similarly to a [[scrying]] glass. Despite its naming and Doctor Fate's association with magic, it is one of the few devices he uses not explicitly magic; the crystals that make up the orb are considered radio sensitive and react to his brain when in use. Though technological in nature, Doctor Fate often uses it and his magic in order to discern what is being hidden from them.<ref>{{Cite book |last=Fox |first=Gardner F. |url=https://www.worldcat.org/oclc/144226065 |title=The golden age Doctor Fate archives. Volume 1 |date=c. 2007 |publisher=DC Comics |others=Howard Sherman |isbn=978-1-4012-1348-0 |location=New York, N.Y. |oclc=144226065}}</ref>
+* '''Globes of Power''': Magically constructed globes used by the Inza Cramer incarnation of Doctor Fate, created as a method of helping others without needing to directly intervene with other citizens during her tenure in New York. The globes are powered by Doctor Fate's magic and act in a similar manner to AI, able to perform simple magical fixes or alert her to threats requiring her attention.<ref name=":4">{{Cite book |last=Messner-Loebs |first=William |title=Doctor Fate (1988-1992) #32 |publisher=DC Comics |year=1991}}</ref>
+* '''Staff of Power''': A mystical staff gifted to Khalid Nassour's incarnation of Doctor Fate by [[Thoth]] powered by the blood of a pharaoh. It allows for energy projection-related powers. Only the Khalid Nassour version of Doctor Fate can use it due to his pharaoh lineage.<ref name=":12" />
+* '''Throwing Ankhs''': Bladed weaponry created and molded from a melted down Helm of Fate. Mainly used by the Jared Stevens incarnation, they allow Jared to harm both magical and non-magical beings. He can also summon them back to his persons at will. After his death, the weaponry returned to its original form
+
+=== Tower of Fate ===
+The '''Tower of Fate''' (also called the '''Fortress of Fate''') is the magical dwelling bestowed to bearers of the Doctor Fate mantle. The tower acts as a nexus point of magic and reality on Earth. It has no doors or windows, being only accessible by magic. The inside of the tower appears as a twisted maze of stairways and hallways in which the laws of physics do not apply.<ref name=":1" /> The Tower holds a large collection of arcane texts within its personal library, including materials saved from the Great Library of Alexandria prior to its burning. In addition, the Tower itself possess mystical defenses, including once having a protector in the form of Typhon, a Lord of Chaos who was an enemy of Doctor Fate and later protectred the Tower from intruders.<ref>{{Cite book |last=Goyer |first=David S. |url=https://www.worldcat.org/oclc/51448984 |title=JLA, JSA : virtue and vice |date=2002 |others=Geoff Johns, Jesús Merino, Carlos Pacheco |isbn=1-56389-937-X |location=New York |oclc=51448984}}</ref>
+
+=== Weaknesses ===
+Despite the character's portrayal of powers, Doctor Fate has several weaknesses dependent on the incarnation:
+
+* Removal the Helm of Fate on Doctor Fate can remove their powers or limit their abilities severely;<ref name=":11">{{Cite book |last=Willingham |first=Bill |url=https://www.worldcat.org/oclc/567099447 |title=Justice Society of America : axis of evil |date=2010 |publisher=DC Comics |others=Travis Moore, Jesús. Merino, Dan Green, Jesse Delperdang |isbn=978-1-4012-2901-6 |location=New York |oclc=567099447}}</ref> several incarnations of Doctor Fate suffer from this weakness, including both the original Kent Nelson (whom can only cast a limited amount of spells alone and possess no power to channel magic without a Lord of Order patron)<ref>{{Cite book |last=Messner-Loebs |first=William |title=Doctor Fate v2 #36 |publisher=DC Comics |year=1992}}</ref> and his grand-nephew, Kent V. Nelson.<ref name=":11" />
+
+* Due to the "rules of magic", Doctor Fate is unable to cast counter spells against himself to nullify another spell after they've been cast, the character only able to use his powers to protect him from the effects of whatever spell has been cast afterwards. This limitation is present on Kent Nelson's incarnation of Doctor Fate.<ref name=":2" /><ref>''Justice League of America'' #38 (September 1965)</ref><ref>''Justice League of America'' #148 (November 1977)</ref> 
+* The Kent Nelson incarnation of Doctor Fate has also fallen victim to gas attacks and lack of oxygen without magical protections.
+* Divine sources can also disrupt the abilities bestowed to Doctor Fate's incarnations, namely their healing abilities. This weakness has been seen with Khalid Nassour's incarnation of Doctor Fate<ref name=":12" />
+
+==Supporting cast==
+
+=== Supporting characters ===
+{| class="wikitable"
+!Character name
+![[First appearance]]
+!Brief Description
+|-
+! colspan="3" |Kent and Inza Nelson's friends and allies
+|-
+|Tilda and Tooly Wilson
+|Doctor Fate (1988–1992) #26
+|Neighbors of Kent and Inza during their stay in New York City upon their second attempt at living a life on Earth following their resurrection from the Amulet of Anubis. Their niece is Debby Niles, a New York police officer who befriends Inza. Both Tilda and Tooly are supporters of Inza's Doctor Fate, believing her to be a force of good helping the disadvantaged in their particular neighborhood. 
+|-
+|Shat-Ru
+|Doctor Fate (1988–1992) #25
+|A Lord of Order who annexed himself from his brethren in an attempt to punish Doctor Fate, believing Nelson to have humiliated the Lords of Order with his inability to enforce order onto Earth. Trapped in Nelson's old body by Inza, he eventually becomes a reluctant ally of Kent and Inza, posing himself as Nelson's grandfather. He is notable for his characterization of hating humanity in general. Despite that, he fell in love with the human, Dorothea. 
+|-
+|Debby Niles
+|Doctor Fate (1988–1992) #30
+|An African American police officer who is the niece of Kent and Inza's neighbors, Tilda and Tooly Wilson. While initially skeptical of Inza's Doctor Fate incarnation, she later befriends Inza after learning she is Doctor Fate from their souls interacting with one another in a near-death experience and the two become best friends. 
+|-
+|Mary Louise Wilson (née Grant) 
+|Doctor Fate (1988–1992) #25
+|An elderly woman who was born over a century ago, acting as a host to the Egyptian entity known as T'giian, a Lord of Kemet. She is freed from T'giian's control from Inza's actions as Doctor Fate. Later, the two would merge when Mary was hospitalized as T'giian tricked her into being her host. However, Mary would learn that despite T'giian's insistence, her will was powerful enough to override T'giian, giving her powers. She serves as a parallel to Doctor Fate (particularly Inza), having similar magical abilities to a Lord of Chaos derived from an Egyptian entity, having been alive for over a century similar to Inza. When merge, she refers to herself as "Mary T'Giian". 
+|-
+|Dorothea 
+|Doctor Fate (1988–1992) #31
+|A young woman who became enamored with Shat-Ru's denouncement of humanity and his philosophy from his perspective as a Lord of Order, initially unaware of his true nature and developed feelings for Shat-Ru despite his apparent elderly age while being in Kent Nelson's body. She would later learn and accept his nature as a Lord of Order and initiated a sexual relationship when he admitted to having developed feelings for her.
+|-
+! colspan="3" |Hector Hall's allies
+|-
+|James Bolling
+|Doctor Fate (2003) #1
+|A member and the de facto leader of the Salem Coven; An African-American professor and teacher of the mystic arts, he guided his coven to being one of Doctor Fate's allies in Salem. He would later help Hector defeat the villain known as The Curse. 
+|-
+|Anita
+|Doctor Fate (2003) #1
+|A member of the Salem Coven and one of Bolling's students; she was, along with the Bolling, the one whom first met Hector Hall in person shortly after moving to Salem as Doctor Fate and shares a close relationship with Kym. She is killed during The Curse's takeover of Salem.
+|-
+|Kym
+|Doctor Fate (2003) #3
+|A African-American member of the Salem Coven and one of Bolling's students who shared a close relationship with Anita. She is also an ally of Hector Hall.
+|-
+! colspan="3" |Kent V. Nelson's family
+|-
+|Marisa Nelson
+|''Countdown to Mystery'' #1 ) (November, 2007)
+|Nelson's ex-wife and mother of his daughter, Laryn. She divorced Nelson upon learning of his infidelity with a younger woman.
+|-
+|Laryn Nelson
+|''Countdown to Mystery'' #1 ) (November, 2007)
+|Kent V. Nelson's young daughter. He would distance himself from Laryn for years after his divorce from Marisa, something he regretted.
+|-
+! colspan="3" |Kent V. Nelson's friends and allies
+|-
+|Maddy
+|''Countdown to Mystery'' #3 ) (January, 2008)
+|A skilled psychic whom Nelson visits soon after donning the Helmet of Fate in an attempt to learn more about it, using her skills to serve others despite skeptics often not believing her. Also a skilled practitioner in the magical arts, she assists him in his understanding of the Helmet of Fate despite being jealous of the Helm choosing him, finding him to be an amateur sorcerer with little actual ability and understanding.
+|-
+|Inza Fox
+|''Countdown to Mystery'' #4 ) (February, 2008)
+|A witty cartoonist and comic book artist working for the fictional ''Pain Comics'' who saves Nelson while in his hallucinogenic episodes and helps him.  She coincidentally shares the same first name as his great aunt. Through her comic book series "''Killhead''", Nelson believes Inza to have suffered abuse through her ex-boyriend and has coded her own story of abuse through her characters. He would begin to develop feelings for her.
+|-
+! colspan="3" |Khalid Nassour's family
+|-
+|Elizabeth Nassour
+|''Convergence: Aquaman'' #2 ) (July, 2015)
+|The mother of Khalid Nassour and the niece of Kent Nelson. Like her uncle, she is also a renowned archaeologist. She is initially unaware of her son's duties as Doctor Fate but later suspects it due to her son's frequent disappearances and supports him. In the ''[[Young Justice (TV series)|Young Justice]]'' series, she is instead named "Jane Nassour" and is both homo magi and a descendant of [[Arion (character)|Arion]]. Despite this, she is also presented as having given up magic upon converting to Islam and disapproves Khalid's decision to honor his homo magi roots.
+|-
+|Mohammed Nassour
+|''Convergence: Aquaman'' #2 ) (July, 2015)
+|The father of Khalid Nassour. A former doctor in Egypt, he immigrated to America from Egypt after marrying Elizabeth and worked as a cab driver, unable to be re-certification in the United States. He is aware of his son's identity as Doctor Fate and supports him in balancing his hero and personal life as well as Khalid's goal to become a doctor. Being of Egyptian descent, Mohammed also has knowledge of Egyptian lore and mythology, characterized as having pride in his heritage. He also makes a brief appearance in the ''[[Young Justice (TV series)|Young Justice]]'' series, also supporting Khalid in his endeavors of balancing his Islamic faith and his homo magi heritage.
+|-
+! colspan="3" |Khalid Nassour's friends and allies
+|-
+|[[Bastet]]
+|''Convergence: Aquaman'' #2 ) (July, 2015)
+|A fictional depiction of the Egyptian goddess of the same name. She is the goddess responsible for choosing Khalid as the next Doctor Fate due to his pharaoh bloodline. While she is initially skeptical of choosing Khalid from his reluctance of accepting the role, she comes to believe she chose a capable champion and guides him in his path as Doctor Fate. She tends to inhabit the family cat, Puck, to communicate with Khalid and helps protects his personal life when his duties as Doctor Fate interferes with it.
+|-
+|[[Hauhet (comics)|Hauhet]]
+|''Justice League Dark 2021'' Annual #1 ) (January, 2022)
+|A fictional depiction of the Egyptian deity of the same name. Hauhet replaces Nabu as the resident spirit within the Helm of Fate when Nabu disappeared. The Egyptian deity over space and time, her influence in the Helm allows Khalid the ability to see through other timelines at the expense of losing his sight for each time he uses the ability. Khalid is initially unaware of her presence until Merlin attempts to usurp control of magic. Hauhet also appears in the [[Future State]] event, revealing herself to be an ally of Nabu and repairs the Helm back to full power after Nelson's sacrifice against Upside-Down Man damaged the artifact.
+|-
+|[[Stitch (DC Comics)|Stitch]]
+|''Teen Titans Academy'' #1 ) (May, 2021)
+|A non-binary animated ragdoll who becomes Khalid's apprentice some time after the death of Kent Nelson. She is a student at Teen Titans Academy and later founds Young Justice Dark, a younger counterpart of Justice League Dark.
+|-
+! colspan="3" |Khalid's love interests
+|-
+|Shaya Halim
+|''Convergence: Aquaman'' #2 ) (July, 2015)
+|Khalid's girlfriend aspiring to be a doctor like Khalid himself.
+|-
+|Akila
+|''Doctor Fate (vol. 4)'' #3 ) (October, 2015)
+|Khalid's childhood best friend and an activist with goals of protesting against wrongdoings from people in Middle Eastern countries despite her family frowning upon her activities. Unlike her family, the Nassours typically support her endeavors and prefer her over Shaya. She tries to get Khalid into [[activism]], unaware that his rejection of it stems from his double life as Doctor Fate. She also harbors romantic feelings for him.
+|}
+
+==== Supporting teams and groups ====
+{| class="wikitable"
+! style="width:20%" |Villain
+! style="width:20%;" |First appearance
+! style="width:28%;" |Fictional biography
+! style="width:20%;" |Notable members
+|-
+|Lords of Order
+|([[retcon]]): ''[[More Fun Comics]]'' #55 (May 1940)
+(actual): ''DC Special Series'' #10 (Jan 1978)
+|A group of mystical beings and godly entities representing the concept of order in the DC Universe; the group typically acts in tandem with various incarnations of Doctor Fate, often acting as an agent for them or a balacing force between them and their cosmic opposites, the Lords of Chaos.
+|Nabu
+----Shat-Ru 
+----Ynar (formerly) 
+|-
+|Salem Coven
+|''Doctor Fate'' (vol. 3) #1 (2002)
+|A Wiccan coven of magical practitioners whom offer their services to Hector Hall shortly after becoming Doctor Fate. They later assist Hector Hall during a crisis involving the malevolent entity known as "The Curse".
+|Professor Bolling
+----Anita
+----Kym
+|-
+|Egyptian Pantheon
+|''Convergence: Aquaman #2'' (July, 2015)
+|The fictional depiction of the [[Ancient Egyptian deities|ancient Egyptian deties]]; In the modern era, the Egyptian deities (namely Bastet) would choose the new Doctor Fate in the form of Khalid Nassour, a descendant of previous pharaohs. The majority of the Egyptian gods are portrayed as allies of Khalid and working in tandem with the Archangels.
+|Osiris
+----Bastet 
+----Thoth / Zehueti
+----Hauhet
+----
+|}
+
+=== Villains and enemies ===
+{| class="wikitable"
+|+
+!Character
+![[First appearance]]
+!Brief Description
+|-
+! colspan="3" |Lords of Chaos and affiliated agents
+|-
+|[[Mordru the Merciless|Mordru]]
+|''[[Adventure Comics]]'' #369 (June 1968)
+|Considered among the most powerful of all the Lords of Chaos; adversary of Doctor Fates and other characters and teams, including Amethyst, Arion, and Legion of Superheroes. A master of dark and chaos magic, he aims to dominate all of existence under his rule with the power of the Lords of Order and Chaos.
+|-
+|Anti-Fate
+|''Doctor Fate'' #1 (July, 1987).
+|A former chief psychiatrist in Arkham Asylum, Dr. Benjamin Stone was chosen by the Lords of Chaos as their agent and was corrupted specifically be the Lord, Typhon, to become an antithesis of Doctor Fate.
+|-
+|Xanadoth
+|''Superman'' (vol. 5) #23 (September, 2020)
+|A powerful Lord of Chaos, Xanadoth once ruled her fellow Chaos Lords until they rebelled and sided with the Lords of Order to depose of her rule and erased records of her history. She is later revived by an artifact containing her essence when it was collected by [[Department of Extranormal Operations]] agent, Veronica Bissett, and plots to subert the unvierse into her own variant of chaos. She becomes an enemy of Khalid Nassour, Superman, Justice League, and Justice League Dark.
+|-
+|Totec / Malferrazae
+|''The Flash'' #306 (backup feature)
+|A fictional depiction based upon Xipe Totec, the Aztez god of ritual flaying and agriculture, lord of seasons, regeneration and crafts.  In the DC Universe, "Totec" is the name given to Malferrazae by the [[Aztecs]] whom were unaware of his true name and affiliation with the Lords of Chaos and is identified as the Aztec God of War.  After losing his power derived from the Aztec's worship upon their decemation at the hands of the Conquistadors, he existed as a statue witihn his shrine, using his limited powers to compel others to sacrifice in his name until he gained enough power to free himself. Malferrazae comes into conflict with the Kent Nelson incarnation of Doctor Fate, later using Inza as a hostage to gain an advantage, spawning a demonic creature that was a manifestation of her jealousy to Kent Nelson. Eventually, the creature representing Inza's jealousy of Nelson choosing his duties as an agent of the Lords of Order over her turns on him, allowing Kent to defeat him.  
+|-
+! colspan="3" |Lords of Order and affiliated agents
+|-
+|[[Arion (character)|Arion]]
+|''[[Warlord (DC Comics)|Warlord]]'' #55 (March, [[1982 in comics|1982]])
+|An Atlantean demigod and a fellow Lord of Order whose one of the few to possess a physical body. A corrupted version of Arion would come into conflict with Nabu after he is turned insane due to exposure to the Tear of Extinction and exposure to Khaji-Da.  Arion's original state is later resurrected by Merlin during Khalid Nassour's lifetime as Doctor Fate, placed under mind control by Merlin.
+|-
+|Ynar
+|''The Flash'' #310 (June, 1982)
+|A renegade Lord of Order who became disillusioned with the battles between the Lords of Chaos and Order, he teams up with another likeminded Lord of Chaos to end the conflict between the two by force, pitting him at odds with the Kent Nelson incarnation of Doctor Fate.
+|-
+! colspan="3" |Malevolent entities & deities
+|-
+|[[Anubis]]
+|''1st Issue Special'' #9 (December, 1975)
+|A fictional version of the Egyptian god of the same name, he is the deity that empowers one of his faithful followers, Khalis, placing him at odds with both Nabu and later the first of the sorcerous line of Doctor Fate, agents of the aforementioned Lord of Order. Anubis most notably has enmity with the Khalid Nassour incarnation of Doctor Fate, as the pharaoh's blood running through his veins allows him to invoke power over him as he seeks to gain power and influence beyond his cosmic station and influence in wake of the weakening of his fellow Egyptian gods.
+|-
+|The Curse
+|''Doctor Fate'' (vol. 3) #1 (2002)
+|The child of the Babylonian god of war (implied to be [[Nergal]]), the Curse (having forgotten his birth name) was a cruel and powerful demigod and sorcerer who once subjugated Mesopotamia and later attempted to take over Egypt until being stopped by Nabu. Unable to fully destroy him, Nabu instead destroyed his physical body and tapped his spirit inside a warrior helm. Needing a host to act, the Curse would choose Justin Guilder, a master thief who competed with Hector Hall for the affections of a woman named Caitlin. Confronting Doctor Fate and the Salem Coven, he is eventually defeated by the former. The Curse is among one of the few non-Lords of Chaos enemies whom uses chaos magic.
+|-
+! colspan="3" |Evil scientist, sorcerers, and other adversarieis 
+|-
+|Khalis
+|''1st Issue Special'' #9 (December, 1975)
+|The [[Mummy (undead)|mummy]] of an ancient priest and a follower of Anubis who was mummified and buried alive by Nabu and the original holder of the Amulet of Anubis and its terrifying power. He comes into conflict with the Kent Nelson incarnation of Doctor Fate when he was revived and sought back the power of Anubis's amulet.<ref>''1st Issue Special #9. DC Comics.''</ref>
+|-
+|[[Wotan (comics)|Wotan]]
+|''More Fun Comics'' #55 (May, 1940)
+|A powerful sorcerer an arch-enemy of Doctor Fate, notably Kent Nelson's incarnation. Originally a woman from a primitive tribe who was raped and beaten nearly to death by her tormentors, she learned magic from an old sorceress and became determine to understand the purpose of humanity and its suffering. The woman would eventually learn how to transfer her soul into other bodies and took the name "Wotan", adopting the Germanic and Norse mythology despite having no association of it. Wotan uses both magic and scientific skills in their pursuit of power and curiosity.
+|-
+|[[Ian Karkull]]
+|''[[More Fun Comics]]'' #69 (August 1941)
+|A scientist who gained the power of sorcery and a shadow form.<ref>''More Fun Comics'' #69 (July 1941). DC Comics.</ref>
+|-
+|Justin Guilder
+|''Doctor Fate'' (vol. 3) #1 (2002)
+|A master thief whom gained the powers of the entity known as the Curse after witnessing his resurrection by a culitist eager to gain more formidable power. Using his affections for a woman named Caitin and his jealousy of Hector Hall, Justin is manipulated into becoming the Curse's host. Unlike other dark entities, the Curse treats Justin mutually and becomes one with him. Justin's body (save his severed head) is destroyed during the Curse's battle with Doctor Fate. 
+|}
+
+==== Villainous teams and groups ====
+{| class="wikitable"
+! style="width:20%" |Villain
+! style="width:20%;" |First appearance
+! style="width:28%;" |Fictional biography
+! style="width:20%;" |Notable members
+|-
+|[[Lords of Chaos and Order|Lords of Chaos]]
+|([[retcon]]): ''[[More Fun Comics]]'' #55 (May 1940)
+(actual): ''DC Special Series'' #10 (Jan 1978)
+|The cosmic opposite of the Lords of Order and ultimate rival to the Lords of Order and their empowered agents. The Lords of Chaos exists as an enemy to all Doctor Fates, working to ensure to bring about an age known as "Kali Yuga", a period in which chaos and reigns supreme in the known universe.
+|[[Mordru]]
+----Typhon
+----Xanadoth
+|}
+
+==Other versions==
+
+=== Khalid Ben-Hassin ===
+[[File:Doctor_Fate_(Ben-Hassin)_in_Earth_2_11_Textless_Cover.png|thumb|left|120px|Khalid Ben-Hassin as Doctor Fate. Art by [[Brett Booth]]]]
+{{Comics character list header|debut=Earth 2 #9|creators=[[James Robinson (writer)|James Robinson]] & [[Nicola Scott]]|abilities=*Archaeology; expert on the occult
+*Through the Helm of Fate, has mastery of magic by invoking Egyptian deities within his spells.|alias=Doctor Fate<br>Dr. Fate|name=Khalid Ben-Hassin|teams=Wonders of the World<br>[[Lords of Chaos and Order]]|debutyr=2013}}In 2013 several years after DC Comics rebooted the [[DC Universe]] through the New 52, a new incarnation of Doctor Fate would be created for the ''Earth 2'' series. Similarly to the Khalid Nassour incarnation (whom debuted 2 years after Ben-Hassin), the character is also of Egyptian descent raised in America. The character's descent was intentional by James Robinson, wanting an Egyptian character to hold the mantle Doctor Fate while still allowing to be Western but not making him a caricature. Unlike other versions of Fate prior to 2013, his spell-craft abilities are also centered on invoking Egyptian deities. Alongside his creation also came a redesign of the Doctor Fate enemy, [[Wotan (comics)|Wotan]].<ref>{{Cite web |last=TODAY |first=Brian Truitt, USA |title='Earth 2' writer puts a new twist on Doctor Fate |url=https://www.usatoday.com/story/life/2013/03/04/earth-2-comic-book-series/1962607/ |access-date=2022-05-23 |website=USA Today |language=en-US}}</ref>
+
+Ben-Hassin was raised by Kent Neslon, whom served as his [[legal guardian]] and studied [[archaeology]], specializing in knowledge of the occult and later earning a [[doctorate]].<ref name=":7">{{Cite book |last=Robinson |first=James Dale |url=https://www.worldcat.org/oclc/1014309415 |title=Earth 2. Volume 2, The tower of fate |date=2013 |publisher=DC Comics |others=Nicola Scott |isbn=978-1-4012-4844-4 |location=[United States] |oclc=1014309415}}</ref>
+
+First appearing in "''The Tower of Fate''" storyline, it is revealed that two years prior, Khalid and [[Hawkgirl (Kendra Saunders)|Kendra Saunders-Munoz]]  were sent to uncover the Tomb of Nabu, the dwelling of a powerful mage, by the World Army, the ordeal in which gave Kendra her wings and revealed Khalid as being Nabu's chosen vessel. Instead of accepting its power, Khalid sent the Helm away with the remnant of power he gained after bearing the Helm for a brief time. Hesitant on accepting himself as Nabu's vessel since, he is later coerced when Wotan kidnaps him, Jay Garrick (Flash), and Jay's mother in order to force Khalid to retrieve the Helm within the Tower of Fate, which cannot be accessed by anyone else other than himself and those in his proximity. Inspired by Flash's heroism and bravery, he chooses to become Nabu's agent of order and chaos, christening himself "Doctor Fate". He battles Wotan and eventually prevails with the help of Nabu's deceased spirit and using his knowledge of Egyptian deities to banish Wotan.<ref name=":7" />
+
+=== Doctor Fate (Legion of Super-Heroes) ===
+{{Comics character list header|debut=Supergirl v7 #33|creators=Marc Andreyko & Kevin Maguire|abilities=Access to the Helm of Fate grants them numerous magical powers; Legion flight ring grants flights and a built-in microcomputer for various purposes.|alias=Doctor Fate, Lord of Order|name=|teams=[[Legion of Super-Heroes]]|debutyr=2019}}
+A future version of the character debuted in ''Supergirl'' #33 (2019), first created by writer Marc Andreyako and artist Kevin Maguire. This version of the character is a member of the [[Legion of Super-Heroes]], appearing in a possible future in the 31st century after the alterations of reality made by [[Doctor Manhattan]] was undone during the [[Doomsday Clock (comics)|''Doomsday Clock'']] event.  
+
+Unlike other versions of Doctor Fate, the Legion of Super-Heroes's Doctor Fate is portrayed as a six-armed, male alien sorcerer. Doctor Fate asssits the Legion of Super-Heroes in mystic matters and is the one who warns the Legion and the United Planets of the coming Great Darkness, the true source and emobodiment of darkness in the DC Universe.  He also assists the Legion of Super-Heroes in defeating the future version of [[Mordru]], who plots to kill [[Jon Kent (DC Comics)|Superman (Jon Kent)]] with help from Rogol Zaar. 
+
+=== Alternate versions of  incarnations ===
+
+==== ''Books of Magic'' ====
+While [[Timothy Hunter]] is being guided through the world of magic by the [[Phantom Stranger]], the two of them observe Kent, though he is unaware of their presence.<ref>''The Books of Magic'' #1 (March 1991)</ref> Sometime later, [[Mister E]] shows Hunter a future version of the helmet that resembles a human skull and kills any of its worshippers who wear it. The helmet has given up on life itself and the war between Order and Chaos. Mister E revealed that in the past, he attempted to kill Doctor Fate and destroy the helmet but was stopped by the Justice League.<ref>''The Books of Magic'' #4 (June 1991)</ref>
+
+==== Kingdom Come ====
+The ''[[Kingdom Come (comics)|Kingdom Come]]'' universe features a version of Nabu who is able to channel his consciousness through the helmet and cloak without the need for a host body. This version of Fate sides with Batman's group and is among the survivors at the end of the final battle.<ref>''Kingdom Come'' #1–4 (May–August 1996)</ref>
+
+=== Alternate counterparts ===
+
+==== Doctor Chaos ====
+[[File:Doctorchaosdcu0.jpg|thumb|200px|Doctor Chaos. Art by [[Kurt Schaffenberger]]|left]]
+{{Comics character list header|debut=The New Adventures of Superboy #25|creators=Martin Pasko (writer)<br> Kurt Schaffenberger (penciler)|abilities=Access to the artifact known as the "Helmet of Chaos" gants the user magic and spellcasting.|alias=|name=Burt Belker (original)<br>Unknown (current)|teams=[[Lords of Chaos and Order|Lords of Chaos]]|debutyr=1982}}
+
+In the Earth-1 universe, Professor Lewis Lang and his assistant Burt Belker discover a helmet in the Valley of Ur in Mesopotamia that is identical to the helmet on Earth-2 except for its blue color. This helmet contains a Lord of Chaos that possesses Burt and turns him into the sorcerer Doctor Chaos, whose costume is identical to Doctor Fate's except for a reversed color scheme. [[Superboy (Kal-El)|Superboy]] confronts Doctor Chaos and removes the helmet from Burt, jettisoning it into space.<ref>''The New Adventures of Superboy'' #25 (January 1982)</ref>
+
+A new version of Doctor Chaos later appeared briefly in the ''[[Justice League of America]]'' 2018 series within the main [[DC Universe|DC Comics Universe]]. This version is aligned with the Lords of Chaos outfitted in garb similar to Doctor Fate except for a reverse color scheme much like the Earth-1 version. Acting as a protector of the Lords of Chaos's base of operations, the Chaos Realm, he appears when the Justice League's mystical villain, Queen of Fables, attempts to escape her imprisonment. He is swiftly killed by the Queen of Fables and escapes the Chaos Realm. The identity of the person behind Doctor Chaos remains unknown.<ref>{{Cite book |last=Orlando |first=Steve |url=https://www.worldcat.org/oclc/1014090846 |title=Justice League of America. Vol. 4, Surgical strike |date=2018 |others=Kelley Jones, Hugo Petrus, Stephen Byrne, Michelle Madsen, Clayton Cowles, Josh Reed |isbn=978-1-4012-8058-1 |location=Burbank, CA |oclc=1014090846}}</ref>
+
+==== Doctor Strangefate ====
+Doctor Strangefate is a sorcerer from the [[Amalgam Comics]] universe; he is an [[Amalgamation (fiction)|amalgamation]] of Doctor Fate and [[Marvel Comics]]' [[Doctor Strange]], with the alter ego of Marvel Comics' [[Professor X|Charles Xavier]].<ref>''Doctor Strangefate'' #1 (April 1996)</ref>
+
+==In other media==
+{{Multiple issues|section=yes|
+{{More citations needed section|date=July 2015}}
+{{Prose|section|date=August 2020}}
+}}
+{{See also|Doctor Fate (Kent Nelson)#In other media|Doctor Fate (Khalid Nassour)#In other media|Nabu (comics)}}
+
+===Television===
+====Live-action====
+[[File:Smallville-Brent Stait as Doctor Fate.jpg|120px|thumb|right|[[Brent Stait]] as Doctor Fate on ''Smallville''.]] 
+* The Kent Nelson incarnation of Doctor Fate and his wife Inza Nelson appear in the ''[[Smallville]]'' two-part episode "[[Absolute Justice]]", portrayed by [[Brent Stait]] and [[Erica Carroll]] respectively.<ref>{{cite web|author=Eric Goldman|url=http://tv.ign.com/articles/103/1036548p1.html|title=Exclusive: Two of Smallville's Justice Society |website=IGN|date=2009-10-19|access-date=2011-01-16}}</ref> The Helmet of Nabu reappeared in the episode "Lazarus", wherein [[Chloe Sullivan]] uses it to locate the [[Oliver Queen (Smallville)|Green Arrow]].<ref>{{cite magazine|last=Ausiello|first=Michael|url=http://ausiellofiles.ew.com/2010/08/11/ask-ausiello-spoilers-greys-glee-90210/|title=Ask Ausiello: Spoilers on 'Grey's,' 'Chuck,' 'Glee,' '90210,' 'Pretty Little Liars,'|magazine=[[Entertainment Weekly]]|date=2010-08-11|access-date=2011-01-16|url-status=dead|archive-url=https://web.archive.org/web/20101015122603/http://ausiellofiles.ew.com/2010/08/11/ask-ausiello-spoilers-greys-glee-90210/|archive-date=2010-10-15}}</ref>
+* Doctor Fate's helmet made a brief appearance in the ''[[Constantine (TV series)|Constantine]]'' episode "Non Est Asylum" as one of several artifacts stored in Jasper Winter's house.<ref>{{cite AV media |year=2014 |title=Comic-Con 2014: Constantine Comic-Con Preview (Sneak Peek) |url=https://www.youtube.com/watch?v=G-W4eXUyYi0?t=26s |archive-url=http://wayback.archive-it.org/all/20060920234814/http://www.youtube.com/watch?v=G-EO6YIk3kI |url-status=dead |archive-date=2006-09-20 |access-date=2014-07-30}}</ref>
+* The Kent Nelson incarnation of Doctor Fate appears in ''[[Stargirl (TV series)|Stargirl]]''.
+
+====Animation====
+* The Kent Nelson incarnation of Doctor Fate appears in series set in the [[DC Animated Universe]], initially voiced by [[George DelHoyo]] before [[Oded Fehr]] took over.
+* The Kent Nelson incarnation of Doctor Fate appears in the ''[[Batman: The Brave and the Bold]]'', voiced by [[Greg Ellis (actor)|Greg Ellis]].
+* Doctor Fate appears in ''[[Mad (TV series)|Mad]]'', voiced by [[Kevin Shinick]].
+* Doctor Fate appears in the ''[[DC Nation]]'' block on [[Cartoon Network]].<ref>{{cite web |author=Kevin Melrose |date=2012-02-21 |title=First Look: Supergirl, Wonder Girl and Batgirl From DC Nation Shorts |url=http://www.cbr.com/first-look-supergirl-wonder-girl-and-batgirl-from-dc-nation-shorts/ |access-date=2013-09-12 |website=Comic Book Resources}}</ref>
+* Several incarnations of Doctor Fate appears in ''[[Young Justice (TV series)|Young Justice]]''. This version features different origins for those who hold the mantle, some of whom are based on existing magic-related characters within DC Comics. Unlike the other incarnations of Doctor Fate, the mantle is the alter ego of Nabu, who became a Lord of Order.
+** Nabu (voiced by [[Kevin Michael Richardson]])<ref name="Denial">{{cite episode |title=Denial |series=Young Justice |credits=Tom Pugsley (writer) and Michael Chang (director) |network=[[Cartoon Network]] |air-date=February 18, 2011 |season=1 |number=7}}</ref> was originally a son of [[Vandal Savage]] who was regarded in Mesopotamian mythology as [[Marduk]] and a god of wisdom before he was killed due to Savage's alliance with Lords of Chaos member [[Klarion the Witch Boy]] and spiritually ascended as a Lord of Order. Following this, Nabu must anchor himself to Earth via a physical host, whom he completely overwrites as a requirement for those whom bear his helm, and has taken many hosts over the succeeding millennia.
+** Kent Nelson (voiced by [[Edward Asner]]) is a retired member of the [[Justice Society of America]] and mentor to [[Zatara|Giovanni Zatara]] who ceased being Nabu's host due to its effects on Nelson's marriage. Despite being killed by Klarion, Nelson temporarily confines his spirit to the Helm of Fate and grants it to members of the [[List of Young Justice characters#"The Team"|Team]] so they can use it for emergencies.
+** While in possession of the Helm of Fate, Team members '''[[Kaldur'ahm|Aqualad]]''' and '''[[Wally West|Kid Flash]]''' temporarily take up the mantle of Doctor Fate before Nelson's spirit convinces Nabu to release them. After '''[[Zatanna]]''' dons the helm to fight Klarion however, Nabu refuses to relinquish her until '''Zatara''' convinces Nabu to take him instead. As of [[Young Justice: Outsiders|season three]], Nabu agreed to allow Zatara and Zatanna to reunite annually for one hour.
+** In season four, Zatanna forms the '''[[Sentinels of Magic]]''', which includes [[Doctor Fate (Khalid Nassour)|Khalid Nassour]] (voiced by Usman Ally) and '''[[Traci Thirteen|Traci Thurston]]''' (voiced by [[Lauren Tom]]), to free Zatara and convince Nabu to alternate between all of them.
+* The Kent Nelson incarnation of Doctor Fate appears in the ''[[Justice League Action]]'' episode "Trick or Threat",<ref>{{cite web |last1=Couto |first1=Anthony |date=6 June 2016 |title=Characters Confirmed for Upcoming "Justice League Action" Animated Series |url=http://www.cbr.com/characters-confirmed-for-upcoming-justice-league-action-animated-series/ |access-date=8 June 2016 |website=Comic Book Resources}}</ref> voiced by [[Erica Luttrell]] as a child.
+
+===Film===
+* The Kent Nelson incarnation of Doctor Fate appears in the opening credits of ''[[Justice League: The New Frontier]]''.
+* An evil, unnamed [[Multiverse (DC Comics)|alternate universe]] version of Doctor Fate makes a cameo appearance in ''[[Justice League: Crisis on Two Earths]]''. They are depicted as a lesser member of the [[Crime Syndicate]].
+* Doctor Fate appears in ''[[Lego DC Comics Super Heroes: The Flash]]'', voiced by [[Kevin Michael Richardson]].
+* Doctor Fate's helmet appears in ''[[Justice League Dark (film)|Justice League Dark]]''.
+* An original incarnation of Doctor Fate named '''Steel Maxum''' appears in ''[[Suicide Squad: Hell to Pay]]'', voiced by [[Greg Grunberg]]. He was chosen by [[Nabu (comics)|Nabu]] to become Doctor Fate for his fitness until [[Scandal Savage]] and [[Knockout (DC Comics)|Knockout]] betrayed him and stole a "Get Out of Hell Free" card from him. In response, Nabu ousted Maxum from the Tower of Fate for his recklessness and irresponsibility and replaced him with "some chick" according to Maxum. In the present, Maxum joins a [[Strip club|male strip club]] as the "Pharaoh" before he is simultaneously confronted by the [[Suicide Squad]] and [[Professor Zoom]] and his henchmen, [[Silver Banshee]] and [[Blockbuster (DC Comics)|Blockbuster]]. While Silver Banshee knocks him unconscious, the squad retrieves and escapes with Maxum. After regaining consciousness, he explains how the card works before the squad leave him on the streets, where Zoom's henchmen catch him.
+* A variation of Kent Nelson / Doctor Fate appears in ''[[Justice Society: World War II]]''. This version is a [[Cryptanalysis|codebreaker]] from [[Earth-Two|Earth-2]] who was active during his Earth's version of the titular war.
+* The Kent Nelson incarnation of Doctor Fate is set to appear in the upcoming live-action [[DC Extended Universe]] film ''[[Black Adam (film)|Black Adam]]'', portrayed by [[Pierce Brosnan]].<ref>{{cite news |last1=Dyce |first1=Andrew |title=Black Adam Movie Will Introduce The Justice Society To The DCEU |url=https://screenrant.com/black-adam-movie-jsa-justice-society-dceu |access-date=November 23, 2019 |work=[[Screen Rant]] |date=November 23, 2019}}</ref><ref>{{cite web |last1=Earl |first1=William |title='Black Adam' Will Introduce the Justice Society of America: Hawkman, Doctor Fate and More |url=https://variety.com/2020/film/news/justice-society-of-america-black-adam-hawkman-cyclone-1234744998/ |website=Variety |access-date=22 August 2020 |language=en |date=22 August 2020}}</ref>
+
+===Video games===
+* The Kent Nelson incarnation of Doctor Fate appears as a [[Non-player character|NPC]], later a playable [[Downloadable content|DLC]] character, in ''[[DC Universe Online]]''.
+* The Kent Nelson incarnation of Doctor Fate appears as a character summon in ''[[Scribblenauts Unmasked: A DC Comics Adventure]]''.
+
+====Lego games====
+* The Kent Nelson incarnation of Doctor Fate appears as a playable character in ''[[Lego Batman 3: Beyond Gotham]]''.
+* The Kent Nelson incarnation of Doctor Fate appears as a playable character in ''[[Lego DC Super-Villains]]''.
+
+====Injustice series====
+* Doctor Fate appears as a support card in the iOS version of ''[[Injustice: Gods Among Us]]''.
+* The Kent Nelson incarnation of Doctor Fate appears as a playable character in ''[[Injustice 2]]'', voiced by [[David Sobolov]].<ref>{{cite web|url=http://www.gamespot.com/articles/injustice-2s-next-character-is-a-deep-cut-from-dcs/1100-6448344/|date=2017-03-02|access-date=2017-03-02|last=Butterworth|first=Scott|website=[[GameSpot]]|title=Injustice 2's Next Character Is A Deep Cut From DC's Golden Age}}</ref>
+
+==Toys==
+{{Unreferenced section|date=November 2019}}
+
+* Several Doctor Fate [[action figure]]s have been released, with most of them based on the Kent Nelson version of the character.
+** The first Doctor Fate figure was released in 1985 as part of the second wave of Kenner's ''[[Super Powers Collection]]''.
+** ''[[DC Direct]]'' released another figure in 2000 as part of the ''Mystics, Mages and Magicians'' collection.
+** A third figure was released with the ''Justice League Unlimited'' series (2004–2006) as a single figure and as part of three-pack collections.
+** ''[[DC Direct]]'' released a fourth figure in December 2007 as part of its second wave of ''[[DC: The New Frontier]]'' action figures.
+** Two Doctor Fate figures were released in April 2009 as part of the ''[[DC Universe Classics]]'' toyline: a Classic Kent Nelson version with regular yellow armor, and a "Chase" variant Modern Hector Hall version with gold accent armor and helm.
+** The ''[[Batman: The Brave and the Bold]]'' toyline included a "Dr. Fate versus Wotan" two-pack set released in December 2009.
+** The ''[[Imaginext]]'' "DC Super Friends" toyline included a Dr. Fate figure as part of their mystery package campaign in 2019. He was packaged with a snap-on lightning power accessory.
+* At the 2004 San Diego [[Comic-Con International]], DC Direct announced a full-size replica of Doctor Fate's helmet and amulet for release in 2005. The helmet was displayed with upcoming items during the February 2007 Toy Fair, but is still not available for purchase.
+
+==References==
+{{Reflist}}
+
+==External links==
+<!--======================== {{No more links}} ============================
+    | PLEASE BE CAUTIOUS IN ADDING MORE LINKS TO THIS ARTICLE. Wikipedia  |
+    | is not a collection of links nor should it be used for advertising. |
+    |                                                                     |
+    |           Excessive or inappropriate links WILL BE DELETED.         |
+    | See [[Wikipedia:External links]] & [[Wikipedia:Spam]] for details.  |
+    |                                                                     |
+    | If there are already plentiful links, please propose additions or   |
+    | replacements on this article's discussion page, or submit your link |
+    | to the relevant category at the Open Directory Project (dmoz.org)   |
+    | and link back to that category using the {{dmoz}} template.         |
+    ======================= {{No more links}} =============================-->
+
+*[[DCDatabase:Doctor Fate|Doctor Fate at the DC Database]]
+*{{comicbookdb|type=character|id=360|title=Doctor Fate (Kent Nelson)}}
+*{{comicbookdb|type=character|id=438|title=Doctor Fate (Eric and Linda Strauss)}}
+*{{comicbookdb|type=character|id=439|title=Doctor Fate (Inza Nelson)}}
+*{{comicbookdb|type=character|id=440|title=Doctor Fate (Hector Hall)}}
+*{{comicbookdb|type=character|id=15268|title=Doctor Fate (Kent V. Nelson)}}
+*{{comicbookdb|type=storyarc|id=1905|title=''The Helmet of Fate''}}
+*[http://www.comics.org/search.lasso?type=title&query=Fate&sort=chrono&Submit=Search Grand Comics Database: Doctor Fate entries]
+*[http://comicbookbin.com/showcase055.html ''Showcase'' #55: The Glory of Murphy Anderson]
+{{Doctor Fate|state=expanded}}
+{{Earth-Two}}
+{{Gardner Fox}}
+{{Steve Gerber}}
+{{Justice League characters}}
+{{Justice League International}}
+{{Justice Society of America}}
+{{GoldenAge}}
+{{The New 52}}
+{{Justice League Dark}}
+{{Authority control}}
+
+[[Category:Doctor Fate| ]]
+[[Category:Articles about multiple fictional characters]]
+[[Category:Characters created by Gardner Fox]]
+[[Category:Characters created by James Robinson]]
+[[Category:Characters created by J. M. DeMatteis]]
+[[Category:Characters created by Steve Gerber]]
+[[Category:Characters created by Brett Booth]]
+[[Category:Comics characters introduced in 1940]]
+[[Category:Comics characters introduced in 1987]]
+[[Category:Comics characters introduced in 1999]]
+[[Category:Comics characters introduced in 2007]]
+[[Category:Comics characters introduced in 2013]]
+[[Category:Comics characters introduced in 2015]]
+[[Category:DC Comics characters who use magic]]
+[[Category:DC Comics characters who can teleport]]
+[[Category:DC Comics characters with accelerated healing]]
+[[Category:DC Comics characters with superhuman strength]]
+[[Category:DC Comics female superheroes]]
+[[Category:DC Comics male superheroes]]
+[[Category:DC Comics superheroes]]
+[[Category:DC Comics fantasy characters]]
+[[Category:DC Comics titles]]
+[[Category:DC Comics deities]]
+[[Category:DC Comics characters who have mental powers]]
+[[Category:DC Comics telekinetics]]
+[[Category:DC Comics telepaths]]
+[[Category:Earth-Two]]
+[[Category:Egyptian superheroes]]
+[[Category:Fictional archaeologists]]
+[[Category:Fictional avatars]]
+[[Category:Fictional characters from parallel universes]]
+[[Category:Fictional characters who can turn invisible]]
+[[Category:Fictional characters with dimensional travel abilities]]
+[[Category:Fictional characters with healing abilities]]
+[[Category:Fictional characters with elemental and environmental abilities]]
+[[Category:Fictional characters with fire or heat abilities]]
+[[Category:Fictional characters with air or wind abilities]]
+[[Category:Fictional characters with earth or stone abilities]]
+[[Category:Fictional characters with water abilities]]
+[[Category:Fictional characters with electric or magnetic abilities]]
+[[Category:Fictional occult and psychic detectives]]
+[[Category:Fictional physicians]]
+[[Category:Fictional soldiers]]
+[[Category:Fictional necromancers]]
+[[Category:Golden Age superheroes]]
+[[Category:Mythology in DC Comics]]
+[[Category:Superheroes who are adopted]]

@@ -1,0 +1,80 @@
+{{short description|Comic book character}}
+{{Multiple issues|
+{{In-universe|date=August 2018}}
+{{Notability|date=October 2018}}
+}}
+{{Infobox comics character
+<!--Wikipedia:WikiProject Comics-->
+| character_name = Supernova
+| image          = Garthan Saal (Earth-616) from Nova Vol 4 25 001.jpg
+| imagesize      = <!-- default 250 -->
+| caption        = 
+| publisher      = [[Marvel Comics]]
+| debut          = ''[[Avengers (comic book)|The Avengers]]'' #301 (March [[1989 in comics|1989]])
+| creators       = [[Tom DeFalco]] (writer - artist)
+| alter_ego      = 
+| full_name      = Garthan Saal
+| species        = [[Xandarian]]
+| homeworld      = [[Xandar]]
+| alliances      = [[Nova Corps]]
+| partners       = <!-- optional -->
+| supports       = <!-- optional -->
+| aliases        = <!-- optional -->
+| powers         = Gravametric manipulation
+| cat            = super
+| subcat         = Marvel Comics
+| hero           = 
+| villain        = y
+| sortkey        = Supernova (Marvel Comics)
+| addcharcat#    = 
+}}
+'''Supernova''', also known as '''Nova Omega''' and '''Garthan Saal''', is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. His first appearance was as an antagonist in ''[[The Avengers (comic book)|The Avengers]]'' #301 in [[1988 in comics|1988]].
+
+As a Nova Corps officer, he was played by [[Peter Serafinowicz]] in the [[Marvel Cinematic Universe]] 2014 film in ''[[Guardians of the Galaxy (film)|Guardians of the Galaxy]].''
+
+==Publication history==
+Supernova first appeared as the main antagonist in ''[[The Avengers (comic book)|The Avengers]]'' Vol 1, #301-303. He later returned in ''The [[New Warriors]]'' Vol 1, #40-42 and ''[[Nova (Richard Rider)|Nova]]'' Vol 4.
+
+==Fictional character biography==
+Garthan Saal, a member of the [[Xandarian]] [[Nova Corps]], was one of the few Xandarians who survived the destruction of [[Xandar]] at the hands of [[Nebula (comics)|Nebula]] the space pirate.
+
+Garthan Saal contained the power of the entire Nova Corps within his body which increased him to the size of a giant and drove him mad. Supernova's desire for revenge against Nebula led him on a quest to track her down and exact his revenge. He had heard that Nebula had recently been a member of the Avengers (in actuality this was a temporal counterpart to Kang's long lost love [[Ravonna]] who assumed the guise of Nebula).{{Issue|date=February 2012}}
+
+Supernova first attacked the Avenger [[Starfox (comics)|Star Fox]] (another alleged relative of Nebula's) in space which led to a confrontation between Supernova and the combined forces of the Avengers, Fantastic Four and fellow surviving Xandarian [[Firelord (comics)|Firelord]] (a former herald of Galactus). Supernova was only defeated by tricking him into the timestream to find the woman he believed was Nebula as she had been lost in the timestream during a previous encounter with the Avengers.<ref>''The Avengers'' #301-303 (1988)</ref>
+
+Years later, Garthan Saal returned from the time stream even more crazed. He had come to realize that there was a small sliver of the Xandarian Nova Corps power that was still housed within the earthling [[Nova (Richard Rider)|Richard Rider a.k.a. Nova]], a former member of the Xandarian Nova Corps and at that time a member of the New Warriors. Supernova came to earth and drained Nova of all his powers effectively killing him (ruining his date with [[Laura Dunham]]). Richard was resurrected thanks to another surviving Xandarian (and former herald of [[Galactus]]) named [[Air-Walker]]. Air-Walker and Firelord joined Nova and the New Warriors into a battle in space with Supernova. During the battle Supernova tried to drain a powerless Richard Rider again but this led to Richard himself having full control of the Nova Force. Nova was convinced by his friends to relinquish the power and use it to reboot the Xandarian Worldmind (A network that serves as a repository of all Xandarian knowledge, culture and power). Having done this the Worldmind resurrected the Xandarian race and Nova Corps was reborn. Nova was given more power but eventually was depowered again at which point Garthaan Saal became the Nova assigned for Earth and took the name Nova Omega. His appointment caused great friction between him and the depowered Richard Rider. Garthan  began tracking Volx the queen (and mother) of the [[Dire Wraiths]]. Volx murdered Garthan, who returned the Nova force to Richard Rider.<ref>''The New Warriors'' #75</ref>
+
+Malik Tarcel, a temporary Nova Prime during the second [[War of Kings|Kree-Shi'ar War]], was captured by Shi'ar forces and tortured. After the torture was over, a man claiming to be Garthan Saal arrived to rescue him.<ref>''Nova'' vol. 4 #25</ref>
+
+==Supernovas==
+There was a black ops unit of the Nova Corps called the Supernovas. They were also called the Black Novas because their helmets were black instead of gold.<ref name="Nova #1">''Nova'' vol. 5 #1</ref>
+
+During the "[[Original Sin (comics)|Original Sin]]" storyline, [[Nova (Sam Alexander)|Sam Alexander]] learned from the eye of the murdered [[Uatu]] the [[Watcher (comics)|Watcher]] that its membership consisted of thieves and killers.<ref name="Nova #18">''Nova'' vol. 5 #18</ref>
+
+===Membership===
+* '''Adomox''' - Leader of the Supernovas.<ref name="Nova #18"/>
+* '''Jesse Alexander''' - Member of the Supernovas and the father of Sam Alexander. He is currently a prisoner of the [[Chitauri]].<ref name="Nova #1"/> His whereabouts are unknown, but clones of him have appeared.
+* '''Mister Z's''' - Member of the Supernovas.<ref name="Nova #1"/> He was killed by the Chitauri.<ref name="Nova #4">''Nova'' vol. 5 #4</ref>
+* '''Phlish''' - Member of the Supernovas.<ref name="Nova #1"/> He was killed by the Chitauri.<ref name="Nova #4"/>
+* '''[[Nova (Sam Alexander)|Sam Alexander]]''' - He was a part of the Supernovas until he learned their true intentions.<ref name="Nova #1"/>
+* '''[[Titus (comics)|Titus]]''' - A [[white tiger]]-like alien who is a member of the Supernovas.<ref name="Nova #1"/> He was killed by Sam Alexander when he activated the [[Ultimate Nullifier]].<ref>''Nova'' vol. 5 #5</ref>
+
+==In other media==
+===Film===
+* Saal appears in the 2014 film ''[[Guardians of the Galaxy (film)|Guardians of the Galaxy]],'' portrayed by British actor [[Peter Serafinowicz]].<ref name="Serafinowicz">{{cite web| date=July 23, 2013 |first=Peter |last=Serafinowicz |author-link=Peter Serafinowicz |title=Re Guardians, I'm a Nova Corps Officer with John C Reilly. |publisher=[[Twitter]] |url=https://twitter.com/serafinowicz/status/359740653015543810 |access-date=July 23, 2013 |archive-date=January 12, 2014 |archive-url=https://web.archive.org/web/20140112212915/https://twitter.com/serafinowicz/status/359740653015543810|url-status=live}}</ref><ref name="ComingSoonReview">{{cite web|url=http://www.comingsoon.net/news/reviewsnews.php?id=120857|title=Guardians of the Galaxy|last=Douglas|first=Edward|publisher=[[ComingSoon.net]]|date=July 24, 2014|access-date=July 24, 2014|archive-url=https://web.archive.org/web/20140728074646/http://www.comingsoon.net/news/reviewsnews.php?id=120857|archive-date=July 28, 2014|url-status=live}}</ref> In the film, he holds the rank of Denarian and reports to [[Irani Rael|Nova Prime Rael]] of [[Gamora]]'s capture. Saal is not corrupt with power like his comic book counterpart, but is stern and righteous with his position. He acts as commander of [[Nova Corps]]' fighter fleet, coordinating with [[Rocket Raccoon|Rocket]] and the Ravagers to protect the evacuation of Xandar and stall <u>Ronan's</u> ship, the Dark Aster, while the remaining Guardians board. He is killed after Ronan uses the [[Infinity Stone]] to break Dark Aster through the shield Nova Corps had created.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://marvel.wikia.com/Garthan_Saal_%28Earth-616%29 Supernova] at Marvel Wiki
+* [http://marvel.wikia.com/Supernovas_%28Earth-616%29 Supernovas] at Marvel Wiki
+* {{Marvunapp|http://www.marvunapp.com/Appendix3/novasaal.htm|Supernova}}
+
+{{Nova}}
+{{Marvel Cosmic}}
+
+[[Category:Characters created by Tom DeFalco]]
+[[Category:Comics characters introduced in 1989]]
+[[Category:Marvel Comics extraterrestrial supervillains]]
+[[Category:Marvel Comics supervillains]]

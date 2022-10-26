@@ -1,0 +1,73 @@
+{{Multiple issues|
+{{In-universe|subject=comics |described_object=a fictional comic book character|date=June 2018}}
+{{Notability|date=June 2018}}
+}}
+{{Infobox comics character<!--Wikipedia:WikiProject Comics-->
+|image=
+|imagesize=190
+|caption=Interior panel of ''Avengers: Roll Call'' #1
+|character_name=Hecate
+|publisher=[[Marvel Comics]]
+|debut=''[[Ms. Marvel]]'' #11 (Nov. [[1977 in comics|1977]])
+|creators=[[Chris Claremont]]<br>[[Sal Buscema]]
+|powers='''During exile''':{{bulleted list|Energy projection|Illusion casting}}<br>'''Olympian powers''':{{bulleted list|Superhuman strength, speed, stamina and durability|Immortality|[[Magic (paranormal)|Powerful magical abilities]]}}
+}}
+'''Hecate''' is the name of a fictional deity appearing in [[American comic book]]s published by [[Marvel Comics]], based on the [[Hecate|Greek goddess of the same name]]. Created by [[Chris Claremont]] and [[Sal Buscema]], she first appeared in ''Ms. Marvel'' 11 (1977).
+
+==Publication history==
+{{expand section|date=June 2018}}
+
+==Fictional character biography==
+In the Marvel Comics universe, Hecate is among the [[Titan (mythology)|Titans]] who ruled the ancient world that [[Zeus (Marvel Comics)|Zeus]] spares when he deposes them and conquers Olympus, and becomes Olympus' resident Goddess of Magic. She is the first deity to give magic to mortals, in defiance of Zeus who had forbidden the gods from meddling with humans. Zeus later exiles her from Olympus, wiping her memories and stripping her of her powers.<ref>''Herc'' #4</ref>
+
+Hecate appears on Earth, claiming to be an extra-dimensional explorer, mistaken for [[Hecate]] on a visit to the planet some millennia prior. At one point she fights [[Carol Danvers|Ms. Marvel]].<ref>''Ms. Marvel'' #11-13</ref>
+
+At some point, she loses more of her memories and becomes an inmate of the Raft.{{issue|date=June 2018}} During the ''[[Fear Itself (comics)|Fear Itself]]'' storyline, Hecate is among the Raft inmates who escape after [[Juggernaut (comics)|Juggernaut]] in the form of Kuurth: Breaker of Stone levels it. She assists [[Basilisk (comics)|Basilisk]], [[Griffin (Marvel Comics)|Griffin]], and [[Man-Bull]] in a bank robbery until [[Hercules (Marvel Comics)|Hercules]] arrives and recognizes her. Hecate shortly regains her memories, recovers her godly abilities, and decides to take over [[Brooklyn]],<ref>''Herc'' #3</ref> reshaping the borough to resemble a monster-infested [[Ancient Greece]].<ref>''Herc'' #5</ref> Hercules kills her ally [[Kyknos (comics)|Kyknos]] and she flees as Brooklyn returns to its normal state.<ref>''Herc'' #6</ref>
+
+Some time later, the [[Scarlet Witch]] seeks out Hecate after sensing a disturbance in witchcraft. She finds her operating a café on a Greek island and asks for her help. Hecate explains that she is content to remain uninvolved with the world of witchcraft, but mentions that there is a magical disturbance on the island, which could support Wanda's theory that magic is broken. She asks Wanda to defeat a [[Minotaur]] that has been murdering islanders, and the heroine discovers that the Emerald Warlock, a century-old mage, had forcibly transformed Man-Bull to do his bidding.<ref>''Scarlet Witch'' vol. 2 #2</ref>
+
+==Powers and abilities==
+During her exile, Hecate was solely capable of shapeshifting, projecting energy bolts, and bringing images from others' minds to life.
+
+When her memories returned, Hecate regained her Olympian characteristics, which includes superhuman strength (lifting 25 tons), durability, speed, and endurance.<ref>''Herc'' #6</ref> She is also immortal and un-aging, immune to all human ailments and diseases. As the Olympian goddess of magic, Hecate is an extremely powerful sorceress and has been invoked by mortal magic users in the casting of spells. She can release powerful energy blasts, read other's thoughts, shape-shift, and alter the form of other people and objects. Her skill in magic is so great that when she warped reality around Brooklyn and its inhabitants, she did so without depending on external sources for increased magical power.<ref>''Herc'' #6</ref> She also has some influence over dogs and her presence alone causes all canines in a certain radius around her to become vicious.<ref>{{Cite comic
+| writer = 
+| penciller = 
+| inker = 
+| story =
+| title = Avengers: Roll Call
+| volume = 
+| issue = #1
+| date = April 25 2012
+| publisher = Marvel Comics
+| location =
+| page =
+| panel =
+| id =
+}}</ref>
+
+==Alternate versions==
+A [[Mutant (Marvel Comics)|human mutant]] character named '''Hecat'e''' appears in ''[[Xavier's Security Enforcers|XSE]]'' #1 (Nov. 1996), created by [[John Ostrander]] and Chris Gardner.{{issue|date=April 2013}} This character can project darkness from her left eye.
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Marvunapp|http://www.marvunapp.com/Appendix/hecate.htm|Hecate}}
+* {{Marveldatabase|Hecate}}
+
+{{Hercules}}
+{{Marvel Comics deities}}
+
+[[Category:Characters created by Chris Claremont]]
+[[Category:Characters created by Sal Buscema]]
+[[Category:Classical mythology in Marvel Comics]]
+[[Category:Comics characters introduced in 1977]]
+[[Category:Fictional goddesses]]
+[[Category:Fictional illusionists]]
+[[Category:Greek and Roman deities in fiction]]
+[[Category:Hecate]]
+[[Category:Marvel Comics characters who can move at superhuman speeds]]
+[[Category:Marvel Comics characters who use magic]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics deities]]
+[[Category:Marvel Comics female characters]]

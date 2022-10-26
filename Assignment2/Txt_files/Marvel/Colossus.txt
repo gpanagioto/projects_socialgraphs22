@@ -1,0 +1,5 @@
+#REDIRECT [[Colossus (character)]]
+
+{{Redirect category shell|
+{{R from move}}
+}}

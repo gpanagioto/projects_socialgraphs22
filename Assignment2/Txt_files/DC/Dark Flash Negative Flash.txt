@@ -1,0 +1,538 @@
+{{short description|Fictional character}}
+{{other uses}}
+{{mergefrom|Linda Park (comics)|date=July 2022}}
+{{Infobox comics character
+<!--Wikipedia:WikiProject Comics-->
+| character_name = Wally West
+| image          =    The Flash (Wally West 2022).jpg
+| caption        =  Wally West as The Flash, on a variant cover of ''The Flash'' vol. 1 #779 (February 2022). Art by [[Todd Nauck]].
+| alt            = 
+| publisher      = [[DC Comics]]
+| debut          = '''As Kid Flash:'''<br />''[[The Flash (comic book)|The Flash]]'' #110 (December 1959)<br />'''As Flash:'''<br />''[[Crisis on Infinite Earths]]'' #12 (March 1986)
+| first_series   = 
+| first_episode  = 
+| first_comic    = 
+| creators       = [[John Broome (writer)|John Broome]] (writer)<br />[[Carmine Infantino]] (artist)
+| voiced_by      = 
+| based_on       = 
+| alter_ego      = 
+| full_name      =Wallace Rudolph West
+| species        = [[Metahuman]]
+| alliances      = [[Teen Titans]]<br/>[[Young Justice]]<br/>[[Justice League]]<br/>[[Justice League Europe]]<br/>[[Justice League Elite]]<br/>[[White Lantern Corps]]<br/>[[Justice League Task Force (comics)|Justice League Task Force]] 
+| partners       = '''Speedster partners:'''<br/>[[Flash (Barry Allen)|Barry Allen]]<br/>[[Flash (Jay Garrick)|Jay Garrick]]<br>[[Bart Allen]]<br/>Irey West<br>[[Wallace West (character)|Wallace West]]<br/>'''Other hero partners:'''<br/>[[Kyle Rayner|Green Lantern (Kyle Rayner)]]<br/>[[Dick Grayson]]<br/>[[Donna Troy]]<br/>
+| supports       = <!-- optional -->
+| aliases        = <!--notable aliases--> [[Kid Flash]]<br>[[Flash (comics)|Flash]]
+| powers         = {{collapsible list
+| titlestyle     = background:transparent;text-align:left;font-weight:normal;
+| title = ''See list''
+|
+ * Infinite [[speedster (fiction)|Super-Speed]]
+* Hyper-Accelerated Brain-Activity
+* Phasing / Vibration to Phase Through Objects
+* Enhanced Perceptions and Heightened Senses
+* [[Time travel|Time-Travel]] by Running [[faster-than-light|Faster Than Light]]
+* Enhanced Speed, Strength, Reflexes, Agility and Stamina
+* Creation of [[Vortex]]es
+* Electrokinesis
+* Electromagnetism
+* Dimensional Travel
+* Time Manipulation
+* Able to Give/Take Speed
+* Speed-Force Aura
+* Speed-Steal
+* Speed-Force Absorption & Negation
+* Accelerated Healing
+}}
+| cat            = super
+| subcat         = DC Comics
+| hero           = y
+| villain        = 
+| sortkey        = The Flash (Barry Allen)
+| addcharcat#    = 
+}}
+'''Wallace Rudolph''' "'''Wally'''" '''West''' is a <!--Do not add "fictional" as it is tautological; superheroes (and characters in general) are by definition implied to be fictionalized to some extent.-->[[superhero]] appearing in [[American comic book]]s published by [[DC Comics]] as the original '''[[Kid Flash]]''' and the third '''[[Flash (DC Comics character)|Flash]]'''.<ref name="dc-ency">{{Cite book | last=Jimenez | first=Phil | author-link=Phil Jimenez | contribution=The Flash | editor-last=Dougall | editor-first=Alastair | title=The DC Comics Encyclopedia | pages=124–127 | publisher=[[Dorling Kindersley]] | location=New York | year=2008 | isbn=978-0-7566-4119-1 | oclc=213309017}}</ref> His power consists mainly of [[speedster (fiction)|superhuman speed]]. The nephew of [[Iris West]], he first appeared in ''Flash'' #110 (1959), which depicted his transformation into Kid Flash. Under the mantle of Kid Flash, Wally was depicted as a teenage sidekick to his uncle-by-marriage, [[Flash (Barry Allen)|Barry Allen]], and a founding member of the [[Teen Titans]]. After Barry's death in ''[[Crisis on Infinite Earths]]'' in 1985, Wally took on the role of the Flash from 1986 to 2009 in DC's main lineup until Barry returned in ''[[The Flash: Rebirth]]''. Even so, Wally is the fastest character to ever hold the mantle of the Flash and a fan-favorite. He would later return as the main Flash since 2021, as part of the ''[[Infinite Frontier]]'' relaunch.
+
+In his debut as the Flash, Wally wears a distinct red and gold costume which, like his uncle, he traditionally stores compressed inside a ring. He later creates a costume directly out of Speed Force energy. Following his return in 2016, Wally is able to easily generate white lightning, which means his connection to the Speed Force is stronger than ever. During the first stage of his return, he temporarily wore an alternate red and silver costume when he wasn't the main Flash.
+
+Generally portrayed as a white man with red hair and green eyes, Wally was reinterpreted biracial for DC's 2011 [[The New 52|New 52]] relaunch. A desire from fans to see the original interpretation of the character restored, however, led to Wally returning in 2016's ''[[DC Rebirth]]'', while his New 52 reinterpretation was revealed as a separate character renamed as [[Wallace West (character)|Wallace]] in order to avoid confusion.
+
+Wally West has appeared in many other forms of media and was featured as the incarnation of the Flash in the [[Cartoon Network]] series ''[[Justice League (TV series)|Justice League]]'', voiced by [[Michael Rosenbaum]], and the 2010 film ''[[Justice League: Crisis on Two Earths]]'', voiced by [[Josh Keaton]]. As Kid Flash, he appeared in Cartoon Network's ''[[Young Justice (TV series)|Young Justice]]'' series, voiced by [[Jason Spisak]].
+
+==Fictional character biography==
+
+===Kid Flash===
+[[File:Kid Flash (Wally West) 2nd costume.png|thumb|upright|right|150px|Wally as Kid Flash; art by [[George Pérez]].]]
+Wallace Rudolph West II, or Wally West, was created by [[John Broome (writer)|John Broome]] and [[Carmine Infantino]] and introduced in ''[[The Flash (comic book)|The Flash]]'' #110 (1959). The character was the nephew of the existing Flash character's girlfriend and later wife, [[Iris West]]. During a visit to the [[Central City (DC Comics)|Central City]] [[police]] laboratory where [[Flash (Barry Allen)|Barry Allen]] worked, the freak accident that gave Allen his powers repeated itself, bathing Wally in electrically charged chemicals. Now possessing the same powers as the Flash, West donned a smaller-sized copy of Barry Allen's Flash outfit and became the young crimefighter '''Kid Flash'''. Wally had a strained relationship with his own parents and often looked to his beloved aunt and uncle for moral support and guidance. He also operated as a lone superhero in his hometown, [[Blue Valley (comics)|Blue Valley]], [[Nebraska]], when not partnering with the Flash.
+
+This costume was later altered (in ''The Flash'' #135 (1963)) to one that would make him more visually distinctive.<ref>{{cite book |last=Wells |first=John |title=American Comic Book Chronicles: 1960-64 |date=2015 |publisher=TwoMorrows Publishing |isbn=978-1605490458 |page=125}}</ref> The original red was replaced with a costume that was primarily yellow with red leggings, gloves and lightning bolt emblem. The ear pieces initially remained yellow, but became red in later issues.
+
+In addition to his appearances within the ''[[The Flash (comic book)|Flash]]'' title, the character was a founding member of the newly created [[Teen Titans]], where he became friends with [[Dick Grayson]], then known as Robin, later known as [[Nightwing]].<ref name="dc-ency"/> Sometime later, Wally contracted a mysterious illness that affected his entire bodily system; the more he used his speed powers, the faster his body deteriorated. This could have been caused by one of two things, Wally was a boy when the electrified chemicals altered his body, which was still developing and maturing (as opposed to Barry Allen, who was already an adult when his accident occurred) or when he was struck with a weapon during his time with the Teen Titans. As such, as Wally's body matured, his altered body chemistry was slowly killing him.
+
+===The Flash===
+During the 1985–1986 miniseries ''[[Crisis on Infinite Earths]]'', Barry gave his life to save the Earth when destroying the antimatter cannon that was aimed at Earth.<ref>''Crisis on Infinite Earths'' #7 (October 1985)</ref> Initially unaware of this, Wally was coaxed by [[Flash (Jay Garrick)|Jay Garrick]] into assisting the heroes against the [[Anti-Monitor]]'s forces. During the final battle with the Anti-Monitor, Wally was struck by a blast of anti-matter energy, which cured his disease. In the aftermath of the conflict, Wally took on his fallen mentor's costume and identity.<ref name="Crisis 12">''Crisis on Infinite Earths'' #12 (March 1986)</ref>
+
+The decision by DC Comics' editorial staff to radically change their fictional universe saw a number of changes to the status quo of the character. Wally West became the new Flash, but less powerful than his predecessor.<ref name="dc-ency"/> For example, instead of being able to reach the speed of light, he could run just faster than that of sound.<ref name="Crisis 12"/> Also, the character had to eat vast quantities of food to maintain his metabolism.<ref>{{Cite comic | Writer=[[Mike Baron|Baron, Mike]] | Penciller=[[Jackson Guice|Guice, Jackson]] | Inker=Mahlstedt, Larry | Story=Flash |title=The Flash |volume=2 |issue=#1 |date=June 1987 |publisher=DC Comics |page=1}}</ref>
+
+Those changes were quickly followed up and 1987 saw the publication of a new ''Flash'' comic, initially written by [[Mike Baron]]. These stories focused not only on the Flash's superhero exploits, but the state of Wally's wealth. West won a [[lottery]],<ref>{{Cite comic | Writer=Baron, Mike | Penciller=Guice, Jackson | Inker=Mahlstedt, Larry | Story=Flash |title=The Flash |volume=2 |issue=#1 |date=June 1987 |publisher=DC Comics |page=20 | Panel=5}}</ref> bought a large mansion,<ref>{{Cite comic | Writer=Baron, Mike | Penciller=Guice, Jackson | Inker=Mahlstedt, Larry | Story=Heart... of Stone! |title=Flash |volume=2 |issue=#2 |date=July 1987 |publisher=DC Comics |page=22 | Panel=3}}</ref> and began dating beautiful women. The character's finances and luck continued to ebb and wane until ''The Flash'' vol. 2 #62, when his fortunes stabilized.
+
+[[File:The Flash vol.2-1 (June 1987).png|thumb|left|upright|''Flash'' vol. 2 #1 (June 1987). Wally West holds as first the Modern Age Flash; art by [[Jackson Guice]].]]
+The 1990s also saw further modifications to the look of the character, with a modified uniform appearing in 1991.<ref>{{Cite comic | Writer=Messner-Loebs, William | Penciller=LaRocque, Greg | Inker=Marzan, Jose, Jr. | Story=The Fastest Man... Alive! |title=The Flash |volume=2 |issue=#50 |date=May 1991 |publisher=DC Comics |page=22 | Panel=3}}</ref> This modified costume altered the visual appearance of the traditional Flash costume, with a belt made of two connecting lightning bolts meeting in a "V" at the front (where Allen's costume had a single bolt in a horizontal band), removal of the wings from the top of his boots, a change in the material of his costume, and opaque lenses added to the eyes of his cowl. This modified design utilized elements of the costume designed by artist [[Dave Stevens]] for the live action television series ''[[The Flash (1990 TV series)|The Flash]]''.
+[[File:The Flash (Wally West circa 1991).png|thumb|upright|right|Wally West as The Flash, in his first modernized costume that differentiates from his predecessor's, in ''The Flash'' vol. 2 #50 (March 1991). Art by [[Greg LaRocque]].]]
+
+A difficult encounter was made with a vicious foe, the first [[Reverse-Flash]] ([[Eobard Thawne]]). Thawne had been killed by Barry Allen shortly before Allen's death, but this version of Thawne was from a time period before he originally became Allen's enemy - also served to increase the speed of the character, forcing him to push past a psychological block he had placed on his powers. To prevent himself from truly "replacing" Barry, Wally had subconsciously limited his speed so that he could never become his mentor's equal, but when Thawne arrived in the present and briefly posed as Barry Allen, his bragging that he would become the true Flash forced Wally past this block, as he feared Thawne replacing Barry more than he feared himself doing so.<ref>{{Cite comic | Writer=[[Mark Waid|Waid, Mark]] | Penciller=LaRocque, Greg | Inker=Richardson, Roy | Story=The Once and Future Flash |title=The Flash |volume=2 |issue=#79 |date=August 1993 |publisher=DC Comics |page= | Panel=3}}</ref> After this encounter, he was again Barry Allen's equal in speed, and eventually became even faster. Though he still had not been able to recover Barry's vibrational/phasing abilities for a time (he could vibrate through objects but this would cause the object to explode), he gained several new powers that Barry never had. He was able to share/steal speed, use his speed to kinetically upgrade his attacks, and super heal others.
+
+Writer [[Mark Waid]] expanded on the character's powers thematically and further redefined the character by introducing the [[Speed Force]], an energy source that served as a pseudo-scientific explanation for his powers and that of other fictional [[speedster (fiction)|speedsters]] within the [[DC Universe]]. Using this concept as a basis, the character's ability to tap into the Speed Force was used to expand his abilities. The character was now able to lend speed to other objects and people<ref>{{Cite comic | Writer=Waid, Mark | Penciller=Larroca, Salvador | Inker=Marzan, Jose, Jr. | Story=Terminal Velocity |title=The Flash |volume=2 |issue=#95–100 |date=November 1994 – April 1995}}</ref><ref name="Flash 101">{{Cite comic | Writer=Waid, Mark | Penciller=Jimenez, Oscar | Inker=Marzan, Jose, Jr. | Story=Going the Distance |title=The Flash |volume=2 |issue=#101 |date=May 1995}}</ref> and create a costume directly out of Speed Force energy. Traditional powers such as the ability to vibrate through solid objects were also restored. Because of this, the Flash felt pressured into having to constantly be heroic 24/7. During this time, he joined the Justice League.
+
+The 2000s saw writer [[Geoff Johns]] revitalize the character by introducing new versions of characters such as [[Zoom (comics)|Zoom]]; making significant use of the [[Rogues (comics)|Rogues]]; and marrying the character to longtime girlfriend [[Linda Park (comics)|Linda Park]].<ref>{{cite web | url=http://forum.newsarama.com/showthread.php?t=118446 | title=Updated: ''All Flash'' #1 | work=[[Newsarama]] | date=June 27, 2007 | access-date=2011-01-16}}</ref> Other changes included restoring the Flash to a secret identity; his identity had been public since shortly after Barry Allen's death, but the traumatic events of his first battle with Zoom prompted Wally to make a deal with the Spectre to erase his identity from public knowledge (although this was initially so successful that even ''Wally'' forgot he was the Flash).
+
+During the ''[[Identity Crisis (DC Comics)|Identity Crisis]]'' crossover, Wally and Kyle Rayner learned Dr. Light's mindwipe by the original Justice League and the cause of the villain's transformation from a dangerous serial rapist to an ineffectual buffoon. When Dr. Light vows revenge against the League, Wally realizes that the villain is again a powerful threat. He then warns the Teen Titans and [[Outsiders (comics)|Outsiders]] not to underestimate Dr. Light, and later joins their fight against him.
+
+In the miniseries ''[[Infinite Crisis]]'', as a narrative device, Wally West and his family were seen leaving for an alternative reality. This allowed the character Bart Allen to become the fourth Flash and headline a relaunched third volume of the title, called ''The Flash: The Fastest Man Alive''.
+
+The critical reaction to this new version of the Flash was mixed and Bart was killed off in the final issue of the short-lived third volume.<ref name="dc-ency"/> It was decided that Wally West should return, and the [[Justice League|JLA]]/[[Justice Society of America|JSA]] story "[[The Lightning Saga]]" was used to return the character to Earth along with his wife and children, who appear to have aged several years.
+
+The character next appeared in ''All Flash'' #1 (2007), seeking vengeance on those who had killed Bart Allen. This was followed by ''The Flash'' vol. 2, which resumed publication after the long hiatus with issue #231 (October 2007). The series found the character struggling with trying to raise his two super-powered twins, plagued by accelerated growth and their inexperience in the heroic game, a task made more difficult by Wally's unemployment, his inability to keep a steady job, and the mistrust of the League for his decision to bring two children into the fold. The series was canceled with issue #247 (February 2009).
+
+In ''[[Final Crisis]]'', the character was reunited with [[Flash (Barry Allen)|Barry Allen]], who had returned to life. Later, in ''[[The Flash: Rebirth]]'', Wally makes modifications on his costume to further differentiate himself from Barry due to them sharing the Flash identity with Jay Garrick.
+
+===''Blackest Night''===
+During the Blackest Night, Wally West assists Barry Allen in spreading the word to every hero on Earth about the rise of the Black Lantern Corps. When Black Hand brings back [[Nekron]], Barry is attacked by an army of Black Lanterns, while struggling to fight them off, Wally comes to his rescue, bringing with him the Justice League & Teen Titans, Bart Allen, the Kid Flash, among them. The three Flashes fight their way through Black Lanterns and charge at Nekron. Before they can strike, the Black Lantern Guardian Scar attacks them, attempting to convince them into becoming Black Lanterns. Right after, Hal Jordan and the leaders of the seven Lantern Corps arrive to assist. The heroes attack the Black Lanterns, but when Black Hand reanimates Batman's corpse as a Black Lantern, the resulting emotional shock allows the Black Lantern rings to latch onto the resurrected heroes, transforming Superman, Superboy, Wonder Woman, Green Arrow, Black Canary, and Kid Flash into Black Lanterns. Black Lantern Bart Allen attacks Barry Allen, and the two brawl for a moment before Wally fights him off. A pair of Black Lantern Rings then lock onto Barry and Hal. Wally flees with Barry, with Barry telling him to stay and protect himself and Bart. Barry and Hal then flee the scene to avoid becoming Black Lanterns.
+
+===Return: ''The New 52'' and ''DC Rebirth''===
+Following the 2011 reboot of the DC comics universe, Wally West appears to have never existed. A seemingly [[Wallace West (comics)|new interpretation of Wally West]] was introduced in ''The Flash'' vol. 4 Annual #3. Originally portrayed as the New 52 version of the classic and original character and the biracial son of Rudy West, this biracial Wally, renamed Wallace West in later comics to avoid confusion, was retconned in ''[[DC Rebirth]]'' #1 as being the cousin of Wally West, and the son of the New 52 Reverse-Flash, Daniel West. Both cousins are explained as having been named after their great-grandfather.
+
+The existence of Wally West is hinted at in the final issue of ''Titans Hunt'', in which the various original Teen Titans remember their bond to each other, but realise that they are still forgetting an important final member of their team. They look out to the ocean as lightning strikes.<ref>''Titans Hunt'' #8 (May 2016)</ref>
+
+[[File: Wally West (Rebirth 2016).jpg|thumb|right|160px|Wally West's Rebirth costume as the Flash is in homage to his previous Kid Flash and the Flash costumes. Promotional art for ''[[DC Rebirth]]'' by Brett Booth and Norm Rapmund.]]
+Wally West is reintroduced to DC continuity a week later in a ''DC Rebirth'' story. The story reveals that following the [[Flashpoint (comics)|Flashpoint]] event, Wally became lost in the Speed Force for 10 years. While trapped, he came to realize that Barry had not been responsible for the mutation of the New Earth universe into Prime Earth but that [[Doctor Manhattan|an unknown entity]] had used Barry's time travelling as an opportunity to fundamentally alter reality. The fallout of the recent ''Darkseid War'' allowed Wally to try and reach out to his former friends in the hopes of either returning or warning them of the truth. Each attempt caused him to fall further into the Speed Force. After realizing that not even Linda (his traditional "lightning rod") could remember him, Wally sank into desolation and chose to appear before his uncle, Barry, one last time to thank him for the life he had given him. Just before Wally disappeared, Barry remembered him and dragged him out of the Speed Force. Wally's presence integrates his Pre-''Flashpoint'' history to the new timeline to accommodate his existence, resetting his past and those who associated with him. Following a tearful reunion, Wally gave Barry his warning of the true source of the universal change and the dangers to come.<ref>''DC Universe: Rebirth'' one-shot (May 2016)</ref> Although the two decide to keep Wally's return secret from Iris based on Wally's own experience with Linda, Barry encourages him to return to the Titans, but also recommends that he don a new costume to reflect that he is the ''Flash'' rather than 'Kid Flash'.<ref>''Titans: Rebirth'' (2017)</ref><ref>''The Flash: Rebirth'' one-shot (June 2016)</ref> Wally goes to the Titans, and through both physical contact to Nightwing, [[Donna Troy]], [[Roy Harper (comics)|Arsenal]], [[Tempest (comics)|Tempest]] and [[Lilith Clay]] with the Speed Force reminding them of their memories with him, creating a new history. After an emotional reunion with his friends, he tells them of the situation. Wally believes that the unknown entity will attack again to prevent them from finding out the truth, which they will do together as Titans.<ref>''Titans: Rebirth'' one-shot (June 2016)</ref>
+
+Directly after the events in ''Titans: Rebirth'', Lilith has Wally repeat the story of his return in order for her to use it as a means of making the mental connections between him, herself and the Titans stronger. While doing this, she notices the most powerful thought in Wally's mind is that of Linda Park, which sparks various, but supportive, reactions from the other Titans. Nightwing encourages Wally to seek Linda out and try and make new memories with her. Elsewhere, Linda is still puzzled by Wally's sudden presence in her life and decides to investigate him further.<ref>''Titans'' vol. 3 #1 (July 2016)</ref> During a confrontation with [[Abra Kadabra (comics)|Abra Kadabra]], Wally is forced to push himself so fast that he is sent into the Speed Force while trying to save her and the other Titans from being killed by Kadabra,<ref>''Titans'' vol. 3 #5 (November 2016)</ref> but in a conversation with a manifestation of his memories of Linda, Wally is encouraged not to give up on the idea that he can make a new relationship with her in this timeline, subsequently using his memories of the Titans as a new 'lightning-rod' to return to Earth.<ref>''Titans'' vol. 3 #6 (December 2016)</ref> Afterwards, Wally is visited by [[Superman]], who confirms that he, like Wally, remembers the world that existed before history was 'edited'.<ref>''Titans'' vol. 3 #7 (January 2017)</ref>
+
+Later, Deathstroke wanted to use the Speed Force to save his son and takes out Wally. Wallace West and Damian Wayne managed to save Wally, but Damian Wayne had to stop Wally West's heart momentarily, making Wally West have a heart pacer. After that adventure, while on a mission with the Titans, Wally learned that he has the ability to go fast and stop time as well.
+
+After a battle against Psimon, Mister Twister, and the Key, Wally used too much of his abilities, and he seemingly dies. However, Kid Flash (Wallace West) senses Wally's "death" and rushes to find him. After noticing Wally West "dead", Kid Flash senses that Wally is not completely dead and he revives him by jumpstarting his heart, curing Wally of his pacemaker condition. Wally West then helps the Titans defeat Donna Troy's evil self from an alternate future, Troia and the other villains.
+
+When Barry confronts Wally about how he has not made any real effort to make contact with Iris, rebuild things with Linda, or even try to make a new life for himself, Wally tries to compensate for this by tracking down [[Magenta (comics)|Frances Kane]], but his initial contact with her also re-awakens her old psychological issues, causing her to attack Wally before he calms her down by confessing his own fears about his current circumstances. Inspired by this conversation, Wally calls Dick Grayson to help him purchase an apartment. However, Wally is unaware that his friend-turned-foe [[Hunter Zolomon]] has returned. Now in a position of authority in the 25th century, Zolomon sends the [[Rogues (comics)#The Renegades|Renegades]] into the past to arrest Iris for the murder of Eobard Thawne with the intention of provoking a war between the Flashes in order to make 'the true Flash' stronger through tragedy.<ref>''The Flash'' vol. 5 Annual #1</ref> After the Flash Family defeated Gorilla Grodd in a battle, Wally meets Iris for the first time after his disappearance. He begins remembering Pre-''Flashpoint'' memories after Iris remembers him. However, a confrontation with his former ally Hunter Zolomon provokes Barry and Wally into conflict, as Hunter convinces Wally that the Speed Force must be destroyed to release those missing allies still 'trapped' within it, including Wally's children, Jai and Iris West, Max Mercury and Impulse. Wally became determined to break the Speed Force open in a bid to free them which led to a frantic chase, with Barry Allen trying to stop Wally before he did something drastic, remembering all too well the damage he himself had done to the time-stream attempting to stop his mother's murder during the Flashpoint event. Unfortunately, Wally proved himself to be the true Fastest Man Alive and was able to outrun Barry and create the break he wanted. The resulting explosion sent both heroes back to Barry's hometown of Central City and into the clutches of a gloating Zoom who quickly revealed that his true intention in reminding Wally about the existence of his children was to trick Wally into breaking the Force Barrier - a cosmic barricade that concealed energies that could be tapped into by the right people in much the same way that the Speed Force empowers speedsters. These energies include the Sage Force - seemingly based around telepathic and telekinetic powers - and the Strength Force. Zoom discovered the existence of these energies reading 25th century history books and determined a way to tap into these energies as well as the Speed Force once the Force Barrier was broken. He also donned a replica of Barry Allen's costume, declaring himself the one true Flash, before deciding that he would spare Barry and Wally the pain of their future lives by ending them now.
+
+====Heroes in Crisis====
+During the ''[[Heroes in Crisis]]'' story arc, Wally was initially believed to be one of the massacre's highest-profile victims at the superhero rehabilitation facility known as Sanctuary, but is later revealed to be not only alive but actually the real culprit of the murderers. Wally explains all in his confession, one of the many recorded video transcripts that Wally himself sent to Lois Lane, while identifying himself as "The Puddler", that he's felt "alone" since his return, as his family remains wiped from existence, with no one even to remember them, except him. These tortured memories are what led him to Sanctuary in the first place, but he found no comfort there, instead, he relates how he still felt alone because he didn't see the same kind of pain in its other residents, and the program's anonymity only compounded his feelings of isolation. Wally therefore did some digging of his own into Sanctuary's resident records and uncovered a truth that he had been denying. Every one of the heroes at Sanctuary were in fact coping and trying to overcome their own personal traumas, just as Wally was. Uncovering all this information at superspeed led to a flood of emotional experiences that momentarily allowed Wally to understand he wasn't so alone after all. While this realization might have initially given Wally some comfort, it all came to him in a comparative instant. Instead of helping to heal him, the onslaught of emotions broke him. In turn, he momentarily lost control of the powers of the Speed Force contained within him and in another fateful instant, the powers of the Speed Force were unleashed on the other heroes within Sanctuary, killing them instantly.
+
+Wally accessing Sanctuary's files had tripped the facility's alarm, and the moment of Wally's breakdown happened, Harley and Booster were immersed in their respective virtual reality therapy sessions. Taking advantage of that happy coincidence, Wally used his powers to deliver a superspeed sleight of hand at Harley and Booster's expense. As each exited their VR chambers, he reprogrammed them and tricked the pair into thinking they had left the chambers, when in fact they had not. Instead of seeing the actual massacre, what each instead saw was the other murdering Wally.
+
+From there, Wally stole Booster's time-traveling tech, went five days into the future, killed his future self and brought his future body back to present day to leave at the scene. Wally's machinations are what led Booster to discover that dead Wally's body was five days too old. Wally then relocated all the bodies of the others he had slain, staging the murders to place himself above suspicion, and set up Harley and Booster as the prime suspects instead. To complete the subterfuge, Wally then destroyed Sanctuary's computer and robot attendants, and scribbled the now-infamous "The puddlers are all dead" on Sanctuary's living room wall. He successfully misdirected everyone involved in the investigation until Ted Kord, Booster Gold, Batgirl and Harley Quinn figured out that Wally was the key to the murders, and they devised a way to track Wally's time disturbance by utilizing Skeets and Kord Industries tech.
+
+They show up just as Wally is about to kill five-days-older-Wally, and five-days Wally reveals that after he accidentally killed everyone in Sanctuary, he didn't travel back in time to “unmake” his mistake because that's what Barry did during Flashpoint, instead he sent the confession files to Lois Lane to try to “make up for what happened,” telling the world what he'd done at Sanctuary, and encouraging people to get help before they made the same mistakes he did. Five-days Wally reveals that this is the same thing that happened to him five days ago - that he also didn't kill the older Wally. Booster Gold explains that they can still “close” the loop, even without the dead body of five-days-old Wally. They can go to the 25th Century and “speed-clone” older Wally. Then younger Wally can take that cloned body back to the past. The Justice League eventually arrived and arrested Wally for the murders.
+
+In ''The Flash'' #761, it was revealed that Eobard Thawne was responsible for manipulating Wally into killing the heroes at Sanctuary. Later this whole story was recollected in ''The Flash'' Annual #1 (2021), stating that Wally West was not responsible for these deaths, and it was revealed that Speed Force itself had actually caused it when trying to expel [[Savitar (comics)|Savitar]] from its corridors.
+
+====''Doomsday Clock''====
+In the "[[Watchmen]]" sequel "[[Doomsday Clock (comics)|Doomsday Clock]]," Lex Luthor mentioned to Lois Lane that someone has been undermining creation, like what [[Doctor Manhattan]] did with Wally West and the [[Justice Society of America]].<ref>''Doomsday Clock'' #9. DC Comics.</ref> When Doctor Manhattan altered the Metaverse (and in turn the Multiverse) and created the New 52 Universe, Wally (prior to being freed in ''DC Universe: Rebirth #1'') briefly escaped the Speed Force to warn Doctor Manhattan that he knows what the latter did and that the heroes of the DC Universe will stop him. Wally was pulled back into the Speed Force afterwards.<ref>''Doomsday Clock'' #10. DC Comics.</ref>
+
+====''Flash-Forward'' and ''Generation''====
+Wally is later recruited by Tempus Fuginaut who wants him to restore the balance between the [[Multiverse (DC Comics)|Light and Dark Multiverses]]. After saving several universes from being consumed by dark-matter, Wally finds the Mobius Chair that once belonged to [[Metron (comics)|Metron]] and makes a deal with Fuginaut to return his children [[Turtle (comics)|Jai]] and [[Kid Flash (Iris West)|Iris]], who were trapped in the Dark Multiverse, to his wife [[Linda Park (comics)|Linda Park]]. But after sitting upon the chair, Wally, in addition to obtaining a cosmic level of knowledge, also obtains the powers of [[Doctor Manhattan]], after he put a fraction of his power into the chair. (Wally's costume and lightning proceeded to turn to the blue of Manhattan, with Manhattan's logo forming on his forehead, and Wally now losing nearly all sense of emotion he had and now seeking logic and knowledge). After finding out that Doctor Manhattan did not completely heal the Universe after Doomsday Clock, Wally begins using his newfound powers to set about restoring the timeline.<ref name="Flash Forward 2019—2020">''Flash Forward'' (2019—2020)</ref>
+
+===Infinite Frontier===
+Following the 2021 event [[Infinite Frontier]] #0, Wally is restored as the primary Flash and central character in ''The Flash'' series since #768, after Barry Allen's departure to join Justice Incarnate. Wally's first storyline in the solo title sees him travel through the timeline as he attempts to prevent a destructive release of something in the Speed Force, which sees him meet his daughter, Iris, in the future as an accomplished Flash. In the arc's conclusion, in ''The Flash Annual 2021'', Wally is thrown back to the moment of his greatest torment: the explosion at Sanctuary which killed his friends. He is unburdened by the revelation that this was not his fault, but rather that of the same Speed Force phenomenon, caused by the mad speedster [[Savitar (comics)|Savitar]] and the Speed Force's attempts to expel him from its interior. With help from Mister Terrific, Barry Allen, Green Arrow, and the past Roy Harper shortly before he died at Sanctuary, Wally is able to bring Savitar back with him to the present. Although Savitar easily overcomes Superman and Batman, Barry tells Wally to step up, making use of his superior bond to the Speed Force to defeat, depower, and imprison Savitar once again. Fully Redeemed and more powerful than ever, Wally returns to Linda and the kids, enthusiastic to serve as Central City's Flash once again.
+
+==Powers and abilities==
+<!------------------- Don´t remove information with sources please ------------------------>
+Wally's primary [[Superpower (ability)|superpower]] is his ability to control the speed at which his body vibrates and to move and think at super-speed, which he uses primarily to run at extreme superhuman velocities. His power is originated from his mainline-connection to the [[Speed Force]]: a vaguely-defined extra-dimensional and infinite energy source from which most speedster heroes gain their powers. Wally is widely considered to be the Fastest Flash, and is significantly faster than his mentor, [[Flash (Barry Allen)|Barry Allen]].<ref name="The Flash Barry Allen">{{cite book|last1=Waid|first1=Mark|title=The Flash: Chain Lightning – Volume 2}}</ref><ref>{{cite book|last1=Abnett|first1=Dan|title=Titans (2017) Vol 1: The Return of Wally West}}</ref><ref name="Rebirth 2017">{{cite book|last1=Abnett|first1=Dan|title=Titans #7 (2017)}}</ref><ref>{{cite web|url=http://screenrant.com/flash-speedsters-faster-than-barry-allen/?view=all|title=The Flash: 15 Speedsters Faster Than Barry Allen|work=screenrat|first=Jack|last=O'Ragan|access-date=April 16, 2017|date=March 15, 2017}}</ref><ref>{{cite book|last1=Williamson|first1=Josh|title=The Flash (2016) Issue #49}}</ref><ref>{{cite book|last1=Williamson|first1=Josh|title=The Flash (2016) Issue #50: Flash War}}</ref> He has been confirmed to be the fastest being in the entire DC Multiverse. <ref name="Flash Forward 2019—2020"/>
+ 
+While most to all speedsters can make a connection and draw upon this force, Wally "mainlines" power from the Speed Force itself and cannot be cut off from the source. This connection to the Speed Force grants him unique abilities that other speedsters lack, such as lending and taking speed (which manifests in different ways, ranging from becoming speedsters themselves to bolstering others [[metabolism]]s and healing abilities, allowing them to recover from injuries in a fraction of the normal time), as well as absorbing [[kinetic energy]] in a less direct manner; he once absorbed the kinetic energy of the entire planet Earth while standing at the North Pole when his teammates were forced to move the planet to prevent possible earthquakes. Wally has also found a way to create a costume out of pure Speed Force energy.<ref>{{cite book|last1=Johns|first1=Geoff|title=The Flash Omnibus – Volume 1}}</ref>
+
+Like all Flashes, Wally is surrounded by a protective aura that allows him to resist the heat created by the pressure of compressed air caused by moving at super speed as well as other environmental consequences of moving at such velocities. It is not known how Wally is able to circumvent the damage moving at such great speeds would normally have on the environment, but it has been hypothesized that his protective aura allows him to "sidestep" such environmental consequences. Because of his powers and connection to the Speed Force, he can run at varying speeds for extended periods of time without needing rest or causing damage to his body. It is his connection to the Speed Force that constantly rejuvenates him while running, making it so he does not literally feed upon his own body to generate the energy for super speed. Even so, he has a sped-up metabolism and finds it necessary to eat often and in great quantities to help supply the chemical energy needed.
+
+Using his abilities, Wally can run at such speed that he can run on water, create powerful [[vortices]] with his arms or body, and vibrate at such speeds that he becomes [[invisible]] to the [[naked eye]]. Wally can also match the [[steady state|vibrational constant]] of [[solid]] objects and vibrate through them, passing his molecules through the spaces in between the atoms and molecules of the matter he is vibrating through, however, Wally accidentally destabilizes whatever he passes through, causing it to explode. While this has its drawbacks, Wally has learned to use this offensively in battle. Since Rebirth 2016, Wally improves this ability and can vibrate through objects without causing them to explode.<ref>{{cite book|last1=Abnett|first1=Dan|title=Titans vol. 3 (2016) #9}}</ref>
+
+Instead of using the cosmic treadmill as his uncle Barry, Wally can use his speed to travel through time. In Flash #150, he traveled back to the events of ''[[Crisis on Infinite Earths]]'' and battled the Anti-Monitor, speed-blitzing him until his shell was destroyed. He also outran [[Black Flash|death]] to the edge of the universe and beyond, where death didn't even exist and continued to run to get Linda back. There was a comic series titled The Human Race in which Wally ran faster than instant teleportation, Reaching Trans-Time Velocity.<ref>{{cite book|title=The Flash (1987-2009) #136-#138}} </ref> ''The Flash'' vol 2 #177 had Wally outrun the gravitational pull of a black hole. Using Jessie Quick's speed formula combined with his speed steal, Wally can temporally accelerate to the point where he escapes linear time, essentially allowing him to function like the chronokinetic Zoom.
+
+Wally's connection to the Speed Force also grants him low-to-high electrokinetic abilities. He generates large amounts of lightning while moving at super speed, as well as whenever he is angered. On certain occasions, Wally has been able to project arcs of Speed Force lightning, such as when he is lending speed, or when he was using the Speed Force to restore the memories of the Titans, during DC Rebirth. Wally can also absorb electrical attacks and rebound them with ten times the force.
+
+Wally West is the Fastest Flash and is arguably the fastest being that has ever existed, as said by Max Mercury—and it has been remarked that Wally and Barry are the only two speedsters that were fast enough to even outrun [[Black Flash|death itself]].<ref name="Flash 101"/> Wally himself has performed several feats and made several references to be faster than Barry and having surpassed him.<ref name="The Flash Barry Allen" />
+
+Wally is fast enough to easily break all the speed barriers and even enter the Speed Force. Wally has, on several occasions, traveled much faster than light and entered and exited the Speed Force by his own volition. He has shown that he can achieve practically any speed he wishes and that there are no limits to his speed. 
+
+Wally has even become so fast and so powerful, that he became faster than the Speed Force itself.<ref name="Flash Forward 2019—2020"/>
+
+Some interpretations of Wally are shown as having above-average strength. On the Justice League episode "The Brave and the Bold Part 2", the gorilla [[Solovar]] tells Wally that he weighed around 400&nbsp; lbs; Wally then proceeded to lift Solovar and run to safety.
+
+Wally is also a skilled science prodigy. In some versions, like Young Justice, Wally uses these skills to recreate the accident that gave Barry his powers by himself, granting himself his own powers. Like his mentor, Wally understands what his speed enables him to do, and uses his knowledge of physics to his advantage in battle. He has extensive knowledge and experience with Time-Travel and the Multiverse, and was also considered by Michael Holt, aka Mister Terrific, to be one of the smartest people he knew, and was given a job as a mechanic/engineer at TerrificTech.
+
+After his return to the DC Universe, Wally is said to be even faster than before.<ref name="Rebirth 2017"/> Titans (2016) #5 issue, established that the Speed Force is inside Wally more than ever before. He can generate white lightning, which combines all the colors of the Speed Force.<ref>{{cite book|last1=Abnett|first1=Dan|title=Titans: Rebirth (2017)}}</ref> Also in DC Rebirth, Wally learned that he can sense when time has been manipulated, as well as listen to the Speed Force, which allows him to sense disruptions in the space-time continuum.
+
+Wally has had some hand-to-hand combat training, and is skilled in [[Judo]].<ref>''The Flash'' vol. 2 #2 (July 1987)</ref>
+
+==Allies and friends==
+Wally's father, Rudolph West<ref>{{Cite comic | Writer=Baron, Mike |editor=Gold, Mike | Penciller=Guice, Jackson | Letterer=Haynie, Steve | Inker=Torrance, Jack | Colorist=Eiber, Shelley | Story=Speed McGee |title=Flash |volume=2 |issue=#5 |date=October 1987 |publisher=DC Comics |page=15 | Panel=6}}</ref> (a [[Manhunter (comics)|Manhunter]] agent), was presumed deceased following an explosion in [[Cuba]] during the ''[[Invasion! (DC Comics)|Invasion]]'' series. He reappeared years later at, among other places, his ex-wife Mary West's (Wally's mother) second wedding. They both later attended Wally and Linda's wedding.
+
+While they disagree regularly, Wally has developed an odd friendship/respect with [[Batman]], who has more than once made it clear that those feelings are mutual.
+
+Like his predecessors, West is best friends with the [[Green Lantern]] of his time ([[Kyle Rayner]]). Wally also retained a close friendship with Kyle's predecessor, [[Hal Jordan]], who often looked out for Wally even while he was the [[Spectre (comics)|Spectre]]. His best friend is [[Dick Grayson]], who served with Wally on the Teen Titans as the first [[Robin (comics)|Robin]] and served as Wally's best man at his wedding.
+
+The members of the New Teen Titans, the team Wally served on as Kid Flash, have reappeared several times throughout his life. Although they are not always in close contact with one another, the team consider each other family; Wally is no exception.
+
+===Supporting cast===
+Wally has developed a very extensive supporting cast over the duration of his comic series that began in 1987. A few are former villains and adversaries, such as Pied Piper, Speed Demon, and Chunk.
+
+*[[Linda Park (comics)|Linda Park-West]] – Wally West's girlfriend and later wife. Park is a news reporter, although she later goes to medical school.<ref>{{cite book|last1=Johns|first1=Geoff|title=The Flash Omnibus Volume 2}}</ref> Park is West's "lightning rod" when travelling in the Speed Force.
+*Mary West – Wally's mother.
+*[[Iris West Allen]] – Wally's aunt, returned from the future. Iris was a role model for Wally growing up and one of the inspirations behind his career as the Flash.
+*Dr. [[Tina McGee]] – A scientist/nutritionist with whom Wally had a brief romantic involvement.<ref>{{Cite comic | Writer=Baron, Mike | Penciller=Guice, Jackson | Inker=Mahlstedt, Larry | Story=Kill the Kilg%re! |title=The Flash |volume=2 |issue=#4 |date=September 1987 |publisher=DC Comics |page= | Panel=}}</ref>
+*Dr. Jerry McGee (a.k.a. Speed Demon, Speed McGee) – Tina's (formerly ex-) husband and former super-speed villain.<ref>{{Cite comic | Writer=Baron, Mike | Penciller=Guice, Jackson | Inker=Torrance, Jack | Story=Speed McGee |title=The Flash |volume=2 |issue=#5 |date=October 1987 |publisher=DC Comics |page= | Panel=}}</ref>
+*[[Frances Kane]] (a.k.a. Magenta) – A former love interest of West who later joins the Rogues and becomes a supervillain.<ref>{{cite book|last1=Johns|first1=Geogg|title=The Flash Omnibus Volume 1}}</ref>
+*Connie Noleski – A model and girlfriend of Wally's in his early career as the Flash. She is currently married to Chunk.
+*[[Chunk (comics)|Chester P. Runk]] (a.k.a. Chunk) – A brilliant physicist who became a walking black hole after a matter-transmitting machine he invented imploded during its first test.
+*Mason Trollbridge – The former kid sidekick of a hard-edged Depression-era crimefighter known as the Clipper.
+*[[Pied Piper (comics)|Pied Piper]] – One of Barry Allen's former Rogues whom Wally and Linda befriended. Piper even confessed his homosexuality to Wally on a rooftop while in discussion with him about the [[Joker (character)|Joker]].
+*[[Flash (Jay Garrick)|Jay Garrick]] – The original Flash. Currently out of semi-retirement and a member of the Justice Society of America.
+*[[Jesse Chambers|Jesse Quick]] – The daughter of [[Liberty Belle (comics)#Libby Lawrence|Liberty Belle]] and [[Johnny Quick#Johnny Quick (Johnny Chambers)|Johnny Quick]], Jesse is a second generation superhero and speedster like her father.
+*[[Max Mercury]] – The Zen Master of Speed.
+*[[Bart Allen]] (Kid Flash) – Barry and Iris Allen's grandson from the future. Originally codenamed Impulse. He was a member of the [[Teen Titans]] when he took on Wally's old identity.
+*Ashley Zolomon – Current Rogue Profiler with the Keystone City PD and former wife of [[Zoom (comics)|Hunter Zolomon]].
+*Jai West and [[Iris West II|Iris West]] – Wally and Linda's children. Aged 1 chronologically, but physically about 8 due to an unstable connection to the Speed Force. Wally had to teach them at super-speed, so they are mentally about the same age as they are physically. Following their nearly being killed by their powers, all of it was transferred to Iris, who became the new [[Impulse (DC Comics)|Impulse]].
+
+===Group affiliations===
+Wally is a founding member of the Teen Titans,<ref>{{Cite comic | Story=The Thousand-and-One Dooms of Mr. Twister |title=Brave and the Bold|volume=1 |issue=54 |date=July 1964 |publisher=DC Comics}}</ref> the New Teen Titans,<ref>{{Cite comic | Story=Where Nightmares Begin! |title=DC Comics Presents|volume= |issue=#26 |date=October 1980 |publisher=DC Comics}}</ref> the Titans,<ref>{{Cite comic | Story=That Strange Buzzing Sound |title=The Titans|volume=1 |issue=1 |date=March 1999|publisher=DC Comics}}</ref> Justice League Europe,<ref>{{Cite comic | Story=How Ya Gonna Keep 'Em Down On the Farm After They've Seen Paree? |title=Justice League Europe|volume= |issue=#1 |date=April 1989|publisher=DC Comics}}</ref> Justice League Task Force,<ref>{{Cite comic | Story=The Tyranny Gun! |title=Justice League Task Force|volume=1 |issue=1 |date=June 1993|publisher=DC Comics}}</ref> the "JLA" incarnation of the Justice League,<ref>{{Cite comic | Story=Them! |title=JLA|volume= |issue=#1 |date=January 1997|publisher=DC Comics}}</ref> and Justice League Elite,<ref>{{Cite comic | Story=No Mercy |title=Justice League Elite|volume= |issue=#1 |date=September 2004|publisher=DC Comics}}</ref> among other affiliations.
+
+==Other versions==
+
+===''Armageddon 2001''===
+In the ''[[Armageddon 2001]]'' crossover, a possible future shows Wally has married and fathered a son. The Wests are forced to move into the Witness Protection Program to escape a mobster that can discern secrets with a touch. Wally's son gains his super-speed, but not his protective aura. After defeating the mobster and his older Rogues Gallery, Wally manages to pass on his abilities to his son, granting him the much-needed aura.<ref>''The Flash'' vol. 2 Annual #4 (1991)</ref>
+
+===Walter West/The Dark Flash===
+{{anchor|Walter West}}''The Flash'' vol. 2 #150–159 (1999–2000) introduces a version of Wally named '''Walter West''', also known as the '''Dark Flash''', who appeared in the main DC universe after Wally and Linda were apparently killed in a fight with Abra Kadabra after he tried to dispose of Linda by sending her into Walter's reality, prompting Walter to travel back to Wally's world to take his place in recognition of his other self's sacrifice. This version of Wally is revealed to be an older, scarred, more powerful and experienced version from another reality within [[Hypertime]] (although he only revealed his true identity to Jay Garrick, Donna Troy and Superman so that he could work with their various teams). It is revealed that this version of Wally was unable to save Linda from death at [[Kobra (DC comics)|Kobra]]'s hands. This made Walter a darker hero similar to Batman in ''[[The Dark Knight Returns]]'' storyline. After Walter's presence in the main DC Universe starts to cause other realities in Hypertime to bleed over into the main one, [[Superman]] and [[Wonder Woman]] force Walter to transverse Hypertime and return home. Although he leaves the main DC Universe, he appears to never make it back to his own reality. He seems to go from reality to reality with no success. After Hypertime was abandoned by DC, Walter West's continued existence becomes unclear.<ref>''The Flash'' vol. 2 #150–159</ref> Dark Flash/Walter West appears as an alternate costume for Flash in the video game ''[[Justice League Heroes]]''.
+
+===''Earth One''===
+Wally is one of the children given powers from the Titans Project headed by [[Niles Caulder]]. Alongside [[Kole Weathers]] and [[Cassie Sandsmark]], Wally is one of the first Titans to work for Caulder, even considering him a father. After a struggle with the other experimented children, [[Vic Stone]], [[Terra (comics)|Tara Markov]], [[Beast Boy|Gar Logan]], [[Garth (comics)|Tempest]] and [[Raven (DC Comics)|Raven]], a repenting [[Deathstroke]] and the alien [[Starfire (Koriand'r)|Starfire]], Wally turns on Caulder. In this universe, he takes on the name Impulse instead.<ref>''Teen Titans: Earth One'' vol. 2</ref>
+
+===Elseworlds===
+An [[Elseworlds]] tale in ''Superboy'' vol. 4 Annual #1 (1994) shows a Wally West that had lost the use of his legs and had them replaced with [[Bionics|bionic]] ones. With his artificial legs, Wally was not able to run at high speeds, though he could still move his arms at super-speed. This version of Wally died saving [[Green Lantern]] ([[Hal Jordan]]) from a yellow projectile.<ref>''Superboy Annual'' vol. 4 #1 (December 1994)</ref>
+
+===''Flash Annual''===
+''The Flash'' vol. 3 Annual #7 (1994, one of a series of ''[[Elseworlds]]'' annuals) shows a Flash who has become a superstar celebrity and film director. He was apparently left disabled by an attempt by the [[Captain Cold]] to create a new Ice Age, which in this reality also resulted in the death of Barry Allen. Wally's film is repeatedly interrupted by the Captain Cold's insistence that Wally's version is a lie (claiming that he had benevolent intentions and that Barry's death was a tragic accident) – much to Wally's horror, the Captain Cold is given the authority to make changes to the film. During a confrontation in the carpark, the Captain Cold's demonisation of Barry Allen is ended when he is killed by a lightning bolt (which Wally suspects may be [[wiktionary:Divine intervention|divine intervention]]).
+
+===''Flashpoint''===
+In the alternate timeline of the ''[[Flashpoint (comics)|Flashpoint]]'' storyline, Wally West acts as an assistant and cameraman for his aunt Iris, who in this reality is a television reporter. Investigating Central City's hero, [[Captain Cold|Citizen Cold]], Wally discovers that his true identity is that of a former low-level criminal. Citizen Cold confronts him before he can reveal this information and freezes him in a block of ice.<ref>''Flashpoint: Citizen Cold'' #1 (June 2011)</ref> Wally was a childhood friend of [[Pied Piper (comics)|Pied Piper]], who arrives at Wally's lair and discovers Wally is killed by Citizen Cold. Pied Piper takes Wally's place in uncovering evidence of Citizen Cold's true identity.<ref>''Flashpoint: Citizen Cold'' #2 (July 2011)</ref> Afterwards, a funeral is held for Wally by his Aunt Iris, along with her husband John.<ref>''Flashpoint: Kid Flash Lost'' #3 (August 2011)</ref>
+
+===''JLA: Another Nail''===
+In ''[[JLA: Another Nail]]'', Wally West (as Kid Flash) makes a brief appearance when all time periods meld together. He is flying with Wonder Girl ([[Donna Troy]]).
+
+===''Kingdom Come''===
+[[File:The Flash (Kingdom Come).png|100px|thumb|right|The Flash (Wally West) in ''Kingdom Come''. Art by [[Alex Ross]].]]
+In [[Mark Waid]]'s ''[[Kingdom Come (comics)|Kingdom Come]]'', set on Earth—22, Wally has become the godlike embodiment of the Speed Force, being "everywhere at once", and "living between the ticks of a second". He keeps his home of Keystone City safe by patrolling it nonstop at super speed.<ref>''Kingdom Come'' #1, (May 1996)</ref> He joins [[Superman]]'s revived [[Justice League]], and helps establish the "Gulag", a high tech prison for superhuman criminals. Wally is one of the few superheroes that survives the [[United Nations]] nuclear attack on the Gulag.<ref>''Kingdom Come'' #4 (Aug 1996)</ref>
+
+The sequel ''[[The Kingdom (comics)|The Kingdom]]'' provides more background on Wally's future history. ''The Kingdom: Kid Flash'' #1 (February 1999) follows Wally's twin children, Barry and [[Iris West]] (originally mentioned in Mark Waid's ''The Life Story of the Flash'', "written" by Iris Allen, where she describes her namesake in a positive light and Barry West as "a tragedy"). The twins have inherited their father's speed, but only Iris decides to become a superhero (as the new Kid Flash), while Barry is a slacker who uses his speed just to waste time. Wally at first rebuffs Iris' attempts to impress him, as he doesn't believe she's doing good for the right reasons. When Iris joins a team of second-generation heroes to travel into the past and confront [[Gog (DC Comics)|Gog]], Wally finally admits that she has earned the right to the name "Kid Flash."
+
+===''Superman & Batman: Generations 2''===
+In [[John Byrne (comics)|John Byrne]]'s graphic novel ''[[Superman & Batman: Generations#Generations 2|Superman & Batman: Generations 2]]'', characters from the DC Universe are shown to age in real time. In this series, Wally appears as the Flash in 1964,<ref>''Superman & Batman: Generations 2'' #2 (September 2001)</ref> which is the year he first appeared in the mainstream DC universe as a founding member of the [[Teen Titans]] (though in this version, he is a founding member of the [[Justice League]]). By 1986, Wally has retired and been replaced by the fourth Flash (Carrie Allen, the daughter of Barry Allen).<ref>''Superman & Batman: Generations 2'' #3 (October 2001)</ref> Wally's son, Jay West, in turn, replaces Carrie in 2008 to become the fifth Flash.<ref>''Superman & Batman: Generations 2'' #4 (November 2001)</ref>
+
+==Collected editions==
+Wally West's stories from ''The Flash'' vol. 2 have been reprinted in several [[Trade paperback (comics)|trade paperbacks]] and hardcover collections.
+
+{| class="wikitable"
+|-
+! Title !! Vol. !! Material collected !! Publication date !! ISBN
+|-
+| '''The Flash: Savage Velocity'''
+|
+| ''The Flash'' vol. 2 #1-18, Annual #1
+| September 2020
+| SC: {{ISBNT|978-1401299576}}
+|-
+| '''The Flash: Born to Run'''
+|
+| ''The Flash'' vol. 2, #62–65; ''The Flash Annual'' #8; ''Speed Force'' #1; ''Flash 80-Page Giant'' #1
+| June 1999
+| {{ISBNT|978-1563895043}}
+|-
+| '''Flash: The Return of Barry Allen'''
+|
+| ''The Flash'' vol. 2, #74–79
+| July 1996
+| {{ISBNT|978-1563892684}}
+|-
+| '''Impulse: Reckless Youth'''
+|
+| ''The Flash'' vol. 2, #92–94; ''Impulse'' #1–6
+| April 1997
+| {{ISBNT|978-1563892769}}
+|-
+| '''The Flash: Terminal Velocity'''
+|
+| ''The Flash'' vol. 2, #0, 95–100
+| September 1995
+| {{ISBNT|978-1563892493}}
+|-
+| '''The Flash: Dead Heat'''
+|
+| ''The Flash'' vol. 2, #108–111; ''Impulse'' #10–11
+| August 2000
+| {{ISBNT|978-1563896231}}
+|-
+| '''The Flash: Race Against Time'''
+|
+| ''The Flash'' vol. 2, #112–118
+| July 2001
+| {{ISBNT|978-1563897214}}
+|-
+| '''The Flash: Emergency Stop'''
+|
+| ''The Flash'' vol. 2, #130–135
+| January 2009
+| {{ISBNT|978-1401221775}}
+|-
+| '''The Flash: The Human Race'''
+|
+| ''The Flash'' vol. 2, #136–141; "Flash of Two Worlds" from ''Secret Origins'' #50
+| June 2009
+| {{ISBNT|978-1401222390}}
+|-
+| '''The Flash: Wonderland'''
+|
+| ''The Flash'' vol. 2, #164–169
+| October 2007
+| {{ISBNT|978-1401214890}}
+|-
+| '''The Flash: Blood Will Run'''
+|
+| ''The Flash'' vol. 2, #170–176; ''The Flash Secret Files and Origins'' #3; ''The Flash: Iron Heights'' #1 [2nd ed. only]
+| 
+* (1st ed.) June 2002
+* (2nd ed.) February 2008
+| 
+* (1st ed.) {{ISBNT|978-1563898792}}
+* (2nd ed.) {{ISBNT|978-1401216474}}
+|-
+| '''The Flash: Rogues'''
+|
+| ''The Flash'' vol. 2, #177–182
+| February 2003
+| {{ISBNT|978-1563899508}}
+|-
+| '''The Flash: Crossfire'''
+|
+| ''The Flash'' vol. 2, #183–191
+| March 2004
+| {{ISBNT|978-1401201951}}
+|-
+| '''The Flash: Blitz'''
+|
+| ''The Flash'' vol. 2, #192–200
+| August 2004
+| {{ISBNT|978-1401203351}}
+|-
+| '''The Flash: Ignition'''
+|
+| ''The Flash'' vol. 2, #201–206
+| March 2005
+| {{ISBNT|978-1401204631}}
+|-
+| '''The Flash: The Secret of Barry Allen'''
+|
+| ''The Flash'' vol. 2, #207–211, 213–217
+| August 2005
+| {{ISBNT|978-1401207236}}
+|-
+| '''The Flash: Rogue War'''
+|
+| ''The Flash'' vol. 2, #½, 212, 218, 220–225
+| January 2006
+| {{ISBNT|978-1401209247}}
+|-
+| '''The Flash: The Wild Wests'''
+|
+| ''The Flash'' vol. 2 #231–237
+| August 2008
+| HC: {{ISBNT|978-1401218287}}
+|-
+| rowspan=3 | '''The Flash Omnibus by Geoff Johns'''
+| 1
+| ''The Flash'' vol. 2 #164–176; ''The Flash: Our Worlds at War'' #1; ''The Flash Secret Files and Origins'' #3; ''The Flash: Iron Heights''
+| May 2011
+| HC: {{ISBNT|978-1401230685}}
+|-
+| 2
+| ''The Flash'' vol. 2 #177–200; ''DC First: The Flash/Superman'' #1
+| April 2012
+| HC: {{ISBNT|978-1401233914}}
+|-
+| 3
+| ''The Flash'' vol. 2 #201–225; ''Wonder Woman'' Vol. 2 #214
+| September 2012
+| HC: {{ISBNT|978-1401237172}}
+|-
+| rowspan=5 | '''The Flash by Geoff Johns'''
+| 1
+| ''The Flash'' vol. 2 #164–176; ''The Flash: Iron Heights'' #1
+| December 2015
+| SC: {{ISBNT|978-1401258733}}
+|-
+| 2
+| ''The Flash'' vol. 2 #177–188; ''The Flash: Our Worlds At War'' #1; ''The Flash Secret Files and Origins'' #3; ''DC First: The Flash/Superman'' #1
+| May 2016
+| SC: {{ISBNT|978-1401261016}}
+|-
+| 3
+| ''The Flash'' vol. 2 #189-200
+| November 2016
+| SC: {{ISBNT|978-1401264987}}
+|-
+| 4
+| ''The Flash'' vol. 2 #201-213
+| December 2017
+| SC: {{ISBNT|978-1401273651}}
+|-
+| 5
+| ''The Flash'' vol. 2 #214–225, 1/2; ''Wonder Woman'' vol. 2 #214
+| July 2018
+| SC: {{ISBNT|978-1401281076}}
+|-
+| '''The Flash by Grant Morrison and Mark Millar'''
+|
+| ''The Flash'' vol. 2 #130-141; ''Green Lantern'' #96; ''Green Arrow'' #130
+| April 2016
+| SC: {{ISBNT|978-1401261023}}
+|-
+| rowspan=8 | '''The Flash by Mark Waid'''
+| 1
+| ''The Flash Special'' #1; ''The Flash'' vol. 2 #62–68, Annuals #4–5; ''The Flash TV Special'' #1
+| December 2016
+| SC: {{ISBNT|978-1401267353}}
+|-
+| 2
+| ''The Flash'' vol. 2 #69–79, Annual #6; ''Green Lantern'' vol. 3 #30–31, #40; ''Justice League International Quarterly'' #10
+| May 2017
+| SC: {{ISBNT|978-1401268442}}
+|-
+| 3
+| ''The Flash'' vol. 2 #80–94
+| October 2017
+| SC: {{ISBNT|978-1401273927}}
+|-
+| 4
+| ''The Flash'' vol. 2 #0, #95-105, Annual #8
+| April 2018
+| SC: {{ISBNT|978-1401278212}}
+|-
+| 5
+| ''The Flash'' vol. 2 #106-118; ''Impulse'' #10-11
+| October 2018
+| SC: {{ISBNT|978-1401284602}}
+|-
+| 6
+| ''The Flash'' vol. 2 #119-129; ''Green Lantern/Flash: Faster Friends'' #1; ''Flash/Green Lantern: Faster Friends'' #1; ''Flash Plus Nightwing'' #1; a story from ''DC Universe Holiday Bash'' #1
+| June 2019
+| SC: {{ISBNT|978-1401293802}}
+|-
+| 7
+| ''The Flash'' vol. 2 #142-150; ''Speed Force'' #1; ''The Flash Secret Files and Origins'' #1; ''Flash 80-Page Giant'' #1
+| May 2020
+| SC: {{ISBNT|978-1779500199}}
+|-
+| 8
+| ''The Flash'' vol. 2 #151-163, ''The Flash'' Annual #12, ''The Flash Secret Files and Origins'' #2
+| 2021
+| SC: 
+|-
+|}
+
+Collected editions featuring the other Flashes [[Flash (Jay Garrick)|Jay Garrick]] and [[Flash (Barry Allen)|Barry Allen]] as well as Wally West:
+
+{| class="wikitable"
+|-
+! Title !! Material collected !! Publication date !! ISBN
+|-
+| '''The Greatest Flash Stories Ever Told'''
+| ''Flash Comics'' #1, 66, 86; ''Comic Cavalcade'' #24; ''Showcase'' #4; ''The Flash'' vol. 1 #107, 113, 119, 124, 125, 137, 143, 148, 179; ''Five-Star Super-Hero Spectacular''; ''The Flash'' vol. 2 #2
+| February 1991<br>April 1992
+| HC: {{ISBNT|978-0930289812}}<br>SC: {{ISBNT|978-0930289843}}
+|-
+| '''The Flash: The Greatest Stories Ever Told'''
+| ''Flash Comics'' #86, 104; ''The Flash'' vol. 1 #123, 155, 165, 179; ''The Flash'' vol. 2 #91; ''DC Special Series'' #11
+| August 2007
+| {{ISBNT|978-1401213725}}
+|-
+| '''The Flash by Geoff Johns Book Six'''
+| ''Final Crisis: Rogues' Revenge'' #1-3 (miniseries); ''The Flash: Rebirth'' #1–6 (miniseries); ''Blackest Night: The Flash'' #1-3 (miniseries)
+| August 2019
+| SC: {{ISBNT|978-1401292638}}
+|}
+
+==In other media==
+{{Main|Flash in other media}}
+
+===Television===
+====Animation====
+* Wally West appears as Kid Flash in ''[[The Superman/Aquaman Hour of Adventure]]'', in the segments "Take a Giant Step" and "To Catch a Blue Bolt"; the latter shows Barry Allen and Wally changing into their Flash and Kid Flash uniforms using their rings. Wally's appearance differs from his comic book counterpart. He has black hair, and the red and yellow color scheme of his second costume is reversed, as well as simplified to put him in trunks.
+* Wally West as the Flash appears in the ''[[Superman: The Animated Series]]'' episode "[[Speed Demons (Superman: The Animated Series)|Speed Demons]]", voiced by [[Charlie Schlatter]].
+* Wally West appears as the Flash in ''[[Justice League (TV series)|Justice League]]'' and its successor series, ''[[Justice League Unlimited]]'', voiced by [[Michael Rosenbaum]]. Unlike the rest of the heroes, Flash's real name remained a secret for most of the series. He is only called by his real-name four times; Once by Batman upon revealing his own identity in “Starcrossed”, once each by Hawkgirl and Green Lantern when they, Superman, Martian Manhunter, Wonder Woman and Batman pull him out of the Speed Force after his near-suicidal defeat of the Brainiac-enhanced Luthor, and by his colleagues in “Flash and Substance”. This version, unlike the comics, has [[Flash (Barry Allen)|Barry Allen's]] job as a CSI.
+* Wally West as the Flash, along with Batman, [[John Stewart (comics)|John Stewart]], [[Hawkgirl]], and [[Martian Manhunter]], appears in ''[[Static Shock]]''.
+* Wally West as Kid Flash appears in [[Teen Titans (TV series)|''Teen Titans'']], with Michael Rosenbaum reprising his role.
+* Wally West as Kid Flash appears in an episode of ''[[Batman: The Brave and the Bold]]'' titled "Requiem for a Scarlet Speedster", voiced by [[Hunter Parrish]].
+* Wally West as Kid Flash appears in [[Young Justice (TV series)|''Young Justice'']], voiced by [[Jason Spisak]] as one of the core six characters and a founding member of 'the Team'. Like the comics, this version is Dick Grayson’s best friend and is also shown on multiple occasions to have a hyper-metabolism, requiring him to eat a lot of food to maintain his speed. However, contrary to the comics, this Wally West is significantly slower than both Barry and [[Bart Allen]] (his top speed allows him to run from Boston to Seattle in about 3½ hours<ref name="Coldhearted">Young Justice S01E20 'Coldhearted'</ref>). This is explained by his having intentionally recreated the accident that first gave Barry his powers (blowing up his parents' garage in the process).
+* Wally West as Kid Flash appears in an episode of ''[[Teen Titans Go!]]'' titled "Multiple Trick Pony", voiced by [[Will Friedle]].
+* Wally West as Kid Flash appears as a non-voiced cameo in a ''DC Super Friends'' short.
+* Wally West as the Flash appears in ''[[Mad (TV series)|Mad]]'' alongside Jay Garrick, Barry Allen, and Bart Allen where they try to appeal to Superman, Batman, and Wonder Woman about being called "Super Friends".
+* Wally West as Kid Flash appears in a segment of ''[[Robot Chicken]]'' titled "Bring a Sidekick to Work Day", voiced by [[Seth Green]].
+
+====Live action====
+* '''Wallace F. "Wally" West''' appeared as a main character in [[The CW]] series ''[[The Flash (2014 TV series)|The Flash]]'', played by [[Keiynan Lonsdale]]. Introduced in [[The Flash (season 2)|season two]], he is a reinterpretation of Wally West, becoming Iris's younger brother as opposed to her nephew. Like the other Wests in ''The Flash'', Wally is African American, as opposed to his usual red-headed depiction, which coincided with DC re-introducing Wally as biracial in the comics (DC later re-designated this revised version of the character as [[Wallace West (DC comics)|Wallace West]], the red-haired Wally's cousin.) In the show, Wally becomes [[Kid Flash#Wally West|Kid Flash]] in [[The Flash (season 3)|season three]] during an accident involving Barry Allen's powers.<ref>{{cite web|url=http://tvline.com/2016/07/12/wally-west-kid-flash-photo-the-flash-season-3-spoilers/|title=The Flash First Look: Meet Kid Flash!|publisher=TV Line|last=Gelman|first=Vlada|date=July 12, 2016}}</ref> The character is later transitioned to the spin-off series ''[[Legends of Tomorrow]]'' as a series regular in the back half of [[Legends of Tomorrow (season 3)|season three]],<ref>{{Cite web|url=http://www.tvguide.com/news/legends-of-tomorrow-keiynan-lonsdale-series-regular-the-flash/|title=Legends of Tomorrow Adds the Flash Star Keiynan Lonsdale as Series Regular}}</ref> and makes a crossover appearance in an episode of ''[[Supergirl (TV series)|Supergirl]]'' during the crossover event "[[Crisis on Earth-X]]."
+
+===Video games===
+* Wally West as the Flash appears as a playable character in ''[[Justice League Task Force (video game)|Justice League Task Force]]''.
+* Wally West as the Flash appears as a playable character in ''[[Justice League Heroes]]'', voiced by [[Chris Edgerly]].
+* Wally West as the Flash appears as the main character in ''[[Justice League Heroes: The Flash]]''. He is also voiced by Chris Edgerly.
+* Wally West as the Flash appears alongside Jay Garrick and Barry Allen in ''[[DC Universe Online]]''.
+* Wally West as Kid Flash appears as a playable character in ''[[Young Justice: Legacy]]''. He is voiced by [[Jason Spisak]].
+* Wally West's DC Rebirth version appears as a playable character in the mobile port of ''[[Injustice: Gods Among Us]]''.
+* Wally West appears in ''[[Injustice 2]]'' as a cameo for Flash's ending. He is seen running with Barry Allen, Jay Garrick, Wallace West and Jesse Quick.
+* Wally West as the Flash and Kid Flash from ''Young Justice'' appears as a playable character in ''[[Lego DC Super-Villains]]'', with Jason Spisak reprising both of these roles.
+* Wally West's DC Rebirth version appears as an unlockable playable character in ''DC Legends: Battle for Justice''.
+
+==Reception==
+In 2011, [[IGN]] ranked Wally West #8 on their list of the "Top 100 Super Heroes of All Time", ahead of other speedster heroes, stating that "Wally West is one of the DCU's greatest heroes, even if he does not rank as the original Scarlet Speedster".<ref>{{cite web|author=IGN IGN|title=100 Greatest Superheroes of all time|url=http://www.ign.com/top/comic-book-heroes/8|work=IGN|publisher=IGN|access-date=20 July 2011}}</ref> In 2013, Wally West placed 6th on [[IGN]]'s Top 25 Heroes of DC Comics, also ahead of other speedsters.<ref>{{cite web|last=Schedeen |first=Jesse |url=http://www.ign.com/articles/2013/11/19/the-top-25-heroes-of-dc-comics |title=The Top 25 Heroes of DC Comics |publisher=IGN |date=2013-11-19 |access-date=2015-11-01}}</ref>
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+* {{Comicbookdb|type=character|id=1274|title=Kid Flash (Wally West)}}
+* {{Comicbookdb|type=character|id=52|title=Flash (Wally West)}}
+* [http://toonopedia.com/flash3.htm Flash (1986)] at [[Don Markstein's Toonopedia]]. [https://www.webcitation.org/6jOc6dg5L?url=http://toonopedia.com/flash3.htm Archived] from the original on July 30, 2016.
+* [http://dc.wikia.com/wiki/Wally_West_(New_Earth) DCU Guide: Wally West]
+
+{{Flash}}
+{{Teen Titans}}
+{{Justice League characters}}
+
+{{DEFAULTSORT:West, Wally}}
+[[Category:Characters created by Carmine Infantino]]
+[[Category:Characters created by John Broome]]
+[[Category:Comics characters introduced in 1959]]
+[[Category:DC Comics characters who can move at superhuman speeds]]
+[[Category:DC Comics characters with accelerated healing]]
+[[Category:DC Comics male superheroes]]
+[[Category:DC Comics metahumans]]
+[[Category:DC Comics sidekicks]]
+[[Category:DC Comics child superheroes]]
+[[Category:Fictional characters who can manipulate reality]]
+[[Category:Fictional characters who can manipulate time]]
+[[Category:Fictional characters with dimensional travel abilities]]
+[[Category:Fictional characters with electric or magnetic abilities]]
+[[Category:Fictional characters who can manipulate sound]]
+[[Category:Fictional characters who can turn invisible]]
+[[Category:Fictional characters who can turn intangible]]
+[[Category:Fictional characters with air or wind abilities]]
+[[Category:Fictional characters with absorption or parasitic abilities]]
+[[Category:Fictional characters with superhuman senses]]
+[[Category:Fictional characters with anti-magic or power negation abilities]]
+[[Category:Fictional characters with slowed ageing]] 
+[[Category:Fictional characters with density control abilities]]
+[[Category:Fictional characters from Nebraska]]
+[[Category:Fictional characters displaced in time]]
+[[Category:Fictional criminologists]]
+[[Category:Fictional scientists]]
+[[Category:Flash (comics) characters]]
+[[Category:Male characters in comics]]
+[[Category:Teenage characters in comics]]
+[[Category:Time travelers]]

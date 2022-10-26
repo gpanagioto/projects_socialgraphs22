@@ -1,0 +1,130 @@
+{{Short description|Fictional superhero from DC Comics}}
+{{Infobox comics character and title<!--Wikipedia:WikiProject Comics-->
+| image               = Vibe (Paco Ramone).png
+| caption             = Vibe (Paco Ramone) in ''Who's Who: Update '87'' #5 (December 1987)
+| imagesize           = 225
+| converted           = y
+| character_name      = Vibe
+| real_name           =  Francisco "Cisco" Ramon<br />Paco Ramone
+| debut               = ''[[Justice League|Justice League of America Annual]]'' #2 (October 1984)<ref name="GCD">{{cite web|url=http://www.comics.org/issue/167325/|title=GCD :: Issue :: Justice League of America Annual #2 [newsstand]|work=comics.org}}</ref>
+| creators            = [[Gerry Conway]] (writer), [[Chuck Patton]] (artist)
+| Base of operations  = S.T.A.R LABS
+| species             = [[Metahuman]]
+| ethnicity           =
+| homeworld           = Earth
+| alliances           = [[Justice_League#Detroit|Justice League Detroit]]<br/>Los Lobos<br/>[[Justice League]]<br/>[[Black Lantern Corps]]<br/>[[Justice League United]]
+| spouse(s)           = 
+| supports            = <!-- optional -->
+| aliases             =   
+| powers              =  Above average agility<br />Skilled hand to hand combatant<br />Sonic vibration manipulation <br />Seismic powers<br />'''(New 52)'''<br />Molecular vibration<br />Induced image distortion
+<!--book -->
+| title               = Justice League of America's Vibe
+| noimage             = yes
+| schedule            = Monthly
+| format              = Ongoing
+| genre               = Superhero
+| publisher           = [[DC Comics]]
+| date                = February [[2013 in comics|2013]]&nbsp;– December [[2013 in comics|2013]]
+| issues              = 10 (as of February 2014 [[cover date]])
+| main_char_team      =
+| writers             = Andrew Kreisberg, [[Geoff Johns]], Sterling Gates
+| artists             = Pete Woods, Sean Parsons
+| pencillers          =
+| inkers              =
+| colorists           =
+| creative_team_month =
+| creative_team_year  =
+| cat                 = super
+| subcat              = DC Comics
+| hero                = y
+| villain             =
+| sortkey             = Vibe (comics)
+}}
+{{Lead too short|date=September 2022}}
+'''Vibe''' (real name '''Paco Ramone''' or '''Francisco''' "'''Cisco'''" '''Ramon''') is a fictional [[superhero]] appearing in [[American comic books]] published by [[DC Comics]].
+
+[[Carlos Valdes (actor)|Carlos Valdes]] portrayed Cisco Ramon in [[The CW]]'s [[Arrowverse]], especially ''[[The Flash (2014 TV series)|The Flash]]'', in which he was one of the [[Barry Allen (Arrowverse)|Flash]]'s teammates.
+
+{{TOC limit|3}}
+
+==Publication history==
+Vibe's first appearance was in ''[[Justice League|Justice League of America Annual]]'' #2 (October 1984),<ref name="GCD" /> and he was created by [[Gerry Conway]] and [[Chuck Patton]].<ref>{{cite book|last1=Manning|first1= Matthew K.|editor-last=Dolan|editor-first=Hannah |chapter= 1980s |title=DC Comics Year By Year A Visual Chronicle|publisher=[[Dorling Kindersley]] |year=2010 |isbn= 978-0-7566-6742-9 |page= 209 |quote=The prestigious Justice League of America got a bit easier to join, thanks to writer Gerry Conway and artist Chuck Ryan Patton. Marking the debut of camouflaging hero Gypsy, the shockwave-casting Vibe, and the second generation hero Steel, this landmark comic saw many of the more famous League members step down in order to make way for a younger roster to carry on their legacy.}}</ref>
+
+==Fictional character biography==
+Cisco Ramon began his career as Vibe shortly after [[Aquaman]] disbanded the original [[Justice League]]. When young Cisco heard that a [[Justice League Detroit|new Justice League]] was forming in his own hometown Detroit, he decided to give up his position as the leader of a local street gang, Los Lobos, to join.<ref name="GCD" /> What made Cisco a candidate was his [[metahuman]] ability to emit powerful vibratory [[shock wave]]s.<ref>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Korte |first3=Steve |last4=Manning |first4=Matt |last5=Wiacek |first5=Win |last6=Wilson |first6=Sven |title=The DC Comics Encyclopedia: The Definitive Guide to the Characters of the DC Universe |date=2016 |publisher=DK Publishing |isbn=978-1-4654-5357-0 |page=319}}</ref>
+
+Vibe's presence on the team caused Aquaman and the [[Martian Manhunter]] to harbor some strong doubts about the new JLA, particularly after he got the League involved in a rumble with a rival gang.<ref>''Justice League of America'' #233 (December 1984)</ref> Vibe soon proved his mettle during the League's battles against [[Cadre (comics)|Cadre]],<ref>''Justice League of America'' #233–236 (December 1984–February 1985). DC Comics</ref> Anton Allegro<ref>''Justice League of America'' #237–239 (July–September 1985). DC Comics</ref> and [[Amazo]].<ref>''Justice League of America'' #241–243 (August–October 1985). DC Comics</ref> He stayed with the League through the ''[[Crisis on Infinite Earths]]'' crossover, when his powers played a vital role in defeating [[Despero]].<ref>''Justice League of America'' #254 (September 1986). DC Comics</ref>
+
+During [[Darkseid]]'s assault on Earth during the ''[[Legends (comics)|Legends]]'' mini-series, the Justice League of America was disbanded and Cisco left his JLA comrades to seek the familiar solace of the streets. Vibe was attacked by one of [[Professor Ivo]]'s androids, and  became the first Justice League member to be killed in the line of duty.<ref>{{Cite comic | Writer= | Penciller=[[Luke McDonnell|McDonnell, Luke]] | Inker=[[Bob Smith (comics)|Smith, Bob]] | Story=[[J. M. DeMatteis|DeMatteis, J.M.]] | Title=Justice League of America | Issue=258 | Date=January 1987 | Publisher=DC Comics}}</ref> The Martian Manhunter brought Vibe's body back to the League's mountain sanctuary, where Vibe was laid to rest in a cryogenic chamber. Cisco's dead form has twice been resurrected by evil-doers.<ref>''JLA Annual'' #2 (1998)</ref><ref>''Martian Manhunter'' (vol. 2) #12 (November 1999). DC Comics</ref>
+
+He has two brothers, [[Armando Ramon|Armando]] and [[Dante Ramon|Dante]]; the former has a similar set of vibratory powers. 
+
+In the ''[[Trinity (comic book)|Trinity]]'' maxi-series, reality is altered, and Cisco is living and shown as a member of The League, an underground version of the Justice League.<ref>''Trinity'' #25 (November 2008). DC Comics</ref> Soon after [[Superman]], [[Batman]] and [[Wonder Woman]] return, his head is disintegrated by an energy blast, killing him again.
+
+In a ''Justice League of America'' tie-in to the "[[Blackest Night]]" storyline, Vibe was reanimated as a member of the [[Black Lantern Corps]], rising from his coffin in the [[Hall of Justice (comics)|Hall of Justice]].<ref>''Justice League of America'' (vol. 2) #39 (November 2009)</ref> Alongside the Black Lantern [[Commander Steel|Steel]], Vibe attacked his former teammates, [[Gypsy (comics)|Gypsy]] and [[Vixen (comics)|Vixen]], until [[Doctor Light (Kimiyo Hoshi)|Doctor Light]] destroyed him.<ref>''Justice League of America'' (vol. 2) #40 (December 2009). DC Comics</ref>
+
+===The New 52===
+In DC's [[Free Comic Book Day]] 2012 sample during ''[[The New 52]]'', a gatefold revealed various characters who would make an appearance in ''Justice League'' over the coming year, one of which was Vibe. [[Geoff Johns]] revealed that Vibe's return would be explored in greater detail in the third story arc of ''Justice League''.<ref>{{cite news| last= Truitt |first= Brian |date= 4 May 2012 |url= https://www.usatoday.com/life/comics/story/2012-05-05/DC-Comics-Free-Comic-Book-Day-issue/54730640/1 |title= Geoff Johns gives out good vibes for Free Comic Book Day |newspaper= [[USA Today]] | access-date= May 18, 2018}}</ref> On August 26, 2012, DC announced a new ''Justice League of America'' title which would feature Vibe.<ref>{{cite web|last=Mullin |first=Pamela |url= http://www.dccomics.com/blog/2012/08/26/dc-entertainment-announces-justice-league-of-america |title=DC Entertainment Announces JUSTICE LEAGUE OF AMERICA |work= DCComics.com |date=2012-08-26 |access-date=2016-05-24}}</ref> On November 5, 2012, DC announced that Vibe would star in his own ongoing monthly title.<ref>{{cite web |url= http://geek-news.mtv.com/2012/11/05/justice-league-of-america-52-variant-covers/ |title=EXCLUSIVE!: 'Justice League of America' #1 Triumphs with 52 State Variants, Plus More News | work= MTV.com |date=2012-11-05 |access-date=2016-05-24 |url-status=dead |archive-url= https://web.archive.org/web/20130524163843/http://geek-news.mtv.com/2012/11/05/justice-league-of-america-52-variant-covers/ |archive-date=2013-05-24 }}</ref> It was written by [[Andrew Kreisberg]] and drawn by [[Pete Woods]] and debuted in February 2013.<ref>{{cite news |last= Zalben |first= Alex |date= 5 November 2012 |url= http://geek-news.mtv.com/2012/11/05/andrew-kreisberg-vibe/ |title= EXCLUSIVE! 'Arrow' Creator Andrew Kreisberg On DC Comics New 'Vibe' Ongoing Series |work= MTV.com |url-status= dead |archive-url= https://web.archive.org/web/20121108034553/http://geek-news.mtv.com/2012/11/05/andrew-kreisberg-vibe/ |archive-date= 8 November 2012 }}</ref> In new continuity, Vibe's powers derive from being "caught in the [[event horizon]] of a [[Boom Tube]]", in which "interdimensional forces rewrote his [[DNA]]". ''Justice League of America's Vibe'' lasted for ten issues, with the final issue released on December 18, 2013.<ref>{{cite web| url= http://www.comicbookresources.com/?page=article&id=48521 | title= 'Superman Unchained' Skips January; 'Vibe,' 'Katana' Ending | publisher= Comic Book Resources | date= 15 October 2013| access-date= 11 May 2014}}</ref>
+
+==Powers and abilities==
+As his name suggests, Vibe's powers revolve around vibration, frequency, and resonance. His powers enabled him to create shock waves of considerable strength that could shatter concrete or steel as well as affect the physical world as seismic vibrations (and even earth manipulation) or the fabric of spacetime (interdimensional, transdimensional and extradimensional portals).
+
+Vibe's reintroduction in 2013 redefined his powers as having to do with interdimensional physics. Vibe's waves have the power to disrupt the [[Speed Force]], making him one of the few characters who poses a serious threat to [[Flash (DC Comics character)|the Flash]].<ref>{{cite comic| writer= [[Geoff Johns|Johns, Geoff]] | story=Trinity War, Part Two |title= Justice League of America |issue= 6 |date= 2013}}</ref> For this reason, [[Steve Trevor]] recruits him into the JLA, which exists to guard against the threat of the main Justice League going rogue.<ref name=JLA1>Johns, Geoff. ''Justice League of America'' #1 (2013)</ref>
+
+[[Amanda Waller]] says that "Cisco Ramon might be one of the most powerful super-humans on the planet. He wields vibrational powers that could in theory shake the Earth apart. And he's the only person we know of who can find and track inter-dimensional breaches."<ref>Gates, Sterling. ''Justice League of America's Vibe'' #3 (2013)</ref> He is also undetectable by security cameras.<ref name=JLA1 />
+
+In addition, his agility is above average (and he was a super breakdancer). Under Batman's secret tutelage, Vibe became a more skilled combatant.
+
+In the 2014 series ''[[The Flash (2014 TV series)|The Flash]]'', Vibe's powers first manifested as precognitive/retrocognitive visions brought-on by touch or by a strong-enough [[Law of contagion|imprint]]. In time, he developed his powers to the point where he can produce focused waves of concussive, vibrational force and interdimensional breaches.
+
+==In other media==
+===Television===
+====Animation====
+* Vibe made several non-voiced appearances in ''[[Justice League Unlimited]]''. This version was often seen next to the Detroit League's other members (but did not get a major role in any episode). His most prominent action is in the episode "Flashpoint" helping rescue New Mexico's civilians in the aftermath of the [[Project Cadmus|Cadmus]] facility's destruction. He is also shown with fellow Detroit-era members [[Vixen (comics)|Vixen]], [[Commander_Steel#Hank_Heywood_III|Steel]] and [[Gypsy (comics)|Gypsy]] in the final 'curtain call' of the series finale "Destroyer".
+* Vibe made an appearance in his 2-part [[DC Nation Shorts]] cartoon short ''Enter Extremo'', voiced by [[Carlos Alazraqui]].
+* Vibe has non-voiced appearances in ''[[Teen Titans Go!]]''. In the episode "My Name is Jose", Raven casts a spell giving Vibe's powers to Robin. Vibe also appears as a judge in the episode "Justice League's Next Top Talent Idol Star: Dance Crew Edition".
+* Cisco Ramon appeared in ''[[Young Justice: Outsiders]]'', voiced by [[Jacob Vargas]].
+* Vibe made a non-speaking cameo appearance in the ''[[Harley Quinn (TV series)|Harley Quinn]]'' season 2 finale "The Runaway Bridesmaid", where he received a [[Freedom of the City|key to the city]] from the mayor of [[Gotham City|Gotham]] for his role in saving the city alongside the Justice League.
+
+====Arrowverse====
+[[File:Cisco Ramon (Carlo Valdes).jpg|thumbnail|upright|[[Carlos Valdes (actor)|Carlos Valdes]] as Cisco Ramon / Vibe on the CW series ''The Flash''.]]
+{{Main|Cisco Ramon (Arrowverse)}}
+[[Carlos Valdes (actor)|Carlos Valdes]] portrays Cisco Ramon/Vibe in [[The CW]]'s ''[[Arrowverse]]'', being part of the main cast of ''[[The Flash (2014 TV series)|The Flash]]''. This version of the character is a mechanical engineering genius at [[S.T.A.R. Labs]] within [[Central City (DC Comics)|Central City]] with known metahuman powers to detect anomalies within reality and sonic manipulation. He supports [[Barry Allen (Arrowverse)|Barry Allen / The Flash]] saving lives and fighting crime as a part of Team Flash alongside [[Caitlin Snow (Arrowverse)|Caitlin Snow / Killer Frost]] and alternate versions of [[Harrison Wells]]. A talented engineer and creative mind, Cisco builds much of the Flash's equipment and is fond of assigning colorful nicknames to criminal metahumans. In [[The Flash (season 1)|season one]], he becomes good friends with Barry. Although Cisco initially appears unaffected by S.T.A.R. Labs' particle accelerator blast which was behind the Flash's and many others' powers, he begins having visions of people from other timelines and is eventually revealed to be a [[metahuman]]. Cisco's abilities later helps Team Flash discover his mentor is actually the [[Eobard Thawne (Arrowverse)|Reverse-Flash]]. Cisco is also shown to have a rocky relationship with his brother [[Dante Ramon]]. In [[The Flash (season 2)|season two]], Cisco embraces his metahuman status and takes the "Vibe" nickname. After witnessing the abilities of his evil Earth-2 doppelgänger [[Armando Ramon|Reverb]], Cisco starts developing his powers to a greater degree; learning to open dimensional portals and emit powerful destructive blasts. In [[The Flash (season 3)|season three]], Cisco's relationship with Barry is temporarily strained after finding out that Barry's [[Flashpoint (comics)|timeline changes]] lead to Dante's death. But after he changes history himself during an [[Dominators (DC Comics)|alien]] [[Invasion! (Arrowverse)|invasion]], he understands why Barry did what he did and reconciles with him. He also grows more confident in using his powers offensively, to trigger visions, and to open up portals across Central City and to other worlds. In the [[The Flash (season 5)|season five]] finale, Cisco chooses to get rid of his powers by taking the metahuman cure he had developed earlier in the season so he can live a normal life. However, the [[Monitor (comics)|Monitor]] gives Cisco his powers back in the [[Crisis on Infinite Earths (Arrowverse)|"Crisis on Infinite Earths"]] crossover event so he can help avert Crisis. His character has also made appearances on other ''Arrowverse'' shows (''[[Arrow (TV series)|Arrow]]'', ''[[Legends of Tomorrow]]'', and ''[[Supergirl (TV series)|Supergirl]]'').
+
+===Film===
+The character's Earth-3 counterpart '''Breakdance''' is shown in ''[[Justice League: Crisis on Two Earths]]'', voiced by [[Carlos Alazraqui]]. He is a member of the [[Crime Syndicate of America]] and first appears as part of Owlman's clean-up crew. Breakdance is shown with the Detroit-era Justice League's evil counterparts.
+
+===Video games===
+* Vibe appears as playable character in ''[[Lego Batman 3: Beyond Gotham]]'', voiced by [[Dee Bradley Baker]].
+* Vibe from ''The Flash'' appears as a playable character in the DC TV Super-Heroes DLC pack in ''[[Lego DC Super-Villains]]''.
+
+===Web series===
+* Cisco Ramon appears in the animated web series ''[[Vixen (web series)|Vixen]]'', voiced by [[Carlos Valdes (actor)|Carlos Valdes]]. In episode 3, Cisco has been running a modified facial recognition algorithm created by [[Felicity Smoak]] at S.T.A.R. Labs in an attempt to locate [[Metahuman|Meta-humans]] outside Central City. The software picks up Mari McCabe's encounter with the thugs from episode 1, and Cisco alerts the distracted Barry Allen attempting to locate a missing USB drive containing crime scene statistics. Cisco gives the Vixen name to Mari, and tells Barry that Vixen's currently in Detroit before asking to check out the situation.
+* Cisco Ramon is the main character in ''Chronicles of Cisco'', reprised by [[Carlos Valdes (actor)|Carlos Valdes]], which details Cisco Ramon being alone at S.T.A.R. Labs at night, where he encounters the intruder [[Peek-a-Boo (comics)|Peek-a-Boo]]. 
+* Vibe is one of the background students in ''[[DC Super Hero Girls]]''.
+* Cisco Ramon and his Earth-X doppelgänger appear in the animated web series ''[[Freedom Fighters: The Ray]]'', both voiced by Carlos Valdes.
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+* [http://www.dcuguide.com/who.php?name=vibe DCU Guide: Vibe (Cisco Ramone)]
+* [http://www.dcuguide.com/who.php?name=hardline DCU Guide: Hardline (Armando Ramone)],
+
+{{Justice League characters}}
+{{The New 52}}
+
+[[Category:Characters created by Chuck Patton]]
+[[Category:Characters created by Gerry Conway]]
+[[Category:Comics characters introduced in 1984]]
+[[Category:DC Comics male superheroes]]
+[[Category:DC Comics characters who can teleport]] 
+[[Category:DC Comics metahumans]]
+[[Category:DC Comics orphans]]
+[[Category:Fictional characters from Detroit]]
+[[Category:Fictional characters who can manipulate sound]]
+[[Category:Fictional characters with dimensional travel abilities]]
+[[Category:Fictional dancers]]
+[[Category:Fictional Hispanic and Latino American people]]
+[[Category:Latin American superheroes]]
+[[Category:Fictional hackers]]

@@ -1,0 +1,101 @@
+{{short description|Fictional comic book series}}
+{{redirect|Scuzz (comics)|the rock music channel|Scuzz}}
+{{Multiple issues|
+{{In-universe|date=March 2010}}
+{{Refimprove|date=February 2016}}
+}}
+{{Infobox comic book title
+<!--Wikipedia:WikiProject Comics--> 
+| title = D.P. 7
+| image =dp7001.jpg
+| caption = Art by Doug Alexander.
+| schedule = Monthly
+| format = 
+|ongoing =y
+| publisher = [[Marvel Comics]]
+| date = November [[1986 in comics|1986]] to June [[1989 in comics|1989]]
+| issues = 32, plus one ''Annual''
+| main_char_team = See [[#Main characters|Main characters]]
+| writers = [[Mark Gruenwald]] 
+| artists =
+| pencillers = [[Paul Ryan (cartoonist)|Paul Ryan]]
+| inkers = Danny Bulanadi<br>[[Romeo Tanghal]]
+| colorists = 
+| creative_team_month = 
+| creative_team_year = 
+| creators = Mark Gruenwald<BR>Paul Ryan
+|subcat=Marvel Comics
+|sort=DP7 (comics)
+}}
+'''''D.P. 7''''' was a [[comic book]] [[ongoing series|series]] published by [[Marvel Comics]] as part of its [[New Universe]] [[imprint (trade name)|imprint]]. It ran for 32 issues and an ''Annual'' (January 1987), which were published from [[1986 in comics|1986]] to [[1989 in comics|1989]].
+
+The title stands for Displaced Paranormals and refers to the seven main characters of the series (who never refer to themselves as displaced). All of them received [[Superpower (ability)|superhuman powers]] as a result of the stellar phenomenon known as the [[White Event]].
+
+''D.P. 7'' was the only New Universe series to maintain a stable creative team during its first year: its entire run was written by [[Mark Gruenwald]], penciled by [[Paul Ryan (cartoonist)|Paul Ryan]], and colored by Paul Becton. Inker Danny Bulanadi (who began work on the title with issue #10) and letterer [[Janice Chiang]] (who began with issue #16) also stayed with ''D.P. 7'' through to the final issue.
+
+==Publication history==
+Eager for the chance to work on "a virgin universe", writer [[Mark Gruenwald]] signed on to the [[New Universe]] staff and developed ''D.P. 7'', shocking many readers (and even editor-in-chief [[Jim Shooter]]) who saw Gruenwald as strictly associated with the [[Marvel Universe]].<ref name="DAK54">{{cite news | first = Dwight Jon | last = Zimmerman | date = January 1988 | title = Mark Gruenwald | work = [[Comics Interview]] | issue = #54 | pages = 5–23 | publisher = [[Fictioneer Books]]}}</ref> In an effort to set the series apart from other team books, Gruenwald wrote an analysis of 14 superhero groups in categories such as age makeup, origin, purpose, and budget, and deliberately constructed the group to differ from these 14 established groups in every category.<ref name="DAK54"/> He originally wanted the series to be called "Missing Persons", with a lineup consisting of Antibody, the Blur, Man Power, Quicksand, Twilight, and Vice Versa.<ref name="Back34">{{cite journal | last= Johnson | first= Dan | date= June 2009 | title= Sparks in a Bottle: The Saga of the New Universe | journal= [[Back Issue!]] | issue= #34 | pages= 21–33 | publisher= [[TwoMorrows Publishing]]}}</ref> Of these six, only the Blur and Twilight were included in the finalized lineup, though the name "Antibody" was used for a completely different character and the character Vice Versa served as a minor villain of the series. Gruenwald also changed the name to "M.P. 7 (Missing Paranormals)", before [[Jack Morelli]] suggested ''D.P. 7''. Gruenwald explained: "I wanted the book to have a real [[Punk subculture|punk]] - [[New wave music|new wave]] - name".<ref name="DAK54"/>
+
+At the time that he conceived the "Missing Persons" skeleton concept, Gruenwald was working on the final issues of the ''[[Squadron Supreme]]'' limited series with penciler [[Paul Ryan (cartoonist)|Paul Ryan]]. He invited Ryan to work with him on the New Universe series; Ryan, being intrigued by the New Universe concept and having no prospects lined up after the end of ''Squadron Supreme'', agreed.<ref name="Back34"/> He later recounted his experience working on the series: "Mark absolutely believed in the New Universe and especially the cast of ''D.P. 7''. We talked about them as if they were people we knew and cared about. We brought many of our real-life experiences, both positive and negative, to the series. We loved our characters".<ref name="Back34"/>
+
+Despite the creators' enthusiasm, the series met with mixed reactions from readers. Many criticized the fact that though the New Universe lineup was supposed to take place in real time, the first 13 issues of ''D.P. 7'' (more than a year in real time) cover less than half a year in New Universe time. The remaining 19 issues were widely criticized for the way the series branched off into an increasing number of unrelated plotlines and an almost overwhelming large cast, and Gruenwald himself admitted at the time that "''D.P. 7'' really hasn't been seven guys for a while, and certainly not the original seven".<ref>{{cite news | date = 1988 | title = New Universe A to Z | work = [[Marvel Age]] Annual | issue = #4 | pages = 35–36 | publisher = [[Marvel Comics]]}}</ref> The lack of a central plotline stemmed from the fact that Gruenwald did not plot the series more than one issue in advance.<ref name="DAK54"/> Praise for ''D.P. 7'' tended to center on its compelling characters, particularly mainstays Randy O'Brien and David Landers.
+
+''D.P. 7'' was canceled in June 1989 along with the rest of the New Universe line. The creators' interest in the characters remained, and in ''[[Quasar]]'' #31 (February 1992), Gruenwald had Quasar travel to the New Universe, thus allowing the ''D.P. 7'' cast to guest-star in the issue. Ryan claims that he and Gruenwald had discussed doing a ''D.P. 7'' limited series or graphic novel, but Gruenwald died before he was able to finish the plot.<ref name="Back34"/>
+
+==Plot synopsis==
+Randy O'Brien first encounters David Landers when he is wheeled into the hospital in incredible pain. Landers rages until two dark arms spring from O'Brien's torso that restrain him long enough for O'Brien to give Landers a tranquilizer that renders him unconscious. The two compare their experiences, and O'Brien reads a classified ad for the Clinic for Paranormal Research, a facility designed to help individuals who have acquired strange abilities. He relays the information to Landers and they travel to the clinic under assumed names. They are at first convinced of the clinic staff's sincerity and are enrolled into therapy group C, where they meet Walters, Beck, Cuzinski, Harrington, and Fenzl. Late one night, O'Brien's antibody intrudes on the clinic staff, at least four of whom are paranormals themselves, and learn the clinic has plans to make an army out of them, to be led by Philip Nolan Voigt, the clinic director.<ref name="DP1">''D.P. 7'' #1 (November 1986)</ref>
+
+Therapy group C fights off the clinic staff and the paranormal Hackbarth, who can manipulate others' nervous systems. They escape into the night<ref name="DP1"/> and over the next few months, the paranormals adjust to life with their powers. They are eventually apprehended by bounty hunters and returned to the clinic.<ref>''D.P. 7'' #7-11</ref> O'Brien and Landers, the last two to arrive, find that their friends' memories have been modified not to remember their escape or the ulterior motives of clinic personnel. O'Brien and Landers defeat Voigt and he disappears from the clinic,<ref>''D.P. 7'' #12 (October 1987)</ref> although he later reappears to successfully run for [[President of the United States]] in 1988.
+
+Without Voigt and his senior staff (Hackbarth is in a coma, memory-manipulator Charne was choked to death by an Antibody, and [[telepathic]] Speck was shot)<ref>''D.P. 7'' #13 (November 1987)</ref> to surreptitiously maintain order, paranormals at the clinic soon form their own special interest groups/gangs (such as one composed of teenagers, and another of African Americans).<ref>''D.P. 7'' #14-16</ref> The potential for disaster is soon fulfilled, and law enforcement comes in to shut the clinic down, killing many of the patients in the process.<ref name="DP21">''D.P. 7'' #21 (July 1988)</ref> By this time, most of the reformed therapy group C (along with a few other residents of the clinic) left to find Walters, who had run to Pittsburgh where his family had been caught in a major disaster.<ref>''D.P. 7'' #18 (April 1988)</ref> Except for Scuzz, the Displaced Paranormals begin to work with the government after all male paranormals are drafted into the [[United States Army]] after the [[The Pitt|destruction of Pittsburgh]], believed to be caused by a nuclear weapon.<ref name="DP21"/> Female paranormals become highly sought-after assets for other agencies like the CIA. With the exception of Walters, who continues in the Army, the other paranormals either go AWOL or leave the CIA and many of them move into [[New York City]] trying to live normal lives, in the face of the public leeriness of paranormals.
+
+While in the city, some ongoing romances play out, while other paranormals decide to become part of a [[superhero]] team.
+
+When the war is over, the paranormals (who had not been cured) return to lives that are as normal as they can be.
+
+==Main characters==
+*'''Randy O'Brien''',<ref>[http://www.marvunapp.com/Appendix/rndobi.htm Randy O'Brien (New Universe, DP7, Antibody)<!-- Bot generated title -->]</ref> nicknamed '''Antibody''', is a [[medical resident]] who can project from his body a dark figure of himself (also called an "antibody", a [[word play]] on the [[Antibody|medical term]]) that flies, can become [[Permeation|intangible]], and transfer its memories to another person by physical contact. At the beginning of the series, O'Brien can only project and within limits control one of these entities. Later he proves able to manifest multiple antibodies. They all looked exactly the same to anyone else, but he could tell them apart and gave each individual names. His first few were named after the Marx Brothers. He later developed the ability to "wear" an antibody like a bodysuit, and at one time four of them joined together around him to create a more powerful antibody suit for him. Shortly before the series ended, O'Brien becomes trapped inside an antibody when he is hit by [[The Pitt|Pitt]]-Juice. The antibodies he subsequently creates are only a few inches tall and he gave these names like "Tink" and "Jiminy". O'Brien has a romantic attraction to Charly Beck, but Randy's upbringing instilled a sort of aversive racism in him that left him uncomfortable with the idea of a relationship with a black woman. Later he got over these feelings and wanted to attempt a relationship with Charly, but she has begun shunning ''him'' because of his new appearance. He is [[The Draft (comics)|drafted into the Army's Paranormal Platoon]], but goes [[AWOL]], then moves to New York.
+*'''David Landers''', nicknamed '''Mastodon''', was a cheese factory worker who became stronger as new muscles grew into his body, an effect that caused him great pain at first. [[Mark Gruenwald]]'s description of Dave Landers's muscle growth was inspired by an article in a science magazine about a treatment in which [[electrical current]]s are used to contract a person's abdominal muscles, producing the equivalent of 500 [[sit-up]]s in a single minute.<ref name="DAK54"/> He also found that the hair on his face (and what little he has on his head) grows at an astounding rate. He is able to lift over 15 tons and resist small-caliber gunfire. He has a crush on Stephanie through the entire series. He is [[The Draft (comics)|drafted into the Army's Paranormal Platoon]], but goes [[AWOL]], then moves to New York. 
+*'''Jeff Walters''', nicknamed '''Blur''', is a fast food restaurant manager whose body vibrates so fast that he cannot stand still. He requires vast amounts of [[food]] for his accelerated metabolism and can move at superhuman speed. He started out overweight, but his powers and hyper-metabolism quickly shed the pounds. His family died in the [[The Pitt|destruction of Pittsburgh]]. He is [[The Draft (comics)|drafted into the Army's Paranormal Platoon]] and participates in [[The War (comics)|the War]]. After the events of ''[[Secret Wars (2015 comic book)|Secret Wars]]'', he found himself on Earth-616 and became a member of the [[Squadron Supreme]] before the team disbanded, which led to Blur joining [[S.H.I.E.L.D.]]
+*'''Charlotte "Charly" Beck''', nicknamed '''Friction''', was a dance student who acquired the power to make herself, anything she touched, and any other object she thought about within a limited range [[friction]]-free enough to make the object or person slide effortlessly. Over time, Beck learned to make her power object-specific or to increase friction to stick things together, and during ''[[The Draft (comics)|the Draft]]'' became a special [[Central Intelligence Agency|CIA]] operative, but her program was discontinued and she moved to New York, where she attempted a dancing career. 
+*'''Dennis "Scuzz" Cuzinski''' is a teenage [[Dropping out|dropout]] who produces a [[corrosive]] substance from his skin, which he himself is immune to. He can increase his skin's production of the chemical, to the point of burning through a steel plate in 10 seconds, but cannot stop it, turning anything he wears into a tattered ruin within days and affecting objects such as bedsheets and furniture that he comes into regular contact with. He learns to form his chemical-laden saliva with his skin secretion into "gobs" or "spitballs" that he can throw, and to further increase production of the substance when angry or excited, making his body so caustic that it can incinerate flammable material on contact. For a while he was the leader of the Clinic's underage paranormals who called themselves The DDTeens. After the clinic shut down, a high speed chase with police ended with him crashing their car, killing two of them and seriously injuring the rest of the DDTeens. By the end of ''D.P. 7'', he becomes a member of the Cult of the White Event, which believes that paranormal powers are a gift from God. Because of this belief, he tries to assassinate the Cure, a paranormal with the power to remove others' paranormalities. As a result of the failed attempt, Scuzz and the Cure are both left powerless.
+*'''Stephanie Harrington''', initially nicknamed '''Viva''' but later known as '''Glitter''', is a housewife and mother of three with the power to heal and energize others by physical contact. The use of this power is accompanied by the appearance of twinkling stars. When not used to heal, her power makes her superhumanly strong (able to lift about 1 ton), fast (can run as fast as a speeding car), and agile (twice that of a normal human). She is recruited into the CIA during ''the Draft'' but her program is discontinued and she moves to New York. She eventually leaves her husband and develops some feelings for Dave Landers just before the end of the series. For a short time, she and her children moved back home to Wisconsin, but after being ostracized by their friends and neighbors, they return to New York at the end of the series. She finally responds to Dave's affections and admits to having feelings for him as well.
+*'''Lenore Fenzl''', nicknamed '''Twilight''', is a retired Latin teacher whose body produces "[[Fatigue (physical)|fatigue]]-poison inducing [[bioluminescence]]" that can [[Paralysis|paralyze]] and render unconscious individuals that are exposed to it. Fenzl's power requires her to remain covered over her entire body at all times, and she later discovers that exposing others to her bioluminescence renews her youth and vitality. After leaving the Clinic for the second time, she becomes a special CIA agent during ''the Draft''. She is killed on a mission in Brazil battling a paranormal creature called the Famileech.
+
+The series grew to include several additional protagonists:
+*'''Miriam Sorenson''', nicknamed '''Sponge''', could absorb moisture from the air and release it as pressurized streams of water. She had an unrequited crush on Dave Landers, forming a love triangle. She was cured of her condition by '''the Cure''', a paranormal who could restore others to normal.
+*'''George Mullaney''', nicknamed '''Mutator''', changed form every 48 hours; thus, his appearance was often in a state of flux as he slowly altered from one mutation to another. His often repellent animal forms led most other residents of the Clinic to shun him, but he was always eager to prove himself. He was eventually cured of his parability by the Cure.  
+*'''[[Jenny Swensen (comics)|Jenny Swensen]]''' of ''[[Spitfire (New Universe)|Codename: Spitfire]]'' crossed over to ''D.P.7'' when the former series was canceled. Exposure to toxic sludge from [[The Pitt]] mutated her body and gave her metallic skin that could resist gunfire and enhanced strength. She was recruited to the CIA along with the other women, and later moved with them to New York. Known as '''Chrome''', she became a sidekick to the [[telekinetic]] '''Captain Manhattan''', one of the few costumed [[superhero]]es in the New Universe, whom she fell in love with. Though she seemed on the verge of having the Cure remove her powers at the end of the series, it was later revealed in the pages of ''[[Quasar (comics)|Quasar]]'' that she chose to keep her powers.
+*'''Evan Heubner''', a young orphan who ended up at the Clinic; though he thought he had no paranormal powers, he discovered he could play host to one of Randy O'Brien's antibodies who he named '''Shadowman''', and could even jump into and "ride" inside the antibody. He later taught this trick to O'Brien. Evan was a member of the DDTeens along with Scuzz. Shadowman died saving Evan and Randy from a paranormal creature called the Famileech, but Randy created another antibody for Evan, which he promptly named '''Shadowman 2'''.
+
+==Alternate versions==
+===Exiles===
+Due to the multiverse traveling Exiles chasing Proteus, the team recruited D.P.7 just as they left the clinic along with Starbrand, Nightmask and Justice. In the following battle, Proteus took over the body of Justice and fled their universe and the Exiles followed, leaving the team behind, but now aware of other paranormals.
+
+==Parodies and references==
+* In ''[[Quasar]]'' #4, drawn by ''D.P.7'' penciler/co-creator [[Paul Ryan (cartoonist)|Paul Ryan]], the title character encounters two joggers who are look-alikes of Stephanie Harrington and Charly Beck.
+* The splash page of ''[[Avengers West Coast]]'' #65 (Dec 1990), also drawn by Paul Ryan, features [[Wonder Man]] in a graveyard among several D.P.7 members' gravestones.
+
+==Collections==
+* '''''D.P. 7 Classic Volume 1'''''
+** Contains material originally published in magazine form as ''D.P. 7'' #1–9. First printing: August 2007. {{ISBN|0-7851-2859-X}}.
+
+==Creators==
+===Writers===
+* [[Mark Gruenwald]]—''D.P. 7'' #1-32 (November 1986–June 1989); ''D.P. 7 Annual'' #1 (January 1987)
+
+===Art===
+* [[Paul Ryan (cartoonist)|Paul Ryan]]—''D.P. 7'' #1–32 (November 1986–June 1989)
+* [[Lee Weeks]]—''D.P. 7 Annual'' #1 (January 1987)
+
+===Cover art===
+* Paul Ryan—''D.P. 7'' #1–32 (November 1986–June 1989)
+
+==Notes==
+{{Reflist}}
+
+[[Category:1986 comics debuts]]
+[[Category:1989 comics endings]]
+[[Category:New Universe]]
+[[Category:Characters created by Mark Gruenwald]]
+[[Category:Defunct American comics]]

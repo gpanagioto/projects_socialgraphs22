@@ -1,0 +1,123 @@
+{{Short description|Title character of V for Vendetta}}
+{{Use dmy dates|date=September 2022}}
+{{about|the titular character from the graphic novel comic book ''V for Vendetta''|other characters|V (disambiguation)}}
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+| image          = V taking a bow.jpg
+| caption        = V in ''[[V for Vendetta]]''<br />Art by [[David Lloyd (comics)|David Lloyd]].
+| character_name = V
+| real_name      = N/A
+| publisher      = [[Vertigo Comics|Vertigo]] imprint of [[DC Comics]]<br />(originally [[Quality Communications]])
+| debut          = ''[[Warrior (comics)|Warrior]]'' #1 (March [[1982 in comics|1982]])
+| creators       = [[Alan Moore]]<br />[[David Lloyd (comics)|David Lloyd]]
+| alliances      =
+| aliases        = Patient #5, The Terrorist, Codename V, Project V, The Man from Room Five
+| powers         = * Enhanced strength, agility and reflexes
+* [[Genius]]-level intellect
+* Master [[fencing|fencer]], [[martial arts|martial artist]] and [[marksman]]
+* Master [[Hacker (computer security)|computer hacker]]
+* Master of stealth
+* Master in [[demolition]]
+}}
+'''V''' is the [[title character]] of the [[comic book]] series ''[[V for Vendetta]]'', created by [[Alan Moore]] and [[David Lloyd (comics)|David Lloyd]]. He is a mysterious [[Anarchism|anarchist]], [[vigilante]], and [[Propaganda of the deed|freedom fighter]] who is easily recognizable by his [[Guy Fawkes mask]], long hair and dark clothing. He strives to topple a [[totalitarian]] regime of a [[dystopian]] United Kingdom through acts of [[heroism]]. According to Moore, he was designed to be [[Ethical dilemma|morally ambiguous]], so that readers could decide for themselves whether he was a hero fighting for a cause or simply [[Insanity|insane]].<ref name="giantmoore">{{cite web | work=GIANT Magazine| title=A FOR ALAN, Pt. 1: The Alan Moore interview | url=http://www.comicon.com/thebeat/2006/03/a_for_alan_pt_1_the_alan_moore.html#more | access-date=31 March 2006 |archive-url = https://web.archive.org/web/20060330072000/http://www.comicon.com/thebeat/2006/03/a_for_alan_pt_1_the_alan_moore.html#more <!-- Bot retrieved archive --> |archive-date = 30 March 2006}}</ref>
+
+V made his first live appearance in the 2005 film ''[[V for Vendetta (film)|V for Vendetta]]'' played by [[Hugo Weaving]] and [[James Purefoy]]. The 2019 television series ''[[Pennyworth (TV series)|Pennyworth]]'' has been confirmed to be a [[prequel]] to ''V for Vendetta''<ref name="V-Pennyworth" /> with the series' [[Alternate history|British Civil War]] eventually giving way to the [[Norsefire]] government and rise of V.<ref name="CBR" /><ref name="CBR2" /><ref name="SciFiNow" /> Its 2022 [[Pennyworth (season 3)|third season]] introduced predecessors to V wearing his signature Guy Fawkes mask.<ref name="AV" />
+
+==Fictional character biography==
+===Origin===
+V's background and identity are never revealed. He is at one point an inmate at "[[Larkhill]] Resettlement Camp"—one of many [[concentration camp]]s where [[African British|black people]], [[Jews]], [[leftists]], [[beatniks]], [[homosexuals]] and [[Muslims]] are exterminated by [[Norsefire]], a [[fascist]] dictatorship that rules Britain. While there, he is part of a group of prisoners who are subjected to horrific [[Nazi human experimentation|medical experimentation]], conducted by Dr. Delia Surridge. Lewis Prothero is the camp's commandant, while Father Anthony Lilliman, a [[Pedophilia|paedophile]]<!-- END spelt paedophile as this is a UK topic --> vicar, is at the camp to lend "spiritual support". All prisoners who are part of the experiment die, with the sole exception of "the man in room five" ("V" in [[Roman numeral]]s). As a result of the experiments, the man develops [[Olympic Games|Olympic]]-level physical abilities and an incredibly expanded intellect. During that time, the man had some level of communication with Valerie Page, a former [[actress]] imprisoned for being a [[lesbian]], kept in "room four", who wrote her [[autobiography]] on [[toilet paper]] and then pushed it through a hole in the wall.
+
+Over time, the man is allowed to grow roses (<!-- violet carson, NOT scarlet carson: -->[[Violet Carson (rose)|violet carsons]]<!-- :violet carson, NOT scarlet carson -->) and raise crops for camp officials. The man eventually starts taking surplus [[ammonia]]-based fertilizer back to his cell, where he arranges it in bizarre, intricate patterns on the floor. He then takes a large amount of grease solvent from the gardens. In secret, the man uses the fertilizer and solvent to make [[Sulfur mustard|mustard gas]] and [[napalm]]. On a stormy night (namely, 23 December in the novel or 5 November in the film), he detonates his homemade bomb and escapes his cell.  Much of the camp is set ablaze, and many of the guards are killed by the mustard gas. The camp is evacuated and closed down. He adopts the new identity, "V", and dons a Guy Fawkes mask and costume. V spends the next five years planning his revenge on Norsefire and building his secret base, which he calls "The Shadow Gallery". He then kills off most of the over 40 surviving personnel from Larkhill, making each killing look like an accident.
+
+===The "Villain"===
+Four years after his escape from Larkhill, V blows up the [[Palace of Westminster]] on 5 November, [[Guy Fawkes Night|Guy Fawkes Day]]. In the process he stumbles across [[Evey Hammond]] as she is being accosted by several members of "the Finger", Norsefire's secret police, and saves her, bringing her back to his lair.  V then [[kidnap]]s Prothero, who is now the "Voice of Fate" on the government's propaganda radio, and drives him insane by destroying his prized doll collection in a [[satire]] of the exterminations that occurred at Larkhill. V kills now-Bishop Lilliman by forcing him to eat a [[communion wafer]] laced with [[cyanide]]. V then injects Surridge, the one Larkhill official who feels [[remorse]] for her actions, with a poison that kills her without pain.
+
+V stages an attack on the government's propaganda broadcasting station, strapping himself with explosives and forcing the staff to follow his orders under threat of detonating them. V then broadcasts a message to the people, telling them to take responsibility for themselves and rise up against their government. He systematically kills the head officials of Norsefire except Eric Finch, the head of Norsefire's police force, whom he senses is a decent man. V also radicalizes Evey by kidnapping and torturing her and leading her to believe she is a prisoner in one of Larkhill's camps; when she announces that she would rather die than inform on him, he reveals the ruse to her. While she initially condemns him, she eventually comes to understand what he was trying to do and becomes his accomplice. V explains to her that he is an [[Anarchism|anarchist]] in the strict political sense of the term, and essentially believes ''all'' governments will eventually turn into oppressive fascist states. V's goal is not simply to overthrow the Norsefire regime, but to destroy the organized state entirely. He hopes that from the rubble will emerge a [[Anarchism|utopian anarchistic]] society – not "the land of take what you want" but "the land of do as you please".
+
+In the climax of the graphic novel, V destroys the government's [[CCTV]] surveillance buildings, eroding its control over British citizens. However, V is mortally wounded when he is shot by Finch and he staggers back to the Shadow Gallery, where he dies in Evey's arms. Evey then puts him in state, surrounded by violet carson roses, lilies, and [[gelignite]], in an [[London Underground|Underground train]] that stops at a blockage along the tracks right under [[10 Downing Street]], which V had previously prepared. The explosives-laden train detonates, giving V a [[Viking funeral]], fulfilling his final request to Evey, who takes on the mantle of "V."
+
+==In other media==
+===Film===
+[[File:V in "V for Vendetta" (2006).jpg|thumb|[[Hugo Weaving]] as V in the 2005 film ''[[V for Vendetta (film)|V for Vendetta]]'']]
+The [[V for Vendetta (film)|2005 film adaptation]] of the comic book starred [[Hugo Weaving]] as V. [[James Purefoy]] was originally cast as V, but was replaced by Weaving six weeks into production. Purefoy stated that he found it hard to act while wearing the mask, and that was the reason for his departure. Although some of Purefoy's performance was used in the final film, Weaving received sole credit.
+
+The film depicts him as being disfigured as a result of the torture he suffered at Larkhill, and having near-superhuman physical abilities as a result of the biological experiments he was put through. He claims to have lost all memory of his past, completing his transformation into the "[[everyman]]" he claims to be in the comic. 
+
+Several events involving V differ markedly from the comics. He sets his first bomb to destroy the [[Old Bailey]] and targets the [[Houses of Parliament]] one year later, but he does not blow up the Post Office or [[10 Downing Street]] and the bomb he leaves in Jordan Tower is safely defused (with it being unclear if he ever legitimately wanted that bomb to go off or just set it up as an excuse while he transmitted his message). Also, where the comic V was portrayed as a political anarchist who sought the destruction of all governments, the movie V focuses his anti-government philosophy exclusively on Norsefire, commenting to Evey as he prepares for his final stand that he leaves it up to her if Parliament should be destroyed, as he recognizes that he does not have a right to shape a world he will not see. V is also shown sobbing out of guilt for what he put Evey through, and admits before his death that he fell in love with her.
+
+In place of Finch, Norsefire official Peter Creedy and his men confront V at the end of the film, bringing High Chancellor Adam Sutler ([[Adam Susan]] in the graphic novel) as V has demanded. Creedy executes Sutler, but V refuses Creedy's command to take off his mask and surrender: through a hail of gunfire, V stays on his feet long enough to kill Creedy and his men. A piece of armor plating under his cape stops most of the bullets, but V is still mortally wounded. He staggers down to the tunnel, where Evey is waiting, and dies in her arms. She places his body on the explosive-laden train for a [[Viking funeral]], but Finch arrives with the intent of arresting her. However, he relents and allows Evey to start the train, having finally decided to turn his back on the tyrannical Norsefire regime. The two watch, along with thousands of spectators dressed as V, as the train explodes and destroys the Houses of Parliament.
+
+===Television===
+{{main|Pennyworth (TV series)}}
+On 29 July 2019, the day following the [[series premiere]] of ''[[Pennyworth (TV series)|Pennyworth]]'', previously presented ostensibly as solely a direct [[prequel]] to [[Fox Broadcasting Company|Fox]] series ''[[Gotham (TV series)|Gotham]]'' (2014–2019),<ref>{{cite web|title=New "''Pennyworth''" Series Confirmed Same Universe as "''Gotham''"|url=https://bleedingcool.com/tv/new-pennyworth-series-confirmed-same-universe-as-gotham|work=[[Bleeding Cool]]|last=Kade|first=Leigh|date=19 July 2019|access-date=19 July 2019}}</ref><ref>{{Cite AV media|url=https://www.youtube.com/watch?v=UzkjsG0UYSg|title=Pennyworth ''Season Two Cast & Producer Interview – EPIX''|date=12 October 2020|last=Heller|first=Bruno|author-link=Bruno Heller|access-date=12 October 2020|via=[[YouTube]]|work=Popverse}}</ref> series co-showrunner [[Danny Cannon]] confirmed that ''Pennyworth'' would also serve as a loose [[prequel]] to ''V for Vendetta'', with the [[Alternate history|British Civil War]] depicted in the series' [[Pennyworth (season 1)|first season]] eventually leading to the formation of the [[Norsefire]] government of ''V for Vendetta'',<ref name="V-Pennyworth">{{cite web|last=Gomez|first=Manny|title=EPIX'S ''Pennyworth'': Setting Up 60's DC London And The Road To ''V For Vendetta'' – SDCC2019|url=https://lrmonline.com/news/epixs-pennyworth-setting-up-60s-dc-london-and-the-road-to-v-for-vendetta-sdcc2019|work=LRMonline|date=29 July 2019|access-date=29 July 2019|quote=The arcing story this season is about a civil war that is brewing, and that came from a conversation from myself and [[Bruno Heller|Bruno {{no italic|[}}Heller{{no italic|]}}]] where we were considering doing ''V for Vendetta'', we were like “that is much a very 80's 90's kind of show, what would it be in the 60's?’ What kind of world would be have to create, like in ''[[Gotham (TV series)|Gotham]]'' there would eventually be Batman in this there would eventually be ''V for Vendetta'' {{no italic|[}}[[Norsefire]] and V]. So we took that brewing civil war as a stepping stone. – [[Danny Cannon]]}}</ref> a sentiment echoed by co-showrunner [[Bruno Heller]] on 11 December 2020, on the day of the [[Pennyworth (season 2)|second season]] premiere.<ref name="CBR">{{Cite AV media|url=https://www.youtube.com/watch?v=OZYpfXsWIJ8|title=''(Video)'' Pennyworth'': Bruno Heller Talks Season 2,'' V For Vendetta'', & The War That Breaks London''|date=11 December 2020|last=Heller|first=Bruno|author-link=Bruno Heller|access-date=11 December 2020|via=[[YouTube]]|work=[[Comic Book Resources|CBR Presents]]|quote="The ''V For Vendetta'' world conceptually — it's [like] where this world may or may not end up. What [''V for Vendetta'' creators [[Alan Moore]], David Lloyd and [[Tony Weare]]{{no italic|]}} did so well was to create a {{no italic|[}}[[Fascism|Fascist]]{{no italic|]}} version of England that felt like England. It wasn't [[Nazi Germany]] imposed on that world. It was very much the parochial, familiar world of England transformed into something dark. That's what we've tried to do, and what [Cannon] did so brilliantly with the visuals, particularly in this season. It's England with this shadow across its face." – [[Bruno Heller]]}}</ref><ref name="CBR2">{{cite web|last=Zachary|first=Brandon|title=(Article) ''Pennyworth'': Bruno Heller Talks Season 2, ''V For Vendetta'', & The War That Breaks London|url=https://www.cbr.com/pennyworth-bruno-heller-season-2-v-for-vendetta|work=[[Comic Book Resources|CBR]]|date=13 December 2020|access-date=13 December 2020}}</ref><ref name="SciFiNow">{{cite web|last=Harper|first=Rachael|title=''Pennyworth'' Season Two Secrets: What's It All About, Alfie?|url=https://www.scifinow.co.uk/interviews/pennyworth-season-two-secrets-whats-it-all-about-alfie|work=[[SciFiNow]]|date=February 5, 2021|access-date=February 5, 2021|quote=“One of the few stories that have been told in this kind of world is ''[[V for Vendetta|V For Vendetta]]'' [and] conceptually, this {{no italic|[}}[[civil war]] is a] [[prequel]] to ''V For Vendetta''. God, I wouldn’t hold us up against [[Alan Moore]], but with comic books you have to find a throughline, and that’s very political [for ''Pennyworth''].” – [[Bruno Heller]]}}</ref> Characters wearing V's [[Guy Fawkes mask]] were later introduced in the series' 2022 third season, set five years after the first two seasons.<ref name="AV">{{cite web|url=https://www.avclub.com/trailer-for-season-3-pennyworth-wild-comic-book-cameo-1849511853|title=Trailer for the third season of ''Pennyworth'' has a truly confounding comic book cameo|first=Sam|last=Barsanti|website=[[The A.V. Club]]|date=8 September 2022|access-date=8 September 2022}}</ref>
+
+==Bibliography==
+===''Warrior''===
+*''Warrior'' #1–16, 18–26, with an Alan Moore V for Vendetta feature in #17
+* ''V for Vendetta''
+** Vol. I of X ''V for Vendetta'' September 1988
+** Vol. II of X ''V for Vendetta'' October 1988
+** Vol. III of X ''V for Vendetta'' November 1988
+** Vol. IV of X ''V for Vendetta'' December 1988
+** Vol. V of X ''V for Vendetta'' December 1988
+** Vol. VI of X ''V for Vendetta'' December 1988
+** Vol. VII of X ''V for Vendetta'' January 1989
+** Vol. VIII of X ''V for Vendetta'' February 1989
+** Vol. IX of X ''V for Vendetta'' March 1989
+** Vol. X of X ''V for Vendetta'' May 1989
+
+===Trade paperback===
+* United States&nbsp;– [[Vertigo Comics]] ({{ISBN|0-930289-52-8}})
+* United Kingdom&nbsp;– [[Titan Books]] ({{ISBN|1-85286-291-2}})
+
+==See also==
+{{Portal|Anarchism|Comics|Speculative fiction}}
+;Concepts and themes
+* [[Anarchism and the arts]]
+* [[Libertarian science fiction]]
+
+;Character lists
+* [[List of fictional antiheroes]]
+* [[List of DC Comics characters]]
+* [[List of fictional anarchists]]
+* [[List of fictional hackers]]
+
+==References==
+<references/>
+
+==External links==
+* [https://web.archive.org/web/20061012212607/http://www.qualitycommunications.co.uk/warrior/ ''Warrior'' publishing records] on qualitycommunications.co.uk
+([[Wayback Machine]] copy)
+* [http://www.milehighcomics.com/cgi-bin/backissue.cgi?action=list&title=91598257450&snumber=1 ''V for Vendetta'' publishing records] on milehighcomics.com
+
+<!--FOOTERS-->
+{{V for Vendetta}}
+{{Alan Moore}}
+
+<!--LANGUAGES-->
+
+<!--CATEGORIES-->
+[[Category:V for Vendetta characters]]
+[[Category:DC Comics martial artists]]
+[[Category:DC Comics superheroes]]
+[[Category:Fictional anarchists]]
+[[Category:Fictional knife-fighters]]
+[[Category:Fictional mass murderers]]
+[[Category:Fictional swordfighters in comics]]
+[[Category:Fictional marksmen and snipers]]
+[[Category:Fictional English people]]
+[[Category:Comics characters introduced in 1982]]
+[[Category:Fictional hackers]]
+[[Category:Fictional revolutionaries]]
+[[Category:Superhero film characters]]
+[[Category:Martial artist characters in films]]
+[[Category:Characters created by Alan Moore]]
+[[Category:DC Comics characters who can move at superhuman speeds]]
+[[Category:DC Comics characters with superhuman strength]]
+[[Category:Fictional characters with disfigurements]]
+[[Category:Fictional kidnappers]]
+[[Category:Fictional terrorists]]
+[[Category:Fictional torturers]]
+[[Category:Fictional characters without a name]]
+[[Category:Fictional prison escapees]]
+[[Category:Vertigo Comics characters]]
+[[Category:Vigilante characters in comics]]

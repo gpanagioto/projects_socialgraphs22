@@ -1,0 +1,272 @@
+{{short description|Name of several superheroes in DC Comics}}
+{{redirect|The Fury of Firestorm|the Flash episode|The Fury of Firestorm (The Flash)}}
+{{About|the superhero|other uses|Firestorm (disambiguation)}}
+{{Infobox comics character and title
+<!--Wikipedia:WikiProject Comics-->
+|name                = Firestorm
+|image               = Firestorm (DC Comics).png
+|alt                 = Firestorm flying
+|caption             = The Ronnie Raymond/Martin Stein version of Firestorm by [[Yıldıray Çınar]]
+|publisher           = [[DC Comics]]
+|debuthead           = 
+|debut               = ''Firestorm the Nuclear Man'' #1 (March 1978)
+|debuthead#          = 
+|debut#              = 
+|debutmo#            = 
+|debutyr#            = 
+| alter_ego          =* Ronald Roy "Ronnie" Raymond
+* Dr. Martin Stein
+* Dr. Mikhail Denisovitch Arkadin
+* Jason Thomas Rusch
+|species = [[Metahuman]]
+| affiliations       = [[Justice League]]
+|creators            = {{plainlist|
+*[[Gerry Conway]]
+*[[Al Milgrom]]
+}}
+|powers              = * Superhuman strength, endurance, speed, durability, senses, and self-sustenance
+* Nucleokinesis and Pyrokinesis
+* Nuclear pyrokinesis
+* Regeneration
+* Density control
+* [[Eidetic memory]]
+* Flight
+* Transmutation/total conversion
+* Gestalt form
+* Intangibility
+* Molecular reconstruction
+* Genius-level intellect
+* Matter/energy manipulation
+* Energy absorption and projection
+* Ancestral memory
+* Clairvoyance
+*Enhanced vision
+**X-ray vision
+**Microscopic vision
+**Thermal vision
+|group = y
+
+<!--Series section-->
+|title               = Firestorm
+|cvr_image           = Firestorm v1, 01.jpg
+|cvr_caption         = Cover of the first issue of ''Firestorm the Nuclear Man'' (March 1978). Art by [[Al Milgrom]]
+|cvr_alt             = 
+|schedule            = Monthly
+|format              = 
+|limited             = 
+|ongoing             = Y
+|1shot               = 
+|Superhero           = y
+|pub_series          = 
+|date                = 
+|1stishhead          = ''Firestorm the Nuclear Man''
+|1stishyr            = 1978
+|1stishmo            = March
+|endishyr            = 1978
+|endishmo            = November
+|1stishhead1         = ''The Fury of Firestorm'' / ''Firestorm the Nuclear Man''
+|1stishyr1           = 1982
+|1stishmo1           = June
+|endishyr1           = 1990
+|endishmo1           = August
+|1stishhead2         = ''Firestorm''
+|1stishyr2           = 2004
+|1stishmo2           = July
+|1stishyr2
+|endishyr2           = 2007
+|endishmo2           = June
+|1stishhead3         = ''The Fury of Firestorm the Nuclear Men''
+|1stishyr3           = 2011
+|1stishmo3           = September
+|1stishyr3
+|endishyr3           = 2013
+|endishmo3           = May
+|issues              = {{ubl|'''''(Firestorm the Nuclear Man)''''' 5|'''''(The Fury of Firestorm)''''' 100|'''''(Firestorm)''''' 35|'''''The Fury of Firestorm the Nuclear Men''''' 21}}
+|artists             = 
+|pencillers          = 
+|inkers              = 
+|letterers           = 
+|colorists           = 
+|editors             = 
+|creative_team_month = 
+|creative_team_year  = 
+|creators_series     = 
+|TPB                 = 
+|ISBN                = 
+|nonUS               =
+|cat                 = 
+|subcat              = DC Comics
+|altcat              = 
+|hero                = y
+|villain             = 
+|sortkey             = Firestorm (comics)
+|sort_title          = Firestorm (comics)
+}}
+'''Firestorm''' is the name of several fictional [[superhero]]es appearing in [[American comic book]]s published by [[DC Comics]]. '''[[Ronnie Raymond (character)|Ronnie Raymond]]''' and '''[[Martin Stein]]''' fused together debuted as the first incarnation in ''Firestorm, the Nuclear Man'' #1 (March 1978) and were created by [[Gerry Conway]] and [[Al Milgrom]].<ref name="dc-ency">{{Citation | last = Wallace | first = Dan | contribution = Firestorm | editor-last = Dougall | editor-first = Alastair | title = The DC Comics Encyclopedia | page = 123 | publisher = [[Dorling Kindersley]] | place = New York | year = 2008 | isbn = 978-0-7566-4119-1 | oclc = 213309017}}</ref><ref>{{cite book|last=McAvennie|first= Michael|editor-last = Dolan|editor-first = Hannah|chapter= 1970s|title = DC Comics Year by Year: A Visual Chronicle|publisher=[[Dorling Kindersley]] |year=2010 |isbn= 978-0-7566-6742-9 |page= 177 |quote = If inventiveness is the fusion of ideas, then Firestorm was one of the most original characters to emerge from a comic book in years. Penned by Gerry Conway and drawn by Al Milgrom, the Nuclear Man was a genuine sign of the times—the explosive embodiment of a nuclear world.}}</ref> '''[[Jason Rusch]]''' debuted as a modern update of the character in ''Firestorm'' (vol. 3) #1 (July 2004), and was created by [[Dan Jolley]] and [[ChrisCross]].
+
+Firestorm was featured in [[The CW]]'s ''[[Arrowverse]]'', portrayed by [[Robbie Amell]],<ref name="Amell1">{{cite web| url= https://variety.com/2014/tv/news/the-flash-robbie-amell-firestorm-ronnie-raymond-1201259682/|title='The Flash': Robbie Amell Cast as Firestorm|work=[[Variety (magazine)|Variety]]|date=9 July 2014 |access-date=July 9, 2014}}</ref> [[Victor Garber]],<ref name="Deadline.com">{{cite web|url=https://deadline.com/2014/10/the-flash-casting-victor-garber-dr-martin-stein-848514/|title='The Flash' Casting: Victor Garber To Recur As Dr. Martin Stein|website=[[Deadline Hollywood]]|date=October 9, 2014|access-date=October 11, 2014}}</ref> and [[Franz Drameh]] (as [[Jefferson Jackson (Arrowverse)|'''Jax Jackson''']]) mainly in ''[[The Flash (2014 TV series)|The Flash]]'' and ''[[Legends of Tomorrow]]''. <ref name="Drameh3">{{cite web|url=http://www.comicbookresources.com/article/cassidys-black-canary-atom-more-will-appear-in-vixen-season-2|last=Damore|first=Meagan|title=CASSIDY'S BLACK CANARY, ATOM & MORE WILL APPEAR IN "VIXEN" SEASON 2|work=Comic Book Resources|access-date=July 20, 2016|date=July 20, 2016}}</ref>
+
+==Publication history==
+The first ''Firestorm'' series was short-lived, canceled after issue 5, a victim of the company-wide "[[DC Implosion]]".<ref name="Hot-headed Hero">Conway, Gerry. "Nuclear Reactions: Just Your Average Hot-Headed Hero," ''The Fury of Firestorm'' #1 (June 1982).</ref> The sixth issue was included in ''[[Cancelled Comic Cavalcade]]''. 
+
+Writer Gerry Conway added Firestorm to the roster of ''[[Justice League]] of America''.<ref>{{cite web |last1=Markstein |first1=Don |website=Don Markstein's Toonopedia |access-date=2 April 2020 |url=http://www.toonopedia.com/firestor.htm |title=Firestorm, the Nuclear Man}}</ref> This led to a series of eight-page stories in the back of ''[[Flash (DC Comics character)|The Flash]]'' (issues 289–304; with art by [[George Pérez]], [[Jim Starlin]] and others), and a revival of a monthly Firestorm comic in 1982. ''The Fury of Firestorm'' (later called ''Firestorm the Nuclear Man'') lasted from [[1982 in comics|1982]] until [[1990 in comics|1990]].
+
+[[Jack Kirby]]'s 1971 design for [[Lightray (character)|Lightray]]'s costume influenced the look of artist [[Al Milgrom]]'s creation of Firestorm in 1978. In an interview from 2019, Milgrom admitted: "The facemask on Firestorm, the way it comes around the chin, was probably inspired by Lightray more than anything... I liked the [Lightray] head-covering thing; I said, "I'm stealin' it!"<ref>{{cite book | url=https://www.google.com/books/edition/Back_Issue_112/FqGWDwAAQBAJ?hl=en&gbpv=1&dq=lightray+dc+comics&pg=PA8&printsec=frontcover | title=Back Issue #112 | date=May 2019 | publisher=TwoMorrows }}</ref>
+
+Another ''Firestorm'' series began in [[2004 in comics|2004]] with a new character in the role of Firestorm, Jason Rusch after Ronnie Raymond was killed off in the pages of ''[[Identity Crisis (DC Comics)|Identity Crisis]]''. Rusch was poorly received and his book was canceled after 30 issues and the Ronnie Raymond Firestorm was resurrected in the pages of ''Blackest Night''.
+
+Yet another Firestorm title was launched in 2011. Starring both Ronnie and his successor Jason, it was one of ''[[The New 52]]'' titles launched in the wake of DC's ''[[Flashpoint (comics)|Flashpoint]]'' crossover event. The series, ''The Fury of Firestorm the Nuclear Men'', was initially written by [[Gail Simone]] and [[Ethan Van Sciver]] and drawn by [[Yıldıray Çınar]].<ref>{{cite web|author=Thu, 06/02/2011 – 10:00am |url=http://dcu.blog.dccomics.com/2011/06/02/the-new-justice/ |title=The New Justice &#124; DC Comics |website=Dcu.blog.dccomics.com |date=2011-05-31 |access-date=2013-11-25}}</ref> [[Joe Harris (filmmaker)|Joe Harris]] replaced Simone starting in issue #7, while co-writer Van Sciver also provided the art for issues #7 and 8 before Çınar returned.<ref>{{cite news|title=Joe Harris Replaces Gail Simone as "Firestorm" Co-Writer| url=http://www.comicbookresources.com/?page=article&id=35773|access-date=19 January 2012|website=CBR.com|date=6 December 2011}}</ref> Veteran writer/artist [[Dan Jurgens]] took over the series with issue #13 in 2012, until the series' end with issue #20 in 2013.
+
+In 2016, Firestorm was one of the features in the ''[[Legends of Tomorrow]]'' TV series, which united Martin Stein and Jefferson Jackson as Firestorm.
+
+==Aliases==
+===Ronnie Raymond / Martin Stein===
+{{main|Ronnie Raymond (character)|Martin Stein}}
+The original Firestorm was distinguished by his integrated dual identity. [[High school]] student '''Ronnie Raymond''' and [[Nobel Prize]]-winning [[physicist]] '''Martin Stein''' were caught in an accident that allowed them to fuse into '''Firestorm the Nuclear Man'''. Due to Stein being unconscious during the accident, Raymond was prominently in command of the Firestorm form with Stein a voice of reason inside his mind, able to offer Raymond advice on how to use their powers without actually having any control over their dual form. Banter between the two was a hallmark of their adventures.<ref name="dc-ency"/> Stein was initially completely unaware of their dual identity, leaving him concerned about his unusual disappearances and blackouts, but Ronnie was eventually able to convince him of the truth, allowing them to bond as separate individuals rather than as parts of a whole.
+
+===Ronnie Raymond / Martin Stein / Mikhail Arkadin===
+When Conway left the series in 1986, [[John Ostrander]] (with artist Joe Brozowski) began writing the Firestorm stories. His first major story arc pitted Firestorm against the world as the hero, acting on a suggestion from a terminally ill Professor Stein, demanded that the United States and the [[Soviet Union]] destroy all of their [[nuclear weapon]]s.<ref>''Firestorm'' (vol. 2) #64</ref> After confrontations with the [[Justice League]] and most of his enemies, Firestorm faced the Russian nuclear superhero [[List of minor DC Comics characters#Pozhar|Pozhar]] in the [[Nevada]] desert, where an [[atomic bomb]] was dropped on them. A new Firestorm resulted, a fusion of the two heroes: this new Firestorm was composed of Ronnie Raymond and the Russian '''Mikhail Arkadin''' but controlled by the disembodied [[amnesia]]c mind of Martin Stein.<ref>''Firestorm'' (vol. 2) #67</ref><ref>''Firestorm'' (vol. 2) #68</ref><ref>''Firestorm'' (vol. 2) #69</ref>
+
+===Fire Elemental===
+The Firestorm with Arkadin proved to be a transitional phase, as in 1989 Ostrander fundamentally changed the character of Firestorm by revealing that Firestorm was a "Fire Elemental". Firestorm now became something of an environmental crusader, formed from Ronnie Raymond, Mikhail Arkadin, and '''Svarozhich''', a Soviet clone of the previous Firestorm, but with a new mind. Professor Stein, no longer part of the composite at all, continued to play a role, but the focus was on this radically different character.<ref name="dc-ency"/> New artist [[Tom Mandrake]] would create a new look to match. It was during this phase that Firestorm met and befriended [[Shango (DC Comics)|Sango]] and the [[Orishas (DC Comics)|Orishas]], the elemental gods of [[Nigeria]]. He also met their chief deity and Sango's older brother [[Obatala]], Lord of the White Cloth.
+
+By the series' 100th issue, Stein learned that he was destined to be the true Fire Elemental and would have been being it not for Raymond also being there by circumstance. Raymond and Arkadin were returned to their old lives, and Stein as Firestorm was accidentally exiled to deep space in the process of saving the Earth. He thereafter spent many years traveling through space as a wanderer, returning to Earth only rarely.
+
+After the transition to the elemental Firestorm, all of the main characters from the series vanished from the comics for some time after the cancellation of the ''Firestorm'' comic in 1990. Raymond eventually returned in the pages of ''Extreme Justice''.<ref name="dc-extr">{{Citation | last = Beatty | first = Scott | author-link = Scott Beatty | contribution = Extreme Justice | editor-last = Dougall | editor-first = Alastair | title = The DC Comics Encyclopedia | page = 117 | publisher = [[Dorling Kindersley]] | place = [[New York City|New York]] | year = 2008 | isbn = 978-0-7566-4119-1 | oclc = 213309017}}</ref> Raymond, at the time undergoing treatment for leukemia, regained his original powers after a [[chemotherapy]] session. It took the combined might of the Justice League led by [[Captain Atom]], and the returned elemental Firestorm, to restore Ronnie's health. Firestorm began to appear regularly in a number of DC titles, though lacking the guidance and knowledge necessary to use his skills wisely. Firestorm was drafted by Batman into a "replacement" Justice League that was commissioned in case something befell the original team (in this case, being stranded in the distant past in "''The Obsidian Age''" storyline). After the original team returned, Firestorm stayed on as a reserve member and participated in events such as a team-up with the [[Justice Society of America]] (in ''JLA/JSA: Virtue and Vice'') and the [[intercompany crossover]] ''[[JLA/Avengers]]''. He was also briefly a member of the [[Power Company]].
+
+===Jason Rusch===
+{{Main|Jason Rusch}}
+In 2004, DC revived the ''Firestorm'' comic for the second time, with writer [[Dan Jolley]] and artist Chris Cross, but instead of the original Firestorm, Ronnie Raymond, there was a new protagonist; the teenager '''Jason Rusch'''.
+
+Jason was a 17-year-old living in Detroit who wanted nothing more than to escape his home city. He lived with his father, who had turned abusive after he lost his hand in an industrial accident. His mother left the family sometime after the accident. With the loss of a job he needed for college tuition, Jason turned to a local thug for money, accepting a job as a courier. It was on that job that he encountered the Firestorm Matrix, searching for a new host after Ronnie Raymond's death. In the aftermath, Jason struggled to cope with his new identity and powers—a struggle that led to the death of the man who had hired him.
+
+===Jason Rusch / Martin Stein ===
+In the 2006 miniseries ''[[Infinite Crisis]]'', it was revealed that Martin Stein, alive in space as the "Elemental Firestorm", had sensed the presence of Jason Rusch within the Firestorm Matrix, but was unaware of Ronnie Raymond's death. When Jason, as Firestorm, was gravely wounded in the line of duty, Stein linked with him in a variation of the merge, promising Jason a new Firestorm body to let him return into battle (although Martin had been unable to save Mick) and asking him about Ronnie's fate.
+
+Accepting Martin's proposal, Jason asked Stein to become the permanent second member of the Firestorm Matrix. Sensing his "errors" (including Mick's death) were the result of his youth and lack of experience, he sought the experience and maturity of Stein. Stein refused at first, but later accepted Jason's request, thus ensuring both a new Firestorm body and the reconstruction of human bodies for both Rusch and Stein.<ref name="dc-ency"/>
+
+It was revealed in ''Infinite Crisis'' that if the Multiverse had survived up to the present, Jason would have been a native of [[Multiverse (DC Comics)|Earth-Eight]].<ref>[[Johns, Geoff]]. ''Infinite Crisis'' #5 (April 2006)</ref>
+
+===Jason Rusch / Firehawk ===
+As the storyline [[One Year Later|jumped ahead one year]] (and the series itself was now re-titled as ''Firestorm the Nuclear Man'' from issue #23 on), Professor Stein has mysteriously vanished, and Jason Rusch has been merging with [[List of minor DC Comics characters#Firehawk|Firehawk]] to become Firestorm, allowing him to use her powers as well. The two decided to look for Stein together. Stein had been kidnapped and tortured by the Pupil, a former teaching assistant of Stein's. Flanked by the D.O.L.L.I.s, a group of cyborg soldiers of limited cognitive ability, the Pupil (formerly known as Adrian Burroughs) questioned the nearly dead Stein about the secrets of the universe. Jason and Lorraine, along with the mysterious teleporter Gehenna, freed the captured Stein and restored him to full health. Jason is a college freshman at New York City's Columbus University and seems to have ties with Dani Sharpe, a member of the senior staff at [[LexCorp]].
+
+The Firestorm team of Jason and Firehawk made several appearances across the DC Comics Universe before the search for Martin Stein ended. This included dealing with the latest [[OMAC (comics)|OMAC]] and teaming up with [[Superman]] in the "Back in Action" story arc in ''[[Action Comics]]''. Firehawk later introduced Jason to [[List of minor DC Comics characters#Pozhar|Pozhar]], a Russian superhero who was once a part of the Firestorm Matrix; together, the trio takes on a newly reborn [[List of minor DC Comics characters#Tokamak|Tokamak]]. This series ended with ''Firestorm the Nuclear Man'' #35 (April 2007).
+
+===Jason Rusch / Ronnie Raymond ===
+In the 2009–2010 ''[[Blackest Night]]'' miniseries, Ronnie Raymond is called by a [[Power ring (DC Comics)#Black|black power ring]] to join the [[Black Lantern Corps]]. Like other Black Lanterns, the undead Firestorm mimics the personality of Ronnie Raymond, often wisecracking and exhibiting other stereotypical teenage behavior.<ref>''Blackest Night'' #4 (October 2009)</ref>
+
+In the 2010–2011 ''[[Brightest Day]]'' miniseries, Ronnie Raymond arrives at Jason Rusch's apartment with Professor Stein and [[Atom (Ray Palmer)|Ray Palmer]] to attend Gehenna's funeral. When Ronnie is actually unable to remember Gehenna's name, Jason angrily lashes out and punches him in the face. This causes the two young men to merge into Firestorm, and they begin arguing inside the Matrix.<ref>''Brightest Day'' #0 (April 2010)</ref><ref>''Brightest Day'' #1 (May 2010)</ref> Palmer manages to separate Jason and Ronnie, but not before the Firestorm matrix causes a huge explosion.<ref>''Brightest Day'' #2 (May 2010)</ref> It is revealed that [[Deathstorm]] intends to create enough emotional instability between Ronnie and Jason that the Matrix will trigger another Big Bang, thereby destroying all life in the universe. Ronnie and Jason must find a way to contain their Firestorm matrix from the explosion in less than 90 days.<ref>''Brightest Day'' #24 (April 2011)</ref>
+
+After the events of the 2011 ''[[Flashpoint (comics)|Flashpoint]]'' storyline, ''[[The New 52]]'' reality altered Firestorm's personal history to the point of it being completely restarted. Ronnie Raymond is now introduced as a high school senior and the captain of the football team.<ref name=Guide>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Korte |first3=Steve |last4=Manning |first4=Matt |last5=Wiacek |first5=Win |last6=Wilson |first6=Sven |title=The DC Comics Encyclopedia: The Definitive Guide to the Characters of the DC Universe |date=2016 |publisher=DK Publishing |isbn=978-1-4654-5357-0 |page=109}}</ref> During a terrorist attack on their school, classmate Jason Rusch produces a vial given to him by Professor Stein, which contains the "God Particle", one of Stein's creations. The God Particle transforms both Jason and Ronnie into Firestorm, and the two teens briefly battle each other before accidentally merging into a hulking creature known as the '''Fury'''.<ref>''The Fury of Firestorm the Nuclear Men'' #1 (September 2011)</ref> Sharing the identity of Firestorm, with Ronnie being the brawn and Jason being the brains, Firestorm is considered for recruitment into the Justice League along with several other heroes.
+
+===''DC Rebirth''===
+In the ''[[Watchmen]]'' sequel ''[[Doomsday Clock (comics)|Doomsday Clock]]'', Firestorm becomes a subject of controversy after claims arise stating that he was created by the American government. Firestorm profanely denounces the "Superman Theory" and insults his Russian counterpart Pozhar, much to the dismay of Martin Stein.<ref>''Doomsday Clock'' #5 (May 2018). DC Comics.</ref> Firestorm subsequently becomes embroiled in a fight with several Russian superheroes before appearing to inadvertently turn a crowd of civilian protesters into a glass (a feat previously deemed beyond his capabilities). Firestorm flees with the body of an affected child and is found in hiding at the [[Chernobyl Nuclear Power Plant]] in [[Ukraine]] by Superman. With Superman's encouragement, Firestorm returns the child to normal. Firestorm and Superman return to the affected crowd and are engaged by the Russian military. The area then becomes engulfed in an explosion of blue light.<ref>''Doomsday Clock'' #8 (December 2018). DC Comics.</ref> Subsequent discoveries reveal that the 'Superman Theory' is actually partially correct, as Stein deliberately engineered the creation of Firestorm to make himself a superhuman, even if Raymond genuinely had no idea of this until recently.
+
+==Powers and abilities==
+Firestorm has the ability to rearrange molecular or particle structures of any substance into most anything else, creating different atomic structures of equal mass. He can transmute the basic composition of an object (e.g., transmuting lead into gold) and can also change its shape or form at will. Much like Green Lantern's limitations, Firestorm can only create items whose workings are understood by the "driver" of the Firestorm Matrix, through he can make more complex sentient constructs out of the Matrix's energies. Unlike Green Lantern's creations, Firestorm's alterations are permanent unless he reverses them.<ref name="dc-ency"/>
+
+Initially, he could not affect organic matter without painful, even lethal, feedback (i.e., fatal biophysical disruption or even localized particle motion phenomena like extreme changes in the weather). It was later revealed that Firestorm could always change organic matter, but opted not to. As Jason Rusch became Firestorm, however, this weakness appeared to have dissipated. With old and new variations, the organic limitation does not extend to his own person, as its users can molecularly change their driver self at will, allowing them to regenerate lost or damaged bodily tissue, boost immune systems, shape-shift, increase physical capabilities and survive indefinitely without food, sleep, water or air.<ref>''Firestorm'' (vol. 3) #35</ref> Capacities as such produce superhuman levels of strength, durability, stamina and resistance to injury great enough to challenge the New Gods—the likes of Orion, [[Lashina]], or an empowered Kalibak—or surviving the rigors of outer space and sitting near the inner corona above the sun's photosphere without discomfort.<ref>''Firestorm'' (vol. 3) #25</ref> Firestorm's power has been stated by Prof. Stein to be theoretically infinite, harnessing the spark of creation, the [[Big Bang]] itself. However, infinite power runs the risk of burning out its host.
+
+While the Firestorm Matrix can be utilized by a singular host driver—as was the case with Ronnie, Stein, and Rusch—it is not recommended.<ref>''Firestorm'' (vol. 3) #14–17</ref> The Matrix functions best with two people, a pilot and secondary, to comprehend and master it. Martin instructed Rusch on how to study current and potential powers available to them within the Matrix and to manually adjust them on the fly at a later date. Its main source of energy stemmed from the ambient stellar energies of native stars and suns but could also use its co-pilot as a power source, though they will burn out over time and genetically disintegrate if not properly adjusted to its power.<ref name="Firestorm vol. 3 #22">''Firestorm'' (vol. 3) #22</ref>
+
+The merging aspect of the Matrix can enable outside fusions which assimilate any inherent abilities these others might possess. However, this can diminish its effectiveness and stability.<ref>''Firestorm'' (vol. 3) #17</ref> Rusch has shown he can spontaneously warp himself and others he had previously merged with to his specific location, triggering the neural pathway connection and allowing the gestalt to access each other's knowledge and memories to better utilize Firestorm's capabilities. Users of the Firestorm Matrix can access a type of ancestral memory from the continuum of past Matrix users, allowing them to access the latest knowledge of the atoms comprising it. This also translates into a form of time-space sight in which the Matrix user can glimpse the past, present, future, and alternate lives of every other Firestorm throughout reality using a collective of subatomic wormholes which exist as a part of the Matrix. This power is too complex to properly control; thus, it has been highly unreliable as an ability.
+
+The driver can fly at supersonic speeds in an atmosphere and reach escape velocities. The driver can also adjust the driver's body's size or pull and enlarge others from the subatomic universe at will, Rusch having once dragged [[Atom (Ray Palmer)|Ray Palmer]] from his microscopic size to the natural world while on Apokolips.<ref>''Countdown to Final Crisis'' #8</ref> Manipulation of the self at the subatomic level allows the driver to become intangible and pass through solid objects. This allowed Rusch to communicate with John Stewart and sift through his mind telepathically after he had been taken over by the void beast.<ref>''Trinity'' #21</ref> Firestorm is also adept at absorbing and redistributing radiation or energy both harmlessly and productively (such as in ''Green Lantern: Circle of Fire'' #7, having both absorbed Zeta Radiation from [[Adam Strange]]'s body and repurposed it to turn a universe-destroying quasar back onto itself and absorb the fallout from a massive nuclear detonation).<ref>''Firestorm the Nuclear Man'' (vol. 3) #23</ref>) He can generate destructive or concussive blasts of nuclear energy, through which he can also channel his transmogrification powers.<ref>''Firestorm the Nuclear Man'' (vol. 3) #34</ref>
+
+While the Matrix grants the fusers unique powers, it can also accidentally bestow them on individuals caught in the Matrix by mistake. One example is Nanette Phaedon, wife of the late Allen Phaedon, who gained the ability to change her quantum state for size-shifting and flight by her own will.<ref name="Firestorm vol. 3 #22"/> Following Raymond's resurrection during ''Brightest Day'', Firestorm gained the ability to switch "drivers" between Ronnie and Jason at will; before that, only the active driver was in control, with the dormant consciousness only able to advise the other on what action to take. One of the faults of a Firestorm fusion is that the stronger psyche will have dominance of the Matrix's power, such as when Jason fused with Luis Salvador who overpowered him from the passenger seat of the Matrix.<ref>''Firestorm'' (vol. 3) #7</ref>
+
+During ''[[The New 52]]'', the Firestorm Matrix could be shared through multiple users at a time. Users could fuse and become stronger, but more unstable. The entity formed between Ronnie and Jason when using the Matrix in tandem created a nuclear being called "the Fury". It was also shown that The Matrix shares a kinship to the Quantum Field in some way, enabling Firestorm users to derive its power for subatomic transmutation and manipulation.<ref>''Forever Evil: A.R.G.U.S.'' #3–4</ref> Some believe it is key to the fabled [[God particle]] theory. Its merging properties can place a large burden on the user; Firestorm runs the risk of reaching critical mass and detonating.<ref>''Forever Evil'' #7</ref> At worst, the fusion of too many users in the Matrix could trigger a second Big Bang.
+
+==Other versions==
+Firestorm has appeared in various alternate realities within the [[DC Multiverse]]: a gender-reversed version appears in ''[[Countdown to Final Crisis|Countdown: The Search for Ray Palmer]]'' as an inhabitant of [[Earth-11]];<ref>''Countdown: The Search for Ray Palmer'' #1</ref> a version of the Ronnie Raymond Firestorm appeared in ''[[JLA: The Nail]]'', as a captive of [[Cadmus Labs]];<ref>''JLA: The Nail'' #2–3</ref> a '''Firestork''' of the [[Just'a Lotta Animals]];<ref>''Captain Carrot and his Amazing Zoo Crew!'' #14</ref> and a merger of Ronnie Raymond and [[Nathaniel Adam]] of [[Earth-37]] called '''Quantum-Storm''' who was summoned by [[Monarch (comics)|Monarch]] in the miniseries ''[[Countdown: Arena]]''.<ref>''Countdown: Arena'' #1–4</ref>
+
+===We-Are-Firestorm===
+A version of Firestorm crafted by Anansi in Volume Two of ''Justice League of America'', he appears to be a form of sentient red energy and is a member of that reality's Justice League.
+
+==In other media==
+{{See also|Ronnie Raymond (character)#In other media|Martin Stein#In other media|Jason Rusch#In other media|Deathstorm|Jefferson Jackson}}
+===Television===
+====Animation====
+* The Ronnie Raymond / Martin Stein incarnation of Firestorm appeared in the ''[[Super Friends: The Legendary Super Powers Show]]'', voiced by [[Mark L. Taylor]] and [[Olan Soule]] respectively.
+* The Ronnie Raymond / Martin Stein incarnation of Firestorm appeared in ''[[The Super Powers Team: Galactic Guardians]]'', voiced by Mark L. Taylor and [[Ken Sansom]] respectively.
+* The Ronnie Raymond / Martin Stein incarnation of Firestorm was planned to appear in ''[[Justice League Unlimited]]'', with writer/producer [[Dwayne McDuffie]] stating that the producers had permission from DC Comics to use the character. However, the show's creators could not come up with a story that they liked.{{Citation needed|date=May 2009}} They later revealed in ''[[Wizard (magazine)|Wizard]]'' #197 that the producers intended to have Firestorm serve as the focus character in the episode "The Greatest Story Never Told", but replaced him with [[Booster Gold]].<ref>{{cite web|url=http://jl.toonzone.net/episode33/episode33.htm |title=The Justice League Watchtower: The Greatest Story Never Told |website=Jl.toonzone.net |access-date=2011-04-21}}</ref>
+* The Ronnie Raymond / Jason Rusch incarnation of Firestorm appears in ''[[Batman: The Brave and the Bold]]'', voiced by [[Bill Fagerbakke]] and [[Tyler James Williams]] respectively.
+* The Ronnie Raymond / Martin Stein incarnation of Firestorm appears in ''[[Justice League Action]]'', voiced by [[P. J. Byrne]] and [[Stephen Tobolowsky]] respectively.
+
+====Arrowverse====
+{{Overly detailed|section|date=April 2022}}
+[[File:Jefferson 'Jax' Jackson - Firestorm (Franz Drameh).jpg|thumb|right|[[Franz Drameh]] as Jefferson "Jax" Jackson—the second Firestorm–in the Arrowverse as depicted in ''Legends of Tomorrow'']]
+Firestorm appears in media set in [[CW Television Network|The CW]]'s [[Arrowverse]], with Martin Stein portrayed by [[Victor Garber]],<ref name="Deadline.com"/> Ronnie Raymond portrayed by [[Robbie Amell]],<ref name="Amell1"/><ref>{{cite web|url=https://www.ew.com/article/2016/01/04/flash-robbie-amell-returning-deathstorm|title='The Flash': Robbie Amell returning — but there's a twist!|website=Ew.com|access-date=24 October 2018}}</ref><ref>{{cite web|url=https://ew.com/tv/2017/01/12/flash-robbie-amell-season-3/|title=The Flash: Robbie Amell returning in season 3:!|website=Ew.comEntertainment Weekly|last=Abrams|first=Natalie|date=January 12, 2017}}</ref> '''and Jefferson "Jax" Jackson''' portrayed by [[Franz Drameh]].<ref>{{cite web|url=https://deadline.com/2015/02/arrow-flash-spin-off-cw-new-superhero-series-1201382466/|title=Arrow/Flash Superhero Team-Up Spinoff In Works At CW; Brandon Routh, Victor Garber, Wentworth Miller, Caity Lotz Star|last=Andreeva|first=Nellie|website=Deadline Hollywood|date=February 26, 2015|access-date=February 27, 2015}}</ref>
+* Stein, Raymond, and Jackson first appear in the live-action TV series ''[[The Flash (2014 TV series)|The Flash]]'', with Stein and Raymond as the first incarnation of Firestorm after they were fused with the former's F.I.R.E.S.T.O.R.M. matrix during the explosion of [[Eobard Thawne (Arrowverse)|Harrison Wells]]' particle accelerator. They initially lack control over their powers until Wells safely separates them, allowing the pair to master their powers and join the [[Barry Allen (Arrowverse)|Flash]] in fighting crime until Raymond sacrifices himself to save [[Central City (DC Comics)|Central City]].<ref>{{cite web|url=http://www.comicbookresources.com/article/amell-teases-wedding-bells-tragedy-matter-manipulation-in-flashs-season-finale|title=Amell Teases Wedding Bells, Tragedy & Matter Manipulation in "Flash's" Season Finale|last=Cairns|first=Bryan|work=Comic Book Resources|date=May 19, 2015|access-date=May 21, 2015}}</ref> After the F.I.R.E.S.T.O.R.M. matrix begins to destabilize and threaten Stein's life, Team Flash eventually find Jackson, who joins forces with Stein to become the new Firestorm despite initial hesitancy and leaves Central City with him to hone their powers.
+** Additionally, Jason Rusch appears, portrayed by Luc Roderique.<ref>{{cite news| url= http://www.comicbookresources.com/?page=article&id=57012 | title= Roderique Cast As 'The Flash's' Jason Rusch | date= 11 November 2014 | first= Steve |last= Sunu | website= Comic Book Resources|access-date= 8 January 2015}}</ref> 
+* Jackson and Stein appear in the animated web series ''[[Vixen (web series)|Vixen]]'', with Drameh and Garber reprising their respective roles.<ref name="Drameh3"/>
+* Jackson and Stein appear in the live-action TV series ''[[Legends of Tomorrow]]'', with Drameh and Garber reprising their respective roles and Graeme McComb portraying a younger version of Stein. Stein and Jackson join the Legends in traveling through and stopping evildoers across time until the events of the "[[Crisis on Earth-X]]" crossover, during which Stein is killed by Nazis from [[Earth-X (Arrowverse)|Earth-X]] and takes a formula developed by [[Ray Palmer (Arrowverse)|Ray Palmer]] to save Jackson, who leaves the Legends to resume his life.
+
+===Film===
+* The Jason Rusch incarnation of Firestorm appears in ''[[Justice League: Crisis on Two Earths]]'', voiced by [[Cedric Yarbrough]]. Additionally, an unnamed, alternate universe version of Firestorm appeared as a lesser member of the [[Crime Syndicate]].
+* The Jason Rusch incarnation of Firestorm appears in ''[[Lego DC Comics Super Heroes: The Flash]]'', voiced by [[Phil LaMarr]].
+
+===Video games===
+* The Ronnie Raymond / Martin Stein incarnation of Firestorm appears as a playable character in ''[[Lego Batman 3: Beyond Gotham]]'', voiced by [[Nolan North]].
+* The Jason Rusch / Martin Stein incarnation of Firestorm appears as a playable character in ''[[Injustice 2]]'', voiced by [[Ogie Banks]] and [[Fred Tatasciore]] respectively.<ref>{{cite web|url=http://gematsu.com/2017/03/injustice-2-adds-firestorm|date=2017-03-13|access-date=2017-03-13|last=Romano|first=Sal|website=Gematsu|title=Injustice 2 adds Firestorm}}</ref>
+* The Jason Rusch / Martin Stein incarnation of Firestorm appears as a playable character in ''[[Lego DC Super-Villains]]''.<ref>{{cite web|url=https://www.youtube.com/watch?v=LhhqBlNmomo |archive-url=https://ghostarchive.org/varchive/youtube/20211221/LhhqBlNmomo |archive-date=2021-12-21 |url-status=live|title=Official LEGO® DC Super-Villains SDCC Trailer|last=LEGO DC Game|date=19 July 2018|access-date=24 October 2018|publisher=[[YouTube]]}}{{cbignore}}</ref><ref>{{cite web|url=https://mailchi.mp/mi5communications/lego-dc-super-villains-reveals-darkseids-villainy-in-action-in-new-clip-890165?e=49aaf48973|title=LEGO® DC SUPER-VILLAINS REVEALS DARKSEID'S VILLAINY IN ACTION IN NEW CLIP|website=mailchi.mp|access-date=24 October 2018}}</ref> 
+
+===Parodies===
+* The Ronnie Raymond incarnation of Firestorm appeared in the ''[[Robot Chicken DC Comics Special]]'' segment "Real Characters From the DC Universe", voiced by [[Alfred Molina]].
+* Firestorm makes a cameo appearance in ''[[The Order of the Stick]]'', strip #359.<ref>{{cite web|url=http://www.giantitp.com/comics/oots0359.html|title=Giant in the Playground Games|last=Burlew|first=Rich|website=www.giantitp.com|access-date=9 August 2019}}</ref>
+
+==Collected editions==
+* ''Firestorm the Nuclear Man'' (''Firestorm the Nuclear Man'' #1–5)
+* ''Firestorm the Nuclear Man: Reborn'' (''Firestorm the Nuclear Man'' (vol. 3) #23–27) 
+* ''The Fury of Firestorm the Nuclear Men Vol. 1: God Particle'' (''The Fury of Firestorm the Nuclear Men'' #1–6)
+* ''The Fury of Firestorm the Nuclear Men Vol. 2: The Firestorm Protocols'' (''The Fury of Firestorm the Nuclear Men'' #7–12, #0)
+* ''The Fury of Firestorm the Nuclear Men Vol. 3: Takeover'' (''The Fury of Firestorm the Nuclear Men'' #13–20)
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://toonopedia.com/firestor.htm Firestorm] at [[Don Markstein's Toonopedia]]. [https://www.webcitation.org/6jNEwYPHa Archived] from the original on July 29, 2016.
+* {{comicbookdb|type=character|id=285|title=Firestorm (Martin Stein/Ronnie Raymond)}}
+* {{comicbookdb|type=character|id=7821|title=Firestorm (Raymond/Arkadin/Stein)}}
+* {{comicbookdb|type=character|id=270|title=Firestorm (Ronald Raymond)}}
+* {{comicbookdb|type=character|id=15423|title=Firestorm (Martin Stein)}}
+* {{comicbookdb|type=character|id=286|title=Firestorm (Jason Rusch)}}
+* {{cite web |first=Matt |last=Brady |url=http://forum.newsarama.com/showthread.php?t=79673 |title=From The Files of Professor Martin Stein |publisher=[[Newsarama]] |date=July 8, 2006 |archive-url=https://web.archive.org/web/20081211080626/http://forum.newsarama.com/showthread.php?t=79673 |archive-date=December 11, 2008 }}
+
+{{Firestorm}}
+{{Superfriends series}}
+{{The New 52}}
+{{Justice League characters}}
+
+{{DEFAULTSORT:Firestorm (Comics)}}
+[[Category:1978 comics debuts]]
+[[Category:Fictional Russian people]]
+[[Category:Russian superheroes]]
+[[Category:DC Comics American superheroes]]
+[[Category:Characters created by Al Milgrom]]
+[[Category:Characters created by Gerry Conway]]
+[[Category:Comics characters introduced in 1978]]
+[[Category:Comics by John Ostrander]] 
+[[Category:DC Comics characters who can move at superhuman speeds]]
+[[Category:DC Comics characters who can teleport]]
+[[Category:DC Comics characters with accelerated healing]]
+[[Category:DC Comics characters with superhuman strength]]
+[[Category:DC Comics metahumans]]
+[[Category:DC Comics male superheroes]]
+[[Category:DC Comics television characters]]
+[[Category:DC Comics titles]] 
+[[Category:Fictional characters who can turn intangible]]
+[[Category:Fictional characters with eidetic memory]]
+[[Category:Fictional characters with absorption or parasitic abilities]]
+[[Category:Fictional characters with density control abilities]]
+[[Category:Fictional characters with elemental transmutation abilities]]
+[[Category:Fictional characters with fire or heat abilities]]
+[[Category:Fictional characters with nuclear or radiation abilities]] 
+[[Category:Fictional characters with energy-manipulation abilities]]
+[[Category:Fictional characters with superhuman senses]] 
+[[Category:Fictional characters with X-ray vision]]
+[[Category:Fictional nuclear physicists]]
+[[Category:Characters created by John Ostrander]]
+[[Category:Merged fictional characters]]
+[[Category:Articles about multiple fictional characters]]

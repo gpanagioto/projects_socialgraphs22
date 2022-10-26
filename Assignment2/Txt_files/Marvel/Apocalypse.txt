@@ -1,0 +1,5 @@
+#REDIRECT [[Apocalypse (character)]]
+
+{{Redirect category shell|
+{{R from move}}
+}}

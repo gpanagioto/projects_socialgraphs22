@@ -1,0 +1,5 @@
+#REDIRECT [[Brain Drain (character)]]
+
+{{Redirect category shell|
+{{R from move}}
+}}

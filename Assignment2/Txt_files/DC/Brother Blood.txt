@@ -1,0 +1,133 @@
+{{Infobox comics character
+| image          = Brotherblooddcu0.png
+| imagesize      = <!-- default 250 -->
+|character_name=Brother Blood
+| caption        = Art by [[George Pérez]].
+| alt            = 
+| publisher      = [[DC Comics]]
+| debut          = '''Sebastian Blood VIII:''' <br /> ''[[The New Teen Titans]]'' #21 (July 1982)<br /><br /> '''Sebastian Blood IX:''' <br /> ''[[Outsiders (comics)|Outsiders]]'' #6 (January 2004)
+| first_series   = 
+| first_episode  = 
+| first_comic    = 
+| creators       = '''Sebastian Blood VIII:'''<br />[[Marv Wolfman]] <br />[[George Pérez]]<br /><br />'''Sebastian Blood IX:''' <br />[[Judd Winick]]<br />[[ChrisCross]]
+| voiced_by      = 
+| based_on       = 
+| alter_ego      = Sebastian Blood
+| full_name      = 
+| species        = <!-- optional -->
+| homeworld      = <!-- optional -->
+| alliances      = '''Both:''' <br /> Church of Blood <br /><br /> '''Sebastian Blood IX:''' <br /> [[Secret Society of Super Villains]]<br /> [[H.I.V.E.]] Academy
+| partners       = <!-- optional -->
+| supports       = <!-- optional -->
+| aliases        = <!-- optional -->
+| powers         = '''Sebastian Blood VIII:''' <br /> Hypnosis <br />[[Magic (fantasy)|Sorcery]] <br />Longevity <br />Immunity to [[Raven (DC Comics)|Raven]]'s soul-self <br /><br />'''Sebastian Blood IX:''' <br /> [[Vampirism]] <br />Enhanced strength <br />Adept hand-to-hand combatant
+| cat            = 
+| subcat         = 
+| hero           = 
+| villain        = 
+| sortkey        = 
+| addcharcat#    = 
+}}
+'''Brother Blood''' is the name of two <!--Do not add "fictional" as it is tautological; supervillains (and characters in general) are by definition implied to be fictionalized to some extent.-->[[supervillain]]s appearing in [[American comic book]]s published by [[DC Comics]]. The first iteration, '''Sebastian Blood VIII''', is a power hungry [[priest]] and the head of the Church of Blood, as well as the eighth person in the [[DC Universe]] to assume the mantle, after killing his father and taking the Brother Blood mantle from him. This tradition had gone on for generations, dating back to the 13th century, when the first Brother Blood was born after obtaining [[Christ]]'s prayer shawl and gaining superhuman abilities. As Brother Blood, Sebastian served as a recurring adversary of the [[Teen Titans]] and the [[archenemy]] of [[Cyborg (DC Comics)|Cyborg]], until being killed by his successor, '''Sebastian Blood IX'''.
+
+A different iteration of Brother Blood appeared in the 2003 ''[[Teen Titans (TV series)|Teen Titans]]'' animated series, and its 2013 [[Spin-off (media)|spin-off]], ''[[Teen Titans Go!]]'', voiced by [[John DiMaggio]]. Sebastian Blood was also a recurring character on the [[Arrow (season 2)|second]] season of [[The CW]] [[Arrowverse]] show ''[[Arrow (TV series)|Arrow]]'', played by [[Kevin Alejandro]]. [[Joseph Morgan (actor)|Joseph Morgan]] appears as the character in the fourth season of the [[HBO Max]] series ''[[Titans (2018 TV series)|Titans]]''.
+
+== Publication history ==
+The first Brother Blood, Sebastian Blood VIII, debuted in ''[[The New Teen Titans]]'' #21 (July 1982), created by writer [[Marv Wolfman]] and artist [[George Pérez]].<ref name="dc-ency">{{Cite book |last = Greenberger|first = Robert|author-link = Robert Greenberger|contribution = Brother Blood|editor-last = Dougall|editor-first = Alastair|title = The DC Comics Encyclopedia|pages = 62|publisher = [[Dorling Kindersley]]|place = London|year = 2008|isbn = 978-0-7566-4119-1}}</ref> He was a regular foe of the ''Teen Titans'' for many years.<ref>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Manning |first3=Matthew K. |last4=McAvennie |first4=Michael |last5=Wallace |first5=Daniel |title=DC Comics Year By Year: A Visual Chronicle |date=2019 |publisher=DK Publishing |isbn=978-1-4654-8578-6 |page=187}}</ref>
+
+The second Brother Blood, Sebastian Blood IX, debuted in ''[[Outsiders (comics)|Outsiders]]'' vol. 3 #6 (January 2004), created by writer [[Judd Winick]] and artist [[ChrisCross]].
+
+== Fictional character biography ==
+=== Sebastian Blood VIII ===
+The first Brother Blood encountered by the Titans was the eighth to bear the title. Seven hundred years earlier, a priest in the fictional nation of Zandia named Brother Sebastian killed another priest to gain possession of what he believed to be [[Christ]]'s prayer shawl. The shawl gave him invulnerability and reduced his aging, but the priest he killed cursed him to be slain by his son before his hundredth birthday. Upon doing so, his son became the second Brother Blood. He, in turn was killed by ''his'' son, and this continued for seven centuries.<ref name="dc-ency" />
+
+The eighth Brother Blood is, seemingly, the first who wishes to extend the Church of Blood beyond Zandia. He wants the Church to be a world power.<ref>{{cite book |last =Rovin |first =Jeff |title =The Encyclopedia of Supervillains |publisher =Facts on File |date =1987 |location =New York |isbn = 0-8160-1356-X |pages=42–43}}</ref> The Church of Blood began operating in America, and the Titans were called to investigate when an ex-girlfriend of [[Cyborg (comics)|Cyborg]] attempted to escape this cult. Because of the Church of Blood's influence, the Titans found moving against him difficult, especially when public opinion was turned against them by Bethany Snow, a reporter who was also a member of the Church.
+
+Brother Blood brainwashed [[Dick Grayson|Nightwing]] and attempted to take control of [[Raven (DC Comics)|Raven's]] power. She defeated him, and his mind was seemingly destroyed.<ref>''Teen Titans'' vol. 2 #31</ref> Brother Blood's wife, Mother Mayhem, later birthed a girl, suggesting the curse was over.
+
+=== Sebastian Blood IX ===
+[[File:Brother Blood.png|180px|left|thumb|The second Brother Blood, art by [[Tony Daniel]].]]
+
+Some time later, in ''[[Outsiders (comics)|Outsiders]]'' vol. 3, Brother Blood returned to villainy.<ref>''Outsiders'' vol. 3 #4 (November 2003)</ref> Shortly after recreating his cult, he was killed by a young boy, Sebastian, claiming to be the new Brother Blood.<ref>''Outsiders'' vol. 3 #6 (January 2004)</ref> This version reappeared in ''Teen Titans'' vol. 3.
+
+This teenaged Brother Blood seemingly based all his decisions on advice from Mother Mayhem, but this was actually a female cultist chosen at random and killed if the advice was not what he wanted to hear. He also exhibited [[vampire|vampiric]] abilities.
+
+He revealed that the Cult of Blood was based on the [[Theistic Satanism|worship]] of [[Trigon (comics)|Trigon the Terrible]]. It was for this reason that the new Bride of Blood was to be [[Raven (DC Comics)|Raven]]. The Titans were able to save Raven, but the Church of Blood continued. Brother Blood later appeared in ''Teen Titans'' vol. 3 #30, a member of [[Alexander Luthor, Jr.]]'s [[Secret Society of Super Villains]], where he claimed an undead [[Lilith (DC Comics)|Lilith Clay]] to be his mother. He also summoned the first [[Hawk and Dove]], [[Danny Chase|Phantasm]], [[Kole]], and [[Aquagirl (Tula)|Aquagirl]] from the dead to be his own [[Teen Titans]]. Brother Blood was stopped by [[Kid Eternity]] and sent to the eighth level of Hell, but not before Kid Eternity summoned the past Brother Bloods, all of whom took out their anger and hatred on Sebastian.
+
+In the aftermath of the "Reign In Hell" miniseries, Blood, now an adult, escaped from his incarceration and was opposed by [[Kid Eternity]]. The fight between the two brought them to [[Titans Tower]], where Blood fought the Titans. After draining [[Kid Devil|Red Devil's]] powers, Blood realized that he had tainted himself with [[Neron (DC comics)|Neron]]'s influence and fled the battle. He was later seen approaching an unknown woman, looking to make her his new mother.<ref>''Teen Titans'' vol. 3 #67</ref>
+
+Sometime later, the [[Secret Six (comics)|Secret Six]] was hired to infiltrate one of Blood's cults and rescue a wealthy teenager who had been forced into the group against his will. After the team's cover was blown, they proceeded to kill a number of the church's members and ultimately destroyed their compound.<ref>''Secret Six'' vol. 3 #19</ref>
+
+=== The New 52 ===
+In September 2011, [[The New 52]] rebooted DC's continuity. In this new timeline, The Cult of Blood (once again as Trigon's pawns) makes their debut in issue one of the ''[[Phantom Stranger]]''.<ref>''The Phantom Stranger'' vol. 4 #1</ref> Brother Blood himself appears in ''Ravagers''.<ref>''The Ravagers'' #3 (September 2012)</ref> Blood kidnaps the team intending to use [[Beast Boy]]'s powers in a ritual to travel in [[Parliament of Trees#The Green|the Red's]] dimension.<ref name=Guide>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Korte |first3=Steve |last4=Manning |first4=Matt |last5=Wiacek |first5=Win |last6=Wilson |first6=Sven |title=The DC Comics Encyclopedia: The Definitive Guide to the Characters of the DC Universe |date=2016 |publisher=DK Publishing |isbn=978-1-4654-5357-0 |page=56}}</ref> The Ravagers manage to interrupt the ritual as [[Terra (comics)|Terra]] buries him alive.<ref>''The Ravagers'' #4 (October 2012)</ref> He survives and returns in ''Animal Man'', where it is revealed his obsession with the Red came from being their first option for champion before Buddy Baker was chosen.<ref>''Animal Man'' vol. 2 #23 (October 2013)</ref>
+
+=== Mother Blood ===
+A "'''Mother Blood'''" appears in the ''[[DC Rebirth]]'' series of Titans.<ref>''Titans'' vol. 3 #25</ref> This woman named '''Sonya Tarinka''' <ref>''Titans'' vol. 3 #33</ref> has a deep connection to The Red, as well as the previous leader. She is shown to have the power of mind control as she controlled [[Beast Boy]].<ref>''Titans'' vol. 3 #35</ref>
+
+== Powers and abilities ==
+The first Blood is a formidable opponent who is backed by a massive number of fanatical followers. He is an expert manipulator who feeds off of the faith of his members. He ages at a much slower rate than normal humans. Brother Blood is immune to Raven's soul-self due to his shawl's powers. He is also nigh invulnerable and has supernatural physical strength.
+
+The second Blood's powers work in a manner similar to those of a vampire: he gains strength from blood, and can take on the abilities of anyone whose blood he has sampled. Like the first Blood, he is backed by a massive number of fanatical followers.
+
+== Other versions ==
+=== Smallville ===
+Brother Blood is featured in the ''[[Smallville]] Season 11'' digital comic based on the [[Smallville|TV series]].
+
+=== Flashpoint ===
+In the alternate timeline of the ''[[Flashpoint (comics)|Flashpoint]]'' event, Brother Blood is mentioned by his former student, [[Jason Todd]], as being a developing drug lord.<ref>''Flashpoint: The World of Flashpoint'' #2 (July 2011)</ref>
+
+== In other media ==
+=== Television ===
+==== Animation ====
+[[File:BrotherbloodTTanimatedseries.jpg|thumb|upright|Brother Blood as he appears in the ''Teen Titans'' animated series.]]
+* Brother Blood appears as the main antagonist of the [[Teen Titans (season 3)|third season]] of ''[[Teen Titans (TV series)|Teen Titans]]'', voiced by [[John DiMaggio]]. In the introductory episode "Deception", Brother Blood is introduced as the [[charisma]]tic—and sadistic—Headmaster of the [[H.I.V.E.]] Academy, and the archenemy of [[Cyborg (comics)|Cyborg]]. His powers are very different from his comic book incarnation, and include [[mind control]], which he uses on his students to keep them under his thrall, teleportation, telekinesis, producing force bolts and energy shields, and altering perception. He is also shown to have a photographic memory as he built an underground base developed off of Cyborg's sonic cannon and planned to flood Jump City in the episode "Wavelength". He was stopped by the Titans with an assist of [[Bumblebee (comics)|Bumblebee]], masquerading as a H.I.V.E. top agent. Blood and his army of hooded Cyborg copies attacked the Titans East Tower in Steel City in part one of "Titans East", successfully brainwashing the new team. In part two, Blood underwent a procedure to gain cybernetics based on Cyborg's stolen blueprints in order to be a better match for him, but is ultimately defeated by Cyborg and the Titans. 
+** When talking about the series' incarnation of Brother Blood, producer/writer [[David Slack]] said: "In the end, we tried to make him the anti-[[Deathstroke|Slade]]. Where Slade hides in the shadows, Brother Blood loves the spotlight. Slade always has some ulterior motive, Brother Blood will tell you what he's planning right away. So there's some contrast there. We weren't even sure we'd get to use that name. I think what was important that we kept was that he was the leader of a cult. We kept that role and drew inspiration from cult leaders we read about. They are very charming seeming people. From that, we gave him this sort of 'power of temptation' – this ability to control people's perceptions. And the power of persuasion. We didn't get too deep into the character from the comics, because so much of it was so outside of what we'd be able to do. He's definitely one where we've strayed more".<ref>[http://www.titanstower.com/source/animated/charbroblood.html Teen Titans: Characters<!-- Bot generated title -->] {{webarchive |url=https://web.archive.org/web/20080416071753/http://www.titanstower.com/source/animated/charbroblood.html |date=April 16, 2008}}</ref>
+* Brother Blood is a recurring villain in ''[[Teen Titans Go!]]'', voiced again by John DiMaggio. He is introduced in the episode "Waffles" alongside his creation, a torture robot called Pain Bot (voiced primarily by [[Scott Menville]]), which can only say "Pain" and "All I know is pain". Pain Bot also becomes a recurring character in the series after he is adopted by Cyborg as his "little buddy" and begins living with the Titans.
+
+==== Live-action ====
+* Brother Blood appears in ''[[Arrow (TV series)|Arrow]]'' season 2, portrayed by [[Kevin Alejandro]]. By day, Sebastian Blood is a charismatic former alderman and mayoral candidate for [[Star City (comics)|Starling City]], and a personal friend to [[Oliver Queen (Arrow)|Oliver Queen aka The Arrow]]. By night he is the leader of the "Church of Blood", inherited from a man named Father Roger Trigon, under the name "Brother Blood". Blood is a very motivated political speaker who is not afraid to take life-threatening risks for the people of Starling, but as Brother Blood he wears a skull mask with a voice modifier, operating mostly in secret. Blood kidnaps criminals and injects them with a serum called Mirakuru, accidentally killing Xavier Reed and Max Stanton, before making his first successful injection with [[Solomon Grundy (comics)|Cyrus Gold]], who gains super strength. Blood is revealed to be in alliance with Slade Wilson, with Slade backing Blood's own campaign for mayor, but after the death of his campaign rival Moira Queen, Blood learned that Slade's true intention was to completely destroy Starling City, when Blood had been told that it would just be badly damaged so that Blood could rebuild. Blood attempted to betray his former partners by giving Oliver Queen vital information in exchange for leniency, but he was killed by Slade's ally [[Isabel Rochev]] after providing Oliver with samples of Mirakuru so that Oliver could refine the cure.
+* Brother Blood will appear in season 4 of ''[[Titans (2018 TV series)|Titans]]'', portrayed by [[Joseph Morgan (actor)|Joseph Morgan]].<ref>{{cite web|url=https://deadline.com/2022/01/titans-season-4-villains-joseph-morgan-brother-blood-franka-potente-mother-mayhem-lisa-ambalavanar-jinx-1234923540/|title='Titans' Sets Season 4 Villains: Joseph Morgan As Brother Blood, Franka Potente As Mother Mayhem, Lisa Ambalavanar As Jinx|website=Deadline Hollywood|first=Nellie|last=Andreeva|date=January 31, 2022|access-date=January 31, 2022}}</ref>
+
+=== Film ===
+* Brother Blood appears as the main antagonist in ''[[Teen Titans: The Judas Contract]]'', voiced by [[Gregg Henry]]. In the film, he is the leader of H.I.V.E., a cult seeking divine dominion over mankind. Blood claims to be hundreds of years old, attributing his long lifespan to his practice of bathing in the blood of his enemies. Blood has Deathstroke and Terra kidnap most of the Teen Titans in order to drain their powers and thus make himself into a god-like being. However, the plan is thwarted by Nightwing (the only Titan who escaped the scheme) and an enraged Terra, who was betrayed by Deathstroke. In the end, Blood is depowered by Raven and slain by his aide, Mother Mayhem, to prevent him from being imprisoned; their bodies are subsequently crushed by debris when Terra causes the H.I.V.E. temple to collapse.
+
+=== Video games ===
+* Brother Blood appears as a boss in [[Game Boy Advance]] version of [[Teen Titans (2005 video game)|the game]] based on the show, voiced by John DiMaggio.
+* Brother Blood appears in ''[[DC Universe Online]]'', voiced by Ev Lunning. Brother Blood and his cult attempt to bring Trigon to Earth by raising the demons of the Seven Deadly Sins. Brother Blood is defeated by the players and the [[Sentinels of Magic]]. He is served by Clerics, Minions of Envy, Minions of Gluttony, Minions of Greed, Minions of Lust, Minions of Sloth, Minions of Wrath, Paladins, Priests, an Exarch of Gluttony, and an Exarch of Wrath.
+
+=== Miscellaneous ===
+* In the tie-in comic to ''[[Arrow (TV series)|Arrow]]'', ''Season 2.5'', issue #2, Brother Blood is shown to be alive and leading his newly founded Church of Blood. In the next issue, '''Clinton Hogue''' (portrayed by [[Roark Critchlow]] in ''Arrow'' live-action), Sebastian's aid, has taken up his moniker and is the man under the skull mask. Hogue is a devout theologian and humbly serves an unnamed deity. When Sebastian was murdered, he took his mantle. Hogue is connected with a mercenary group in Bludhaven called the Renegades and has a profiler draw up sketches of the two people responsible for his capture and interrogation, John Diggle and Felicity Smoak. He holds Felicity captive, but Oliver rescues her and Roy Harper kicks Hogue off of the building they are on, causing him to fall to his death.<ref name="MTV1">{{cite web|url=http://www.mtv.com/news/1917121/arrow-season-2-5-marc-guggenheim-keto-shimizu-interview/|title='Arrow' Producers Reveal Huge Secrets In 'Season 2.5'|first=Alex|last=Zalben|work=[[MTV]]|date=September 1, 2014|access-date=September 11, 2014}}</ref>
+* The tie-in novel to ''Arrow'' called ''Arrow: Vengeance'' explores more about his backstory: Sebastian was a young man who was born and raised in the crime-riddled neighborhood known as the Glades. His father, Sebastian Sangre, was abusive to him and his mother that he would frequently have nightmares, envisioning him in the image of a skull. Sebastian befriended to a teenager named Cyrus Gold and his mentor Father Trigon. One day, his father came home estranged and threatened to kill him, but Gold and Trigon (disguised as the Acolyte and the Devil) broke in and beat him. Trigon suggested to Sebastian to take father's gun and kill him which he did. His mother Maya Resik received the blame for her husband's death, arrested and put in psychiatric institution. When Sebastian was received in Zandia Orphanage, he met with Gold, now a preacher, and saw him as an older brother-like figure. He created a skull mask to conquer own fears about nightmares of his father. The mask was placed upon him by Trigon in a ceremony, where Sebastian officially became a member of the Church of Blood as Brother Blood, swearing to protect the poorest of the city and the orphans of Zandia, regardless of the cost. He later met with mercenary Slade Wilson/Deathstroke who offered him to become a mayor of Starling City.
+
+== References ==
+{{Reflist}}
+
+== External links ==
+*[http://www.dcuguide.com/who.php?name=brotherbloods DCU Guide: Brother Blood II-VII]
+*[http://www.dcuguide.com/who.php?name=brotherblood9 DCU Guide: Brother Blood IX]
+
+{{Teen Titans}}
+{{The Outsiders}}
+
+[[Category:Green Arrow characters]]
+[[Category:Comics characters introduced in 1982]]
+[[Category:DC Comics martial artists]]
+[[Category:DC Comics metahumans]]
+[[Category:DC Comics male supervillains]]
+[[Category:DC Comics characters who can move at superhuman speeds]]
+[[Category:DC Comics characters who can teleport]]
+[[Category:DC Comics characters who have mental powers]]
+[[Category:DC Comics characters who use magic]]
+[[Category:DC Comics characters with superhuman strength]]
+[[Category:DC Comics telekinetics]] 
+[[Category:DC Comics telepaths]]
+[[Category:DC Comics vampires]]
+[[Category:DC Comics cyborgs]]
+[[Category:DC Comics titles]]
+[[Category:Fictional hypnotists and indoctrinators]]
+[[Category:Fictional Satanists]]
+[[Category:Fictional characters with energy-manipulation abilities]]
+[[Category:Fictional characters with eidetic memory]]
+[[Category:Fictional cult leaders]]
+[[Category:Characters created by Marv Wolfman]]
+[[Category:Characters created by George Pérez]]

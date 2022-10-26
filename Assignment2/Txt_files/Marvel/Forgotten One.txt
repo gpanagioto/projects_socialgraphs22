@@ -1,0 +1,5 @@
+#REDIRECT [[Forgotten One (character)]]
+
+{{Redirect category shell|
+{{R from move}}
+}}

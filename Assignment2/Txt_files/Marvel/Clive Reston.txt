@@ -1,0 +1,69 @@
+
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|character_name=Clive Reston
+|real_name=Clive Reston
+|publisher=[[Marvel Comics]]
+|debut=''[[Master of Kung Fu (comics)|Giant-Size Master of Kung Fu]]'' #3, 1974
+| creators                = {{Plainlist|
+* [[Doug Moench]]
+* [[Paul Gulacy]]
+}}
+|alliances=
+| partners       = 
+* [[Shang-Chi]]
+* [[Leiko Wu]]
+* [[Black Jack Tarr]]
+|aliases=
+|powers=None
+}}
+'''Clive Reston''' is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]]. The character was patterned on [[James Bond (literary character)|James Bond]] and Roper from the [[Bruce Lee]] Movie ''[[Enter the Dragon]]''. Clive Reston was an agent of MI-6 and an ally to [[Denis Nayland Smith]] and [[Shang-Chi]]. During his time with MI-6, he started a relationship with [[Leiko Wu]], but she left him for Simon Bretnor who turned out to be the mad assassin Mordillo.<ref name=MoKF34>{{Cite comic
+| cartoonist = 
+| story = 
+| title = Master of Kung Fu
+| volume = 
+| issue = #34
+| date = November 1979
+| publisher = [[Marvel Comics]]
+| location = 
+| page = 
+| panel = 
+| id =
+}}</ref>
+
+==Publication history==
+Clive Reston first appeared in Giant-Size Master of Kung Fu issue three, in 1974, created by [[Doug Moench]]. He went on to be a recurring character in the ''[[Master of Kung Fu (comics)|Master of Kung Fu]]'' series, as well as occasionally appearing in other series such as ''[[Rom (comics)|Rom]]'' and ''[[List of X-Men comics|X-Men]]''. He also recently appeared in the [[MAX (comics)|MAX]] series ''[[Wisdom (comics)|Wisdom]]'', centered on the character [[Pete Wisdom]].<ref>{{cite web|url=http://www.comicbookdb.com/character_chron.php?ID=12032 |title=Clive Reston |publisher=Comic Book DB |date= |accessdate=2012-07-14}}</ref> Originally, Reston's father was intended to be [[James Bond (literary character)|James Bond]], and his maternal granduncle was intended to be [[Sherlock Holmes]], however due to copyright laws [[Marvel Comics|Marvel]] was forced to abandon this.<ref>{{cite web|url=http://www.comicbookdb.com/character.php?ID=12032 |title=Clive Reston |publisher=Comic Book DB |date= |accessdate=2012-07-14}}</ref> Now, of course, it is widely known that Shang-Chi was basically [[Sax Rohmer]]’s [[Fu Manchu]] novels fused together with [[Bruce Lee]] movies, but there is much of the concept that had been inspired by from ''Enter the Dragon''. Bruce Lee’s character in the movie practically is Shang-Chi, and his uneasy alliance with wisecracking pal Roper [[John Saxon]] echoes, in many ways, Shang-Chi’s give-and-take with agent Clive Reston. Saxon's image was replaced with that of [[Sean Connery]].<ref>{{Cite web | url=http://goodcomics.comicbookresources.com/2008/02/08/exploitation-friday/ | title=Exploitation Friday! &#124; CBR}}</ref>
+
+==Fictional character biography==
+Reston first appeared as an ally to [[Shang-Chi]], the master of kung fu. He also had a romantic relationship with Melissa Greville, and the two were both present at the funeral of James Larner. He allows her to stay with him after she is released from hospital after having been injured by a gunshot wound, and she reveals to him that her mother knows his father. The pair were subsequently arrested in [[Hong Kong]], after they were framed for committing an explosion at a place called the Jade Peacock. They discovered that they had been set up and that the policemen were criminals in disguise. After escaping from custody, they contacted MI-6, who helped them locate the secret base of the villain, Kogar, where they engaged in a fight with Kogar's men, before they engaged in a fight with and defeated Kogar. Reston then returned to England.{{issue|date=January 2013}}
+
+Reston then encountered the villain [[Shockwave (comics)|Shockwave]], who attacked him. He then discovered that former MI-6 agents were trying to kill him, Melissa and his companion Sir Denis. In order to escape, they traveled to a remote estate in Scotland, where they were all captured by a group led by MI-6's chief Ward Sarsfield, before they were rescued by [[Black Jack Tarr]].{{issue|date=January 2013}}
+
+Melissa then agreed to act as bait in order to capture a serial killer, dubbed, [[Jack the Ripper]]. The trap worked, and Jack the Ripper was attacked and killed by Reston and Shang Chi.{{issue|date=January 2013}} Later, he told her that their relationship was off, although she continues to love him.{{issue|date=January 2013}}<ref>{{cite web|author=Kim Henckel |url=http://www.marvunapp.com/Appendix/grevmeli.htm |title=Melissa Greville (Shang-Chi character) |publisher=The Appendix to the Handbook of the Marvel Universe|date= |accessdate=2012-07-14}}</ref>
+
+Reston was seen in London helping Pete Wisdom fight off an invading army of Martians and Jack the Rippers.{{issue|date=January 2013}}
+
+==Powers and abilities==
+Reston possesses no superhuman powers or abilities, although he is a very talented agent. Clive's weapon of choice is an [[ASP pistol|ASP]] 9mm handgun.
+
+==References==
+{{reflist}}
+
+==External links==
+*http://www.comicbookdb.com/character_chron.php?ID=12032
+*http://www.comicbookdb.com/character.php?ID=12032
+*http://marvel.fandom.com/Clive_Reston
+*http://www.comicvine.com/clive-reston/29-15094/
+*http://www.marvunapp.com/Appendix/grevmeli.htm
+
+{{Shang-Chi}}
+
+{{DEFAULTSORT:Reston, Clive}}
+[[Category:Marvel Comics characters]]
+[[Category:1974 comics debuts]]
+[[Category:Comics characters introduced in 1974]]
+[[Category:Characters created by Doug Moench]]
+[[Category:Fictional secret agents and spies]]
+[[Category:Fictional British people]]
+[[Category:Shang-Chi characters]]

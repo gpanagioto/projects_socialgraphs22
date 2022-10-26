@@ -1,0 +1,148 @@
+{{Short description|Marvel Comics fictional character}}
+{{for|the unrelated 1928 film|The Rawhide Kid (film)}}
+{{Infobox comics character and title
+| image = RawhideKid.jpg
+| caption = ''The Rawhide Kid'' (Vol. 4) #1 (June 2010)
+| publisher = [[Marvel Comics]]
+| debut = '''(first version)'''<br> ''Rawhide Kid'' #1 (March 1955)'''(second version)'''<br> ''Rawhide Kid'' #17 (August, 1960)<ref>{{cite book|title= Official Handbook of the Marvel Universe A to Z #9|isbn=9780785131069|year=2009|pages=12|publisher=Marvel Comics}}</ref>
+| creators = '''(first version)'''<br> [[Stan Lee]] (writer)<br>[[Bob Brown (comics)|Bob Brown]] (artist)<br>'''(second version)'''<br>Stan Lee<br>[[Jack Kirby]]
+| alter_ego = Johnny Bart
+| full_name = John Barton Clay
+| species = <!-- optional -->
+| homeworld = <!-- optional -->
+| alliances = [[Avengers (comics)|Avengers]]<br>[[West Coast Avengers]]<br>The Sensational Seven
+| aliases = Johnny Clay
+| supports=<!--optional-->
+| powers =
+<!--Series section-->
+|title               = Rawhide Kid
+|cvr_image           = 
+|cvr_caption         = 
+|cvr_alt             =
+|schedule            = Bimonthly
+|format              = [[Ongoing series]]
+|limited             =
+|ongoing             = y
+|1shot               =
+|genre               = [[Western comics|Western]]
+|pub_series          = [[Atlas Comics (1950s)|Atlas Comics]]<br />[[Marvel Comics]]
+|date                =
+|1stishhead          = Atlas
+|1stishyr            = 1955
+|1stishmo            = Mar.
+|endishyr            = 1957
+|endishmo            = Sept.
+|1stishhead1          = Marvel
+|1stishyr1            = 1960
+|1stishmo1            = Aug.
+|endishyr1            = 1979
+|endishmo1            = May
+|issues              = 151
+|main_char_team      = Rawhide Kid 
+|writers             = [[Stan Lee]], [[Larry Lieber]], [[Ron Zimmerman (comics)|Ron Zimmerman]]
+|artists             = [[Bob Brown (comics)|Bob Brown]], [[Jack Davis (cartoonist)|Jack Davis]]
+|pencillers          = Jack Kirby, [[Larry Lieber]]
+|inkers              = [[Dick Ayers]], [[John Tartaglione]]
+|letterers           =
+|colorists           =
+|editors             = 
+|creative_team_month = 
+|creative_team_year  = 
+|creators_series     = 
+|TPB                 = [[Marvel Masterworks]]: Rawhide Kid vol. 1
+|ISBN                = 0-7851-2117-X
+|TPB1                = [[Marvel Masterworks]]: Rawhide Kid vol. 2
+|ISBN1               = 0-7851-2684-8
+|nonUS               =
+}}
+'''The Rawhide Kid''' (real name: '''Johnny Bart''', originally given as '''Johnny Clay''') is a [[fiction]]al [[American frontier|Old West]] [[cowboy]] appearing in [[American comic book]]s published by [[Marvel Comics]]. A heroic gunfighter of the 19th-century American West who was unjustly wanted as an outlaw, he is one of Marvel's most prolific [[Western (genre)|Western]] characters.  He and other Marvel western heroes have on rare occasions guest-starred through [[time travel]] in such contemporary titles as ''[[The Avengers (comic book)|The Avengers]]'' and ''[[West Coast Avengers]]''. In two  mature-audience [[miniseries]], in 2003 and 2010, he is depicted as [[homosexual|gay]].
+
+==Publication history==
+===Atlas Comics===
+The Rawhide Kid debuted in a 16-issue series (March 1955-Sept. 1957) from Marvel's 1950s predecessor, [[Atlas Comics (1950s)|Atlas Comics]].<ref>{{cite web |last1=Markstein |first1=Don |website=Don Markstein's Toonopedia |access-date=2 April 2020  |url=http://www.toonopedia.com/rawhide.htm |title=The Rawhide Kid}}</ref> Most of the covers from the series were produced by highly acclaimed artists, generally either [[Joe Maneely]] or [[John Severin]], but also [[Russ Heath]] and [[Fred Kida]]. Interior art for the first five issues was by [[Bob Brown (comics)|Bob Brown]], with [[Dick Ayers]] at the reins thereafter.<ref>[http://www.comics.org/series/1132/ ''Rawhide Kid'' (Marvel, Atlas <nowiki>[</nowiki>Cornell Publishing Corp.<nowiki>]</nowiki> imprint, 1955 Series)] at the [[Grand Comics Database]]</ref><ref name=uhmcc1955>[http://www.maelmill-insi.de/UHBMCC/datafr.htm ''Rawhide Kid'' (I) (1955-1979)] at The Unofficial Handbook of Marvel Comics Creators</ref>
+
+===Marvel Comics===
+After a hiatus, the Rawhide Kid was revamped for what was now [[Marvel Comics]] by writer [[Stan Lee]], [[penciler]] [[Jack Kirby]] and [[inker]] Ayers. Continuing the Atlas numbering with issue #17 (Aug. 1960),<ref name=uhmcc1955 /><ref>[http://www.comics.org/series/1458/ ''Rawhide Kid, The'' (Marvel, 1960 Series)] at the [[Grand Comics Database]]. "The" as per [[copyright]]ed title in postal [[Indicia (philately)|indicia]], no "The" on cover-logo [[trademark]].</ref> the title now featured a diminutive yet confident, soft-spoken fast gun constantly underestimated by bullying toughs, varmints, owlhoots, polecats, crooked saloon owners and other archetypes squeezed through the prism of Lee and Kirby's anarchic imagination.<ref>{{cite book |last1=Brevoort |first1=Tom |last2=DeFalco |first2=Tom |last3=Manning |first3=Matthew K. |last4=Sanderson |first4=Peter |last5=Wiacek |first5=Win |title=Marvel Year By Year: A Visual History |date=2017 |publisher=DK Publishing |isbn=978-1465455505 |page=78}}</ref> As in the outsized, exuberantly exaggerated action of the later-to-come [[World War II]] series ''[[Nick Fury|Sgt. Fury and His Howling Commandos]]'', ''The Rawhide Kid'' was now a freewheeling romp of energetic, almost slapstick action across cattle ranches, horse troughs, corrals, canyons and swinging chandeliers. Stringently moral, the Kid nevertheless showed a gleeful pride in his shooting and his acrobatic fight skills — never picking arguments, but constantly forced to surprise lummoxes far bigger than he was.
+
+Through [[retcon]], bits of and pieces of the Atlas and Silver Age characters' history meshed, so that the unnamed infant son of settlers the Clay family, orphaned by a [[Cheyenne]] raid, was raised by [[Texas Ranger Division|Texas Ranger]] Ben Bart on a ranch near Rawhide, Texas. Older brother Frank Clay, captured by Native Americans, eventually escaped and became a [[Gambling|gambler]], while eldest brother Joe Clay became sheriff of the town of Willow Flats; neither were in the regular cast, and each died in a guest appearance.{{Citation needed|date=December 2010}} Shortly after Johnny's 18th birthday, Ben Bart was murdered; Johnny, an almost preternaturally fast and accurate gunman, wounded the killers and left them to be taken into custody. A later misunderstanding between the Kid and a sheriff over a cattle rustler that the Kid wounded in self-defense led to the hero's life as a fugitive.
+
+Kirby continued as [[penciler]] through #32 (Feb. 1963), while helping to launch the [[Fantastic Four]], the [[Hulk]] and other iconic characters of the "Marvel revolution". He drew covers through issue #47. Issues #33-35 were drawn by [[EC Comics]] veteran [[Jack Davis (cartoonist)|Jack Davis]] — some of the last color comics he would draw before gaining fame at the black-and-white [[Satire|satirical]] comics magazine ''[[Mad (magazine)|Mad]]''. After several issues by Ayers, followed by a single issue by long-time ''[[Kid Colt]]'' artist [[Jack Keller (comics)|Jack Keller]], [[Larry Lieber]], Lee's writer brother, began his nine-year run as the series' writer-artist, which lasted over 75 issues from 1964–1973. Lieber said in 1999,
+{{quote|I don't remember why I wanted to do it, particularly. I think I wanted a little more freedom. I didn't do enough of the superheroes to know whether I'd like them. What I didn't prefer was the style that was developing. It didn't appeal to me. ... Maybe there was just too much humor in it, or too much something. ... I remember, at the time, I wanted to make everything serious. I didn't want to give a light tone to it. When I did ''Rawhide Kid'', I wanted people to cry as if they were watching ''[[High Noon]]'' or something. ... I'm a little unclear about leaving the superheroes and going to ''Rawhide Kid''. I know that at the time I wanted — what's the expression? — a little space for myself or something, and I wanted to do a little drawing again.<ref>[http://www.twomorrows.com/alterego/articles/02lieber.html "A Conversation with Artist-Writer Larry Lieber"], conducted by former Marvel editor-in-chief [[Roy Thomas]], ''[[Alter Ego (magazine)|Alter Ego]]'' vol. 3, #2 (Fall 1999)</ref>}}
+
+Rawhide Kid's full name was revealed in issue # 60 in the Letter's Column as John Barton Clay. By 1973, as superheroes became increasingly ascendant, ''The Rawhide Kid'' became primarily a reprint title, though often bearing new covers by such prominent artists as [[Gene Colan]], [[Gil Kane]] and [[Paul Gulacy]]. It ended publication with issue #151 (May 1979). This initial volume of the series included a single [[annual publication]], cover-titled ''Rawhide Kid King-Size Special'' (Sept. 1971).<ref>[http://www.comics.org/series/1994/ ''Rawhide Kid Special'' (Marvel, 1971 Series)] at the Grand Comics Database</ref> As well, reprints, including many Jack Kirby-drawn stories, appeared in the 1968-1976 title ''[[The Mighty Marvel Western]]''.
+
+The Rawhide Kid later appeared as a middle-aged character in a four-issue [[miniseries]], ''The Rawhide Kid'' (vol. 2)(Aug.-Nov. 1985), by writer [[Bill Mantlo]] and [[penciler]] [[Herb Trimpe]].<ref>[http://www.maelmill-insi.de/UHBMCC/rawhide2.htm#S1084 ''Rawhide Kid'' (II) (1985)] at The Unofficial Handbook of Marvel Comics Creators</ref><ref>[http://www.comics.org/series/3040/ ''Rawhide Kid'' (Marvel, 1985 Series)] at the Grand Comics Database. "The" as per cover-logo [[trademark]]; no "The" in [[copyright]]ed title in postal indicia.</ref>
+
+====2000s treatments====
+The Rawhide Kid reappeared in the four-issue [[miniseries]] ''[[Blaze of Glory (comics)|Blaze of Glory]]'' (Feb.-March 2000; published biweekly), by writer [[John Ostrander]] and [[artist]] [[Leonardo Manco]],<ref>[http://www.comics.org/series/6294/ ''Blaze of Glory''] at the Grand Comics Database</ref> and a 2002 four-issue sequel, ''[[Apache Skies]]'', by the same creative team.<ref>[http://www.comics.org/series/10154/ ''Apache Skies'' ] at the Grand Comics Database</ref>
+
+In contrast to the character's previously depicted appearance — a small-statured, clean-cut redhead — these latter two series depicted him with shoulder-length dark hair, and wearing a slightly less stylized, more historically appropriate outfit than his classic one.
+
+A [[Controversy|controversial]]<ref name=ryan>{{cite magazine| last = Paul| first = Ryan|title = ''Rawhide Kid'' #1-2|magazine = PopMatters| date = 2003-03-19| url = http://www.popmatters.com/comics/rawhide-kid-1.shtml|access-date = 2010-06-23}}</ref> five-issue miniseries, ''Rawhide Kid''<!--No "The" per following two sources--> (vol. 3) (April–June 2003), titled "Slap Leather"<ref>[http://www.maelmill-insi.de/UHBMCC/rawhide2.htm#S3632 ''Rawhide Kid'' (III) (2003)] at The Unofficial Handbook of Marvel Comics Creators</ref><ref name=gcd2003>[http://www.comics.org/series/13908/ ''Rawhide Kid'' (Marvel, MAX imprint, 2003 Series)] at the Grand Comics Database</ref> was published biweekly by Marvel's mature-audience [[MAX (comics)|MAX]] [[Imprint (trade name)|imprint]]. Here, the character was depicted as [[homosexual]], with a good portion of the dialogue dedicated to innuendo to this effect.<ref>{{cite book |last1=Brevoort |first1=Tom |last2=DeFalco |first2=Tom |last3=Manning |first3=Matthew K. |last4=Sanderson |first4=Peter |last5=Wiacek |first5=Win |title=Marvel Year By Year: A Visual History |date=2017 |publisher=DK Publishing |isbn=978-1465455505 |page=60}}</ref> The series, which was written by [[Ron Zimmerman (comics)|Ron Zimmerman]], and drawn by artist [[John Severin]], was labeled with a "Parental Advisory Explicit Content" warning on the cover.<ref name=gcd2003 /> Series editor [[Axel Alonso]] said, "We thought it would be interesting to play with the genre. Enigmatic cowboy rides into dusty little desert town victimized by desperadoes, saves the day, wins everyone's heart, then rides off into the sunset, looking better than any cowboy has a right to."<ref>{{cite magazine| title = The Wilde West| magazine = [[The Advocate (LGBT magazine)|The Advocate]]| page = 23| date = February 4, 2003| publisher = Here|url = https://books.google.com/books?id=RWUEAAAAMBAJ&q=%22rawhid+kid+slap+leather%22&pg=PA23|access-date=2010-07-09}}</ref>
+
+A sequel miniseries, ''The Rawhide Kid'' (vol. 4) (Aug.-Nov. 2010),<ref>[http://www.maelmill-insi.de/UHBMCC/rawhide2.htm#S3628 ''The Rawhide Kid'' (IV)] at the Unofficial Handbook of Marvel Comics Creators. "The" as per [[copyright]]ed title in postal indicia, no "The" on cover-logo [[trademark]].</ref> rendered with a subtitle on covers as ''Rawhide Kid: The Sensational Seven'',<ref>[http://www.comics.org/series/49642/covers/?style=default ''Rawhide Kid, The'' (Marvel, 2010)] covers at the Grand Comics Database</ref> found the Kid and his posse (consisting of [[Kid Colt]], [[Doc Holliday]], [[Annie Oakley]], [[Billy the Kid]], [[Red Wolf (comics)|Red Wolf]] and the [[Two-Gun Kid]]) track the villainous Cristo Pike after Pike and his gang kidnap [[Wyatt Earp|Wyatt]] and [[Morgan Earp]].<ref>McElhatton, Greg. [http://www.comicbookresources.com/?page=user_review&id=2327 ''Rawhide Kid: The Sensational Seven''] [[Comic Book Resources]]; June 11, 2010</ref> The sequel was again written by Zimmerman, with [[Howard Chaykin]] taking over as artist.<ref>{{Cite press release| title = Preview: The Rawhide Kid #1| publisher = Marvel Comics Group| date = June 3, 2010| url = http://marvel.com/news/comicstories.12731.preview~colon~_the_rawhide_kid_%231|access-date = 2010-06-23}}</ref>
+
+==Fictional character biography==
+{{expand section|date=January 2018}}
+Johnny Clay was born in 1850 and orphaned as an infant, adopted by Ben Bart. In 1868 his "uncle" was murdered and he left the family ranch.<ref name="Rawhide Kid #17, 1960">Rawhide Kid #17, 1960</ref> In 1869 he became a wanted man.<ref name="Rawhide Kid #17, 1960"/> In 1870 he fought the Living Totem.<ref>Rawhide Kid #22, 1961</ref> In 1872 he captured the costumed Grizzly with the help of the [[Two-Gun Kid]].<ref>Rawhide Kid #40, 1964</ref> He joined [[Kid Colt]] to defeat Iron Mask.<ref>Kid Colt #121, 1965</ref> In 1873 he met the Avengers <ref>Avengers #142-143, 1975</ref> In 1874 he met Doc Holliday. In 1875, he helped the [[Black Panther (comics)|Black Panther]] with Kid Colt and the Two-Gun Kid.<ref>Black Panther #45-46</ref> In 1876 the Rawhide Kid, Kid Colt and the Two-Gun Kid faced Red Raven, Iron Mask and the Living Totem with the help of the Avengers. In 1879 he met the Apache Kid. Subsequently, he became a performer for Buffalo Bill's Wild West Show where he remained until 1885. In 1897 he took an understudy under his tutelage.<ref>''Rawhide Kid'' #1-4, 1985</ref>
+
+==Other versions==
+===''Marvel Zombies''===
+When a meteorite landed on [[Marvel Zombies|Earth-483]], it emitted radiation that resurrected the Rawhide Kid's corpse and all of the corpses buried in the adjacent [[Boot Hill]] as "[[George A. Romero|Romero]]-type" [[zombie]]s. The Rawhide Kid and the other reanimated gunslingers invade a nearby town, and are destroyed by [[Hurricane (comics)#Marvel Zombies 5|Hurricane]].<ref>{{Cite comic|writer = Fred van Lente|penciller = Kano|inker = Tom Palmer|colorist = Val Staples|letterer = Simon Bowland|editor = Mark Paniccia and Michael Horwitz|story = The Dead and the Quick|title = Marvel Zombies 5|volume = 1|issue = #1|date = 7 April 2010|publisher = Marvel Comics|location = United States}}</ref>
+
+===''Secret Wars''===
+During the ''[[Secret Wars (2015 comic book)|Secret Wars]]'' storyline, the Rawhide Kid appears as a member of the [[Thor (Marvel Comics)|Thor]] Corps whose jurisdiction is a Wild West-themed domain of [[Battleworld]] called the Valley of Doom. He arrested that region's version of [[Hank Pym]] for illegal possession of [[adamantium]], which led to Pym being banished to the [[Ultron]]-infested domain called Perfection.<ref>{{Cite comic|writer = James Robinson|penciller = Steve Pugh and Paul Rivoche|inker = Steve Pugh and Paul Rivoche|colorist = John Rauch and Jim Charalampidis|letterer = Clayton Cowles|editor = Emily Shaw, Mark Paniccia and Chris Robinson|title = Age of Ultron vs. Marvel Zombies|volume = 1|issue = #4|date = 2 September 2015|publisher = Marvel Comics|location = United States}}</ref>
+
+==In other media==
+*The Rawhide Kid appears in ''[[Lego Marvel Super Heroes 2]]''.<ref>[http://www.ign.com/wikis/lego-marvel-super-heroes-2/Characters Lego Marvel Super Heroes characters] at IGN</ref> In a bonus mission narrated by [[Gwenpool]] that takes place in the Old West section of Chronopolis, the Rawhide Kid and [[Red Wolf (comics)|Red Wolf]] hear that their old enemy the Living Totem is back in town putting on a one-alien show in the local saloon. After disrupting the Living Totem's show, the Rawhide Kid and Red Wolf learn that the Living Totem was raising money to build a spaceship to get back to his planet. With everything that was going on in Chronopolis, the Rawhide Kid and Red Wolf suggest to the Living Totem to seek out the [[Guardians of the Galaxy (2008 team)|Guardians of the Galaxy]] and ask them for a ride.
+
+==Reception==
+{{expand section|date=September 2017}}
+[[Comic Book Resources]] placed the 2000 series depiction of the Rawhide Kid as one of the superheroes Marvel wants you to forget.<ref>{{cite web|last1=Smith|first1=Gary|title=15 Superheroes Marvel Wants You To Forget|url=http://www.cbr.com/superheroes-marvel-wants-you-to-forget/|website=CBR|access-date=2 September 2017|date=20 August 2017}}</ref>
+
+==Collected editions==
+* ''[[Marvel Masterworks]]: Rawhide Kid'' (hardcover, Marvel Comics):
+** ''Volume 1'' (collects ''Rawhide Kid'' #17-25, (Marvel Comics 2006) {{ISBN|0-7851-2117-X}})
+** ''Volume 2'' (collects ''Rawhide Kid'' #26-35, (Marvel Comics 2007), {{ISBN|0-7851-2684-8}})
+* ''[[Essential Marvel|Essential]] Rawhide Kid Volume 1'' (collects ''Rawhide Kid'' #17-35, [[Trade paperback (comics)|trade paperback]] (Marvel Comics 2011), {{ISBN|0-7851-6394-8}})
+*''Rawhide Kid: Slap Leather'' (collects ''Rawhide Kid: Slap Leather'' #1-5, trade paperback (Marvel Comics 2003), {{ISBN|0-7851-1069-0}}; hardcover (Marvel Comics 2010), {{ISBN|0-7851-4362-9}})
+
+==See also==
+* [[LGBT themes in American mainstream comics]]
+* [[LGBT themes in comics]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.toonopedia.com/rawhide.htm The Rawhide Kid] at [[Don Markstein's Toonopedia]]
+* [http://www.marveldirectory.com/individuals/r/rawhidekid.htm Marvel Directory: Rawhide Kid]
+* [http://www.internationalhero.co.uk/r/rawhidekid.htm International Catalogue of Superheroes: Rawhide Kid]
+* [https://web.archive.org/web/20091026205954/http://www.geocities.com/ratmmjess/rawhide.html A Guide to Marvel's Pre-FF #1 Heroes: Rawhide Kid] {{Dead link|date=July 2022}}
+* [http://www.maelmill-insi.de/UHBMCC/ The Unofficial Handbook of Marvel Comics Creators]
+* [http://archives.cnn.com/2002/SHOWBIZ/12/09/rawhide.kid.gay/ CNN.com: "Marvel Comics to unveil gay gunslinger"]
+* [https://web.archive.org/web/20060905050643/http://www.gayleague.com/gay/characters/display.php?id=164 Gay League Profile]
+
+{{Marvel Western Characters}}
+{{Stan Lee}}
+{{Jack Kirby}}
+
+[[Category:1955 comics debuts]]
+[[Category:1957 comics endings]]
+[[Category:1960 comics debuts]]
+[[Category:1979 comics endings]]
+[[Category:Atlas Comics characters]]
+[[Category:Atlas Comics titles]]
+[[Category:Characters created by Bob Brown]]
+[[Category:Characters created by Jack Kirby]]
+[[Category:Characters created by Stan Lee]]
+[[Category:Comics characters introduced in 1955]]
+[[Category:Fictional gay males]]
+[[Category:Fictional gunfighters]]
+[[Category:Marvel Comics LGBT superheroes]]
+[[Category:Marvel Comics male superheroes]]
+[[Category:Marvel Comics titles]]
+[[Category:Marvel Comics Western (genre) characters]]
+[[Category:Vigilante characters in comics]]
+[[Category:Western (genre) comics]]
+[[Category:Western (genre) outlaws]]

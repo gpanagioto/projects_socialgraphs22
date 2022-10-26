@@ -1,0 +1,63 @@
+{{Infobox comics character
+| character_name = Red Barbarian
+| image          = 2010scolonelandrerostovmarvel.jpg
+| caption        = Modern-era Red Barbarian
+| publisher      = [[Marvel Comics]]
+| debut          = ''[[Tales of Suspense]]'' #42 (June, 1963)
+| creators       = [[Stan Lee]]<br>[[Robert Bernstein (comics)|Robert Bernstein]]<br>[[Don Heck]]
+| alter_ego      = Colonel Andre Rostov
+| full_name      =
+| species        = <!-- optional -->
+| homeworld      = <!-- optional -->
+| alliances      = 
+| partners       = The Actor
+| supports       = <!-- optional -->
+| aliases        = Excellency<br>Warden
+| powers         = None
+| cat            = 
+| subcat         = 
+| hero           = 
+| villain        = "cat= super"
+| sortkey        = 
+| addcharcat#    = 
+}}
+{{hatnote|This article is about the comic-book character. For the Chinese racial slur, see ''[[ang mo]]''.}}
+The '''Red Barbarian''' is a fictional [[Marvel Comics]] [[villain]] and the [[alter ego]] of [[Colonel]] '''Andre Rostov'''. First appearing in ''[[Tales of Suspense]]'' #42 (June, 1963), the Red Barbarian was created by [[Stan Lee]], [[Robert Bernstein (comics)|Robert Bernstein]] and [[Don Heck]].<ref>''[[Tales of Suspense]]'' #42 (June, 1963)</ref>
+
+==Fictional character biography==
+
+===1960s===
+{{multiple image
+| align     = left
+| direction = vertical
+| width     = 200
+| image1    = Talesofsuspense48cover.jpg
+| alt1      = 
+| caption1  = ''[[Tales of Suspense]]'' #48 (June 1963): Red Barbarian debuts. Cover art by [[Don Heck]].
+}}
+The Red Barbarian was a [[Communist]] [[General officer|general]] in an unnamed country, known for his brutality.<ref>{{cite book|url=http://journals.chapman.edu/ojs/index.php/VocesNovae/article/viewFile/37/148 |title=Iron Man: America's Cold War Champion and Charm against the Communist Menace |author=Paul Fellman |publisher=Chapman University Historical Review |year=2010 |volume=1 |number=2 |pages=14–15 }}</ref> After an attempt to steal an [[atomic bomb]] prototype from [[Stark Industries]] is foiled by [[Iron Man]], the Red Barbarian is approached by another Soviet agent known as The Actor who is superior in [[Disguise|disguising]] himself. The duo scheme to steal the secret [[disintegrator ray]] [[blueprint]]s of Tony Stark. The Actor is sent to impersonate Stark and get the plans. The Actor succeeds in doing so, through the means of changing from disguise to disguise, and even learns the [[secret identity]] of Iron Man. However, Iron Man manages to get back the classified papers from The Actor and he in return impersonates The Actor impersonating Iron Man and rushes to meet the Red Barbarian. The general is tricked and believes that Iron Man is The Actor in disguise. When he demands for the blueprints, Iron Man replies that the suitcase (in which the blueprints are supposedly in) is [[booby-trapped]] and it can only be opened four hours later, and then leaves. Just then, The Actor returns. The Red Barbarian thinks he is the imposter and shoots him, before he can tell the general Iron Man's secret identity.
+
+===2010s===
+The Red Barbarian is missing in action for many years, until he is "revived" (without a prior [[back story]]), [[Unageing|unaged]] and acting as a [[Prison warden|warden]] (under the name of Colonel Andre Rostov) in the [[gulag]] where [[Bucky Barnes]] is serving time in for killing two [[Russia]]n citizens many years back, and tortured Barnes for the information involving "Zephyr codes" for his own profit.<ref>''Captain America'' #616-619 (March-June 2011)</ref> He is seen living a life of luxury in the [[Bahamas]] until he is assassinated by the Winter Soldier.<ref>''Winter Soldier Volume 1: The Longest Winter'' (Part 5 of 5; May 2012)</ref>
+
+==Other versions==
+* The Red Barbarian plays an essential role in the ''Iron Man and the Armor Wars'', a version of the classic [[Armor Wars]] storyline.<ref>''Iron Man and the Armor Wars'' #2</ref><ref>''Iron Man and the Armor Wars'' #3</ref>
+
+==References==
+{{Reflist}}6
+
+==External links==
+* [http://comicbookdb.com/character.php?ID=54813 Red Barbarian] at the Comic Book Database
+*[http://www.marvunapp.com/Appendix/redbarba.htm Red Barbarian] at the Appendix to the Marvel Handbook
+
+{{Stan Lee}}
+
+[[Category:Comics characters introduced in 1963]]
+[[Category:Characters created by Robert Bernstein]]
+[[Category:Characters created by Don Heck]]
+[[Category:Characters created by Stan Lee]]
+[[Category:Fictional generals]]
+[[Category:Fictional Soviet Army personnel]]
+[[Category:Fictional Russian people]]
+[[Category:Fictional Soviet people]]
+[[Category:Fictional Eastern European people]]

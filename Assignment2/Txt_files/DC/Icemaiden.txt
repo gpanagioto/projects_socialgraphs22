@@ -1,0 +1,5 @@
+#REDIRECT [[Glacier (DC Comics)]]
+
+{{Redirect category shell|
+{{R from move}}
+}}

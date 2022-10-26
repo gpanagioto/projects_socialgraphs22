@@ -1,0 +1,113 @@
+{{short description|Fictional DC Comics superheroine}}
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Andromeda (DC comics).jpg|250px]]
+| caption=Laurel Gand as Andromeda, by Lee Moder.
+| character_name=Laurel Gand
+| real_name=Laurel Gand
+| publisher=[[DC Comics]]
+| debut=Original:<br>''Legion of Super-Heroes'' (vol. 4) #5 (March 1990)<br>Post-''[[Zero Hour (comics)|Zero Hour]]'':<br>''Legion of Super-Heroes'' (vol. 4) #66 (March 1995)
+| creators=[[Tom and Mary Bierbaum]]<br>[[Keith Giffen]]<br>[[Al Gordon]]<br>(based upon [[Supergirl (Kara Zor-El)|Supergirl]] by [[Otto Binder]] and [[Al Plastino]])
+| alliances=[[Legion of Super-Heroes#Rebooted .281994–2004.29|Legion of Super-Heroes]]<br>White Triangle
+|homeworld= [[Daxam]] (31st century)
+|species= [[Daxamite]]
+| aliases= Andromeda, Sister Andromeda
+| powers= {{collapsible list
+<!--Must be a defining trait: only powers Superman regularly uses are listed here-->
+| titlestyle = background:transparent;text-align:left;font-weight:normal;
+| title = ''See list''
+|
+*Superhuman strength, speed, stamina, agility, durability longevity, and reflexes
+*Solar energy radiation absorption
+*Super-Hearing
+*Enhanced visual perception
+**Electromagnetic spectrum vision
+**Telescopic vision
+**Microscopic vision
+**Heat vision
+**X-ray vision
+**Thermal vision
+**Infrared vision
+**Ultraviolet vision
+*Flight
+*Invulnerability
+*Super-breath
+**Freezing breath
+**Wind breath
+*Longevity
+*Indomitable will
+*Self-sustenance
+*Accelerated healing
+*Genius-level intellect
+*Basic hand-to-hand combatant
+}}
+}}
+
+'''Laurel Gand''' is a [[fictional character|fictional]] [[superhero]]ine in the 30th/31st-century [[DC Comics]] [[DC Universe|universe]], and a member of the [[Legion of Super-Heroes]]<ref>{{cite book |last1=Greenberger |first1=Robert |last2=Pasko |first2=Martin |title=The Essential Superman Encyclopedia |date=2010 |publisher=Del Rey |isbn=978-0-345-50108-0 |page=10}}</ref> under the name '''Andromeda'''. She was created as a replacement for [[Supergirl (Kara Zor-El)|Supergirl]] in post-''[[Crisis on Infinite Earths]]'' Legion continuity. She was also inspired by elements of [[Superman]]'s supposed descendant [[Laurel Kent]] (who, in post-''Crisis'', pre-''[[Zero Hour (comics)|Zero Hour]]'' [[Legion of Super-Heroes (1958 team)|continuity]], was revealed to be a [[Manhunters (comics)|Manhunter]] android).<ref name="dc-ency">{{Citation | last=Greenberger | first=Robert | contribution=Andromeda | editor-last=Dougall | editor-first=Alastair | title= The DC Comics Encyclopedia | pages=15 | publisher= [[Dorling Kindersley]] | place=London | year=2008 | isbn = 978-0-7566-4119-1}}</ref>
+
+==Fictional character biography==
+===Pre-Zero Hour===
+{{Main|Legion of Super-Heroes (1958 team)}}
+Following her death in the ''[[Crisis on Infinite Earths]]'' limited series, Supergirl was removed from mainstream DC continuity, endangering the status of every Legion story featuring the Girl of Steel. After the events of ''Legion of Super-Heroes'' (vol. 4) #4-5 (February–March 1990), the sorceress [[Glorith]] supplants the [[Time Trapper]] as reality's master of time manipulation, resulting in several alterations in Legion continuity. In the new timeline, the 30th century native Laurel Gand replaces 20th century native Supergirl in Legion history; all of Kara Zor-El's appearances are said to have been appearances by Laurel.
+
+The pre-''Zero Hour'' Laurel was similar to the pre-''Crisis'' Supergirl in that she was a distant relative of the Glorithverse's [[Superboy (Kal-El)|Superboy]] analogue, [[Lar Gand|Valor]], and was born on an asteroid called Ricklef II (as opposed to the [[Krypton (comics)|Krypton]] remnant [[Argo City]]). Also, upon arriving on Earth she had posed as a shy, bookish young woman with glasses. As a child, Laurel fought off a [[Khund]]ian attack force threatening to invade [[Daxam]] (the planet of her ancestry), but not before the Khunds slaughtered her parents and other inhabitants of the Ricklef II research station. Living in exile on Earth and fearing further vengeance from the Khunds, Laurel jumped at the chance to join the [[Legion of Super-Heroes]].
+
+Where the pre-Crisis Supergirl had been romantically linked to [[Brainiac 5]], so too was Laurel Gand. Laurel and Brainy eventually parted ways, and after the [[Legion of Super-Heroes#"Five Years Later"|"Five Year Gap"]], it was revealed (much to Brainiac's dismay) that Laurel had married Rond Vidar and borne a daughter, Lauren. Laurel spent her years away from the Legion, singlehandedly beating Khundian forces back from the United Planets systems, and rejoined the reunited Legionnaires when her husband Rond disappeared while on a mission to rescue [[White Witch (comics)|Mysa Nal]] (the White Witch) from [[Mordru|Mordru the Merciless]]. Laurel proved a tremendous asset to the new Legion during the war against Earthgov and the Dominators. When the mysterious "Batch SW6" doppelgänger Legion appeared, the younger SW6 Laurel soon distinguished herself from her adult counterpart by taking on the codename "Andromeda" and wearing a colorful gold-and-black costume. It is unknown whether the adult Laurel ever used "Andromeda" (or any other codename) during her own youth in the Legion.
+
+The adult Laurel stayed with her Legion when it was forced to go underground to fight corruption in the Science Police. Tragically, Laurel was killed by a terrorist bomb during one of the renegade Legion's early missions. Shortly thereafter, Laurel, her younger self, and the rest of the Legions were erased from history, following the ''[[Zero Hour (comics)|Zero Hour]]'' [[Reboot (continuity)|reboot]].
+
+===Post-Zero Hour===
+{{Main|Legion of Super-Heroes (1994 team)}}
+Laurel Gand spent most of her early life in a xenophobic Daxamite White Triangle community, being indoctrinated in the "horrors" of interspecies co-operation before the Triangle's political clout led her to become the Daxamite representative in the Legion. Away from [[Daxam]]'s red sun, she gained powers similar to [[Superman]]'s, but the race-wide hypersensitivity of Daxamites to lead meant that even minuscule amounts could prove fatal, even to a powered-up Daxamite, forcing her to wear a transuit at all times. This did not trouble her, since it meant she never had to actually touch any non-Daxamites.
+
+Her Triangle-derived beliefs hampered her effectiveness as a Legionnaire, thanks to her reluctance to physically engage with any enemies, but the real problems started after she let several Triangle members go free after a mugging, shortly after which they beat and almost killed [[Triad (comics)|Triad]]. Angered more for their defiance of her than for the beating, when she was ordered away to prevent the [[Composite Man]] gaining her powers, she flew after them. Immediately, they tore her transuit and directly exposed her to lead, and she barely managed to turn them over to the [[Science Police]] before crashing through the walls of Legion HQ.
+
+While [[Brainiac 5]] worked on devising an anti-lead serum, he confronted her about her beliefs. After discovering the serum which [[Vril Dox II]], his direct ancestor, had created for [[Lar Gand|Valor]] and tailoring it to her genetic structure to allow it to work properly on her (much to her surprise, as she had been taught that all members of the same race were identical), Brainiac 5 forced her to confront the fact that he wasn't her inferior before giving her the serum. While this was happening, however, [[Violet (comics)|Shrinking Violet]] discovered a White Triangle necklace in her room and connected it to the group which had assaulted Triad and destroyed [[Trom]], telling the rest of the team.
+<!-- Commented out: [[Image:Andromeda (DC Comics) 2.jpg|thumb|left|Andromeda finally turns on Roxxas.]] -->
+
+Confined to quarters after an unsuccessful attempt by [[Cosmic Boy]] to have her removed from the team, she used her super-senses to see Ambassador Roxxas gloating, but he managed to bully her into giving him the anti-lead serum. Taking it himself and giving it to four other Daxamites, they proceeded to cause mass destruction on Earth. When Andromeda herself confronted Roxxas over what he was doing and had made her do, she was almost defeated when Violet began thrashing around in his head, before coming out and telling Andromeda to take him down. As she pummelled him repeatedly, he destroyed the covering of an "atomic furnace", and both were thought to have died in the resulting inferno (causing Brainiac 5 severe depression). Only Cosmic Boy was told that she had survived and voluntarily exiled herself to Planet Hell.
+
+Later, she was brought out of this exile by [[Live Wire (DC Comics)|Live Wire]], after Cosmic Boy had told him where she was as part of a way to build up a "Legion Rescue Squad", and she was awed by Valor (who later called himself M'onel), himself being another member. She he declined to rejoin the Legion after the Squad had served its purpose, preferring to head off into deep space. She eventually joined a religious convent.
+
+After the events of ''[[Infinite Crisis]]'', [[List of DC Multiverse worlds#Catalogued|Earth-247]], the home of the Post-''Zero Hour'' Legion, was destroyed. Andromeda appears in ''[[Final Crisis: Legion of 3 Worlds]]'', battling [[Superboy-Prime]] along with M'onel (Valor) and Superman. Later, in the fifth issue, her pre-''Zero Hour'' younger and older counterparts are called to battle the [[Time Trapper]], alongside dozens of other Legionnaires from alternate realities. She survives the battle and leaves with the 247 Legion to try to rescue more survivors from destroyed universes.
+
+==Powers and abilities==
+Generally, the abilities of Laurel Gand (and other Daxamites) are identical to those of Superman and other natives of the planet [[Krypton (comics)|Krypton]] (super-strength; speed; flight; X-ray, heat, microscopic or telescopic vision powers; invulnerability and super hearing), with three major exceptions:
+
+1. She is vulnerable to the inert element lead, instead of the radioactive element [[Kryptonite]].
+
+2. Lead poisoning is fatal to Daxamites, and Laurel is kept alive only through ingestion of anti-lead serum, such as the one modified by Brainiac 5.
+
+3. In her two pre-"Zero Hour" incarnations, the radiation of a red star would not rob Laurel of her powers, as it would with most Daxamites and Kryptonians.
+
+==In other media==
+In ''[[Superman: The Animated Series]]'', Andromeda made a cameo appearance in the episode "New Kids In Town".
+
+Andromeda appears with [[Legion of Super-Heroes]] in ''[[Justice League Adventures]]'' (the comic book adaptation of the modern [[Justice League (TV series)|''Justice League'' animated series]]) <small>#</small>28. She is shown as the girlfriend of Brainiac 5.
+
+==See also==
+*[[Alternative versions of Supergirl]]
+
+==External links==
+*[https://web.archive.org/web/20080418233214/http://www.majorspoilers.com/archives/3733.htm/ A Hero History Of Andromeda/Laurel Kent]
+
+==References==
+{{Reflist}}
+
+{{Legion of Super-Heroes}}
+{{Supergirl}}
+{{Superman characters}}
+[[Category:Comics characters introduced in 1990]]
+[[Category:Characters created by Keith Giffen]]
+[[Category:DC Comics characters who can move at superhuman speeds]]
+[[Category:DC Comics characters with superhuman strength]]
+[[Category:DC Comics extraterrestrial superheroes]]
+[[Category:DC Comics female superheroes]]
+[[Category:Fictional characters with slowed ageing]]
+[[Category:Fictional characters with X-ray vision]]
+[[Category:Fictional characters with superhuman senses]]
+[[Category:Fictional characters with nuclear or radiation abilities]]
+[[Category:Fictional characters with air or wind abilities]]
+[[Category:Fictional characters with ice or cold abilities]]
+[[Category:Fictional characters with absorption or parasitic abilities]]
+[[Category:Fictional characters with energy-manipulation abilities]]
+[[Category:Fictional characters with fire or heat abilities]]

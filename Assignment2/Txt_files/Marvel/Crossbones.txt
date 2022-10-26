@@ -1,0 +1,5 @@
+#REDIRECT [[Crossbones (character)]]
+
+{{Redirect category shell|
+{{R from move}}
+}}

@@ -1,0 +1,5 @@
+#REDIRECT [[Chamber (character)]]
+
+{{Redirect category shell|
+{{R from move}}
+}}

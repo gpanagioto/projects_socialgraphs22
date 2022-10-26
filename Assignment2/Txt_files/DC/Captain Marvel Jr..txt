@@ -1,0 +1,300 @@
+{{short description|Fictional character}}
+{{Distinguish|Freddie Freeman|Noh-Varr|Captain Marvel (Marvel Comics)}}
+{{Use mdy dates|date=February 2022}}
+{{Infobox comics character and title
+<!--Wikipedia:WikiProject Comics-->
+|image          = Captain Marvel Jr. (Frederick 'Freddy' Freeman) - Fawcett Comics - circa 1942.png
+|converted      = y
+|name           = Captain Marvel Jr./Shazam Jr.
+|caption        = Captain Marvel, Jr. on the cover of ''Captain Marvel Jr.'' #1 (November 1942) by [[Mac Raboy]].
+|real_name      = Frederick Christopher "Freddy" Freeman
+|publisher      = [[Fawcett Comics]] (1941–1953) <br />[[DC Comics]] (1972–present)
+|debut          = ''[[Whiz Comics]]'' #25 (December 1941)
+|creators       = [[France Herron]]<br />[[Mac Raboy]]
+|alliances      = [[Marvel Family|Marvel/Shazam Family]]<br />[[Teen Titans]]<br />[[Outsiders (comics)|Outsiders]]<br />[[Young Justice]]<br />[[Justice League]]
+|partners = [[Captain Marvel (DC Comics)|Captain Marvel]]<br>[[Mary Marvel]]
+|aliases   = CM3<br>[[Lieutenant Marvels|Lieutenant Marvel]]<br>Shazam<br>Shazam Jr.<br>King Shazam<br>Shazam Sky<br>Captain Shazam Jr.
+|powers         = Magically bestowed powers include:<!--Keep this list clear and concise-->
+'''Wisdom of Solomon:'''
+Enhanced intellect, knowledge and focus of the gods
+
+'''Strength of Hercules:''' Superhuman strength
+
+'''Stamina of Atlas:''' Superhuman stamina and near-invulnerability
+
+'''Power of Zeus:''' Control over magic lightning, near-immortality, and spell-casting
+
+'''Courage of Achilles:''' Indomitable will
+
+'''Speed of Mercury:''' Superhuman speed
+
+*Teleportation via the [[Rock of Eternity]]
+| cat            = 
+| subcat         = 
+| hero           = y
+| villain        = 
+| sortkey        = 
+| addcharcat1    = Marvel Family
+| addcharcat2    = DC Comics superheroes
+<!--Series section-->
+|cvr_image           = 
+|cvr_caption         = 
+|cvr_alt             =
+|schedule            = Monthly
+|format              = [[Ongoing series]]
+|limited             =
+|ongoing             = y
+|1shot               =
+|genre               = [[Superhero]]
+|pub_series          = Fawcett Comics
+|date                =
+|1stishhead          = 
+|1stishyr            = 1942
+|1stishmo            = Nov. 18
+|endishyr            = 1953
+|endishmo            = June
+|issues              = 118
+|main_char_team      = Captain Marvel Jr.
+|writers             = [[Otto Binder]], [[William Woolfolk]]
+|artists             = [[Mac Raboy]], [[Al Carreno]]
+|pencillers          = 
+|inkers              = 
+|letterers           =
+|colorists           =
+|editors             = 
+|creative_team_month = 
+|creative_team_year  = 
+|creators_series     = 
+|TPB                 = 
+|ISBN                = 
+|TPB1                = 
+|ISBN1               = 
+|nonUS               =
+|}}
+
+'''Captain Marvel Jr.''' ('''Frederick''' "'''Freddy'''" '''Freeman'''), is a [[superhero]] originally published by [[Fawcett Comics]] and currently published by [[DC Comics]]. A member of the [[Marvel Family|Marvel/Shazam Family]] team of superheroes associated with [[Captain Marvel (DC Comics)|Captain Marvel/Shazam]], he was created by [[Ed Herron]] and [[Mac Raboy]], and first appeared in ''[[Whiz Comics]]'' #25 in December 1941.
+
+In the original Fawcett and DC continuity, Captain Marvel Jr.'s alter-ego was Freddy Freeman, a disabled newsboy saved by Captain Marvel from the villainous [[Captain Nazi]]. To save the dying boy's life, Captain Marvel shares his powers with Freddy. By saying the name "Captain Marvel", Freddy is transformed into Captain Marvel Jr., a blue costumed version of himself possessing powers of superhuman strength, speed, wisdom, and more. Junior derived his powers from Captain Marvel himself, while the other Marvels derived their powers from the wizard [[Shazam (wizard)|Shazam]]. Unlike Captain Marvel and the modern-era version of [[Mary Marvel]], Junior remained a teenager in his transformed state.<ref name="dc-ency">{{Cite book |last=Jimenez |first=Phil |author-link=Phil Jimenez |contribution=Captain Marvel Jr. |editor-last=Dougall |editor-first=Alastair |title=The DC Comics Encyclopedia |pages=69 |publisher=[[Dorling Kindersley]] |place=New York |year=2008 |isbn=978-0-7566-4119-1 |oclc=213309017}}</ref>
+
+A ''Trials of Shazam!'' maxi-series published from 2006 to 2008 featured Freddy Freeman undergoing six trials to prove himself worthy of succeeding Captain Marvel, who takes over the wizard Shazam's post on the Rock of Eternity. Upon completion of the Trials, Freddy assumed the superhero name '''Shazam'''. Following DC's [[New 52]] reboot in 2011, Freddy Freeman – now a blond instead of the traditional dark-haired youth – appears in current DC Comics publications as one of Billy Batson's foster siblings, and at Billy's whim can share the Shazam powers and become an adult superhero.
+
+Freddy Freeman made his cinematic debut in the [[DC Extended Universe]] film ''[[Shazam! (film)|Shazam!]]'', portrayed by [[Jack Dylan Grazer]] and [[Adam Brody]] as a teenager and adult respectively. Grazer and Brody are set to return for a sequel film, ''[[Shazam! Fury of the Gods]]'', in 2023.
+
+==Publication history==
+===Fawcett character origin===
+[[File:MasterComics34.jpg|thumb|200px|left|Captain Marvel Jr. battles [[Captain Nazi]] on the cover of ''Master Comics'' #34 (December 1942). Art by [[Mac Raboy]].]]
+After [[Fawcett Comics]]' success with their first superhero character, [[Captain Marvel (DC Comics)|Captain Marvel]], the company decided to introduce a spin-off character.<ref name="CMJforeword">{{cite book |last=Hamerlinck |first=P.C. |date=2006 |title=The Shazam! Family Archives, Vol. 1 |at=Foreword |location=New York City |publisher=DC Comics |isbn=978-1-40120-779-3}}</ref> Although Captain Marvel had been given part-time [[sidekick]]s in the form of the look-alike [[Lieutenant Marvels]] in ''Whiz Comics'' #21 (Sept. 1941), Fawcett Comics editor Ed Herron wanted to introduce a distinctive spin-off character.<ref name="CMJforeword" /> Captain Marvel transformed from teenage boy to adult superhero with a magic word; Herron decided his new character would remain a teenager to differentiate him from Captain Marvel.<ref name="CMJforeword" /> Fawcett staff artist [[Mac Raboy]] designed the new character, named Captain Marvel Jr., using a more realistic style parting with [[C.C. Beck]]'s more cartoony artwork for the Captain Marvel stories.<ref name="CMJforeword" /> Whereas Captain Marvel changed identities by saying "Shazam", Captain Marvel Jr. says "Captain Marvel" to transform; this was intended to serve as a frequent reminder to readers to buy the Captain Marvel Sr. books.<ref name="Back27">{{cite journal |last=Reed |first=Robby |date=April 2008 |title=Elvis and Captain Marvel, Jr.: How the World's Mightiest Boy Inspired the King of Rock and Roll |journal=[[Back Issue!]] |issue=#27 |pages=75–81 |publisher=[[TwoMorrows Publishing]]}}</ref>
+
+Captain Marvel Jr.'s first appearance in ''[[Whiz Comics]]'' #25 was part of a three-issue [[crossover (comics)|crossover]] between ''Whiz Comics'' and another Fawcett publication, ''[[Master Comics]]'', in late 1941.<ref name="Back27"/> The crossover, printed during the height of [[World War II]], found [[Bulletman]] and [[Captain Marvel (DC Comics)|Captain Marvel]] at odds with [[Adolf Hitler]]'s superpowered champion, [[Captain Nazi]]. During a battle with Captain Nazi in ''Whiz Comics'' #25, one of Captain Marvel's punches sends the villain careening into a lake. An elderly man and his teenage grandson happen to be fishing in the lake near the place Nazi lands and, not knowing who he is, lift the unconscious man into their boat to prevent him from drowning. Nazi immediately comes to, tosses the old man into the lake, and knocks the boy out of the boat with an oar. The old man immediately dies, but Captain Marvel is able to save the unconscious boy, named Freddy Freeman, and bring him to a hospital.
+
+Captain Marvel, in his alter ego as young Billy Batson, learns from a nurse that Freddy is not expected to last the night. This leads Billy to take Freddy to the underground throne of the wizard [[Shazam (wizard)|Shazam]], who originally granted Captain Marvel his powers. Billy asks the wizard to heal Freddy and save his life, but Shazam cannot, and instead tells Billy that he, as Captain Marvel, can pass along some of his powers so that Freddy can walk again. Shazam disappears and Billy transforms back into Captain Marvel, just as Freddy awakens. Looking up, he exclaims “Why...it's Captain Marvel,” and is instantly transformed into a super-powered version of himself. Freddy, now called Captain Marvel Jr., resembles a younger Captain Marvel, though with a yellow-on-blue costume with a red cape, rather than Marvel Sr.'s yellow-on-red with a white cape.
+
+Captain Marvel informs Junior that he cannot remain in his super-powered form at all times, but that he must allow his human form to heal as best it can. With that, Freddy once again said his mentor's name and returned to his hospital bed. Freddy remains permanently [[wikt:lame|lame]] in his left leg and is forced to walk with a [[crutch]] (although Captain Marvel Jr. bears no such impediment). As a result, Junior sought revenge against Captain Nazi, and the two repeatedly battled in a number of World War II-era comic stories.
+
+===Fawcett years===
+[[File:MasterComics36.jpg|thumb|200px|Captain Marvel Jr. with [[Statue of Liberty|Lady Liberty]] on the cover of ''[[Master Comics]],'' number 36, February 1943. Artwork by [[Mac Rayboy]].]]Immediately following the crossover chapters in ''[[Master Comics]]'' #21–22, Captain Marvel Jr. began starring in the series with issue #23 (February 1942).<ref name="Back27"/> His own ''Captain Marvel Jr.'' comic book launched nine months later. Mac Raboy's darker, more dramatic art style illustrated adventures with more serious themes than those often seen in the often whimsical Captain Marvel stories. Marvel Jr regularly dealt with espionage, organized crime, murder, and Nazis in more-or-less straightforward adventure styles with often somber overtones.{{citation needed|date=April 2014}}
+
+The stories depicted the plight of [[working class]] and [[working poor]] people during [[World War II]]. Even as he fought Japanese air attacks, conferred with United States president [[Franklin Roosevelt]] and United Kingdom Prime Minister [[Winston Churchill]], and even came close to capturing [[Adolf Hitler]] himself, Freddy continued to live in a run-down hovel and to dress in shabby rags. His one valuable possession appeared to be his diary, which was written in a large, richly ornamented book.
+
+In most of his adventures, Freddy Freeman is depicted as a character to be pitied for his injury, reminiscent of [[Tiny Tim (A Christmas Carol)|Tiny Tim]] from [[Charles Dickens]]' ''[[A Christmas Carol]]'', until he transforms into his super-powered state (C.C. Beck described the character as resembling Tiny Tim as Freddy Freeman, and [[Peter Pan]] as Captain Marvel Jr.).<ref>Beck, C.C. (1983). "The Human Quality of the Captain Marvel Characters." Originally written for ''Fawcet Collectors of America'' magazine, reprinted in {{cite book |editor-last=Hamerlinck |editor-first=P.C. |date=2001 |title=Fawcett Companion: The Best of FCA |location=Raleigh, North Carolina |publisher=TwoMorrows Publishing |pages=28–29 |isbn=978-1-89390-510-8}}</ref>
+
+Junior, Captain Marvel, and [[Mary Marvel]] began appearing together in ''The Marvel Family'' comic book beginning in 1945. That title and Junior's own ran until 1953, when [[Fawcett Publications]] discontinued all the Marvel Family comic books as the result of a lawsuit brought by National Comics (later [[DC Comics]]).
+
+===''Shazam!'' revival===
+After Fawcett Comics folded, Captain Marvel Jr. remained unpublished, alongside the rest of the [[Marvel Family]], for years. In 1972, DC Comics purchased the rights to the Marvel Family characters and revived them in a new series entitled ''Shazam!'' In his 1970s adventures, Captain Marvel Jr. discovers that fellow superhero [[Kid Eternity]] is in fact his long-lost brother. This [[retcon]] took place because of the characters' very similar origins. Both characters' origins involved the death of a grandfather, and both characters also rely on magic words that form part of their superhero names (and therefore neither hero can speak his name without triggering his powers). Kid Eternity had been published by another company, [[Quality Comics]], whose characters DC had also purchased.
+
+===''The Power of Shazam!'' and other 1990s/early 2000s appearances===
+Freddy Freeman was reintroduced in 1995, with ''The Power of Shazam!'' #3. His origin as Captain Marvel Jr. was reworked and represented, with Junior making his first Post-''Crisis'' appearance in heroic form in ''The Power of Shazam!'' #7 (Sept. 1995). Beginning with ''The Power of Shazam!'' #13, writer [[Jerry Ordway]] began focusing the book on Captain Marvel and Mary Marvel, relegating Junior to periodic solo stories. During this period, Junior began appearing in ''Teen Titans'', and the character's name was changed to ''CM3'', so that he could identify himself without triggering his transformation.
+
+Junior continued to appear in ''Teen Titans'' until its cancellation in mid-1998. The character then returned to regular appearances in ''The Power of Shazam!'', until that book was cancelled at the end of the year. After the demise of ''The Power of Shazam!'', Captain Marvel Jr. made sporadic guest appearances throughout the DC Universe. One of these appearances was as an adult Captain Marvel in "[[Titans Tomorrow]]", a story-arc in ''Teen Titans'' vol. 3 #17–19 (2005). By this time, the character was once again identified by the name Captain Marvel Junior, rather than CM3, and his costume was slightly modified, substituting his traditional red [[cape]] for a white one like that of the other two Marvels.
+
+A guest appearance in ''[[Outsiders (comics)|The Outsiders]]'' vol. 3 #10 in 2004 led to Captain Marvel Jr. briefly joining the team the following year. The Junior-featured ''Outsiders'' stories featured the team battling Marvel Family villains such as [[Dr. Sivana]], [[Sabbac]], and [[List of Captain Marvel (DC Comics) enemies#Chain Lightning|Chain Lightning]].<ref name="dc-ency"/> Captain Marvel Jr. also made brief appearances in the 2005–2006 ''[[Infinite Crisis]]'' miniseries and its 2006–2007 maxiseries sequel, ''[[52 (comics)|52]]''. One of the key supporting characters of ''52'' was [[Osiris (DC Comics)|Osiris]], Captain Marvel Jr.'s analogue in [[Black Adam]]'s [[Marvel Family#Black Marvel Family members|Black Marvel Family]]. Junior vouches for him when he tries joining the Teen Titans, as he is mistrusted due to his alliance with Black Adam.
+
+===''The Trials of Shazam!''===
+Writer [[Judd Winick]], who had written ''Outsiders'' (vol. 3), was given the task of revamping the ''Captain Marvel'' franchise. The events of ''Infinite Crisis'' included the death of the wizard Shazam, and in a 12-issue maxiseries titled ''The Trials of Shazam!'', Winick began exploring Freddy Freeman's quest to prove himself worthy of wielding the power of Shazam in the new age of magic, which began with the end of ''Infinite Crisis''. As Winick felt the ''Shazam!'' characters were too light-hearted and not being taken seriously,<ref>{{cite web |url=http://fanboyradio.libsyn.com/index.php?post_id=81480 |title=Interview with Judd Winick |last1=Hinze |first1=Scott |last2=Hull |first2=Oliver |date=April 16, 2006 |website=Fanboy Radio |url-status=dead |archive-url=https://web.archive.org/web/20071203142040/http://fanboyradio.libsyn.com/index.php?post_id=81480 |archive-date=2007-12-03}}</ref> ''The Trials of Shazam!'' series features a much darker tone than earlier DC Comics ''Shazam!'' stories, reflecting more of the darker tones of the original Fawcett Captain Marvel Jr. stories. Freddy Freeman is now a young adult, forced to battle various beings powered by [[black magic]], including a new female archenemy named Sabina, a witch who is planning to take the power for herself. The Shazam gods are presented in ''The Trials of Shazam!'' in reimagined forms (Solomon is a female tattoo artist in [[New York City]], Hercules a [[Hispanic and Latino Americans|Latino]] convict, etc.), since they are all hiding from the various evils of the new age.
+
+The first eight issues of ''The Trials of Shazam!'', as well as a prequel written by Winick for ''[[One Year Later|Brave New World]]'' #1, were illustrated by [[Howard Porter (artist)|Howard Porter]]. Porter broke his drawing hand during the course of production on the series, which led to a number of extended delays between issues.<ref>{{cite web |url=http://fanboyradio.libsyn.com/index.php?post_id=259760 |title=Interview (#2) with Judd Winick |last=Hinze |first=Scott |date=September 26, 2007 |website=Fanboy Radio |url-status=dead |archive-url=https://web.archive.org/web/20071223091744/http://fanboyradio.libsyn.com/index.php?post_id=259760 |archive-date=2007-12-23}}</ref> Mauro Cascioli took over the artist's chores for the final four issues.
+
+At the conclusion of the series, Freddy takes over the mantle of Captain Marvel under the name Shazam (assuming the red costume and adult form of Captain Marvel with longer hair), while Billy Batson, the former Captain Marvel, was given the role of the wizard Shazam as keeper of the Rock of Eternity, under the name Marvel.
+
+Freddy Freeman, still using the name Shazam, is one of the characters appearing in the seven-issue ''[[Justice League: Cry for Justice]]'' miniseries written by [[James Robinson (comics)|James Robinson]] and illustrated by Mauro Cascioli, started in late 2009.<ref>{{cite web |url=http://www.dccomics.com/dcu/comics/?cm=14641 |title=A new team of heroes |website=DC Comics |access-date=December 25, 2011 |url-status=dead |archive-url=https://web.archive.org/web/20100605063449/http://www.dccomics.com/dcu/comics/?cm=14641 |archive-date=2010-06-05}}</ref> While Freddy appears to be working with the JLA in the first five issues, issue #6 reveals that all the time it has been the supervillain [[Prometheus (DC Comics)#Unnamed version|Prometheus]] impersonating him – a clue being that he once says "Shazam" without transforming. The real Freddy appears in the final issue, discovered by the [[Bulleteer]] and [[Mr. Scarlet]].
+
+==Character biography==
+
+===Early years===
+[[Image:Power-of-shazam-19.jpg|thumb|right|200px|Captain Marvel Jr. battles his archenemy [[Captain Nazi]] on the cover of ''[[The Power of Shazam!]]'' #19 (1996). Art by [[Jerry Ordway]].]]
+According to Captain Marvel Jr.'s current DC origin story, Freddy Freeman was born and raised in a [[New England]] fishing village, living with his parents and his foster brother, Timothy Karnes.<ref name="Outsiders10">''Outsiders'' vol. 3 #10 (May 2004)</ref> When Freddy's parents drowned in a storm, Freddy's maternal grandfather Jacob took him in, while Timothy was sent to live with various foster families.<ref name="Outsiders10" /> As an adult, Karnes would harness the powers of the underworld and become [[Sabbac]], one of Captain Marvel Jr.'s enemies.<ref name=o9>''Outsiders'' vol. 3 #9 (April 2004)</ref>
+
+The teenage Freddy Freeman, living in Midwestern [[Fawcett City]], was shown to be an all-star student and athlete at the Binder school in Fawcett City, and a friend of Captain Marvel's alter ego Billy Batson.<ref name="The Power of Shazam! #6">''The Power of Shazam!'' #6 (August 1995)</ref> One afternoon, after winning a baseball game for his school team, Freddy and his <!--maternal, so his last name isn't "Freeman"--> grandfather Jacob went on a fishing trip in Fawcett Bay.<ref name="The Power of Shazam! #6"/> At the same time, however, Captain Marvel found himself engaged in a battle with the supervillain [[Captain Nazi]]. As in the Fawcett origin, one of Marvel's punches knocks Captain Nazi into the lake near Grandpa Jacob's boat, and Freddy and his grandfather are attacked when they attempt to save the villain from the water, as Freddy thinks he is Captain Marvel.<ref name="dc-ency"/>
+
+Captain Marvel intervenes and rushes both injured bystanders to a hospital. Grandpa Jacob slips into a coma after being thrown into the lake by Nazi, and Freddy is found to have a severely injured spine and a broken leg, which will prevent him from ever walking again. After a second attack from Captain Nazi, the injured Freddy is taken to the wizard Shazam by Captain Marvel and his sister [[Mary Marvel]], who both grant the boy the power to become Captain Marvel Jr. However, Jacob dies, and Captain Marvel Jr. goes on a rampage against Captain Nazi until the other Marvels intervene. Nazi and Captain Marvel Jr. would become archenemies, regularly pitted against one another.
+
+===As Captain Marvel Jr.===
+Junior becomes an integral member of the Marvel Family until he draws Billy's ire by making a pass at his sister.<ref>''The Power of Shazam!'' #13 (March 1996)</ref> The resulting conflict (created essentially to write Junior out of ''The Power of Shazam!'' from issue #13 on) causes Junior to leave Fawcett City and seek refuge in [[New York City]], where he joins the [[Teen Titans]]. At this time, the character's name was briefly changed to ''CM3'' (short for Captain Marvel Three, with Billy being CM1 and Mary CM2), a name he could identify himself with in dialogue without triggering his transformation.<ref name="dc-ency"/> After some time spent with the Titans, Junior returns to Fawcett (and ''The Power of Shazam!'' comic with issue #42) and makes amends with Captain Marvel.
+
+Another superhero team, The Outsiders, found themselves in a battle against Ishmael Gregor, who had killed Timothy Barnes and stolen his Sabbac powers.<ref name="Outsiders10"/><ref name=o9 /> Captain Marvel Jr. arrived to help the Outsiders dispatch Sabbac, and some time later Junior would join the team for a brief period.<ref>''Outsiders'' vol. 3 #28-#33 (November 2005 – April 2006)</ref> Following the ''[[Infinite Crisis]]'' crossover event, Junior briefly joins the depleted Teen Titans roster during the weekly ''52'' comic book series, and is part of the wedding party for his former enemy Black Adam's marriage to [[Isis (DC Comics)|Isis]], where he is in charge of crowd control.
+
+Later, Junior attempts to vouch for Black Adam's protégé, Isis' brother Osiris, who wants to join the Titans as well, but is distrusted from his connection to Black Adam. The Marvels and Black Marvels later help fight of the demon-empowered Sabbac, now several stories high. However, Osiris accidentally murders a supervillain, leading to the Titans being investigated for terrorist affiliations. Osiris is eventually murdered by [[Sobek (comics)|Sobek]], a biogenerated crocodile monster who posed as the boy's friend. After the death of Osiris, Freddy and Mary are the pallbearers of his casket at his and his sister's funeral. His last appearance was in [[World War III (DC Comics)|World War III]] where he fought and lost to Black Adam. He and Mary break the amulet into four pieces, and scatter it around the world.
+
+===''The Trials of Shazam!''===
+{{Main|The Trials of Shazam!}}
+
+During ''Infinite Crisis'', an event designed to significantly alter the status of the DC Universe, the wizard Shazam was destroyed by the [[Spectre (DC Comics character)|Spectre]] who had declared a war on magic,<ref>''Day of Vengeance'' #6 (November 2005)</ref> and the Rock of Eternity destroyed, causing Captain Marvel Jr. and Mary Marvel to lose their powers a year later.<ref>''Brave New World'' #1 (August 2006)</ref> Captain Marvel is transformed into ''Marvel'', a white-robed being who assumes Shazam's old post as caretaker of the Rock of Eternity, although he can only leave for up to 24 hours at a time.<ref name="tos2">''The Trials of Shazam!'' #2 (November 2006)</ref> Marvel drafts the now-powerless Freddy Freeman to undergo a quest to prove himself worthy of replacing Captain Marvel. Each of the six gods who contributed their powers — [[Solomon]], [[Hercules]], [[Atlas (mythology)|Atlas]], [[Zeus]], [[Achilles]], and [[Mercury (mythology)|Mercury]] — present Freddy with a trial (similar to the [[Labours of Hercules|Labors of Hercules]]), which Freddy would have to complete successfully in order to be granted with that god's particular power. If he completes all six tasks, he will take on the name Shazam.<ref name="dc-ency"/> Zareb Babak, a demoted [[necromancer]], serves as Freddy's guide during his trials. At the same time, however, a dark organization known as the [[Merlin (DC Comics)|Council of Merlin]] are backing their own candidate, a [[Creole peoples|Creole]] sorceress named Sabina. If she wins the trials, then the power of Shazam will be lost to the Marvel Family and she will control it.
+
+Freddy and Sabina end up competing nearly neck-and-neck for many of the trials, eventually becoming equal in power as each earn the various powers of each god. One trial, the trial of Atlas, ends prematurely when Sabina kills Atlas, and Zareb is forced to convince [[Apollo]] to take his place among the Shazam collective of gods. The competition culminated in a large battle, with Freddy, Marvel, and the Justice League battling Sabina and an army of demons summoned by the sorcerer Merlin. By being willing to sacrifice himself to save the world, along with losing the power of Shazam as a whole rather than let Sabina possess it, Freddy proves himself worthy of the power of Zeus, and Zareb reveals himself to be Zeus in disguise. Freddy says the magic word "Shazam" and gains the full powers of Shazam.
+
+===As Shazam===
+Freddy has appeared in several stories set following the ''Trials'' series. Freddy, as Captain Marvel Jr., appears as a supporting character in DC's 2008/2009 ''[[Final Crisis]]'' miniseries event, joining forces with a small band of superheroes (including his enemy [[Black Adam]]) to fight [[Darkseid]] and the [[Anti-Life Equation]] he has used to take over the Earth and many of its heroes. Captain Marvel, Black Adam, and [[Marvel Family#Marvel Family allies|Tawky Tawny]] fight an evil, possessed Mary Marvel, whose body has been possessed by the [[New Gods|New God]] [[DeSaad]]; she is defeated after Shazam seizes her and uses his magic lightning bolt to transform himself back to Freddy and the evil Mary Marvel back to a normal Mary Batson.<ref>''Final Crisis'' #3–6 (September 2008 – January 2009)</ref> Freddy appears briefly in the concurrent "[[Superman: New Krypton|New Krypton]]" (2009) storyline in ''[[Superman (comic book)|Superman]]'' #684 and ''[[Action Comics]]'' #873, in which he joins forces with [[Zatanna]] and a band of other magic-based superheroes to help stop the invading Kryptonians by using the magic lightning of Shazam. In a 2009 ''[[Justice Society of America]]'' story, the wizard [[Shazam (wizard)|Shazam]] returns from the dead, and, angry at the state of affairs, strips Billy and Mary Batson of their powers and banishes them from the Rock of Eternity upon stating that they have failed him. Shazam vows to come after Freddy for "stealing his name". He does acknowledge, however, that Freddy's powers come from the gods themselves and not the wizard.<ref>''Justice Society of America'' vol. 3 #25 (April 2009)</ref>
+
+Captain Marvel's profile is raised when he becomes part of a ''Justice League'' miniseries by [[James Robinson (comics)|James Robinson]], which establishes a new ''Justice League of America'' line-up. In the second issue of ''[[Justice League: Cry for Justice]]'' (2009), Freddy Freeman appears at the [[Flash Museum]] after an attack there and on [[S.T.A.R. Labs]] in [[Fawcett City]]. He meets up with [[Flash (Jay Garrick)|Jay Garrick]] and [[Atom (Ray Palmer)|Ray Palmer]] who are not sure whether he goes by Captain Marvel or Shazam, which he says to call him Freddy. Freddy and Ray talk about their time on the [[Teen Titans]], then head to [[Gotham City]] where they meet [[Hal Jordan]] and the [[Green Arrow]], as well as declaring they want Justice.<ref>''Justice League: Cry for Justice'' #2 (August 2009)</ref> Freddy ends up joining Hal and Ollie's group of heroes, developing a mutual attraction with [[Supergirl (Kara Zor-El)|Supergirl]]. Freddy also saved the team from [[Clayface]] himself acting as a bomb to blow up a building.<ref>''Justice League: Cry for Justice'' #3 (September 2009)</ref> Freddy joins Ollie and Hal's team after saving them from an explosion.<ref>''Justice League: Cry for Justice'' #4 (October 2009)</ref> Justice League members were attacked in the [[List of locations of the DC Universe#Extraterrestrial sites|Justice League Watchtower]], Supergirl discovers Freddy was apparently attacking the team.<ref>''Justice League: Cry for Justice'' #5 (December 2009)</ref> It is revealed that [[Prometheus (DC Comics)#Unnamed version|Prometheus]] impersonating him throughout the series to gain access to the Watchtower.<ref>''Justice League: Cry for Justice'' #6 (January 2010)</ref> The real Freddy is found by the [[Bulleteer]] and [[Mr. Scarlet]] in Fawcett City, tied up with his mouth sewn shut to prevent him from saying his magic word. Afterward, his mouth is unsewn and he transforms into [[Captain Marvel (DC Comics)|Captain Marvel]].<ref>''Justice League: Cry for Justice'' #7 (March 2010)</ref>
+
+Freddy appeared in one panel of ''[[Blackest Night]]'' #8, fighting off the remaining [[Black Lantern Corps|Black Lanterns]] with fellow Lanterns and Earth's heroes.
+
+Freddy is later called to Billy and Mary's home, where he is seemingly poisoned by Mary, who had made a deal with [[Blaze and Satanus|Blaze]], who wanted Freddy's powers, in exchange for restoring Mary and Billy's. However, it is then revealed to be a set-up. Freddy gets up and fights Blaze. With a little help from Billy and Mary, defeats her and sends her back to [[Hell (DC Comics)|Hell]]. Later, Freddy promises Billy and Mary that he will find a way to restore their powers.<ref>''Shazam!'' one-shot issue (January 2011)</ref> Shortly after the incident with Blaze, Freddy travels to Philadelphia, where he finds [[Osiris (DC Comics)|Osiris]] in the process of killing a group of gunmen.<ref>''Titans'' vol. 2 #31 (January 2011)</ref> The two Marvels battle, with Osiris telling Freddy that he has to continue killing people in order to free his sister Isis from her stone prison. Freddy eventually convinces Osiris that his sister would not approve of the bloodshed that he has caused and offers to help him find another way to save her, but Osiris instead betrays Freddy, using his abilities to summon a mystical bolt of lightning that reverts him back to his human form. Freddy immediately attempts to transform back into Captain Marvel, but is horrified to discover that he no longer possesses his abilities. Osiris then departs, leaving a distraught Freddy to be frustrated over his loss.<ref>''Titans'' vol. 2 #32 (February 2011)</ref>
+
+===''The New 52''/''DC Rebirth''===
+[[Image:Shazam Family 2013 Gary Frank.jpg|thumb|400px|[[Black Adam]] confronts the newly created [[Marvel Family|Shazam Family]], including Freddy Freeman (far right), as seen in ''[[Justice League]]'' vol. 2 #21 (August 2013). Art by [[Gary Frank (comics)|Gary Frank]].]]
+In September 2011, ''[[The New 52]]'' rebooted DC's continuity. In this new timeline, Freddy Freeman is reintroduced in 2012's ''Justice League'' vol. 2 #8 as part of Billy's new foster family along with Mr. and Mrs. Vasquez, Mary Bromfield, Pedro Pena, Eugene Choi, and Darla Dudley. Freddy is now depicted with blond hair instead of black, and has been disabled at least since early childhood.<ref name="JL8">''Justice League'' vol. 2 #8 (April 2012)</ref> He is the good-natured "prankster" of the foster home, prone to mischief and pick-pocketing.<ref name="JL8" />
+
+The first of the Shazam kids placed with the Vázquez family in Philadelphia, Freddy was placed into foster care after his parents went to prison, and he has not seen them since age 10.<ref name="Justice League 2013">''Justice League'' vol. 2 #21 (June 2013)</ref> Despite Billy's standoffishness when he is first placed with Freddy and the Vázquezes, Freddy ends up befriending his new foster brother – despite swiping his wallet when they first met.<ref name="JL8" /> Freddy is also the first person to learn that he has the power to become Shazam.<ref>''Justice League'' vol. 2 #10 (June 2012)</ref>
+
+In the finale of the series of ''Shazam!'' backups in ''Justice League'' vol. 2 #21, Billy shares his powers with his foster siblings. Afterwards, by saying "Shazam!", Freddy becomes an adult superhero with shoulder-length blond hair and the traditional "Captain Marvel, Jr." color of blue for his costume.<ref name="Shazamvol3No1">''Shazam!'' vol. 2 #1 (February 2019)</ref> When he first gets his powers, Freddy remarks that he wants to be called "King Shazam," a nod to the character's connection to [[Elvis Presley]].<ref name="Justice League 2013"/>
+
+==Powers and abilities==
+In the Fawcett and pre-2006 DC stories, since Captain Marvel Jr. received his powers from Captain Marvel rather than from the wizard Shazam, he transforms by speaking "Captain Marvel!" as his magic word rather than "Shazam!" as Billy and Mary Batson do to become Captain Marvel and Mary Marvel. Unlike Captain Marvel, Captain Marvel Jr. appeared as a teenager the same age as Freddy Freeman.
+
+In DC stories printed between 2006 and 2011, Freddy Freeman says the magic word "Shazam!" and he is empowered with the energies of the six forgotten gods as their direct champion and as such, takes on a more muscular, mature form of himself, similar to how Billy Batson would when he held the title. During the ''Trials of Shazam!'' miniseries, it was originally implied that Freddy would no longer "need" to speak the name of "Shazam!" to invoke the powers—that he could will them to manifest themselves—but he still prefers to effect the change by speaking the word.
+
+In DC stories from 2013 forward, Freddy speaks the magic word "Shazam!" to become an adult superhero (whom he has dubbed "King Shazam") in a blue uniform.
+
+In his super-powered state, Freeman has the following magic based powers:
+
+{|class="wikitable"
+|-
+|'''S''' ||for the wisdom of '''S'''olomon ||As Captain Marvel Jr./Shazam, Freddy has instant access to a vast amount of scholarly knowledge, including most known languages and sciences. The wisdom of [[Solomon]] also gives him clairvoyance and provides him with counsel and advice in times of need. He also can hypnotize people through this power. 
+Superhuman Knowledge: In his empowered state, Freddy has exceptional photographic recall and mental acuity allowing him to read and decipher hieroglyphics, recall everything he has ever learned, solve long mathematical equations instantaneously and make intuitive guesses based on limited data to the point his guesses are almost always correct. 
+Clairvoyance: an uncanny awareness of his circumstances that allows him to turn disadvantages into advantages, an understanding of divine interactions with the mortal world. 
+Omni-lingual 
+Hypnosis 
+|-
+|'''H''' ||for the strength of '''H'''ercules[[Hercules (DC Comics)|*]] ||[[Hercules]]' power grants Freddy immense superhuman strength, making him one of DC Comics' strongest characters. He is able to easily bend steel, punch through walls and lift massive objects, (including whole continents like South America). 
+|-
+|'''A''' ||for the healing of '''A'''pollo ||Originally as Captain Marvel Jr., Freddy was gifted with [[Atlas (mythology)|Atlas]]' power of endurance. He could withstand and survive most types of extreme physical assaults. Additionally, he did not need to eat, sleep, or breathe and can survive unaided in space when in Captain Marvel Jr. form. In the ''[[#The Trials of Shazam!|Trials of Shazam!]]'' miniseries, Atlas was killed and his powers were stolen. [[Apollo (mythology)|Apollo]] replaced Atlas as his deity, using his healing powers. 
+|-
+|'''Z''' ||for the power of '''Z'''eus ||[[Zeus]]' power, besides fueling the magic thunderbolt that transforms Captain Marvel Jr., also enhances his other physical and mental abilities, and grants him resistance against all magic spells and attacks. Freddy can use the lightning bolt as a weapon by dodging it and allowing it to strike an opponent or target, meaning it can turn other Marvels back to their mortal forms. The magic lightning has several uses, such as creating apparatus, restoring damage done to Freddy, and acting as fuel for magic spells. It can allow Freddy some interdimensional and time travel abilities from the Rock of Eternity.
+|-
+|'''A''' ||for the courage of '''A'''chilles ||This aspect gives Captain Marvel Jr. the courage of [[Achilles]], possibly giving good fighting skills. In the ''Trials of Shazam!'' miniseries, this was changed to the Greek hero's near invulnerability. It also aids Captain Marvel Jr.'s mental fortitude against most mental attacks.
+|-
+|'''M''' ||for the speed of '''M'''ercury ||By channeling [[Mercury (mythology)|Mercury's]] speed, Captain Marvel Jr. can move at superhuman speeds, even faster than light. This also enables him to fly (something he had a special affinity for in the 2019 movie, being able to use it immediately without the learning curve Billy went through) and to reach the Rock of Eternity by his own power, which enables time and interdimensional travel, and process information at superhuman speeds. Travelling to the Rock may no longer be possible since the Wizard's return, seeing as The Wizard is the protector of that dimension and is currently upset with Freddy and the two Batsons.
+|}
+
+==Other versions==
+
+===''Bravo'' comic===
+In April 1950, the [[Belgium|Belgian]] comic ''Bravo'' published its own version of ''Capitaine Marvel Jr'', drawn by [[Albert Uderzo]], later known as the artist of ''[[Asterix]]''. In this version Freddy Freeman, although crippled, tries to save the life of Doctor Satano who has built a machine designed to help him rule the world but has caused a series of explosions in his laboratory. The machine gives superpowers and blue Captain Marvel outfits to both Freddy and Satano and they become sworn enemies.<ref>{{Cite web |url=http://www.bd-anciennes.net/annees50/bravo/bravo.php |title=Journal Bravo 1950 |language=fr |website=bd-anciennes.net |url-status=dead |archiveurl=https://web.archive.org/web/20090402000301/http://www.bd-anciennes.net/annees50/bravo/bravo.php |archivedate=April 2, 2009}}</ref>
+
+===''Kingdom Come''===
+[[Image:King marvel-1-.png|thumb|140px|right|A sketch of King Marvel, an adult version of Captain Marvel Jr. seen in ''[[Kingdom Come (comics)|Kingdom Come]]'', drawn by [[Alex Ross]]]]
+An adult version of Captain Marvel Jr. appears as a background character in the 1996 ''[[Kingdom Come (comics)|Kingdom Come]]'' miniseries by [[Mark Waid]] and [[Alex Ross]]. In this alternate future, Junior now goes by the name '''King Marvel''', and resembles Elvis Presley. Mary Marvel, now called '''Lady Marvel''', is his wife, and the two have a superpowered son named '''the Whiz''', named after ''[[Whiz Comics]]''.
+
+==="Titans Tomorrow"===
+In this future, the adult Freddy Freeman has taken the Captain Marvel mantle and is a member of the [[Titans East]]. He is implied to have competed with Superman ([[Conner Kent]]) for the love of [[Cassandra Sandsmark]] (Now [[Wonder Woman]]).
+
+===''52''===
+In the final issue of the maxi-series ''[[52 (comics)|52]]'' (#52, May 2, 2007), a new [[Multiverse (DC Comics)|Multiverse]] is revealed, originally consisting of 52 identical realities. Among the parallel realities shown is one designated Earth-5. As a result of Marvel Family foe [[Mister Mind]] eating aspects of this reality, it takes on visual aspects similar to the Pre-''Crisis'' Earth-S, including the Marvel Family characters. The names of the characters are not mentioned in the panel in which they appear, but a character visually similar to Captain Marvel Jr. appears.<ref>{{Comic book reference |title=[[52 (comics)|52]] |issue=#52 |date=May 2, 2007 |publisher=[[DC Comics]] |page=12 |panel=5}}</ref>
+
+Based on comments by ''52'' co-author [[Grant Morrison]], this alternate universe is not the Pre-''Crisis'' Earth-S.<ref>{{cite web |url=http://forum.newsarama.com/showthread.php?t=111900 |title=The 52 Exit Interviews: Grant Morrison |last=Brady |first=Matt |date=2007-05-08 |website=Newsarama |access-date=2007-05-12 |url-status=dead |archive-url=https://web.archive.org/web/20091209073525/http://forum.newsarama.com/showthread.php?t=111900 |archive-date=2009-12-09}}</ref>
+
+===''Billy Batson and the Magic of Shazam!''===
+Freddy Freeman first appeared in issue 13 of this book; he was shown crippled and in a wheelchair, the result of being inadvertently injured in a previous battle involving the Marvels. At a museum, he accidentally witnesses the Batsons transform and tells Theo Adam the magic word they used to transform back into [[Black Adam]]. Theo Adam then talks Freddy into becoming a Marvel as well, so he can do everything including walk again. He then transforms into Black Adam Junior and attacks the Marvels.
+
+However, Freddy soon realizes Black Adams' evil, rebels and makes partial peace with the Marvels, although he keeps aloof from them. However, Captain Marvel was later traumatically drained and aged by the supervillain, The Vampire Burglar, Mary Marvel and Tawky Tawny came to Freddy in desperation to help them get the Captain to the wizard Shazam's chamber. With much persuading, Freddy agrees but they encounter Black Adam there, having claimed Shazam's power for himself. Although Shazam soon reappears, the battle against the renegade is complicated by the fact that the only way to help Billy is give him his Shazam power as Black Adam Jr., which would permanently strip himself of it. With much consideration, Freddy agrees and restores Captain Marvel. When Marvels inquire how they can make it up to Freddy for his sacrifice, Shazam suggests Captain Marvel that his name has great power of its own. Inspired, Captain Marvel gets Freddy to speak his name and, upon doing so, the boy is bestowed the power and form of Captain Marvel Jr.. This version is apparently able to say his own name without an unwanted transformation and his costume emulates the Captain's by being looser than the tradition costume, complete with a lapel.
+
+===''Justice''===
+In the twelve-issue series of Justice, Freddy and Mary were taken captive by Black Adam and brainwashed to fight Billy Batson. Freddy, along with Mary and the Teen Titans, were sent to fight the [[Doom Patrol]], which they defeated. Soon after, [[John Stewart (comics)|John Stewart]] freed Freddy, Mary, and the Teen Titans with his [[power ring (DC Comics)|Green Lantern Ring]], after which they joined the fight against the villains. He was last shown with Hal Jordan and other heroes fixing the Watchtower.
+
+===''Tiny Titans''===
+In issue 21 of ''[[Tiny Titans]]'', [[Hoppy the Marvel Bunny]] comes to the Tiny Titans Pet Club where Tiny Captain Marvel Junior joins him. Supergirl asks him his name and he replies "Captain Marvel Junior". He then transforms back to Freddy Freeman. When asked again he says "Captain Marvel Junior", but adds "You can call me Freddy." This is one of the few transformations in which Freddy's mobility aids do not re-materialize when he powers down; instead he's seated on the floor with his legs in front of him.
+
+===''Flashpoint''===
+Freddy Freeman, Billy and Mary all possess different powers of Shazam. Freddy holds the Power of Zeus, he is still crippled and has a lightning bolt necklace.
+
+==Elvis Presley==
+The musician [[Elvis Presley]] was a big fan of Captain Marvel Jr.,<ref name="Elvis">{{cite web |url=http://www.newsarama.com/comics/oral-history-captain-marvel-5-101229.html |title=An Oral History of CAPTAIN MARVEL: The Lost Years, pt. 2 |first=Zack |last=Smith |date=December 29, 2010 |website=Newsarama |url-status=dead |archive-url=https://web.archive.org/web/20120118101336/http://www.newsarama.com/comics/oral-history-captain-marvel-5-101229.html |archive-date=January 18, 2012}}</ref><ref>{{cite book |last=Dundy |first=Elaine |author-link=Elaine Dundy |date=2004 |title=[[Elvis and Gladys]] |location=Jackson, MI |publisher=University Press of Mississippi |pages=69–70 |isbn=978-1-57806-634-6}}</ref> and styled his trademark [[haircut]] after that of the comic book character and some of Elvis's stage outfits (with a half-cape similar to those worn by the Marvels) and his TCB logo (with a Marvel-esque lightning bolt insignia) also show inspiration from Captain Marvel Jr.<ref>{{cite web |url=http://www.dialbforblog.com/archives/86/ |title=Elvis and Captain Marvel, Jr. |access-date=2006-09-13 |last=Reed |first=Robby |website=Dial B for Blog}}</ref> Elvis's childhood collection of ''Captain Marvel Jr.'' comic books still sits in the attic at his [[Graceland]] estate in [[Memphis, Tennessee]], with a copy of ''Captain Marvel Jr.'' #51 (1947) placed on the desk in the recreation of his childhood room at Memphis' Lauderdale Courts housing complex.<ref>{{Cite web |url=https://www.elvis.com.au/captain-marvel-jr/ |title=Captain Marvel Jr and Elvis Presley |website=Elvis Australia}}</ref>
+
+In reference to Elvis's admiration for the character, Captain Marvel Jr. has often been shown as either a fan of Elvis or having been inspired by Elvis. In ''Teen Titans'' vol. 3 #23, Captain Marvel Jr. is revealed to be a huge fan of [[Elvis Presley]]. The narrator ([[Superboy (Kon-El)|Superboy]]) states that "He's okay, just a little too into the retro thing for my tastes. Loves all that [[rockabilly]] crap. Flame shirts and hot dice belt buckles." Captain Marvel Jr. himself quotes Elvis, (whom he refers to as "the greatest modern-day philosopher"), with the quote "Do what's right for you as long as you don't hurt no one", to which [[Hawk and Dove|Hawk]] (Holly Granger) immediately states that she likes [[Sex Pistols]] bass guitarist [[Sid Vicious]] better as a role-model.
+
+==In other media==
+
+===Television===
+* Along with the rest of the Marvel Family, Captain Marvel Jr. appeared in the TV series ''[[The Kid Super Power Hour with Shazam!]]'' (1981–82) voiced by [[Barry Gordon]].
+* Captain Marvel Jr. appears in the ''[[Batman: The Brave and the Bold]]'' episode "The Malicious Mr. Mind!" voiced by John DeVito. As Freddy Freeman live a Fawcett City with his grandparents, Jacob and Elizabeth, and took on a job as a newsboy. He soon became one of Billy Batson's closest friends, too. This time with the ability to transform into Captain Marvel Jr. He and the other members of the Marvel Family, along with [[Batman]], battle [[Mister Mind|Mister Mind and the Monster Society of Evil]].
+* [[Greg Weisman]] (producer of the TV series ''[[Young Justice (TV series)|Young Justice]]'') has confirmed that Freddy Freeman was a member of the Young Justice team in between seasons 1 and 2 and was known as ''Lieutenant Marvel''. He was set to appear in an upcoming issue of the tie-in comic in a story centered on the Marvel Family before the comic was cancelled.
+
+===Film===
+
+====Live action====
+* Francis Freddy Freeman is mentioned in the 2006 film ''[[My Super Ex-Girlfriend]]'' as being a childhood friend of Matt Saunders, played by [[Luke Wilson]].
+* Freddy Freeman appeared in the 2019 film ''[[Shazam! (film)|Shazam!]]'', which is set in the [[DC Extended Universe]], played by [[Jack Dylan Grazer]] as a child, and [[Adam Brody]] as his adult superhero form.<ref>{{cite web |url=https://screenrant.com/shazam-it-jack-dylan-grazer-cast/ |title=IT's Jack Dylan Grazer Joins DC's Shazam! |website=Screen Rant |last=Hood |first=Cooper |date=December 6, 2017 |access-date=December 6, 2017}}</ref> He is the first person to learn that Billy Batson is Shazam and helps to test his powers. When [[Doctor Sivana]] learns of his connections, he takes Freddy to the foster home after the foster parents left in order to draw out Billy. During the battle against Doctor Sivana and the [[Seven Deadly Enemies of Man|Seven Deadly Sins]], Shazam has his foster siblings touch the Wizard's staff in order to share his powers. In his adult superhero form, Freddy helps to fight the Seven Deadly Sins. At the end of the movie, Freddy dines in the school cafeteria joined by not only his foster siblings, but Shazam and Superman as well.
+*Freddy Freeman will return in ''[[Shazam! Fury of the Gods]]''.<ref name="TitleCastAnnouncement">{{Cite web |url=https://deadline.com/2020/08/shazam-sequel-zachary-levi-david-f-sandberg-sinbad-asher-angel-meagan-good-jack-dylan-grazer-faithe-herman-adam-brody-dc-fandome-1203020790/ |title='Shazam!': Zachary Levi And Cast Reveal Title Of Sequel, Remain Tight-Lipped On Details – DC FanDome |last=Ramos |first=Dino-Ray |date=August 22, 2020 |website=[[Deadline Hollywood]] |access-date=August 22, 2020 |url-status=live |archive-url=https://web.archive.org/web/20200823001843/https://deadline.com/2020/08/shazam-sequel-zachary-levi-david-f-sandberg-sinbad-asher-angel-meagan-good-jack-dylan-grazer-faithe-herman-adam-brody-dc-fandome-1203020790/ |archive-date=August 23, 2020}}</ref>
+
+====Animated====
+
+* A parallel earth version of Captain Marvel Jr. named '''Captain Super Jr.''' appears in ''[[Justice League: Crisis on Two Earths]]'' (2010) voiced by an uncredited [[Bruce Timm]].
+* Freddy Freeman appears along with the rest of the Shazam Kids in ''[[Justice League: The Flashpoint Paradox]]'' (2011).
+* Freddy Freeman makes a cameo appearance in ''[[Justice League: War]]'' (2014) voiced by [[Georgie Kidder]].
+
+===Video games===
+* In December 2006, the [[VS System]] Card game released a ''Freddy Freeman <> Captain Marvel'' card based on the version of the character that appeared in the "Titans of Tomorrow" story-arc. Two other cards featuring Freddy were released in 2007, known as "Freddy Freeman <> Captain Marvel Junior", one representing his membership with the [[Teen Titans]] and another his membership with the [[Outsiders (comics)|Outsiders]].
+* In ''[[Scribblenauts Unmasked: A DC Comics Adventure]]'', Captain Marvel Jr. can be used.
+* Freddy Freeman/Captain Marvel Jr. appears as a playable character in ''[[Lego DC Super Villains]]'', who is unlocked by purchasing the Shazam! Part 1 [[Downloadable content|DLC]] pack. Freddy just like his movie counterpart walks while holding a crutch. In his regular form, he can throw his Batarang toy as a projectile. In his Shazam form, just like Shazam, he can fly and shoot electricity and be transformed by holding a button.
+
+==Collected editions==
+*''The Shazam! Family Archives Volume 1'' (2006). Reprints the Captain Marvel Jr. stories from ''[[Master Comics]]'' #23–32 and ''Captain Marvel Jr.'' #1, as well as the story of the origin of Mary Marvel from ''Captain Marvel Adventures'' #18. Art by [[Mac Raboy]], Al Carreno, and [[Marc Swayze]]. ({{ISBN|1-40120-779-0}})
+*''The Trials of Shazam! Volume 1'' (2007). Collects issues #1–6 of the maxiseries ''The Trials of Shazam!'' and the 11-page preview of the maxiseries from ''Brave New World'' #1. Written by Judd Winick. Art by Howard Porter. ({{ISBN|1-40121-331-6}})
+*''The Trials of Shazam! Volume 2'' (2008). Collects issues #7–12 of the maxiseries. Written by Judd Winick. Art by Howard Porter and Mauro Cascioli. ({{ISBN|1-40121-829-6}})
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{cite web |url=http://marvelfamily.com/whoswho/whoswho.aspx?castID=3 |archive-url=https://web.archive.org/web/20110128141652/http://marvelfamily.com/whoswho/whoswho.aspx?castID=3 |url-status=dead |archive-date=2011-01-28 |title=Captain Marvel, Jr.'s "Who's Who" file |website=The Marvel Family Web}}
+*{{cite web |url=http://www.dcindexes.com/indexes/indexes.php?character=272 |archive-url=https://archive.today/20130121073845/http://www.dcindexes.com/indexes/indexes.php?character=272 |url-status=dead |archive-date=2013-01-21 |title=Earth-S Captain Marvel, Jr. |website=DC Index}}
+*{{cite web |url=http://www.dcindexes.com/indexes/indexes.php?character=1151 |archive-url=https://archive.today/20121209230134/http://www.dcindexes.com/indexes/indexes.php?character=1151 |url-status=dead |archive-date=2012-12-09 |title=Earth-S Marvel Family |website=DC Index}}
+*{{cite web |url=http://www.toonopedia.com/capmarvj.htm |title=Captain Marvel, Jr. |website=[[Don Markstein's Toonopedia]] |url-status=dead |archive-url=https://www.webcitation.org/66nze66ft?url=http://www.toonopedia.com/capmarvj.htm |archive-date=April 9, 2012}}
+*{{cite web |url=http://www.captainmarvelculture.com/8jr.html |title=Captain Marvel, Jr.|website=Captain Marvel Culture.com}} The history of the many Captain Marvels
+
+{{Shazam}}
+{{Teen Titans}}
+{{Outsiders (comics)}}
+{{All-Star Squadron}}
+{{Otto Binder}}
+{{GoldenAge}}
+
+[[Category:American comics characters]]
+[[Category:Characters created by France Herron]]
+[[Category:Comics characters introduced in 1941]]
+[[Category:DC Comics American superheroes]]
+[[Category:DC Comics characters who are shapeshifters]]
+[[Category:DC Comics characters who can move at superhuman speeds]]
+[[Category:DC Comics characters with accelerated healing]]
+[[Category:DC Comics characters with superhuman strength]]
+[[Category:DC Comics characters who can teleport]] 
+[[Category:DC Comics characters who use magic]]
+[[Category:DC Comics child superheroes]]
+[[Category:DC Comics male superheroes]]
+[[Category:DC Comics orphans]]
+[[Category:DC Comics sidekicks]]
+[[Category:Fictional characters with disability]]
+[[Category:Fictional characters with electric or magnetic abilities]]
+[[Category:Fictional characters with eidetic memory]]
+[[Category:Fictional characters with precognition]]
+[[Category:Fictional characters with dimensional travel abilities]]
+[[Category:Golden Age superheroes]]
+[[Category:Marvel Family]]
+[[Category:Time travelers]]
+[[Category:Solomon]]
+[[Category:Heracles in fiction]]
+[[Category:Zeus]]
+[[Category:Achilles]]
+[[Category:Mercury (mythology)]]

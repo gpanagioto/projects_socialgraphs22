@@ -1,0 +1,56 @@
+{{Infobox comics character<!--Wikipedia:WikiProject Comics-->
+|image= King Standish (JSA panel).jpg
+|converted= y
+|caption=
+|character_name=King Standish
+|publisher=[[DC Comics]]
+|debut=''[[Flash Comics]]'' #3 (March 1940)
+|creators=[[Gardner Fox]] (writer)<br/>William Smith (artist)
+|alter_ego=
+|species = <!-- optional -->
+|homeworld = <!-- optional -->
+|alliances=[[All-Star Squadron]]<br/>[[Office of Strategic Services]]
+|partners =
+|aliases=The King
+|powers= Master of [[disguise]]<br/>Master [[illusionist]]<br>Skilled hand to hand combatant<br>Occasional use of guns 
+|supports =<!--optional-->
+|}}
+
+'''King Standish''' (a.k.a. Man of 1000 Faces) is a [[fictional character]] in the [[DC Comics]] [[DC Universe|Universe]]. The character first appeared in ''[[Flash Comics]]'' #3 (March 1940) and was created by [[Gardner Fox]] and William Smith.<ref>{{cite book |last1=Thomas |first1=Roy |title=The All-Star Companion: Vol. 2 |date=2006 |publisher=TwoMorrows Publishing |isbn=978-1893905375 |page=88}}</ref>
+
+==Fictional character biography==
+Wealthy, sophisticated King Standish was a master of disguise who wanted to stop crime.<ref>{{cite web |last1=Markstein |first1=Don |title=The King |url=http://www.toonopedia.com/theking.htm |website=Don Markstein's Toonopedia |access-date=22 April 2020}}</ref> He was considered a criminal by both the police and the underworld, but he was a crime-fighter. He used hand-to-hand combat and occasionally guns. Over time, his reputation improved. King Standish always remained in disguise, allowing no one to know what he looked like. His actual face and name are never revealed. He wore a [[tuxedo]], an opera cape, a [[top hat]] and a [[domino mask]], whenever making an appearance not in disguise.<ref name="Commic Vine">{{cite web |title=The King |url=https://comicvine.gamespot.com/the-king/4005-61635/ |website=[[Comic Vine]] |access-date=October 10, 2019}}</ref>
+
+His most frequent adversary was the Witch, who rivaled his ability to disguise himself. He finally convinced her to switch sides, and help him in his fight against crime.<ref>{{cite book |last1=Nevins |first1=Jess |title=Encyclopedia of Golden Age Superheroes |date=2013 |publisher=High Rock Press |isbn=978-1-61318-023-5 |pages=150–151}}</ref>
+
+During World War II, he was contacted by Control to become a member of the [[Office of Strategic Services]] (OSS), which he remained the war was over.
+
+Later, he helped the [[Justice Society of America]] when Jacob Tolzmann became a supernatural threat. With [[Wesley Dodds|Sandman]] and the [[Sylvester Pemberton|Star Spangled Kid]] knocked out, King teamed up with their sidekicks, [[Sanderson Hawkins|Sandy]] and [[Pat Dugan|Stripesy]]. The King disguised himself as Tolzmann's father to distract him, allowing the sidekicks to defeat him.<ref name="Commic Vine" />
+
+In ''Justice Society of America'' (vol. 3) #29, a new recruit to the team, [[King Chimera]], reveals a little bit about himself, saying his father was King Standish and that he met with a member of a secret order on a distant island to perfect the art of illusion. King Chimera mentioned his mother had a thing for older men, hinting that he was much older than she.<ref>''Justice Society of America'' (vol. 3) #29 (July 2009)</ref>
+
+King Standish's current activities and whereabouts were not recorded, last appearing in ''[[Starman (comics)|Starman]]'' #66 (June 2000).<ref name="Commic Vine" />
+
+==Powers and abilities==
+King Standish is a master of [[disguise]], a master [[illusionist]], and is skilled hand-to-hand combatant.
+
+===Equipment===
+King Standish has made occasional use of guns.
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.dcuguide.com/who.php?name=king The Unofficial King Biography]
+* [http://comicvine.gamespot.com/the-king/29-61635/ The King at Comic Vine]
+* [https://dc.fandom.com/wiki/King_Standish_(New_Earth) The King at DC Wikia]
+
+{{All-Star Squadron}}
+{{GoldenAge}}
+{{Gardner Fox}}
+
+[[Category:Golden Age superheroes]]
+[[Category:Comics characters introduced in 1940]]
+[[Category:DC Comics superheroes]]
+[[Category:Characters created by Gardner Fox]]
+[[Category:Fictional illusionists]]

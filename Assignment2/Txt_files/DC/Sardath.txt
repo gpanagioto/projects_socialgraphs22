@@ -1,0 +1,52 @@
+{{Infobox comics character
+|character_name=Sardath
+|image=
+|caption=
+|publisher=[[DC Comics]]
+|debut=''[[Showcase (comics)|Showcase]]'' #17 (November 1958)
+|creators=[[Gardner Fox]]<br/>[[Mike Sekowsky]] 
+|real_name =  Sardath
+|species = Rannian
+|homeworld = [[Rann (fictional planet)|Rann]]
+|partners = [[Adam Strange]]
+|alliances=
+|aliases=<!--optional-->
+|supports=<!--optional-->
+| powers = 
+*[[Genius]]-level intellect
+*Expert engineer with exceptional technological prowess
+|}}
+'''Sardath''' is a [[science fiction]] character appearing in [[American comic books]] published by [[DC Comics]]. Created by editor [[Gardner Fox]] and [[Mike Sekowsky]], he first appeared in ''[[Showcase (comics)|Showcase]]'' #17 (November 1958).
+
+==Publication history==
+Sardath was created by [[Gardner Fox]] and [[Mike Sekowsky]], first appearing in ''Showcase'' #17. However, in the Prime Earth continuity, Sardath first appeared as part of the [[New 52]] DC Universe in ''Justice League United'' #2 by [[Jeff Lemire]] and [[Mike McKone]].
+
+==Fictional character biography==
+Sardath is the lead scientist on the technologically advanced planet [[Rann (fictional planet)|Rann]]. The Rannians are a humanoid race who appear almost identical to [[humans]] from [[Earth]]. Sardath is known for many of his world's greatest inventions, the most important being Zeta-Beam. It was originally created as a communication device so he could contact other worlds; due to the amount of energy used, it became a teleporter. The first planet reached was Earth, where it struck one of the world's native archaeologists, [[Adam Strange]], and then transported him across the galaxy to Rann. Sardath was shocked by this, but theorised that radiation of the beam would wear off, sending the Earthling home. The alien was shocked to find himself in Sardath's lab; he calmed down when he met Sardath's daughter, Alanna. 
+
+The Earthling remained with Sardath and his daughter to protect the planet from extraterrestrial threats using Rann's technology. Eventually, the effects of the beam wore off, automatically returning Strange to Earth at the exact point of departure, but not before Sardath had given him a schedule of beam firings, allowing him to periodically return to the planet. Using mathematical calculations, he was able to determine the exact time and the precise locations at which the Zeta-Beams would arrive. He travels the world and intercepts them, to defend Rann and be with Alanna.<ref>''Showcase'' #17 in ''The Adam Strange Archives: Volume 1''. Pages 9–34. DC Comics.</ref>
+
+==In other media==
+===Television===
+* Sardath appears in the television series ''[[Batman: The Brave and the Bold]]'' episode "Mystery in Space", voiced by [[Richard McGonagle]].
+* Sardath appears in the ''[[Young Justice (TV series)|Young Justice: Invasion]]'' episode "Earthlings", voiced by [[W. Morgan Sheppard]]. Sardath and Alanna help Adam Strange and his allies [[Superboy (Kon-El)|Superboy]], [[Miss Martian]], and [[Beast Boy]] in their efforts to find the [[Kroloteans]] and their Zeta Ray technology by distracting Rannian authorities and fighting the armored Kroloteans. Sardath only speaks his native Rannian, but thanks to Miss Martian's telepathic abilities they are all able to understand him.
+* Sardath appears in the 2018 [[SyFy]] series ''[[Krypton (TV series)|Krypton]]'', in which he works alongside Adam Strange and Alanna to make sure Krypton's history continues on track.<ref>{{cite web|url=https://www.space.com/37587-syfy-krypton-tv-series-time-travel-twist.html|title=Syfy's ''Krypton'' Has a Time Travel DC Twist... and Adam Strange & Brainiac|date=July 22, 2017|website=Space.com|first=Chris|last=Arrant|access-date=August 7, 2017}}</ref><ref>{{cite web|url=https://deadline.com/2017/09/krypton-shaun-sipos-adam-strange-syfy-superman-prequel-1202169783/|title=''Krypton'': Shaun Sipos To Play Adam Strange In Syfy Superman Prequel Series|first=Nellie|last=Andreeva|date=14 September 2017|website=[[Deadline Hollywood]]|access-date=May 4, 2018}}</ref>
+
+===Film===
+Sardath appears in ''[[Green Lantern: Beware My Power]]'', voiced by [[Simon Templeman]].
+
+==References==
+{{Reflist}}
+
+==External links==
+* [[DCDatabase:Sardath|DCDP: Sardath]] – DC Database Project
+
+{{Gardner Fox}}
+
+{{DEFAULTSORT:Sardath}}
+[[Category:American comics characters]]
+[[Category:1958 comics debuts]]
+[[Category:Comics characters introduced in 1958]]
+[[Category:DC Comics titles|Adam Strange]]
+[[Category:Characters created by Gardner Fox]]
+[[Category:Characters created by Mike Sekowsky]]

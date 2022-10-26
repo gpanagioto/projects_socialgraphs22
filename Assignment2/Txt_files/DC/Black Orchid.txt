@@ -1,0 +1,115 @@
+{{short description|DC Comics character}}
+{{Use mdy dates|date=May 2022}}
+{{Use American English|date=May 2022}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|image=BlackO.JPG
+|converted=y
+|caption=Black Orchid's debut: ''[[Adventure Comics]]'' #428 (Aug. 1973), cover art by [[Bob Oksner]].
+|character_name=Black Orchid
+|real_name={{ubl|Susan Linden-Thorne|Flora Black|Suzy|Alba Garcia}}
+|publisher=[[DC Comics]]
+|debut='''Linden-Thorne:'''<br>''[[Adventure Comics]]'' #428 (July 1973)<br> '''Black:'''<br>''[[Black Orchid (comic book)|Black Orchid]]'' #1 (December 1988<br>'''Suzy:'''<br>''Black Orchid'' #2 (January 1989)<br>'''Garcia:'''<br>''[[Justice League Dark]]'' #9 (July 2012)
+|creators='''Linden-Thorne:'''<br>[[Sheldon Mayer]]<br>[[Tony DeZuniga]]<br> '''Black, Suzy:'''<br>[[Neil Gaiman]]<br>[[Dave McKean]]<br> '''Garcia:''' <br>Mikel Janín<br>[[Jeff Lemire]]
+|alliances='''(Linden-Thorne)'''<br>[[Suicide Squad]]<br>'''(Black, Suzy)'''<br>[[Parliament of Trees]]<br>'''(Garcia)'''<br> [[Justice League Dark]]<br/>[[A.R.G.U.S.]]
+|aliases=
+|powers=*Human-plant hybrid with superhuman strength, speed, agility, and durability
+*Flight
+*Reincarnation by mental transference to host bodies
+*Mystical connection to the plant world via [[Parliament of Trees|the Green]]
+|cat=
+|subcat=Vertigo Comics
+|sortkey=Black Orchid
+}}
+{{Lead too short|date=June 2022}}
+'''Black Orchid''' is the name of four [[superheroine]]s published by [[DC Comics]]. The original version of the character first appeared in ''[[Adventure Comics]]'' #428 ([[cover-date]]d July 1973).<ref name="dc-ency">{{Citation  | last = Jimenez | first = Phil | author-link = Phil Jimenez | contribution = Black Orchid | editor-last = Dougall | editor-first = Alastair | title = The DC Comics Encyclopedia | pages = 52 | publisher = [[Dorling Kindersley]] | place = London | year = 2008 | isbn = 978-0-7566-4119-1}}</ref>
+
+==Development==
+DeZuñiga found the most obvious inspiration for the Orchid’s garb from her flower namesake, [[Cymbidium canaliculatum]], a plant resplendent with dark black-purple petals and sepals. It was a Golden Age [[Quality Comics]] hero that would further serve as a muse for the artist. DeZuñiga described brainstorming the design concept, "I read the character description and [recalled that] in the ’40s there was this character called the [[Black Condor]], but [since] that was a male superhero, I took some ideas and revised [it] to a female form."<ref>{{cite journal |last1=Eury |first1=Micheal |title=Back Issue! |date=2011 |issue=52 |page=40}}</ref>
+
+==Fictional character biographies==
+===Susan Linden-Thorne===
+[[File:Black Orchid Justice League Dark 11.png|thumb|left|Alba Garcia as ''Black Orchid'' in ''Justice League Dark'' #11 (September 2012), art by Mikel Janín.]]
+Although she has a number of superpowers (including flight, super-strength, and invulnerability to bullets) her main ability is a mastery of disguise.<ref>{{cite web |last1=Markstein |first1=Don |title=The Black Orchid |url=http://www.toonopedia.com/blorch-1.htm |website=Don Markstein's Toonopedia |access-date=2 April 2020}}</ref> She often spends an entire investigation impersonating a seemingly insignificant female background character (e.g. a maid, a secretary, someone's girlfriend) and the other characters only discover her involvement at the end of the story upon finding the bound and gagged woman she impersonated, and an abandoned disguise with her calling card, a black [[orchid]].
+
+After appearing in ''Adventure Comics'' #'s 428–430, a backup feature starring the character ran in ''[[Phantom Stranger|The Phantom Stranger]]'' #31–32, 35–36, and 38–41 (1974–1976). Black Orchid subsequently appeared sporadically, including occasional cameos in the ''[[Crisis on Infinite Earths]]'' 12-issue limited series, ''[[Blue Devil (DC Comics)|Blue Devil]] Annual'' #1, ''[[Deadshot]]'' #1, and ''[[Invasion! (DC Comics)|Invasion!]]'' #2. She had a slightly larger role in ''[[Suicide Squad]]'' as a member of the team in issues #4, 7, 11–12, and 22 (1987–1988). She also had an appearance in the non-continuity children's comic book ''[[Super Friends#Comics|Super Friends]]'' #31.
+
+While ''Adventure Comics'' #428 proclaimed on its cover that it was an "origin issue", almost no background on the character was given, not even her name.<ref>{{cite book|last=McAvennie|first= Michael|editor-last = Dolan|editor-first = Hannah|chapter= 1970s|title = DC Comics Year By Year A Visual Chronicle|publisher=[[Dorling Kindersley]] |year=2010 |isbn= 978-0-7566-6742-9 |page= 156 |quote = Very little was known about the Black Orchid, even after writer Sheldon Mayer and artist Tony DeZuniga presented her so-called "origin issue" in ''Adventure Comics''.}}</ref> Until [[Neil Gaiman]] described her origin, the character was known for her lack of an origin. Instead, writers teased the audience with several possible origins, all refuted.  In ''Adventure Comics'' #429, Barry DeMorte hypothesizes that either [[yoga]] master Lucinda "Cindy" Harper or anti-gravity specialist Daphne Wingate is Black Orchid, and he kidnaps both. When Black Orchid comes to the rescue, he learns otherwise. In ''The Phantom Stranger'' #38, writer [[Michael Fleisher]] posited racecar driver Ronnie Kuhn as a possible secret identity for Black Orchid. In the next issue, Kuhn is revealed to be simply an admirer of Black Orchid, who is soon seduced into "The Black Orchid Legion" ([[molecular chemistry |molecular chemist]] Karen Jensen, [[astrophysicist]] Stefanie Tower, Olympic gymnast and acrobat Barbie Henderson, criminologist Janet Grant, and [[psychologist]] and martial artist Lisa Patrick), a group of criminals who developed suits that would mimic Black Orchid's powers, because of her father's status as president of the [[World Bank]], claiming that they are helping her to protect it from [[Communists]].  They bind her to the safe door, which they have set with explosives. Black Orchid rescues her, and when the police arrest the Legion, one mistakes Kuhn for Black Orchid, claiming to "know how it is with you super-heroes".<ref>''The Phantom Stranger'' (vol. 2) #40–41</ref> Although ''Super Friends'' was never considered canon, writer [[E. Nelson Bridwell]] made it fit, anyway. His story had Lisa Patrick purchase a large chunk of [[kryptonite]] on the black market, convinced that Black Orchid is a [[Kryptonian]]. Patrick tries to lure her to the [[meteorite]] display at the [[Gotham City]] Museum of Natural History, attracting the [[Justice League]]. Black Orchid places a force field around the kryptonite to protect [[Superman]], but the force field seemingly harms her instead, further convincing Patrick that she is Kryptonian, not noting the lack of effect on Superman. Superman takes the kryptonite into space, and Black Orchid follows him to take it as a brief hand-off so that the fragments will not kill him.  When she survives the explosion, Superman inquires where she is from and how she acquired her powers. She answers, "Earth".<ref>''Super Friends'' #31</ref>
+
+In ''Blue Devil Annual'' #1, the usually reliable [[Madame Xanadu]] and [[Phantom Stranger]] provide competing origins for Black Orchid. Xanadu identifies her as Madeleine Moorcock, and her origin is a parody of [[Daredevil (Marvel Comics character)|Daredevil]], while the Stranger identifies her as Paula Porter, whose origin parodies [[Spider-Man]].{{cn|date=July 2019}}
+
+Her appearances as an auxiliary member of the [[Suicide Squad]] are generally limited to brief rescues or bits of spying. Perhaps the most revealing issue is #19, in which she does not actually appear, but a black orchid is found as evidence that she has been tapping into Task Force X's [[mainframe computer]], which arouses suspicion, as she is there as support rather than as a rehabilitated criminal. Her disappearance was eventually noted by the Squad.
+
+In 1988, the character was relaunched in the three-issue [[Limited series (comics)|miniseries]] ''[[Black Orchid (comic book)|Black Orchid]]'', written by Neil Gaiman and illustrated by [[Dave McKean]]. The miniseries fleshed out the character considerably, providing an origin story which explained how and why she became known as Black Orchid. It also gave the character a civilian name in her origin sequence, Susan Linden-Thorne. Instead of being a normal super-powered human (or [[metahuman]] in the [[DC Universe]]), her background was changed to be that of a human-plant hybrid with ties to the [[Parliament of Trees|Green]]. In this way she became related with other such human-plant hybrids as the [[Swamp Thing]], [[Floronic Man]], and [[Poison Ivy (character)|Poison Ivy]].<ref name= dc-ency /> After the miniseries concluded, DC Comics intended to put Black Orchid in ''Suicide Squad'' as a comic relief character, but replaced her with Poison Ivy after Gaiman's objections. Gaiman had also wanted to write a sequel to that series called ''Black Orchard'', an "ecological ''[[Invasion of the Body Snatchers]]''", but it never materialized because he didn't want to make it without Dave McKean or at least an artist he liked as much.<ref>[https://archive.org/details/PeteAshtonNailGaiman_1 "Interview With Neil Gaiman, 1989"]</ref>
+
+Susan Linden had been killed by an abusive husband named Carl Thorne, whom she met while a croupier in [[Monaco]]. She had been a teenage [[puppy love|crush]] of botanist Philip Sylvain, who later became a colleague to [[Poison Ivy (comics)|Pamela Isley]], [[Swamp Thing|Alec (Swamp Thing) Holland]] and Linda Holland. When Thorne became abusive, she retreated to Sylvain, who cared for her until Thorne succeeded in killing her. Sylvain used Linden's DNA as the source for plant/human hybrids, and kept an entire greenhouse full of them. While working with the Suicide Squad, Flo Crowley caught Black Orchid, or rather her calling card, after she accessed Task Force X's mainframes.<ref>''Suicide Squad'' #19</ref> She had been attempting to infiltrate [[Lexcorp]], but her ruse was discovered. She had been masquerading as a secretary, but her wig and mask were removed to reveal her in her classic costume. She was bound to a chair inside a burning building. Black Orchid undid her bindings but died of [[smoke inhalation]] before she could escape. Her unrecognizable corpse was determined to be plant material by the fire department. Linden's consciousness was again killed by Thorne, this time a plant that merely thought that she was Linden.<ref>''Black Orchid'' #1</ref>  Thorne destroyed the greenhouse and killed Sylvain, leaving only two surviving hybrids.<ref>''Black Orchid'' #2</ref> Thorne pursued the survivors to [[Brazil]]. A squad, sent by Lex Luthor to capture the hybrids, kills Thorne in self-defense. The survivors, enamored by Black Orchid, bury Thorne and leave.<ref>''Black Orchid'' #3</ref>
+
+===Flora Black===
+The surviving Black Orchids, both having the consciousness and limited memories of Linden, become as mother and daughter, one being significantly smaller and younger than the other, and although the younger is initially more aware of Linden's memories, these swiftly degenerate. The elder goes under the alias of Flora Black to meet with Sherilyn Sommers, her closest friend.<ref name="vert-ency">{{Citation | last = Irvine | first = Alex | author-link = Alexander C. Irvine | contribution = Black Orchid | editor-last = Dougall | editor-first = Alastair | title = The Vertigo Encyclopedia | pages = 32–34 | publisher = [[Dorling Kindersley]] | place = New York | year = 2008 | isbn = 978-0-7566-4122-1 | oclc = 213309015}}</ref>
+
+An ongoing ''Black Orchid'' series, published under the newly created [[Vertigo Comics|Vertigo]] imprint, featuring the new Black Orchid, ran for 22 issues from 1993 to 1995. Written by Dick Foreman, it saw the second version of the character use pheromone manipulation as mind control to become a femme fatale, breaking and marrying millionaire Elliot Weems to claim his fortune and company business as her own. She then became the series' major villain in the closing story arc, before perishing in the final issue. Her companion, a child version of Black Orchid heretofore nicknamed "Suzy", had matured over the course of the series, taking up the mantle of the Black Orchid as a young adult. Suzy features prominently in ''The Black Orchid Annual'' #1, part 2 of Vertigo's ''[[The Children's Crusade (comics)|Children's Crusade]]'' crossover. The Annual was published between issues #4 and #5 of the ongoing series.<ref>[http://sequart.com/swampthingPOSTMOORE2.htm The Continuity Pages: [[Swamp Thing]], [[Hellblazer]] and Black Orchid] Accessed January 11, 2008</ref>
+
+===Suzy===
+The grown-up Suzy is identical to her "sister" and carries on the tradition in both the [[DC Universe]] and related Vertigo titles.<ref name="dc-ency"/>  She has appeared in four event titles: 1999's ''Totems'' [[one-shot (comics)|one-shot]], 2001's ''[[Justice Leagues]]'' limited series, 2005's ''[[Day of Vengeance]]'' limited series, and 2006's ''[[Infinite Crisis]]'' limited series. She is at present an ally of the [[Shadowpact]] and the [[Birds of Prey (comics)|Birds of Prey]].
+
+An unidentified Black Orchid recently appeared in the weekly ''[[Trinity (comic book)|Trinity]]'' series, as a member of an alternate universe [[Justice League]].
+
+===Alba Garcia===
+A new Black Orchid resembling the original (with a slightly modernized costume) appears in [[The New 52]], the 2011 reboot of DC's continuity.<ref name=Guide>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Korte |first3=Steve |last4=Manning |first4=Matt |last5=Wiacek |first5=Win |last6=Wilson |first6=Sven |title=The DC Comics Encyclopedia: The Definitive Guide to the Characters of the DC Universe |date=2016 |publisher=DK Publishing |isbn=978-1-4654-5357-0 |page=46}}</ref> In this new timeline, she is assigned to the [[Justice League Dark]] by [[Steve Trevor]] and is an agent of ARGUS. Her name has been revealed to be '''Alba Garcia''', formerly an army private whose arms had been amputated.<ref>''Justice League Dark'' #14</ref> She transforms into a monstrous purple [[Swamp Thing]]-like creature during her time in a magical alternate dimension where each member of the Justice League Dark suffers differently due to the effects of the new environment. The transformation possibly suggests that she is linked to an elemental force analogous to "the Green", considering Swamp Thing's physical form manifests due to his connection to the Green.
+
+==Powers and abilities==
+The first Black Orchid had super strength, durability, flight, and was a master of disguise. The second and third Black Orchids had super strength, flight, and could absorb nutrients from the air. The second version could also generate seductive pheromones and was seen to change her eye pigmentation, commenting that skin, hair, and eye color were easy for adjust (presumably linking back to her predecessors' disguise ability).
+
+The New 52 version of the character seemingly possesses all of these abilities, as well as the power to change shape at will, providing a modern explanation for the elaborate disguises of the original. Her manipulation of the Red and the Green allow her to change form, and stretch her body to extreme lengths.
+
+==Other versions==
+===JLA: The Nail===
+In the [[Elseworlds]] story ''[[JLA: The Nail]]'', a captive Black Orchid makes an appearance in [[Professor Hamilton]]'s [[Cadmus Labs]].<ref>''JLA: The Nail'' #3</ref> In the sequel ''Another Nail'', she appears alongside [[Power Girl]] and [[Star Sapphire (comics)|Star Sapphire]] as part of a team sent to steal [[Amazo]] from the [[Metal Men]], later revealed to be on the orders of [[Niles Caulder]] and [[Dinah Lance]].
+
+===Flashpoint===
+The original Black Orchid briefly appears in the 2011 limited series ''[[Flashpoint (comics)|Flashpoint: Secret Seven]]''.<ref>{{cite web| url= http://www.comicbookresources.com/?page=preview&id=8825| title= Flashpoint: Secret Seven #1 (Preview) | website= ComicBookResources.com| date= May 27, 2011 | access-date= February 7, 2017}}</ref> She is a member of the original Secret Seven who had been killed years earlier. Black Orchid apparently returns from the dead to contact her former teammate [[Shade, the Changing Man]], but is ultimately revealed to be a monster who had merely assumed Orchid's form.<ref>''Flashpoint: Secret Seven'' #1</ref>
+
+==In other media==
+===Television===
+* Black Orchid appears in the ''[[Batman: The Brave and the Bold]]'' episode "The Mask of Matches Malone!". She has no dialogue or credited voice actress. In this show, she has botanokinetic powers instead of her powers from the comics.
+* Black Orchid makes a cameo appearance as a high school student in the web series ''[[DC Super Hero Girls]]''.
+* Black Orchid was going to appear in an episode of ''[[Constantine (TV series)|Constantine]]'' before the show was cancelled.<ref>{{cite web|url=http://screenrant.com/constantine-tv-show-justice-league-dark-swamp-thing/|title=David S. Goyer Talks 'Constantine', Justice League Dark & DC TV Show Crossovers|first= Sandy| last= Schaefer|date=16 October 2014|work=Screen Rant|access-date=16 October 2014}}</ref>
+
+===Film===
+* Black Orchid appears in the animated film ''[[Justice League Dark (film)|Justice League Dark]]'', voiced by [[Colleen Villard]].<ref>{{cite news|url=http://www.superherohype.com/news/379295-justice-league-dark-featurette-reveals-matt-ryan-returns-as-constantine|title=Justice League Dark Featurette Reveals Matt Ryan Returns as Constantine!|publisher=Superhero Hype |last= Perry| first= Spencer|date=July 26, 2016}}</ref><ref>{{cite tweet| first= Colleen| last= OShaughnessy| title= 
+Sweet trailer for #JusticeLeagueDark movie! That's me at the end, talking to #batman https://www.youtube.com/watch?v=MbA8TKIeJ7g&sns=tw … via @youtube| user= VOColleen| number= 803761237351763968| date= November 29, 2016| access-date= January 7, 2017}}</ref> This version is depicted as a manifestation of the [[House of Mystery#The House|House of Mystery]]'s magical aura with a desire to experience human nature. She later appears in ''[[Justice League Dark: Apokolips War]]''.
+
+===Video games===
+* Black Orchid makes a non-canon cameo in the game ''[[Fallout: New Vegas]]'', on the cover of the Skill Magazine ''¡La Fantoma!''. The magazine cover itself is a mirrored and re-colored version of Black Orchid's debut on the cover of ''Adventure Comics'' #428.{{cn|date=July 2019}}
+
+==References==
+{{Reflist|2}}
+
+==External links==
+* [https://web.archive.org/web/20070424184459/http://users.rcn.com/aardy/comics/awards/index.html Comic Book Awards Almanac]
+* [http://www.toonopedia.com/blorch-1.htm Toonopedia Entry on Black Orchid I]
+* [http://www.toonopedia.com/blorch-2.htm Toonopedia Entry on Black Orchid II]
+
+{{Neil Gaiman}}
+{{Justice League Dark}}
+{{Justice League characters}}
+[[Category:Articles about multiple fictional characters]]
+[[Category:Characters created by Neil Gaiman]]
+[[Category:Clone characters in comics]]
+[[Category:Comics characters introduced in 1973]]
+[[Category:Comics characters introduced in 1988]]
+[[Category:DC Comics characters who are shapeshifters]]
+[[Category:DC Comics characters who can move at superhuman speeds]]
+[[Category:DC Comics characters with superhuman strength]]
+[[Category:DC Comics fantasy characters]]
+[[Category:DC Comics female superheroes]]
+[[Category:DC Comics female supervillains]]
+[[Category:DC Comics martial artists]]
+[[Category:DC Comics orphans]]
+[[Category:DC Comics plant characters]]
+[[Category:DC Comics hybrids]] 
+[[Category:Fictional amputees]]
+[[Category:Fictional female secret agents and spies]]
+[[Category:Fictional privates]] 
+[[Category:Fictional characters with absorption or parasitic abilities]]
+[[Category:Fictional characters with death or rebirth abilities]]
+[[Category:Fictional characters with spirit possession or body swapping abilities]]

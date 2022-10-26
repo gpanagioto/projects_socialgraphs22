@@ -1,0 +1,5 @@
+#REDIRECT [[Sage (Marvel Comics)]]
+
+{{Redirect category shell|
+{{R from move}}
+}}

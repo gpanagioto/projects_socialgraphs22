@@ -1,0 +1,139 @@
+{{short description|Fictional comic book character}}
+{{Infobox comics character
+<!--Wikipedia:WikiProject Comics-->
+<!-- |character_name = Big Barda -->
+|image = Barda.PNG
+|converted = y
+|caption = Big Barda, art by [[Stéphane Roux (comics)|Stephane Roux]].
+|publisher = [[DC Comics]]
+|debut = ''[[Mister Miracle]]'' #4 (October 1971)
+|creators = [[Jack Kirby]] (writer - artist)
+|alter_ego = Barda Free
+|species = [[New Gods|New God]]
+|homeworld = [[Apokolips]]
+|alliances = [[New Gods]]<br>[[Justice League]]<br>[[Female Furies]]<br>[[Birds of Prey (comics)|Birds of Prey]]
+|aliases = <!-- optional: actual identities the character uses, not nicknames -->
+|supports = <!--optional-->
+|powers =
+* Immortality
+* Superhuman strength, durability, reflexes and speed 
+* Master hand-to-hand combatant
+* Expert with various types of weaponry
+* Battle armor and wields a mega-rod
+| altcat = New Gods of New Genesis
+| hero =
+| villain =
+| sortkey = Big Barda
+}}
+'''Big Barda''' is an [[antihero]] appearing in [[American comic book]]s published by [[DC Comics]]. She first appeared in ''[[Mister Miracle]]'' #4 (October 1971), and was created by [[Jack Kirby]].<ref name="dc-ency">{{Cite book | last=Greenberger | first=Robert | contribution=Big Barda | editor-last=Dougall | editor-first=Alastair | title=The DC Comics Encyclopedia | page=47 | publisher=[[Dorling Kindersley]] | location=London | year=2008 | isbn=978-0-7566-4119-1}}</ref> Jack Kirby based Barda's physical appearance on [[Lainie Kazan]], who had recently appeared topless in ''[[Playboy]]''.<ref name="Ronin">{{Cite book | last=Ro | first=Ronin | title=Tales to Astonish: Jack Kirby, Stan Lee, and the American Comic Book Revolution | publisher=Bloomsbury | date=July 2004 | isbn=1-58234-345-4}}</ref> [[Mark Evanier]], Kirby's assistant on the [[Fourth World (comics)|Fourth World]] comics, has explained the genesis of the character: "Jack based some of his characters (not all) on people in his life or in the news... the characterization between Scott 'Mister Miracle' Free and Barda was based largely—though with tongue in cheek—on the interplay between Kirby and his wife Roz".<ref>{{Cite web | url=http://povonline.com/jackfaq/JackFaq1.htm | title=The Jack F.A.Q. | work=Povonline.com | access-date=2011-01-15 | archive-url=https://web.archive.org/web/20101217041205/http://povonline.com/jackfaq/JackFaq1.htm | archive-date=17 December 2010 | url-status=dead}}</ref>  In 2011, Big Barda was ranked 75th in ''[[Comics Buyer's Guide]]'s'' "100 Sexiest Women in Comics" list.<ref>{{cite book | last = Frankenhoff | first = Brent | author-link = Brent Frankenhoff | title = Comics Buyer's Guide Presents: 100 Sexiest Women in Comics | publisher = [[Krause Publications]] | year = 2011 | page = 49 | isbn = 978-1-4402-2988-6}}</ref>
+
+==Fictional character biography==
+Barda is a member of the race known as the [[New Gods]], and was born on [[Apokolips]] about 250 years ago.<ref name=Guide>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Korte |first3=Steve |last4=Manning |first4=Matt |last5=Wiacek |first5=Win |last6=Wilson |first6=Sven |title=The DC Comics Encyclopedia: The Definitive Guide to the Characters of the DC Universe |date=2016 |publisher=DK Publishing |isbn=978-1-4654-5357-0 |page=38}}</ref> Her mother was Big Breeda, whom Barda was taken away from at an early age to be trained as a warrior at [[Granny Goodness]]' Home for Orphaned Youth.<ref>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Manning |first3=Matthew K. |last4=McAvennie |first4=Michael |last5=Wallace |first5=Daniel |title=DC Comics Year By Year: A Visual Chronicle |date=2019 |publisher=DK Publishing |isbn=978-1-4654-8578-6 |page=141}}</ref> Granny grooms Barda to one day lead the [[Female Furies|Female Fury Battalion]], a ferocious pack of warrior women.<ref name="dc-fema">{{Cite book | last=Wallace | first=Dan | contribution=Female Furies | editor-last=Dougall | editor-first=Alastair | title=The DC Comics Encyclopedia | page=120 | publisher=Dorling Kindersley | location=New York | year=2008 | isbn=978-0-7566-4119-1 | oclc=213309017}}</ref> However, during a raid, Barda meets [[Mister Miracle|Scott Free]], Darkseid's adopted son, and, sensing a peace about him, falls in love.<ref name="dc-ency"/>
+
+Barda risks her own safety to work with the rebel cell led by the New God [[Himon]]. This comes directly after the murder of most of Himon's cell by the local authority, Wonderful Williki. This includes one of Barda's people, Auralie, who is tortured to death for dancing, a crime on Apokolips. Moments later, Himon kills Willik with a bomb. Barda, her Furies, Himon and Metron help Scott escape Apokolips. Darkseid himself calls for Scott to return but doesn't actually stop him, as Scott's escape can reignite his war with New Genesis. Barda, not emotionally prepared to escape herself, stays behind.<ref>''Mister Miracle'' #9 (September 1972)</ref> Eventually, Barda turns her back on Granny Goodness and comes to Earth.<ref>''Mister Miracle'' #4 (September/October 1971)</ref> Once there, she finds that Scott has taken up the mantel of the escape artist Thaddeus Brown, AKA Mister Miracle, and has teamed with his diminutive manager [[Oberon (comics)|Oberon]]. Oberon and Barda become close friends. For a while, Barda's Furies assist Scott in his showmanship efforts<ref>''Mister Miracle'' #14 (July 1973)</ref> but they return to Apokolips by themselves. Scott and Barda are married by Scott's birth father, the [[Highfather]] of [[New Genesis]].<ref>''Mister Miracle'' #18 (February/March 1974)</ref><ref>{{cite book |last1=Sacks |first1=Jason |last2=Dallas |first2=Keith |title=American Comic Book Chronicles: The 1970s |date=2014 |publisher=TwoMorrows Publishing |isbn=978-1605490564 |page=144}}</ref>
+
+For a number of years Barda follows Scott and Oberon on tour. Eventually they retire from superheroing and move to Bailey, New Hampshire.<ref>''Mister Miracle'' vol. 2, #1 (January 1989)</ref> Despite their best attempts, a normal life eludes them. Disasters plague them and eventually Barda, Scott, and Oberon leave Bailey to move into a loft in [[Greenwich Village]]. Barda forms a defense-training program for women called the New Female Furies.
+
+===Justice League===
+Though naïve regarding Earth customs, Barda relishes her roles of wife and housekeeper, but when duty calls she never hesitates to assume the posture of a warrior; and when Scott joins the [[Justice League]], Barda participates in several missions.<ref>''Justice League International'' #7 (November 1987); ''Justice League America'' #28 (July 1989)</ref> In one instance, while training [[Fire (comics)|Fire]], her weapon, the Mega-Rod, is stolen from her car. With the assistance of her husband and the [[Huntress (Helena Bertinelli)|Huntress]], she gets it back, but not before many innocent people are killed by its wielder, who was unable to resist the corrupting influence of the Apokoliptian technology. Barda also led a JLA mission to rescue her husband after he was lost in space. The mission was a result of [[Manga Khan]] selling Scott to [[Granny Goodness]]. Her teammates included [[Martian Manhunter]], [[Dimitri Pushkin|Rocket Red]], and [[G'nort]]. In an attempt to dissuade their successful pursuit, Manga Khan hired [[Lobo (DC Comics)|Lobo]], paying him in [[dolphin]] feed, to kill them. He almost does, before Barda teleports him to a random location, that being ten feet behind [[Guy Gardner (comics)|Guy Gardner]]'s skull. The repercussions of that literal meeting of the minds would last for years.
+
+For a time, Barda mourns Scott, believing him slain in a battle with [[Despero]], but it was a robot double that was destroyed, as part of a plan by Manga Khan.<ref>''Justice League America'' vol. 2, #37-40 (April–July 1990)</ref>
+
+After their time with the JLI, the two leave Earth for [[New Genesis]],<ref>''Mister Miracle'' vol. 2, #28 (June 1991)</ref> but, they soon return<ref>''Mister Miracle'' vol. 3, #1-2 (April–May 1996)</ref> and take up temporary residence aboard the Justice League Refuge. During this period, the couple separate briefly due to Scott's lack of consideration for her feelings. Barda perishes, but is reborn via Scott's temporary access to great cosmic power.<ref>''Mister Miracle'' vol. 3, #4-5 (June–July 1996)</ref>
+
+Barda has served as a member of the JLA in her own right as well. At [[Takion]]'s order, she and fellow New God [[Orion (comics)|Orion]] were sent as agents of New Genesis to serve on the team. Takion predicted that the Earth faced a grave threat.<ref>''JLA'' #17 (April 1998)</ref> Their mission is to help mobilize Earth's heroes against the omnipotent Mageddon. Over time, they become involved with several other JLA missions. [[Adam Strange]], needing help with an alien invasion, enslaves the JLA as part of a bluff. The League works for days, turning the planet into a giant teleportation beam. The aliens are sent off to the prison planet of Takron-Galtos, which Barda had mentioned several times during the ordeal. In another instance, Barda is badly wounded fighting the [[Queen Bee (comics)|Queen Bee]], a member of the newly reformed [[Injustice League]]. Once Mageddon is defeated, Barda and Orion resign from the JLA.<ref name="dc-ency"/><ref>''JLA'' #41 (May 2000)</ref>
+
+===After the League===
+Barda and Scott then reside in the suburbs of [[Connecticut]] and are active adventurers.<ref>''Orion'' #25 (June 2002)</ref> Barda never hesitates to lend a hand to her friends when her power and expertise are needed.
+
+Barda accompanies [[Batman]], [[Superman]], and [[Wonder Woman]] to Apokolips to rescue [[Supergirl]] from [[Darkseid]]'s clutches,<ref>''Superman/Batman'' #11-12 (August–September 2004)</ref> and accepts an invitation from [[Barbara Gordon|Oracle]] to become the heavy-hitter on the [[Birds of Prey (comics)|Birds of Prey]].<ref>''Birds of Prey'' #100 (January 2007)</ref>
+
+A similar-looking character named [[Little Barda]] appeared as a member of the [[Teen Titans]] in ''[[52 (comics)|52]]'' #21; the character leaves the group in the same issue. Her relationship to Big Barda is unknown, though she escaped from Apokolips with Power Boy.
+
+In a confrontation with the [[Secret Six (comics)|Secret Six]], she engaged [[Knockout (DC Comics)|Knockout]], another ex-Fury, in hand-to-hand combat. Although the fight is long and continues in the midst of other larger concerns for her team, it ends in a draw.
+
+Big Barda is killed in the first issue of ''[[Death of the New Gods]]''; her funeral occurs in the second issue of the series. [[Infinity-Man]] is later revealed as the killer. He had been slaughtering all the 'New Gods' in the name of restarting a new age of deities.<ref name="dc-ency"/>
+
+''[[Final Crisis]]'' #7 depicts Barda standing alongside [[Lightray (DC Comics)|Lightray]] and Highfather in front of a [[Reincarnation|reincarnated]] New Genesis.<ref>''Final Crisis'' #7 (March 2009)</ref>
+
+===The New 52===
+In ''[[The New 52]]'' (a 2011 reboot of the DC Universe), Big Barda and Scott are seen on [[Earth-Two|Earth 2]].<ref>''Earth 2'' #11</ref> They are later seen with many of the comrades in Supertown.<ref>"The Multiversity Guidebook" (Jan. 2015)</ref> Big Barda and Mister Miracle are recruited by Batman to assist Los Angeles when flooding sea waters threaten all coasts.<ref>''Justice League: Aquaman: Flooded'' #1 (2018)</ref>
+
+==Powers and abilities==
+Barda is a New God, a race of genetically enhanced beings who evolved godly abilities from their proximity to the Source. This gives Barda a level of strength roughly parallel to Wonder Woman as well as a high resistance to injury approaching invulnerability. She is similarly resistant to disease and most toxins. As a former Female Fury trained by Granny Goodness, Barda is a master combatant in terms of swordsmanship and raw brawling, which - in conjunction with her raw strength and grit - make her an immediate match for Wonder Woman.<ref name="jla">{{Cite book | last=Beatty | first=Scott | title=JLA: The Ultimate Guide to the Justice League of America | publisher=Dorling Kindersley | date=November 2002 | isbn=0-7513-4798-1}}</ref><ref name="dc-ency"/>
+
+In combat, Barda wears Apokoliptian battle armor, which enhances her already impressive durability. In addition, Barda manages a high-tech weapon, called the "Mega-Rod". This weapon can create boom tubes for teleportation over long distances, propel her high into the air and release energy blast capable of bringing down such powerful beings as Superman. For a limited time the Mega-Rod can also increase the gravity force of an individual.
+
+==Other versions==
+===''Kingdom Come''===
+Barda appears in the limited series ''[[Kingdom Come (comics)|Kingdom Come]]'' by [[Mark Waid]] and [[Alex Ross]], which is set in an alternate future timeline of DC continuity. [[Orion (comics)|Orion]] has overthrown [[Darkseid]] and is the reluctant ruler of [[Apokolips]]. Barda (now sporting an eye-patch) and [[Mister Miracle|Scott Free]] work to teach the "lowlies" to think for themselves, with Orion's approval. The two have a daughter, Avia, who deploys a mega-rod and wears an outfit that combines elements of those of her parents.
+
+===''Batman: The Dark Knight Strikes Again''===
+In ''[[The Dark Knight Strikes Again]]'', as America descends into anarchy and chaos, a former porn star called [[Thermopylae|Hot Gates]] (a reference to [[Frank Miller (comics)|Frank Miller]]'s ''[[300 (comics)|300]]'' comic) takes up the mantle of "Big Barda" in order to declare herself dictator of [[Columbus, Ohio]].
+
+===''Superman/Batman''===
+''[[Superman/Batman]]'' #24 depicts "Big Bard", the male version of Big Barda from a reverse gender universe, who is married to Miss Miracle.
+
+===''JLA: Another Nail''===
+In ''[[JLA: Another Nail]]'', Barda becomes a [[Green Lantern Corps]] member, although her [[Power ring (DC Comics)|power ring]] having fused to her [[Mother Box]] has made her a rather unusual [[Green Lantern]]. Mister Miracle's consciousness also inhabits the ring (Mister Miracle having 'escaped' being tortured to death by Desaad by transferring his consciousness into the control circuitry of Barda's Mother Box) and he can project himself as a spectral green figure.
+
+===''Batman Beyond/Batman Beyond Unlimited''===
+Barda appears in DC's ''[[Batman Beyond]]'' comics that were loosely based on the animated series: ''Justice League Beyond'' and ''Superman Beyond: Man of Tomorrow'', where, as in the animated series, she belongs to the Justice League during the tenure of [[Terry McGinnis]] as Batman. ''Justice League Beyond'' contains a separate section at the end titled "Beyond: Origins" that briefly summarized the origins of Warhawk (Chapter 1), [[Aquagirl (Batman Beyond)|Aquagirl]] (Chapter 2), and Barda (Chapter 3). Chapter 3 gives an origin story for Barda similar to her [[canon (fiction)|canonical]] mainstream comic book [[continuity (fiction)|continuity]] storyline, but sets the events later so that in the Beyond universe she was born later and didn't join the Justice League until Superman had already visibly aged and begun wearing the black and white costume he sports in the Beyond stories.
+
+===''DC Bombshells''===
+In the ''[[DC Comics Bombshells]]'' continuity, "Big" Barda Free is a member of [[Amanda Waller]]'s Bombshells project. She is also in a romantic relationship with [[Kimiyo Hoshi]].<ref>''DC Comics Bombshells'' #32</ref> Barda's backstory is later revealed in the ''Bombshells United'' follow-up, where it is shown that she was once a member of the Female Furies on Apokolips. While on a mission to find new worlds to conquer, Barda encountered Kimiyo and fell in love with her, which eventually led to her defecting and becoming one of Earth's protectors.<ref>''Bombshells United'' #31</ref>
+
+Barda also appears alongside a gender-bent version of Mr. Miracle in the comic book series ''[[Ame-Comi Girls]]''.
+
+===''Tales from the Dark Multiverse: Flashpoint''===
+In ''[[Dark Multiverse]]: Flashpoint'' world of the Dark Multiverse Big Barda appears in one panel as the ruler of Apokolips with her followers chanting "Barda Is".
+
+==In other media==
+===Television===
+[[File:Big Barda (DC Animated Universe).png|200px|thumb|right|Big Barda in ''Superman: The Animated Series'' (left) and ''Batman Beyond'' (right). Both appearances were used in ''Justice League Unlimited''.]]
+* Big Barda makes a cameo at the end of the second part of the ''[[Superman: The Animated Series]]'' episode, "Apokolips...Now!". When Orion appears to declare Earth under the protection of New Genesis, she can be seen in the background as part of the defensive army in her trademark battle armor.
+* In the two-part episode titled "The Call" of the animated series ''[[Batman Beyond]]'', Barda (voiced by [[Farrah Forke]]) is a member of the Justice League forty years in the future, along with [[List of DC Comics characters: W|Warhawk]], [[Superman]], a [[List of Green Lanterns#Kai-Ro|new Green Lantern]], [[Aquagirl (Batman Beyond)|Aquagirl]], and others. At Superman's request, [[Batman (Terry McGinnis)|Batman]] investigates the members of the Justice League to find a traitor who has been trying to kill off the members one at a time. Barda at first does not trust Terry and treats him with nothing short of contempt, but after he saves her and the rest of the Justice League Unlimited from [[Starro]], the one responsible for framing Superman for the attempted murders, he gains her respect and trust.
+* Big Barda appears in the ''[[Justice League Unlimited]]'' episode "The Ties That Bind", voiced again by Forke. Her physique is uncharacteristically slender in this appearance. In the episode, [[Granny Goodness]] kidnaps [[Oberon (comics)|Oberon]] and forces Barda and Mister Miracle to rescue [[Kalibak]] from the clutches of [[Virman Vundabar]]. With the help of [[Wally West|Flash]], they rescue Kalibak and trick Granny Goodness into revealing Oberon's whereabouts. After Oberon is safe, the couple leave Apokolips, but not before Barda punches Granny Goodness in the face.
+* Big Barda appears in the teaser of the ''[[Batman: The Brave and the Bold]]'' episode "Last Bat on Earth!", voiced by [[Diane Delano]]. Mister Miracle mentions her while he and [[Batman]] are chained to a death trap event for charity. After the event, when Mister Miracle brags about his escape, Barda replies: "You know what would be a real miracle? If you would finally clean out the garage", before walking away; to which Batman responds: "Guess that's one trap you can't escape from". She also has a non-speaking cameo appearance in part 2 of the episode "The Siege of Starro!", among the heroes possessed by [[Starro]], and later, she appears among the heroes that have already broken free of Starro's mind control.
+* Big Barda appears in the ''[[DC Super Hero Girls]]'' TV special ''[[DC Super Hero Girls: Super Hero High|Super Hero High]]'', voiced by [[Misty Lee]]. As a member of the Female Furies, Barda is summoned by Granny Goodness from Super Hero High to help capture the powerful Amethyst and allow for Darkseid to conquer the planet. The Furies are eventually defeated by the combined efforts of the students and sent through a boom tube to Belle Reve. Big Barda shows an interest in leaving the Furies to attend Super Hero High.
+* Big Barda appears in ''[[Justice League Action]]'', voiced by [[Laura Post]]. In episode, "Under a Red Sun", she goes with [[Batman]] to find [[Superman]], who was captured by [[Steppenwolf (comics)|Steppenwolf]] and brought him to a planet with a red sun. In "It'll Take a Miracle", Barda, being [[Mister Miracle]]'s girlfriend, is captured by Darkseid, in exchange for Mister Miracle appearing being brought by Batman.
+* Big Barda appears in ''[[Young Justice: Outsiders]]'', voiced by [[Grey DeLisle|Grey Griffin]]. In this continuity, she has not yet defected from the Furies.
+
+===Film===
+* Big Barda appears in the animated film ''[[Superman/Batman: Apocalypse]]'', voiced by Julianne Grossman.<ref name="tradead">{{Cite web | last=Harvey | first=James | url=http://www.worldsfinestonline.com/news.php/news.php?action=fullnews&id=784 | title=Trade Ad for Upcoming ''Superman/Batman: Apocalypse'' Animated Feature Title | work=World's Finest Online | date=July 1, 2010 | access-date=2010-07-02| archive-url= https://web.archive.org/web/20100710032006/http://www.worldsfinestonline.com/news.php/news.php?action=fullnews&id=784| archive-date= 10 July 2010 | url-status= live}}</ref><ref>{{Cite web | last=Harvey | first=James | url=http://www.worldsfinestonline.com/news.php/news.php?action=fullnews&id=849 | title=Animated 'Superman/Batman: Apocalypse' Feature Cast and Crew Details | work=World's Finest Online | date=September 16, 2010 | access-date=2010-09-16}}</ref> She retains her characteristic muscular physique in her design, albeit less bulky and more slender, with softened and more feminine facial features. As the former captain of Granny Goodness' Furies, Barda assists Superman, Batman and Wonder Woman in their mission to rescue [[Supergirl]] from Darkseid's brainwashing on Apokolips.
+* An alternate universe version of Barda appeared in ''[[Justice League: Gods and Monsters]]'', as part of the New Genesis mission to murder the royalty of Apokolips.
+* Big Barda appeared in ''[[DC Super Hero Girls: Hero of the Year]]'', ''[[DC Super Hero Girls: Intergalactic Games]]'' and ''[[DC Super Hero Girls: Legends of Atlantis]]'', voiced by [[Misty Lee]].
+* Big Barda, along with [[Mister Miracle]] were scheduled to appear in ''[[New Gods]]'' film, directed by [[Ava DuVernay]], originally with screenwriter [[Kario Salem]], but Warner Bros. canceled the project.<ref>{{cite news|last1=Patten|first1=Dominic|last2=Fleming Jr|first2=Mike|title=Ava DuVernay To Direct Jack Kirby Comic Creation 'The New Gods' For Warner Bros, DC|url=https://deadline.com/2018/03/ava-duvernay-new-gods-movie-warner-bros-dc-jack-kirby-1202338680/|access-date=17 March 2018|publisher=Deadline Hollywood|date=15 March 2018}}</ref> Warner also scheduled [[Tom King (writer)|Tom King]], a famous comic book writer to write the script of the film.
+
+===Video games===
+* A statue of Big Barda is present at the Hall of Justice stage in ''[[Injustice: Gods Among Us]]''.<ref>{{cite web|url=http://www.newsarama.com/games/injustice-gods-among-us-preview.html|title=INJUSTICE GODS AMONG US Videos Reveal DC Easter Eggs|website=newsarama.com}}</ref>
+* Big Barda appears in the online video game ''[[DC Universe Online]]'' in the DLC trilogy 'Halls of Power'. In the DLC, Barda and Mister Miracle lead the new heroes (players) to the Necropolis to gather Old Gods relics before Darkseid does.<ref>{{cite web|url=http://www.dcuniverseonline.com|title=Register - DC Universe Online|website=DC Universe Online}}</ref>
+* Big Barda appears as a playable character in ''[[Lego DC Super-Villains]]'', with [[Diane Delano]] reprising her role from ''[[Batman: The Brave and the Bold]]''.
+
+===Toys===
+* Big Barda was the 76th issue in the [[DC Comics Super Hero Collection]].
+
+==References==
+{{Reflist|2}}
+
+==External links==
+* [[DCDatabase:Big Barda|Big Barda]] at the DC Database Project
+* [https://web.archive.org/web/20060207093326/http://www.mykey3000.com/cosmicteams/profiles/barda.html Big Barda] at Cosmic Teams
+* [https://web.archive.org/web/20060326233017/http://www.michaelchabon.com/archives/2005/03/a_woman_of_valo.html A Woman of Valor - An appreciation of Barda] by novelist [[Michael Chabon]]
+
+{{New Gods}}
+{{Justice League characters}}
+{{Birds of Prey}}
+{{Jack Kirby}}
+
+[[Category:Characters created by Jack Kirby]]
+[[Category:Comics characters introduced in 1971]]
+[[Category:DC Comics characters who can move at superhuman speeds]]
+[[Category:DC Comics characters with superhuman strength]]
+[[Category:DC Comics female superheroes]]
+[[Category:DC Comics deities]]
+[[Category:Fictional women soldiers and warriors]]
+[[Category:New Gods of Apokolips]]
+[[Category:New Gods of New Genesis]]
+
+[[de:Figuren in den New Gods Comics#Big Barda]]

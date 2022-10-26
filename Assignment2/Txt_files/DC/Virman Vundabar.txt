@@ -1,0 +1,79 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+| character_name =Virman Vundabar
+| image = Virman Vundabar.jpg
+| caption =
+| publisher =[[DC Comics]] 
+| debut = ''[[Mister Miracle]]'' #5 (December 1971)
+| creators =[[Jack Kirby]]
+| real_name = Virmin Vundabarr
+| species = [[New Gods|New God]]
+| homeworld = [[Apokolips]]
+| alliances=[[Darkseid's Elite]]
+| aliases = <!-- optional: actual identities the character uses, not nicknames -->
+| supports =<!--optional-->
+| powers =
+* Immortality
+* Hand to hand combatant
+* Expert strategist
+* Ingenious scientist 
+}}
+'''Virman Vundabar''' is a [[fictional]] extraterrestrial [[supervillain]] published by [[DC Comics]].<ref>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Korte |first3=Steve |last4=Manning |first4=Matt |last5=Wiacek |first5=Win |last6=Wilson |first6=Sven |title=The DC Comics Encyclopedia: The Definitive Guide to the Characters of the DC Universe |date=2016 |publisher=DK Publishing |isbn=978-1-4654-5357-0 |page=321}}</ref>
+
+==Publication history==
+He was created by [[Jack Kirby]] and first appeared in ''[[Mister Miracle]]'' #5 (December 1971) "drawn like [[Benito Mussolini]]".<ref name="Ronin">Ro, Ronin. ''Tales to Astonish: Jack Kirby, Stan Lee and the American Comic Book Revolution'' (Bloomsbury, 2004)</ref>
+
+The name "Vundabar" is a corruption of the German word "wunderbar", which means "wonderful". This name was given to him by [[Granny Goodness]], and while the spelling of his name has varied over the years between ''Vundabar'' and ''Vunderbarr'', in his first appearance it was spelled "Vundabar". Even his first name "Virman" is a corruption of the word "vermin" which means a small rodent or animal (which describes his own height).
+
+==Fictional character biography==
+A resident of [[Apokolips]], Virman is a minion of [[Granny Goodness]] (and by extension Darkseid), having grown up in her orphanages like many of Darkseid's soldiers.<ref>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Manning |first3=Matthew K. |last4=McAvennie |first4=Michael |last5=Wallace |first5=Daniel |title=DC Comics Year By Year: A Visual Chronicle |date=2019 |publisher=DK Publishing |isbn=978-1-4654-8578-6 |page=167}}</ref> He models his personality and schemes on [[Prussia]]n military appearance and precision partly because of the Earth-based name assigned to him by Granny. He had also become enamored of the Prussian history after a campaign on Earth.<ref name="dc-ency">{{Citation|last = Wallace|first = Dan|contribution = Virman Vundabar|editor-last = Dougall|editor-first = Alastair|title = The DC Comics Encyclopedia|page = 325|publisher = [[Dorling Kindersley]]|place = London|year = 2008|isbn = 978-0-7566-4119-1}}</ref> Like many of his associates, he is a nemesis of [[Mister Miracle]]. Virman has involved himself with many schemes to gain power, often involving many of Darkseid's lieutenants, such as [[Doctor Bedlam]], [[Steppenwolf (comics)|Steppenwolf]] and [[Kanto (comics)|Kanto]].
+
+Notably, when Darkseid is missing at the [[Source Wall]], his inner circle turn to conspiring against each other. Vundabar allies himself with [[Granny Goodness]].<ref>''Underworld Unleashed: Apokolips - Dark Uprising'' #1 (1995)</ref>
+
+Darkseid returns from the Source Wall, but he is not in full control of his mind. Virman attempts to take advantage of this but Darkseid recovers enough to obliterate him with his Omega Beams. However, Darkseid resurrects him and he is again seemingly loyal to Darkseid despite the skepticism of Granny Goodness.<ref>''[[Death of the New Gods]]'' #1 (October 2007)</ref>
+
+In the pages of ''[[Terror Titans]]'', Vundabar appears as a member of the 'Board'. He is killed by [[Clock King]].
+
+His niece, [[Malice Vundabar|Malice]], has joined the [[Female Furies]]. She can control a shadow monster named [[Chessure]].
+
+Virman is known to have one child named Rave Divera Vundabar.
+
+==Powers and abilities==
+Additionally being immortal, Dr. Virman Vundabar is stronger than any human of his build and stature. He is also an ingenious scientist skilled at devising deadly traps, and is a cunning military strategist. He is good as a hand-to-hand combatant, but is handicapped by his small size, and prefers to leave physical combat to his troops.
+
+==Other versions==
+* In [[Mark Waid]] and [[Alex Ross]]'s ''[[Kingdom Come (comic)|Kingdom Come]]'', an elderly Vundabar can be seen in the underground bar that Superman visits.
+
+==In other media==
+===Television===
+* Virman Vundabar appears in the ''[[Justice League Unlimited]]'' episode "The Ties That Bind", voiced by [[Arte Johnson]] who uttered a variation on his signature "Very interesting... but stupid" [[catch phrase]] from ''[[Laugh-in]]''. In that episode, he is vying for control of [[Apokolips]] against [[Granny Goodness]] when [[Darkseid]] disappeared and held [[Kalibak]] as a prisoner. He also makes a [[cameo appearance]] in the episode "Alive" where he tried to take over Apokolips from Granny Goodness and the [[Female Furies]] only for the war to end upon the return of Darkseid.
+* Virman Vundabar makes a non-speaking appearance in the ''[[Batman: The Brave and the Bold]]'' episode "Darkseid Descending".
+* Virman Vundabar appears in the ''[[Justice League Action]]'' episode "Under a Red Sun", voiced by [[William Salyers]].
+
+===Video games===
+* Virman Vundabar appears as a playable character in ''[[Lego DC Super-Villains]]'', voiced by [[Corey Burton]].
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.dcuguide.com/who.php?name=virmanvundabar DCU Guide: Virman Vundabar]
+
+{{New Gods}}
+{{Jack Kirby}}
+
+<!--
+
+STOP! Categories go into categories. Please check to see if the category you are adding is not redundant.
+
+-->
+
+[[Category:Comics characters introduced in 1971]]
+[[Category:New Gods of Apokolips]]
+[[Category:Characters created by Jack Kirby]]
+[[Category:DC Comics aliens]]
+[[Category:DC Comics deities]]
+[[Category:DC Comics demons]]
+[[Category:DC Comics supervillains]]
+[[Category:Fourth World (comics)]]
+[[de:New Gods#Virman Vunderbarr]]
+[[fr:New Gods]]

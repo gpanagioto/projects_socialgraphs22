@@ -1,0 +1,47 @@
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+  image =Karkas (Earth-616) from Thor The Deviants Saga Vol 1 2 001.jpg
+| caption = 
+| character_name = Karkas
+| publisher = [[Marvel Comics]]
+| debut = ''[[Eternals (comics)|The Eternals]] #8 (Feb. 1977)''
+| creators = [[Jack Kirby]]
+| alter_ego = 
+| species = [[Deviants (comics)|Deviant]]
+| alliances = [[Eternals (comics)|Eternals]]<br/>[[Delta Network]]
+| aliases = <!-- optional: actual identities the character uses, not nicknames -->
+| powers = Superhuman strength and durability
+}}
+
+'''Karkas''' is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. Karkas is a member of the [[Deviants (comics)|Deviants]], a monstrous offshoot of humanity created by the [[Celestial (comics)|Celestials]]. 
+
+== Publication history ==
+The character first appeared in ''[[The Eternals]]'' #8 (Jan. 1977) and was created by writer/artist [[Jack Kirby]].<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=204}}</ref>
+
+==Fictional character biography==
+Karkas was born in [[Lemuria (comics)#Deviant Lemuria|Deviant Lemuria]], too monstrous in appearance even by Deviant standards. He was made a slave, pitted in gladiatorial contests against others considered grotesque. Another gladiator was [[Ransak the Reject]], who was considered hideous by the Deviants due to his normal human appearance (also interpretable as because he looked too much like an [[Eternals (comics)|Eternal]]). Karkas and the Reject were pitted against each other, in a bout viewed by the Eternal [[Thena]], in which Ransak bested Karkas. When [[Eson the Searcher|Eson]] the Celestial attacked, Karkas begged Thena for sanctuary with the Deviants' enemies, the Eternals.<ref>''The Eternals'' #8</ref> Thena teleported both Karkas and Ransak away to [[Olympia (comics)|Olympia]].<ref>''The Eternals'' #11-12</ref> With Thena and Ransak, Karkas battled Zakka and [[Tutinax]].<ref>''The Eternals'' Annual #1</ref> Since then the two have become friends and reside primarily with the Eternals. Karkas became a scholar.
+
+Later, Karkas fought [[Thor (Marvel Comics)|Thor]], and then became his ally.<ref>''Thor'' #285-289</ref> He participated in a battle between the [[Olympians (Marvel Comics)|Olympian gods]] and Eternals.<ref>''Thor'' #291-292</ref>
+
+Later, Karkas captured Warlord [[Kro (comics)|Kro]].<ref>''The Eternals'' vol. 2 #9</ref> Karkas attempted to save [[Margo Damian]]'s life by tricking [[Ghaur]].<ref>''The Eternals'' vol. 2 #10</ref> Karkas helped fight Ghaur's army, and was present at Margo's burial.<ref>''The Eternals'' vol. 2 #12</ref>
+Karkas later battled the Eternal [[Ajak]], who had been transformed into a monster. He witnessed the apparent demise of Ajak and Dr. Daniel Damian.<ref>''The Eternals: The Herod Factor'' #1</ref>  Karkas was part of the ''Delta Network'' led by Kro, assembled to challenge Ghaur's grip on the Deviants.<ref>''The Avengers'' #370</ref> He continued to support Kro's faction in his dispute with Ghaur for the deviant's leadership. <ref>''Heroes for Hire'' #4-7. (1997) Marvel Comics.</ref> <ref>''Black Panther'' vol. 3 #26-27 (2001) Marvel Comics.</ref> Karkas was briefly transformed in a gigantic monster by action of Apocalypse.<ref>''The New Eternals: Apocalypse Now''(2000) #1</ref> Later, he helped [[Thor (Marvel Comics)|Thor]] in a battle against the Deviants in Lemuria.<ref>''Thor: The Deviants Saga''#2-5 (2012)</ref> He also went with [[Deadpool]] to the Negative zone to rescue his friend Ransak.{{issue|date=October 2020}}
+
+==Powers and abilities==
+Karkas is an adolescent, and quite intelligent and artistic despite his appearance. Karkas has superhuman strength, stamina, and durability. He has great learning abilities and a high aptitude in philosophy, and has been described as having an [[eidetic memory]]. Karkas possesses a wrinkled elephant-like red hide that is exceptionally thick and rough, making him highly resistant to injury. He has claw-like fingers on each hand, pointed teeth and an oversized head. Karkas has been described as having six digits on each limb, but has been depicted with four [http://www.marveldirectory.com/individuals/k/karkas.htm] or five [http://www.immortalthor.net/bio-karkas.html].
+
+Karkas wears body armor of unknown composition, designed by Eternal armorers and technicians.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.marveldirectory.com/individuals/k/karkas.htm MarvelDirectory.com's bio on Karkas]
+* [http://www.immortalthor.net/bio-karkas.html ImmortalThor.net's bio on Karkas]
+
+{{Eternals}}
+{{Jack Kirby}}
+
+[[Category:Characters created by Jack Kirby]]
+[[Category:Comics characters introduced in 1977]]
+[[Category:Fictional gladiators]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics Deviants]]

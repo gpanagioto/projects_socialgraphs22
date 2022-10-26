@@ -1,0 +1,88 @@
+{{short description|Fictional comic book character}}
+{{Superherobox <!--Wikipedia:WikiProject Comics-->
+| image = Bat-Mite (circa 2015).png
+| caption = Bat-Mite, in ''Bat-Mite'' #1 (June 2015). Art by Corin Howell 
+| publisher = [[DC Comics]]
+| debut = ''[[Detective Comics]]'' #267 (May 1959)
+| creators = [[Bill Finger]] (writer)<br>[[Sheldon Moldoff]] (artist)
+| full_name = Unknown (unpronounceable to humans, according to him)
+| species = [[Imp]]
+| homeworld = Mite Dimension (possibly an analogue to the Fifth Dimension, though never confirmed)
+| alliances =Justice League of Mites
+| aliases = <!-- optional: actual identities the character uses, not nicknames -->
+| supports= [[Batman]]
+| powers = Reality warping
+}}
+'''Bat-Mite''' is a fictional [[Character (arts)|character]] appearing in [[American comic book]]s published by [[DC Comics]]. Bat-Mite is an [[imp]] similar to the [[Superman]] villain [[Mister Mxyzptlk]]. Depicted as a small, childlike man in an ill-fitting Batman costume, Bat-Mite possesses what appear to be near-infinite magical powers, but he actually uses highly advanced technology from the Fifth dimension that cannot be understood by humans' limited three-dimensional views. Unlike Mxyzptlk, Bat-Mite idolizes his superhero target and thus he has visited Batman on various occasions, often setting up strange and ridiculous events so that he could see his hero in action. Bat-Mite is more of a nuisance than a [[supervillain]], and often departs of his own accord upon realizing that he has angered his idol.<ref name="dc-ency">{{Cite book  | last = Beatty  | first = Scott | author-link = Scott Beatty | contribution = Bat-Mite | editor-last = Dougall  | editor-first = Alastair  | title = The DC Comics Encyclopedia  | page = 39  | publisher = [[Dorling Kindersley]]  | place = London  | year = 2008 | isbn = 978-0-7566-4119-1}}</ref>
+
+==Publication history==
+Bat-Mite made his first appearance in ''Detective Comics'' #267 (May 1959) in a story titled "Batman Meets Bat-Mite" written by [[Bill Finger]], with art by [[Sheldon Moldoff]].<ref>[http://www.comics.org/issue/15035/ ''Detective Comics'' #267 (DC, 1937 Series)] at the [[Grand Comics Database]]</ref>
+
+Bat-Mite, along with [[Batwoman]], [[Batgirl]] and [[Ace the Bat-Hound]], retired from the comic in 1964, when editor [[Julius Schwartz]] instituted a "New Look" Batman that shed some of the sillier elements in the series.<ref>{{cite book |last=Wells |first=John |title=American Comic Book Chronicles: 1960-64 |date=2015 |publisher=TwoMorrows Publishing |isbn=978-1605490458 |pages=167–169}}</ref>
+
+==Fictional character history==
+===Pre-''Crisis''===
+[[File:Bat Mite Cover.jpg|thumb|left|Cover to ''Detective Comics'' #267 (May 1959), the first appearance of Bat-Mite, art by [[Curt Swan]]]]
+
+Bat-Mite regularly appeared in ''Batman'', ''Detective Comics'', and ''World's Finest Comics'' for five years. Bat-Mite and Mr. Mxyzptlk teamed up four times in the pages of ''[[World's Finest Comics]]'' to plague Superman and Batman together, as well.<ref>{{cite book |last1=Fleisher |first1=Michael L. |title=The Encyclopedia of Comic Book Heroes, Volume 1: Batman |date=1976 |publisher=Macmillan Publishing Co |isbn=0-02-538700-6 |url=https://archive.org/details/encyclopediaofco01flei/page/134/mode/2up |access-date=29 March 2020 |pages=134–140}}</ref> In 1964, however, when the Batman titles were revamped under new editor [[Julius Schwartz]], Bat-Mite vanished along with other members of the Batman extended family, such as [[Batwoman (Kathy Kane)|Batwoman]], [[Bette Kane#Pre-Crisis|Bat-Girl]], and [[Ace the Bat-Hound]]. 
+
+After this, only three more Bat-Mite stories were published in the Pre-''[[Crisis on Infinite Earths|Crisis]]'' DC Universe: two more Bat-Mite/Mr. Mxyzptlk team ups in ''World's Finest Comics'' #152 (August 1965) and #169 (September 1967) (which were not edited by Schwartz, but by [[Mort Weisinger]]),<ref>{{cite book |last1=Greenberger |first1=Robert |last2=Pasko |first2=Martin |title=The Essential Superman Encyclopedia |date=2010 |publisher=Del Rey |isbn=978-0-345-50108-0 |page=25}}</ref> and "Bat-Mite's New York Adventure" from ''Detective Comics'' #482 (February–March 1979), in which the imp visits the DC Comics offices and insists that he be given his own feature in a Batman comic. This story featured protestors with [[Picketing (protest)|picket signs]] shouting "We want Bat-Mite!" outside the [[666 Fifth Avenue|Tishman Building]] (where DC's editorial offices were located at the time), and was accompanied by an editorial comment that this story was published specifically to acknowledge the actual requests of fans for this character's revival.
+
+Later Bat-Mite appeared in a one-page story in ''The Brave and the Bold'' #200.
+
+===Post-''Crisis''===
+After the continuity-changing 1985 [[Limited series (comics)|limited series]] ''[[Crisis on Infinite Earths]]'' was published, Bat-Mite was mostly removed from the Batman comics canon.<ref name=Guide>{{cite book |display-authors= 3| last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Korte |first3=Steve |last4=Manning |first4=Matt |last5=Wiacek |first5=Win |last6= Wilson |first6=Sven |title=The DC Comics Encyclopedia: The Definitive Guide to the Characters of the DC Universe |date=2016 |publisher=DK Publishing |isbn=978-1-4654-5357-0 |page=25}}</ref> Bat-Mite made an appearance in ''[[Legends of the Dark Knight|Batman: Legends of the Dark Knight]]'' #38, although he may have been the [[hallucination]] of a drug-addled criminal named Bob Overdog. This comic states that Bat-Mite is one of the many admirers of superheroes from another dimension. This version of Bat-Mite later returned in ''Batman: Mitefall — A Legends of the Dark Mite Special'', a [[One-shot (comics)|one-shot]] book which was both part of, and a parody of, the Batman storyline ''[[Batman: Knightfall|Knightfall]]'' (with Overdog briefly in the [[Azrael (comics)|Jean-Paul Valley]] role). In #6 of the 1999 ''Batman and Superman: World's Finest'' miniseries, Mr. Mxyzptlk encounters Bat-Mite, shortly after being mistaken for him by Overdog. While in this story, the Post-''Crisis'' Bat-Mite encounters Batman for the first time, Superman and Batman subsequently concluded that Mxyzptlk had created him, inspired by Overdog's ravings.
+
+Bat-Mite also appeared in the 2000 one-shot ''[[Elseworlds]]'' comic special ''[[Superman and Batman: World's Funnest|World's Funnest]]'', in which he battles Mr. Mxyzptlk, destroying the Pre-''Crisis'' [[Multiverse (DC Comics)|multiverse]] and the Post-''Crisis'' DC Universe, as well as the Elseworlds of ''[[Kingdom Come (comic book)|Kingdom Come]]'', ''[[Batman: The Dark Knight Returns]]'', and the [[DC animated universe]]. As an ''Elseworlds'' story itself, ''World's Funnest'' has no impact on continuity, as inferred from ''The Dark Knight Returns'' and ''Kingdom Come'' being introduced to the official DC multiverse as a result of the maxiseries ''[[52 (comics)|52]]''.<ref>{{Cite book|title= The DC Comics Art of Alex Ross|last= Ross|first= Alex|author-link=Alex Ross|year= 2003|publisher= Pantheon Books|isbn= 978-0375422409 }}</ref>
+
+Apart from ''World's Funnest'', there has been no direct connection between Bat-Mite and Mr. Mxyzptlk. In the ''Bizarro Comics'' anthology, Mxyzptlk's native Fifth Dimension seemed to include beings similar to Bat-Mite and [[Johnny Thunder]]'s Thunderbolt. Neither of these comics are considered canonical; however, in a [[Justice League]]/[[Justice Society of America]] crossover in ''Justice League'' and in ''Justice Society of America'' #78–80 it was revealed that both Mxyzptlk and Thunderbolt come from the Fifth Dimension. [[Comic book letter column|Letter columns]] and writer interviews suggest that Bat-Mite comes from there as well, although this has never been shown thus far in the comic stories themselves.
+
+In the post-''Crisis'' issue ''[[Superman/Batman]]'' #25, it was revealed that the [[Joker (character)|Joker]] had gained Fifth Dimensional powers by maintaining the essence of Mr. Mxyzptlk from the earlier "Emperor Joker" storyline; at the end, [[Bizarro]] was able to extract this latent magical essence from the Joker, which manifested in a form recognizable as Bat-Mite.  As such, a Bat-Mite has been fully reestablished into the current continuity as an outgrowth of Mr. Mxyzptlk, incubated within the Joker.<ref>''Superman/Batman'' #25 (May 1, 2006)</ref>
+
+The first Post-''[[Infinite Crisis]]'' appearance of Bat-Mite was in ''Batman'' #672, written by [[Grant Morrison]].<ref>''Batman'' #672 (February 2008)</ref> Batman is confronted with Bat-Mite (or "Might") after being shot in the chest and suffering a heart attack. Might, who bears a green [[List of extraterrestrials in fiction by type#Insectoid and arachnid aliens|insectoid]] creature on his back, claims to have come from "Space B at the Fivefold Expansion of Zrfff"<ref>''Batman'' #674 (April 2008)</ref> (at times, Zrfff has been used as the name of Mr. Mxyzptlk's home planet in the Fifth Dimension). Only Batman sees him. As Batman is having an increasingly difficult time keeping his grip on reality during this period, it is possible that Mite is a mental delusion.
+
+In ''Batman'' #678, after Batman transforms himself into "the [[Batman of Zur-En-Arrh]]", Might reappears on the last page with him, commenting "uh-oh" regarding Batman's increasing delusions. He then counsels the Zur-En-Arrh Batman, a 'back-up' personality manufactured by Bruce himself to keep Batman able to fight in case he was [[mindwipe]]d, or driven to insanity. ''Batman'' #680 reveals that Might is indeed a product of Batman's imagination, representing the last vestiges of Batman's rational mind within the Zur-En-Arrh Batman, although when asked by Batman whether he is an extra-dimensional being or a figment of his imagination, Bat-Mite responds that "the Fifth Dimension ''is'' imagination".<ref>''Batman'' #680 (October 2008)</ref>
+
+In ''Superman/Batman'' #52, Bat-Mite appears, having had a bet with Mr. Mxyzptlk similar to that of ''World's Funnest''. This Bat-Mite appears to admire Batman, and Batman addresses him with familiarity.<ref>''Superman/Batman'' #52 (October 2008)</ref>
+
+===''The New 52''===
+On February 6, 2015, DC Comics announced a ''Bat-Mite'' monthly miniseries for release in June 2015.<ref>{{cite press release| url= http://www.dccomics.com/blog/2015/02/06/dc-entertainment-announces-new-books-new-creators-broader-focus-for-the-dc-universe| website= dccomics.com |title= DC Entertainment Announces New Books, New Creators, Broader Focus for the DC Universe| date= February 6, 2015| access-date= November 5, 2020}}</ref> The six-issue miniseries concluded in November.
+
+==Publications==
+===2015 series===
+*'''Bat-Mite''' (2016-02-17): Includes Bat-Mite #1-6, Sneak Peek story from Convergence: Supergirl: Matrix #2.<ref>[http://www.dccomics.com/graphic-novels/bat-mite BAT-MITE]</ref>
+
+==In other media==
+===Television===
+[[File:Batmanbatmite.JPG|thumb|right|Bat-Mite, Batman, and Robin from ''The New Adventures of Batman''.]]
+* Bat-Mite appeared in ''[[The New Adventures of Batman]]'', voiced by [[Lou Scheimer]].{{cn|date=November 2020}} This version is a well-meaning magical fan of Batman's who tries to help him despite usually complicating matters. One episode featured his home planet of Ergo as well as a villain of Bat-Mite's species named Zarbor.<ref>{{cite news|title= A History of Batman on TV|work= IGN|url= http://uk.tv.ign.com/articles/891/891807p5.html|access-date= 2010-08-16|archive-url= https://web.archive.org/web/20120327081925/http://uk.tv.ign.com/articles/891/891807p5.html|archive-date= 2012-03-27|url-status= dead}}</ref><ref>{{cite news|title= The New Adventures of Batman|work= DVD Talk|url= http://www.dvdtalk.com/reviews/28992/new-adventures-of-batman-the/|access-date=2010-08-16}}</ref>
+* An [[Audio-Animatronics|animatronic]] Bat-Mite briefly appeared in the ''[[Batman: The Animated Series]]'' episode "Deep Freeze", voiced by [[Pat Fraley]].{{cn|date=November 2020}}
+* Bat-Mite appeared in ''[[Batman: The Brave and the Bold]]'', voiced by [[Paul Reubens]].{{cn|date=November 2020}} This version regularly breaks the [[fourth wall]], reads to Batman his past, present, and future exploits from real world comic books, and makes fun of real-world comic convention fans.
+* Bat-Mite appears in ''[[Lego DC Comics: Batman Be-Leaguered]]'', voiced again by Paul Reubens.{{cn|date=November 2020}}
+* A stuffed Bat-Mite toy appears in ''[[DC Super Hero Girls (TV series)|DC Super Hero Girls]]''.
+
+===Video games===
+* Bat-Mite appears in ''[[Batman: The Brave and the Bold - The Videogame]]'' as a special assist character in the [[Wii]] version that can be summoned and controlled with a running copy of the game's [[Nintendo DS]] counterpart to drop anvils, bombs, and power-ups via Wii-DS connectivity.<ref>{{Cite web|title=Batman: Brave and the Bold features Wii/DS connectivity|url=https://www.engadget.com/2010-08-14-batman-brave-and-the-bold-features-wii-ds-connectivity.html|access-date=2021-04-03|website=Engadget|language=en-US}}</ref>
+* Bat-Mite appears as a playable character and game navigator in ''[[Lego Batman 3: Beyond Gotham]]'', voiced by [[Roger Craig Smith]].{{cn|date=November 2020}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*DC page: [http://www.dccomics.com/comics/bat-mite-2015 B-M 2015]
+
+{{Batman characters}}
+
+[[Category:DC Comics aliens]]
+[[Category:DC Comics deities]]
+[[Category:DC Comics supervillains]]
+[[Category:DC Comics superheroes]]
+[[Category:DC Comics characters who can teleport]] 
+[[Category:Fictional characters from parallel universes]]
+[[Category:Fictional characters who can manipulate reality]]
+[[Category:Fictional higher-dimensional characters]]
+[[Category:Fictional tricksters]]
+[[Category:Comics characters introduced in 1959]]
+[[Category:Characters created by Bill Finger]]
+[[Category:Characters created by Sheldon Moldoff]]
+[[Category:Characters created by Bob Kane]]

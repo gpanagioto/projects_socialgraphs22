@@ -1,0 +1,57 @@
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+| character_name = Nightrider
+| image          = Dagon.png
+| imagesize      = <!-- default 250 -->
+| caption        = 
+| publisher      = [[DC Comics]]
+| debut          = ''[[The New Titans]]'' #79 (September 1991)
+| creators       = [[Marv Wolfman]]
+| alter_ego      = 
+| full_name      = David
+| species        = <!-- optional -->
+| homeworld      = <!-- optional -->
+| alliances      =[[Teen Titans]]
+| partners       = <!-- optional -->
+| supports       = <!-- optional -->
+| aliases        = Dagon
+| powers         = 
+| cat            = super
+| subcat         = DC Comics
+| hero           = hero
+| villain        = 
+| sortkey        = Nightrider
+| addcharcat#    = 
+}}
+'''Nightrider''' ('''Dagon''') is a fictional [[vampire]] [[superhero]] from the [[DC Comics]] [[DC Universe|universe]]. He is a member of the [[Team Titans]], a rebel group seeking to overthrow [[Lord Chaos (DC Comics)|Lord Chaos]], the dictator of an alternate Earth ten years into the future.
+
+==Fictional character biography==
+David was an ordinary mortal boy growing up in London. When he was ten, he was hit by a truck. Lord Chaos took a special interest in him, making him a test subject. 
+
+At fourteen, he was the subject of an experiment in which he was infused with DNA drawn from the bones of Dracula. This turned him into a blood-hungering monster he dubbed "Dagon", because he felt as if David, the person he used to be, was dead. During the experiment, a demon attacked the research team; Dagon joined it and singled out the chief researcher for special attention. The only survivor was Charlie Watkins, who would later become the hero [[Killowat]].
+
+Dagon joined the Team Titans to get revenge on Lord Chaos, adopting the name Nightrider. They taught him how to control his hunger and assigned him to a team. 
+
+Nightrider and his teammates [[Killowat]] (Charlie Watkins), [[Terra (comics)#Tara Markov|Terra]] (Tara Markov), [[Mirage (DC Comics)#Miriam Delgado|Mirage]] (Miriam Delgado), and [[Redwing (comics)|Redwing]] (Carrie Levine) were selected by the leader of Team Titans to be sent back in time. They were later followed by [[Nightwing#Dick Grayson|Nightwing]] (Dick Grayson) and [[Battalion (DC Comics)|Battalion]] (Alexander Lyons). Their mission was to kill [[Wonder Girl]] ([[Donna Troy]]) before she could give birth to Lord Chaos. 
+
+The Teamers and the Titans fought, but they resolved the conflict in a way that stopped Lord Chaos and protected Donna Troy and her baby. This left the Teamers trapped in the present with no way to return to their now non-existent future. 
+
+Dagon later sought out his past self and prevented David from being hit by the truck. 
+
+===Zero Hour===
+The paradox induced by their travel to the past was apparently part of the time crisis known as ''[[Zero Hour (comics)|Zero Hour]]''. The real tyrant, the [[Monarch (comics)#Hank Hall|Monarch]], had created the members of Team Titans 36 years in the future in 2030 AD. The Monarch then brainwashed them with false memories. He then sent them to the past so he could use them to further his goals and assassinate anyone who tried to stop him. 
+
+After the resolution of ''Zero Hour'', most of the [[Team Titans]] characters ceased to exist. Only [[Terra (comics)#Tara Markov|Terra]], [[Mirage (DC Comics)#Miriam Delgado|Mirage]] and [[Alternative versions of Robin#Deathwing|Deathwing]] survived. The [[Time Trapper]] had created them to infiltrate Team Titans as his sleeper agents that would help him fight the Monarch when the time came. Later it was revealed that they were doubles who were surgically altered to resemble the real Tara Markov, Miriam Delgado, and Dick Grayson.
+
+==Other versions==
+* In ''Team Titans Annual'' #2 (1994), Dagon works with Terra as a rebel cell in deep space after Lord Chaos conquers much of the galaxy.
+* In the story "Wrong Place, Wrong Time" in ''[[Teen Titans Go! (2004 comic series)|Teen Titans Go!]]'' #48 (December 2007), the alternate-world-hopping Teen Titans encounter the [[Team Titans]], which are led by "Nightwing" (Dagon).
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{gcdb|type=character|search=Nightrider |title=Nightrider}}
+*{{comicbookdb|type=character|id=7206|title=Nightrider }}
+
+[[Category:Comics characters introduced in 1991]]
+[[Category:Characters created by Marv Wolfman]]

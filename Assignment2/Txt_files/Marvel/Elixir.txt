@@ -1,0 +1,5 @@
+#REDIRECT [[Elixir (character)]]
+
+{{Redirect category shell|
+{{R from move}}
+}}

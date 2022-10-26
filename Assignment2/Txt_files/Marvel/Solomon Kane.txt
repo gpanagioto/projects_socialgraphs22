@@ -1,0 +1,125 @@
+{{see also|Adaptations of works by Robert E. Howard}}
+{{Infobox comics meta series <!--Wikipedia:WikiProject Comics--> 
+|character           = y
+|character_name      = Solomon Kane
+|image               = Saga of Solomon Kane.jpg
+|imagesize           = <!-- default 250 -->
+|caption             = {{Descript-cvr|The Saga of Solomon Kane|||2009|type=TPB|art=}}
+|alt                 =
+
+<!-- If "character" is set -->
+|debut               = ''[[Monsters Unleashed (comics)|Monsters Unleashed]]'' #1
+|debutmo             = August <!-- cover date -->
+|debutyr             = 1973
+|alter_ego           = 
+|full_name           =
+|species             = <!-- optional -->
+|homeworld           = <!-- optional -->
+|alliances           = <!-- optional -->
+|partners            = <!-- optional -->
+|aliases             = <!-- optional -->
+|powers              =
+
+|schedule            = 
+|format              = 
+|limited             = Y
+|anthology           = ''[[Savage Sword of Conan]]''
+|graphicnovel        = 
+|1shot               = 
+|individual          = 
+|titles              = <!-- include issue #s -->
+|lang                = 
+|Fantasy             = y
+|Horror              = y
+|Adaptation          = 
+|Adapt_link          = the [[Solomon Kane]] pulp series
+|publisher           = [[Marvel Comics]]<br />[[Dark Horse Comics]]
+|date                = '''The Sword of Solomon Kane'''<br />September 1985–July 1986<br />'''Solomon Kane'''<br />September 2008–February 2009
+|startmo             = <!-- optional in lieu of date-->
+|startyr             = 1985
+|endmo               = <!-- optional in lieu of date-->
+|endyr               = <!-- optional in lieu of date-->
+|issues              = '''The Sword of Solomon Kane'''<br />6<br />'''Solomon Kane'''<br />5
+|main_char_team      = [[Solomon Kane]]
+|writers             = [[Roy Thomas]]
+|artists             = 
+|pencillers          = 
+|inkers              = 
+|letterers           = 
+|colorists           = 
+|editors             = 
+|creative_team_month = 
+|creative_team_year  = 
+|creators            = [[Robert E. Howard]]
+|nonUS               = 
+|reprint             = 
+|relang              = 
+|relang#             = 
+|TPB                 = The Saga of Solomon Kane
+|ISBN                = 1-59582-317-4
+|TPB1                = The Chronicles Of Solomon Kane
+|ISBN1               = 1595824103
+|TPB2                = The Castle Of The Devil 
+|ISBN2               = 1595822828
+|subcat              = Marvel Comics
+|altcat              = 
+|sort                = Solomon Kane
+|charsort            = Kane, Solomon
+|addpubcat1          = Dark Horse Comics limited series
+|addcharcat1         = Dark Horse Comics characters
+}}
+'''Solomon Kane''' is a [[fictional character]] featured in several [[comics]] published by [[Marvel Comics]] in the 1970s and 1980s. He was originally created by the [[pulp magazine|pulp]]-era writer [[Robert E. Howard]]. [[Dark Horse Comics]] began publishing a new series of Kane stories in 2008, and also published collections of the 1970s Marvel stories in 2009.
+
+==Marvel Comics==
+[[Marvel Comics]] published several comic books featuring Solomon Kane. He was the lead character in the six-issue [[Limited series (comics)|limited series]] ''Sword of Solomon Kane'', published 1985-6. He also appeared numerous times in the company's black and white, non-[[Comics Code Authority|Code]] approved magazine format comics, most frequently in ''Savage Sword of Conan'', starring Howard's most popular pulp character. The complete list of Marvel's Solomon Kane story appearances are:
+ 
+* ''[[Monsters Unleashed (comics)|Monsters Unleashed]]'' #1 (August 1973), an adaptation of Howard's ''Skulls in the Stars'' by [[Roy Thomas]], art by [[Ralph Reese]].
+* ''[[Dracula Lives]]'' #3 (October 1973), Kane meets Dracula by Thomas, art by [[Alan Weiss (comics)|Alan Weiss]].
+* ''[[Conan (Marvel Comics)|The Conan Saga]]'' #50 (May 1991) by Alan Rowlands, art by Steve Carr and [[Al Williamson]] (although this magazine was a reprint title, the Kane story in this issue had not been previously published).
+* ''[[Kull of Atlantis#Comics|Kull and the Barbarians]]'' #2–3 (July and September 1975), an adaptation of ''The Hills of the Dead'' by Thomas, art by Weiss, [[Neal Adams]] and [[Pablo Marcos]].
+* ''[[Marvel Premiere]]'' #33–34 (December 1976 and February 1977). Like the Kane mini-series, this was a Code-approved four-color comic, an adaptation of ''Red Shadows'' by Thomas, art by [[Howard Chaykin]].
+* ''[[Marvel Preview]]'' #19 (Summer 1979), an adaptation of "The Footfalls Within" by [[Donald F. Glut|Don Glut]], art by [[Will Meugniot]] and [[Steve Gan]].
+* ''[[Savage Sword of Conan]]'' #13–14, 18–20, 22, 25, 26, 33, 34, 37, 39, 41, 53, 54, 62, 83, 162, 171, 219 and 220 (July 1976–April 1994) by Thomas, Glut, [[Doug Moench]], [[Jo Duffy]] and [[John Arcudi]], art by Gan, Chaykin, Weiss, and many others, including a sequel to the Kane vs. Dracula story, two adaptations of the Howard poem ''Solomon Kane's Homecoming'',<ref>[https://web.archive.org/web/20091026210008/http://www.geocities.com/ratmmjess/kane.html Jess Nevins' Solomon Kane Comic Page].</ref> and in the last two issues, a meeting of Kane and Conan for which Thomas, with artist [[Colin MacNeil]], used Howard's brief Kane fragment, "Death's Black Riders," as a springboard.<ref>{{cite web|url=http://www.comics.org/details.lasso?id=174819 |title=Savage Sword of Conan #219|publisher=The Grand Comics Database |date= |accessdate=2010-10-05}}</ref>
+* ''The Sword of Solomon Kane''<ref>The [[Indicia (publishing)|indicia]] calls it simply ''Solomon Kane''</ref> #1–6 (September 1985–July 1986). Of the six issues, four adapted Howard stories (all previously adapted by Marvel), and two (#2 and #4) contained original stories by [[Ralph Macchio (comics)|Ralph Macchio]], with the art credits varying. The finale also contained yet another rendering of the poem "Solomon Kane's Homecoming," illustrated by [[Sandy Plunkett]] and Williamson.<ref>[http://www.solomonkane.com/sk.pdf Solomon Kane Info Page] {{webarchive |url=https://web.archive.org/web/20050819234736/http://www.solomonkane.com/sk.pdf |date=August 19, 2005 }}</ref>
+
+==Dark Horse Comics==
+It was announced at the 2006 Comic Con that [[Paradox Entertainment]] has completed a publishing deal with [[Dark Horse Comics]] for a ''Solomon Kane'' comic series, to be written by [[Scott Allie]].<ref name=cbr>[http://www.comicbookresources.com/?page=article&id=11252 Robert E. Howard's Solomon Kane Returns at Dark Horse], [[Comic Book Resources]], August 18, 2007</ref><ref>[http://www.newsarama.com/comics/080721-SolomonKane.html Scott Allie - Bringing Solomon Kane to Comic Book Life], [[Newsarama]], July 21, 2008</ref> The first two arcs featured completed versions of two Howard fragments — "The Castle of the Devil" and "Death's Black Riders." The first issue picks Kane up traveling through the Black Forest after ending his military career.<ref name=cbr /> It was a five-issue [[Limited series (comics)|mini-series]], based on "Castle of the Devil", and featured art by Mario Guevara (pencils), [[Dave Stewart (artist)|Dave Stewart]] (colors) and [[John Cassaday]] (covers). An eight-page sample was posted on the [[Dark Horse Presents]] [[MySpace]] page in June 2008 <ref>[http://www.comicbookresources.com/?page=article&id=16110 NYCC Exclusive: Dark Horse Runs Wild with "Solomon Kane"], [[Comic Book Resources]], April 20, 2008</ref> and the first issue was published in September 2008.<ref>[http://www.comicbookresources.com/?page=article&id=17169 EXCLUSIVE: Solomon Kane #1 Preview], [[Comic Book Resources]],  July 10, 2008</ref>
+
+The second arc, "Death's Black Riders", was a four-issue mini-series published from January 2010 to June 2010.  The third arc, "Red Shadows," had its first issue published in April 2011.  "Red Shadows", based on a Robert E. Howard story and previously interpreted by Marvel in ''Marvel Premiere'' #33–34 (1976), follows Solomon Kane as he tracks le Loup, an expert French swordsman and womanizer with a habit of killing his conquests, through Europe, across the Mediterranean, and down the West Coast of Africa.
+
+==Collected editions==
+''Solomon Kane Volume 1: The Castle of the Devil'', a [[trade paperback (comics)|trade paperback]] collection of the Dark Horse five-issue mini-series, was published in July 2009 ({{ISBN|1595822828}}).
+
+In February 2009, Dark Horse announced a new collection entitled ''The Saga of Solomon Kane - Soft Cover'' ({{ISBN|1595823174}}) which collected the 1970s Marvel stories.<ref>{{cite web |url=http://www.darkhorse.com/Books/16-043/The-Saga-of-Solomon-Kane |title=Dark Horse - The Saga of Solomon Kane |accessdate=2009-04-20}}</ref>  This 400+ page collection includes various stories from ''Savage Sword of Conan'', ''Conan Saga'', ''Kull and the Barbarians'', ''Marvel Preview'', ''Monsters Unleashed'' and ''Dracula Lives''.
+
+In December 2009, Dark Horse announced a collection entitled ''Robert E. Howard Chronicles Slipcase - HC Box Set'' ({{ISBN|978-1-59582-407-3}}).
+
+''Solomon Kane Volume 2: Death's Black Riders'', a [[trade paperback (comics)|trade paperback]] collection of the Dark Horse four-issue mini-series, was published in October July 2010 ({{ISBN|1-59582-590-8}}).
+
+''Solomon Kane Volume 3: Red Shadows'', a [[trade paperback (comics)|trade paperback]] collection of the Dark Horse four-issue mini-series, was published in October December 2011 ({{ISBN|1-59582-878-8}}).
+
+In August 2021, Marvel reprints the Dark Horse edition of ''The Saga of Solomon Kane - Soft Cover'' ({{ISBN|1595823174}}) named Solomon Kane Original Marvel Years Omnibus a HC edition ({{ISBN|9781302925611}}). This Marvel reprinted HC book comes in 2 different dust jacket cover, the Direct Market (DM) CV and the Standard (ST) CV.
+
+==Notes==
+{{Reflist|2}}
+
+==References==
+{{Refbegin}}
+* [http://www.comics.org/search.lasso?type=character&query=Solomon+Kane&sort=chrono&Submit=Search Solomon Kane] at the [[Grand Comics Database]]
+* {{comicbookdb|type=character|id=10060|title=Solomon Kane}}
+{{refend}}
+
+==External links==
+{{wikisource|Author:Robert E. Howard#Solomon Kane|Solomon Kane}}
+* [https://web.archive.org/web/20091026210008/http://www.geocities.com/ratmmjess/kane.html Solomon Kane in Marvel Comics]
+* [http://gadsircomics.blogspot.com/2007/08/drab-garb-of-solomon-kane.html The Drab Garb of Solomon Kane]
+* [http://www.darkhorse.com/Search/Solomon+Kane Official Solomon Kane] at Dark Horse Comics
+
+{{Robert E. Howard}}
+
+{{DEFAULTSORT:Kane, Solomon}}
+[[Category:2008 comics debuts]]
+[[Category:Comics based on works by Robert E. Howard]]
+[[Category:Robert E. Howard characters]]
+[[Category:Characters in pulp fiction]]
+[[Category:Fictional vampire hunters]]

@@ -1,0 +1,381 @@
+{{short description|Fictional character}}
+{{Redirect|The Blackhawks|the sports team|Chicago Blackhawks}}
+{{Infobox comics organization
+|name         = The Blackhawks
+|image        = Blackhawk-crandall.jpg
+|imagesize    = <!-- default 250 -->
+|caption      = Blackhawk leading three members of his team into battle, art by [[Reed Crandall]].
+|publisher    = [[Quality Comics]] (1941–1956)<br />[[DC Comics]] (1957–present)
+|debut        = ''[[Military Comics]]'' #1
+|debutmo       = August
+|debutyr       = 1941
+|creators      = [[Charles Nicholas#Chuck Cuidera|Chuck Cuidera]]<br />[[Bob Powell]]<br />[[Will Eisner]]
+|team         = y
+|base         = Blackhawk Island
+|owners       = 
+|employees    = 
+|members      = Blackhawk<br />André<br />Chuck<br /> Hendrickson<br />Olaf<br />Stanislaus<br />Chop-Chop<br />[[Lady Blackhawk#Zinda Blake|Zinda Blake (Lady Blackhawk)]]<br />[[Lady Blackhawk#Natalie Reed|Natalie Reed (Lady Blackhawk)]]<br />[[Hawkgirl|Kendra Saunders (Lady Blackhawk)]]
+|fullroster   =
+|cat          = teams
+|subcat       = DC Comics
+|hero         = y
+|sortkey      = Blackhawk (comics)
+}}
+
+'''Blackhawk''' is the eponymous fictional character of the long-running [[comic book]] series '''''Blackhawk''''' first published by [[Quality Comics]] and later by [[DC Comics]]. Primarily created by [[Charles Nicholas#Chuck Cuidera|Chuck Cuidera]] with input from both [[Bob Powell]] and [[Will Eisner]],<ref name="pov2">{{cite web |author-link=Mark Evanier |last=Evanier |first=Mark |url=http://povonline.com/cols/COL306.htm |title=Blackhawk, Part 2 |publisher=(transcript, Part 2, of 1999 [[Comic-Con International]] panel with [[Charles Nicholas#Chuck Cuidera|Chuck Cuidera]] and Will Eisner), P.O.V. Online |date=September 8, 2000 |archive-url=https://web.archive.org/web/20101217065650/http://povonline.com/cols/COL306.htm |archive-date=December 17, 2010 |url-status=dead}}</ref> the Blackhawk characters first appeared in ''[[Military Comics]]'' #1 (August 1941).<ref name=Guide>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Korte |first3=Steve |last4=Manning |first4=Matt |last5=Wiacek |first5=Win |last6=Wilson |first6=Sven |title=The DC Comics Encyclopedia: The Definitive Guide to the Characters of the DC Universe |date=2016 |publisher=DK Publishing |isbn=978-1-4654-5357-0 |page=47}}</ref>
+
+Led by a mysterious man known as Blackhawk, the Blackhawks (or more formally, the Blackhawk Squadron) are a small team of [[World War II]]-era [[flying ace|ace pilots]] of varied nationalities, each typically known under a single name, either their given name or their surname. Though the membership roster has undergone changes over the years, the team has been portrayed most consistently as having seven core members.<ref>{{cite book |last1=Benton |first1=Mike |title=Superhero Comics of the Golden Age: The Illustrated History |date=1992 |publisher=Taylor Publishing Company |location=Dallas |isbn=0-87833-808-X |pages=[https://archive.org/details/superherocomicso0000bent/page/72 72]-74 |url=https://archive.org/details/superherocomicso0000bent |url-access=registration |access-date=15 January 2020}}</ref>
+
+In their most well-known incarnation, the Blackhawks operate from a hidden base known only as Blackhawk Island, fly [[Grumman XF5F Skyrocket]] fighter aircraft, and shout their battle cry of "Hawk-a-a-a!" as they descend from the skies to fight tyranny and oppression. Clad in matching blue and black uniforms (with Blackhawk himself boasting a hawk insignia on his chest), early stories pitted the team against the [[Axis powers]], but they would also come to battle recurring foes such as King Condor and Killer Shark, as well as encounter an array of gorgeous and deadly femme fatales. They also frequently squared off against fantastical war machines ranging from amphibious "shark planes" and flying tanks, to the aptly named War Wheel, a gigantic rolling behemoth adorned with spikes and machine guns.
+
+At the height of his popularity in the early 1940s, Blackhawk titles routinely outsold every other comic book but [[Superman]].<ref>[[Will Murray (writer)|Murry, Will]], "An interview with Chuck 'Blackhawk' Cuidera", ''Comic Book Marketplace'' #68, May 1999.</ref> Blackhawk also shares the distinction of being just one of five comic book superheroes to be published continuously in their own titles from the 1940s up to the 1960s (the others being [[Superman]], [[Batman]], [[Wonder Woman]] and [[Phantom (comics)|The Phantom]]).
+
+The comic book series has spawned a [[film serial]], a [[radio|radio series]], a [[novel]], and has been announced as a forthcoming Steven Spielberg [[feature film]]. A grounded version of Blackhawk named Ted Gaynor appeared on television in the [[Arrow (season 1)|first]] season of the [[Arrowverse]] series ''Arrow'', played by [[Ben Browder]].
+
+==Publication history==
+===Creation===
+Like many of his [[Golden Age of Comic Books|golden age]] and [[Silver Age of Comic Books|silver age]] comic book counterparts, the creation of Blackhawk has been the subject of sometimes-contentious debate. [[Will Eisner]] has at times been considered the characters' primary creator, with Eisner himself acknowledging the contributions of [[Charles Nicholas#Chuck Cuidera|Chuck Cuidera]] and writer [[Bob Powell (comics)|Bob Powell]].<ref name="Blackhawk260Bylines">[[Catherine Yronwode|Yronwode, Catherine]], "Who's Who: An Interview With Will Eisner", ''Blackhawk'' #260 (July 1983). DC Comics.</ref>
+
+Over the years, Cuidera became increasingly vocal that he did much more work on Blackhawk than Eisner and that he had in fact already started creating the characters prior to joining Eisner's studio.<ref>Schumacher, Michael, ''Will Eisner: A Dreamer's Life in Comics'' (Bloomsbury USA, 2010). pp. 72–73.</ref> According to Cuidera, he and Powell fleshed out the concept, deciding on everything from names and nationalities, to the characters' distinguishing traits, uniforms, and the aircraft they would fly.<ref name="steranko">[[Jim Steranko|Steranko, Jim]], ''The Steranko History of Comics'' Volume 2 (Supergraphics, 1972). pp. 52–61.</ref>
+
+In 1999, Eisner addressed his view of the matter during a [[San Diego Comic-Con International|Comic-Con]] panel:
+
+{{blockquote|It's not important who created it...it's the guy who kept it going, and made something out if it that's more important. Whether or not Chuck Cuidera created or thought of Blackhawk to begin with is unimportant. The fact that Chuck Cuidera made Blackhawk what it was is the important thing, and therefore, he should get the credit.<ref name="pov1">{{cite web| author-link= Mark Evanier| last= Evanier| first= Mark| url= http://povonline.com/cols/COL305.htm| title= Blackhawk, Part 1| publisher= (transcript, Part 1, of 1999 [[Comic-Con International]] panel with [[Charles Nicholas#Chuck Cuidera|Chuck Cuidera]] and [[Will Eisner]]), P.O.V. Online| date= September 1, 2000| url-status= dead| archive-url= https://web.archive.org/web/20130313063102/http://www.povonline.com/cols/COL305.htm| archive-date= March 13, 2013}}</ref>}}
+
+===The Quality Comics years===
+[[Image:Military18.jpg|thumb|left|180px|''Military Comics'' #18 (April 1943): art by [[Reed Crandall]].]]
+The Blackhawks debuted in August 1941 as the lead feature in the first issue of [[Quality Comics]]' anthology series ''Military Comics'', billed as featuring "stories of the [[United States Army|Army]] and [[United States Navy|Navy]]". Viewed by Will Eisner as "a modern version of the Robin Hood legend",<ref name="steranko" /> the team's first appearance was co-written by Chuck Cuidera and Bob Powell, with art by Cuidera.<ref name="pov2" /> Although the exact nature of Eisner, Cuidera, and Powell's individual contributions to the creation of the Blackhawks will never be known, it is confirmed that each performed some level of writing duties at different times during the first eleven issues, with Eisner working on early covers with Cuidera and Cuidera providing interior artwork.<ref name="pov2" /><ref name="steranko" />
+
+When Cuidera joined the armed services in 1942, [[Reed Crandall]] took over as artist, beginning a long association with the characters that would last until 1953.<ref name=Companion>{{cite book |last1=Koolman |first1=Mike |last2=Amash |first2=Jim |title=The Quality Companion |date=2011 |publisher=TwoMorrows Publishing |isbn=978-1605490373 |pages=96–105}}</ref> [[Jim Steranko]] has observed, "where Cuidera made Blackhawk a best-seller, Crandall turned it into a classic, a work of major importance and lasting value".<ref name="steranko" /> It was during Crandall's run that the series hit its sales and popularity zenith.
+
+The Blackhawks' success earned them their own title in Winter 1944. That issue, ''Blackhawk'' #9, picked up the numbering of Quality's canceled ''[[Uncle Sam (comics)|Uncle Sam Quarterly]]''. They meanwhile continued to be featured prominently in ''Military Comics'', later renamed ''Modern Comics'', until that book's cancellation with #102 (October 1950).
+
+During the Quality years, a whole host of well-respected talent worked on the character, including writers [[Manly Wade Wellman]], Bill Woolfolk, [[Bill Finger]], and Dick French,<ref name="dcarchive">[[Mark Evanier|Evanier, Mark]] (2001), ''The Blackhawk Archives Volume 1'', Foreword by Mark Evanier, DC Comics. p. 9.</ref> as well as artists Al Bryant, [[Bill Ward (cartoonist)|Bill Ward]], and [[Dick Dillin]].
+
+It was French, also an accomplished songwriter, who infused the team with the quirky desire to sing celebratory songs from their cockpits as they swooped in and out of battle.<ref name="superhero">Misiroglu, Gina Renee Misiroglu; Roach, David A. (2005). [https://books.google.com/books?id=IDlEHGKj8JgC&pg=PA88&lpg#v=onepage&q&f=false ''The Superhero Book: The Ultimate Encyclopedia of Comic-Book Icons and Hollywood Heroes'']. Omnigraphics, Inc. pp. 87–90. Archived at [[Google Books]]. Retrieved April 8, 2013.</ref>
+
+Quality Comics ceased operations with comics cover-dated December 1956, with ''Blackhawk'' #107 being the final issue published by Quality. The character and title trademarks were initially leased on a royalty basis to National Periodical Publications (now [[DC Comics]]) before eventually being sold in their entirety.<ref name="superhero" />
+
+===Acquired by DC Comics===
+Blackhawk was one of the few Quality series that DC chose to keep running uninterrupted. Penciller Dick Dillin and inker Chuck Cuidera remained on the title, ensuring a near-seamless transition. The duo would stay with the title through nearly its entire first run at DC.
+
+Steering deeper and deeper into the realm of science fiction, the Blackhawks found themselves confronting a steady stream of unmemorable and mostly one-off [[supervillain]]-like adversaries bent on world domination.
+
+The Blackhawks also gained a new ally in ''Blackhawk'' #133 (February 1959): [[Lady Blackhawk#Zinda Blake|Lady Blackhawk]], a pilot named Zinda Blake who was determined to become the first female member of the team. After a couple of appearances, she was granted honorary status and became a semi-frequent member of the supporting cast.
+
+In an effort to update the characters, DC gave the team its first ever major wardrobe overhaul in ''Blackhawk'' #197 (June 1964), replacing their longtime uniforms with red and black shirts and green pants. On a dramatic level, Lady Blackhawk was transformed into a supervillain, Queen Killer Shark, in ''Blackhawk'' #200 (September 1964).
+
+Then, in a much more drastic attempt to combat flagging sales due to the rising popularity of [[superhero]] books and the [[Batman (TV series)|Batman TV series]], DC proclaimed with ''Blackhawk'' #228 (January 1967) the beginning of "the New Blackhawk Era" with a cover featuring [[Justice League|Justice League of America]] members [[Superman]], [[Batman]], [[Green Lantern]], and [[Flash (DC Comics character)|the Flash]] observing that the Blackhawks are (in Superman's words) "washed up" and (in Batman's words) "junk-heap heroes". In the issues that followed, all but Blackhawk gained a costumed superhero [[alter ego]] at the behest of a shadowy government agency.
+
+With sales continuing to sink, the Blackhawks were restored to something that more closely resembled their original roots in ''Blackhawk'' #242 (August 1968), losing the superhero identities in favor of their traditional blue and black uniforms. It was too late though; the comic was canceled for the first time one issue later.
+
+===1970s===
+Just over seven years later, DC Comics resurrected the series with ''Blackhawk'' #244 (January 1976) as part of an ongoing mid-1970s expansion of the line dubbed "Conway's Corner" in house ads. The Blackhawks were transplanted to the 1970s and now portrayed as mercenaries-for-hire, matching wits against fancifully bizarre new villains, as well as a re-imagined Killer Shark and War Wheel. This run ended with ''Blackhawk'' #250 (January 1977).
+
+===1980s–1990s===
+Amid rampant rumors that [[Steven Spielberg]] was interested in Blackhawk as a possible film project, DC Comics once again resumed the series. Initially conceived as being published quarterly, editor [[Len Wein]] convinced DC to make the book monthly and eventually assembled a team that included writer [[Mark Evanier]] and artist [[Dan Spiegle]].<ref name="companion">Kooiman, Mike. [http://qualitycomics.blogspot.com/2011/12/mark-evanier-discusses-blackhawk.html "Mark Evanier discusses Blackhawk and Plastic Man"]. "The Quality Companion Companion".</ref> ''Blackhawk'' #251 (October 1982) returned the team to a World War II setting and restored many of the familiar trappings that had been shed over the years during the various attempts to modernize the characters. Numerous new supporting characters were introduced during the run, most notably Domino, a buxom Nazi assassin and love interest to Blackhawk who was reminiscent of the femme fatales so common during the Quality Comics era. Evanier also reintroduced arch-villain Killer Shark, and has said he would have likely added Lady Blackhawk to the cast had the series lasted longer.<ref name="companion" /> But faced with stagnant sales that Evanier attributed largely to DC's lack of interest in publicizing the series,<ref name="companion" /> the book was canceled with ''Blackhawk'' #273 (November 1984). Though it wouldn't be known at the time, that issue would mark the definitive end of the series' original issue numbering.
+
+Sometime after the cancellation, DC employed writer [[Bill DuBay]] and artist [[Carmine Infantino]] to produce a Blackhawk mini-series. Though never published, numerous finished pages exist.<ref>Amash, Jim; Nolen-Weathington, Eric (2010). [https://books.google.com/books?id=m1MKdUvE3LUC&pg=PA218&lpg=PA218#v=onepage&q&f=false ''Carmine Infantino: Penciler, Publisher, Provocateur'']. TwoMorrows Publishing. pp. 218–219. Archived at [[Google Books]]. Retrieved April 8, 2013.</ref>
+
+In 1988, a three-issue mini-series by [[Howard Chaykin]] re-imagined the team during World War II yet again, this time with a notably more adult and gritty take on the characters. Chaykin, for the most part, eschewed the team dynamic so familiar to Blackhawk readers, instead crafting a politically charged espionage thriller that focused prominently on Blackhawk and a new version of [[Lady Blackhawk#Natalie Reed|Lady Blackhawk]]. Post-war stories respecting Chaykin's continuity followed in ''[[Action Comics|Action Comics Weekly]]'' #601–608, #615–622, and #628–635, as well as in a monthly series that restarted with an issue #1 and ran 16 issues from March 1989 to August 1990.<ref name="dc-ency">{{Cite book | last = Greenberger | first = Robert | contribution = Blackhawk | editor-last = Dougall | editor-first = Alastair | title = The DC Comics Encyclopedia | pages = 54 | publisher = [[Dorling Kindersley]] | place = London | year = 2008 | isbn = 978-0-7566-4119-1}}</ref>
+
+In 1992, DC Comics published ''Blackhawk Special'' #1. Still respecting Chaykin's continuity and set 10 years after the events of ''Blackhawk'' #16, the story spans a five-year period as Blackhawk seeks to avenge the death of team member André.
+
+===More recent appearances===
+Since 1992, mostly modern hints of the team have appeared, usually in the form of the "Blackhawk Express" courier service or the time-displaced [[Lady Blackhawk#Zinda Blake|Lady Blackhawk]]. One of the best examples of this is the 1990s appearance of team member Chop-Chop in a few issues of DC's ''[[Hawkworld]]'' series.
+
+Other Blackhawk air pilot groups have been shown during present time or alternate future events such as ''[[Our Worlds At War]]'' and ''[[Kingdom Come (comic)|Kingdom Come]]''. It is unknown which connection beyond homage and inspiration, if any, those groups have to the classic Blackhawks. Blackhawk at this time is an extension of [[Checkmate (comics)|Checkmate]].
+
+DC Comics reprinted the Blackhawk features from the first 17 issues of ''Military Comics'' in ''The Blackhawk Archives Volume 1'' (2001) as part of its hardcover [[DC Archive Editions]] series.
+
+Blackhawk made an appearance in ''[[The Brave and the Bold#Volume 3|The Brave and the Bold]]'' (Vol. 3) #9 (February 2008), teaming up with the [[Boy Commandos]] during a World War II tale.
+
+The Blackhawks appeared in ''[[Superman & Batman: Generations]] 2'', in which they help [[Superman]], [[Spectre (DC Comics character)|Spectre]], and [[Hawkman]] battle a robot during the war. During the battle, Chuck sacrifices himself to destroy a missile.  During the same storyline in 1997, a heroine named Blackhawk appears, battling [[Sinestro]]. According to [[John Byrne (comics)|John Byrne]]'s liner notes in ''Generations 3'' #1, this character is Janet Hall, the granddaughter of the original Blackhawk, as well as [[Hawkman (Carter Hall)]] and [[Hawkgirl|Hawkgirl (Shiera Sanders)]].
+
+===The New 52===
+{{See also|Blackhawks (DC Comics)}}
+In September 2011 as part of its [[The New 52|New 52]] publishing revamp, DC Comics launched a monthly series titled ''[[Blackhawks (DC Comics)|Blackhawks]]'' with no direct ties to the previous incarnations. The book is set in the present day with no appearances by, or mention of, prior Blackhawks, although there is a new version of the [[Lady Blackhawk]] character. The book shares the setting of the rebooted [[DC Universe]] continuity set up in the ''[[Flashpoint (comics)|Flashpoint]]'' mini-series.<ref>{{Cite web|url=http://dcu.blog.dccomics.com/2011/06/09/welcome-to-the-edge/|title=Welcome to the Edge|date=9 June 2011}}</ref><ref name="acomicbookblog">{{Cite web |url=http://acomicbookblog.com/2011/10/blackhawks-1-review/ |title=Blackhawks #1 Review &#124; A COMIC BOOK BLOG |access-date=2011-10-03 |archive-url=https://web.archive.org/web/20111003193225/http://acomicbookblog.com/2011/10/blackhawks-1-review/ |archive-date=2011-10-03 |url-status=dead}}</ref> The series ended with ''Blackhawks'' #8 (April 2012) to make way for a "second wave" of New 52 titles.<ref>{{cite web |url=http://dcu.blog.dccomics.com/2012/01/12/dc-comics-in-2012-%e2%80%93-introducing-the-%e2%80%9csecond-wave%e2%80%9d-of-dc-comics-the-new-52/ |title=Archived copy |access-date=2012-01-14 |url-status=dead |archive-url=https://web.archive.org/web/20120115002335/http://dcu.blog.dccomics.com/2012/01/12/dc-comics-in-2012-%E2%80%93-introducing-the-%E2%80%9Csecond-wave%E2%80%9D-of-dc-comics-the-new-52/ |archive-date=2012-01-15}}</ref>
+
+==Fictional team history==
+===Original incarnation===
+[[Image:Blackhawk 12.jpg|thumb|left|''Blackhawk'' #12 (Autumn 1946), cover art by Al Bryant.]]
+{{Quote box
+ |width=30em
+ |bgcolor=#d5e5fa
+ |align=right
+ |quote="History has proven that whenever liberty is smothered and men lie crushed beneath oppression; there always rises a man to defend the helpless...liberate the enslaved and crush the tyrant...Such a man is Blackhawk...Out of the ruins of Europe and out of the hopeless mass of defeated people he comes, smashing the evil before him..."
+ |source=—Introduction from ''Military Comics'' #1 (August 1941)<ref name="Military1">{{Cite comic|writer=[[Charles Nicholas#Chuck Cuidera|Chuck Cuidera]], [[Bob Powell (comics)|Bob Powell]], [[Will Eisner]]|penciller=[[Charles Nicholas#Chuck Cuidera|Chuck Cuidera]]|story=Blackhawk|title=Military Comics #1|date=August 1941|publisher=[[Quality Comics]]}}</ref>}}
+With the overwhelming forces of [[Nazi Germany]] flooding into [[Poland]] in September, 1939, only the [[Polish Air Force]] remains as the last major line of resistance. Captain von Tepp and his Butcher Squadron swarm the skies in response, outnumbering the Polish four to one. The Germans decimate their foes until just one lone plane — painted jet black — remains. After gallantly shooting down six Nazi planes, the mysterious pilot is forced to crash land on the countryside. Running to a nearby farmhouse, he's tracked from the air by von Tepp, who drops a bomb and destroys the building. The pilot locates his dead sister and mortally wounded brother inside. He vows to kill von Tepp before disappearing into the darkness.
+
+Months later, with most of [[Europe]] collapsing under the might of the Nazis, the pilot reemerges with his own private squadron and "like an angel of vengeance, Blackhawk and his men swoop down out of nowhere, their guns belching death, and on their lips the dreaded song of the Blackhawks".<ref name="Military1" />
+
+In France, Captain von Tepp receives a note from Blackhawk demanding the release of one of Blackhawk's men or face death. Infuriated, von Tepp orders the prisoner's execution by firing squad. At dawn, the man and two others, including a cool-headed English Red Cross nurse (identified as "Ann" in ''Military Comics'' #3), are lined against a wall and mocked by von Tepp. As his men prepare to fire, the song of the Blackhawks fills the air:
+
+{{blockquote|Over land, over sea,<br />We fight to make men free,<br />Of danger we don't care...<br />We're Blackhawks!<ref name="Military1" />}}
+
+With the Blackhawks lining the walls of the courtyard, Blackhawk himself confronts von Tepp. After a brief skirmish, von Tepp is abducted and flown to the Blackhawks' secret base in the [[Atlantic Ocean]], Blackhawk Island. It's there that Blackhawk challenges the Nazi captain to an aerial duel. During the ensuring dogfight, both of the men's planes are crippled and forced to crash. On the ground, von Tepp and Blackhawk, both badly injured, draw guns. Von Tepp falls in a hail of bullets.
+
+Blackhawk's team is mostly depicted in ''Military Comics'' #1 as shadowy, nondescript soldiers, save for an Englishman named Baker who's never seen or mentioned again. ''Military Comics'' #2 (September 1941) expands the role of the team in the featured adventure and introduces five members: Stanislaus, André, Olaf, Hendrick (Hendrickson within a few issues), and Zeg. A sixth, Boris, is also shown, but, like Baker, only makes a single appearance. The designer of their planes, Vladim, is also mentioned.
+
+By ''Military Comics'' #3 (October 1941), the roster is firmed up and it's stated that seven men belong to the team. The group also receives a Chinese mascot and cook, Chop-Chop, when his plane happens to crash on Blackhawk Island during a desperate run for help. The adventure concludes with the first on-page death of a team member: André, who seemingly perishes in an avalanche that buries a large group of Nazis. In ''Military Comics'' #9 (April 1942), the roster is down to five plus Chop-Chop, with Zeg presumably the absent member. In that adventure, the team crosses paths with the mysterious Man in the Iron Mask; André, in fact, now horribly disfigured, but still an enemy of the Nazis.
+
+The most familiar version of the team is finally locked down in ''Military Comics'' #11 (August 1942) shown as consisting of Blackhawk, Olaf, Chuck, André (his face now reconstructed), Stanislaus, Hendrickson, and Chop-Chop.
+
+In ''Blackhawk'' #50 (March 1952), the team's origin is documented.<ref name="Blackhawk50">{{Cite comic|story=Origin of the Blackhawks|title=Blackhawk #50|date=March 1952|publisher=[[Quality Comics]]}}</ref> Blackhawk himself is no longer identified as being Polish, but rather a Polish-American who is a volunteer flyer in the Polish Air Force. His sidekick in the squadron is Stanislaus, a "brilliant young student" from the [[University of Warsaw]]. After facing defeat against the Nazis, Blackhawk attempts to flee to [[Russia]], only to discover that Russian forces are invading from the east. He then seeks refuge in [[England]] where he attempts to join the [[Royal Air Force]]. It's in [[London]] where he and Stanislaus reunite and then meet the four others who will ultimately join them in their crusade: Chuck, another American volunteer; Hendrickson, a recent escapee from a Nazi concentration camp; Olaf, a Swede who had fought for Finland against the Russians; and André, a "valiant Frenchman". The six men wait to enlist in the R.A.F., but because none are British subjects, they are "held up by miles of red tape". Finally, Blackhawk suggests they strike out on their own. They pool their resources and buy planes, setting up a base of operations first on a small island in the Atlantic Ocean, then later in the [[Pacific Ocean|Pacific]]. They're eventually joined by Chop-Chop, described in this account as having "fled from [[China]] when the Japanese overpowered the [[National Revolutionary Army|Nationalist army]]". Chop-Chop first acts as the team's cook, but in time becomes an expert pilot and full member of the team.
+
+===Post-Crisis===
+After the ''[[Crisis on Infinite Earths]]'', Blackhawk is once again Polish by birth and now given a definitive name, Janos Prohaska. Having joined the Polish Air Force at a young age, he had already become a national hero by 1936 alongside his trusted friends Stanislaus Drozdowski and Kazimierc "Zeg" Zegota-Januszajtis. Prior to the outbreak of World War II, the trio travel across Europe, providing freelance service and even fighting for a time in the [[Spanish Civil War]] as members of the [[Communist party]].<ref name="SecretOrigins45">{{Cite comic|writer=[[Martin Pasko]]|penciller=[[Grant Miehm]]|story=Citizen Jan|title=Secret Origins #45|date=October 1989|publisher=[[DC Comics]]}}</ref>
+
+At one point finding himself in America in hopes of gathering funds to build a European resistance group, Prohaska is framed for a series of murders. With the help of the [[Sandman (Wesley Dodds)|Sandman]], he's ultimately exonerated, but a report soon surfaces that he has been shot down and killed by Nazis somewhere in the Mediterranean.<ref name="Sandman">{{Cite comic|writer=[[Matt Wagner]]|penciller=Matthew Smith|story=The Blackhawk Acts #1–4|title=Sandman Mystery Theatre #45–48|date=December 1996–March 1997|publisher=[[DC Comics]]}}</ref>
+
+When the forces of Nazi Germany invade Poland in 1939, Prohaska returns home to help defend his homeland. He's unable to save his younger siblings, Józek and Staszka, and soon forced to flee to Britain with Stanislaus and Zeg. It's there he meets the others who will form the foundation of the Blackhawk Squadron.
+
+In the midst of the war, Prohaska finds himself under suspicion by the U.S. government for his Communist ties. Around this same time, the Blackhawks are joined by Captain Natalie Reed (born Natalie Gurdin), a brilliant Russian-American flight engineer who redesigns the Blackhawks' aircraft and is dubbed [[Lady Blackhawk#Natalie Reed|Lady Blackhawk]] by the U.S. press. It's with her help that Prohaska is able to stop Nazi agent and onetime Hollywood actor Death Mayhew from detonating an atomic bomb in [[New York City]]. The victory restores Blackhawk's reputation.<ref name="ChaykinBlackhawk">{{Cite comic|writer=[[Howard Chaykin]]|penciller=[[Howard Chaykin]]|title=Blackhawk (Vol. 2) #1–3|date=March–May 1988|publisher=[[DC Comics]]}}</ref>
+
+===The New 52===
+In 2011, the entire line of DC Comics was rebooted as part of "[[The New 52]]". In this new version the Blackhawks are an elite covert military unit taking care of High Technology Criminals. During this period their main mission was to deal with terrorist group "Mother Machine". During this storyline their cover is exposed and their existence becomes known to the public and the team must deal with the backlash as well.<ref>{{cite book|last1=Costa|first1=Mike|last2=Nolan|first2=Graham|last3=CAFU|last4=BIT|title=Blachawks Vol 1: The Great Leap Forward|date=November 2012|publisher=DC Comics}}</ref>
+
+===Rebirth===
+In ''Dark Nights: Metal'' #1, [[Hawkgirl|Kendra Saunders]] is introduced as [[Lady Blackhawk]], she is now the leader of the Blackhawks, an anti-apocalyptic team with the mission to prevent the Dark Multiverse from destroying [[Earth-0]]. She also introduces the Blackhawk Island, a place where cosmic energy conducted through the earth's metal core cancels itself out, creating a kind of static that disrupts space-time, the Island served as well for many years as a base of operations for [[Hawkman]] and [[Hawkgirl]].
+
+Lady Blackhawk and the Blackhawks are featured in ''All-Star Batman'' second arc, "Ends of Earth", they are seen hounding Batman, and they are shown to possesses an armor that has the ability to track eye-line movement, the armor also turns them invisible.
+
+==Team depictions==
+===Original incarnation===
+After a period of membership fluctuations during the first 10 issues of ''Military Comics'', the team finally settles into its most famous roster. Although minor character details would shift and change over time, this original version of the team would stay largely intact from the characters' debut in 1941 to the end of their first run in 1968. At one point or another, every member of the team except Blackhawk is depicted in ways [[Stereotype|stereotypical]] for the time, and over the course of the series several would develop their own [[catchphrase]]s.
+
+* '''Blackhawk''' – first Polish, then American, the man known as Blackhawk is portrayed as a strong, decisive leader. He's not always easy on his men—calling Olaf a "big fat-head", for example<ref name="Military5">{{Cite comic|writer=Dick French|penciller=[[Charles Nicholas#Chuck Cuidera|Chuck Cuidera]]|story=Scavengers of Doom|title=Military Comics #5|date=December 1941|publisher=[[Quality Comics]]}}</ref>—but always appears to command their unquestionable respect. At one point late in the first series' run, he's given a name, Bart Hawk.<ref name="Blackhawk242">{{Cite comic|writer=[[Bob Haney]], [[Marv Wolfman]]|penciller=[[Pat Boyette]]|story=Black Mask!|title=Blackhawk #242|date=August–September 1968|publisher=[[DC Comics]]}}</ref>
+* '''Stanislaus''' – Blackhawk's second-in-command. Polish, Stan is initially depicted like his teammates with various ethnic distinctions, but those disappear as the series progresses to the point that he could very well pass for an American. He is often portrayed as an acrobat, then later as the team's strongman.
+* '''Chuck''' – at different times stated as being from Brooklyn or Texas, Chuck is often shown as the team's communications specialist. His words are peppered with frequent American [[colloquialisms]] like "I reckon!" and "Dagnabbit!"
+* '''Hendrickson''' – known as "Hendy" for short, the oldest of the Blackhawks is also their ever-dependable sharpshooter. Heavyset with white hair and a thick, Germanic mustache, he's usually portrayed as Dutch (though German in some accounts), and often exclaims, "Himmel!" (German for "sky" and "heaven") or "Ach du lieber!" (a German phrase akin to "Oh, dear!").
+* '''André''' – with his pencil-thin mustache and natural born suavity, André's appreciation of beautiful women often leads the team into precarious situations. Their demolitions expert, he frequently utters "[[Sacrebleu|Sacre bleu]]!" (an old French profanity).
+* '''Olaf''' – a giant of a man, Olaf is usually portrayed as Swedish, his brutish size and poor English playing into the "big, dumb Swede" stereotype. He often shouts, "Py Yiminy!" and demonstrates impressive acrobatic abilities (a trait that Stanislaus' character loses over time).
+* '''Chop-Chop''' – Chop-Chop is originally the team's Chinese cook and essentially Blackhawk's sidekick, riding along in Blackhawk's plane as opposed to piloting his own. He evolves over time from comic relief mascot to a valued member of the team proficient in the [[martial arts]]. His full name is eventually revealed to be Liu Huang.<ref name="Blackhawk203">{{Cite comic|writer=[[Bob Haney]]|penciller=[[Dick Dillin]]|story=Operation White Dragon|title=Blackhawk #203|date=December 1964|publisher=[[DC Comics]]}}</ref>
+
+Other short-term members are Baker, an Englishman, and Boris, a Russian. Both characters only make single panel appearances. Zeg, Polish like Blackhawk and Stanislaus, manages to last a bit longer, but is gone by the Blackhawk's ninth appearance in ''Military Comics''.
+
+A significant ally to the team throughout the 1940s is [[Miss Fear]], who never formally joins the group but appears frequently during their Asian missions, developing a romantic interest in Blackhawk himself.
+
+The strip's most significant supporting character, however, is Zinda Blake, also known as [[Lady Blackhawk#Zinda Blake|Lady Blackhawk]]. After a failed attempt to become the team's first female member,<ref name="Blackhawk133">{{Cite comic|penciller=[[Dick Dillin]]|story= The Lady Blackhawk|title=Blackhawk #133|date=February 1959|publisher=[[DC Comics]]}}</ref> she is eventually awarded honorary status and makes numerous appears from 1959 to 1968, even becoming the villainess Queen Killer Shark for a time.
+
+The team acquires an animal mascot in the 1950s, Blackie the hawk. Possessing remarkable intelligence he can type notes in plain English, among other skills and fitted with his own miniature belt radio, he's often shown perched on Blackhawk's shoulder.
+
+===1967's New Blackhawk Era===
+{{Quote box
+ |width=35em
+ |bgcolor=#d5e5fa
+ |align=left
+ |quote="It's fact, sir – the Blackhawks are washed-up has-beens, out of date antiques, a danger to national security! To put it bluntly... they just don't swing!"
+ |source=—Batman to the U.S. President in ''Blackhawk'' #228 (January 1967)<ref name="Blackhawk228">{{Cite comic|writer=[[Bob Haney]]|penciller=[[Dick Dillin]]|story=The Junk-Heap Heroes|title=Blackhawk #228|date=January 1967|publisher=[[DC Comics]]}}</ref>}}
+[[Image:BlackhawkIssue230.jpg|thumb|right|180px|''Blackhawk'' #230 (March 1967): The Blackhawks adopt alter-egos, art by [[Dick Dillin]].]]
+When the Blackhawks are proven by the secret spy organization G.E.O.R.G.E. (the Group for Extermination of Organizations of Revenge, Greed, and Evil) to be inept and ineffective as a modern-day fighting force against the evils of the world, the team regroups and dons dramatic new identities that, as the U.S. President happily observes, returns them to their rightful place as one of America's "top trouble-shooting teams".<ref name="Blackhawk230">{{Cite comic|writer=[[Bob Haney]]|penciller=[[Dick Dillin]]|story=Junk-Heap Heroes Book III|title=Blackhawk #230|date=March 1967|publisher=[[DC Comics]]}}</ref> For 14 issues beginning with ''Blackhawk'' #228 (January 1967), the Blackhawks become:
+
+* '''The Big Eye (Blackhawk)''' – Constantly monitoring the activities of his squad from the Hawk-Kite, a mammoth [[dirigible]] made to look like a two-headed hawk, Blackhawk is the only one of the seven to not take on a new alter-ego.
+* '''The Golden Centurion (Stanislaus)''' – Clad in the gleaming gold armor of a dead foe, Stan not only gains the ability to fly, but can also fire bolts of "ionized pure gold".<ref name="Blackhawk231">{{Cite comic|writer=[[Bob Haney]]|penciller=[[Dick Dillin]]|story=Target: Big-Eye|title=Blackhawk #231|date=April 1967|publisher=[[DC Comics]]}}</ref>
+* '''The Listener (Chuck)''' – Chuck facilitates communication between the team, wearing what resembles pajamas covered with drawings of ears.
+* '''The Weapons-Master (Hendrickson)''' – Hendy is the team's master of weaponry.
+* '''M'sieu Machine (André)''' – André becomes designer of exotic crime-fighting gadgets.
+* '''The Leaper (Olaf)''' – Donning a rubber-titanium outfit reminiscent of a human cannonball circus performer, Olaf's natural acrobatic abilities are now complemented with the ability to leap and bounce great distances.
+* '''Dr. Hands (Chop-Chop)''' – Mixing martial arts with [[beryllium]]-encased hands, Chop-Chop is able to "smash through practically anything".<ref name="Blackhawk230" />
+
+The change was very unpopular; in the span of a year, the series lost an average 71,000 readers per issue.<ref>{{cite book |last1=Wells |first1=John |title=American Comic Book Chronicles: 1965-1969 |date=2014 |publisher=TwoMorrows Publishing |isbn=978-1605490557 |page=169}}</ref> The "New Blackhawk Era" ends after just 14 issues when G.E.O.R.G.E. headquarters is unceremoniously destroyed, leaving the Blackhawks with only their classic blue and black uniforms.
+
+===1976–1977===
+When the series resumes in 1976, it features a mercenary team composed of familiar unaged faces. Their origins and place in the [[DC Universe]] are never explained, though it is firmly stated that this version of the Blackhawks consists of "the original seven" and surmises that they had "first banded together in the fifties to battle a growing number of costumed villains and foes".<ref name="Blackhawk244">{{Cite comic|writer=[[Steve Skeates]]|penciller=[[George Evans (cartoonist)|George Evans]]|story=Death's Right Hand!|title=Blackhawk #244|date=January–February 1976|publisher=[[DC Comics]]}}</ref> The members of the team are described as follows:<ref name="Blackhawk244" />
+
+* '''Blackhawk''' (also referred to as Bart Hawk and Mr. Cunningham) – The head of one of the largest aircraft manufacturing companies in the world, and a man who commands "a working knowledge of science with specialties in aviation and aerodynamics".
+* '''Stanislaus''' – The Polish "financial wizard" of Cunningham Aircraft.
+* '''André''' – The French mechanics expert.
+* '''Olaf''' – The Swedish junior member of the group.
+* '''Hendrickson''' – The Dutch elder of the group and the full-time "sentinel" of the team's secret base, Blackhawk Island.
+* '''Chuck''' – The American communications expert and team scientist.
+* '''Chopper''' (formerly known as Chop-Chop) – The Chinese master of martial arts and the team's most skilled flier, "save for Blackhawk himself".
+
+Early in the run, Boris - "the eighth Blackhawk", as he refers to himself - reemerges as the super-powered villain Anti-Man, hellbent on destroying the team as revenge for leaving him for dead on a long ago mission. Shown in flashback wearing the Blackhawks' classic blue and black uniform, even then as a member he exhibits surprising aggression toward his teammates.<ref name="Blackhawk246">{{Cite comic|writer=[[Steve Skeates]]|penciller=[[Ric Estrada]]|story=Death's Deadly Pawn|title=Blackhawk #246|date=May–June 1976|publisher=[[DC Comics]]}}</ref>
+ 
+With Hendrickson left ailing in the final issue of the run, and Chuck seemingly killed in battle, it's possible that big changes were in store for the team's line-up had the series continued past ''Blackhawk'' #250. Two possible replacements are set up, either of whom could have also taken the mantle of Lady Blackhawk: Duchess Ramona Fatale (also referred to as "Patch"), a mercenary with questionable allegiances, but harboring love for Blackhawk; and Elsa, Hendrickson's daughter.
+
+===1982–1984===
+With the team's return to a World War II setting, many basic aspects of the original incarnation are restored, complemented by what writer Mark Evanier called "a more contemporary attitude towards characterization".<ref name="Blackhawk253Bylines">{{Cite comic|writer=[[Mark Evanier]]|story=Blackhawk Bylines|title=Blackhawk #253|date=December 1982|publisher=[[DC Comics]]}}</ref> The core members are:
+
+* '''Blackhawk''' – Described as "Polish American" and referred to as Bart on a few occasions. He abhors killing, doing so only in self-defense. He's strong and level-headed, not always reacting as swiftly or as violently as some of his men might like.
+* '''Stanislaus''' – Blackhawk's Polish second-in-command and loyal friend. Lacking confidence from being in Blackhawk's shadow for so long, he envies Blackhawk's strong leadership capabilities.
+* '''André''' – A former member of the French resistance, he's the team's experienced military planner and full-time ladies' man.
+* '''Olaf''' – A Swede whose tall height and thick accent plays into a common stereotype, but in actuality conceals amazing acrobatic skills and a savvy mind in combat.
+* '''Hendrickson''' – The team's Dutch weapons master and sharpshooter. The oldest of the group, he grapples with feelings of resentment, often left feeling like his much-younger teammates don't always make full use of his wisdom.
+* '''Chuck''' – A Texan who volunteered for the British R.A.F. before bringing his expert piloting and mechanic skills to the Blackhawks. He is portrayed as tougher and more rude than previous depictions.
+* '''Chop-Chop''' – Both the youngest and the newest member of the team, he's a martial arts master named Wu Cheng.
+
+Also introduced during the run is Lieutenant Theodore Gaynor of the [[United States Marine Corps]], who joins the team when Chop-Chop takes a leave of absence to fight the Japanese in China. Gaynor leaves the team after it is learned his hardline stance against the Germans includes the execution of not only Nazi soldiers, but also civilians.
+
+===1988–present===
+After the ''[[Crisis on Infinite Earths]]'' rewrites the history of the [[DC Universe]], the Blackhawks' own history, both during World War II and after, undergoes yet more transformation. The members are:
+
+* '''Major Janos Prohaska (Blackhawk)''' – Reestablished as being born and raised in Poland, Prohaska is portrayed as the consummate leader, but also as a brash, hard-drinking womanizer. He is also revealed to have been a member of the Communist Party, expelled by [[Joseph Stalin]] after opposing the [[Molotov–Ribbentrop Pact]], a 1939 treaty of non-aggression between the Soviets and Nazi Germany.
+* '''Captain Stanislaus Drozdowski''' – Longtime friend of Blackhawk's who fights alongside him in the Polish Air Force before becoming one of the earliest members of the Blackhawks—and one of the team's first casualties.
+* '''Captain André Blanc-Dumont''' – An excellent but slightly reckless pilot, the Frenchman is second-in-command of the team, as well as Prohaska's closest confidant and frequent co-pilot.
+* '''Captain Olaf Friedriksen''' – Danish in this version, athletic Olaf is a savant with languages and skilled at radio operations.
+* '''Captain Ritter Hendricksen''' – The Dutch marksmen and demolitions expert, as well as the oldest member of the team.
+* '''Captain Carlo "Chuck" Sirianni''' – An Italian-American from New Jersey who served with the U.S. [[Office of Strategic Services]] before joining the team and becoming their chief navigation officer. Chuck is also a dabbler in electronics and aeronautic technology.
+* '''Lieutenant Weng Chan (Chop-Chop)''' – Chinese and said to be just 17 when he first joins the team, Weng is a skilled pilot, flight mechanic, and cook.
+* '''Captain Natalie Reed (Lady Blackhawk)''' – Brilliant Russian-American flight engineer who redesigns the Blackhawks' aircraft and fights alongside them. She gives birth to a son in 1945, the product of a brief affair with Hendricksen.
+
+Other early members of the team include Russians Boris Zinoviev and Kazimierc "Zeg" Zegota-Januszajtis, and Englishman Ian Holcomb-Baker, who are "the first to fall in battle".<ref name="SecretOrigins45" /> Later team members include African-American Grover Baines, Malaysian Quan Chee Keng (known as "Mairzey"), and Mexican Paco Herrera.
+
+===2011–present===
+Core members of the Blackhawk Squadron as depicted in the New 52 era:
+
+* '''Colonel Andrew Lincoln''' – Deputy of operations.
+* '''Lady Blackhawk'''
+* '''Kunoichi''' – Japanese field operative.
+* '''The Irishman''' – Ukrainian field operative.
+* '''Attila''' – Hungarian field operative.
+* '''Canada'''
+* '''Wildman''' – Field support operative.
+
+==Evolution of Chop-Chop==
+[[Image:Chopchop-crandall.jpg|thumb|right|200px|The longtime depiction of Chop-Chop, with art by [[Reed Crandall]]. The version portrayed here in 1943 played on racist stereotypes against East Asians, particularly during World War II.<ref name="Blackhawk16">{{Cite comic|writer=Bill Woolfolk|penciller=[[Reed Crandall]]|story=Blackhawk vs. the Fox|title=Military Comics #16|date=February 1943|publisher=[[Quality Comics]]}}</ref>]]
+Throughout the 1940s and well into the 1950s, Chop-Chop provides comic relief in the Blackhawk strip and is depicted as more of a highly exaggerative [[caricature]] amid the realistic art style that otherwise surrounds him. Fat, buck-toothed, and orange-skinned, he speaks in broken English, wears a [[Queue (hairstyle)|queue]] hairstyle complete with a bow, and dresses in colorful [[coolie]] garb. This depiction, although now considered offensive, was not atypical of World War II-era depictions of Asians especially the Japanese.<ref name=Zimmerman>Zimmerman, Carla B. "From Chop-Chop to Wu Cheng: The Evolution of the Chinese Character in ''Blackhawk'' Comic Books", in ''Ethnic Images in the Comics'', edited by Charles Hardy and Gail F. Stern (The Balch Institute for Ethnic Studies, 1986) pp. 37–42.</ref> A popular character at the time, Chop-Chop also appears in his own humor feature in the ''Blackhawk'' series from 1946 to 1955.
+
+Even in his very earliest appearances, he demonstrates tremendous competency and bravery, arriving on Blackhawk Island in a plane of his own construction,<ref name="Military3">{{Cite comic|writer=[[Will Eisner]]|penciller=[[Charles Nicholas#Chuck Cuidera|Chuck Cuidera]]|story=The Doomed Battalion|title=Military Comics #3|date=October 1941|publisher=[[Quality Comics]]}}</ref> and then, relatively soon after, is shown fighting right alongside Blackhawk in a hand-to-hand melee.<ref name="Military5" /> Despite this, he's long portrayed as essentially Blackhawk's sidekick, riding along in Blackhawk's plane as opposed to piloting his own and often brandishing a cleaver in battle.
+
+In 1952, it's firmly stated that he's a full member of the team,<ref name="Blackhawk50" /> and from 1955 to 1964, he slowly transforms into a more realistically drawn character, changes that culminate when the Blackhawks take on a major uniform change for the first time in their history and Chop-Chop finally joins them in his choice of wardrobe.<ref name="Blackhawk197">{{Cite comic|writer=[[Arnold Drake]]|penciller=[[Dick Dillin]]|story=The War Between the Blackhawks|title=Blackhawk #197|date=June 1964|publisher=[[DC Comics]]}}</ref> When the team later reverts to their traditional blue and black uniforms, he dons one for the first time.<ref name="Blackhawk242" />
+
+When the 1980s World War II-set revival of the series begins, Chop-Chop is again shown in a variation of his original outfit (and even clutches a cleaver on the cover of the first issue).<ref name="Blackhawk251">{{Cite comic|writer=[[Mark Evanier]]|penciller=[[Dan Spiegle]]|title=Blackhawk #251|date=October 1982|publisher=[[DC Comics]]}}</ref> It's quickly apparent, however, that the similarities end there and that he's far from comic relief. As the run progresses, it's revealed that he feels slighted by his teammates, not given proper enough respect to even wear the same uniform as them. Realizing their embarrassing oversight, they bestow to him with great ceremony a standard uniform and his own plane to mark him as a respected member of the group.<ref name="Blackhawk265">{{Cite comic|writer=[[Mark Evanier]]|penciller=[[Dan Spiegle]]|story=What's the Matter with Chop-Chop?|title=Blackhawk #265|date=December 1983|publisher=[[DC Comics]]}}</ref>
+
+After DC Comics' company-wide crossover event ''[[Crisis on Infinite Earths]]'' revamped and streamlined many of DC's properties, Chop-Chop has almost exclusively been depicted with a build similar to his comrades and wearing the Blackhawks' standard uniform. His past likeness and role as sidekick is addressed, shown as a character in a comic book about the Blackhawks, which he finds infuriatingly insulting.<ref name="Blackhawkv3n1">{{Cite comic|writer=[[Martin Pasko]]|penciller=[[Rick Burchett]]|title=Blackhawk (Vol. 3) #1|date=March 1989|publisher=[[DC Comics]]}}</ref>
+
+[[Image:Chopchop-spiegle.jpg|thumb|right|180px|Chop-Chop is given a proper name and uniform; art by [[Dan Spiegle]].<ref name="Blackhawk265" />]]
+
+===1983 controversy===
+In ''Blackhawk'' #263 (October 1983), writer [[Mark Evanier]] took over the "Blackhawk Bylines" [[Comic book letter column|letter column]] to address an anonymous editorial written by a staff member of the ''[[Richmond Times-Dispatch]]'' that ran in the paper's February 6, 1983, edition. Evanier wrote of the piece:
+
+{{blockquote|He (let's assume it's a He) complains: "No longer does the Oriental Blackhawk bang no-goodniks on the head with manhole covers, exclaiming: 'Chop-Chop fixee so face look difflunt!'" The writer loves this kind of stuff and then goes on to explain that to not depict Chop-Chop in this manner is the real insult. He writes: "Since Chop-Chop turned up full-grown in 1941, he might well have been born into a village in which the customs of Imperial China still lingered". Referring to the fact that Chop-Chop no longer sports the ponytail: "Dequeueing him demonstrates not 'tolerance' but cultural imperialism...to the extent that a working class Chinese spoke English, it would be pidgin, not the queen's..." Translation: The fat, stupid version was historically accurate".<ref name="Blackhawk263Bylines">{{Cite comic|writer=[[Mark Evanier]]|story=Blackhawk Bylines|title=Blackhawk #263|date=October 1983|publisher=[[DC Comics]]}}</ref>}}
+
+An admittedly stunned Evanier readily denounced the column, challenging the editorial writer's assertion that [[Steven Spielberg]], at the time rumored to be interested in making a ''Blackhawk'' film, should be faithful to the original depiction of Chop-Chop. Evanier wrote that it's amazing to him that "anyone could believe that Chinese folks were really obese and stupid in the forties" or that Spielberg would ignore the box office and "commit professional suicide by so depicting them".<ref name="Blackhawk263Bylines" />
+
+When asked later if the editorial hastened Evanier's own approach to evolving the character, Evanier said he thought he would have pursued the same course regardless, giving the editorial "probably more attention than it deserved".<ref name="companion" />
+
+==Aircraft==
+===Grumman XF5F Skyrocket===
+The [[Grumman XF5F Skyrocket]] is the twin-engine fighter most identified with the Blackhawks. The team is nearly always shown flying modified versions of the plane during their World War II adventures and for some time thereafter. As [[Will Eisner]] remembered:
+
+{{blockquote|So we came up with the idea of using a certain model Grumman airplane, which had a very strange configuration. It had tailfins coming out from under a wing. It also apparently had the capacity to make a rapid takeoff from the deck of an aircraft carrier. It was a Navy plane, as I remember, not an Army Air Force plane. Actually, in real life, it turned out not to be as good a plane as everybody thought it would be, but it sure looked sexy!<ref name="Blackhawk260Bylines" />}}
+
+===Other notable aircraft===
+{{More citations needed section|date=April 2013}}
+Additionally, other planes made appearances during the course of strip:
+* [[PZL.50 Jastrząb|PZL.50A Jastrząb]] – This is the plane that Blackhawk flew in Poland during the Nazi invasion of 1939.
+* [[Republic Aircraft|Republic]] [[F-84 Thunderjet]] – By the early 1950s, the Blackhawks converted the squadron to jets. This was the Blackhawk Squadron's first jet aircraft:
+* [[Lockheed Corporation|Lockheed]] [[XF-90]] – This actual experimental fighter was adapted to become the fictional:
+: F-90 "B" – The Blackhawks flew this plane from 1950 to 1955.
+: F-90 "C" – The Blackhawks were flying this model by 1957.
+* Republic [[F-105 Thunderchief]] – The Blackhawks modified this plane to have [[VTOL]] capability.
+* Lockheed [[F-94 Starfire]] – This is the plane that [[Lady Blackhawk]] flew.
+
+==International incarnations==
+{{More citations needed section|date=April 2013}}
+The Blackhawk concept and characters proved to be popular on the international market as well as in the United States. Quality Comics licensed the rights along with many of their other characters to London's [[Boardman Books]], which used them in a series of three-color reprints from 1948 to 1954. Boardman also reprinted Blackhawk stories in their ''Adventure Annual'' series of hardcover Christmas publications. Many of the British Blackhawk reprints were repackaged by Boardman art director [[Denis McLoughlin]], who created at least one British original Blackhawk story, as well as the illustrations for several ''Blackhawk'' text stories. After Boardman's contract lapsed, Strato Publications launched a square-bound 68-page ''Blackhawk'' series which ran for 37 issues between 1956 and 1958.
+
+==Early crossover==
+In ''Hit Comics'' #26 (February 1943), Blackhawk participated in an early example of a crossover when fellow [[Quality Comics]] character [[Kid Eternity]] summons him to stop a mad scientist.
+
+==Other versions==
+===Flashpoint===
+* In the ''[[Flashpoint (comics)|Flashpoint]]'' reality, the Blackhawk Squadron, equipped with [[Lockheed Martin F-35 Lightning II|F-35s]] and with [[Hal Jordan]] and [[Carol Ferris]] among its pilots, respond to attacks on [[Themyscira (DC Comics)#New Themyscira|New Themyscira]], but are killed by Amazonian forces.<ref name="FlashpointHalJordan3">{{Cite comic|writer=Adam Schlagman|penciller=[[Cliff Richards]]|story=Hard-Travelling Hero|title=Flashpoint: Hal Jordan #3|date=August 2011|publisher=[[DC Comics]]}}</ref>
+
+==In other media==
+===Television===
+* A 1968 "presentation drawing" from [[Filmation]] depicts a red-shirted interpretation of Blackhawk and a member of the team fighting a pack of what appears to be four aliens, while [[Aquaman]] watches from the foreground. Created during the height of popularity of Filmation's "[[The Superman/Aquaman Hour of Adventure|Superman/Aquaman Hour of Adventure]]", the artwork is believed to have been part of an attempt to convince CBS on the animation viability of other DC Comics properties.<ref>{{cite web|url=http://www.aquamanshrine.com/2008/05/aquaman-meets-blackhawks.html |title=The Aquaman Shrine: Aquaman Meets the Blackhawks? |access-date=2012-07-21 |url-status=dead |archive-url=https://web.archive.org/web/20101229000832/http://www.aquamanshrine.com/2008/05/aquaman-meets-blackhawks.html |archive-date=2010-12-29}}</ref>
+
+[[Image:SavageTime.jpg|thumb|200px|Blackhawk in the ''[[Justice League (TV series)|Justice League]]'' animated series.]]
+* The ''[[Justice League (TV series)|Justice League]]'' episode "The Savage Time" featured appearances by many DC [[World War II]]-era heroes, including the Blackhawks. When the Blackhawks join Superman and Hawkgirl in battle, Hawkgirl notices their logo. After Blackhawk salutes Hawkgirl, Superman comments "Friends of yours?", to which Hawkgirl responds "They are now". A lead Blackhawk (presumably Janos Prohaska/Bart Hawk) was voiced by [[Robert Picardo]].
+* The ''[[Justice League Unlimited]]'' episode "I Am Legion" featured a now-elderly Chuck (voiced by [[Academy Award]]-nominee [[Seymour Cassel]]). According to Chuck, he was the only Blackhawk still living and he was married to Mairzey. It was not revealed how the others died. The episode focused on [[Lex Luthor]], [[Key (comics)|The Key]], and [[Doctor Polaris]] raiding the decommissioned Blackhawk Island in order to steal the advanced technology the Blackhawks had acquired on various missions and stored there (the only item they do steal is the [[Holy Lance|Spear of Longinus]]). During a chase through the museum on the island, a statue or mannequin of [[Lady Blackhawk]] can be seen. In the epilogue, Hawkgirl and Chuck pay their respects at a statue memorial to the deceased team members.
+* The ''[[Arrow (TV series)|Arrow]]'' episode "Trust But Verify" featured a private security company called '''Blackhawk Squad Protection Group'''. An employee, Theodore Gaynor (played by [[Ben Browder]]), was [[John Diggle (Arrowverse)|John Diggle's]] (Oliver's bodyguard) former [[commanding officer]] in [[Afghanistan]]. Gaynor led a team of other Blackhawk employees in robbing armored cars, until he was killed by [[Oliver Queen (Arrowverse)|Oliver Queen]]. Other team members were Paul Knox ([[Colin Lawrence]]), Cavanaugh (Jae Lee) and Blake (played by an uncredited actor).
+* In the ''Arrow'' spin-off series ''[[The Flash (2014 TV series)|The Flash]]'', episode "Going Rogue", [[Leonard Snart]] and his accomplices attempt to rob an armored '''Blackhawk Squad Security''' truck, only to be stopped by [[Flash (Barry Allen)|The Flash]]. In a later episode, Blackhawk Island is mentioned to be within Central City limits.
+
+===Film===
+* ''[[Blackhawk (serial)|Blackhawk]]'' is a 15-part 1952 film [[Serial (film)|serial]] based on the comic book, produced by [[Sam Katzman]] and starring [[Kirk Alyn]] as Blackhawk. Alyn had earlier been the first screen [[Superman]].
+* The Blackhawk squadron appears in ''[[Justice League: The New Frontier]]'', but the pilots are unnamed. The only spoken line is the cry "Hawk-a-a-a!" from one of the pilots, presumably Blackhawk himself. The squadron intervenes at a crucial point, saving [[Batman]] and Green Arrow from being annihilated by the [[Dinosaur Island|Centre]]'s creatures.
+* In the early 1980s, [[Steven Spielberg]] announced that he had plans to direct a film adaptation of the comic book series. [[Dan Aykroyd]] was attached to play Blackhawk.<ref>{{cite web|url=http://www.cosmicteams.com/quality/evanier-Interview.html|title=Justice Society of America|website=www.cosmicteams.com}}</ref> However, the project was canceled and Spielberg chose to direct ''[[Raiders of the Lost Ark]]'' instead. In April 2018, Warner Bros. revived the ''Blackhawk'' project for the DCEU. It was also announced that Spielberg would return to direct and produce the film, with the screenplay being written by [[David Koepp]]. Spielberg will co-produce the film with [[Kristie Macosko Krieger]] and Sue Kroll, and it was initially expected to begin after he completed ''[[West Side Story (2021 film)|West Side Story]]''. Koepp said that he's now working on the script and is unsure if Spielberg will direct the film or not.<ref>{{cite web | url=https://www.instagram.com/p/CI63az7J7Pn/ | title=David Koepp on Instagram: "Not a terrible view for work today. #screenwriting" }}</ref><ref>{{Cite web|last=Richard|first=Nate|date=March 25, 2022|title=David Koepp on How His Friendship With Steven Soderbergh Shaped 'KIMI', the Art of Screenwriting, and His Legendary Career|url=https://collider.com/david-koepp-interview-kimi-steven-soderbergh-blackhawks/|access-date=March 26, 2022|website=Collider|language=en-US}}</ref>
+
+===Radio===
+* The ''[[Blackhawk (radio)|Blackhawk]]'' radio series was broadcast Wednesdays at 5:30pm on [[American Broadcasting Company|ABC]] from September to December 1950. [[Michael Fitzmaurice (actor)|Michael Fitzmaurice]] portrayed Blackhawk. At least 16 episodes were produced.<ref>Summers, Harrison Boyd, A Thirty-Year History of Programs Carried on National Radio Networks in the United States, 1926–1956, Columbus, Ohio: Ohio State University, 1958. Reprinted by Arno Press, 1971.</ref>
+
+===Comics===
+* Alan Moore's ''[[Top 10: The Forty-Niners]]'' features the Blackhawks-themed [[List of Top 10 characters#The Skysharks|Skysharks]] as a major protagonist, detailing the origins of the science-hero city of Neopolis and the first officers of [[Top 10 (comics)|Top 10]] police precinct. Moore previously used former [[Charlton Comics]] characters acquired by DC and renamed in ''[[Watchmen]]''.
+
+===Novel===
+* A novel titled ''Blackhawk'', by [[William Rotsler]], was published in 1982, detailing the team's origin.
+
+===Toys===
+* A limited-edition Blackhawk [[G.I. Joe]] action figure was produced in 2002 by Dreams & Visions, licensed by DC Comics and [[Hasbro]]. The figure wore the classic blue-black flight uniform from World War II with two additional outfits and accessory sets included: Blackhawk's red and green uniform from the mid to late 1960s, and an [[Arctic]] survival uniform in sky blue.
+* In July 2006, [[DC Direct]] released a 6.58" Blackhawk action figure as part of the Series 1 [[DC: The New Frontier]] toyline.
+* In 2009, [[Mattel]] released a Blackhawk figure that is part of their [[DC Universe: Justice League Unlimited Fan Collection|''Justice League Unlimited'' toyline]].
+* In 2008, three Blackhawk figures were released for the Heroclix game from Wizkids / NECA. These represent Blackhawk himself, Stanislaus and Hendrickson. All have the standard blue and black squadron uniforms, although only Blackhawk has the hat. Blackhawk and Hendrickson are armed with assault rifles, while Stanislaus is armed with a service revolver. Blackhawk's base has a red edge (Veteran), Hendrickson's has a blue edge (Experienced), and Stanislaus' has a yellow edge (Rookie). All three have the "Soldier" keyword, and Blackhawk himself also has the "Leadership" ability. All three figures have the word Blackhawk on the base.
+
+==Magazine parodies==
+* [[Mad (magazine)|''MAD'' magazine]] featured a parody of Blackhawks called "Black and Blue Hawks".
+* ''[[National Lampoon (magazine)|National Lampoon]]'' produced a parody titled "Whitedove", in which the heroes are inspectors from [[UNESCO]].<ref>[http://www.ourworlds.net/blackhawk/media/issuedov.html "Whitedove" parody] at OurWorlds.net</ref>
+
+==See also==
+* [[PZL.37 Łoś]] bomber
+* [[PZL P.11]] fighter
+* [[No. 303 Polish Fighter Squadron]]
+* [[Polish Air Force|The history of the Polish Air Force]]
+* [[Polish contribution to World War II]]
+* [[Seven Soldiers of Victory]]
+* [[List of film serials]]
+
+==Notes==
+{{reflist|30em}}
+
+==References==
+{{refbegin}}
+* [http://www.internationalhero.co.uk/g/gablahaw.htm Blackhawk] at the International Catalogue of Superheroes
+* {{comicbookdb|type=character|id=2992|title=Blackhawk}}
+{{refend}}
+
+==Further reading==
+*{{cite book|last=Scott
+|first=Cord
+|title=Comics and Conflict: Patriotism and Propaganda from WWII through Operation Iraqi Freedom|publisher=Naval Institute Press
+|year= 2014
+|isbn= 9781612514772
+}}
+
+==External links==
+* [https://archive.today/20130105074553/http://ourworlds.topcities.com/blackhawk/index.html Unofficial Blackhawk comics site]
+* [https://web.archive.org/web/20141129032926/http://www.dcindexes.com/features/database.php?pagetype=character&id=202 Earth-2 Blackhawk Index]
+* [https://web.archive.org/web/20141129033120/http://www.dcindexes.com/features/database.php?pagetype=character&id=23 Earth-1 Blackhawk Index]
+* [http://www.cosmicteams.com/cosmic/Blackhawks.html Mike Kooiman's Blackhawk History 1940–2011]
+* [http://www.internationalhero.co.uk/g/gablahaw.htm Blackhawk Profile]
+* [http://www.coverbrowser.com/covers/blackhawk Blackhawk cover gallery]
+* [https://web.archive.org/web/20040205023406/http://www.povonline.com/cols/COL305.htm Panel that discusses Blackhawk's creation (in two parts)]
+* [http://doctor-k100.blogspot.com/2008/02/day-job-keeping-up-with-chop-chop.html Article on the history of "Chop-Chop"]
+{{DC Comics War Titles|state=collapsed}}
+{{Will Eisner}}
+{{All-Star Squadron}}
+{{GoldenAge}}
+
+{{DEFAULTSORT:Blackhawk (Comics)}}
+[[Category:Golden Age superheroes]]
+[[Category:1941 comics debuts]]
+[[Category:Comics characters introduced in 1941]]
+[[Category:American radio dramas]]
+[[Category:Aviation comics]]
+[[Category:Characters created by Will Eisner]]
+[[Category:Comics by Bob Haney]]
+[[Category:DC Comics titles]]
+[[Category:Fictional aviators]]
+[[Category:Quality Comics superheroes]]
+[[Category:Quality Comics titles]]
+[[Category:Fictional World War II veterans]]
+[[Category:War comics]]
+[[Category:DC Comics adapted into films]]
+[[Category:Comics adapted into radio series]]
+[[Category:Comics adapted into television series]]
+[[Category:Comics adapted into animated series]]
+[[Category:Fictional Polish people]]
+[[Category:Fictional Polish-American people]]
+[[Category:Fictional fighter pilots]]

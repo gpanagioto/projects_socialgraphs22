@@ -1,0 +1,9 @@
+#REDIRECT [[Scorpio (Marvel Comics)#Scorpio (Jake Fury)]]
+
+{{Redirect category shell|1=
+{{R to section}}
+{{R from fictional character|Marvel Comics}}
+}}
+
+{{DEFAULTSORT:Fury, Jake}}
+[[Category:Nick Fury]]

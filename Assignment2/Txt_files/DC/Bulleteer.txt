@@ -1,0 +1,78 @@
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|image = Bulleteer 4.jpg
+|caption = ''Seven Soldiers: The Bulleteer'' #4, art by [[Yanick Paquette]].
+|character_name = Bulleteer
+|real_name = Alix Harrower
+|publisher=[[DC Comics]] 
+|debut = ''Seven Soldiers: Bulleteer'' #1 (November 2005)
+|creators = [[Grant Morrison]] (writer)<br>Yanick Paquette (artist)
+|Base of operations = 
+|species = Human <!-- optional -->
+|homeworld = Earth <!-- optional -->
+|alliances = [[Seven Soldiers]]<br/>[[Justice League]]
+|partners = <!-- optional -->
+|supports = <!-- optional -->
+|aliases = <!-- optional: actual identities the character uses, not nicknames -->
+|powers = Smartskin originally granted superhuman strength and durability, was later shown to have developed flight
+|cat = super
+|subcat = DC Comics
+|hero = y
+|sortkey = Bulleteer
+}}
+
+'''Bulleteer''' is a [[fictional character]] and [[DC Comics]] [[superheroine]], a member of the [[Seven Soldiers]]. She debuted in ''Seven Soldiers: The Bulleteer'' #1 (November 2005), and was created by [[Grant Morrison]] and [[Yanick Paquette]].<ref name=Guide>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Korte |first3=Steve |last4=Manning |first4=Matt |last5=Wiacek |first5=Win |last6=Wilson |first6=Sven |title=The DC Comics Encyclopedia: The Definitive Guide to the Characters of the DC Universe |date=2016 |publisher=DK Publishing |isbn=978-1-4654-5357-0 |page=56}}</ref> The character is based in part on the [[Fawcett Comics]] character [[Bulletman and Bulletgirl|Bulletgirl]].<ref name="dc-ency">{{Citation | last = Wallace | first = Dan | contribution = Bulleteer | editor-last = Dougall | editor-first = Alastair | title = The DC Comics Encyclopedia | page = 63 | publisher = [[Dorling Kindersley]] | place = London | year = 2008 | isbn = 978-0-7566-4119-1}}</ref>
+
+==Fictional character biography==
+27-year-old Alix Harrower is married to Lance, a research scientist who has developed a thin metal skin that can bond with [[collagen]], turning tissue indestructibly hard. When this "smartskin" is applied to a living being, such as Lance's initial test subject, a mouse named "Metal Mickey", the subject becomes endowed with superhuman strength. Though the potential military applications are obvious, Lance dreams of using it on himself, modeling a superhero career after the WWII superheroes [[Bulletman and Bulletgirl]], but after testing it on himself, he begins to suffocate. When he touches Alix, the smartskin bonds to her. Rushed to the hospital, she is saved thanks to medics gaining access to bare skin covered by her wedding ring. Lance was not wearing his, and dies of [[asphyxiation]].<ref name="dc-ency"/>
+
+Alix spirals into depression as her new appearance forces her to quit her job teaching autistic children. Another emotional blow comes at the discovery that her deceased husband's superhero dreams stemmed from a fixation on superhero-based pornography and an online affair with "Super Sally Sonic", an immortal superhuman porn star. Distraught, Alix attempted suicide. While trying to find a structure hard enough to kill her on impact, she comes across a train wreck, and saves the people still inside. After those she saved call her a superhero, she decides to live up to the title, taking the name Bulleteer.
+
+In ''Seven Soldiers: Bulleteer'' #2, it is revealed that Alix was going to be the seventh member of Greg Saunders' ill-fated new [[Seven Soldiers of Victory]], but got cold feet and thus escaped the massacre. She meets Agent Helligan from ''Seven Soldier: Shining Knight'' #3 and helps her interrogate Ramon Solomano, alias "the Iron Hand" (an old enemy of Saunders from his days as the costumed hero [[Greg Saunders|Vigilante]]), for information on the [[Nebula Man]] and the deaths of the six other soldiers as seen in ''Seven Soldiers of Victory'' #0.<ref>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Manning |first3=Matthew K. |last4=McAvennie |first4=Michael |last5=Wallace |first5=Daniel |title=DC Comics Year By Year: A Visual Chronicle |date=2019 |publisher=DK Publishing |isbn=978-1-4654-8578-6 |page=303}}</ref>
+
+In ''Seven Soldiers: Bulleteer'' #3, Alix works as a bodyguard to a mermaid movie star at a convention for C-list superheroes, interacts with various secondary Soldiers characters (including the original Bulletgirl), and eventually survives an assassination attempt by the apparently undead [[Spider (DC Comics)|Spider]]. Alix also learns more about Sally Sonic from a superhuman porn actress, and discovers that Sally enjoys seducing husbands and breaking up couples. Upon her return home, Alix is crushed with a refrigerator by the indestructible Sally Sonic, who was posing as her boarder.
+
+In ''Seven Soldiers: Bulleteer'' #4, Sally Sonic beats Alix while ranting about her ruined life. Flashbacks reveal Sally's backstory as a 1940s superheroine who is immortal and stuck in the body of a superpowered teenager. After outliving all of her friends and family and being forced to live in an abusive orphanage (since no one believed her true age), Sally Smart met "Vita-Man", a superhuman who manipulates her into a sexual relationship and a role in a pornographic film. Sally is pulled into the seedy underworld of superhuman sex work and drug abuse, and eventually goads Alix' husband into the experiment that killed him and transformed Alix. Her motivation for this act is revealed to be jealousy: Sally loathed Alix for having the life Sally could never have. Alix refuses to let Sally take her grief out on her and manages to knock Sally out with a car engine, despite a broken arm. Afterwards, a ghostly Greg Saunders approaches Alix and attempts to recruit her to 'save the world'. Though she is not even sure that Saunders is real, she rejects him and the entire superhero role.
+
+In ''Seven Soldiers of Victory'' #1, Alix tries to drive Sally to the hospital when the Sheeda launch the invasion on Manhattan. Sally wakes up and tries to kill Alix yet again, until the car collides with the fallen [[Sheeda]] queen, Gloriana Tenebrae, and bursts into flames. Alix survives, but Sally and Gloriana do not.
+
+It is revealed that Alix is '''The Spear that Was Never Thrown''', the ultimate downfall of the Sheeda race. This Spear is thrown by [[Aurakles]], the very first superhero from 42,000 years ago, and Alix's ancestor. Aurakles appears as an imprisoned demi-god in the pages of [[Mister Miracle (Shilo Norman)|''Mister Miracle'']].
+
+===Other appearances===
+Alix appears in ''[[Infinite Crisis]]'' #7 as one of the heroes fighting against the rampaging villains in Metropolis and is later seen in the two-page line up of the heroes of the DCU. She appears to be flying.
+
+She appears in ''[[52 (comics)|52]]'' #24, as a member of an interim [[Justice League|JLA]], also featuring [[Firestorm (comics)|Firestorm]], [[Firehawk (comics)|Firehawk]], [[Super-Chief]], and [[Ambush Bug]]. This goes badly, as their first major villain, [[Skeets (DC Comics)|Skeets]], kills Super-Chief and many innocent civilians. She then reappeared in issue four of the ''[[World War III (DC Comics)|World War III]]'' event. That and her appearance in ''52'' issue #50 both involve her efforts as part of a multi-hero, worldwide attempt to take down the insane [[Black Adam]].
+
+She appeared in ''[[Birds of Prey (comics)|Birds of Prey]]'' #100 as one of [[Barbara Gordon|Oracle]]'s potential recruits for the team. Despite this, she made no further appearances in the series, indicating that she ultimately did not join the team.
+
+She is later seen in ''[[Final Crisis]]'' #2 and #5, as part of a resistance group of heroes battling [[Darkseid]]'s invading forces.<ref>''Final Crisis'' #2-5 (2008)</ref>
+
+Alix appears in the final issue of ''[[Justice League: Cry for Justice]]'', where she and [[Mr. Scarlet]] rescue [[Freddy Freeman]] after he is tied up and has his mouth sewn shut by [[Prometheus (DC Comics)|Prometheus]]. When asked by [[Atom (Ray Palmer)|Ray Palmer]] how she was able to contact the [[JLA Watchtower]], Alix explains that she kept the communicator given to her by Firestorm during her brief tenure with his League.
+
+She later appears as part of [[Wonder Woman]]'s all-female strikeforce when a group of androids invade [[Washington D.C.]]<ref>http://dcu.blog.dccomics.com/files/2010/06/ww_600_no_ads-3-copy.jpg{{dead link|date=July 2017 |bot=InternetArchiveBot |fix-attempted=yes}}</ref> After the robots are defeated, Alix attempts to strike up a conversation with Wonder Woman, and nervously tells her that she must not have any idea who she is. Wonder Woman tells Alix that she does indeed know who she is, which makes her day.<ref>''Wonder Woman'' #600</ref>
+
+Bulleteer is later shown aiding the JLA during their mission into Hell, where she helps [[Donna Troy]] defeat the demon Lilith.<ref>''Justice League of America 80-Page Giant 2011''</ref> Following this, Alix is recruited by [[Congorilla]] as part of an emergency Justice League hastily assembled to repel [[Eclipso]]'s invasion of the Emerald City on the moon. Alongside her teammates, Alix is quickly defeated and brought under Eclipso's mental control.<ref>''Justice League of America'' vol. 2 #56</ref> The reserve JLA members are all freed after Eclipso is defeated.<ref>''Justice League of America'' vol. 2 #57</ref>
+
+Post-Rebirth, Bulleteer helps with search and rescue when a tropical storm floods a town.<ref>''Green Lanterns'' #40</ref> She is again shown to be capable of flying. After events have calmed down, she approaches Green Lantern [[Simon Baz]] and asks if he has seen her friend, Night Pilot. Bulleteer reveals that she and Night Pilot sometimes work together in New York, and that Night Pilot didn't show up for a recent fight with the villain Snowflame. She appears to be good friends with Night Pilot, despite neither knowing the other's secret identity; she is aware of Night Pilot's multiple dates with a Green Lantern and that Night Pilot had a date with another, unknown, individual before disappearing. She requests Baz's help with finding her.
+
+==Powers and abilities==
+Alix Harrower was originally a normal human with no superhuman abilities. After bonding with "Smartskin" created by her husband, Alix's body became coated in a virtually indestructible metal shell, though it was implied that her bones and other organs remained mostly unaltered. This metal coating originally granted Alex a degree of superhuman strength and near invulnerability to harm, though an assassin attempted to bypass this invulnerability by shooting her in the ear with a diamond tipped arrow and her arm was broken by the super strong Sally Sonic. In her appearances after ''Seven Soldiers'', Alix also seems to have developed the power of flight.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{gcdb|type=character|search=Bulleteer|title=Bulleteer}}
+*{{comicbookdb|type=character|id=1717|title=Bulleteer}}
+*[https://web.archive.org/web/20080706064409/http://www.barbelith.com/faq/index.php/The_Bulleteer Bulleteer annotations] at [[Barbelith]]
+
+{{Justice League characters}}
+{{Grant Morrison}}
+
+[[Category:Comics characters introduced in 2005]]
+[[Category:DC Comics characters who can move at superhuman speeds]]
+[[Category:DC Comics characters with superhuman strength]]
+[[Category:DC Comics female superheroes]]
+[[Category:DC Comics metahumans]]
+[[Category:DC Comics titles]]
+[[Category:Fictional bodyguards]]
+[[Category:Characters created by Grant Morrison]]

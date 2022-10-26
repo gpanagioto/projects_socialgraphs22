@@ -1,0 +1,58 @@
+{{short description|Fictional supervillain appearing in Marvel comic books}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+| image          =
+| caption        =
+| character_name = Aldrich Killian
+| real_name      =
+| species        =
+| publisher      = [[Marvel Comics]]
+| debut          = ''[[Iron Man (comic book)|Iron Man]]'' vol. 4 #1 (Jan. [[2005 in comics|2005]])
+| creators       = [[Warren Ellis]]<br>[[Adi Granov]]
+| alliances      =
+| aliases        =
+| powers         = Genius-level intellect
+|}}
+'''Aldrich Killian''' is a <!--Do not add "fictional" as it is tautological; supervillains (and characters in general) are by definition implied to be fictionalized to some extent.-->[[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character first appeared in ''[[Iron Man (comic book)|Iron Man]]'' vol. 4 #1 (Jan. [[2005 in comics|2005]]) and was created by [[Warren Ellis]] and [[Adi Granov]].
+
+[[Guy Pearce]] portrayed a retooled version of the character in the [[Marvel Cinematic Universe]] film ''[[Iron Man 3]]'' (2013).
+
+==Publication history==
+Created by [[Warren Ellis]] and [[Adi Granov]], the character first appeared in ''[[Iron Man (comic book)|Iron Man]]'' vol. 4 #1 (Jan. [[2005 in comics|2005]]).
+
+==Fictional character biography==
+Dr. Aldrich Killian was a brilliant scientist working for the FuturePharm Corporation in [[Austin, Texas]] alongside Dr. [[Maya Hansen]]. Together they developed [[Extremis]], a [[Techno-Organic Virus]] that completely rewrites the body's genetic code, making entire organs more efficient and giving the body healing abilities in an attempt to create a new super soldier with super human strength, speed, endurance, reflexes and the ability to project electricity and breathe fire. He stole a sample and sold it to a terrorist group (based in a slaughterhouse in Bastrop, Texas) with Mallen as a willing test subject.<ref name="IMv4_1">{{Cite comic | writer = [[Warren Ellis]] | penciller = [[Adi Granov]] | inker = Adi Granov | story = Extremis (Part I of VI) | title = Iron Man | volume = 4 | issue = #1 | date = Jan. 2005 | publisher = Marvel Comics}}</ref> Days later at Futurepharm Corporation offices, Dr. Killian committed suicide at his computer; his suicide note informed Hansen that he had stolen the Extremis serum for an undisclosed purpose.<ref name="IMv4_6">{{Cite comic | writer = [[Warren Ellis]] | penciller = [[Adi Granov]] | inker = Adi Granov | story = Extremis (Part VI of VI) | title = Iron Man | volume = 4 | issue = #6 | date = April 2006 | publisher = Marvel Comics}}</ref>
+
+==In other media==
+===Film===
+A variation of Aldrich Killian appears in the 2013 [[Marvel Cinematic Universe]] film ''[[Iron Man 3]]'', portrayed by [[Guy Pearce]].<ref name="Pearce">{{cite news|date=April 20, 2012 |first1=Marc |last1=Graser |first2=Justin |last2=Kroll |title=Guy Pearce bonds with 'Iron Man 3' |url=https://www.variety.com/article/VR1118052904 |work=[[Variety (magazine)|Variety]] |archiveurl=https://web.archive.org/web/20121025060723/http://www.variety.com/article/VR1118052904 |archivedate=October 25, 2012 |accessdate=April 20, 2012 |url-status=live }}</ref><ref name="Pearce3">{{cite news |date=March 22, 2013 |title=Iron Man 3: Under the Armor with Guy Pearce |url=http://marvel.com/news/story/20330/iron_man_3_under_the_armor_with_guy_pearce |publisher=Marvel.com |accessdate=March 23, 2013 |archiveurl=https://web.archive.org/web/20130326152136/http://marvel.com/news/story/20330/iron_man_3_under_the_armor_with_guy_pearce |archivedate=2013-03-26 |url-status=dead }}</ref> The co-developer of the Extremis virus, and the founder of the think tank [[Advanced Idea Mechanics|A.I.M.]], this version's characterization is an amalgamation of [[Simon Krieger]] and [[Mallen (comics)|Mallen]].<ref>{{Cite web|last=Moore|first=Trent|date=2013-05-03|title=Pepper sex tape? 5 ways Iron Man 3's original draft was different|url=https://www.syfy.com/syfywire/pepper-sex-tape-5-ways-iron-man-3s-original-draft-was-different|url-status=live|access-date=September 30, 2021|website=SYFY WIRE|language=en|archive-url=https://web.archive.org/web/20210128151331/https://www.syfy.com/syfywire/pepper-sex-tape-5-ways-iron-man-3s-original-draft-was-different |archive-date=2021-01-28 }}</ref><ref>{{Cite web|title=Shane Black And Drew Pearce Share 18 Incredible Iron Man 3 Secrets|url=https://www.empireonline.com/movies/features/iron-man-3-spoilers/|url-status=live|access-date=September 30, 2021|website=Empire|archive-url=https://web.archive.org/web/20160319221551/http://www.empireonline.com:80/movies/features/iron-man-3-spoilers/ |archive-date=2016-03-19 }}</ref> Initially a sickly individual, he was snubbed by [[Tony Stark (Marvel Cinematic Universe)|Tony Stark]] in the past and swore revenge. Over the years, through A.I.M. and with the aid of co-conspirator Maya Hansen's designs, Killian had A.I.M. further research and develop the Extremis formula, which imparts varying levels of strength and resiliency to human subjects. Some test subjects resulted in death via various explosion, but Killian recruited [[Coldblood|Eric Savin]] and [[Ellen Brandt]] to his cause. At some point, he also funded the [[Ten Rings (organization)|Ten Rings]] organization by masquerading as the '''[[Mandarin (character)|Mandarin]]''' (without the [[Wenwu|true leader]]'s knowledge) and used British actor [[Trevor Slattery]] to maintain this illusion while Killian's Extremis experiments are seen as terrorist attacks. After kidnapping President [[Matthew Ellis]] with the intention of an execution on live television, Killian and his Extremis-soldiers are defeated and killed by Iron Man, [[James Rhodes (Marvel Cinematic Universe)|James Rhodes]], and [[Pepper Potts (Marvel Cinematic Universe)|Pepper Potts]].
+
+===Video games===
+* Aldrich Killian appears in ''[[Iron Man 3: The Official Game]]''. It is revealed that, following the events of the film, A.I.M. transferred his subconscious into [[MODOK]] in order to continue his plans.
+* The ''Iron Man 3'' version of Aldrich Killian appears as a boss and an [[unlockable (gaming)|unlockable]] playable character in ''[[Lego Marvel Super Heroes]]'', voiced by [[Robin Atkin Downes]]. Killian and Extremis enforcers accompany the Mandarin in an attack on [[Avengers Tower]], only to be defeated by [[Iron Man]] and [[Captain America]].
+* The ''Iron Man 3'' version of Aldrich Killian appears as a boss and an unlockable playable character in ''[[Lego Marvel's Avengers]]'', voiced by [[Greg Miller (Internet celebrity)|Greg Miller]].
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://marvel.wikia.com/Aldrich_Killian_%28Earth-616%29 Aldrich Killian] at Marvel Wiki
+* [http://www.comicvine.com/dr-aldrich-killian/4005-83640/ Aldrich Killian] at Comic Vine
+
+{{Iron Man}}
+
+{{DEFAULTSORT:Killian, Aldrich}}
+
+[[Category:Action film villains]]
+[[Category:Characters created by Warren Ellis]]
+[[Category:Comics characters introduced in 2005]]
+[[Category:Fictional biologists]]
+[[Category:Fictional business executives]]
+[[Category:Fictional inventors]]
+[[Category:Fictional mad scientists]]
+[[Category:Fictional mechanical engineers]]
+[[Category:Fictional suicides]]
+[[Category:Film supervillains]]
+[[Category:Iron Man characters]]
+[[Category:Male film villains]]
+[[Category:Marvel Comics film characters]]
+[[Category:Marvel Comics male supervillains]]

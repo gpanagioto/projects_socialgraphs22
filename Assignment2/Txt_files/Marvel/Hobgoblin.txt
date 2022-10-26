@@ -1,0 +1,212 @@
+{{Short description|Marvel Comics fictional character}}
+{{about|a supervillain by Marvel Comics|the member of the [[Shi'ar]] [[Imperial Guard (Marvel Comics)|Imperial Guard]]|Hobgoblin (Imperial Guard)|other|Hobgoblin (disambiguation)}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics--> 
+| character_name = Hobgoblin
+| image          = Hobgoblin (Marvel Comics).png
+| converted      = y
+| caption        = Roderick Kingsley as the Hobgoblin.<br />Art by [[John Romita Sr.]] and [[John Romita Jr.]]
+| publisher      = [[Marvel Comics]]
+| debut          = ''[[The Amazing Spider-Man]]'' #238 (March [[1983 in comics|1983]])
+| creators       = {{Plainlist|
+* [[Roger Stern]]
+* [[John Romita Jr.]]
+}}
+| alter_ego      = [[Roderick Kingsley]]<br />Lefty Donovan<br />[[Ned Leeds]]<br />[[Jason Macendale]]<br />Robin Borne<br />Daniel Kingsley<br />[[Phil Urich]]<br />Claude<br />[[Harry Osborn]]
+| species        =
+| homeworld      =
+| alliances      =
+| aliases        = 
+| supports       =
+| powers         = * Superhuman strength, reflexes, and intelligence
+* Regenerative healing factor
+* Uses [[Halloween]]-themed paraphernalia, high-tech gadgetry, and a Goblin Glider equipped with various weapons
+| cat            = super
+| subcat         = Marvel Comics
+| villain        = y
+| sortkey        = Hobgoblin
+}}
+The '''Hobgoblin''' is the alias of several <!--Do not add "fictional" as it is tautological; supervillains (and characters in general) are by definition implied to be fictionalized to some extent.-->[[supervillain]]s appearing in [[American comic book]]s published by [[Marvel Comics]], most of whom are depicted as enemies of the superhero [[Spider-Man]] and belong to the collection of adversaries that make up his [[List of Spider-Man enemies|rogues gallery]].
+
+The first and most prominent incarnation of the '''Hobgoblin''' made his in-costume debut in ''[[The Amazing Spider-Man]]'' #238 (March 1983), as a criminal mastermind equipped with [[Halloween]]-themed weapons similar to those used by the [[Green Goblin]].<ref>{{cite book |last =Rovin |first =Jeff |title =The Encyclopedia of Supervillains |publisher =Facts on File |date =1987 |location =New York |isbn = 0-8160-1356-X |page=157}}</ref><ref>''[[Marvel Age]]'' #111, April 1992, Marvel Comics</ref> While this Hobgoblin was originally revealed to be '''[[Ned Leeds]]''' in [[1987 in comics|1987]], they were [[Retroactive continuity|retroactively established]] to instead be '''[[Roderick Kingsley]]''' ten years later in [[1997 in comics|1997]]. Other characters have assumed the Hobgoblin mantle over the years, including '''Lefty Donovan''', '''[[Jason Macendale]]''', Roderick's [[twin brother]] '''Daniel Kingsley''' and [[Spider-Man 2211]]'s daughter '''Robin Borne''' during the late 1980s and early 1990s, and '''[[Phil Urich]]''' and '''Claude''' in the early 2010s; Lefty, Ned, and Claude were later [[Retroactive continuity|retroactively established]] as [[Brainwashing|brainwashed]] [[stand-in]]s of the Kingsley brothers' [[wiktionary:mastermind|mastermind conspiracy]], with Macendale, Borne and Urich being the only versions to operate independently of the others (although occasionally partnering with them), the latter after killing Daniel.
+
+In 2009, the Peter Parker/Roderick Kingsley incarnation was ranked by [[IGN]] as the 57th Greatest Comic Book Villain of All Time.<ref>{{cite web |url= https://www.ign.com/lists/top-100-comic-book-villains/57 |title= Top 100 Greatest Comic Book Villains: 57. Hobgoblin |website= [[IGN]] |access-date=2022-01-06|archive-url= https://web.archive.org/web/20100809124321/http://comics.ign.com/top-100-villains/57.html |archive-date= 2010-08-09 }}</ref> The Hobgoblin has been substantially adapted from the comics into various forms of media, including [[television series]] and [[video game]]s, most notably having been voiced by [[Mark Hamill]] in ''[[Spider-Man (1994 TV series)|Spider-Man: The Animated Series]]'' as '''Jason Philips Macendale''', and is often depicted as an identity adopted by '''[[Harry Osborn]]''' instead of that of the Green Goblin, contrary to the comic books, to distinguish the character from [[Norman Osborn]].
+
+==Publication history==
+[[File:The Amazing Spider-Man 238.jpg|thumb|left|''The Amazing Spider-Man'' #238 (March 1983), the Hobgoblin's first appearance. Cover art by [[John Romita Sr.]]]]
+The Hobgoblin was created by writer Roger Stern and artist John Romita Jr. for ''The Amazing Spider-Man'' #238 (March 1983).<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=170}}</ref> Like other writers, Stern found himself under pressure to have [[Spider-Man]] fight the [[Green Goblin]] again, but did not wish to bring [[Norman Osborn]] or [[Bart Hamilton]] back from the dead, have [[Harry Osborn]] be the Green Goblin again, or create another Green Goblin. Stern instead created a new concept as heir to the [[Goblin (Marvel Comics)|Goblin]] legacy and developed the Hobgoblin.<ref name="Creators">{{cite book |title=Comics Creators on Spider-Man |last=DeFalco |first=Tom |year=2004 |publisher=Titan Books |isbn=1-84023-422-9 }}</ref> Stern recounts that he directed Romita to base the costume on the Green Goblin's but to make it "a little more [[medieval]]-looking", while Romita asserts that he was given no direction beyond using the Green Goblin as a basis. Both agree, however, that the costume was chiefly Romita's design.<ref name="Back35">{{cite journal|last= Greenberg|first= Glenn|author-link= Glenn Greenberg|date= August 2009|title= When Hobby Met Spidey|journal= [[Back Issue!]]|issue= 35|pages= 10–23|publisher= [[TwoMorrows Publishing]]}}</ref>
+
+The Hobgoblin's identity was not initially revealed, generating one of the longest-running mysteries in the ''Spider-Man'' comics. According to Stern, "I plotted that first story with no strong idea of who the Hobgoblin was. As I was scripting those gorgeous pages from [John Romita, Jr.], particularly the last third of the book, and developing the Hobgoblin’s speech pattern, I realized who he was. It was [[Roderick Kingsley]], that sunuvabitch corporate leader I had introduced in my first issue of ''[[The Spectacular Spider-Man|[The] Spectacular [Spider-Man]]]''."<ref name="Back35"/> A handful of readers deduced that Kingsley was the Hobgoblin almost immediately. In order to throw off the scent and in the same stroke provide a [[retroactive continuity|retroactive explanation]] for his inconsistent characterization of Kingsley in his early appearances, Stern came up with the idea of Kingsley having his brother Daniel Kingsley sometimes impersonate him, sealing the deception by having the Hobgoblin conspicuously appear in the same room as Kingsley in ''The Amazing Spider-Man'' #249.<ref name="Back35"/>
+
+Stern's original plan was to have the Hobgoblin's mystery identity run exactly one issue longer than that of the Green Goblin's identity, meaning the truth would be revealed in ''The Amazing Spider-Man'' #264.<ref name="Back35"/> However, Stern left after ''The Amazing Spider-Man'' #251, and editor [[Tom DeFalco]] took his place. Wanting to resolve the mystery in a manner that would do justice to Stern's stories, DeFalco asked Stern who the Hobgoblin was, but objected when Stern said it was Kingsley. DeFalco argued that the "twin brother" scheme was cheating the readers since there had been no hint that Roderick even had a brother (aside from a single [[thought bubble]]), much less one who could serve as a body double. Stern disagreed but said that DeFalco should feel free to make the choice of which character to use for the Hobgoblin's secret identity, Stern reasoning that "I knew that whomever Tom chose, he would make it work."<ref name="Back35"/> Upon reviewing the clues, DeFalco decided that the Hobgoblin was [[Richard Fisk]]. Moreover, he decided that the Hobgoblin's mystery should be prolonged as long as possible, since it was the chief element that made the Hobgoblin interesting.<ref name="Back35"/> Through both Stern and DeFalco's runs, the answer was continuously teased on the cover art, with the covers of ''The Amazing Spider-Man'' #245, 251, and 276 all showing Spider-Man having unmasked the Hobgoblin.<ref name="SpideyKicksButt"/>
+
+[[File:6.20.19JohnRomitaJrByLuigiNovi25.jpg|thumb|Artist [[John Romita Jr.]] signing a copy of ''The Amazing Spider-Man'' #238, in which the Hobgoblin first appeared, at [[Midtown Comics]] in Manhattan]]
+The mystery was further complicated after [[James Owsley]] came on as editor of the ''Spider-Man'' titles. Owsley's relationship with DeFalco and artist [[Ron Frenz]] was strained from the beginning. When Owsley asked who the Hobgoblin was at a creators conference, DeFalco lied and said the man in question was [[Ned Leeds]]. Owsley then wrote the one-shot ''Spider-Man vs Wolverine'' in which Leeds is killed off (though the actual death is not shown), and instructed ''The Spectacular Spider-Man'' writer [[Peter David]] to reveal the Hobgoblin's identity as the [[Foreigner (comics)|Foreigner]]. David objected and argued that the only person who fit the clues was Leeds. Having been present at the Spider-Man creator's conference, David also thought that Leeds was who DeFalco intended it to be. Because ''Spider-Man vs. Wolverine'' had already been drawn, however, it was too late to undo Leeds's death.<ref name="Back35"/> Thus, the Hobgoblin's identity was revealed posthumously in the double-sized ''The Amazing Spider-Man'' #289. With Spider-Man's archenemy now dead, a new storyline was created from [[Jason Macendale]]'s hatred of the Hobgoblin. Though the Hobgoblin's posthumous unmasking as Leeds was unpopular with fans, David said in a 2009 interview of still being proud of the story, arguing that the Hobgoblin being unmasked in a climactic battle with Spider-Man was the sort of tale readers had already seen countless times before, whereas having an archvillain unmasked in a flashback after having been brutally killed by nameless assassins was unprecedented and shocking.<ref name="Back35"/> From 1987 to 1997, Macendale initially using only the Hobgoblin's costume and weaponry, but the 1988-1989 "[[Inferno (Marvel Comics)|Inferno]]" [[Crossover (comics)|crossover]] writer [[Gerry Conway]] had Macendale imbued with magical powers by the demon [[N'astirh]]. In addition to power over hellfire and increased strength and speed far greater than his predecessor, N'astirh also disfigures Macendale so that his head resembled the Hobgoblin mask, and ultimately alters his mind so that he was deluded into thinking that his appearance is normal. Several years later, Macendale succeeds in purging himself of his demonic powers and acquires cybernetic implants.<ref name="SpideyKicksButt">{{cite web |url=http://www.spideykicksbutt.com/SquanderedLegacy/SquanderedLegacyPart2.html |title=Squandered Legacy: The Rise and Fall of the HobGoblin Part Two: The Goblin in Decline |author= Fettinger, J.R. |access-date=2009-02-19 |work= Spidey Kicks Butt }}</ref>
+
+Stern was unhappy with the Hobgoblin's civilian identity revelation was Leeds and wrote the three-issue miniseries ''Spider-Man: Hobgoblin Lives'' in 1997, with the [[retroactive continuity|retcon]] that Kingsley was the original Hobgoblin while Leeds was brainwashed into serving as a [[fall guy]], Macendale is killed off, and Kingsley returned. According to Stern, initially he had not known how to resolve the situation of having two Hobgoblins, and it was at the suggestion of the editorial staff that Kingsley kill Macendale and return to operating as the Hobgoblin.<ref name="Back35"/>
+
+==Fictional character biography==
+===Roderick Kingsley===
+{{Main|Roderick Kingsley}}
+'''Roderick Kingsley''' is an egotistical socialite and billionaire fashion designer. He decided to create a criminal name for himself by altering [[Norman Osborn]]'s Goblin formula and improve the Goblin costume/equipment in order to be the original Hobgoblin. Kingsley then frames Ned Leeds as a decoy for his crimes,<ref name="Hobbylives3">{{Cite comic | writer = [[Roger Stern|Stern, Roger]] | penciller = [[Ron Frenz|Frenz, Ron]] | inker = [[Bob McLeod (comics)|McLeod, Bob]] | story = Secrets | title = Hobgoblin Lives | issue = #3 |date = March 1997| publisher = [[Marvel Comics]]}}</ref> and later murders his successor Jason Macendale.<ref name=S-MHL#1>''Spider-Man: Hobgoblin Lives'' #1 (January 1997)</ref> When his villainous identity is finally exposed by [[Spider-Man]] and [[Betty Brant]],<ref name="Hobbylives3"/> he flees to the Caribbean to hide from both the law and his enemies.<ref>''Amazing Spider-Man'' #259-261</ref> After his twin brother<ref name=AS-M#691>''The Amazing Spider-Man'' #691</ref> is murdered by Phil Urich,<ref name="philurichhobgoblin">''The Amazing Spider-Man'' #649</ref> Roderick returns to New York and dons his old Hobgoblin costume.<ref>''The Amazing Spider-Man'' #697 (November 2012)</ref>
+
+===Lefty Donovan===
+'''Arnold Samuel "Lefty" Donovan''' was a petty thug. Similar to Osborn, Donovan was a test subject mix the two vital chemicals that were mixed into the Goblin formula, disfiguring Donovan's face and granting superhuman abilities. Donovan is taken to a hospital. Brainwashed by [[List of Spider-Man enemies#Brainwasher|Gerhard Winkler]]'s device, Donovan eventually escapes the hospital and follows preprogrammed instructions to go to a hidden cache of Goblin weapons and dress up as the Hobgoblin.<ref>{{Cite comic|title = The Amazing Spider-Man | volume =  | issue = #244 | publisher = [[Marvel Comics]]|date=September 1983}}</ref> Donovan (impersonating the Hobgoblin) attacks New York City but Spider-Man eventually confronts and unmasks him. Spider-Man sees his (scarred) face and recognizes Lefty. As Donovan is able to shake off some of his programing and starts talking, his "boss" programmed the Goblin glider to crash into the side of a building, killing Lefty instantly on impact.<ref>{{Cite comic|title = The Amazing Spider-Man | volume =  | issue = #245 | publisher = [[Marvel Comics]]|date=October 1983}}</ref>
+
+===Ned Leeds===
+{{Main|Ned Leeds}}
+'''Edward "Ned" Leeds''' was a reporter working for the ''[[Daily Bugle]]''. He was brainwashed to act as a stand-in on many occasions and fool the underworld into thinking that he was the Hobgoblin,<ref name="Hobbylives3"/> and was later murdered by the [[Foreigner (comics)|Foreigner]] after the actual Hobgoblin had decided that he was no longer needed.<ref>''Spider-Man versus Wolverine'' (February 1987)</ref>
+
+===Jason Macendale===
+{{Main|Jason Macendale}}
+'''Jason Philip Macendale Jr.''' was a [[mercenary]] who had been trained by the [[Central Intelligence Agency|CIA]] (and various para-military organizations). He first appeared as the supervillain [[Jack O'Lantern (Marvel Comics)|Jack O'Lantern]] before eventually adopting the Hobgoblin identity.<ref>''The Amazing Spider-Man'' #289</ref>
+
+===Daniel Kingsley===
+'''Daniel Kingsley''' is Roderick Kingsley's twin brother. He would act as a body double until being exposed by [[Betty Brant]] while the true Hobgoblin gets unmasked by Spider-Man.<ref name="Hobbylives3"/> Now in protective custody, Daniel was unknowingly used by Roderick to blackmail Norman Osborn, resulting in the Hobgoblin to swoop in to collect Daniel. Spider-Man defends Daniel but is drugged while Daniel passes out and both are taken to Osborn.<ref name=SS-M#260>''The Spectacular Spider-Man'' #260 (August 1998)</ref> As Kingsley and Osborn furiously fight each other, Daniel gets rescued by Spider-Man.<ref name=SS-M#261>''The Spectacular Spider-Man'' #261 (September 1998)</ref> Kingsley later returned to New York, posing as his twin brother as the Hobgoblin.<ref name="AS-M#691"/> Kingsley investigated an old lair at OsCorp which had a flaming energy sword, but discovers Phil Urich trying to retrieve the same gear. Kingsley gets stunned by Urich's "Lunatic Laugh" long enough for Urich to kill him using his own sword, allowing his killer to claim the Hobgoblin mantle.<ref name="philurichhobgoblin"/>
+
+===Phil Urich===
+{{Main|Phil Urich}}
+'''Phillip Benjamin "Phil" Urich''' (who once used the Green Goblin identity to operate as a superhero) took on the Hobgoblin identity himself as a supervillain with some new gear (new body armor, a winged jetpack, and a flaming energy sword).<ref name="philurichhobgoblin" />
+
+===Norman Osborn===
+{{Main|Norman Osborn}}
+'''Norman Osborn''' briefly impersonated the original Hobgoblin.<ref>''The Superior Spider-Man'' #18</ref>
+
+===Claude===
+'''Claude''' was Roderick's [[butler]] who was sent in place and to talk like his master to distract the Goblin Nation. He fought against and was killed in battle by the Goblin Knight who then discovered it was Claude who was killed and destroyed his body to keep the Goblin King from finding out about the imposter Hobgoblin.<ref>''The Superior Spider-Man'' #26</ref>
+
+==Powers, abilities, and equipment==
+As the Hobgoblin, [[Roderick Kingsley]] wears bulletproof mail with an overlapping tunic, cape, and cowl. A computerized system cybernetically causes the finger-blasters to randomly vary their attack vectors when trained on a particular target. He uses a Goblin glider, a one-man miniature turbo-fan-powered vertical thrust, cybernetically-controlled vehicle. It can reach high velocities and is extremely maneuverable. He uses concussion and incendiary [[Jack O'Lantern]]s, wraith-shaped smoke and gas-emitting bombs, bat shaped razor-edged throwing blades, and gloves woven with micro-circuited power conducting filaments which channel pulsed discharges of electricity. He wore a shoulder bag to carry his small, portable weaponry.<ref name="Shadow">{{Cite comic | writer = [[Roger Stern|Stern, Roger]] | penciller = [[John Romita Jr.|Romita, John Jr.]] | inker = [[John Romita Sr.|Romita, John Sr.]] | story = The Shadow of Evils Past! | title = The Amazing Spider-Man | volume =  | issue = #238 |date = March 1983| publisher = [[Marvel Comics]]}}</ref>
+
+While brainwashed, [[Ned Leeds]] wore the Hobgoblin's uniform and used the Goblin glider and equipment which included Jack O'Lantern bombs, razor bats and electrical shock gloves. However, he had no healing factor or superhuman strength.<ref name="Hobbylives3" />
+
+As the Hobgoblin, [[Phil Urich]] wears an orange Hobgoblin costume with wings on the back that allow him to fly without the use of a Goblin glider and he took the Hobgoblin mask as his own. He uses the traditional Pumpkin Bombs all Green Goblins and Hobgoblins before him have used, but he also has a new flaming sword.<ref name="philurichhobgoblin" /> He still retains his "Lunatic Laugh" and he also has superhuman strength, speed, durability, stamina, reflexes and senses, and enhanced intellect. For unknown reasons, he no longer needs his Goblin mask to activate this power. With the help of Reverbium, his "Lunatic Laugh" was able to cause a building to collapse.<ref name="ASM651">''The Amazing Spider-Man'' #651 (January 2011). Marvel Comics.</ref>
+
+==Alternative versions==
+===Hobgoblin 2211===
+{{Infobox comics character
+| image          = [[File:Futuregoblinvsspidey.PNG|250px]]
+| caption        = Hobgoblin 2211 (left) and [[Spider-Man 2211]].
+| character_name = Hobgoblin 2211
+| real_name      = Robin Borne
+| publisher      = [[Marvel Comics]]
+| debut          = ''Spider-Man 2099 Meets Spider-Man''
+| creators       = [[Peter David]]<br />[[Rick Leonardi]]
+| alliances      =
+| aliases        =
+| powers         = Superhuman strength, speed, agility, stamina, durability and reflexes<br />Genius-level intellect<br />Use of goblin-themed weapons and paraphernalia
+|}}
+
+'''Hobgoblin 2211''' first appears in ''Spider-Man 2099 Meets Spider-Man''. While her costume sports the twentieth-century Green Goblins' green-and-purple color scheme, she boasted that she was the Hobgoblin of 2211. Her identity was not revealed to readers (or to the visiting Spider-Men of previous eras) at the time, but her later reappearance in ''[[Friendly Neighborhood Spider-Man]]'' (also written by David) revealed her true identity and origin.
+
+Hobgoblin 2211 is '''Robin "Hobby"/"Hob" Borne''', [[Alternative versions of Spider-Man#Spider-Man 2211|Spider-Man]]'s daughter. Her father always seemed to put his superhero career before raising his own daughter. She wanted to save the universes from 'intersecting'; in other words, having other parallel universes merge with the existing one, causing it to override. She was later arrested by her father for something that she would have done in future: unauthorized time travel, chronal displacement, jumping the tracks to other realities. She was held in a virtual reality prison where she lives a benign and trouble-free existence in what appears to be Kansas. Her boyfriend attempts to free her by uploading a virus into the prison, but inadvertently causes her to be driven insane. She attacked her father with a 'retcon bomb' (a variation on the original Goblins' pumpkin bombs) but it hit her boyfriend instead, erasing (or 'retconning') him from existence.
+
+Now suited up as the Hobgoblin, Robin managed to time-travel to the current year, attacking the current Spider-Man in his reality and derailing an [[Uncle Ben]] from another reality into the present one causing a time paradox. Later, in a confrontation with her father, she threw a 'retcon bomb' at him. Spider-Man, believing it to be no more harmful than a regular pumpkin bomb, caught it with his web and threw it back to Robin, unwittingly erasing her from existence.
+
+===''JLA/Avengers''===
+In the last issue of ''[[JLA/Avengers]]'', the Hobgoblin is among the enthralled villains defending [[Krona (comics)|Krona]]'s stronghold, and is defeated by [[Hawkgirl]].<ref>''Avengers/JLA'' #4 (May 2004)</ref>
+
+===Marvel Adventures===
+In this continuity, Hobgoblin is an unidentified criminal who found a stash of Green Goblin's weaponry because he had forgotten to leave the entrance locked. Delighted at his new technological power he challenges Green Goblin to a confrontation. Spider-Man defeats them both.<ref>''Marvel Adventures Spider-Man'' #22 (2005)</ref>
+
+===MC2===
+The original Hobgoblin made his [[Marvel Comics 2|MC2]] debut as a hired assassin to kill many of the Spider-Girl characters, including Normie Osborn, [[Spider-Girl (Mayday Parker)|Spider-Girl]], and Peter Parker.<ref>''Spider-Girl'' #97 (June 2006)</ref> After a fight against both Spider-Girl and her father, he came close to victory, but at the end his only success lay in killing the [[Venom (Marvel Comics character)|Venom]] [[symbiote (comics)|symbiote]], and also in escaping without a trace.<ref>''Spider-Girl'' #100 (Sept. 2006)</ref> He attempted a complex plot to become the new kingpin of crime, but was undone due to an act of treachery by his partner, the [[Mindworm]]. Killing the Mindworm, and deciding the New York underworld had become too "hot" for him at the moment, he chose to return to the Caribbean, but vowed someday to come back and finish off Spider-Girl.<ref>''The Amazing Spider-Girl'' #18 (May 2008)</ref> He is later revealed to be the instigator of a mob war against the [[Black Tarantula]], returning to New York to finish the job.<ref>''The Spectacular Spider-Girl'' #3 (July 2010)</ref> He defeated [[American Dream (comics)|American Dream]] and the [[New Warriors]]. He then dropped them from a great height, planning to kill Spider-Girl as she tried to save them. However, he himself was then killed by Mayhem, Spider-Girl's half-symbiote clone.<ref>''The Spectacular Spider-Girl'' #4 (August 2010)</ref>
+
+===Ultimate Marvel===
+{{Main|Harry Osborn}}
+The [[Ultimate Marvel]] equivalent of Hobgoblin is '''Harold "Harry" Osborn''' when his second personality '''Shaw''' takes control.<ref>''Ultimate Spider-Man'' #74</ref><ref>''Ultimate Spider-Man'' #115-117</ref>
+
+===Sword-and-sorcery===
+In the 2007 Spider-Man/[[Red Sonja]] mini-series, the Hobgoblin was one of several supervillains who was transformed into a [[sword-and-sorcery]] version of themselves due to the spell cast by [[Kulan Gath]]. It was never specified which Hobgoblin it was.
+
+===Spider-Verse===
+{{Main|Spider-Verse}}
+Overwhelmed with rage over the death of Gwen Stacy, the Earth-21205 version of Peter Parker, as Spider-Man, murdered the Green Goblin and later retired his Spider-Man identity. He soon after became "the Goblin", a villain similar in costume to the Hobgoblin. This character was later targeted by Verna of the Inheritors (alongside the [[Hounds (comics)|Hounds]] [[Mac Gargan|Scorpion]] and [[Rhino (comics)|Rhino]]) as a Spider-Totem. The [[Spider-Woman (Gwen Stacy)|Spider-Woman of Earth-65]] attempted to recruit him into a growing army of Spiders to protect him from the Inheritors, but he initially turned the offer down. When Spider-Woman revealed herself to be an alternate version of Gwen, he sacrificed himself to save her as atonement for failing to do so in his own dimension.<ref>''Spider-Verse Team-Up'' #2</ref>
+
+The Earth-001 version of Hobgoblin appeared as a member of Verna's Hounds alongside the multiple Green Goblins. Hobgoblin and the other goblin-themed Hounds attacked [[Silk (comics)|Silk]], Spider-Woman of Earth-65, and Black Widow of Earth-1610.<ref name=AS-M#13>''The Amazing Spider-Man'' vol. 3 #13</ref> He is killed by [[Superior Spider-Man]], Assassin Spider-Man, and [[Spider-Punk]].<ref name=AS-M#13/>
+
+===''Spider-Gwen''===
+In the alternate continuity of ''[[Spider-Gwen]]'', the [[Harry Osborn#Spider-Gwen|Green Goblin]] uses an army of Hobgoblin-based androids to assist him during his assault against [[Spider-Woman (Gwen Stacy)|Spider-Woman]].<ref>''Spider-Gwen'' vol. 2 #4 (Jan. 2016)</ref>
+
+===''Spider-Geddon''===
+In the ''[[Spider-Geddon]]'' event on Earth-11580, a version of Hobgoblin is seen alongside [[Green Goblin]], [[Jack O'Lantern (Marvel Comics)|Jack O'Lantern]] and [[Demogoblin]] during the Goblin Night. Under the orders of the [[Madelyne Pryor|Goblin Queen]], they try to kill [[Gwen Stacy]], but [[Alternative versions of Spider-Man#Spiders-Man (Earth-11580)|Spiders-Man]] arrives and defeats the Goblins.<ref>''Vault of Spiders'' #2. Marvel Comics.</ref>
+
+===Newspaper strip===
+In "[[The Amazing Spider-Man (comic strip)|The Amazing Spider-Man]]" newspaper strip by Stan Lee and Larry Lieber, Harry Osborn as the Hobgoblin has repeatedly attacked Spider-Man, seeking vengeance for his father's death. After trying to kill both Spider-Man and Black Widow after, under hypnotic influence of psychiatrist "Dr. Stone" (actually spy-assassin Dimitri Gregorin who has killed friends of the Black Widow in the past), Harry, seeing Spider-Man's heroism, realizes that Spider-Man is a hero, his father was a murderer, and vows to never assume the Hobgoblin identity again.
+
+==In other media==
+{{see also|Roderick Kingsley#In other media|Jason Macendale#In other media|Ned Leeds#In other media}}
+
+===Television===
+* An amalgamated incarnation of the Hobgoblin named '''Jason Phillips''' (full name '''Jason Phillip Macendale''') appears in ''[[Spider-Man (1994 TV series)|Spider-Man: The Animated Series]]'', voiced by [[Mark Hamill]].<ref name=":0">{{Cite web|url=https://www.behindthevoiceactors.com/voice-compare/Spider-Man/Hobgoblin/|title=Hobgoblin Voice - Spider-Man franchise|website=Behind The Voice Actors|language=en-US|access-date=2020-02-07}}</ref> This version is based on the [[Ned Leeds]], [[Roderick Kingsley]], and [[Jason Macendale]] incarnations of the character.<ref group=Note name=Note01/> Debuting in his self-titled, two-part episode, the Hobgoblin is provided with an arsenal of weapons by [[Norman Osborn]] to assassinate [[Kingpin (character)|Wilson Fisk]]. He instead manipulates and betrays both Osborn and Fisk to take the latter's place as [[New York City]]'s "Kingpin of Crime", but his plan is foiled by [[Spider-Man]]. In "The Mutant Agenda" and "Mutants' Revenge", the Hobgoblin learns of [[List of Spider-Man (1994 TV series) characters#Dr. Herbert Landon|Dr. Herbert Landon]]'s plan to exterminate [[Mutant (Marvel Comics)|mutants]] and uses this information to [[Extortion|extort]] money from him. He comes into conflict with Spider-Man and the [[X-Men]] and escapes after turning Landon into a mutant for attempting to double-cross him. In "Rocket Racer", Phillips begins dating [[Black Cat (Marvel Comics)|Felicia Hardy]]. In "The Spot" and "Goblin War!", Phillips becomes [[Engagement|engaged]] to Hardy and, as the Hobgoblin, forms an uneasy alliance with the Kingpin and clashes with both Spider-Man and the Green Goblin over a [[time dilation]] accelerator. He is arrested soon after Felicia discovers his true identity. In the two-part series finale "I Really, Really Hate Clones", an [[Multiverse (Marvel Comics)|alternate reality]] version of the Hobgoblin appears as an enemy of the [[Ben Reilly|Scarlet Spider]].
+* The Hobgoblin was set to appear in ''[[The Spectacular Spider-Man (TV series)|The Spectacular Spider-Man]]'' before the series was cancelled. Despite this, an African-American depiction of Roderick Kingsley appears in the episode "Accomplices".<ref name="TSS-M RK">{{cite web|last=Goldman |first=Eric |url=https://www.ign.com/articles/2008/06/27/the-spectacular-spider-mans-past-and-future |title=The Spectacular Spider-Man's Past and Future |publisher=IGN|date=2010-07-07 |access-date=2022-01-06}}</ref>
+* The Harry Osborn incarnation of the Hobgoblin appears in ''[[Spider-Man (2017 TV series)|Marvel's Spider-Man]]'', voiced by [[Max Mittelman]].<ref name=":0" /> This version possesses [[Phil Urich]]'s flaming energy sword and sonic scream. Additionally, Norman Osborn briefly dons Hobgoblin gear while trying to kill Spider-Man.<ref>{{cite episode|title=The Hobgoblin Pt. 1|series=Spider-Man|network=Disney XD|season=1|number=24|airdate=February 18, 2018}}</ref><ref>{{cite episode|title=The Hobgoblin Pt. 2|series=Spider-Man|network=Disney XD|season=1|number=25|airdate=February 18, 2018}}</ref>
+* The Roderick Kingsley incarnation of the Hobgoblin appears in ''[[Marvel Super Hero Adventures]]'', voiced by [[Andrew Francis]].<ref name=":0" />
+
+=== Film ===
+[[Sam Raimi]] confirmed in the [[director's commentary]] for his 2007 film ''[[Spider-Man 3]]'' that the Hobgoblin identity was referred to on set, with a gold and silver Hobgoblin mask set next to [[Norman Osborn (Sam Raimi film series)|Norman Osborn]]'s Green Goblin mask and [[Harry Osborn (Sam Raimi film series)|Harry Osborn]]'s New Goblin mask in their secret lab.<ref>{{cite web | url=https://screenrant.com/spiderman-3-hobgoblin-mask-norman-harry-future-explained/ | title=Spider-Man 3's Hobgoblin Mask Easter Egg & Future Setup Explained | website=[[Screen Rant]] | date=15 October 2021 }}</ref><ref>{{cite web | url=https://whatculture.com/film/20-easter-eggs-spider-man-films-didnt-notice?page=11 | title=20 Easter Eggs in Spider-Man Films You Didn't Notice | date=28 May 2014 }}</ref><ref>{{cite web | url=https://www.animatedtimes.com/spider-man-3-the-mask-of-the-hobgoblin-and-a-potential-future-installment-explained/ | title=Spider-Man 3: The Mask of the Hobgoblin and a Potential Future Installment Explained | date=17 October 2021 }}</ref>
+
+===Video games===
+* The Ned Leeds incarnation of the Hobgoblin appeared in ''[[Spider-Man and Captain America in Doctor Doom's Revenge]]'' (1989).
+* The Ned Leeds incarnation of the Hobgoblin appeared as a boss in ''[[The Amazing Spider-Man (handheld video game)|The Amazing Spider-Man]]'' (1990) for the [[Game Boy]].
+* The Ned Leeds incarnation of the Hobgoblin appeared in ''[[Spider-Man: The Video Game]]'' (1991), voiced by David Hadinger.
+* The Jason Macendale incarnation of the Hobgoblin appeared in ''[[Spider-Man vs. The Kingpin]]'' (1991).
+* The Ned Leeds incarnation of the Hobgoblin appeared as a boss in ''[[The Amazing Spider-Man 2 (1992 video game)|The Amazing Spider-Man 2]]'' (1992).
+* The Jason Macendale incarnation of the Hobgoblin appeared as a boss in ''[[Spider-Man: Return of the Sinister Six]]'' (1992)
+* The Roderick Kingsley incarnation of the Hobgoblin appeared as an assist character in the [[PlayStation Portable|PSP]] and [[PS2]] versions of ''[[Spider-Man: Web of Shadows]]'' (2008).<ref>{{cite web|url=https://www.youtube.com/watch?v=m1NbQPzeccc |title=Let's Play: Spider-Man: Web of Shadows S03 P02 - Here, Kitty Kitty Kitty! |publisher=YouTube |access-date=2010-08-13}}</ref>
+* The Roderick Kingsley incarnation of the Hobgoblin appears as an alternate costume for the Green Goblin in ''[[Marvel: Ultimate Alliance 2]]'' (2009).<ref>{{cite web|last=Raub |first=Matt |url=http://theflickcast.com/2009/09/15/marvel-ultimat-alliance-2-alternate-costumes-revealed/ |title='Marvel Ultimate Alliance 2′ Alternate Costumes Revealed! |publisher=The Flickcast |date=2009-09-15 |access-date=2010-08-13}}</ref>
+* An exclusive [[Marvel 2099]] incarnation of the Hobgoblin appears in ''[[Spider-Man: Shattered Dimensions]]'' (2010), voiced by [[Steve Blum]].<ref>{{cite web |last=Miller |first=Greg |url=https://www.ign.com/articles/2010/06/08/e3-2010-spider-man-shattered-dimensions-preview |title=E3 2010: Spider-Man: Shattered Dimensions Preview |publisher=IGN|date=2010-06-07 |access-date=2022-01-06}}</ref><ref>{{cite web |author1=George, Richard |author2=Schedeen, Jesse |url=https://www.ign.com/articles/2010/09/03/the-deadly-villains-of-spider-man-shattered-dimensions |title=The Deadly Villains of Spider-Man: Shattered Dimensions |access-date=2022-01-06 |website=[[IGN]] |date=2010-08-23}}</ref> He is a mercenary hired by Alchemax with hybrid nanofiber bio-organic circuitry wings bonded to his back and "psy-powers". After obtaining a fragment of the Tablet of Order and Chaos, the Hobgoblin ambushes [[Spider-Man 2099]] and has the web-slinger pursue him as he wreaks havoc. After Spider-Man corners him, the Hobgoblin uses the fragment to increase his psy-powers and torment the web-slinger with a hellish hallucination of [[gargoyle]]-like monsters. Ultimately, Spider-Man defeats the Hobgoblin and retrieves his tablet fragment before examining his wings and deducing Alchemax's involvement.
+* The Ned Leeds and Roderick Kingsley incarnations of the Hobgoblin appear as playable characters in ''[[Lego Marvel Super Heroes 2]]'' (2017).<ref>{{cite web|title=Characters|url=http://ign.com/wikis/lego-marvel-super-heroes-2/Characters|website=IGN Database|access-date=January 28, 2018}}</ref>
+* The Earth-21205 version of Peter Parker / Hobgoblin appears as a playable character in ''[[Spider-Man Unlimited (video game)|Spider-Man Unlimited]]'' (2014).{{citation needed|date=May 2021}}
+
+===Toys and collectibles===
+* The Hobgoblin received an action figure in the ''[[Secret Wars]]'' toy line produced by [[Mattel]].
+* The Hobgoblin was prominently featured in the 1990s ''Spider-Man: The Animated Series'' toyline. A total of five figures were produced, including the standard 5" figure with "missile firing" goblin glider, a 10" version of the series 1 figure, a talking Hobgoblin with sound effects from the show, a 7" figure featuring an illuminated projector embedded in the chest, and an action pose figure that included a motorized battle glider.
+* Two incarnations of the Hobgoblin received figures in series 2 and 17 of the [[Spider-Man Classics]] line. The former was similar to that of the demonic Jason Macendale incarnation while the latter is similar to that of the original Roderick Kingsley incarnation.
+* The Jason Macendale incarnation was reused twice. The first time, it was repainted and given a newly sculpted Green Goblin head for the Spider-Man vs. The [[Sinister Six]] box set in the [[Marvel Legends]] toy line. The second time, it was repainted and renamed [[Demogoblin]] in the ''[[Spider-Man: Origins]]'' toy line produced by [[Hasbro]].
+* A Hobgoblin [[Minimates|Minimate]] was released in late 2007 exclusively at select [[FYE (retailer)|f.y.e.]], [[Suncoast Motion Picture Company|Suncoast]], and [[Sam Goody]] stores in a 2-pack including a Scarlet Spider figure.<ref>{{cite web|url=http://www.oafe.net/yo/mmmhss.php |title=Hobgoblin/Scarlet Spider Minimates exclusive review |publisher=OAFE |access-date=2010-08-13}}</ref>
+* [[Bowen Designs]] released a Hobgoblin bust in 2005 of the Roderick Kingsley incarnation.
+* In 2009, Hasbro released a 3{{fraction|3|4}}&nbsp;inch Hobgoblin bust for their [[Marvel Universe (toyline)|Marvel Universe]] toyline, with the packaging information signifying the character as the Roderick Kingsley incarnation.
+* The Phil Urich incarnation of the Hobgoblin was added to the superhero [[tabletop game]] [[Heroclix]] in 2013.<ref>http://heroclix.com/wp-content/uploads/2013/02/041b-Hobgoblin.jpg {{Bare URL image|date=March 2022}}</ref>
+* In 2015, Hasbro made Hobgoblin the Build-a-Figure for the Marvel Legends Infinite Series Spider-Man line-up.
+* In 2016, the first officially licensed Hobgoblin [[Lego minifigure]] was included with the Spider-Man: Ghost Rider Team-up set.
+
+===Attractions===
+The [[Ned Leeds]] incarnation of the Hobgoblin appears in the [[Islands of Adventure]] ride ''[[The Amazing Adventures of Spider-Man]]'', voiced by [[Pat Fraley]]. This version is a member of [[Doctor Octopus]]' [[Sinister Syndicate]].
+
+==Notes==
+{{reflist|group=Note|refs=
+<ref name=Note01>The original Hobgoblin's identity had yet to be revealed in the comics when ''[[Spider-Man (1994 TV series)|Spider-Man: The Animated Series]]'' was produced, so the show's version of the character was instead an [[Composite character|amalgamation]] of [[Ned Leeds]]' and [[Roderick Kingsley]]'s personality and ambitions, with [[Jason Macendale]]'s mercenary status and Lefty Donovan's criminal background.</ref>
+}}
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+* [http://marvel.com/universe/Hobgoblin_%28Roderick_Kingsley%29 Hobgoblin I] at Marvel.com
+*{{Marvunapp|http://www.marvunapp.com/Appendix5/hobgoblinkingsley.htm|Hobgoblin I}}
+* [http://www.spideykicksbutt.com/SquanderedLegacy/SquanderedLegacyTitle.html SpideyKicksButt.com: "Squandered Legacy: The Rise and Fall of the Hobgoblin"]
+* [http://peterdavid.malibulist.com/archives/002234.html Peter David site: "Foolish Consistencies and..."]
+
+{{Portal bar|1980s|Comics}}
+{{Spider-Man characters}}
+{{Goblin (Marvel Comics)}}
+{{Moon Knight}}
+{{Sinister Six}}
+{{John Romita Jr.}}
+{{Set index article|comics}}
+
+{{DEFAULTSORT:Hobgoblin (Comics)}}
+[[Category:Hobgoblin (comics)| ]]
+[[Category:Articles about multiple fictional characters]]
+[[Category:Villains in animated television series]]
+[[Category:Characters created by John Romita Jr.]]
+[[Category:Characters created by John Romita Sr.]]
+[[Category:Characters created by Roger Stern]]
+[[Category:Comics characters introduced in 1983]]
+[[Category:Fictional characters from New York City]]
+[[Category:Fictional goblins]]
+[[Category:Fictional humanoids]]
+[[Category:Fictional mass murderers]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics mutates]]
+[[Category:Spider-Man characters code names]]

@@ -1,0 +1,156 @@
+{{About|the U.S. DC Comics property|the British comic|Warlord (DC Thomson)|the Chinese comic|Warlord (manhua)|other uses|Warlord (disambiguation)}}
+{{Infobox comics character and title
+|character_name=The Warlord
+|image=Warlord67.png
+|caption=''The Warlord'' #67 (March 1983), cover art by [[Mike Grell]].
+|publisher=[[DC Comics]]
+|debut=''[[1st Issue Special]]'' #8 (November 1975)
+|creators=[[Mike Grell]]
+|alter_ego = Travis Morgan
+|full_name =
+|species = <!-- optional -->
+|homeworld = [[Skartaris]]
+|alliances = [[United States Air Force]]
+|partners = <!-- optional -->
+|supports =<!--optional-->
+|aliases  = <!-- optional: actual identities the character uses, not nicknames -->
+|powers=fencer and expert marksman.
+<!--Series section-->
+|title = The Warlord
+|cvr_image = 
+|cvr_caption = 
+|cvr_alt =
+|schedule = Monthly
+|format = [[Ongoing series]]
+|limited =
+|ongoing = y
+|1shot =
+|genre = [[Sword and sorcery]], [[Science fantasy]]
+|pub_series =
+|date =
+|1stishhead = vol. 1
+|1stishyr = 1976
+|1stishmo = January–February
+|endishyr = 1988
+|endishmo = Winter
+|1stishhead2 = vol. 2
+|1stishyr2 = 1992
+|1stishmo2 = January
+|endishyr2 = 1992
+|endishmo2 = June
+|1stishhead3 = vol. 3
+|1stishyr3 = 2006
+|1stishmo3 = April
+|endishyr3 = 2007
+|endishmo3 = January
+|1stishhead4 = vol. 4
+|1stishyr4 = 2009
+|1stishmo4 = June
+|endishyr4 = 2010
+|endishmo4 = September
+|issues = '''(vol. 1)''': 133 and 6 Annuals<br>'''(vol. 2)''': 6<br>'''(vol. 3)''': 10<br> '''(vol. 4)''': 16
+|main_char_team = Warlord
+|writers = {{List collapsed|'''(vol. 1)'''<br>[[Mike Grell]], [[Cary Burkett]], [[Michael Fleisher]] <br>'''(vol. 2)'''<br>Mike Grell<br>'''(vol. 3)'''<br> [[Bruce Jones (comics)|Bruce Jones]]<br>'''(vol. 4)'''<br>Mike Grell}}
+|artists = 
+|pencillers = {{List collapsed|'''(vol. 1)'''<br>Mike Grell, [[Mark Texeira]], [[Jan Duursema]], [[Dan Jurgens]], [[Pat Broderick]], [[Rich Buckler]], [[Alan Kupperberg]], [[Ron Randall]], Mike Chen, [[Adam Kubert]], Rick Stasi, [[Andy Kubert]], [[Paris Cullins]], [[Jerry Bingham]], [[Art Thibert]], [[Pablo Marcos]]<br>'''(vol. 2)'''<br>Dameon Willich<br>'''(vol. 3)'''<br>[[Bart Sears]]<br>'''(vol. 4)'''<br>Joe Prado, Chad Hardin}}
+|inkers = {{List collapsed|'''(vol. 1)'''<br>Mike Grell, [[Vince Colletta]], [[Mike DeCarlo]], [[Tom Mandrake]], [[Dan Adkins]], [[Pablo Marcos]]<br>'''(vol. 2)'''<br>[[Rick Hoberg]], Tim Burgard<br>'''(vol. 3)'''<br>Bart Sears<br>'''(vol. 4)'''<br>Joe Prado, Chad Hardin}}
+|letterers =
+|colorists = 
+|editors =
+|creative_team_month =
+|creative_team_year =
+|creators_series =
+|TPB = Warlord: The Savage Empire
+|ISBN =1-56389-024-0
+|TPB1 = Showcase Presents: Warlord
+|ISBN1 = 1-4012-2473-3
+|nonUS =
+}}
+The '''Warlord''' is a [[sword and sorcery]] character appearing in [[American comic book]]s published by [[DC Comics]]. Created by writer-artist [[Mike Grell]], he debuted in ''[[1st Issue Special]]'' #8 (November 1975).<ref>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Korte |first3=Steve |last4=Manning |first4=Matt |last5=Wiacek |first5=Win |last6=Wilson |first6=Sven |title=The DC Comics Encyclopedia: The Definitive Guide to the Characters of the DC Universe |date=2016 |publisher=DK Publishing |isbn=978-1-4654-5357-0 |page=324}}</ref> The titular character, Travis Morgan, obtains the name "Warlord" as he fights for the freedom of the people of [[Skartaris]].
+
+==Development==
+Grell described the Warlord's genesis "as a comic strip called ''Savage Empire''... ''Savage Empire'' was born of my admiration for [[Hal Foster]]'s ''[[Prince Valiant]]'' and [[Burne Hogarth]]'s [[Tarzan in comics|''Tarzan'']], combined with my fascination with archaeology and lost civilizations." Grell described pitching his idea to DC Comics: "I completely revised the concept from ''Savage Empire'' into ''The Warlord''. The story of an archeologist who stumbles through a time portal and winds up in Atlantis became the story of US spy pilot whose [[Lockheed SR-71 Blackbird|SR-71]] is damaged while on a mission over Russia and plunges through an opening at the North pole into the world at the center on the earth, where creatures of from mythology and Earth's ancient past co-exist amid fantastic cities and leftovers of the civilization of [[Atlantis]]... drawing on many sources, including my own US Air Force experiences to lend a note of authenticity to the characters background. Choosing the new setting was easy, as a kid one of my favorite books was [[Jules Verne]]'s 1864 classic ''[[Journey to the Center of the Earth]]'', I [also] drew on...''[[The Smoky God]], The Hollow Earth'', and [[Edgar Rice Burroughs]]' ''[[Pellucidar]]'' series."<ref>{{cite journal |last1=Eury |first1=Micheal |title=Back Issue! |date=2011 |issue=#46 |page=19}}</ref>
+
+==Publication history==
+The character the Warlord debuted in ''[[1st Issue Special]]'' #8 ([[cover-date]]d November 1975).<ref>{{cite book|last=McAvennie|first= Michael|last2=Dolan|first2=Hannah, ed.|chapter= 1970s|title = DC Comics Year By Year A Visual Chronicle|publisher=[[Dorling Kindersley]]|year=2010|location= London, United Kingdom|isbn= 978-0-7566-6742-9 |page= 165 |quote = Writer/artist Mike Grell elevated the sword-and-sorcery genre to new heights with the Warlord.}}</ref> The decision to give the Warlord his own series had already been made by the time his ''1st Issue Special'' debut went into production.<ref name="back71">{{cite journal|last=Abramowitz|first=Jack|title=1st Issue Special: It Was No Showcase (But It Was Never Meant To Be)|journal=[[Back Issue!]]|issue=#71|page=44|publisher=[[TwoMorrows Publishing]]|date=April 2014|location=Raleigh, North Carolina}}</ref> He starred in ''The Warlord'' #1 (February 1976), followed by an eight-month hiatus after issue #2,<ref name="back71"/> picking up again with #3 (November 1976).<ref>{{cite web |url= http://goodcomics.comicbookresources.com/2006/06/08/comic-book-urban-legends-revealed-54/|title=Comic Book Urban Legends Revealed #54!|first= Brian|last= Cronin|date= June 8, 2006|publisher= [[Comic Book Resources]]|archive-url= https://web.archive.org/web/20140821114145/http://goodcomics.comicbookresources.com/2006/06/08/comic-book-urban-legends-revealed-54/|archive-date= August 21, 2014|url-status= live}}</ref> The title lasted 133 issues until Winter 1988.<ref>{{cite web|url= http://www.toonopedia.com/warlord.htm|title= The Warlord|first= Don|last= Markstein|date= 2008|publisher= [[Don Markstein's Toonopedia]]|archive-url= https://www.webcitation.org/6bZIrkPM1?url=http://toonopedia.com/warlord.htm|archive-date= September 15, 2015|url-status= live|df= mdy-all|quote= ''The Warlord'' lasted a surprisingly long time. But it finally wound down after 133 issues, the last dated Winter 1988–89.}}</ref> Creator Mike Grell wrote and drew the comic for six years, handing over the art chores after issue #59 (July 1982). Issues #53 through #71 were ghost-written by Grell's then-wife Sharon Wright.<ref>{{Cite web|title=The Warlord · Mike Grell|url=https://www.mikegrell.com/thewarlord/index.html|access-date=2021-10-17|website=www.mikegrell.com}}</ref>
+
+===Backup features===
+A continuation of [[Jack Kirby]]'s ''[[OMAC (Buddy Blank)|OMAC]]'' series, by [[Jim Starlin]], was featured as a backup for several issues (#37–39 and #42–47).<ref>{{Citation|last = Wells|first = John|title = 'Lost' DC: The DC Implosion|newspaper = [[Comics Buyer's Guide]]|issue = #1249|pages = 132–133|date = October 24, 1997|location= Iola, Wisconsin|quote= The OMAC story from ''Kamandi'' #60 ended up in ''Warlord'' #37 (September 1980). The next two installments of the story, which presumably had been prepared in 1978 by Jim Starlin, appeared in ''Warlord'' #38–39.}}</ref> ''[[Arak (comics)|Arak, Son of Thunder]]'', created by [[Roy Thomas]] and [[Ernie Colón]], first appeared in a [[DC Comics insert previews|special insert]] in ''The Warlord'' #48 (August 1981).<ref>{{cite journal|last = Catron|first = Michael|author-link = Michael Catron|title = Thomas's Indian/Viking to Roam Medieval Europe|journal = [[Amazing Heroes]]|issue = #1|pages = 29–30|publisher = [[Fantagraphics Books]]|location= Stamford, Connecticut|date = June 1981|quote= ''Arak, Son of Thunder'', described as an 'Indian/Viking', makes his debut in a preview insert in ''Warlord'' #48, on sale in May.}}</ref> [[Claw the Unconquered]] appeared in a two–part backup feature in issues #48–49 by [[Jack C. Harris]] and [[Thomas Yeates]]. ''Dragonsword'' was a backup feature by [[Paul Levitz]] and Yeates which appeared in #51–54 (November 1981–February 1982).<ref>{{cite journal|last= Catron|first= Michael|title= Dragon Sword|journal= Amazing Heroes|issue= #2|page= 18|publisher= Fantagraphics Books|date= July 1981|quote= Dragon Sword, a new sword-and sorcery series created and scripted by Paul Levitz and pencilled and inked by Tom Yeates will debut as the back feature in ''Warlord'' #51, on sale in August [1981].}}</ref> ''[[Arion (comics)|Arion]]'', a sword and sorcery title by writer [[Paul Kupperberg]] and artist [[Jan Duursema]], began as a six–page backup feature in ''The Warlord'' #55 (March 1982). Another backup feature was ''The Barren Earth'' by writer [[Gary Cohn (comics)|Gary Cohn]] and artist [[Ron Randall]], which was concluded in a four–issue limited series.<ref>{{gcdb series|id= 2972|title= ''Conqueror of the Barren Earth''}}</ref> A [[DC Comics Bonus Book|Bonus Book]] in issue #131 (September 1988) featured artist [[Rob Liefeld]]'s first work for DC.<ref>{{cite journal|last= Greenberger|first= Robert|author-link= Robert Greenberger|title= New Talent and Bonus Babies|journal= [[Back Issue!]]|issue= #71|pages= 71–73|publisher= [[TwoMorrows Publishing]]|date= April 2014|location= Raleigh, North Carolina}}</ref><ref>{{Gcdb issue|id= 44933|title= ''The Warlord'' #131}}</ref>
+
+===Volume 2===
+A six-issue miniseries ran cover-dated January to June 1992. It was written by [[Mike Grell]] and penciled by Dameon Willich, with inks by [[Rick Hoberg]] (#1-3) and Tim Burgard (#4-6).
+
+===Volume 3===
+DC attempted to update ''The Warlord'' in 2006 with [[Bruce Jones (comics)|Bruce Jones]] writing and [[Bart Sears]] providing the art. This series restarted the concept, beginning with Travis Morgan arriving in Skartaris. The series left a number of story points unanswered as issue #9 finished on a cliffhanger, while the tenth and final issue had a standalone story set sometime in the future.
+
+===Volume 4===
+''The Warlord'' returned in an ongoing series written by Mike Grell in time for the original series' 35th anniversary.<ref>{{cite web|url= http://www.newsarama.com/631-sdcc-08-mike-grell-the-return-of-warlord.html|title= SDCC '08 - Mike Grell: The Return of Warlord|first= Chris|last= Arrant|date= July 27, 2008|publisher= [[Newsarama]]|archive-url= https://web.archive.org/web/20130727035448/http://www.newsarama.com/631-sdcc-08-mike-grell-the-return-of-warlord.html|archive-date= July 27, 2013|url-status= live|access-date= August 16, 2008}}</ref> The series started in April 2009,<ref>Cowsill, Alan "2000s" in Dolan, p. 338: "Mike Grell was back at the helm for the return of DC's greatest sword-and-sorcery hero - Travis Morgan, the Warlord".</ref> featuring art by Joe Prado and Chad Hardin. It ran for 16 issues.
+
+==Fictional character biography==
+{{quote box|align=left|width=300px|quote= In the savage world of Skartaris, life is a constant struggle for survival. Here, beneath an unblinking orb of eternal sunlight, one simple law prevails: If you let down your guard for an instant you will soon be very dead.|source=''1st Issue Special'' #8}}
+
+[[Vietnam War]] veteran [[SR-71]] pilot Travis Morgan passed through a hole in the Earth's crust while flying over the north pole in 1969<ref>{{cite comic| writer= [[Mike Grell|Grell, Mike]]|penciller= Hardin, Chad; Grell, Mike|inker= Hardin, Chad; Grell, Mike|story= Next...|title= The Warlord|volume= 4|issue= #10|date= March 2010}}</ref> and landed in the underground world of [[Skartaris]], a place strongly reminiscent of [[Edgar Rice Burroughs]]'s [[Pellucidar]]. There Travis, wielding his .44 [[AutoMag (pistol)|AutoMag]] pistol and joined by Shamballah's Princess (later Queen) Tara, a scantily dressed savage, became The Warlord and fought villains such as the evil sorcerer [[Deimos (comics)|Deimos]] as well as various kings. He gained various sidekicks such as [[Machiste]], Shakira,<ref name=Warlord115>{{cite comic| writer= [[Michael Fleisher|Fleisher, Michael]]|penciller=[[Ron Randall|Randall, Ron]]|inker= Randall, Ron|story= The Citadel of Fear|title= The Warlord|issue= #115|date= March 1987}}</ref> a Russian scientist named Mariah<ref name=Warlord115 /> and his magic-wielding daughter Jennifer Morgan. In one story arc, Morgan even becomes the U.S. President in the far future.<ref>{{cite comic| writer= [[Cary Burkett|Burkett, Cary]]|penciller= [[Dan Jurgens|Jurgens, Dan]]|inker= [[Dan Adkins|Adkins, Dan]]|story= Hail To the Chief|title= The Warlord|issue= #84|date= August 1984}}</ref>
+
+Although The Warlord has a superficial resemblance to the DC character [[Green Arrow|Oliver Queen]],<ref>{{cite comic| writer= Grell, Mike|penciller= Jurgens, Dan|inker= [[Dick Giordano|Giordano, Dick]]; [[Frank McLaughlin (artist)|McLaughlin, Frank]]|story= Siege|title= [[Green Arrow]]|volume= 2|issue= #28|date= January 1990}}</ref> he is in reality based more upon his creator Mike Grell who was a former member of the Air Force.<ref>{{cite journal|last = Greenberger|first = Robert|author-link = Robert Greenberger|title = From Skartaris to Sable: A Chat with Storyteller Mike Grell|journal = Comics Scene|issue = #9|publisher = Comics World Corp|year= 1983|url = http://www.mikegrell.com/thewarlord/articles/skartaristosable.html|archive-url= https://web.archive.org/web/20131203053837/http://www.mikegrell.com/thewarlord/articles/skartaristosable.html|archive-date= December 3, 2013|url-status= live}}</ref> Grell is caricatured in The Warlord's first appearance, ''[[1st Issue Special]]'' #8 and is clearly sporting The Warlord's signature shaggy goatee.<ref>{{cite comic| writer= Grell, Mike|penciller= Grell, Mike|inker= [[Vince Colletta|Colletta, Vince]]|story= Gambit|title= The Warlord|issue= #35|date= July 1980}}</ref> Grell and editor [[Jack C. Harris]] made a [[metafiction]]al [[List of comics creators appearing in comics|appearance]] in the story "Gambit" in ''The Warlord'' #35 (July 1980).<ref>{{cite web|url= http://www.wtv-zone.com/silverager/interviews/harris2.shtml|title= Jack C. Harris Interview (Pt. 2)|first= Bryan D.|last= Stroud|year= 2010|publisher= TheSilverLantern.com|archive-url= https://web.archive.org/web/20120901223812/http://www.wtv-zone.com/silverager/interviews/harris2.shtml|archive-date= September 1, 2012|url-status= dead|access-date= March 20, 2011|quote= The Warlord goes into a sort of parallel world where it's like a Dungeons and Dragons game and at the end of the story we pull back and the two guys playing Dungeons and Dragons are me and Grell. Which I thought was great and as we're playing the game this other guy comes in to scold us for not doing our work and it's Joe Orlando.}}</ref>
+
+Volume 4 of the series begins with an explorer finding perfectly preserved [[dinosaur]] remains in the [[Himalayas]]. She takes the head of one to a doctor and an expedition is set up to retrieve more samples. The team is spotted by the Chinese government and flee into the caves after losing several members. They discover a portal and after walking through find themselves in [[Skartaris]] where they encounter Travis Morgan. Travis Morgan is attacked by a giant bird and kills it with the help of Shakira. Refugees enter Shamballah and Morgan discovers that a new god has taken over the Shadow Kingdom and has overrun the Kingdom of Kiro, [[Machiste]]'s homeland. One of the refugees is injured and he surprisingly carries a gunshot wound.<ref>{{cite comic| writer= Grell, Mike|penciller= Prado, Joe|inker= Wong, Walden|title= The Warlord|volume= 4|issue= #1|date= June 2009}}</ref>
+
+The machinations of Deimos' return pit Travis Morgan against Tinder. Just as Morgan realizes that Tinder is in fact his son Joshua, he becomes distracted and Tinder mortally wounds him. Travis Morgan's final words were "I thought I'd have more time". Morgan is cremated and Tinder becomes the new Warlord.<ref>{{cite comic| writer= Grell, Mike|penciller= Grell, Mike|inker= Grell, Mike|story= Sunset|title= The Warlord|volume= 4|issue= #12|date= May 2010}}</ref>
+
+Joshua Morgan becomes the new Warlord. His costume is reminiscent of Travis Morgan's black outfit when he first arrived in Skartaris. Instead of carrying a sword and a gun as Travis did, Tinder carries a sword, a dagger, a quiver of arrows and a bow.<ref>{{cite comic| writer= Grell, Mike|penciller= Hardin, Chad|inker= Hardin, Chad|story= Son Rise|title= The Warlord|volume= 4|issue= #13|date= June 2010}}</ref>
+
+==Other versions==
+In the alternate timeline of the ''[[Flashpoint (comics)|Flashpoint]]'' storyline, The Warlord is the pirate of a fleet when he was attacked by pirate Deathstroke in battle stealing their loot. During the battle, The Warlord's crew was killed while he escaped using the hovercraft.<ref>{{cite comic| writer= [[Jimmy Palmiotti|Palmiotti, Jimmy]]|penciller= [[Joe Bennett (artist)|Bennett, Joe]]|inker= Dell, John|story= Separation Anxiety|title= [[Flashpoint (comics)|Flashpoint: Deathstroke and the Curse of the Ravager]]|issue= #1|date= August 2011}}</ref> Later, The Warlord plans to attack Deathstroke and retrieve Jenny Blitz who has been in stasis since she was stolen from him. The Warlord ambushed Deathstroke and his fleet and demanded that they surrender. In answer Deathstroke shot The Warlord's right eye using a scoped sniper rifle. He had been aiming for his mouth. Deathstroke fired at The Warlord's ship again, and it unexpectedly blew up. Each ship in Warlord's fleet subsequently exploded. The ships were destroyed by Jenny Blitz, now released from her stasis tube due to an earlier skirmish between Ocean Master and Icicle, one of Deathstroke's crewmen. Jenny appears to be able to project explosive force from her hands.<ref>{{cite comic| writer= Palmiotti, Jimmy|penciller= Bennett, Joe|inker= Shasteen, Tony|story= Red Tide|title= Flashpoint: Deathstroke and the Curse of the Ravager|issue= #2|date= September 2011}}</ref>
+
+==In other media==
+===Television===
+The Warlord appeared in the ''[[Justice League Unlimited]]'' episode "Chaos at the Earth's Core", voiced by [[Paul Guilfoyle]]. [[John Stewart (comics)|Green Lantern]], [[Supergirl (Kara Zor-El)|Supergirl]], [[Courtney Whitmore|Stargirl]], and [[Pat Dugan|S.T.R.I.P.E.]] stumbled onto Skartaris and teamed up with him to stop [[Deimos (comics)|Deimos]] and his unlikely allies [[Metallo]] and [[Silver Banshee]] of the [[Secret Society of Super Villains|Secret Society]] from stealing a huge piece of [[kryptonite]] rock. The Warlord dueled with Deimos, ending with Deimos plummeting down a ledge. Tara, Machiste, Mariah, Shakira, and Jennifer Morgan also appeared in this episode.<ref>{{cite episode|title= Chaos at the Earth's Core|series= Justice League Unlimited|series-link= Justice League Unlimited|credits= [[Joaquim dos Santos|dos Santos, Joaquim]] (director); [[Matt Wayne|Wayne, Matt]] (writer)|network= [[Cartoon Network]]|air-date= September 24, 2005|season= 3|number= 3}}</ref>
+
+===Toys===
+* In 1982, several of the characters from ''The Warlord'' became action figures in a line called "Lost World of The Warlord" from [[Remco]]. Travis Morgan was one of the figures along with Deimos, Machiste, Mikola Rostov, Arak, and [[Hercules (DC Comics)|Hercules]].
+* In April 2007, The Warlord became an action figure (based on the modern update) in Series 4 of [[DC Direct|DC Direct's]] "First Appearance" figures.
+* In 2010, The Warlord became an action figure based on the animated version in the [[DC Universe: Justice League Unlimited Fan Collection|Justice League Unlimited toyline]].<ref>{{cite web |url= http://news.toyark.com/wp-content/uploads/sites/4/2010/07/mattel-update-00109_1279923126.jpg|title= Warlord action figure|date= n.d.|publisher= ToyArk.com|archive-url= https://web.archive.org/web/20140304104321/http://news.toyark.com/wp-content/uploads/sites/4/2010/07/mattel-update-00109_1279923126.jpg|archive-date= March 4, 2014|url-status= live|access-date= February 16, 2012}}</ref>
+
+==Popular culture==
+''The Warlord'' issue #89 (Jan. 1985) appears on a magazine rack in a convenience store in a deleted scene from ''[[The Goonies]]'' DVD.<ref>[http://8144140051860092405-a-1802744773732722657-s-sites.googlegroups.com/site/jeffrywith1e2/GOONIESouttakeWarlordimage.jpg?attachauth=ANoY7crkeZPWeBJfmdsvefd59nEaD_doq7RDxBZbXMa-xqrUPPykPCVMBCg50PxFlzP--SzFrJN4hg63e62-yl6gtRE2ue1V2JzdycSb4ub3zOG-mtrkajoR3BHXNNLFJ3VKd1j98tURMw_BFTiqMy_KbbBI5rWSb8KmW-cgcpdVwLJwM3dlPtbuMJiM5JwaaQv5wIsxf4d7W1oKk8AYB5-wAi0yBnMjRg%3D%3D&attredirects=0 Screen capture], ''The Goonies'' DVD.</ref>
+
+==Collected editions==
+* DC Comics reprinted several early stories from ''The Warlord'' in ''DC Special Blue Ribbon Digest'' #10 (June 1981). This [[digest size]] collection included a new wraparound painted cover by Mike Grell and an introduction.<ref>{{Gcdb issue|id= 35370|title= ''DC Special Blue Ribbon Digest'' #10}}</ref> 
+* ''DC’s First Issue Specials'' collects ''1st Issue Special'' #8, 272 pages, March 2020, {{ISBN|978-1779501776}}
+* ''The Warlord: The Savage Empire'' (1991) - collects ''1st Issue Special'' #8 and ''The Warlord'' #1–10 and 12, November 1991, 240 pages, {{ISBN|978-1563890246}}
+* ''[[Showcase Presents]]: The Warlord'' (2009) - collects ''1st Issue Special'' #8 and ''The Warlord'' #1–28, September 2009, 528 pages, {{ISBN|978-1401224738}}
+* ''DC Through the 80s: The End of Eras'' collects ''The Warlord'' #42, 520 pages, December 2020, {{ISBN|978-1779500878}}
+* ''DC Through the 80s: The Experiments'' collects ''The Warlord'' #48 and 55, 504 pages, May 2021, {{ISBN|978-1779507099}}
+* ''Warlord: The Saga'' - collects ''The Warlord'' vol. 4 #1–6, March 2010, 144 pages, {{ISBN|978-1401226510}}
+* ''Countdown Special: [[OMAC (Buddy Blank)|OMAC]]'' #1 (2008) - collects OMAC backup stories from ''The Warlord'' #37–39 as well as ''OMAC'' #1 and ''DC Comics Presents'' #61.
+
+==References==
+{{Reflist|2}}
+
+==External links==
+* {{comicbookdb|type=title|id=939|title=''The Warlord''}}
+* [http://dcuguide.com/w/Warlord_(Travis_Morgan) The Warlord] at the Unofficial Guide to the DC Universe
+
+{{Authority control}}
+
+{{DEFAULTSORT:Warlord (Comics)}}
+[[Category:1976 comics debuts]]
+[[Category:1988 comics endings]]
+[[Category:1992 comics endings]]
+[[Category:2007 comics endings]]
+[[Category:2010 comics endings]]
+[[Category:Characters created by Mike Grell]]
+[[Category:Comics by Dan Jurgens]]
+[[Category:Comics by Michael Fleisher]]
+[[Category:Comics characters introduced in 1975]]
+[[Category:DC Comics fantasy characters]]
+[[Category:DC Comics superheroes]]
+[[Category:DC Comics titles]]
+[[Category:Defunct American comics]]
+[[Category:Fantasy comics]]
+[[Category:Fictional aviators]]
+[[Category:Fictional swordfighters in comics]]
+[[Category:Fictional United States Air Force personnel]]
+[[Category:Fictional Vietnam War veterans]]
+[[Category:Fictional warlords]]
+[[Category:Hollow Earth in fiction]]

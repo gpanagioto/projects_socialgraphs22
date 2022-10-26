@@ -1,0 +1,5 @@
+#REDIRECT [[Asp (character)]]
+
+{{Redirect category shell|
+{{R from move}}
+}}

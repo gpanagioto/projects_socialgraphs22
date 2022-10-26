@@ -1,0 +1,7 @@
+#REDIRECT [[Kraven the Hunter#Grim Hunter]]
+
+{{Rcat shell|
+{{R to section}}
+{{R to related topic}}
+{{R with history}}
+}}

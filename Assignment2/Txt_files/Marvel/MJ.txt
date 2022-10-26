@@ -1,0 +1,211 @@
+{{Short description|Character in the Marvel Cinematic Universe}}
+{{Use American English|date=December 2021}}
+{{Use mdy dates|date=May 2021}}
+{{Infobox character
+| color              = #AF181F
+| name               = Michelle Jones-Watson
+| franchise          = [[Marvel Cinematic Universe]]
+| image              = Zendaya as MJ.jpeg
+| image_upright      = 
+| caption            = MJ in ''[[Spider-Man: Far From Home]]'' (2019)
+| creator            = {{Plainlist|
+* [[Jonathan Goldstein (filmmaker)|Jonathan Goldstein]]
+* [[John Francis Daley]]
+* [[Jon Watts]]
+* [[Christopher Ford (screenwriter)|Christopher Ford]]
+* [[Chris McKenna (writer)|Chris McKenna]]
+* [[Erik Sommers]]
+| partners           = 
+}}
+| adapted_by         = 
+| portrayer          = [[Zendaya]]
+| full_name          = Michelle Jones-Watson<ref name="FullName">{{Cite web |last=Newby |first=Richard |date=December 17, 2021 |title=All the Comics, Video-Game, and MCU Easter Eggs You Might Have Missed in Spider-Man: No Way Home |url=https://www.vulture.com/2021/12/all-of-spider-man-no-way-homes-comics-and-mcu-easter-eggs.html |url-status=live |archive-url=https://web.archive.org/web/20211218195707/https://www.vulture.com/2021/12/all-of-spider-man-no-way-homes-comics-and-mcu-easter-eggs.html |archive-date=December 18, 2021 |access-date=December 18, 2021 |website=[[Vulture (website)|Vulture]]}}</ref><!--Full name included per [[Talk:Spider-Man: No Way Home]]-->
+| nickname           = MJ
+| occupation         = High school student <br/> [[Barista]]
+| family             = 
+| spouse             = 
+| children           = 
+| affiliation        = 
+| significant_other  = [[Peter Parker (Marvel Cinematic Universe)|Peter Parker]] 
+| nationality        = American
+| alt                = 
+| first              = ''[[Spider-Man: Homecoming]]'' (2017)
+| last               = 
+| based_on           = {{based on|[[Mary Jane Watson]]|[[Stan Lee]]|[[John Romita Sr.]]}}
+| voice              = 
+| origin             = [[Queens]], New York, United States
+| home               =
+}}
+'''Michelle Jones-Watson''', most commonly known as '''MJ''', is a [[fictional character]] portrayed by [[Zendaya]] in the [[Marvel Cinematic Universe]] (MCU) [[film franchise]], an original character within the media franchise that pays homage to [[Mary Jane Watson|Mary Jane "MJ" Watson]], a recurring love interest of [[Spider-Man]] in comic books and various media.<ref name="Zendaya1"/><ref>{{cite web |last1=Cheeda |first1=Saim |title=Spider-Man: Mary Jane vs Michelle Jones: Who Is Better? |url=https://www.cbr.com/spider-man-mary-jane-vs-michelle-jones-better/ |website=[[Comic Book Resources]] |access-date=September 4, 2020 |date=November 25, 2019}}</ref><ref>{{cite web |last1=Davison |first1=Josh |title=Spider-Man: 5 Ways MCU MJ Is Different From The Classic Version (& 5 How They're Exactly The Same) |url=https://www.cbr.com/spider-man-mcu-mj-different-similar-classic-version/ |website= Comic Book Resources |access-date=September 4, 2020 |date=July 10, 2020}}</ref>
+
+She is depicted as a smart, snarky classmate of [[Peter Parker (Marvel Cinematic Universe)|Peter Parker]] in ''[[Spider-Man: Homecoming]]'', and becomes his love interest in the sequel ''[[Spider-Man: Far From Home]]'', a unique aspect for original characters within the MCU franchise and upon [[Spider-Man in film|''Spider-Man'' feature films]] preceding it.<ref name="Geek"/>  She returns in ''[[Spider-Man: No Way Home]]'' (2021), helping Peter, Ned, and [[Doctor Strange (Marvel Cinematic Universe character)|Doctor Strange]] to capture multiple villains that have entered their universe from the multiverse. Her romantic involvement in Peter's personal life would eventually be undone due to Strange's casting of a spell that permanently erased the world's memory of Parker's civilian persona, including the loss of his previous bonds he forged with his friends, loved ones, and allies.<ref>{{Cite web|date=March 13, 2020|title=MCU Spider-Man 3: Zendaya Confirmed To Return As MJ|url=https://screenrant.com/marvel-spiderman-3-cast-zendaya-mj-return/|access-date=April 21, 2021|website=ScreenRant|language=en-US}}</ref> She received positive reviews after ''Homecoming's'' release as a strong female supporting cast member, additionally receiving the [[Saturn Award for Best Supporting Actress]] for her role in ''Far From Home''.
+
+==Creation and concept==
+{{quote box|quote= She has a really cool wardrobe, really funny, lots of literary nods. I like the idea that she’s a real reader and bookish. She always has a big pile of books she’s carrying around, which I picked and obsessed over.|source=—[[Jon Watts]], director<ref name="\film"/> |width=33%}}
+According to ''[[Spider-Man: Homecoming]]'' co-screenwriter [[John Francis Daley]], MJ was intended as a reinvention of [[Mary Jane Watson]].<ref name="yahoo!">{{cite news |last1=Alter |first1=Ethan |title=Your Complete Guide to the 'Spider-Man: Homecoming' Easter Eggs |url=https://www.yahoo.com/entertainment/explaining-spider-man-homecoming-easter-eggs-212204779.html |publisher=[[Yahoo!]] Entertainment |access-date= September 3, 2020}}</ref> While her nickname reveal was an homage to the supporting character within the comic books and [[Spider-Man in other media|other Spider-Man media]], Marvel Studios president [[Kevin Feige]] confirmed she is an original [[Marvel Cinematic Universe]] character.<ref name="IGN">{{cite web |last1=Vejvoda |first1=Jim |title=Spider-Man: Homecoming Producers Say Twist to That Character Not What It Seems - IGN |date=July 10, 2017 |url=https://www.ign.com/articles/2017/07/10/spider-man-homecoming-producers-on-the-reveal-of-that-characters-nickname |access-date=September 8, 2020 |language=en
+|quote= Well, we never even looked at it as a big reveal necessarily but more of just a fun homage to his past adventures and his past love. She's not Mary Jane Watson. She never was Mary Jane Watson.}}</ref> Feige added: "[[Spider-Man|Peter's]] had a lot of friends over the years in the comics, and a lot of schoolmates and characters he’s interacted with. It wasn't just Mary Jane Watson; it wasn't just [[Gwen Stacy]]; it wasn’t just [[Harry Osborn]]. So we were very interested in the other characters, and that’s where [[Liz (Marvel Cinematic Universe)|Liz]] came from and that’s where the version of the character Michelle came from."<ref name="DOG"/> [[Jon Watts]], director of  ''Spider-Man: Homecoming'', ''[[Spider-Man: Far From Home]]'' and ''[[Spider-Man: No Way Home]]'', likened the character to [[Ally Sheedy]]'s Allison Reynolds from ''[[The Breakfast Club]]'' (1985) and [[Linda Cardellini]]'s Lindsay Weir from ''[[Freaks and Geeks]]'' (1999–2000).<ref name="\film"/>
+
+The character's full name is Michelle Jones-Watson, which was first revealed in ''Spider-Man: No Way Home''. Until that point, she had been referred to once as Michelle and primarily known by the nickname MJ; although the name "Michelle Jones" had been used in an article by ''[[Variety (magazine)|Variety]]'', quickly spreading among the press and fans, the name was not used in any official media until ''No Way Home''.<ref name="FullName" />
+
+== Portrayal and characterization ==
+[[File:Zendaya by Gage Skidmore.jpg|thumb|upright|right|Zendaya portrays the character in the MCU.]]
+
+MJ is portrayed by actress [[Zendaya]] in the [[Marvel Cinematic Universe]] as a classmate of Peter Parker at [[Midtown High School (comics)|Midtown School of Science and Technology]] and a teammate on the academic decathlon team. She is depicted as politically active with critical views, and a loner who claims to eschew friendship.<ref name=Mashable>{{cite web|url=https://mashable.com/article/zendaya-spider-man-homecoming|author=Zuckerman, Esther|title=Zendaya in 'Spider-Man: Homecoming' is perfection|publisher=[[Mashable]]|language=en|url-status=live|date=July 10, 2017|accessdate=February 14, 2022|archivedate=January 21, 2022|archiveurl=https://web.archive.org/web/20220121183358/https://mashable.com/article/zendaya-spider-man-homecoming}}</ref><ref name=CheatSheet>{{cite web|url=https://www.cheatsheet.com/entertainment/zendayas-mcu-character-changes-too-much-between-both-spider-man-movies-fans-complain.html|title=Zendaya's MCU Character Changes Too Much Between Both 'Spider-Man' Movies, Fans Complain|author=Brian, Greg|publisher=Showbiz CheatSheet|language=en|url-status=live|date=July 1, 2020|accessdate=February 14, 2022|archivedate=September 21, 2020|archiveurl=https://web.archive.org/web/20200921070702/https://www.cheatsheet.com/entertainment/zendayas-mcu-character-changes-too-much-between-both-spider-man-movies-fans-complain.html/}}</ref> Zendaya described the character as "very dry, awkward, intellectual".<ref name=HollywoodReporter/> This sometimes manifests itself in the form of [[deadpan]] sarcasm,<ref>{{cite web |last1=Buchanan |first1=Kyle |title=Fair Warning: Zendaya Is Barely in Spider-Man: Homecoming |url=https://www.vulture.com/2017/07/zendaya-is-barely-in-spider-man-homecoming.html |website=Vulture |access-date=September 4, 2020 |language=en-us |date=July 5, 2017}}</ref><ref>{{cite web|url=https://www.themarysue.com/peter-parker-and-mj-are-the-best/|title=''Spider-Man: Far From Home'' Has the Best Onscreen Peter/MJ Relationship|author=Leishman, Rachel|publisher=[[The Mary Sue]]|language=en-us|url-status=live|date=July 9, 2019|accessdate=February 14, 2022|archivedate=July 10, 2019|archiveurl=https://web.archive.org/web/20190710133743/https://www.themarysue.com/peter-parker-and-mj-are-the-best/}}</ref><ref>{{cite web|url=https://www.polygon.com/2019/7/5/20683227/spider-man-far-from-home-mj-character-zendaya|title=Spider-Man: Far From Home's deadpan take on MJ is the heroine we need|author=Han, Karen|language=en-us|url-status=live|publisher=[[Polygon (website)|Polygon]]|date=July 5, 2019|accessdate=February 14, 2022|archivedate=April 10, 2021|archiveurl=https://web.archive.org/web/20210410063732/https://www.polygon.com/2019/7/5/20683227/spider-man-far-from-home-mj-character-zendaya}}</ref> as when she calls Peter and Ned "losers" for ogling his crush, [[Liz (Marvel Cinematic Universe)|Liz Allan]] from afar.<ref name=CheatSheet/> Among her unusual hobbies is attending detention simply to "sketch people in crisis."<ref name=Mashable/><ref name=CheatSheet/><ref name=WhatCulture>{{cite web|url=https://whatculture.com/film/spider-man-homecoming-20-best-one-liners?page=13|title=Spider-Man: Homecoming - 20 Best One-Liners|publisher=[[WhatCulture]]|author=Pooley, Jack|language=en|date=July 9, 2017|accessdate=February 14, 2022|archivedate=July 13, 2017|archiveurl=https://web.archive.org/web/20170713065839/https://whatculture.com/film/spider-man-homecoming-20-best-one-liners?page=13}}</ref>
+
+Unlike previous supporting female characters within [[Spider-Man in film|''Spider-Man'' films]], such as [[Mary Jane Watson (Sam Raimi film series)|Mary Jane Watson]] from the [[Sam Raimi trilogy]] and [[Gwen Stacy (The Amazing Spider-Man film series)|Gwen Stacy]] from the [[The Amazing Spider-Man (film series)|''Amazing Spider-Man'' films]], MJ is neither a romantic interest nor a [[damsel in distress]] at the beginning of her [[character arc]]. Instead, the character [[Liz (Marvel Cinematic Universe)|Liz]] was created initially for the role of romantic interest in a way that tied into Parker's conflict with the Vulture.<ref>{{cite web |last1=Armitage |first1=Hugh |title=Zendaya doesn't need to be saved in Spider-Man |url=https://www.digitalspy.com/movies/a831893/spider-man-homecoming-zendaya/ |website=Digital Spy |access-date=September 3, 2020 |date=June 28, 2017}}</ref><ref name="Geek">{{cite web |title=From Iron Man to Spider-Man — Ranking the Romances of the Marvel Cinematic Universe |url=https://www.denofgeek.com/movies/marvel-cinematic-universe-romances-ranked-worst-best/ |website=Den of Geek |access-date=September 4, 2020 |date=February 11, 2020}}</ref> 
+
+In the third film, she is rescued from a fall by [[Andrew Garfield]]'s [[Peter Parker (The Amazing Spider-Man film series)|incarnation of Spider-Man]], prompting an emotional moment for that Spider-Man, in light of his failure to save Gwen Stacy from a similar fate in ''The Amazing Spider-Man 2''.<ref name="rescue">{{cite web |last1=Romano |first1=Evan |title=Everyone Has Been Wondering if a Certain Duo Appears in 'No Way Home' |url=https://www.menshealth.com/entertainment/a38530752/spider-man-no-way-home-andrew-garfield-tobey-maguire/ |website=Men's Health |access-date=17 December 2021 |date=16 December 2021}}</ref>
+
+== Fictional character biography ==
+===High school life===
+{{Further|Spider-Man: Homecoming}} 
+In 2016, Michelle, commonly known as MJ, is introduced as a student at [[Midtown High School (comics)#Marvel Cinematic Universe|Midtown School of Science and Technology]] and enjoys mocking her classmates, including [[Peter Parker (Marvel Cinematic Universe)|Peter Parker]]. She is given the opportunity to take over from the departing [[Liz (Marvel Cinematic Universe)|Liz]] as captain of the Academic Decathlon Team, and begins to open up more with teammates, such as [[Ned Leeds (Marvel Cinematic Universe)|Ned Leeds]] and Parker. She begins to consider them as her friends.
+
+=== Resurrection and school vacation ===
+{{Further|Spider-Man: Far From Home}}
+In 2018, MJ is killed in [[The Blip]],{{efn|During the events of ''[[Avengers: Infinity War]]'' (2018).}} before being restored to life in 2023.{{efn|During the events of ''[[Avengers: Endgame]]'' (2019).}} In 2024, MJ attends the school sponsored trip to Europe, where her affections are sought out by Parker and [[Brad Davis (Marvel Cinematic Universe)|Brad Davis]]. When she deduces Parker's identity as Spider-Man, MJ helps discover [[Mysterio (Marvel Cinematic Universe)|Mysterio]]'s fraudulence, by exposing him to [[Nick Fury (Marvel Cinematic Universe)|Nick Fury]] and [[Maria Hill (Marvel Cinematic Universe)|Maria Hill]] (actually the [[Skrulls (Marvel Cinematic Universe)|Skrulls]] [[Talos (Marvel Cinematic Universe)|Talos]] and [[Soren (Marvel Cinematic Universe)|Soren]] in disguise) as the one who staged the [[Elementals (Marvel Cinematic Universe)|Elemental]] invasion. Shortly after their trip to Europe, MJ and Parker begin a relationship, and have their first date by swinging in the city, when ''[[TheDailyBugle.net]]''{{'s}} [[J. Jonah Jameson (Marvel Cinematic Universe)|J. Jonah Jameson]] releases a [[fake news|doctored video]] of Mysterio and Spider-Man sent to him by Mysterio's associates, claiming that Spider-Man is responsible for the Battle of London (during which Mysterio was killed) and exposing his identity as Parker.
+
+===Multiversal invasion===
+{{Further|Spider-Man: No Way Home}} 
+After Parker is framed for the murder of Mysterio, MJ and Parker head back to Parker's aunt and caretaker [[May Parker (Marvel Cinematic Universe)|May]]'s house to escape the press. She is eventually interrogated and taken to custody by the [[Damage Control (Marvel Cinematic Universe)|Department of Damage Control]] along with May, Parker, and Ned. Attorney [[Matt Murdock (Marvel Cinematic Universe)|Matt Murdock]] gets Parker's charges dropped, though MJ, Parker, and Ned become infamous, resulting in all their college applications being rejected. In response, Parker consults with [[Stephen Strange (Marvel Cinematic Universe)|Stephen Strange]] about a spell that would help people forget that he is Spider-Man, which Strange casts for him, but the spell is corrupted when Parker makes changes to the spell after Strange has begun casting it in order to exempt his loved ones from it. As a result, several [[List of Spider-Man enemies|Spider-Man foes]] from other universes who know Parker is Spider-Man arrive and attack him as a result of this.
+
+MJ and Ned help Parker track down three of these individuals. After they find out that Strange intends to send them straight back to their realities to certain death, Parker objects and after a struggle, takes the box containing the spell in addition to Strange's sling ring and placing those under MJ and Ned's care, as he opts to restore the villains to their human forms. After learning of May's death by the hands of [[Norman Osborn (Sam Raimi film series)|Norman Osborn's]] alter ego Green Goblin, MJ and Ned uses the sling ring to try and locate Parker but instead find an [[Peter Parker (The Amazing Spider-Man film series)|alternate version]] of Parker (later code-named "Peter-Three") in one attempt and [[Peter Parker (Sam Raimi film series)|another one]] (later code-named "Peter-Two") in another attempt. Ned and MJ find a bereaved Parker on a rooftop and go to comfort him. They then introduce him to his alternate selves, who also comfort him and provide advice.
+
+In a standoff between the Spider-Men and their villains at the [[Statue of Liberty]], Ned and MJ protect the spell box as the Spider-Men battle their enemies together. MJ falls from the statue after a pumpkin bomb from Osborn detonates on the spell box, destabilizing the spell once more and threatening the fabric of reality. Parker tries to save her but is whisked away by Osborn. She is then ultimately saved by Peter-Three, who had lost [[Gwen Stacy (The Amazing Spider-Man film series)|his own girlfriend]] in a similar situation.{{efn|As depicted in ''[[The Amazing Spider-Man 2]]'' (2014).}} Before long, Strange fixes the spell due to Parker requesting the former to erase the latter from everyone's memory, sending the other Spider-Men and their villains back to their universes and preserving space-time. Parker and MJ confess their love for each other and kiss passionately before the spell is completed, but not before she and Ned make Parker promise to find them. Parker later considers reintroducing himself to both MJ and Ned, but ultimately decides not to.
+
+==Reception==
+===Casting controversy===
+[[File:Zendaya - 2019 by Glenn Francis.jpg|thumb|left|185px|Zendaya at the ''Spider-Man: Far From Home'' premiere in 2019]]
+After the announcement of Zendaya's casting, controversy and speculation centered upon the fact that [[Zendaya]], an [[African American]] actress, would be portraying [[Mary Jane Watson]].<ref name=HollywoodReporter/><ref name="msnbc">{{cite web |last1=Howard |first1=Adam |title='Spider-Man' Zendaya casting controversy revives racial tensions |url=https://www.nbcnews.com/news/nbcblk/spider-man-casting-controversy-revives-racial-tensions-n637111|publisher=[[NBC News]]|access-date=September 4, 2020 |language=en}}</ref> Media outlets defended Zendaya over the issue, along with the ''[[Guardians of the Galaxy (film series)|Guardians of the Galaxy]]'' film series director [[James Gunn]] and Mary Jane co-creator [[Stan Lee]] on [[social media]].<ref name="The daily beast">{{cite web |last=Yamato |first=Jen |title=Zendaya, 'Spider-Man Homecoming,' and the Beauty of A Black Mary Jane |url=https://www.thedailybeast.com/zendaya-spider-man-homecoming-and-the-beauty-of-a-black-mary-jane |website=The Daily Beast |access-date=September 4, 2020|language=en|date=August 19, 2016}}</ref><ref name="msnbc"/><ref>{{cite web |last=Tilley |first=Steve |title='Spider-Man: Homecoming': Stan Lee endorses Zendaya as Mary Jane Watson |url=https://torontosun.com/2016/08/23/spider-man-homecoming-stan-lee-endorses-zendaya-as-mary-jane-watson |website=[[The Toronto Sun]]|access-date=August 23, 2016 |language=en |date=August 23, 2016}}</ref> Zendaya responded to the rumors of her character as Mary Jane by ''[[The Hollywood Reporter]]'' in an interview saying: <blockquote>"Whenever we were on set, one of us gets some random character name [on the call sheet]. [Bloggers were] like, "Oh they must be so and so." And we just crack up about it, because it's like, 'Whatever you want to think. You'll find out.' It's funny to watch the guessing game. But of course there's going to be outrage over that because for some reason some people just aren't ready. I'm like, "I don't know what America you live in, but from what I see when I walk outside my streets of New York right now, I see lots of diversity and I see the real world and it's beautiful, and that's what should be reflected and that's what is reflected so you're just going to have to get over it."<ref name=HollywoodReporter/> 
+</blockquote>
+
+Zendaya also confirmed that despite the confusion, she is "100% Michelle" and not Mary Jane as many had speculated.<ref name="MTV">{{cite web |last1=Bell |first1=Crystal |title=Zendaya Says Her Spider-Man Character Is '100 Percent' Michelle, Not Mary Jane |url=http://www.mtv.com/news/video/3010948/zendaya-spider-man-michelle-not-mary-jane/ |website=MTV News |access-date=September 4, 2020 |language=en}}</ref> However Michelle is revealed to be nicknamed "MJ" in ''[[Spider-Man: Homecoming|Homecoming]]'', by which she is known for the entirety of ''Far From Home'', while her full name is revealed to be Michelle Jones-Watson in ''No Way Home'', though she says she goes by Michelle Jones.
+
+===Portrayal reaction ===
+The character of MJ had a positive reception in ''Homecoming'' by film critics, with Zendaya referred to as a "scene stealer" in her first major film role, despite her limited screen-time.<ref name="HR Defore">{{cite web |last1=DeFore |first1=John |title='Spider-Man: Homecoming': Film Review {{!}} Hollywood Reporter |url=https://www.hollywoodreporter.com/review/spider-man-homecoming-review-1017796 |website=www.hollywoodreporter.com |date=June 29, 2017 |access-date=September 3, 2020}}</ref><ref name="Telegraph">{{cite web |last1=Collin |first1=Robbie |title=Spider-Man: Homecoming review: the web-slinger's gizmo-heavy John Hughes homage is too cobwebby for comfort |url=https://www.telegraph.co.uk/films/0/spider-man-homecoming-review-web-slingers-gizmo-heavy-john-hughes/ |archive-url=https://ghostarchive.org/archive/20220111/https://www.telegraph.co.uk/films/0/spider-man-homecoming-review-web-slingers-gizmo-heavy-john-hughes/ |archive-date=January 11, 2022 |url-access=subscription |url-status=live |website=The Telegraph |access-date=September 3, 2020 |date=June 30, 2017}}{{cbignore}}</ref><ref>{{cite web |last1=Duralde |first1=Alonso |title='Spider-Man: Far From Home' Film Review: Tom Holland Goes to Holland -- and Italy and Britain -- in Globe-trotting Marvel Romp |url=https://www.thewrap.com/spider-man-far-from-home-film-review-tom-holland-jake-gyllenhaal-2019/ |website=TheWrap |access-date=September 3, 2020 |date=July 2, 2019}}</ref> Caitlin Busch of ''[[Inverse (website)|Inverse]]''  felt thankful that the character was not Mary Jane Watson and opined that the original character works better for the film.<ref name="Inverse">{{cite web |last1=Busch |first1=Caitlin |title=Zendaya Isn't Mary Jane in 'Spider-Man: Homecoming', She's Better |url=https://www.inverse.com/article/34344-spider-man-homecoming-zendaya-michelle-mary-jane-watson-mj |website=Inverse |access-date=September 4, 2020 |language=en}}</ref>
+
+The character has also received positive feedback from a [[feminism|feminist]] perspective, especially in ''[[Spider-Man: Far From Home]]''. Karen Han of ''[[Polygon (website)|Polygon]]'' felt that the character was a positive representation of strong female characters while additionally ''[[Vanity Fair (magazine)|Vanity Fair]]'' noted how MJ was not portrayed as a warrior like [[Hayley Atwell]]'s [[Peggy Carter (Marvel Cinematic Universe)|Peggy Carter]], [[Lupita Nyong'o]]'s [[Nakia (Marvel Cinematic Universe)|Nakia]] or [[Evangeline Lilly]]'s [[Hope van Dyne]] but also not a damsel and declared her as the "MJ we both need and deserve".<ref name="Polygon">{{cite web |last1=Han |first1=Karen |title=Spider-Man: Far From Home's deadpan take on MJ is the heroine we need |url=https://www.polygon.com/2019/7/5/20683227/spider-man-far-from-home-mj-character-zendaya |website=Polygon |access-date=September 4, 2020 |language=en |date=July 5, 2019}}</ref><ref>{{cite magazine |last1=Robinson |first1=Joanna |title=Spider-Man: Far From Home: Zendaya, the Black Dahlia Murders, and the MJ We Deserve |url=https://www.vanityfair.com/hollywood/2019/07/spider-man-black-dahlia-murder-mj-michelle-zendaya |magazine=Vanity Fair |date=July 2, 2019 |access-date=September 3, 2020 |language=en-us}}</ref> Her personality was reminiscent to [[Daria Morgendorffer]] in ''[[Daria]]'' to some reporters.<ref name="Polygon"/><ref>{{cite web |last1=Paige |first1=Rachel |title=Spider-Man, Zendaya, & The Mary Jane Of It All |url=https://www.refinery29.com/en-us/2019/07/235902/is-zendaya-mj-mary-jane-in-spider-man-movies |website=[[Refinery29]] |access-date=September 3, 2020 |language=en}}</ref> Rachel Leishman of ''[[The Mary Sue]]'' described the MCU version of MJ as extremely important in [[Peter Parker (Marvel Cinematic Universe)|Peter Parker]]'s life.<ref name="Mary Sue">{{cite web |last1=Leishman |first1=Rachel |title=The MCU Version of "MJ" Is Extremely Important |url=https://www.themarysue.com/the-mcu-mj/ |website=www.themarysue.com |date=June 5, 2019 |access-date=September 4, 2020}}</ref>
+
+MJ, alongside Parker and [[Jacob Batalon]]'s [[Ned Leeds (Marvel Cinematic Universe)|Ned Leeds]] were described as a "priceless trio" by Pete Hammond of ''[[Deadline Hollywood]]'' with his review of ''[[Spider-Man: No Way Home]]''.<ref name="trio">{{cite web |last1=Hammond |first1=Pete |title='Spider-Man: No Way Home' Review: The Most Exciting, Surprising And Emotional Spidey Of Them All |url=https://deadline.com/2021/12/spider-man-no-way-home-review-1234890632/ |website=Deadline |access-date=17 December 2021 |date=14 December 2021}}</ref> The relationship between the three characters in the films were noted as more matured by Brian Lowry of [[CNN]].<ref>{{cite web |author=Brian Lowry |title='Spider-Man: No Way Home' finds the sweet spot in Marvel's multiverse |url=https://www.cnn.com/2021/12/14/entertainment/spiderman-no-way-home-review/index.html |website=CNN |date=December 14, 2021 |access-date=17 December 2021}}</ref> Sam Machkovech of [[Ars Technica]] also praised the trio's chemistry noting that in the second film both MJ and Ned had a rivalry with each other of Peter's relationship but in the third film they were ultimately more bonded together.<ref>{{cite web |last1=Machkovech |first1=Sam |title=Review: Spider-Man: No Way Home is the best superhero film of the year |url=https://arstechnica.com/gaming/2021/12/review-spider-man-no-way-home-is-the-best-superhero-film-of-the-year/ |website=Ars Technica |access-date=17 December 2021 |language=en-us |date=15 December 2021}}</ref> The chemistry in ''Spider-Man: No Way Home'' of MJ and [[Tom Holland]]'s Parker was praised by [[RogerEbert.com]]'s Brian Tallerico. Brian opined that the film is the first of the films to let their relationship to shine. He also noted, "she nails the emotional final beats of her character in a way that adds weight to a film that can feel a bit airy in terms of performance."<ref name="Ebert">{{cite web |last1=Tallerico |first1=Brian |title=Spider-Man: No Way Home movie review (2021) |url=https://www.rogerebert.com/reviews/spider-man-no-way-home-movie-review-2021 |website= [[RogerEbert.com]] |access-date=17 December 2021 |language=en}}</ref> Don Kaye of ''[[Den of Geek]]'' also praised the chemistry of MJ with Parker and also noted that both she and Batalon "provide gentle comic relief".<ref>{{cite web |last1=Kaye |first1=Don |title=Spider-Man: No Way Home Review - Tom Holland Soars into the Multiverse |url=https://www.denofgeek.com/movies/spider-man-no-way-home-review/ |website=Den of Geek |access-date=17 December 2021 |date=14 December 2021}}</ref> Jennifer Bisset of ''[[CNET]]'' described her role as much more to do in the third film and also noted of Zendaya's role being gifted of character growth.<ref>{{cite web |last1=Bisset |first1=Jennifer |title=Spider-Man: No Way Home review -- an impossible triumph |url=https://www.cnet.com/news/spider-man-no-way-home-marvel-review-an-impossible-triumph/ |website=CNET |access-date=17 December 2021 |language=en}}</ref> Eli Glasner of [[CBC News]] described "formerly mopey" MJ as having an stronger footing with Parker in the third film.<ref>{{cite web |last1=Glasner |first1=Eli |title=Spider-Man: No Way Home sticks the landing with an emotional epic |url=https://www.cbc.ca/news/entertainment/spider-man-no-way-home-review-1.6285228 |website=[[CBC News]] |access-date=17 December 2021}}</ref>
+
+=== Accolades ===
+Zendaya has received numerous nominations and awards for her portrayal of MJ.
+
+{| class="wikitable sortable"
+|-
+! Year
+! Film
+! Award
+! Category
+! Result
+! Ref(s)
+|-
+| rowspan="2" | 2017
+| rowspan="4" | ''[[Spider-Man: Homecoming]]''
+| rowspan="2" | [[2017 Teen Choice Awards|Teen Choice Awards]]
+| Choice Breakout Movie Star
+| {{nom}}
+| rowspan="2" style="text-align: center;" |<ref>{{cite web|author=Vulpo, Mike|url=https://www.eonline.com/news/873075/teen-choice-awards-2017-winners-the-complete-list|title=Teen Choice Awards 2017 Winners: The Complete List|work=[[E! Online]]|date=August 14, 2017|access-date=September 27, 2022|url-status=live|archive-url=https://web.archive.org/web/20170814105131/https://www.eonline.com/news/873075/teen-choice-awards-2017-winners-the-complete-list|archive-date=August 14, 2017}}</ref>
+|-
+| Choice Summer Movie Actress
+| {{won}}
+|-
+| rowspan="2" | 2018
+| [[2018 Kids' Choice Awards|Kids' Choice Awards]]
+| Favorite Movie Actress
+| {{won}}
+| style="text-align: center;" |<ref>{{cite web|author=<!-- THR Staff -->|url=https://www.hollywoodreporter.com/lists/kids-choice-awards-complete-list-winners-2018-1089562|title=Kids' Choice Awards: Complete List of Winners|work=[[The Hollywood Reporter]]|date=March 24, 2018|access-date=September 27, 2022|url-status=live|archive-url=https://web.archive.org/web/20180325051818/https://www.hollywoodreporter.com/lists/kids-choice-awards-complete-list-winners-2018-1089562|archive-date=March 25, 2018}}</ref>
+|-
+| [[44th Saturn Awards|Saturn Awards]]
+| [[Saturn Award for Best Performance by a Younger Actor|Best Performance by a Younger Actor in a Film]]
+| {{nom}}
+| style="text-align: center;" |<ref>{{cite web|author=McNary, Dave|url=https://variety.com/2018/film/news/saturn-awards-nominations-2018-black-panther-walking-dead-1202727752/|title='Black Panther,' 'Walking Dead' Rule Saturn Awards Nominations|work=[[Variety (magazine)|Variety]]|date=March 15, 2018|access-date=September 27, 2022|url-status=live|archive-url=https://web.archive.org/web/20180316023438/https://variety.com/2018/film/news/saturn-awards-nominations-2018-black-panther-walking-dead-1202727752/|archive-date=March 16, 2018}}</ref>
+|-
+| rowspan="3" | 2019
+| rowspan="4" | ''[[Spider-Man: Far From Home]]''
+| [[2019 Teen Choice Awards|Teen Choice Awards]]
+| Choice Summer Movie Actress
+| {{won}}
+| style="text-align: center;" |<ref>{{cite web|author=<!-- Billboard Staff -->|url=https://www.billboard.com/articles/news/awards/8527134/teen-choice-awards-2019-winners-list|title=Here Are All the Winners From the 2019 Teen Choice Awards|work=[[Billboard (magazine)|Billboard]]|date=August 11, 2019|access-date=September 27, 2022|url-status=live|archive-url=https://web.archive.org/web/20190812042754/https://www.billboard.com/articles/news/awards/8527134/teen-choice-awards-2019-winners-list|archive-date=August 12, 2019}}</ref>
+|-
+| [[45th Saturn Awards|Saturn Awards]]
+| [[Saturn Award for Best Supporting Actress|Best Supporting Actress]]
+| {{won}}
+| style="text-align: center;" |<ref name="Deadline">{{cite web |last1=Boucher |first1=Geoff |title=Saturn Awards: 'Spider-Man' Star Tom Holland Wins For Third Year In A Row |url=https://deadline.com/2019/09/saturn-awards-2019-winners-list-jon-favreau-kevin-feige-stan-lee-1202734450/ |website=Deadline |access-date=September 27, 2022 |date=September 14, 2019}}</ref>
+|-
+| [[45th People's Choice Awards|People's Choice Awards]]
+| Female Movie Star of 2019
+| {{won}}
+| style="text-align: center;" |<ref>{{cite web|author=Malec, Brett|url=https://www.eonline.com/news/1204775/peoples-choice-awards-2020-winners-the-complete-list|title=People's Choice Awards 2020 Winners: The Complete List|work=[[E! News]]|date=November 16, 2020|access-date=September 27, 2022}}</ref>
+|-
+| 2020
+| [[2020 Kids' Choice Awards|Kids' Choice Awards]]
+| Favorite Movie Actress
+| {{nom}}
+| style="text-align: center;" |<ref>{{cite web|author=Ferguson, LaToya|url=https://www.indiewire.com/2020/02/nickelodeon-kids-choice-awards-2020-nominees-chance-the-rapper-hosts-1202211220/|title=Chance the Rapper to Host Nickelodeon's Kids' Choice Awards 2020|work=[[IndieWire]]|date=February 13, 2020|access-date=September 27, 2022|url-status=live|archive-url=https://web.archive.org/web/20200215035736/https://www.indiewire.com/2020/02/nickelodeon-kids-choice-awards-2020-nominees-chance-the-rapper-hosts-1202211220/|archive-date=February 15, 2020}}</ref>
+|-
+| rowspan="5" | 2022
+| rowspan="5" | ''[[Spider-Man: No Way Home]]''
+| [[2nd Critics' Choice Super Awards|Critics' Choice Super Awards]]
+| Best Actress in a Superhero Movie
+| {{nom}}
+| style="text-align: center;" |<ref>{{cite web|url=https://variety.com/2022/awards/news/critics-choice-super-awards-spider-man-1235187084/|title=Critics Choice Super Awards: 'Spider-Man,' 'Justice League' Among Film Nominees; 'Evil,' 'Midnight Mass' Lead TV|website=[[Variety (magazine)|Variety]]|first=Clayton|last=Davis|date=February 22, 2022|accessdate=September 27, 2022}}</ref>
+|-
+| [[2022 Kids' Choice Awards|Kids' Choice Awards]]
+| Favorite Movie Actress
+| {{won}}
+| style="text-align: center;" |<ref>{{Cite web |last=Haring |first=Bruce |date=April 9, 2022 |title=Nickelodeon's Kids' Choice Awards Sets Sliming Record — Winners List |url=https://deadline.com/2022/04/nickelodean-kids-choice-awards-winners-list-1234998189/ |url-status=live |archive-url=https://web.archive.org/web/20220410031044/https://deadline.com/2022/04/nickelodean-kids-choice-awards-winners-list-1234998189/ |archive-date=April 9, 2022 |access-date=September 27, 2022 |website=[[Deadline Hollywood|Deadline]]}}</ref>
+|-
+| [[2022 MTV Movie & TV Awards|MTV Movie & TV Awards]]
+| [[MTV Movie Award for Best Kiss|Best Kiss]]{{efn|Shared with [[Tom Holland]].}}
+| {{nom}}
+| style="text-align: center;" |<ref>{{Cite web |last=Nordyke |first=Kimberly |date=June 5, 2022 |title=MTV Movie & TV Awards: 'Spider-Man: No Way Home,' 'Euphoria' Top Winners List |url=https://www.hollywoodreporter.com/movies/movie-news/mtv-movie-tv-awards-full-winners-list-1235159302/ |url-status=live |archive-url=https://web.archive.org/web/20220606134346/https://www.hollywoodreporter.com/movies/movie-news/mtv-movie-tv-awards-full-winners-list-1235159302/ |archive-date=June 6, 2022 |access-date=September 27, 2022 |website=[[The Hollywood Reporter]]}}</ref>
+|-
+| [[BET Awards 2022|BET Awards]]
+| [[BET Award for Best Actress|Best Actress]]
+| {{won}}
+| style="text-align:center;"|<ref>{{cite web|last=Melas|first=Chloe|date=June 27, 2022|title=BET Awards 2022: See the complete list of winners|url=https://edition.cnn.com/2022/06/26/entertainment/bet-awards-2022-winners-list/index.html|work=[[CNN]]|access-date=June 27, 2022}}</ref>
+|-
+| [[47th Saturn Awards|Saturn Awards]]
+| [[Saturn Award for Best Actress|Best Actress in a Film]]
+| {{pending}}
+| style="text-align:center;"|<ref>{{Cite web |last=Tinoco |first=Armando |date=August 12, 2022 |title=Saturn Awards Nominations: 'The Batman', 'Nightmare Alley', 'Spider-Man', 'Better Call Saul' Top List |url=https://deadline.com/2022/08/saturn-awards-2022-nominations-list-movies-tv-1235089636/ |url-status=live |archive-url=https://web.archive.org/web/20220812202430/https://deadline.com/2022/08/saturn-awards-2022-nominations-list-movies-tv-1235089636/ |archive-date=August 12, 2022 |access-date=September 27, 2022 |website=[[Deadline Hollywood]]}}</ref>
+|}
+
+== In other media ==
+A skin based on Zendaya's portrayal of MJ was added to ''[[Fortnite Battle Royale]]'' in December 2021 to coincide with the release of ''Spider-Man: No Way Home'', along with a skin based on Tom Holland's portrayal of Spider-Man. She is the second Fortnite skin to be based on Zendaya, the first being Chani from ''[[Dune (2021 film)|Dune]]''.<ref name="Fortnite skin"/>
+
+== See also ==
+* [[Characters of the Marvel Cinematic Universe]]
+
+== Notes ==
+{{notelist}}
+
+== References ==
+{{Reflist |refs=
+<ref name="Zendaya1">{{cite magazine |last1=Romano |first1=Nick |title='Spider-Man' director confirms Zendaya character name |url=https://www.ew.com/article/2016/07/24/comic-con-2016-spider-man-zendaya/|magazine=[[Entertainment Weekly]]|access-date=August 30, 2020 |language=en|archivedate=July 25, 2016|archiveurl=https://web.archive.org/web/20160725150454/https://www.ew.com/article/2016/07/24/comic-con-2016-spider-man-zendaya/}}</ref>
+<ref name=HollywoodReporter>{{cite web |last1=Siegel |first1=Tatiana |title=Zendaya Responds to 'Spider-Man' Casting Controversy, Mary Jane Rumors: 'People Are Going to React Over Anything'|url=https://www.hollywoodreporter.com/news/spider-man-homecomings-zendaya-responds-casting-controversy-945316 |website=[[The Hollywood Reporter]]|date=November 9, 2016 |access-date=August 30, 2020}}</ref>
+<ref name="\film">{{cite web |last1=Sciretta |first1=Peter |title='Spider-Man: Homecoming' Set Visit: Everything We Learned – Page 2 of 3 |url=https://www.slashfilm.com/spider-man-homecoming-set-visit/2/ |website=/Film |access-date=September 3, 2020 |date=April 3, 2017}}</ref>
+<ref name="DOG">{{cite web |last1=Crow |first1=David |title=Spider-Man: Homecoming Ending – Kevin Feige Talks Some Surprises |url=https://www.denofgeek.com/movies/spider-man-homecoming-ending-kevin-feige-talks-some-surprises/ |website=Den of Geek |access-date=September 3, 2020 |date=July 8, 2017}}</ref>
+<ref name="Fortnite skin">{{cite web |last1=Kim |first1=Matt |title=Spider-Man: No Way Home Skins are Coming to Fortnite |url=https://www.ign.com/articles/spider-man-no-way-home-fortnite-tom-holland-zendaya-mj |website=IGN |access-date=17 December 2021 |language=en |date=1 November 2021}}</ref>
+}}
+
+==External links==
+* [https://marvelcinematicuniverse.fandom.com/wiki/Michelle_Jones MJ] at Marvel Cinematic Universe Wiki
+* {{Marveldatabase|Michelle Jones (Earth-199999)|MJ}}
+* {{cite web|url=https://meaww.com/spider-man-far-from-home-mj-different-from-predecessors-perfect-zendaya-michele-jones |title=Spider-Man: Far from Home's MJ is vastly different from her predecessors and that's perfect|first1=Remus|last1=Noronha|website=Meaww|date=July 9, 2019}}
+
+{{Marvel Cinematic Universe|selected=Cast}}
+{{Spider-Man films}}
+{{Spider-Man characters}}
+{{Zendaya}}
+
+[[Category:Female characters in film]]
+[[Category:Fictional characters displaced in time]]
+[[Category:Fictional characters from Queens, New York]]
+[[Category:Film characters introduced in 2017]]
+[[Category:Marvel Cinematic Universe original characters]]
+[[Category:Spider-Man (2017 film series)]]
+[[Category:Spider-Man film characters]]
+[[Category:Teenage characters in film]]
+[[Category:Fictional Massachusetts Institute of Technology people]]

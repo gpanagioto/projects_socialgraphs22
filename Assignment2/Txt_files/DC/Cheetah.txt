@@ -1,0 +1,324 @@
+{{short description|DC Comics supervillain}}
+{{Redirect|The Cheetah||Cheetah (disambiguation)}}
+{{Infobox comics character
+| character_name = Cheetah
+| image          = Cheetah_by_artgerm.jpg
+| caption        = Barbara Ann Minerva as the Cheetah on the cover of ''[[Year of the Villain|Year of the Villain Special]]'' #1 (May 2019)<br /><small>Art by Stanley "Artgerm" Lau</small>
+| alt            =
+| publisher      = [[DC Comics]]
+| debut          = {{Plainlist|
+* '''Rich:'''<br />''[[Wonder Woman (comic book)|Wonder Woman]]'' #6 (Autumn 1943)
+* '''Domaine:'''<br />''Wonder Woman'' #274 (December 1980)
+* '''Minerva:'''<br />''Wonder Woman'' (vol. 2) #7 (August 1987)
+* '''Ballesteros:'''<br />''Wonder Woman'' (vol. 2) #170 (July 2001)
+}}
+| first_series   =
+| first_episode  =
+| first_comic    =
+| creators       = {{Plainlist|
+* '''Rich:'''<br />[[William Moulton Marston]]<br />[[H. G. Peter]]
+* '''Domaine:'''<br />[[Gerry Conway]]<br />[[Jose Delbo]]
+* '''Minerva:'''<br />[[Len Wein]]<br />[[George Pérez]]
+* '''Ballesteros:'''<br />[[Phil Jimenez]]<br />[[Joe Kelly (comics writer)|Joe Kelly]]
+}}
+| based_on       =
+| alter_ego      =
+* Priscilla Rich
+* Deborah Domaine
+* Barbara Ann Minerva
+* Sebastian Ballesteros
+| full_name      =
+| species        = <!-- optional -->
+| homeworld      = <!-- optional -->
+| alliances      = {{Plainlist|
+* '''(Rich)'''<br />[[Villainy Inc.]]
+* '''(Domaine, Minerva)'''<br />[[Injustice League]]<br />[[Secret Society of Super Villains]]<br />Super Foes
+* '''(Minerva)'''<br />[[Legion of Doom]]<br />[[Suicide Squad]]
+}}
+| partners       = <!-- optional -->
+| supports       = <!-- optional -->
+| aliases        = <!-- optional -->
+| powers         = {{Plainlist|
+* '''(Sebastian Ballesteros)'''<br />Superhuman powers and physical appearance of a [[cheetah]] granted by the god Urzkartaga
+* '''(Priscilla Rich and Deborah Domaine)'''<br />Acrobatic, gymnastic and martial arts skills
+* '''(Barbara Minerva)'''<br />superhuman strength, high intelligence, endurance, speed, agility, reflexes, senses and hand-to-hand combat skills, and cheetah physiology obtained from the god Urzkartaga
+}}
+| cat            =
+| subcat         =
+| hero           =
+| villain        =
+| sortkey        = Cheetah (comics)
+| addcharcat#    =
+}}
+The '''Cheetah''' is a fictional character appearing in [[DC Comics]] publications and related media, commonly as a major recurring adversary of the superhero [[Wonder Woman]]. Like her nemesis, she was created by [[William Moulton Marston]], originally debuting in the autumn of 1943 in ''[[Wonder Woman (comic book)|Wonder Woman]]'' (volume 1) #6. With her distinctive sleek, spotted appearance, she is recognized as “one of Wonder Woman's most iconic enemies,”<ref>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Manning |first3=Matthew K. |last4=McAvennie |first4=Michael |last5=Wallace |first5=Daniel |title=DC Comics Year By Year: A Visual Chronicle |date=2019 |publisher=DK Publishing |isbn=978-1-4654-8578-6 |page=41}}</ref> and has been featured significantly as a persistent foe throughout every era of the hero's comic book adventures.
+
+There have been four different incarnations of the Cheetah since the character's debut: '''Priscilla Rich''' (the [[Golden Age of Comic Books|Golden]] and [[Silver Age of Comic Books|Silver Age]] Cheetah), '''Deborah Domaine''' (the [[Bronze Age of Comics|Bronze Age]] Cheetah), '''Dr. Barbara Ann Minerva''' (the Post-''[[Crisis on Infinite Earths|Crisis]]'' and current Cheetah), and '''Sebastian Ballesteros''' (a male usurper who briefly assumed the role in 2001). In 2009, The Cheetah was ranked as [[IGN]]'s 69th-greatest comic book villain of all time.<ref>[http://comics.ign.com/top-100-villains/69.html Cheetah is number 69] {{webarchive |url=https://web.archive.org/web/20090510083651/http://comics.ign.com/top-100-villains/69.html |date=May 10, 2009 }}, [[IGN]].</ref>
+
+Since her conception, the Cheetah character has been adapted in various forms of media outside of comics, including animated series, films, and video games. [[Kristen Wiig]] portrayed the Dr. Barbara Ann Minerva version of the character in the 2020 [[DC Extended Universe]] film ''[[Wonder Woman 1984]]'', marking the character's live-action debut.<ref>{{cite news|url=https://www.washingtonpost.com/news/comic-riffs/wp/2018/03/09/kristen-wiig-will-star-in-wonder-woman-sequel-as-the-cheetah-patty-jenkins-confirms/|title=Kristen Wiig will star in 'Wonder Woman' sequel as the Cheetah, Patty Jenkins confirms|date=March 9, 2018|first=David|last=Betancourt|newspaper=The Washington Post}}</ref>
+
+==Publication history==
+{| class="wikitable sortable"
+|-
+! Name
+! First appearance
+! Date of first appearance
+! Created by
+|-
+| Priscilla Rich
+| ''[[Wonder Woman (comic book)|Wonder Woman]]'' #6 (autumn 1943) and ''[[Sensation Comics]]'' #22 (October 1943){{ref|1|1}}
+| October 1943
+| [[William Moulton Marston]] and [[H. G. Peter]]
+|-
+| Deborah Domaine
+| ''Wonder Woman'' #274
+| December 1980
+| [[Gerry Conway]] and [[Jose Delbo]]
+|-
+| Barbara Ann Minerva
+| ''Wonder Woman'' (vol. 2) #7<ref name=Guide>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Korte |first3=Steve |last4=Manning |first4=Matt |last5=Wiacek |first5=Win |last6=Wilson |first6=Sven |title=The DC Comics Encyclopedia: The Definitive Guide to the Characters of the DC Universe |date=2016 |publisher=DK Publishing |isbn=978-1-4654-5357-0 |page=67}}</ref>
+| August 1987
+| [[Len Wein]] and [[George Pérez]]
+|-
+| Sebastian Ballestreros
+| ''Wonder Woman'' (vol. 2) #170
+| July 2001
+| [[Phil Jimenez]] and [[Joe Kelly (comics writer)|Joe Kelly]]
+|}
+
+==Fictional character biography==
+===Golden Age, Silver Age, and Post-Crisis comics history===
+Before the 12-issue DC Comics series ''[[Crisis on Infinite Earths]]'' in 1985 (which is regarded as the starting point for DC's continuity before the 2011 [[New 52]] reboot), there were two women who donned spotted cat costumes to fight Wonder Woman as the Cheetah: socialite Priscilla Rich and her niece Deborah Domaine. While modern incarnations of the Cheetah possess superhuman powers, Rich and Domaine do not.
+
+There are two Post-''Crisis'' Cheetahs: Barbara Ann Minerva and Sebastian Ballesteros, Minerva being the more prominent of the two. While the Pre-''Crisis'' Cheetahs are simply women in costumes, the Post-''Crisis'' Cheetahs have taken on a more mystical note, being champions of a god much as Wonder Woman is to her patrons; actually morphing into powerfully ferocious human-cheetah hybrids with great strength, agility, and deadly claws and fangs which make them challenging opponents to Wonder Woman and other powerful superheroes in battle.
+
+===Priscilla Rich===
+<!-- This section is linked from [[List of DC Comics characters: C]] -->
+[[File:Cheetah_by_Peter.jpg|thumb|left|200px| The [[Golden Age of Comic Books|Golden Age]] Cheetah Priscilla Rich grapples with Wonder Woman on the cover of ''[[Wonder Woman (comic book)|Wonder Woman]]'' vol. 1 #6 (1943); art by [[H.G. Peter|Harry G. Peter]].]]
+The first woman to become the Cheetah is Priscilla Rich, a 1940s-era blonde [[Washington, D.C.]] debutante of aristocratic upbringing who also has an overwhelming inferiority complex and suffers from a split personality.<ref>{{cite book |last1=Jimenez |first1=Phil |last2=Wells |first2=John |title=The Essential Wonder Woman Encyclopedia |date=2010 |publisher=Del Rey |isbn=978-0345501073 |pages=83–85}}</ref> After being eclipsed by Wonder Woman at a charity event and failing to kill her during an [[escapology]] act, Priscilla retreats to her room and collapses before her makeup mirror. There she sees an image of a woman dressed like a cheetah. "Horrors!" she cries, as she gazes at her evil inner-self for the first time. "Don't you know me?" replies the reflection. "I am the REAL you—the Cheetah—a treacherous, relentless huntress!" The image commands her to fashion a costume from a cheetah-skin rug. "From now on," intones the reflection, "when I command you, you shall go forth dressed like your TRUE self and do as I command you..." The Cheetah frames Wonder Woman for a robbery by hiding the money in her apartment and tipping off the police, then sets fire to a warehouse Wonder Woman is in, although the heroine escapes. She is presumed dead, but survives thanks to her fireproof costume. The Cheetah later kidnaps a young [[Extrasensory perception|ESPer]] named Gail and uses the girl's powers to learn U.S. military secrets, which she gives to the Japanese. Wonder Woman manages to thwart the plot and rescue Gail, with the Cheetah warning Wonder Woman to stay out of her affairs. She soon returns when an American military official organizes an athletic competition between female athletes from America and a group of women trained on [[Paradise Island (comics)|Paradise Island]]. Priscilla ties up and gags an Olympic [[high hurdles|high hurdler]] named Kay Carlton, and impersonates her by donning her clothes. Priscilla is able to infiltrate the contest and manages to kidnap Queen [[Hippolyta (DC Comics)|Hippolyta]] and steal her magical girdle. With Hippolyta as her hostage and her own abilities boosted by the girdle, the Cheetah battles Wonder Woman for control of Paradise Island. She is defeated when the Amazon manages to pull the girdle off her. Temporarily freed from the Cheetah's influence, Priscilla asks to remain on Paradise Island until she can learn to control her split personality.<ref>''Wonder Woman'' #6 (October 1943). DC Comics.</ref>
+
+Priscilla's attempt at reformation apparently failed, as she is later seen as a member of [[Villainy Inc.]], a criminal association between several of Wonder Woman's female foes.<ref>''Wonder Woman'' #28. DC Comics.</ref>
+
+[[File:Cheetah_by_Colletta_and_Chan.jpg|thumb|right|175px| Priscilla Rich as the Cheetah on the cover of ''[[Wonder Woman (comic book)|Wonder Woman]]'' vol. 1 #230 (1977); art by [[Vince Colletta]] and [[Ernie Chan]].]]Priscilla has several run-ins with Wonder Woman before giving up her criminal identity and retiring to her North Shore [[Maryland]] mansion. [[Kobra (DC Comics)|Kobra]] attempts to recruit the villainess for his organization. An operative sent to find Priscilla discovers that she is now a reclusive, elderly invalid. Priscilla's niece Deborah Domaine had come at her bidding, and the operative stays to observe. Before Priscilla can unburden herself of having hidden her past as the Cheetah, she dies.<ref name="Wonder Woman #274">''Wonder Woman'' #274. (Dec. 1980). DC Comics.</ref>
+
+DC later relaunched its continuity with the 1985 series ''[[Crisis on Infinite Earths]]'', introducing a new Cheetah for the Modern Age, Barbara Ann Minerva (see below). The original Cheetah, Priscilla Rich, is established as still existing Post-''Crisis'' when [[Hippolyta (DC Comics)|Queen Hippolyta]] becomes the Golden Age Wonder Woman.<ref>''Wonder Woman: Our Worlds at War'' #1 (September 2001). DC Comics.</ref> In the present, she is seen as an elderly woman murdered at Minerva's hands. It is also established that she never became an invalid Post-''Crisis'', as Minerva mentions how Priscilla had written books condemning her when she became the Cheetah. Rich is murdered in her home by Minerva, at the urging of her ally [[Hunter Zolomon|Zoom]]. Zoom theorizes that if Minerva kills Rich, she would solidify herself as the one true Cheetah and thus be a better supervillain.<ref>''The Flash'' #219 (April 2005). DC Comics.</ref>
+
+Following DC's [[The New 52|2011 relaunch]], Rich is [[retconned]] from continuity. "Priscilla Rich" is one of the many aliases that Barbara Ann Minerva uses to commit crimes as the Cheetah.
+
+===Deborah Domaine===
+<!-- This section is linked from [[List of DC Comics characters: C]] -->
+[[File:Cheetah_by_Perez_and_Pollard.jpg|thumb|left|300px| Deborah Domaine as the Cheetah in ''[[Justice League|Justice League of America]]'' vol. 1 #197 (1981); art by [[George Pérez]] and [[Keith Pollard]].]]
+Deborah "Debbie" Domaine was first introduced as the niece of Priscilla Rich. A beautiful young debutante, Debbie feels remorse for her wealthy upbringing and decides to become an ecology activist, meeting Wonder Woman and striking up a friendship with her. Later that same day, Debbie is summoned to her aunt's mansion and finds her there, succumbing to illness before she can reveal her past to Deborah. Kobra's operatives capture Deborah and bring her and Priscilla's Cheetah costume to Kobra's headquarters, where the villain personally questions her: "You didn't know about your aunt's secret life, did you? Well, you'll learn—Since we couldn't have the original, we decided to make do with a recreation. You shall be that recreation, Ms. Domaine". Kobra tortures and brainwashes Debbie and provides her with an updated version of the Cheetah costume. The original suit included a cat-eared cowl and clawed, flat-soled boots. Debbie's version has a V-neck, slit to the sternum, a headband with cat-ears (concealed for the most part beneath her long, auburn hair), and heeled boots. Both costumes include razor-sharp chrome steel nails, painted bright red. "You are my servant, and I, your master. You are the Cheetah!", he cries. "And you will fill the world with terror!". Debbie has several conflicts with Wonder Woman.<ref name="Wonder Woman #274"/>
+
+Debbie also serves as a member of the [[Secret Society of Super Villains]] in a conflict with both the [[Justice League of America]] and the [[Justice Society of America]].<ref>''Justice League of America'' #195. DC Comics.</ref>
+
+Her role as the Cheetah is [[retconned]] out of existence due to the history-altering aftereffects of ''[[Crisis on Infinite Earths]]'' (1985–1986). Debbie still exists Post-''Crisis'', as referenced by a photo in Priscilla Rich's mansion inscribed to "Aunt Priscilla, Love, Debbie".
+
+Following DC's [[The New 52|2011 relaunch]], Deborah Domaine is [[retconned]] from continuity, and her name is merely one of the many aliases that Barbara Ann Minerva uses to commit crimes as the Cheetah.
+
+===Barbara Ann Minerva===<!-- This section is linked from [[List of DC Comics characters: C]] -->
+[[File:Cheetah_by_Perez.jpg|thumb|right|150px| Barbara Ann Minerva debuts as the Cheetah in ''[[Wonder Woman (comic book)|Wonder Woman]]'' vol. 2 #9 (1987); art by [[George Pérez]] and Bruce D. Patterson.]]The third Cheetah is British archaeologist Dr. Barbara Ann Minerva, born as the heiress to a vast fortune in her ancient family seat in [[Nottinghamshire]]. Ambitious, selfish, and severely neurotic, Barbara develops a passion for archaeology that eventually led her to finance an expedition to find a tribe in Africa, which is said to be protected by a female guardian with the powers of a [[cheetah]]. A band of marauders kill the guardian and most of the expedition party. Barbara, with the aid of a tribal priest named Chuma, the caretaker of the ancient plant god Urzkartaga, agrees to become the tribe's new guardian after being told that she would gain immortality. Her powers are conferred to her by ingesting a potion made from human blood and the berries and leaves of Urzkartaga, which gives her orange skin with black spots, a tail and claws, as well as superhuman senses and reflexes.<ref>{{cite book |last =Rovin |first =Jeff |title =The Encyclopedia of Supervillains |publisher =Facts on File |date =1987 |location =New York |isbn = 0-8160-1356-X |page=56}}</ref> Unfortunately for Minerva, the host of the Cheetah persona is intended to be a virgin. Minerva is not, so her [[shapeshifting|transformations]] were part curse and part blessing, as she experiences severe pain and physical disability while in her human form and bloodthirsty euphoria while in her cat form.<ref name="dc-chee2">{{Citation | last = Greenberger | first = Robert | author-link = Robert Greenberger | contribution = Cheetah II | editor-last = Dougall | editor-first = Alastair | title = The DC Comics Encyclopedia | page = 80 | publisher = Dorling Kindersley | place = New York | year = 2008 | isbn = 978-0-7566-4119-1 | oclc = 213309017}}</ref>
+
+This Cheetah was active before Wonder Woman's Post-''Crisis'' appearance, and confronts Catwoman in Rome during the events of ''Batman: Dark Victory'' and ''Catwoman: When in Rome''.
+
+This version of the Cheetah first comes into Wonder Woman's world when Barbara discovers that Diana possesses the [[Lasso of Truth]]. As an archaeologist, Barbara covets the lasso, hoping to add it to her collection of historical items. She first attempts to do so through trickery, claiming that there is a matching ancient [[Golden Girdle of Gaea]] of the same kind from which the lasso was fashioned. Unfortunately, although the scheme proceeds far enough for Minerva to hold the lasso, its magical power to make people tell the truth forces her to confess her true intentions. Diana, profoundly distraught that she would be so treacherous, takes back the lasso and returns home in tears. With the subtle approach having failed, Minerva resorts to attacking the Amazon as the Cheetah in order to rob her of the lasso. Their initial battle ends with inconclusive results, as Diana's friend, [[Julia Kapatelis]], shoots the Cheetah and forces her to retreat.
+
+[[File:Cheetah_by_Byrne.jpg|thumb|left| The Cheetah in ''[[Wonder Woman (comic book)|Wonder Woman]]'' vol. 2 #118 (1996); art by [[John Byrne (comics)|John Byrne]].]]Over the years, Barbara's interest in the lasso wanes and she becomes more interested in besting Diana in battle due to her bruised ego. The rivalry between the Cheetah and Wonder Woman fluctuates over time, however. Wonder Woman saves the Cheetah's life during an adventure in the Balkan country of Pan Balgravia.<ref>''Wonder Woman Special'' (vol. 2) #1 (February 1992). DC Comics.</ref><ref>''Wonder Woman'' (vol. 2) #63 (June 1992). DC Comics.</ref> The country's dictator, Baron von Nastraed, for unknown reasons, chooses to aid a demon named Drax by capturing a powerful [[metahuman]] woman. The captive woman's body would be used to provide a body for Drax's alternate dimension bride Barremargux to inhabit. When the Baron captures the Cheetah for this purpose, Wonder Woman travels to the country to save her. At the last moment, when Barremargux is about to enter [[List of DC Multiverse worlds|Earth-One]], Barbara closes the gateway before the crossing could be completed by jumping into the gateway instead. Barbara is trapped in this demonic dimension until [[Boston]] mob boss Julianna Sazia has her scientists open the dimensional gateway to retrieve Barbara for use as a living weapon. Barbara double-crosses Julianna, choosing to aid Wonder Woman when she is caught up in a war between Sazia and rival mobster Paulie Longo. Considering her debt to Wonder paid, the Cheetah continues her quest to defeat Wonder Woman, but only when it is convenient to her.
+
+For a brief period of time, Minerva loses her powers to businessman Sebastian Ballesteros (see below), who convinces Urzkartaga that he could be a more effective Cheetah than she was. Minerva later kills Ballesteros, offers his remains as a sacrifice, and regains her powers.
+
+The relationship Minerva has with Urzkartaga is strained at times, despite Minerva showing complete deference and loyalty to her patron god. At one point, the god punishes her for her failures by leaving one of Minerva's hands human looking and untransformed even while she is in her Cheetah form, though it appears to still be fully empowered as the rest of her body and equally as deadly. With help from [[Hunter Zolomon|Zoom]], Minerva attains a level of super-speed even greater than she previously possessed. She accomplishes this by murdering Priscilla Rich, who previously went by the alias of the Cheetah, thus seemingly establishing herself as the true Cheetah based on Zoom's own psychological insight. They later join the latest [[Secret Society of Super Villains]] and seem to be engaged in a sexual relationship, though Zoom considers himself to still be married to his former wife.
+
+In the "[[One Year Later]]" storyline, the witch [[Circe (character)|Circe]] places a spell on Minerva that allows her to change her appearance from human to the Cheetah at will, even though she still remains in her Cheetah form in either guise. She also gains control over three actual cheetahs and still possesses her super-speed, which is demonstrated by her ability to steal the golden lasso away from [[Donna Troy]] several times in battle. She is later seen in the ''Justice League of America Wedding Special'', forming a new [[Injustice League]] alongside [[Lex Luthor]] and the [[Joker (character)|Joker]]. She also appears in ''[[Salvation Run]]''. Later still, in ''[[Final Crisis]]: Resist'', she joins forces with [[Checkmate (comics)|Checkmate]] to rebel against [[Darkseid]], and enjoys a brief relationship with [[Snapper Carr]]. In the pages of ''Wonder Woman'', she is revealed as the power behind the [[Secret Society of Super Villains|Secret Society]], having taken responsibility for the creation of [[Genocide (comics)|Genocide]]. She arranges to have her ally [[Doctor Psycho]] take the place of [[Sarge Steel]] as director of the Department of Metahuman Affairs which, in the middle of Genocide's onslaught, she targets for destruction.<ref>''Wonder Woman'' (vol. 3) #26–28 (January–March 2009). DC Comics.</ref>
+
+====The New 52====
+In 2011, DC relaunched its comic books and rebooted its continuity in an initiative called [[The New 52]]. The character was re-made to be a corrupt image and antecedent to Wonder Woman and the ideals she represents. Barbara Ann Minerva (having used several aliases that happen to be the names of various incarnations of the character) is given a revised backstory: she is established as an ally of Wonder Woman's due to her knowledge of dangerous relics, and having previously grown up in an all-woman commune called "Amazonia". In the possession of a dagger once belonging to a lost tribe of Amazons, she accidentally cut herself on it. This caused her to become possessed by the "Goddess of the Hunt", transforming her into a human-cheetah hybrid. Her claws transform Superman into a cheetah-like being when she scratches him. The origin of the Cheetah is dated back to the Sun Tribe, who for centuries had hunted alongside the cheetahs. Every generation, one of their members is chosen to become the host of the Goddess of the Hunt, until one day a hunter killed the current host; the knife used to kill her was cursed until it fell into the hands of Minerva. The Cheetah is subdued by the Justice League and placed in Belle Reve. However, once there, she makes contact with someone telling him she is where he requested, implying her capture was staged as a part of a bigger plan.<ref name=jl13>[[Johns, Geoff]] (w), [[Lee, Jim]] (p), [[Scott Williams (comics)|Williams, Scott]] (i). ''Justice League'' (vol. 2) #13 (December 2012). DC Comics.</ref>
+
+During the "[[Forever Evil]]" storyline, Cheetah's mysterious benefactor is revealed to be the [[Crime Syndicate of America|Crime Syndicate]] to join the Secret Society of Super Villains.<ref>''Justice League'' (vol. 2) #14. DC Comics.</ref> [[Psi (comics)|Psi]] shares a vision with [[Steve Trevor]] showing Cheetah in possession of Wonder Woman's lasso and hiding out in Central Park.<ref>''Forever Evil: A.R.G.U.S.'' #4. DC Comics.</ref> When Steve Trevor and [[Killer Frost]] arrive in Central Park to look for the Cheetah, they end up being ambushed by the Cheetah and her Menagerie (consisting of [[Elephant Man (comics)|Elephant Man]], [[Hellhound (comics)|Hellhound]], [[Lion-Mane]], Mäuschen, [[Angel and the Ape|Primeape]], and [[Zebra-Man]]). The Cheetah manhandles Trevor using Wonder Woman's lasso. Steve Trevor manages to overcome the lasso and explains that only Diana could use it, as she was herself truthful and pure. As the Cheetah is not that, Trevor manages to get the lasso off and onto the Cheetah. While Killer Frost escapes and freezes the Cheetah's Menagerie, Steve Trevor knocks the Cheetah out.<ref>''Forever Evil: A.R.G.U.S.'' #5. DC Comics.</ref>
+
+====DC Rebirth====
+After the events of [[DC Rebirth]], the Cheetah's origin was altered once more. As a young girl, Barbara Ann Cavendish enjoyed mythology and showed an affinity for languages. Her father disparaged her interest in mythology, deriding it as childish. In defiance of her father, her passion for myth and legend remained and as an adult, she changed her surname to Minerva in honor of her late mother. By age 26, she had mastered seven languages and earned two PhDs in archaeology. On a dig in Ukraine, she discovered proof of the existence of the Amazons, but the dig site collapsed and was abandoned. Minerva was able to take photos before the collapse and continued her investigation until she found herself at a dead end when she reached a seemingly deserted island in the [[Black Sea]].<ref>''Wonder Woman'' (vol. 5) #8 (October 2016). DC Comics.</ref> After Princess Diana of the Amazons returned U.S. Navy SEAL Steve Trevor to the United States, the Navy assigned Dr. Minerva to translate for Diana as she spoke only the Amazonian language. Minerva became close friends with Diana and her minder, Lt. [[Etta Candy]], and with her help, Diana learned English and several other languages.<ref>''Wonder Woman'' (vol. 5) #6 (September 2016). DC Comics.</ref> After the war god Ares attacks the naval base where Diana is staying and several of the Olympian Gods (in the forms of animals) assist Diana in defeating him,<ref>''Wonder Woman'' (vol. 5) #14 (March 2017). DC Comics.</ref> Minerva became even more obsessed with the divine. Seeking out proof of other deities, Minerva learns of Urzkartaga and obtains funding for an expedition to the fictional African nation of Bwunda from industrialist [[Veronica Cale]]. Unbeknownst to Minerva, Cale was acting on behalf of the sons of Ares, [[Children of Ares|Deimos and Phobos]], who intend to turn Minerva into a demigod like Diana so she can help them locate Themyscira. Diana provides Minerva with a [[Wayne Enterprises]] GPS signaling device in case she needed help, which [[Doctor Cyber]], a secret ally of Ares, remotely disabled. As a result, Wonder Woman was unable to prevent Minerva from being "wed" to Urzkartaga and undergoing a ritual to become the Cheetah.<ref>''Wonder Woman'' (vol. 5) #18 (May 2017). DC Comics.</ref> Blaming Diana for letting her be transformed into a beast consumed by bloodlust and cannibalistic urges, the Cheetah joined Cale's Godwatch group.
+
+Years later, Wonder Woman traveled to Bwunda in search of her old friend. She was met with aggression from the Cult of Urzkartaga, a pack of were-hyenas, and ultimately the Cheetah herself. The battle continued until Wonder Woman revealed to the Cheetah that she was unable to locate Themyscira and needed her enemy's help.<ref>''Wonder Woman'' (vol. 5) #1 (August 2016). DC Comics.</ref> In exchange for Minerva's assistance in finding Themyscira, Wonder Woman agreed to kill Urzkartaga in order to restore Minerva's humanity. The pair battled their way through Urzkartaga's Bouda (were-hyena) minions and defeated Andres Cadulo, a worshiper of Urzkartaga that planned to sacrifice Steve Trevor to the plant god.<ref>''Wonder Woman'' (vol. 5) #5 (September 2016). DC Comics.</ref> Minerva then learned that she had not been turned into the Cheetah because she wasn't a virgin, which turned out to be a lie told to her by Urzkartaga. The Cheetah and the women before her were actually his wardens, charged with keeping the evil plant god imprisoned. Cheetah used the Lasso of Truth to bind the plant god back into a harmless plant form and prevent his escape. She then became human once again, and agreed to help Wonder Woman find her way back to Paradise Island.
+
+Shortly thereafter, Minerva and Etta Candy, who at that point were in a loving relationship,<ref>''Wonder Woman'' (vol. 5) #15 (March 2017). DC Comics.</ref><ref>''[https://www.dccomics.com/characters/etta-candy Etta Candy at dccomics.com]''</ref> were attacked by Godwatch. After reuniting with Steve Trevor, Minerva and Candy were again attacked by Godwatch, and Minerva ultimately surrendered to them in the hopes of reasoning with Cale. Cale, having taken possession of the Urzkartaga plant, threatened to have Candy and Trevor killed unless Minerva agreed to become the Cheetah again.<ref>''Wonder Woman'' (vol. 5) #17 (April 2017). DC Comics.</ref> Cale then flew them and her daughter Isadore (whose soul the sons of Ares had stolen to force Cale to do their bidding) to the island in the Black Sea that Minerva had mistaken for Themyscira. Wonder Woman and Trevor arrived and fought the Cheetah and Cale until Diana's blood opened a gateway to Ares' prison. Diana, Cale, and Isadore went through the gateway, leaving the Cheetah and Trevor behind.<ref>''Wonder Woman'' (vol. 5) #21 (June 2017). DC Comics.</ref> By the time they returned, the Cheetah had gone into hiding, only coming out when everyone had left. Approaching the gate to Ares' prison, she begged to be let in but was rebuffed. Enraged by the gods' rejection, the Cheetah swore revenge against them and the Amazons. She later went to Cale's home and, stating that she is content with being the Cheetah, attacks Cale. Diana intervenes and subdues her, but the Cheetah escapes custody shortly thereafter, her friendship with Diana broken for good.<ref>''Wonder Woman'' (vol. 5) #24 (August 2017). DC Comics.</ref>
+
+Shortly after, [[Lex Luthor]] recruited the Cheetah into his new [[Legion of Doom]]. She accompanied Luthor, the [[Joker (character)|Joker]], [[Sinestro]], [[Black Manta]], and [[Gorilla Grodd]] as they ambushed [[Vandal Savage]]'s hideout.<ref>''Justice League'' #1 (2018). DC Comics.</ref> As a member of the Legion of Doom, Cheetah hunted down and killed the sea god [[Poseidon (DC Comics)|Poseidon]].<ref>''Justice League'' #8 (2018). DC Comics.</ref> She was later given the mythical "God Killer", a sword able to kill even the strongest of the Olympian Gods. She used the God Killer to strike down Wonder Woman's patron goddess [[Olympian Gods (DC Comics)|Aphrodite]].<ref>''Wonder Woman'' #77 (2019). DC Comics.</ref>
+
+===Sebastian Ballesteros===<!-- This section is linked from [[List of DC Comics characters: C]] -->
+[[File:TheMaleCheetah.png|thumb|upright|Sebastian Ballesteros as the fourth Cheetah from ''Wonder Woman'' (vol. 2) #171 (August 2001)<br /><small>Art by [[Phil Jimenez]]</small>]]
+Argentine business tycoon '''Sebastian Ballesteros''' becomes the fourth Cheetah, as well as the only male Cheetah. He is an agent of the Amazon's enemy, [[Circe (character)|Circe]], as well as her lover. He seeks the plant god '''Urzkartaga''' to become a new version of the Cheetah, a supernatural cat-creature like Barbara Ann Minerva. Appealing to the plant god's ego, Sebastian makes the case that the previous Cheetahs have failed in their actions and that a male Cheetah could be superior. Once Urzkartaga is convinced, Barbara Ann Minerva's access to the Cheetah is cut off and Sebastian is given the power in her place. Later, Sebastian proves responsible for turning Wonder Woman's old friend, Vanessa Kapatelis, into the third [[Silver Swan (comics)|Silver Swan]]. Angered at the loss of her powers, Barbara Ann Minerva eventually battles Ballesteros for control of the power of the Cheetah by becoming the temporary host of [[Tisiphone]], one of the [[Erinyes|Eumenides]] or Furies. Minerva accesses this new power by stealing it from the Furies' former host, Helena Kosmatos, the Golden Age [[Fury (DC Comics)|Fury]]. This does not assist her in regaining the right to become the Cheetah. Ultimately (off-panel) Minerva finally kills Sebastian in his human form, regaining her Cheetah form as a result. She is later seen giving his blood to the Urzkartaga plant as a sacrifice.<ref name="dc-chee3">{{Citation | last = Greenberger | first = Robert | author-link = Robert Greenberger | contribution = Cheetah III | editor-last = Dougall | editor-first = Alastair | title = The DC Comics Encyclopedia | page = 80 | publisher = [[Dorling Kindersley]] | place = New York | year = 2008 | isbn = 978-0-7566-4119-1 | oclc = 213309017}}</ref>
+
+Like Rich and Domaine, DC appeared to remove Ballesteros from continuity in the wake of its [[The New 52|2011 reboot]]. In the ''Justice League'' comics, the name ''Sabrina Ballesteros'' is shown to be one of many aliases that Barbara Ann Minerva uses to commit crimes as the Cheetah.
+
+==Powers and abilities==
+The Barbara Ann Minerva and Sebastian Ballesteros incarnations of the Cheetah exhibit similar abilities. Their basic attributes consist of enhanced strength and speed well beyond that of the most powerful felines, as well as heightened senses of smell and hearing for hunts and night vision for stealth. Their reflexes and agility are similarly augmented, allowing them superior gymnastic abilities for inhuman mobility. These superhuman traits allow them to challenge Wonder Woman in physical battles. Additionally, their fangs and claws are preternaturally sharp and strong. (While the two more modern incarnations of the Cheetah possess superhuman powers, the earlier versions of Priscilla Rich and Deborah Domaine do not.)
+
+Originally only able to change during a full moon and remaining weak and frail in her human body, Barbara Ann Minerva was chemically enhanced by the sorceress Circe to remain in her Cheetah body indefinitely and change at will. This also gave her dominion over all species of felines. In ''The New 52'' continuity, Barbara Ann Minerva is shown to pierce Superman's invulnerable skin with her fangs just as easily as if he were human. Additionally, her bite transfers some of her powers into her victims, turning them into bestial human-feline hybrids under her control.
+
+==Other versions==
+===''DC: The New Frontier''===
+An alternate version of the Cheetah (Priscilla Rich) briefly appears in the final issue of ''[[DC: The New Frontier]]''.
+
+===''Wonder Woman: The Blue Amazon''===
+Another alternate version of the Cheetah appears in ''[[Wonder Woman: The Blue Amazon]]'' as an experiment by [[Paula von Gunther]].
+
+===''JLA/Avengers''===
+The Cheetah appears briefly as a supervillain under the control of [[Krona (comics)|Krona]] fighting [[Tigra]].
+
+===''Wednesday Comics''===
+A modernized version of Priscilla Rich appears as one of the primary antagonists of the Wonder Woman feature in ''[[Wednesday Comics]]''. Here, she is portrayed as a young archaeologist from a wealthy Baltimore family who relies on enchanted artifacts to grant her superhuman abilities. She initially befriends a young Diana (before she has become Wonder Woman) after meeting her, but soon reveals her treacherous nature when she kidnaps Diana's friend [[Etta Candy|Etta]] and uses her as bait for a trap set by [[Doctor Poison]]. In the end, both Priscilla and Poison are defeated by Wonder Woman.
+
+===''Justice''===
+The Priscilla Rich version of the Cheetah appears as a member of the [[Legion of Doom]] in [[Alex Ross]]'s ''[[Justice (DC Comics)|Justice]]'' maxiseries. Here, she is shown to have fashioned her costume from the fur of her pet cheetahs, which she violently killed and skinned in an ancient ritual (likely reminiscent of the Barbara Ann Minerva version). This version also appears to have retired at some point before the events of the series, as Wonder Woman mentions that Priscilla returned to the side of the "Dark Gods" and having been friends with her at some point. She is first seen at the opening of the series as one of the many supervillains suffering from nightmares about the end of the world, and the Justice League's inability to stop it. Priscilla reappears in issue #4, attending a peace conference held by Wonder Woman with her cheetahs, but kills them once in her hotel room before performing an ancient ritual and donning a costume made from their pelts. When Wonder Woman leaves the conference, the Cheetah attacks her in the hall, slashing her several times before she escapes. It is later revealed over the course of the series that the Cheetah's claws were infected with centaur's blood, which was turning Diana back into clay. Priscilla's attack is apparently the most successful, as Wonder Woman was slowly crumbling up to the point that her face had become black and cracked by the time the Justice League attacked the Hall of Doom, relying on the powers of her lasso to keep her from crumbling apart. It is mentioned by a citizen that the Cheetah ruled over a city filled with those deemed "ugly" by society. After the League attacks the Legion of Doom, Priscilla is one of the few supervillains to escape the initial attack, retreating to her city in wait for Wonder Woman. When Diana follows the Cheetah with several other JLA members, they quickly realize the Cheetah is stalking them and Wonder Woman tells them to leave so she can face Priscilla herself. Almost immediately after they leave, the Cheetah ambushes Wonder Woman, who removes her protective mask to expose that the Cheetah's centaur's blood had almost killed her. Diana tells the Cheetah that she has lost all patience for her before violently slamming her head into Priscilla's, breaking her Cheetah mask in half and knocking Priscilla out.
+
+===Wonder Woman: "Odyssey"===
+A version of the Cheetah appears in the "Odyssey" storyline, which involves the Gods altering Diana's history so that Themyscira was destroyed when she was a child. The new Cheetah is created from the corpse of a murdered Amazon after it is lowered into a mystical restoration pit and infused with the spirit of Magaera by the Morrigan (the villains who are hunting Wonder Woman). Alongside new versions of [[Artemis of Bana-Mighdall|Artemis]] and [[Giganta]] (both of whom are also created from dead Amazons), the new Cheetah is tasked with hunting down and killing Wonder Woman.<ref>''Wonder Woman'' #606 (February 2011) DC Comics</ref> After tracking down the safehouse where Diana lives with the last surviving residents of Themyscira, Cheetah brutally ambushes and slays a young Amazon as she steps outside. The Cheetah is then shown carrying the woman's body away from the scene, muttering about how she too will be reborn soon.<ref>''Wonder Woman'' #607 (March 2011). DC Comics.</ref>
+
+==="Flashpoint"===
+In the alternate timeline of the 2011 "[[Flashpoint (comics)|Flashpoint]]" storyline, the Cheetah joined with [[Wonder Woman]]'s [[Female Furies|Furies]].<ref>''Flashpoint: Wonder Woman and the Furies'' #2 (July 2011). DC Comics.</ref> After the Furies attack [[Grifter (comics)|Grifter]] and the Resistance, the Cheetah is eaten by [[Etrigan the Demon|Etrigan]].<ref>''Flashpoint: Lois Lane and the Resistance'' #2 (July 2011). DC Comics.</ref>
+
+===''Injustice: Gods Among Us''===
+The Barbara Ann Minerva version of the Cheetah appears in ''[[Injustice: Gods Among Us]]'' comic; she was in the supervillains' bar World's End in Keystone City, watching another villain play darts when the [[Flash (Barry Allen)|Flash]] and [[Wonder Woman]] suddenly burst in. The Cheetah is in disbelief, her claws ready, though Wonder Woman says they are only here for the [[Mirror Master]] and do not want trouble. When the Cheetah approaches menacingly, asking, "And what if ''we'' want trouble?". Wonder Woman advises her against it, revealing the rest of the [[Justice League]] is outside and the Cheetah backs off. She is also a playable character in ''[[Injustice 2]]''.<ref>{{cite web|title=Cheetah|url=https://www.injustice.com/characters/cheetah|website=Injustice 2|access-date=20 November 2017}}</ref>
+
+===''Scooby-Doo Team-Up''===
+In the digital-first crossover with the cast of ''[[Scooby-Doo]]'', the Cheetah disguised herself as a ghost to attack the [[Hall of Justice (comics)|Hall of Justice]] alongside the rest of the Legion of Doom. Together, the Legion captured and shrank each member of the Super Friends until only [[Fred Jones (Scooby-Doo)|Fred]], [[Daphne Blake|Daphne]], [[Velma Dinkley|Velma]], [[Shaggy Rogers|Shaggy]], and [[Scooby-Doo (character)|Scooby-Doo]] were left. Scooby and his gang were able to hold off the Legion of Doom until the miniature Super Friends broke free from their captivity. After Scooby and Shaggy became [[Sinestro Corps|Yellow Lanterns]] and restored the Super Friends to their normal size, the Cheetah and the rest of the Legion of Doom were defeated.<ref>''Scooby-Doo Team-Up'' #11-12 (2014). DC Comics.</ref>
+
+===''Sensation Comics Featuring Wonder Woman''===
+The Cheetah appears in several stories in the anthology series ''Sensation Comics Featuring Wonder Woman''. She battles Wonder Woman briefly in "Taketh Away", where it was revealed Doctor Psycho had been telepathically controlling Wonder Woman.<ref>''Sensation Comics Featuring Wonder Woman'' #2. DC Comics.</ref> In "Generations", she seeks out a mythical [[Phoenix (mythology)|phoenix]] egg which is said to grant immortality. After a lengthy battle with Wonder Woman, the Cheetah retreats.<ref>''Sensation Comics Featuring Wonder Woman'' #6. DC Comics.</ref> In "The Problem with Cats", a little girl plays with her sister's dolls, one of which is dressed up to look like the Priscilla Rich version of the Cheetah.<ref>''Sensation Comics Featuring Wonder Woman'' #9. DC Comics.</ref> In "Island of Lost Souls", Barbara Ann Minerva requests help from Wonder Woman to retrieve the plant to save the Cheetah's life.<ref>''Sensation Comics Featuring Wonder Woman'' #17. DC Comics.</ref>
+
+===''Wonder Woman '77''===
+An illusion of Priscilla Rich appears in the second story arc of the comic book based on the ''[[Wonder Woman (TV series)|Wonder Woman]]'' TV series, though she never had any appearances in that television series. She, along with several other enemies, was created by Doctor Psycho in order to battle Wonder Woman. The Cheetah exclaims, "I've waited decades for this moment", implying that she had battled Wonder Woman in the 1940s.<ref>''Wonder Woman '77'' #6 (April 2015). DC Comics.</ref> Later in the series, Barbara Ann Minerva becomes the Cheetah in an origin similar to that of her ''New 52'' counterpart. Her source of power is revealed to come from the Egyptian goddess [[Mafdet]].<ref>''Wonder Woman '77'' #7 (August 2015). DC Comics.</ref> After a battle with Wonder Woman, she is taken into custody.<ref>''Wonder Woman '77'' #9 (September 2015). DC Comics.</ref> Later, she reappears having escaped imprisonment. The Cheetah convinces [[Clayface]] to attack Wonder Woman in order to restore his health.<ref>''Wonder Woman '77'' #14 (February 2016). DC Comics.</ref> The Cheetah is then seen working alongside the [[Riddler]], [[Killer Croc]], Clayface, and [[Mr. Freeze]] as part of [[Ra's al Ghul]]'s [[League of Shadows]]. Together, the group ambushes Wonder Woman, Batman, Catwoman, Batgirl, and Nightwing in [[Arkham Asylum]].<ref>''Batman '66 Meets Wonder Woman '77'' #1 (2017). DC Comics.</ref>
+
+===''The Legend of Wonder Woman''===
+Priscilla Rich appears in this alternate re-telling of Wonder Woman's origin as an ally of the [[Nazi Party]]. She is mentioned as being a supplier for Germany's "extravagant needs".<ref>''The Legend of Wonder Woman'' #19 (March 2016). DC Comics.</ref>
+
+===''Superman: American Alien''===
+Barbara Ann Minerva appears in ''Superman: American Alien'' as a young socialite aboard a birthday yacht intended for [[Bruce Wayne]]. There, she meets [[Superman|Clark Kent]], and the two begin a brief romantic fling. She expresses interest in becoming an archaeologist, a nod to her main DC counterpart.<ref>''Superman: American Alien'' #3. DC Comics.</ref>
+
+===''Wonder Woman: Dead Earth''===
+A mutated Barbara Ann Minerva appears in the dystopian miniseries ''Wonder Woman: Dead Earth''.<ref>{{Cite web|date=2019-11-27|title=WONDER WOMAN: DEAD EARTH #1|url=https://www.dccomics.com/comics/wonder-woman-dead-earth-2019/wonder-woman-dead-earth-1|access-date=2020-07-02|website=DC|language=en}}</ref> After waking up from a centuries-long sleep in a ravaged Earth, Diana is forced into a [[gladiator]] fight against Barbara in a colony of survivors. Diana manages to bring Barbara to her consciousness and stop the fight, also keeping the Cheetah from attacking the people who tortured her. Barbara escapes and later returns with Pegasus to rescue Wonder Woman from a devastated [[Themyscira (DC Comics)|Themyscira]].
+
+==In other media==
+===Television===
+* The Priscilla Rich incarnation of the Cheetah appeared in ''[[Challenge of the Super Friends]]'', voiced by Marlene Aragon. This version is a member of the [[Legion of Doom]] and primarily makes minor appearances. In the episode "The Secret Origins of the Super Friends", the Legion of Doom travel back in time to eliminate [[Superman]], [[Hal Jordan|Green Lantern]], and [[Wonder Woman]] before the three can become heroes. When the villains arrive at Paradise Island moments before Princess Diana will compete in a tournament and become Wonder Woman, Cheetah disguises herself as an Amazon to compete. Eventually, Cheetah defeats Diana and becomes the new '''Wonder Woman''', with her victory erasing the present Diana from the timeline. However, the remaining Super Friends uncover the scheme and travel back in time themselves to undo the damage, with the [[Flash (Barry Allen)|Flash]] using his speed to defeat Cheetah.
+* The Priscilla Rich incarnation of the Cheetah appears in the ''[[Super Friends (1980 TV series)|Super Friends]]'' episode "Revenge of Doom", in which she reunites with the Legion of Doom.
+* An amalgamated version of the Cheetah appears in ''[[Batman: The Brave and the Bold]]'', voiced by [[Morena Baccarin]]. This version is stated to be Barbara Ann Minerva and was empowered by the god Urzkartaga, though her design is based on Priscilla Rich. In the episode "Triumvirate of Terror", she collaborates with [[Lex Luthor]] and the [[Joker (character)|Joker]] to defeat [[Batman]], Superman, and Wonder Woman, only to be defeated by the heroes. Cheetah also makes a cameo appearance in the series finale "Mitefall!", being hit on by [[Booster Gold]] at the wrap party.
+* The Barbara Ann Minerva incarnation of the Cheetah appears in the ''[[Super Best Friends Forever]]'' short "Name Game".
+* The Priscilla Rich incarnation of the Cheetah appears in the title sequence of the "DC Super Pets" segment of ''[[DC Nation Shorts]]'' while her pet cheetah, Chauncey, appears in the short "Have Your Cake and B'Dg Too".
+* The Priscilla Rich incarnation of the Cheetah appears in the 2015 animated special "[[DC Super Friends]]", voiced by [[Blaze Berdahl]].
+* The Barbara Ann Minerva incarnation of the Cheetah appears in the ''[[DC Super Hero Girls]]'' franchise's related media.
+** Minerva first appears in the 2015 web series of the same name, voiced by [[Ashley Eckstein]]. This version is a student at Super Hero High with an antagonistic attitude towards Wonder Woman and her classmates, though she often helps them during fights.
+** Minerva also appears in the 2019 television series [[DC Super Hero Girls (TV series)|of the same name]], voiced by [[Tara Strong]]. This version is a wealthy teenage high school student who uses the civilian nickname "'''Barbi'''" and, unlike other versions of the character, can control her transformations at will and does not speak while transformed, growling and snarling instead. She becomes jealous of Diana Prince's popularity and attempts to cast a curse on her using a golden cat idol, only to accidentally curse herself and become the Cheetah.
+* The Barbara Ann Minerva incarnation of the Cheetah makes a non-speaking appearance in the ''[[Justice League Action]]'' short "Quality Time". She battles the [[Justice League]] alongside [[Poison Ivy (character)|Poison Ivy]], [[Carol Ferris|Star Sapphire]], and Ember.
+
+==== DC Animated Universe ====
+The Barbara Ann Minerva incarnation of the Cheetah appears in series set in the [[DC Animated Universe]], voiced by [[Sheryl Lee Ralph]]. This version is a former scientist who was involved in valuable genetic research. As her funding was running out and she found no test subjects for her experiments, she tested her theories on herself, causing her to mutate into a human-cat hybrid. Shunned by the scientific community for her recklessness and ostracized by humanity as a freak, she turned to crime to fund further research to undo the change.
+* Minerva first appears in the ''[[Justice League (TV series)|Justice League]]'' episode "Injustice for All", in which she becomes a member of [[Lex Luthor]]'s [[Injustice Gang]]. They succeed in capturing [[Batman]], but he realizes Cheetah is not like the others and offers her a way out in exchange for helping him defeat Luthor. However, Cheetah hesitates just as the [[Ultra-Humanite]] betrays the Injustice Gang. Luthor blames Cheetah before the [[Joker (character)|Joker]] knocks her out and [[Solomon Grundy (character)|Solomon Grundy]] takes her away to kill her. Despite this, an animation error causes the Cheetah's existence to remain intact.<ref>{{cite web|title=Cheetah|url=http://jl.toonzone.net/cheetah/cheetah.htm|archive-url=https://web.archive.org/web/20180703075321/http://jl.toonzone.net/cheetah/cheetah.htm|archive-date=2018-07-03|access-date=2011-01-15}}</ref>
+* In the ''[[Justice League Unlimited]]'' episode "Kid Stuff", the Cheetah fights Wonder Woman while committing a bank robbery. As of the season three episode "I Am Legion", she has joined [[Gorilla Grodd]]'s [[Secret Society of Super Villains|Secret Society]].
+
+===Film===
+==== Animation ====
+* The Barbara Ann Minerva incarnation of the Cheetah briefly appears in ''[[Wonder Woman (2009 film)|Wonder Woman]]''.
+* An unidentified version of the Cheetah makes a cameo appearance in the ending of ''[[Justice League: The New Frontier]]''.
+* The Barbara Ann Minerva incarnation of the Cheetah appears in ''[[Superman/Batman: Public Enemies]]''.
+* An Australian version of Barbara Ann Minerva / Cheetah appears in ''[[Justice League: Doom]]'', voiced by [[Claudia Black]].<ref>{{Cite web | url=http://www.worldsfinestonline.com/news.php/news.php?action=fullnews&id=1135 | title=The World's Finest - the #1 DC Animation Resource}}</ref> She joins [[Vandal Savage]]'s [[Legion of Doom]] to kill Wonder Woman using a poison that causes the latter to see everyone around her as Cheetah in the hopes of making her overexert herself until she dies of either exhaustion or an intervening force. However, [[Cyborg (DC Comics)|Cyborg]] manages to cure Wonder Woman in time. Cheetah later attempts to betray Savage until the [[Justice League]] storm the Hall of Doom. Cheetah fights Wonder Woman once more, but is eventually defeated.
+* The Barbara Ann Minerva incarnation of the Cheetah appears in ''[[JLA Adventures: Trapped in Time]]'', voiced by [[Erica Luttrell]]. This version is a member of the Legion of Doom.
+* The Barbara Ann Minerva incarnation of the Cheetah appears in the ''[[Batman Unlimited]]'' franchise's related media.
+** She first appears in ''[[Batman Unlimited: Animal Instincts]]'', voiced by [[Laura Bailey (voice actress)|Laura Bailey]].<ref>{{cite web|url=https://twitter.com/SuperPRGuy/status/581155015408111616|title=Gary Miereanu on Twitter}}</ref> This version is a member of the [[Penguin (character)|Penguin]]'s "Animalitia".
+** Minerva also makes a cameo in ''[[Batman Unlimited: Mechs vs. Mutants]]''.
+* The Barbara Ann Minerva incarnation of the Cheetah appears in the [[Lego]] film ''[[Lego DC Comics Super Heroes: Justice League – Attack of the Legion of Doom]]'', voiced by [[Cree Summer]].<ref>{{cite web|url=http://www.ign.com/articles/2015/05/28/lego-dc-comics-super-heroes-justice-league-attack-of-the-legion-of-doom-trailer-debut|title=LEGO DC Comics Super Heroes – Justice League: Attack of the Legion of Doom! Trailer Debut|first=Jim|last=Vejvoda|date=28 May 2015}}</ref> This version is a member of the Legion of Doom.
+* The Barbara Ann Minerva version of the Cheetah appears in films set in the [[DC Animated Movie Universe]]:
+** Cheetah appears as a member of the Legion of Doom in ''[[Justice League vs. Teen Titans]]'' and ''[[The Death of Superman (film)|The Death of Superman]]''.<ref>{{cite web|url=http://www.comicbookresources.com/article/watch-legion-of-doom-attacks-in-exclusive-justice-league-vs-teen-titans-clip|title=WATCH: Legion of Doom Attacks in Exclusive "Justice League vs Teen Titans" Clip|date=2016-03-29}}</ref>
+** Cheetah appears in ''[[Wonder Woman: Bloodlines]]'', voiced by [[Kimberly Brooks]]. By this film, she became a member of [[Villainy Inc.]]<ref>{{cite web|url=https://www.cbr.com/wonder-woman-bloodlines-synopsis-art-cast/amp/|title=Wonder Woman Bloodlines Gets Synopsis, Art, Voice Cast|website=comicbookresources|date=July 29, 2019|access-date=August 15, 2019}}</ref>
+** Cheetah makes a non-speaking appearance in ''[[Justice League Dark: Apokolips War]]''. Having survived [[Darkseid]]'s assault on Earth two years prior, she became a member of the [[Suicide Squad]]. They assist Clark Kent and [[Lois Lane]] in storming a LexCorp building to help the former reach [[Apokolips]], though Cheetah is killed by one of [[Lex Luthor]]'s guards.
+* The Barbara Ann Minerva incarnation of the Cheetah appears in the interactive film ''[[Batman: Death in the Family]]''. While being arrested by the police, she is killed by [[Jason Todd]] as either [[Hush (character)|Hush]] or [[Red Robin (identity)|Red Robin]] depending on the viewer's choices.
+* The Barbara Ann Minerva incarnation of the Cheetah appears in ''[[Catwoman: Hunted]]'', voiced by [[Kirby Howell-Baptiste]].<ref>{{cite web|date=2021-08-17|title='Catwoman: Hunted' Sets Voice Cast (Exclusive)|website=[[The Hollywood Reporter]]|url=https://www.hollywoodreporter.com/movies/movie-news/catwoman-hunted-voice-cast-dc-1234998303/|language=en|access-date=2021-08-17}}</ref> This version is a member of [[Leviathan (DC Comics)|Leviathan]] who works as a figurehead for [[Talia al Ghul]].
+* The Barbara Ann Minerva incarnation of the Cheetah makes a non-speaking appearance in ''[[Teen Titans Go! & DC Super Hero Girls: Mayhem in the Multiverse]]''. This version is a member of the Legion of Doom.
+
+==== Live-action ====
+[[File:Kristen Wiig TIFF 2014.jpg|thumb|upright|[[Kristen Wiig]] portrays Dr. Barbara Ann Minerva / the Cheetah in ''[[Wonder Woman 1984]]''.]]
+The Barbara Ann Minerva incarnation of the Cheetah appears in the [[DC Extended Universe]] film ''[[Wonder Woman 1984]]'', portrayed by [[Kristen Wiig]].<ref>{{cite web | date = June 27, 2018 | author = Christi Carras | title = 'Wonder Woman 1984' Shares First Look at Kristen Wiig's Cheetah | url = https://variety.com/2018/film/news/wonder-woman-1984-kristen-wiig-cheetah-first-look-patty-jenkins-1202859394/ }}</ref> Similar to her ''DC Rebirth'' backstory, this version is initially presented as a friend and colleague of [[Diana Prince (DC Extended Universe)|Diana Prince]] who is ignored and shunned for her unattractive appearance and poor social skills. After wishing to be just like Prince while holding a magical artifact called the "Dreamstone", Minerva develops a more confident personality, her appearance becomes more conventionally attractive, and she develops superhuman levels of speed, resilience, and strength. However, she also becomes more mean-spirited and arrogant until she turns on Prince and asks [[Maxwell Lord]] to make her an "apex predator". He uses magic to strip away her humanity, turning her into a cheetah-like superhuman filled with bloodlust and rage. Prince confronts Minerva and defeats her before confronting Lord, who renounces his powers, causing Minerva to become human again.
+
+===Video games===
+* The Barbara Ann Minerva incarnation of the Cheetah appears as a playable character in ''[[Justice League Task Force (video game)|Justice League Task Force]]''.
+* The Barbara Ann Minerva incarnation of the Cheetah appears in ''[[DC Universe Online]]'', voiced by Adrienne Mishler. In the hero campaign, she serves as a [[Boss (video games)|boss]]. In the villain campaign, she works as a vendor in the magic wing of the Hall of Doom.
+* The Barbara Ann Minerva incarnation of the Cheetah appears as a boss and mini-boss in ''[[Justice League: Injustice for All]]''.
+* The Barbara Ann Minerva, Priscilla Rich, and Sebastian Ballesteros incarnations of the Cheetah all appear in ''[[Scribblenauts Unmasked]]''. The ''New 52'' version of Minerva serves as a stage boss in the Wonder Woman level while Rich can be summoned alongside the [[Legion of Doom]].
+* The Barbara Ann Minerva incarnation of the Cheetah, based on her ''New 52'' appearance, appears as an unlockable costume in ''[[LittleBigPlanet 2]]'' as part of the "DC Comics Premium Level Pack" [[downloadable content|DLC]].
+* The Barbara Ann Minerva incarnation of the Cheetah appears as a playable character in the mobile game ''DC Legends''.
+* The Barbara Ann Minerva incarnation of the Cheetah appears as a playable character in ''[[Injustice 2]]'', voiced again by [[Erica Luttrell]]. This version is based on her ''New 52'' counterpart and is a member of [[Gorilla Grodd]]'s "[[Secret Society of Super Villains|Society]]". Amidst [[Brainiac (character)|Brainiac]]'s attack on [[Metropolis (comics)|Metropolis]], she attempts to kill Wonder Woman and [[Supergirl (Kara Zor-El)|Supergirl]]. After the ex-Amazon princess attempts to kill Cheetah however, Supergirl and [[Harley Quinn]] intervene. After discovering Brainiac's plans for Earth, Cheetah and the rest of the Society members abandon Grodd. In her non-canonical arcade ending, Cheetah attacks Brainiac, who promises her a world from his collection for her to hunt on in exchange for his life. While she accepts his offer, she kills him anyway and wears his shrunken head as a necklace.<ref>{{cite news|url=http://www.gamespot.com/articles/new-injustice-2-trailer-shows-off-the-female-fight/1100-6447835|title=New Injustice 2 Trailer Shows Off The Female Fighters|first=Eddie|last=Makuch|newspaper=Gamespot |date=14 February 2017}}</ref><ref>{{cite tweet | number= 848188354600595457 | title="I long for Amazon blood..." #Cheetah #injustice2 @InjusticeGame #May16 | user=shukrani| date=April 1, 2017 | access-date=April 3, 2017 }}</ref>
+* The Barbara Ann Minerva incarnation of the Cheetah appears as a playable character in ''DC Unchained''.
+
+====''Lego DC'' series====
+* The Barbara Ann Minerva incarnation of the Cheetah appears as a playable character in ''[[Lego Batman 3: Beyond Gotham]]'', voiced by Erica Luttrell.
+* The Barbara Ann Minerva incarnation of the Cheetah appears as a playable character in ''[[Lego DC Super-Villains]]'',<ref>{{cite web|url=https://www.polygon.com/2018/5/30/17408628/lego-dc-super-villains-announcement-release-date|title=New Lego game lets you team up with Joker, Harley Quinn and other DC bad guys|first=Michael|last=McWhertor|work=[[Polygon (website)|Polygon]]|date=May 30, 2018|access-date=June 1, 2018}}</ref> voiced once more by Erica Luttrell.<ref>{{Cite web | url=https://www.e3expo.com/coliseum#Wednesday_June_13 |title = Media}}</ref> This version is a member of the Legion of Doom.
+
+===Books===
+* The Cheetah appears in ''Attack of the Cheetah'', by Jane B. Mason and published by Capstone as part of their ''DC Super Heroes'' line of illustrated children's books.<ref>{{cite web|url=http://www.capstonepub.com/consumer/products/attack-of-the-cheetah/|title=Attack of the Cheetah|publisher=[[Capstone Publishers|Capstone]]}}</ref>
+* The Cheetah appears in ''The Fastest Pet on Earth'', by J.E. Bright and published by Capstone as part of their ''DC Super-Pets'' line of children's books.<ref>{{cite web|url=http://www.capstonepub.com/library/products/fastest-pet-on-earth-1/|title=The Fastest Pet on Earth|publisher=[[Capstone Publishers|Capstone]]}}</ref> Similarly to the Priscilla Rich incarnation, this version has a pet cheetah named Chauncey.
+* The Cheetah appears in her own Capstone children's book, ''Cheetah and the Purrfect Crime'', by Laurie S. Sutton.<ref>{{cite web|url=http://www.capstonepub.com/library/products/cheetah-and-the-purrfect-crime/|title=Cheetah and the Purrfect Crime|publisher=[[Capstone Publishers|Capstone]]}}</ref>
+
+===Web series===
+The Barbara Ann Minerva incarnation of the Cheetah makes non-speaking appearances in the ''[[Harley Quinn (TV series)|Harley Quinn]]'' animated series. This version is a member of the Legion of Doom.<ref>{{cite AV media|date=July 20, 2019|title=HARLEY QUINN Comic-Con® 2019 Video: First-Look Preview #WBSDCC|medium=Video|url=https://www.youtube.com/watch?v=knb3QjQWQaQ|access-date=July 23, 2019|publisher=[[Warner Bros.]]}}{{cbignore}}{{Dead Youtube links|date=February 2022}}</ref>
+
+===Miscellaneous===
+* The Priscilla Rich incarnation of the Cheetah appears in the first two issues of the non-canonical ''[[Super Friends]]'' comic book series. She along with the [[Penguin (character)|Penguin]], [[Toyman]], [[Poison Ivy (character)|Poison Ivy]], and the Human Flying Fish mentor junior criminals, with Rich being partnered with a teenage girl named Kitten.
+* The Priscilla Rich incarnation of the Cheetah appears in the ''[[Batman: The Brave and the Bold (comics)|Batman: The Brave and the Bold]]'' animated series tie-in comic book series.
+* The Priscilla Rich incarnation of the Cheetah appears in a flashback depicted in issue #54 of ''[[Teen Titans Go! (2004 comic series)|Teen Titans Go!]]''.
+
+===Audiobooks===
+The Deborah Domaine incarnation of the Cheetah appears in the 1982 ''Wonder Woman'' [[audiobook]] story "Cheetah on the Prowl", voiced by [[Sonia Manzano]].
+
+==See also==
+* [[List of Wonder Woman enemies]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Cite book |title=Wonder Woman: The Ultimate Guide to the Amazon Princess |last=Beatty |first=Scott |year=2009 |publisher=Dorling Kindersley Publishing |isbn=978-0-7894-9616-4 |pages=[https://archive.org/details/wonderwomanultim00beat/page/76 76–77] |url-access=registration |url=https://archive.org/details/wonderwomanultim00beat/page/76 }}
+* Jett, Brett. [http://www.mediafire.com/view/38n6bhda988zen7/WhoIsWonderWoman_PDF--bonus.pdf/ "Who Is Wonder Woman?--Bonus PDF"]," (2009): "The Villains: Major Allegories", pp 5–6.
+* [http://www.mediafire.com/file/51fw1a9xykk8xvg/WIW+Article+--+WWs+Core+theme.pdf/ Jett, Brett]. [http://www.worldofsuperheroes.com/2017/10/wonder-womans-core-theme-brett-jett// "Wonder Woman's Core Theme"]," ''(Article)'' (2017, October 13): World Of Superheroes online.
+* Marston, William Moulton. ''Emotions on Normal People''. London: Kegan Paul, Trench, Trübner & Co, Ltd. 1928. {{ISBN|1406701165}}
+
+{{Wonder Woman}}
+{{Justice League characters}}
+{{Suicide Squad}}
+{{Superfriends series}}
+{{Lex Luthor}}
+{{The Joker}}
+
+[[Category:Articles about multiple fictional characters]]
+[[Category:Characters created by George Pérez]]
+[[Category:Characters created by Gerry Conway]]
+[[Category:Characters created by H. G. Peter]]
+[[Category:Characters created by Joe Kelly]]
+[[Category:Characters created by Len Wein|Cheetah (Barbara Ann Minerva)]]
+[[Category:Characters created by William Moulton Marston]]
+[[Category:Comics characters introduced in 1943]]
+[[Category:Comics characters introduced in 1980]]
+[[Category:Comics characters introduced in 1987]]
+[[Category:Comics characters introduced in 2001]]
+[[Category:Animal supervillains]]
+[[Category:DC Comics animals]]
+[[Category:DC Comics hybrids]]
+[[Category:DC Comics metahumans]]
+[[Category:DC Comics martial artists]]
+[[Category:DC Comics characters who can move at superhuman speeds]]
+[[Category:DC Comics LGBT supervillains]]
+[[Category:DC Comics female supervillains]]
+[[Category:DC Comics characters with superhuman strength]]
+[[Category:Fictional British people]]
+[[Category:Fictional characters with superhuman senses]]
+[[Category:Fictional characters who have made pacts with devils]]
+[[Category:Fictional cheetahs]]
+[[Category:Fictional female businesspeople]]
+[[Category:Fictional female murderers]]
+[[Category:Fictional human–animal hybrids]]
+[[Category:Fictional socialites]]
+[[Category:Fictional werecats]]
+[[Category:Fictional female scientists]]
+[[Category:Golden Age supervillains]]
+[[Category:Wonder Woman characters]]
+[[Category:Catgirls]]
+[[Category:Suicide Squad members]]

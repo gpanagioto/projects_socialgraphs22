@@ -1,0 +1,161 @@
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+| image = Faora.jpg
+| caption = Faora in Action Comics #472 (June 1977)
+| character_name = Faora
+| publisher = [[DC Comics]]
+| debut = '''(Hu-Ul)'''<br /> ''[[Action Comics]]'' #471<br>(May 1977)
+| creators = [[Cary Bates]] (writer)<br />[[Curt Swan]] (artist)
+| alter_ego = 
+| full_name = Faora Hu-Ul<br /> Zaora Hu-Ul<ref>Pocket Universe duplicate of the pre-Crisis character</ref><br />Artificial Intelligence (AI)<br />Unrevealed<ref>The Pokolistanian character's true name has yet to be revealed.</ref>
+| species = '''(Both Hu-Ul)'''<br /> [[Krypton (comics)|Krypton]]ian<br />'''(Unknown)'''<br /> [[Metahuman]]
+| homeworld = <!-- optional -->
+| alliances = 
+| partners = [[General Zod]]<br />[[Jax-Ur]]
+| aliases = <!-- optional: actual identities the character uses, not nicknames -->
+| supports=
+| powers = '''(Both Hu-Ul)'''
+{{collapsible list
+<!--Must be a defining trait: only powers Superman regularly uses are listed here-->
+| titlestyle = background:transparent;text-align:left;font-weight:normal;
+| title = ''See list''
+|
+* [[Superhuman strength]], speed, agility, reflexes, stamina, endurance, intelligence, senses, and longevity
+* Solar energy absorption
+* Accelerated healing
+* Self-sustenance
+* Enhanced vision
+** Electromagnetic spectrum vision
+** Heat vision
+** Infrared vision
+** Microscopic vision
+** Telescopic vision 
+** Thermal vision
+** X-ray vision
+* Freeze and wind breath
+* Invulnerability
+* [[Flight]]
+*Expert combatant
+}}
+'''(Pre-Crisis Hu-Ul)'''
+*Non-corporeal form
+*Psychic bolts
+*Telepathy 
+
+'''(Unknown)'''
+*Molecular disruption 
+}}
+'''Faora''' is a <!--Do not add "fictional" as it is tautological; supervillains (and characters in general) are by definition implied to be fictionalized to some extent.-->[[supervillainess]] appearing in [[American comic book]]s published by [[DC Comics]], commonly in association with [[Superman]]. All of her versions have some connection to Superman's home planet of [[Krypton (planet)|Krypton]].<ref>{{cite book |last1=Greenberger |first1=Robert |last2=Pasko |first2=Martin |title=The Essential Superman Encyclopedia |date=2010 |publisher=Del Rey |isbn=978-0-345-50108-0 |pages=89–90}}</ref> The character was created by [[Cary Bates]] and [[Curt Swan]], and first appeared in ''[[Action Comics]]'' #471 (May 1977). Most commonly, Faora is an ally and sometimes the wife and/or lover of Superman's Kryptonian nemesis [[General Zod]].<ref name="dc-ency">{{Cite book | last = Jimenez | first = Phil | author-link = Phil Jimenez | contribution = Faora | editor-last = Dougall  | editor-first = Alastair  | title = The DC Comics Encyclopedia  | pages = 118  | publisher = [[Dorling Kindersley]] | place = New York  | year = 2008 | isbn = 978-0-7566-4119-1 | oclc = 213309017}}</ref> 
+
+Faora appears in the television series ''[[Smallville]]'', portrayed by [[Erica Durance]] and [[Sharon Taylor]]. Faora appears in the [[DC Extended Universe]] films ''[[Man of Steel (film)|Man of Steel]]'' (2013) and the upcoming film ''[[The Flash (film)|The Flash]]'' (2023), played by [[Antje Traue]].
+
+==Publication history==
+Faora first appeared in ''[[Action Comics]]'' #471 (May 1977) and was created by [[Cary Bates]] and [[Curt Swan]].<ref name=Guide>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Korte |first3=Steve |last4=Manning |first4=Matt |last5=Wiacek |first5=Win |last6=Wilson |first6=Sven |title=The DC Comics Encyclopedia: The Definitive Guide to the Characters of the DC Universe |date=2016 |publisher=DK Publishing |isbn=978-1-4654-5357-0 |page=105}}</ref>
+
+==Fictional character biography==
+===Pre-Crisis===
+The first Faora, '''Faora Hu-Ul''', was introduced in ''[[Action Comics]]'' #471.<ref>''Action Comics'' #471 (May 1977)</ref><ref>{{cite book |last1=Eury |first1=Michael |title=The Krypton Companion |date=2006 |publisher=TwoMorrows Publishing |isbn=9781893905610 |page=31}}</ref> She is a beautiful Kryptonian woman whose unexplained hatred for men led her to torture and kill 23 of them in the secret concentration camp.  For this, she was imprisoned in the [[Phantom Zone]] to complete a sentence of 300 Kryptonian years, the second longest term after [[Jax-Ur]].<ref name=ac472>''Action Comics'' #472 (June 1977)</ref><ref>''Phantom Zone'' #1 (January 1982)</ref> Surviving her homeworld's destruction, along with the other Phantom Zone prisoners, she existed in an invisible ghost-like form. While in the Zone, she often depicted plotting against [[Superman]] with [[General Zod]] and Jax-Ur. The hatred of men was not limited to different races, as she demonstrates this pointless murder on a young Frenchman who was attracted by her beauty.<ref>''Phantom Zone'' #4 (April 1982)</ref>
+
+Faora is an expert at the Kryptonian martial of Horo-Kanu. This allows her to take advantage on the body's [[pressure points]]. This made her an extremely dangerous foe for Superman to face in close combat. When she beaten him, he was forced to flee from their first encounter.<ref name=ac472 /> During one of her appearances,<ref>''Action Comics'' #473 (July 1977)</ref> Faora could manifest some sort of "mental lightning" to physically attack Kryptonian survivors, but did not exhibit this additional power during later battles.
+
+===Post-Crisis===
+
+====Pocket Universe====
+Following the ''[[Crisis on Infinite Earths]]'', another Faora (renamed '''Zaora''') appeared in the [[Pocket universe|Pocket Universe]] created by the [[Time Trapper]], along with [[General Zod]] and [[Quex-Ul]].<ref name="dc-ency"/> The three tricked the Pocket Universe's [[Lex Luthor]] into releasing them from the [[Phantom Zone]]. After the Pocket Earth's population continued to resist their conquest of it, the three villains destroyed the atmosphere, killing almost all life. Superman defeated them by permanently stripping the three of their super powers with [[Kryptonite#Forms|gold kryptonite]]. He then executed them with [[kryptonite]] in punishment for their crimes, and to protect the real Earth after they threatened to somehow regain their powers and destroy it as well. Zaora pleaded with Superman for her life, offering him "all sorts of favors", before she succumbed to the kryptonite.<ref>''Superman'' vol. 2 #22 (October 1988)</ref>
+
+====Phantom Zone entity====
+In the ''[[Eradicator (comics)|Eradicator]]'' mini-series, Dr. David Conner was pressured into embracing his programming by another construct of Kem-L. This artifact, which was trapped in the Phantom Zone, claimed to be called Faora, after Kem-L's grandmother, and to be the ultimate repository of Kryptonian mythology. However, it is unclear how much of this is true.
+
+The Eradicator rejects it, "downloading" all these aspects of ancient programming that contradicted his morality into Faora's [[artificial intelligence]]. Unknown to him, this gave it a new, monstrous form and dimensional-based powers. After leaving the Zone, it targeted Conner's family. The Eradicator destroyed Faora, but not before it kills his wife.
+
+====Pokolistanian====
+Another Faora was introduced as one of [[General Zod]]'s aides in a fictional [[Pokolistan]] nation. This character, who debuted in ''Action Comics'' #779 (July 2001), is an orphan [[metahuman]]. Faora has molecular abilities to a limited degree. She created a mutagenic virus for Zod as part of the linchpin plan. Her whereabouts following the General's defeat are unknown.<ref name="dc-ency"/>
+
+===="Return to Krypton"====
+In a 2001–2002 storyline, Superman and [[Lois Lane]] visit [[Krypton (comics)#Revisiting Krypton|a version of Krypton]] which is later revealed to have been created by the villainous [[Brainiac 13]] and based on [[Jor-El]]'s favorite period in Kryptonian history.<ref name="action793">{{Cite comic
+ | writer = [[Joe Kelly (comics)|Kelly, Joe]]
+ | penciller = [[Pasqual Ferry|Ferry, Pascual]]<!--spelled "Pascual" in comic's credits-->
+ | inker = [[Cam Smith|Smith, Cam]]
+ | story = Return to Krypton II, Part Four: Dream's End
+ | title = [[Action Comics]]
+ | issue = #793
+ | date = September 2002
+ | publisher = DC Comics
+ | location = New York
+ | page = 20
+ }}</ref>  In this Krypton, Lois and Clark become fugitives and are pursued by Faora and Kru-El, romantically linked manhunters known as "the Hounds of Zod."<ref name="mos111">{{Cite comic
+ | writer = [[Mark Schultz (comics)|Schultz, Mark]]
+ | penciller = [[Doug Mahnke|Mahnke, Doug]]
+ | inker = Nguyen, Tom
+ | story = Return to Krypton Part Three: The Most Dangerous Kryptonian Game
+ | title = [[Superman: The Man of Steel]]
+ | issue = #111
+ | date = April 2001
+ | publisher = DC Comics
+ | location = New York
+ }}</ref> This version of Faora, calling herself "the Tigress of Zod", later returns as an ally of Jor-El.  She and Kru-El are both killed in a struggle against Kryptonian religious zealots.<ref name="action793" /><ref name="mos128">{{Cite comic
+ | writer = [[Mark Schultz (comics)|Schultz, Mark]]
+ | artist = [[Karl Kerschl|Kerschl, Karl]]
+ | story = Return to Krypton II Part Three: Blood and Heresy
+ | title = [[Superman: The Man of Steel]]
+ | issue = #128
+ | date = September 2002
+ | publisher = DC Comics
+ | location = New York
+ }}</ref>
+
+===New 52/DC Rebirth===
+Faora Hu-Ul returned during ''[[New 52]]'' and following into ''[[DC Rebirth]]'' where they shared a loathing of Krypton's ideals of peace and science and desired a return to the old days, when Krypton was a brutal militaristic empire. In time, she met Dru-Zod, a colonel who shared the same dream. Zod gathered a group of like-minded supporters, but he became especially interested in Faora because of her blood lust. Faora became complicit in Zod's engineering of a false flag operation, which triggered a war with the alien Char. Jor-El, an old friend of Zod's, discovered the deception and turned Zod over to the authorities. This resulted in the sentencing of Zod and his followers, Faora among them, to the Phantom Zone but later sent [[Doomsday (DC Comics)|Doomsday]] into the boundaries allowing an escape. <ref>''Superman/Wonder Woman'' #5</ref> But the escape leaves Faora in the zone while Zod tricks Superman into releasing her using the Fortress of Solitude's technology. The duo would later face Superman again and [[Wonder Woman]] in the [[South Pacific]]. <ref>''Superman/Wonder Woman'' #7</ref>
+
+==Powers and abilities==
+As a Kryptonian, Faora has superpowers derived from under the light of Earth's yellow sun in a solar system. These basic abilities are sufficient for her to bend steel, overpower a locomotive, leap over a tall building in one bound, and outrun a speeding bullet; as well as virtual invulnerability, accelerated recovery, laser eyebeams, vortex breath, and flight. She possesses extraordinary senses of hearing and sight including x-ray, telescopic, and microscopic vision. The Pre-Crisis version of Faora had gotten new powers. She can telepathically communicate or sometimes does it unconsciously and project bolts of psychic energy to weaken other Kryptonians from [[the Phantom Zone]]. While in the Zone, she is effectively immortal and untouchable. Faora knows Horu-Kanu - the deadliest form of martial art on Krypton. This technique utilizes precisely aimed pressure points to disable, cripple, or kill opponents. Both versions have expertise in unarmed combat. Even her power levels are more akin to Supergirl. Like all Kryptonians, she is vulnerable to [[Kryptonite]], red sunlight, and magic. The metahuman version of Faora could disrupt molecular bonds.
+
+==Other versions==
+In the ''[[DC Bombshells]]'' continuity, Faora resembling her ''Man of Steel'' counterpart led a coup on Krypton during its final days which consisted of herself, [[Lara Lor-Van]], and [[Alura (DC Comics)|Alura In-Ze]], who weren't considered "clean" enough by Kryptonians for fertility. The three conceived a daughter that they believed would be the strongest of Krypton, as she had a balance of "clean" and "unclean" Kryptonian genes. When Lara and Alura discovered Faora was willing to kill to achieve her vision, they banished her to the Phantom Zone. Her pod is discovered and broken open by the Thanagarians, who provided her with a ship that could allow her to travel anywhere. She travels to Earth, where she waits decades for the baby's escape pod to crash into the planet. When the baby's pod would land in Russia and the girl would become adopted by the Starikov's and named [[Supergirl (Kara Zor-El)|Kara]], Faora took samples of Kara's blood from the pod, which allowed her ally scientist Hugo Strange to create clones of Kara who would become known as Power Girl and Superman. She also allied herself with other villains who wanted to take over the world such as [[Paula von Gunther]], [[Joker's Daughter|the Joker's Daughter]], and [[Killer Frost]]. She monitor's Kara's progress in the Soviet Army and as Supegirl under the disguise of General Khulun. She invites Supergirl to join her in conquering the world, but the girl refuses as she views Faora's methods as no better than the dying Krypton's. When [[Trigon (comics)|Trigon]]'s daughter [[Raven (DC Comics)|Raven]] briefly transforms into an unstable demonic being after her father's death, Faora takes some of Raven's blood and injects herself with it, transforming into this dimension's version of [[Doomsday (comics)|Doomsday]]. The heroes stop her by trapping her inside of [[Swamp Thing]] and casting a spell that required the sacrifice of Kara's adoptive parents and Stargirl's father.
+
+==In other media==
+===Television===
+* Faora appeared in the 1988 animated ''[[Superman (TV series)|Superman]]'' episode "The Hunter" voiced by [[Ginny McSwain]]. She appeared alongside [[General Zod]] and [[Ursa (comics)|Ursa]] as a [[Phantom Zone]] prisoner and helped General Zod to create The Hunter (a creature that can transmute itself into any substance that it touches).
+* A Kryptonian villainess named '''[[Mala (Kryptonian)|Mala]]''' (voiced by [[Leslie Easterbrook]] and [[Sarah Douglas (actress)|Sarah Douglas]]) appears in two episodes of ''[[Superman: The Animated Series]]''; her character appears to be a blend of Faora and [[Ursa (comics)|Ursa]], the female antagonist of the live-action film ''[[Superman II]]''.  She is the second-in-command (and possible lover) of High General [[Jax-Ur]], and is exiled into the Phantom Zone for her complicity in Jax-Ur's attempted ''[[coup d'etat]]'' against the Kryptonian government.  Believing that she has fulfilled her original sentence, Superman releases her and recruits her as an ally in his fight against crime, but she quickly proves too brutal, and, impatient with his methods, releases Jax-Ur and joins his attempt to take over the Earth. 
+* In the ''[[Legion of Super-Heroes (TV series)|Legion of Super-Heroes]]'' animated TV series, the pre-Crisis version of Faora can be seen in a cameo in the episode "Phantoms" as one of the many Phantom Zone villains attacking the Legion members when they were temporarily trapped there.
+* Faora made her live action debut appearance on ''[[Smallville (TV series)|Smallville]]'', portrayed by [[Erica Durance]], while [[Sharon Taylor]] portrays the character's original likeness in a flashback. In the season eight episode "Bloodline", Faora escapes the Phantom Zone in her immaterial Phantom-Zone form and possesses Lois Lane. Faora/Lois reveals to [[Chloe Sullivan]] ([[Allison Mack]]) and [[Davis Bloome]] ([[Sam Witwer]]) that she is General Zod's wife, and that Davis is Zod and Faora's genetically engineered son (the ''Smallville'' incarnation of [[Doomsday (comics)|Doomsday]]).  After a fight with [[Clark Kent (Smallville)|Clark Kent]] ([[Tom Welling]]), Faora's spirit is removed from Lois's body by [[Supergirl|Kara Kent]] ([[Laura Vandervoort]]).  
+** A younger clone of Faora (portrayed by Taylor) becomes a recurring character in season nine. [[Tess Mercer]] ([[Cassidy Freeman]]), in the possession of the Orb, releases the Kandorian duplicates, including a younger clone of Faora. Faora is both a loyal soldier and lover of Major Zod ([[Callum Blue]]). The episode "Pandora" shows an alternate future where Faora gains her Kryptonian abilities through Zod's solar tower and serves Zod, wearing the Mark of Zod on her chest. The episode "Conspiracy" reveals that Faora has a younger sister '''Vala''' ([[Crystal Lowe]]). In the episode "Sacrifice", [[Amanda Waller]] ([[Pam Grier]]) takes Faora and Vala from the Kandorians. Faora offers to work with Checkmate when Zod attacks. Zod strangles Faora, realizing too late that she is pregnant with their baby. In the season finale "Salvation", Faora is avenged by Clark and the Kandorians once Zod's deception comes out.
+* Faora appeared in ''[[The Looney Tunes Show]]'' episode "SuperRabbit", voiced by [[Sonya Walger]].
+* Faora appears in ''[[Justice League Action]]'' episode "Field Trip," voiced by [[Fryda Wolff]]. As Superman gives Blue Beetle, Firestorm, and Stargirl a tour of the Fortress of Solitude and are shown the Phantom Zone Projector, General Zod, Faora, and Quex-Ul are released and Superman is accidentally sent to the Phantom Zone. Blue Beetle, Firestorm, and Stargirl attempt to use a Green Kryptonite fragment on them only for it to be too small for them. Under the yellow sun, General Zod and his two followers gain superpowers and end up in a fight with Blue Beetle, Firestorm, and Stargirl. As Blue Beetle and Stargirl hold off the Kryptonian villains, Firestorm uses Martin Stein's guidance to learn how to transmutate anything to Kryptonite. Testing on the ice, Firestorm transmutates it to Green Kryptonite which weakens General Zod and his two followers. Afterwards, Superman is freed from the Phantom Zone and General Zod and his followers are thrown into the Phantom Zone.
+* Faora Hu-Ul appears in ''[[Young Justice (TV series)|Young Justice: Phantoms]]'', voiced by [[Denise Boutte]].
+
+===Film===
+* In the movies ''[[Superman (1978 film)|Superman]]'' and ''[[Superman II]]'', the Kryptonian villainess [[Ursa (DC Comics)|Ursa]] is purportedly based on Faora, in spite of the fact that Faora made her first appearance in May 1977, whilst Superman I & II were had already commenced filming in the March of that year.<ref>{{cite web |url=http://www.newsarama.com/comics/100818-New-Krypton-Countdown-1.html |title=New Krypton Countdown: When Kryptonians Walk the Earth |access-date=2008-10-20 |last=Brownfield |first=Troy |author-link=Troy Brownfield |author2=Matt Brady| work=[[Newsarama]].com |publisher=[[Imaginova]] Corporation |date=2008-10-18 }}</ref> She has a hatred of all men, except for Zod. She fights Superman alongside General Zod and [[Non (comics)|Non]].
+* In the 2013 feature film ''[[Man of Steel (film)|Man of Steel]]'', Sub-Commander '''Faora-Ul''' is portrayed by actress [[Antje Traue]]. In the film, she is [[General Zod|Zod's]] lieutenant, and is sentenced to 300 cycles in the Phantom Zone along with Zod and his forces. After Krypton's destruction, Faora and the other prisoners are freed from the Phantom Zone, and search for [[Superman|Kal-El]] and the Codex, a device containing the genetic code for all future Kryptonians, which were able to escape the planet's destruction due to [[Jor-El]]'s last-minute actions. After finding him on Earth, Faora is responsible for bringing Kal-El and [[Lois Lane]] aboard Zod's ship upon Zod altering the deal with the U.S. Military. She was present when Zod explains to Superman about Krypton and its failed colonies. After Superman and Lois Lane escape, Faora and another powerful Kryptonian grunt named Nam-Ek confront Kal-El and the U.S. Military in Smallville, but are defeated when Kal-El manages to break her helmet. After Zod begins terraforming the Earth with a world engine retrieved from a Kryptonian Colony that they visited before arriving to Earth, Faora and all the other Kryptonians (except Zod) are sent back to the Phantom Zone. As in the comics, Faora is a major threat to Kal-El in hand-to-hand combat, easily outfighting him at first. Kal-El is able to hold his own against her and Nam-Ek, since the two Kryptonians have yet to attain heat vision and flight and he is stronger than they are due to his longer exposure to solar radiation. Faora is taken out of the fight when Colonel Hardy crashes the airplane they are on into Zod's ship, sending them back into the Phantom Zone. [[Gal Gadot]], who portrays [[Wonder Woman]] in the DC Extended Universe, revealed in an interview that she was offered the part of Faora in the film, but turned it down due to her pregnancy at the time.<ref>{{cite web|url=http://batman-news.com/2015/09/17/gal-gadot-man-of-steel-faora/|title=Gal Gadot is Wonder Woman because she turned down a major 'Man of Steel' role|publisher=Batman News|last=Bugley|first=Chris|date=September 17, 2015}}</ref>
+
+===Video games===
+* The ''Man of Steel'' version of Faora appears via DLC as a playable character in ''[[Lego Batman 3: Beyond Gotham]]''.
+
+==References==
+* [[File:CC-BY-SA icon.svg|50px]] Text was copied from [https://dc.fandom.com/wiki/Faora_Hu-Ul_(Prime_Earth) Faora Hu-Ul (Prime Earth)] at DC Database, which is released under a [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-Share Alike 3.0 (Unported) (CC-BY-SA 3.0) license].
+{{reflist}}
+
+{{Superman characters}}
+[[Category:Characters created by Cary Bates]]
+[[Category:Characters created by Curt Swan]]
+[[Category:Comics characters introduced in 1977]]
+[[Category:DC Comics characters who have mental powers]]
+[[Category:DC Comics characters with superhuman strength]]
+[[Category:DC Comics characters with accelerated healing]] 
+[[Category:DC Comics extraterrestrial supervillains]]
+[[Category:DC Comics female supervillains]]
+[[Category:DC Comics metahumans]]
+[[Category:DC Comics telepaths]]
+[[Category:Fictional artificial intelligences]]
+[[Category:Fictional characters with slowed ageing]]
+[[Category:Fictional characters with X-ray vision]]
+[[Category:Fictional characters with superhuman senses]]
+[[Category:Fictional characters with nuclear or radiation abilities]]
+[[Category:DC Comics orphans]]
+[[Category:Fictional characters with air or wind abilities]]
+[[Category:Fictional characters with ice or cold abilities]]
+[[Category:Fictional characters with absorption or parasitic abilities]]
+[[Category:Fictional characters with energy-manipulation abilities]]
+[[Category:Fictional characters with fire or heat abilities]]
+[[Category:Fictional mass murderers]]
+[[Category:Kryptonians]]
+[[Category:Superman characters]]

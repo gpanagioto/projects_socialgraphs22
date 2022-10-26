@@ -1,0 +1,253 @@
+{{short description|Comic book superhero}}
+{{Infobox comics character
+|image= Deadman (DC Comics).jpg
+|caption= Cover for ''The Deadman Collection'' (2001) by [[Neal Adams]].
+|character_name=Deadman
+|publisher=[[DC Comics]]
+|debut=''[[Strange Adventures]]'' #205 (October 1967)
+|creators=[[Arnold Drake]] (writer)<br>[[Carmine Infantino]] (artist)
+|real_name=Boston Brand
+|species = [[Ghost]]
+|homeworld = <!-- optional -->
+|alliances=[[Justice League Dark]]<br/>[[Seven Soldiers of Victory]]<br/>[[Sentinels of Magic]]<br/>[[Justice League]]
+|aliases = <!-- optional: actual identities the character uses, not nicknames -->
+|supports =<!--optional-->
+|powers=
+*Peak human [[acrobatics]]
+*[[Flight]], [[invisibility]], intangibility, and possession
+*Expertise in [[occultism]] and unarmed combat 
+}}
+{{Lead too short|date=September 2022}}
+'''Deadman''' ('''Boston Brand''') is a fictional [[superhero]] appearing in [[American comic book]]s published by [[DC Comics]]. He first appeared in ''[[Strange Adventures]]'' #205 (October 1967), and was created by [[Arnold Drake]] and [[Carmine Infantino]].<ref name="dc-ency">{{Cite book|last = Greenberger|first = Robert|author-link = Robert Greenberger|contribution = Deadman|editor-last = Dougall|editor-first = Alastair|title = The DC Comics Encyclopedia|page = 96|publisher = [[Dorling Kindersley]]|place = New York|year = 2008|isbn = 978-0-7566-4119-1|oclc = 213309017}}</ref>
+
+==Publication history==
+[[File:Strange Adventures 205.png|200px|thumb|left|Boston Brand's debut as Deadman in ''[[Strange Adventures]]'' #205 (October 1967), with art by [[Carmine Infantino]].]]
+Deadman's first appearance in ''Strange Adventures'' #205, written by Arnold Drake and drawn by Carmine Infantino,<ref name="McAvennie">{{cite book|last1=McAvennie|first1=Michael|last2=Dolan|first2=Hannah|chapter= 1960s|title = DC Comics Year By Year A Visual Chronicle|publisher=[[Dorling Kindersley]] |year=2010 |isbn= 978-0-7566-6742-9 |page= 125 |quote = In a story by scribe Arnold Drake and artist Carmine Infantino, circus aerialist Boston Brand learned there was much more to life after his death...Deadman's origin tale was the first narcotics-related story to require prior approval from the Comics Code Authority. In addition, Neal Adams, the artist who succeeded Infantino with the second issue, would soon become an industry legend.}}</ref> included the first known depiction of narcotics in a story approved by the [[Comics Code Authority]].<ref>{{cite web |url=http://goodcomics.comicbookresources.com/2009/09/24/comic-book-legends-revealed-226/ |title=Comic Book Legends Revealed #226 |last=Cronin |first=Brian |date=September 24, 2009 |publisher=[[Comic Book Resources]] |archive-url=https://web.archive.org/web/20120126083406/http://goodcomics.comicbookresources.com/2009/09/24/comic-book-legends-revealed-226/ |archive-date=January 26, 2012 |url-status=dead |access-date=December 22, 2011 |quote=One comic that I know preceded the 1971 amendment [to the Comics Code] was ''Strange Adventures'' #205, the first appearance of Deadman!...a clear reference to narcotics, over THREE YEARS before Marvel Comics would have to go without the Comics Code to do an issue about drugs.}}</ref> The series is most associated with the art and writing of [[Neal Adams]] and the writing of Jack Miller, who took over from Infantino and Drake after the first story.<ref name="McAvennie" /><ref>{{cite journal|last= Schwirian|first= John|date= December 2010|title= Sometimes, it Takes a Deadman to Save a Sea King!: The Unexpected Teaming of Aquaman and Deadman|journal= [[Back Issue!]]| issue= #45|pages= 27–30|publisher= [[TwoMorrows Publishing]]}}</ref> The first story and all of the Adams stories were reprinted in 1985 as a seven-issue series.
+
+Drake recalled in an interview, "So here I was in the middle of a [[Zen]]-Buddhist movement and I thought, 
+"Maybe I can use that for my main character," <ref>{{cite web | url=http://www.sequentialtart.com/archive/jan00/drake.shtml | title=Sequential Tart: Arnold Drake - This Old Drake Still Has the Fire in Him (Vol III/Iss 1/January 2000) }}</ref>
+
+Although he appeared from time to time in the 1970s and 1980s as a supporting character in various comics, including Jack Kirby's ''[[Forever People]]'', Deadman did not get his own series again until 1986, in a four-issue [[Limited series (comics)|limited series]] written by Andrew Helfer and drawn by [[José Luis García-López]], which picked up the story where Adams left off. Deadman's next major storyline was in ''[[Action Comics]] Weekly'', in 1988–1989. After this, he starred in the two-issue series ''Deadman: Love After Death'', drawn by [[Kelley Jones]] and written by [[Mike Baron]]. This was followed by the limited series ''Deadman: Exorcism'' in 1992, also written by Mike Baron and drawn by Kelley Jones. Jones' gaunt, zombie-like rendition of the character would later appear in the pages of ''Batman''. There was a Deadman [[ongoing series]] in 2002, which lasted nine issues, as well as a couple of standalone issues. His cameo appearances also continued, including several issues of [[Alan Moore]]'s run on ''[[Swamp Thing]]'', and [[Neil Gaiman]]'s ''[[The Books of Magic]]''. He had a cameo in books two and three of  ''[[Batman: Gotham County Line]]'', which was released in November 2005. In 2009, Deadman was a featured title in the [[Wednesday Comics]].
+
+The character and self-titled series have won several awards, including the 1967 Alley Award for Best New Strip (by [[Arnold Drake]] and [[Carmine Infantino]] in ''[[Strange Adventures]]''), and the 1968 Alley Award Hall of Fame (for [[Neal Adams]]). DC Comics published a slipcased hardcover edition collecting the original Deadman stories in December 2001. Deadman's [[retcon]]ned origin is revealed in ''[[Brightest Day]]'' #14 (2010), written by [[Geoff Johns]] and [[Peter Tomasi]]. Deadman has a 3-part mini-series called ''Deadman: Dark Mansion of Forbidden Love'' written by Sarah Vaughn and the art was done by Lan Medina.
+
+==Fictional character biography==
+Deadman is a ghost, formerly a [[circus]] [[trapeze|trapeze artist]] named '''Boston Brand''' who performed under the name Deadman, a stage persona including a red costume and [[Corpse paint|white corpse makeup]].<ref>{{cite web |last1=Markstein |first1=Don |title=Deadman |url=http://www.toonopedia.com/deadman.htm |website=Don Markstein's Toonopedia |access-date=2 April 2020}}</ref> When Brand is murdered during a trapeze performance by a mysterious assailant known only as the Hook, his spirit is given the power to possess any living being by a [[Hinduism|Hindu]] [[god]] named "Rama Kushna" in order to search for his murderer and obtain justice.<ref>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Manning |first3=Matthew K. |last4=McAvennie |first4=Michael |last5=Wallace |first5=Daniel |title=DC Comics Year By Year: A Visual Chronicle |date=2010 |publisher=DK Publishing |isbn=978-0-7566-6742-9 |pages=175–176}}</ref> It is established in ''[[Green Arrow]]'' (vol. 4) #4, that Deadman believes Rama is the supreme being of the universe.<ref name="dc-ency"/>
+
+At the end of the Neal Adams story line, Deadman seems to discover the truth behind his murder and the ultimate fate of Hook, who killed Deadman as part of an initiation into a society of contract killers who then kill him to silence him.  However, the real Hook is one among many one-handed men who work for an organization known as "The Scavengers". This group steals advanced technology for a profit. Fighting the Scavengers also led to Deadman gaining an artificial body for some time, thanks to the influence of the [[Forever People]]. This group had rented rooms from Trixie Magruder, an old circus companion of Deadman.<ref>''The Forever People'' #9–10 (July-August 1972)</ref>
+
+===Various missions===
+Rama also maintained a city for some time, called [[Nanda Parbat]]. The most evil people in the world came to live there, where Rama's power kept them sane and good. One of the worst was Darius Caldera, who almost destroyed the world when he left the city. Nanda later fell due to a combined military and mystical force. All the evil people are now back in the real world, still a danger. Brand's twin brother, Cleveland, is killed while possessed by Boston, while doing Boston's circus act. The killer was out to kill Boston Brand. His "benefactor", Rama Kushna, also dies in order to defeat Jonah, a spirit similar to Deadman. Around this time, Deadman assists the [[Spectre (comics)|Spectre]] in defeating a newly formed demonic being and werewolves. Formed from the skeletons of many souls in hell, this blue-eyed, blonde-haired being comes to Earth to foment chaos and death. It manages to actually remove much of the Spectre's substance. Deadman is forced to merge with Spectre until things are stabilized.
+
+Later, Deadman receives a birthday present from his diminutive friend, Max Loomis. Max places himself in a trance so he could "meet" Deadman and the two take a pleasant journey down "memory lane", mainly Deadman's more pleasant memories of Nanda Parbat. Soon after, Loomis meets with old circus friends and Deadman involves himself in a case of suspected murder. Deadman wants to go after the escapees of Nanda Parbat, but Max thinks pursuing the murder is a better course.<ref>''Deadman'' #1–4 (Feb.-May 2002)</ref> Over several years, a mysterious stranger has Deadman travel through time to try to save the souls of deceased heroes from the menace of Caldera. Due to the mental influence of various forces, Deadman is unable to use the knowledge of the timestream to benefit humanity. With the assistance of the spirits of the deceased heroes, Deadman defeats Caldera and the powers behind him. Max Loomis provides vital help on the material plane. After that, Boston and Loomis decide to hunt down the other Parbat escapees.<ref>''Deadman: Dead Again'' #1–5 (June–October 2001)</ref>
+
+===Youth and Hell===
+In the ''Sins of Youth'' incident, Deadman is one of the dozens of heroes reduced to a preteen age by [[Klarion the Witch Boy]] and an alien machine owned by [[Doiby Dickles]]. He is still a spirit, now with a lower-case ''d'' on his chest. He assists [[Secret (Greta Hayes)|Secret]] in confronting Teekl, Klarion's companion, in an effort to restore everyone. He also joins in the fight against mystically created and mystically altered villains. During the ''[[Day of Judgment (comics)|Day of Judgment]]'' incident, Boston Brand travels with a group of heroes to the frozen wastelands of Hell. Their goal is to restart the demonic fires, thus recalling all the demons from the earthly plane. An accident strands Brand and the others under the frozen waters of the [[Styx|River Styx]], forcing them to live out what would be, to them, Hell. For Brand, it is that the sharpshooter hits him in the shoulder, thus he survives. Brand feels he needs to die in order to learn "how to live". His battles against the demons would come back to haunt him. In the four-part ''Black Baptism'' miniseries, Deadman and several other "[[Sentinels of Magic]]", the magical group formed out of the ''Day of Judgment'' incident, are hunted by the Diablos. Partly fueled by revenge, they subdue many of the Sentinels and drain their magic. The JLA eventually rescue them all and destroy all the Diablos.
+
+===Blackest Night===
+{{main|Blackest Night}}
+Boston Brand begins to hear the voices of the dead and his own remains calling for him to protect them.<ref>''Blackest Night'' #2 (August 2009)</ref> Being a spirit, he is unable to stop his body from being raised as a [[Black Lantern]]. He attempts to possess his own body but is ejected after experiencing extreme physical and emotional pain during the attempt. He assists [[Dick Grayson|Batman]], [[Damian Wayne|Robin]], and [[Tim Drake|Red Robin]] in repelling the invasion of the Black Lanterns.<ref>''Blackest Night: Batman'' #1 (August 2009)</ref> Deadman manages to save [[James Gordon (comics)|Commissioner Gordon]] from the Black Lanterns by possessing the body of [[Barbara Gordon|his daughter]], spiriting them both to safety.<ref>''Blackest Night: Batman'' #2 (September 2009)</ref>
+
+Deadman is later sent by Batman to possess the body of Jason Blood, invoking the power of [[Etrigan the Demon|Etrigan]]. Deadman uses Etrigan's demon flame to hold back the Black Lanterns, but struggles to maintain control over the demon's body, finally being forced out. Deadman then frees Batman and Red Robin, who had frozen themselves to escape the Black Lanterns' onslaught.<ref>''Blackest Night: Batman'' #3 (October 2009)</ref> He is later seen inside the Black Lantern [[Damage (DC Comics)|Damage]]'s ring, apparently having followed [[Jean Loring]], [[Mera (comics)|Mera]] and [[Atom (Ray Palmer)|the Atom]] when they shrank down into it.<ref>''Green Lantern'' (vol. 4) #49 (December 2009)</ref> He frees Mera and the Atom from Loring by briefly possessing her, allowing them time to return to normal size. During this incident he says he believes possessing the Black Lanterns causes him damage.<ref>''Blackest Night'' #6 (December 2009)</ref> He is later seen at Nanda Parbat, attempting to stop the Black Lanterns attempting to pass through the spiritual barrier by taking over their bodies and ripping them apart. He briefly loses himself to a Black Lantern's personality, but is saved by the [[Phantom Stranger]]. The Stranger convinces Deadman to enter his body again, telling them it is his destiny to bring it within Nanda Parbat. With the Stranger's help, Deadman is able to force the black ring off his body, bringing it through the gate of Nanda Parbat. The body, which the Stranger states is of "singular importance", is placed under the gatekeeper and [[Blue Devil (DC Comics)|Blue Devil]]'s protection, and Deadman heads out, intent on sharing the information he gleaned while inside the Black Lanterns with [[Hal Jordan]].<ref>''The Phantom Stranger'' (vol. 2) #42 (January 2010)</ref> In the aftermath of the final battle, Deadman, wearing a [[White Lantern]] ring, is resurrected by the power of the white light.<ref>''Blackest Night'' #8 (March 2010)</ref>
+
+===Brightest Day===
+In the 2010–11 miniseries ''[[Brightest Day]]'', Deadman discovers that his white power ring can restore the dead to life,<ref>''Brightest Day'' #0 (April 2010)</ref> and begins to acclimate to living again, including exercising self-preservational habits,<ref>''Brightest Day'' #3 (June 2010)</ref> though he expresses reservations about being alive again. As he attempts to learn what his mission on Earth is, he teams up with [[Hawk and Dove]].<ref>''Brightest Day'' #4 (June 2010)</ref> Deadman learns that he will cross paths with the person the Entities chose to guard the Earth.<ref>''Brightest Day'' #7 (August 2010)</ref> The Entity also instructs Deadman to embrace life and those around him, as he led a selfish life in his previous one, realizing the value of others only after he died. In learning to appreciate his new life, Deadman realizes that he and Dove have fallen in love,<ref>''Brightest Day'' #14 (November 2010)</ref> and reconnects with his grandfather.<ref>''Brightest Day'' #17 (January 2011)</ref>
+
+The Entity also tells Deadman that when Nekron attacked Earth, the contamination of his presence on the planet manifested itself in the form of a "dark avatar" who will try to destroy the [[Star City (comics)|Star City]] forest, which is the key to saving Earth's soul.<ref>''Brightest Day'' #19 (February 2011)</ref> The Entity reveals that Earth's savior is [[Alec Holland]],<ref>''Brightest Day'' #23 (April 2011)</ref> and the "dark avatar" is a corrupted [[Swamp Thing]], which once thought that it was Holland, but now believes itself to be Nekron. In the forest, [[Captain Boomerang]] throws one of his deadly boomerangs at Dove, but it impacts Deadman instead. As his dying act, he gives his white power ring to Holland, transforming him into a new Swamp Thing, who destroys the corrupted, original Swamp Thing. Unable to return to life, Deadman and Dove, heartbroken at being denied a happy life now that he can never again be resurrected, share an emotional farewell.<ref>''Brightest Day'' #24 (April 2011)</ref>
+
+===The New 52===
+In [[The New 52]], Deadman's origins are rebooted in the initial run of ''DC Universe Presents'', a new anthology book. After living a selfish life as Boston Brand, he is forced to possess people as Deadman following his assassination, in order to set problems in their lives right, so he can avoid an eternity in Hell.<ref>{{cite book|title=DC Universe presents #1: Deadman|publisher=DC Comics|author=Paul Jenkins|date=September 2011}}</ref> He also features as a member of the [[Justice League Dark]], a new team of DC's more supernatural characters. Deadman uses his possession talents to help take down various supernatural threats, such as Dr. Mist and Faust Sr. Despite their earlier claim, he and Dove try to rekindle their love. However, their attempt fails miserably as Deadman insists on carrying on their relationship forward using borrowed bodies, while Dove shows disdain and repulsion to the idea. Furthermore, by helping out June Moone, they both gain the enmity of a crazed [[Enchantress (DC Comics)|Enchantress]].<ref>''Justice League Dark'' #2 (2011)</ref>
+
+===DC Rebirth===
+As part of the [[DC Rebirth]] continuity, a three-part miniseries, ''Deadman: Dark Mansion of Forbidden Love'' was released in October 2016.<ref>[http://www.dccomics.com/comics/deadman-dark-mansion-of-forbidden-love-2016/deadman-dark-mansion-of-forbidden-love-1 DEADMAN: DARK MANSION OF FORBIDDEN LOVE #1] on DCComics.com</ref> The story featured the creative team of Sarah Vaughn (writer) and Lan Medina (artist).<ref>[http://comicsalliance.com/sarah-vaughn-deadman-dark-mansion-of-forbidden-love-interview/ Sarah Vaughn On ‘Deadman: Dark Mansion’ And Why Queer Ghost Stories Matter] by Elle Collins, Comics Alliance, February 17, 2017</ref> Deadman also appears in the ''Trinity'' book, focused on Batman, Superman, and Wonder Woman, along with his fellow Justice League Dark teammates Zatanna and John Constantine.
+
+==Powers and abilities==
+As a disembodied spirit, Deadman could not be seen or heard by most others (certain mystics could still perceive him), was able to pass through objects, and could fly or float. He was able to possess any living being (human or animal), control their actions, and could communicate with people through another's body. Furthermore, the possession process is nearly instant in transition, enabling Deadman to possess different bodies in rapid succession for tactical advantage in combat. In one storyline, however, he could not control certain criminal henchmen he possessed due to their minds being under [[hypnosis|post-hypnotic suggestion]] (since their minds were not truly theirs in that instance). The people he possessed retained no memory of the experience. He has issues possessing those with stronger minds like Batman and is often forced out in a short amount of time. Deadman also has problems with magic as his spiritual form can be manipulated by it to some degree.
+
+As a living human, he is an Olympic-level athlete well-trained in acrobatics. As a wearer of a White power ring he possesses whatever powers the ring confers upon its wielder. These powers, so far, include flight, invisibility (or the ability to cloak his presence), teleportation, healing severe wounds, making solid energy constructs, and the power to bring beings back to life. He had no control over these new powers and the scope and limitations on those powers are as yet undefined. The Black Lantern power ring gave his reanimated corpse similar abilities, but it reanimates the dead instead of fully resurrecting them.
+
+==Other versions==
+===''Kingdom Come''===
+Deadman appeared twice briefly in [[Mark Waid]] and [[Alex Ross]]' [[Elseworlds]] story ''[[Kingdom Come (comics)|Kingdom Come]]'', first as an extra in a metahuman bar (alongside [[Rorschach (comics)|Rorschach]], [[Obsidian (comics)|Obsidian]], and [[Question (comics)|the Question]]) where he offered some words of encouragement to [[Norman McCay]]. He appears as a skeleton wearing the tattered remains of his Deadman uniform. He introduces himself as simply "Boston", and also appears in the sequel ''[[The Kingdom (comics)|The Kingdom]]'' as a guide to time-lost, deceased versions of [[Superman]]. This version of Deadman was made into an action figure by [[DC Direct]] for Series 3 of their ''Kingdom Come'' line.<ref>{{cite web|url=http://www.oafe.net/yo/dcdkc3dm.php|title=OAFE – DC Direct Kingdom Come: Deadman review|website=www.oafe.net}}</ref>
+
+===''The Books of Magic''===
+Deadman also appears in [[Neil Gaiman]]'s story ''[[The Books of Magic]]'', looking very similar to his appearance in ''Kingdom Come''. He possesses the body of several people throughout the comic, trying to warn Timothy Hunter about a coming danger.
+
+===Vertigo===
+In 2006, a DC Comics imprint [[Vertigo (DC Comics)|Vertigo]] traded some of its trademark characters with others of DC's. Among the swaps was Vertigo's [[Jonah Hex]] in exchange for Deadman. The result was [[Deadman (Vertigo)|a continuing series]] published later that year.
+
+===''Bizarro World''===
+Deadman also had a brief comic in the book ''Bizarro World'' where he was interested in meeting girls and dating while in [[Limbo (DC Comics)|Limbo]].
+
+===''Superman & Batman: Generation II''===
+During ''[[Superman & Batman: Generations#Generations 2|Superman & Batman: Generations II]]'', Deadman is summoned by [[Doctor Occult]] to assist the third Batman (Bruce Wayne, Junior, the son of the first Batman) to investigate the elderly [[Joker (comics)|Joker]]'s apparent delusions that Batman is trying to kill him. By possessing the Joker's body, Deadman discovers that the Joker is being haunted by the ghost of Dick Grayson.  Grayson's ghost is seeking revenge, as the Joker killed him when Grayson was in the role of Batman.  
+While the Joker's insane mind makes it difficult for Deadman to possess the criminal, he is able to hold on long enough to allow the ghost of [[Alfred Pennyworth]] to convince the ghost of Grayson that is his time to pass on.
+
+===''Superman/Batman''===
+Deadman appeared briefly in Jeph Loeb's "Absolute Power" story arc in ''[[Superman/Batman]]'', in which he attempted to possess Superman after he and Batman killed off all the monks of Nanda Parbat (under orders from their [[Legion of Super-Villains|adoptive parents]], who saw the monks as a threat to their plans in an alternate timeline). Deadman is prevented from using Superman's strength to kill Batman when Batman uses a spell from [[Zatanna]] to trap Deadman inside a crystal.
+
+===''Flashpoint''===
+In the alternate timeline of the ''[[Flashpoint (comics)|Flashpoint]]'' storyline, Boston Brand is a part of the [[Haly's Circus]], featured in a show alongside the [[Flying Graysons]]. Boston is still as obnoxious and arrogant as he was before he died and does not wish to be a part of the circus. Brand makes fun of the circus' fortune teller [[Doctor Fate]] until Fate gives him a vision of Boston himself standing over a dead [[Dick Grayson]]. Before the next show, Boston tries to convince Dick to go solo as he himself had. However, Dick tells him that family means too much to him. Dick poses the question that Boston's seeming fearlessness could stem from his insecurity of being alone.<ref>''[[Deadman and the Flying Graysons|Flashpoint: Deadman and the Flying Graysons]]'' #1 (June 2011)</ref> Haley Circus is attacked by Amazons who want the Helm of [[Nabu (comics)|Nabu]]. While Boston, along with the circus, is running away from the Amazons, they are rescued by the Resistance member [[Count Vertigo|Vertigo]]. When they are hiding, Boston tells Dick to leave his father since he's fatally wounded, but Dick refuses. Before he dies Dick's father asks Boston to protect his son.<ref>''Flashpoint: Deadman and the Flying Graysons'' #2 (July 2011)</ref> Later, Boston and Dick are running around the countryside looking for reinforcements, when they are soon caught in an explosion. It appears that they both survived the explosion, but when Boston tells Dick he is okay, Dick walks through him towards Boston's dead body behind him. Boston realizes that he is now a ghost whose presence cannot be seen or heard. He helps Dick, keeping him safe from the Amazons. Meeting up with the Resistance, Boston aids Dick who has become the new Doctor Fate and lets him know that he is not alone.<ref>''Flashpoint: Deadman and the Flying Graysons'' #3 (August 2011)</ref>
+
+===''The Batman Adventures''===
+Deadman was in the comic books based on ''[[Batman: The Animated Series]]'' and his origin was similar to his mainstream comics appearances with minor changes: he was in the [[Haly's Circus]] and Rama Kushna was male.
+
+Deadman appears as a "[[Haly's Circus]]" performer in the ''[[The Batman Adventures|Batman & Robin Adventures]]'' comic in issue #15 and meets [[Dick Grayson]] for the first time since taking over for The Flying Graysons.
+
+Issue #6 of the follow-up series, ''[[The Batman Adventures|Batman: Gotham Adventures]]'', featured his assassination and transformation to the supernatural Deadman. His killer, Hook, appears as well.
+
+===''Injustice: Gods Among Us''===
+Deadman appears in the ''[[Injustice: Gods Among Us]]'' prequel comic as a vision prophesied by [[Madame Xanadu]] in the sixth chapter of Year Three. He is later "killed" by the new [[Mister Mxyzptlk|Spectre]]. Deadman passes on his role as Deadman to the spirit of Dick Grayson, who was accidentally killed by [[Damian Wayne]], before he moves on to the afterlife.
+
+==In other media==
+===Television===
+====Live-action====
+* Following the success of ''[[X-Men (film)|X-Men]]'' (2000), [[Warner Bros. Television]] announced that a ''Deadman'' television film for [[TNT (U.S. TV network)|TNT]] was in development, which was also being considered as a pilot for a potential television series.<ref>{{cite news| url=https://www.variety.com/article/VR1117785393.html | work=Variety | title=WB TV, TNT dig 'Deadman' | first=John | last=Dempsey | date=August 22, 2000}}</ref> The project was in development until 2003, but was later shelved.<ref>{{cite web|url=https://www.cbr.com/deadman-ghost-rider-updates-also-smallville-the-crow-and-battle-royale-comics2film-wrap-for-may-13-2003/|title='DEADMAN', 'GHOST RIDER' UPDATES. ALSO: 'SMALLVILLE', 'THE CROW' AND 'BATTLE ROYALE': COMICS2FILM WRAP FOR MAY 13, 2003|website=[[Comic Book Resources]]|last=Worley|first=Rob|date=May 13, 2003}}</ref>
+* In 2011, WBTV hired ''[[Supernatural (U.S. TV series)|Supernatural]]'' creator [[Eric Kripke]] to helm a ''Deadman'' television series for [[The CW]], as the network was looking to commission a new superhero series.<ref>{{cite news| url=http://www.ksitetv.com/7836/deadman-tv-series-in-development-at-the-cw-from-supernaturals-eric-kripke/ | work=KSiteTV | title=Deadman TV Series In Development At The CW From Supernatural's Eric Kripke  | first=Craig | last=Byrne | date=August 25, 2011}}</ref> The following year, another superhero series, ''[[Arrow (TV series)|Arrow]]'', debuted on the network. The ''Deadman'' series never materialized and Kripke has since moved on to other projects.
+
+====Animation====
+[[File:DeadReckoningCartoon.jpg|thumb|Deadman as he appeared in the ''[[Justice League Unlimited]]'' series.]]
+* Deadman appeared in the ''[[Justice League Unlimited]]'' episode "Dead Reckoning", voiced by [[Raphael Sbarge]]. This version is Rama Kushna's champion and has previously worked with [[Batman]] to solve his murder before coming to reside in a temple at [[Nanda Parbat]].
+* Deadman appears in ''[[Batman: The Brave and the Bold]]'' episode "Dawn of the Deadman!", voiced by [[Michael Rosenbaum]].<ref>{{cite web|url=http://news.toonzone.net/article.php?ID=25153|title=Toon Zone – Your Source for Toon News!<!-- Bot generated title -->|url-status=dead|archive-url=https://web.archive.org/web/20080828013406/http://news.toonzone.net/article.php?ID=25153|archive-date=2008-08-28}}</ref> While this version's origin remains largely the same, he is not stated to have a connection to Rama Kushna. Additionally, he is suffers from melancholic self-pity over not knowing how or why he is unable to "cross over" until he joins forces with Batman, [[Green Arrow]], and [[Roy Harper (comics)|Speedy]] to defeat [[Gentleman Ghost]] and becomes a hero.
+* Boston Brand's corpse appears in the ''[[Teen Titans Go!]]'' episode "La Larva de Amor".
+* Deadman appears in a self-titled segment of ''[[DC Nation Shorts]]'', voiced by [[Matt Jones (actor)|Matt L. Jones]].
+
+===Film===
+* [[Guillermo del Toro]] has taken interest in producing a film about Deadman, supposedly from the only source. ''[[Variety (magazine)|Variety]]'' reported that [[Nikolaj Arcel]] was set to direct.<ref>{{cite web|first=Dave|last=McNary|url=https://variety.com/2009/film/markets-festivals/nikolaj-arcel-to-take-on-deadman-1118007952/|title='Nikolaj Arcel to take on 'Deadman'|publisher=Variety|date=August 31, 2009|access-date=December 1, 2016}}</ref>
+* Deadman appears in ''[[Justice League Dark (film)|Justice League Dark]]'', voiced by [[Nicholas Turturro]].<ref>{{cite news|url=http://www.superherohype.com/news/379295-justice-league-dark-featurette-reveals-matt-ryan-returns-as-constantine|title=Justice League Dark Featurette Reveals Matt Ryan Returns as Constantine!|publisher=Superhero Hype|last=Perry|first=Spencer|date=July 26, 2016}}</ref>
+* Deadman appears in ''[[Teen Titans Go! To the Movies]]''.
+* The [[Dick Grayson]] incarnation of Deadman, dubbed "'''Deadwing'''" appears in ''[[Injustice (2021 film)|Injustice]]''.
+
+===Video games===
+* Deadman makes a non-speaking cameo appearance in [[Raiden (Mortal Kombat)|Raiden]]'s ending for ''[[Injustice 2]]'' as a founding member of the [[Justice League Dark]].
+* Deadman appears as a playable character in ''[[Lego DC Super-Villains]]'', as part of the "Justice League Dark DLC Character Pack", voiced by [[Steve Blum]].<ref>{{cite web|url=https://variety.com/2018/gaming/news/lego-dc-super-villains-1202825037/|title='Lego DC Super-Villains' Drops in October|first=Brian|last=Crecente|date=30 May 2018}}</ref>
+
+==Collected editions==
+{| class="wikitable sortable"
+|-
+! Title
+! Material collected
+! Page Count
+! Year
+! ISBN
+|-
+|''The Deadman Collection''
+|''Strange Adventures'' #205–216; ''The Brave and the Bold'' #79, 86, 104; ''Aquaman'' #50–52; ''Challengers of the Unknown'' #74
+|342
+|2001
+|978-1563898495
+|-
+|''Deadman Book One''
+|''Strange Adventures'' #205–213
+|176
+|2011
+|978-1401231163
+|-
+|''Deadman Book Two''
+|''The Brave and the Bold'' #79 and 86; ''Strange Adventures'' #214–216; ''Aquaman'' #50–52; ''Challengers of the Unknown'' #74
+|168
+|2012
+|978-1401233884
+|-
+|''Deadman Book Three''
+|''The Phantom Stranger'' (vol. 2) #33, 39–41; ''The Brave and the Bold'' #133; ''Superman Family'' #183; ''World's Finest'' #223, 227; ''DC Super-Stars'' #18
+|176
+|2012
+|978-1401237288
+|-
+|''Deadman Book Four''
+|''DC Special Series'' #8; ''Adventure Comics'' #459–466; ''DC Comics Presents'' #24
+|168
+|2014
+|978-1401243241
+|-
+|''Deadman Book Five''
+|''Deadman'' (vol.2) #1–4; ''Secret Origins'' #15; ''Challengers of the Unknown'' #85–87
+|176
+|2014
+|978-1401246112
+|-
+|''Deadman: Lost Souls''
+|''Deadman: Love After Death'' #1–2; ''Deadman: Exorcism'' #1–2
+|200
+|1995
+| 978-1563891885
+|-
+|''Deadman by Kelley Jones: The Complete Collection''
+|''Action Comics Weekly'' #618–626, ''Deadman: Love After Death'' #1–2; ''Deadman: Exorcism'' #1–2
+|272
+|2017
+|978-1401271671
+|-
+|''Batman/Deadman: Death and Glory''
+|Original Graphic Novel
+|92
+|1996
+|978-1563892288
+|-
+|''Deadman: Deadman Walking''
+|''Deadman (vol. 4) #1-5''
+|128
+|2007
+|978-1401212360
+|-
+|''DC Universe Presents Vol. 1 featuring Deadman & Challengers of the Unknown''
+|''DC Universe Presents'' #1-8
+|192
+|2012
+|978-1401237165
+|-
+|''Deadman: Dark Mansion of Forbidden Love''
+|''Deadman: Dark Mansion of Forbidden Love'' #1-3
+|160
+|2017
+|978-1401268411
+|-
+|''Deadman''
+|''Deadman'' (vol. 5) #1-6
+|160
+|2018
+|978-1401281410
+|-
+|''Deadman Omnibus''
+|''Strange Adventures'' #205-216; ''The Brave and the Bold'' #79, 86, 104, 133; ''Aquaman'' #50-52; ''Challengers of the Unknown'' #74, 84-87;<br> ''Justice League of America'' #94, ''World’s Finest Comics'' #223, 227; ''The Phantom Stranger'' (vol. 2) #33, 39-41;<br> ''Superman Family'' #183; ''DC Super Stars'' #18; ''DC Special Series'' #8; ''Adventure Comics'' #459-466; ''DC Comics Presents'' #24;<br> ''Detective Comics'' #500; ''Deadman'' (vol. 2) #1-4; ''Secret Origins'' #15; covers from ''Deadman'' #1-7
+|944
+|2020
+|978-1779504883
+|-
+|}
+
+==Notes==
+{{Reflist}}
+
+==References==
+* Dennis O'Neil and Neal Adams, ''The Deadman Collection'', DC Comics, 2001, {{ISBN|1-56389-849-7}} {{ISBN|978-1-56389-849-5}}.
+* Jack Kirby, ''Jack Kirby's Fourth World Omnibus Volume Three'', DC Comics, 2007, {{ISBN|1-4012-1485-1}}, {{ISBN|978-1-4012-1485-2}}.
+
+==External links==
+* [https://archive.today/2013.02.16-224117/http://www.toonopedia.com/articles/deadman.htm Toonopedia: Deadman profile]
+* [http://www.dcuguide.com/who.php?name=deadman DCU Guide: Deadman] {{Webarchive|url=https://web.archive.org/web/20060901200147/http://www.dcuguide.com/who.php?name=deadman |date=2006-09-01 }}
+* [https://web.archive.org/web/20090107135948/http://users.rcn.com/aardy/comics/awards Comic Book Awards Almanac] 
+* [http://deadmanissuebyissue.tumblr.com/ Deadman Comics Issue by Issue]
+
+{{Justice League Dark}}
+{{Justice League characters}}
+{{Batman characters}}
+{{Vertigo Comics Ongoing Series}}
+{{DC Comics Mystery Titles|state=collapsed}}
+
+[[Category:1967 comics debuts]]
+[[Category:Comics characters introduced in 1967]]
+[[Category:Characters created by Carmine Infantino]]
+[[Category:Characters created by Arnold Drake]]
+[[Category:DC Comics male superheroes]]
+[[Category:DC Comics titles]]
+[[Category:DC Comics fantasy characters]]
+[[Category:DC Comics superheroes]]
+[[Category:DC Comics undead characters]]
+[[Category:Fictional ghosts]]
+[[Category:Fictional characters with spirit possession or body swapping abilities]]
+[[Category:Fictional characters who can turn invisible]] 
+[[Category:Fictional characters who can turn intangible]]
+[[Category:Undead superheroes]]
+[[Category:Fictional trapeze artists]]

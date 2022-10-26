@@ -1,0 +1,54 @@
+{{Infobox comic book title <!--Wikipedia:WikiProject Comics-->
+|image               = Ectokid1.jpeg
+|caption             = ''Ectokid'' #1 (Sept. 1993), cover art by [[Steve Skroce]].
+|schedule            = Monthly
+|ongoing             = y
+|Superhero           = y
+|publisher           = [[Marvel Comics]]
+|date                = September 1993 - May 1994
+|issues              = 9
+|main_char_team      =
+|writers             = [[James Robinson (comics)|James Robinson]]<br />[[The Wachowskis|Lana Wachowski]]<br />[[The Wachowskis|Lilly Wachowski]] (uncredited)
+|artists             =
+|pencillers          = [[Steve Skroce]]
+|inkers              = Bob Dvorak
+|letterers           = [[Gaspar Saladino]]
+|colorists           = [[John Kalisz]]
+|editors             = [[Marcus McLaurin]]
+|creative_team_month =
+|creative_team_year  =
+|creators            = [[Clive Barker]]
+|TPB                 =
+|ISBN                =
+|subcat              = Marvel Comics
+|sort                = Ectokid
+}}
+'''''Ectokid''''' is a [[Superhero comics|superhero]] [[comic book]] series published by [[Marvel Comics]]' [[Razorline]] [[imprint (trade name)|imprint]] that ran from 1993 to 1994. Created by filmmaker and [[horror fiction|horror]]/[[fantasy]] novelist [[Clive Barker]] as one of the imprint's four interconnected series, it starred teenaged Dexter Mungo, the child of a mortal and a ghost, who is able to see and interact with the dangerous, interdimensional Ectosphere.
+
+==Publication history==
+''Ectokid'' was one of Clive Barker's four Razorline titles, all set in the newly introduced "Barkerverse". Razorline published a preview comic in July 1993 called "First Cut", which covered the four titles, each one having a written introduction by Barker, a short prequel comic strip, and a description by the series writer (in the case of ''Ectokid'', written by [[the Wachowskis|Lana Wachowski]], credited as Larry Wachowski).
+
+The main series ran for nine issues ([[cover-date]]d Sept. 1993 – May 1994) before being discontinued with the rest of the Razorline titles. All art was by [[penciller]] [[Steve Skroce]] and [[inker]] Bob Dvorak. The first three issues were written by [[James Robinson (comics)|James Robinson]], with issue #3 set up as a cliffhanger and joint credit given to Wachowski, who wrote the remaining six issues.<ref name=gcd>{{gcdb series|id=4692|title=Ectokid}}</ref> Wachowski's sister [[the Wachowskis|Lilly]] co-wrote with her, uncredited.<ref>{{cite news|last=Ojumu |first=Akin |url=http://observer.guardian.co.uk/comment/story/0,6903,958269,00.html |title=Brothers Grim |work=[[The Guardian]] |location=UK |date=May 18, 2003 |archiveurl=https://web.archive.org/web/20121021004519/http://www.guardian.co.uk/film/2003/may/18/comment.features |archivedate=October 21, 2012 |url-status=live}}</ref>
+
+The final Razorline release was the one-shot ''Ektokid Unleashed'' (Oct. 1994), written by [[Dan Abnett]] and [[Andy Lanning]], with artwork by penciler Hector Gomez and inker John Strangeland. It included a prose [[short story]] by [[Elaine Lee]] about another Razorline character, [[Saint Sinner (comics)|Saint Sinner]].<ref>[http://www.maelmill-insi.de/UHBMCC/razor.htm#S1570 ''Ectokid Unleashed'' #1] at The Unofficial Handbook of Marvel Comics Creators. ("Features" link) [https://web.archive.org/web/20150715163237/http://www.maelmill-insi.de/UHBMCC/razor.htm Archived] from the original on October 23, 2015.</ref><ref>[http://www.comics.org/series/5016/ ''Hyperkind Unleashed'' #1] at the Grand Comics Database.</ref>
+
+==Fictional character biography==
+''Ectokid'' is about 14-year-old Dexter Mungo, whose father was a ghost. Dex, as he is called, sees the world as it normally is through his right eye, but through his left he can see into the Ectosphere, a dimension similar to Earth but with a number of crucial differences. All the regular-Earth buildings are in the same places, but have a crusted and coral-covered appearance, and this world is populated by creatures and races out of myths, legends, and nightmares.
+
+As Barker described, "''Ectokid'', which is perhaps the second weirdest of the bunch, is a kind of dream story for the 15-year-old that's still alive to me — the tale of an adolescent who lives in two worlds and has access to a whole other sphere of reality".<ref>Barker, Clive, in {{cite news| title=Razorline| first=Tom |last=Russo| work=[[Marvel Age]]| issue= #126|date= July 1993}} Quote excerpted in {{cite web|url=http://www.clivebarker.info/ints93b.html |publisher=Clive Barker (official site) |title=Interviews, Part Two |archiveurl=https://www.webcitation.org/5qpSos8Nt?url=http://www.clivebarker.info/ints93b.html |archivedate=June 28, 2010 |url-status=live}}</ref>
+
+==Other media==
+A game based on the series, called ''Ectosphere'', was planned during the initial run of the comic, though never produced.<ref>{{cite web|url=http://www.clivebarker.info/othersold.html|title=Other Media|work=The Official Clive Barker Website}}</ref><ref>{{cite book|title=The Encyclopedia of Hell|first=Miriam|last=Van Scott|publisher=Macmillan|date=2015|page=29|url=https://books.google.com/books?id=N1EnBgAAQBAJ&q=ectosphere}}</ref> After the cancellation of Razorline, Barker sold the television and film rights to [[Nickelodeon Movies]] and [[Paramount Pictures]] in 2001. The film was set to have Barker, [[Don Murphy]], and Nickelodeon's [[Albie Hecht]] and Julia Pistor as producers, Joe Daley as executive producer, and Karen Rosenfelt overseeing development at Paramount. Barker would also act as executive producer of the television series, with Daley and Murphy as producers. Talking to ''[[Variety (magazine)|Daily Variety]]'', Barker explained that his aim was to create "a franchisable world" for the studio, "of great, transcendent beauty; one that reconfigures people's expectations of what ghosts are, of what comes after death".<ref>{{cite web|first1=Claude|last1=Brodesser|first2=Cathy|last2=Dunkley|title=Par, Nick take 'Kid' for ride|work=Daily Variety|date=August 12, 2001|url=https://variety.com/2001/film/news/par-nick-take-kid-for-ride-1117851104/}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.maelmill-insi.de/UHBMCC/razor.htm#S1569 ''Ectokid''] at the Unofficial Handbook of Marvel Comics Creators. [https://web.archive.org/web/20150715163237/http://www.maelmill-insi.de/UHBMCC/razor.htm Archived] from the original on October 23, 2015.
+* {{comicbookdb|type=title|id=1320|title=Ectokid}}
+* [http://www.internationalhero.co.uk/e/ectokid.htm Ectokid]  at An International Catalogue of Superheroes. [https://web.archive.org/web/20160303193739/http://www.internationalhero.co.uk/e/ectokid.htm Archived] from the original on October 23, 2015.
+* [http://www.clivebarker.com/html/visions/bib/comics/ecto/index.html ''Ectokid''] at CliveBarker.com (unofficial site). [https://web.archive.org/web/20160304000501/http://www.clivebarker.com/html/visions/bib/comics/ecto/index.html Archived] from the original on October 23, 2015.
+
+[[Category:1993 comics debuts]]
+[[Category:Science fantasy comics]]
+{{Clive Barker}}

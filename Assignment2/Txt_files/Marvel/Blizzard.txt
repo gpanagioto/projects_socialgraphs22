@@ -1,0 +1,248 @@
+{{Short description|Marvel Comics fictional character}}
+{{about|the Marvel Comics characters|other uses|Blizzard (disambiguation)}}
+'''Blizzard''' is the name of different fictional characters appearing in [[American comic book]]s published by [[Marvel Comics]]. The character is usually depicted as a member of [[Iron Man]]'s [[rogues gallery]].
+
+The Donnie Gill incarnation has had the most appearances, appearing in several forms of animated media and video games as well as a live-action incarnation in the [[Marvel Cinematic Universe]] TV series ''[[Agents of S.H.I.E.L.D.]]'', portrayed by [[Dylan Minnette]], though the Gregor Shapanka and Randy Macklin incarnations have also appeared in animation.
+
+==Publication history==
+Created by [[Stan Lee]] and [[Don Heck]], the Gregor Shapanka version of Blizzard appeared as Jack Frost in ''[[Tales of Suspense]]'' #45 (Sept. 1963),<ref>{{cite book |last1=Brevoort |first1=Tom |last2=DeFalco |first2=Tom |last3=Manning |first3=Matthew K. |last4=Sanderson |first4=Peter |last5=Wiacek |first5=Win |title=Marvel Year By Year: A Visual History |date=2017 |publisher=DK Publishing |isbn=978-1465455505 |page=94}}</ref> and as Blizzard beginning in ''[[Iron Man (comic book)|Iron Man]]'' #86 (May 1976).<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=57}}</ref> He was killed off in ''[[The Amazing Spider-Man]]'' Annual #20 (Nov. 1986).
+
+The Donnie Gill Blizzard first appeared in ''[[Iron Man (comic book)|Iron Man]]'' #223 (Oct. 1987) and was created by [[David Michelinie]] and [[Bob Layton]].
+
+The Randy Macklin version of Blizzard first appeared in the ''[[Marvel Holiday Special]]'' #2 (Jan. 1993) and was created by Sholly Fisch and [[Tom Morgan (comics)|Tom Morgan]].
+
+==Fictional character biographies==
+===Gregor Shapanka===
+{{Infobox comics character
+<!--Wikipedia:WikiProject Comics-->
+| character_name = Blizzard
+| image          = <!-- filename format only -->
+| imagesize      = <!-- default 250 -->
+| caption        = 
+| publisher      = [[Marvel Comics]]
+| debut          = '''As Jack Frost:'''<br />''[[Tales of Suspense]]'' #45 (Sept. 1963)<br />'''As Blizzard:'''<br />''[[Iron Man (comic book)|Iron Man]]'' #86 (May 1976)
+| first_series   = 
+| first_episode  = 
+| first_comic    = 
+| creators       = '''Jack Frost:'''<br />[[Stan Lee]]<br />[[Don Heck]]<br />'''Blizzard:'''<br />[[Bill Mantlo]]<br />[[George Tuska]]
+| voiced_by      = 
+| based_on       = 
+| alter_ego      = 
+| full_name      = Gregor Shapanka
+| species        = Human
+| homeworld      = <!-- optional -->
+| alliances      = <!-- optional -->
+| partners       = <!-- optional -->
+| supports       = <!-- optional -->
+| aliases        = Jack Frost
+| powers         = Micro-circuited suit grants:<br />Cold manipulation and projection
+| cat            = 
+| subcat         = 
+| hero           = 
+| villain        = 
+| sortkey        = 
+| addcharcat#    = 
+|}}
+Gregor Shapanka is a Hungarian scientist obsessed with immortality, and decides that the study of [[cryonics]] is the first step towards his goal. Shapanka takes a job at [[Stark Industries]] to fund his research and attempts to steal directly from [[Iron Man|Tony Stark]]. After being caught and fired by Tony Stark for trying to steal from Tony Stark's secret vault, Gregor creates a suit containing cold-generating devices and is dubbed by the newspapers as "Jack Frost."<ref>{{cite book |last =Rovin |first =Jeff |title =The Encyclopedia of Supervillains |publisher =Facts on File |date =1987 |location =New York |isbn = 0-8160-1356-X |page=33}}</ref> He attempts to raid Stark Industries where he captures [[Pepper Potts]] and [[Happy Hogan (comics)|Happy Hogan]], but is defeated by Iron Man.<ref>''Tales of Suspense'' #45 (Sept. 1963). Marvel Comics.</ref>
+
+Several years later, Gregor Shapanka escaped prison and attacked Stark's Long Island industrial complex using a new far more powerful cold-generating battle suit and calling himself Blizzard. This time, Blizzard was out to steal Stark's climatron device which could be used to alter weather patterns. Blizzard nearly froze Iron Man to death, but Iron Man was rescued by Potts. Iron Man caused Blizzard's battle suit to short-circuit and then captured him.<ref>''Iron Man'' #86–87 (Apr. – May 1976). Marvel Comics.</ref>
+
+Gregor Shapanka obtained financing for recreating his cold-generating costume from multimillionaire [[Justin Hammer]]. Blizzard formed a partnership with two other clients of Hammer known as [[Whiplash (comics)|Blacklash]] and the [[Melter]]. Together, the three criminals attacked a hotel casino in Atlantic City, only to be defeated by Iron Man and private bodyguard [[Bethany Cabe]].<ref>''Iron Man'' #123. Marvel Comics.</ref>
+
+Shortly thereafter, Shapanka reconstructs his cold suit in prison. When [[Electro (Marvel Comics)|Electro]] uses his electrical powers to break out of the adjoining cell, Shapanka is caught in the blast and the suit is fused to his body. Electro and Blizzard then join forces to take over the ''[[Daily Bugle]]'', but are stopped by [[Spider-Man]] and [[Daredevil (Marvel Comics character)|Daredevil]].<ref>''Marvel Team-Up'' #56 (Apr. 1977). Marvel Comics.</ref>
+
+Some months later during the "[[Demon in a Bottle]]" storyline, Justin Hammer hires Blizzard to join an army of supervillains and battle Iron Man.<ref>''Iron Man'' #127 (Oct. 1979). Marvel Comics.</ref>
+
+Blizzard's body somehow gained the ability to generate intense cold without artificial means. Feeling alienated from humanity, Shapanka (again calling himself Jack Frost) went to live in an ice palace he created within a mountain. The [[Hulk]] found Jack Frost's new home and destroyed the ice palace. Jack Frost was seemingly killed in the collapse of his ice domain.<ref>''The Incredible Hulk'' vol. 2 #249. Marvel Comics.</ref>
+
+Gregor Shapanka reappeared in the guise of Blizzard. Somehow, Blizzard had lost his bodily power to generate cold and once again needed his battle suit to create low temperatures. Shapanka returned to crime and formed a gang to aid him. However, upon robbing a bank in New York City, Blizzard and his henchmen were found and defeated by [[Spider-Man]] and were taken into police custody. Thanks to his lawyer, Blizzard was soon back at large and kidnapped Bobby Saunders (a boy whom he saw speaking with Spider-Man). Through Saunders, Blizzard intended to get revenge for his most recent defeat. Blizzard mistakes a [[Iron Man 2020|villainous version of Iron Man from the year 2020]] for the modern Iron Man and attempts to ambush him. The future Iron Man however is on an urgent mission to find Bobby Saunders (who would grow up to be a terrorist in 2020) and instantly kills Blizzard with a repulsor blast.<ref>''The Amazing Spider-Man'' Annual #20 (1986). Marvel Comics.</ref>
+
+===Donald Gill===
+{{Infobox comics character
+<!--Wikipedia:WikiProject Comics-->
+| character_name = Blizzard
+| image          = BlizzardDonnieGill.jpg
+| imagesize      = <!-- default 250 -->
+| caption        = Art by [[Rick Leonardi]]
+| publisher      = [[Marvel Comics]]
+| debut          = ''[[Iron Man (comic book)|Iron Man]]'' #223 (Oct. 1987)
+| creators       = [[David Michelinie]]<br />[[Bob Layton]]
+| full_name      = Donald "Donnie" Gill
+| species        = [[Inhumans|Inhuman]]
+| homeworld      = <!-- optional -->
+| alliances      = [[Thunderbolts (comics)|Thunderbolts]]<br />[[Masters of Evil]]<br />[[Justin Hammer|Hammer Industries]]
+| partners       = <!-- optional -->
+| supports       = <!-- optional -->
+| aliases        = <!-- optional -->
+| powers         =*Ice generation and projection
+*Superhuman strength, speed, and agility
+*Electricity manipulation
+| cat            = 
+| subcat         = 
+| hero           = 
+| villain        = 
+| sortkey        = 
+| addcharcat#    = 
+|}}
+Born in Delaware, Donald "Donnie" Gill was a professional criminal hired by [[Justin Hammer]] (who gave him a cryogenic suit resembling the original [[Blizzard (Marvel Comics)#Gregor Shapanka|Blizzard]]'s suit). Since Blizzard was vaporized by Iron Man 2020, Donnie adopted the name. His first mission involved working with the [[Abner Jenkins|Beetle]] and [[Whiplash (comics)|Blacklash]] to capture [[Force (comics)|Force]], who had betrayed Hammer. However, Blizzard was clumsy and annoyed his teammates with his amateurish mistakes (such as creating an ice wall blocking the path to their objective). After encasing Blacklash in ice, the trio fled as reinforcements arrived to protect Force.<ref>''Iron Man'' #223–224. Marvel Comics.</ref>
+
+The trio again tried to capture Force, who was protected by [[Iron Man]]. Although Blizzard fought better, when Force entered the fight, he neutralized the villains' powers. Blizzard, the Beetle, and Blacklash split up, fled and rested until their powers returned. Force found Blizzard, whose powers were ineffective against him, so Blizzard fought him with bare hands. Force repelled him, blasting him through a wall. Blizzard doggedly tried to blast Force again (despite warnings), and was electrocuted. The Beetle and Blacklash abandoned Blizzard; Chemistro blamed them for their failures, and they were arrested.<ref>''Iron Man'' #224. Marvel Comics.</ref>
+
+Before Blizzard could be jailed, he was rescued by the [[Rhino (character)|Rhino]] for Hammer. His loyalty to Hammer increased, although Iron Man tried to mentor him. Hammer negotiated with Iron Man for Blizzard, forcing the latter to help him take down the [[Ghost (Marvel Comics)|Ghost]].<ref>''Iron Man'' #239–240</ref> Iron Man agreed, but Blizzard refused to believe that Hammer betrayed him. After hearing a recording, Blizzard was crushed; he surrendered to Iron Man, and was saved by Chemistro and the Melter.<ref>''Iron Man'' #240. Marvel Comics.</ref>
+
+After solo missions against the [[Avengers (comics)|Avengers]]{{Issue|date=August 2009}} and the [[New Warriors]],<ref>''The New Warriors'' vol. 2 #9. Marvel Comics.</ref> attending the [[Advanced Idea Mechanics|A.I.M. Weapons Expo]] with several other supervillains{{Issue|date=August 2009}} and joining the largest group of the [[Masters of Evil]],{{Issue|date=August 2009}} Blizzard worked with a smaller team (including villains the [[Constrictor (comics)|Constrictor]], [[Crossfire (comics)|Crossfire]] and the daughters of the [[Tarantula (Marvel Comics)|Tarantula]] and [[Batroc the Leaper]]). Their mission failed after interference from [[Agent X (Marvel Comics)|Agent X]] and his allies.<ref>''Agents of X'' #6. Marvel Comics.</ref>
+
+Blizzard attacked the [[She-Hulk]] in a bar; instead of defeating him, she invited him for a drink. Drunk, he contemplated his lack of recognition. Before collapsing in a stupor, Blizzard noted that he liked the She-Hulk. After reverting to her Jennifer Walters persona she collapsed, vomiting, on top of him.<ref>''She-Hulk'' #1 (2004). Marvel Comics.</ref>
+
+With the Avengers disbanded, the Beetle (now known as [[Abner Jenkins|MACH-IV]]) decided to form a new group of [[Thunderbolts (comics)|Thunderbolts]]. Like the original Thunderbolts, they were former villains seeking redemption for their crimes as superheroes. Gill was one of the first members invited to join by MACH-IV, and he agreed.<ref name="New Thunderbolts #1">''New Thunderbolts'' #1. Marvel Comics.</ref> However, he lacked confidence despite his desire to help people. As a Thunderbolt, Blizzard fought several enemies, including Fathom Five,<ref name="New Thunderbolts #1" /> the [[Wrecking Crew (comics)|Wrecking Crew]],<ref>''New Thunderbolts'' #2. Marvel Comics.</ref> and the [[Purple Man]].<ref>''New Thunderbolts'' #12. Marvel Comics.</ref>
+
+Blizzard and fellow Thunderbolt the [[Speed Demon (Marvel Comics)|Speed Demon]] became close friends. When the Speed Demon tried to commit crimes with the [[Shocker (comics)|Shocker]], Blizzard convinced him to use his former Whizzer outfit and a tracking device. Angry with Blizzard, the Speed Demon tied him upside-down and naked on a bridge.<ref>''New Thunderbolts'' #8. Marvel Comics.</ref> Although doubting his status as a superhero and feeling hopeless, Blizzard gained strength from the others (especially [[Songbird (comics)|Songbird]], who insulted him and dismissed him from the group when she became its leader).{{Issue|date=August 2009}}
+
+[[Baron Zemo]], forming a group to fight Songbird's Thunderbolts, recruited Blizzard (who spent his days in bars after his firing by Songbird). His new teammate, the [[Fixer (comics)|Fixer]], enhanced Blizzard's abilities.<ref>''New Thunderbolts'' #15. Marvel Comics.</ref> He battled the Thunderbolts; the groups were soon assimilated, and Blizzard helped them against the [[U-Foes]] during the [[Civil War (comics)|Civil War]].<ref>''Thunderbolts'' #103. Marvel Comics.</ref> Against the [[Overmind (comics)|Overmind]], Blizzard proved himself to his teammates by shielding them (and Songbird).{{Issue|date=August 2009}}
+
+In the final battle against the [[Grandmaster (Marvel Comics)|Grandmaster]], Blizzard's suit was destroyed after the Wellspring energy was released<ref>''Thunderbolts'' #108</ref> and he was pardoned for his past crimes.<ref>''Thunderbolts'' #109. Marvel Comics.</ref> Blizzard later appeared as an inmate at the Raft.<ref>''Thunderbolts'' #156. Marvel Comics.</ref>
+
+Blizzard later aligns himself with Iron Man, [[Zeke Stane]], [[Whirlwind (comics)|Whirlwind]], and the [[Living Laser]] against the [[Mandarin (comics)|Mandarin]] but is defeated by the Mandarin's forces.<ref name="Iron Man' 2012">''Iron Man'' #526 (Nov. 2012). Marvel Comics.</ref>
+
+During the "[[Infinity (comic book)|Infinity]]" storyline, Blizzard was seen with Whirlwind robbing banks when they are approached by the Spymaster. Blizzard and Whirlwind are recruited by the Spymaster to join him and his villain allies (consisting of the [[Constrictor (comics)|Constrictor]], [[Firebrand (Marvel Comics)|Firebrand]] IV, the [[Titanium Man]], the [[Unicorn (Marvel Comics)|Unicorn]], and Whiplash IV) in a plot to attack the almost-defenseless Stark Tower. During the briefing, Blizzard suddenly collapses.<ref>''Infinity: Heist'' #1. Marvel Comics.</ref> When Blizzard regains consciousness, he discovers that his skin has turned white. Blizzard had been exposed to the [[Terrigen Mist]]s unleashed upon the face of the entire Earth by [[Black Bolt]]. Being unknowingly an [[Inhumans|Inhuman]] descendant, Blizzard experienced Terrigenesis, which causes the manifestation of his latent powers. Blizzard thought that this was his opportunity to "be part of something bigger" and decided to leave the Spymaster's team. However, he and Whirlwind were brutally attacked by the Spymaster and the Titanium Man when they tried to leave.<ref>''Infinity: Heist'' #2. Marvel Comics.</ref> Blizzard and Whirlwind were forced into taking part of the assault to Stark Tower. After the Spymaster used teleporter discs to teleport some Iron Man armors to the buyers, he escaped and left Blizzard and the rest of his accomplices to be discovered by the heroes, which were using the tower as a base. They managed to defeat the heroes, and they were offered to be taken to the Spymaster by the Titanium Man. When they arrived to a spaceship where the Spymaster was, they were ambushed by him and the Titanium Man, who revealed himself as [[Captain Atlas]] of the [[Kree]] (who were the masterminds behind the heist).<ref>''Infinity: Heist'' #3. Marvel Comics.</ref> Blizzard and the other villains managed to escape custody and started fighting the Spymaster, the Titanium Man and the army of Iron Men (controlled by the Spymaster). The actual Iron Man arrived to the spaceship, after having tracked down the armors, and helped Blizzard and his allies defeat the enemies. During the fight, Blizzard used the powers he discovered of being like a human battery to overcharge the armors and deactivate them, but he fainted and fell off the spaceship's cargo door. A suit Iron Man was controlling rescued him, but in order to let his friends escape, Blizzard froze himself and the suit. Blizzard was taken to S.H.I.E.L.D. custody and was left under the simulation he had been delivered to the Inhumans in order to prove himself as the changed man Blizzard thought he was....until S.H.I.E.L.D. could know what to do with him.<ref name="Infinity: Heist #4">''Infinity: Heist'' #4. Marvel Comics.</ref>
+
+The Assassins Guild hired Blizzard to target [[Elektra (comics)|Elektra]]. He fought Elektra in the Arctic and was defeated.<ref>''Elektra'' vol. 3 #6. Marvel Comics.</ref>
+
+During the "[[Avengers: Standoff!]]" storyline, Blizzard was shown to be incarcerated at Pleasant Hill which is a S.H.I.E.L.D. prison disguised as a [[gated community]] where the inmates are transformed into model citizens using the powers of [[Kobik]].<ref>''Captain America: Sam Wilson'' #8. Marvel Comics.</ref>
+
+Blizzard later accompanied [[Korvac]], Controller, and Unicorn in fighting Iron Man and Hellcat. During this time, he was seen wearing one of Gregor Shapanka's old costumes.<ref>''Iron Man'' vol. 6 #3. Marvel Comics.</ref>
+
+===Mickey Quaid===
+At the time when Donnie Gill was unavailable, Justin Hammer had a man named Mickey Quaid become a substitute Blizzard in order to assist Afterburner, Beetle, Blacklash, [[Boomerang (comics)|Boomerang]], and [[Spymaster (comics)|Spymaster]] in fighting [[Silver Sable]] and the [[Wild Pack]].<ref>''Silver Sable and the Wild Pack'' #21–22. Marvel Comics.</ref>
+
+===Randy Macklin===
+{{Infobox comics character
+<!--Wikipedia:WikiProject Comics-->
+| character_name = Blizzard
+| image          = 
+| imagesize      = 
+| caption        = 
+| publisher      = [[Marvel Comics]]
+| debut          = ''[[Marvel Holiday Special]]'' #2 (Jan. 1993)
+| creators       = Sholly Fisch<br />[[Tom Morgan (comics)|Tom Morgan]]
+| full_name      = Randall "Randy" Macklin
+| species        = Human
+| homeworld      = <!-- optional -->
+| alliances      = 
+| partners       = <!-- optional -->
+| supports       = <!-- optional -->
+| aliases        = <!-- optional -->
+| powers         = Cryokinesis
+| cat            = 
+| subcat         = 
+| hero           = 
+| villain        = 
+| sortkey        = 
+| addcharcat#    = 
+|}}
+Randall "Randy" Macklin, an ex-criminal, fails to find work following his release from prison and uses a spare Blizzard costume he was safeguarding for his friend Donnie Gill. Macklin, however, is quickly defeated by Iron Man, who offers him a legitimate job at [[Stark Enterprises]].<ref>''Marvel Holiday Special'' #2 (Jan. 1993). Marvel Comics.</ref>
+{{-}}
+
+===Jim===
+{{Infobox comics character
+<!--Wikipedia:WikiProject Comics-->
+| character_name = Blizzard
+| image          = 
+| imagesize      = <!-- default 250 -->
+| caption        = Art by [[Salvador Larroca]]
+| publisher      = [[Marvel Comics]]
+| debut          = ''[[The Invincible Iron Man (comics)|The Invincible Iron Man]]'' #510 (Jan. 2012)
+| creators       = [[Matt Fraction]]<br />[[Salvador Larroca]]
+| full_name      = Jim
+| species        = [[Human]]
+| homeworld      = <!-- optional -->
+| alliances      = Mandarin's operative
+| partners       = <!-- optional -->
+| supports       = <!-- optional -->
+| aliases        = <!-- optional -->
+| powers         =*Cyrogenic suit that allows: Ice generation and projection
+*Superhuman strength, speed, and agility
+| cat            = 
+| subcat         = 
+| hero           = 
+| villain        = 
+| sortkey        = 
+| addcharcat#    = 
+|}}
+A man named Jim became the fourth Blizzard upon being granted cryokinesis by the [[Mandarin (comics)|Mandarin]] and [[Zeke Stane]] as part of their plans to revamp and upgrade the different enemies of Iron Man. His first mission is to freeze desalinization plants in [[Abu Dhabi]], where it would leave the country with no water. It was revealed that the Mandarin had a bomb placed in Jim's neck to ensure his compliance.<ref>''Invincible Iron Man'' #510. Marvel Comics.</ref>
+
+When Iron Man tries to persuade his enemies to turn against the Mandarin, Blizzard heeded the call as Iron Man deactivated the bombs on them.<ref>''Invincible Iron Man'' #523–524. Marvel Comics.</ref> Blizzard aligns himself with Iron Man, Zeke Stane, [[Whirlwind (comics)|Whirlwind]], and the [[Living Laser]] against the Mandarin and his Titanomechs. During the battle, Blizzard is impaled by a Titanomech.<ref>''Invincible Iron Man'' #526. Marvel Comics.</ref>
+
+== Powers and abilities ==
+All the Blizzards have similar powers, derived from their costumes. Micro-circuited cryogenic units make it possible to emit freezing rays, which lower the temperature of the surrounding air (or objects) and release ice as projectiles.
+
+Donnie Gill's costume is upgraded by supervillains the [[Abner Jenkins|Beetle]] and the [[Fixer (comics)|Fixer]]. This enables even greater manipulation of cold, where Gill can encase people in snow and ice, create an ice barricade or generate "ice sleds" for transport. Following his Terrigenesis, Blizzard also developed electricity manipulation, where he can manipulate electrical currents and charge the energies in his body.<ref name="Infinity: Heist #4" />
+
+== Other versions ==
+=== Earth-X ===
+In the ''[[Earth-X]]'' reality, the Donnie Gill version of Blizzard has the same history. He was killed by Norman Osborn prior to the Green Goblin's rise to power.<ref>''Earth-X'' #5. Marvel Comics.</ref>
+
+=== House of M: Masters of Evil ===
+In the ''[[House of M]]'' reality, the Donnie Gill version of Blizzard appears as a member of [[Hood (comics)|Hood]]'s Masters of Evil.<ref>''House of M: Masters of Evil'' #1. Marvel Comics.</ref>
+
+=== Power Pack ===
+The Donnie Gill version of Blizzard appears in ''[[Power Pack#All ages miniseries|Iron Man & Power Pack]]'' issue #2 with Speed Demon. He kidnaps Irena Crumb (daughter of millionaire Arnold Crumb, and a school rival of [[Julie Power]]'s) from her school and takes her to an abandoned warehouse across town, where he tortures her. Speed Demon runs in, telling him that Power Pack has found them; Power Pack bursts in, and a fight ensues. At one point, Blizzard freezes the ground, causing Speed Demon to slip and smash into him. The Pack captures Blizzard, and [[Julie Power|Lightspeed]] takes his mask so she can rescue Irena from Speed Demon incognito. Afterwards, Blizzard and Speed Demon are arrested.<ref>''Iron Man & Power Pack'' #2 (2007). Marvel Comics.</ref>
+
+== In other media ==
+=== Television ===
+* Gregor Shapanka / Jack Frost appears in the "Iron Man" segment of ''[[The Marvel Super Heroes]]'', voiced by [[Chris Wiggins]].{{citation needed|date=November 2017}}
+* The Donnie Gill incarnation of Blizzard appears in ''[[Iron Man (TV series)|Iron Man]]'', primarily voiced by [[Chuck McCann]], though [[Neil Ross]] voiced him in the episode "The Beast Within".<ref name="btva">{{cite web|title=Blizzard Voice - Iron Man franchise <nowiki>|</nowiki> Behind The Voice Actors|url=https://www.behindthevoiceactors.com/characters/Iron-Man/Blizzard/|website=behindthevoiceactors.com|date=December 20, 2019|postscript=. Check mark indicates role has been confirmed using screenshots of closing credits and other reliable sources.}}</ref> This version is a servant of the [[Mandarin (character)|Mandarin]] and received a suit of exo-armor that appeared occasionally throughout the series.
+* The Donnie Gill incarnation of Blizzard appears in ''[[Iron Man: Armored Adventures]]'', voiced by [[David Orth]].{{citation needed|date=November 2017}} This version is a cryogenics scientist and former employee of [[Stark Industries]] CEO [[Iron Monger|Obadiah Stane]] who was left scarred and vowed revenge. Additionally, Gill wears a technological suit equipped with a freezing ray attached to his right arm. Throughout season one, Gill attempts to exact revenge against Stane twice, only to be foiled by Iron Man each time. In season two, Gill is hired by [[Justin Hammer]] to kill Iron Man. Following a string of failures, Gill is said to have been killed by [[Titanium Man]] on Hammer's orders.
+* The Donnie Gill incarnation of Blizzard appears in ''[[The Avengers: Earth's Mightiest Heroes]]'', voiced by [[Troy Baker]].<ref name="btva"/> In the episode "Breakout, Part 1", he escapes from the [[Vault (Marvel Comics)|Vault]] and fights Iron Man. In the episode "The Man Who Stole Tomorrow", Gill is apprehended by the [[Avengers (comics)|Avengers]] and remanded to [[Negative Zone Prison Alpha|Prison 42]]. In the episode "Assault on 42", Gill joins forces with the Avengers and his fellow inmates to fight [[Annihilus]] and his Annihilation Wave, only to be killed in the ensuing battle.
+* The Donnie Gill incarnation of Blizzard makes non-speaking appearances in ''[[Ultimate Spider-Man (TV series)|Ultimate Spider-Man]]''.{{citation needed|date=November 2017}}
+* Donnie Gill appears in the [[Marvel Cinematic Universe]] series ''[[Agents of S.H.I.E.L.D.]]'', portrayed by [[Dylan Minnette]].<ref>{{cite web|url=http://marvel.com/news/tv/2013/12/19/21671/declassifying_marvels_agents_of_shield_seeds|title=Declassifying Marvel's Agents of S.H.I.E.L.D.: Seeds|access-date=13 October 2014}}</ref> This version is a cadet at [[S.H.I.E.L.D. (Marvel Cinematic Universe)|S.H.I.E.L.D.]] Academy. Introduced in the episode "[[Seeds (Agents of S.H.I.E.L.D.)|Seeds]]", he and his friend Seth Dormer build a weather device to impress industrialist, Ian Quinn. However, the device causes a super-storm that kills Dormer. Gill is taken into S.H.I.E.L.D.'s custody, but develops cryokinetic powers.<ref>{{cite episode|title=[[Seeds (Agents of S.H.I.E.L.D.)|Seeds]]|series=Marvel's Agents of S.H.I.E.L.D.|credits=Fink, Kenneth (director); Monica Owusu-Breen & Jed Whedon (writer)|network=[[American Broadcasting Company|ABC]]|airdate=January 14, 2014|season=1|number=12}}</ref> As of the episode "[[Making Friends and Influencing People]]",<ref>{{cite web|url=http://marvel.com/news/tv/23284/declassifying_marvels_agents_of_shield_making_friends_and_influencing_people|title=Declassifying Marvel's Agents of S.H.I.E.L.D.: Making Friends and Influencing People|access-date=13 October 2014}}</ref> Gill perfected his powers while he was incarcerated and unknowingly brainwashed by [[Hydra (Marvel Cinematic Universe)|Hydra]] before escaping during their attempted takeover of S.H.I.E.L.D.{{efn|As depicted in ''[[Captain America: The Winter Soldier]]''.}} and killing several Hydra agents. An undercover [[Jemma Simmons]] tries to apprehend him, but her superior [[Sunil Bakshi]] uses a post-hypnotic trigger phrase to reactivate Gill's mind-control. Gill is sniped by [[Daisy Johnson (Marvel Cinematic Universe)|Skye]] and lost in the ocean, though his body is never recovered.<ref>{{cite episode|title=[[Making Friends and Influencing People]]|series=Marvel's Agents of S.H.I.E.L.D.|credits=Roth, Bobby (director); Monica Owusu-Breen (writer)|network=[[American Broadcasting Company|ABC]]|airdate=October 7, 2014|season=2|number=3}}</ref>
+* The Donnie Gill incarnation of Blizzard appears in ''[[Marvel Disk Wars: The Avengers]]'', voiced by [[Hideo Ishikawa]] in Japanese and [[Patrick Seitz]] in English.<ref name="btva" />
+* The Randy Macklin incarnation of Blizzard appears in the ''[[Spider-Man (2017 TV series)|Spider-Man]]'' episode "Spider-Man on Ice", voiced by [[Trevor Devall]].<ref name="btva"/> This version is initially a low-level henchman of [[Hammerhead (comics)|Hammerhead]]'s before acquiring a cryogenic gauntlet from [[Harry Osborn]]. Despite being slowly mutated by the gauntlet, Macklin dubs himself the Blizzard, attacks Hammerhead's gang, and attempts to freeze Manhattan. However, [[Spider-Man]] acquires thermal technology from Harry and disarms Macklin before leaving him for the police.
+* The Donnie Gill incarnation of Blizzard appears in the ''[[Marvel Future Avengers]]'' episode "The Mystery Mist", voiced again by Hideo Ishikawa in Japanese and voiced by [[Kyle McCarley]] in English.<ref>{{Cite web |title=Behind The Voice Actors – Marvel Future Avengers |url=https://www.behindthevoiceactors.com/tv-shows/Marvel-Future-Avengers/voice-credits/ |website=Behind The Voice Actors}}</ref>
+
+=== Video games ===
+* The Donnie Gill incarnation of Blizzard appears as a boss in ''[[The Invincible Iron Man (video game)|The Invincible Iron Man]]''.{{citation needed|date=November 2017}}
+* The Donnie Gill incarnation of Blizzard appears as a boss and playable character in ''[[Marvel: Avengers Alliance]]''.{{citation needed|date=November 2017}}
+* The Donnie Gill incarnation of Blizzard appears in ''[[Marvel Heroes (video game)|Marvel Heroes]]'', voiced by [[Michael Benyaer]].{{Citation needed|date=July 2013}}
+
+== Notes ==
+{{Notelist}}
+
+== References ==
+{{Reflist}}
+
+== External links ==
+*[http://marvel.wikia.com/Gregor_Shapanka_%28Earth-616%29 Bliizard (Gregor Shapanka)] Marvel Wiki
+*[http://www.comicvine.com/blizzard-shapanka/4005-86265/ Bliizard (Gregor Shapanka)] at Comic Vine
+*{{Marvelwiki|Blizzard_(Donald_Gill)|Blizzard (Donnie Gill)}}
+*{{Marveldatabase|Donald Gill (Earth-616)|Blizzard (Donnie Gill)}}
+*{{comicbookdb|type=character|id=437|title=Blizzard (Donnie Gill)}}
+*[http://www.comicvine.com/blizzard/4005-4808/ Blizzard (Donnie Gill)] at Comic Vine
+*[http://marvel.wikia.com/Randall_Macklin_%28Earth-616%29 Blizzard (Randall Macklin)] at Marvel Wiki
+
+{{Iron Man}}
+{{Inhumans}}
+{{Thunderbolts}}
+{{Stan Lee}}
+
+[[Category:Articles about multiple fictional characters]]
+[[Category:Fictional characters with ice or cold abilities]]
+[[Category:Fictional mercenaries in comics]]
+<!--Gregor Shapanka-->
+[[Category:Characters created by Don Heck]]
+[[Category:Characters created by Stan Lee]]
+[[Category:Comics characters introduced in 1963]]
+[[Category:Comics characters introduced in 1976]]
+[[Category:Fictional Hungarian people]]
+[[Category:Fictional scientists]]
+ <!--Donnie Gill-->
+[[Category:Characters created by David Michelinie]]
+[[Category:Comics characters introduced in 1987]]
+[[Category:Fictional characters from Delaware]]
+[[Category:Fictional characters with electric or magnetic abilities]]
+[[Category:Inhumans]]
+[[Category:Marvel Comics male supervillains]]
+[[Category:Marvel Comics supervillains]]
+[[Category:Marvel Comics television characters]]
+<!--Randy Macklin-->
+[[Category:Comics characters introduced in 1994]]

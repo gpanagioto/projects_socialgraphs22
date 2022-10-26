@@ -1,0 +1,6 @@
+#redirect [[The Crew (comics)]]
+
+{{Rcat shell|
+{{r with history}}
+{{r from character|Marvel Comics}}
+}}

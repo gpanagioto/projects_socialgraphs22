@@ -1,0 +1,123 @@
+{{short description|DC Universe supervillain who is primarily an enemy of Green Lantern}}
+{{Infobox comics character
+|image= Hector Hammond.jpg
+|caption= Hector Hammond<br/>{{Descript-inner-art |Who's Who: The Definitive Directory of the DC Universe ||10|December 1985|art = [[Gil Kane]]|pub=DC}}
+|character_name=Hector Hammond
+|real_name=Hector Hammond
+|species=[[Metahuman]]
+|publisher=[[DC Comics]]
+|debut=''Green Lantern'' (vol. 2) #5 (March–April 1961)
+|creators=[[John Broome (writer)|John Broome]]<br>[[Gil Kane]]
+|aliases = Wildcard, Ophidian
+|alliances= [[Secret Society of Super Villains|The Society]]<br/>[[Royal Flush Gang]]<br/>[[Orange Lantern Corps]]
+|powers=Genius-level intellect<br>Telepathy<br>Mind control<br>Telekinesis
+}}
+'''Hector Hammond''' is a <!--Do not add "fictional" as it is tautological; supervillains (and characters in general) are by definition implied to be fictionalized to some extent.-->[[supervillain]] appearing in [[American comic books]] published by [[DC Comics]] who is primarily an enemy of [[Green Lantern]].<ref name="dc-ency">{{Citation|last = Greenberger|first = Robert|author-link = Robert Greenberger|contribution = Hector Hammond|editor-last = Dougall|editor-first = Alastair|title = The DC Comics Encyclopedia|pages = 153|publisher = [[Dorling Kindersley]]|place = New York|year = 2008|isbn = 978-0-7566-4119-1|oclc = 213309017}}</ref>
+
+[[Peter Sarsgaard]] played the role of Hammond in the 2011 film ''[[Green Lantern (film)|Green Lantern]]''.
+
+==Publication history==
+Hector Hammond originally appeared in ''Green Lantern'' (vol. 2) #5 (March–April 1961) and was created by [[John Broome (writer)|John Broome]] and [[Gil Kane]].<ref name=Guide>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Korte |first3=Steve |last4=Manning |first4=Matt |last5=Wiacek |first5=Win |last6=Wilson |first6=Sven |title=The DC Comics Encyclopedia: The Definitive Guide to the Characters of the DC Universe |date=2016 |publisher=DK Publishing |isbn=978-1-4654-5357-0 |page=137}}</ref>
+
+==Fictional character biography==
+The character Hammond is a petty criminal on the run from the law when he discovers the fragments of a strange [[meteor]] in the woods (later [[retcon]]ned as part of the same meteor that lands in Africa, super-evolving [[Gorilla Grodd]] and the other gorillas of [[Gorilla City]]).<ref>''The Flash'' (vol. 2) #69 (October 1992)</ref> Observing that radiation from the meteor caused the nearby plants to evolve rapidly, Hammond kidnaps four scientists and exposes them to the meteor on a remote island. The radiation causes their intellects to evolve, but also has the side effect of sapping their wills. Hammond forces the scientists to use their heightened intellect to create amazing new inventions, which Hammond sells for his own profit.<ref name="dc-ency"/>
+
+Hammond rapidly becomes a rich celebrity due to the wealth he has acquired. [[Green Lantern]] [[Hal Jordan]] asks his friend and mechanic, [[Thomas Kalmaku]], to take on the role of the Green Lantern while Jordan investigates Hammond. Jordan creates a duplicate power ring and costume for Kalmaku to fool Hammond and tells him to fly above Coast City so it would be thought Green Lantern was there. The scientists tried to use a device to bring this Green Lantern to them, but the ring was first pulled off his finger and fell on the island where Hammond found it. Unaware of the impersonation, Hammond steals his ring and turns Kalmaku into a [[Common chimpanzee|chimpanzee]]. Jordan confronts Hammond personally in a battle of power rings that ends only when the charge of Hammond's ring runs out, allowing Jordan to capture him and restore Kalmaku and the scientists. He removed the scientists' memory of their knowledge and got rid of the inventions as well.<ref name="dc-ency"/>
+
+Hammond returns in ''Justice League of America'' #14 (September 1962) where he manages to escape from prison and deliberately exposes himself to the [[meteorite]]. The radiation causes his brain to grow to enormous size, granting him [[psionics|psionic]] powers as well as [[immortality]]. He captures Green Lantern using a "de-memorizer" invented by [[Amos Fortune (comics)|Amos Fortune]], but he is later captured. His body later becomes immobilized and he loses the power to speak. Trapped in a motionless state, Hammond is still able to use his psionic powers to control the minds of others.<ref name="dc-ency"/> He attempts to steal the Green Lantern's ring, but Jordan manages to command his ring to drain itself of power when it leaves his finger, after which Jordan renders Hammond unconscious.<ref>''Green Lantern'' (vol. 2) #25 (December 1963)</ref>
+
+Hammond is responsible for the creation of the second [[Royal Flush Gang]] in ''Justice League of America'' #203 (June 1982). Hammond and the Gang are defeated when Dr. Martin Stein, one half of the superhero [[Firestorm (comics)|Firestorm]], subdues Hammond on the astral plane.
+
+He was involved with erasing the world's memories of the JLA in ''[[Justice Leagues]]''.<ref>''Justice Leagues'' #1 (March 2001)</ref>
+
+In addition to battling Hal Jordan, Hammond has also fought Green Lanterns [[Alan Scott]]<ref>''Green Lantern Quarterly'' #2 (Fall 1992)</ref> and [[Kyle Rayner]].<ref>''Green Lantern 80-Page Giant'' #2 (June 1999)</ref>
+
+===After ''Green Lantern: Rebirth''===
+Following the 2004-2005 miniseries ''[[Green Lantern: Rebirth]]'', in which Hal Jordan was resurrected, vindicated for his past crimes, and returned as the star of the ''Green Lantern'' core series, Hammond reappears as one of his adversaries.<ref name="dc-ency"/> After his capture and further experimentation by the [[Kroloteans]], the aliens who sent the meteor that gave him his powers, he seems to have recovered the ability to speak without using telepathy.<ref name="gl4">''Green Lantern'' (vol. 4) #4 (August 2005)</ref><ref name="gl5">''Green Lantern'' (vol. 4) #5 (November 2005)</ref><ref name="gl6">''Green Lantern'' (vol. 4) #6 (December 2005)</ref>
+
+Hammond appears in ''[[Infinite Crisis]]: Villains United'' special, in which he is broken out of prison along with several other supervillains and was seen as a member of [[Alexander Luthor, Jr.]]'s [[Secret Society of Super Villains]].<ref name="dc-ency"/>
+
+==="Secret Origin"===
+Hammond appears in the 2008 storyline ''[[Green Lantern: Secret Origin]]'', a re-telling of Hal Jordan's first days as a Green Lantern. In that storyline, Hammond aspires to be [[Carol Ferris]]' boyfriend,<ref name="gl30">''Green Lantern'' (vol. 4) #30 (April 2008)</ref> feelings that are not reciprocated by Ferris, who merely went out to one dinner with him for business purposes as he is a private consultant for Ferris Aircraft.<ref name="gl31">''Green Lantern'' (vol. 4) #31 (May 2008)</ref> While inspecting [[Abin Sur]]'s crashed spacecraft, Hammond is affected by the meteorite fragment used as a power source in its reactor which results in an increase in his brain size and telepathic abilities, with which he learns Jordan is a [[Green Lantern]].<ref name="gl32">''Green Lantern'' (vol. 4) #32 (June 2008)</ref> He attempts to use his telepathy to keep Hal from using his ring, but is thwarted by [[Sinestro]].<ref name="gl33">''Green Lantern'' (vol. 4) #33 (July 2008)</ref> It is revealed that Hammond wants the power of a god in order to gain revenge on Hal Jordan/Green Lantern.<ref name="gl35">''Green Lantern'' (vol. 4) #35 (October 2008)</ref>
+
+===Brightest Day===
+Hammond's telepathic thoughts are shown from Belle Reve Prison, stating "It has [[Parallax (comics)|Parallax]]" after an unknown force pulled Parallax away.<ref name="gl51">''Green Lantern'' (vol. 4) #51 (February 2010)</ref> Afterwards, [[Krona (comics)|Krona]] helps Hammond get out of prison to pursue the entity trapped inside [[Larfleeze]]'s lantern. Hammond attacks Larfleeze and Hal Jordan and during the fight manages to swallow Larfleeze's battery, allowing the entity, Ophidian, to possess his body just as Parallax possessed Hal's.<ref>''Green Lantern'' (vol. 4) #56 (June 2010)</ref> The battle with Ophidian does not go very well for Hal or Larfleeze. While fleeing Ophidian, Larfleeze admits that he was not entirely honest about his ownership of the orange lantern and that he and Ophidian have a rather antagonistic relationship; however, he is quick to blame Ophidian for starting whatever it was that came between them. Ophidian states that Larfleeze was the only being in the universe capable of resisting his temptations, thereby allowing Larfleeze to subdue him and become Agent Orange and now it is Larfleeze's turn to be subdued and used by Ophidian. Ophidian then attempts to devour Larfleeze, but he is saved by Hal. After that, the desires of Hector begin to override those of Ophidian and he leaves to search for his ultimate desire: "Carol Ferris".<ref>''Green Lantern'' (vol. 4) #57 (September 2010)</ref>
+
+Ophidian would later apparently reassert its hold on Hector as he joins Krona and helps the renegade Guardian of the Universe discover the location of the Butcher and was last seen returning with Krona to Ryut where he began purging the universe of all emotionally unbalanced beings.<ref>''Green Lantern'' (vol. 4) #62 (February 2011)</ref>
+
+Hector's fate afterwards remains unknown as the Orange Battery is seen in the Book of the Black which prompted Larfleeze to try to recover it only to be trapped himself in the Book and Ophidian is seen without its host, launching, along with the other entities and Krona, an attack on Oa, where it possessed a Guardian of the Universe.<ref>''Green Lantern'' (vol. 4) #64 (March 2011)</ref>
+
+===The New 52===
+In September 2011, [[The New 52]] rebooted DC's continuity. In this new timeline, Hector Hammond first appears in ''Superman'' #18, seen comatose as a prisoner in S.T.A.R Labs, where he suddenly recovers the ability to dream.<ref>''Superman'' (vol. 3) #18 (May 2013)</ref> However, when [[Orion (comics)|Orion]] arrives in the lab looking for Superman, he detects Hammond to be brain dead and leaves.<ref>''Superman'' (vol. 3) #19 (June 2013)</ref>
+
+Hector Hammond is seen in an uneasy alliance with the [[H.I.V.E.]]<ref>''Action Comics'' (vol. 2) #22</ref>
+
+Hammond later plays an important role in the Superman: Psi War story arc. His comatose body is stolen from S.T.A.R. Labs by H.I.V.E. agents. The [[H.I.V.E. Queen]]'s plan is to use his considerable mental powers to mentally enslave the world in preparation for [[Brainiac (character)|Brainiac]]'s return. However, by chance a live cable in his life support gets loose and electrocutes Hammond, awakening him from his medically induced coma. The near-electrocution also boosts his powers and he connects with the minds of every citizen in [[Metropolis (comics)|Metropolis]], causing them to act strange and attract [[Superman]]'s attention. He then breaks into H.I.V.E.'s headquarters located beneath Metropolis and confronts the H.I.V.E. Queen. Once she makes it clear that it is not an alliance she is seeking and that she merely sees him as a means to an end, he overpowers her and takes over her organization. However, she manages to escape and initiates an attack that takes over the entire city. Having found out her plan, Hector sends an [[astral projection]] to her location and engages the Queen in battle using the citizens of Metropolis as soldiers. Once she discovers Hammond is just a psionic avatar, she retreats back to her base, intent on retaking it. However, both Hector Hammond and the H.I.V.E. Queen are overpowered by the [[Psycho Pirate]] and have their powers drained. The Pirate then confronts and drains Superman only to be attacked by [[Lois Lane]], who had been developing psychic powers of her own. Recovering, Hammond proposes a truce between the heroes and the Queen who had barely survived the Pirate's attack. The telepaths then fight the Psycho Pirate only to be beaten again. Once Roger Hayden is defeated, he, the H.I.V.E. Queen, and Hector Hammond disappear in the aftermath.
+
+During the ''[[Forever Evil]]'' storyline, Hector Hammond is among the villains recruited by the [[Crime Syndicate of America]] to join the Secret Society of Super Villains.<ref>''Forever Evil'' #1</ref>
+
+In the ''[[Watchmen]]'' sequel ''[[Doomsday Clock (comics)|Doomsday Clock]]'', Hector Hammond is among the villains that attend the underground meeting held by [[Riddler]] where they talk about the Superman Theory.<ref>''Doomsday Clock'' #6 (July 2018). DC Comics.</ref>
+
+===DC Rebirth===
+While imprisoned at Ryker's Island, Hammond is captured by a squad of Kroloteans who intend to weaponize his vast mental powers. Hammond succeeds in contacting Hal Jordan and Superman who arrive and defeat the Kroloteans after fighting through an illusion generated by Hammond. Furious, Hammond kills the Kroloteans and confesses to Hal that he is tired of everyone wanting to control him. He then tries to commit suicide by making Superman shoot him with his heat vision, but Hal stops him and the shot instead puts Hammond into a coma. Just before losing consciousness, he says that Hal was his hero.
+
+During the Darkstars Rising storyline, Hal breaks into Ryker's Island to try and recruit Hammond to combat the threat of the Darkstars. He instead encounters a reformed Atomic Skull who tries to stop him. Awakening from his coma, Hammond subdues Skull and nearly kills him only for Hal to talk him out of it. Expressing excitement at the opportunity to finally become a hero, Hammond agrees to help Green Lantern.
+
+Accompanying Hal to a frozen planet, Hammond is delighted to finally be able to explore space. Seeking to prove his newfound loyalty to Green Lantern, Hammond instead erases Hal's memories in order to keep him out of harm's way and declares his intention to kill every villain in the universe. Hal regains his identity and powers, leading Hammond to explain that his actions were to show Green Lantern that his guilt over his failures were just thoughts and not actions.
+
+During the battle between the Green Lantern Corps and the Darkstars, Hammond plays a vital role by disrupting the Controllers’ psionic powers, leaving their entire army in disarray. Hammond seemingly disappears in the aftermath.
+
+===Infinite Frontier===
+Hammond reappears in DC's ''[[Infinite Frontier]]'' era in ''Infinite Frontier'' #3, spearheading the [[Department of Extranormal Operations]]' aggressive work to contain Multiverse visitors and resurrected heroes. His deformities are gone and he looks like a normal man; he explains to [[Roy Harper (comics)|Roy Harper]] that he was "reset to the factory settings" when "reality returned" (the conclusion of ''[[Dark Nights: Death Metal]]'').
+
+==Powers and abilities==
+Hammond in his mutated state exhibits genius level intellect, as well as potent telepathic and telekinetic abilities<ref name="dc-ency"/> including mind reading, mind control, astral projection, levitation, projection of harmful psionic blasts, moving physical objects with his mind, and on occasion displays the ability to absorb and mentally redirect Green Lantern's emerald plasma. In some incarnations, his body has atrophied to the point where he cannot walk and he has to strap his head to a chair to support its weight.
+
+As the host of Ophidian, he has access to the powers of an Orange Lantern, without needing an orange power ring to access them.
+
+==Other versions==
+
+===Flashpoint===
+In the alternate timeline of the ''[[Flashpoint (comics)|Flashpoint]]'' event, Hector Hammond did not become a villain from a meteorite fragment. Instead, Hammond works as a private consultant to Ferris Aircraft with his test pilots Hal Jordan and Carol Ferris.<ref>''Flashpoint: Hal Jordan'' #1 (June 2011)</ref> While inspecting [[Abin Sur]]'s crashed spacecraft, Hammond does not trust Abin Sur and believes him to be preparing an alien invasion. However, the engineer [[Thomas Kalmaku]] tells him to rebuke his statement.<ref>''Flashpoint: Hal Jordan'' #2 (July 2011)</ref> Later, Hammond modifies the [[Lockheed Martin F-35 Lightning II|F-35]] and assigns Hal Jordan to pilot it against the Amazons' Air Force of invisible planes.<ref>''Flashpoint: Hal Jordan'' #3 (August 2011)</ref>
+
+===Captain Carrot and His Amazing Zoo Crew!===
+The 1980s series ''[[Captain Carrot and His Amazing Zoo Crew!]]'' presented the [[Multiverse (DC Comics)|parallel Earth]] of "Earth-C-Minus", a world populated by [[talking animals in fiction|talking animal]] superheroes that paralleled the mainstream DC Universe. Earth-C-Minus features "'''Hector Hamhock'''", a [[pig]] counterpart of Hammond whose nemesis was the heroic [[Just'a Lotta Animals|Green Lambkin]].<ref>''Captain Carrot and His Amazing Zoo Crew'' #14 (April 1983)</ref>
+
+===Amalgam Comics===
+Hammond was combined with [[Marvel Comics]]' [[MODOK]] to create HECTOR, the Highly Evolved Creature Totally Oriented for Revenge. He resembles Hector Hammond, but with a larger spherical head, yellow eyes, a large black goatee, a smaller body, MODOK's laser cannon on his forehead and a red and yellow uniform.<ref>''Iron Lantern'' #1</ref>
+
+==In other media==
+===Television===
+* Hector Hammond appears in ''[[Teen Titans Go!]]'' episode "Orangins".
+
+===Film===
+[[File:Hector Hammond character poster.jpg|right|thumb|upright|Character poster for ''[[Green Lantern (film)|Green Lantern]]'' featuring [[Peter Sarsgaard]] as Hector Hammond.]]
+* [[Peter Sarsgaard]] played Hector Hammond in the live-action film, ''[[Green Lantern (film)|Green Lantern]]'' directed by [[Martin Campbell]].<ref>{{Cite web|url=http://www.heatvisionblog.com/2010/01/peter-sarsgaard-green-lantern.html|title=Heat Vision}}</ref> This version of Hector Hammond is a xenobiology professor, an old friend of Hal Jordan and the son of United States senator Robert Hammond. He is summoned by [[Amanda Waller]] of the [[Department of Extranormal Operations|DEO]] to conduct an autopsy of the recovered body of [[Abin Sur]]. During the operation he is infected with [[Parallax (comics)|Parallax]] DNA hidden in Abin's wounds, which causes Hector's head to grow larger and gives him telepathic and telekinetic powers, which created a mental link between Parallax and Hammond. Hammond takes a liking to his new powers, which drives him insane, leading to him killing his father by burning him in a glass chamber. The infection has the side effect of weakening his body, to the point that he is forced to use a wheelchair in his final confrontation with Hal, but he still could talk even with his bulbous cranium. Under Parallax's orders to kill Hal, Hector abducts [[Carol Ferris]] with the intention of using her as a hostage and infecting her with a sample of Parallax DNA, but Hal offers to exchange his power ring for Carol. Hector agrees, only to go back on the deal so he can use the ring to kill Hal, but even though the ring is on Hammond's finger, Jordan still controls the ring's power, since he was the one the ring had chosen. Hal defeats Hammond by hurling his attack back on him. When Parallax soon after arrives on Earth, he kills Hammond for failing him.
+
+===Video game===
+* Hector Hammond is spawnable and (Wii U only) playable in ''[[Scribblenauts Unmasked: A DC Comics Adventure]]''. This version has more visible facial hair (his moustache), a larger, veiny head, is able to move and can fly without the use of his chair.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.glcorps.org/hecthamm.html GLC Web Page]
+* [http://www.angelfire.com/ar/hellUSA/Hectorhammond.html History of Hector Hammond]
+
+{{Green Lantern}}
+{{Justice League characters}}
+
+{{DEFAULTSORT:Hammond, Hector}}
+
+[[Category:Characters created by Gil Kane]]
+[[Category:Characters created by John Broome]]
+[[Category:Comics characters introduced in 1961]]
+[[Category:DC Comics film characters]]
+[[Category:DC Comics male supervillains]]
+[[Category:DC Comics metahumans]]
+[[Category:DC Comics telekinetics]] 
+[[Category:DC Comics telepaths]] 
+[[Category:Fictional avatars]]
+[[Category:Fictional characters with absorption or parasitic abilities]]
+[[Category:Fictional characters with energy-manipulation abilities]]
+[[Category:Fictional fugitives]]

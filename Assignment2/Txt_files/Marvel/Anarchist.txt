@@ -1,0 +1,181 @@
+{{short description|Fictional comic book group}}
+{{Redirect|U-Go-Girl|the Lee Hyori song|It's Hyorish}}
+{{Use mdy dates|date=September 2018}}
+{{Infobox comics team and title <!--Wikipedia:WikiProject Comics-->
+<!-- Group section -->
+|name = X-Statix
+|image =
+|imagesize = <!-- default 250 -->
+|caption = Cover of ''X-Statix'' TPB Volume 1<br />Art by [[Mike Allred]]
+|publisher = [[Marvel Comics]]
+|debuthead = 
+|debut = ''[[X-Force]]'' #116
+|debutmo = July
+|debutyr = 2001
+|debuthead# = 
+|debut# = 
+|debutmo# = 
+|debutyr# = 
+|creators = [[Peter Milligan]] (writer)<br>[[Mike Allred]] (artist)
+|group = y
+|type = Team
+|business = 
+|organisation = 
+|organization = y
+|team = y
+|base = 
+|owners = 
+|employees = 
+|members = Anarchist<br>Bloke<br>Coach<br>Dead Girl<br>[[Doop (comics)|Doop]]<br>Spike Freeman<br>El Guapo<br>Henrietta Hunter<br>Mysterious Fan Boy<br>Lacuna<br>Orphan/Mr. Sensitive<br/>Phat<br>Saint Anna<br>[[Spike (Marvel Comics)|Spike]]<br>U-Go Girl<br/>Venus Dee Milo<br>Vivisector
+|fullroster = [[#members|List of members]]
+
+<!-- Series section -->
+<!-- |title = X-Statix -->
+|cvr_image = 
+|cvr_caption = 
+|schedule = Monthly
+|ongoing = y
+|Superhero = y
+|pub_series = 
+|1stishhead = 
+|1stishyr = 2002
+|1stishmo = September
+|endishyr = 2004
+|endishmo = October
+|issues = 26
+|main_char_team = 
+|writers = 
+|artists = 
+|pencillers = 
+|inkers = 
+|letterers = 
+|colorists = 
+|editors = 
+|creative_team_month = 
+|creative_team_year = 
+|creators_series = 
+|TPB = X-Force: Famous, Mutant & Mortal
+|ISBN = 0-7851-1023-2
+|TPB1 = Good Omens
+|ISBN1 = 0-7851-1059-3
+|TPB2 = Good Guys & Bad Guys
+|ISBN2 = 0-7851-1139-5
+|TPB3 = Back From the Dead
+|ISBN3 = 0-7851-1140-9
+|TPB4 = X-Statix vs. The Avengers
+|ISBN4 = 0-7851-1537-4
+|TPB5 = X-Statix Presents: Dead Girl
+|ISBN5 = 0-7851-2031-9
+
+<!-- Category section -->
+|cat = teams
+|subcat = Marvel Comics
+|altcat = 
+|hero = y
+|villain = 
+|sortkey = X-Statix
+|addpubcat1 = X-Men titles
+}}
+'''X-Statix''' are a team of [[Mutant (Marvel Comics)|mutant]] [[superhero]]es appearing in [[American comic book]]s published by [[Marvel Comics]]. The team was specifically designed to be media superstars. The team, created by [[Peter Milligan]] and [[Mike Allred]], first appears in ''[[X-Force]]'' #116 and originally assumed the moniker '''X-Force,''' taking the name of the more traditional superhero team, who appear in #117 (June 2001) claiming to be "the real X-Force".<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=244}}</ref>
+
+==Publication history==
+In 2001, the [[X-Men]] family of titles were being revamped by the newly appointed [[Marvel Comics]] editor-in-chief [[Joe Quesada]]. The aim was to make the titles more critically and commercially successful. Former [[Vertigo Comics|Vertigo]] editor [[Axel Alonso]] hired writer [[Peter Milligan]], best known for his [[Surrealism|surreal]], [[postmodernism|post-modernist]] comics such as ''[[Rogan Gosh (comics)|Rogan Gosh]]'' and ''[[Shade, the Changing Man]]'', and ''[[Madman (Mike Allred character)|Madman]]'' artist [[Mike Allred]], as the new creative team for ''[[X-Force]]'', starting with issue #116. Prior to Milligan and Allred's first issue, ''X-Force'' sold well,<ref>[http://www.cbgxtra.com/Default.aspx?tabid=695 CBGXtra.com – Comics Sales Charts] {{webarchive |url=https://web.archive.org/web/20071027110315/http://www.cbgxtra.com/Default.aspx?tabid=695 |date=October 27, 2007 }}</ref> but had not been the critical success Quesada wanted.{{Citation needed|date=April 2009}}
+
+Milligan and Allred completely revamped the series, designing a team more akin to [[celebrity|popstars]] or [[reality TV]] contestants than the gritty, violent paramilitary group originally portrayed in the series. The title was laced with Milligan's [[satire|satirical]] take on the superhero team as well as general [[Cynicism (contemporary)|cynicism]] toward the entire genre. Milligan wrote that he saw the characters' [[super power]]s as "vehicles for exploring our celebrity and fame-obsessed society."<ref name=Guardian/>
+
+"My mutants all have agents, negotiate fees for image rights, open megastores and live the dream. People die in my comic. We even have a character called Dead Girl."<ref name=Guardian/>
+
+Milligan and Allred would regularly play with killing off the title characters: In their first issue, they wiped out the entire team, with only two exceptions. This dramatic revision of the series was not universally accepted. Many readers wanted "their" X-Force back, a complaint Milligan later [[parody|parodied]] in the pages of the title.<ref name="lamar20100915">{{cite web|last=Lamar|first=Cyriaque|title=5 weird examples of superheroic identity swapping|url=http://io9.com/5639243/5-weird-examples-of-superheroic-identity-swapping|publisher=io9|access-date=12 December 2019}}</ref> Alonso described the series as "a hostile takeover of the X-Men paradigm."<ref name="Newsarama">{{cite news |last1=Ching |first1=Albert |title=Looking Back on X-FORCE and X-STATIX with Mike Allred |url=https://www.newsarama.com/8959-looking-back-on-x-force-and-x-statix-with-mike-allred.html |access-date=12 December 2019 |work=Newsarama |date=18 January 2012}}</ref> However, the title was receiving mainstream media coverage in titles like ''[[Rolling Stone]]''.{{Citation needed|date=April 2009}}
+
+''X-Force'' #116 was the first Marvel Comics title since ''[[The Amazing Spider-Man (comic)|The Amazing Spider-Man]]'' #96–98 in 1971 to not have the [[Comics Code Authority]] (CCA) approval seal, due to the violence depicted in the issue. The CCA, which governed the content of American comic books, rejected the issue, requiring that changes be made. Instead, Marvel simply stopped submitting comics to the CCA.<ref>{{cite book |editor-last=Darowski |editor-first=Joseph J. |last1=Capitanio |first1=Adam |title=The Ages of the X-Men: Essays on the Children of the Atom in Changing Times |chapter=Race and Violence from the "Clear Line School": Bodies and the Celebrity Satire of ''X-Statix'' |date=13 August 2014 |publisher=McFarland & Company |location=Jefferson, North Carolina |isbn=9780786472192 |page=158 |chapter-url=https://books.google.com/books?id=yKHyAwAAQBAJ&pg=PA158}}</ref><ref name="Newsarama"/>
+
+''X-Force'' was canceled with issue #129 in 2002 and renamed ''X-Statix''; it restarted with a new issue #1. ''X-Statix'' carried on the same themes as ''X-Force'', but with an increasingly satirical tone. Milligan planned to deploy [[Diana, Princess of Wales|Princess Diana]] as a character in a story-arc beginning in ''X-Statix'' #13: she was slated to return from the dead as a mutant superhero. However, when news of this leaked out to the media, a series of objections followed, most notably from the British [[Tabloid (newspaper format)|tabloid newspaper]] ''[[Daily Mail|The Daily Mail]]''.<ref name=Guardian>{{cite web |first=Peter |last=Milligan |author-link=Peter Milligan |url=https://www.theguardian.com/monarchy/story/0,2763,984675,00.html |title=Princess Diana, superhero |work=[[The Guardian]] |date=June 25, 2003 }}</ref><ref>{{Marvunapp|http://www.marvunapp.com/Appendix2/henriettahunter.htm#comments|Henrietta Hunter (X-Statix leader/charity worker/pop star)}} Retrieved September 3, 2009.</ref> A spokesperson for the [[British royal family]] called the planned story "appalling."<ref name=Guardian/><ref name="E News">{{cite news |last1=Haberman |first1=Lia |title=Princess Di Comic Scuttled |url=https://www.eonline.com/news/45486/princess-di-comic-scuttled |access-date=11 December 2019 |work=E! News |date=11 July 2003}}</ref> Milligan responded to the controversy, writing in the British daily newspaper ''[[The Guardian]]'' that Diana fit in well with X-Statix as someone "famous for being famous" and that he would like to write a story where [[David Beckham]] joined the team, if he could convince Marvel to let him.<ref name=Guardian/> On July 10, 2003, Marvel announced that they would remove Princess Diana from the story, replacing her with a fictional pop star named Henrietta Hunter.<ref name="E News"/>
+
+Although sales of the title during this time were moderate, they soon began to decline drastically. After a story-arc that pitted X-Statix against The [[Avengers (comics)|Avengers]], low sales prompted the title's cancellation with issue #26, published in 2004. In the last issue Milligan and Allred killed off the entire team, serving up one last parody of the superhero genre, while tying up the remaining plot threads.
+
+In 2006, Marvel Comics published the five-issue miniseries ''X-Statix Presents: Dead Girl'', which featured Dead Girl teaming up with [[Doctor Strange]] to combat a group of villains who have returned from the dead. The series is written by Milligan, with covers by Allred. The storyline (which features the returns of the Anarchist, the Orphan, and U-Go Girl) parodies the manner in which creators in the industry handle death in comic books, with popular characters often brought back from the dead.
+
+In 2019, ''Giant Sized X-Statix'' was published and written by Peter Milligan and Mike Allred the original creators of X-Statix. The title showcased a new version of the team consisting of the new U Go-Girl, Doop, Vivisector, Mister Sensitive, The A, and Phatty as well as a new team the X-Cellent with its members being Zeitgeist, Hurt John, Mirror Girl, and Uno and alumni/former members of [[X-Force]] like Plazm, the Anarchist, La Nuit, Battering Ram, and Gin Genie. In 2020, ''The X-Cellent'' was announced as a successor to ''X-Statix''.
+
+==Members==
+X-Statix is a team of colorfully dressed and emotionally immature young [[mutant]]s. They are assembled and marketed as superstars, first by the mysterious Coach, and later by media mogul Spike Freeman.
+
+===Team===
+[[Image:Xforce116.jpg|thumb|Cover of ''[[X-Force]]'' #116, by Mike Allred.]]
+*'''Anarchist''', the team's self-proclaimed "token" [[Black Canadians|Black Canadian]], whose [[acid]]ic [[perspiration|sweat]] enables him to fire energy bolts
+*'''Bloke''', a mutant with the ability to change the color of his skin, like a [[chameleon]]
+*'''Dead Girl''', a mixture of [[ghost]] and [[zombie]]. Her civilian name has never been fully revealed, but she admitted after some cajoling that her first name is/was "Moonbeam". Dead Girl's mutant gene allows her to return to semi-life after dying; she is also able to become [[wikt:intangible|intangible]] and communicate with other dead people.
+*'''[[Doop (comics)|Doop]]''', a green, floating spheroid creature of unknown origin, who speaks in a "language" all his own (represented in text by a special [[typeface|font]]), and serves as the team's [[cinematographer|cameraman]]
+*'''El Guapo''', a sexy male mutant with a sentient flying skateboard
+*'''Henrietta Hunter''', a female pop star who is inexplicably reanimated with enhanced physical abilities and empathy (This character was originally written as Diana, Princess of Wales, but Marvel decided to rewrite her when news of this plan caused controversy.)<ref name=Guardian/><ref name="E News"/>
+*'''Mysterious Fan Boy''', the self-proclaimed greatest fan of the X-Statix team. He is placed on the team so that his reality-warping powers and unstable personality can be monitored and controlled.
+*'''Orphan''', a.k.a. '''Mister Sensitive''', the team's ''de facto'' leader, and a mutant with purple skin and two [[antenna (biology)|antennae]] protruding from his forehead. He possesses heightened senses, superhuman speed, and the ability to levitate
+*'''Phat''', a gay white man who can harden, soften, and increase the size of any part of his body by expanding his [[subcutaneous tissue|subcutaneous]] fat layer
+*'''Saint Anna''', an Irish-Argentinian mutant with the ability to levitate and control the motion of objects as well as physically and mentally heal others
+*'''[[Spike (Marvel Comics)|Spike]]''', an African American character who is capable of extending thin spikes from his body or launching them as projectiles
+*'''U-Go Girl''', a blue-skinned, redheaded, [[narcolepsy|narcoleptic]] teleporter who was once romantically linked to Zeitgeist and then to Orphan
+*'''Venus Dee Milo''', whose body was made entirely of crackling red energy that allowed her to teleport, project concussive blasts of energy, and heal minor wounds
+*'''Vivisector''', a bookish, gay scholar who can transform himself into a [[Gray Wolf|wolf]]-like creature with enhanced senses, speed, agility, and razor-sharp fangs and claws
+
+===Mentors===
+*'''Coach''', the manipulative mentor of the team while it was still operating as X-Force. He has only one arm and red eyes. Coach has the second X-Force team eradicated in order to start a new one.
+*'''Spike Freeman''', an amoral, thrill-seeking billionaire, he assists the team by auditioning new members, and by managing its public relations
+
+===Allies===
+*'''Lacuna''', a young girl named Woodstock who seeks to join the team, she has the power of time manipulation
+*'''[[Professor X]]''', the mentor of the X-Men who assists X-Statix on some occasions. He constructs special suits to accommodate Orphan and Venus Dee Milo's mutations.
+*'''[[Wolverine (character)|Wolverine]]''', an old friend of Doop's who helps Orphan take down Coach and his back-up team
+*'''O-Force''', a mutant superhero team
+
+===X-Force===
+In Milligan and Allred's first issue of ''X-Force'', nearly the entire team is killed off in an incident called the Boyz R Us Massacre. This precursory team, of which only U-Go Girl, Doop, and Anarchist survive, also included:
+
+*'''Battering Ram''', who has superhuman strength and durability as well as a thick skull which sported two ram-like horns and purple skin.
+*'''Gin Genie''', who can direct [[seismology|seismic]] energy from her body if she had consumed alcohol
+*'''La Nuit''', a Frenchman who can generate a cloak of dark energy around him that disperses light and controls objects.
+*'''Plazm''', a living, lighter-than-air, liquid man who can control metabolic functions upon contact with another or through a spray from his hands
+*'''Sluk''', who has a face composed of tentacles.
+*'''Zeitgeist''', the team leader, who can vomit acidic ooze from his mouth. He conspires with Coach to have his teammates killed, but is caught in the crossfire and killed as well. He previously had a [[one-night stand]] with U-Go Girl.
+
+==Collected editions==
+X-Statix's appearances have been collected into the following [[trade paperback (comics)|trade paperbacks]]:
+
+*''[[X-Force]]: Famous, Mutant & Mortal'' (hardcover, 288 pages, July 2003, {{ISBN|0-7851-1023-2}}) collects:
+** ''Volume 1: New Beginnings'' (collects ''X-Force'' #116–120, 128 pages, November 2001, {{ISBN|0-7851-0819-X}})
+** ''Volume 2: Final Chapter'' (collects ''X-Force'' #121–129, 224 pages, November 2002, {{ISBN|0-7851-1088-7}})
+*''X-Statix'':
+** ''Volume 1: Good Omens'' (collects ''X-Statix'' #1–5, Marvel, 2002, {{ISBN|0-7851-1059-3}})
+** ''Volume 2: Good Guys & Bad Guys'' (collects ''X-Statix'' #6–10, ''Wolverine/Doop'' #1–2 and ''X-Men Unlimited'' #41, Marvel, 2003, {{ISBN|0-7851-1139-5}})
+** ''Volume 3: Back From the Dead'' (collects ''X-Statix'' #11–18, Marvel, 2004, {{ISBN|0-7851-1140-9}})
+** ''Volume 4: X-Statix vs. The Avengers'' (collects ''X-Statix'' #19–26, Marvel, 2004, {{ISBN|0-7851-1537-4}})
+*''X-Statix Presents: Dead Girl'' (collects 5-issue limited series, Marvel, 2006, {{ISBN|0-7851-2031-9}})
+
+The entire run of ''X-Statix'' is collected in a hardcover [[Marvel Omnibus]], which collects: ''X-Force'' #116–129; ''Brotherhood'' #9; ''X-Statix'' #1–26; ''Dead Girl'' #1–5; ''Wolverine/Doop'' #1–2; and material from ''X-Men Unlimited'' #41; ''I ♥ Marvel: My Mutant Heart'' and ''Nation X'' #4. (Marvel, 2011, {{ISBN|0-7851-5844-8}})
+
+==Reception==
+Despite receiving condemnation from the British royal family,<ref name="E News"/> ''X-Statix'' received critical acclaim, if not high popularity among readers.<ref>{{cite book|last1 = Manning|first1 = Matthew K.|last2= Gilbert|first2= Laura, ed.|chapter= 1990s|title = Marvel Chronicle: A Year by Year History|publisher = [[Dorling Kindersley]]|year = 2008|location=New York, New York|page = 306|isbn = 978-0756641238}}</ref><ref name="IGN">{{cite web |last1=Schedeen |first1=Jesse |title=The History of X-Force |url=https://www.ign.com/articles/2013/01/22/the-history-of-x-force |website=ign.com |access-date=11 December 2019}}</ref> In naming ''X-Statix'' as one of "5 Marvel Properties That, Even After ‘Guardians of the Galaxy,’ Are Still Too Weird for the Big Screen", ''[[IndieWire]]'' wrote that ''X-Statix'' "viciously deconstructed every phony bit of comic-book artifice", put "fame-whoring media culture on trial", and confronted issues of race, class, and sexuality.<ref>{{cite news |last1=Bramesco |first1=Charles |title=5 Marvel Properties That, Even After 'Guardians of the Galaxy,' Are Still Too Weird for the Big Screen |url=https://www.indiewire.com/2014/08/5-marvel-properties-that-even-after-guardians-of-the-galaxy-are-still-too-weird-for-the-big-screen-126122/ |access-date=11 December 2019 |work=IndieWire |date=5 August 2014}}</ref> IGN wrote that the frequency with which characters were killed off "lent the book an air of danger and unpredictability rare to mainstream superhero titles."<ref name="IGN"/> In 2012, ''Entertainment Weekly'' included ''X-Statix'' in a list of "15 Comic Books We Want to See as Movies", saying that the work "has never looked more timely."<ref>{{cite news |last1=Franich |first1=Darren |title=15 Comic Books We Want to See as Movies |url=https://ew.com/gallery/15-comic-books-we-want-see-movies/?slide=372244#372244 |access-date=11 December 2019 |work=Entertainment Weekly |date=3 May 2012}}</ref> Previously, in 2003, the magazine had given the series an A rating, calling it a "razor-sharp media critique with hyperbolic dialogue."<ref>{{cite news |last1=Tucker |first1=Ken |title=X-Statix |url=https://ew.com/article/2003/02/21/x-statix/ |access-date=11 December 2019 |work=Entertainment Weekly |date=21 February 2003}}</ref> Fumettologica praised the subtlety of the [[metatextuality]] in its satire, mentioning the character Anarchist's fear that people won't support adding a second African American to the team.<ref>{{cite news |last1=Andreoletti |first1=Marco |title=X-Statix: i supereroi nell'era della mediocrità |url=https://www.fumettologica.it/2018/09/x-statix-fumetto-marvel/ |access-date=12 December 2019 |work=Fumettologica |date=12 September 2018 |language=it}}</ref>
+
+==In other media==
+*Phat appears in the film ''[[X-Men: The Last Stand]]'', portrayed by Via Saleaumua in his "large mode" and Richard Yee in his "small mode". This version is a member of the Omegas. He joins the [[Brotherhood of Mutants]] in opposing a [[Mutant (Marvel Comics)|mutant]] cure, only to be killed by [[Iceman (Marvel Comics)|Iceman]].
+*Zeitgeist appears in the film ''[[Deadpool 2]]'', portrayed by [[Bill Skarsgård]]. [[Deadpool]] and [[Weasel (Marvel Comics)|Weasel]] recruit him into [[X-Force]]. However, Zeitgeist is killed on their first mission after crosswinds blow him into a woodchipper.
+
+==Notes==
+{{Reflist}}
+
+==References==
+{{refbegin}}
+*{{comicbookdb|type=title|id=1011|title=''X-Statix''}}
+{{refend}}
+
+==External links==
+* [http://www.tcj.com/262/e_jista.html The X-Titles revamp] as discussed in ''[[The Comics Journal]]'' No. 262
+
+{{X-Men characters}}
+{{X-Comics}}
+
+[[Category:2001 comics debuts]]
+[[Category:Comics by Peter Milligan]]
+[[Category:Characters created by Peter Milligan]]
+[[Category:Characters created by Mike Allred]]
+[[Category:Defunct American comics]]
+[[Category:X-Men supporting characters]]

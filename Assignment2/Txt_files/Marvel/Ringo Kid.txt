@@ -1,0 +1,92 @@
+{{Infobox comics character and title
+<!--Wikipedia:WikiProject Comics-->
+| character_name = The Ringo Kid
+| image          = RingoKidn1p1-Maneely.jpg
+| caption        = First appearance: [[Glossary of comics terminology#Splash|Splash page]] of ''The Ringo Kid Western'' #1 (Aug. 1954). Art by [[Joe Maneely]].
+| publisher      = [[Marvel Comics]]
+| debut          = ''The Ringo Kid Western'' #1 (Aug. 1954)
+| creators       = Unknown writer and [[Joe Maneely]]
+| alter_ego      =
+| full_name      = (Unknown first name) Rand
+| species        = 
+| homeworld      =
+| alliances      =
+| partners       = Dull Knife (sidekick)<br />Arab (horse)
+| supports       =
+| aliases        =
+| powers         = Proficient with bow and gun. Hand-to-hand combat. Expert horseman.
+<!--Series section-->
+|title               = The Ringo Kid
+|cvr_image           =
+|cvr_caption         =
+|cvr_alt             =
+|schedule            = Monthly
+|format              = [[Ongoing series]]
+|limited             =
+|ongoing             = y
+|1shot               =
+|genre               = [[Western comics|Western]]
+|pub_series          =
+|date                =
+|1stishhead          = Ringo Kid
+|1stishyr            = 1954
+|1stishmo            = Aug.
+|endishyr            = 1957
+|endishmo            = Sept.
+|issues              = 21
+|main_char_team      = Ringo Kid, Dull Knife, Arab
+|writers             =
+|artists             = [[Joe Maneely]], [[Fred Kida]]
+|pencillers          =
+|inkers              =
+|letterers           =
+|colorists           =
+|editors             = [[Stan Lee]]
+|creative_team_month =
+|creative_team_year  =
+|creators_series     =
+|TPB                 =
+|ISBN                =
+|TPB1                =
+|ISBN1               =
+|nonUS               =
+}}
+The '''Ringo Kid'''  is a [[fictional]] [[Western fiction|Western]] hero in the [[Marvel Comics]]' [[Marvel Universe|universe]], whose [[comic book]] series was originally released by the company's 1950s predecessor, [[Atlas Comics (1950s)|Atlas Comics]]. A lesser-known character than the company's [[Kid Colt]], [[Rawhide Kid]], or [[Two-Gun Kid]], he also appeared in a reprint series in the 1970s.
+
+The character is unrelated to the actor [[John Wayne]]'s "Ringo Kid" in the Western film ''[[Stagecoach (1939 film)|Stagecoach]]''.
+
+==Publication history==
+[[Atlas Comics (1950s)|Atlas Comics]]' Ringo Kid debuted in the first issue of a series billed on its [[trademarked]] cover logo as ''Ringo Kid'' for all but two issues (#1 and #3, cover-billed as ''Ringo Kid Western'').<ref>The series' [[copyrighted]] title as indicated in its postal [[indicia (publishing)|indicia]] was ''The Ringo Kid Western''.</ref><ref>{{cite book |last1=Brevoort |first1=Tom |last2=DeFalco |first2=Tom |last3=Manning |first3=Matthew K. |last4=Sanderson |first4=Peter |last5=Wiacek |first5=Win |title=Marvel Year By Year: A Visual History |date=2017 |publisher=DK Publishing |isbn=978-1465455505 |page=59}}</ref> Created by an unknown writer and artist [[Joe Maneely]], it ran 21 issues ([[cover-date]]d Aug. 1954 - Sept. 1957), drawn primarily by either Maneely or [[Fred Kida]].<!--Backup features were usually TK or an anthological Western tale.--> Stories also ran occasionally in ''[[Wild Western]]'', beginning with issue #38 (Nov. 1954), initially drawn by Maneely, with artist [[John Severin]] taking the reins in at least issues #46-47 (Nov. 1955 - Jan. 1956). Ringo was the lead feature in the two-issue anthology series ''Western Trails'' #1-2 (May & July 1957).<ref>[http://atlastales.com/at/s/f:ringo+kid:z:s Ringo Kid] (character) at AtlasTales.com</ref><ref>[http://www.comics.org/series/1048/ ''The Ringo Kid Western'' (Marvel, 1954 Series)] at the [[Grand Comics Database]]</ref> He also appears on the cover of ''Wild Western'' #39 (Dec. 1954), but not in an interior story.<ref>[http://www.atlastales.com/sI/4656 ''Wild Western'' #39] at AtlasTales.com</ref><ref>[http://www.comics.org/issue/11747/ ''Wild Western'' #39] at the Grand Comics Database</ref>
+
+A five-page story entitled "The Ringo Kid" in Atlas' ''Western Outlaws & Sheriffs'' #73 (June 1952) is unrelated,<ref>[http://www.atlastales.com/sI/4596 ''Western Outlaws & Sheriffs'' #73] at AtlasTales.com</ref> as is the four-page story "Ringo Kid" in ''Wild Western'' #26 (Feb. 1953).<ref>[http://www.comics.org/issue/10312/#91223 ''Wild Western'' #26] at the Grand Comics Database</ref>
+
+Marvel reprinted the series in ''Ringo Kid'' vol. 2, #1-30 (Jan. 1970 - Nov. 1976), often with the original Maneely covers. The Ringo Kid made his first appearance in present-day stories in a [[time travel]] tale in the [[superhero]]-team comic ''[[Avengers (comics)|The Avengers]]'' #142 (Dec. 1975)
+
+Marvel writer [[Steve Englehart]] planned a revival series at about this time, with art by [[Dick Ayers]]: "Every series I did took off so Marvel kept giving me more. I relaunched this classic Western — always my favorite of Marvel's true cowboy heroes (as opposed to the Two-Gun Kid, whom I also liked but who was more a superhero) — with classic Western artist Dick Ayres [sic]. But after this first issue was drawn and scripted, Marvel decided to do more superheroes and fewer cowboys, so it was set aside before inking".<ref>{{cite web |url=http://www.steveenglehart.com/Comics/Ringo%20Kid%201.html |title=Comics: Ringo Kid |publisher=SteveEnglehart.com (official site) |first=Steve |last=Englehart |accessdate=September 10, 2011 |archiveurl=https://web.archive.org/web/20110716054826/http://www.steveenglehart.com/Comics/Ringo%20Kid%201.html |archivedate=July 16, 2011 }} Additional [https://web.archive.org/web/20110811070934/http://www.steveenglehart.com/Comics%20index.html WebCitation archive].</ref>
+
+==Fictional character biography==
+The Ringo Kid, dressed all in black, is a heroic [[gunslinger]] of the 19th-century American [[Old West]] with a [[Caucasian race|Caucasian]] father, Cory Rand, and a [[Indigenous peoples of the Americas|Native American]] mother, Dawn Star, variously referred to as a [[Comanche]] or a [[Cheyenne people|Cheyenne]] "princess of her tribe despite the fact that the very idea of princesses was alien to that culture, imagined by settlers of European extraction, projecting their notions of royalty onto the natives."<ref name=markstein>{{cite web|authorlink=Don Markstein|last=Markstein|first=Don|title=The Ringo Kid|url=http://www.toonopedia.com/ringokid.htm|publisher=Don Markstein's Toonopedia|archiveurl=https://www.webcitation.org/62vnuTYFd?url=http://www.toonopedia.com/ringokid.htm|archivedate=November 4, 2011|url-status=live}}</ref> He was treated as an outcast because of his mixed heritage, and on the run after being falsely accused of a crime. He traveled with his sidekick Dull Knife. Dull Knife was of the same heritage as his mother's people. Ringo roamed the frontier atop his horse named Arab. His specific mission or goal appears not to have been stated explicitly, but there is intimation of some law-enforcement function: As many covers note breathlessly, "Ringo!" is "The name that makes killers tremble!"
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.maelmill-insi.de/UHBMCC/western6.htm#S1969 ''The Ringo Kid Western''] at The Unofficial Handbook of Marvel Comics Creators
+* {{Comicbookdb|type=character|id=27282|title=Ringo Kid}}
+* [http://www.internationalhero.co.uk/r/ringokid.htm Ringo Kid] at An International Catalogue of Superheroes. Note: Gives incorrect data on first appearance.
+
+{{Marvel Western Characters}}
+
+[[Category:1954 comics debuts]]
+[[Category:1957 comics endings]]
+[[Category:Atlas Comics characters]]
+[[Category:Atlas Comics titles]]
+[[Category:Characters created by Joe Maneely]]
+[[Category:Comics characters introduced in 1954]]
+[[Category:Fictional Cheyenne people]]
+[[Category:Fictional Comanche people]]
+[[Category:Fictional gunfighters]]
+[[Category:Fictional Native American people in comics]]
+[[Category:Marvel Comics male characters]]
+[[Category:Marvel Comics titles]]
+[[Category:Western (genre) comics]]

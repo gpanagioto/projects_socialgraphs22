@@ -1,0 +1,5 @@
+#REDIRECT [[Wolfsbane (character)]]
+
+{{Redirect category shell|
+{{R from move}}
+}}

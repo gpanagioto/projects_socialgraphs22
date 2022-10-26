@@ -1,0 +1,58 @@
+{{Other uses|Nightrunner (disambiguation){{!}}Nightrunner}}
+{{short description|Fictional comic book character}}
+{{Infobox comics character<!--Wikipedia:WikiProject Comics-->
+|character_name = Nightrunner
+|image          =  NightrunnerINc.jpg
+|imagesize      = <!-- default 250 -->
+|converted      = y
+|caption        = Nightrunner, art by [[Trevor McCarthy]].
+|publisher      = [[DC Comics]]
+|debut          = ''Detective Comics'' Annual #12 (February 2011)
+|creators       = [[David Hine]] & [[Kyle Higgins]]
+|alter_ego      =  Bilal Asselah
+|alliances      = [[Batman Incorporated]]<br />[[Justice League Europe]]
+|partners       = [[Batman]]
+|aliases        =
+Batman of Paris<br>
+Le Batman of France<ref name=aliases>{{cite web|url=http://www.comicvine.com/nightrunner/29-74514/ |title=Le Batman of France |publisher=Comicvine.com |access-date=2012-08-05 |archive-url=https://web.archive.org/web/20130928162744/http://www.comicvine.com/nightrunner/4005-74514/ |archive-date=28 September 2013}}</ref><br>
+The Free Runner<ref name=aliases/><br>
+The Protector of Paris<ref name=aliases/><br>
+The Night Runner<ref name=aliases/><br>
+The Dark Athlete<ref name=aliases/>
+|powers         =
+*  [[Parkour]]
+|cat            = super
+|subcat         = DC Comics
+|hero           = y
+|sortkey        = 
+}}
+'''Nightrunner''' ({{lang-fr|Coureur nocturne}}) is a [[Character (arts)|fictional character]] created by [[David Hine]] and [[Kyle Higgins]] for publisher [[DC Comics]]. A [[comic book]] [[superhero]], Nightrunner first appeared in ''[[Detective Comics|Detective Comics Annual]]'' #12 (February 2011). Nightrunner is a 25-year-old [[France|French]] citizen of [[Algeria]]n origin who lives in [[Clichy-sous-Bois]] in the eastern suburbs of [[Paris]], [[France]]. He was recruited by [[Bruce Wayne]] and [[Dick Grayson]] for [[Batman Incorporated]] as the Batman of Paris, ''Le Batman Of France''.<ref name=aliases/>
+
+==Publication history==
+Nightrunner was introduced in a two-part story that spanned ''Detective Comics'' Annual #12 and ''Batman'' Annual #28 in December 2010 (cover-date February 2011). David Hine created Nightrunner to mirror the current social and political situations unfolding in the French projects of [[Clichy-sous-Bois]].<ref>{{cite web |url=http://www.comicbookresources.com/?page=article&id=29252 |title=The Batsignal: Daid Hine |publisher=[[Comic Book Resources]] |date=November 5, 2010}}</ref>
+
+==Fictional character biography==
+Bilal Alsselah ({{lang-ar|بلال الصلاح}}), a [[Algerians in France|French-Algerian]], was raised by his single mother on the outskirts of Paris, France. Though peaceful, on Bilal's birthday, he and his friend Aarif were caught in the middle of a protest, and beaten mercilessly by the police force. After they both healed, Aarif gave Bilal a gift including the music of Leni Urbana, an urban representative of the Muslim people in France, urging Bilal to listen to her words. That night Aarif was killed by police after he set fire to their station. After hearing of his friend's death, Bilal would forever be changed. Though he sympathized with the protesters, he found faults on both sides and decided to take a cue from Batman's origins: becoming a symbol, without racial or religious bias, that could make a difference for what's right and just. Already a superior parkour and freerun athlete, he donned the mask of Nightrunner in order to help the people's cause and bring justice to Clichy-sous-Bois.<ref>''Detective Comics'' Annual #12 (February 2011)</ref>
+
+He assists [[Batman]] in taking down a child-slavery ring.<ref>''Batman'' Annual #28 (February 2011)</ref><ref>{{cite news|url=http://dccomics.com/dccomics/comics/?cm=20815|title=Batman: The Leviathan Strikes #1|access-date=January 24, 2012|url-status=dead|archive-url=https://web.archive.org/web/20111203095141/http://www.dccomics.com/dccomics/comics/?cm=20815|archive-date=December 3, 2011}}</ref>
+
+==See also==
+* [[Maghrebian community of Paris]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://dc.wikia.com/wiki/Bilal_Asselah_(New_Earth) Nightrunner] at DC Comics Wiki
+
+{{Batman characters}}
+
+[[Category:Comics characters introduced in 2011]]
+[[Category:DC Comics superheroes]]
+[[Category:Fictional Arabs]]
+[[Category:Muslim superheroes]]
+[[Category:Muslim characters in comics]]
+[[Category:French superheroes]]
+[[Category:Vigilante characters in comics]]
+
+{{DC-char-stub}}

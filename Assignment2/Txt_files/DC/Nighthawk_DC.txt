@@ -1,0 +1,52 @@
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+| image = |noimage=yes
+| character_name = Nighthawk
+| publisher = [[DC Comics]]
+| debut = ''[[Western Comics]]'' #5 (September/October 1948)
+| creators = Joe Millard and [[Charles Paris]]
+| alter_ego = Hannibal Hawkes
+| full_name =
+| species = <!-- optional -->
+| homeworld = <!-- optional -->
+| alliances = Rough Bunch
+| partners  = Jim Peyton<br />[[Cinnamon (comics)|Cinnamon]]
+| aliases = [[Hawkman]]
+| supports=<!--optional-->
+| powers = Repair skills, expert marksman and horseman
+}}
+
+'''Nighthawk''' is a [[fictional character]], a [[cowboy]] in the [[DC Comics]] [[DC Universe|universe]]. His real name is '''Hannibal Hawkes''' and he first appeared in ''[[Western Comics]]'' #5. In his [[secret identity]], he worked as a traveling repairman. He had a [[sidekick]] named Jim Peyton.
+
+Created by Joe Millard and [[Charles Paris]],<ref>{{cite web|author= |url=https://www.comics.org/issue/6959/ |title= ''Western Comics'' #5 |publisher=Grand Comics Database |date= |accessdate=2018-06-24}}</ref> his later adventures were handled by writers [[France Herron]], [[Donald Clough Cameron|Don Cameron]], and [[Gardner Fox]]; and artists [[Gil Kane]] and [[Carmine Infantino]].<ref>Markstein, Don. [http://www.toonopedia.com/nighthwk.htm "Nighthawk"], Don Markstein's Toonopedia. Accessed Aug. 13, 2011.</ref>
+
+==Fictional character biography==
+He was shown as dying during ''[[Crisis on Infinite Earths]]'',<ref>''Crisis on Infinite Earths'' #3 (June 1985).</ref> although this has been [[retcon]]ned twice to fit in with the later revelation that he was a [[reincarnation]] of Prince Khufu — who would later be reincarnated as [[Carter Hall (comics)|Carter Hall]], the [[Golden Age of Comic Books|Golden Age]] [[Hawkman]]. Current continuity has it that he was shot by a criminal named Matilda Roderic,<ref>''Hawkman'' (vol. 4) #7 (Nov 2002)</ref> who was presumably a reincarnation of the evil priest [[Hath-Set]], who is apparently destined to kill Khufu in every life. Roderic's descendant is the current Hath-Set.
+
+The 2002 retcon also revealed he was the partner and lover of the Western heroine [[Cinnamon (comics)|Cinnamon]], who was the reincarnation of Khufu's wife [[Hawkgirl#Shiera Sanders|Chay-Ara]].
+
+Nighthawk appears in [[Guy Gardner (comics)|''Guy Gardner'']] #24<ref>''Guy Gardner: Warrior'' #24 (September 1994).</ref> during the ''[[Zero Hour (comics)|Zero Hour]]'' incident. He sported white sideburns at this point in time. His group of allies, which includes El Diablo and [[Bat Lash]], were forming to take on the villain Extant and several men Extant had brainwashed. Nighthawk calls this group the "Rough Bunch" on more than one occasion. The time-lost heroes [[Steel (comics)|Steel]], Supergirl, Guy Gardner and a version of [[Batgirl]] show up to help in the fight.
+
+A modern-day version of the character appears in the Western-themed ''Robin'' (vol. 2) Annual #6,<ref>''Robin'' (vol. 2) Annual #6 (1997).</ref> as a mercenary. He worked with [[Robin (Tim Drake)|Robin]] and the modern day [[Pow Wow Smith]] to track down the modern day [[Trigger Twins]]. They have a literal Main Street showdown in a Western-themed tourist attraction located near [[Gotham City]].
+
+===The New 52===
+Nighthawk appears in ''All Star Western'' in both its backups and in the main Jonah Hex story.<ref>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Korte |first3=Steve |last4=Manning |first4=Matt |last5=Wiacek |first5=Win |last6=Wilson |first6=Sven |title=The DC Comics Encyclopedia: The Definitive Guide to the Characters of the DC Universe |date=2016 |publisher=DK Publishing |isbn=978-1-4654-5357-0 |page=351}}</ref> Nighthawk's new origin is that he left home as a child and worked on a whaling boat. The captain, a former slave, became a second father to him and Nighthawk was there when the man died. This death inspired Nighthawk to fight for justice and for the oppressed. Nighthawk is teamed with [[Cinnamon (comics)|Cinnamon]] once again. Nighthawk uses a special medallion he found at an Indian burial site which gives him enhanced strength and healing abilities.
+
+==In other media==
+===Television===
+* In ''[[The Flash (2014 TV series)|The Flash]]'' episode [[List of The Flash (2014 TV series) episodes#ep7|"Power Outage"]], a movie poster can be seen featuring Nighthawk and Cinnamon.
+* In the ''[[Legends of Tomorrow|DC's Legends of Tomorrow]]'' episode "[[Legends of Tomorrow#Episodes|The Magnificent Eight]]", present Hawkgirl meets her previous incarnation [[Cinnamon (comics)|Cinnamon]] in 1871, who discusses her sorrow over the death of her husband, Hannibal Hawkes / '''[[Hawkman]]'''.
+
+===Other===
+* French-Canadian electro-rock band Judge Rock has him as a character in their 2012 song ''Westerner'', depicting scenes from the 1985/86 ''[[Crisis on Infinite Earths]]'' comics series where Nighthawk appears: "Then came Nighthawk, the sombre man / White bird on a dark shirt / Hand on his gun, boots in the dirt / He was the gravest of the clan".
+
+==References==
+{{reflist}}
+{{DC Western Characters}}
+
+[[Category:Comics characters introduced in 1948]]
+[[Category:DC Comics Western (genre) characters]]
+[[Category:DC Comics characters with accelerated healing]]
+[[Category:Fictional gunfighters]]
+[[Category:Fictional mercenaries in comics]]
+[[Category:Golden Age adventure heroes]]
+[[Category:DC Comics male characters]]

@@ -1,0 +1,5 @@
+#REDIRECT [[Piledriver (character)]]
+
+{{Redirect category shell|
+{{R from move}}
+}}

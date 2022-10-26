@@ -1,0 +1,457 @@
+{{short description|Fictional society in the Marvel Comics universe}}
+{{Infobox comics organization
+<!--Wikipedia:WikiProject Comics-->
+| name         = Hellfire Club
+| image        = Xml210.jpg
+| imagesize    = <!-- default 250 -->
+| caption      = Cover for ''X-Men: Legacy'' #210, art by [[David Finch (comics)|David Finch]].
+| alt          = 
+| publisher    = [[Marvel Comics]]
+| debut        = ''The [[Uncanny X-Men]]'' #129
+| debutmo      = January 
+| debutyr      = 1980
+| debuthead    = 
+| debut#       = 
+| debutmo#     = 
+| debutyr#     = 
+| debuthead#   = 
+| creators     = [[Chris Claremont]] <br />[[John Byrne (comics)|John Byrne]]
+| type         = 
+| business     = 
+| organisation = 
+| organization = 
+| team         = 
+| base         = Various
+| owners       = 
+| employees    = 
+| members      = {{Plain list |
+* [[Sebastian Shaw (comics)|Sebastian Shaw]]
+* [[Emma Frost]]
+* [[Harry Leland]]
+* [[Mastermind (Jason Wyngarde)|Jason Wyngarde]]
+* [[Donald Pierce]]
+* [[Sage (comics)|Tessa]]
+* [[Selene (comics)|Selene]]
+* [[Magneto (Marvel Comics)|Magneto]]
+* [[Storm (Marvel Comics)|Storm]]
+* [[Shinobi Shaw]]
+* [[Trevor Fitzroy]]
+* [[Madelyne Pryor]]
+* [[Sat-yr-9]]
+* [[Phoenix Force (comics)|Phoenix]]
+* [[Sunspot (comics)|Sunspot]]
+* [[Zeke Stane|Iron Monger]]
+* [[Azazel (Marvel Comics)|Azazel]]
+}}
+| fullroster   = 
+| cat          = 
+| subcat       = Marvel Comics
+| altcat       = 
+| hero         = 
+| villain      = y
+| sortkey      = Hellfire Club (comics)
+}}
+The '''Hellfire Club''' is a fictional society appearing in [[American comic book]]s published by [[Marvel Comics]]. The Hellfire Club often comes into confrontation with the mutant superhero team, the [[X-Men]].  Although the Club appears to merely be an international social club for wealthy elites, its clandestine '''Inner Circle''' seeks to influence world events, in accordance with their own agenda.
+
+Created by the ''[[Uncanny X-Men]]'' writer/artist duo of [[Chris Claremont]] and [[John Byrne (comics)|John Byrne]], they were heavily influenced by a 1966 episode of the British television series ''[[The Avengers (TV series)|The Avengers]]'' ("[[A Touch of Brimstone]]").<ref name=xcompanion2>''X-Men Companion II''. 1982. Fantagraphics Books.</ref> The name "[[Hellfire Club]]" in fact has a historical precedent, having been a popular name for [[gentlemen's clubs]] in the 18th century. Additionally, the hierarchy of the Inner Circle is modeled on the pieces of a chess set, with Black and White sets of Kings, Queens, Bishops and Rooks.
+
+The Hellfire Club and its Inner Circle were introduced in "[[The Dark Phoenix Saga]]", attempting to subvert the X-Men's [[Jean Grey]].<ref>''The Uncanny X-Men'' #129-135</ref> This incarnation, composed most notably of Black King [[Sebastian Shaw (comics)|Sebastian Shaw]] and White Queen [[Emma Frost]], would remain prominent for many years. After their initial confrontations, the Hellfire Club and the X-Men settled into an uneasy alliance.<ref name="uxm209">''The Uncanny X-Men'' #209</ref><ref name="nm51">''The New Mutants'' #51</ref> This eventually changed as endless power struggles perpetuated a series of upheavals within the Inner Circle. The club has appeared in two X-Men animated series (''[[X-Men: The Animated Series]]'' and ''[[Wolverine and the X-Men (TV series)|Wolverine and the X-Men]]''), both times being renamed as simply The Inner Circle, due to the aversion of using the term "hellfire" in a children's cartoon. Members of the Hellfire Club appeared in 2011's ''[[X-Men: First Class]]'' as the main villains, led by Sebastian Shaw, Emma Frost, Azazel and Riptide. The Hellfire Club’s Inner Circle also appear as the main antagonists of the [[The Gifted (season 2)|second]] season of the television series ''[[The Gifted (American TV series)|The Gifted]]'' led by a character named Reeva Payge played by [[Grace Byers]], and the [[Stepford Cuckoos|Frost sisters]] played by [[Skyler Samuels]].
+
+==Publication history==
+In creating the Hellfire Club, ''[[Uncanny X-Men]]'' writer [[Chris Claremont]] and artist/co-writer [[John Byrne (comics)|John Byrne]] drew heavily upon a 1966 episode of the British spy series ''[[The Avengers (TV series)|The Avengers]]'' entitled "[[A Touch of Brimstone]]".<ref name=xcompanion2/> In the episode, agents John Steed and Emma Peel attempt to infiltrate a secret society named after the [[Hellfire Club]] of the 18th century, whose members of the "Inner Circle" all wear period costumes. Emma Peel's guise as "the Queen of Sin", dressed in a black leather corset, would be the model for the Club's Queens, her first name even borrowed for White Queen [[Emma Frost]]. The leader of the episode's club was played by actor [[Peter Wyngarde]], best known for his role as [[Jason King (TV series)|Jason King]], forming the basis for [[Mastermind (Jason Wyngarde)|Mastermind]]'s new "Jason Wyngarde" identity.
+
+The other members of Claremont and Byrne's Hellfire Club were similarly drawn from the names and faces of famous actors: [[Sebastian Shaw (comics)|Sebastian Shaw]] was based on actor [[Robert Shaw (actor)|Robert Shaw]], [[Harry Leland]] on [[Orson Welles]] (who acted as Harry Lime in ''[[The Third Man]]'' and whose film ''[[Citizen Kane]]'' featured a reporter named Jed Leland), and [[Donald Pierce]] was based on [[Donald Sutherland]] (the surname referencing his [[Hawkeye Pierce]] character from ''[[MASH (film)|M*A*S*H]]'').<ref name=xcompanion2/>
+
+Later writers would further the references to ''The Avengers'': Sir Patrick and Lady Diana, from the Philadelphia branch of the 1780s, are named after actors [[Patrick Macnee]] (John Steed) and [[Diana Rigg]] (Mrs. Emma Peel); conversely, the Black Queen of the London branch was revealed to be named Ms. Emma Steed.<ref>''Excalibur'' #99</ref>
+
+==Overview==
+The Hellfire Club counts among its members the most famous, wealthy, and influential members of society. Membership is passed on to descendants, and can also be earned through wealth or influence. While many accept the invitation simply for the pleasures that the Club offers, others seek wealth and influence. In fact, the purpose of the Hellfire Club is to obtain and exert power through politics and economic influence instead of outward conquest and domination. Since its foundation, the Hellfire Club has been involved in wars and assassinations to further the agendas of the Club's most powerful members.
+
+The Club has branches in [[New York City]], [[London]], [[Hong Kong]], and [[Paris]]; the various branches are all overseen by the Lord Imperial (a position long-held by Sir Gordon Phillips).<ref name="xxm3">''X-Treme X-Men'' #3</ref> Unbeknownst to most members is the Club's Inner Circle. Originally known as the Council of the Chosen, this secret group formed around [[Edward Buckman|Edward "Ned" Buckman]], each member assuming the titles of the major chess pieces. As White King, Buckman financed [[Steven Lang (comics)|Stephen Lang]]'s revived [[Sentinel (comics)|Sentinel]] program with the assistance of probationary member [[Sebastian Shaw (comics)|Sebastian Shaw]].<ref>''The Uncanny X-Men'' #100</ref> Shaw, now Black Bishop, began securing allies within the Club, meeting [[Harry Leland]], [[Emma Frost]], and [[Donald Pierce]], as well as his loyal assistant, [[Sage (comics)|Tessa]].<ref name=hellparents>''X-Men: The Hellfire Club'' #4</ref> Buckman, no longer having a use for the dangerously-ambitious Shaw, ordered a Sentinel attack on Shaw and his allies, resulting in the death of Shaw's lover, [[Lourdes Chantel]]. That night, Shaw and Emma Frost purged the entire Council of the Chosen, remaking it as the Lords Cardinal and appointing themselves Black King and White Queen.<ref name="Classic X-Men #6-7">''Classic X-Men'' #6-7</ref>
+
+Shaw's Inner Circle soon turned their attentions to the [[X-Men]], kidnapping several of their number. [[Mastermind (Jason Wyngarde)|Mastermind]], as Jason Wyngarde, was made a probationary member pending his subversion of the X-Men's [[Jean Grey]]. Jean Grey was in fact the [[Phoenix (comics)|Phoenix]], a god-like cosmic entity who became unstable after Mastermind's psychic manipulations, turning into the [[Dark Phoenix Saga|Dark Phoenix]]. The Hellfire Club had failed, and the X-Men had taken their toll: Phoenix had driven Mastermind insane, [[Colossus (comics)|Colossus]] had crippled Donald Pierce and [[Wolverine (character)|Wolverine]] nearly killed Harry Leland and several guards.<ref name="uxm132-135">''The Uncanny X-Men'' #132-135</ref>
+
+Despite such setbacks, the Inner Circle continued to pursue its agenda. Shaw, using his connections to [[Robert Kelly (comics)|Senator Robert Kelly]] to initiate [[Project Wideawake|Project: Wideawake]], secured a government contract for Shaw Industries to manufacture [[Sentinel (comics)|Sentinels]], profiting from the state of fear concerning the "mutant menace" despite secretly being a mutant himself. Frost meanwhile ran the [[Massachusetts Academy (comics)|Massachusetts Academy]], a prestigious preparatory school affiliated with the Hellfire Club that secretly trained a team of young mutants, known as the [[Hellions (Marvel Comics)|Hellions]]. The Inner Circle also underwent some personnel changes, notably the expulsion of Donald Pierce for conspiring against his mutant colleagues,<ref name="mgn4" /> and the addition of [[Selene (comics)|Selene]] as Black Queen.<ref>''The Uncanny X-Men'' #189</ref>
+
+Although the hierarchy of the Inner Circle goes through constant upheaval due to the competing egos and political motives of its members, it continues to exist in the same basic structure today.
+
+Magneto briefly took the title of Grey King after Sebastian Shaw was voted out of the Inner Circle,<ref>''The New Mutants'' #75</ref> and with Emma Frost he began plotting against Black Queen Selene,{{issue|date=September 2014}} having planted Hellion Empath into Nova Roma via his relationship with New Mutant Magma prior to ousting Shaw.{{issue|date=September 2014}} However, when Magneto discovered the X-Man Rogue alive and well in the Savage Land (where Magneto was visiting),{{issue|date=September 2014}} Magneto abandoned the Hellfire Club and ultimately went into exile when he was rejected by Rogue when he murdered the Savage Land priestess Zaladane.{{issue|date=September 2014}} Meanwhile, Emma Frost attempted to force former Hellion Firestar to rejoin the Hellions but was rebuked by Firestar and her new teammates in the New Warriors.<ref>''The New Warriors'' #10</ref>
+
+Disjointed, Selene exploited the chaos to launch a pre-emptive strike to slaughter the Lord Cardinals with aid from a group of young mutant "Upstarts" who were loyal to Selene. Points for each kill were awarded by the [[Gamesmaster (comics)|Gamesmaster]] and Magneto, Shaw, Pierce, and Frost were all targeted, before Selene herself was betrayed by Trevor Fritzroy and Gamemaster. During this time the Inner Circle of the London branch was working behind the American branch's back and was influencing [[Parliament of the United Kingdom|Parliament]] and the secret government agency ''Black Air''. [[Captain Britain]] (Brian Braddock) held a position for a short term on Shinobi Shaw's advisement to investigate its activities as they had mutual objectives. [[Excalibur (comics)|Excalibur]] collected evidence of their crimes and the Inner Circle was either arrested or went into hiding.
+
+The Upstarts' uprising was quashed by Sebastian Shaw. He reinstated some of the old Inner Circle until he disbanded it due to his own invested interest in business pursuits. The Club still continued loosely partly due to Selene's influence, although it never had the same prestige as the original.
+
+Sebastian Shaw again reformed a variation of the original Inner Circle with a nobler outlook posing as a force for good, which may have been a deception on his part. Tessa/Sage rejoined the Inner Circle to observe this and to assist [[Sunspot (comics)|Roberto da Costa]]'s usurping the position of Lord Imperial which Shaw had claimed.
+
+The Hellfire Club was next under the leadership of Roberto da Costa as the Lord Imperial aided by Sage. [[Sat-Yr-9]] (under the guise of Courtney Ross) as the new White Queen, aided by her assassin [[Viper (Madame Hydra)|Viper]], her "Warrior White Princess". As with many members in the past, both Sat-Yr-9 and Viper have their own personal agendas.
+
+Following [[Decimation (comics)|M-Day]], Sunspot remains as Lord Imperial, while Shaw resumes his activities, though under Sunspot's close watch. While Sat-Yr-9's whereabouts remain unknown, Viper returns to [[Madripoor]] to oversee [[Hydra (Marvel Comics)|HYDRA]] operations<ref>''The New Avengers'' #42</ref> and Sage became a member of the short-lived [[New Excalibur]], only to end up as one of the [[Exiles (Marvel Comics)|Exiles]].
+
+When the X-Men and many other powered or depowered mutants came to San Francisco, an offshoot of the Club, known as the Hellfire Cult, begins attacking mutants and "species traitors". Officially, their leadership appears to be [[Empath (comics)|Empath]], but the real power behind the scenes is the mysterious Red Queen. Their activities draw the attention of the X-Men.<ref>''The Uncanny X-Men'' 500-502 (2008)</ref>
+
+Kade Kilgore later took control of the Hellfire Club. Kilgore founded the Hellfire Academy where he recruited mutant outlaws as its faculty and started looking for students to attend this school.<ref name="Wolverine and the X-Men #20"/> The Hellfire Academy serves as the direct opponent for the [[X-Mansion|Jean Grey School for Higher Learning]].<ref>''Wolverine and the X-Men'' #23</ref>
+
+==Organization==
+
+===Lord Imperial===
+The '''Lord Imperial''' is not a member of the Inner Circle or any particular branch of the Hellfire Club; the Lord Imperial is the true leader of the Hellfire Club and oversees all branches of it. As such, only a few individuals have held the title. Sir Gordon Phillips, while unknown at the time, ruled as Lord Imperial for most of the club's modern history, holding the position from before the club's introduction<ref name="xxm3"/> until his death: killed by Sabertooth on a cruise ship filled with humans infected with the [[Legacy Virus]].<ref name="Uncanny X-Men #388">''The Uncanny X-Men'' #388</ref>
+
+* '''Sir Gordon Phillips'''
+* '''[[Elias Bogan]]'''
+* '''[[Sebastian Shaw (comics)|Sebastian Shaw]]'''
+* '''[[Sunspot (comics)|Roberto da Costa (Sunspot)]]'''
+
+===Inner Circle===
+The constant intrigue, backstabbing, blackmailing and politicking that plague the Hellfire Club have resulted in many changes of the Inner Circle, as new players seek out membership in order to obtain influence, power and wealth. The following lists the membership of each incarnation of the Inner Circle and the title they held; in descending order of rank are Kings and Queens, followed by Bishops and Rooks.
+
+====The Council of the Chosen====
+The original Inner Circle (existing prior to the club's introduction) consisted of:
+
+* '''[[Edward Buckman|Edward "Ned" Buckman]]'''  - White King
+* '''Paris Seville''' - White Queen
+* '''[[Sebastian Shaw (comics)|Sebastian Shaw]]''' - Black Bishop
+
+Sebastian Shaw was instrumental in the Hellfire Club's funding of [[Steven Lang (comics)|Stephen Lang]]'s resurrected [[Sentinel (comics)|Sentinel]] program, but having completed his purpose, White King Ned Buckman sought to eliminate the ambitious Black Bishop. After a Sentinel attack on Shaw's beach house resulted in the death of his lover, [[Lourdes Chantel]], Shaw and his ally [[Emma Frost]] purged the entire Council in one night and appointed themselves its Black King and White Queen.<ref name="Classic X-Men #6-7"/>
+
+====The Lords Cardinal====
+Shaw renamed The Council of the Chosen as The Lords Cardinal following his takeover of the New York branch, and appointed a number of allies to key positions. Frost began running the [[Massachusetts Academy (comics)|Massachusetts Academy]] at this time. [[Mastermind (Jason Wyngarde)|Jason Wyngarde]], also known as Mastermind, later became a probationary member pending his subversion of the X-Men's [[Jean Grey]] into the Club's Black Queen.
+
+* '''[[Sebastian Shaw (comics)|Sebastian Shaw]]''' - Black King
+* '''[[Emma Frost]]''' - White Queen
+* '''[[Donald Pierce]]''' - White Bishop
+* '''[[Harry Leland]]''' - Black Bishop
+* '''[[Mastermind (Jason Wyngarde)|Jason Wyngarde (Mastermind)]]''' - A probationary member who was presumably intended for one of the two Rooks.
+* '''[[Phoenix (comics)|Phoenix]] (posing as [[Jean Grey]])''' - Black Queen
+* '''[[Sage (comics)|Tessa]]''' - Shaw's personal aide.
+* '''[[Warhawk (Marvel Comics)|Warhawk]]''' - Associate of the Hellfire Club.
+
+Following Mastermind's failed subversion of Jean Grey,<ref name="uxm132-135"/> the title of Black Queen was once again empty. Donald Pierce reached the rank of White King but was later expelled for conspiring against his mutant colleagues.<ref name=mgn4>''Marvel Graphic Novel'' #4</ref> New members appointed during this period were:
+
+* '''[[Selene (comics)|Selene]]:''' - Black Queen<ref name="New Mutants vol. 1 #23">''The New Mutants'' #23</ref>
+* '''[[Friedrich Von Roehm]]''' - Black Rook<ref>''The New Mutants'' #22</ref>
+* '''Emmanuel da Costa''' - White Rook<ref name="New Mutants vol. 1 #23"/>
+
+A truce between the Hellfire Club and the X-Men began after an encounter with [[Nimrod (comics)|Nimrod]] resulted in the deaths of Leland and von Roehm.<ref name="uxm209"/> This truce soon grew into a formal alliance as [[Storm (Marvel Comics)|Storm]] and [[Magneto (Marvel Comics)|Magneto]], as the leaders of the X-Men and Xavier's school respectively, took over the shared position of White King.<ref name="nm51"/>
+
+* '''[[Storm (Marvel Comics)|Storm]]''' - White King (with Magneto)
+* '''[[Magneto (Marvel Comics)|Magneto]]''' - White King, later Grey King
+
+Storm and the X-Men would later seemingly die, leaving Magneto alone to deal with the Inner Circle. After a protracted power struggle, Magneto turned Emma Frost and Selene against Shaw and expelled him from Inner Circle, assuming both mantles as the new Grey King.<ref>''The New Mutants'' #75</ref> Magneto, while never formally resigning, would soon withdraw from the club, after relocating to Savage Land to deal with the threat of the villainess Zaladane.<ref>''The Uncanny X-Men'' #269</ref> Meanwhile, Selene would turn against Frost and Magneto after learning that the two had sent Empath (one of Emma's students) to Selene's Amazon fortress Nova Roma in order to subvert Selene's granddaughter Magma. Selene would create "The Upstarts", a group of young and wealthy mutants who replace the Hellfire Club. Organizing a "game" where whichever member killed the most Hellfire Club members would rule the group, Emma Frost's students in the Hellfire Club were slaughtered by Trevor Fitzroy and Emma herself put into a coma. Fitzroy also "killed" Donald Pierce and his Reavers. Magneto meanwhile, having relocated to Asteroid M, invited a young healer named Fabian Cortez and his group known as the Acolytes to stay with him. Cortez (whose power was to boost other mutants abilities) manipulated Magneto into declaring war upon the X-Men and ultimately hijacked control over a SHIELD orbital weapons platform, to blow up Asteroid M, seemingly killing Magneto. Sebastian Shaw would be "killed" by Shinobi Shaw, a young mutant who was fathered by Harry Leland but raised by Sebastian as his son.<ref name=uxm281282>''The Uncanny X-Men'' #281-282, ''X-Men'' #1-3, ''X-Factor'' #67</ref> In retaliation, Empath used his powers to manipulate all of Nova Roma (including Magma) into thinking they were kidnapped victims of Selene's, who had been manipulated due to her mind control powers, into thinking they were citizens of an ancient, long lost Roman settlement in South America.<ref>''The New Warriors'' #31</ref> Selene however, would soon fall prey to her new allies own wrath as Trevor Fitzroy and Selene's ally, the Gamemaster, turned against her and allowed Gamemaster to take control over the Upstarts.
+
+White Rook Emmanuel da Costa was also killed around this period, though his death was unrelated to the agenda of the Upstarts. A group of immortal mutants known as the Externals, became aware of a prophecy that one of the New Mutants was destined to play a major role in the salvation of the planet. The prophecy referenced two New Mutants in particular, de Costa's son Sunspot and the New Mutant [[Cannonball (comics)|Cannonball]], one of which potentially possessed the secondary mutation of immortality and the destiny of savior of mutantkind.<ref>''X-Force'' #21-23</ref> As Cable infiltrated the New Mutants under the notion that Cannonball was to be the immortal messiah, the External's leader Gideon sought to corrupt Sunspot, who was the messiah promised in the prophecy.<ref>''X-Force'' #11-16, ''Avengers World'' #19-21</ref> Already a family friend, Gideon had de Costa's secretary poison the White Rook in order to force his super-hero son to leave the New Mutants and take leadership of his family's company.<ref>''The New Mutants'' #98</ref> When Cannonball survived a near fatal impaling (which Cable mistook as being the result of his being immortal), Gideon turned on Sunspot who was ultimately rescued by X-Force.<ref>''X-Force'' #15</ref>
+
+With exception of de Costa; all of the Hellfire Club Lord Cardinals killed by the Upstarts, later recovered. Sebastian Shaw faked his death, as did Magneto. Donald Pierce was rebuilt by Stryfe along with the rest of the Reavers, while Emma Frost recovered from her coma and repented her evil ways.
+
+====Shinobi Shaw's Upstart Inner Circle====
+Selene had originally planned on creating a new Inner Circle with the help of the [[Upstarts (comics)|Upstarts]] - among them [[Shinobi Shaw]], son of Sebastian Shaw - but they betrayed and imprisoned her. Believing to have successfully assassinated his father,<ref>''X-Factor'' #67</ref> Shinobi Shaw briefly took over the New York branch of the Club, seemingly with support from the [[Externals|External]] [[Candra (comics)|Candra]]. He offered membership in his Inner Circle to [[Warren Worthington III|Archangel]],<ref name="hell29"/> Storm,<ref name="X-Men vol. 2 Annual #3">''X-Men'' Annual #3</ref> and [[Sunspot (comics)|Sunspot]] (also known as Roberto da Costa, son of former White Rook Emmanuel da Costa),<ref name="X-Force vol. 1 #62">''X-Force'' #62</ref> but all declined.
+
+* '''[[Shinobi Shaw]]''' - Black King
+* '''[[Benedict Kine]]''' - White King
+* '''Benazir Kaur''' - White Queen
+* '''Reeva Payge''' - Black Queen
+* '''[[Candra (comics)|Candra]]''' - Associate
+* '''Cordelia Frost''' - Probationary member
+* '''Ebon Knights''' - Shinobi Shaw's Black Guard
+* '''Ivory Knights''' - Benedict Kine's White Guard
+
+The titles of Payge and Kaur are not established. When Cordelia Frost (younger sister of Emma) applies for membership to the Inner Circle, Shinobi states that the title of White Queen is already taken.<ref>''Generation X'' Annual '95</ref>
+
+Shinobi Shaw's actions as Black King were limited to failed attempts at extending his influence and monitoring the London branch of the Club.
+
+====The London Branch====
+The Hellfire Club's London branch is introduced briefly operating parallel to Shinobi's Inner Circle.<ref name="Excalibur vol. 1 #96">''Excalibur'' #96</ref>  Instead of Black and White, the titles of the London Inner Circle are designated Black and Red.
+
+* '''[[Emma Steed]]''' - Black Queen<ref name=london>''Marvel Atlas'' #1</ref>
+* '''[[Margali Szardos]]''' - Red Queen
+* '''Quentin Templeton''' - Black King<ref name=london/>
+* '''Alan Wilson''' - Red King<ref name=london/>
+* '''[[Captain Britain|Brian Braddock (Captain Britain)]]''' - Black Bishop
+* '''Conrad Strathdee''' - Red Bishop<ref name=london/>
+* '''[[Scribe (comics)|Jane Hampshire]] (possessed by [[Mountjoy (comics)|Mountjoy]])''' - Red Rook<ref name=london/>
+* '''Rutledge''' - Servant
+
+Captain Britain, having inherited club membership from his father, Sir James Braddock, was asked by Shinobi Shaw to infiltrate the London Inner Circle, as the branch's mysterious agenda surely ran counter to both their interests.<ref name="Excalibur vol. 1 #96"/> The London Branch and their plans were soon brought to an end after a failed attempt to use a demon's essence to control the city.<ref>''Excalibur'' #99-100</ref> The Black Queen and Red King were taken into police custody.
+
+====Shaw's Second Circle====
+Sebastian Shaw, despite his apparent death, later re-emerged<ref>''X-Force'' #48</ref> and retook control of the Hellfire Club in attempt to restore its former power and glory. Selene, freed from her imprisonment by the Upstarts, took under her influence a resurrected [[Madelyne Pryor]] in her quest for revenge.<ref>''X-Man'' #7</ref><ref>''X-Man'' #13</ref><ref>''X-Man'' #16-17</ref> Shaw meanwhile attempted to ally with the [[Age of Apocalypse|AOA]]-exile [[Holocaust (Marvel Comics)|Holocaust]]. Meeting in New York, Shaw proposes a reformation of the Inner Circle with the following line-up:<ref>''X-Man'' #20-22</ref> At first operating in secret from outside the Hellfire Club (still under Shinobi Shaw's control), Sebastian's group soon reasserted control over the organization.<ref name="X-Man #28">''X-Man'' #28</ref>
+
+* '''[[Sebastian Shaw (comics)|Sebastian Shaw]]''' - Black King
+* '''[[Selene (comics)|Selene]]''' - Black Queen
+* '''[[Trevor Fitzroy]]''' - White Rook
+* '''[[Madelyne Pryor]]''' - Red Queen
+* '''[[Donald Pierce]]''' - Applicant for White Bishop
+* '''[[Sage (comics)|Tessa]]''' - Shaw's personal aide
+* '''Ella''' - Selene's personal servant
+* '''[[Holocaust (Marvel Comics)|Holocaust]]''' - Associate
+* '''Miss Hoo''' - Associate
+
+Selene's mind control over Madelyne Pryor eventually waned, and the Black Rook's allegiance soon turned to Sebastian Shaw.<ref>''X-Man'' #24-25</ref> Concerned, Selene contacted Fitzroy and Tessa to counteract the changing balance of power.<ref name="X-Man #28"/> Donald Pierce returned to the Hellfire Club as a probationary member,<ref>''Cable'' #47</ref> however his failure in attaining the alien technology of [[Apocalypse (comics)|Apocalypse]] resulted in his expulsion from the group.<ref>''Cable'' #50-53</ref> Pryor meanwhile had betrayed and deserted the club. Shaw, presented with a mysterious offer,<ref>''X-Men'' vol. 2 #72</ref> decided to accept its terms and resign from the Inner Circle, advising Fitzroy to do the same.<ref name="xmen73"/>
+
+====Selene's Hellfire Club====
+Selene, finding herself the sole remaining member of the Inner Circle, reformed the club in her own image and allied with the ruler of Hell, [[Blackheart]]. After a confrontation with the [[Fantastic Four]], Blackheart is imprisoned and Selene's captive [[Daimon Hellstrom]] is freed; Hellstorm then became the club's White King to ensure a balance of power and light.<ref>''Fantastic Four'' Annual '99</ref> Selene would later successfully induct [[Sunspot (comics)|Sunspot]] (Roberto da Costa, son of former Black Rook Emmanuel da Costa) into the Inner Circle,<ref>''X-Force'' #98-100</ref> offering the resurrection of his long-dead girlfriend, Julianna, who died saving his life.<ref>''Marvel Graphic Novel'' #4 ("The New Mutants")</ref>
+
+* '''[[Selene (comics)|Selene]]''' - Black Queen
+* '''[[Blackheart]]''' - Black King
+* '''[[Daimon Hellstrom]]''' - White King
+* '''[[Sunspot (comics)|Roberto da Costa (Sunspot)]]''' - Black Rook
+
+It is unknown what led to the dissolution of this incarnation. The Hellfire Club was found closed and abandoned, covered in blackbriar thorns; Selene herself was trapped inside the mansion, unable to leave.<ref>''The Uncanny X-Men'' #452</ref>
+
+====The Fifth Inner Circle====
+After the death of Sir Gordon Phillips at the hands of the Brotherhood of Mutants,<ref name="Uncanny X-Men #388"/> Sebastian Shaw positioned himself as the new Lord Imperial and, as such, oversaw the entire Hellfire Club.{{issue|date=November 2012}}
+
+* '''[[Sebastian Shaw (comics)|Sebastian Shaw]]''' - Lord Imperial
+* '''[[Sunspot (comics)|Roberto da Costa (Sunspot)]]''' - Black King
+* '''[[Selene (comics)|Selene]]''' - Black Queen
+* '''[[Sat-Yr-9]] (as [[Courtney Ross]])''' - White Queen
+* '''[[Viper (Madame Hydra)|Viper]]''' - White Warrior Princess
+* '''[[Sage (comics)|Tessa]]''' - Shaw's personal aide and Sunspot's personal adviser.
+* '''[[Red Lotus (comics)|Red Lotus]]''' - Associate
+
+Selene, despite remaining imprisoned underneath the Hellfire Club's New York mansion and not actively participating in the Inner Circle, has apparently retained her title of Black Queen.{{issue|date=November 2012}} It was also revealed that Emma Frost, despite having left the club long ago and having since joined the X-Men, still retained her membership and White Queen title.{{issue|date=November 2012}} [[Sat-Yr-9]] confronts Emma Frost and, assuming her title, becomes the newest addition to the Inner Circle, bringing with her bodyguard and self-appointed "White Warrior Princess" [[Madame Hydra|Viper]].{{issue|date=November 2012}}
+
+A confrontation with Donald Pierce leaves Sebastian Shaw gravely injured,{{issue|date=November 2012}} and Sunspot takes over as Lord Imperial, which was Tessa's plan all along.{{issue|date=November 2012}} Tessa left the Club,{{issue|date=November 2012}} still under Sunspot's rule, and joined [[Excalibur (comics)#New Excalibur (2005)|New Excalibur]] in the wake of [[Decimation (comics)|M-Day]].{{issue|date=November 2012}} Shaw has since returned as the Black King, seemingly plotting to rebuild his power base.{{issue|date=November 2012}}
+
+====Nova's Inner Circle====
+[[File:New Hellfire.jpg|200px|right|thumb|Emma Frost's illusory Inner Circle (left to right): Negasonic Teenage Warhead, Perfection, Cassandra Nova,  and Sebastian Shaw]]
+
+* '''[[Emma Frost]]'''
+* '''[[Sebastian Shaw (comics)|Sebastian Shaw]]'''
+* '''[[Emma Frost|Perfection]]'''
+* '''[[Cassandra Nova]]'''
+* '''[[Negasonic Teenage Warhead (comics)|Negasonic Teenage Warhead]]'''
+
+A mysterious new Inner Circle emerged in the pages of 'Astonishing X-Men' vol. 3. Members of this version were never given titles since they were revealed to be psionic projections created by Emma Frost at the behest of [[Cassandra Nova]]. In an attempt to free herself the X-Men, Cassandra had placed a portion of her consciousness in Frost's prior to being mentally imprisoned and launched an assault on the [[X-Mansion]] by using Emma as a Trojan horse. Other than Cassandra Nova, each member appears to represent a different aspect of Emma's past with [[Negasonic Teenage Warhead (comics)|Negasonic Teenage Warhead]] being a former student of hers who died in [[Genosha]]; Perfection, a manifestation of Emma's younger, evil self and Sebastian Shaw representing her time with the Hellfire Club.<ref>''Astonishing X-Men'' vol. 3 #13-18</ref>
+
+====Selene's second Inner Circle====
+Selene, finding herself once again the sole remaining member of the Inner Circle, and disappointed by the many betrayals from Sebastian Shaw and his Hellfire Club, decided it was time to rise to goddesshood, a state she believed she was destined for.<ref>''X-Necrosha'' #1</ref> To accomplish that, she specifically recruited a Coven of deadly mutants to seek revenge against all those that had betrayed her or stood in her way in the past. Together they went to the New York branch of the Hellfire Club, where she cut all ties with them by using her new Inner Circle to slaughter every person there. This Inner Circle was made up of mostly by mutants whose abilities were designed for killing. Membership consisted of:
+
+* '''[[Blink (comics)#Earth-616 Blink|Blink]]''' 
+* '''[[Senyaka]]'''
+* '''[[Lois London|Mortis]]'''
+* '''[[Wither (comics)|Wither]]'''
+* '''[[Eli Bard]]''' - only non-mutant member. Turned into a vampire-like creature by Selene.
+
+====The Sixth Inner Circle====
+Sebastian Shaw's Inner Circle eventually reemerged. [[Wolverine (character)|Wolverine]] came into confrontation with a new "Inner Circle", under the false impression (by Sebastian Shaw and  "[[Miss Sinister]]") that they are behind the kidnapping of his son, [[Daken]].<ref>''X-Men: Legacy'' #215</ref>
+
+* '''[[Sebastian Shaw (comics)|Sebastian Shaw]]'''
+* '''[[Miss Sinister|Claudine Renko (Miss Sinister)]]'''
+* '''Mr. Castlemere'''
+* '''Turner'''
+* '''Peter Scholl (Leonine)'''
+* '''Mercedes'''
+
+====The Seventh Inner Circle====
+In the event "Schism", there has apparently been a pro-human coup in the Hellfire Club, all mutant members have been removed, and 12-year-old supergenius Kade Kilgore has been named the new Black King.<ref>''X-Men: Schism'' #1</ref> Kilgore then called together a cabal of prepubescent geniuses to secretly rule the Hellfire Club and eradicate mutantkind, then proceeding to poison the other remaining Hellfire Club members, making them the sole leadership.<ref>''X-Men: Schism'' #3</ref><ref>''X-Men: Schism'' #5</ref> Kade Kilgore later had a change of heart and began recruiting mutants to his side to train the newly manifested mutants at the Hellfire Academy.<ref name="Wolverine and the X-Men #20">''Wolverine and the X-Men'' #20</ref> The Hellfire Academy is destroyed by the staff of the Jean Grey School.<ref name="Wolverine and the X-Men #35">''Wolverine and the X-Men'' #35</ref>
+
+* '''Kade Kilgore''' - Black King. A twelve-year-old sociopath who is also the leader of the group. 
+* '''Doctor Maximilian Frankenstein''' (formerly '''Baron Maximilian von Katzenelnbogen''') - Black Bishop. Descendant of [[Victor Frankenstein]]. He was responsible for creating the Krakoa that the X-Men befriended and the Krakoas that defended the unnamed island where the Hellfire Academy is located.<ref>''X-Men: Schism'' #2</ref>
+* '''Manuel Enduque''' - White King. He is well-versed in weaponry with his family reportedly being a dynasty of slavers in Africa with Manuel having strangled his own father to death, thus resulting in him taking control of the business.
+* '''Wilhemina Kensington''' - White Queen. She is an eleven year old with a love of martial arts and beauty pageants who inherited the company after her mother died. She is also both psychopathic and sociopathic, having killed human guards and alien warriors and is also alleged to have mutilated both cats and penguins. 
+
+; '''Associates:'''
+* '''[[Sabretooth (comics)|Sabretooth]]'''<ref name=autogenerated2>''Wolverine and the X-Men'' #32</ref>
+* '''[[Ezekiel Stane]]''' <ref name=autogenerated2 />
+* '''[[Blackheart#Kid Blackheart|Kid Blackheart]]''' <ref name=autogenerated2 />
+* '''Cordelia Frost'''<ref name=autogenerated2 />
+* '''Szandor Shaw'''
+* '''Kevin Krask'''
+* '''Kenneth Krask'''
+* '''Wolfgang von Roehm'''
+
+====The Eighth Inner Circle====
+Sebastian Shaw has since regained control of the Hellfire Club and in an attempt to restore its former power and glory, decided to ally himself with Magneto and his X-Men branch to form a new Inner Circle.{{issue|date=September 2016}}
+
+* '''[[Sebastian Shaw (comics)|Sebastian Shaw]]''' - Black King
+* '''Briar Raleigh''' - Black Bishop - Magneto's former associate and the only non-mutant within the Inner Circle
+* '''[[M (Marvel Comics)|Monet St. Croix]]''' - White Queen
+* '''[[Black Tom Cassidy]]''' - White Bishop
+
+====The Ninth Inner Circle====
+Eventually Emma Frost decided to rid of Shaw, by spiking his wine with a paralytic agent she made sure there was no way for him to release his body's absorbed energies which overloaded his Mothervine-induced secondary mutation, resulting in his death.<ref>''X-Men: Black - Emma Frost'' #1</ref> She then reformed the Inner Circle in her image<ref>''The Uncanny X-Men'' vol. 5 #20</ref> and using Vanisher as her personal transportation, she worked behind the scenes to get the X-Men to handle certain affairs.
+
+*'''Black King''': Emma Frost
+*'''White King''': [[Mystique (comics)|Mystique]]
+*'''Black Bishop''': [[Elixir (comics)|Elixir]]
+*'''White Bishop''': [[Marrow (comics)|Marrow]]
+
+====The Tenth Inner Circle====
+With mutants congregating on Krakoa, Kade Kilgore is able to retake control of the Hellfire Club branch in New York City. Opting later to rename themselves as "'''Homines Verendi'''", a Latin name which roughly translates to "man must be revered and feared", Kade and his group (Maximilian Frankenstein, Manuel Enduque and Wilhemina Kensington) recruited Taiwanese millionaire and anti-mutant activist, Chen Zhao and stands poised ready to tear down the new age of mutantkind as they are involved in the Krakoans' problems.<ref>''Marauders'' #4</ref>
+
+With each of the founding members already in possession of massive fortunes, they succeeded in taking over Madripoor, an island in Southeast Asia, and are using it as its base of power. While it is unknown whether or not the royal family of Madripoor has been detained, fled or simply murdered, it's clear that the lawless island is no longer a safe haven for mutants. Once used as a base of operations for the X-Man Wolverine while using the alias “Patch,” Madripoor has now degenerated into a country that is openly hostile toward mutants and has even gone so far as to offer its citizens payment for killing mutants. It's almost become a dark reflection of Krakoa and everything that it stands for and recruited long-time X-Men foe [[Donald Pierce]] to act as Madripoor’s official representative to the United Nations.<ref>''Marauders'' #5</ref>
+
+They also secretly aid Hellfire Club member Sebastian Shaw in the murder of Kitty Pryde. Shaw paid Verendi to participate in his scheme to get Kitty alone on Verendi's ship so that he could ensnare her in Krakoan vines and sink her with the ship.<ref>''Marauders'' #6</ref>
+
+* '''Kade Kilgore''' - Black King
+* '''Manuel Enduque''' - White King
+* '''Chen Zhao''' - White Bishop
+* '''Maximillian Frankenstein''' - Black Bishop
+* '''[[X-Cutioner]]'''
+* '''[[Donald Pierce]]''' 
+* '''[[Hate-Monger]]'''
+* '''[[Darren Cross|Yellowjacket/Darren Cross]]'''
+
+===Members===
+The following characters are members of the Hellfire Club, many of them being extremely influential, but were not part of any of the Inner Circle incarnations mentioned above. Membership is either [[hereditary]], or obtained through personal invitation from the branch's King. Known members include:
+
+* '''Warren Worthington Jr.''' and '''Kathryn Worthington'''<ref name="hellsangel"/> (both deceased) - invited by Ned Buckman<ref name=hellparents/>
+* '''[[Howard Stark]]''' (deceased)<ref name=hellparents/> - invited by Ned Buckman
+* '''Sir James Braddock''' (deceased)<ref name="hell29"/> - invited by Ned Buckman, former Black Bishop of the London Branch, left the Inner Circle when his inventions were used for anti-mutant purposes.
+* '''[[Robert Kelly (comics)|Senator Robert Kelly]]''' (deceased)
+* '''[[Warren Worthington III|Warren Worthington III (Angel)]]'''<ref name=hellsangel>''The Uncanny X-Men'' #132</ref> - inherited membership from his father.
+* '''[[Candace Southern|Candace "Candy" Southern]]'''<ref name=hellsangel/> (deceased)
+* '''[[Betsy Braddock|Elizabeth Braddock (Psylocke)]]'''<ref name=hell29>''X-Men'' vol. 2 #29</ref> - inherited membership.
+* '''[[Jamie Braddock|James Braddock Jr.]]''' - inherited membership.
+* '''Berhard Van Ostamgen'''<ref>''The New Mutants'' #53</ref> - failed entry into Inner Circle
+* '''Ronald Parvenue'''<ref name=hell29/>
+* '''[[Night Thrasher (Dwayne Taylor)|Dwayne Taylor (Night Thrasher)]]''' (deceased)<ref name=hell29/>
+* '''[[Iron Man|Anthony Stark (Iron Man)]]'''<ref name=xmen73>''X-Men'' #73</ref> - inherited membership from his father
+* '''[[Green Goblin|Norman Osborn (Green Goblin)]]'''<ref name=xmen73/>
+* '''Bianca LeNeige'''
+* '''[[Vance Astrovik]]'''
+* '''Oliver Ryland''' - Elias Bogan's protégé
+* '''[[Kingmaker (comics)|The Kingmaker]]'''
+* '''[[Rachel Summers]]''' - White Warrior Princess, invited by Emma Frost
+* '''[[Spitfire (comics)|Lady Jacqueline Falsworth-Crichton]]''' - inherited membership
+* '''Angus Munroe'''<ref>''Marvel Graphic Novel'' #63: (Spider-Man - Spirits of the Earth)</ref> - deceased
+
+====Past members====
+* '''Philadelphia, 1780/81:''' Sir Patrick Clemens (King title), Lady Diana Knight (Queen title), [[Jean Grey#Ancestry|Lady Grey]] (Queen title), Elizabeth Shaw-Worthington, Major General Wallace Worthington, Commander Clinton
+* '''London, 1859:''' Lord Braddock, Mr. Shaw (Sebastian Shaw's great-grandfather and Cornelius Shaw's father)
+* '''Boston, 1872/74:''' Anton Pierce (Member of the Inner Circle)
+* '''London, 1915:''' Brigadier-General Cornelius Shaw, Sir Harry Manners, Waltham Pierce
+
+In ''[[Runaways (comics)|Runaways]]'' #10, [[Emma Frost]] tells [[Cyclops (Marvel Comics)|Cyclops]] that the Hellfire Club had once reached out for [[the Hayeses]], though the attempt went awry because the Hayeses were "sadistic monsters".<ref>''[[Runaways (comics)|Runaways]]'' #10</ref>
+
+===Staff===
+The Hellfire Club has employed a large number of mostly-anonymous armed guards. A few have been named:
+
+* Wade Cole<ref name="colemaconreese">''The Uncanny X-Men'' #133</ref>
+* Angelo Macon<ref name="colemaconreese" />
+* Murray Reese<ref name="colemaconreese" />
+* [[Cannonball (comics)|Samuel Guthrie (Cannonball)]]<ref name=mgn4/>
+* Richard Salmons<ref>''The Uncanny X-Men'' #210</ref>
+* Randall Chase<ref>''Firestar'' #1-4</ref>
+* Chet Andrews<ref>''X-Men Unlimited'' #33</ref>
+
+Cole, Macon and Reese were savagely wounded by [[Wolverine (character)|Wolverine]] in the Hellfire Club's first confrontation with the X-Men.<ref name="colemaconreese" /> They would return to duty as [[cyborgs]]<ref name="mgn4" /><ref>''The Uncanny X-Men'' #152</ref> before leaving the Club to join [[Lady Deathstrike]] in seeking revenge against Wolverine,<ref>''The Uncanny X-Men'' #205</ref> eventually joining the [[Reavers (comics)|Reavers]].<ref name="uxm247">''The Uncanny X-Men'' #247</ref>  [[Cannonball (comics)|Sam Guthrie]] worked as a Hellfire guard for a brief period before joining the [[New Mutants]] as Cannonball.<ref name="mgn4" /> Kade Kilgore also recruited two survivors of private military company Blackguard, who were augmented with adamantium skeletons, and laser claws as his personal bodyguards.<ref>''Wolverine and the X-Men'' #16</ref>
+
+The Hellfire Club also employs a number of servants, escorts and strippers. Sharon Kelly was a waitress at the New York branch who was chosen by Sebastian Shaw to seduce [[Robert Kelly (comics)|Senator Robert Kelly]].<ref>''The Uncanny X-Men'' #246</ref> The couple quickly married, but soon afterwards Sharon was killed in a battle involving the X-Men,<ref name=uxm247/> further fueling her husband's hatred for mutants.
+
+===Massachusetts Academy===
+{{Main|Massachusetts Academy (comics)}}
+{{Further|Hellions (comics)}}
+
+The Hellfire Club was aligned with the prestigious [[University-preparatory school|prep school]] the [[Massachusetts Academy (comics)|Massachusetts Academy]], run by White Queen [[Emma Frost]], for a number of years.<ref>''The Uncanny X-Men'' #129</ref> In addition to its large, traditional, student body, the Academy secretly trained a team of young [[Mutant (Marvel Comics)|mutants]] known as the [[Hellions (Marvel Comics)|Hellions]].<ref>''The New Mutants'' #16</ref> Due to their affiliation with the Club, the Hellions were often present at its social functions. This group would entertain a rivalry with [[Professor X|Professor Charles Xavier]]'s students at the time, the [[New Mutants]].
+
+After the death of the Hellions in an attack orchestrated by the [[Upstarts (comics)|Upstarts]],<ref name=uxm281282/> Emma Frost left the Hellfire Club. Re-aligning herself with Professor Xavier, the Massachusetts Academy became the new site for [[Xavier's School for Gifted Youngsters]] and a new class, known as [[Generation X (comics)|Generation X]].<ref>''The Uncanny X-Men'' #318</ref><ref>''Generation X'' #1</ref>
+
+===Hellfire Academy===
+The seventh incarnation of the Hellfire Club have since founded the '''Hellfire Academy''', a rival to the Jean Grey School for Higher Learning. It is located on an unnamed island.<ref name="Wolverine and the X-Men #20"/> According to Kade Kilgore, the purpose of recruiting newly empowered mutants is to train them to be supervillains so he can then profit from the fear generated by them through his Sentinel program.<ref>''Wolverine and the X-Men'' #31</ref> Staff outside the Hellfire Club's leadership include:
+
+* '''[[Mystique (comics)|Mystique]]''' - Headmistress who also teaches Intro to Evil. Joined in ''Wolverine and the X-Men'' #20.<ref name="Wolverine and the X-Men #20"/>
+* '''[[Sabretooth (comics)|Sabretooth]]''' - Headmaster. Joined in ''Wolverine and the X-Men'' #3.
+* '''[[Dog Logan]]''' - Brother of [[Wolverine (character)|Wolverine]]. He teaches [[physical education]]. Joined in ''Wolverine and the X-Men'' #29.
+* '''Dr. Xanto Starblood''' - Self-proclaimed ''Extreme Zoologist'' who teaches Xenobiology. Joined in ''Wolverine and the X-Men'' #30
+* '''[[Husk (comics)|Husk]]''' - Former X-Man. She is the [[lunch lady]] and [[librarian]]. Joined sometime after ''Wolverine and the X-Men'' #19.; later rejoined X-Men{{issue|date=August 2013}}
+* '''Lord Deathstrike''' - Brother of Lady Deathstrike who works as a recruited resourcer. Joined in ''Wolverine and the X-Men'' #20.<ref name="Wolverine and the X-Men #20"/>
+* '''[[Master Pandemonium]]''' - He teaches Hell Literature. Joined in ''Wolverine and the X-Men'' #20.<ref name="Wolverine and the X-Men #20"/>
+* '''Madame Mondo''' - Female member of the Spinless Ones from the Mojoverse. She works as the Public Relations teacher. Joined in ''Wolverine and the X-Men'' #20.<ref name="Wolverine and the X-Men #20"/>
+* '''[[Sauron (comics)|Sauron]]''' - He works as a [[Science education|science teacher]]. Joined in ''Wolverine and the X-Men'' #20.<ref name="Wolverine and the X-Men #20"/>
+* '''[[Silver Samurai]]''' -The son of the original Silver Samurai who works as a designer. Joined in ''Wolverine and the X-Men'' #20.<ref name="Wolverine and the X-Men #20"/>
+* '''The Philistine''' - Joined in ''Wolverine and the X-Men'' #20.<ref name="Wolverine and the X-Men #20"/>
+* '''[[Toad (Marvel Comics)|Toad]]''' - Joined in ''Wolverine and the X-Men'' #30.; left in ''Wolverine and the X-Men'' #33; later rejoined X-Men{{issue|date=August 2013}}
+* '''[[Wendigo (comics)|Wendigo]]''' - He works as a Danger Room Instructor. Joined in ''Wolverine and the X-Men'' #20.<ref name="Wolverine and the X-Men #20"/>
+
+The students of the Hellfire Academy include:
+
+* '''[[Broo (comics)|Broo]]''' - Joined in ''Wolverine and the X-Men'' #30; later rejoined X-Men{{issue|date=August 2013}}
+* '''[[Glob Herman]]''' - Joined prior to ''Wolverine and the X-Men'' #18 
+* '''Infestation''' - Joined in ''Wolverine and the X-Men'' #31 
+* '''Mudbug''' - Joined in ''Wolverine and the X-Men'' #20<ref name="Wolverine and the X-Men #20"/>
+* '''[[Oya (comics)|Oya]]''' - Joined in ''Wolverine and the X-Men'' #29; left in ''Wolverine and the X-Men'' #33; later rejoined X-Men{{issue|date=August 2013}}
+* '''[[Quentin Quire|Kid Omega]]''' - Joined in ''Wolverine and the X-Men'' #30; left in ''Wolverine and the X-Men'' #32; later rejoined X-Men{{issue|date=August 2013}}
+* '''Snot''' - Joined in ''Wolverine and the X-Men'' #31
+* '''Tin Man''' - Joined in ''X-Men'' vol. 3 #41
+
+===Hellfire Trading Company===
+In the wake of the establishment of the mutant nation of [[Krakoa]], Emma Frost reforms the Club and reorganized it into the Hellfire Trading Company, the distribution arm for the Krakoan drugs produced by the mutant nation-state. Sailing out of Hellfire Bay, its ships the Marauder, the Upstart and the Mercury perform public delivery of mutant goods, while also smuggling the drugs illicitly and freeing mutants from unfriendly nations. The company is run by a new Inner Circle which is compose of a triple dynasty of black, white and red Hellfire royalty.<ref>''Marauders'' #2</ref>
+
+* '''White Palace'''
+**'''White Queen''': [[Stepford Cuckoos]]: [[Emma Frost]] (''formerly'')
+**'''White Bishop''': [[Christian Frost]]
+**'''White Knight''': [[Callisto (comics)|Callisto]]
+*'''Blackstone'''
+**'''Black Queen''': [[Lourdes Chantel]]; [[Sebastian Shaw (comics)|Sebastian Shaw]] (''formerly Black King'')
+**'''Black Bishop''': [[Shinobi Shaw]]
+**'''Black Knights''': [[Fenris (comics)|Andrea and Andreas Strucker]]
+*'''Red Keep'''
+** '''Red Queen''': [[Kitty Pryde|Katherine Pryde]]
+** '''Red Bishop''': [[Bishop (comics)|Lucas Bishop]]
+
+==Other versions==
+
+===Age of Apocalypse===
+In the alternate universe known as the "[[Age of Apocalypse]]", the Hellfire Club was not active and was possibly decimated by the forces of [[Apocalypse (comics)|Apocalypse]]. Its closest counterpart was Heaven, [[Warren Worthington III]]'s nightclub that formed a neutral zone from the genetic conflict that boiled outside. [[Sebastian Shaw (comics)|Sebastian Shaw]] meanwhile served as a member of Apocalypse's court. [[Donald Pierce]] also became a servant of Apocalypse, and lead the [[techno-organic virus|techno-organic]]-infected [[Reavers (comics)|Reavers]]. On the other side of the conflict, [[Emma Frost]] served as part of the Human High Council, having been stripped of her powers through a lobotomy. [[Mastermind (Jason Wyngarde)|Jason Wyngarde]], a victim of the [[Sugar Man]]'s genetic experiments, had become one of [[Forge (comics)|Forge]]'s Outcasts.
+
+After the ascension of Weapon X, Sebastian Shaw remade Heaven into his image and renamed the nightclub as Hellfire Club all the while trying to gain power.<ref>''Age of Apocalypse'' #3</ref>
+
+===Bishop's Future===
+The Hellfire Club retained its position as one of the world's major powers in the future timeline of [[Bishop (comics)|Bishop]]. The Club is ruled by Anthony Shaw, a descendant of Sebastian Shaw; he also has an illegitimate son, [[Trevor Fitzroy]]. (Fitzroy would later travel back in time, bringing him into conflict with his forefathers Shinobi and Sebastian Shaw.) Malcolm, a colleague of Bishop and member of the Xavier Security Enforcers (X.S.E.), was also a member of the Club.
+
+===Clan Hellfire===
+In a future dominated by Trevor Fitzroy, calling himself The Chronomancer, one of the forces opposing his rule is Clan Hellfire, led by a Samara Shaw.
+
+===X-Men: Ronin===
+In one alternate reality in which the X-Men are based in Japan, the Hellfire Club is ruled by [[Professor X]]avier. The White Queen Emma Frost is a junior member who, along with Tessa, believe Xavier to be their biological father. The Club controls the Shadowcat Clan of ninjas, which includes [[Pyro (Marvel Comics)|Pyro]], [[Iceman (comics)|Iceman]] and [[Colossus (comics)|Colossus]].
+
+===Marvel Noir===
+In ''[[X-Men Noir]]'', the Hellfire Club is an exclusive S&M club owned by Sebastian Shaw, and is plundered early on by Beast, Cyclops and Iceman.<ref>''X-Men: Noir'' #2</ref>
+
+===Ultimate Marvel===
+Within the Hellfire Club of the [[Ultimate Marvel|Ultimate Marvel Universe]] is an Inner Circle led by Sebastian Shaw (with other notable members being Xavier spy Gerald Lavine, and Shaw's son Shinobi) who worship a pagan "[[Phoenix God]]". Believing the Phoenix to be incarnated in the body of X-Man [[Jean Grey]], the Club quietly funded Professor Charles Xavier as she developed under his tutelage. Jean however underwent a [[mental breakdown]], and stole the Inner Circle's bank access codes and wiped their minds.<ref name=autogenerated1>''Ultimate X-Men'' #24</ref>
+
+A group called the [[Shi'ar#Ultimate Marvel|Church of Shi'ar Enlightenment]] later approached the [[X-Mansion|Xavier Institute]], claiming the Hellfire Club was a breakaway sect, and asking to examine whether or not Jean really is the Phoenix God.<ref name=autogenerated1 /> However, [[Lilandra Neramani|Lilandra]]'s assistant Gerald Lavine was revealed to be an operative of the Hellfire Club and working for Shinobi Shaw, who is also dating Emma Frost, headmistress of the [[New Mutants|Academy of Tomorrow]] and secretly a member of the Hellfire Club.<ref name=autogenerated1 />
+
+==In other media==
+
+===Television===
+* Emma Frost, as the White Queen, is a member of Magneto's [[Brotherhood of Mutants|Brotherhood of Evil Mutants]] in the one off animated episode ''[[X-Men: Pryde of the X-Men|Pryde of the X-Men]]'' in 1989. It was planned to be a series, but was cancelled,{{citation needed|date=November 2014}} with only the pilot being produced. She is seen freeing Magneto from a military convoy at the beginning of the episode and can later be seen fighting against Cyclops on Asteroid M.
+* The original Inner Circle appeared in ''[[X-Men: The Animated Series|X-Men]]'' under the name of the "Inner Circle Club" to prevent any controversy regarding the use of the word "Hellfire".{{citation needed|date=September 2015}} They appear first in cameos in the episode "The Phoenix Saga - Part IV". The members of the Inner Circle are [[Sebastian Shaw (comics)|Sebastian Shaw]], [[Mastermind (Jason Wyngarde)|Jason Wyngarde]], [[Emma Frost]], [[Donald Pierce]], and [[Harry Leland]]. They aimed to control [[Jean Grey]] and brainwash her into joining them, but unwittingly unleashed the [[The Dark Phoenix Saga|Dark Phoenix]]. At the end of the saga Shaw, Pierce, and Frost escape, Wyngarde is left catatonic, and Leland is missing following a fight with Wolverine.
+* The animated series ''[[Wolverine and the X-Men (TV series)|Wolverine and the X-Men]]'' featured the Inner Circle composed of [[Emma Frost]], [[Sebastian Shaw (comics)|Sebastian Shaw]], [[Harry Leland]], [[Donald Pierce]], [[Selene (comics)|Selene]], and the [[Stepford Cuckoos]]. This Inner Circle appears more closely related to the Ultimate Marvel series, as a group who is obsessed solely with attaining the power of the Phoenix. In the episode "Shades of Grey," Emma Frost telepathically puts the X-Men to sleep so that the Hellfire Club can abduct Jean Grey. In the three-part episode "Foresight," Sebastian Shaw, Harry Leland, Donald Pierce, and Selene prepare a ritual that would extract the Phoenix Force from Jean Grey and place it in the Stepford Cuckoos. Emma Frost warned them against the plan, but her warnings fell on deaf ears. When the Phoenix was released, the ceiling fell on top of Leland and Pierce. Emma Frost used her telepathy to subdue Shaw and Selene.
+* The Hellfire Club (once again under the name Inner Circle) were featured in ''[[Marvel Anime|Marvel Anime: X-Men]]''. In the first episode, they were seen trying to manipulate Jean Grey into using the Phoenix Force for their own use until Jean Grey sacrifices herself. This show also includes some exclusive Inner Circle mutants who assisted Mastermind in his plans to rule humanity: '''Rat''' (voiced by Manabu Sakamaki in the Japanese version and by [[Michael Sinterniklaas]] in the English dub) can project the metal discs on his body, '''Marsh''' (voiced by [[Yuichi Nakamura (voice actor)|Yuichi Nakamura]] in the Japanese version and by [[Mary Elizabeth McGlynn]] in the English dub) can dissolve into liquid, and '''Neuron''' (voiced by [[Yutaka Aoyama]] in the Japanese version and by [[Dave Wittenberg]] in the English dub) is the White Bishop who has a shell on his back and can amplify anyone's senses with strips that come out of his body. During the final showdown, Rat was killed by Wolverine and Storm, Marsh was killed by Cyclops, Neuron was killed by Wolverine, and Mastermind was killed by Takeo Sasaki.
+* A live action television series titled ''Hellfire'' was under development by [[20th Century Fox Television]] and [[Marvel Television]] with an early 2017 air date,<ref>{{cite web |url=http://marvel.com/news/tv/25282/fox_in_development_on_hellfire_working_title?linkId=17951885 |title=Fox in Development on 'Hellfire' (Working Title) |publisher=[[Marvel Comics|Marvel.com]] |date=October 14, 2015 |access-date=October 14, 2015 |archive-url=https://web.archive.org/web/20151017013533/http://marvel.com/news/tv/25282/fox_in_development_on_hellfire_working_title?linkId=17951885 |archive-date=October 17, 2015 |url-status=live }}</ref><ref>{{cite web|url=http://www.slashfilm.com/x-men-hellfire-club-premiere/|title='X-Men' Spinoff 'Hellfire Club' May Premiere Early 2017; Plus a Minor 'Rambo' Update|publisher=/Film|last=Topel|first=Fred|date=January 15, 2016}}</ref> but on July 12, 2016, ''Variety'' reports that the project is no longer moving forward.<ref>{{cite web|url=https://variety.com/2016/tv/news/marvel-fox-series-matt-nix-pilot-commmitment-1201812851/|title=Marvel 'X-Men' Series from Matt Nix, Bryan Singer Lands Put Pilot Commitment at Fox (EXCLUSIVE)|publisher=Variety|last=Wagmeister|first=Elizabeth|date=July 12, 2016}}</ref>
+* Hellfire Club appears in ''[[The Gifted (U.S. TV series)|The Gifted]]'' television series. In the first season [[Stepford Cuckoos]] are revealed to be working for the Hellfire Club, convincing several characters to join them in the season finale. In the second season Reeva Payge takes control of the Inner Circle and pursues a goal of mutant liberation. Other members include Andy Strucker, [[Polaris (Marvel Comics)|Polaris (Lorna Dane)]], Fade and [[Sage (comics)|Sage]], all of whom joined the Hellfire Club at the end of Season 1 after losing faith in the Mutant Underground.<ref>{{cite web|url=https://screenrant.com/gifted-mutant-underground-hellfire-club-trailer/|title=The Gifted Trailer Teases Mutant Underground vs. Hellfire Club|publisher=Screenrant|last=Raymond|first=Nicholas|date=August 14, 2018}}</ref> However, Marsh, Rat and Neuron are killed by the X-Men, while Mastermind is killed by Takeo when the boy's powers go out of control.
+
+===Film===
+* The Hellfire Club appeared in the film ''[[X-Men: First Class]]'' as the main antagonists.<ref>[[Knowles, Harry]] (August 20, 2010). [http://aintitcool.com/node/46217 "So Bryan Singer just called regarding Matthew Vaughn's X-MEN: FIRST CLASS... I'm quite excited now."] [[Ain't It Cool News]]</ref> The Hellfire Club is led by [[Sebastian Shaw (comics)|Sebastian Shaw]] ([[Kevin Bacon]]) and [[Emma Frost]] ([[January Jones]]), with [[Azazel (Marvel Comics)|Azazel]] ([[Jason Flemyng]]), [[Riptide (comics)|Riptide]] ([[Álex González (actor)|Álex González]]), and [[Angel Salvadore]] ([[Zoë Kravitz]]) as the main members (Although Angel was initially a member of the X-Men before she defected). Their overall goal is to start [[World War III]] in order to wipe out the human race from Earth, allowing the mutants to rise up and take over as the survivor race, with Shaw as the leader of the new world order. To this end, they manipulate American and Soviet government officials to instigate the [[Cuban Missile Crisis]], prompting CIA agent [[Moira MacTaggert]] to supervise the initial formation of the X-Men, coordinated by [[Charles Xavier]], his adoptive sister [[Raven Darkholme|Raven]], new ally [[Erik Lensherr]], and CIA scientist [[Beast (comics)|Hank McCoy]], to oppose them. At the end of the movie, Sebastian Shaw is killed by Magneto while many of its members (Emma Frost, Azazel, Riptide, Angel and Raven) join Magneto and his new group the [[Brotherhood of Mutants]].
+* The Hellfire Club were originally planned to return in ''[[X-Men: Dark Phoenix]]'' with a lineup consisting of Harry Leland, Freidrich Von Roehm, the [[Fenris (comics)|Strucker Twins]], Shinobi Shaw, a returning Emma Frost and the [[Red Lotus (comics)|Red Lotus]] Gang, but they were ultimately not used in the film.<ref>{{Cite news|url=http://www.cbr.com/dark-phoenix-concept-art-x-men-hellfire-club|title=Dark Phoenix Concept Art Debuts X-Men Nemeses, The Hellfire Club|last=Chapman|first=Tom|work=CBR|access-date=December 19, 2019|date=December 19, 2019}}</ref>
+
+===Video games===
+* Emma Frost was a boss character in the ''[[X-Men (1992 video game)|X-Men]]'' arcade game by Konami in 1992, loosely based on the "Pryde of the X-Men" pilot.
+* The Hellfire Club have appeared in numerous X-Men video games as villains in various stages specifically within the Hellfire Mansion with the final boss almost always being Sebastian Shaw. The Hellfire Club Mansion appeared as the first stage in X-Men (Game Gear System) as well as ''[[X-Men 2: Game Master's Legacy]]'' (Game Gear). Another game they appeared in was ''[[X-Men Legends II: Rise of Apocalypse]]''.
+* The Hellfire Club appears as antagonist in the video game ''[[Wolverine: Adamantium Rage]],'' for the SNES and Sega Genesis, with Selene and Shinobi Shaw appearing as bosses in their stage.
+* The Hellfire Club appears in ''[[Marvel: Avengers Alliance]]''. In the Spec Ops part of the game, Emma Frost tells Nick Fury and the S.H.I.E.L.D. Agent that someone is claiming her former title as White Queen. Their foot soldiers consist of Hellfire Elites, Hellfire Gunners, Hellfire Heavies, Hellfire Hunters, Hellfire Officers, and Hellfire Snipers. The Hellfire Club has also received help in their goals from [[Avalanche (comics)|Avalanche]], [[Blob (comics)|Blob]], [[Crimson Dynamo]] (who built the [[Sentinel (comics)|Sentinels]] that obey the Hellfire Club's every commands), [[Juggernaut (comics)|Juggernaut]], and [[Karima Shapandar|Omega Sentinel]]. In the 6th Spec Ops mission, the Hellfire Club brings Living Pharaoh out of stasis and plots to help him transform into [[Living Monolith]]. This time, the Hellfire Club have also enlisted the help of [[Bullseye (comics)|Bullseye]], [[Constrictor (comics)|Constrictor]], and [[Dragoness (comics)|Dragoness]]. Also the Hellfire Club is a major antagonist in the first chapter of the second season, with [[Selene (comics)|Selene]] making her first appearance, as a boss in the mission 5. Special Operations 19: Fratricide follows the storyline of the remnants of the Brotherhood being hunted down by [[Mr. Sinister]], [[Bastion (comics)|Bastion]], and the Hellfire Club. Sebastian Shaw appears as the Boss of Mission 3, which also marks his first appearance in the game.
+
+==References==
+{{reflist|2}}
+
+==External links==
+* [http://marvel.com/universe/Hellfire_Club Hellfire Club] at Marvel.com
+* [http://marvel.wikia.com/Hellfire_Club_%28Earth-616%29 Hellfire Club] at Marvel Wiki
+** [http://marvel.wikia.com/Hellfire_Academy_%28Earth-616%29 Hellfire Academy] at Marvel Wiki
+{{Deadpool}}
+{{Excalibur}}
+{{New Mutants}}
+{{X-Men characters}}
+{{Ultimate X-Men}}
+
+{{DEFAULTSORT:Hellfire Club (Comics)}}
+[[Category:Villains in animated television series]]
+[[Category:Characters created by Chris Claremont]]
+[[Category:Characters created by John Byrne (comics)]]
+[[Category:Fictional clubs]]
+[[Category:Fictional organizations in Marvel Comics]]
+[[Category:Marvel Comics supervillain teams]]
+[[Category:X-Men supporting characters]]

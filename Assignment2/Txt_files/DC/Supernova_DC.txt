@@ -1,0 +1,74 @@
+{{short description|Identity used by three characters in the DC Comics Universe}}
+{{primary sources|date=September 2012}}
+{{Infobox comics character <!--This box is part of Wikipedia:WikiProject Comics. See that article for details-->
+|character_name = Supernova
+|image          = Supernova (comics).jpg
+|converted      = y
+|caption        = Supernova from ''[[52 (comics)|52]]'' #35, art by [[Phil Jimenez]].
+|real_name      = 
+|publisher      = [[DC Comics]]
+|debut          = ''[[52 (comics)|52]]'' #8
+|creators       = {{ubl|[[Geoff Johns]]|[[Grant Morrison]]|[[Greg Rucka]]|[[Mark Waid]]|[[Keith Giffen]]}}
+|alliances      = 
+|aliases        = 
+|alter_ego      = {{ubl|Michael Jon Carter|Daniel Carter|Jon Carter}}
+|powers         = Possesses advanced technology allowing:{{ubl|Flight|Light emission|Energy projection|Teleportation|Shrinking}}
+|cat            = super
+|subcat         = DC Comics
+|hero           = y
+|villain        = y
+|sortkey        = Supernova
+}}
+
+'''Supernova''' is an identity used by three characters in the {{DC Universe}}, all related to the Carter bloodline. The first appearance of this character was in the weekly DC Comics series ''[[52 (comics)|52]]'' where the mystery of his true identity and purpose was one of the recurring themes of the series.<ref>{{cite book |last1=Greenberger |first1=Robert |last2=Pasko |first2=Martin |title=The Essential Superman Encyclopedia |date=2010 |publisher=Del Rey |isbn=978-0-345-50108-0 |page=427}}</ref> 
+==Publication history==
+===52===
+{{main|52 (comics)}}
+The character of Supernova first appears during the eighth issue of the weekly comic series ''[[52 (comics)|52]]''. His costume and name are similar in design—albeit with a different color scheme—to the costume of '''Nova''', an "[[Elseworlds|imaginary story]]" version of [[Superman]] who lost his Kryptonian powers and became a [[Batman]]-like crimefighter in a two-part story.<ref>''[[World's Finest Comics]]'' #178 (September 1968) and #180 (November 1968)</ref> This version of the character also reappeared as one of several alternate versions of Superman.<ref>''Infinite Crisis'' #5</ref> In ''[[Superman/Batman]] Annual'' #2, a temporarily powerless Superman wears a costume with a similar design to the Nova suit, but calls himself Supernova.
+
+During Week 15, as Booster Gold gets bad promotion and publicity, Supernova seems to be getting the new good promotion and publicity that Booster Gold was once having.<ref>''52'' Week Fifteen</ref>
+
+This was an intentional design choice on the parts of the writers to feed into the mystery that was set up in his first appearance – ''Who is Supernova?''. As the series progressed, the narrative and characters within the narrative presented a number of choices for the real identity of Supernova.
+
+During Week 19, Supernova met with [[Wonder Girl (Cassie Sandsmark)|Wonder Girl]], who thought that he was [[Kon-El]].<ref>''52'' Week Nineteen</ref> [[Lex Luthor]] sees footage of this meeting, three weeks later, during Week 22, and is furious, believing that Supernova is Superman.<ref>''52'' Week Twenty-Two</ref>
+
+The character [[Ralph Dibny]] confronts and confirms the identity of Supernova but this information is not shared with the reader until issue #37 of the series where he is revealed to be [[Booster Gold]]. With the assistance of [[Rip Hunter]], he had faked his death and travelled back in time to become Supernova as part of a plan to stop [[Skeets (DC Comics)|Skeets]], who was being controlled by [[Mister Mind]].
+
+The Supernova suit is then employed by '''Daniel Carter''', Booster Gold and Rip Hunter's ancestor in the present. Echoing Booster's origins, Daniel is a former high school football superstar, who has permanently injured his knee, ending his career. [[Mister Mind]] finds him and manipulates him, eventually trapping him in the timestream before he is rescued by Rip Hunter, who defeats Mister Mind at the climax of the ''52'' series. While Daniel and Booster are aware of their relation to each other, however, Rip Hunter intentionally keeps his family connection to the Carters in the dark (as he is Booster Gold's future son). Daniel Carter uses the Supernova suit for a time to start a superhero career of his own, but also puts it to use for long sprees of playing [[video games]], as the suit's wearer is frozen in time, and doesn't need to eat, drink, sleep, or use the restroom.<ref>[[Booster Gold (volume 2)|''Booster Gold'' #1,000,000]]</ref>
+
+===Booster Gold===
+{{main|Booster Gold}}
+Following on from those events, the character is next seen in the relaunched ''[[Booster Gold (2007-)|Booster Gold]]'' series that uses many of the same themes as the 52 series. Rip Hunter and Booster Gold continue their alliance to try to avoid other dangerous changes to historical events. Booster Gold agrees to leave Supernova's identity to Daniel, hoping to shape him into a better person. Daniel fails to make good use of the new suit, however, and it is stolen by Booster Gold's father '''Jonar Carter''', who becomes the third person to use the Supernova costume.<ref name="52 Pick-Up: Booster Gold #1">''52 Pick-Up: Booster Gold'' #1</ref><ref>''52 Pick-Up: Booster Gold'' #4</ref>
+
+Jonar is shown working with other characters such as the [[Ultra-Humanite]], [[Per Degaton]], [[Despero]], and the [[Black Beetle (DC Comics)|Black Beetle]] as a group known as "The Time Stealers". Using time as a weapon for conquest, they attempt to change history for their benefit. For example, by attempting to kill [[Jonathan "Pa" Kent|Jonathan Kent]]'s great-grandfather, resulting in the Kents' never finding [[Superman]]. It is revealed that Jonar is under the control of Mister Mind, forcing Booster to remove Jon's ear to free him. Jon was last seen unconscious but alive in the alternate reality. It is unknown if he is still alive in the regular DC Universe.
+
+Parallel to those events, Daniel is left at home, where he meets Rose Levin, his future wife, who is a [[blog]]ger/[[journalist]] hoping to make her fortune selling articles and photos of Booster Gold.<ref name="52 Pick-Up: Booster Gold #6">''52 Pick-Up: Booster Gold'' #6</ref> At first, Rose not only finds him uneducated, uncultured and basically repellent, which serves only to entice Daniel's attraction further, but is flabbergasted by the idea that she and Daniel will inevitably marry and become the future direct ancestors of Booster. Eventually, Daniel and Rose do get together in a rocky, argumentative, yet committed relationship. Rip Hunter comes to Daniel and Rose and convinces them to assist him in stopping an attempt to erase Booster Gold from history.  Along the way, Hunter made a replica of the Supernova power suit for Daniel.<ref name="52 Pick-Up: Booster Gold #6"/><ref>''52 Pick-Up: Booster Gold'' #10</ref> After witnessing the unsympathetic and harsh reprimands Rip gives Booster for his leave of absence, he and Rose agree with Booster to disband the ''Time Masters'', and try to return to their former lives.<ref>''52 Pick-Up: Booster Gold One Million''</ref>
+
+Daniel's resolution begins to wane, and he soon returns to his time-travelling career, albeit for a different kind of selfish reason: hoping to impress Rose, he time travels during the Dominator's [[Invasion! (DC Comics)|invasion]] of Earth, searching for a family heirloom Rose lost escaping from [[Paris]]. During his searches, he meets a [[Starro]]-probe, and thinking it harmless, tries to contain it in a [[mayonnaise]] jar, from which it escapes, taking control of Rip Hunter and the timestream. Booster recruits him again to undo the damage.<ref>''Booster Gold'' (vol. 2) #13 (2008)</ref>
+
+During the ''[[Blackest Night]]'' event, [[Ted Kord]], reanimated as a [[Black Lantern Corps|Black Lantern]], targets Daniel and Rose in order to lure out Booster.<ref>''Booster Gold'' (vol. 2) #26</ref> The Black Lantern Ted Kord would eventually be defeated by the combined efforts of Booster Gold, Skeets, [[Blue Beetle (Jaime Reyes)]], and Daniel himself as Supernova.<ref>''Booster Gold'' (vol. 2) #27</ref>
+
+==Powers and abilities==
+Supernova uses the [[Phantom Zone#Post-Crisis|Phantom Zone Projector]] built into his suit to teleport matter from one place to another through the Phantom Zone itself.<ref>''52: Week Thirty-Seven''</ref> He has used this ability on several occasions, such as rescuing bystanders from various disasters,<ref>''52: Week Eight''</ref> removing a sea creature terrorizing Metropolis,<ref>''52: Week Fifteen''</ref> and removing a surveillance satellite trained on him from hundreds of miles away.<ref name="52:22">''52: Week Twenty-Two''</ref> The suit contains a copy of the white dwarf star size-changing belt used by the [[Atom (comics)|Atom]], and an advanced laser system able to melt steel; Rip Hunter claims to have built it as resistant to all time ravages. The suit is so advanced that it is able "to freeze time for his wearer". As long as the wearer keeps the suit on, he/she feels no need to eat or drink, able to exist indefinitely and without aging.<ref name="52 Pick-Up: Booster Gold #1"/> The suit is specifically keyed to the Carter DNA, requiring any wearer to be related to Booster in order for the suit's abilities to function.<ref>''52: Week Fifty-Two''</ref>
+
+After the original suit is stolen by Jonar and subsequently damaged, Rip Hunter presents Daniel with a new suit to help him save Booster Gold from the ''Time Stealers''.<ref name="52 Pick-Up: Booster Gold #6"/> Aside from being darker in color, with the white elements turned into black ones, is still unknown how and if it's more advanced than the former white model.
+
+==References==
+{{Reflist}}
+
+{{Booster Gold}}
+{{Grant Morrison}}
+
+[[Category:Comics characters introduced in 2006]]
+[[Category:DC Comics characters who are shapeshifters]]
+[[Category:DC Comics characters who can teleport]]
+[[Category:DC Comics code names]]
+[[Category:Superhero characters code names]]
+[[Category:Characters created by Mark Waid]]
+[[Category:Characters created by Grant Morrison]]
+[[Category:Characters created by Geoff Johns]]
+[[Category:Characters created by Keith Giffen]]
+[[Category:Characters created by Greg Rucka]]
+[[Category:Fictional characters who can change size]]
+[[Category:Fictional characters who can manipulate light]]
+[[Category:Fictional characters with energy-manipulation abilities]]

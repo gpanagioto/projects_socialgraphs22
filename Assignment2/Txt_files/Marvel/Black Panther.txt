@@ -1,0 +1,836 @@
+{{Short description|Marvel Comics fictional character}}
+{{for|the film character|T'Challa (Marvel Cinematic Universe)}}
+{{Use mdy dates|date=April 2020}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+| image = Black Panther OS Vol  1 2.png
+| imagesize =
+| converted = y
+| caption = Art by [[Gabriele Dell'Otto]]
+|character_name= Black Panther
+| publisher = [[Marvel Comics]]
+| debut = ''[[Fantastic Four (comic book)|Fantastic Four]]'' #52 (July 1966)
+| creators = [[Stan Lee]]<br />[[Jack Kirby]]
+| real_name = T'Challa
+| species = Human mutate
+| homeworld = [[Wakanda]], Africa
+| aliases = King of the Dead<br />Mr. Okonkwo
+| alliances = {{Plain list |
+* [[Avengers (comics)|Avengers]]
+* [[Fantastic Four]]
+* [[Fantastic Force]]
+* [[Ultimates (2015 team)|Ultimates]]
+* [[The Mighty Avengers|Mighty Avengers]]
+* [[The New Avengers (comics)|New Avengers]]
+}}
+| partners = [[Storm (Marvel Comics)|Storm]]<br />[[Shuri (character)|Shuri]]
+| powers =
+*The power to draw upon the knowledge, strength and every experience of every previous Black Panther
+*Superhuman strength, endurance, speed, agility, reflexes, stamina and senses
+*Expert hand-to-hand combatant and martial artist
+*Genius-level intellect
+*Highly proficient tactician, strategist and inventor
+*Utilizing [[vibranium]] suit and equipment
+| cat = super
+| subcat = Marvel Comics
+| hero = y
+| villain =
+| sortkey = Black Panther (comics)
+}}
+'''Black Panther''' is a [[fictional character|<!-- Please do not specify what type of character you think. Categories like "superhero" & "supervillian" are subjective. It's better to use a generic term and let the reader decide for themselves.--> fictional character]] appearing in [[American comic books]] published by [[Marvel Comics]]. The character was created by writer-editor [[Stan Lee]] and artist-coplotter [[Jack Kirby]]. The character first appeared in ''[[Fantastic Four (comic book)|Fantastic Four]]'' #52 ([[cover-date]]d July 1966) in the [[Silver Age of Comic Books]]. Black Panther's real name is '''T'Challa''', and he is depicted as the king and protector of the fictional African nation of [[Wakanda]]. Along with possessing enhanced abilities achieved through ancient Wakandan rituals of drinking the essence of the heart-shaped herb, T'Challa also relies on his proficiency in science, rigorous physical training, hand-to-hand combat skills, and access to wealth and advanced Wakandan technology to combat his enemies.
+
+Black Panther is the first superhero of [[Indigenous peoples of Africa|African descent]]<!--People of African descent include Africans. This is a stronger statement than simply saying "first African superhero".--> in mainstream American comics, having debuted years before early [[Black people|black]] superheroes such as Marvel Comics' the [[Falcon (comics)|Falcon]] (1969), [[Luke Cage]] (1972), and [[Blade (comics)|Blade]] (1973) or [[DC Comics]]' [[John Stewart (comics)|John Stewart]] in the role of [[Green Lantern]] (1971). In one comic book storyline, the Black Panther mantle is handled by [[White Tiger (Kasper Cole)|Kasper Cole]], a multiracial [[New York City]] [[New York City Police Department|police officer]]. Beginning as an impersonator, Cole would later take on the moniker of [[White Tiger (comics)|White Tiger]] and become an ally to T'Challa. The role of Black Panther and leadership of Wakanda was also given to T'Challa's sister [[Shuri (comics)|Shuri]] while he was in a coma for a short time.
+
+Black Panther has made numerous appearances in various television shows, animated films and video games. [[Chadwick Boseman]] portrayed the [[T'Challa (Marvel Cinematic Universe)|character]] in [[Marvel Cinematic Universe: Phase Three|Phase Three]] of the [[Marvel Cinematic Universe]]'s films: ''[[Captain America: Civil War]]'' (2016), ''[[Black Panther (film)|Black Panther]]'' (2018), ''[[Avengers: Infinity War]]'' (2018), and ''[[Avengers: Endgame]]'' (2019), and voiced alternate versions of the character in the first season of the [[animated series]] ''[[What If...? (TV series)|What If...?]]'' (2021).
+
+In 2011, Black Panther was ranked 51st overall on [[IGN]]'s "Top 100 Comic Books Heroes" list.<ref>{{cite web |url=http://www.ign.com/lists/comic-book-heroes/51 |title=IGN's Top 100 Comic Book Heroes: #51 Black Panther |website=IGN |access-date=March 20, 2018 |archive-date=October 1, 2018 |archive-url=https://web.archive.org/web/20181001070726/http://www.ign.com/lists/comic-book-heroes/51 |url-status=live }}</ref>
+
+==Concept and creation==
+===Name===
+The Black Panther's name predates the October 1966 founding of the [[Black Panther Party]], though not the black panther logo of the party's predecessor, the [[Lowndes County Freedom Organization]] (LCFO), nor the [[Racial segregation|segregated]] [[World War II]] [[761st Tank Battalion (United States)|761st "Black Panthers" Tank Battalion]].<ref>{{cite web|url= http://goodcomics.comicbookresources.com/2008/11/27/comic-book-legends-revealed-183/|title= Comic Book Legends Revealed #183|access-date= December 13, 2008|last= Cronin|first= Brian|date= December 5, 2008|archive-date= December 6, 2008|archive-url= https://web.archive.org/web/20081206203921/http://goodcomics.comicbookresources.com/2008/11/27/comic-book-legends-revealed-183/|url-status= live}}</ref><ref>{{cite web |url= http://www.docspopuli.org/articles/Yuen/BPP_logo.html |title= Origin of the Black Panther Party logo |access-date= December 13, 2008 |work= H.K. Yuen Social Movement Archive |archive-date= December 11, 2008 |archive-url= https://web.archive.org/web/20081211031545/http://www.docspopuli.org/articles/Yuen/BPP_logo.html |url-status= dead }}</ref> Scripter Stan Lee denied that the comic, which pre-dates the political usage of the term, was, or could have been, named after any of the political uses of the term "black panther", including the LCFO, citing "a strange coincidence".<ref>{{cite web |url=http://www.thegeektwins.com/2018/02/the-secret-history-of-black-panther-by.html |title=The Secret History of Black Panther by Stan Lee |first=Maurice |last=Mitchell |date=February 14, 2018 |website=The Geek Twins |access-date=February 18, 2018 |archive-date=February 19, 2018 |archive-url=https://web.archive.org/web/20180219031155/http://www.thegeektwins.com/2018/02/the-secret-history-of-black-panther-by.html |url-status=live }}</ref> He is the first black <!--rather than "African" since Western Lobo is not African but African-American; "Black" is capitalized per AP Stylebook--> superhero in American mainstream [[comic book]]s; very few black heroes were created before him, and none with actual superpowers. These included the characters in the single-issue, low distribution ''[[All-Negro Comics]]'' #1 (1947).<ref name=tom>{{cite web|last=Christopher|first=Tom|url=http://www.tomchristopher.com/?op=home/Comic%20History/Orrin%20C.%20Evans%20and%20The%20Story%20of%20All%20Negro%20Comics|title=Orrin C. Evans and the story of All-Negro Comics|publisher=TomChristopher.com|year=2002|archive-url=https://web.archive.org/web/20090307212906/http://www.tomchristopher.com/?op=home%2FComic+History%2FOrrin+C.+Evans+and+The+Story+of+All+Negro+Comics|archive-date=March 7, 2009|url-status=live|access-date=July 1, 2011}} Reprinted from ''[[Comics Buyer's Guide]]'' February 28, 1997, pp. 32, 34, 37-38. Article includes reprinted editorial page "All-Negro Comics: Presenting Another First in Negro History" from ''All-Negro Comics'' #1</ref> Waku, Prince of the Bantu, who starred in his own feature in the omnibus title ''[[Jungle Tales]]'', from Marvel's 1950s predecessor, [[Atlas Comics (1950s)|Atlas Comics]]<ref>{{Cite web|url=https://chapelboro.com/town-square/wakanda-forever|title=Wakanda Forever: How 'Black Panther' Upholds a Revolutionary Legacy|date=February 21, 2018|website=Chapelboro.com|language=en-US|access-date=February 12, 2020|archive-date=February 12, 2020|archive-url=https://web.archive.org/web/20200212215411/https://chapelboro.com/town-square/wakanda-forever|url-status=live}}</ref><ref>{{Cite web|url=http://www.geocities.com/ratmmjess/waku.html|title=Waku|last=Nevins|first=Jess|author-link=Jess Nevins|date=August 18, 2004|website=ratmmjess|url-status=live|archive-url=https://web.archive.org/web/20040818200112/http://www.geocities.com/ratmmjess/waku.html|archive-date=August 18, 2004|access-date=February 12, 2020}}</ref> and the [[Dell Comics]] [[Western comics|Western]] character [[Lobo (Dell Comics)|Lobo]], the first black person to star in his own comic book.<ref>{{Cite magazine|last=Fisher|first=Stuart|url=https://books.google.com/books?id=85FNDwAAQBAJ&q=D.+J.+Arneson+lobo+dell&pg=PA46|title=Those Unforgettable Super-Heroes of Dell & Gold Key|magazine=[[Alter Ego (magazine)|Alter Ego]]|issue=#151|date=February 21, 2018|publisher=[[TwoMorrows Publishing]]|language=en|access-date=October 15, 2020|archive-date=September 22, 2022|archive-url=https://web.archive.org/web/20220922064330/https://books.google.com/books?id=85FNDwAAQBAJ&q=D.+J.+Arneson+lobo+dell&pg=PA46|url-status=live}}</ref> Previous non-[[caricature]]d black supporting characters in comics include [[United States Army|U.S. Army]] [[infantry]] private [[Gabe Jones|Gabriel Jones]] of ''[[Sgt. Fury and his Howling Commandos]]''.
+
+In a guest appearance in ''Fantastic Four'' #119 (February 1972), the Black Panther briefly tried using the name '''Black Leopard''' to avoid connotations with the Party, but the new name did not last.<ref>When Fantastic Four member the [[Thing (comics)|Thing]] asked about the name change, T'Challa responded, "I contemplate a return to ''your'' country, Ben Grimm, where the latter term has —''political'' connotations. I neither condemn nor condone those who have taken up the name, but ''T'Challa'' is a law unto ''himself''. Hence, the ''new'' name—a ''minor'' point, at best, since the panther ''is'' a leopard."</ref> The character's name was changed back to '''Black Panther''' in ''The Avengers'' #105, with T'Challa explaining that renaming himself made as much sense as altering the [[Scarlet Witch]]'s name, and he is not a stereotype.<ref>{{Cite web|url=https://www.hollywoodreporter.com/news/general-news/black-panther-character-wont-go-next-1085194/|title=Where Black Panther Won't Go Next|first1=Graeme|last1=McMillan|website=[[The Hollywood Reporter]]|date=February 15, 2018|access-date=July 2, 2021|archive-date=July 9, 2021|archive-url=https://web.archive.org/web/20210709184204/https://www.hollywoodreporter.com/news/general-news/black-panther-character-wont-go-next-1085194/|url-status=live}}</ref>
+
+Co-creator [[Stan Lee]] recounted that the name was inspired by a pulp adventure hero who has a [[black panther]] as a helper.<ref>{{cite journal|last= Thomas|first= Roy|date= August 2011|title= Stan Lee's Amazing Marvel Interview!|journal= [[Alter Ego (magazine)|Alter Ego]]|issue= #104| pages= 38–39|publisher= [[TwoMorrows Publishing]]}}</ref> Jack Kirby's original concept art for Black Panther used the concept name Coal Tiger.<ref>[http://www.marvunapp.com/Appendix2/coaltigergatherers.htm COAL Tiger] {{Webarchive|url=https://web.archive.org/web/20200224161826/http://www.marvunapp.com/Appendix2/coaltigergatherers.htm |date=February 24, 2020 }}, marvunapp.com</ref> Influences on the character included historical figures such as 14th-century [[Mali Empire]] sultan [[Mansa Musa]] and 20th-century Jamaican activist [[Marcus Garvey]], as well as [[Biblical]] figures such as [[Ham (son of Noah)|Ham]] and [[Canaan (son of Ham)|Canaan]].<ref>{{cite book|last1=Morrow|first1=John|last2=Kirby|first2=Jack|title=Collected Jack Kirby Collector|date=2004|publisher=[[TwoMorrows Publishing]]|isbn=9781893905009|url=https://books.google.com/books?id=KI-et-e206EC&pg=PA216|language=en}}</ref>
+
+===Publication history<!--subhead per WikiProject Comics style-->===
+[[File:Fantastic Four (1961) ,52.jpeg|thumb|upright|Black Panther first appearance in ''[[Fantastic Four (comic book)|Fantastic Four]]'' #52 (July 1966).]]
+The origin of the idea for the character was disputed by both Kirby and Lee. Jack Kirby claimed sole credit for the creation of the character in ''[[The Comics Journal]]'' #134, from February 1990, stating that a realization that there were no black characters in his comics demanded some be added for "human reasons".<ref>{{Cite web|url = https://www.tcj.com/jack-kirby-interview/6/|title = Jack Kirby Interview - Page 6 of 8|date = May 23, 2011|access-date = February 21, 2022|archive-date = February 8, 2022|archive-url = https://web.archive.org/web/20220208033746/https://www.tcj.com/jack-kirby-interview/6/|url-status = live}}</ref> Stan Lee claims the character was created by his desire in the mid-60s to include more African and African-American characters in Marvel Comics. While there is no documentation showing which version of the creation is closer to the truth, by 1966 Kirby is thought to have been largely plotting the book on his own<ref>{{Cite web|title=Marvel, Jack Kirby, and the Comic-Book Artist's Plight|url=https://www.theatlantic.com/entertainment/archive/2016/09/marvel-jack-kirby-and-the-plight-of-the-comic-book-artist/498299/|website=[[The Atlantic]]|author=Asher Elbein|date=September 2016|access-date=February 21, 2022|archive-date=February 21, 2022|archive-url=https://web.archive.org/web/20220221071304/https://www.theatlantic.com/entertainment/archive/2016/09/marvel-jack-kirby-and-the-plight-of-the-comic-book-artist/498299/|url-status=live}}</ref> and was having to explain the stories to Lee when the pages arrived in the Marvel offices, as had happened a few issues prior with the Silver Surfer in ''The Fantastic Four'' #48 (March 1966). In a 1968 interview Lee stated:<ref>{{Cite web |url=https://zak-site.com/Great-American-Novel/ff_Lee-Kirby.html |title=Stan Lee and Jack Kirby, who did what |access-date=February 21, 2022 |archive-date=February 21, 2022 |archive-url=https://web.archive.org/web/20220221071305/https://zak-site.com/Great-American-Novel/ff_Lee-Kirby.html |url-status=live }}</ref>{{blockquote|Some artists, such as Jack Kirby, need no plot at all. I mean I’ll just say to Jack, ‘Let’s let the next villain be Dr. Doom’… or I may not even say that. He may tell me. And then he goes home and does it. He’s so good at plots, I’m sure he’s a thousand times better than I. He just about makes up the plots for these stories. All I do is a little editing.}}
+
+In an interview, Kirby shared the same genesis as Lee, "I came up with the Black Panther because I realized I had no blacks in my strip. I’d never drawn a black. I needed a black. I suddenly discovered that I had a lot of black readers. My first friend was a black! And here I was ignoring them because I was associating with everybody else."<ref>{{cite web | url=https://www.tcj.com/jack-kirby-interview/6/ | title=Jack Kirby Interview - Page 6 of 8 | date=May 23, 2011 | access-date=February 21, 2022 | archive-date=February 8, 2022 | archive-url=https://web.archive.org/web/20220208033746/https://www.tcj.com/jack-kirby-interview/6/ | url-status=live }}</ref>
+
+Roy Thomas has made claims that support Lee's version of events, while Kirby was supported by his wife and prior artwork.  In 1963, they included a black character, [[Gabe Jones]], in the ensemble cast of ''[[Sgt. Fury and His Howling Commandos]]'',<ref>{{cite book |title=Stan Lee's Amazing Marvel Universe |last1=Lee |first1=Stan |first2=Roy |last2=Thomas |year=2006 |publisher=Sterling Publishing |location=New York, New York |isbn=978-1-4027-4225-5 |page = 54 }}</ref> and Lee encouraged artists to include black characters in crowd scenes.<ref name=Chron>{{cite book |last1=Wells |first1=John |title=American Comic Book Chronicles: 1965-1969 |date=2014 |publisher=TwoMorrows Publishing |isbn=978-1605490557 |pages=89–90}}</ref> In a 1998 interview, Lee explained his motivation: "I wasn't thinking of civil rights. I had a lot of friends who were black and we had artists who were black. So it occurred to me... why aren't there any black heroes?"<ref>{{cite journal |last1=Brodsky |first1=Bob |title=Stan the Man Lee: Maestro of the Marvel Mythos |journal=Comic Book Marketplace |date=July 1998 |issue=#61 |pages=28–36, 45–54}}</ref> Soon after Black Panther was introduced, Marvel also added two more recurring black characters: Jill Jerrold in ''[[Modeling with Millie]]'', and [[Bill Foster (comics)|Bill Foster]] in ''[[The Avengers (comic book)|The Avengers]]''.<ref name=Chron/>
+
+There was some internal debate at Marvel with Lee being unsure about how far to go with the commercially risky introduction of a black superhero. In the first version of the cover for ''Fantastic Four'' #52, Kirby drew the Black Panther wearing a cowl that exposed his face. In the published version, the cowl became a full face-mask. Previews in other comics did not show the cover at all, indicating that Lee was hesitant.<ref>{{cite book |last1=Howe |first1=Sean |title=Marvel Comics: The Untold Story |date=2013 |publisher=Harper Perennial |isbn=978-0061992117 |chapter=Chapter 3}}</ref>
+
+Following his debut in ''[[Fantastic Four (comic book)|Fantastic Four]]'' #52–53 (July – August 1966) and subsequent guest appearance in ''Fantastic Four'' Annual #5 (1967) and with [[Captain America]] in ''[[Tales of Suspense]]'' #97–99 and ''Captain America'' 100 (January – April 1968), the Black Panther journeyed from the fictional African nation of [[Wakanda]] to [[New York City]] to join the titular American superhero team in ''[[The Avengers (comic book)|The Avengers]]'' #52 (May 1968), appearing in that comic for the next few years. During his time with the Avengers, he made solo guest-appearances in three issues of ''[[Daredevil (Marvel Comics series)|Daredevil]]'',<!--Note to researchers--#s 52, 69, 92; 56 was a cameo, and 99 was with Avengers, as were his ''Hulk'' and ''Sub-Mariner'' appearances--> and fought [[Doctor Doom]] in ''[[Astonishing Tales]]'' #6–7 (June & August 1971), in that [[supervillain]]'s short-lived starring feature.
+
+He received his first starring feature with ''[[Jungle Action]]'' #5 (July 1973), a reprint of the Panther-centric story in ''The Avengers'' #62 (March 1969). A new series began running the following issue, written by [[Don McGregor]], with art by [[pencilers]] [[Rich Buckler]], [[Gil Kane]], and [[Billy Graham (comics)|Billy Graham]], and which gave inkers [[Klaus Janson]] and [[Bob McLeod (comics)|Bob McLeod]] some of their first professional exposure. The critically acclaimed<ref name=dmd>{{cite web |author-link=Dwayne McDuffie |last=McDuffie |first=Dwayne |url=http://homepage.mac.com/dmcduffie/site/TBC3.html |title=To Be Continued |publisher=(column #3), Dwayne McDuffie official site |date=n.d. |archive-url=https://web.archive.org/web/20101208031035/http://homepage.mac.com/dmcduffie/site/TBC3.html |archive-date=December 8, 2010 |url-status=dead |access-date=October 9, 2011  }}</ref> series ran in ''Jungle Action'' #6–24 (September 1973 – November 1976).<ref name=gcd2>[http://www.comics.org/series/2053/ ''Jungle Action'', Marvel, 1973 Series] {{Webarchive|url=https://web.archive.org/web/20100223062310/http://www.comics.org/series/2053/ |date=February 23, 2010 }}, at the Grand Comics Database.</ref>
+
+One now-common format McGregor pioneered was that of the self-contained, multi-issue story arc.<ref name="sacks">{{cite web|last=Sacks |first=Jason |url=http://www.fanboyplanet.com/comics/js-panthersrage.php |title=Panther's Rage: The First Marvel Graphic Novel |website=Fanboy Planet |archive-url=https://web.archive.org/web/20080704142442/http://www.fanboyplanet.com/comics/js-panthersrage.php |archive-date=July 4, 2008 |url-status=live}}</ref> The first, "Panther's Rage", ran through the first 13 issues. Critic Jason Sacks has called the arc "Marvel's first [[graphic novel]]":
+
+{{blockquote|text=[T]here were real character arcs in [[Spider-Man]] and the [[Fantastic Four]] [comics] over time. But ... "Panther's Rage" is the first comic that was created from start to finish as a complete novel. Running in two years' issues of ''Jungle Action'' (#s 6 through 18), "Panther's Rage" is a 200-page novel that journeys to the heart of the African nation of Wakanda, a nation ravaged by a revolution against its king, T'Challa, the Black Panther.<ref name="sacks" />}}
+
+The second and final arc, "Panther vs. the Klan", ran as mostly 17-page stories in ''Jungle Action'' #19–24 (January – November 1976), except for issue #23, a reprint of ''Daredevil'' #69 (October 1970), in which the Black Panther guest-starred.<ref name=gcd2 /> The subject matter of the [[Ku Klux Klan]] was considered controversial in the Marvel offices at the time, creating difficulties for the creative team.<ref>McGregor, Don. "Panther's Chronicles" (introduction), ''Marvel Masterworks: The Black Panther Vol. 1'' (Marvel Worldwide, 2010), pp. xii–xii (unnumbered).</ref>
+
+African-American writer-editor [[Dwayne McDuffie]] said of the ''Jungle Action'' "Black Panther" feature:
+
+{{blockquote|text=This overlooked and underrated classic is arguably the most tightly written multi-part superhero epic ever. If you can get your hands on it ... sit down and read the whole thing. It's damn-near flawless, every issue, every scene, a functional, necessary part of the whole. Okay, now go back and read any individual issue. You'll find seamlessly integrated words and pictures; clearly introduced characters and situations; a concise (sometimes even transparent) recap; beautifully developed character relationships; at least one cool new villain; a stunning action set piece to test our hero's skills and resolve; and a story that is always moving forward towards a definite and satisfying conclusion. That's what we should all be delivering, every single month. Don [McGregor] and company did it in only 17 story pages per issue.<ref name=dmd />}}
+
+Though popular with college students, the overall sales of ''Jungle Action'' were low,<ref name="Back27">{{cite journal|last= Stewart|first= Tom|date= April 2008|title= The Blackest Panther: Don McGregor in the Jungles of Wakanda|journal= [[Back Issue!]]| issue= #27|pages= 57–61|publisher= [[TwoMorrows Publishing]]}}</ref> and Marvel relaunched the Black Panther in a self-titled series, bringing in the character's co-creator [[Jack Kirby]]—newly returned to Marvel after having decamped to rival [[DC Comics]] for a time—as writer, penciler, and editor. However, Kirby wanted to work on new characters and was unhappy at being assigned a series starring a character he had already worked with extensively.<ref>{{cite journal|last= Stewart|first= Tom|date= April 2008|title= Jungle Adventure! Jack Kirby Arrives|journal= Back Issue!|issue= 27|page= 62|publisher= TwoMorrows Publishing}}</ref> He left the series after only 12 issues and was replaced by [[Ed Hannigan]] (writer), [[Jerry Bingham]] (penciler), and [[Roger Stern]] (editor). ''Black Panther'' ran 15 issues (January 1977 – May 1979).<ref name=gcdbp>[http://www.comics.org/series/2387/ ''Black Panther'', Marvel, 1977 Series] {{Webarchive|url=https://web.archive.org/web/20100518102020/http://www.comics.org/series/2387/ |date=May 18, 2010 }} at the Grand Comics Database</ref> Due to the series getting discontinued, the contents of what would have been ''Black Panther'' #16–18 were published in ''[[Marvel Premiere]]'' #51–53.
+
+A four-issue [[miniseries]], ''Black Panther'' vol. 2,<ref>[http://www.maelmill-insi.de/UHBMCC/blackpan.htm#S25 ''Black Panther'' (II) (1988)] at The Unofficial Handbook of Marvel Comics Creators. [https://web.archive.org/web/20110525194120/http://www.maelmill-insi.de/UHBMCC/blackpan.htm WebCitation archive].</ref> (July – October 1988) was written by [[Peter B. Gillis]] and penciled by [[Denys Cowan]].<ref name=gcdbp2>[http://www.comics.org/series/3640/ ''Black Panther'', Marvel, 1988 Series] {{Webarchive|url=https://web.archive.org/web/20100529064539/http://www.comics.org/series/3640/ |date=May 29, 2010 }} at the Grand Comics Database</ref> McGregor revisited his Panther saga with [[Gene Colan]] in "Panther's Quest", published as 25 eight-page installments within the bi-weekly [[anthology]] series ''[[Marvel Comics Presents]]'' (issues #13–37, Feb.–December 1989).<ref>[http://www.comics.org/series/3654/ ''Marvel Comics Presents'', Marvel 1988 series] {{Webarchive|url=https://web.archive.org/web/20110402055149/http://www.comics.org/series/3654/ |date=April 2, 2011 }} at the Grand Comics Database</ref> He later teamed with artist [[Dwayne Turner]] in the square-bound miniseries ''Black Panther: Panther's Prey'' (September 1990 – March 1991).<ref name=gcdbppp>[http://www.comics.org/series/4230/ ''Black Panther: Panther's Prey''] {{Webarchive|url=https://web.archive.org/web/20100529100706/http://www.comics.org/series/4230/ |date=May 29, 2010 }} at the Grand Comics Database</ref> McGregor conceived a fifth arc in his Black Panther saga, titled "Panther's Vows", but it failed to get off the ground.<ref name="Back27"/>
+
+Writer [[Christopher Priest (comics)|Christopher Priest]]'s and penciller [[Mark Texeira]]'s 1998 series ''The Black Panther'' vol. 3 used [[Erik Killmonger]], [[Venomm]],<!--spelled correctly with double M--> and other characters introduced in "Panther's Rage", together with new characters such as State Department attorney Everett Ross; the Black Panther's adopted brother, Hunter; and the Panther's protégé, Queen Divine Justice. The Priest-Texeira series was under the [[Marvel Knights]] imprint in its first year. Priest said the creation of character Ross contributed heavily to his decision to write the series. "I realized I could use Ross to bridge the gap between the African culture that the Black Panther mythos is steeped in and the predominantly white readership that Marvel sells to," adding that in his opinion, the Black Panther had been misused in the years after his creation.<ref>{{cite news| first=Ethan|last= Sacks| title=The unsung heroes: Blade & Co. help to close racial divide| newspaper=[[Daily News (New York)|Daily News]]| date=March 19, 2002 }}</ref>
+
+The last 13 issues (#50–62) saw the main character replaced by a [[multiracial]] [[New York City Police Department|New York City police officer]] named [[Kasper Cole]], with T'Challa relegated to a supporting character. This Black Panther, who became the [[White Tiger (comics)#Kasper Cole|White Tiger]], was placed in the series ''[[The Crew (comics)|The Crew]]'', running concurrently with the final few ''Black Panther'' issues. ''The Crew'' was canceled with issue #7.
+
+[[File:6.20.19JohnRomitaJrByLuigiNovi35.jpg|thumb|upright|left|Artist [[John Romita Jr.]] signing a copy of the fourth ''Black Panther'' series at [[Midtown Comics]] in Manhattan]]
+In 2005, Marvel began publishing ''Black Panther'' vol. 4,<ref>[http://www.maelmill-insi.de/UHBMCC/blackpa3.htm#S4876 ''Black Panther'' (IV) (2005–2008)] {{Webarchive|url=https://web.archive.org/web/20110226045137/http://www.maelmill-insi.de/UHBMCC/blackpa3.htm#S4876 |date=February 26, 2011 }} at The Unofficial Handbook of Marvel Comics Creators</ref> which ran 41 issues (April 2005 – November 2008).<ref>[http://www.comics.org/series/12471/ ''Black Panther'', Marvel, Marvel Knights imprint, 2005 Series] {{Webarchive|url=https://web.archive.org/web/20110315064434/http://www.comics.org/series/12471/ |date=March 15, 2011 }} at the Grand Comics Database</ref> It was initially written by filmmaker [[Reginald Hudlin]] (through issue #38) and penciled by [[John Romita, Jr.]] (through #6). Hudlin said he wanted to add "[[credibility|street cred]]" to the title, although he noted that the book was not necessarily or primarily geared toward an African-American readership.<ref name="Reinvented">{{Cite news| first=Misha |last=Davenport| title=A superhero reinvented for hip-hop generation| work=[[Chicago Sun-Times]]| date=February 2, 2005 }}</ref> As influences for his characterization of the character, Hudlin has cited comic character [[Batman]], film director [[Spike Lee]], and music artist [[Sean Combs]].<ref name="Reinvented"/>
+
+''Black Panther'' vol. 5<ref>[http://www.maelmill-insi.de/UHBMCC/blackpa5.htm#S9183 ''Black Panther'' (V) (Shuri) (2009–2010)] {{Webarchive|url=https://web.archive.org/web/20110604105819/http://www.maelmill-insi.de/UHBMCC/blackpa5.htm#S9183 |date=June 4, 2011 }} at The Unofficial Handbook of Marvel Comics Creators</ref> launched in February 2009, with Hudlin, again scripting, introducing a successor Black Panther, T'Challa's sister Shuri.<ref>[http://www.comics.org/series/33758/ ''Black Panther'', Marvel, 2009 Series] {{Webarchive|url=https://web.archive.org/web/20100519113243/http://www.comics.org/series/33758/ |date=May 19, 2010 }} at the Grand Comics Database</ref><ref>{{cite news | url = http://voices.washingtonpost.com/comic-riffs/2008/10/this_just_in_for_2009_the_new.html | title = 2009's 'Black Panther' News Is a Bombshell... | newspaper = [[The Washington Post]] | date = October 21, 2008 | access-date = October 21, 2008 | archive-date = September 22, 2012 | archive-url = https://web.archive.org/web/20120922100650/http://voices.washingtonpost.com/comic-riffs/2008/10/this_just_in_for_2009_the_new.html | url-status = live }}</ref><ref>{{cite web | url = http://comicbookresources.com/?page=article&id=19421 | title = The Osborn Supremacy : Black Panther | website = [[Comic Book Resources]] | date = January 6, 2009 | access-date = January 8, 2009 | archive-date = October 26, 2008 | archive-url = https://web.archive.org/web/20081026235244/http://www.comicbookresources.com/?page=article | url-status = live }}</ref> Hudlin co-wrote issue #7 with [[Jonathan Maberry]], who then became the new writer,<ref>{{cite web|url= http://comics.ign.com/articles/981/981788p1.html|title= A New Team for Black Panther|website= IGN|date= May 11, 2009|access-date= May 19, 2009|archive-date= June 16, 2012|archive-url= https://web.archive.org/web/20120616093943/http://comics.ign.com/articles/981/981788p1.html|url-status= live}}</ref> joined by artist Will Conrad.<ref>{{cite web |first=Dave |last=Richards |url=http://www.comicbookresources.com/?page=article&id=21311 |title=Will Conrad Talks Black Panther |website=Comic Book Resources |date=May 22, 2009 |access-date=May 22, 2009 |archive-date=May 27, 2009 |archive-url=https://web.archive.org/web/20090527072304/http://www.comicbookresources.com/?page=article&id=21311 |url-status=live }}</ref> The Panther was also a featured player, with members of the Fantastic Four and the [[X-Men]], in the Doctor Doom-based, six-issue miniseries ''Doomwar'' (April – September 2010).<ref>[http://www.comics.org/series/43801/ ''Doomwar''] {{Webarchive|url=https://web.archive.org/web/20100601050839/http://www.comics.org/series/43801/ |date=June 1, 2010 }} at the Grand Comics Database</ref>
+
+T'Challa then accepted an invitation from Matt Murdock, the superhero Daredevil, to become the new protector of New York City's [[Hell's Kitchen, Manhattan|Hell's Kitchen]] neighborhood. He became the lead character in ''Daredevil'' beginning with issue #513 (February 2011), when that series was retitled ''Black Panther: The Man Without Fear''.<ref>[http://www.comics.org/series/54159/ ''Black Panther: The Man Without Fear''] {{Webarchive|url=https://web.archive.org/web/20120904032023/http://www.comics.org/series/54159/ |date=September 4, 2012 }} at the Grand Comics Database</ref> Under writer David Liss and artist Francesco Francavilla, he took on the identity of Mr. Okonkwo, an immigrant from the [[Democratic Republic of the Congo]], and becomes the owner of a small diner in order to be close to the people.<ref>{{Cite news |first=Ben |last=Morse |url=http://marvel.com/news/comicstories.14002.black_panther~colon~_the_man_without_fear |title=Black Panther: The Man Without Fear, David Liss and Francesco Francavilla take T'Challa on a bold new adventure into the heart of Hell's Kitchen |publisher=[[Marvel Comics]] |date=September 15, 2010 |access-date=September 16, 2010 |archive-url=https://web.archive.org/web/20100918125912/http://marvel.com/news/comicstories.14002.black_panther~colon~_the_man_without_fear |archive-date=September 18, 2010 |url-status=dead  }}</ref>
+
+A new ''Black Panther'' series written by [[Ta-Nehisi Coates]] and drawn by [[Brian Stelfreeze]] was launched in 2016 and continues to be published with Coates as the head writer.<ref>{{Cite news|title = Ta-Nehisi Coates to Write Black Panther Comic for Marvel|url = https://www.nytimes.com/2015/09/23/books/ta-nehisi-coates-to-write-black-panther-comic-for-marvel.html|newspaper = The New York Times|date = September 22, 2015|access-date = September 23, 2015|issn = 0362-4331|first = George Gene|last = Gustines|archive-date = September 22, 2015|archive-url = https://web.archive.org/web/20150922221501/http://www.nytimes.com/2015/09/23/books/ta-nehisi-coates-to-write-black-panther-comic-for-marvel.html|url-status = live}}</ref><ref>{{cite news|url=http://www.avclub.com/article/coates-and-stelfreezes-black-panther-delivers-one--234775|title=Coates and Stelfreeze's ''Black Panther'' delivers one of 2016's best first issues|first1=Shea|last1=Hennum|first2=Tim|last2=O'Neil|first3=Caitlin|last3=Rosberg|first4=Oliver|last4=Sava|date=April 12, 2016|work=A.V. Club|access-date=May 13, 2016|archive-date=May 9, 2016|archive-url=https://web.archive.org/web/20160509220214/http://www.avclub.com/article/coates-and-stelfreezes-black-panther-delivers-one--234775|url-status=live}}</ref><ref>{{cite web|url=http://marvel.com/comics/series/20912/black_panther_2016_-_present|title=Black Panther (2016–Present)|website=Marvel.com|access-date=October 1, 2017|archive-date=January 14, 2018|archive-url=https://web.archive.org/web/20180114114652/http://marvel.com/comics/series/20912/black_panther_2016_-_present|url-status=live}}</ref>
+
+In 2017, the [[Africanfuturism|Africanfuturist]] writer [[Nnedi Okorafor]] wrote the series ''Black Panther: Long Live the King''.<ref>{{Cite news|url=http://www.cnn.com/2017/10/05/africa/nigerian-writer-nnedi-blank-panther/index.html|title=Nnedi Okorafor will write Black Panther stories for Marvel|work=CNN|access-date=November 17, 2017|archive-date=September 22, 2022|archive-url=https://web.archive.org/web/20220922064331/https://www.cnn.com/2017/10/05/africa/nigerian-writer-nnedi-blank-panther/index.html|url-status=live}}</ref>
+
+In February 2018, Christopher Priest, Don McGregor, and Reginald Hudlin each contributed one story to the ''Black Panther'' Annual #1.<ref>{{Cite news|url=https://www.avclub.com/iconic-creators-return-to-wakanda-in-this-black-panther-1823047658|title=Iconic creators return to Wakanda in this ''Black Panther Annual'' exclusive|last=Sava|first=Oliver|date= February 15, 2018|work=The A.V. Club|archive-url=https://web.archive.org/web/20180613015133/https://www.avclub.com/iconic-creators-return-to-wakanda-in-this-black-panther-1823047658 |archive-date= June 13, 2018|url-status= live|df= mdy-all}}</ref> In May 2021, Marvel Comics announced the screenwriter and director [[John Ridley]] will write Black Panther comics.<ref>{{Cite news|last=Gustines|first=George Gene|date=2021-05-18|title=Marvel Announces a New Black Panther Series|language=en-US|work=The New York Times|url=https://www.nytimes.com/2021/05/18/arts/marvel-black-panther-john-ridley.html |archive-url=https://ghostarchive.org/archive/20211228/https://www.nytimes.com/2021/05/18/arts/marvel-black-panther-john-ridley.html |archive-date=2021-12-28 |url-access=limited|access-date=2021-05-18|issn=0362-4331}}{{cbignore}}</ref>
+
+In July 2022 the limited series ''Wakanda'' was announced, written by Stephanie Williams and illustrated by Paco Medina, the series will have a backup series titled ''History of the Black Panthers'', written by [[Evan Narcisse]] and illustrated by Natacha Bustos.<ref>{{Cite web |last=O'Rourke |first=Ryan |date=2022-07-09 |title=New 'Wakanda' Comic Series Sees Shuri, Killmonger, and More Defend the Nation |url=https://collider.com/black-panther-wakanda-comic-series-shuri-killmonger/ |access-date=2022-07-13 |website=Collider |language=en-US |archive-date=September 22, 2022 |archive-url=https://web.archive.org/web/20220922064332/https://collider.com/black-panther-wakanda-comic-series-shuri-killmonger/ |url-status=live }}</ref> In August 2022, Marvel announced the one-shot ''Black Panther: Unconquered'', written by [[Bryan Edward Hill]] and illustrated by Alberto Foche.<ref>{{Cite web |last=Mishra |first=Shrishty |date=2022-08-06 |title='Black Panther: Unconquered' Comic to Bring Forth Secrets of Wakanda |url=https://collider.com/black-panther-unconquered-comic-wakanda-forever-marvel/ |access-date=2022-08-08 |website=Collider |language=en-US |archive-date=August 8, 2022 |archive-url=https://web.archive.org/web/20220808010704/https://collider.com/black-panther-unconquered-comic-wakanda-forever-marvel/ |url-status=live }}</ref>
+
+==Fictional character biography==
+{{In-universe|section|date=February 2015}}
+{{long plot|date=December 2017}}
+
+===Early life and background===
+<!-- Deleted image removed: [[File:Avengers52.jpg|thumb|upright|Debut of the short-lived cowl mask on the cover of ''[[Avengers (comic book)|The Avengers]]'' #52 (May 1968). Art by [[John Buscema]].]] -->
+The Black Panther is the ceremonial title given to the chief of the Panther Tribe of the advanced African nation of Wakanda. In addition to ruling the country, he is also [[paramount chief]] of its various tribes (collectively referred to as the Wakandas). The Panther habit is a symbol of office (head of state) and is used even during diplomatic missions. The Panther is a hereditary title, but one must still earn it.
+
+In the distant past, a [[meteorite]] made of the (fictional) vibration-absorbing mineral [[vibranium]] crashed in Wakanda, and was unearthed. Reasoning that outsiders would exploit Wakanda for this valuable resource, the ruler, King [[T'Chaka]], like his father and other Panthers before him, concealed his country from the outside world. T'Chaka's first wife N'Yami died while in labor with '''T'Challa''', and his second wife [[Ramonda (comics)|Ramonda]] was taken prisoner by Anton Pretorius during a visit to her homeland of [[South Africa]], so for most of his childhood T'Challa was raised by his father alone.<ref name="MCP13-37">''Marvel Comics Presents'' #13–37 (February – December 1989)</ref> T'Chaka was murdered by the adventurer [[Klaw (Marvel Comics)|Ulysses Klaw]] in an attempt to seize the vibranium mound. With his people still in danger, a young T'Challa used Klaw's sound weapon on Klaw and his men, shattering Klaw's right hand and forcing him to flee.<ref name="FF53">''Fantastic Four'' #53 (August 1966)</ref>
+
+T'Challa was next in line to be the king of Wakanda and Black Panther, but until he was ready to become the leader of the nation, his uncle S'yan (T'Chaka's younger brother) successfully passed the trials to become the Black Panther. While on his Wakandan [[walkabout]] [[rite of passage]], T'Challa met and fell in love with apparent orphaned teen [[Storm (Marvel Comics)|Ororo Munroe]], who would grow up to become the X-Men member Storm.<ref>''Marvel Team-Up'' #100 (December 1980), revised in ''Storm'' vol. 2 #1–6 (2006)</ref> The two broke off their relationship due to his desire to avenge his father's death and to become the type of man who could suitably lead Wakanda, but they would see each other over the years when they could.
+
+T'Challa earned the title and attributes of the Black Panther by defeating the various champions of the Wakandan tribes. One of his first acts was to disband and exile the Hatut Zeraze—the Wakandan [[secret police]]—and its leader, his adopted brother Hunter the White Wolf.<ref>{{Cite comic|writer = Christopher Priest|penciller = Mark Texeira|inker = Mark Texeira|colorist = Brian Haberlin|letterer = Richard S an Comicraft Letters|editor = Joe Quesada and Jimmy Palmiotti|story = The Price|title = Black Panther|volume = 3|issue = #4|date = February 1999|publisher = Marvel Comics|location = United States}}</ref> He sold off small portions of vibranium to scientific institutions around the world, amassing a fortune which he used to arm himself with advanced technology.<ref name="FF53"/> Later, to keep peace, he picked ''[[Dora Milaje]]'' ("adored ones") from rival tribes to serve as his personal guard and ceremonial wives-in-training. He then studied abroad for a time <!--Under "Powers & abilities, it says his Ph.D. is from Oxford University, in Oxford, England. Here the phrase says: in [[New York City]]--> before returning to his kingship.
+
+In his first published appearance, the now-adult T'Challa invites the American superhero team the Fantastic Four to Wakanda, then attacks and attempts to neutralize them individually in order to test himself to see if he is ready to battle Klaw, who had replaced his shattered right hand with a sonic weapon.<ref>''Fantastic Four'' #52–53 (July – August 1966)</ref><ref>{{cite web |first=Brian |last=Cronin |url=http://goodcomics.comicbookresources.com/2010/09/19/a-year-of-cool-comics-day-262/#more-60191 |title=A Year of Cool Comics—Day 262 |publisher=[[Comic Book Resources]] CSBG Archive |date=September 19, 2010 |access-date=March 4, 2015 |archive-date=July 8, 2011 |archive-url=https://web.archive.org/web/20110708181411/http://goodcomics.comicbookresources.com/2010/09/19/a-year-of-cool-comics-day-262/#more-60191 |url-status=live }}</ref> For their part, the Four manage to rally and stymie T'Challa in a team counter-attack, enabling the impressed King to stand down and explain himself to the team's satisfaction. After the ruler makes proper amends to the Four, they befriend and help T'Challa, and he in turn aids them against the supervillain the [[Psycho-Man]].<ref>''Fantastic Four'' Annual #5 (1967)</ref> T'Challa later joins the Avengers,<ref>''The Avengers'' #52 (May 1968)</ref> beginning a long association with that superhero team. He first battles the [[Man-Ape]] while with the group,<ref>''The Avengers'' #62 (March 1969)</ref> and then meets the American singer [[Monica Lynne]],<ref>''The Avengers'' #73 (February 1970)</ref> with whom he becomes romantically involved. He helps the Avengers defeat the second [[Sons of the Serpent]], and then reveals his true identity on American television.<ref>''The Avengers'' #74 (March 1970)</ref> He encounters Daredevil and reveals to him he had deduced Daredevil's true identity.<ref>''Daredevil'' #69 (October 1970)</ref>
+
+===Return to Wakanda===
+After receiving numerous urgent official letters requesting him to return to his increasingly troubled homeland,<ref>{{cite journal|last1=Englehart|first1=Steve|last2=Brown|first2=Bob|title=All the Sounds and Sights of Death!|journal=The Avengers|date=August 1974|volume=|issue= #126}}</ref> the Panther eventually leaves his active Avengers membership to return to a Wakanda on the brink of civil war, bringing Lynne with him. After defeating would-be usurper Erik Killmonger and his minions,<ref>''[[Jungle Action]]'' #6–18 (September 1973 – November 1975)</ref> the Panther ventures to the American South to battle the [[Ku Klux Klan]].<ref>''Jungle Action'' #19–22 and 24 (Jan.–July and November 1976)</ref> He later gains possession of the mystical time-shifting artifacts known as King Solomon's Frogs.<ref>''Black Panther'' #1–4 (January – July 1977)</ref> These produce an alternate version of T'Challa from a future 10 years hence, a merry, [[telepathy|telepathic]] Panther with a terminal [[cerebral aneurysm|brain aneurysm]], whom T'Challa places in cryogenic stasis.{{issue|date=August 2018}}
+
+Later, while searching for and finding his stepmother Ramonda, the Panther contends with South African authorities during [[apartheid]].<ref>''[[Marvel Comics Presents]]'' #13–37 (Late Feb.–December 1989)</ref> T'Challa eventually proposes and becomes engaged to Monica Lynne,<ref>''Black Panther: Panther's Prey'' #1–4 (May – October 1991)</ref> though the couple never marry.
+
+Years later, the Panther accepts a [[Washington, D.C.]] envoy, [[Everett K. Ross]], and faces multiple threats to Wakanda's sovereignty. Ross assists him in many of these threats. In gratitude, the Panther often risks much for Ross in return. The first threat he and Ross encounter is "Xcon", an alliance of rogue intelligence agents backing a coup led by the Reverend Achebe.<ref>''Black Panther'' vol. 3 #1–12 (November 1998 – October 1999)</ref> Afterward, Killmonger resurfaces with a plot to destroy Wakanda's economy. This forces T'Challa to [[nationalize]] foreign companies.<ref>''Black Panther'' vol. 3 #13–19 (December 1999 – June 2000)</ref> Killmonger then defeats him in ritual combat, thus inheriting the role of Black Panther,<ref>''Black Panther'' vol. 3 #20 (July 2000)</ref> but falls into a [[coma]] upon eating the heart-shaped herb—poisonous to anyone outside the royal bloodline, which had a hereditary immunity to its toxic effects.<ref>''Black Panther'' vol. 3 #24 (November 2000)</ref> T'Challa preserves his rival's life rather than allowing him to die.
+
+Later, T'Challa finds he has a brain aneurysm like his alternate future self, and succumbs to instability and hallucinations. After his mental state almost causes tribal warfare, the Panther hands power to his council<ref>''Black Panther'' vol. 3 #49 (November 2002)</ref> and hides in New York City. There he mentors police officer Kasper Cole (who had adopted an abandoned Panther costume), an experience that gives T'Challa the strength to face his illness, reclaim his position, and return to active membership in the Avengers, whom he helps secure special United Nations status.
+
+===Marriage and passing the mantle===
+{{Main|Civil War (comics)}}
+T'Challa recounts the story of his ascension as the Black Panther in the fourth volume of his eponymous comic book series. He defeated his uncle during the Black Panther celebration,<ref>''Black Panther'' vol. 4 #2</ref> and during his [[walkabout]] when he met and fell in love with a street urchin named Ororo in Cairo, Egypt.<ref>''Black Panther'' vol. 4 #3</ref> Unbeknownst to him the US government is planning a coup to get access to the vibranium. They allow Klaw to recruit a team of villains to support his totalitarian neighbor, Niganda. Klaw recruits [[Rhino (character)|Rhino]], [[Black Knight (comics)|Black Knight]], [[Batroc the Leaper]], and [[Radioactive Man (comics)|Radioactive Man]] to lead the invasion. The US government then deploys an army of [[Deathlok]]s to "support" T'Challa and justify an invasion, but T'Challa kills Klaw and Storm wipes out the Deathlok army in a hurricane.<ref>''Black Panther'' vol. 4 #6</ref>
+
+T'Challa then helps his old flame [[Storm (Marvel Comics)|Ororo Munroe]] reunite with her surviving family members in Africa and the U.S.<ref>''Black Panther'' vol. 4 #14</ref> Shortly afterwards, he proposes and the two are married,<ref>''Black Panther'' vol. 4 #14-15</ref> in a large Wakandan ceremony attended by many superheroes.<ref>''Black Panther'' vol. 4 #18</ref> One of the couple's first tasks is to embark on a diplomatic tour, in which they visit the [[Inhumans]], Doctor Doom, the [[President of the United States]] and [[Namor|Namor the Sub-Mariner]], with only the last one ending well.<ref>''Black Panther'' vol. 4 #21</ref> After the death of [[Bill Foster (comics)|Bill Foster]], the Black Panther and Storm side with Captain America's anti-registration forces.<ref>''Black Panther'' vol. 4 #23</ref> During the end battle between both sides, the Wakandan [[diplomatic mission|embassy]] in [[Manhattan]] is heavily damaged, though no Wakandans are hurt.<ref>''Black Panther'' vol. 4 #25</ref> After the confrontation, the Panther and Storm briefly fill in for vacationing Fantastic Four members [[Mister Fantastic|Reed]] and [[Invisible Woman|Sue Richards]] before returning to Wakanda.<ref>''Fantastic Four'' #544</ref>
+
+Upon returning to Wakanda alone, leaving Storm in New York to aid the X-Men, Black Panther faces Erik Killmonger, defeating him with assistance from [[Monica Rambeau]] (a.k.a. Pulsar).<ref>''Black Panther'' vol. 4 #35–37</ref> Afterward, Wakanda fends off the alien shapeshifters the [[Skrulls]], who had infiltrated as part of their "[[Secret Invasion]]" plan to conquer Earth.<ref>''Black Panther'' vol. 4 #38–41</ref> Prince Namor attempts to recruit T'Challa for the Cabal, a secret council of supervillains. Attacked by the forces of fellow Cabal member Doctor Doom, T'Challa is left comatose.<ref>''Black Panther'' vol. 5 #1–2</ref> His sister [[Shuri (comics)|Shuri]] is trained as the next Black Panther, with the mantle passing onto her officially after T'Challa awakens from his coma and attempts to recover from his injuries.<ref>''Black Panther'' vol. 5 #2–7</ref>
+
+In the aftermath, T'Challa loses all of his enhanced attributes given to him by being the Panther totem. As a result, he works with his sorcerer, Zawavari, to accumulate a replacement.<ref>''Black Panther'' vol. 5 #8</ref> He has since made a pact with another unknown Panther deity, returning his attributes to an even higher level as well as placing incantations on his body, making himself highly resistant to most magic and mystic assaults. This has all been done in preparation for the imminent battle with Doctor Doom,<ref name="Black Panther vol. 5 #9–10">''Black Panther'' vol. 5 #9–10</ref> which culminated in T'Challa rendering all of the processed vibranium inert to give his people a chance to rebuild without their dependence on the element.<ref>''Doomwar'' #5</ref>
+
+===The Man Without Fear===
+After the events of "[[Shadowland (comics)|Shadowland]]", Matt Murdock (the superhero [[Daredevil (Marvel Comics character)|Daredevil]]) asks T'Challa to replace him as guardian of Hell's Kitchen, which gives T'Challa a chance to discover himself. With the help of [[Foggy Nelson]], T'Challa assumes the identity of '''Mr. Okonkwo''', an [[immigrant]] from the [[Democratic Republic of Congo|Congo]] and manager of a diner called Devil's Kitchen, so that he can blend in and learn about the denizens as an ordinary man. He gets on well with two of the Kitchen's staff: Sofija, a migrant from [[Serbia]] who was formerly involved in violent [[Serbian nationalism]], and the busboy, Brian. He also gets to know some of the neighbors from his apartment block: Mr. Nantakarn and his son Alec, as well as Iris, a social worker assigned to handle cases of child abuse.<ref name="TMWF-Urban Jungle">{{Cite book|title=Black Panther: The Man Without Fear ''Urban Jungle'' |first=David |last=Liss |isbn=978-0-7851-4523-3 |year=2011}}</ref>
+
+T'Challa finds himself up against an ambitious new crime lord, Vlad Dinu, who styles himself "the Impaler". He also seeks an understanding with the police through Detective Alex Kurtz. During an attempt by Vlad to terminate the Panther, Brian from the Devil's Kitchen is seriously injured by an energy blast from Vlad, and is reported dead. The conflict between Vlad and the Panther becomes more personal, especially after Vlad discovers the Panther over his wife Angela dead from a gunshot wound.<ref name="TMWF-Urban Jungle"/>
+
+T'Challa learns that Iris was the serial shooter who killed abusers of children—Gabe was abused secretly by Angela. Brian was kidnapped by his doctor, Dr. Holman, at the behest of Nicolae who wanted to use someone who received a dose of Vlad's power. After being subjected to torturous experiments, Brian lost the ability to think for himself but was rescued by Gabe who also stole the serum produced from the experiment meant to endow the recipient with Vlad's powers. The Panther obtains evidence of Vlad Dinu's crimes as well as clues to Iris as the serial shooter, and turns the evidence over to Kurtz. Vlad kills his own son Nicolae before being subdued by the Panther. Gabe is arrested for attempting to take Iris' life. Before being taken away, Gabe reveals to the Panther Brian's fate. Though aware of the Panther's identity as Mr. Okonkwo, both Iris and Sofija promise to keep silent.<ref name="TMWF-Urban Jungle"/>
+
+===Wakanda again===
+Shortly after Daredevil returns to Hell's Kitchen, T'Challa returns to Wakanda, serving as a second to his sister, Shuri. In preparation for an upcoming attack on Wakanda as part of the ''[[Avengers vs. X-Men]]'' storyline, the Panther Goddess returns T'Challa's abilities.<ref name="Fantastic Four #608">{{Cite comic|writer=[[Jonathan Hickman|Hickman, Jonathan]]|penciller=Camuncoli, Giuseppe|inker=[[Karl Kesel|Kesel, Karl]]|story=City of the Dead|title=Fantastic Four|volume=|issue=#608|date=July 18, 2012|publisher=[[Marvel Comics]]|location=|page=|panel=|id=}}</ref> Empowered by the Phoenix, Namor destroys Wakanda with a massive tidal wave.<ref>{{Cite comic|writer=[[Brian Michael Bendis|Bendis, Brian Michael]]|penciller=[[Adam Kubert|Kubert, Adam]]|inker=Dell, John|story=Avengers Vs. X-Men (Part Eight)|title=Avengers vs. X-Men|volume=1|issue=#8|date=July 18, 2012|publisher=[[Marvel Comics]]|location=|page=|panel=|id=}}</ref> Returning to help, Storm is stunned when the Panther informs her that their marriage has been annulled.<ref>{{Cite comic|writer=[[Jason Aaron|Aaron, Jason]]|penciller=[[Adam Kubert|Kubert, Adam]]|inker=Dell, John|story=Avengers Vs. X-Men (Part Nine)|title=Avengers vs. X-Men|volume=|issue=#9|date=August 1, 2012|publisher=[[Marvel Comics]]|location=|page=|panel=|id=}}</ref>
+
+===Incursions===
+After witnessing an alternate Earth over Wakanda being destroyed by the [[Black Swan (comics)|Black Swan]], T'Challa reforms the Illuminati—with Beast replacing the now-deceased Charles Xavier—to confront the threat of the Incursions, parallel universes colliding with each other to the destruction of both. Although able to avert one Incursion with the Infinity Gauntlet, the subsequent destruction of the Infinity Gems forces the group to decide to resort to more questionable measures to protect Earth from future Incursions, wiping Captain America's mind so that he will not remember these events, allowing them to do "what needs to be done".<ref>''New Avengers'' vol. 3 #1–3</ref> Although equipped with planet-destroying weapons to protect Earth, the Illuminati mostly become disgusted with the wholesale slaughter, until Namor breaks off from the group to form a new Cabal of villains to do what the heroes will not. Despite Namor's Cabal achieving legitimacy as Earth's protectors, Namor grew weary of the wholesale slaughter they carried out in the name of preserving their universe. Although he collaborated with the Illuminati in a plan to destroy the Cabal by trapping them on the next Earth to be destroyed, Black Panther and Black Bolt left him behind to die with the Cabal, disgusted at his earlier actions,<ref>''Avengers'' vol. 5 #40</ref> although Namor and the Cabal escape to the [[Ultimate Marvel|Ultimate universe]] when the other Earth has a simultaneous Incursion.<ref>''Avengers'' vol. 5 #41</ref>
+
+===''Secret Wars''===
+When the final Incursion occurs during the 2015 ''[[Secret Wars (2015 comic book)|Secret Wars]]'' storyline, resulting in all realities collapsing into one Earth, Black Panther is one of the few heroes to survive the Incursion in a specially-designed "life pod"—other survivors including [[Mister Fantastic]], [[Star-Lord]], [[Spider-Man]], [[Jane Foster (comics)|the new Thor]], [[Carol Danvers|Captain Marvel]] and a [[Phoenix Force (comics)|Phoenix]]-enhanced [[Cyclops (Marvel Comics)|Cyclops]]—although they are only released into the new world after an eight-year stasis. Retrieved by Doctor Strange, they learn that Strange has assumed a role of "sheriff" to Doctor Doom, who has appointed himself the god of the new "[[Battleworld]]" created from the multiple realities.<ref>''Secret Wars'' #3 (2015). Marvel Comics.</ref> Although Doom effortlessly kills Cyclops, Strange protects the other heroes by dispersing them across Battleworld,<ref>''Secret Wars'' #4 (2015). Marvel Comics.</ref> with T'Challa and Namor eventually discovering a new version of the Infinity Gauntlet that Strange collected, ensuring that the Gems he found would work in the location where Doom built his main fortress.<ref>''Secret Wars'' #7 (2015). Marvel Comics.</ref> Recruiting the [[Marvel Zombies|residents of the deadlands]] as an army, T'Challa marches on Doom at the same time as multiple other areas rebel against him through the encouragement of the heroes,<ref>''Secret Wars'' #8 (2015). Marvel Comics.</ref> but admits when Doom confronts him that he was only intended as a distraction while Reed targets Doom's power source. As Reed takes Doom's power and sets out to rebuild the multiverse, T'Challa uses the Time Gem to take himself back to Wakanda before the Incursions, proclaiming to his people that they will lead the way to the stars and explore new ideas.<ref>''Secret Wars'' #9 (2015). Marvel Comics.</ref>
+
+===''All-New, All-Different Marvel''===
+As part of the ''[[All-New, All-Different Marvel]]'', Black Panther is a member of the [[Ultimates (2015 team)|Ultimates]].<ref>''The Ultimates'' vol. 2 #1. Marvel Comics.</ref>
+
+During the 2016 "[[Civil War II]]" storyline, Black Panther represents Wakanda on the [[Alpha Flight]] Space Program's [[Board of governors|Board of Governors]].<ref>''Captain Marvel'' vol. 9 #6 (2016). Marvel Comics.</ref> He sides with Captain Marvel on needing help from an Inhuman who can predict the possible future named Ulysses Kain.{{issue|date=August 2017}} Black Panther and Shuri take part in the fight against the Leviathon Tide.<ref>''[[Monsters Unleashed (comics)|Monsters Unleashed]]'' vol. 2 #1 (2016). Marvel Comics.</ref>
+
+During Hydra's reign over America led by Arnim Zola, Baron Zemo and Steve Rogers, Panther is captured for opposing this regime, and brought into a containing room. Once Panther and Zemo are alone, Winter Soldier rescues Panther. Panther entrusts the unconscious Zemo to Winter Soldier, while trailing Rogers and Zola into the secret lab. Panther finds out that Zola infused a brainwashed Captain America with a Cosmic Cube using a stolen Stark tech modified by Zola himself, and warns his allies to retreat from a Cosmic Cube-powered Steve Rogers, but is too late.<ref>''[[Secret Empire (comics)|Secret Empire]]'' #8–9 (2016). Marvel Comics.</ref> Even though one of the heroes knows they cannot defeat a Cosmic Cube-powered Supreme Hydra Rogers, Winter Soldier, Captain America (Sam Wilson) and Ant-Man (Scott Lang) trick Rogers by surrendering the last fragment of the cube to him. [[Bucky Barnes|Winter Soldier]] and [[Ant-Man]] steal the cube from Rogers before he uses its full potential and bring back Kobik and the real [[Steve Rogers (Marvel Cinematic Universe)|Steve Rogers]].<ref>''Captain America'' vol. 8 #25 (2017). Marvel Comics.</ref><ref>''[[Secret Empire (comics)|Secret Empire]]'' #10 (2016). Marvel Comics.</ref>
+
+After the defeat of Supreme Hydra Steve Rogers, Black Panther establishes his quest to go across the universe with his people, and found an [[Galactic empire|Intergalactic Empire]] of Wakanda on Planet Bast, located in the Benhazin Star System.<ref>''[[Marvel Legacy]]'' #1. Marvel Comics.</ref><ref>{{Cite web|url=https://www.cbr.com/black-panther-intergalactic-empire-wakanda-things-should-know/|title=Black Panther: 10 Things Fans Should Know About The Intergalactic Empire Of Wakanda|date=December 11, 2019|website=CBR|language=en-US|access-date=January 6, 2020|archive-date=December 12, 2019|archive-url=https://web.archive.org/web/20191212121704/https://www.cbr.com/black-panther-intergalactic-empire-wakanda-things-should-know/|url-status=live}}</ref>
+
+Black Panther later hosts a meeting with [[Arabian Knight (comics)|Arabian Knight]] from Saudi Arabia, [[Sabra (comics)|Sabra]] from Israel, [[Sunfire (comics)|Sunfire]] from Japan, [[Collective Man]] from China, [[Captain Britain]] from the United Kingdom, and [[Ursa Major (comics)|Ursa Major]] from Russia in the Eden Room of Avengers Mountain. The meeting has Black Panther proposing that they work together to protect the world from future threats. Sabra talked to Black Panther about the actions caused by Namor and the Defenders of the Deep. Losing his patience, Ursa Major started to get aggressive towards Black Panther. This caused Black Panther to have Avengers Mountain's teleportation system send Ursa Major to Siberia. Afterwards, Black Panther apologized and commented to the other representatives that he hoped that the Russian government would send [[Crimson Dynamo]] and that they sent Ursa Major on purpose. Black Panther concluded that they will not be getting any allies from Russia. He also gave a theory that the U.S. government will not be allies of the Avengers after mentioning that somebody else repelled the Defenders of the Deep from Alaska.<ref>''Avengers'' vol. 8 #11. Marvel Comics.</ref>
+
+Black Panther later infiltrates the Pentagon to confront [[Phil Coulson]]. When Coulson summons the [[Squadron Supreme|Squadron Supreme of America]], they plan to arrest him. Black Panther states to them that he does not know how they got their powers and that they are not the Squadron Supreme as he even asked if they trust Phil Coulson. Before they can grab him, Black Panther contacts Broo to teleport him away. As he disappears, Black Panther states that Phil Coulson will not answer their questions and that the Avengers are not their enemies unless they forced them to be.<ref>''Avengers'' vol. 8 #21. Marvel Comics.</ref>
+
+==Powers and abilities==
+The title "Black Panther" is a rank of office, chieftain of the Wakandan Panther Clan. As chieftain, the Panther is entitled to consume a special heart-shaped herb which, in addition to his mystical, [[Shamanism|shamanistic]] connection with the Wakandan [[Bast (Marvel Comics)|Panther Goddess Bast]], grants him superhumanly acute senses, enhanced strength, speed, agility, stamina, durability, healing, and reflexes.<ref name="auto">''Fantastic Four'' #52 (July 1966)</ref><ref>''The Avengers'' #87 (April 1977)</ref>
+
+He has since lost this connection and forged a new one with another unknown Panther deity, granting him augmented physical attributes as well as a resistance to magic.<ref name="Black Panther vol. 5 #9–10"/> His senses are so powerful that he can pick up a prey's scent and memorize tens of thousands of individual ones. Following his war with Doom, T'Challa loses his enhanced abilities only to once again establish a connection with the Panther Goddess.<ref name="Fantastic Four #608"/> In addition to the resurgence of his now-superhuman abilities, he is anointed "King of the Dead", granting him the power and knowledge of all the past Black Panthers as well as the ability to control the [[undead]].<ref>{{Cite comic|writer=[[Jonathan Hickman|Hickman, Jonathan]]||title=Secret Wars|volume=|issue=#7|date=November 11, 2015|publisher=[[Marvel Comics]]|location=|page=|panel=|id=}}</ref> After [[Secret Wars (2015 comic book)|Battleworld]] and the resurgence of the Multiverse T'challa eventually showcased new powers in regards to his King of the Dead status, for not only could he reanimate the dead, but summon departed spirits into the physical world with tangible form as well. Using these spiritual energies also enables him to conjure a mystical spear of glowing blue energy to his hand.<ref>''Black Panther'' vol. 6 #11 (2017)</ref>
+
+T'Challa worked with his sorcerer, Zawavari, to endow T'Challa with immunity to mystical attacks and detection in order to defeat Dr. Doom. When T'Challa's alchemical upgrade was tested by means of Wakanda's most powerful acolytes attacking T'Challa in unison, each mystical attack was absorbed and only served to strengthen T'Challa.  During these preparations, T'Challa invented a potent mystical-scientific hybrid art called "shadow physics" and was able to use it to craft shadow weapons and to track vibranium on a quantum level.<ref name="Black Panther vol. 5 #9–10"/>
+
+As king of Wakanda, the Panther has access to a vast collection of magical artifacts, advanced Wakandan technological and military hardware, and the support of his nation's wide array of scientists, warriors, and mystics. The Wakandan military has been described as one of the most powerful on Earth.
+
+He is a skilled hunter, tracker, strategist, politician, inventor, and [[scientist]]. He has a [[Doctor of Philosophy|PhD]] in [[physics]] from [[University of Oxford|Oxford University]]. He is an expert physicist, proficient in advanced technology, and is also an inventor. T'Challa has been granted the strength and knowledge of every past Black Panther.<ref name="Fantastic Four #608"/>
+
+The chieftain of the Wakandan Panther Clan is one of the wealthiest people in the world, although financial estimates are difficult given Wakanda's isolation from the world's economy and the uncertain value of Wakanda's vast vibranium reserves and extremely advanced technologies.<ref>{{cite book|title= Superheroes!:Capes, cowls and the creation of comic book culture|first1=Laurence |last1=Maslon|first2=Michael |last2=Kantor|page=170}}</ref>
+
+T'Challa is rigorously trained in acrobatics and hand-to-hand combat. He is skilled in various forms of unarmed combat, with a unique hybrid fighting style that incorporates acrobatics and aspects of animal mimicry.<ref>{{cite web|url= http://marvel.com/characters/5/black_panther|title= Marvel 101: Black Panther|access-date= February 12, 2018|archive-date= January 21, 2018|archive-url= https://web.archive.org/web/20180121072739/http://marvel.com/characters/5/black_panther|url-status= live}}</ref>
+
+===Suit===
+T'Challa's attire is the sacred vibranium costume of the Wakandan Panther Cult. In ''Black Panther'' vol. 3, writer Christopher Priest expanded the Panther's day-to-day arsenal to include equipment such as an "energy dagger", a vibranium-weave suit, and a portable supercomputer, the "Kimoyo card".<ref name="Black Panther Vol. 3 #1">{{Cite comic|writer=[[Christopher Priest (comics)|Priest, Christopher]]||title=Black Panther|volume=3|issue=#1|date=November 1, 1998|publisher=[[Marvel Comics]]|location=|page=|panel=|id=}}</ref> In ''Black Panther'' vol. 4, writer Reginald Hudlin introduced such specialized equipment as "thrice-blessed armor" and "light armor" for specific tasks,<ref>''Black Panther'' vol. 4 #12</ref> and for a short while outfitted him with the [[Ebony Blade]] of the [[Black Knight (Dane Whitman)|Black Knight]].<ref>''Black Panther'' vol. 4 #13–40</ref> In ''Black Panther'' vol. 6, Ta-Nehisi Coates and Brian Stelfreeze introduced a new suit for T'Challa that allows him to absorb [[kinetic energy]] and redistribute it as energy bursts.<ref>{{Cite web|url=https://io9.gizmodo.com/ta-nehisi-coates-reveals-the-early-concept-art-of-his-b-1745813307|title=Ta-Nehisi Coates Reveals The Early Concept Art of His Black Panther Comic|first=James|last=Whitbrook|website=Io9.gizmodo.com|date=December 2, 2015|access-date=July 18, 2019|archive-date=July 18, 2019|archive-url=https://web.archive.org/web/20190718183248/https://io9.gizmodo.com/ta-nehisi-coates-reveals-the-early-concept-art-of-his-b-1745813307|url-status=live}}</ref>
+
+==Other Black Panthers ==
+{{main|List of Black Panther supporting characters}}
+
+The mantle of the Black Panther is passed down from generation to generation among the rulers of Wakanda<ref name="PantherCult">{{cite web|title=The religion of Black Panther (T'Challa)|url=http://www.adherents.com/lit/comics/BlackPanther.html|archive-url=https://web.archive.org/web/20060422200139/http://www.adherents.com/lit/comics/BlackPanther.html|url-status=usurped|archive-date=April 22, 2006|website=Adherents.com}}</ref> although it must still be deserved through a severe selection involving the best warriors of the nation.
+
+===Black Panther 1,000,000 B.C.===
+This Black Panther appeared for the first time in ''[[Marvel Legacy]]'' #1 (November 2017). This Black Panther is part of the [[Avengers (comics)#Avengers (1,000,000 B.C. version)|Avengers]], along with  Agamotto, [[Phoenix Force (comics)#Lady Phoenix|Lady Phoenix]], [[Odin (comics)|Odin]], and prehistoric versions of [[Ghost Rider#Ghost / The Rider|Ghost Rider]], [[Iron Fist (comics)#Fan Fei|Iron Fist]], and [[Star Brand#1,000,000 B.C. version|Star Brand]]. The Stone Age Avengers defeated the Fallen and sealed it underground in what would become South Africa.<ref>''Marvel Legacy'' #1. Marvel Comics.</ref>
+
+===Bashenga===
+Bashenga appeared for the first time in ''Black Panther'' #7 (January 1978) by Jack Kirby (scripts and drawings). Wise warrior at the head of the Panther Tribe, according to legends, during the tumult where the vibranium meteorite fell on the soil of the village, then composed of various warring clans, he gathered all the aforementioned under his guide to defeating the inhabitants transformed by the impact into fierce "demonic spirits", a company which has unified the nation by founding Wakanda and becoming its first ruler<ref>''Black Panther'' #7 (January 1978)</ref><ref>{{Cite web|url=https://www.cbr.com/black-panther-hereditary-title/|title=When Did Black Panther First Become a Hereditary Title?|date=February 27, 2018|website=CBR|language=en-US|access-date=January 30, 2020|archive-date=January 25, 2021|archive-url=https://web.archive.org/web/20210125153449/https://www.cbr.com/black-panther-hereditary-title/|url-status=live}}</ref> and the first to obtain the title of "Black Panther" as it tells of his "spiritual connection" with the Panther Goddess Bast that led to the foundation of the Cult of the Panther.<ref name="PantherCult" />
+
+===Nehanda===
+During the 11th century, Nehanda was among the heroes of that time that became a member of the [[Avengers (comics)#Avengers (A.D. 1000 version)|A.D. 1000's version of the Avengers]].<ref>''The Mighty Thor'' vol. 2 #7. Marvel Comics.</ref><ref>''King Thor'' #4. Marvel Comics.</ref>
+
+Nehanda was among the ghosts that T'Challa summoned for consul.<ref>''Black Panther'' vol. 6 #14. Marvel Comics.</ref>
+
+===Chanda (Azzuri)===
+Chanda appeared for the first time in ''Fantastic Four Unlimited'' #1 (March 1993) by Roy Thomas (scripts) and Herb Trimpe (drawings). Black Panther and ruler of Wakanda during the Second World War, Chanda is the husband of Nanali and father of [[T'Chaka]] and [[S'Yan]]; distinguished by an excessively good and compassionate nature, he welcomed the Nazi colonel Fritz Klaue after he crashed into his reign due to a plane crash. Over time, the two make a kind of friendship and Klaue develops a strong obsession with the culture of Wakanda coming to try to convince them to make their religion deist rather than spiritist, which causes a strong friction between him and Chanda culminating in the death of Nanali by the Nazi and in its subsequent expulsion from the country.<ref>''Fantastic Four Unlimited'' #1 (March 1993)</ref>
+
+In several subsequent stories, T'Chaka's father (and husband of Nanali) is called Azzuri the Wise and is presented in a completely different way from Chanda,<ref>''Black Panther'' vol. 4 #1 (April 2005).</ref><ref name="Flags">''Black Panther/Captain America: Flags of Our Fathers'' #1, giugno 2010.</ref> leaving doubt if it is only a sort of nickname or another character.
+
+===T'Chaka===
+{{Main|T'Chaka}}
+T'Chaka appeared for the first time in ''Fantastic Four'' #53 (August 1966) by Stan Lee (script) and Jack Kirby (art). The eldest son of King Azzuri and Queen Nanali, T'Chaka inherits the throne and the title of the Black Panther on his father's death by being helped in his monarch duties by his younger brother and trusted adviser S'Yan.<ref name="BP4-2">''Black Panther'' vol. 4 #2 (May 2005).</ref> After having married a woman named N'Yami, believing she can not have children, he adopts a child with her, Hunter; however, she later becomes pregnant and dies giving birth to her first child, T'Challa; from the relationship with a woman of another tribe T'Chaka then has a second son, Jakarra, and finally remarries with Ramonda, with whom he has his only daughter, Shuri.<ref name="BP4-2"/> When Ramonda subsequently disappears into nothingness, leading him to believe that he has been abandoned, he raises his children alone.<ref name="MCP13-37"/> To protect the kingdom, T'Chaka instituted a policy of strong isolationism,<ref name="auto"/> but in the course of his life he often collaborated with agents of the U.S. government.<ref name="Flags"/><ref>''Avengers 1959'' #1–5 (December 2011 – March 2012)</ref> He is killed by Ulysses Klaw after having surprised him when he was trying to illegally extract vibranium in his kingdom.<ref name="FF53"/>
+
+===Erik Killmonger / N'Jadaka===
+{{Main|Erik Killmonger}}
+In ''Black Panther'' vol. 3 #15 (February 2000), Erik Killmonger challenges and beats T'Challa in a duel for the throne, overthrowing him as king of Wakanda and taking on the role as the Black Panther.<ref>{{Cite book|title=Black Panther by Christopher Priest: The Complete Collection TPB Vol 1 #1|last=Priest|first=Christopher|publisher=Marvel|year=2015|isbn=978-0785192671}}</ref> He becomes comatose after attempting to ingest the heart-shaped herb to acquire the Black Panther's powers, as he is not of royal blood. Killmonger's time as king is short-lived however, as he is killed by [[Monica Rambeau]] during T'Challa's attack to reclaim Wakanda.<ref>{{Cite book|title=Black Panther: Back to Africa TPB Vol 1 #1|last=Hudlin|first=Reginald|publisher=Marvel|year=2008|isbn=978-0785124528}}</ref>
+
+===S'Yan===
+S'Yan the Fast first appeared in ''Black Panther'' vol. 4 #2 (May 2005) and was created by [[Reginald Hudlin]] and [[John Romita Jr.]] The second son of King Azzuri and Queen Nanali, S'Yan is T'Chaka's younger and trusted advisor. Although he has no desire to reign, he agrees to ascend the throne after his brother's death until his nephew T'Challa becomes an adult<ref name="BP4-2"/> and becomes one of the most beloved monarchs in the history of Wakanda. When T'Challa returns home and obtains the title of the Black Panther, he gladly returns to being a royal adviser.<ref name="BP4-2"/> He dies during the war with Latveria defending [[Ramonda (comics)|Ramonda]] from the soldiers of Doctor Doom.
+
+===Shuri===
+{{Main|Shuri (comics)}}
+
+When T'Challa ends up in a coma because of [[Doctor Doom]],<ref>''Black Panther'' vol. 5 #1–2, (April – May 2009)</ref> Shuri becomes his substitute as the Black Panther and queen of Wakanda which, after the rise of her half-brother to "king of the dead", creates for the first time in history two avatars of the Panther Goddess.
+
+==Supporting characters==
+{{Main|List of Black Panther supporting characters}}
+
+==Reception==
+
+=== Accolades ===
+
+* In 2008, ''[[Wizard (magazine)|Wizard]]'' magazine ranked Black Panther 79th in their "200 Greatest Comic Book Character of All Time" list.<ref>{{cite magazine |date=May 20, 2008 |title=The 200 Greatest Comic Book Characters of All Time (Nos. 80–71) |url=http://www.wizarduniverse.com/0520087thgreatestcharacters.html |magazine=[[Wizard (magazine)|Wizard]] |archive-url=https://web.archive.org/web/20080526115633/http://www.wizarduniverse.com/0520087thgreatestcharacters.html |archive-date=May 26, 2008}}</ref>
+* In 2012, ''[[IGN]]'' ranked Black Panther 10th in their "Top 50 Avengers" list.<ref>{{Cite web |title=Black Panther - #10 Top Avenger - IGN |url=https://www.ign.com/lists/avengers/10 |access-date=2022-08-08 |website=www.ign.com |archive-date=August 8, 2022 |archive-url=https://web.archive.org/web/20220808133221/https://www.ign.com/lists/avengers/10 |url-status=live }}</ref>
+* In 2013, ''[[ComicsAlliance]]'' ranked the Black Panther 33rd in their "50 Sexiest Male Characters in Comics" list.<ref>{{cite news |last=Wheeler |first=Andrew |date=February 14, 2013 |title=ComicsAlliance Presents The 50 Sexiest Male Characters in Comics |work=[[ComicsAlliance]] |url=http://comicsalliance.com/comics-sexiest-male-characters |url-status=dead |access-date=July 28, 2015 |archive-url=https://web.archive.org/web/20151018024021/http://comicsalliance.com/comics-sexiest-male-characters |archive-date=October 18, 2015}}</ref>
+* In 2015, ''[[IGN]]'' ranked Black Panther 51st in their "Greatest Comic Book Heroes" list, stating that Black Panther could be considered Marvel's equivalent to [[Batman]].<ref>{{cite web |title=#51: Black Panther |url=http://www.ign.com/top/comic-book-heroes/51 |url-status=live |archive-url=https://web.archive.org/web/20150629125259/http://www.ign.com/top/comic-book-heroes/51 |archive-date=June 29, 2015 |access-date=May 17, 2011 |website=IGN}}</ref>
+* In 2018, ''[[Deadline Hollywood|Deadline]]'' ranked Black Panther 5th in their "Hollywood Heroes Co-Created By The Marvel Comics Icon" list.<ref>{{Cite web |last=Boucher |first=Geoff |date=2018-12-29 |title=Stan Lee’s Legacy: Ranking The Hollywood Heroes Co-Created By The Marvel Comics Icon |url=https://deadline.com/feature/stan-lee-black-panther-marvel-avengers-endgame-x-men-spider-man-iron-man-1202526807/ |access-date=2022-08-08 |website=Deadline |language=en-US |archive-date=August 8, 2022 |archive-url=https://web.archive.org/web/20220808133221/https://deadline.com/feature/stan-lee-black-panther-marvel-avengers-endgame-x-men-spider-man-iron-man-1202526807/ |url-status=live }}</ref>
+* In 2021, ''[[CBR.com]]'' ranked  Black Panther 5th in their "10 Best Team Leaders In Comics" list.<ref>{{Cite web |last=Harth |first=David |date=2021-04-09 |title=10 Best Team Leaders In Comics, Ranked |url=https://www.cbr.com/best-team-leaders-comics/ |access-date=2022-08-08 |website=CBR |language=en-US |archive-date=August 8, 2022 |archive-url=https://web.archive.org/web/20220808133220/https://www.cbr.com/best-team-leaders-comics/ |url-status=live }}</ref>
+* In 2022, ''[[CBR.com]]'' ranked Black Panther 2nd in their "Avengers' Greatest Leaders" list.<ref>{{Cite web |last=Allan |first=Scoot |date=2022-07-25 |title=The Avengers' Greatest Leaders, Ranked By Experience |url=https://www.cbr.com/avengers-greatest-leaders-ranked-by-experience/ |access-date=2022-08-08 |website=CBR |language=en-US |archive-date=August 8, 2022 |archive-url=https://web.archive.org/web/20220808121045/https://www.cbr.com/avengers-greatest-leaders-ranked-by-experience/ |url-status=live }}</ref>
+* In 2022, ''[[The A.V. Club]]'' ranked Black Panther 1st in their "100 best Marvel characters" list.<ref>{{Cite web |date=2022-07-08 |title=The 100 best Marvel characters ranked: 20-1 |url=https://www.avclub.com/top-marvel-movie-characters-ranked-1849148779 |access-date=2022-08-08 |website=The A.V. Club |language=en-us |archive-date=August 3, 2022 |archive-url=https://web.archive.org/web/20220803135005/https://www.avclub.com/top-marvel-movie-characters-ranked-1849148779 |url-status=live }}</ref>
+* In 2022, ''[[CBR.com]]'' ranked Black Panther 10th in their "10 Greatest Avengers" list.<ref>{{Cite web |last=Harth |first=David |date=2022-08-06 |title=10 Greatest Avengers, Ranked By Courage |url=https://www.cbr.com/avengers-greatest-courage-ranked/ |access-date=2022-08-08 |website=CBR |language=en-US |archive-date=August 8, 2022 |archive-url=https://web.archive.org/web/20220808194721/https://www.cbr.com/avengers-greatest-courage-ranked/ |url-status=live }}</ref>
+
+===Volume 3===
+Journalist Joe Gross praised Christopher Priest for his characterization of the Black Panther, stating, that the writer "turned an underused icon into the locus of a complicated high adventure by taking the Black Panther to his logical conclusion. T'Challa (the title character) is the enigmatic ruler of a technologically advanced, slightly xenophobic African nation, so he acts like it". Gross applauded the title's "endless wit, sharp characterization, narrative sophistication and explosive splash panels".<ref>{{cite news| first1=Joe|last1= Gross |first2= Jeff |last2=Salamon | title=Five comic books you (or your kids)* should be reading | newspaper=[[Austin American-Statesman]] | date=May 30, 2002 }}</ref>
+
+Comics reviewer and journalist Mike Sangiacomo, however, criticized the narrative structure. "Christopher Priest's fractured writing is getting on my nerves. Like the ''Spider-Man'' comics, I want to like ''Black Panther'', but Priest's deliberately jumbled approach to writing is simply silly. I know it's a style, but does he have to do it every issue?"<ref>{{Cite news| first=Mike |last=Sangiacomo | title=Tips on what to buy, avoid with budget in mind | work=[[The Plain Dealer]] | date=April 1, 2000 }}</ref>
+
+Reporter Bill Radford cited similar concerns when the title had just launched. "I appreciate the notion of seeing the Black Panther through the eyes of an Everyman, but the Panther is almost relegated to secondary status in his own book. And Ross' narration jumps around in time so much that I feel like his boss, who, in trying to get Ross to tell her what has happened, complains: 'This is like watching "[[Pulp Fiction (film)|Pulp Fiction]]" in rewind. My head is exploding.'"<ref>{{Cite news| first=Bill |last=Radford| title=Marvel Knights books put new spin on classic heroes| work=[[The Gazette (Colorado Springs)|The Gazette]] | location = [[Colorado Springs, Colorado]]| date=November 5, 1998 }}</ref>
+
+===Volume 4===
+''[[Publishers Weekly]]'' gave a negative review to the first arc, "Who Is the Black Panther?", a modern retelling of the character's origin, saying, "Hudlin's take is caught between a rock and a hard place. His over-the-top narrative is not likely to appeal to fans of the most recent version of the character, but it's too mired in obscure Marvel continuity to attract the more general reader. The plot manages to be convoluted without ever becoming absorbing".<ref>{{Cite news| title=Black Panther: Who Is the Black Panther?| work=[[Publishers Weekly]]| date=October 17, 2005 }}</ref>
+
+Journalist Shawn Jeffords, citing the lack of appearances of the title character in the first issue, called the new series a "fairly unimpressive launch". Jeffords also said general-audience unfamiliarity was a hindrance. "He's never been a marquee character and to make him one will be tough".<ref>{{Cite news| first=Shawn |last=Jeffords | title=Is the Black Panther back?| publisher=[[Sarnia Observer]]| date=February 3, 2005 }}</ref>
+
+==Other versions==
+===''Age of Ultron''===
+In the 2013 ''[[Age of Ultron]]'' miniseries, Black Panther contacts the [[Fantastic Four]] and informs them that [[Ultron]] has invaded [[Earth]] with an army of Ultron Sentinels.<ref>''Fantastic Four'' vol. 4 #5AU</ref> Black Panther was later seen with [[Thunderbolt Ross|Red Hulk]] and [[Taskmaster (comics)|Taskmaster]] in Chicago spying on some Ultron Sentinels. When Taskmaster takes out a Sentinel that was sneaking up on him, alerting the other Sentinels, Red Hulk holds off the Sentinels while Black Panther and Taskmaster flee. During the mayhem, Black Panther falls several stories and breaks his neck, killing him instantly.<ref>''Age of Ultron'' #3. Marvel Comics.</ref>
+
+===Amalgam Comics===
+{{Main|List of Amalgam Comics characters}}
+The Bronze Tiger is the ruler of Wakanda and is named B'Nchalla; he is an amalgamation of the [[Bronze Tiger]] (DC) and the Black Panther (Marvel).<ref>''Bullets and Bracelets'' #1 (April 1996)</ref> A similar character (or perhaps the same character) called the Bronze Panther (also an amalgamation of the Bronze Tiger (DC) and the Black Panther (Marvel)) appears later.<ref>''Challengers of the Fantastic'' #1 (June 1997)</ref>
+
+===''Avengers Forever''===
+In the 1998 - 1999 miniseries ''[[Avengers Forever]]'', Captain America and [[Hank Pym|Goliath]] visit an alternate future timeline where [[Martians (War of the Worlds)|Martian]] invaders have ravaged the Earth. An aged Black Panther leads this reality's version of the Avengers, who consist of [[Jocasta (comics)|Jocasta]], [[Living Lightning]], [[Killraven]], [[Crimson Dynamo]] and [[Thundra]].<ref>''Avengers Forever'' #4–6. Marvel Comics.</ref>
+
+===''Civil War''===
+In an alternate reality where the [[Civil War (comic book)|Civil War]] between Iron Man and Captain America never ended, the Black Panther was killed alongside [[Maria Hill]] after activating [[Prison 42]]'s self-destruct mechanism.<ref>''Civil War'' vol. 2 #1. Marvel Comics.</ref> He is succeeded by his son, Azari, who takes on the Black Panther name.<ref>''Civil War'' vol. 2 #2. Marvel Comics.</ref> It is later revealed that the Black Panther who destroyed Prison 42 was actually Queen [[Veranke]] of the shape-shifting alien race the [[Skrull]]s, who had stolen T'Challa's identity in order to manipulate and prolong the Civil War to suit her own needs.<ref>''Civil War'' vol. 2 #4. Marvel Comics.</ref>
+
+===Earth-355===
+T'Challa is the '''Coal Tiger''', Sersi kills the Avengers, and the Coal Tiger is the only survivor.<ref>''The Avengers'' #355–356. Marvel Comics.</ref>
+
+===Earth-6606===
+T'Challa is '''Chieftain Justice''', a [[Captain Britain Corps]] member, in ''Excalibur'' #44 (1991).<ref>''The Official Handbook of the Marvel Universe A–Z Volume Two'' (May 2008). Marvel Comics.</ref>
+
+===''Earth X''===
+In the alternate universe of ''[[Earth X]]'', T'Challa has been affected by the mutative event that drives the plot. Like most of humanity, he is mutated; in this case to become a humanoid black panther. He is entrusted with the [[Cosmic Cube]] by Captain America, who knows that T'Challa would be the only one to resist using it and to never give it back if asked. In fact, Captain America does ask for it back and T'Challa is forced to refuse.<ref>''Earth X'' #4. Marvel Comics.</ref>
+
+===''Exiles''===
+An alternate version of the Black Panther, called simply the "Panther", is drafted into the interdimensional superhero team the [[Exiles (Marvel Comics)|Exiles]]. The Panther is the son of T'Challa and Storm and named T'Chaka, after his grandfather. Originating from Earth-1119, he was ambushed by Klaw while examining some ruins. Caught in Klaw's blast, the Panther was plucked out of time and placed on the team. Unlike the stoic 616-Black Panther, The Panther is a wisecracking flirt.<ref name="Exiles vol. 2 #1">''Exiles'' vol. 2 #1. Marvel Comics.</ref> After his assumed death on Earth-1119, his sister took up the mantle of the Black Panther.<ref>''Exiles'' vol. 2 #6. Marvel Comics.</ref>
+
+An alternate T'Challa later appears in the third ''Exiles'' series.  His universe is still in the [[Wild West]] and he goes by King.<ref>{{cite web |last1=Peterson |first1=Matthew |title=Exiles #7 Review |url=http://majorspoilers.com/2018/09/02/exiles-7-review/ |website=Major Spoilers |access-date=April 16, 2019 |date=September 2, 2018 |archive-date=September 22, 2022 |archive-url=https://web.archive.org/web/20220922064335/https://majorspoilers.com//2018/09/02/exiles-7-review/ |url-status=live }}</ref> He is a gunslinger equipped with vibranium clothing and bullets.
+
+===Fox Kids===
+The Black Panther appears in issues #1 and 6–7 of Marvel Comics/[[Fox Kids]] comic book series based on the [[TV show]] ''[[The Avengers: United They Stand]]''.{{issue|date=September 2020}}
+
+===''Infinity Wars''===
+In ''[[Infinity Wars]]'', the [[Ghost Rider]] is fused with the Black Panther. Prince of Wakanda T'Challa was an arrogant boy who, because of his conflict with his father, was exiled from his place. He went to America where he found Jericho Simpson, who became his new father figure and gave T'Challa a new name as [[Ghost Rider (Johnny Blaze)|Johnny Blaze]]. During a stunt performance, he sensed his father T'Chaka dying and got distracted, which resulted in his own death. He was then revived by [[Zarathos]], half-sister of Bast and offered to him powers in exchange of eating the souls of sinners. At first he was reluctant, but when battling his father's killers, he accepted the offer, became the '''Ghost Panther''' and battled Erik Killraven (a fusion of Erik Killmonger and [[Killraven]]).<ref>''Infinity Warps: Ghost Panther'' #1-2. Marvel Comics.</ref>
+
+===Marvel 2099===
+In the [[Marvel 2099]] continuity, a greatly weakened Wakanda is soon to be governed by its princess, Okusana. Fearing that she is not ready, she requests [[Doom 2099|Doom]]'s help in resurrecting '''Thandaza''', her grandfather and a former Black Panther. Doom (who claims to have agreed to the proposal out of respect for T'Challa) and the Wakandan scientists revive Thandaza in a cyberbetic body made from vibranium, but the plan goes awry when '''Mkhalali''', the current Panther Guard, opens fire on Thandaza, believing his resurrection to be an abomination. The attack throws off the calibrations and leaves Thandaza in a maddened state and constant pain, causing him to go on a bloody rampage. Doom is ultimately forced to kill Thandaza, who thanks him for ending his suffering.<ref>''Doom 2099'' #11–12. Marvel Comics.</ref>
+
+===Marvel Knights 2099===
+Black Panther was featured in the [[Marvel 2099#Marvel Knights 2099 heroes|Marvel Knights 2099]] one shots, which were not tied to the main 2099 continuity. A new Black Panther, '''K'Shamba''', rose to fight and thwart the mounting invasions by the successor of Doom, named Lucian. While the victory over the new Doom appeared triumphant, the new Wakandan king was ultimately revealed to be a puppet of Doom.<ref>''Marvel Knights 2099: Black Panther'' #1 (2005). Marvel Comics.</ref>
+
+===''Marvel Mangaverse''===
+T'Challa appears in ''[[Marvel Mangaverse]] Volume 2'' as a man with a pet panther. When summoning the spirits, T'Challa and his panther combine to become the Black Panther. He also became the Falcon. This Black Panther found himself the object of affection of the Mangaverse version of [[Tigra]]. T'Challa's sister, T'Chana, reveals herself to be this universe's Doctor Doom.<ref>''Marvel Mangaverse Volume 2''. Marvel Comics.</ref>
+
+===''Marvel Zombies''===
+The Black Panther is, for the most part, one of the few uninfected superheroes in the alternate-universe series ''[[Marvel Zombies]]'', where he is kept as a food supply for the Zombie [[Henry Pym|Giant-Man]], who keeps the Panther imprisoned and cuts off various limbs so that he can maintain his intelligence via a ready access to fresh meat without infecting the Panther with the zombie "virus".<ref>''Marvel Zombies'' #2. Marvel Comics.</ref> Despite having lost half of his right arm and his left foot, the Panther escapes — with the severed head of zombified superheroine the [[Wasp (character)#Marvel Zombies|Wasp]] in tow — <ref>''Marvel Zombies'' #3 (2006). Marvel Comics.</ref> and joins forces with the mutant group the [[Acolytes (comics)#Marvel Zombies|Acolytes]].<ref>''Marvel Zombies'' #4 (2006). Marvel Comics.</ref> While with the Acolytes, T'Challa briefly talks with his Earth-616 counterpart, where he expresses surprise at his marriage to Storm, but offers him all the information he can provide about the zombie plague.<ref>''Black Panther'' vol. 4 #29. Marvel Comics.</ref> Decades later, T'Challa has married one of the Acolytes, Lisa Hendricks, and they have a son, with [[Forge (comics)|Forge]] having provided T'Challa with artificial limbs to compensate for his injuries.<ref>''[[Marvel Zombies 2]]'' #2 (2008). Marvel Comics.</ref> Facing retirement, the Panther is stabbed and critically wounded by an agent of an Acolyte splinter group, and the Wasp — now a willing ally after having lost her zombie hunger — zombifies the Panther in order to grant him continued existence. With the Wasp's help, he survives to the post-hunger stage himself and continues to lead his people, despite his status.<ref>''Marvel Zombies 2'' #3. Marvel Comics.</ref> Further internal betrayal leads the Black Panther and many of his allies to be tossed through the dimensions.<ref>''Marvel Zombies 2'' #5 (May 2008). Marvel Comics.</ref> He ends up involved with another Earth that is threatened by the zombie virus. His attempts to save this new planet fail and he is destroyed, leaving only one hand displayed as a trophy by his enemies.<ref>''[[Marvel Zombies Return]]'' #5 (2009). Marvel Comics.</ref>
+
+===MC2===
+In the [[Marvel Comics 2|MC2]] universe, the Black Panther has a son named T'Chaka II, who joined the [[A-Next]] as the [[Coal Tiger]].<ref>''A-Next'' #4. Marvel Comics.</ref>
+
+===''Mutant X''===
+In the ''[[Mutant X (comics)|Mutant X]]'' reality, the Black Panther had the appearance of a humanoid black panther. He is among the second wave of heroes who died fighting the Beyonder.<ref>''Mutant X'' #9. Marvel Comics.</ref>
+
+===Ultimate Marvel===
+In the [[Parallel universe (fiction)|alternate reality]] [[Ultimate Marvel]] [[Imprint (trade name)|imprint]], the Black Panther is '''T'Challa Udaku''', a young man who is experimented on in the [[Weapon X]] program before being liberated by [[Ultimate Nick Fury|Nick Fury]].<ref>''Ultimate Origins'' #5. Marvel Comics.</ref>
+
+T'Challa, the younger son of King T'Chaka of Wakanda, is severely injured during the "Trial of the Panther" from which the protector of the nation is selected. His older brother M'Baku finds T'Challa bloodied, mute, and near death but derisively calls him a fool for attempting the trial. Later, M'Baku adds that he, not T'Challa, should have taken the trial. Angry that his father has decided to share Wakanda's technology in exchange for America's help in saving T'Challa's life, M'Baku leaves the kingdom.{{issue|date=September 2020}}
+
+To save T'Challa, T'Chaka turns him over to the Weapon X program. Over a year later, a healthy T'Challa, in his full Black Panther garb, has enhanced speed, strength and night vision and a healing ability. Additionally, he can summon short, cat-like [[adamantium]] claws from his knuckles by balling his hands into fists. T'Chaka becomes outraged upon learning that [[S.H.I.E.L.D.]] (who had shut down Weapon X and freed T'Challa) now considers his son an asset of the U.S. and S.H.I.E.L.D. He subsequently sends M'Baku a letter, claiming that M'Baku, not T'Challa, is the titular "favorite son", and he implores M'Baku to return.{{issue|date=September 2020}}
+
+Fury has Captain America train and mentor the Panther, who reveals his damaged throat. Captain America, sympathizing for the Panther's plight, encourages Fury to place the Panther in the superhero team the [[Ultimates]]. This turns out to be a ruse in which Captain America impersonates the Panther, allowing T'Challa to escape and return home to Wakanda.<ref>''Ultimate Captain America'' Annual #1 (December 2008), written by [[Jeph Loeb]]: Chapters "Favorite Son" and "Training Day". Marvel Comics.</ref>
+
+After Ultimatum, the Black Panther joins the [[New Ultimates]].<ref>''Ultimate Comics: New Ultimates'' #1. Marvel Comics.</ref>
+
+===Sky Spider/Vibranium Man/Star Panther===
+On an unnamed alternate Earth where King Killmonger conquered Wakanda and Asgard, one baby version of T'Challa was placed into a rocket and was shot into outer space to protect him from being killed by King Killmonger. He landed on the planet Chandilar of the Shi'ar Empire. Years later, T'Challa was operating as '''Sky Spider''' where he saved an alien from King Killmonger's mercenaries called the War Panthers after the alien got thrown out a window. Sky Spider claims that the War Panthers are marauders and mercenaries who do not deserve the Panther name. Sky Spider fights the War Panthers as King Killmonger attacks the village from his ship. Many tomorrows later, T'Challa is on the trail of King Killmonger as '''Vibranium Man''' complete with the Dora Milaje A.I. and attacks a War Panthers ship. When he finds the one that King Killmonger is on, Vibranium Man goes on the attack as he claims that his suit flows with the blood and spirit of the fallen Wakandans. King Killmonger called him a second-rate Tony Stark as he mentioned that his armor was forged by the gods that fell before his axe as he throws Vibranium Man off his ship quoting "Wakanda Nevermore". Three days later, Robbie Reyes, his Deathlok companion, and [[Iron Man#Earth-818|Ant-Man of Earth-818]] find Vibranium Man in a solid Vibranium cocoon in an active star. After the cocoon is removed from the star, T'Challa comes out with the powers of the "white-hot heavens" as he takes the name of '''Star Panther''' where he will use his new abilities to kill King Killmonger.<ref>''Avengers Forever'' Vol. 2 #6. Marvel Comics.</ref>
+
+==In other media==
+===Television===
+* T'Challa / Black Panther appears in a [[Marvel Animation]] and [[Black Entertainment Television|BET]] produced [[Black Panther (TV series)|self-titled TV series]], voiced by [[Djimon Hounsou]].<ref>{{cite web |url=http://marvel.com/news/tv/5951/djimon_hounsou_roars_as_the_black_panther |title=Djimon Hounsou Roars as the Black Panther |publisher=Marvel.com |date=November 11, 2008 |access-date=January 6, 2011 |archive-url=https://web.archive.org/web/20160411092925/http://marvel.com/news/tv/5951/djimon_hounsou_roars_as_the_black_panther |archive-date=April 11, 2016 |url-status=dead  }}</ref><ref>{{cite web |url=http://www.marvel.com/news/comicstories.6694.NYCC_~apos~09~colon~_Marvel~slash~BET_Black_Panther_Panel |title=New York Comic Con 2009: Marvel/BET Black Panther Panel Live Blog |publisher=Marvel.com |date=February 7, 2009 |access-date=January 6, 2011 |archive-date=March 18, 2009 |archive-url=https://web.archive.org/web/20090318155946/http://marvel.com/news/comicstories.6694.NYCC_~apos~09~colon~_Marvel~slash~BET_Black_Panther_Panel |url-status=live }}</ref>
+* Black Panther appeared in ''[[Fantastic Four (1994 TV series)|Fantastic Four]]'', voiced by [[Keith David]].<ref>[http://www.behindthevoiceactors.com/Keith-David/ Keith David] {{Webarchive|url=https://web.archive.org/web/20140207081951/http://www.behindthevoiceactors.com/Keith-David/ |date=February 7, 2014 }}, behindthevoiceactors.com, retrieved November 29, 2012</ref> In the episode "Prey of the Black Panther", he enlists the [[Fantastic Four]] to help him save [[Wakanda]] from [[Klaw (character)|Klaw]]'s invasion. He also makes a cameo appearance in the episode "Hopelessly Impossible".
+* The Black Panther makes a non-speaking cameo appearance in ''[[X-Men: The Animated Series|X-Men]]''.<ref>[http://www.comicvine.com/black-panther/29-1477/ Black Panther (comic book character)] {{Webarchive|url=https://web.archive.org/web/20121029100747/http://www.comicvine.com/black-panther/29-1477/ |date=October 29, 2012 }}, comicvine.com, retrieved November 29, 2012</ref>
+* While he does not appear in ''[[The Avengers: United They Stand]]'', the Black Panther appears in the comic book series based on the show.<ref>{{cite web|url=http://www.whiterocketbooks.com/avengers/adrianwatts/united_they_stand.htm|title=Avengers: United They Stand Comic and Episode Summaries|first=Adrian|last=Watts|website=Whiterocketbooks.com|access-date=November 29, 2012|url-status=dead|archive-url=https://web.archive.org/web/20120819163332/http://www.whiterocketbooks.com/avengers/adrianwatts/united_they_stand.htm|archive-date=August 19, 2012}}</ref>
+* A younger version of T'Challa / Black Panther appears in ''[[Iron Man: Armored Adventures]]'', voiced by [[Jeffrey Bowyer-Chapman]].<ref>{{cite web |url=http://www.comicscontinuum.com/stories/0904/16/index.htm |title=Comics Continuum by Rob Allstetter: Thursday, April 16, 2009 |publisher=Comicscontinuum.com |date=April 16, 2009 |access-date=January 6, 2011 |archive-date=May 26, 2011 |archive-url=https://web.archive.org/web/20110526203053/http://www.comicscontinuum.com/stories/0904/16/index.htm |url-status=live }}</ref> In the episode "Panther's Prey", he seeks vengeance against his father's killer, Moses Magnum, though he encounters [[Iron Man]] along the way. He returns in the episode "Line of Fire" and the two-part series finale "The Makluan Invasion".
+* T'Challa / Black Panther appears in ''[[The Super Hero Squad Show]]'' episode "Tremble at the Might of... M.O.D.O.K.!", voiced by [[Taye Diggs]].<ref>{{cite web |url=http://www.comicscontinuum.com/stories/0907/28/voices.htm |title=Comics Continuum |publisher=Comics Continuum |date=July 28, 2009 |access-date=January 6, 2011 |archive-date=December 4, 2012 |archive-url=https://web.archive.org/web/20121204155024/http://www.comicscontinuum.com/stories/0907/28/voices.htm |url-status=live }}</ref> This version is in a relationship with [[Storm (Marvel Comics)|Storm]].
+* T'Challa / Black Panther appears in ''[[The Avengers: Earth's Mightiest Heroes]]'', voiced by [[James C. Mathis III]].<ref name="lamarravengerscartoon">{{cite news|url=http://www.newsarama.com/tv/Lamarr-Avengers-Animated-100208.html|title=''Avengers'' Animated Assembling w/ Phil Lamarr|first=Jenna|last=Busch|date=February 8, 2010|work=[[Newsarama]]|access-date=February 8, 2010|archive-date=February 11, 2010|archive-url=https://web.archive.org/web/20100211013131/http://www.newsarama.com/tv/Lamarr-Avengers-Animated-100208.html|url-status=live}}</ref> His origin is told in the episode "The Man in the Ant Hill", wherein he becomes Black Panther after [[Man-Ape]] kills his father [[T'Chaka]] in combat with Klaw's unseen help. In "Panther's Quest", T'Challa makes himself known to the [[Avengers (comics)|Avengers]] to enlist their help in avenging T'Chaka and joins them. However, in "Who Do You Trust?", T'Challa leaves the team due to his uncertainty of his teammates and his need to protect Wakanda from the [[Skrulls]]. He rejoins the team in "Behold ... The Vision!" after a battle with [[Vision (Marvel Comics)|eponymous character]]. T'Challa was presumed dead in "Operation Galactic Storm" when he drove a [[Kree]] ship into the sun. However, T'Challa used its teleporter to reach a second Kree ship at the last minute, where he steals a smaller ship so he can rejoin the Avengers.
+* T'Challa / Black Panther appears in ''[[Avengers Assemble (TV series)|Avengers Assemble]]'',<ref>{{cite web|url=http://www.comicbookresources.com/article/ultimate-spider-man-and-avengers-renewed-on-disney-xd-with-new-titles|title='Ultimate Spider-Man' and 'Avengers' Renewed on Disney XD with New Titles|work=Comic Book Resources|date=June 2015|access-date=June 1, 2015|archive-date=September 24, 2015|archive-url=https://web.archive.org/web/20150924140345/http://www.comicbookresources.com/article/ultimate-spider-man-and-avengers-renewed-on-disney-xd-with-new-titles|url-status=live}}</ref> voiced again by James C. Mathis III.<ref name="btva">{{cite web |url=http://www.behindthevoiceactors.com/characters/Marvel-Universe/Black-Panther-TChalla/|title=Voice Of Black Panther / T'Challa - Marvel Universe franchise |website=Behind The Voice Actors |access-date=September 26, 2018 |url-status=dead|archive-date=September 27, 2018|archive-url=https://web.archive.org/web/20180927125159/https://www.behindthevoiceactors.com/characters/Marvel-Universe/Black-Panther-TChalla/}} Check marks indicates role has been confirmed using screenshots of closing credits and other reliable sources.</ref> Introduced in the third-season episode "Panther's Rage", T'Challa speaks at an assembly before he is attacked by [[Crossbones (character)|Crossbones]], though the former joins forces with [[Captain America]] to defeat the latter before stealing Captain America's shield, claiming [[Howard Stark]] stole the [[Vibranium]] used in its construction. In response, Captain America brings in the Avengers to help him travel to Wakanda and take it back. During a confrontation with Ulysses Klaue, who stole the shield for his own ends, T'Challa learns T'Chaka voluntarily gave Stark the Vibranium. After they defeat Klaue, T'Challa changes his views on the Avengers, who offer him a reserve membership. In the two-part fourth season episode "Avengers No More", T'Challa helps found and lead the [[The New Avengers (comics)|All-New, All-Different Avengers]] after the original team disappears, and becomes the focus of the fifth season ''Avengers: Black Panther's Quest''.<ref>{{cite web|url=http://www.cbr.com/avengers-assemble-retitled-black-panther-quest/|title=Avengers Assemble S5 Retitled Avengers: Black Panther Quest|date=July 22, 2017|access-date=August 12, 2017|archive-date=March 20, 2018|archive-url=https://web.archive.org/web/20180320023627/https://www.cbr.com/avengers-assemble-retitled-black-panther-quest/|url-status=live}}</ref>
+** The fifth-season episodes "The Lost Temple", "Yemandi", and "Bashenga" also introduced past Black Panthers '''T'Chanda''' (voiced by Corey Jones),<ref>{{cite episode|title=The Lost Temple|series=Avengers Assemble|network=Disney XD|season=5|number=11|airdate=November 25, 2018}}</ref> '''Yemandi''' (voiced by [[Anika Noni Rose]]),<ref>{{cite episode|title=Yemandi|series=Avengers Assemble|network=Disney XD|season=5|airdate=January 20, 2019}}</ref> and Bashenga (voiced by [[Phil LaMarr]]) respectively.<ref>{{cite episode|title=Bashenga|series=Avengers Assemble|network=Disney XD|season=5|number=18|airdate=January 27, 2019}}</ref>
+* Black Panther appears in ''[[Marvel Future Avengers]]'', voiced again by Mahito Ōba in Japanese and James C. Mathis III in English.<ref>{{Cite web |title=Behind The Voice Actors – Marvel Future Avengers |url=https://www.behindthevoiceactors.com/tv-shows/Marvel-Future-Avengers/voice-credits/ |website=Behind The Voice Actors |access-date=December 29, 2021 |archive-date=January 31, 2022 |archive-url=https://web.archive.org/web/20220131033935/https://www.behindthevoiceactors.com/tv-shows/Marvel-Future-Avengers/voice-credits/ |url-status=live }}</ref>
+* Black Panther appears in ''[[Spidey and His Amazing Friends (2021 TV series)|Spidey and His Amazing Friends]]'', voiced by Tru Valentino.<ref>{{Cite web|url=https://ew.com/tv/patrick-stump-marvels-spidey-and-his-amazing-friends-theme-song/|title=Patrick Stump breaks down his theme song for new cartoon 'Spidey and His Amazing Friends'|website=EW.com|access-date=June 7, 2021|archive-date=June 8, 2021|archive-url=https://web.archive.org/web/20210608000150/https://ew.com/tv/patrick-stump-marvels-spidey-and-his-amazing-friends-theme-song/|url-status=live}}</ref><ref>{{cite web|url=https://www.dgepress.com/disneyjunior/pressrelease/marvels-spidey-and-his-amazing-friends-season-1-fact-sheet/|title=Marvel's Spidey and his Amazing Friends: Season 1 Fact Sheet|website=[[Disney Television Studios]]|access-date=July 22, 2021|archive-date=July 22, 2021|archive-url=https://web.archive.org/web/20210722210603/https://www.dgepress.com/disneyjunior/pressrelease/marvels-spidey-and-his-amazing-friends-season-1-fact-sheet/|url-status=live}}</ref>
+* Black Panther appears in ''[[Marvel Disk Wars: The Avengers]]'', voiced by [[Mahito Ōba]] in the Japanese version and [[James C. Mathis III]] in the English version.<ref name="btva" />
+
+===Film===
+* The Black Panther appears in the ''[[Marvel Animated Features]]'' series of direct-to-DVD animated films.{{citation needed|date=June 2021}} Like his father [[T'Chaka]], this version has the ability to transform into an anthropomorphic black panther.
+** He first appears in ''[[Ultimate Avengers 2]]'' (2006), voiced by [[Jeffrey D. Sams]]. {{citation needed|date=June 2021}}
+** The Black Panther makes a non-speaking appearance in ''[[Next Avengers: Heroes of Tomorrow]]'' (2008).{{citation needed|date=June 2021}} He joined the Avengers to defeat [[Ultron]] and gave his life to do so, though his legacy is survived by his and [[Storm (Marvel Comics)|Storm]]'s son, Azari.<ref>Next Avengers: Heroes of Tomorrow</ref>
+* The Black Panther appears in ''[[Lego Marvel Super Heroes - Black Panther: Trouble in Wakanda|Black Panther: Trouble in Wakanda]]'', voiced again by [[James C. Mathis III]].<ref>{{cite web|url=https://www.marvel.com/|title=The Official Site for Marvel Movies, Characters, Comics, TV, & More|website=Marvel Entertainment|access-date=March 2, 2019|archive-date=February 13, 2015|archive-url=https://web.archive.org/web/20150213010327/http://marvel.com/news/movies/24065/marvel_studios_schedules_new_release_dates_for_4_films|url-status=live}}</ref><ref>{{cite web|first=Spencer|last=Christopher|url=https://heroichollywood.com/black-panther-lego-movie/|title='Black Panther' Will Have His Own LEGO Movie Called 'Trouble In Wakanda'|date=October 9, 2017|website=Heroichollywood.com|access-date=October 26, 2017|archive-date=October 26, 2017|archive-url=https://web.archive.org/web/20171026040130/https://heroichollywood.com/black-panther-lego-movie/|url-status=live}}</ref>
+
+===Marvel Cinematic Universe===
+{{main|T'Challa (Marvel Cinematic Universe)}}
+
+[[Chadwick Boseman]] portrayed T'Challa / Black Panther in media set in the [[Marvel Cinematic Universe]].<ref name="Oct2014Event">{{cite news |url=http://www.newsarama.com/22573-marvel-announces-black-panther-captain-marvel-inhumans-avengers-infinity-war-films-cap-thor-3-subtitles.html |title=Marvel Announces Black Panther, Captain Marvel, Inhumans, Avengers: Infinity War Films, Cap & Thor 3 Subtitles |last=Siegel |first=Lucas |work=[[Newsarama]] |date=October 28, 2014 |access-date=October 28, 2014 |archive-url=https://web.archive.org/web/20141028211803/http://www.newsarama.com/22573-marvel-announces-black-panther-captain-marvel-inhumans-avengers-infinity-war-films-cap-thor-3-subtitles.html |archive-date=October 28, 2014 |url-status=live  }}</ref><ref name="Boseman">{{cite web |url=http://marvel.com/news/movies/23548/chadwick_boseman_to_star_in_marvels_black_panther |title=Chadwick Boseman to Star in Marvel's Black Panther |last=Strom |first=Marc |publisher=[[Marvel Comics|Marvel.com]] |date=October 28, 2014 |access-date=October 28, 2014 |archive-url=https://web.archive.org/web/20141028201432/http://marvel.com/news/movies/23548/chadwick_boseman_to_star_in_marvels_black_panther |archive-date=October 28, 2014 |url-status=live  }}</ref> This version displays enhanced speed, agility, strength, and durability, which he gains from ingesting the heart-shaped herb, as in the comics.<ref>{{cite web|url=http://screenrant.com/black-panther-powers-herb-explained/ |title=Black Panther Director Explains T'Challa's Powers|last=Donn|first=Emily|work=[[Screen Rant]]|date=June 9, 2017|access-date=June 10, 2017 |archive-url=https://web.archive.org/web/20170610180314/http://screenrant.com/black-panther-powers-herb-explained/ |archive-date=June 10, 2017|url-status=live}}</ref> Additionally, his suit has retractable claws and is made of a [[Vibranium]] weave, which can deflect heavy machine gun fire and withstand explosive attacks. T'Challa appears in the live-action films ''[[Captain America: Civil War]]'', ''[[Black Panther (film)|Black Panther]]'',<ref name="Oct2014Event" /><ref name="Boseman" /> ''[[Avengers: Infinity War]]'' (2018),<ref>{{cite web |url=http://www.ign.com/articles/2017/06/08/black-panther-officially-part-of-avengers-infinity-war |title=Black Panther Officially Part of Avengers: Infinity War |last=Reilly |first=Luke |website=IGN |date=May 7, 2017 |access-date=May 8, 2017 |archive-url=https://web.archive.org/web/20170608132422/http://www.ign.com/articles/2017/06/08/black-panther-officially-part-of-avengers-infinity-war |archive-date=June 8, 2017 |url-status=live }}</ref> and ''[[Avengers: Endgame]]'' (2019).<ref>{{Cite web|url=https://screenrant.com/avengers-endgame-cast-every-character-return/|title=Every Character In Avengers: Endgame|first1=Cooper|last1=Hood|work=Screen Rant|date=April 27, 2019|access-date=April 28, 2019|archive-date=April 26, 2019|archive-url=https://web.archive.org/web/20190426133414/https://screenrant.com/avengers-endgame-cast-every-character-return/|url-status=live}}</ref> Following his death, Boseman posthumously voices three alternate timeline versions of T'Challa in the first season of the [[Disney+]] animated series ''[[What If...? (TV series)|What If...?]]''<ref>{{cite web |last1=Hughes |first1=William |title=Marvel just released an extremely intriguing cast list for Disney+'s animated What If…? |url=https://news.avclub.com/marvel-just-released-an-extremely-intriguing-cast-list-1836569935 |website=A.V. Club |date=July 21, 2019 |access-date=July 21, 2019 |archive-date=July 21, 2019 |archive-url=https://web.archive.org/web/20190721041330/https://news.avclub.com/marvel-just-released-an-extremely-intriguing-cast-list-1836569935 |url-status=live }}</ref><ref>{{Cite web|url=https://thedirect.com/article/chadwick-boseman-reportedly-recorded-lines-for-marvel-studios-what-if-prior-to-death|title=Chadwick Boseman Reportedly Recorded Lines for Marvel Studios' What If...? Prior to Death|first=Richard|last=Nebens|website=thedirect.com|date=August 31, 2020|access-date=September 18, 2020|archive-date=December 1, 2020|archive-url=https://web.archive.org/web/20201201085854/https://thedirect.com/article/chadwick-boseman-reportedly-recorded-lines-for-marvel-studios-what-if-prior-to-death|url-status=live}}</ref>
+
+===Video games===
+* Black Panther appears as a playable character in ''[[Marvel: Ultimate Alliance]]'', voiced by [[Phil LaMarr]].<ref name="MUA1">{{Cite book|title=Marvel Ultimate Alliance: Signature Series Guide |first=Thom |last=Denick |publisher=Brady Games |location=Indianapolis, Indiana| isbn=0-7440-0844-1 |year=2006 |pages=38, 39}}</ref>
+* Black Panther appears as an [[Non-player character|NPC]] in ''[[Marvel: Ultimate Alliance 2]]'', voiced by [[Tim Russ]].<ref>{{cite web |last=Schedeen |first=Jesse |url=http://uk.comics.ign.com/articles/101/1018503p6.html |title=Touring the Marvel: Ultimate Alliance 2 Universe |website=IGN |date=July 7, 2010 |access-date=January 6, 2011 |url-status=dead |archive-url=https://web.archive.org/web/20110831200823/http://uk.comics.ign.com/articles/101/1018503p6.html |archive-date=August 31, 2011  }}</ref> He is playable in the [[Xbox 360]], [[Xbox One]], [[PlayStation 3|PS3]], [[PlayStation 4|PS4]], and [[Personal computer|PC]] versions and was originally a downloadable character for the PS3 and Xbox 360.<ref>{{cite web|url=http://marvel.com/news/video_games/13063/marvel_ultimate_alliance_2_dlc_returns|archive-url=https://web.archive.org/web/20150321003151/http://marvel.com/news/video_games/13063/marvel_ultimate_alliance_2_dlc_returns|url-status=dead|archive-date=March 21, 2015|first=Dave|last=Golbitz|title=Marvel: Ultimate Alliance 2 DLC Returns!|date=July 2, 2010|access-date=May 20, 2016}}</ref>
+* Black Panther appears in [[Storm (Marvel Comics)|Storm]]'s ending for ''[[Marvel vs. Capcom 3: Fate of Two Worlds]]''.
+* Black Panther appears as a playable character in ''[[Marvel Super Hero Squad Online]]''.
+* Black Panther appears as a playable character in the [[Facebook]] game ''[[Marvel: Avengers Alliance]]''.
+* Black Panther appears as a playable character in the [[MMORPG]] ''[[Marvel Heroes (video game)|Marvel Heroes]]'',<ref name="MarvelHeroesMMORPG">{{cite web |url=https://www.marvelheroes.com/news/news-articles/black-panther-joins-marvel-heroes |archive-url=https://web.archive.org/web/20130520104127/https://www.marvelheroes.com/news/news-articles/black-panther-joins-marvel-heroes |url-status=dead |archive-date=May 20, 2013 |title=Black Panther joins Marvel Heroes |work=[[Marvel Heroes (video game)|Marvel Heroes]] |date=July 14, 2012 |access-date=July 19, 2012 }}</ref> voiced by James C. Mathis III.{{citation needed|date=September 2020}}
+* Black Panther appears as a playable character in ''[[Lego Marvel Super Heroes]]'', voiced by John Eric Bentley.{{citation needed|date=September 2020}}
+* Black Panther appears as a playable character in ''Marvel Avengers Alliance Tactics''.
+* Black Panther appears as a playable character in ''[[Marvel Contest of Champions]]''.<ref>{{cite web|url=http://www.giantbomb.com/marvel-contest-of-champions/3030-47169/characters/|title=Marvel Contest of Champions|work=giantbomb.com|access-date=February 19, 2015|archive-date=February 10, 2015|archive-url=https://web.archive.org/web/20150210040642/http://www.giantbomb.com/marvel-contest-of-champions/3030-47169/characters/|url-status=live}}</ref>
+* Black Panther appears as a playable character in ''Marvel Mighty Heroes''.<ref>{{cite web|url=http://heavy.com/games/2015/04/marvel-mighty-heroes-tips-cheats-guide-ios-android-mobile-games/|title=Marvel Mighty Heroes: Top 10 Tips & Cheats You Need to Know|first=Elton|last=Jones|work=Heavy.com|date=April 13, 2015|access-date=April 14, 2015|archive-date=April 14, 2015|archive-url=https://web.archive.org/web/20150414030118/http://heavy.com/games/2015/04/marvel-mighty-heroes-tips-cheats-guide-ios-android-mobile-games/|url-status=live}}</ref>
+* Black Panther appears as a playable character in ''[[Marvel Future Fight]]''.<ref>{{cite web|url=http://heavy.com/games/2015/05/marvel-future-fight-tips-tricks-cheats-guide-ios-android-mobile-games/|title='Marvel Future Fight': Top 10 Tips & Cheats You Need to Know|first=Elton|last=Jones|work=Heavy.com|date=May 16, 2015|access-date=June 15, 2015|archive-date=February 3, 2019|archive-url=https://web.archive.org/web/20190203143714/https://heavy.com/games/2015/05/marvel-future-fight-tips-tricks-cheats-guide-ios-android-mobile-games/|url-status=live}}</ref>
+* Black Panther appears as a playable character in ''[[Disney Infinity 3.0]]''.<ref>{{cite web|url= https://aotf.com/news/black-panther-and-vision-are-coming-to-disney-infinity-3-0|title= AOTF – Attack of the Fan Boy Ant-Man, Black Panther and Vision Get Leaked in Disney 3.0|date= January 18, 2016|access-date= July 11, 2017|archive-date= September 22, 2022|archive-url= https://web.archive.org/web/20220922064334/https://attackofthefanboy.com/news/black-panther-and-vision-are-coming-to-disney-infinity-3-0/|url-status= live}}</ref>
+* The MCU version of Black Panther appears as a [[Downloadable content|downloadable]] playable character in ''[[Lego Marvel's Avengers]]'', as part of the "Civil War" pack.<ref>{{cite web|url=http://www.comicbookresources.com/article/ant-man-captain-america-civil-war-characters-join-lego-marvels-avengers|title='Ant-Man,' 'Captain America: Civil War' Characters Join 'LEGO Marvel's Avengers'|last=Gerding|first=Stephen|date=January 13, 2016|website=[[Comic Book Resources]]|access-date=January 13, 2016|archive-date=May 29, 2016|archive-url=https://web.archive.org/web/20160529034859/http://www.comicbookresources.com/article/ant-man-captain-america-civil-war-characters-join-lego-marvels-avengers|url-status=live}}</ref> A DLC pack based on Classic Black Panther was later released for the game.<ref>{{cite web |first=Mat |last=Paget |date=March 17, 2016 |url=http://www.gamespot.com/articles/lego-avengers-dlc-season-pass-detailed/1100-6435767/ |title=Lego Avengers DLC Season Pass Detailed |website=Gamespot |access-date=May 18, 2016 |archive-date=April 11, 2019 |archive-url=https://web.archive.org/web/20190411065817/https://www.gamespot.com/articles/lego-avengers-dlc-season-pass-detailed/1100-6435767/ |url-status=live }}</ref>
+* Black Panther appears as a playable character in ''[[Lego Marvel Super Heroes 2]]''.<ref>{{cite web|url=https://news.marvel.com/games/65201/lego-marvel-super-heroes-2-coming-fall/|title=LEGO Marvel Super Heroes 2 Coming This Fall|website=News.marvel.com|access-date=June 13, 2017|archive-date=August 31, 2017|archive-url=https://web.archive.org/web/20170831091205/https://news.marvel.com/games/65201/lego-marvel-super-heroes-2-coming-fall/|url-status=live}}</ref>
+* Black Panther appears as a downloadable character in  ''[[Marvel vs. Capcom: Infinite]]'', with James C. Mathis III reprising his role.<ref>{{cite web|url=https://www.eventhubs.com/news/2017/jun/12/marvel-vs-capcom-infinite-story-mode-demo-out-now-playstation-4-trailer-shows-several-new-characters/|title=Marvel vs. Capcom: Infinite story mode demo out now on PS4 and XB1, trailer shows several new characters|date=June 13, 2017|access-date=June 13, 2017|archive-date=November 25, 2017|archive-url=https://web.archive.org/web/20171125115408/https://www.eventhubs.com/news/2017/jun/12/marvel-vs-capcom-infinite-story-mode-demo-out-now-playstation-4-trailer-shows-several-new-characters/|url-status=live}}</ref>
+* Black Panther appears as a playable character in ''[[Marvel Strike Force]]''.<ref>{{cite magazine |url=http://ew.com/gaming/2018/03/28/marvel-strike-force-game-trailer/ |title=Drax hilariously takes center stage in new ''MARVEL Strike Force'' trailer |first=Natalie |last=Abrams |magazine=[[Entertainment Weekly]] |date=March 28, 2018 |access-date=March 29, 2018 |archive-date=March 30, 2018 |archive-url=https://web.archive.org/web/20180330080250/http://ew.com/gaming/2018/03/28/marvel-strike-force-game-trailer/ |url-status=live }}</ref>
+* Black Panther appears as a playable character in ''Marvel Powers United VR'', voiced again by [[James C. Mathis III]].<ref name="btva"/>
+* Black Panther appears as a playable character in ''[[Marvel Ultimate Alliance 3: The Black Order]]'',<ref>{{Cite web|url=https://www.marvel.com/articles/games/marvel-ultimate-alliance-3-the-black-order-launches-on-july-19|title=Super Heroes Assemble When MARVEL ULTIMATE ALLIANCE 3: The Black Order Launches on July 19 &#124; News &#124; Marvel|website=Marvel Entertainment|access-date=April 18, 2019|archive-date=April 16, 2019|archive-url=https://web.archive.org/web/20190416131217/https://www.marvel.com/articles/games/marvel-ultimate-alliance-3-the-black-order-launches-on-july-19|url-status=live}}</ref> voiced again by James C. Mathis III.<ref name="btva"/>
+* Black Panther appears in ''Marvel Dimension of Heroes'', voiced again by James C. Mathis III.<ref name="btva"/>
+* Black Panther appears as a downloadable playable character in ''[[Marvel's Avengers (video game)|Marvel's Avengers]]'', voiced and motion-captured by [[Christopher Judge]]. [[Square Enix]] originally planned to reveal the character's gameplay trailer instead of [[Hawkeye (Kate Bishop)|Kate Bishop]]'s prior to the game's release, but they delayed and moved the trailer reveal schedule to a post-launch date out of respect for the late Chadwick Boseman (Black Panther's actor in the MCU) who died on August 28, 2020.<ref>{{Cite web|url=https://www.gamesradar.com/marvels-avengers-delays-black-panther-reveal-out-of-respect-for-chadwick-boseman/|title=Marvel's Avengers delays Black Panther reveal out of respect for Chadwick Boseman|first=Alex Avard 02|last=September 2020|website=gamesradar|date=September 2, 2020|access-date=September 18, 2020|archive-date=September 26, 2020|archive-url=https://web.archive.org/web/20200926123720/https://www.gamesradar.com/marvels-avengers-delays-black-panther-reveal-out-of-respect-for-chadwick-boseman/|url-status=live}}</ref><ref>{{Cite web|url=https://www.cbr.com/black-panther-god-of-war-kratos-marvels-avengers/|title=Black Panther to Be Voiced by God of War's Kratos in Marvel's Avengers|date=July 15, 2021|website=CBR|access-date=July 16, 2021|archive-date=July 16, 2021|archive-url=https://web.archive.org/web/20210716145146/https://www.cbr.com/black-panther-god-of-war-kratos-marvels-avengers/|url-status=live}}</ref>
+* Black Panther appears as a purchasable outfit in ''[[Fortnite Battle Royale]]''.<ref>{{Cite web|url=https://www.epicgames.com/fortnite/en-US/news/black-panther-captain-marvel-and-taskmaster-join-fortnite-in-the-marvel-royalty-and-warriors-pack|title=Marvel Royalty and Warriors Pack|website=Epic Games' Fortnite|access-date=July 2, 2021|archive-date=July 9, 2021|archive-url=https://web.archive.org/web/20210709182049/https://www.epicgames.com/fortnite/en-US/news/black-panther-captain-marvel-and-taskmaster-join-fortnite-in-the-marvel-royalty-and-warriors-pack|url-status=live}}</ref>
+
+===Motion Comics===
+* The Black Panther appears in the 2014 animated [[motion comic]] film ''Marvel Knights: Wolverine vs. Sabretooth'', voiced by [[Omari Newton]].<ref name="btva"/> When [[Wolverine (character)|Wolverine]] winds up in Africa, the Black Panther and Storm assist him.<ref>{{cite web|url=http://www.dvdtalk.com/reviews/62362/marvel-knights-wolverine-vs-sabretooth/|title=Marvel Knights: Wolverine vs. Sabretooth|first=Nick|last=Hartel|date=February 7, 2014|work=DVD Talk|access-date=March 14, 2015|archive-date=April 2, 2015|archive-url=https://web.archive.org/web/20150402105843/http://www.dvdtalk.com/reviews/62362/marvel-knights-wolverine-vs-sabretooth/|url-status=live}}</ref>
+* In 2016, [[Disney XD]] launched the motion comic "Black Panther in ... The Visitor" on its [[YouTube]] channel.<ref>{{cite web|url=https://www.cbr.com/disney-xd-to-showcase-marvel-video-comics/|title=Disney XD to Showcase Marvel Video Comics|date=November 4, 2016|access-date=March 21, 2018|archive-date=March 21, 2018|archive-url=https://web.archive.org/web/20180321192643/https://www.cbr.com/disney-xd-to-showcase-marvel-video-comics/|url-status=live}}</ref>
+
+===Books===
+====Novels====
+* [[Jesse J. Holland|J. Holland, Jesse]]. ''Black Panther: Who is the Black Panther?'' (2017)  {{ISBN|9781302902674}}
+* [[Jim McCann (writer)|Jim McCann]]. ''Black Panther - The Junior Novel'' (2018) - [[novelization]] of the movie ''[[Black Panther (film)|Black Panther]]''. {{ISBN|9780316413206}}
+* [[Ronald L. Smith]]. ''Black Panther: The Young Prince'' {{ISBN|9781484787649}}
+
+====Anthology====
+[[Jesse J. Holland|J. Holland, Jesse]]. ''Black Panther: Tales of Wakanda'' (2021) .  {{ISBN|9781789095678}}
+
+====Little Golden Books====
+Two [[Little Golden Books]] were published.<ref>{{Cite web|url=https://www.penguinrandomhouse.com/series/LGB/little-golden-book/?page=13|title=Little Golden Book|website=[[Penguin Random House]]|language=en-US|access-date=February 3, 2020|archive-date=October 11, 2020|archive-url=https://web.archive.org/web/20201011172352/https://www.penguinrandomhouse.com/series/LGB/little-golden-book/?page=13|url-status=live}}</ref>
+* Frank Berrios. ''Black Panther'' (2018) {{ISBN|9781524763886}}	
+* Frank Berrios. ''Warriors of Wakanda'' (2018) {{ISBN|9781984831729}}
+
+====Mighty Marvel Chapter Books====
+[[Brandon T. Snider]] ''Black Panther: Battle for Wakanda'' (2018) {{ISBN|9781368020145}}
+
+===Role-playing games===
+Black Panther appears in the 1984 role-playing game ''[[Marvel Super Heroes (role-playing game)|Marvel Super Heroes]]''. He also appears in all subsequent updates and versions.<ref>{{cite web|url=http://classicmarvelforever.com/cast/black_panther.htm|title=Marvel Heroes Classic Roleplaying Game – Marvel RPG|first=Aunt Petunia|last=classicmarvel.com|website=Classicmarvelforever.com|access-date=August 9, 2017|archive-date=September 21, 2017|archive-url=https://web.archive.org/web/20170921174410/http://www.classicmarvelforever.com/cast/black_panther.htm|url-status=live}}</ref>
+
+===Audio serial===
+[[Serial Box]] Publishing will produce an audio serial starring Black Panther as part of a partnership with Marvel, titled ''Marvel's Black Panther: Sins of the King''.<ref>{{cite web|url=https://deadline.com/2019/02/marvels-black-panther-thor-black-widow-jessica-jones-serial-box-1202566874/|title=Serial Box's New Prize: Marvel's Black Panther, Thor, Black Widow & Jessica Jones In Weekly Content|first1=Geoff|last1=Boucher|date=February 28, 2019|access-date=March 5, 2019|archive-date=September 22, 2022|archive-url=https://web.archive.org/web/20220922064332/https://deadline.com/2019/02/marvels-black-panther-thor-black-widow-jessica-jones-serial-box-1202566874/|url-status=live}}</ref>
+
+==Collected editions==
+
+=== Omnibus ===
+{| class="wikitable"
+|+
+!Title
+!Material collected
+!Published date
+!ISBN
+|-
+|''Black Panther: The Early Marvel Years Omnibus''
+|''Fantastic Four'' (vol. 1) #52-53, 56, 119, ''Captain America'' (vol. 1) #100, ''Avengers'' (vol. 1) #52, 62, 73–74, 77–79, 87, 112, 126, ''Daredevil'' (vol. 1) #52, 69, ''Daredevil Annual'' (vol. 1) #4, ''Marvel Team-Up'' #20, ''Jungle Action'' #6-24, material from ''Fantastic Four'' (vol. 1) #54, ''Tales of Suspense'' #97-99, Astonishing Tales #6-7
+|September 2022
+|{{ISBNT|978-1302945084}}
+|-
+|''Black Panther By Christopher Priest Omnibus''
+|''Black Panther'' (vol. 3) #1-33, ''Deadpool'' (vol. 2) #44, material from ''Marvel Double-Shot'' #2
+|September 2022
+|{{ISBNT|978-1302945015}}
+|-
+|''Black Panther By Ta-Nehisi Coates Omnibus''
+|''Black Panther'' (vol. 6) #1-18, 166–172, ''Black Panther'' (vol. 7) #1-22, material from #23-25
+|August 2022
+|{{ISBNT|978-1302945695}}
+|-
+|''Wakanda: World of Black Panther Omnibus''
+|''Rise of the Black Panther'' #1-6, ''Black Panther: World of Wakanda'' #1-6, ''Black Panther & The Crew'' #1-6, ''Black Panther: Long Live the King'' #1-6, ''Black Panther Annual'' (vol. 7) #1, ''Amazing Spider-Man: Wakanda Forever'', ''X-Men: Wakanda Forever'', ''Avengers: Wakanda Forever'', ''Black Panther vs. Deadpool'' #1-5, ''Shuri'' #1-10, ''Kilmonger'' #1-5, ''Black Panther and the Agents of Wakanda'' #1-8, ''King in Black: Black Panther, The Last Annihilation: Wakanda,'' material from ''Venomverse: War Stories'', ''Marvel Comics'' #1000, ''Marvel's Voices'' #1, ''Marvel's Voices: Legacy,'' ''Black Panther'' (vol. 7) #23-25
+|October 2022
+|{{ISBNT|978-1302946272}}
+|}
+
+===''Marvel Masterworks''===
+{| class="wikitable sortable"
+|-
+! Title
+! Material collected
+! Year
+! ISBN
+|-
+|''Marvel Masterworks: Black Panther Volume 1''
+|''Jungle Action'' #6–22, 24
+|2010
+|{{ISBNT|978-0785141990}}
+|-
+|''Marvel Masterworks: Black Panther Volume 2''
+|''Black Panther'' (vol. 1) #1–15, ''Marvel Premiere'' #51–53, material from ''Marvel Team-Up'' #100
+|2016
+|{{ISBNT|978-1302900205}}
+|}
+
+===''Epic Collection''s===
+{| class="wikitable sortable"
+|-
+! Title
+! Material collected
+! Year
+! ISBN
+|-
+|''Black Panther Epic Collection Volume 1: Panther's Rage''
+|''Fantastic Four'' (vol. 1) #52–53, ''Jungle Action'' #6–22, 24
+|2016
+|{{ISBNT|978-1302901905}}
+|-
+|''Black Panther Epic Collection Volume 2: Revenge of the Black Panther''
+|''Black Panther'' (vol. 1) #1-15, ''Marvel Premiere'' #51-53, ''Black Panther'' (vol. 2) #1-4, material from ''Marvel Team-Up'' #100
+|2019
+|{{ISBNT|978-1302915421}}
+|-
+|''Black Panther Epic Collection Volume 3: Panther's Prey''
+|''Black Panther: Panther's Prey'' #1-4, material from ''Marvel Comics Presents'' #13-37, 148, ''Solo Avengers'' #19, ''Marvel Super Heroes'' (vol. 2) #1, ''Marvel Fanfare'' #60, ''Fantastic Four Unlimited'' #1
+|2021
+|{{ISBNT|978-1302921989}}
+|}
+
+===Volume 1===
+{| class="wikitable sortable"
+|-
+! Title
+! Material collected
+! Year
+! ISBN
+|-
+|''Black Panther by Jack Kirby Volume 1''
+|''Black Panther'' (vol. 1) #1–7
+|2005
+|{{ISBNT|978-0785116875}}
+|-
+|''Black Panther by Jack Kirby Volume 2''
+|''Black Panther''  (vol. 1) #8–13
+|2006
+|{{ISBNT|978-0785120698}}
+|}
+
+===Miniseries===
+{| class="wikitable sortable"
+|-
+! Title
+! Material collected
+! Year
+! ISBN
+|-
+|''Black Panther: Panther's Quest''
+|Material from ''Marvel Comics Presents'' #13-37
+|2018
+|{{ISBNT|978-1302908034}}
+|}
+
+===Volume 3===
+{| class="wikitable sortable"
+|-
+! Title
+! Material collected
+! Year
+! ISBN
+|-
+|''Black Panther Vol. 1: The Client''
+|''Black Panther'' (vol. 3) #1–5
+|2001
+|{{ISBNT|978-0785107897}}
+|-
+|''Black Panther Vol. 2: Enemy of the State''
+|''Black Panther'' (vol. 3) #6–12
+|2002
+|{{ISBNT|978-0785108290}}
+|-
+|''Black Panther by Christopher Priest: The Complete Collection Volume 1''
+|''Black Panther'' (vol. 3) #1–17 
+|2015
+|{{ISBNT|978-0785192671}}
+|-
+|''Black Panther by Christopher Priest: The Complete Collection Volume 2''
+|''Black Panther'' (vol. 3) #18–35, ''Deadpool'' (vol. 3) #44
+|2015
+|{{ISBNT|978-0785198116}}
+|-
+|''Black Panther by Christopher Priest: The Complete Collection Volume 3''
+|''Black Panther'' (vol. 3) #36–49, 57–58, ''Incredible Hulk'' (vol. 3) #33, ''Thor'' (vol. 1) #370, material from ''Marvel Double-Shot'' #2
+|2016
+|{{ISBNT|978-0785195085}}
+|-
+|''Black Panther by Christopher Priest: The Complete Collection Volume 4''
+|''Black Panther'' (vol. 3) #50–56, 59–62, ''The Crew'' #1–7
+|2016
+|{{ISBNT|978-1302900588}}
+|}
+
+===Volume 4===
+{| class="wikitable sortable"
+|-
+! Title
+! Material collected
+! Year
+! ISBN
+|-
+|''Black Panther: Who is the Black Panther?''
+|''Black Panther'' (vol. 4) #1–6
+|2006
+|{{ISBNT|978-0785120483}}
+|-
+|''House of M: World of M featuring Wolverine''
+|''Black Panther'' (vol. 4) #7 and ''Wolverine'' (vol. 3) #33–35, ''Captain America'' (vol. 5) #10, ''The Pulse'' #10
+|2006
+|{{ISBNT|978-0785119227}}
+|-
+|''X-Men/Black Panther: Wild Kingdom''
+|''Black Panther'' (vol. 4) #8–9, ''X-Men'' (vol. 2) #175–176
+|2006
+|{{ISBNT|978-0785117896}}
+|-
+|''Black Panther: Bad Mutha''
+|''Black Panther'' (vol. 4) #10–13
+|2006
+|{{ISBNT|978-0785117506}}
+|-
+|''Black Panther: The Bride''
+|''Black Panther'' (vol. 4) #14–18
+|2006
+|{{ISBNT|978-0785121077}}
+|-
+|''Black Panther: Civil War''
+|''Black Panther'' (vol. 4) #19–25
+|2007
+|{{ISBNT|978-0785122357}}
+|-
+|''Black Panther: Four the Hard Way'' 
+|''Black Panther'' (vol. 4) #26–30
+|2007
+|{{ISBNT|978-0785126553}}
+|-
+|''Black Panther: Little Green Men''
+|''Black Panther'' (vol. 4) #31–34
+|2008
+|{{ISBNT|978-0785126577}}
+|-
+|''Black Panther: Back to Africa''
+|''Black Panther'' (vol. 4) #35–38, ''Annual'' #1
+|2008
+|{{ISBNT|978-0785124528}}
+|-
+|''Black Panther: Secret Invasion'' 
+|''Black Panther'' (vol. 4) #39–41
+|2008
+|{{ISBNT|978-0785133971}}
+|-
+|''Black Panther by Reginald Hudlin: The Complete Collection Vol. 1''
+|''Black Panther'' (vol. 4) #1–18, ''X-Men'' (vol. 2) #175–176
+|2017
+|{{ISBNT|978-1302907716}}
+|-
+|''Black Panther by Reginald Hudlin: The Complete Collection Vol. 2''
+|''Black Panther'' (vol. 4) #19–34, ''Annual'' #1
+| 2018
+|{{ISBNT|978-1302909475}}
+|-
+|''Black Panther by Reginald Hudlin: The Complete Collection Vol. 3''
+|''Black Panther'' (vol. 4) #35–41, ''Black Panther'' (vol. 5) #1–6, ''Black Panther/Captain America: Flags of Our Fathers'' #1–4, ''Black Panther Saga''
+|2018
+|{{ISBNT|978-1302910358}}
+|}
+
+===Volume 5===
+{| class="wikitable sortable"
+|-
+! Title
+! Material collected
+! Year
+! ISBN
+|-
+|''Black Panther: The Deadliest of the Species''
+|''Black Panther'' (vol. 5) #1–6
+|2009
+|{{ISBNT|978-0785133421}}
+|-
+|''Black Panther: Power''
+|''Black Panther'' (vol. 5) #7–12
+|2010
+|{{ISBNT|978-0785138617}} 
+|-
+|''Doomwar''
+|''Doomwar'' #1–6
+|2011
+|{{ISBNT|978-0785147152}}
+|-
+|''Black Panther: Doomwar''
+|''Black Panther'' (vol. 5) #7–12, ''Doomwar'' #1–6, ''Klaws of the Panther'' #1–4, material from ''Age of Heroes'' #4
+|2017
+|{{ISBNT|978-1302904166}}
+|}
+
+===''The Man Without Fear''/''The Most Dangerous Man Alive''===
+{| class="wikitable sortable"
+|-
+! Title
+! Material collected
+! Year
+! ISBN
+|-
+|''Black Panther: The Man Without Fear - Urban Jungle''
+|''Black Panther: The Man Without Fear'' #513–518, material from ''X-Men: Curse of the Mutants Spotlight''
+|2011
+|{{ISBNT|978-0785145233}}
+|-
+|''Black Panther: The Man Without Fear - Fear Itself''
+|''Black Panther: The Man Without Fear'' #519–523, ''Black Panther: The Most Dangerous Man Alive'' #524
+|2012
+|{{ISBNT|978-0785152064}}
+|-
+|''Black Panther: The Most Dangerous Man Alive - The Kingpin of Wakanda''
+|''Black Panther: The Most Dangerous Man Alive'' #523.1, 525–529
+|2012
+|{{ISBNT|978-0785160373}}
+|-
+|''Black Panther: The Man Without Fear – The Complete Collection''
+|''Black Panther: The Man Without Fear'' #513–523, ''Black Panther: The Most Dangerous Man Alive'' #523.1, 524–529
+|2018
+|{{ISBNT|978-1302907723}}
+|}
+
+===Volume 6===
+{| class="wikitable sortable"
+|-
+! Title
+! Material collected
+! Date published
+!  class="unsortable" | ISBN
+|-
+! colspan="4" | Paperback
+|-
+|''A Nation Under Our Feet Book 1''
+|''Black Panther'' (vol. 6) #1–4, ''Fantastic Four'' (vol. 1) #52
+|{{dts|2016-9-13}}
+|{{nowrap|{{ISBNT|978-1302900533}}}}
+|-
+|''A Nation Under Our Feet Book 2''
+|''Black Panther'' (vol. 6) #5–8
+|{{dts|2017-1-24}}
+|{{ISBNT|978-1302900540}}
+|-
+|''A Nation Under Our Feet Book 3''
+|''Black Panther'' (vol. 6) #9–12
+|{{dts|2017-4-25}}
+|{{ISBNT|978-1302901912}}
+|-
+|''Book 4: Avengers of the New World Part 1''
+|''Black Panther'' (vol. 6) #13–18
+|{{dts|2017-11-21}}
+|{{ISBNT|978-1302906498}}
+|-
+|''Book 5: Avengers of the New World Part 2''
+|''Black Panther'' (vol. 6) #166–172
+|{{dts|2018-6-12}}
+|{{ISBNT|978-1302909888}}
+|-
+! colspan="4" | Oversized hardcover
+|-
+|''Vol. 1: A Nation Under Our Feet''
+|''Black Panther'' (vol. 6) #1–12
+|{{dts|2017-8-15}}
+|{{ISBNT|978-1302904159}}
+|-
+|''Vol. 2: Avengers of the New World''
+|''Black Panther'' (vol. 6) #13–18, 166–172
+|{{dts|2018-11-27}}
+|{{ISBNT|978-1302908959}}
+|-
+! colspan="4" | Miscellaneous
+|-
+|''World of Wakanda''
+|''Black Panther: World of Wakanda'' #1–6
+|{{dts|2017-6-27}}
+|{{ISBNT|978-1302906504}}
+|-
+|''Black Panther & the Crew: We Are the Streets''
+|''Black Panther & the Crew'' #1–6
+|{{dts|2017-10-31}}
+|{{ISBNT|978-1302908324}}
+|-
+|''Rise of the Black Panther''
+|''Rise of the Black Panther'' #1–6
+|{{dts|2018-8-14}}
+|{{ISBNT|978-1302908843}}
+|-
+|''Wakanda Forever''
+|''Amazing Spider-Man: Wakanda Forever''; ''X-Men: Wakanda Forever''; ''Avengers: Wakanda Forever''; ''Black Panther Annual'' (vol. 2) #1
+|{{dts|2018-11-6}}
+|{{ISBNT|978-1302913588}}
+|-
+|}
+
+===Volume 7===
+{| class="wikitable sortable"
+|-
+! Title
+! Material collected
+! Date published
+! ISBN
+|-
+! colspan="4" | Paperback
+|-
+|''Black Panther Book 6: The Intergalactic Empire of Wakanda Part 1''
+|''Black Panther'' (vol. 7) #1–6
+|{{dts|2019-2-5}}
+|{{ISBNT|978-1302912932}}
+|-
+|''Black Panther Book 7: The Intergalactic Empire of Wakanda Part 2''
+|''Black Panther'' (vol. 7) #7–12
+|{{dts|2019-8-6}}
+|{{ISBNT|978-1302912949}}
+|-
+|''Black Panther Book 8: The Intergalactic Empire of Wakanda Part 3''
+|''Black Panther'' (vol. 7) #13–18
+|{{dts|2019-12-24}}
+|{{ISBNT|978-1302914462}}
+|-
+|''Black Panther Book 9: The Intergalactic Empire of Wakanda Part 4''
+|''Black Panther'' (vol. 7) #19–25
+|{{dts|2020-8-25}}
+|{{ISBNT|978-1302921101}}
+|-
+! colspan="4" | Oversized hardcover
+|-
+|''Black Panther Vol. 3: The Intergalactic Empire of Wakanda Part One''
+|''Black Panther'' (vol. 7) #1–12
+|{{dts|2020-8-11}}
+|{{ISBNT|978-1302925314}}
+|}
+
+==See also==
+* [[African characters in comics]]
+* [[American comic book]]s
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Marvelwiki|black-panther-t-challa|Black Panther}}
+* [https://www.marvel.com/articles/comics/the-origin-of-black-panther-and-wakanda The Origin of Black Panther and Wakanda]
+* [http://www.marveldirectory.com/individuals/b/blackpanther.htm Black Panther] at the Marvel Directory
+* {{Comicbookdb|type=character|id=391|title=Black Panther}}
+* {{isfdb series|56612}}
+* [https://comicvine.gamespot.com/black-panther/4005-1477 Black Panther] at Comic Vine
+* [https://marvel.fandom.com/wiki/T'Challa_(Earth-616) T'Challa] at Marvel Wiki
+* [http://worldofblackheroes.com/2010/05/31/black-panther-tchalla/ World of Black Heroes: Black Panther–T'challa Biography]
+
+{{Black Panther}}
+{{Avengers characters}}
+{{Fantastic Four}}
+{{Ka-Zar}}
+{{Ultimates 2015}}
+{{Jack Kirby}}
+{{Stan Lee}}
+{{Portal bar|Comics|Speculative fiction}}
+{{authority control}}
+
+{{DEFAULTSORT:Black Panther (Comics)}}
+[[Category:1977 comics debuts]]
+[[Category:African superheroes]]
+[[Category:Afrofuturism]]
+[[Category:Avengers (comics) characters]]
+[[Category:Black Panther (Marvel Comics)| ]]
+[[Category:Black characters in animation]]
+[[Category:Black characters in films]]
+[[Category:Black people in comics]]
+[[Category:Characters created by Jack Kirby]]
+[[Category:Characters created by Stan Lee]]
+[[Category:Comics characters introduced in 1966]]
+[[Category:Fictional characters with superhuman senses]]
+[[Category:Fictional kings]]
+[[Category:Fictional princes]]
+[[Category:Fictional professional hunters]]
+[[Category:Fictional scientists]]
+[[Category:Fictional tribal chiefs]]
+[[Category:Jungle (genre) comics]]
+[[Category:Jungle superheroes]]
+[[Category:Male characters in animation]]
+[[Category:Male characters in film]]
+[[Category:Marvel Comics adapted into films]]
+[[Category:Marvel Comics characters who can move at superhuman speeds]]
+[[Category:Marvel Comics characters with accelerated healing]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics film characters]]
+[[Category:Marvel Comics male superheroes]]
+[[Category:Marvel Comics martial artists]]
+[[Category:Marvel Comics mutates]]
+[[Category:Wakandans]]

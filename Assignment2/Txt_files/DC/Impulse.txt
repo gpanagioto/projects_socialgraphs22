@@ -1,0 +1,5 @@
+#REDIRECT [[Bart Allen]]
+
+{{Rcat shell|
+{{R to related topic}}
+}}

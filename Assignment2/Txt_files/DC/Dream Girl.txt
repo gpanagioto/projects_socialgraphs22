@@ -1,0 +1,114 @@
+{{short description|DC comics universe character}}
+{{Infobox comics character
+<!--Wikipedia:WikiProject Comics-->
+| character_name = Dream Girl
+| image          = [[File:Nura Nal as Dream Girl.jpg]]
+| imagesize      = <!-- default 250 -->
+| noimage=
+| caption        = Nura Nal as Dream Girl drawn by [[Greg LaRocque]] and [[Mike DeCarlo]] in ''Legion of Super-Heroes'' (vol. 3) #42 (January 1988).
+| publisher      = [[DC Comics]]
+| debut          = ''Adventure Comics'' #317 (February 1964)
+| creators       = [[Edmond Hamilton]] (script)<br>[[John Forte]] (art)
+| alter_ego      = Nura Nal
+| full_name      = 
+| species        = [[List of alien races in DC Comics#Naltorians|Naltorian]]
+| homeworld      = Naltor
+| alliances      = [[Legion of Super-Heroes]]<br/>[[Legion of Substitute Heroes]]
+| partners       = <!-- optional -->
+| supports       = <!-- optional -->
+| aliases        = Miss Terious, Dreamer, Dreamy, High seer of Naltor
+| powers         = '''Powers:'''
+* Precognitive dreams
+* Astral projection
+* Oneiromancy
+* Precognition
+'''Abilities:'''
+* Genius level intellect
+* Hand-to-hand combat
+* Leadership
+* Meditation
+'''Equipment:'''
+* Legion flight ring 
+
+| cat            = superheroes
+| subcat         = DC Comics
+| hero           = 
+| villain        = 
+| sortkey        = Dream Girl
+| addcharcat#    = 
+}}
+'''Dream Girl''' ('''Nura Nal''') is a [[fictional character|fictional]] comic book superhero appearing in books published by [[DC Comics]]. A member of the [[Legion of Super-Heroes]] in the 30th and 31st centuries, the character was created by writer [[Edmond Hamilton]] and artist [[John Forte]], and first appeared in ''Adventure Comics'' #317.<ref name="dc-ency">{{Citation | last = Greenberger | first = Robert | author-link = Robert Greenberger | contribution = Dream Girl | editor-last = Dougall | editor-first = Alastair | title = The DC Comics Encyclopedia | pages = 111 | publisher = [[Dorling Kindersley]] | place = New York | year = 2008 | isbn = 978-0-7566-4119-1 | oclc = 213309017}}</ref>
+
+==Fictional character biography==
+===Original version===
+Nura's home planet is Naltor, where virtually all the inhabitants possess [[precognition|precognitive]] abilities. After foreseeing the deaths of several Legionnaires, she crafted an elaborate plan to save their lives.<ref>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Manning |first3=Matthew K. |last4=McAvennie |first4=Michael |last5=Wallace |first5=Daniel |title=DC Comics Year By Year: A Visual Chronicle |date=2019 |publisher=DK Publishing |isbn=978-1-4654-8578-6 |page=104}}</ref> As part of that plan, she used Naltorian science, of which she was an expert, to change the powers of [[Ayla Ranzz]] from lightning casting to the ability to make objects super lightweight. For many years thereafter, Ayla, who had been known as Lightning Lass, became Light Lass.
+
+The Legionnaires she foresaw dying were actually robot doubles. Having joined the team under false pretenses, she left the Legion temporarily and became a member of the [[Legion of Substitute Heroes]].<ref>{{cite book |last1=Cadigan |first1=Glen |title=The Best of the Legion Outpost |date=2004 |publisher=TwoMorrows Publishing |isbn=9781893905368 |page=54}}</ref> There she was reunited with [[Thom Kallor|Star Boy]], with whom she had become romantically involved. Star Boy had previously been expelled from the Legion for the self-defense killing of Nura's former love, Naltorian Kenz Nahor, who had tried to kill Star Boy over jealousy of his relationship with Nura.<ref name="dc-ency"/>
+
+Years later, Dream Girl served as Legion leader (only the second female Legionnaire to do so), with her first mission being perhaps the Legion's greatest challenge: defending the [[United Planets]] from an assault by the ancient villain [[Darkseid]]. Her sister Mysa, the [[White Witch (comics)|White Witch]], also served as a Legionnaire. Her mother Kiwa Nal was the High Seer of Naltor (Naltor's leader); the identity of her father was unrevealed.
+
+Dream Girl's mastery of Naltorian science placed her in an elite group. Among the Legionnaires, her scientific prowess was surpassed only by [[Brainiac 5]] and the original [[Invisible Kid]], and perhaps equaled only by [[Mon-El]]. Additionally, she compensated for the non-physical nature of her powers by engaging in numerous training sessions with [[Karate Kid (comics)|Karate Kid]]. Eventually, no Legionnaire was more skilled in nonpowered hand-to-hand combat except Karate Kid himself and Timber Wolf.
+
+===Reboot version===
+After the events of the ''[[Zero Hour (comics)|Zero Hour]]'' mini-series, the Legion's continuity was completely rebooted. The second version of Nura claimed that her name was Nura Schappin, changing her surname to Nal because, as she put it: "It just says I'm from Naltor y'know". She also claimed to have been the first [[precognition|precognitive]] to be born on Naltor in seven generations, a claim that was later contradicted by other post-''Zero Hour'' Legion stories.
+
+For most of this continuity's duration, Nura was not a Legionnaire, although she was still [[Thom Kallor|Star Boy]]'s girlfriend. Additionally, she suffered from [[narcolepsy]], falling unconscious whenever she had a vision. She was no longer the sister of Mysa, who was completely unrelated to her in this continuity. Eventually, Nura gained Legion membership under the codename '''Dreamer''', shortly before the Legion's continuity was rebooted again in 2005.
+
+===2005 reboot===
+In the 2005 reboot, her codename returned to Dream Girl. In this continuity, she sometimes loses track of events in the present when tracking a future event (she once failed to get involved in a fight because she thought it had already happened).
+
+Brainiac 5 was initially shown as resenting her ability to simply "know" things that he had to deduce, and he once questions her abilities. Her response is a prediction that they would be married.{{Issue|date=March 2009}}
+
+She later appears to have been killed in battle; however, Brainiac 5 places her body in stasis and works to revive her. Although he fails to fully resurrect her, she becomes a spirit with the ability to appear to anyone in their dreams or daydreams.<ref name="dc-ency"/>
+
+At first dismissed as a delusion in the mind of the grieving Brainiac 5 (he even claims that his "Nura" may be a facet of his intuitive subconscious, appearing to him while daydreaming in a form suited to appease his tastes<ref name="issue47">{{Cite comic|writer=[[Jim Shooter|Shooter, Jim]]|penciller=[[Rick Leonardi|Leonardi, Rick]]|inker=[[Dan Green (artist)|Green, Dan]]|story=Dream Wedding, Blind Love|title=Legion of Super-Heroes|volume=5|issue=47|date=December 2008|publisher=[[DC Comics]]|location=New York, NY}}</ref>), Nura's presence in Brainiac 5 mind becomes a well-known fact, worrying [[Princess Projectra]], who, in a bid to destroy the Legion for their inability to save [[Orando]], fears Nura's precognitive sight. When Brainiac 5 has a female spirit medium [[Mediumship#Channeling|channel]] Nura's mind enough to share some physical intimacy, Projectra uses her powers on the [[Id, ego, and super-ego|id]] to have the inhibitions and urges in Brainiac 5's mind viciously attack Nura when she returns to his body. Despite Querl's valiant effort to control them, the urges gouge out Nura's eyes, blinding her at a spiritual level, stripping the girl of both her physical and precognitive sight, a fate to which she is quietly resigned, as long as she can still be with her lover.<ref name="issue47"/> Nura is later revived by Brainiac 5 by transferring her consciousness back in a renewed, cloned version of her original body, restoring her powers and sight. They both decide to go on with their marriage.<ref>{{Cite comic|writer=Thyme, Justin|penciller=Bachs, Ramon|inker=Livesay, John|story=Enemy Manifest (Conclusion) - Hack The Infinity Net!|title=Legion of Super-Heroes|volume=5|issue=50|date=March 2009|publisher=[[DC Comics]]|location=New York, NY}}</ref>
+
+Nura is replaced in the Legion by a male Naltorian named Rol Purtha, a.k.a. [[Dream Boy (comics)|Dream Boy]].
+
+===Post-Infinite Crisis===
+The events of the 2005–2006 "[[Infinite Crisis]]" storyline apparently restored a close analogue of the Pre-[[Crisis on Infinite Earths|Crisis]] Legion continuity, as seen in "[[The Lightning Saga]]" story arc in ''[[Justice League of America]]'' and ''[[Justice Society of America]]'', and in the "[[Superman and the Legion of Super-Heroes (comics)|Superman and the Legion of Super-Heroes]]" story arc in ''[[Action Comics]]''. Dream Girl is included in their number. In this incarnation, her powers are implied to be linked to the realm of [[Dreaming (comics)|the Dreaming]], ruled by [[Dream (comics)|Dream]] of [[Endless (comics)|the Endless]]. It is later revealed that Dream Girl somehow passed on her prophetic knowledge to Thom Kallor.{{Issue|date=March 2009}}
+
+In "The Lightning Saga" storyline, Dream Girl was one of the Legionnaires sent to the 21st Century to capture the essence of [[Bart Allen]] in a lightning rod before his death. She was found within [[Arkham Asylum]] as a prisoner of [[Dr. Destiny]], who used her powers as his new "dreamstone".
+
+Dream Girl is among the missing Legion members as of the "Superman and the Legion of Super-Heroes" storyline. In that story and in the subsequent ''[[Legion of 3 Worlds]]'' miniseries, it is revealed that Dream Girl had prophetic visions of [[Superboy-Prime]] as the harbinger of a "Crisis of the 31st Century", which prompted Brainiac 5 to concoct the contingency plan to defeat Prime, including the resurrection of Bart Allen.
+
+Dream Girl last appeared in a preview in ''[[Adventure Comics]]'' (vol. 2) #1, seemingly back in the 21st Century and imprisoned in a device.
+
+===Post-Rebirth===
+In the 2019 reboot of the Legion of Super-Heroes, when Nura Nal is recruited as a Legionnaire and is nicknamed Dream Girl, at first they questioned the use of "girl", showing that they don't necessarily see themself in that gender, but ended up agreeing.<ref>''Legion of Super-Heroes'' (vol. 8) #8 (2020). DC Comics.</ref> Although recognized as a woman, Nura is referred to with the gender neutral pronoun "they".<ref>''Legion of Super-Heroes'' (vol. 8) #9 (2020). DC Comics.</ref>
+
+==Powers and abilities==
+Like all natives of Naltor, Nura has the power to see the future and experience visions in dreams; she is rated one of the most powerful precognitives on the planet. Her hand-to-hand fighting skills—having trained with [[Karate Kid (comics)|Karate Kid]]—combined with her ability to glimpse seconds into the future, made her a formidable short-term opponent in battle, capable of taking on [[Persuader (comics)|The Persuader]], but the sheer number of expanding possible futures in each second of a battle made it difficult for her to keep the advantage. Her precognitive abilities also give her an edge in strategic planning.
+
+Nura is a skilled scientist, specializing in biology; when Brainiac 5 quits the Legion after being acquitted of murdering the Infinite Man, team leader [[Polar Boy]] asks her to consider becoming the Legion's chief scientist. She is highly charismatic, capable of convincing men and women to do what she wants, and guided the Legion as leader through Darkseid's awakening in the Legion's time.
+
+===Equipment===
+As a member of the [[Legion of Super-Heroes]] she is provided a Legion Flight Ring. It allows her to fly and protects her from the vacuum of space and other dangerous environments. On at least one occasion, she was able to exert her extraordinary willpower to extend the Legion flight ring's anti-grav power to other objects, as if using telekinesis.
+
+==Other versions==
+Nura Nal is featured in the ''[[Smallville|Smallville Season 11]]'' digital comic based on the [[Smallville|TV series]].
+
+==In other media==
+* In ''[[Superman: The Animated Series]]'', Dream Girl made a cameo appearance in the episode "New Kids in Town".
+* Dream Girl is featured in ''[[Legion of Super-Heroes (TV series)|Legion of Super-Heroes]]'' voiced by [[Tara Platt]]. She was featured in screen cameos. In the episode "In Your Dreams", Dream Girl plays a part in helping the Legion of Super Heroes to predict where the [[Dark Circle]] will strike. Soon, the Dark Circle takes interest in her and orchestrate her kidnapping in order to use her to their advantage.
+* '''[[Nia Nal|Nia Nal / Dreamer]]''', a character inspired by and depicted as the ancestor of Nura Nal / Dream Girl, appears in the [[Supergirl (season 4)|fourth season]] of [[The CW]] series ''[[Supergirl (TV series)|Supergirl]]'' and is portrayed by [[Nicole Maines]]. She is the first transgender superhero on television.<ref>{{Cite news|url=https://ew.com/tv/2018/07/21/supergirl-nicole-maines-casting-first-transgender-superhero/|title=''Supergirl'' casts Nicole Maines as TV's first transgender superhero|last=Agard|first=Chancellor|date=July 21, 2018|website=[[Entertainment Weekly]]|access-date=July 22, 2018|language=en}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://majorspoilers.com/2007/07/01/hero-history-dream-girl/ A Hero History Of Dream Girl]
+* [http://www.members.shaw.ca/legion_roll_call/legionnaires/dream_girl/ Dream Girl of the Legion of Super-Heroes], the [[Silver Age of Comic Books|Silver Age]] Dream Girl
+
+{{Legion of Super-Heroes}}
+{{Superman characters}}
+[[Category:Characters created by Edmond Hamilton]]
+[[Category:Characters created by John Forte]]
+[[Category:Comics characters introduced in 1964]]
+[[Category:DC Comics aliens]]
+[[Category:DC Comics extraterrestrial superheroes]]
+[[Category:DC Comics female superheroes]]
+[[Category:DC Comics LGBT superheroes]] 
+[[Category:DC Comics characters who have mental powers]]
+[[Category:Fictional characters with precognition]]
+[[Category:Fictional non-binary people]]

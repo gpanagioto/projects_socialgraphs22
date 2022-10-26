@@ -1,0 +1,65 @@
+{{short description|Fictional character appearing in Marvel Comics}}
+{{notability|date=July 2018}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|image=Farley Stillwell (Earth-616) from Amazing Spider-Man Vol 1 20 001.png
+|caption=
+|character_name=Dr. Farley Stillwell
+|real_name=
+|species=Human
+|publisher=[[Marvel Comics]]
+|debut=''[[The Amazing Spider-Man]]'' #20 (1965)
+|creators=[[Stan Lee]]<br>[[Steve Ditko]]
+|alliances=
+|aliase=
+|powers=Scientific genius
+}}
+'''Farley Stillwell''' is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]]. He is a scientist best known for transforming [[Mac Gargan]] into the [[Scorpion (Marvel Comics)|Scorpion]].
+
+==Publication history==
+Stillwell first appeared in ''[[The Amazing Spider-Man]]'' #20 and was created by [[Stan Lee]] and [[Steve Ditko]].
+
+==Fictional character biography==
+When [[J. Jonah Jameson]] first hired [[Spider-Man|Peter Parker]], he was amazed at how he managed to obtain pictures of Spider-Man. He hired private investigator [[Mac Gargan]] to look into this. When Jameson saw an article about inducing animal mutations into humans, he visited the scientist that established this experiment: Dr. Farley Stillwell. Jameson first thought Stillwell was a [[crank (person)|crackpot]], but later saw him as an opportunity to take down Spider-Man. When he first went to see Dr. Stillwell in his lab, Jameson had him experiment on Gargan. Stillwell gave Gargan a high-tech scorpion-suit, and the Scorpion was born.<ref name="asm20">''The Amazing Spider-Man'' #20</ref>
+
+Shortly after the experiment, Stillwell ran some tests and found that his experiment wasn't a true success. He discovered that Scorpion would lose his sanity as he got stronger. Creating an antidote, Stillwell headed to where Spider-Man was fighting the Scorpion. Upon learning the side effects of the formula from Stillwell, Scorpion didn't want to lose his powers and climbed up a building. Stillwell went up after him and lost his grip. As he fell, Dr. Stillwell threw the serum at Gargan in a vain attempt to cure him. He missed and fell to his death.<ref name="asm20"/>
+
+===Legacy===
+It was later revealed that he had a brother named Harlan Stillwell who used the experiment to create the [[Human Fly (comics)|Human Fly]] after being held at gunpoint by Richard Deacon. After Richard became the Human Fly, he shot Harlan.<ref>''The Amazing Spider-Man Annual'' #10</ref>
+
+The Stillwell brothers' technology would also later be used to give superpowers to the [[Answer (comics)|Answer]],<ref>{{Cite comic|writer = Danny Fingeroth|penciller = Scott McDaniel|inker = Brad Vancata|colorist = Dave Sampson|letterer = Diana Albers|editor = Rob Tokar|story = Deadly Reunion|title = The Lethal Foes of Spider-Man|volume = 1|issue = #1|date = September 1993|publisher = Marvel Comics|location = United States}}</ref> and the fourth [[Vulture (Marvel Comics)|Vulture]].<ref>{{Cite comic|writer = Mark Waid and Tom Peyer|penciller = Paul Azaceta and Javier Rodriguez|inker = Paul Azaceta and Javier Rodriguez|colorist = Andres Mossa|letterer = Joe Caramagna|editor = Tom Brennan, Tom Brevoort, and Stephen Wacker|title = The Amazing Spider-Man|volume = 1|issue = #624|date = 10 March 2010|publisher = Marvel Comics|location = United States}}</ref>
+
+==Other versions==
+===House of M===
+* In the ''[[House of M]]'' reality, Stillwell appears in a flashback as one of the scientists (along with [[Jonas Harrow]] and [[Michael Morbius]]) who experimented on [[Luke Cage]].<ref>''House of M: Avengers'' #1</ref>
+
+==In other media==<!--'Neogenic Recombinator', 'Neogenic recombinator', and 'Neogenic (comics)' redirect here-->
+===Television===
+* Dr. Farley Stillwell appears in the 1960s ''[[Spider-Man (1967 TV series)|Spider-Man]]'' animated series, voiced by Tom Harvey.<ref>[http://voicechasers.com/database/showactor.php?actorid=7319 Tom Harvey] {{Webarchive|url=https://web.archive.org/web/20120311122907/http://voicechasers.com/database/showactor.php?actorid=7319 |date=2012-03-11 }}, voicechasers.com, retrieved 23 Jan 2010</ref> In the episode "Never Step on Scorpion", he is hired by J. Jonah Jameson to transform Mac Gargan into the Scorpion. In "Sting of the Scorpion", Scorpion arrives at Stillwell's lab and drinks a serum that increases his strength and size, destroying the lab in the process.
+* Dr. Farley Stillwell makes a [[cameo appearance]] in ''[[The Amazing Spider-Man (TV Series)|The Amazing Spider-Man]]'' episode "Wolfpack".
+* Dr. Farley Stillwell appears in ''[[Spider-Man (1994 TV series)|Spider-Man: The Animated Series]]'', voiced by [[Michael Rye]].<ref>[https://www.imdb.com/character/ch0036440/ Dr. Farley Stillwell], [[IMDb]], retrieved 17 Jan 2010</ref> In "Sting of the Scorpion", J. Jonah Jameson hires him to turn Mac Gargan into the Scorpion. Gargan later demands that Stillwell restore him to his former self, but the latter reveals he is unable to, which led to him being knocked out and hospitalized. In a flashback in "Make a Wish", Stillwell was the scientist that led an experiment involving '''neogenic'''<!--boldface per WP:R#PLA--> research,<ref name=Hague>Ian Hague, ''Comics and the Senses: A Multisensory Approach to Comics and Graphic Novels'', Routledge, 2014, ch. 2: "Sight, or, the Ideal Perspective and the Physicality of Seeing".</ref> that led to Peter Parker becoming Spider-Man. In "The Final Nightmare," Scorpion abducts Stillwell from the hospital so he can force him to use the '''neogenic recombinator'''<!--boldface per WP:R#PLA--> to change him back, but ends up. After getting into a fight with Spider-Man and [[Vulture (Marvel Comics)|Vulture]], Stillwell attempts to destroy the machine, but [[Lizard (comics)|Dr. Curt Connors]] tries to intervene, only to turn into the Lizard and attack him.<ref name=Hague/><ref>The fictional item also appeared in ''Spider-Man Adventures'' #1 (December 1994).</ref> Though Spider-man defeats him, Stillwell overloads the recombinator's transformer and causes it to explode before disappearing to make sure no one can use his neogenic research again.
+
+===Video games===
+* An evil female version of Dr. Stillwell appears in the ''[[Spider-Man 3 (video game)|Spider-Man 3]]'' video game, voiced by [[Nika Futterman]]. This version is the head of a science corporation called MechaBioCon who captured Scorpion when he came to her to have his mechanical tail removed. Stillwell used him as a subject for her experiments in military cybernetics and mind control, turning him into an obedient living weapon. She orders Scorpion to break [[Rhino (comics)|the Rhino]] out of a prison transport to become her bodyguard. After Spider-Man defeats Scorpion and frees him from the mind control, the two work together to strike back at Stillwell, who has taken Dr. Jessica Andrews, Scorpion's love interest, hostage. Upon defeating Rhino with Spider-Man's help, Scorpion saves Dr. Andrews and attempts to kill Stillwell, but Spider-Man and Dr. Andrews convince him not to. As Scorpion flees, Spider-Man leaves Stillwell for the police.
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Marvelwiki|Stillwell,_Farley|Farley Stillwell}}
+* [https://marvel.fandom.com/wiki/Farley_Stillwell_%28Earth-616%29 Farley Stillwell] at Marvel Wiki
+* [http://comicvine.gamespot.com/dr-stillwell/4005-80299/ Farley Stillwell] at Comic Vine
+* [http://www.marvunapp.com/Appendix6/stillwellfarleyspdrmn.htm Farley Stillwell] at Marvel Appendix
+
+{{Spider-Man}}
+{{Spider-Man characters}}
+{{Stan Lee}}
+{{Steve Ditko}}
+
+{{DEFAULTSORT:Stillwell, Farley}}
+[[Category:Characters created by Stan Lee]]
+[[Category:Characters created by Steve Ditko]]
+[[Category:Comics characters introduced in 1965]]
+[[Category:Fictional scientists]]
+[[Category:Marvel Comics supervillains]]
+[[Category:Marvel Comics male supervillains]]
+[[Category:Spider-Man characters]]

@@ -1,0 +1,5 @@
+#REDIRECT [[Hugin and Munin (characters)]]
+
+{{Redirect category shell|
+{{R from move}}
+}}

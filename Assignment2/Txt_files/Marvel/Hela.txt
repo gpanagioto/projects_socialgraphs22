@@ -1,0 +1,5 @@
+#REDIRECT [[Hela (character)]]
+
+{{Redirect category shell|
+{{R from move}}
+}}

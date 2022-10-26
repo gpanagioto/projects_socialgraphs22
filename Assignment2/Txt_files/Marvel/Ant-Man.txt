@@ -1,0 +1,90 @@
+{{Short description|Comic book superhero}}
+{{Other uses|Antman (disambiguation){{!}}Antman}}
+{{Use mdy dates|date=June 2014}}
+{{Infobox comics character<!--Wikipedia:WikiProject Comics-->
+|character_name  = Ant-Man
+|image      = Irredeemable Ant-Man Vol 1 5 Textless.jpg
+|imagesize  = <!-- default 250 -->
+|caption    = [[Mitchell Carson]] and [[Eric O'Grady]] on the cover of ''[[Irredeemable Ant-Man]]'' vol. 1 #5 (April 2007). Art by [[Phil Hester (comics)|Phil Hester]]
+|publisher  = [[Marvel Comics]]
+|debut      = ''[[Tales to Astonish]]'' #27 (January 1962)
+|debutyr1   =
+|creators = [[Stan Lee]]<br/>[[Larry Lieber]]<br />[[Jack Kirby]]
+|real_name = [[Hank Pym]]<br />[[Ant-Man (Scott Lang)|Scott Lang]]<br />[[Eric O'Grady]]<br />Zayn Asghar
+|alliances = [[Avengers (comics)|Avengers]]
+|powers = 
+*Superhuman strength and agility
+*Leading authority in [[myrmecology]] research
+*Size-shifting from nearly microscopic to ~100 feet gigantic (both at extremes)
+*Maintains strength of normal size in shrunken state
+}}
+'''Ant-Man''' is the name of several [[superhero]]es appearing in books published by [[Marvel Comics]]. Created by [[Stan Lee]], [[Larry Lieber]] and [[Jack Kirby]], Ant-Man's first appearance was in ''[[Tales to Astonish]]'' #27 (January 1962) but first appeared in costume in ''[[Tales to Astonish]]'' #35 (September 1962). The persona was originally the brilliant scientist [[Hank Pym]]'s superhero alias after inventing a substance that can change size, but reformed thieves [[Ant-Man (Scott Lang)|Scott Lang]] and [[Eric O'Grady]] also took on the mantle after the original changed his superhero identity to various other aliases, such as [[Giant-Man]], [[Goliath (Marvel Comics)|Goliath]], and [[Yellowjacket (Marvel Comics)|Yellowjacket]]. Pym's Ant-Man is also a founding member of the super hero team known as the [[Avengers (comics)|Avengers]]. The character has appeared in several films based on the Marvel character, such as ''[[Ant-Man (film)|Ant-Man]]'' (2015), ''[[Captain America: Civil War]]'' (2016), ''[[Ant-Man and the Wasp]]'' (2018), ''[[Avengers: Endgame]]'' (2019) and upcoming ''[[Ant-Man and the Wasp: Quantumania]]''.
+
+==Fictional character biography==
+Over the years a number of different characters have assumed the title of Ant-Man, most of whom have been connected with the [[Avengers (comics)|Avengers]].
+
+===Hank Pym===
+{{main|Hank Pym}}
+The original Ant-Man was Biophysicist and Security Operations Center expert Dr. Henry 'Hank' Pym; who decided to become a superhero after the death of his first wife '''Maria Trovaya''', who had been a political dissident in Hungary. Falling in love with him and believing that his American citizenship would protect her, Maria traveled with Hank to Hungary shortly after their marriage to start their new life together. Unfortunately they were confronted by corrupt agents of the secret police. Hank was knocked unconscious and Maria was murdered. Pym was greatly distraught by his wife's death, and decided to do whatever he could in the future to battle injustice. After discovering a chemical substance, which he called Pym Particles, that would allow the user to alter his size, he armed himself with a helmet that could control ants. After that, Pym would shrink down to the size of an insect to become the mystery-solving Ant-Man, solving crimes and stopping criminals.<ref name="IGN Hank Bio">{{cite web | url = http://stars.ign.com/objects/924/924202_biography.html | title = Henry Pym Biography | access-date = April 18, 2011 | work = IGN | archive-url = https://archive.today/20130126003441/http://stars.ign.com/objects/924/924202_biography.html | archive-date = January 26, 2013 | url-status = dead | df = mdy-all }}</ref> He soon shared his discovery with his new girlfriend [[Janet van Dyne]], who became his crime-fighting partner The Wasp, when he helped her avenge the death of her scientist father Vernon van Dyne who was killed by an alien unleashed by one of Vernon's own experiments.<ref name='invasionillumination'>{{cite web | url = http://marvel.com/news/story/3725/secret_invasion_illumination_hank_pym | archive-url = https://archive.today/20130128062751/http://marvel.com/news/story/3725/secret_invasion_illumination_hank_pym | url-status = dead | archive-date = January 28, 2013 | title = Secret Invasion Illumination | access-date = April 18, 2011 | date = May 30, 2008 | work = Marvel.com }}</ref> The duo would become founding members of the [[Avengers (comics)|Avengers]], fighting recurring enemies such as the mad scientist [[Egghead (Marvel Comics)|Egghead]], the mutant [[Whirlwind (comics)|Whirlwind]], and Pym's own robotic creation [[Ultron]].<ref>{{cite web | url = http://marvel.com/news/story/6469/psych_ward_hank_pym | title = Psych Ward: Hank Pym | access-date = April 18, 2011 | date = December 29, 2008 | work = Marvel.com | archive-url = https://web.archive.org/web/20110423110120/http://marvel.com/news/story/6469/psych_ward_hank_pym | archive-date = April 23, 2011 | url-status = live | df = mdy-all }}</ref> While Pym is the original Ant-Man, he has adopted other aliases over the years including [[Giant-Man]], [[Goliath (Marvel Comics)|Goliath]], [[Yellowjacket (Marvel Comics)|Yellowjacket]],<ref name='invasionillumination'/> and Wasp after Janet's presumed death in ''[[Secret Invasion]]''.<ref>{{cite web | url = http://marvel.com/news/story/9634/mighty_avengers_assemble | title = Mighty Avengers: Assemble | access-date = April 18, 2011 | date = October 7, 2009 | work = Marvel.com | archive-url = https://web.archive.org/web/20121021052035/http://marvel.com/news/story/9634/mighty_avengers_assemble | archive-date = October 21, 2012 | url-status = live | df = mdy-all }}</ref> Leaving his original persona vacant, his successors have taken up the Ant-Man role while Pym explored these other identities.
+
+===Scott Lang===
+{{main|Ant-Man (Scott Lang)}}
+Scott Lang was a thief who became Ant-Man after stealing the Ant-Man suit to save his daughter [[Cassandra Lang|Cassandra "Cassie" Lang]] from a heart condition.<ref name="friday 13"/> Reforming from his life of crime, Lang soon took on a full-time career as Ant-Man with the encouragement of Hank Pym.<ref name="IGN Lang">{{cite web | url = http://stars.ign.com/objects/924/924272_biography.html | title = Ant Man (Scott Lang) Biography | access-date = April 18, 2011 | work = IGN | archive-url = https://archive.today/20130125235232/http://stars.ign.com/objects/924/924272_biography.html | archive-date = January 25, 2013 | url-status = dead | df = mdy-all }}</ref> He became an affiliate of the [[Fantastic Four]],<ref name="take 10">{{cite web | url = http://marvel.com/news/story/13757/take_10_replacement_ff_members | title = Take 10: Replacement FF Members | access-date = April 18, 2011 | date = August 25, 2010 | work = Marvel.com | archive-url = https://web.archive.org/web/20110412060544/http://marvel.com/news/story/13757/take_10_replacement_ff_members | archive-date = April 12, 2011 | url-status = live | df = mdy-all }}</ref> and later became a full-time member of the Avengers. For a period of time he dated [[Jessica Jones]].<ref name='friday 13'>{{cite web | url = http://marvel.com/news/story/1294/marvels_5_unluckiest_heroes_a_friday_the_13th_special_report | title = Marvel's 5 Unluckiest Heroes: A Friday the 13th Special Report | access-date = April 18, 2011 | date = July 17, 2007 | work = Marvel.com | archive-url = https://web.archive.org/web/20121021051812/http://marvel.com/news/story/1294/marvels_5_unluckiest_heroes_a_friday_the_13th_special_report | archive-date = October 21, 2012 | url-status = live | df = mdy-all }}</ref> He was killed by the [[Scarlet Witch]] along with the [[Vision (Marvel Comics)|Vision]] and [[Hawkeye (Clint Barton)|Hawkeye]] in ''[[Avengers Disassembled]]'',<ref>''Avengers #500'' (September 2004)</ref> and his daughter took up his heroic mantle as Stature in the book ''[[Young Avengers]]''. He returned to life in 2011 in the mini series, ''The Children's Crusade'', but lost his daughter when she heroically sacrificed herself to stop a super charged [[Doctor Doom]], who would later revive her during the [[AXIS (comics)|AXIS]].
+===Eric O'Grady===
+{{main|Eric O'Grady}}
+Eric O'Grady is the third character to take up the Ant-Man title. O'Grady is a low-level agent of [[S.H.I.E.L.D.]] who stumbles upon the Ant-Man suit in S.H.I.E.L.D.'s headquarters.<ref name="auto">''Irredeemable Ant-Man'' #1 (October 2006)</ref> A man of few morals and willing to lie, cheat, steal and manipulate in order to get ahead in life, Eric stole the armor for his own selfish plans, which included using his status as a "super-hero" to seduce women<ref name="auto1">''Irredeemable Ant-Man'' #2 (November 2006)</ref> and humiliate and torment others.<ref>''Irredeemable Ant-Man'' #3 (December 2006)</ref> He had his own short-lived title before being part of other teams such as joining ''Avengers: The Initiative'' as his first team and then joining ''The Thunderbolts'' but more recently ''Secret Avengers'', where the character perished heroically while defending a child against the villain known as Father.
+
+===Tony Stark of Earth-818===
+{{main|Iron Man#Earth-818}}<!--REMOVE WHEN THIS CHARACTER DEBUTS
+===Zayn Asghar===-->
+
+==In other media==
+{{See also|Hank Pym#In other media|Scott Lang#In other media|Eric O'Grady#In other media}}
+===Television===
+<!--PLEASE DO NOT ADD MORE INFORMATION. IT IS ALREADY LISTED IN THE CHARACTERS' RESPECTIVE DEDICATED PAGES.-->
+* The Hank Pym incarnation of Ant-Man appears in ''[[The Marvel Super Heroes]]'' animated series.
+* The Hank Pym incarnation of Ant-Man appears in a 1979 [[Saturday Night Live]] sketch, portrayed [[Garrett Morris]].<ref>{{cite web|url=http://www.cbr.com|title=Garrett Morris in Ant-Man{{spnd}}Henry Pym|website=Comic Book Resources|access-date=22 July 2015|archive-url=https://www.cbr.com/why-did-garrett-morris-have-a-cameo-in-ant-man-its-a-funny-story/amp/|archive-date=22 July 2015|url-status=live}}</ref>
+*An ''Ant-Man'' TV series was one of several planned TV shows from Marvel in 1980's.<ref>{{cite web|url=http://robot6.comicbookresources.com/2013/03/uncovering-marvels-lost-80s-cartoon-pitches/|title=Uncovering Marvel's Lost '80s Cartoon Pitches – Robot 6 @ Comic Book Resources|work=Robot 6 @ Comic Book Resources|access-date=November 9, 2015|archive-url=https://web.archive.org/web/20150922130701/http://robot6.comicbookresources.com/2013/03/uncovering-marvels-lost-80s-cartoon-pitches/|archive-date=September 22, 2015|url-status=live|df=mdy-all}}</ref>
+* The Hank Pym incarnation of Ant-Man appears in ''[[Avengers: United They Stand]]''.
+* Hank Pym, Scott Lang, and Eric O'Grady all appear in ''[[Avengers: Earth's Mightiest Heroes]]''.
+* The Scott Lang incarnation of Ant-Man in ''[[Ultimate Spider-Man (TV series)|Ultimate Spider-Man]]''. 
+* The Scott Lang incarnation of Ant-Man in ''[[Avengers Assemble (TV series)|Avengers Assemble]]''.
+* Scott Lang and Hank Pym appear in ''[[Ant-Man (2017 TV series)|Ant-Man]]''.<ref>{{cite web|url=http://www.cbr.com/nycc-marvels-ant-man-animated-shorts-coming-to-disney-xd/?view=lista|title=NYCC: Marvel's Ant-Man Animated Shorts Coming to Disney XD|publisher=[[Comic Book Resources]]|access-date=June 27, 2017|archive-url=https://web.archive.org/web/20170812173227/http://www.cbr.com/nycc-marvels-ant-man-animated-shorts-coming-to-disney-xd/?view=lista|archive-date=August 12, 2017|url-status=live|df=mdy-all}}</ref>
+
+===Film===
+[[Paul Rudd]] and [[Michael Douglas]] portray [[Scott Lang (Marvel Cinematic Universe)|Scott Lang]] and [[Hank Pym (Marvel Cinematic Universe)|Hank Pym]] respectively in films set in the [[Marvel Cinematic Universe]].<ref name="ReleaseChange">{{cite web|last=Kroll |first=Justin |title=Marvel's 'Ant-Man' Moves into Former Superman-Batman Release Date |url=https://variety.com/2014/film/news/marvels-ant-man-moves-to-batman-superman-release-dates-1201068471/ |publisher=Variety |date=January 23, 2014 |access-date=January 23, 2014 |archive-url=https://web.archive.org/web/20140605081132/http://variety.com/2014/film/news/marvels-ant-man-moves-to-batman-superman-release-dates-1201068471/ |archive-date=June 5, 2014 |url-status=live |df=mdy }}</ref> Both have appeared in the films ''[[Ant-Man (film)|Ant-Man]]'' (2015), ''[[Ant-Man and the Wasp]]'' (2018), and ''[[Avengers: Endgame]]'' (2019), and are set to appear in the upcoming film ''[[Ant-Man and the Wasp: Quantumania]]'' (2022). Additionally, Rudd appeared in ''[[Captain America: Civil War]]'' (2016).
+
+===Video Games===
+* Ant-Man appears as a purchasable outfit in ''[[Fortnite Battle Royale]]''.
+* Ant-Man appears in ''[[Disney Infinity 2.0|Disney Infinity 2.0 Marvel Superheroes]]''.
+* The Hank Pym version of Ant-Man appears in ''[[Lego Marvel Super Heroes]]'', voiced by [[Nolan North]].
+* Downloadable content based on the ''Ant-Man'' MCU film was released for the 2015 game ''[[Lego Marvel's Avengers]]'', which also featured playable versions of the Lang and Pym incarnations of the character.
+
+==See also==
+*[[Atom (character)]], a [[DC Comics]] superhero with a similar ability to shrink in size.
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.marvel.com/universe/Ant-Man_(disambiguation) Ant-Man (disambiguation)] at the Marvel Universe
+*[[MarvelDatabase:Ant-Man|Ant-Man]] at the Marvel Database Project
+*{{IMDb title|id=0478970|title=Ant-Man}}
+*[http://www.toonopedia.com/antman.htm Ant-Man] at [[Don Markstein's Toonopedia]]. [https://www.webcitation.org/66gWlKhua?url=http://www.toonopedia.com/antman.htm Archived] from the original on April 4, 2012.
+
+{{Ant-Man and Wasp}}
+{{Avengers characters}}
+{{Stan Lee}}
+{{Jack Kirby}}
+
+[[Category:Ant-Man| ]]
+[[Category:Articles about multiple fictional characters]]
+[[Category:Characters created by Jack Kirby]]
+[[Category:Characters created by Larry Lieber]]
+[[Category:Characters created by Stan Lee]]
+[[Category:Comics characters introduced in 1962]]
+[[Category:Fictional characters who can change size]]
+[[Category:Fictional entomologists]]
+[[Category:Irish superheroes]]
+[[Category:Marvel Comics American superheroes]]
+[[Category:Marvel Comics adapted into films]]

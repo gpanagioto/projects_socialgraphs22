@@ -1,0 +1,94 @@
+{{Infobox comics character and title <!--Wikipedia:WikiProject Comics-->
+| image = ApacheKid2.jpg
+| caption = ''Apache Kid'' #2 (Feb. 1951), art by [[Werner Roth (comics)|Werner Roth]]
+| character_name = The Apache Kid
+| publisher = [[Marvel Comics]]
+| debut = ''Two Gun Western''  #5 (Nov. 1950)
+| creators = [[John Buscema]] (art)
+| alter_ego = Alan Krandal
+| full_name =
+| species = <!-- optional -->
+| homeworld = <!-- optional -->
+| alliances = <!-- optional -->
+| aliases = Aloysius Kare
+| supports=<!--optional-->
+| powers = 
+<!--Series section-->
+|title               = The Apache Kid
+|cvr_image           = 
+|cvr_caption         = 
+|cvr_alt             =
+|schedule            = Bimonthly; hiatus from Jan. 1952 – Dec. 1954
+|format              = [[Ongoing series]]
+|limited             =
+|ongoing             = y
+|1shot               =
+|genre               = [[Western comics|Western]]
+|pub_series          = [[Atlas Comics (1950s)|Atlas Comics]]
+|date                =
+|1stishhead          = 
+|1stishyr            = 1950
+|1stishmo            = Dec.
+|endishyr            = 1956
+|endishmo            = Apr.
+|issues              = 19
+|main_char_team      = Apache Kid
+|writers             = 
+|artists             = [[Werner Roth (comics)|Werner Roth]]
+|pencillers          = 
+|inkers              = 
+|letterers           =
+|colorists           =
+|editors             = 
+|creative_team_month = 
+|creative_team_year  = 
+|creators_series     = 
+|TPB                 = 
+|ISBN                = 
+|TPB1                = 
+|ISBN1               = 
+|nonUS               =
+|}}
+{{Lead too short|date=January 2022}}
+'''The Apache Kid (Alan Krandal)''' is a [[fictional character|fictional]] [[Old West]] character in the [[Marvel Comics]] [[Marvel Universe|universe]], mostly seen in stories from Marvel's 1950s precursor, [[Atlas Comics (1950s)|Atlas Comics]].  This character was named after, but is unrelated to, the real-life [[Native Americans in the United States|Native American]] man known as [[The Apache Kid (Haskay-bay-nay-natyl)]].
+
+==Publication history==
+The Apache Kid (Alan Krandal) debuted as the cover feature, drawn by a young [[John Buscema]], of ''Two-Gun Western'' #5 ([[cover-date]]d Nov. 1950).<ref>{{cite book |last1=Brevoort |first1=Tom |last2=DeFalco |first2=Tom |last3=Manning |first3=Matthew K. |last4=Sanderson |first4=Peter |last5=Wiacek |first5=Win |title=Marvel Year By Year: A Visual History |date=2017 |publisher=DK Publishing |isbn=978-1465455505 |page=47}}</ref> The writer co-creator is unknown. He received his own title the following month, premiering as ''The Apache Kid''&nbsp; #53 (Dec. 1950, picking up the numbering from ''Reno Browne, Hollywood's Greatest Cowgirl'')<ref name=atlas>[http://www.atlastales.com/sT/24 ''Apache Kid''] at AtlasTales.com</ref> and then running as ''Apache Kid''&nbsp; #2-19 (Feb. 1951 - Jan. 1952; Dec. 1954 - April 1956). 
+
+Stories also ran in the omnibus titles ''Two-Gun Western''&nbsp; #5-9 (Nov. 1950 - Aug. 1951) and ''[[Wild Western]]''&nbsp; #15-22 (April 1951 - June 1952). After that initial Buscema story and at least two by [[Joe Maneely]] (who would also do many of the later covers), the bulk of the book's run would be [[penciler|penciled]] and [[inker|inked]] by future [[Silver Age of comic books|Silver Age]] ''[[X-Men]]'' artist [[Werner Roth (comics)|Werner Roth]].<ref name=gcd><!--Note: This URL represents the advanced search that just returned appearances of the Marvel character Apache Kid, not other companies'-->[http://www.comics.org/search/advanced/process/?target=sequence&method=icontains&logic=False&order1=date&order2=series&order3=&start_date=&end_date=&title=&feature=&job_number=&pages=&script=&pencils=&inks=&colors=&letters=&story_editing=&genre=&characters=Apache+Kid&synopsis=&reprint_notes=&notes=&pub_name=Marvel&pub_notes=&brand=&brand_notes=&indicia_publisher=&is_surrogate=None&ind_pub_notes=&series=&series_notes=&tracking_notes=&issue_count=&issues=&volume=&issue_title=&variant_name=&issue_date=&indicia_frequency=&price=&issue_pages=&format=&issue_editing=&isbn=&barcode=&issue_notes=&is_indexed=None Apache Kid (Marvel character)] at the [[Grand Comics Database]]</ref>
+
+After ''The Apache Kid'' ended with #19 (April 1956), its numbering continued as the [[anthology]] series ''[[Western Gunfighters]]'', where the character did not appear.<ref name=atlas /> 
+
+Apache Kid reprints, however, did appear in Marvel's 1970s omnibus series also titled ''[[Western Gunfighters]]''. The Kid shared its pages with new [[Phantom Rider|Ghost Rider]] (also known as [[Phantom Rider]]) stories, as well as anthological and Western-hero reprints of a changing lineup that included Atlas' [[Black Rider (comics)|Black Rider]] (here renamed Black Mask), the [[Western Kid]], [[Wyatt Earp (Marvel Comics)|Wyatt Earp]], and later [[Kid Colt]]. Apache Kid reprints ran from&nbsp; #2-33, the final issue (Oct. 1970 - Nov. 1975).
+
+==Other versions==
+The character returned in ''[[Apache Skies]]'' (2002), a four-issue [[miniseries]] starring the [[Rawhide Kid]] and two persons called the Apache Kid: '''Dazii Aloysius Kare''', and his wife, '''Rosa'''. This  was a sequel to the miniseries ''[[Blaze of Glory (comics)|Blaze of Glory]]'' (2000), which specifically [[retconned]] that the naively clean-cut Marvel Western stories of years past were merely [[dime novel]] fictions of the characters' actual lives.
+
+Unrelated characters called the Apache Kid appeared in [[Fox Comics]]' ''Western Outlaws''&nbsp; #21 (May 1949), and Youthful Comics' ''Indian Fighter''&nbsp; #5 (Jan. 1952).
+
+==Fictional character biography==
+[[Caucasian race|Caucasian]] child Alan Krandal was raised by [[Apache]] chief Red Hawk and his wife after being [[orphan]]ed. When grown, he took on a "civilian" identity as cowboy Aloysius Kare, changing to his warpaint outfit to fight outlaws both white and [[Native Americans in the United States|Native American]], and generally  protect both groups of people. Captain Bill Gregory of the nearby fort was his "white brother" who also respected the elder Red Hawk's counsel. Unlike many other [[Western (genre)|Western]] comics of the 1950s, ''Apache Kid'' generally presented the indigenous Americans in the same light as Caucasians, and made distinctions among the various tribes.<ref name=dm>[http://www.toonopedia.com/apache.htm The Apache Kid] at [[Don Markstein's Toonopedia]]. [https://www.webcitation.org/63dFDPNvk?url=http://www.toonopedia.com/apache.htm Archived] from the original December 2, 2011</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://web.archive.org/web/20120731045559/http://www.reocities.com/ratmmjess/apache.html Apache Kid] at A Guide to Marvel's Pre-FF #1 Heroes. [https://web.archive.org/web/20091026210044/http://www.geocities.com/ratmmjess/apache.html Archived] from the original October 25, 2009.
+* [http://www.maelmill-insi.de/UHBMCC/ The Unofficial Handbook of Marvel Comics Creators]
+
+
+{{Marvel Western Characters}}
+
+[[Category:1950 comics debuts]]
+[[Category:1956 comics endings]]
+[[Category:Comics characters introduced in 1950]]
+[[Category:Atlas Comics characters]]
+[[Category:Atlas Comics titles]]
+[[Category:Fictional Apache people]]
+[[Category:Western (genre) comics]]
+[[Category:Characters created by John Buscema]]
+[[Category:Native Americans in popular culture]]
+[[Category:Western (genre) heroes and heroines]]
+[[Category:Marvel Comics male characters]]
+[[Category:Marvel Comics Western (genre) characters]]
+[[Category:Marvel Comics orphans]]

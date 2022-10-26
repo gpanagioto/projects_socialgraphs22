@@ -1,0 +1,60 @@
+{{leadtooshort|date=May 2014}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+<!-- |character_name = Yellow Peri -->
+|image = Yellowperidcu0.jpg
+|imagesize = <!-- numeral only, defaults to 250 -->
+|converted = y
+|caption = Superboy and the Yellow Peri, from ''The New Adventures of Superboy'' #34, art by [[Ross Andru]].
+|publisher = [[DC Comics]]
+|debut = ''[[Superboy|The New Adventures of Superboy]]'' #34 (October 1982)
+|creators = [[Bob Rozakis]] (writer)<br>[[Kurt Schaffenberger]] (artist)
+|alter_ego = Loretta York
+|species = <!-- optional -->
+|homeworld = <!-- optional -->
+|alliances = <!-- optional -->
+|partners = <!-- optional -->
+|aliases = <!-- optional: actual identities the character uses, not nicknames -->
+|powers = Powerful and experienced magic user
+|cat = super
+|subcat = DC Comics
+|hero = y
+|sortkey = Yellow Peri
+}}
+The '''Yellow Peri''' is a [[fictional]] character published by [[DC Comics]], who is able to use magic thanks to a book of spells. The character first appeared in ''[[Superboy|The New Adventures of Superboy]]'' #34 (October 1982), and was created by [[Bob Rozakis]] and [[Kurt Schaffenberger]].
+
+==Fictional character biography==
+Loretta York became interested in magic as a young child. That interest drew her to a burned down bookstore as a teenager. Surprisingly, one book had survived the fire—a magic book containing all sorts of spells. Using this book, Loretta became the Yellow Peri, and used her new powers to help people. However, these gestures of help often backfired. She soon joined a traveling circus and eventually wound up in [[Smallville (comics)|Smallville]], where she encountered [[Superboy]].<ref>{{cite book |last1=Fleisher |first1=Michael L. |title=The Original Encyclopedia of Comic Book Heroes, Volume Three: Superman |date=2007 |publisher=DC Comics |isbn=1-4012-1389-8 |page=484}}</ref> During their encounter the Yellow Peri also had the assistance of a 5th Dimensional Imp named Gazook, who only appears in ''The New Adventures of Superboy'' #34-35 (October – November 1982). This meeting ended with Superboy throwing the magic book into space. Loretta forgot she was ever the Yellow Peri. 
+
+Years later when she was an adult, the book returned from space and crashed into her home. She again became the Yellow Peri and again encountered Superboy, now known as [[Superman]].<ref>''The New Adventures of Superboy'' #34-35 (October – November 1982). DC Comics.</ref>
+
+After the ''[[Crisis on Infinite Earths]]'' crossover event, she was no longer part of the DC continuity.<ref>''Who's Who: Update '87'' #5 (December 1987). DC Comics.</ref>
+
+===''52''===
+{{main|52 (comics)}}
+The Yellow Peri appears in the ''52'' maxi-series as one of [[Booster Gold]]'s pallbearers alongside [[Mind-Grabber Kid]], [[Inferior Five|Blimp]], the [[Beefeater (comics)|Beefeater]], and [[Steve Ditko]]'s [[Odd Man (comics)|Odd Man]]. She was not the first choice for this task, but Booster Gold's recent glory-hounding actions had left him very unpopular with much of the world.<ref>''[[52 (comics)|52]]'' #18 (November 2006). DC Comics.</ref>
+
+===''Reign in Hell''===
+The Yellow Peri later appeared in the ''[[Reign in Hell]]'' miniseries. She is seen in [[Hell (DC Comics)|Hell]] after the realm of "Purgatory" invades. She is helping [[Doctor Occult]] find his former partner, [[Rose Psychic]]. Occult calls her a spirit guide, which implies that she is dead. He also refers to her as "expendable", a concept he does not follow as he rescues her from a demon party. Peri's legs from the knees down are taken by demons and eaten, but she is still able to speak and cast spells afterward. Doctor Occult carries her from that point, to where they find Rose, who now works for [[Blaze and Satanus]].<ref>''Reign in Hell'' #2-5 (October 2008 – January 2009). DC Comics.</ref>
+
+===''Brightest Day''===
+Her most recent appearance was a cameo in the [[Justice League|JLA]]/[[Justice Society of America|JSA]] crossover featured in ''[[Brightest Day]]''. Here, she is shown as one of the numerous metahumans under the mental control of the [[Alan Scott|Starheart]] entity, and is forced into an aerial confrontation with [[Courtney Whitmore|Stargirl]] over the [[Grand Canyon]]. She has regained her legs.<ref>''Justice Society of America'' (vol. 3) #41 (September 2010). DC Comics.</ref>
+
+==Powers and abilities==
+Yellow Peri derives all her powers from a magic book she discovered as a child. She is able to read its spells and use its magic by touching one hand to her forehead and the other to the book.<ref>''[[Who's Who in the DC Universe]]'' #26 (April 1987). DC Comics.</ref>
+
+==In other media==
+Yellow Peri appeared in an episode of ''[[Superboy (TV series)|Superboy]]'', entitled "Yellow Peri's Spell of Doom", played by actress [[Elizabeth Keifer]]. Originally a waitress named Loretta who was infatuated with Superboy, she made a deal with a magical being named Gazook, which gives her mystic powers (in the comics, Gazook is a 5th Dimensional imp). After trying to use her powers to make Superboy fall in love with her, Yellow Peri attempted to kill the woman he did love, [[Lana Lang]]. After realizing her powers were unable to make him her love slave, Yellow Peri burned a cursed photograph of Superboy, causing him to be consumed in flames. Superboy attempted to attack Gazook with his heat vision, who simply retorted that he was magic and could not be harmed by [[Krypton (comics)|Krypton]]ian superpowers. Superboy then used the dark magic that was harming him to touch Gazook and set the doll ablaze. Yellow Peri lost her powers when the doll that housed Gazook's spirit was destroyed by Superboy.
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.mykey3000.com/cosmicteams/obscure/y.htm#YellowPeri Cosmic Teams: Yellow Peri]
+* [http://www.dcuguide.com/who.php?name=yellowperi DCU Guide: Yellow Peri]
+
+{{Superboy}}
+
+[[Category:Comics characters introduced in 1982]]
+[[Category:DC Comics characters who use magic]]
+[[Category:DC Comics female superheroes]]
+[[Category:Fictional characters from Oregon]]

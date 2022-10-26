@@ -1,0 +1,104 @@
+{{Short description|Comic book character based on the mascot}}{{For|the Vertigo miniseries|Uncle Sam (Vertigo)}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|image=Unclesam comics.jpg
+|caption=Promotional artwork from ''DCU Brave New World'' #1 (August 2006) by [[Daniel Acuña]].
+|character_name=Uncle Sam
+|publisher=[[Quality Comics]]<br>(1940–1944)<br>[[DC Comics]]<br>(1973–present)
+|debut=''[[National Comics (series)|National Comics]]'' #1 (July 1940)
+|creators= [[Will Eisner]] (writer/artist)
+|alter_ego=
+|alliances=[[Freedom Fighters (comics)|Freedom Fighters]]<br/>[[All-Star Squadron]]<br/> [[S.H.A.D.E.]]<br/>Council of Immortals
+|aliases=Spirit of America, [[Minutemen|Minuteman]], [[Brother Jonathan]], [[Johnny Rebel|Johnny Reb]], [[Billy Yank]], Patriot, Taylor Samuel Hawke, Samuel Augustus Adams, Samuel Wilson, [[Father Time (DC Comics)|Father-Time]]
+|powers=Superhuman strength<br>Enhanced speed<br>Invulnerability<br>Limited clairvoyance<br>Size alteration<br>Ability to transport himself and others to The Heartland
+}}
+'''Uncle Sam''' is a <!--Do not add "fictional" as it is tautological; superheroes (and characters in general) are by definition implied to be fictionalized to some extent.-->[[superhero]] appearing in [[American comic books]] published by [[DC Comics]]. Based on the [[national personification]] of the [[United States]], [[Uncle Sam]], the character first appeared in ''[[National Comics (series)|National Comics]]'' #1 (July 1940) and was created by [[Will Eisner]].<ref>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Korte |first3=Steve |last4=Manning |first4=Matt |last5=Wiacek |first5=Win |last6=Wilson |first6=Sven |title=The DC Comics Encyclopedia: The Definitive Guide to the Characters of the DC Universe |date=2016 |publisher=DK Publishing |isbn=978-1-4654-5357-0 |page=316}}</ref>
+
+==Publication history==
+===Quality Comics===
+[[File:Nationalcomics3.png|150px|left|thumb|''National Comics'' #3 (September 1940). Cover art by [[Lou Fine]].]]
+Uncle Sam first appeared in ''[[National Comics (series)|National Comics]]'' #1 (July 1940), which was published by [[Quality Comics]] during the [[Golden Age of Comic Books]].<ref name= Companion>{{cite book |last1=Koolman |first1=Mike |last2=Amash |first2=Jim |title=The Quality Companion |date= 2011 |publisher=TwoMorrows Publishing |isbn=978-1605490373 |pages=193–198}}</ref> He was depicted as a mystical being who was originally the spirit of a slain patriotic soldier from the [[American Revolutionary War]], and who now [[King Under the Mountain| appears in the world whenever his country needs him]].<ref>{{cite web |last1=Markstein |first1=Don |website=Don Markstein's Toonopedia |access-date=2 April 2020  |url=http://www.toonopedia.com/unclsam2.htm |title=Uncle Sam}}</ref> The character was used for a few years from 1940 to 1944, briefly receiving its own series, ''Uncle Sam Quarterly''.<ref>{{cite book |last1=Benton |first1=Mike |title=Superhero Comics of the Golden Age: The Illustrated History |date=1992 |publisher=Taylor Publishing Company |location=Dallas |isbn=0-87833-808-X |url=https://archive.org/details/superherocomicso0000bent/page/188 |access-date=8 April 2020 |page=189}}</ref> During this time, he had a young, non-costumed [[sidekick]] named Buddy Smith.
+
+According to ''Jess Nevins' Encyclopedia of Golden Age Superheroes'', "he fights a variety of [[Axis powers|Axis]] agents, human and superhuman, from the Black Legion to the shrink-ray-wielding Professor Nakajima. Uncle Sam also fights the mad scientist Dr. Dirge, the King Killer, and the insanity-causing Mad Poet".<ref>{{cite book |last1=Nevins |first1=Jess |title=Encyclopedia of Golden Age Superheroes |date=2013 |publisher=High Rock Press |isbn=978-1-61318-023-5 |page=281}}</ref>
+
+===DC Comics===
+[[DC Comics]] acquired the character as part of its acquisition of the Quality characters in the 1950s, and he was used as a supporting character in ''[[Justice League|Justice League of America]]'' in the 1970s. This established Uncle Sam as the leader of the [[Freedom Fighters (comics)|Freedom Fighters]], a team of former Quality characters that briefly received its own title.<ref name="dc-free">{{Cite book | last = Greenberger | first = Robert | author-link = Robert Greenberger | contribution = Freedom Fighters | editor-last = Dougall | editor-first = Alastair | title = The DC Comics Encyclopedia | pages = 131 | publisher = [[Dorling Kindersley]] | place = New York  | year = 2008 | isbn = 978-0-7566-4119-1 | oclc = 213309017 }}</ref> This team was initially based on a parallel world called [[Earth-X]], where [[World War II]] had lasted into the 1970s.
+
+Uncle Sam's origin was [[retroactive continuity|rewritten]] somewhat in ''[[Spectre (comics)|The Spectre]]'',<ref>''The Spectre'' (vol. 3) #37–38</ref> where Uncle Sam is described as a spiritual entity created through an occult ritual by the [[Founding Fathers of the United States|Founding Fathers]]. This "Spirit of America" was initially bound to a powerful talisman and would take physical form by merging with a dying patriot. The new origin states that the Spirit of America had taken human form as the [[Minute-Man]] during the Revolutionary War, [[Brother Jonathan]] in later conflicts and, during the [[American Civil War]], had been split in two as [[Johnny Rebel|Johnny Reb]] and [[Billy Yank]].
+
+The Spirit first assumed its now-familiar Uncle Sam incarnation in 1870, when it resurrected a political [[cartoonist]] who had been killed by [[William M. Tweed|Boss Tweed]]. The second host of Uncle Sam fought in [[World War I]]. A third (the character's Golden Age incarnation) was a superhero during World War II but vanished at the end of the war, erasing any subsequent appearances from the fictional history of the [[DC Universe]] (although most of them had already been erased by the ''[[Crisis on Infinite Earths]]''). In ''The Spectre'', the Spirit is resurrected in a new costumed form called the '''Patriot''', but later reverts to Uncle Sam in a ''[[Superman]]'' issue.{{issue|date=August 2011}}
+
+A 1997 Vertigo series features the character with the persona of a street person.<ref>{{cite book |title=The Dark Age: Grim, Great & Gimmicky Post-Modern Comics| last= Voger| first= Mark| year= 2006| publisher= TwoMorrows Publishing| isbn= 978-1-893905-53-5|page=115}}</ref> A similar notion was suggested by [[Alan Moore]] in his 1980s crossover proposal ''[[Twilight of the Superheroes]]''; this interpretation was inspired by the satirical novel ''[[The Public Burning]]'' by [[Robert Coover]], which also features a superheroic version of Uncle Sam.
+
+In ''[[Infinite Crisis]]'' #1, the Freedom Fighters are attacked by the [[Secret Society of Super Villains]]. Three of the Freedom Fighters, [[Human Bomb#Roy Lincoln|Human Bomb]], [[Phantom Lady#Dee Tyler|Phantom Lady]], and [[Black Condor#Ryan Kendall|Black Condor]] are killed in the battle. Uncle Sam himself seemingly dies at the hands of [[Sinestro]]. The other team members are brutally injured but survive. Uncle Sam is seen face down in rainwater.
+When the dead heroes are found strung up on the [[Washington Monument]] in #2, Uncle Sam is missing.
+
+The character's latest incarnation appeared in the first issue of ''[[Freedom Fighters (comics)#Uncle Sam and the Freedom Fighters|Uncle Sam and the Freedom Fighters]]'', and spends the first few issues of this new series attempting to form a new version of the Freedom Fighters. This new Uncle Sam emerges from the [[Mississippi River]] at the same time as [[Father Time (DC Comics)|Father Time]] is elsewhere planning the future of [[S.H.A.D.E.]] with new incarnations of the Freedom Fighters members. Uncle Sam, disturbed by the deadly force used by the new versions of [[Phantom Lady#Stormy Knight|Phantom Lady]], [[Human Bomb#Andy Franklin|The Human Bomb]], [[Doll Man#Lester Colt|Doll Man]], and others, successfully recruits these [[metahuman]]s into his new Freedom Fighters team, which results in Father Time ordering his remaining S.H.A.D.E. personnel to pursue and kill Uncle Sam and his team. Although Uncle Sam is shown to be against killing, particularly rebuking Doll Man for murdering a crime lord in front of the man's young grandson (in issue #1), Uncle Sam is not against using deadly force when necessary.<ref>''Uncle Sam and the Freedom Fighters'' #1–8 (2006)</ref>
+
+He is also seen in ''Final Crisis'' #4 and classified as Corrupted when [[Alan Scott]] is looking for remaining superhumans to fight Darkseid's forces.<ref>''Final Crisis'' #4 (2008)</ref>
+
+Uncle Sam shows up in the [[Blackest Night]] crossover, helping many other superheroes fight the returning dead. This includes the slaughtered incarnation of the Freedom Fighters.<ref>''Blackest Night'' #1–6 (June 2009 – May 2010)</ref>
+
+In [[The New 52]] rebooted DC's continuity, a human African-American version appears in the comic series ''Human Bomb''. One of the S.H.A.D.E leaders he calls delivers an order to capture [[Human Bomb#Michael Taylor|Michael Taylor]].<ref>''Human Bomb'' #1</ref>
+
+==Powers and abilities==
+Uncle Sam has demonstrated various powers, including super strength, invulnerability, the ability to alter his size, enhanced speed, and some degree of [[clairvoyance]].{{Citation needed|date=August 2011}} He is also shown to be able to transport himself and others to a [[pocket dimension]] called The Heartland; he does this to Doll Man in ''Uncle Sam and the Freedom Fighters'' #2. The [[Pre-Crisis]] version of Uncle Sam could at one point travel to parallel universes, as he did with the Freedom Fighters to travel to Earth-X from [[Earth-Two]],<ref>''[[All-Star Squadron]]'' #36</ref> but in another instance, Uncle Sam and the other Freedom Fighters require the help of a scientist's machine to travel to [[Earth-One]].<ref>''Freedom Fighters'' #1</ref> His powers are said to be in direct proportion of the belief people have in the idea of the United States as The City Upon a Hill. In ''Uncle Sam and the Freedom Fighters'', Father Time states that tests indicate Sam is not a human, metahuman, or magical being, and the indication of what he ''is'' can be considered inconclusive.  Uncle Sam has stated that he does not have the ability to fly.<ref>''Uncle Sam and the Freedom Fighters'' #3</ref>
+
+==Other versions==
+{{main|Uncle Sam (Vertigo)}}
+* In 1998, DC published under its adult [[imprint (trade name)|imprint]] [[Vertigo (DC Comics)|Vertigo]] a two-issue [[prestige format]] comic series, ''[[Uncle Sam (Vertigo)|Uncle Sam]]''. It was written by Steve Darnall with painted artwork by [[Alex Ross]]. The series does not appear to be set in the standard [[DC Universe]] (though a picture of Superman can be seen when Uncle Sam discovers the shop in the middle of nowhere). Uncle Sam is  depicted as a ragged old man who is tormented by visions of historical episodes and modern aspects of the United States at its worst. Uncle Sam is forced to battle a dark doppelganger of himself based on corruption, deceit, and oppression, with the identity of the United States at stake.
+* In an alternate DC timeline appearing in ''[[Superman/Batman]]'', Superman and Batman have been raised by [[Cosmic King]], [[Lightning Lord]], and [[Saturn Queen]], the three original members of the [[Legion of Super-Villains]], and they have turned the Earth into a [[totalitarian state]]. Uncle Sam becomes [[Green Lantern]] when [[Wonder Woman]] gives him [[Abin Sur]]'s ring, as [[Hal Jordan]] is dead in this reality. When Wonder Woman first encounters this Uncle Sam, he is visually very similar to the [[Uncle Sam (Vertigo)|Uncle Sam from Alex Ross' miniseries]]; once she uses her magic lasso to reveal the truth to him, he reverts to his classic persona and costume.
+* In the final issue of ''[[52 (comics)|52]]'', a new multiverse is revealed, originally consisting of 52 identical realities. Among the parallel realities shown is one designated "Earth-10". As a result of [[Mister Mind and the Monster Society of Evil|Mister Mind]] "eating" aspects of this reality, it takes on visual aspects similar to the pre-Crisis Earth-X, including the Quality characters.
+
+Based on comments by [[Grant Morrison]] and the fact that a [[Nazism|Nazi]] version of Superman is depicted in the scene, this alternate universe is not the pre-Crisis Earth-X.<ref>{{cite web
+ |url         = http://forum.newsarama.com/showthread.php?t=111900
+ |title       = THE 52 EXIT INTERVIEWS: GRANT MORRISON
+ |access-date  = 2007-05-12
+ |last        = Brady
+ |first       = Matt
+ |date        = 2007-05-08
+ |publisher   = Newsarama
+ |url-status=dead
+ |archive-url  = https://web.archive.org/web/20070510031223/http://forum.newsarama.com/showthread.php?t=111900
+ |archive-date = 2007-05-10
+}}</ref>
+* On [[List of DC Multiverse worlds#Earth-11|Earth-11]], a world of reversed genders, a female version of Sam called ''[[Columbia (name)|Columbia]]'' leads the Freedom Fighters.
+* ''New Super-Man'' features a character, ''Flying Dragon General'', as an analog of Uncle Sam.
+
+==In other media==
+===Television===
+* Uncle Sam appears in the ''[[Batman: The Brave and the Bold]]'' episode "Cry Freedom Fighters!", voiced by [[Peter Renaday]]. This version draws power from patriotic spirit (lack of it will make him vanish, leaving only his hat and enough of it will revive him). He displays the powers of super strength, force field projection (they resemble the original shield of [[Captain America]]), and the ability to grant patriotic power to others (giving them a more patriotic costume). He and the other Freedom Fighters travel in a ship called the [[The Star-Spangled Banner|Rockets' Red Glare]] capable of spaceflight. They worked with Batman and Plastic Man to fight the forces of the Supreme Chairman of Qward. Following the Supreme Chairman of Qward's defeat, Uncle Sam hooks Plastic Man up with a transmission from [[Barack Obama]] who thanks Plastic Man for his services.
+
+===Miscellaneous===
+Uncle Sam appears in ''[[Justice League Unlimited]]'' tie-in comic #17.
+
+==References==
+{{Reflist}}
+
+==External links==
+{{wikiquote|Uncle Sam Strikes Back}}
+* [https://archive.today/20130121100408/http://www.dcindexes.com/indexes/indexes.php?character=191 Uncle Sam Index]
+* [http://www.internationalhero.co.uk/u/unclesam.htm Uncle Sam Profile]
+* [http://www.toonopedia.com/unclsam2.htm Toonopedia page]
+* [https://web.archive.org/web/20100122002336/http://www.mykey3000.com/cosmicteams/quality/profiles/uncleSam.html DC Cosmic Teams Profile: Uncle Sam]
+
+{{Freedom Fighters}}
+{{All-Star Squadron}}
+{{Will Eisner}}
+{{GoldenAge}}
+
+[[Category:1940 comics debuts]]
+[[Category:1944 comics endings]]
+[[Category:DC Comics characters who are shapeshifters]]
+[[Category:DC Comics characters who can move at superhuman speeds]]
+[[Category:DC Comics characters who can teleport]]
+[[Category:DC Comics characters with superhuman strength]]
+[[Category:DC Comics deities]]
+[[Category:DC Comics male superheroes]]
+[[Category:Fictional characters who can change size]]
+[[Category:Fictional characters with dimensional travel abilities]]
+[[Category:Golden Age superheroes]]
+[[Category:Quality Comics superheroes]]
+[[Category:United States-themed superheroes]]
+[[Category:Vertigo Comics titles]]
+[[Category:Comics characters introduced in 1940]]
+[[Category:Characters created by Will Eisner]]

@@ -1,0 +1,45 @@
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|character_name=John the Skrull
+|image=[[Image:Johnskrull.jpg|150px]]
+|caption=John the Skrull.<br>Art by [[Leonard Kirk]].
+|publisher=[[Marvel Comics]]
+|debut=''[[Pete Wisdom|Wisdom]]'' #1 (November 2006)
+|creators=[[Paul Cornell]] (writer)<br>[[Trevor Hairsine]] (artist)
+|alter_ego = 
+|full_name =
+|species   =[[Skrull]]
+|homeworld = <!-- optional -->
+|alliances=[[Skrull#Fall of the Skrull Empire|Skrull Empire]]<br>[[MI-13 (Marvel Comics)|MI-13]]
+|partners  = <!-- optional -->
+|supports  = <!-- optional -->
+|aliases=[[John Lennon]]
+|powers=Shapeshifting<br>Flight via wings
+|}}
+
+'''John the Skrull''' is a [[fictional character]], a [[superhero]] appearing in [[American comic book]]s published by [[Marvel Comics]], first appearing in ''[[Pete Wisdom|Wisdom]]'' #1 (November 2006), and was created by [[Paul Cornell]] and [[Trevor Hairsine]]. As a [[Skrull]], he normally takes the shape of [[John Lennon]].<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=199}}</ref>
+
+==Fictional character biography==
+John Lennon was originally a member of the Skrull Beatles, a group of Skrulls who took on the appearances of the original Beatles, with John taking the form of John Lennon. The faux-Beatles were intended to take the place of the real Beatles, and use their positions to launch an early version of the Secret Invasion. John, however, thought the Skrull Beatles could do more than an alien invasion, and convinced their bosses to give them free reign. Much like the real Beatles, the Skrull Beatles eventually found their interests leading in different directions, leading to the band's break-up. John embarked on a relationship with Captain Boko of the Free Kree Liberation Army.<ref>''Wisdom'' #1. Marvel Comics.</ref>
+
+Some time after the band broke up, John came to work for the British intelligence agency [[MI-13 (Marvel Comics)|MI-13]], investigating paranormal occurrences throughout the British Isles. In this capacity he met [[Pete Wisdom]], and helped thwart, among other things, a [[Martian]] invasion of Britain from an alternate universe.<ref>''Wisdom'' #1-6. Marvel Comics.</ref>
+
+At the time of the [[Secret Invasion]], John, now considered a traitor by the Skrull high command, found himself a target. A Skrull agent posing as Mr. Grimsdale, the chair of the [[Joint Intelligence Committee (UK)|Joint Intelligence Committee]], attempted to have the Skrull Beatles killed; only John survived this purge. The Skrull Grimsdale was unmasked and killed by Wisdom. John then joins Wisdom, [[Captain Britain]], and [[Spitfire (comics)|Spitfire]], all now recruited by [[MI-13 (Marvel Comics)|MI:13]] to fight off the Skrull attack on the [[Siege Perilous (comics)|Siege Perilous]].<ref>''[[Captain Britain and MI: 13]]'' #1. Marvel Comics.</ref><ref>[http://www.comicbookresources.com/?page=article&id=16432 Defense of the Realms: Cornell on "Captain Britain and MI:13"], [[Comic Book Resources]], May 15, 2008</ref>
+
+John and the others were captured by invading Skrulls in [[Avalon (Marvel Comics)|Avalon]], an interdimensional location central to British magic. While angrily insulting the captors, John is executed by a Skrull as an example. Ultimately, all British based Skrulls are killed via a deal Wisdom makes with formerly imprisoned demonic forces.<ref name="CBMI4">{{Comic book reference | Writer = [[Paul Cornell]] | Penciller = [[Leonard Kirk]] | Inker = [[Jesse Delperdang]] | Story = The Guns Of Avalon | Title = Captain Britain and MI: 13 | Issue = 4 | Date = October 2008 | Publisher = [[Marvel Comics]] | }}</ref>
+
+==Powers and abilities==
+John's Skrull physiology enabled him to shapeshift into virtually any form that he chose. He normally favoured the shape of John Lennon, but has shown to grow wings and tentacles to better participate in battle.
+
+==References==
+{{reflist}}
+
+==External links==
+* {{comicbookdb|type=character|id=14781|title=John the Skrull}}
+* [http://www.comicbookresources.com/?page=article&id=12828 Super Spy Weekend: John the Skrull], [[Comic Book Resources]], March 8, 2008.
+* [https://marvel.fandom.com/wiki/John_Lennon_(Skrull)_(Earth-616) Marvel Fandom: John Lennon (Skrull) (Earth-616)]
+
+{{Skrull}}
+
+[[Category:Comics characters introduced in 2006]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Skrull]]

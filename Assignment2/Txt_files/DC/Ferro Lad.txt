@@ -1,0 +1,87 @@
+{{short description|DC Comics character}}
+{{Infobox comics character
+|image= Fladlegion.jpg
+|imagesize=175
+|character_name=Ferro Lad
+|real_name=Andrew Nolan
+|publisher=[[DC Comics]]
+|debut=''[[Adventure Comics]]'' #346 (July 1966)
+|creators= [[Jim Shooter]]
+|alliances=[[Legion of Super-Heroes#Rebooted (1994–2004)|Legion of Super-Heroes]]
+|species = [[Metahuman]]
+|homeworld = [[Earth]] (31st century)
+|aliases=Ferro
+|powers=Ability to turn to iron<br>Superhuman strength in iron form
+}}
+'''Ferro Lad''' ('''Andrew Nolan''') is a [[fictional character]], a [[comic book]] [[superhero]] and member of the [[Legion of Super-Heroes]] in the 30th century of the {{DC Universe}}. He is Andrew Nolan of [[Earth]] and is known in [[Legion_of_Super-Heroes_(1994_team)|Post-''Zero Hour'']] continuity simply as '''Ferro'''.<ref name="dc-ency">{{Citation | last = Beatty | first = Scott | author-link = Scott Beatty | contribution = Ferro | editor-last = Dougall | editor-first = Alastair | title = The DC Comics Encyclopedia | page = 121 | publisher = [[Dorling Kindersley]] | place = New York | year = 2008 | isbn = 978-0-7566-4119-1 | oclc = 213309017}}</ref>
+
+==Publication history==
+Ferro Lad first appeared in ''[[Adventure Comics]]'' #346 and was created by [[Jim Shooter]].<ref name=Guide>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Korte |first3=Steve |last4=Manning |first4=Matt |last5=Wiacek |first5=Win |last6=Wilson |first6=Sven |title=The DC Comics Encyclopedia: The Definitive Guide to the Characters of the DC Universe |date=2016 |publisher=DK Publishing |isbn=978-1-4654-5357-0 |page=107}}</ref> When Jim Shooter first created the character, he intended Ferro Lad to be [[Black people|black]], but editor [[Mort Weisinger]] vetoed the idea,<ref>[http://goodcomics.comicbookresources.com/2005/12/22/comic-book-urban-legends-revealed-30/ Comic Book Urban Legends Revealed #30!]</ref> saying "we'll lose our distribution in the South".<ref>{{cite book |last1=Cadigan |first1=Glen |title=The Legion Companion |date=2003 |publisher=TwoMorrows Publishing |isbn=978-1893905221 |page=53}}</ref>
+
+This was in fact one reason why Shooter chose Ferro Lad to be the one to die in the Sun Eater story. In a 2003 interview, Shooter said: "Ferro Lad, I killed because my plan was that he was a black guy, and [[Mort Weisinger|Mort [Weisinger]]] said no. Then I said, "Well, let's see. I've got this idea for a story, and someone needs to die...Ah-ha! Him!" So basically, I killed him off because it annoyed me that I couldn't do with him what I wanted".<ref>Cadigan, p. 54.</ref> 
+
+However, in a 2011 blog post, he had a different explanation: "I thought Mort might object if I killed an established, long-term Legionnaire, but what if it was one of the new ones I'd created? Maybe that would fly. So I did it. I didn't ask, I just did it. Why Ferro Lad? Because his powers suited the opportunity. How would [[Princess Projectra]] or even [[Karate Kid (comics)|Karate Kid]] survive the death-run into the heart of the Sun-Eater?"<ref name=Chron>{{cite book |last1=Wells |first1=John |title=American Comic Book Chronicles: 1965-1969 |date=2014 |publisher=TwoMorrows Publishing |isbn=978-1605490557 |page=173}}</ref>
+
+Shooter made double-sure that Ferro Lad would stay dead by setting the next issue ten years in the future, in which a statue of Ferro Lad is on display in the Legion's hall of the honored dead.<ref name=Chron/>
+
+''The Life and Death of Ferro Lad'' ({{ISBN|978-1-4012-2193-5}}), a hardcover [[Trade paperback (comics)|trade paperback]] collecting the Silver Age appearances of Ferro Lad, was released in 2009.
+
+==Fictional character biography==
+===Silver Age===
+Andrew Nolan is a [[metahuman]] with the power to transform himself into living [[iron]].<ref>{{cite book |last1=Wells |first1=John |title=American Comic Book Chronicles: 1965-1969 |date=2014 |publisher=TwoMorrows Publishing |isbn=978-1605490557 |page=110}}</ref> He has a twin brother named Douglas who has the same power. Both twins have deformed faces as a side effect of the [[mutation]] that gave them their powers, so both wear iron masks. He first appears in ''[[Adventure Comics]]'' #346 (July 1966); he joined at the same time as [[Princess Projectra]], [[Karate Kid (comics)|Karate Kid]] and [[Nemesis Kid]].
+
+Ferro Lad was only a Legionnaire for a short time when he was killed destroying the Sun-Eater with a bomb in ''Adventure Comics'' #353. His self-sacrifice to save the galaxy made him legendary, despite his short tenure as a Legionnaire, with many later Silver Age stories featuring references to his death, both the event itself and a statue erected in his memory was often visible in the Legion's headquarters. He next appears in ''Adventure Comics'' #357 (June 1967), but as a ghost, seemingly saving a number of his former teammates from a Controller, representative of a race of superior beings.
+
+Many years later—during the [[Batch SW6|"Five Year Gap"]] following the Magic Wars—Earth fell under the covert control of the [[Dominators (DC Comics)|Dominators]], and withdrew from the [[United Planets]]. Some time thereafter, the members of the Dominators' highly classified "Batch SW6" escaped captivity. Originally, Batch SW6 appeared to be a group of teenage Legionnaire clones, created from samples apparently taken just prior to Ferro Lad's death at the hands of the Sun-Eater. Later, they were revealed to be time-paradox duplicates, every bit as legitimate as their older counterparts. After Earth was destroyed in a disaster reminiscent of the destruction of [[Krypton (comics)|Krypton]] over a millennium earlier,<ref>''Legion of Super-Heroes'' (vol. 4) #38, late December 1992.</ref> a few dozen surviving cities and their inhabitants reconstituted their world as New Earth. The SW6 Legionnaires remained, and their version of Ferro Lad shortened his code name to Ferro.
+
+===Post-''Zero Hour''===
+In post-''[[Zero Hour (comics)|Zero Hour]]'' continuity he is known as Ferro and comes from 20th century Earth.
+
+Born in the 20th century, Andrew Nolan and his twin, Douglas, were the sons of a famous actress, Nancy Nolan, who abandoned them because of their grotesque facial deformities.<ref name="dc-ency"/><ref>''[[Adventures of Superman (comic book)|The Adventures of Superman]]'' #540 (1996)</ref>
+
+Left in the care of an unscrupulous scientist called "Doc 30", he escaped while Douglas remained behind. When the Earth was dying due to the extinguishing of the sun in the so-called ''[[Final Night]]'', he first helps [[Perry White]], who was determined the [[Daily Planet]] would not miss one day of delivery. Then he becomes involved with the Legion of Super-Heroes, who had become stranded in the present day. This team joins with dozens of other superheroes to help try to save the Earth. Ferro comes close to heroically sacrificing his life in an effort to stop the Sun-Eater. At the last instant, he is saved by [[Hal Jordan]], who was maintaining the power and identity of [[Parallax (comics)|Parallax]]. Jordan seemingly sacrifices his own life and the sun is restored. Ferro remains with the team, although it was some time before they informed him they were from the 31st Century.<ref name="dc-ency"/>
+
+When the Legion were able to return to their home time, Ferro went with them and served with them for some time until several of the team were [[Legion Lost|lost]] in a rift, and the remainder ordered to disband. After this he went with [[Karate Kid (comics)|Karate Kid]] to a [[monastery]] on the planet Steeple, a planet only accessible for short periods every ten years before a black hole prevented access once more. While there, he finally learned to deal with his deformity, but he was savagely beaten by an escaped convict and, while the monks were able to save his life, he was trapped in iron form with the helmet he wore fused to his face. Moreover, he and Karate Kid, who had refused to leave his friend behind, were now trapped on the planet for ten years.{{Citation needed|date=February 2010}}
+
+[[Brainiac 5]] was able to use the Threshold technology he had learned of during his time lost to open a path to Steeple, but before anyone could use it, he, along with all of the Legion (bar [[Sensor (comics)|Sensor]] and [[Shikari (DC Comics)|Shikari]]) and several whole planets were entranced by [[Universo]].{{Citation needed|date=February 2010}} Sensor and Shikari were forced to use the unstable link to Steeple to escape, and the four of them were able to free [[Saturn Girl]] who, with aid from [[Apparition (comics)|Apparition]] and [[Ultra Boy]]'s child, Cub, was able to defeat Universo, while Ferro and Karate Kid rejoined the team.{{Citation needed|date=February 2010}}
+
+===The Lightning Saga===
+The events of the ''[[Infinite Crisis]]'' miniseries have apparently restored a close analogue of the pre-''[[Crisis on Infinite Earths|Crisis]]'' Legion to continuity, as seen in "[[The Lightning Saga]]" story arc in ''[[Justice League of America]]'' and ''[[Justice Society of America]]'', and in the "[[Superman and the Legion of Super-Heroes (comics)|Superman and the Legion of Super-Heroes]]" story arc in ''[[Action Comics]]''. Andrew is depicted as a member of this version of the team in ''Justice Society of America'' (vol. 3) #5 (June 2007), and ''Action Comics'' #858 (late December 2007). However, this incarnation of the Legion shares roughly the same history as the original Legion up to the events of ''Crisis on Infinite Earths''.<ref>[http://uk.comics.ign.com/articles/828/828574p1.html IGN: Superman/Green Lantern interview] {{webarchive|url=https://web.archive.org/web/20120209150438/http://uk.comics.ign.com/articles/828/828574p1.html |date=2012-02-09}}</ref> Therefore, this version of Andrew is presumably deceased.
+
+==Powers==
+Ferro Lad had the superhuman ability to transform his body into a nearly indestructible isotope of iron. Unlike Stone Boy, Ferro Lad had full mobility and could think and speak normally. His iron-like form could resist considerable damage, including direct hits by laser blasts, and he was able to survive unprotected in the vacuum of space. He could use his ability offensively by ramming his iron-hard body into an opponent or an obstacle. His physical strength also increased when in his iron state, allowing him to bend metal bars or reshape scrap metal like clay.
+
+==Equipment==
+As a member of the [[Legion of Super-Heroes]] he was provided a Legion Flight Ring. It allowed him to fly and protects him from the vacuum of space and other dangerous environments. He also had a radio built into his mask which allowed him to communicate with others while in airless space.
+
+==Other versions==
+In ''Legion of Super-Heroes'' (vol. 2) #300, an alternate universe is glimpsed by Andrew Nolan's brother, Douglas. Here, it is shown that shortly after Andrew's death against the Sun-Eater, Douglas became the second Ferro Lad in a parallel timeline.
+
+In [[Amalgam Comics]], Ferro Lad combines with Marvel's [[Colossus (comics)|Colossus]] to create Ferro Man of the X-Patrol.
+
+==In other media==
+===Animation===
+* Ferro Lad first appeared in the ''[[Legion of Super Heroes (TV series)|Legion of Super Heroes]]'' episode "Chain of Command", voiced by [[Dave Wittenberg]]. In that episode, he assists [[Cosmic Boy]] (who recently returned to the Legion) to help save [[Garth Ranzz|Lightning Lad]]'s planet. True to the original story, he sacrifices himself destroying the Sun-Eater shortly after his joining of the Legion. At the end of the season one finale title "Sundown" a piece of floating rock, following the destruction of the Sun-Eater, shows the body of Ferro Lad curled into a ball. This was shown during Ferro Lad's funeral. He is the first character in the ''Legion of Superheroes'' TV series to die. According to producer James Tucker, Ferro Lad's long lost twin brother would have appeared if the show had been renewed for a third season.<ref>{{Cite web|url=http://www.worldsfinestonline.com/WF/bravebold/backstage/interviews/wftucker.php|title = The World's Finest - Batman: The Brave and the Bold}}</ref>
+* Ferro Lad's statue is seen in the hall of honor of the old Legion's headquarters in the ''[[Justice League Unlimited]]'' episode "Far from Home". 
+* Ferro Lad's statue is seen in the direct-to-video movie ''[[Justice League vs. the Fatal Five]]''.
+
+==See also==
+* [[The Death of Ferro Lad]]
+* ''[[The Final Night]]''
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://web.archive.org/web/20070904162326/http://www.majorspoilers.com/archives/2245.htm/ A Hero History Of Ferro Lad]
+
+{{Jim Shooter}}
+{{Legion of Super-Heroes}}
+{{Superman characters}}
+[[Category:DC Comics characters who are shapeshifters]]
+[[Category:DC Comics characters with superhuman strength]]
+[[Category:DC Comics metahumans]]
+[[Category:DC Comics male superheroes]]
+[[Category:Comics characters introduced in 1966]]
+[[Category:Characters created by Jim Shooter]]
+[[Category:Twin characters in comics]]

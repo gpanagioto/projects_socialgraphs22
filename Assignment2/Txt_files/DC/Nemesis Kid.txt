@@ -1,0 +1,60 @@
+{{short description|DC Comics character}}
+{{Superherobox <!--Wikipedia:WikiProject Comics-->
+| image = Nemesis Kid.jpg
+| caption =
+| character_name = Nemesis Kid
+| publisher = [[DC Comics]]
+| debut = ''[[Adventure Comics]]'' #346 (July 1966)
+| creators = [[Jim Shooter]]
+| alter_ego = Hart Druiter
+| full_name =
+|homeworld= Myar (31st century)
+|species= [[Metahuman]]
+| alliances = [[Legion of Super-Heroes]]<br/>[[Legion of Super-Villains]]
+| aliases = <!-- optional: actual identities the character uses, not nicknames -->
+| supports= 
+| powers = Spontaneously develops powers to defeat a single opponent
+|villain=y|hero=y}}
+'''Nemesis Kid''' is the alias of '''Hart Druiter''', a <!--Do not add "fictional" as it is tautological; supervillains (and characters in general) are by definition implied to be fictionalized to some extent.-->[[supervillain]] in the [[DC Comics]] [[DC Universe|universe]]. He lives in the [[future]], comes from the planet Myar, and is an enemy of the [[Legion of Super-Heroes]]. Created by [[Jim Shooter]], Nemesis Kid first appeared in ''[[Adventure Comics]]'' #346 (July 1966).<ref>{{cite book |last1=Wells |first1=John |title=American Comic Book Chronicles: 1965-1969 |date=2014 |publisher=TwoMorrows Publishing |isbn=978-1605490557 |page=110}}</ref>
+
+==Fictional character biography==
+In his first appearance, Hart Druiter applied to the Legion of Super-Heroes to be a member, along with [[Princess Projectra]], [[Karate Kid (comics)|Karate Kid]], and [[Ferro Lad]].<ref>''Adventure Comics'' #346 (July 1966)</ref> He identified himself as a native of the planet Myar, the "Alchemy Planet", and claimed he had created a mystical potion that gave him his powers. He was actually sent to infiltrate the Legion of Super-Heroes on behalf of the alien [[Khund]]s. When his deception was revealed, he tried to frame [[Karate Kid (comics)|Karate Kid]] as the traitor; when that failed, he fled.<ref>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Manning |first3=Matthew K. |last4=McAvennie |first4=Michael |last5=Wallace |first5=Daniel |title=DC Comics Year By Year: A Visual Chronicle |date=2019 |publisher=DK Publishing |isbn=978-1-4654-8578-6 |page=112}}</ref>
+
+He later became a founding member of the [[Legion of Super-Villains]] under Tarik the Mute.<ref>''Adventure Comics'' #372 (September 1968)</ref> When a later incarnation of the group invaded the [[planet]] [[Orando]] under Druiter's leadership, Nemesis Kid engaged Karate Kid in single combat. Before the fight ended Karate Kid sacrificed himself to stop the Legion of Super-Villains' plans, dealing Nemesis Kid a final blow.  Karate Kid's widow, [[Princess Projectra|Queen Projectra]], attacked Nemesis Kid using her power to generate [[illusion]]s. Though he had adapted an immunity to her illusions, Projectra intimidated him with her noble fury over the death of her consort (thus immobilizing him from counterattacking and/or preventing him from concentrating to gain a new adaptation) then she broke his neck, executing him as her royal privilege as ruler of Orando.
+
+At least five years later, Nemesis Kid was resurrected by [[Mordru]], along with every other corpse in the 30th century, as part of the sorcerer's scheme to take over the universe. His reanimated corpse retained his powers, but he was defeated and his body was incinerated, presumably disposing of him for good.
+
+In his original Pre-Crisis appearances, Nemesis Kid only suffered three defeats in single combat. Duo Damsel defeated him since his power would not work on her two bodies.<ref>''Adventure Comics'' #372 (September 1968)</ref> Projectra intimidated him from using his power thus freeing her to execute him ("Look into my eyes, churl!"). As a resurrected corpse, he proved immune to Projectra's illusions but she turned his strength against him and threw him into a fire, incinerating his corpse.
+
+Nemesis Kid did not appear in the "[[Legion of Super-Heroes (1994 team)|reboot Legion]]". In the [[Legion of Super-Heroes (2004 team)|"threeboot" continuity]], he appeared in ''Supergirl and the Legion of Superheroes'' #22 as a member of a group later identified as [[Mekt Ranzz]]'s [[Wanderers (comics)|Wanderers]]. Other than a talent for computer hacking, possibly metahuman-enhanced, he displayed no super-human abilities.
+
+==Powers and abilities==
+Nemesis Kid possessed the [[superhuman]] ability to spontaneously develop the powers appropriate to defeat any ''single'' opponent for the duration of the battle, though against more than one opponent his powers would either work against only one target, allow him to escape the situation via teleportation, or fail to work at all. In one recorded instance (''Karate Kid'' #1), he displayed the ability to choose adaptations but his choices were less than successful. In all other cases, his power somehow "sensed" what would be most effective against a given opponent and generated an adaptation automatically.
+
+Nemesis Kid never manifested any but the most basic and direct power to counter an opponent. Thus, against Superboy or Supergirl he would gain superior strength and resistance to damage, rather than the ability to emit kryptonite radiation. His power only provided abilities to beat a single opponent's skill set. Because of this, he typically sought out the most powerful opponent whenever possible. Nemesis Kid's powers were never shown to give him immunity to harm caused by an opponent which is why both Superboy and Karate Kid could injure him, and Projectra was ultimately able to kill him. His power simply seemed to assure that he would inevitably win a conflict against a single opponent.
+
+It is not known what the upper limits of his powers were, or if they could generate an adaptation powerful enough to match cosmic menaces such as the [[Anti-Monitor]], the [[Monarch (comics)|Monarch]], [[Imperiex]], or [[Mordru]]. While Nemesis Kid could adapt to defeat robots, in the first issue [[Brainiac 5]] built a cell that could resist Nemesis Kid's adaptations. He escaped it by "adapting" the power of time travel, and traveling to a point in time when the cell wasn't built. It was never shown if Nemesis Kid could adapt to defeat non-sentient items, such as automated weaponry firing upon him, or adapt to an opponent in anything other than a physical contest. Despite his villainous nature, he somehow passed the Legion's customary (and undepicted) test of a candidate's good character, which could indicate other forms of adaptation. On at least one occasion, Nemesis Kid displayed a profound fear response when he and his LSV partners were confronted by the heroic Legion. This allowed Projectra to defeat him with a simple demonic illusion, which reduced him to a fearful wreck.
+
+Nemesis Kid was purportedly a skilled alchemist, but he has never displayed any ability and/or interest in creating other mystical potions, so the claim may have been a cover story to disguise his power's true origin. He has a passing knowledge of 30th century technology and a basic understanding of tactics and strategy.
+
+==In other media==
+Nemesis Kid appeared in the [[Legion of Super Heroes (TV series)|''Legion of Super Heroes'']] episode "The Karate Kid", voiced by [[Keith Ferguson (voice actor)|Keith Ferguson]]. Unlike his original comic book incarnation, this version was truly a hero and had the inherent ability to temporarily nullify anyone else's superpowers and was a member of a special unit of the [[Science Police]]. The origin and extent of his abilities is not revealed. He joined the Legion and assisted in taking down [[Grimbor the Chainsman]]. Grimbor uses a weapon that he claims is inspired by Nemesis Kid's power and it appears to be identical in effect, but whether there is some closer connection between the two is not revealed. Presumably there is an upper limit to his nullification ability as the Legion have not used Nemesis Kid in subsequent anticipated encounters against [[Imperiex]].
+
+==See also==
+*[[One of Us is a Traitor]]
+
+==References==
+{{Reflist|2}}
+
+
+==External links==
+* http://www.dcuguide.com/who.php?name=nemesiskid
+
+{{Legion of Super-Heroes}}
+{{Jim Shooter}}
+[[Category:Fictional empaths]]
+[[Category:Comics characters introduced in 1966]]
+[[Category:DC Comics extraterrestrial supervillains]]
+[[Category:DC Comics supervillains]]
+[[Category:DC Comics metahumans]]
+[[Category:Characters created by Jim Shooter]]

@@ -1,0 +1,6 @@
+#redirect [[Technet (comics)]]
+
+{{Redirect category shell|1=
+{{R from related topic}}
+{{R from fictional character|Marvel Comics}}
+}}

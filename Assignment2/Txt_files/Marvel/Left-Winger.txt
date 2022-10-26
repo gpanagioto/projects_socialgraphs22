@@ -1,0 +1,55 @@
+{{Infobox comics character <!--Wikipedia:WikiProject Comics--> 
+|image=
+|caption=
+|character_name=Left-Winger
+|real_name=Hector Lennox
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Captain America (comic book)|Captain America]]'' #323 (Nov. 1986)
+|creators=[[Mark Gruenwald]]<br>[[Paul Neary]]
+|status=
+|alliances=Buckies<br>[[Legion of the Unliving]] II
+|partners=[[Right-Winger (comics)|Right-Winger]]
+|aliases=
+|relatives=
+|powers=Moderate street fighter and wrestler<br>Superhuman strength, stamina, reflexes/reactions and endurance<br>Carries a torch-sabre 
+}}
+
+'''Left-Winger''' is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Publication history==
+{{expand-section|date=April 2020}}
+He first appeared in ''[[Captain America (comic book)|Captain America]]'' #323 (Nov. 1986).<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=211}}</ref>
+
+==Fictional character biography==
+Hector Lennox was born in [[Houston, Texas]]. He was a U.S. Army veteran who grew bored during peace-time service. He signed up for the [[Power Broker (character)|Power Broker]]'s strength augmentation process, and joined the Unlimited Class Wrestling Federation. Later, his army friend John Walker, the [[Super-Patriot]], approached him to form a team of superhumans. This new team was known as the B.U.C.s (Bold Urban Commandos) or "Buckies", and consisted of Lennox, [[Battlestar (comics)|Lemar Hoskins]], and [[Right-Winger (comics)|Jerome Johnson]].
+
+The Super-Patriot publicly spoke out against the original [[Captain America]], and the Buckies (who pretended to be Cap's supporters) staged opposition to Walker and pretended to attack him at a rally in [[Central Park]] as a publicity stunt. Walker defeated these protesters and proclaimed to Captain America that the people should decide who was worthy of being Captain America.<ref>''Captain America'' #323</ref> Left-Winger also participated in an attack on foreign students.<ref name="Captain America #334">''Captain America'' #334</ref> Eventually, the [[Commission on Superhuman Activities]] selected Walker to replace Steve Rogers as Captain America, and chose Lemar Hoskins to become his partner Bucky (and later as Battlestar).{{issue|date=March 2013}}
+
+Lennox and Johnson were left behind, feeling betrayed and angered. They chose the names Left-Winger and Right-Winger respectively. They wore stolen [[Guardsman (comics)|Guardsmen]] armor and battled Walker and Hoskins.<ref name="Captain America #334"/> The pair upstaged the new Captain America at a patriotic rally and press conference, attacking him and revealing Walker's identity to the press out of jealousy over his new-found success.<ref>''Captain America'' #341</ref> As a result, Walker's parents were killed by the militia group [[Watchdogs (Marvel Comics)|The Watchdogs]], nearly driving Walker into a mental breakdown. Walker blamed his former partners for his parents' deaths, and he stalked them. When he caught up to Left-Winger and Right-Winger, he tied them to an oil tank which was detonated by a torch-saber and left them to die.<ref>''Captain America'' #347</ref> They barely survived the explosion due to their bodies' enhanced physiology, leaving them terribly burned and in critical condition.
+
+Later, Walker became the [[U.S. Agent (comics)|U.S. Agent]] and joined the [[West Coast Avengers]]. Left-Winger and Right-Winger, alongside several others, were plucked from different time periods by [[Immortus]] to serve in the third [[Legion of the Unliving]]. They battled U.S. Agent, who slew them again not believing them to be authentic.<ref>''Avengers West Coast'' #61</ref>
+
+Eventually, it was revealed to Walker that the pair had survived the explosion and were hospitalized in Houston. After undergoing painful treatment for the burns they received, they had committed suicide. When Walker learned of this, he was remorseful.<ref>''Captain America'' #383</ref>
+
+==Powers and abilities==
+As a result of augmentation of his physical attributes by Dr. [[Karl Malus]] on behalf of the [[Power Broker (character)|Power Broker]], Left-Winger has superhuman strength, stamina, reflexes & reactions, and endurance.
+
+Left-Winger carries a torch-sabre which would ignite at the touch of a button and projected a foot-long fiery "blade" as hot as a blowtorch. It can burn through {{convert|2|in|mm|sing=on}} thick steel within seconds.
+
+Left-Winger had moderate street-fighting experience, basic army training, and rigorous wrestling training.
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://web.archive.org/web/20071013195958/http://marvel.com/universe/Left-Winger]
+
+{{Captain America}}
+
+{{DEFAULTSORT:Left-Winger (Comics)}}
+[[Category:Characters created by Mark Gruenwald]]
+[[Category:Characters created by Paul Neary]]
+[[Category:Comics characters introduced in 1986]]
+[[Category:Fictional characters from Texas]]
+[[Category:Fictional Vietnam War veterans]]

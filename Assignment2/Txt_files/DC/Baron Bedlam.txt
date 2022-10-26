@@ -1,0 +1,58 @@
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|image = Badsamaritandcu0.jpg
+|imagesize = 
+|converted = y
+|caption = Baron Bedlam and the Bad Samaritan in ''Batman and the Outsiders''.
+|alter_ego = Baron Frederick DeLamb
+|publisher=[[DC Comics]]
+|debut = ''[[Batman and the Outsiders]]'' #1 (August 1983) 
+|creators = [[Mike W. Barr]] (writer)<br>[[Jim Aparo]] (artist)
+|species   = <!-- optional -->
+|homeworld = <!-- optional -->
+|alliances = <!-- optional -->
+|partners  = <!-- optional -->
+|supports  = <!-- optional -->
+|aliases   =  <!-- optional: actual identities the character uses, not nicknames -->
+|powers = Superior fighter and tactician<br>'''Formerly'''<br>Superhuman strength, endurance, and durability<br>Flight<br>Lava blasts<br>Gravity manipulation<br>Earth manipulation
+|cat = super
+|subcat = DC Comics
+|hero = n
+|sortkey = Baron Bedlam
+}}
+
+'''Baron Bedlam''' ('''Baron Frederick DeLamb''') is a [[supervillain]] appearing in [[American comic books]] published by [[DC Comics]]. The character first appeared in ''[[Batman and the Outsiders]]'' #1 (August 1983).
+
+==Fictional character biography==
+Baron Bedlam is really Baron Frederick DeLamb ("Bedlam" is an anagram of his last name). DeLamb's father, formerly a minor government official in the kingdom of Markovia, was installed as a puppet ruler by the [[Nazism|Nazis]] during [[World War II]]. It was during this time that Bedlam made advances to a young woman. She became very distressed over this and smashed a bottle into his face. Bedlam gained a prominent scar from that incident, and the woman was executed. At the end of the war, American forces helped the Markov family reclaim the throne. Even though Frederick managed to flee the country, his father was hanged by the mob.
+
+Years later, Frederick DeLamb, taking the name Baron Bedlam, gains the support of the Soviet army and the mysterious political manipulator [[Bad Samaritan (comics)|Bad Samaritan]]. Bedlam murders King Viktor and seizes the throne. Soviet and Markovian forces battle, leading to deaths on both sides.
+
+The crown prince, [[Geo-Force|Brion Markov]], with the aid of the scientist Dr. Jace, gains superpowers for the express purpose of stopping this invasion. With the aid of other superheroes, a grouping under [[Batman]]'s leadership that would soon call themselves the [[The Outsiders (comics)|Outsiders]], they infiltrate the country. But having heard of Dr. Jace's work in metahuman research, Bedlam underwent a similar process Prince Markov did and gained similar Earth Shattering abilities. In order to aid in the invasion of Markovia and depose King Gregor to take back the country.<ref>''Outsiders'' #1</ref> In the final confrontation between Bedlam's forces and Markovia's outmatched army, the Outsiders intervene, turning the tide of the battle. Geo-Force apparently kills Bedlam by dropping him into a raging mob. Bedlam survives this, however, and has returned many times to face the team.<ref>''Outsiders'' #2</ref>
+
+Soon after, the Outsiders confront another aspect of Bedlam's forces, the super-powered [[Masters of Disaster (comics)|Masters of Disaster]]. The two groups engage in a prolonged battle. In the meantime, the Bad Samaritan also discovers Bedlam's plan to clone [[Adolf Hitler]], when it's revealed that he was indeed killed but cloned back to life in a similar process.  Bedlam was not pleased at this and attacks his ally. The clone project ultimately ends in failure. The new Hitler ends up being greatly distressed at what his 'father' has done and has no wish to continue the madness.<ref>''Adventures of the Outsiders'' #34 (June 1986)</ref> The Hitler clone later commits suicide, his body being found by the Outsiders. 
+
+At one point, in the ''Outsiders'' 1987 special, DeLamb's Baron Bedlam identity is usurped by the [[Psycho Pirate]].<ref>{{cite web|url=http://www.mykey3000.com/cosmicteams/tommorrow/B/Baronbedlam.htm |title=Baron Bedlam |author=<!--Staff writer(s); no by-line.--> |date= |website=mykey3000.com |publisher= |access-date= |archivedate=14 May 2006 |archiveurl=https://web.archive.org/web/20060514114946/http://www.mykey3000.com/cosmicteams/tommorrow/B/Baronbedlam.htm |quote=}}</ref>
+
+==Powers and abilities==
+Baron Bedlam is a superior fighter, a ruthless tactician and he possesses unlimited financial resources. He once underwent the same Geo-Force enhancement process which bestowed Brion Markov his unique metahuman abilities. Though Bedlam's were further along than the Prince's, given his ability to manipulate the earth long before Brion could. But because Fredrick was not of the royal line in Markovian principality, Bedlam's faulty powers shorted out in heated battle with the revived hero, leaving him powerless once more.<ref>''Outsiders'' #2</ref>
+
+==Other versions==
+The name Baron Bedlam has recently been taken by another DC supervillain, formerly known as [[Doctor Bedlam]].
+
+==In other media==
+Baron Frederick DeLamb / Baron Bedlam appears in ''[[Young Justice: Outsiders]]'', voiced by [[Nolan North]]. This version is the brother of Markovia's queen and biological uncle of Princes Gregor and [[Geo-Force|Brion Markov]] who runs a secret [[metahuman]] trafficking syndicate in Markovia called Bedlam and has also undergone metahuman experimentation, which gave him a stone-like body capable of withstanding lava and [[Superboy (Kon-El)|Superboy]]'s punches with no visible damage. DeLamb orchestrates a coup by hiring a [[Speedster (fiction)|speedster]] to murder the king and queen, and then attempts to frame Brion for his crimes. However, Gregor easily sees through his uncle's lies and has him arrested after Superboy defeats DeLamb. DeLamb later escapes captivity and attempts to regain the throne, but is killed by Brion, who was secretly manipulated by [[Bad Samaritan (comics)|Zviad Baazovi]] into doing so.
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://web.archive.org/web/20060514114946/http://www.mykey3000.com/cosmicteams/tommorrow/B/Baronbedlam.htm Cosmic Teams: Baron Bedlam]
+
+{{Outsiders (comics)}}
+
+[[Category:Characters created by Mike W. Barr]]
+[[Category:Characters created by Jim Aparo]]
+[[Category:DC Comics supervillains]]
+[[Category:Fictional barons and baronesses|Bedlam. Baron]]
+[[Category:Comics characters introduced in 1983]]
+[[Category:DC Comics metahumans]]

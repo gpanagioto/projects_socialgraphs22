@@ -1,0 +1,76 @@
+{{Short description|Marvel Comics fictional character}}
+{{about|the comic book character|the ancient city|Phaistos|the modern municipality|Faistos}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|character_name=Phastos
+|image=Phastosmu0.png
+|imagesize=200
+|converted=y
+|caption=Phastos.<br>Art by [[Mark Texeira]].
+|publisher=[[Marvel Comics]]
+|debut=''[[Eternals (comics)|The Eternals]]'' (vol. 2) #1 (October 1985)
+|creators=[[Peter B. Gillis]]<br/>[[Sal Buscema]]
+|alter_ego =
+|species = [[Eternals (comics)|Eternal]]
+|homeworld = <!-- optional -->
+|alliances =
+|aliases = Hephaestus, Vulcan, Phillip Stoss
+|supports=<!--optional-->
+|powers = Eternal body grant superhuman speed, strength, durability and regeneration<br>Cosmic energy manipulation<br>Flight<br>Illusion generation<br>Matter transmutation<br>Teleporation
+|cat=super
+|subcat=Marvel Comics
+|sortkey=Phastos
+}}
+
+'''Phastos''' is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. He first appeared in ''[[Eternals (comics)|The Eternals]]'' (vol. 2) #1 (October 1985). He is a member of the [[Eternals (comics)|Eternals]], a human offshoot race in the [[Marvel Universe]].
+
+[[Brian Tyree Henry]] portrays Phastos in the [[Marvel Cinematic Universe]] film ''[[Eternals (film)|Eternals]]'' (2021).
+
+==Publication history==
+{{Expand section|date=July 2019}}
+Phastos first appeared in ''[[Eternals (comics)|The Eternals]]'' (vol. 2) #1 (October 1985), created by writer [[Peter B. Gillis]] and artist [[Sal Buscema]].
+
+==Fictional character biography==
+Phastos's history is very murky. He is a third or fourth generation Eternal who chose to remain on Earth because of his obsessive search for an unidentified item or person.{{issue|date=July 2019}} He continues to serve as the master technologist for the Eternal race, and it was his genius which allowed [[Virako]] to return from apparent death.{{issue|date=July 2019}} Although he despises [[war]], Phastos chose to follow [[Ikaris]] into battle against the minions of [[Apocalypse (comics)|Apocalypse]].<ref>''The New Eternals: Apocalypse Now'' (February 2000)</ref>
+
+Phastos is shown living under the name '''Phillip Stoss''',<ref>''Eternals'' (vol. 4) #1</ref> before having his real identity revealed to him.{{issue|date=July 2019}}
+
+==Powers and abilities==
+Phastos' Eternal body is superhumanly fast, strong, tough, and can regenerate. He can project "Cosmic Energy" in the form of beams from his eyes and hands.  His cosmic energy manipulation allows flight, illusion generation, matter transmutation, and teleportation.
+
+Phastos carries a special hammer capable of firing bolts of an unknown energy.
+
+Phastos is also a brilliant engineer, technologist and inventor.
+
+==In other media==
+===Film===
+* Phastos appears in ''[[Eternals (film)|Eternals]]'', portrayed by [[Brian Tyree Henry]].<ref>{{Cite magazine|url=https://ew.com/comic-con/2019/07/20/marvel-eternals-comic-con/|title=Marvel introduces 'The Eternals' at Comic-Con with Angelina Jolie, Richard Madden, and more|last=Coggan|first=Devan|magazine=[[Entertainment Weekly]]|date=July 20, 2019|accessdate=July 23, 2019|archiveurl=https://web.archive.org/web/20190721135516/https://ew.com/comic-con/2019/07/20/marvel-eternals-comic-con/|archivedate=July 21, 2019}}</ref> He is an Eternal and an intelligent weapons and technology inventor.<ref name="EWCharactersAug2021">{{Cite magazine |last=Coggan |first=Devan |date=August 18, 2021 |title=Meet the Eternals: A guide to Marvel's 10 newest heroes |url=https://ew.com/movies/eternals-character-guide/ |url-status=live |archive-url=https://web.archive.org/web/20210818141807/https://ew.com/movies/eternals-character-guide/ |archive-date=August 18, 2021 |access-date=August 18, 2021 |magazine=[[Entertainment Weekly]]}}</ref> He is the first superhero to be depicted as gay in an MCU film.<ref name="SleimanFeb2020">{{Cite web |last=Ferber |first=Lawrence |date=February 13, 2020 |title=Haaz Sleiman on "Little America" and Kissing Marvel's First Gay Superhero |url=https://www.newnownext.com/haaz-sleiman-on-little-america-gay-kiss-in-marvels-eternals-bottom-power/02/2020/ |url-status=live |archive-url=https://web.archive.org/web/20200213184715/https://www.newnownext.com/haaz-sleiman-on-little-america-gay-kiss-in-marvels-eternals-bottom-power/02/2020/ |archive-date=February 13, 2020 |access-date=February 13, 2020 |website=[[NewNowNext]]}}</ref> Phastos was sent to Earth in 5,000 BC to progress the planet's societal development, and protect it from the [[Deviants (Marvel Cinematic Universe)|Deviants]]. He guided and progressed many technological revolutions throughout the course of human history, but fell into a state of dejection when he realized that the tools he introduced to humanity were used in August 1945 to create the [[Fat Man|first atom bomb]] which resulted in monumental loss of human life. Blaming himself, he grew distant from his fellow Eternals. In the present day, Phastos settled and started a family with his husband Ben and they raised a son named Jack. He met again with the Eternals to prevent a new wave of Deviants led by [[Kro (Marvel Cinematic Universe)|Kro]], and realized their true purpose; to pave the way for the Emergence of Earth, which would lead to the birth of Tiamut and result in the destruction of the planet. The Eternals were divided, with Phastos sidestepping to protect the planet and prevent the Emergence from occurring. By choosing to save the planet and its occupants rather than allow the Emergence to occur, Phastos was abducted from Earth by [[Arishem (Marvel Cinematic Universe)|Arishem]] (who plans to observe their memories to see if humanity is worthy enough to live) to places unknown.
+
+==Notes==
+{{Reflist}}
+
+==References==
+{{refbegin}}
+* [http://www.marveldirectory.com/individuals/p/phastos.htm Phastos] at the Marvel Directory
+* {{comicbookdb|type=character|id=6296|title=Phastos}}
+{{refend}}
+
+==External links==
+* [http://www.marvel.com/universe/Eternals The Eternals] at the Marvel Universe
+* [http://marvel.wikia.com/wiki/Phastos Phastos] at the Marvel Database Project
+
+{{Eternals}}
+
+[[Category:Characters created by Sal Buscema]]
+[[Category:Comics characters introduced in 1985]]
+[[Category:Eternals (comics)]]
+[[Category:Fictional engineers]]
+[[Category:Fictional hammer fighters]]
+[[Category:Fictional inventors]]
+[[Category:Fictional LGBT characters in film]]
+[[Category:Marvel Comics characters who can move at superhuman speeds]]
+[[Category:Marvel Comics characters who can teleport]]
+[[Category:Marvel Comics characters with accelerated healing]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics LGBT superheroes]]
+
+{{Marvel-char-stub}}

@@ -1,0 +1,6 @@
+#REDIRECT [[Bob, Agent of Hydra]]
+
+{{Redirect category shell|
+{{R from modification}}
+{{R from move}}
+}}

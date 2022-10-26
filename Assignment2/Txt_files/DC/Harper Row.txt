@@ -1,0 +1,97 @@
+{{short description|DC Comics character}}
+{{Infobox comics character
+| character_name = Bluebird
+| image          = DC Comics Bluebird Batman 28.png
+| caption        = Harper Row in costume as Bluebird, posing with her weapons; art by [[Dustin Nguyen (artist)|Dustin Nguyen]].
+| publisher      = [[DC Comics]]
+| debut          = '''As an unnamed woman''': ''Batman'' (vol. 2) #1 (September 2011) <br />'''As Harper Row''': ''Batman'' (vol. 2) #7 (March 2012) <br />'''As Bluebird''': ''Batman'' (vol. 2) #28 (February 2014)
+| first_series   =
+| first_episode  =
+| first_comic    =
+| creators       = [[Scott Snyder]]<br />[[Greg Capullo]]
+| voiced_by      =
+| based_on       =
+| alter_ego      = Harper Row
+| full_name      =
+| species        = <!-- optional -->
+| homeworld      = <!-- optional -->
+| alliances      = [[List of Batman supporting characters#Bat-Family|Batman Family]]<br/>
+| partners       = 
+*[[Batman]]
+*[[Tim Drake]]
+*[[Stephanie Brown (comics)|The Spoiler]]
+*[[Cassandra Cain]]
+*[[Jason Todd]]
+| supports       =
+| aliases        = <!-- optional -->
+| powers         =
+* Electrical and mechanical engineering savant
+* Acrobatics
+* Athletics 
+* Expert Marksmanship
+* Advanced hand-to-hand combatant
+* Expert kick-boxer
+| cat            =super
+| subcat         =DC Comics
+| hero           =y
+| villain        =
+| sortkey        = Bluebird
+| addcharcat#    =
+}}
+
+'''Bluebird''' ('''Harper Row''') is a [[fictional character]] appearing in American comic books published by [[DC Comics]]. She is a [[List of Batman supporting characters|supporting character]] of [[Batman]]. Harper Row was created by writer [[Scott Snyder]] and artist [[Greg Capullo]],<ref>{{cite news|last=Santori-Griffith|first=Matthew|title=Interview: Scott Snyder and Greg Capullo Revisit Batman's ZERO YEAR|newspaper=Comicosity &#124; Comic Book News, Reviews, Previews, and Interviews|date=22 August 2013|url=http://www.comicosity.com/interview-snyder-capullo-batman/|publisher=Comicosity|access-date=February 18, 2014}}</ref> first appearing in ''[[Batman (comic book)|Batman]]'' (vol. 2) #7 (March 2012), before debuting as Bluebird in ''Batman'' #28 (February 2014).<ref name = "Vaneta Rogers 1">{{cite web | last = Rogers | first = Vaneta | title = Robin Is Dead, So Meet Batman's New Comic Book Sidekick | publisher = MTV.com News | date = February 12, 2014 | url = http://www.mtv.com/news/articles/1722145/batman-comic-new-sidekick.jhtml | access-date = February 17, 2014}}</ref> Harper Row's Bluebird identity was designed by artist [[Dustin Nguyen (artist)|Dustin Nguyen]].<ref>{{cite web | last = Zalben | first = Alex | title = SCOTT SNYDER Talks BLUEBIRD, SPOILER & BATMAN's 'New Generation of Allies' |publisher = Newsarama | date = February 12, 2014 | url = http://www.newsarama.com/20308-scott-snyder-talks-bluebird-spoiler-batman-s-new-generation-of-allies.html | access-date = February 17, 2014}}</ref> Within the fictional [[DC Universe]], Harper Row officially joins Batman's group of allies during the events of ''[[Batman Eternal]]'', a year-long weekly [[maxiseries]].
+
+Instead of taking on the mantle of [[Robin (comics)|Robin]], which is traditionally that of Batman's sidekick, Harper Row instead adopts an entirely new superhero identity, Bluebird. Her appearance marks the arrival of the first new "Bat-family" character in ''Batman'' comics since DC relaunched its entire line in 2011 as part of its [[The New 52]] publishing event.<ref name = "Russ Burlingame 1">{{cite web | last = Burlingame | first = Russ | title = Batman, Meet Bluebird: Harper Row's Role Revealed in Today's Issue | publisher = Comicbook.com | date = February 12, 2014 | url = http://comicbook.com/blog/2014/02/12/batman-meet-bluebird-harper-rows-role-revealed-in-todays-issue/ | access-date = February 17, 2014}}</ref>
+
+==Publication history==
+Harper Row first appeared as an unnamed cameo in ''Batman'' (vol. 2) #1 (September 2011).<ref name = "Rich Johnston 1">{{cite web |last=Johnston|first=Rich|title=A History Of Harpers Row In Batman #12|url=http://www.bleedingcool.com/2012/08/08/a-history-of-harpers-row-in-batman-12/|publisher=Bleeding Cool|access-date=February 18, 2014|date=August 8, 2012}}</ref> She later made her first full appearance in ''Batman'' (vol. 2) #7 (March 2012), where it is noted that she and Batman have met before. Their previous encounter was detailed in ''Batman'' #12 (Oct. 2012), illustrated by [[Becky Cloonan]]; this issue marked the first time a female artist has worked on the ''Batman'' title.<ref>{{cite web|last=Nagorski|first=Alex|title=Spotlight on BATMAN #12 Guest Artist Becky Cloonan|url=http://www.dccomics.com/blog/2012/08/08/spotlight-on-batman-12-guest-artist-becky-cloonan|publisher=DC Comics|access-date=February 18, 2014|date=August 8, 2012}}</ref> Harper Row next appeared in ''[[Detective Comics]]'' (vol. 2) #21 (August 2013), the first time a writer other than Snyder has written her.
+
+In ''Batman'' (vol. 2) #28 (April 2014), a sneak peek into the future of ''Batman Eternal'', Harper Row makes her debut as Batman's new sidekick Bluebird.
+
+Scott Snyder reportedly based Bluebird on a design created by the daughter of prominent cosplayer Kyrax2.<ref>{{cite web | last = Johnston | first = Rich | title = How Scott Snyder Turned The Batgirl Of San Diego's Daughter Into DC's New Batman Superhero, Bluebird | publisher = Bleeding Cool | date = February 13, 2014 | url = http://www.bleedingcool.com/2014/02/13/how-scott-snyder-turned-a-young-girls-creation-into-their-new-batman-superhero-bluebird/| access-date = February 17, 2014}}</ref> "Harper & Row" was also the name of the major American publishing firm [[Harper (publisher)|Harper]] from 1962 to 1990.<ref name = "Rich Johnston 1" />
+
+==Fictional character biography==
+In early issues featuring Harper Row, she is introduced as a streetwise young woman from the Narrows, one of the roughest neighborhoods in Batman's locale of [[Gotham City]]. She and her brother [[Cullen Row]] are also revealed to be from a broken family with a deceased mother and a deadbeat father who would later end up in jail.<ref name ="Retcon Punch 1">{{cite web | last1 =Logsdon | first1 = Mike | last2=Baumgartner | first2 =Scott | title = Alternating Currents: Batman 18, Mikyzptlk and Scott | publisher = Retcon Punch | date = March 14, 2013 | url = http://retcon-punch.com/2013/03/14/batman-18/ | access-date = February 21, 2014}}</ref> With such humble beginnings, Row did not seem naturally inclined to be a hero. In fact, she made her first appearance stealing food from a Wayne [[Fundraising|charity gala]].<ref name = "Rich Johnston 1" /> However, her life changed when her brother Cullen from being [[gay bashing|gay-bashed]]. After the bullies managed to butcher Cullen's hair with a pair of scissors and Harper used a taser on one of them, they were saved by Batman who defeated the bullies and frightened the remaining one off. Batman's intervention left a lasting impression on the young woman. In addition to shaving her own head in solidarity with her brother, Harper began trying to learn more about Batman in order to assist him in his fight against crime in Gotham. She even managed to discover the devices Batman uses to disable the city's [[Closed-circuit television|security cameras]], and improved them with technology of her own design.<ref name = "Rich Johnston 1" />
+
+Her efforts only earned the Batman's ire; at one point he rewarded Harper's attempts at helping him by breaking her nose. The next day Harper visits Bruce Wayne at Wayne Tower and shows him plans that she thinks will help Batman. To her surprise, Bruce agrees. That night, Batman tracks Harper and apologizes to her. She tells him she may not know the details, but she knows he's going through a lot of pain (the death of [[Damian Wayne]]). She also reminds Batman what he means to the city with a touching and personal story. The issue concludes with Harper's message to Batman broadcast on Wayne Tower. It's one simple word taught to Harper by her mother before her death: "RESOLVE", which just so happens to begin with the letter "R".<ref name = "Retcon Punch 1" />  Even saving Batman's life by pulling his unconscious body out of Gotham Bay and [[defibrillation|restarting]] his heart using only jumper cables and a car battery failed to win him over.<ref name = "Vaneta Rogers 1" />
+
+In ''Batman Eternal'', Harper stows away on board [[Tim Drake|Red Robin (Tim Drake)]]'s plane and, over the course of the series, gains his trust. In issue #41, she suits up as Bluebird for the first time in order to rescue her brother Cullen; Red Robin and his allies [[Barbara Gordon|Batgirl]] and [[Jason Todd|Red Hood]] are caught up in a trap, leaving it up to her.<ref>''Batman Eternal'' #41 (March 2015)</ref> Despite setbacks in her relationship with Batman himself, a near-future flash forward shows that Row eventually manages to overcome Batman's reservations and joins him in fighting crime as Bluebird.<ref name = "Russ Burlingame 1" />
+
+During ''Batman & Robin Eternal'', Harper's mother was murdered by [[Cassandra Cain]], who is eventually revealed to be acting as an agent of 'Mother', a villain who manipulates traumatised children on the grounds that she will make them stronger through trauma (although Cassandra had been sent to kill both of Harper's parents and only killed her mother before she found she couldn't do it). Mother had Harper's mother murdered as part of a plan to 'offer' Harper to Batman as the perfect Robin; Batman had made contact with her to try and expose her long-term agenda and believed that he was meant to kill the parents of the new Robin Mother had chosen for him, when actually he was just sent after two of Mother's other disciples as a test of his loyalty to her ideals while Harper's parents were attacked in Gotham. Despite recognising Harper's qualities would make her an ideal partner, at the time Batman simply forced her surviving father to take responsibility for his role as a parent as he didn't want to benefit from Mother's plan,<ref>''Batman & Robin Eternal'' #21</ref> never revealing the truth even after Harper began working with him as Bluebird. Mother attempts to win Harper to her point of view by arguing that her own family fell apart so that she had to rise up on her own, offering to let Harper kill Cassandra Cain after revealing that Cassandra was the one who killed her mother,<ref>''Batman & Robin Eternal'' #25</ref> but Harper rejects that idea, proclaiming that she grew up because her mother supported and recognised her desire for a better life rather than trying to make Harper be what her mother believed would work. Following Mother's defeat, Harper assures the returned Batman that she understands his reasons for not telling her about his history with Mother and his indirect role in her mother's death, but recent events have prompted her to go to college to receive official qualifications for her electrician skills and explore a life outside of the vigilante role, although Batman assures her as she leaves that Bluebird will always be welcome in Gotham if she decides to suit up again.<ref>''Batman & Robin Eternal'' #26</ref>
+
+In 2016, DC Comics implemented another relaunch of its books called "[[DC Rebirth]]", which restored its continuity to a form much as it was prior to "[[The New 52]]". Harper is a supporting character in James Tynion's run on ''Detective Comics'', where she works as a medical volunteer at [[Leslie Thompkins]]' clinic, and is a friend of Cain (Orphan) and Brown (Spoiler). She also accompanies Batwoman, Spoiler, Orphan and Batwing ([[Luke Fox (character)|Luke Fox]]) to investigate the Victim Syndicate.
+
+During the "Joker War" storyline, Harper takes on the mantle of Bluebird once again as [[Joker (character)|Joker's]] new sidekick Punchline's influence starts affecting Gotham's youngsters, including her brother Cullen.
+
+==Alternate versions==
+===DC Bombshells===
+In an [[alternate history]] version of [[World War II]], Harper Row is a teenage auto mechanic who works at a garage with Kathy Duquesne and Nell Little. She is shown to be a massive fan of [[Kate Kane|Batwoman]].<ref>''DC Comics Bombshells'' #8</ref> During Batwoman's absence in Gotham, Harper along with Kathy and Nell form a team of Batgirls to protect the city. The Batgirls, joined by [[Alysia Yeoh]] and [[Bette Kane]] get into the Pinkey Orphanage to save Harper's brother, Cullen, and the rest of the orphans, who have been used to work on robots for the devious plans of Headmistress Webb.<ref>''DC Comics Bombshells'' #19</ref> They later welcome [[Tim Drake]], Cullen Row and [[Felicity Smoak]] into the team, and create a Bat family.<ref>''DC Comics Bombshells'' #21</ref>
+
+==In other media==
+===Television===
+* A teenage version of Harper Row appears in ''[[Young Justice (TV series)|Young Justice]]'', voiced by [[Zehra Fazal]].<ref>{{Cite web|url=https://twitter.com/zehrafazal/status/1088923055047561216|title=TAIMUR, THANK YOU SO MUCH!!! I love playing two "Harpers", doing my best to catch up to @CrispinFreeman.|last=Fazal|first=Zehra|date=2019-01-25|website=@zehrafazal|language=en|access-date=2019-01-27}}</ref> Introduced in the [[Young Justice: Outsiders|third season]], this version is a rebellious, teenage loner and classmate of [[Halo (DC Comics)|Halo]] and [[Forager (comics)|Forager]]'s who regularly suffers abuse from her alcoholic father alongside her brother Cullen until [[Miss Martian]] eventually takes the Rows to child protective services. As of the fourth season, Harper and Cullen were adopted by [[Snapper Carr]] and Bethany Lee Carr. Harper and Violet have become a couple as of the season four finale.
+* Harper Row will appear in the upcoming ''[[Gotham Knights (TV series)|Gotham Knights]]'', portrayed by Fallon Smythe.<ref>{{Cite web|last=Otterson|first=Joe|date=March 7, 2022|title='Gotham Knights' CW Pilot Casts Fallon Smythe, Tyler DiChiara (EXCLUSIVE)|url=https://variety.com/2022/tv/news/gotham-knights-cw-pilot-cast-fallon-smythe-tyler-dichiara-1235197876/|access-date=March 7, 2022|website=Variety|language=en-US}}</ref>
+
+===Video games===
+Bluebird was originally set to appear as a playable character in ''[[Injustice 2]]'', but was cut for unknown reasons.<ref>{{Cite web|url=https://comicbook.com/gaming/2018/10/12/injustice-2-concept-art-constantine-penguin/|title='Injustice 2' Concept Art Reveals Scrapped Characters Including Constantine, Penguin, and More}}</ref>
+
+==References==
+{{reflist}}
+
+{{Batman characters}}
+
+{{DEFAULTSORT:Row, Harper}}
+[[Category:Characters created by Greg Capullo]]
+[[Category:Comics characters introduced in 2012]]
+[[Category:Comics characters introduced in 2014]]
+[[Category:DC Comics martial artists]]
+[[Category:DC Comics superheroes]]
+[[Category:DC Comics female superheroes]]
+[[Category:Fictional acrobats]]
+[[Category:Fictional electrical engineers]]
+[[Category:Fictional female engineers]]
+[[Category:Fictional marksmen and snipers]]
+[[Category:Fictional bisexual females]]
+[[Category:DC Comics LGBT superheroes]]
+[[Category:Vigilante characters in comics]]
+[[Category:DC Comics sidekicks]]

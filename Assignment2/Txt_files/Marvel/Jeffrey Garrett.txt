@@ -1,0 +1,5 @@
+#REDIRECT [[List of Xavier Institute students and staff]]
+
+{{Rcat shell|
+{{R to related topic}}
+}}

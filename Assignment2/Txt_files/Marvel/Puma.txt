@@ -1,0 +1,5 @@
+#REDIRECT [[Puma (character)]]
+
+{{Redirect category shell|
+{{R from move}}
+}}

@@ -1,0 +1,44 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=<!-- Deleted image removed: [[Image:Steviehunter1.jpg]] -->
+|caption=Stevie Hunter
+|character_name=Stevie Hunter
+|real_name=Stephanie "Stevie" Hunter
+|species=Human
+|publisher=[[Marvel Comics]]
+|debut=''The [[Uncanny X-Men]]'' #139 (November 1980)
+|creators=[[Chris Claremont]]<br>[[John Byrne (comics)|John Byrne]]
+|alliances=[[X-Men]]<br>[[Xavier Institute for Higher Learning|Xavier Institute]]
+|aliases=
+|powers=None
+|}}
+'''Stevie Hunter''' is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]]. Her first appearance was in ''The Uncanny X-Men'' #139 as a surprise dance teacher for the newest X-Man/Student, [[Kitty Pryde]], a.k.a. Shadowcat. She has continued to make some scattered appearance in X-Men comic books.
+
+==Fictional character biography==
+Stevie Hunter was a professional dancer, but an injury to her knee ruined her career and forced her to discontinue her dancing full-time. As an alternative, she began teaching dance classes at a studio in [[North Salem, New York#Communities and locations|Salem Center]], her most notable student being [[Kitty Pryde]]. Stevie quickly became a best friend to Kitty, and on occasions made [[Storm (Marvel Comics)|Storm]], who had unofficially taken up the mantle of Kitty's surrogate mother, slightly jealous of the attention that Kitty gave to Stevie.<ref>''The Uncanny X-Men'' #152</ref>
+
+At one point, Stevie and Storm attended a ballet performance at the Metropolitan Opera House, where Stevie was captured and taken hostage by [[Arcade (Marvel Comics)|Arcade]]'s assistant Miss Locke and later rescued by the [[X-Men]].<ref>''The Uncanny X-Men'' #145 (May 1981)</ref> Upon this incident, Stevie learned about the true identities of Kitty, Ororo and their friends, and became an ally of the X-Men and privy to their secrets. She later began physical education classes with the rookie [[New Mutants]], focusing on ballet. She would continue these sessions over the years.{{issue|date=April 2013}}
+
+Stevie has tried to stay out of the fights the mutants get in, but has become involved in a few nevertheless. In one case, she and the New Mutants were involved in a fight against the demon [[S'ym]], who attacks them inside the X-Mansion. In trying to get a rattled Magik away from the fight, she ends up face to face with the demon. Her life was saved only by the magical might<!-- OK here: don't correct it--> of Illyana herself, turning the demon's loyalties. Even then S'ym offered to kill Stevie for knowing too much.<ref>''The New Mutants'' #14 (April 1984)</ref>
+
+In a later incident, Stevie was present when forces from [[Genosha]] attacked the X-Mansion. She made it through a trapdoor to safety below, but unfortunately Storm, Warlock, Rictor, Boom-Boom and Wolfsbane, one of her original students, were kidnapped. Stevie did not go on the rescue mission.<ref>''The Uncanny X-Men'' #270 (Nov. 1990)</ref>
+
+In one of her last major appearances, the [[Shadow King]] had taken over the mind of [[Colossus (comics)|Peter Rasputin]], Illyana's brother. Stevie helps [[Professor X]] stay one step ahead of Peter, until they can get to the mansion's [[Danger Room]]. This allows them to subdue Peter without harming him.<ref>''The Uncanny X-Men'' #279 (Aug. 1991)</ref>
+
+In ''[[X-Men Gold]]'', Stevie Hunter reappears as a [[Member of Congress|Congresswoman]] attempting to assist Kitty's X-Men in presenting the mutant case during a governmental proposition for an unjust Mutant Deportation Act.<ref>''X-Men: Gold'' #9 (2017)</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Marvunapp|http://www.marvunapp.com/Appendix6/hunter_stevie.htm|Stevie Hunter}}
+*[http://www.uncannyxmen.net/db/characters/showquestion.asp?fldAuto=1301 Uncanny Xmen.net Database]
+
+{{DEFAULTSORT:Hunter, Stevie}}
+[[Category:Characters created by Chris Claremont]]
+[[Category:Comics characters introduced in 1980]]
+[[Category:Characters created by John Byrne (comics)]]
+[[Category:Fictional African-American people]]
+[[Category:Fictional dancers]]
+[[Category:Fictional schoolteachers]]
+[[Category:Marvel Comics female characters]]
+[[Category:X-Men supporting characters]]

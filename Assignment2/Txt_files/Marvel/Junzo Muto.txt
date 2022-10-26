@@ -1,0 +1,6 @@
+#redirect [[the Hand (comics)#Known members]]
+
+{{Rcat shell|
+{{r with history}}
+{{r from fictional character|Marvel Comics}}
+}}

@@ -1,0 +1,5 @@
+#REDIRECT [[Armor (Marvel Comics character)]]
+
+{{Redirect category shell|
+{{R from move}}
+}}

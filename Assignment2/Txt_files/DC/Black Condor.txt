@@ -1,0 +1,140 @@
+{{Short description|Fictional characters in the DC Comics universe}}
+{{for|the Jetman character|Chōjin Sentai Jetman}}
+{{Infobox comics character| 
+noimage = y
+|caption=
+|character_name=Black Condor
+|publisher=[[DC Comics]]
+|debut='''(Grey)'''<br> ''[[Crack Comics]]'' #1<br> (May 1940)<br> '''(Kendall)'''<br> ''Black Condor'' #1<br> (June 1992)<br> '''(Trujillo)'''<br> ''Uncle Sam and the Freedom Fighters'' #3<br> (Nov. 2006)
+|creators='''(Grey)'''<br> [[Will Eisner]] (writer)<br>[[Lou Fine]] (artist)<br>'''(Kendall)'''<br> [[Brian Augustyn]] (writer)<br>[[Rags Morales]] (artist)<br>'''(Trujillo)'''<br> [[Jimmy Palmiotti]] (writer)<br>Justin Gray (writer)<br>[[Daniel Acuña]] (artist)
+|real_name =- Richard Grey Jr.<br> - Ryan Kendall<br> - John Trujillo
+|species = [[Metahuman]]
+|homeworld = 
+|alliances = '''(All)'''<br>[[Freedom Fighters (comics)|Freedom Fighters]]<br>'''(Grey)'''<br> [[All-Star Squadron]]<br>[[Justice League]]<br>'''(Kendall)'''<br>[[Primal Force]]<br/>[[Justice League International]]<br>[[Black Lantern Corps]]<br>[[Justice League]]
+|aliases = '''(Grey)'''<br> Thomas "Tom" Wright
+|supports=
+|powers = [[Black Condor#Powers and abilities|See below]]
+}}
+'''Black Condor''' is the [[superhero]] name used by three different [[fictional characters]] in the [[DC Comics]] universe. All three incarnations of Black Condor have been members of the [[Freedom Fighters (comics)|Freedom Fighters]]<ref name="dc-free">{{Cite book|last = Greenberger|first = Robert|author-link = Robert Greenberger|contribution = Freedom Fighters|editor-last = Dougall|editor-first = Alastair|title = The DC Comics Encyclopedia|pages = 131|publisher = [[Dorling Kindersley]]|place = New York|year = 2008|isbn = 978-0-7566-4119-1|oclc = 213309017}}</ref> and each has been featured in Freedom Fighters comic books published by DC Comics.
+
+The first Black Condor, Richard Grey Jr., was created by [[Quality Comics]] writer  [[Will Eisner]] and artist [[Lou Fine]]. He first appeared in ''[[Crack Comics]]'' #1 (May 1940), and continued through issue #31 (Oct 1943).<ref>{{cite book |last1=Benton |first1=Mike |title=Superhero Comics of the Golden Age: The Illustrated History |date=1992 |publisher=Taylor Publishing Company |location=Dallas |isbn=0-87833-808-X |url=https://archive.org/details/superherocomicso0000bent |url-access=registration |access-date=8 April 2020 |page=[https://archive.org/details/superherocomicso0000bent/page/158 158]}}</ref> He also appeared in ''[[Uncle Sam Quarterly]]'' #2 (Dec 1941).
+
+He moved to the DC universe when DC Comics bought the rights to Quality Comics characters. The first Black Condor was a [[World War II]] era super hero along with the rest of the Freedom Fighters. The second Black Condor, Ryan Kendall, gained the power of flight due to genetic manipulation and initially did not believe he was a super hero. He would later join the Freedom Fighters, but was killed at the beginning of the ''[[Infinite Crisis]]'' storyline. The third Black Condor, John Trujillo, is of Mayan descent and was given his powers by the [[Maya mythology|Mayan]] Spider Goddess Tocotl. Seeing himself as a protector of the universe, he joins forces with the Freedom Fighters.
+
+==Fictional character biography==
+===Richard Grey Jr.===
+====Quality Comics====
+[[Image:blackcondordcu0.jpg|thumb|left|200px|''Crack Comics'' #26, art by [[Gill Fox]].]]
+A [[Golden Age of Comic Books|Golden Age]] superhero who possessed the power of flight, the Black Condor was created by writer [[Will Eisner]] under the pseudonym Kenneth Lewis, and artist [[Lou Fine]] in ''[[Crack Comics]]'' #1 ([[cover-date]]d May 1940).<ref>[http://www.comics.org/issue/794/ ''Crack Comics'' #1] at the [[Grand Comics Database]].</ref> Initially alternating with the [[Clock (comics)|Clock]] as the cover-featured character, he became the solo cover feature from issues #20-26 (Jan.-Nov. 1942). Fine drew the first 24 stories,<ref name=Companion>{{cite book |last1=Koolman |first1=Mike |last2=Amash |first2=Jim |title=The Quality Companion |date=2011 |publisher=TwoMorrows Publishing |isbn=978-1605490373 |pages=92–94}}</ref> and his feature continued to run through issue #31.<ref>[http://www.comics.org/series/157/ ''Crack Comics'' (Quality Comics, 1940 Series)] at the Grand Comics Database</ref>
+
+As an infant traveling with his parents on an archaeological expedition thorough Outer Mongolia, Richard Grey Jr. survived after his family was killed by the bandit Gali Kan and his men. Rescued by a [[condor]] who raised him as her own, he learned to fly,<ref name=Chronicles>{{cite book |last1=Mitchell |first1=Kurt |last2=Thomas |first2=Roy |title=American Comic Book Chronicles: 1940-1944 |date=2019 |publisher=TwoMorrows Publishing |isbn=978-1605490892 |page=36}}</ref> as the origin story stated, by "studying the movement of wings, the body motions, air currents, balance and levitation" of his avian siblings. A mountain [[hermit]], Father Pierre, eventually discovered and civilized the feral child, and taught him to speak English.<ref>{{cite book |last1=Thomas |first1=Roy |title=The All-Star Companion: Vol 2 |date=2006 |publisher=TwoMorrows Publishing |isbn=978-1893905375 |page=77}}</ref> Richard tracked down and killed the Mongolian bandits who had killed his parents and then departed for the United States where he uncovered a plot to kill [[United States Senator]] Thomas Wright. He was too late to save Wright from assassination, and so began to use his identity.<ref name=toon-blackcondor>[http://toonopedia.com/blcondr1.htm The Black Condor] at [[Don Markstein's Toonopedia]]. [https://www.webcitation.org/6b66Oa5HN?url=http://toonopedia.com/blcondr1.htm Archived] from the original on August 27, 2015.</ref> He adopted the guise of Black Condor to fight crooked politicians, rum-running bootleggers, and racketeers.<ref name="dc-ency">{{Cite book |last = Greenberger|first = Robert|contribution = Black Condor I|editor-last = Dougall|editor-first = Alastair|title = The DC Comics Encyclopedia|pages = 51|publisher = [[Dorling Kindersley]]|place = London|year = 2008|isbn = 978-0-7566-4119-1}}</ref>
+
+The strip was popular, and became ''Crack Comics''' featured story starting in issue #3. In ''American Comic Book Chronicles: 1940-1944'', Kurt Mitchell writes: "The Asian backdrop was deemphasized by the end of the year in favor of urban settings or ornately rendered lost cities, bandits and jewel thieves giving ground to mad scientists, living statues, and sentient weapons of mass destruction. Scene after scene of the Condor in flight, his lithe figure soaring across backgrounds seen from dizzying perspectives with a grace [[Joe Shuster]]'s barrel-chested [[Superman]] could not hope to match, made the series irresistible".<ref name=Chronicles/>
+
+According to ''Jess Nevins' Encyclopedia of Golden Age Superheroes'', "Black Condor fights femmes fatale, the Eagle Battalion, [[Yellow Peril]]s, Kite-Men (Japanese agents on flying kites), a Chinese mad scientist, a golem, and killer robots known as the Spinning Deaths".<ref>{{cite book |last1=Nevins |first1=Jess |title=Encyclopedia of Golden Age Superheroes |date=2013 |publisher=High Rock Press |isbn=978-1-61318-023-5 |page=23}}</ref>
+
+====DC Comics====
+In the DC Universe, his power was [[retconned]] to being caused by exposure to a radioactive meteor (a story which was slightly touched upon in his Quality origin). Here he met [[Uncle Sam (comics)|Uncle Sam]] and joined his group, the [[Freedom Fighters (comics)|Freedom Fighters]], and later the [[All-Star Squadron]].
+
+He was among a group of Golden and Silver Age heroes who helped the JLA repel an Appellaxian invasion in the ''JLA: Year One'' miniseries by [[Mark Waid]]. He appeared more recently as an ethereal "[[spirit guide]]" in the pages of Ryan Kendall's ''Black Condor'' series.
+
+===Ryan Kendall===
+[[Image:Blackcondor russheath.jpg|thumb|left|200px|''Black Condor'' #1, cover by [[Rags Morales]].<ref>[http://www.comics.org/issue/51297/ ''Black Condor'' #1 at the Grand Comics Database]</ref>]] 
+The second Black Condor, '''Ryan Kendall''', derived his powers of flight, telekinesis, and healing from the genetic experiments of his grandfather, Creighton.<ref>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Manning |first3=Matthew K. |last4=McAvennie |first4=Michael |last5=Wallace |first5=Daniel |title=DC Comics Year By Year: A Visual Chronicle |date=2019 |publisher=DK Publishing |isbn=978-1-4654-8578-6 |page=237}}</ref> A member of an organization called the Society of the Golden Wing, Creighton and his allies had been attempting to create a man who could fly. After numerous attempts, Kendall was the only success. Kendall eventually rebelled and escaped from his grandfather, who made frequent attempts to recapture the youth in order to study and reproduce his abilities.<ref name="dc-ency1">{{Cite book|last = Wallace|first = Dan|contribution = Black Condor II|editor-last = Dougall|editor-first = Alastair|title = The DC Comics Encyclopedia|pages = 51|publisher = [[Dorling Kindersley]]|place = London|year = 2008|isbn = 978-0-7566-4119-1}}</ref>
+
+A mysterious telekinetic who kept to himself, Ryan Kendall was adamant when he first appeared as the Black Condor that he was not a superhero. However, time proved him wrong, and he fought alongside other superheroes, notably [[Primal Force]] and [[Justice League International]] (for a brief time).<ref>{{Cite comic|Writer =|Artist =|Story =|Title = Newstime|Volume =|Issue =|Date = May, 1993|Publisher = DC Comics|Page = 23|Panel =|ID =}}</ref> Eventually, he went to [[Opal City]], where he felt very much at home.
+
+In his solo adventures, Kendall sought out [[Hawkman (Katar Hol)|Hawkman]] in hopes of gaining insight into the role of a superhero. He helps in his battle against Karen Ramis, the Post-''Zero Hour'' [[Lion-Mane]].<ref>''Hawkman'' (vol. 3) #20</ref>
+
+In ''[[Infinite Crisis]]'' #1, Kendall, as part of the [[Freedom Fighters (comics)|Freedom Fighters]], was killed by a powerful beam fired by [[Sinestro]] in an ambush by the [[Secret Society of Super Villains]].<ref name="dc-ency1"/>
+
+In ''[[Nightwing]]'' #140, a mystery villain, Creighton Kendall, who gave him his powers, resurfaces in an attempt to resurrect his evil Golden Wing Society, an organization that would dispense "justice" from the skies.
+
+In the ''[[Blackest Night]]'' crossover event, Ryan was reanimated as a member of the [[Black Lantern Corps]].
+
+In the pages of ''[[Dark Nights: Death Metal]]'', Ryan is revealed to be entombed in the Valhalla Cemetery.<ref>''Dark Nights: Death Metal'' #2. DC Comics.</ref> Batman later revived him with a Black Lantern Ring.<ref>''Dark Nights: Death Metal'' #5. DC Comics.</ref>
+
+===John Trujillo===
+[[Image:blackcondordcu1.jpg|thumb|200px|left|John Trujillo, the third Black Condor, art by [[Daniel Acuña]].]]
+''Uncle Sam and the Freedom Fighters'' #3 introduced a third Black Condor named John Trujillo whose home turf is the Arizona desert. John was given the hereditary powers of the Black Condor by '''Tocotl''', a [[Maya mythology|Mayan]] Spider Goddess.<ref>{{cite web|url=http://www.newsarama.com/dcnew/FreedomFighters/03/USFF03_Pre.html|title=Previewing ''Uncle Sam and the Freedom Fighters'' #3...|access-date=2007-06-21|author=Jimmy Palmiotti|date=2006-09-21|publisher=Newsarama |archive-url = https://web.archive.org/web/20070507101813/http://www.newsarama.com/dcnew/FreedomFighters/03/USFF03_Pre.html <!-- Bot retrieved archive --> |archive-date = 2007-05-07}}</ref>
+
+Trujillo sees himself as a protector of the universe.  He first appears when he single-handedly rescues Uncle Sam and the other Freedom Fighters, who had been defeated by agents of [[List of government agencies in DC Comics#S.H.A.D.E.|S.H.A.D.E.]]  Trujillo is very serious and seems somewhat uncomfortable interacting with other people.
+
+In issue #6, he rebuffs romantic overtures by the Phantom Lady, correctly (as she realizes later) assuming she does not really mean it.
+
+The full extent of the third Black Condor's powers remains unrevealed. He can fly at extremely high speeds, control the wind, and may possess moderate superhuman strength and speed.
+
+==Powers and abilities==
+* The first Black Condor has the mutant ability to fly, although no limits are known as to speed, duration or altitude. Sometime after arriving on Earth-X, it became apparent that his mutant powers also included limited telekinesis abilities, most notably mind-over-matter. At times, the Black Condor carries a ray gun, the origin of which is unknown. When used, it fires a black force beam of adjustable power capable of stunning a man or breaking a brick wall. He is a skilled hand-to-hand combatant and an Olympic level athlete.
+* The second Black Condor possessed a talent for telekinesis which he also used to fly, as well as limited empathic abilities and a rapid healing rate.
+* The third Black Condor has so far only demonstrated the abilities of flight and wind/air-current control, but has been credited by Tocotl as an elemental of the sky and Earth. He also has a moderate level of superhuman strength and speed, and seems quite ruthless.
+
+==Other versions==
+* In a [[Bronze Age of Comic Books|Bronze Age]] story, [[Mister Mxyzptlk]] shows Superman a gender-reversed Justice League. Amongst its members are the Black Condor, a male equivalent of the [[Black Canary]].<ref>''[[Superman (comic book)|Superman]]'' #349 (in a story entitled "The Turnabout Trap!")</ref>
+* In the final issue of ''[[52 (comics)|52]]'', a new Multiverse is revealed, originally consisting of 52 identical realities. Among the parallel realities shown is one designated "Earth-10". As a result of [[Mister Mind]] "eating" aspects of this reality, it takes on visual aspects similar to the Pre-''Crisis'' Earth-X, including the Quality characters. The names of the characters and the team are not mentioned in the panel in which they appear, but a character visually similar to the Richard Grey, Jr. Black Condor appears.<ref>
+{{Comic book reference | title=[[52 (comics)|52]] | issue=52 | date=May 2, 2007 | publisher=[[DC Comics]] | page=12 | panel=1}}</ref> Based on comments by [[Grant Morrison]], this alternate universe is not the pre-Crisis Earth-X.<ref>{{cite web
+|url=http://forum.newsarama.com/showthread.php?t=111900 
+ |title=THE 52 EXIT INTERVIEWS: GRANT MORRISON 
+ |access-date=2007-05-12 
+ |last=Brady 
+ |first=Matt 
+ |date=2007-05-08 
+ |publisher=Newsarama 
+ |url-status=dead 
+ |archive-url=https://web.archive.org/web/20070510031223/http://forum.newsarama.com/showthread.php?t=111900 
+ |archive-date=2007-05-10}}</ref>
+* ''New Super-Man'' features a character named the '''Blue Condor''' (an analog of the Black Condor).
+* ''Multiversity: The Mastermen'' features an African-American Black Condor as one of Uncle Sam's Freedom Fighters.
+
+==In other media==
+===Television===
+* The Richard Grey Jr. version of Black Condor appears in the ''[[Batman: The Brave and the Bold]]'' episode "Cry Freedom Fighters!", voiced by [[Jason C. Miller]]. He appears as a member of the [[Freedom Fighters (comics)|Freedom Fighters]] and accompanies them, [[Batman]], and [[Plastic Man]] into freeing [[Qward]] from the government oppression caused by the Supreme Chairman of Qward.
+
+===Film===
+* The Black Condor was mentioned in ''[[Batman and Harley Quinn]]''.
+
+===Web series===
+* The Earth-X John Trujillo version of the Black Condor appears in ''[[Freedom Fighters: The Ray]]'', set partly in the [[Arrowverse]], voiced by [[Jason Mitchell (actor)|Jason Mitchell]].<ref>{{cite web|url=http://www.denofgeek.com/us/tv/freedom-fighters-the-ray/266475/dcs-freedom-fighters-the-ray-is-a-dark-reflection-of-cw-multiverse|title=DC's Freedom Fighters: The Ray is a Dark Reflection of CW Multiverse|last=Cecchini|first=Mike|publisher=[[Den of Geek]]|date=July 21, 2017|access-date=July 25, 2017|archive-url=https://web.archive.org/web/20170723060922/http://www.denofgeek.com/us/tv/freedom-fighters-the-ray/266475/dcs-freedom-fighters-the-ray-is-a-dark-reflection-of-cw-multiverse|archive-date=July 23, 2017|url-status=dead}}</ref> This Black Condor is an outed gay man.<ref>''Freedom Fighters: The Ray'' (web series) Episode 206</ref>
+** The Earth-One version appears in episodes 3, 4 and 5.
+
+===Miscellaneous===
+The Black Condor appears in ''[[Justice League Unlimited]]'' #17.
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://web.archive.org/web/20170202005924/http://www.dcindexes.com/features/character.php?characterid=187 Black Condor I Index]
+* [http://www.dcuguide.com/who.php?name=blackcondor DCU Guide: Black Condor I]
+* [http://www.dcuguide.com/who.php?name=blackcondor2 DCU Guide: Black Condor II]
+* [http://www.internationalhero.co.uk/b/blakcond.htm International Hero site: Black Condor I]
+* [http://www.comictreadmill.com/CTMBlogarchives/2004/2004_Individual/2004_12/000628.php Comic Treadmill: Black Condor II brief summary of issues #1-8]
+* [https://web.archive.org/web/20070507101813/http://www.newsarama.com/dcnew/FreedomFighters/03/USFF03_Pre.html Newsarama previews USATFF #3...Black Condor III]
+
+{{Justice League characters}}
+{{Freedom Fighters}}
+{{All-Star Squadron}}
+{{GoldenAge}}
+[[Category:Articles about multiple fictional characters]]
+[[Category:DC Comics metahumans]]
+[[Category:DC Comics American superheroes]]
+[[Category:DC Comics male superheroes]]
+[[Category:DC Comics LGBT superheroes]]
+[[Category:DC Comics titles]]
+[[Category:DC Comics characters with superhuman strength]]
+[[Category:DC Comics characters who can move at superhuman speeds]] 
+[[Category:DC Comics characters who have mental powers]]
+[[Category:DC Comics telekinetics]] 
+[[Category:DC Comics telepaths]]
+[[Category:Comics characters introduced in 1940]]
+[[Category:Comics characters introduced in 1992]]
+[[Category:Comics characters introduced in 2006]]
+[[Category:Golden Age superheroes]]
+[[Category:Quality Comics superheroes]]
+[[Category:Jungle superheroes]]
+[[Category:Fictional LGBT characters in television]]
+[[Category:Fictional Navajo people]]
+[[Category:Fictional gay males]]
+[[Category:Fictional empaths]]
+[[Category:Characters created by Will Eisner]]
+[[Category:Characters created by Rags Morales]]

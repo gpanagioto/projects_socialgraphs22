@@ -1,0 +1,83 @@
+{{short description|Fictional superhero in the DC Comics universe}}
+{{about|the DC Comics characters||Airwave (disambiguation)}}
+{{Infobox comics character
+|image=Airwave1.jpg
+|image_size=200
+|caption=Larry Jordan as Air Wave.|real_name=- Lawrence "Larry" Jordan<br />- Helen Jordan<br />- Harold Lawrence "Hal" Jordan
+|publisher=[[DC Comics]]
+|debut='''(Larry)'''<br> ''[[Detective Comics]]'' #60 (February 1942)<br>'''(Helen)'''<br> ''[[DC Comics Presents]]'' #40 (December 1981)<br>'''(Hal)'''<br> (as Air Wave)<br> ''Green Lantern'' (vol. 2) #100 (January 1978)<br> (as Maser)<br> ''Firestorm, the Nuclear Man'' #88 (August 1989)
+|creators='''(Larry)'''<br> [[Murray Boltinoff]] or<br> [[Mort Weisinger]]<br>[[Harris Levey]] a.k.a. Lee Harris<ref name=toonopedia /><br>'''(Helen)'''<br> [[Bob Rozakis]]<br>[[Alex Saviuk]]<br>'''(Hal)'''<br> [[Dennis O'Neil]]<br>Alex Saviuk
+|alliances='''(Larry)'''<br> [[All-Star Squadron]]<br>
+<br>'''(Hal)'''<br> Captains of Industry<br/>[[Suicide Squad]]
+|aliases='''(Hal)'''<br> Maser
+|supports=
+|powers=[[#Powers and abilities|See below]]
+}}
+'''Air Wave''' is the name of three [[superheroes]] appearing in [[American comic books]] published by [[DC Comics]]. The first two were active in the [[Golden Age of Comic Books]] (albeit the second Air Wave had only one appearance). The third appears in comics as of the 21st century.
+
+==Publication history==
+The original Air Wave (Larry Jordan) debuted during the period fans and historians call the [[Golden Age of Comic Books]]. His first appearance was in ''Detective Comics'' #60 (December 1942) by artist [[Harris Levey]], who signed his work under the [[pen name]] "[[Harris Levey|Lee Harris]]", and a writer tentatively identified as either [[Mort Weisinger]]<ref>[http://www.comics.org/issue/2017/#26703 ''Detective Comics'' #60] at the [[Grand Comics Database]]</ref> or [[Murray Boltinoff]].<ref name=toonopedia>[http://www.toonopedia.com/airwave1.htm Air Wave (1942)] at [[Don Markstein's Toonopedia]]. [https://www.webcitation.org/66C0Ms8Mx?url=http%3A%2F%2Ftoonopedia.com%2Fairwave1.htm Archived] from the original on March 15, 2012]</ref> [[Harris Levey]] (aka Lee Harris) drew the character's seven- to eight-page adventures from ''Detective Comics'' #60 (February 1942) to at least #74 (April 1943), and then following [[World War II]] in ''Detective Comics'' #114-137 (August 1946 - July 1948). In September 1942, Levey (aka Lee Harris) left the series to join the US Army Airforce (UAAF) as a Photographer for the 15th Tactical Reconnaissance Photo Unit, turning the artwork over to his friend [[George Roussos]] for the 1943-46 issues.<ref>{{cite news | author = Gruenwald, Mark | author-link = Mark Gruenwald | date = April 1983 | title = George Roussos | work = [[Comics Interview]] | issue = #2 | pages = 45–51 | publisher = [[Fictioneer Books]]}}</ref> Levey returned to DC and resumed illustrating the Air Wave (July 1946, #113) and left DC and his Air Wave drawing duties in 1948 to pursue a career in advertising.
+
+==Fictional character biographies==
+===Larry Jordan===
+[[Law clerk]] '''Lawrence''' "'''Larry'''" '''Jordan''' had recently graduated from [[law school]] and was an [[intern]] at the [[Brooklyn]] [[District Attorney]] office. Noticing the rise of crime, Jordan decided to become a costumed crimefighter using technology, and used his interests in [[radio]] and [[electronics]] to create his equipment, including a cowl radio system that allowed him to listen in on police reports and special skates that enabled him to travel along telephone lines.<ref>{{cite book |last1=Thomas |first1=Roy |title=The All-Star Companion: Vol 2 |date=2006 |publisher=TwoMorrows Publishing |isbn=978-1893905375 |page=75}}</ref> He was accompanied by an outspoken [[parrot]] named Static the Proverb Parrot, who occasionally aided him in battle (and, for narrative purposes, gave him someone with whom he could converse in order to provide exposition to the reader).<ref>{{cite book |last1=Mitchell |first1=Kurt |last2=Thomas |first2=Roy |title=American Comic Book Chronicles: 1940-1944 |date=2019 |publisher=TwoMorrows Publishing |isbn=978-1605490892 |page=148}}</ref> His superhero activities were noticeable enough for a fictionalized President [[Franklin Roosevelt]] to request his participation in the [[All-Star Squadron]].
+
+Larry Jordan retired from his career as Air Wave in 1948 and married Helen soon afterward. Their son, Harold (Hal), was born as Jordan continued his research into [[radio wave]] conversion.
+
+In ''[[DC Comics Presents]]'' #40 (December 1981),<ref>{{cite journal|last = Wells|first = John|title = Flashback: Whatever Happened to...?|journal= [[Back Issue!]]|issue = #64|pages = 51–61|publisher = [[TwoMorrows Publishing]]|date = May 2013}}</ref> it was revealed that Larry was killed by a man he had once prosecuted as a district attorney. Joe Parsons was an escaped convict who took revenge by breaking into Jordan's home. Larry's costume malfunctioned as he tried to protect his family and he died from a shotgun wound to the chest.<ref name="dc-ency">{{Citation|last = Beatty|first = Scott|author-link = Scott Beatty|contribution = Air Wave I|editor-last = Dougall|editor-first = Alastair|title = The DC Comics Encyclopedia|pages = 9|publisher = [[Dorling Kindersley]]|place = London|year = 2008|isbn = 0-7566-4119-5}}</ref>
+
+His enemies were mostly Nazis and criminals, but he also fought some sound-based supervillains: the Talker, the Parrot and Dr. Silence.<ref>{{cite book |last1=Nevins |first1=Jess |title=Encyclopedia of Golden Age Superheroes |date=2013 |publisher=High Rock Press |isbn=978-1-61318-023-5 |page=7}}</ref>
+
+During the "[[Dark Nights: Death Metal]]" storyline, Air Wave is among the superheroes that were revived by Batman using a Black Lantern ring.<ref>''Dark Nights: Death Metal'' #5. DC Comics. </ref>
+
+===Helen Jordan===
+Helen Jordan was the wife of Larry Jordan, the original Air Wave. After Larry's death, Helen donned the Air Wave costume and brought the killer Joe Parsons to justice, but never wore the suit again.
+
+When her son Harold entered [[high school]], Helen sent the boy to live with his cousins in [[Dallas]] as she slowly succumbed to mental illness.
+
+===Harold Jordan===
+[[File:Airwave2.jpg|left|thumb|alt=Air Wave legacy|Art by [[Dick Giordano]] and Alex Saviuk.]]
+At a young age, Harold was found to exhibit the power to transmute into energy. Just as his father had modified his helmet and was preparing to train him to use his powers, Larry was killed. Eventually, Harold decided to follow in the footsteps of his father's career and took up the mantle of Air Wave. When his character was introduced, it was also revealed that he was a cousin of the [[Green Lantern]] [[Hal Jordan]], with whom he shares the name. Air Wave continued as a supporting character, though not in every issue, of Green Lantern and his co-stars of the time, [[Green Arrow]] and [[Black Canary]], showing young Harold how to be a superhero (as depicted in ''Green Lantern'' (vol. 2) #100). Starting in ''[[Action Comics]]'' #488, Hal was featured in adventures of his own.<ref>{{cite journal |last1=Wells |first1=John |title=No Static At All: Air Wave in the Bronze Age |journal=Back Issue |date=August 2018 |publisher = [[TwoMorrows Publishing]] |issue=#106 |pages=26-31}}</ref> For the next couple of years, he appeared in the secondary stories of ''[[Action Comics]]'' (the cover story almost always starred [[Superman]]), often alternating with the [[Atom (comics)|Atom]]. At some point, he became able to control his transmutation to energy without relying upon his father's equipment.<ref name="dc-ency2">{{Citation|last = Jimenez|first = Phil|author-link = Phil Jimenez|contribution = Air Wave II|editor-last = Dougall|editor-first = Alastair|title = The DC Comics Encyclopedia|pages = 9|publisher = [[Dorling Kindersley]]|place = London|year = 2008|isbn = 0-7566-4119-5}}</ref>
+
+When Air Wave was recruited by the Institute for Metahuman Studies to join a group of highly capitalist superheroes called the Captains of Industry (''[[Firestorm (comics)|Firestorm]]'' #88), he used the code name '''Maser''' after undergoing extreme gene-modification at the hands of Doctor Moon. This group was relatively short-lived and he soon resumed using Air Wave as his moniker. His next major appearance was in the [[Justice Society of America|JSA]] story arc (''JSA'' #11–12) involving super-villain [[Kobra (DC comics)|Kobra]]'s plot to seize control of the world's media resources. When freed by the JSA, the seriously weakened hero destroyed Kobra's satellites, which were targeted to annihilate many of Earth's cities.
+
+Later, Air Wave joined the JSA reserve in battle during the [[Imperiex]] War (''JSA: Our Worlds at War'' #1), as well as against the triumvirate of [[Mordru]], [[Obsidian (comics)|Obsidian]], and [[Eclipso]].
+
+During the ''[[Infinite Crisis]]'' company-crossover storyline, Air Wave joins a team of superheroes, including [[Animal Man]], [[Cyborg (comics)|Cyborg]], and others that travel into space to help investigate a destructive spatial warp. Air Wave almost instantly detects the cries for help coming from the ships being affected. In ''Infinite Crisis'' #4, these cries overwhelm him, and he splits into millions of radio waves that fly off in different directions.
+
+During the event known as the ''[[Blackest Night]]'', the Harold Jordan Air Wave is reanimated as a member of the [[Black Lantern Corps]]. He is one of the billions of Black Lanterns transported by the Black Lantern planet Xanshi to Earth for the final battle.<ref>''Blackest Night'' #6 (December 2009)</ref> Air Wave uses his powers to redirect all of [[John Stewart (comics)|John Stewart]]'s distress calls to the radio of an old lady in [[Omaha]]. Air Wave is then destroyed by the combined efforts of the various Lanterns corps, who had just arrived to battle the Black Lanterns.<ref>''Blackest Night'' #7 (February 2010)</ref>
+
+Following the New 52/DC Rebirth relaunches Hal is again presented alive and as a neophyte superhero in ''The Green Lantern Annual'' #1 by Grant Morrison and Giuseppe Camuncoli. In the same issue it is hinted that Harold may not be straight
+
+==Powers and abilities==
+*'''Larry''' – Antennae in helmet and circuitry in belt allowed him to eavesdrop on police band frequencies or intercept telephone calls, and travelled at the speed of electricity along telephone lines on collapsible skates built into his boots. Magnetic energies enabled him to climb walls or relieve criminals of their guns.
+*'''Helen''' – Helmet allows her to change her molecular structure, can transform into energy and travel along television airwaves and can fly at superhuman speeds.
+*'''Harold''' – Able to ride and transmute into energy, and fly at superhuman speeds. He inherited his powers and initially used his father's suit and helmet to better control his abilities. He can use his abilities to perform radiotherapy on cancer patients.<ref name=":0">''The Green Lantern'' Annual #1 (2019)</ref>
+
+==Further reading==
+* "[https://www.google.com/books/edition/Back_Issue_106/6_RjDwAAQBAJ?hl=en&gbpv=1&dq=%22air+wave%22+detective&pg=PA26&printsec=frontcover No Static at All: Air Wave in the Bronze Age]" by John Wells, ''Back Issue'' #106, TwoMorrows Publishing (Aug 2018), pg 26-29
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://toonopedia.com/airwave2.htm Air Wave (1978)] at [[Don Markstein's Toonopedia]]. [https://www.webcitation.org/66C0RKsX6?url=http://toonopedia.com/airwave2.htm Archived] from the original on March 15, 2012.
+*[http://www.dcuguide.com/who.php?name=airwave Info from DCUGuide.com]
+*{{comicbookdb|type=character|id= 2707|name= Air Wave}}
+
+
+{{All-Star Squadron}}
+{{GoldenAge}}
+
+[[Category:Characters created by Dennis O'Neil]]
+[[Category:Characters created by Mort Weisinger]]
+[[Category:Comics characters introduced in 1942]]
+[[Category:Comics characters introduced in 1978]]
+[[Category:Comics characters introduced in 1981]]
+[[Category:DC Comics characters who can move at superhuman speeds]]
+[[Category:DC Comics American superheroes]]
+[[Category:DC Comics male superheroes]]
+[[Category:DC Comics metahumans]]
+[[Category:Golden Age superheroes]]
+[[Category:Fictional characters with energy-manipulation abilities]]
+[[Category:Fictional characters with elemental transmutation abilities]]

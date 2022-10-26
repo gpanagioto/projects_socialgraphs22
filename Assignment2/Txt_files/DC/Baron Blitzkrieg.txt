@@ -1,0 +1,81 @@
+{{Infobox comics character
+<!--Wikipedia:WikiProject Comics-->
+| image          = Baron Blitzkrieg.jpg
+| imagesize      = <!-- default 250 -->
+| caption        = Baron Blitzkrieg as seen in ''Young All-Stars'' #9.
+| publisher      = [[DC Comics]]
+| debut          = ''[[World's Finest Comics]]'' #246 (September 1977)
+| creators       = [[Gerry Conway]]<br />[[Don Heck]]
+| alter_ego      = Reiter
+| full_name      =
+| species        = <!-- optional -->
+| homeworld      = <!-- optional -->
+| alliances      = [[Shadowspire]]<br />[[Secret Society of Super Villains]]<br/>[[Black Lantern Corps]]
+| partners       = <!-- optional -->
+| supports       = <!-- optional -->
+| aliases        = <!-- optional -->
+| powers         = Superhuman strength<br>Heat vision<br>Flight
+| cat            = super
+| subcat         = DC Comics
+| hero           = 
+| villain        = y
+| sortkey        = Baron Blitzkrieg
+| addcharcat#    = 
+| converted      = y
+}}
+'''[[Freiherr|Baron]] Blitzkrieg''' is a <!--Do not add "fictional" as it is tautological; supervillains (and characters in general) are by definition implied to be fictionalized to some extent.-->[[supervillain]] appearing in [[American comic books]] published by [[DC Comics]], originally residing on [[Earth-Two]].<ref>{{cite book |last =Rovin |first =Jeff |title =The Encyclopedia of Supervillains |publisher =Facts on File |date =1987 |location =New York |isbn = 0-8160-1356-X |page=17}}</ref> He first appeared in ''[[World's Finest Comics]]'' #246 (August–September 1977). His first several appearances marked an antagonistic relationship with [[Wonder Woman]] and he later faced both the Amazon and [[Superman]] towards the end of [[World War II]].<ref name="dc-ency">{{Citation|last = Greenberger|first = Robert|contribution = Baron Blitzkrieg|editor-last = Dougall|editor-first = Alastair|title = The DC Comics Encyclopedia|pages = 37|publisher = [[Dorling Kindersley]]|place = London|year = 2008|isbn = 978-0-7566-4119-1}}</ref>
+
+A version of the character named Baron Reiter appeared in the fourth season of the [[Arrowverse]] television series ''[[Arrow (TV series)|Arrow]]'' played by [[Jimmy Akingbola]].
+
+==Fictional character biography==
+He is a frequent opponent of the heroic [[All-Star Squadron]], a band of costumed adventurers who fight domestic and foreign menaces during World War II.<ref name=Guide>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Korte |first3=Steve |last4=Manning |first4=Matt |last5=Wiacek |first5=Win |last6=Wilson |first6=Sven |title=The DC Comics Encyclopedia: The Definitive Guide to the Characters of the DC Universe |date=2016 |publisher=DK Publishing |isbn=978-1-4654-5357-0 |page=25}}</ref> Baron Blitzkrieg was originally an especially vicious German army officer who was blinded and disfigured when a concentration camp prisoner threw a bottle in his face. German scientists restored his sight but not his appearance. So they experimented on Blitzkrieg, giving him superhuman strength, invulnerability, optical energy beams and the ability to fly. However, each of these abilities are manifested one at a time and only with training is he able to incorporate them together.<ref>{{cite book |last1=Jimenez |first1=Phil |last2=Wells |first2=John |title=The Essential Wonder Woman Encyclopedia |date=2010 |publisher=Del Rey |isbn=978-0345501073 |pages=55–56}}</ref>
+
+Baron Blitzkrieg is the leader of [[Shadowspire]] and allied with [[Vandal Savage]]'s organization known as Symbolix. Together, they incorporate experimental research which produces the superhero [[Damage (DC comics)|Damage]]. The Baron becomes a recurring foe in Damage's series, starting with issue number three.
+
+During the ''[[Justice Society of America|JSA]]'' tie-in to ''[[Infinite Crisis]]'', it is revealed that Baron Blitzkrieg has joined [[Secret Society of Super Villains|the Society]]. The [[Philadelphia]] heroine known as [[Liberty Belle (comics)|Liberty Belle]], who gets her powers from the [[Liberty Bell]], attempts to jumpstart her abilities by ringing the bell. Due to the recent supposed death of [[Uncle Sam (comics)|Uncle Sam]] (who later returned in ''[[DCU: Brave New World|A Brave New World]]''), her powers are unfocused, and Blitzkrieg is thought to have been killed by the sonic shockwaves. He appears again in ''Infinite Crisis #7'' where he is killed by [[Superboy-Prime]] who destroys the Baron's head with his [[Infrared vision|heat vision]].
+
+Baron Blitzkrieg has been identified as one of the deceased entombed below the [[Hall of Justice (comics)|Hall of Justice]]. In ''[[Blackest Night]]'' #4, he is revived as a member of the [[Black Lantern Corps]].
+
+He also appeared in ''[[Batman: The Widening Gyre]]'' by [[Kevin Smith]].
+
+===Baroness Blitzkrieg===
+[[One Year Later]], a new, Nazi-themed speedster supervillain named '''Baroness Blitzkrieg''' recently appeared as a member of The Fourth Reich, a team of Nazi-themed supervillains in ''[[Justice Society of America]]''. Brutal in her killings, she runs through her victims and turns them into pulp. She is presumably a descendant of the original Baron Blitzkrieg; the Baroness joined the Nazi supervillain group Fourth Reich, and sometime before that group was hired by Vandal Savage to help exterminate the families of old Golden Age superheroes. For her part, the Baroness slaughtered several of the descendants of [[Commander Steel]], but was later beaten by Jay Garrick during an unsuccessful attempt to kill young Mike Dugan, son of retired hero [[Pat Dugan|Stripesy]] and stepbrother of [[Courtney Whitmore|Stargirl]].
+
+==Powers and abilities==
+Baron Blitzkrieg has enhanced strength, agility and endurance. He wore body armor that offered some protection from physical attack. He has heat vision and he can fly.
+
+The pre-[[Crisis On Infinite Earths|Crisis]] version of the character could travel between [[Multiverse (DC Comics)|Earth-2]] and [[Multiverse (DC Comics)|Earth-X]].
+
+==Other versions==
+===Flashpoint===
+In the alternate ''[[Flashpoint (comics)|Flashpoint]]'' timeline, Baron Blitzkrieg is killed by [[Frankenstein (DC Comics)|Frankenstein]] with a sword driven through his chest.<ref>''Flashpoint: Frankenstein and the Creatures of the Unknown'' #1 (June 2011)</ref>
+
+==In other media==
+* Baron Reiter appears in the flashbacks depicted in [[Arrow (season 4)|season four]] of ''[[Arrow (TV series)|Arrow]]'', portrayed by [[Jimmy Akingbola]].<ref>{{cite web|url=http://www.hollywoodreporter.com/live-feed/arrow-casts-dc-villain-baron-810360|title='Arrow' Cast DC Villain Baron Blitzkrieg for Season 4|publisher=The Hollywood Reporter|last=Goldberg|first=Lesley|date=July 22, 2015}}</ref> This version is an African individual who grew up in a small village until bandits destroyed it. Though Reiter survived, the event traumatized him and he vowed to never feel that powerless again.<ref>{{cite web|url=http://www.ew.com/article/2015/07/22/arrow-season-4-baron-reiter-blitzkrieg|title=Arrow boss explains Baron Reiter casting|publisher=Entertainment Weekly|last=Abrams|first=Natalie|access-date=August 12, 2015}}</ref> After becoming a mercenary and founding [[Shadowspire]], he led them in occupying [[Starfish Island (DC Comics)|Lian Yu]] to find a magical artifact called the Khushu Idol and enslaved people to harvest drugs called "Slam" as a front. After [[A.R.G.U.S.]] sent [[Oliver Queen (Arrowverse)|Oliver Queen]] to Lian Yu to infiltrate Shadowspire and uncover Reiter's intentions, he join forces with fellow slave Taiana Venediktov find a map leading to the idol. Despite finding it, hiding it in a cave system, and detonating the entrance, Reiter found the idol regardless and sacrificed two of his men to gain power from it, acquiring superhuman strength and telekinesis. He fought Queen and Taiana until the former killed him. 
+* A character inspired by Baroness Blitzkrieg called the '''Dark Flash''' appears in ''[[Freedom Fighters: The Ray]]'', voiced by [[Scott Whyte]].<ref>{{cite web|date=November 27, 2017|last=Demore|first=Meagan|title=Arrowverse: Crisis on Earth-X's Dark Flash Explained|url=https://www.cbr.com/crisis-on-earth-x-dark-flash-explained/#:~:text=in%20%22crisis%20on%20earth%2Dx,several%20seasons%20of%20the%20flash.|website=CBR.com|access-date=November 28, 2017}}</ref><ref>{{cite web|url=https://www.bleedingcool.com/2017/12/08/freedom-fighters-ray-season-1-recap/|title=Freedom Fighters: The Ray Season 1 Recap – Things Are Just Getting Started|last=Wickline|first=Dan|publisher=[[Bleeding Cool]]|date=December 8, 2017|access-date=December 8, 2017|archive-url=https://web.archive.org/web/20171209012652/https://www.bleedingcool.com/2017/12/08/freedom-fighters-ray-season-1-recap/|archive-date=December 9, 2017|url-status=live|df=mdy-all}}</ref><ref>{{cite web|url=https://www.cbr.com/freedom-fighters-the-ray-marc-guggenheim-interview/|title=Freedom Fighters: The Ray: Guggenheim Previews Ray's Earth-X History|last=Damore|first=Meagan|publisher=[[Comic Book Resources]]|date=December 7, 2017|access-date=December 8, 2017|url-status=live|archive-url=https://web.archive.org/web/20171208111454/https://www.cbr.com/freedom-fighters-the-ray-marc-guggenheim-interview/|archive-date=December 8, 2017|df=mdy-all}}</ref> This version is a member of the New Reichsmen and the [[Barry Allen (Arrowverse)|Flash]]'s [[Earth-X (Arrowverse)|Earth-X]] counterpart.
+
+==See also==
+* [[List of Wonder Woman enemies]]
+
+==References==
+{{reflist}}
+
+==External links==
+* {{DCDP|Baron Blitzkrieg}}
+
+{{Justice Society of America}}
+{{All-Star Squadron}}
+{{Wonder Woman}}
+{{Freedom Fighters}}
+
+[[Category:Fictional African people]]
+[[Category:DC Comics male supervillains]]
+[[Category:Fictional barons and baronesses|Blitzkrieg]]
+[[Category:DC Comics Nazis]]
+[[Category:DC Comics metahumans]]
+[[Category:DC Comics characters with superhuman strength]]
+[[Category:Comics characters introduced in 1977]]
+[[Category:Characters created by Don Heck]]
+[[Category:Characters created by Gerry Conway]]
+[[Category:Wonder Woman characters]]
+[[Category:Fictional Nazi fugitives]]

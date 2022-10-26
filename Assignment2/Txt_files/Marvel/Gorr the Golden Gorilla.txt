@@ -1,0 +1,57 @@
+{{Short description|Fictional character in Marvel Comics}}
+{{Other uses|Gorr (disambiguation)}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+| image = ffgorr.jpg
+| caption = Gorr makes his first appearance battling the [[Fantastic Four]] atop the [[Baxter Building]]. From ''Fantastic Four'' #171
+| character_name = Gorr the Golden Gorilla
+| real_name = 
+| species = Uplifted Golden [[Gorilla]]
+| publisher = [[Marvel Comics]]
+| debut = ''[[Fantastic Four (comic book)|Fantastic Four]] #171'' (Jun 1976)
+| creators = [[Roy Thomas]]<br />[[George Pérez]]
+| alliances = [[New Men (Marvel Comics)|New Men]]
+| aliases = 
+| powers = Superhuman strength<br />Human-level intellect<br />Immunity to fire
+}}
+'''Gorr the Golden Gorilla''' is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+== Publication history ==
+Gorr first appeared in ''[[Fantastic Four (comic book)|Fantastic Four]]'' #171-175 (June–October 1976), and was created by [[Roy Thomas]] and [[George Pérez]].
+
+The character subsequently appears in ''Marvel Two-in-One'' #63 (May 1980), and ''Quasar'' #14-16 (September–November 1990).
+
+== Fictional character biography ==
+[[File:Gorr the Golden Gorilla.png|thumb|120px|left|Gorr from ''Fantastic Four'' #171. Pencils by [[George Pérez]].]]
+Gorr is a golden [[gorilla]] given human intelligence and greatly increased strength by the [[High Evolutionary]].<ref>''Fantastic Four'' #172</ref>
+
+Fearing that [[Galactus]] was about to destroy his creation [[Counter-Earth (comics)|Counter-Earth]], the High Evolutionary created Gorr and sent him to Earth to seek the aid of the [[Fantastic Four]].<ref name="FF1715">''Fantastic Four'' #171-175</ref> However, when he arrived on Earth, Gorr became inexplicably mutated into a [[King Kong]]-sized monstrosity and went on a rampage through Manhattan, climbing to the top of the [[Chrysler Building]].<ref name="MCNYCGuide">{{cite book | last = Sanderson | first = Peter | title = The Marvel Comics Guide to New York City | publisher = [[Pocket Books]] | year = 2007 | location = New York City | pages = 49–51 | isbn = 978-1-4165-3141-8}}</ref> When the Fantastic Four intervened, Gorr duped them into coming aboard his ship and transported them to Counter-Earth. The Fantastic Four, High Evolutionary, and Gorr were unable to convince Galactus not to destroy Counter-Earth, though Galactus challenged them to find a replacement within 48 hours. Gorr and the [[Human Torch]] found an Earth-like planet, which turned out to be inhabited by [[Skrull]]s. The Skrulls abandoned the planet after an altercation with Gorr, leaving the planet uninhabited and thus worthless to Galactus. Ultimately, the [[Impossible Man]] convinced Galactus to devour his own planet of Poppup instead. Gorr remained with the High Evolutionary as a "[[valet]]."<ref name="FF1715" />
+
+Much later, Gorr became a prisoner/research project of the [[Stranger (comics)|Stranger]], held captive on his laboratory world alongside Stranger's other prisoners.<ref>''Quasar'' #14-15</ref> When the [[Overmind (comics)|Overmind]] attacked the Stranger, he freed the Stranger's captives including Gorr who escaped.<ref>''Quasar'' #16</ref>
+
+== Powers and abilities ==
+Gorr is a golden-colored gorilla given human-level intelligence and greatly increased strength by the [[High Evolutionary]]. Gorr also has an immunity to fire.
+
+== See also ==
+* [[Gorillas in comics]]
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{Marveldatabase|Gorr (New Men) (Earth-616)|Gorr the Golden Gorilla}}
+* [http://www.comicvine.com/gorr/4005-35556/ Gorr the Golden Gorilla] at [[Comic Vine]]
+* {{Marvunapp|http://www.marvunapp.com/Appendix/gorrtgg.htm|Gorr the Golden Gorilla}}
+
+{{Roy Thomas}}
+{{Fantastic Four}}
+
+[[Category:Characters created by George Pérez]]
+[[Category:Characters created by Roy Thomas]]
+[[Category:Comics characters introduced in 1975]]
+[[Category:Fictional characters with immortality]]
+[[Category:Fictional genetically engineered characters]]
+[[Category:Fictional gorillas]]
+[[Category:Gorilla characters in comics]]
+[[Category:Marvel Comics aliens]]
+[[Category:Marvel Comics characters]]
+[[Category:Marvel Comics characters with superhuman strength]]

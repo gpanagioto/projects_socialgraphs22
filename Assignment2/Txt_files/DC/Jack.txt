@@ -1,0 +1,120 @@
+{{about|DC Comics|other topics|Metalmen (disambiguation){{!}}Metalmen}}
+{{short description|Group of fictional characters}}
+{{Infobox comics organization| <!--Wikipedia:WikiProject Comics-->
+|name      = The Metal Men
+|image     = MetalMen.jpg
+|caption   = The Metal Men & their creator Will Magnus (left to right): Gold, Lead, Platinum (front), Iron (back), [[Will Magnus|Dr. William "Will" Magnus]] (front), Mercury, Tin.
+|alt       = The Metal Men standing together
+|publisher = [[DC Comics]]
+|debut     = ''[[Showcase (comics)|Showcase]]'' #37 (March–April [[1962 in comics|1962]])
+|creators  = {{Plainlist|
+* [[Robert Kanigher]]
+* [[Ross Andru]]
+}}
+|base      = Magnus Labs
+|members   = {{ubl|Copper|Gold|Iron|Lead|Dr. Will Magnus|Mercury|Nameless|Platinum|Tin}}
+|subcat    = DC Comics
+|hero      = y
+|villain   = Gas Gang
+}}
+
+The '''Metal Men''' are a group of superheroes that appear in [[DC Comics]]. The characters first appeared in ''[[Showcase (comics)|Showcase]]'' #37 (March–April [[1962 in comics|1962]]) and were created by writer [[Robert Kanigher]] and artist [[Ross Andru]].<ref>{{cite book|last1=McAvennie|first1=Michael|last2=Dolan|first2=Hannah|chapter=1960s|title=DC Comics Year By Year A Visual Chronicle|publisher=[[Dorling Kindersley]]|year=2010|isbn=978-0-7566-6742-9|page=105|quote=Writer/editor Robert Kanigher and artist Ross Andru put a then-modern-day spin on robots with the exploits of comics' first "heavy metal" group, the Metal Men.}}</ref> Debuting in the [[Silver Age of Comic Books]], the characters have appeared in comic books and other DC Comics-related products such as [[animated]] [[television series]], clothing, [[figurine]]s and [[trading card]]s.
+
+==Publication history==
+===1960s and 1970s===
+Established as advanced artificially intelligent robots, the Metal Men were introduced in the comic book ''[[Showcase (comics)|Showcase]]'' #37 (March–April [[1962 in comics|1962]]) as "last minute" filler.<ref name=Chronicles>{{cite book |last=Wells |first=John |title=American Comic Book Chronicles: 1960–64 |date=2015 |publisher=TwoMorrows Publishing |isbn=978-1605490458 |pages=92–93, 124}}</ref> Created by scientist [[Will Magnus|Dr. William "Will" Magnus]], the six robots were field leader '''[[Gold]]'''; strongman '''[[Iron]]'''; slow-witted and loyal '''[[Lead]]'''; hot-headed '''[[Mercury (element)|Mercury]]'''; self-doubting and insecure '''[[Tin]]'''; and '''[[Platinum]]''' (also called "Tina"), who believed that she was a real woman and was in love with her creator. The group's personalities mirrored their namesake [[metal]]s, being dictated by devices called responsometers.<ref>{{cite book|title=The DC Comics Encyclopedia|year=2004|publisher=Dorling Kindersley Limited|isbn=0-7566-0592-X|page=201}}</ref> Each Metal Man also possessed abilities that reflected the traits of their namesake metal: Gold could stretch his form almost infinitely, Iron was super-strong, Lead could block harmful radiation by morphing into thick shields, Mercury could melt and pass through small spaces before reforming, while Platinum and Tin could stretch, flatten or spin into fine filaments.<ref>{{cite book |last1=Greenberger |first1=Robert |last2=Pasko |first2=Martin |title=The Essential Superman Encyclopedia |date=2010 |publisher=Del Rey |isbn=978-0-345-50108-0 |pages=244–245}}</ref>
+
+The characters reappeared in the following three issues of ''Showcase'' (#38–40, June–October 1962) and proved popular enough to warrant a reappearance in their own [[eponymous]] title.<ref>{{cite web |last1=Markstein |first1=Don |website=Don Markstein's Toonopedia |access-date=2 April 2020  |url=http://www.toonopedia.com/metalmen.htm |title=Metal Men}}</ref> First published in May 1963, the title ran on a bi-monthly schedule with original stories until ''Metal Men'' #41 (December 1969). The comic was unusual for the time, for having continued serialized storylines across issues.<ref name=Chronicles/> A second female robot (created by Tin) was introduced in issue #13 (April–May 1965), and was later (issue #15, August–September 1965) christened as "Nameless", last appearing in issue #32.<ref>[http://www.rci.rutgers.edu/~cje/mh/ME/metal.html "De Re Metallica: The Metal Men"]. [[Rutgers University]]. Retrieved January 6, 2015.</ref> 
+
+With sales dropping, the series' tone darkened with issue #33 (September 1968), as the cover tagline changed to "The New Hunted Metal Men".<ref name=Chron>{{cite book |last1=Wells |first1=John |title=American Comic Book Chronicles: 1965–1969 |date=2014 |publisher=TwoMorrows Publishing |isbn=978-1605490557 |pages=218, 244}}</ref> Shortly after, the team adopted human identities in issue #37 (May 1969).<ref name=Chron/> The title was cancelled in mid-story with issue #41 (December 1969).
+
+Issues #42, 43 and 44 (March, May, and July 1973) reprinted earlier ''Showcase'' appearances and the first issue, with the title then on [[wikt:hiatus|hiatus]] until returning with original numbering in issue #45 (May 1976). The bi-monthly publishing schedule continued until issue #56 (March 1978), when the title and many others were cancelled during the [[DC Implosion]].
+
+Until #21, the Metal Men appeared to be the sole super-heroes in a separate fictional universe, with no other [[DC Comics]] characters appearing (though the Metal Men watch a [[Batman]] television series, and Dr. Yes is recognized by them as resembling an enemy of [[Wonder Woman]]--Magnus and the Metal Men even seem to know at times that they are comic book characters, referring to earlier issues and reader response). Then the Metal Men became part of the shared universe of the DC heroes, even though they continued to fight their own foes (such as Chemo).
+
+The Metal Men co-starred with other DC heroes such as [[Atom (comics)|Atom]], [[Metamorpho]] and Batman in ''[[The Brave and the Bold]]'' #55 (September 1964), #66 (July 1966), #74 (November 1967), #103 (November 1972), #113 (July 1974), #121 (September 1975), #135–136 (July–September 1977) and #187 (June 1982). This trend was repeated with [[Superman]] in ''[[DC Comics Presents]]'' #4 (December 1978) and #70 (June 1984), and an appearance in ''[[Showcase (comics)|Showcase]]'' #100 (May 1978).
+
+===1990s===
+The group returned in an eponymous four-issue limited series (''Metal Men'' (vol. 2) #1–4 (October 1993&nbsp;– January 1994)) that featured a [[retcon]] of the characters' origin story. A laboratory accident transfers the intellects and personalities of Doctor Magnus' brother Mike, his fiancée Sharon, laboratory workers Redmond Wilde and Randy Pressman, Thomas Tinkham and a pizza-delivery man named Jack to blank robots (Gold, Platinum, Mercury and Iron, Tin and Lead respectively). During a battle, Gold is killed<ref>{{cite book|title=The Dark Age: Grim, Great & Gimmicky Post-Modern Comics|last=Voger|first=Mark|year=2006|publisher=TwoMorrows Publishing|isbn=978-1-893905-53-5|page=134}}</ref> and Doctor Magnus mortally wounded, being forced to transfer his personality into a robot known as '''[[Veridium]]'''. Magnus then becomes the leader of the Metal Men. Lead later makes a brief appearance as a worker at a superhero bar, and is temporarily damaged while protecting civilians.<ref>''Guy Gardner Warrior'' #38 (January 1996)</ref> A robot Tungsten with no personality that served as a personal aide to Magnus was introduced in a guest appearance in ''The Doom Patrol''; he was killed by a villain named the Candlemaker.<ref>''Doom Patrol'' (vol. 2) #60 (October 1 1992)</ref>
+
+===2000s===
+The Metal Men then reappeared during the ''[[Infinite Crisis]]'' storyline (''Infinite Crisis'' #1–7, December 2005&nbsp;– June 2006, ''Villains United'' #1–6, July–December 2005), battling the [[OMAC (comics)|O.M.A.C.]] [[cyborg]]s and acting as part of a superhero strike force assembled to protect the city of [[Metropolis (comics)|Metropolis]] from the [[Secret Society of Super Villains]]. Several of the Metal Men appeared in ''[[Justice League of America]]'' (vol. 2) #1 (August 2006), with the events of the limited series eventually revised and presented as a delusion suffered by Doctor Magnus in ''52'', #22 (October 2006).
+
+The entire group reappeared in ''[[Superman/Batman]]'' #34–36 (May, July–August 2007), having been rebuilt and upgraded and including a new female member, the sarcastic [[Copper]]. Employed by [[Lucius Fox]] as security for WayneTech, the Metal Men temporarily fall under the influence of [[Brainiac (character)|Brainiac]]. The group starred in another eponymous limited series, running for eight issues (''Metal Men'' (vol. 3) #1–8 October 2007&nbsp;– June 2008). David Magnus, another brother of Will and Mike Magnus, attempts to avert a catastrophic future and prevent the creation of the group, and uses a device stolen from the villain [[T. O. Morrow]] to change the Metal Men into evil, radioactive versions based on other metals, called the '''Death Metal Men''': [[Uranium]] (Iron), [[Strontium]] (Mercury), [[Thorium]] (Platinum), [[Radium]] (Gold), [[Lithium]] (Copper), [[Polonium]] (Lead), and [[Fermium]] (Tin). Doctor Magnus, however, is able to reverse the process and with the Metal Men and the assistance of the alien robot [[L-Ron]], defeat his brother.
+
+The Metal Men also featured in a stand-alone story in the weekly publication ''[[Wednesday Comics]]'' (#1–12, September–November 2009), and co-starred in the first seven issues of ''[[Doom Patrol]]'' (vol. 5, October 2009&nbsp;– April 2010). This series was later reprinted in ''DC Comics Presents: Metal Men 100 Page Spectacular'' (2011).
+
+The Metal Men appeared in ''[[Justice League: Generation Lost]]'' #10–11 (November–December 2010). Captured by villain [[Maxwell Lord]], the Metal Men are reprogrammed and believe themselves to be humans living in a magical fantasy world. At Lord's behest, the brainwashed Metal Men attack the members of the new [[Justice League International]] (thinking them monsters), and merge into their alternate universe persona '''Alloy''' (from the limited series ''[[Kingdom Come (comics)|Kingdom Come]]'' (#1–4, May–August 1996)), but are eventually defeated.
+
+===2010s===
+In [[The New 52]], a 2011 reboot of the DC Comics universe, the Metal Men were created by Doctor Magnus but subsequently disappeared. [[Cyborg (comics)|Cyborg]] locates Magnus and learns the scientist was tasked by the military with the creation of a rescue team that could enter toxic environments. Although successful, Magnus learns the military intends to use the Metal Men as assassins and the group flee and take refuge in his apartment. When the entity [[Chemo (comics)|Chemo]] is created (on account of a prototype responsometer created by Magnus being thrown into a vat of chemicals by a thief), the Metal Men fought Chemo to protect Will Magnus and the local population, and while successful are thought destroyed<ref>''Justice League'' (vol. 2 ) #28 (April 2014). DC Comics.</ref> before eventually reappearing in an issue of ''Swamp Thing''.<ref>''Swamp Thing'' (vol. 5) #36 (November 2014). DC Comics.</ref> During a run in with several other heroes, The Metal Men encountered three new Metal Men—Magnesium, Lithium and Silicon—who were created by the government in a plan to get the original Metal Men back in the military as assassins again. Despite their attempts' the three new robots are eventually destroyed in the conflict.<ref>''Legends of Tomorrow'' #4</ref>
+
+In the ''[[Watchmen]]'' sequel ''[[Doomsday Clock (comics)|Doomsday Clock]]'', the Metal Men are among the superheroes that head to Mars to confront [[Doctor Manhattan]].<ref>''Doomsday Clock'' #9 (March 2019). DC Comics.</ref> Gold, Tin and Platinum are later seen as recruits of the League, to research a multi-verse ending threat.<Ref>''Justice League'' (vol. 4) #26 (2019)</ref> In 2016, a six issue series called ''Legends of Tomorrow: The Metal Men'' played a big part in the series. They were in Nevada fighting off a robot enemy, and the government wanted to destroy the Metal Men and get rid of them as a threat to the people. 
+
+The Metal Men were seen again in a 12-issue mini-series in 2019, with a new metal member to the team that was found at a construction site called for Magnus. The Metal Men were destroyed by Magnus for trying to rebuild them from scratch again, and again the new one saw a version of themself destroyed. Dr. Will Magnus just had enough of making the Metal Men, and he fell in love with a girl leaving the Metal Men to themselves after having flashbacks of how he made them to now. After getting the new metal they found in Magnus' lab he helped it out as it called his name. He introduced them to his Metal Man had made, and it became part of the team. The new member enjoyed talking to Platinum and he fell in love with her.
+
+==Other versions==
+The Metal Men feature in a combined form called '''Alloy''' in the 1996 limited series ''[[Kingdom Come (comics)|Kingdom Come]]''.
+
+In the possible future depicted in ''[[Superman: The Man of Steel]]'' #1,000,000 (November 1998), Superman tracks down Platinum, one of the few individuals to have survived all the way into the future, to question her about the true history of current foe [[Solaris (comics)|Solaris]], reasoning that Platinum will have recorded all the data on Solaris but be able to relay it from a perspective that Superman can more easily comprehend.
+
+In the alternate timeline of ''[[JLA: The Nail]]'', in which Superman was never discovered by the Kents, the Metal Men appear to attack [[Wonder Woman]] after she is framed for the destruction of the White House. Their actions and her words suggest that they have been reprogrammed to act as more conventional robots despite existing as heroes in this world, with Wonder Woman pleading with them to recognize that she is not responsible for the attack and the Metal Men making such comments as 'Unit Tin requires assistance' and 'Unit Lead converting to Gun Mode'. In the end, Wonder Woman is forced to destroy the Metal Men with their own bullets as the ricochet off her bracelets damages her attackers. They reappear in the sequel, ''JLA: Another Nail'', now showing their more characteristic demeanor, alongside Magnus as he analyzes the [[Amazo]] android before it is stolen by [[Star Sapphire (comics)|Star Sapphire]], [[Black Orchid (character)|Black Orchid]] and [[Power Girl|Powergirl]].
+
+In the [[Tangent Comics]] book ''Metal Men'' #1 (December 1997) features a covert ops group called the "Metal Men" composed of six human operatives: leader [[Deadman (DC Comics)|Marcus Moore]], Samuel Schwartz, Carl Walters, [[Lobo (DC Comics)|Rey Quinones]], [[Black Lightning|Francis Powell]], and [[Hawkman|John Holliday]].
+
+The Metal Men of Earth-44 (robotic versions of the [[Justice League]] and led by "Doc Tornado" a human version of the [[android (robot)|android]] [[Red Tornado]]) feature in the limited series ''[[Final Crisis]]'' (#1–7, July 2008 – March 2009).
+
+In the ''[[Batman Beyond]]'' comics that share the [[DC animated universe|DCAU]] continuity, The Metal Men are revealed to have been deactivated around the time the Justice League was fighting CADMUS. It is revealed by an elderly Bruce Wayne that Doc Magnus was "recruited" by [[Project Cadmus]], who tried to force him to build an army of Metal Men to destroy the Justice League. Magnus had seen it coming and preemptively deactivated his creations, breaking their bodies down into simple objects he scattered around and their responsometers hidden with people the doctor trusted. Revived by the anarchist Rebel-1 and her Undercloud organization in their combined Alloy form, the Metal Men were forced to rampage against their will until the new Batman, [[Terry McGinnis]] and his friend Max were able to disrupt the control frequency and allow the Metal Men to restore themselves. When Bruce revealed their creator's fate, the Metal Men wondered what to do with themselves until Bruce told them they could continue Magnus' plans for them to protect the people of Earth, even providing them with the Injustice Gang's old satellite base to use as a home.
+
+==Collected editions==
+* ''The Metal Men Archives'' Vol. 1: ''Showcase'' #37–40, ''Metal Men'' #1–5, 244 pages, {{ISBN|1-4012-0774-X}}
+* ''The Metal Men Archives'' Vol. 2: ''Metal Men'' #6–20, 400 pages, {{ISBN|1-4012-3867-X}}
+* ''Showcase Presents: Metal Men'' Vol. 1: ''Showcase'' #37–40, ''Brave and the Bold'' #55, ''Metal Men'' 1–16, 528 pages, {{ISBN|1-4012-1559-9}}
+* ''Showcase Presents: Metal Men'' Vol. 2: ''Brave and the Bold'' #66, ''Metal Men'' #16–36, 528 pages, {{ISBN|1-4012-1976-4}}
+* ''Metal Men: Metal Men'' (reprints volume 3) #1–8, 200 pages, {{ISBN|1-4012-2212-9}}
+
+==In other media==
+===Television===
+* Due to the success of ''[[The Superman/Aquaman Hour of Adventure]]'' from the 1960s, [[Filmation]] had planned to produce pilots for multiple DC heroes, with one of the concept drawings featuring the Metal Men. However, the plans were cancelled when [[CBS]] secured the animation rights to Batman in the wake of [[American Broadcasting Company|ABC]]'s recent success with the [[Batman (TV series)|''Batman'' live-action television series]] at the time.
+* The Metal Men and their combined Alloy form appear in ''[[Batman: The Brave and the Bold]]'', with Gold voiced by [[Lex Lang]], Lead by [[Bill Fagerbakke]], Platinum by [[Hynden Walch]], Mercury by [[Corey Burton]], Iron by [[Brian Bloom]], and Tin by [[Dee Bradley Baker]].
+* The Metal Men appear in a self-titled segment of ''[[DC Nation Shorts]]'', with Gold and Lead voiced by [[Tom Kenny]], Platinum and Tin by [[Hynden Walch]], and Mercury and Iron by [[Corey Burton]].
+
+===Film===
+* The Metal Men make a cameo appearance in ''[[Justice League: The New Frontier]]''.
+* [[Multiverse (DC Comics)|Alternate universe]] versions of the Metal Men appear in ''[[Justice League: Gods and Monsters]]'', with Platinum voiced by [[Grey DeLisle]] and Tin again by [[Dee Bradley Baker]] while the rest are silent. Platinum appeared in the form of '''Tina Magnus''' while Tin serves as Will Magnus' butler and three unnamed Metal Men were designed to mimic [[Chris Kent (character)|Superman]], [[Man-Bat|Batman]], and [[Bekka|Wonder Woman]]'s powers.
+* The Metal Men appear in ''[[DC Super Hero Girls: Intergalactic Games]]'', with Lead voiced by [[Khary Payton]], Iron by [[Greg Cipes]], and Platinum again by Grey DeLisle.
+* In 2012, [[Barry Sonnenfeld]] was in talks with [[Warner Bros.]] to make a live-action film about the Metal Men.<ref>{{cite web |last=Brodesser-Akner |first=Claude |url=http://www.vulture.com/2012/06/barry-sonnenfelds-secret-comic-book-movie-is.html |title=Exclusive: Barry Sonnenfeld's Secret Comic-Book Movie Is |website=Vulture |date=June 21, 2012 |access-date=December 31, 2019}}</ref><ref>{{cite news |last=Kit |first=Borys |url=https://www.hollywoodreporter.com/news/general-news/dc-chief-superman-wonder-woman-586081/ |title=DC Entertainment Chief Reveals What's Next for Superman, Wonder Woman and 5 Superheroes Who Deserve Movies (Q&A) |work=The Hollywood Reporter |date=July 17, 2013 |access-date=December 31, 2019}}</ref> In October 2021, the film was listed as part of the [[DC Extended Universe]].<ref name="Sonnenfeld2021">{{Cite web |last=Wilding |first=Josh |date=October 12, 2021 |title=THE ADDAMS FAMILY Director Barry Sonnenfeld Confirms DC's METAL MEN Is In Active Development (Exclusive) |url=https://www.comicbookmovie.com/dc_films/the-addams-family-director-barry-sonnenfeld-confirms-dcs-metal-men-is-in-active-development-exclusive-a188737#gs.d0yinj |url-status=live |archive-url=https://web.archive.org/web/20211013014756/https://www.comicbookmovie.com/dc_films/the-addams-family-director-barry-sonnenfeld-confirms-dcs-metal-men-is-in-active-development-exclusive-a188737 |archive-date=October 13, 2021 |access-date=October 12, 2021 |website=[[The Hollywood Reporter]]}}</ref> 
+* A separate animated Metal Men film is currently in development, with [[John Musker]] and [[Ron Clements]] directing, producing, and writing the film with ''[[Space Jam: A New Legacy]]'' writer Celeste Ballard, for [[Warner Bros.]] and [[Warner Animation Group]].<ref name=MetalMenAnimated>{{cite news |last=Kit |first=Borys |url=https://www.hollywoodreporter.com/movies/movie-news/dc-metal-men-movie-1235056979/ |title='Little Mermaid', 'Aladdin' Filmmakers Tackling DC Comic 'Metal Men' for Warner Animation (Exclusive) |work=The Hollywood Reporter |date=December 3, 2021 |access-date=December 3, 2021}}</ref>
+
+===Video games===
+Platinum appears in ''[[Lego Batman 3: Beyond Gotham]]''.
+
+===Music===
+The lyrics to an early collaboration between [[Frank Zappa]] and [[Captain Beefheart]] have been traced to the Metal Men. Beefheart, improvising the lyrics to a jam session (later released as "Metal Man Has Won His Wings"), found an issue of the comic book hanging on a bulletin board in the studio, and used passages from the story and an advertisement for an upcoming release of ''[[Hawkman]]'' as lyrics.<ref>{{cite web |url=http://fzpomd.net/biffyshrew/metal.html |website=fzpomd.com |title=Metal Man Has Won His Wings: The Source}}</ref>
+
+==See also==
+* [[List of Metal Men members]]
+* [[List of Metal Men enemies]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.toonopedia.com/metalmen.htm Metal Men] at [[Don Markstein's Toonopedia]]. [https://www.webcitation.org/6fLnXeHrq?url=http://www.toonopedia.com/metalmen.htm Archived] from the original on February 17, 2016.
+* [https://web.archive.org/web/20101115211644/http://www.comichron.com/titlespotlights/MetalMen.html Metal Men sales figures for 1964–1968 at The Comics Chronicles]
+* [http://www.cosmicteams.com/cosmic/metalmen.html Cosmic Teams: Metal Men]
+
+{{Metal Men}}
+{{Steel}}
+{{Justice League characters}}
+{{The New 52}}
+{{Steve Gerber}}
+
+[[Category:Metal Men| ]]
+[[Category:Comics characters introduced in 1962]]
+[[Category:1962 comics debuts]]
+[[Category:DC Comics robots]]
+[[Category:DC Comics superhero teams]]
+[[Category:DC Comics titles]]
+[[Category:Characters created by Robert Kanigher]]
+[[Category:Characters created by Ross Andru]]

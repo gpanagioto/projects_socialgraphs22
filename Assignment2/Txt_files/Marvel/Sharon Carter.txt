@@ -1,0 +1,140 @@
+{{Short description|Marvel Comics fictional character}}
+{{Use mdy dates|date=March 2021}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+| image = Sharon Carter (Marvel Comics character).png
+| caption = Derived artwork of the cover of ''[[Captain America (comics)|Captain America]]'' #29 (Aug. 2007).<br>Art by [[Steve Epting]]
+| alt = 
+| character_name = Agent 13
+| real_name = Sharon Carter 
+| publisher = [[Marvel Comics]]
+| debut = ''[[Tales of Suspense]]'' #75 (March 1966)
+| creators = [[Stan Lee]]<br>[[Jack Kirby]]<br>[[Dick Ayers]]
+| alliances = [[S.H.I.E.L.D.]]<br/>[[Secret Avengers]]<br/>[[Avengers (comics)|Avengers]]<br>Daughters of Liberty
+| aliases = {{hlist|Agent 13|}}
+| partners = [[Captain America]]
+| powers = 
+* Skilled athlete and martial artist
+* Expert in hand to hand combat
+* Highly trained in espionage, weaponry, and computers
+* Expert markswoman and mistress of various other weapons
+}}
+'''Sharon Carter''' (also known as '''Agent 13''') is a [[fiction]]al [[Character (arts)|character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. She is usually depicted as a secret agent, an ex-field agent of [[S.H.I.E.L.D.]] under [[Nick Fury]], and a love interest of [[Captain America|Steve Rogers]].
+
+In the original comic book continuity, Sharon was the younger sister of [[Peggy Carter]], the possible wartime [[Romance (love)|love interest]] of Captain America. She was later [[retcon]]ned as Peggy's grand-niece because of the [[floating timeline|unaging nature]] of [[comic book]] characters.<ref>[https://www.youtube.com/watch?v=-7D__GkXess Emily VanCamp interview confirms Sharon is Peggy's ''great''-niece]</ref>
+
+[[Emily VanCamp]] portrays the character in the [[Marvel Cinematic Universe]] films ''[[Captain America: The Winter Soldier]]'' (2014) and ''[[Captain America: Civil War]]'' (2016) and returned to play the role in the [[Disney+]] series ''[[The Falcon and the Winter Soldier]]'' (2021), depicted as the [[supervillain]] '''Power Broker''', and voices an alternate version in the animated series ''[[What If...? (TV series)|What If...?]]'' (2021).
+
+==Publication history==
+Created by [[Stan Lee]], [[Jack Kirby]] and [[Dick Ayers]], Carter first appeared in ''[[Tales of Suspense]]'' #75 ([[cover-date]] March 1966).<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=79}}</ref>
+
+Carter was apparently killed in ''[[Captain America (comic book)|Captain America]]'' #233. She was revived in issue #444 by writer [[Mark Waid]], who commented, "The reason she works so well with Cap is because she's a complete cynic and he's a complete idealist".<ref>{{cite news | last = Senreich | first= Matthew | date = August 1997 | title = The Wizard Q&A: Mark Waid & Ron Garney | work = [[Wizard (magazine)|Wizard]] | issue = 72 | pages = 68–72}}</ref>
+
+Sharon Carter appeared as a supporting character in the 2010-2013 ''[[Secret Avengers]]'' series, from issue #1 (July 2010) through issue #21 (March 2012).
+
+==Fictional character biography==
+Sharon was born in [[Richmond, Virginia]], the daughter of two wealthy [[Virginia]]ns, Harrison and Amanda Carter. She grew up with the stories of her aunt ([[Peggy Carter|Margaret "Peggy" Carter]]) who was a [[freedom fighter]] with the [[French Resistance]] during [[World War II]].
+
+Inspired by her aunt's adventures, Sharon joins the international security agency S.H.I.E.L.D., and is assigned the code name Agent 13.<ref>{{cite book |last1=Brevoort |first1=Tom |last2=DeFalco |first2=Tom |last3=Manning |first3=Matthew K. |last4=Sanderson |first4=Peter |last5=Wiacek |first5=Win |title=Marvel Year By Year: A Visual History |date=2017 |publisher=DK Publishing |isbn=978-1465455505 |page=115}}</ref> By this time, Steve Rogers, the patriotic hero known as [[Captain America]], had been revived from suspended animation, and during one of Sharon's earliest missions, he comes to her aid when she is under attack by a mercenary known as [[Batroc the Leaper]]. The two of them cross paths often, teaming up on missions against [[Advanced Idea Mechanics|A.I.M.]], [[Hydra (Marvel Comics)|HYDRA]], [[Red Skull]], and many others.{{issue|date=March 2013}}
+
+Sharon and Rogers eventually fall in love, and she becomes one of the first to know his secret identity. The dangerous nature of Sharon's work strains their relationship, and Rogers wants Sharon to give up her life as a S.H.I.E.L.D. agent.<ref>{{cite book |title=Heroes of film, comics and American culture|last=Detora|first=Lisa|year= 2009|publisher=McFarland|isbn=978-0-7864-3827-3|page=113}}</ref>
+
+While working as a S.H.I.E.L.D. liaison with the [[New York Police Department]], Sharon investigates and infiltrates a white supremacist terrorist organization known as the [[National Force]]. During one of the National Force's battles with street criminals in [[Harlem]], the [[United States National Guard|National Guard]] is sent in. Under the effects of a mind-altering gas, Sharon apparently activates a self-destruct device in her National Force uniform and dies. Rogers is shown the event on videotape.<ref name="captainamerica237">''Captain America'' #237 (Sept. 1979). Marvel Comics.</ref>
+
+It is later revealed that Sharon's death was faked so she could go on a top secret mission for S.H.I.E.L.D. The mission did not go well, and [[Nick Fury]], S.H.I.E.L.D.'s Executive Director, believed her to have been killed in action; Captain America was not informed of the true circumstances of her "death".{{issue|date=March 2013}}
+
+===Return===
+Sharon is not dead, but has been left behind in enemy territory, a captive of the dictator Tap-Kwai. Escaping, she spends several years working as a mercenary, until she encounters a group of Neo-Nazi extremists known as the Kubecult. Learning that they plan to use the [[Cosmic Cube]] to return [[Adolf Hitler]] to life, Sharon joins forces with the villainous [[Red Skull]] to stop them, but they also need Captain America.{{issue|date=March 2013}}
+
+At this point, Rogers is suffering health problems: the Super-Soldier serum that gave him his abilities is breaking down, and he has fallen into a coma. The Red Skull is currently occupying a cloned body of Rogers himself, and a transfusion of the Skull's blood, which contains an uncontaminated Super-Soldier formula, restores and revives Rogers. Rogers is shocked to find Sharon alive.
+
+Over the course of the mission to topple the cult he learns that her years out in the cold have made her grimmer and more ruthless, and the two of them do not renew their relationship when Sharon rejoins S.H.I.E.L.D.{{issue|date=March 2013}} A romantic tension still exists: Sharon teases him about his naïveté, such as when he lets a family of squatters stay in his apartment. The two battle the [[Red Skull]], who possesses a [[cosmic cube]] that can do whatever he wishes. Sharon and Captain America argue about killing the Skull, with Sharon urging Rogers to use an energy-based shield that she has given him. Sharon tries and fails to kill the Red Skull, but he is soon defeated through trickery. The energy shield is lost in the time-stream.{{issue|date=March 2013}}
+
+Soon afterwards, Sharon assists Captain America in several cases where [[patriotic]] Americans go on violent rampages under the influence of a supernatural entity named [[Nightmare (Marvel Comics)|Nightmare]], who has found a way to influence this dimension through the '[[American dream]].' Sharon and Cap battle many patriotic people, including a temporarily insane U.S. Agent, and ultimately Sharon has to face down a Captain America under the influence of Nightmare.<ref>These events took place in ''Captain America'' vol. 3 #9 and #12 (1998), reprinted in the hardcover "Captain America: American Nightmare".</ref>
+
+===21st century===
+In the absence of Nick Fury, Sharon serves a brief term as Executive Director of S.H.I.E.L.D. She returns to field work, reporting directly to the new Executive Director, [[Maria Hill]], as a liaison officer specifically assigned to support and report on Captain America's activities. While investigating the whereabouts of Jack Monroe, she is abducted by the [[Bucky Barnes#Winter Soldier|Winter Soldier]] and used as bait to lure Captain America into a trap set by General [[Aleksander Lukin]]. She and Captain America later resume their relationship while on a field mission investigating the activities of the Winter Soldier.{{issue|date=March 2013}}
+
+During the "[[Civil War (comics)|Civil War]]" storyline, Sharon is initially a supporter of the [[Registration Acts (comics)|Superhuman Registration Act]], but she is averse to actually aiding in the capture of her lover, Captain America, who is the leader of the "Secret Avengers" opposed to the Act. At the same time, she is an unknowing pawn of the [[Red Skull]] and his associate [[Doctor Faustus (comics)|Doctor Faustus]]. She later comes into contact with [[Nick Fury]]'s underground organization, even as she is reassigned to the S.H.I.E.L.D. task force charged with locating Fury. She switches her allegiance to Captain America, citing the death of [[Bill Foster (comics)|Goliath]] as the primary reason; it is unclear how much of this is the result of Faustus's influence.{{issue|date=March 2013}}
+
+In a follow-up, a sniper shoots Steve Rogers in the shoulder while he walks up the steps to the Federal Court. In the ensuing crowd chaos, Rogers is shot three times in the abdomen with a pistol, and later appears to die of his wounds. It is later revealed that the plan was orchestrated by the Red Skull; the sniper was [[Crossbones (comics)|Crossbones]], and Sharon Carter shot Rogers in the abdomen while under a hypnotic suggestion by [[Doctor Faustus (comics)|Dr. Faustus]].<ref>''Captain America'' vol. 3 #25. Marvel Comics.</ref>
+
+Sharon is still under the influence of Doctor Faustus, who uses her to disable Black Widow and Falcon before she joins the Red Skull's organization as a minion. She is apparently pregnant with Rogers's child, but she loses the baby during a fight with the Red Skull's daughter, [[Sin (Marvel Comics)|Sin]], during one of several attempts to escape. Later, Sharon says that she, not Sin, stabbed her womb and caused the miscarriage, to keep the Red Skull from getting his hands on anything of hers. Doctor Faustus makes her forget ever being pregnant, and he also gives her the tools to escape. Sharon frees herself, killing [[Aleksander Lukin]] in the process (and narrowly missing killing the Red Skull himself), before being found by [[Black Widow (Natalia Romanova)|Black Widow]] and the Falcon. Iron Man and Falcon decide to tell her about her pregnancy at a later date, after sufficient recovery time.<ref>''Captain America'' vol. 3 #41-42. Marvel Comics.</ref> As a result, Sharon decided to leave S.H.I.E.L.D.<ref>''Captain America'' vol. 3 #43. Marvel Comics.</ref>
+
+Sharon Carter is featured in the storyline ''[[Captain America: Reborn]],'' where she learns that she killed Captain America and plans to figure out a way to revive him.<ref>{{cite web|url=http://marvel.com/reborn |title=Marvel Presents Captain America Reborn! |publisher=Marvel.com |access-date=January 10, 2011}}</ref> Unfortunately, Norman Osborn also plans to revive Captain America, so that he can complete the Red Skull's plan to transfer his consciousness into Steve's body and have him lead the Avengers to increase his popularity. He frames Sharon as an accomplice in Rogers' murder and threatens to kill the second Captain America if she doesn't turn herself in, which she does.<ref>''Captain America: Reborn'' #2. Marvel Comics.</ref> She is brought to Latveria, where she is attached to a machine to bring Rogers back, but with the Red Skull controlling his body. Mr. Fantastic determines that Sharon has chronal tracers in her blood meant to pull Steve to her.<ref>''Captain America: Reborn'' #3-4. Marvel Comics.</ref> She surrenders to Norman Osborn in order to save the life of Bucky (who had already escaped, unbeknownst to her), and she is delivered to the Red Skull and Dr. Doom, who use her to retrieve Steve, with the Skull's mind in control. Sharon ultimately escapes with the help of [[Henry Pym]], and uses the Red Skull's own ship to blow him up. Reconciling with Steve (who was able to assert control over his body), they take some time off at her Virginia estate.<ref>''Captain America: Reborn'' #5-6. Marvel Comics.</ref>
+
+Sharon was a member of an Avengers team, and the [[Secret Avengers]], in [[Ed Brubaker]]'s series of the same name.<ref>{{cite web|author=Phegley, Kiel|url=http://www.comicbookresources.com/?page=article&id=25808 |title=C2E2: Cup O' Joe |publisher=Comic Book Resources|date=April 17, 2010}}</ref>
+
+Sharon appeared to sacrifice herself to stop Arnim Zola's massive flying fortress from invading Earth<ref>''Captain America'' vol. 7 #10. Marvel Comics.</ref> but she is alive in Zola's captivity and she is found by Falcon and Jet Black.<ref>''Captain America'' vol. 7 #23. Marvel Comics.</ref>
+
+When Sharon Carter and S.H.I.E.L.D. arrest Tomoe and her Biohack Ninjas, she meets [[Ironheart (character)|Riri Williams]] who helped [[Pepper Potts]] defeat them.<ref>''Invincible Iron Man'' vol. 3 #5. Marvel Comics.</ref>
+
+During the "[[Secret Empire (comic book)|Secret Empire]]" storyline, Sharon Carter is on the S.H.I.E.L.D. Helicarrier at the time when Captain America, whose history was rewritten by Red Skull's clone using the powers of [[Kobik]] to make him a Hydra sleeper agent, reveals his association with Hydra as the Hydra Helicarrier rams into the S.H.I.E.L.D. Helicarrier that Sharon Carter is on as Doctor Faustus arrests her.<ref>''Secret Empire'' #0. Marvel Comics.</ref> Sharon Carter pretends to be brainwashed by Doctor Faustus, but incapacitates him by spiking his tea with a non-lethal toxin.<ref>''Secret Empire'' #9. Marvel Comics.</ref>
+
+Sharon Carter later forms the Daughters of Liberty, who work to clear Captain America's name after he is framed for the death of [[Thunderbolt Ross]].<ref>''Captain America'' vol. 9 #8. Marvel Comics.</ref>
+
+==Powers and abilities==
+Sharon is a highly trained martial artist and extremely adept at various fighting techniques. She is highly trained in espionage, weapons, firearms and computers. After being brainwashed by Doctor Faustus into shooting Captain America, she spent some time training herself to resist similar brainwashing attempts in future, to the extent that she tricked Faustus into thinking he had brainwashed her again and attacked him while his guard was down.
+
+==Other versions==
+[[File:Ultimatesharoncarter.JPG|150px|right|Ultimate Sharon Carter|thumb]]
+
+In the alternate future of the ''[[Earth X]]'' miniseries, Sharon Carter has fallen victim to Hydra, a squid-based alien life form that absorbs minds and people to expand.<ref>''Earth X'' #1 (April 1999). Marvel Comics.</ref>
+
+Sharon Carter is introduced into the [[Marvel Mangaverse]] continuity as the supposed orchestrator of the destruction  of almost the entire superhuman population in the Marvel Mangaverse. It turns out that she has been under mind control. She becomes the director of S.H.I.E.L.D. when [[Nick Fury]] supposedly dies.
+
+The [[Ultimate Marvel]] version of Sharon Carter is also an agent of S.H.I.E.L.D., but is much closer to the environment of [[Spider-Man (Ultimate Marvel character)|Spider-Man]]. She often appears as one of a pair of wise-cracking S.H.I.E.L.D. agents, the other one is [[Jimmy Woo]].<ref>''Ultimate Spider-Man'' #11-14. Marvel Comics.</ref> She can display humor at times, but mostly keeps her mouth shut in public. As seen in ''Ultimate Spider-Man'' #46, she is a practicing [[Christians|Christian]] and has strong morals, which lead her to want S.H.I.E.L.D. to destroy individuals such as [[Doctor Octopus]] rather than 'lock them away for poking'.<ref>''Ultimate Spider-Man'' #46. Marvel Comics.</ref> Carter and Woo survive the Super-Villains escape that occurs in ''[[Ultimate Six]].'' Carter is seen next in the [[Silver Sable#Ultimate Marvel|Silver Sable]] arc and Woo in the [[Hobgoblin (comics)|Hobgoblin]] arc. Carter is later involved with the [[Clone Saga]] arc, telling the people evacuated from Peter Parker's neighborhood that all is well, and Agent Woo is later seen in the Death of a Goblin arc, letting [[Carol Danvers]] know about the Goblin's most recent murder. In a 2008 storyline, Carter is the acting head of S.H.I.E.L.D.. She asks the Fantastic Four to investigate a confusing situation at Project Pegasus.<ref>''[[Ultimate Origins]]'' #1-5 (Aug.-Dec. 2008). Marvel Comics.</ref>
+
+Sharon Carter and Steve Rogers have a daughter named Sharon Rogers. Created as part of Captain America's 75th anniversary, she is from an alternate timeline where she now serves as Captain America.<ref>{{cite web|url=https://news.marvel.com/games/26348/marvel_games_celebrates_captain_americas_75th_anniverary/|url-status=dead|title=Marvel Games Celebrates Captain America's 75th Anniversary|website=News - Marvel.com|access-date=March 20, 2018|archive-url=https://web.archive.org/web/20170904063720/https://news.marvel.com/games/26348/marvel_games_celebrates_captain_americas_75th_anniverary/|archive-date=September 4, 2017}}</ref><ref>{{cite web |last1=Slead |first1=Evan |title=Captain America: Peggy Carter wields the shield in new Marvel Game |url=https://ew.com/article/2016/06/27/captain-america-marvel-games-75th-anniversary/ |website=Entertainment Weekly |access-date=April 19, 2019 |date=June 27, 2016}}</ref>
+
+==In other media==
+===Television===
+Sharon Carter appeared in the animated series ''[[The Marvel Super Heroes]]'', voiced by [[Peg Dixon]].
+
+===Film===
+A variation of the character named '''Sharon Stewart''' in the 1990 live-action film ''[[Captain America (1990 film)|Captain America]]'', portrayed by Kim Gillingham. This version is a civilian and the daughter of [[List of Marvel Comics characters: R#Bernie Rosenthal|Bernie Stewart-Cooperman]], Steve Rogers's ex. After the death of her parents at the hands of the [[Red Skull]]'s [[Sin (Marvel Comics)|daughter]], she accompanies Captain America to [[Italy]] to defeat the villains.
+
+===Marvel Cinematic Universe===
+[[File:Emily VanCamp as Sharon Carter in Captain America The Winter Soldier poster.jpg|right|thumb|upright|VanCamp as Sharon Carter in a character poster for ''Captain America: The Winter Soldier'' (2014).]]
+{{Main|Sharon Carter (Marvel Cinematic Universe)}}
+[[Emily VanCamp]] portrays [[Sharon Carter (Marvel Cinematic Universe)|Sharon Carter]] in the live-action [[Marvel Cinematic Universe]] films ''[[Captain America: The Winter Soldier]]'' (2014)<ref name="Marvel.com">{{cite web |date=April 8, 2013 |title='Captain America: The Winter Soldier' filming begins |url=http://marvel.com/news/story/20435/captain_america_the_winter_soldier_begins_filming/ |publisher=Marvel |access-date=April 8, 2013 |archive-url=https://web.archive.org/web/20130410211853/http://marvel.com/news/story/20435/captain_america_the_winter_soldier_begins_filming |archive-date=April 10, 2013 |url-status=live }}</ref><ref>{{cite web|url=http://www.newsarama.com/18439-sdcc-13-marvel-studios-thor-cap-more-live.html|title=SDCC '13: Marvel Reveals Avengers: Age of Ultron, Guardians Cast, More|last=Siegel|first=Lucas|publisher=Newsarama|date=July 20, 2013|access-date=July 20, 2013}}</ref> and ''[[Captain America: Civil War]]'' (2016)<ref>{{cite web |date=May 6, 2015 |last1= D'Alessandro |first1= Anthony |author-link1= Anthony D'Alessandro |title= Emily VanCamp Reprising Her Role As Agent 13 In 'Captain America: Civil War' |url= https://deadline.com/2015/05/emily-vancamp-captain-america-civil-war-revenge-sharon-carter-1201421946/ |website= Deadline}}</ref> as well as the Disney+ miniseries ''[[The Falcon and the Winter Soldier]]'' (2021).<ref>{{cite web|url=https://deadline.com/2019/05/kari-skogland-to-direct-6-part-the-falcon-and-the-winter-soldier-miniseries-with-anthony-mackie-sebastian-stan-daniel-bruhl-emily-van-camp-1202619197/|title=Kari Skogland To Direct 6-Part 'The Falcon And The Winter Soldier' Miniseries With Anthony Mackie, Sebastian Stan, Daniel Bruhl & Emily Van Camp|last=Fleming|first=Mike Jr.|work=[[Deadline Hollywood]]|date=May 20, 2019|access-date=May 20, 2019|archive-url=https://web.archive.org/web/20190521004227/https://deadline.com/2019/05/kari-skogland-to-direct-6-part-the-falcon-and-the-winter-soldier-miniseries-with-anthony-mackie-sebastian-stan-daniel-bruhl-emily-van-camp-1202619197/|archive-date=May 21, 2019|url-status=live}}</ref> Additionally, VanCamp voices an alternate timeline version in the [[Disney+]] animated series ''[[What If...? (TV series)|What If...?]]'' episode "[[What If... Zombies?!]]"<ref>{{Cite web |last=Campbell |first=Scott |date=August 1, 2021 |title=Here Are All the Marvel Actors Doing Voices in 'What If...?' |url=https://collider.com/marvel-what-if-voice-cast-explained/ |url-status=live |archive-url=https://web.archive.org/web/20210802020126/https://collider.com/marvel-what-if-voice-cast-explained/ |archive-date=August 2, 2021 |access-date=August 1, 2021 |website=[[Collider (website)|Collider]]}}</ref>
+
+===Video games===
+* Sharon Carter appears in the ''[[Ultimate Spider-Man (video game)|Ultimate Spider-Man]]'' video game, voiced by [[Jane Hajduk]]. This version accompanies [[Nick Fury (Ultimate Marvel character)|Nick Fury]] when the [[Beetle (comics)|Beetle]] releases the [[Green Goblin (Ultimate Marvel character)|Green Goblin]] from prison. She later joins a group of [[S.H.I.E.L.D.]] agents to take the Goblin back into custody.
+* Sharon Carter appears in ''[[Marvel Heroes (video game)|Marvel Heroes]]''. The character as Agent 13 was added later as a "Team-Up" character.
+* Sharon Carter as Agent 13 appears as a playable character in ''[[Marvel: Future Fight]]''.<ref>{{cite web |last1=Ng |first1=Alan |title=Marvel Future Fight 2.1.5 patch notes in full |url=https://www.product-reviews.net/marvel-future-fight-2-1-5-patch-notes-in-full/ |website=Product Reviews.net |access-date=May 14, 2019 |date=May 16, 2016}}</ref>   
+* Sharon Carter appears as a playable character in ''[[Lego Marvel's Avengers]]'', voiced by [[Jennifer Hale]].<ref>Gerding, Stephen (January 13, 2016). [http://www.comicbookresources.com/article/ant-man-captain-america-civil-war-characters-join-lego-marvels-avengers ""ANT-MAN," "CAPTAIN AMERICA: CIVIL WAR" CHARACTERS JOIN "LEGO MARVEL'S AVENGERS""]. ''Comic Book Resources''. Retrieved January 16, 2016.</ref>
+* Agent 13 appears as a playable character in ''[[Marvel Avengers Academy]]'', voiced by Linnea Sage.<ref>{{cite tweet|title=Today is the last day to recruit ME as #sharoncarter in @AvengersAcademy! #MarvelFanOfTheWeek (I'm her voice!)|number=740201058002165760|author=Linnea Sage|user=LinneaSage|date=June 7, 2016|access-date=June 21, 2017}}</ref>
+* Agent 13 appears as a playable character in ''[[Marvel: Avengers Alliance 2]]''.
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+*[http://www.marveldirectory.com/individuals/c/cartersharon.htm Carter, Sharon] Marvel Directory: Sharon Carter (Agent 13)
+
+{{Peggy Carter}}
+{{Jack Kirby}}
+{{Nick Fury}}
+{{S.H.I.E.L.D.}}
+{{Captain America}}
+{{Secret Avengers}}
+{{Avengers characters}}
+{{Stan Lee}}
+
+{{DEFAULTSORT:Carter, Sharon}}
+[[Category:Avengers (comics) characters]]
+[[Category:Comics characters introduced in 1966]]
+[[Category:Marvel Comics television characters]]
+[[Category:Fictional characters from Virginia]]
+[[Category:Fictional Central Intelligence Agency personnel]]
+[[Category:Fictional American secret agents]]
+[[Category:Fictional women soldiers and warriors]]
+[[Category:Marvel Comics martial artists]]
+[[Category:Marvel Comics film characters]]
+[[Category:Marvel Comics female superheroes]]
+[[Category:Fictional special forces personnel]]
+[[Category:Fictional spymasters]]
+[[Category:Characters created by Stan Lee]]
+[[Category:Characters created by Jack Kirby]]
+[[Category:Characters created by Dick Ayers]]
+[[Category:S.H.I.E.L.D. agents]]

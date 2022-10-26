@@ -1,0 +1,83 @@
+{{short description|Mutant super-villain character from Marvel Comics}}
+{{For|the DC Comics supervillain|Arclight (DC Comics)}}
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics--> 
+image=[[Image:Arclight.jpg|250px]]
+|caption=Arclight. Main image by Steve Skroce. Background Art by Joe Madureira.
+|character_name=Arclight
+|real_name=Philippa Sontag
+|species=[[Mutant (Marvel Comics)|Human Mutant]]
+|publisher=[[Marvel Comics]] 
+|debut='''In Shadow:''' ''The [[Uncanny X-Men]]'' #210 (Oct. 1986)<br />'''Full Appearance:''' ''The [[Uncanny X-Men]]'' #211 (Nov. 1986)
+|creators=[[Chris Claremont]] (writer)<br/>[[John Romita Jr.]] (artist)
+|alliances=[[Femizons]]<br/>[[Marauders (comics)|Marauders]]
+|aliases=
+|powers=Superhuman strength, stamina, resistance to injury<br>Able to generate shock waves and seismic tremors<br>US Army training 
+}}
+'''Arclight''' ('''Philippa Sontag''') is a [[Mutant (Marvel Comics)|mutant]] <!--Do not add "fictional" as it is tautological; supervillains (and characters in general) are by definition implied to be fictionalized to some extent.-->[[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. Created by writer [[Chris Claremont]] and artist [[John Romita Jr.]], she is a former military officer who later becomes an assassin. She is primarily known as a member the original [[Marauders (comics)|Marauders]] team, a group of mutants who often work for the mad scientist villain [[Mister Sinister]]. As a Marauder, she has often fought the [[X-Men]] as well as related teams and heroes such as [[X-Factor (comics)|X-Factor]] and [[X-Force]]. Like many of the Marauders, Arclight has been killed in battle more than once, only to be revived each time by Sinister through advanced cloning techniques.
+
+The character has made scattered minor appearances throughout other forms of media, such as animated television series and the film ''[[X-Men: The Last Stand]]'', in which she was portrayed by Omahyra Mota.
+
+==Publication history==
+Arclight first appeared in silhouette in ''[[Uncanny X-Men]]'' #210 (Oct. 1986), then made her first full appearance the following month in issue #211 (Nov. 1986). Both issues served as chapters in the "[[Mutant Massacre]]" crossover that involved the X-Men, the spin-off team X-Factor, and other Marvel Comics heroes such as [[Thor (Marvel Comics)|Thor]], [[Power Pack]], and [[Daredevil (Marvel Comics character)|Daredevil]].<ref name=":0">''X-Factor'' #10 (1986). Marvel Comics.</ref><ref>''Thor'' #373 (1986). Marvel Comics).</ref><ref>''Power Pack'' #27 (1986) Marvel Comics.</ref><ref>''The Uncanny X-Men'' #213 (1987). Marvel Comics.</ref> Arclight, along with many of the Marauders, was created specifically for the "Mutant Massacre" story by [[Chris Claremont]] and [[John Romita Jr.]] In reference to this crossover, ''X-Factor'' writer/artist [[Walt Simonson]] said that "when [[Jon Bogdanove]] drew Arclight in ''Power Pack'', she had a much different figure than I gave her in ''X-Factor''. But I went back and did a little bit of revision work in my book after I'd seen what John had done".<ref>{{cite news|last=Sanderson|first=Peter|author-link=Peter Sanderson|date=October 1986|title=Walt & Louise Simonson|page=44|work=[[Comics Interview]]|publisher=[[Fictioneer Books]]|issue=39}}</ref>
+
+Originally, Arclight is said to be a veteran of the Vietnam War.<ref name=":0" /> Eventually, this proved problematic since modern Marvel Comics stories exist on a sliding timeline: new comics take place around the date of publication (unless specifically said otherwise) while events in the past are now understood to be pushed forward from their original publication date, compressing time so that characters do not age too rapidly or in real-time.<ref>This became the practice of Marvel Comics storytelling by the 1970s, fully explained later in ''The Official Handbook of the Marvel Universe A-Z'' #2 (2007).</ref> Since characters such as Arclight age at the rate of a normal human being, it became uncertain how they could seem to be in their prime in 21st-century stories yet have served in the Vietnam War. A similar problem existed for characters such as the [[Punisher]]. To address this, the 2019 mini-series ''History of the Marvel Universe'' revised canon, revealing that a war was fought for decades in the fictional Asian country Siancong, ending only a few years before the rise of the modern superhero era. As a result, Arclight and other characters are now said to be veterans of the Siancong War.<ref name=":1">''History of the Marvel Universe'' #2 (2019). Marvel Comics).</ref>
+
+Following conflicts with the X-Men in "Mutant Massacre" and the 1989 crossover "[[Inferno (Marvel Comics)|Inferno]]", Arclight was depicted as a member of the Femizons team in the comic book series Captain America (volume 1).<ref name=":2">''Captain America'' #387-392 (July–Sept. (1991) Marvel Comics.</ref> She was then seen again as a member of the Marauders in 1996<ref name=":3">''X-Man'' #13 (March 1996)</ref> and was often part of the team in their subsequent stories.
+
+In the 2019 event ''[[Dawn of X]]'', a new mutant community was formed on the living island [[List of Marvel Comics characters: K|Krakoa]], providing sanctuary and amnesty for mutants everywhere. While Mister Sinister and the Marauder known as [[Scalphunter (Marvel Comics)|Scalphunter]] relocated to the island, Arclight and the other original Marauders (with the exception of Sabretooth) decided to shun the offer of amnesty.<ref name=":22">''Hellions'' #1 (2020). Marvel Comics.</ref> ''Dawn of X'' featured a new team calling itself the Marauders formed on Krakoa, led by Kitty Pryde and involving several former X-Men members.<ref>''Marauders'' #1 (2019).</ref> The 2020 series ''Hellions'' revealed that Arclight and her other old teammates had made their new home in the Essex State Home for Foundlings, an orphanage formerly owned by Sinister where he secretly kept a lab and clone banks.
+
+==Fictional character biography==
+As part of the US military, Philipa Sontag serves with the ground forces during the Siancong War.<ref name=":1" /> Sontag's traumatic experiences during the war haunt her for years afterward.<ref name=":0" /> She projects her trauma and rage into bodybuilding and mercenary work, becoming a bloodthirsty assassin. Already a mutant born with enhanced strength and stamina, Sontag's training makes her proportionately stronger and more formidable. Sontag also trains in how to best use her mutant [[shock wave]] power in combat, combing it with her super strength in form of punches and blows.
+
+Several years after the Siancong War, the super-powered geneticist Mister Sinister decides to wipe out a community of sewer-dwelling mutants called [[Morlocks (comics)|Morlocks]]. Obsessed with improving mutations in mutants and creating a perfect race of superhumans, Sinister believes the Morlocks (many of whom are physically deformed or disabled by their mutant abilities) will pollute the gene pool. He also learns that many Morlocks were further mutated by scientific methods based on his own research (performed by the villain Dark Beast), and is offended that his "signature" was used without permission. Already regularly working with the mutant assassin [[Scalphunter (Marvel Comics)|Scalphunter]], Sinister decides that for the Morlocks he will need an entire team of warriors. He asks the mutant criminal Gambit to track down and recruit mutant killers. In exchange, Sinister agrees to cure Gambit of a defect that will cause him to lose control of his powers. Gambit recruits Arclight as well as others, and they form Sinister's first team of Marauders. Scalphunter, a US Army veteran and Sinister's long-time accomplice, is the team field leader. Arclight becomes second-in-command.<ref>''The Uncanny X-Men'' #350 (1997). Marvel Comics.</ref>
+
+Before engaging on their mission against the Morlocks, Sinister sends the Marauders to kidnap Nathan Summers, the recently born child of Cyclops. Once Nathan is secured, Sinister then sends the Marauders into the sewers of New York and the team engages in wholesale slaughter.<ref>''The Uncanny X-Men'' #211 (Nov. 1986). Marvel Comics.</ref> Their attack becomes known as the "[[Mutant Massacre]]". Arclight herself kills dozens of Morlocks before the Marauders are attacked by heroes such as the X-Men and X-Factor, forcing them to retreat.<ref name="first">''X-Factor'' #10 (Nov. 1986). Marvel Comics.</ref>
+
+Months later, the Marauders are involved in the "Inferno" crossover, during which forces of Hell are unleashed on Earth. Arclight and several Marauders are killed during the crossover, but resurrected by Mister Sinister's cloning technology.<ref>''X-Men'' #34 (1994). Marvel Comics.</ref> Mister Sinister combines his mental powers with his genetic manipulation to ensure that all the clones will not betray him.<ref>''Gambit'' vol. 3 #8 (1999). Marvel Comics.</ref>
+
+The terrorist [[Superia]] plots to conquer the world, hoping to dominate men and sterilize all other women. To help her overthrow society, she recruits an army of women warriors, including Arclight. After learned that there exists a possible future where Earth is ruled by women overlords called Femizons, Superia names her own present-day army "the [[Femizons]]". Her efforts are thwarted by a collection of fighters led by [[Captain America]].<ref name=":2" /> Although Superia later creates a new, smaller group of Femizons, Arclight does not join them. Instead, she works alongside the Marauders again, often capturing mutant test subjects<ref name=":3" /> or fighting heroes such as Cable, all at the command of Mister Sinister.
+
+The Marauders attack the powerful mutant Nate Grey, who uses his telepathy to cause Arclight to kill her teammate Blockbuster. Nate Grey then causes the Marauder called Riptide to kill Arclight. All are later resurrected by Sinister's clone farm.<ref name=":3" />
+
+Due to the event called [[Decimation (comics)|M-Day]], most of Earth's mutants lose their X-gene and the mutant abilities it granted. It is determined that only [[X-Men: The 198|198]] mutants retain their X-gene, with Arclight being one of them. For a time, she takes refuge at the X-Men's home, the school that is nicknamed "the [[X-Mansion]]".<ref>''X-Men: The 198'' #1-5 (2006). Marvel Comics.</ref> Later on, Arclight leaves, eventually joining the New Marauders team that includes former X-Men members.<ref>''X-Men: Legacy'' #200</ref> This team fights the X-Men and other heroes in the crossover[[X-Men: Messiah Complex|Messiah CompleX]]. During this crossover, Arclight joins a battle on Muir Island and is seriously injured by [[Wolfsbane (comics)|Wolfsbane]], who bites her in the throat.<ref>''X-Men'' #200-203 (Aug.–Nov. 2007). Marvel Comics.</ref> She is later seen having recovered (or having been cloned again), only to then be defeated by [[Rockslide (comics)|Rockslide]].<ref>''New X-Men'' #46 (March 2008). Marvel Comics.</ref> Arclight later rejoins the Marauders when the team is briefly reorganized under the leadership of Da'o Coy Manh, the half-sister of the mutant known as Karma.<ref>''Astonishing X-Men'' vol. 3 #48</ref>
+
+Deciding they are long overdue for vengeance in the name of the Morlocks their predecessors killed, Magneto hunts down and kills these clones, including Arclight. After tracking a group of remaining clones that have yet to be activated, Magneto decides instead to alter their personalities to obey his own commands in the future.<ref>''Magneto'' vol. 3 #6</ref> Magneto later unleashes his loyal Marauder clones against the international intelligence agency S.H.I.E.L.D., using them as a distraction while he destroys much of the organization's collected data on mutants. Magneto and his Marauders then retreat and go separate ways.<ref>''Magneto'' vol. 3 #16</ref> Eventually, Mister Sinister forms a new team of Marauders.<ref name=":12">''Extraordinary X-Men'' #1</ref>
+
+The Marauders later reform with Scalphunter, Arclight, Harpoon, Blockbuster, Vertigo, and Malice. The X-Men confronts this group, accusing them of committing a second Morlock Massacre. The Marauders deny this charge, but the X-Man [[Chamber (comics)|Chamber]] burns them alive with his psionic flame. As he burns, Harpoon impales Chamber in the back, killing the young mutant.<ref>''The Uncanny X-Men'' vol. 5 #18 (2019). Marvel Comics.</ref> The Marauders are later seen again without injury, indicating they were once again cloned by Sinister.<ref name=":22"/>
+
+In the 2019 event ''[[Dawn of X]]'', a new mutant community is formed under the direction of former enemies Charles Xavier and Magneto. The new community takes up residence on the living island [[List of Marvel Comics characters: K|Krakoa]], providing sanctuary and amnesty for mutants (and only mutants). Scalphunter joins the community and Mister Sinister is invited to serve in its governing body, the Quiet Council. Arclight and the other original Marauders (with the exception of Sabretooth) decide to shun the offer of amnesty.<ref name=":22"/> Arclight and her other old teammates take refuge in the Essex State Home for Foundlings, an orphanage formerly owned by Sinister where he secretly kept a lab and clone banks.<ref name=":22" />
+
+==Powers and abilities==
+Arclight can generate seismic force from her hands, causing short-range shock waves and tremors in the immediate area. In some comics, a flash of light accompanies her powers. She has developed a fighting style where she releases a shockwave simultaneously while throwing her fist, creating a shattering punch effect. Along with this, her mutant X-gene grants her superhuman strength, stamina, and resistance to injury. Her extensive strength training has made her even stronger and more formidable. Arclight has military training in jungle survival, hand-to-hand combat, and various firearms and explosives.
+
+Arclight has died in action but been repeatedly resurrected by Mister Sinister's cloning techniques. This process seems to involve a full transfer of personality and memories, effectively keeping Arclight as the same person, though now with programming that prevents her from betraying Mister Sinister.
+
+==In other media==
+===Television===
+* Arclight makes minor cameo appearances in ''[[X-Men: The Animated Series]]''.
+* A male version of Arclight appears in ''[[Wolverine and the X-Men (TV series)|Wolverine and the X-Men]]'', voiced by [[André Sogliuzzo]].{{citation needed|date=September 2022}} This version serves as field leader of the [[Marauders (comics)|Marauders]] under [[Mister Sinister]].
+
+===Film===
+Arclight appeared in the 2006 live-action film ''[[X-Men: The Last Stand]]'', portrayed by Dominican fashion model and actress Omahyra Mota.{{cn|date=June 2019}} This version is a member of the Omegas, who join forces with [[Magneto (film character)|Magneto]]'s [[Brotherhood of Mutants|Brotherhood]] in stopping a [[Mutant (Marvel Comics)|mutant]] cure. She is later killed by the [[Jean Grey (film character)|Phoenix]].
+
+===Video games===
+Arclight appears as a boss in ''[[Deadpool (video game)|Deadpool]]'', voiced by Chani Krich.<ref>"[http://www.comingsoon.net/news/gamenews.php?id=103948 The Marauders Confirmed for Deadpool Video Game]", ComingSoon.net</ref><ref name="btva">{{cite web | title=Voice Of Arclight - Deadpool <nowiki>|</nowiki> Behind The Voice Actors | url=http://www.behindthevoiceactors.com/video-games/Deadpool/Arclight/ | work=Behind The Voice Actors | access-date=December 9, 2017| postscript= Check mark indicates role has been confirmed using screenshots of closing credits and other reliable sources}}</ref> This version is a member of Mister Sinister's Marauders, who encounter the [[Deadpool|eponymous character]] after they unknowingly cost him a bounty. Deadpool kills Arclight in battle and later faces several clones of her while hunting Sinister.
+
+==References==
+{{reflist|2}}
+
+==External links==
+* {{Marvelwiki|Arclight|Arclight}}
+
+{{John Romita Jr.}}
+
+[[Category:Characters created by Chris Claremont]]
+[[Category:Characters created by John Romita Jr.]]
+[[Category:Comics characters introduced in 1986]]
+[[Category:Female film villains]]
+[[Category:Fictional mercenaries in comics]]
+[[Category:Fictional murderers]]
+[[Category:Fictional Vietnam War veterans]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics female supervillains]]
+[[Category:Marvel Comics mutants]]

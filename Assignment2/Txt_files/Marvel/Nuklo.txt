@@ -1,0 +1,46 @@
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|image=[[Image:Nuklo.jpg|249px|]]
+|caption=Nuklo makes his first cover appearance, from ''The Avengers Annual'' #6.
+|character_name=Nuklo
+|real_name=Robert Frank, Jr
+|species=[[Mutant (Marvel Comics)|Human Mutant]]
+|publisher=[[Marvel Comics]]
+|debut=''[[The Avengers (comic book)|Giant-Size Avengers]]'' #1 (Aug 1974)
+|creators=[[Roy Thomas]]<br>[[Rich Buckler]]<br>[[Dan Adkins]]
+|alliances=[[V-Battalion]]
+|aliases=
+|powers=Superhuman strength<br>Radiation generation<br>Ability to project an aura that absorbs force used against him and divide himself into three bodies
+}}
+
+'''Nuklo''' ('''Robert Frank, Jr.''') is a fictional character, a [[Mutant (Marvel Comics)|mutant]] appearing in [[American comic book]]s published by [[Marvel Comics]]. He is the son of two characters featured in the [[Golden Age of Comic Books]], [[Whizzer (Robert Frank)|the Whizzer]] and [[Miss America (Madeline Joyce)|Miss America]].
+
+==Publication history==
+Nuklo first appeared in ''[[The Avengers (comic book)|Giant-Size Avengers]]'' #1 (August 1974), and was created by [[Roy Thomas]], [[Rich Buckler]] and [[Dan Adkins]].<ref>{{cite book |last1=Brevoort |first1=Tom |last2=DeFalco |first2=Tom |last3=Manning |first3=Matthew K. |last4=Sanderson |first4=Peter |last5=Wiacek |first5=Win |title=Marvel Year By Year: A Visual History |date=2017 |publisher=DK Publishing |isbn=978-1465455505 |page=166}}</ref>
+
+==Fictional character biography==
+Nuklo is the son of Robert Frank and Madeline Joyce, also known as the [[Whizzer (Robert Frank)|Whizzer]] and [[Miss America (Madeline Joyce)|Miss America]]. He was born in the fictional town of Mount Athena, New York (where [[Features of the Marvel Universe#Project_Pegasus|Project Pegasus]] is also located). The two retired from their careers as costumed crimefighters several years after the end of World War II, married, revealed their identities to the government, and took jobs at one of the nation's first nuclear power plants. When a radiation experiment went awry, the Franks rushed into a high radiation area to manually activate the damping rods that were malfunctioning and were exposed to massive amounts of radiation. Madeline Frank was pregnant at the time and when she gave birth eight months later, her son proved to be a mutant who emitted toxic radiation levels. Apparently, due to their own superhuman powers, the Franks were immune to the deleterious effects of excessive radiation. The Franks were persuaded by the government to place their infant son in a special capsule which would retard his aging process while draining him of excess radioactivity.
+
+The capsule lay beneath the basement of a government building for several decades, until the building collapsed and the capsule was taken into custody by the [[Avengers (comics)|Avengers]]. By that time, the classified records about the capsule had been misplaced and forgotten. But while Madeline had died shortly after giving birth to a second stillborn son a few years later, the Whizzer was still alive and learned about the capsule's discovery. He broke into the [[Avengers Mansion|Avengers’ Mansion]] to take custody of the capsule but was prevented from doing so by the Avengers. Shortly thereafter, the Avengers’ probing devices tripped the release mechanism of the capsule and Robert Frank, Jr., was set free. His body, which had only aged approximately twelve years over the decades of containment, was still highly radioactive, and soon exhibited certain superhuman powers. His mind, which was of above average intelligence, was still childlike and he knew absolutely nothing about the outside world and was consequently greatly disoriented. Somehow fissioning into three separate duplicates, Frank Jr., who would soon dub himself Nuklo, ran amok through [[New York City]]. The Avengers subdued the three doppelgangers and brought them together, which merged them into a single being again. Nuklo was rendered unconscious by a hex cast by the mutant [[Scarlet Witch]], who at that time believed herself to be his sister.<ref>''Giant-Size Avengers'' #1</ref>
+
+Nuklo is returned to the capsule and placed back in government custody. The government place him under the care of U. S. Army General Jacob Pollock, who becomes a renegade and allies himself with the criminal [[Living Laser]]. Nuklo accidentally escapes his containment vessel and wreaks havoc for the Avengers before his father, the Whizzer, is able to get close enough to knock him unconscious.<ref>''Avengers Annual'' #6</ref>
+
+Nuklo is then taken to the newly opened government energy facility Project: Pegasus for treatment and study. There his radiation level was diminished significantly and his education was started. After a few years, he is placed in the custody of scientists in a special facility at General Hospital in [[Manhattan]] where he is treated by a psychologist named Dr. Linda Hyams and a radiologist named Dr. Ira S. Bishoff, who was secretly the Whizzer's old nemesis [[Isbisa]]. Over the course of months, Isbisa siphons Nuklo's radiation and transfers it to himself, in order to gain sufficient power to exact revenge upon the Whizzer. When Robert Frank finally manages to get a court order turning his son over to his care, Isbisa attacks. At the battle's end, the Whizzer dies of a heart attack rescuing his son, but Nuklo is permanently cured of his excess radiation.<ref>''Vision and Scarlet Witch'' #2</ref>
+
+Nuklo is placed in the custody of Dr. Linda Hyams, his psychologist, who takes him to live with her family in a small community in upstate New York.{{Issue|date=July 2010}} Robert Frank, Jr. passes high school equivalency tests and gets a job at a service station.{{Issue|date=July 2010}} He is attacked by the super human-hunting [[TESS-One]] robot.<ref>''Captain America Annual'' #8 (1986)</ref>
+
+He later becomes a member of the Penance Council of the [[V-Battalion]].<ref>''Thunderbolts'' #40</ref>
+
+==Powers and abilities==
+Nuklo has superhuman strength and can project an aura that absorbs force used against him. He can emit dangerous radiation, and can divide himself into three bodies united by a single mind.
+
+==References==
+{{Reflist}}
+
+==External links==
+* http://marvel.com/universe/Nuklo
+
+[[Category:Fictional characters from New York (state)]]
+[[Category:Marvel Comics characters who can move at superhuman speeds]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics superheroes]]

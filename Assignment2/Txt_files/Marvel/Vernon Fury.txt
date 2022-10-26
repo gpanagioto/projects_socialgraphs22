@@ -1,0 +1,9 @@
+#REDIRECT [[Scorpio (Marvel Comics)#Scorpio (Vernon Fury)]]
+
+{{Redirect category shell|
+{{R to section}}
+{{R from fictional character|Marvel Comics}}
+}}
+
+{{DEFAULTSORT:Fury, Vernon}}
+[[Category:Nick Fury]]

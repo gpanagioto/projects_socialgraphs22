@@ -1,0 +1,167 @@
+{{short description|Fictional DC Comics team}}
+{{Infobox comics organization <!--Wikipedia:WikiProject Comics-->
+|image= Weird war tales 93.jpg
+|imagesize= 250
+|caption=''Weird War Tales'' #93 (November 1980), the first appearance of the original Creature Commandos, art by [[Joe Kubert]].
+|publisher=[[DC Comics]]
+|debut=''[[Weird War Tales]]'' #93 (November 1980)
+|creators=[[J. M. DeMatteis]] (writer)<br>[[Pat Broderick]] (artist)
+|type=Military unit
+|business=
+|organisation=
+|organization=1
+|base=Project M (modern version) 
+|owners=
+|employees= {{collapsible list|Aten<br>the Bogman<br>Gunner<br>Hunter<br>Medusa<br>Patchwork<br>Velcoro<br>Wolfpack<br>the [[G.I. Robot]]<br>Matthew Shrieve}}
+|fullroster=
+|cat=military organizations
+|subcat=DC Comics
+|sortkey=Creature Commandos
+}}
+The '''Creature Commandos''' are a fictional [[DC Comics]] team of military superhumans originally set in [[World War II]].<ref name="dc-ency">{{Citation|last = Jimenez|first = Phil|author-link = Phil Jimenez|contribution = Creature Commandos|editor-last = Dougall|editor-first = Alastair|title = The DC Comics Encyclopedia|pages = 88|publisher = [[Dorling Kindersley]]|place = New York|year = 2008|isbn = 0-7566-4119-5|oclc = 213309017}}</ref> The original team was introduced in ''[[Weird War Tales]]'' #93 (November 1980),<ref>{{cite book|last=Manning|first= Matthew K.|editor-last = Dolan|editor-first = Hannah|chapter= 1980s|title = DC Comics Year By Year A Visual Chronicle|publisher=[[Dorling Kindersley]] |year=2010 |isbn= 978-0-7566-6742-9 |page= 189 |quote = A battalion of horror icons created by the U.S. government to aid the American war effort made its debut in an off-beat story by writer J. M. DeMatteis and penciler Pat Broderick.}}</ref> created by [[J. M. DeMatteis]] and [[Pat Broderick]]. The team was composed of a human team leader, a [[werewolf]], a [[vampire]], a [[Frankenstein's monster]], and a [[gorgon]].
+
+The modern team first appeared in their own miniseries ''Creature Commandos'' #1-8 (May–December 2000); this version was written by [[Tim Truman]] and drawn by [[Scot Eaton]].<ref>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Manning |first3=Matthew K. |last4=McAvennie |first4=Michael |last5=Wallace |first5=Daniel |title=DC Comics Year By Year: A Visual Chronicle |date=2019 |publisher=DK Publishing |isbn=978-1-4654-8578-6 |page=279}}</ref>
+
+[[Marc Singer]] portrayed team leader General Matthew Shrieve in the [[Arrow (season 3)|third season]] of the [[Arrowverse]] series ''[[Arrow (TV series)|Arrow]]''.
+
+==Concept and creation==
+Asked how the Creature Commandos came about, writer [[J. M. DeMatteis]] recalled: {{blockquote|I was doing ''War Tales'' [sic] for about six months before the [[DC Implosion]] put me out of work for almost a year. And the last idea I had... I took a look at the title, ''[[Weird War Tales|Weird War]]'', and I said, "Ya gotta have a lot of monsters". ... then after I was getting work there again was when they were trying to revivify the mystery books by putting series in them. So I went to [[Len Wein|Len [Wein, editor]]] with the Creature Commandos — the actual title may have been Len's; I think it was — and he said the same thing: "That's so silly that it will work. Let's do it". And we did it and it was silly and nothing came of it and the book died anyway.<ref>{{cite news | first1 = Jim | last1 = Salicrup | first2 = Mike | last2 = Higgins | authorlink1 = Jim Salicrup | date = September 1986 | title = J. Marc DeMatteis (part 1) | work = [[Comics Interview]] | issue = #38 | pages = 20–35 | publisher = [[Fictioneer Books]]}}</ref>}}
+
+DeMatteis didn't stay on the feature very long, and his replacement was [[Robert Kanigher]], who wrote the series until ''Weird War Tales'' was canceled in 1983.
+
+==Fictional team history==
+===Project M===
+Project M is a secret government organization that began during [[World War II]] and specializes in experimental biotechnology and necromancy. Known creations of the Project beside the Creature Commandos include [[Miss America (DC Comics)|Miss America]] and the [[G.I. Robot]]. The Project's main scientist is Professor Mazursky. He was aided by [[Robotman (Robert Crane)|Robert Crane]]. As told in ''Young All-Stars'' #12, they operated from a secret underground complex on the mythical Ferris Island in [[New York (state)|New York]].<ref name="dc-ency"/>
+
+[[File:aweirdwar.png|thumb|150px|left|Panel from ''Weird War Tales'' #119 (January 1983), art by Jim Craig.]]
+In 1942, Project M created the Creature Commandos. They were: '''Lt. Matthew Shrieve''' (a normal human), '''Warren Griffith''' (a werewolf), '''Sgt. Vincent Velcro''' (a vampire), '''Pvt. Elliot "Lucky" Taylor''' (a Frankensteinian monster) and '''Dr. Myrna Rhodes''' (a gorgon).
+
+Project M yielded other interesting specimens. Most notably, they were behind the creation of the heroine Miss America. Prof. Mazursky kidnapped her after his original subject perished. At first, his experiments appeared to have left her incapacitated. He later returned her unconscious form to the surface world. After that, she began a career as a masked heroine, but was critically injured while fighting alongside the [[Freedom Fighters (comics)|Freedom Fighters]]. Project M recovered her and nursed her back to health. While there, Project M was visited by the [[Young All-Stars]], who had discovered that Project M had been infiltrated. A criminal named [[Deathbolt]] was there seeking a new physical host for the disembodied brain of the [[Ultra-Humanite]]. The Ultra-Humanite took over the body of a dinosaur recovered from [[Dinosaur Island]].
+
+During the same visit, the Young All-Stars witnessed the unfinished body of the machine that would later be known as the [[G.I. Robot]].<ref name=cosmicteams>[http://www.mykey3000.com/cosmicteams/cosmic/c.html Cosmic Teams Creature Commandos] {{webarchive|url=https://web.archive.org/web/20060629102310/http://www.mykey3000.com/cosmicteams/cosmic/c.html |date=2006-06-29}}</ref>
+
+===World War II===
+The team's first mission was in [[France]], where they destroyed [[Nazi]]-manufactured android duplicates of the Allied leaders. In their next mission to France to free scientist Dr. Renee Frederique, the Commandos ultimately found her in a death camp, and they had no choice but to kill her. Her knowledge of a chemical nerve gas was too risky to be left in Nazi hands. Because of his part in the killing, Taylor attempted suicide. Although the doctors attempted to repair him, he remained mute for the rest of the series. On another morally dubious mission, the team caused the deaths of dozens of super soldier children.
+
+In 1943, the Commandos were deployed to [[Dinosaur Island]] in the [[Oceania|South Pacific]]. They were supposed to solve the disappearance of several Allied spotter planes, but discovered a hidden Axis naval base and were able to trick the [[dinosaur]]s in turning on the Japanese navy. Shrieve took pictures for his commanders as proof of the island's existence, but Velcro destroyed them; he believed that the war would bring destruction to the dinosaurs.
+
+When they returned to Dinosaur Island, they met '''J.A.K.E. 1''', the G.I. Robot. He met the Commandos when their plane was attacked by a dinosaur and crashed into the beach. Together, the soldiers discovered an underwater civilization, a supposed lost colony of [[Atlantis (DC Comics)|Atlantis]] situated in the [[Pacific Ocean|Pacific]]. The lost colony had created a group of robots to carry on the work of Atlantean conquest, and these androids took control of the G.I. Robot's mind. J.A.K.E. 1 ultimately overrode their commands and sacrificed itself to destroy the colony.
+
+At the end of the war, the Creature Commandos and J.A.K.E. 2 (and its robot dog and robot cat) were forced to man a rocket aimed at [[Berlin]]. But the rocket went radically off-course and headed out of the atmosphere into deep space.<ref>"Destination Unknown!", ''Weird War Tales'' #124 (DC Comics, June 1983).</ref> Much later, they (with J.A.K.E. 2, as of ''[[Action Comics]]'' #872) appeared as captives in [[Brainiac (character)|Brainiac]]'s ship.<ref name=cosmicteams /><ref>''Action Comics'' #868 (October 2008)</ref>
+
+===Modern era===
+[[File:creatcomm2.png|thumb|right|170px|Cover of ''Creature Commandos'' #1 (May 2000), art by Scott Eaton and Ray Kryssing.]]
+The original team, with J.A.K.E. 2, is freed from the confines of Brainiac's ship, which is now under control by Kandorians. Frankenstein, whose sense of time is not the same as his comrades, convinces his group to trust [[Superman]] and they join in with a fight against the threat that freed them, an attack by the villains Reactron and Metallo.<ref>''Action Comics'' #872 (February 2009)</ref> The American military conspiracy that has attacked the Kandorians sweep up the Commandos, though they are not quite sure of the value of the group.<ref>''Action Comics'' #873 (March 2009)</ref>
+
+Somehow, the original team later returned to Earth and to Project M, where they continued to serve as a special operations force. To keep pace with their aging physiology, Mazursky, the doctor who had originally mutated them, continued to perform a series of body modifications. This process extended their lives, but at the cost of their humanity.
+
+At an unspecified date in the near future, the various original team members adopted code names. Project M continued to grow in size, and the original team came to form the core field team codenamed '''M-Team Alpha'''. M-Team Alpha was sporadically infused with new operatives as attrition took its toll. Presumably, Lt. Shrieve died or retired along the way. In his place came '''Capt. Lucius Hunter''', formerly of Hunter's Hellcats. Hunter was said to be 74 years old, and a recipient of extensive body modifications and rejuvenation therapies. Other new members are: '''Aten''', a mummy-like communications specialist; the '''Bogman''', a humanoid [[amphibian]] grunt resembling the [[Gill-man]]; and recently-revived cyborg '''Gunner Mackey''', who — along with his partner "Sarge" — died during World War II. Both Lucius Hunter and Gunner Mackey were featured characters in ''[[Our Fighting Forces]]''.<ref name="dc-ency"/>
+
+While deep undercover, Medusa discovered that Earth's dimension was in danger of invasion by a military alliance from the alternate Earth of '''Terra Arcana'''. This other-dimensional conglomerate of warlords included '''Lord Saturna''', '''[[Hyathis]]''' of Alstair (killed by Tazzala), '''Tazzala''' of Korrl (the [[Queen Bee (comics)#Tazzala|Queen Bee III]]), '''Sayvar''' the reptilian Lord of Llarr, '''Kraad''' of Kranaal, '''Simon Magus''' of Blackstaff, '''Xotar''' the Weapons Master, '''Kromm''' of Mosteel (killed by Lord Saturna), and the '''Troll King''' (killed by Velcro).
+
+In order to conquer Earth, the one remaining free dimension, Lord Saturna's alliance enlisted the assistance of a powerful consortium on Future Earth. This group from Earth gave weapons and teleportation technology to the alliance in return for alien real estate. Tazzala and Magus soon betrayed Lord Saturna, cutting their own deal with Murray. In M-Team Alpha's raid on Terra Arcana, Velcro and Gunner were captured by [[Claw the Unconquered]]. Claw was convinced to ally with them, and his people joined the battle against Lord Saturna. In the end, Tazzala killed Lord Saturna and was herself killed. Terra Arcana's future was then left in the hands of its people.<ref name=cosmicteams />
+
+The modern Creature Commandos later appeared in ''[[The OMAC Project]]'' #1-6 (June–November 2005).
+
+During the ''[[Infinite Crisis]]: [[Villains United#Villains United: Infinite Crisis Special #1 — "A Hero Dies but One"|Villains United Special]]'' #1, a metahuman prison named "Enclave M" was shown in [[New Mexico]]. Its connection to Project M is unclear at this time. In ''[[Booster Gold]]'' (vol. 2), [[Maxwell Lord]] mentions Project M as still active, at least in the times of his cyberization, and claims he was able to use their resources to give himself a new human body, free from the manipulations of [[List of minor DC Comics characters#Kilg%re|Kilg%re]].
+
+In the ''[[Justice League: Generation Lost]]'' storyline, Maxwell Lord took control of the Creature Commandos to attack the old [[Justice League International|JLI]] embassy.<ref>''Justice League: Generation Lost'' #15 (December 2010)</ref> During the battle, Lord reveals himself while posing as one of the Creature Commandos, in which he captures the [[Blue Beetle (Jaime Reyes)|Blue Beetle]] and escapes.<ref>''Justice League: Generation Lost'' #16 (December 2010)</ref> Shortly thereafter, the Creature Commandos broke free from Lord's influence, realizing that they do not know why they are so far from their Project M base.<ref>''Justice League: Generation Lost'' #17 (January 2011)</ref>
+
+===''The New 52''===
+In ''[[The New 52]]'' reboot of DC's continuity, a new version of the Creature Commandos was introduced and featured in the pages of ''[[Frankenstein, Agent of S.H.A.D.E.]]''.<ref name=Guide>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Korte |first3=Steve |last4=Manning |first4=Matt |last5=Wiacek |first5=Win |last6=Wilson |first6=Sven |title=The DC Comics Encyclopedia: The Definitive Guide to the Characters of the DC Universe |date=2016 |publisher=DK Publishing |isbn=978-1-4654-5357-0 |page=75}}</ref> This incarnation of the team works as field agents for the secretive organization [[S.H.A.D.E.]] and are led by [[Frankenstein (DC Comics)|Frankenstein]]. The rest of the team consists of Khalis (who appears to be an Egyptian [[Mummy (undead)|mummy]]), Warren Griffith (a werewolf), and Vincent Velcoro (given vampiric powers through a modified version of the [[Man-Bat]] formula). Griffith and Velcoro were both originally humans who volunteered to be mutated by Dr. Nina Mazursky, who later mutated herself into an amphibious creature resembling a hybrid between the [[Gill-man]] and a [[mermaid]] (but favoring the Gill-man in actual appearance) in order to fight alongside the team.<ref>''Frankenstein: Agent of S.H.A.D.E.'' #1 (September 2011)</ref> Frankenstein's estranged wife the Bride was also a member of the team until leaving after learning the fate of her son.<ref>''Frankenstein: Agent of S.H.A.D.E.'' #8 (April 2011)</ref>
+
+==Membership==
+===Original team===
+* '''Warren Griffith''' – Warren was a simple, stuttering, timid farm boy who suffered from clinical lycanthropy. Project M gave him the ability to change into a true [[werewolf]], but the metamorphoses were erratic and uncontrollable due to a flaw in the serum that created him.
+* '''J.A.K.E.''' – The first G.I. Robot. Destroyed itself and a lost Atlantean colony.
+* '''J.A.K.E. 2''' – The second G.I. Robot, lost in space with the Creature Commandos.
+* '''Dr. Myrra Rhodes''' (previously '''Myrna''') –  Also known as '''Dr. Medusa'''. After inhaling strange fumes, she grew living snakes for hair and superficially resembles [[Medusa]], one of the [[Gorgon]]s.
+* '''Lt. Matthew Shrieve''' – Matthew was their team leader. He was a fully human hard-as-nails soldier.
+* '''Pvt. Elliot "Lucky" Taylor''' –  Lucky barely survived stepping on a mine. He was stitched back together against his will, so he resembles the [[Frankenstein's monster|Frankenstein Monster]] and has damaged vocal cords.
+* '''Sgt. Vincent Velcro''' (or, in the modern series, '''Velcoro''') –  Velcro volunteered for the project in order to commute a 30-year sentence in the brig for crippling an officer. Like a [[vampire]], he can now change into a [[bat]] and requires human blood to survive.
+
+===Modern team===
+* '''Aten''' – The [[Mummy (undead)|mummy]]-like communications specialist.
+* '''The Bogman''' – A humanoid amphibian grunt resembling the [[Gill-man]].
+* '''Gunner''' – A cyborg named Gunner Mackey, who died during World War II.
+* '''Hunter''' – 74-year-old Captain Lucius Hunter, formerly of Hunter's Hellcats.
+* '''Dr. Medusa''' – Dr. Myrra Rhodes, whose body has mutated even further into a [[Gorgon]]-like form since her first appearances.
+* '''Patchwork''' – Elliot "Lucky" Taylor, who is pretty much the same as before.
+* '''Velcoro''' –  Vincent Velcoro, who, like Myrra, has mutated even further due to his treatments and now has red skin and a white [[ponytail]].
+* '''Wolfpack''' – Warren Griffith, who is even more savage and out-of-control in this incarnation.
+
+===The Agents of S.H.A.D.E.===
+* '''Father Time''' — Leader of S.H.A.D.E.
+* '''Dr. [[Atom (Ray Palmer)|Ray Palmer]]''' — U.N. Scientist Liaison, formerly the Atom, creator of S.H.A.D.E. City and the majority of S.H.A.D.E.'s technology.
+* '''[[Frankenstein (DC Comics)|Frankenstein]]''' — The Frankenstein Monster. He has taken the name solely for simplicity. Frankenstein acts as the team leader.
+* '''The Bride of Frakenstein''' — Frankenstein's female creation, was intended to be Frankenstein's mate, but refused. She was the first official S.H.A.D.E. agent, but is currently retired in ''Frankenstein: Agent of S.H.A.D.E.'' #8 after it was revealed that Father Time reanimated and imprisoned her and Frankenstein's son in "the Zoo".
+* '''Dr. Nina Mazursky''' — A [[Gill-man]]/[[mermaid]] hybrid (but resembling, and still depicted as, the Gill-man), the team scientist, and the creator of S.H.A.D.E.'s Creature Commandos. The first generation was a failure and imprisoned in "the Zoo". The second generation is listed as follows.
+* '''Vincent Velcoro''' — A [[vampire]] who serves as the team pilot.
+* '''Warren Griffith''' — A [[werewolf]] who serves as the soldier.
+* '''Khalis''' — A [[Mummy (undead)|mummy]] who serves as the team medic. His origin and abilities are classified/unknown.
+
+==Continuity==
+* The ''Creature Commandos'' miniseries is not billed as an ''[[Elseworlds]]'' tale, but the author [[Tim Truman]] describes it as taking place "a second in the future". Various modifications were made to the team members' names and appearances. Truman renamed original team members Velcro and Myrna as "Velcoro" and "Myrra".<ref name=cosmicteams />
+* Truman said that he based Patchwork's character on the DC Universe character the Patchwork Man from ''[[Swamp Thing]]'' #3.<ref name=cosmicteams />
+* The villains in this series are old [[Justice League of America]] villains dating back from 1960 to 1963. Xotar's first appearance was ''[[The Brave and the Bold|Brave and the Bold]]'' #29. Simon Magus, Saturna, and the Troll King are from ''JLA'' #2. [[Hyathis]], Kromm and Sayvar are from ''Justice League of America'' #3. Tazzala has presumably some relation to Zazzala, who appeared in ''Justice League of America'' #23. Kraad is from ''Justice League of America'' #25.<ref name=cosmicteams />
+* The usage of [[Claw the Unconquered]] in this series is rendered true to his Pre-''Crisis'' origins.<ref name=cosmicteams />
+* Project M is shown as still active in current continuity, at least once connected with [[Checkmate (comics)|Checkmate]], and responsible for reversing the cyborg transformation of [[Maxwell Lord]]. With Orr as his chief and prominent member, Project M is directly responsible for creating [[Equus (comics)|Equus]], enhancing the [[Wildebeest (comics)|Wildebeest]] and exploiting [[Cyborg (comics)|Cyborg]]'s technology for military uses.<ref>''Cyborg'' #3-4 (2008)</ref>
+* The original Creature Commados appeared in ''Weird War Tales'' #93, 97, 100, 102, 105, 108-112, 114-119, 121 and 124.
+
+==Other versions==
+===''Flashpoint''===
+In the alternate timeline of the ''[[Flashpoint (comics)|Flashpoint]]'' event, Lt. Matthew Shrieve was ambushed by Nazi soldiers, and then saved by [[Frankenstein (DC Comics)|Frankenstein]]. Later, Shrieve and Frankenstein were invited by Project M to join the Creature Commandos. After the end of World War II, however, Project M was deemed obsolete by [[Robotman (Robert Crane)|Robert Crane]]'s government services. Over 65 years later, Frankenstein and the Creature Commandos revive and escape from the lab facility where they were imprisoned. General [[Captain Atom|Nathaniel Adam]] then contacted Shrieve's granddaughter, Miranda to hunt down the Creature Commandos.<ref>''Flashpoint: Frankenstein and the Creatures of the Unknown'' #1 (June 2011)</ref> The Creature Commandos then travel to Gotham City, where Dr. Mazursky last lived and find his cabin, only to learn he has moved to [[Romania]]. The group is then ambushed by Miranda, along with the [[G.I. Robot]] and a platoon of soldiers. Miranda's tells them that her grandfather attempted to assemble a second incarnation of the Creatures Commandos, consisting of [[Solomon Grundy (comics)|Solomon Grundy]], [[Man-Bat]] and [[Doctor Phosphorus]], who turned on him and killed him. Miranda blames monsters for ruining her life. Velcoro saved Frankenstein from the G.I. Robot and Miranda shot Griffith with silver. The team is then saved by Bride, Frankenstein's wife, who is still alive.<ref>''Flashpoint: Frankenstein and the Creatures of the Unknown'' #2 (July 2011)</ref> After Miranda was taken captive, Bride explains to the Creatures Commandos that she is working as an agent of [[S.H.A.D.E.]] She then reveals to Miranda that the second Creature Commandos had been working for General Sam Lane, who is truly the one really responsible for the deaths of Miranda's family. Later, the Creature Commandos travel to Romania, where they found a small village populated by monsters. The village is then attacked by a giant G.I. Robot. Frankenstein and Bride combat the G.I. Robot, while Miranda helped Nina care for Griffith's wounds, and suggest going to the nearby castle where Dr. Mazursky is alive, who is then reunited with his daughter. Mazursky explains that the village's inhabitants were peaceful, and that they were the basis for creating the Creature Commandos. When Project M was deemed obsolete, Dr. Mazursky escaped and returned to the village for eternal life. After Frankenstein and Bride destroyed the G.I. Robot, Velcoro died from the sunrise, Griffith is recovering to being human again and developing a relationship with Nina. Frankenstein, the Bride, and Miranda depart from the Creature Commandos and participate in the Atlantean/Amazon war.<ref>''Flashpoint: Frankenstein and the Creatures of the Unknown'' #3 (August 2011)</ref>
+
+==Collected editions==
+{{Unreferenced section|date=September 2016}}
+The original team's adventures have been collected in the following trade paperback:
+{| class="wikitable"
+|-
+! Title !! Material collected !! Publication date !! ISBNT
+|-
+| '''''The Creature Commandos'''''
+| ''Weird War Tales'' #93, 97, 100, 102, 105, 108-112, 114-119, 121 and 124
+| 2014
+|align="right"| {{ISBNT|978-1401243821}}
+|}
+
+==In other media==
+===Television===
+* The Creature Commandos made their animated debut in the ''[[Batman: The Brave and the Bold]]'' episode "Four Star Spectacular!" with Lt. Matthew Shrieve voiced by [[Marc Worden]], Warren Griffith, Sgt. Vincent Velcro, and Pvt. Elliot "Lucky" Taylor all voiced by [[Dee Bradley Baker]] and Dr. Myrra Rhodes by [[Cathy Cavadini]]. In the vignette titled "The War That Time Forgot", the Creature Commandos rescue Batman from the [[Ultra-Humanite]] and his mind-controlled dinosaurs on Dinosaur Island.
+* The Creature Commandos appear in three shorts in ''[[DC Nation Shorts]]'' with Lt. Matthew Shrieve voiced by Chris Cox, Warren Griffith by [[Dana Snyder]], Sgt. Vincent Velcro and Pvt. Elliot "Lucky" Taylor by [[Kevin Shinick]], and Dr. Myrra Rhodes by [[Rachel Ramras]].
+* [[Marc Singer]] portrays Gen. Matthew Shrieve in [[The CW]]'s television series ''[[Arrow (TV series)|Arrow]]''.<ref>{{cite web|last1=Blake|first1=Emily|title=Marc Singer joins 'Arrow{{'-}}|url=http://insidetv.ew.com/2014/12/15/marc-singer-joins-arrow/|website=Entertainment Weekly|publisher=Entertainment Weekly|accessdate=Dec 15, 2014}}</ref> In the third season's flashbacks, he presents himself as a more reasonable counterpart to Amanda Waller, allowing Oliver and the Yamashiros to go free after their mission in Hong Kong is completed. He is later revealed to be the one who ordered their deaths, betraying and framing Waller as he plots to use the virus they acquired to cripple China, which he sees as a growing threat to America. Shrieve is also responsible for causing Akio's death. In vengeance, Shrieve is brutally tortured by Oliver before being executed by Maseo.
+
+===Film===
+* The Creature Commandos appeared in [[DC Universe Animated Original Movies#DC Showcase|''DC Showcase: Sgt. Rock'']].<ref>Keränen, Frida. [https://www.cbr.com/dc-showcase-shorts-sgt-rock-adam-strange/tldr/6 "DC Showcase Animated Shorts to Highlight Sgt Rock, Adam Strange & More: Warner Bros. Animation has announced five new DC Showcase shorts starring characters both obscure and widely recognized"], CBR.com (MAY 07, 2019).</ref>
+
+==See also==
+* [[Nick Fury's Howling Commandos]], a similar team from [[Marvel Comics]]
+* The [[Bureau of Paranormal Research and Defense]], a team of fantastic creatures featured in magazines published by [[Dark Horse Comics]]
+* [[The Perhapanauts]], a team of monster hunters that includes [[Bigfoot]] and the [[Chupacabra]] that appears in [[Image Comics]]
+* ''[[Proof (comics)|Proof]]'', a government-run team of monster hunters, including Proof the Sasquatch
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{comicbookdb|type=team|id=690|title=Creature Commandos (team)}}
+* [http://www.comicvine.com/creature-commandos/4060-55577/ Creature Commandos] at Comic Vine
+* {{gcdb series|id=14612|title=''Creature Commandos'' (series)}}
+* [https://archive.today/20130119170115/http://www.comics-db.com/DC_Comics/C/Creature_Commandos/index.html ''Creature Commandos'' (series)] at the [[Big Comic Book DataBase]]
+* [https://web.archive.org/web/20061026085933/http://www.dcuguide.com/who.php?name=creaturecommandos Creature Commandos] at the DCU Guide
+* [http://www.toonopedia.com/starspan.htm Dinosaur Island] at [[Don Markstein's Toonopedia]]
+* [https://web.archive.org/web/20060628045901/http://www.supermanartists.comics.org/dchistory/DCHISTORY-7.htm Supermanartists.org DC History 7]
+* [http://daveslongbox.blogspot.com/2005/07/weird-war-tales-119-dc-comics-1983.html Dave's Long Box review of ''Weird War Tales'' #119]
+
+===Interviews===
+* [http://www.fanzing.com/mag/fanzing17/iview.shtml Fanzing Interview with Tim Truman]
+
+{{DC Comics War Titles|state=collapsed}}
+
+[[Category:2000 comics debuts]]
+[[Category:DC Comics military personnel]]
+[[Category:DC Comics superhero teams]]
+[[Category:DC Comics fantasy characters]]
+[[Category:DC Comics titles]]
+[[Category:Fictional soldiers]]
+[[Category:DC Comics set during World War II]]

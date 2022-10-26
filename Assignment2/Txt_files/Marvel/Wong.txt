@@ -1,0 +1,5 @@
+#REDIRECT [[Wong (Marvel Comics)]]
+
+{{Redirect category shell|
+{{R from move}}
+}}

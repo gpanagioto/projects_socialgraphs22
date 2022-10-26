@@ -1,0 +1,57 @@
+{{Short description|Superhero created for Quality Comics}}
+{{Infobox comics character<!--Wikipedia:WikiProject Comics-->
+|image=Neon the Unknown.jpg
+|caption= Neon the Unknown
+|character_name=Neon the Unknown
+|real_name=Thomas "Tom" Corbett<br>Colin Nomi
+|species=Metahuman
+|publisher=[[Quality Comics]] (1940–1956)<br>[[DC Comics]]
+|debut=''[[Hit Comics]]'' #1 (July 1940) 
+|creators=[[Jerry Iger]]
+|alliances=Tom Corbet: [[All-Star Squadron]]; [[Freedom Fighters (comics)|Freedom Fighters]]<br>Colin Nomi: [[The Unexpected (2018 comic book)|The Unexpected]]
+|aliases=
+|powers=Tom Corbet: Flight on a spiral of light, fires "neonic blasts" from hands<br>Colin Nomi: Create or manipulate matter, occultism, regeneration, teleportation
+|}}
+
+'''Neon the Unknown''' is a fictional superhero from the [[Golden Age of Comic Books]] created by [[Jerry Iger]] for [[Quality Comics]]. Neon first appeared in a story penciled and inked by [[Lou Fine]] in ''[[Hit Comics]]'' #1 and was featured on the cover.<ref>{{cite book |last1=Benton |first1=Mike |title=Superhero Comics of the Golden Age: The Illustrated History |date=1992 |publisher=Taylor Publishing Company |location=Dallas |isbn=0-87833-808-X |url=https://archive.org/details/superherocomicso0000bent |url-access=registration |access-date=8 April 2020 |page=[https://archive.org/details/superherocomicso0000bent/page/167 167]}}</ref> His stories ran in issues 1–17.<ref name=Companion>{{cite book |last1=Koolman |first1=Mike |last2=Amash |first2=Jim |title=The Quality Companion |date=2011 |publisher=TwoMorrows Publishing |isbn=978-1605490373 |pages=156–157}}</ref>
+
+Like many characters owned by that company, he was later bought by [[DC Comics]] after Quality ceased operations.
+
+==Fictional character biography==
+Tom Corbet is a member of the Foreign Legion. While pursuing an enemy across the desert, his entire unit dies of dehydration. Surely he would have suffered the same fate if he hadn't found a magical oasis at the last second. Corbet drinks the glowing water and is transformed into Neon the Unknown, with the ability to fly and shoot energy from his hands.<ref>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Korte |first3=Steve |last4=Manning |first4=Matt |last5=Wiacek |first5=Win |last6=Wilson |first6=Sven |title=The DC Comics Encyclopedia: The Definitive Guide to the Characters of the DC Universe |date=2016 |publisher=DK Publishing |isbn=978-1-4654-5357-0 |page=351}}</ref>
+
+According to ''Jess Nevins' Encyclopedia of Golden Age Superheroes'', "he uses his power to kill an attacking tiger, stop a would-be world conqueror, and go on to fight crime and evil and the Germans, as well as Darmus the Wizard, the Tibetan Four Lamas, a "Batzi" scientist who drops "insanity spores" on the United States, and the scientist Fritz Cardiff and his invisibility ray".<ref>{{cite book |last1=Nevins |first1=Jess |title=Encyclopedia of Golden Age Superheroes |date=2013 |publisher=High Rock Press |isbn=978-1-61318-023-5 |page=194}}</ref>
+
+On December 7, 1941, Neon is recruited by [[Uncle Sam (comics)|Uncle Sam]] to be a member of the [[Freedom Fighters (comics)|Freedom Fighters]], along with several other Quality Comics heroes, and defend [[Pearl Harbor]] from the Japanese attack.<ref>{{cite book |last1=Thomas |first1=Roy |title=The All-Star Companion: Vol 2 |date=2006 |publisher=TwoMorrows Publishing |isbn=978-1893905375 |page=92}}</ref> He, [[Uncle Sam (comics)|Uncle Sam]], [[Miss America (DC Comics)|Miss America]], [[Hourman]], [[Invisible Hood]], [[Magno (Quality Comics)|Magno]], and [[Red Torpedo (Jim Lockhart)|Red Torpedo]] fight valiantly. All but Uncle Sam is seemingly killed.<ref name="dc-free">{{Citation | last = Greenberger | first = Robert | author-link = Robert Greenberger | contribution = Freedom Fighters | editor-last = Dougall | editor-first = Alastair | title = The DC Comics Encyclopedia | pages = 131 | publisher = [[Dorling Kindersley]] | place = New York  | year = 2008 | isbn = 978-0-7566-4119-1 | oclc = 213309017}}</ref>
+
+As of 2008 ''Uncle Sam and the Freedom Fighters'' mini-series, Neon is revealed to be alive and has been living at his magical oasis (Magno is the only superhero who appears to have actually died in the defense of Pearl Harbor).
+
+=== The new Neon ===
+Called upon during a major crisis hitting the reformed Freedom Fighters, Tom Corbet is confronted by [[Ray (comics)|Langford Terrill]], the former Ray.<ref>{{Cite web|url=http://goldenageheroes.blogspot.com/2008/08/secret-origin-of-neon-unknown.html|title=The Secret Origin of NEON THE UNKNOWN!|date=18 August 2008}}</ref> Now warped into a more powerful glowing form but more detached from humanity, Corbet refuses his help but lets Terrill drink from his magical oasis. Adding his light-based powers to Neon's energies, Langford Terrill is now empowered as the new Neon the Unknown.
+
+===DC Rebirth===
+In [[DC Rebirth]]'s ''[[The Unexpected (2018 comic book)|The Unexpected]]'', Neon the Unknown (real name Colin Nomi) is now a famous painter and a bisexual man, appearing first in ''Supergirl'' #20. Desiring more inspiration for his work, Colin performed a ritual to evoke the Fires of Creation, which resulted in him acquiring great powers to create or manipulate matter but in exchange for his vision and the lives of his friends. Colin set out on a journey of redemption as Neon the Unknown, and eventually he met up with two others on paths of redemption calling themselves Viking Judge and the Ascendant. The three of them formed The Unexpected, defenders of the [[Multiverse (DC Comics)|Multiverse]].<ref>''The Unexpected'' #2 (2018)</ref> His ability to change things - although not destroy them - is seemingly limitless, as, in the end, he even transforms the terrifying hypervampire Mandrakk the Dark Monitor into a predator who no longer feeds on life, but death, forcing him into exile in the Dark Multiverse.<ref>''The Unexpected'' #8 (2018)</ref>
+
+==Reception==
+In ''The Steranko History of Comics'', historian [[Jim Steranko]] has harsh words for the strip: "The art for Neon... was extremely competent but the concepts and scripts were uninspired and threadbare".<ref>{{cite book |last1=Steranko |first1=Jim |title=The Steranko History of Comics, vol 2 |date=1972 |publisher=Supergraphics |page=104}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.internationalhero.co.uk/n/neon.htm International Catalogue of Superheroes Entry]
+
+{{Freedom Fighters}}
+{{All-Star Squadron}}
+{{GoldenAge}}
+
+[[Category:Golden Age superheroes]]
+[[Category:Quality Comics superheroes]]
+[[Category:Comics characters introduced in 1940]]
+[[Category:Comics characters introduced in 2018]]
+[[Category:LGBT characters in comics]]
+[[Category:Fictional bisexual males]]
+[[Category:Fictional artists]]
+[[Category:DC Comics LGBT superheroes]]
+[[Category:DC Comics characters with accelerated healing]]
+[[Category:DC Comics metahumans]]

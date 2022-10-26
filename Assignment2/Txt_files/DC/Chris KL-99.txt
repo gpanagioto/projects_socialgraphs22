@@ -1,0 +1,43 @@
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+| character_name=Chris KL-99
+| image=Chriskl99dcu0.jpg
+| caption=Chris KL-99, Halk & Jero, artist [[Murphy Anderson]].
+| publisher=[[DC Comics]]
+| debut=''[[Strange Adventures]]'' #1 (August 1950)
+| creators=[[Edmond Hamilton]] (writer)<br>Howard Sherman (artist)
+| real_name = Christopher KL
+| species = <!-- optional -->
+| homeworld = <!-- optional -->
+| alliances = <!-- optional -->
+| aliases = <!-- optional: actual identities the character uses, not nicknames -->
+| supports=<!--optional-->
+| powers = Expert pilot and explorer, accomplished athlete and analytical mind.
+}}
+
+'''Chris KL-99''' is a 1950s [[science fiction]] [[comic book]] character whose adventures were published by National Comics, now known as [[DC Comics]]. He first appeared in ''[[Strange Adventures]]'' #1 ([[cover-date]]d August 1950), and was created by science fiction author [[Edmond Hamilton]] and artist Howard Sherman.<ref name="dc-ency">{{Citation | last = Jimenez | first = Phil | author-link = Phil Jimenez | contribution = Chris KL-99 | editor-last = Dougall | editor-first = Alastair | title = The DC Comics Encyclopedia | pages = 81 | publisher = [[Dorling Kindersley]] | place = New York  | year = 2008 | isbn = 0-7566-4119-5 | oclc = 213309017}}</ref>
+
+==Publication history==
+''The Adventures of Chris KL99'' first appeared in ''Strange Adventures'' #1 (August 1950).<ref>{{cite web |last1=Markstein |first1=Don |title=Chris KL-99 |url=http://www.toonopedia.com/chrskl99.htm |website=Don Markstein's Toonopedia |access-date=2 April 2020}}</ref> With a slight name change to KL-99 from issue #2, he made eight appearances in the title in total - issues #1-#3, #5, #7, #9 and #11, ending with ''Strange Adventures'' #15 (December 1951), all written by Edmond Hamilton and drawn by Howard Sherman. Since then, a brief appearance in ''[[DC Comics Presents]]'' #78 (February 1985), a cameo appearance in ''[[Crisis on Infinite Earths]]'' #10 (January 1986), and a brief but completely revised origin story in ''[[Secret Origins]]'' #43 (August 1989) have been his only other appearances to date.
+
+==Fictional character biography==
+According to his early adventures, Chris KL, the son of Jon ST-94, was born on a spaceship somewhere between Earth and Mars, the first Earth child to be born in outer space, in the 21st century, and was named after [[Christopher Columbus]].<ref name="Green Nebula' 1950">"The Menace of the Green Nebula", ''Strange Adventures'' #1 (Aug. 1950)</ref> He became an instant celebrity, but was kidnapped by aliens on his eighth birthday and not returned for nine years. It turned out that the aliens were a dying race, and chose him to train for some still unknown purpose. They had not meant to kidnap him, but were unable to communicate their wishes to anyone else.<ref>"The Saga of Chris KL-99", ''[[Secret Origins]]'' #43 (August 1989)</ref><ref>This 1980s story changes Chris's motivations completely. His attitude to his parents and Earth is one of hatred for their interrupting his learning with the aliens, treating them as hostile and killing most of what is left of the race. In the original stories, he went to Space Academy because he wanted to go to space to find his missing parents; in the revised version, he goes into space before Academy and tries to find the surviving aliens.</ref>
+
+After his return, his parents left Earth to find new worlds to colonize on the exploratory spaceship 'The Starfarer', and were not seen again. According to one version of his story, Chris then vowed to go to Space Academy so he could journey to find them when he was older,<ref>See note above</ref> and after graduating from Space Academy '99' was appended to his name because of his 99% rating at the Academy,<ref name="Green Nebula' 1950"/> and he later became the greatest space explorer of his day. Another version of Chris's story has him not returning to Earth, but traveling in space to find the last surviving aliens to continue his training with them, appending the KL to his name in honor of the alien race, the K'l, and the 99 in acknowledgement that there were only 98 of the aliens left alive when he was with them.<ref>''[[Secret Origins]]'' #43 (Aug. 1989)</ref> Whatever the correct version, accompanied by Halk, a [[Mars|Martian]] scientist (once Chief Scientist of Mars), Jero, a [[Venus]]ian,<ref name="dc-ency"/> and a pet chameleon dog, Loopy, whose color changes according to his mood, he discovered many alien worlds (and a sub-atomic universe<ref>"The World Inside The Atom", ''Strange Adventures'' #5 (February 1951)</ref>) in his spaceship 'The Pioneer'. In recognition of his work, he was given the authority to protect the people of the new worlds he discovered from danger as 'Commissioner for Protection of Planetary Peoples'.<ref name="Green Nebula' 1950"/>
+
+Chris eventually found 'The Starfarer' and his parents' graves on the planet where they had died saving the rest of the crew in a crash.<ref>"The Lost Earthmen", ''Strange Adventures'' #7 (April 1951)</ref> Other adventures involved saving the ancient Earth monuments from aliens in need of metal to save their universe,<ref>"The Metal World", ''Strange Adventures'' #3 (December 1950)</ref> and rediscovering a second moon that used to orbit Earth millions of years ago.<ref>"The Missing Moon", ''Strange Adventures'' #11 (August 1951)</ref>
+
+He was present during the DC Universe ''Crisis on Infinite Earths'', first in his own time to help Superman and the [[Forgotten Heroes]] defeat the Forgotten Villains at the start of the Crisis,<ref>"The Triad", ''DC Comics Presents'' #78 (February 1985)</ref> and then towards the end of Crisis to help with powering the time machines critical to saving the universe.<ref>"Death at the Dawn of Time", ''Crisis on Infinite Earths'' #10 (January 1986)</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.toonopedia.com/chrskl99.htm Chris KL-99] at [[Toonopedia]]
+* [https://web.archive.org/web/20061021021322/http://www.dcuguide.com/who.php?name=chriskl99 Chris KL-99] at the DCU Guide
+* [http://www.comicvine.com/chris-kl-99/29-31002/ Chris KL-99] at Comic Vine
+
+{{GoldenAge}}
+
+[[Category:Characters created by Edmond Hamilton]]
+[[Category:Comics characters introduced in 1950]]
+[[Category:DC Comics superheroes]]

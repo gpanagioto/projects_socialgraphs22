@@ -1,0 +1,368 @@
+{{short description|Comic book superhero}}
+{{About|the Teen Titans and Justice League character|the character "Cyborg Superman"|Hank Henshaw}}
+{{redirect|Cyborg (comics)|other uses|Cyborg (disambiguation)}}
+{{redirect|Victor Stone|the film character|Victor Stone (DC Extended Universe)}}
+{{pp-move-indef|small=yes}}
+{{Use mdy dates|date=April 2020}}
+{{Infobox comics character
+| character_name = Cyborg
+| full name = Victor "Vic" Stone
+| image = Cyborg (Victor Stone).jpg
+| image_size = 250
+| converted = yes
+| caption = Cyborg on the cover of ''Cyborg'' #1 (September [[2015 in comics|2015]]).<br />Art by [[Ivan Reis]].
+| publisher = [[DC Comics]]
+| debut = ''[[DC Comics Presents]]'' #26 (October [[1980 in comics|1980]])
+| species = Human Cyborg
+| homeworld = [[Detroit|Detroit, Michigan]]
+| creators = {{Plainlist|
+* [[Marv Wolfman]]
+* [[George Pérez]]
+}}
+| alliances = [[Justice League]]<br />[[Teen Titans]]<br />[[S.T.A.R. Labs]]<br />[[Doom Patrol]]<br />Justice League Odyssey 
+| powers = 
+* Genius-level intellect
+* Cybernetic Enhancement grants:
+** [[Superhuman strength]], speed, stamina, endurance and durability
+** Advanced sensory systems and scanners
+** Inbuilt weaponry, including sonic cannon
+** Flight
+** Technopathy
+** Self-regenerative systems
+** Data manipulation
+** Generation of [[boom tube]]s (post 2011 relaunch)
+| subcat = 
+| hero = y
+| sortkey = 
+}}
+'''Cyborg''' ('''Victor Stone''') is a <!-- Do not add "fictional" as it is tautological; superheroes (and characters in general) are by definition implied to be fictionalized to some extent. -->[[superhero]] character appearing in [[American comic book]]s published by [[DC Comics]]. The character was created by writer [[Marv Wolfman]] and artist [[George Pérez]] and first appeared in an [[DC Comics insert previews|insert preview]] in ''[[DC Comics Presents]]'' #26 (October [[1980 in comics|1980]]).<ref name=Guide>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Korte |first3=Steve |last4=Manning |first4=Matt |last5=Wiacek |first5=Win |last6=Wilson |first6=Sven |title=The DC Comics Encyclopedia: The Definitive Guide to the Characters of the DC Universe |date=2016 |publisher=DK Publishing |isbn=978-1-4654-5357-0 |page=79}}</ref> Originally known as a member of the [[Teen Titans]],<ref name="dc-ency">{{Cite book| last=Greenberger |first=Robert |author-link=Robert Greenberger |contribution=Cyborg |editor-last=Dougall|editor-first=Alastair|title=The DC Comics Encyclopedia|page=91|publisher=[[Dorling Kindersley]]|location=[[New York City|New York]]|year=2008 |isbn=978-0-7566-4119-1| oclc=213309017}}</ref> Cyborg was established as a founding member of the [[Justice League]] in DC's [[The New 52|2011 reboot]] of its comic book titles.
+
+Cyborg made his live-action debut in the television series ''[[Smallville]]'', portrayed by [[Lee Thompson Young]]. [[Ray Fisher (actor)|Ray Fisher]] portrayed the character in the [[DC Extended Universe]] films ''[[Batman v Superman: Dawn of Justice]]'' (2016), ''[[Justice League (film)|Justice League]]'' (2017), and ''[[Zack Snyder's Justice League]]'' (2021) while [[Joivan Wade]] portrays Cyborg in the television series ''[[Doom Patrol (TV series)|Doom Patrol]]''. In animated media, the character was voiced by [[Khary Payton]] and [[Zeno Robinson]].
+
+{{TOC limit|3}}
+
+==Development==
+In an interview, Perez described his design approach for the character. "In the case of Cyborg I was inspired visually- and I think it is obvious from the head- by [[Deathlok]]... then I decided to make him more robotic than android by making more metallic parts of him, so that he wasn't quite as human... but the half-face metallic plate was obviously inspired by Deathlok by [[Rich Buckler]], and then I used a young [[Jim Brown]] as my inspiration for how I would handle the body language for the character."<ref>{{cite book |last1=Cadigan |first1=Glen |title=Titans companion |date=2005 |publisher=TwoMorrows Pub |location=Raleigh, N.C. |isbn=1893905500 |page=109}}</ref>
+
+==Character biography==
+[[File:Cyborg (Victor Stone - circa 1980s).png|thumb|upright|left|Victor Stone as Cyborg, as he appeared in ''The New Teen Titans'' comic book series in the 1980s. Art by George Pérez.]]
+'''Victor Stone''' is the son of [[Silas Stone]] and Elinore Stone, scientists who use him as a test subject for various intelligence enhancement projects. While these treatments are ultimately successful and Victor's [[Intelligence Quotient|IQ]] subsequently grows to genius levels, he grows to resent his treatment.
+
+Victor strikes up a friendship with [[Ron Evers]], a young miscreant who leads him into trouble with the law. This is the beginning of a struggle in which Victor strives for independence, engaging in pursuits of which his parents disapprove, such as [[sport|athletics]] and abandoning his studies. Victor's association with underage criminals leads him down a dark path in which he is often injured, but he still lives a "normal" life in which he is able to make his own decisions. However, this rebellious path does not bury Victor's conscience considering that he refuses to participate in Evers' grandiose plans of racially motivated terrorism.
+
+Victor's situation changes radically when he visits his parents' lab where experiments in inter-dimensional access are done. At that moment of his entry, an aggressive gelatinous creature was accidentally pulled through and Victor's mother is killed by it. It then turned on Victor and he was severely injured by its attack before his father was able to send it back to its native dimension.
+
+With his wife dead and his son mutilated, unconscious and near death from the incident, Silas is driven to take advantage of prototype medical prosthetic research he has access to in order to treat Victor. Unfortunately, Victor only regains consciousness after the extensive artificial limbs and implants were installed in his body without his consent. Victor was horrified at the discovery of the metallic components, which involve most of the left side of his head and face, and raged that he would rather have died than be such a victim of his father's manipulations.
+
+Although his bitterness remained for some time, Victor eventually calmed down enough to successfully adjust to his implants physically. He found himself rejected by the public because of his implants, including his girlfriend, who would later thoughtlessly blurt out that she would prefer he had died instead of being in that state. However, Victor's conscience was unbowed, as evidenced by the fact that when Evers tried to manipulate him into participating in a terrorist attack on the [[United Nations]], Victor decided to equip himself with his weaponized attachments and stop him on the top of [[United Nations Headquarters]].
+
+===Teen Titans===
+When [[Robin (DC Comics)|Robin]] assembles the [[Teen Titans]], Victor joins initially for the benefit of a support group of kindred spirits and freaks, and has remained with that group ever since.<ref name="dc-ency"/> Fortunately, Victor eventually finds additional new civilian friends such as a group of juveniles who are adjusting to their own prosthetics and idolize him because of his fancy parts and his exciting adventures. It also turns out that their beautiful teacher [[Sarah Simms]], who has often assisted Cyborg and the Titans, admires him as well.
+
+Another person who sees past the cybernetic shell is Dr. Sarah Charles, a [[S.T.A.R. Labs]] scientist who helps him to recuperate after having his cybernetic parts replaced. Cyborg and Dr. Charles date for some time and she, along with [[Beast Boy|Changeling]], keeps trying to reach him when he is seemingly mindless following the severe injuries he incurs during the "Titans Hunt" storyline.
+
+===Deaths and rebirths===
+[[File:Cyberion2.png|right|thumb|Victor Stone – as Cyberion – is reunited with Sarah Charles.]]
+Although Cyborg's body was repaired by a team of Russian scientists after the missile crash he had been in, albeit with more mechanical parts than previously, his mind was not. Eventually, his mind was restored by an alien race of computer intelligences called the [[List of alien races in DC Comics#T|Technis]], created from the sexual union of [[Swamp Thing]] and a machine-planet when Swamp Thing was travelling through space. Cyborg, however, had to remain with the Technis both to maintain his mind and because, in return for restoring him, he had to teach them about humanity. He took the name '''Cyberion''', and gradually started becoming less human in outlook, connecting entirely to the Technis planet.
+
+Eventually, Cyberion returned to Earth, establishing a Technis construct on the moon and a smaller base on Earth. With Vic's consciousness dormant, but his desire for companionship controlling the actions of the Technis' planet, it began kidnapping former Titans members, his conscious mind so suppressed that he was not only searching for deceased Titans, but even sent one probe looking for himself as Cyborg. He ended up plugging them into virtual reality scenarios, representing what he believed to be their "perfect worlds"; for example, Beast Boy was back with the [[Doom Patrol]], [[Damage (DC comics)|Damage]] was spending time being congratulated by the [[Justice Society of America|Justice Society]] as a true hero, and [[Dick Grayson|Nightwing]] was confronted by a [[Batman]] who actually smiled and offered to talk about their relationship. Although the Titans were freed, there was a strong disagreement between them and the [[Justice League]] over what action to take; the League believed that there was nothing left of Victor to save, whereas the Titans were willing to try, culminating in a brief battle, where the [[Atom (Ray Palmer)|Atom]] and [[Catwoman]] (who had followed the Justice League to investigate) sided with the League while the [[Wally West|Flash]] fought with the Titans, until the two were convinced to work together after Batman and Nightwing found the system containing Vic's core consciousness. While Vic was distracted trying to aid his friends, a Titans team consisting of Changeling and the original five Titans were sent by Raven to try making contact with Vic's human side, while [[Superman]], [[Wonder Woman]], [[Kyle Rayner|Green Lantern]], the [[Martian Manhunter]], [[Power Girl]], [[Captain Marvel (DC Comics)|Captain Marvel]], and [[Mary Marvel]] moved the moon back to its proper place. Eventually, thanks primarily to Changeling's encouragement, and [[Lilith (DC Comics)|Omen]] and [[Raven (DC Comics)|Raven]] holding Vic together long enough to come up with a plan, Vic's consciousness was restored, and "downloaded" into the Omegadrome, a morphing war-suit belonging to former Titan [[Minion (comics)|Minion]]. In the wake of this event, the Titans reformed and Vic was part of the new group.<ref name="dc-ency" /> However, he felt less human than ever before.
+
+Shortly after this, [[Dick Grayson|Nightwing]] revealed he had cloned Vic's body, and by flowing the Omegadrome through the clone, Vic regained his human form, but still had the abilities of the Omegadrome. He often used the Omegadrome to recreate his original look in battle. With his newfound humanity, Vic took a leave of absence, moving first to [[Los Angeles|L.A.]] with [[Beast Boy]] and then to [[Central City (DC Comics)|Central City]]. While in Central City, Vic was involved in one of the [[Thinker (DC Comics)|Thinker]]'s schemes, helping Wally hack the Thinker's attempt to plug himself into the minds of Central City's population so that Wally could outthink his opponent, though Vic lost the abilities of the Omegadrome in the process.
+
+===Mentor===
+Vic mentored the new incarnation of the Teen Titans, consisting mainly of sidekicks, most of whom have taken over the identities of former members (i.e. [[Robin (Tim Drake)|Tim Drake]], the third [[Robin (comics)|Robin]], instead of [[Dick Grayson]], the original Robin and Titans leader), as well as stalwarts such as [[Starfire (Koriand'r)|Starfire]], [[Raven (DC Comics)|Raven]], and [[Beast Boy]], where they have fought enemies such as [[Deathstroke]], [[Brother Blood]], [[Doctor Light (Arthur Light)|Doctor Light]], The [[Titans Tomorrow]], and a brainwashed [[Superboy (Kon-El)|Superboy]] and [[Indigo (comics)|Indigo]] during a team up with the [[Outsiders (comics)|Outsiders]] in the ''Insiders'' storyline. In the end, Cyborg was the only one capable of standing up to Dr. Light, thanks to his solar shields, although he makes it clear that he only won the fight because the rest of the Titans had softened Light up first.
+
+==="Infinite Crisis" and beyond===
+During the 2005–2006 storyline "[[Infinite Crisis]]", Cyborg joined [[Donna Troy|Donna]]'s New Cronus team that went to investigate a hole in the universe that was found during the ''[[Rann-Thanagar War]]''. He left [[Beast Boy]] in charge of the [[Teen Titans|Titans]] while he was gone. They arrived at the reset center of the universe and with the help of assorted heroes aided in the defeat of [[Alexander Luthor, Jr.|Alexander Luthor]], who was attempting to recreate the [[Multiverse (DC Comics)|multiverse]] and build a perfect Earth from it.
+
+According to ''[[52 (comics)|52]]'' Week 5, Cyborg was fused together with [[Firestorm (comics)|Firestorm]] after returning to Earth. This was caused by the energy ripples caused by Alexander Luthor Jr. which altered the Zeta Ray Beams the heroes were going to use to return home.
+
+After being severely damaged during the events of "Infinite Crisis", Cyborg was rebuilt over time in thanks to Tower caretakers [[Wendy, Marvin and Wonder Dog|Wendy and Marvin]]. He awoke [[One Year Later|a year later]] to find a wholly different [[Teen Titans#One Year Later and the post-Geoff Johns Titans|Teen Titans]] being led by Robin, the only member from the team he formed prior to going into space. He is still a member of the team, but feels that [[Kid Devil]] and [[Rose Wilson|Ravager]] are hardly worthy Titans, and thus is attempting to find a way to reform "the real Titans".
+
+After the team along with the Doom Patrol defeated the [[Brotherhood of Evil]], Cyborg asked Beast Boy to rejoin the Titans, but Gar refused, saying that his skills were needed with the Doom Patrol. After returning to Titans Tower, Cyborg began reviewing the security tapes during the last year, in which it appears that he was looked to by all the Titans of the past year for a shoulder to lean on, despite being in a coma-like state.
+
+It appears that although Cyborg has returned to the team, the role of leader is now in the hands of Robin. He does however retain the position of statesman amongst the team and occasionally plays second-in-command.
+
+In ''Justice League of America'' (vol. 2) #3, Batman, Wonder Woman, and Superman agree that Cyborg should be offered membership in the new Justice League. However, following a battle against [[Amazo]], Green Lantern and [[Black Canary]] take over the formation of the JLA, and Cyborg is not amongst the roster.
+
+In the ''[[Titans East|Teen Titans East]]'' one-shot, Cyborg gathered together a new team of Titans. During a training exercise, the group was attacked by [[Trigon (comics)|Trigon]], and Cyborg was blasted by a giant energy beam. He was last seen in a crater, with only his head and torso remaining.
+
+===Titans===
+In the aftermath of Trigon's assault in the ''Titans East'' one shot, Cyborg has been placed into a special hoverchair while he recuperates. Cyborg's body is completely repaired in ''Titans'' (vol. 2) #5. Soon after, the resurrected and unbalanced [[Jericho (comics)|Jericho]] enters Cyborg's body, using him to manipulate the defenses at Titans Tower to kill the Teen Titans. Jericho's plans are foiled when [[Static (DC Comics)|Static]], the newest Teen Titan, uses his electrical powers to overload the Tower's systems, causing feedback that knocks Jericho out of Cyborg.<ref>''Teen Titans'' (vol. 3) Annual #1</ref> After recovering, Cyborg pretends to still have Jericho inside of him, in order to draw out [[Vigilante (comics)|Vigilante]], who was currently targeting Jericho. The plot works too well when Vigilante appears and shoots Cyborg in the head.<ref>''Titans'' (vol. 2) #12</ref>
+
+===2008 miniseries===
+In an unspecified time during the ''Teen Titans'' comics, a man with enhancements similar to Cyborg's attacks Dr. Sarah Charles on the day of her wedding to Deshaun, a young scientist. Cyborg rushes in for the save, discovering how Deshaun, connected to [[Creature Commandos|Project M]], has sold the technology used to turn Stone into Cyborg to the military. He also finds that the enhanced man was Ron Evers, once Vic's best friend now turned terrorist, who was seeking vengeance for the soldiers used as [[human subject research|test subjects]]. After Cyborg manages to calm down his friend and discovers the truth: Mr. Orr, revealed as the mastermind behind Project M's cyborg research, brings his Stone-derived best subjects: the current [[Equus (comics)|Equus]], an armored form of the Wildebeest, and a cyberized man sporting enhancements even more powerful than Stone's current ones called '''[[Titans East#Titans Tomorrow|Cyborg 2.0]]'''.
+
+Cyborg 2.0 turns out to be the [[Titans Tomorrow]] Cyborg 2.0, snatched from his proper timeline and cajoled by Orr into fighting his younger self for the possession of their shared technology and Orr's permission to use it in the battlefield. Cyborg is soon forced to fight simultaneously against the '''Phantom Limbs''', an elite force of soldiers crippled in the [[Middle East]] and restored by his tech, and the '''Cyborg Revenge Squad''', a broader formation composed of the [[Fearsome Five]], [[Magenta (comics)|Magenta]], [[Girder (comics)|Girder]], the [[Thinker (DC Comics)|Thinker]], and [[Cyborgirl]]. Although the Cyborg Revenge Squad soon gains the upper hand, with the help of his fellow Titans Cyborg is able to hold his own in combat, [[reverse engineer]] on the fly some of the future technology used by Cyborg 2.0, and enhance his own body enough to win against Mr. Orr. He later decides to get a new lease in life, forgiving Deshaun and Sarah Charles on their wedding day for abusing his technology, resuming dating [[Sarah Simms]] and having the Phantom Limbs fitted with new, non-military, prosthetics. It is however implied the Phantom Limbs, unwilling to see Stone's offer as a sign of good will, are trying to get back their weaponized prosthetics and wait for a rematch.
+
+===Blackest Night and JLA===
+During the events of ''[[Blackest Night]]'', Cyborg joins with Starfire, Beast Boy, and several other heroes to form an emergency team to fight off the army of dead Titans who have been reanimated as [[Black Lanterns]]. He later joins in the final battle at [[Coast City]].
+
+Following the dissolution of the current JLA after ''[[Justice League: Cry for Justice]]'', Cyborg is invited by Donna to join [[Doctor Light (Kimiyo Hoshi)|Kimiyo Hoshi]]'s new Justice League.<ref>''Justice League of America'' (vol. 2) #40 (January 2010)</ref> He befriends [[Red Tornado]], and claims that he has come up with a plan to make him indestructible.<ref>''Justice League of America'' (vol. 2) #41 (February 2010)</ref>
+
+After a battle with [[Doctor Impossible]]'s gang, Cyborg is forced to take a leave of absence from the team in order to not only help rebuild Red Tornado, but also help [[Roy Harper (comics)|Roy Harper]], who had his arm severed by [[Prometheus (DC Comics)|Prometheus]].<ref>''Justice League of America'' (vol. 2) #43</ref> During this time, Victor leads Superboy and Kid Flash to the city of Dakota to rescue the Teen Titans, who had been defeated and captured by [[Holocaust (DC Comics)|Holocaust]].<ref>''Teen Titans'' (vol. 3) #81</ref> The Titans emerge victorious from the battle after Kid Flash uses his powers to send Holocaust plummeting into the Earth's [[inner core]].<ref>''Teen Titans'' (vol. 3) #82</ref>
+
+Despite apparently being written off the team, writer [[James Robinson (comics)|James Robinson]] explained that Cyborg will continue to have a presence on the JLA, and will even be given a co-feature in the back of the book for ''Justice League of America'' (vol. 2) #48–50.<ref>{{cite web|url=https://www.cbr.com/c2e2-dc-universe-panel-2/|title=C2E2: DC Universe Panel|last=Manning|first=Shaun|date=April 17, 2010|work=[[Comic Book Resources]]}}</ref> In the co-feature, Cyborg battles Red Tornado after he has been driven insane by the power of the [[Alan Scott|Starheart]]. In the midst of the battle, a flashback reveals that Victor had rebuilt Red Tornado using self-replicating nanites similar to the ones that Prometheus infected Roy with after cutting off his arm, thus making the android indestructible.<ref>''Justice League of America'' (vol. 2) #46</ref> Cyborg manages to free Red Tornado his power matrix.<ref>''Justice League of America'' (vol. 2) #48</ref>
+
+Cyborg briefly appears in ''[[Justice League: Generation Lost]]'', where he is shown helping [[Wonder Woman]] and [[Starfire (Koriand'r)|Starfire]] search for [[Maxwell Lord]] after his resurrection.<ref>''Justice League: Generation Lost'' #1</ref>
+
+Following an adventure in another dimension, Static is left powerless, and [[Miss Martian]] is rendered comatose. Cyborg stops the powerless Static from returning to Dakota, and instead tells him that he and a scientist named Rochelle Barnes will be taking him to [[Cadmus Labs]] to find a way to get his powers back and awaken Miss Martian. As Static packs up his belongings, Cyborg and Rochelle have a conversation which reveals that they are lying to Static, and have an ulterior motive for taking the two Titans to Cadmus.<ref>''Teen Titans'' (vol. 3) #87</ref>
+
+He later appears in the final two issues of ''[[The Return of Bruce Wayne]]'', where he helps his former teammate [[Tim Drake|Red Robin]] in his attempt to stop [[Bruce Wayne]] from inadvertently unleashing an apocalyptic explosion of [[Omega Sanction|Omega Energy]].
+
+Cyborg and Red Tornado later travel to the moon alongside Doctor Light, [[Animal Man]], [[Congorilla]], [[Zauriel]], [[Tasmanian Devil (comics)|Tasmanian Devil]] and [[Bulleteer]] as part of an emergency group of heroes gathered to assist the Justice League in their battle against [[Eclipso]]. Shortly into the battle, Cyborg and the others are taken over by Eclipso and are turned against their JLA comrades.<ref>''Justice League of America'' (vol. 2) #56</ref> The reserve JLA members are all freed after Eclipso is defeated.<ref>''Justice League of America'' (vol. 2) #57 (July 2011)</ref>
+
+===The New 52===
+{{long plot|date=April 2017}}
+[[File:Cyborg JLA.jpg|250px|right|thumb|The redesigned Cyborg as a member of the original [[Justice League]]. Art by [[Ivan Reis]].]]
+As of August 2011, Cyborg is featured as one of the main characters in a new Justice League ongoing series written by [[Geoff Johns]] and drawn by [[Jim Lee]] as part of DC's [[The New 52]] relaunch. Johns has said of Cyborg, "He represents all of us in a lot of ways. If we have a cellphone and we're texting on it, we are a cyborg—that's what a cyborg is, using technology as an extension of ourselves."<ref>{{cite web|last=Siegel|first=Lucas|title=One Year Ago: DC UNIVERSE Reboots in September|url=http://www.newsarama.com/comics/DC-Universe-Reboot-Announcement-110531.html|publisher=Newsarama}}</ref>
+
+In a revised origin, Victor Stone appears as a high school football star who is heavily sought after by scouts, but has a distant relationship with his father, Silas, a [[S.T.A.R. Labs]] Scientist.<ref>''Justice League'' (vol. 2) #1 (August 2011)</ref> Victor appears at his father's Lab as Silas' team is studying a [[Mother Box]] that Superman brought them. After a heated argument about Silas not attending Victor's games even after hearing about his son's success, the Mother Box explodes. The explosion kills the other scientists and destroys most of Victor's body, but spares Silas.<ref>''Justice League'' (vol. 2) #2 (October 2011)</ref> Silas does everything he can for Victor's survival, along with Sarah Charles, and [[T. O. Morrow]] by using the technology kept in S.T.A.R's "Red Room" safe. Ultimately Silas uses an injection of experimental nanites with Dr. Morrow adding robotic pieces onto Victor to assist. Victor recovers, now transformed into a Cyborg but as a side effect of the Mother Box's energies introduced into his body and interacting with his cybernetic parts, he access the vast [[New Gods]] data library, where he discover [[Darkseid]]'s invasion plans and that it's executed as he was being rebuilt.<ref>''Justice League'' (vol. 2) #3 (November 2011)</ref> Victor is getting used to his new body when Parademons attack, attempting to grab Dr. Charles. Cyborg's defense systems react, and he quickly dispatches the Parademons while also destroying part of the lab. Victor blames Silas for his condition after hearing his father out and leaves. Later on after attempting to help a few civilians under attack, Victor inadvertently absorbs some of the attacking Parademon's components giving him access to [[Boom Tube]] technology. This ability automatically activates and transports him to where [[Superman]], [[Batman]], [[Wonder Woman]], [[Flash (Barry Allen)|Flash]], [[Hal Jordan|Green Lantern]], and [[Aquaman]] are fighting against Darkseid's force, just moments before Darkseid arrives. He fights alongside the other heroes against Darkseid and his army, but Darkseid proves to be too strong. Victor is able to reverse engineer the alien boom tube technology and teleport all the invading army including Darkseid away, saving the Earth and then helps found the Justice League.
+
+Silas attempt to study his son more from a scientific perspective, but Victor refuses instead focusing on helping people as a superhero leading both to remain at odds. After [[David Graves (comics)|David Graves]] makes an attack against the Justice League, Cyborg learns that he walks the line between life and death after he sees a false apparition of his human self. The appriation tries to convince him that the real Victor died and Cyborg is just his body being animated by the robotics to believe it's still Victor. Victor is able to get past that ideal as just a ruse, though later leads him to question his humanity or lack thereof.<ref>''Justice League'' (vol. 2) #13</ref> Flash attempts to be there for Victor during his time of questioning. During the [[Throne of Atlantis]] storyline, Cyborg is offered an upgrade his father has that would allow him to operate underwater at the price of his remaining lung, which Victor rejects at first.<ref>''Justice League'' (vol. 2) #15</ref> However following the capture of the rest of the Justice League by [[Ocean Master]], Cyborg reluctantly accepts the upgrade.<ref>''Justice League'' (vol. 2) #16</ref> This allows him and [[Mera (comics)|Mera]] to rescue the others.<ref>''Aquaman'' (vol. 7) #16</ref>
+
+During the "[[Trinity War]]" storyline, Cyborg gets a visual of [[Captain Marvel (DC Comics)|Shazam]] heading to [[Kahndaq]], to which Batman assembles the Justice League with the help from [[Zatanna]] to meet in Kahndaq to stop Shazam.<ref>''Justice League'' (vol. 2) #22</ref> Following the supposed death of [[Doctor Light (Arthur Light)|Doctor Light]] in Kahndaq, Batman tells Superman that Cyborg and Martian Manhunter are doing an autopsy to prove his death was not Superman's fault.<ref>''Justice League of America'' (vol. 3) #6</ref> As Wonder Woman leads the [[Justice League Dark]] to go look for Pandora, Cyborg is among the superheroes that remain at A.R.G.U.S. while Batman, Flash, Aquaman, Shazam, [[Steve Trevor]], the Justice League of America, Zatanna, and [[Phantom Stranger]] go to stop Wonder Woman.<ref>''Justice League Dark'' #22</ref> Cyborg was present when [[Atom (comics)|Atom]] tells him, Superman, [[Element Woman]] and Firestorm the true purpose of the creation of the Justice League of America and that she was spying on the Justice League which is how the Justice League of America ended up in Kahndaq.<ref>''Justice League of America'' (vol. 3) #7</ref> When the [[Crime Syndicate]] arrives on Prime Earth, Cyborg's old prosthetic parts combine to form a robot called Grid (who is operated by a sentient computer virus).<ref>''Justice League'' (vol. 2) #23</ref> During the Forever Evil event, after Batman and Catwoman drop Cyborg off to his father in Detroit,<ref>''Forever Evil'' #2</ref> he makes the choice to willingly receive a new cybernetic body and helps his father and Dr. Morrow create one that is slimmer in appearance so Cyborg could look more human.<ref name="auto">''Justice League'' (vol. 2) #27</ref> Working together with the Metal Men created by Doc Magus, Cyborg succeeds in shutting down Grid.<ref>''Justice League'' (vol. 2) #29</ref>
+ 
+Afterward, Cyborg helped newcomer to the group [[Captain Marvel (DC Comics)|Shazam]] fit in with the league as the rest set out to find Power ring's missing accessory which flew off after the death of the former wearer.<ref>''Forever Evil'' #4</ref> While on monitor duty he and Shazam experiment with some of his magical powers to aid in finding the ring after joking about having an Xbox in his left shoulder; only for the young ward to conjure up a ping pong table, which they play while having spare time on their hands.<ref>''Justice League'' (vol. 2) #31</ref> Eventually the call goes out and everyone in the league mobilizes to secure the new rampaging Power Ring before the Doom Patrol does.<ref>''Justice League'' (vol. 2) #32</ref> After coaxing Billy into action against Jessica Cruis, Victor moves in to interface with the ring itself, finding out a great deal about the ring of Volthoom and his current host, only to be forcefully thrown out after the ring entity rejects him by causing his systems to short circuit, removing him from the battle.<ref>''Justice League'' (vol. 2) #33</ref> He is last seen recovering at S.T.A.R. Labs, after Shazam rushed him to the med bay, following the power ring crisis. Cyborg wondered what he saw within the ring after his dad warned him interfacing with it again could trap him in it forever.<ref>''Justice League'' (vol. 2) #34</ref>
+
+An incident involving Batman's son, Damian Wayne, during the "Robin Rises Alpha & Omega" story arc in Batman, led up to most of the Justice League battling against [[Glorious Godfrey]] and a Parademon horde from Apokolips when they captured the chaos shard and the sarcophagus of Damian, before retreating back home.<ref>''Robin Rises: Omega'' #1</ref> All the league members present, Cyborg included, state to an adamant Bruce Wayne that running headlong into unmarked X-factor territory for a suicide mission was less than ideal, considering the consequences that could befall the earth. This eventually culminates with Batman hijacking Cyborg's teleportation systems, to zip up to the [[Justice League Watchtower|Watchtower]] in an attempt to retrieve an experimental and highly dangerous combat suit, in order to mete out his agenda; But Cyborg manages to block his administrative access so that he, Shazam, Aquaman, Wonder Woman, Lex, and Cold could physically restrain him, causing Batman to begrudgingly give up and retire to the Batcave.<ref>''Batman and Robin'' (vol. 2) #34</ref>
+
+After the Bat left, the rest of the Bat-Family turned up asking Victor for help with some digitized doppelgangers of baddies that Bruce initially set up in order to distract the League, destabilize watchtower security to secure the Hellbat, and eventually use a personal [[Mother Box]] (secured from a Parademon kept in cold storage) to vacate to [[Apokolips]].<ref name="Batman and Robin Vol 2 #35">''Batman and Robin'' (vol. 2) #35</ref> After making his way to the [[Batcave]] to meet with them, he's directed over to a console which enabled him to directly access the [[Batcomputer]]'s more sophisticated systems. However, it was all a ruse utilizing a preemptive countermeasure devised by Batman tailored to Cyborg's specific weaknesses. Cyborg was temporarily incapacitated and was set into a VR simulation where he relived his more peaceful days in college, while [[Barbara Gordon|Batgirl]] went to work on '''his''' [[Mother Box]] in order to secure a path towards Apokolips and chase after their father. But Victor eventually snapped out of his dream haze and followed them through, angered that they used him in such away.<ref name="Batman and Robin Vol 2 #35"/> Cyborg traveled along with [[Ace the Bat-Hound|Titus]], who hitched a ride on his leg, to catch up with the rest of the [[Batman Family]]. They all then have a run-in with the scavengers of Armegeddo who quickly vacate after some Apokoliptian Hunger Dogs make their way onto the scene. They eventually catch up with the armor-clad Dark Knight ripping his way through a sizable chunk of Apokolips's forces singlehandedly. Jason Tim and Barbara show Batman the Robin Medals Alfred gave them in order to remind him of his purpose, causing him to snap out of his berserker rage and note that Cyborg had reluctantly accompanied them to Hell itself. Having made their way into [[Darkseid]]'s citadel where [[Kalibak]] was readying his Chaos Cannon to fire again, the caped crusaders kept Darkseid's forces occupied while Cyborg made short work of the massive war engine, literally tearing it in half. But when he went to set a timed self-destruct sequence within the Apokoliptian computers, Vic suffered catastrophic feedback that fried most of his internal systems leaving him inoperable just as Darkseid himself made his appearance.<ref>''Batman and Robin'' (vol. 2) #36</ref>
+
+While Batman fought and held Darkseid off, Cyborg ran Batgirl through a crash course on how to hotwire his own [[Mother Box]]. Since Darkseid smashed Batman's Boom Tube generator, Cyborg was their only chance off Apokolips. After successfully jury-rigging his internal systems, Cyborg and the rest of the Bat rogues made a hasty exit stage left as Bruce powered his recovered fragment of the Chaos Shard with Darkseid's Omega Effect, blasting Darkseid against a wall to cover their escape.<ref>''Batman and Robin'' (vol. 2) #37</ref> In the aftermath, Cyborg, who is still unable to facilitate himself, wonders what is going on as Damian Wayne is successfully revived, however, a second anomaly cranks out of the Boom Tube that was opened and Kalibak comes charging through it. With Kalibak occupied by the rest of the gang, Vic tries his best to reestablish his downed systems. He is successful and gains control over the still-open tube as Batman readies the Batplane. As Batman rams his jet into the evil New God sending him careening back to Apokolips, Cyborg closes the portal banishing Darkseid's firstborn for good. With the threat over, Cyborg heads back topside to inform the rest of the league of what all transpired and stating he has JL business to attend to.<ref>''Robin Rises: Alpha'' #1</ref>
+
+An eponymous ongoing series, by writer David F. Walker and artist [[Ivan Reis]], debuted in July 2015.<ref>{{cite web |url= http://www.dccomics.com/comics/cyborg-2015/cyborg-1|title= Cyborg #1|website= DC Comics|access-date= August 1, 2015}}</ref>
+
+===DC Rebirth/DC Universe===
+{{Update|date=August 2017}}As of Rebirth, he is a part of the relaunched Justice League bi-monthly series as well as his own solo monthly series. It is unclear whether he has the ability of flight in Rebirth.
+
+During ''Dark Nights: Metal'', he is captured by the alternate Batmen of the Dark Multiverse, who attempt to hack him in order to learn the secrets of his teammates. As the crisis escalates, Cyborg is confronted by the controlling consciousness of other Mother Boxes, who claim that he will only gain the power to overcome the Dark Batmen if he fully surrenders to the Mother Box that powers his body at the cost of the transformation deleting his old personality. He is nearly tempted to give in to this transformation, but the appearance of [[Raven (DC Comics)|Raven]]'s soul-self convinces him to hold on to himself while partially succumbing to the transformation. This allows him to free his teammates and 'hack' the multiverse as they travel to find new allies in the battle against the Dark Batmen.
+
+Following this and the Justice League: No Justice miniseries, the Justice League series was canceled after 43 issues and was relaunched into a new monthly series and Cyborg will also be featured as part of a separate Justice League faction that is part of the new Justice League Odyssey series. In addition, Cyborg's own solo monthly series was also canceled and ended in June 2018 with the release of Issue 23.<ref>[https://www.newsarama.com/40498-cyborg-re-cancelled-with-july-august-s-issues-nixed.html CYBORG Re-Cancelled, With JULY & AUGUST's Issues Nixed] -Newsarama</ref>
+
+==Abilities==
+Large portions of Victor Stone's body have been replaced by advanced mechanical parts (hence the name Cyborg) granting him superhuman strength, speed, stamina, and flight. His mechanically-enhanced body, much of which is metallic, is far more durable than a normal human body. Cyborg's internal computer system can interface with external computers. Other features include an electronic "eye" which replicates vision but at a superhuman level. His mechanical parts contain a wide variety of tools and weapons, such as a grappling hook/line and a finger-mounted [[laser]]. Perhaps his most frequently-used weapon is his sound amplifier (often referred to as his "white sound blaster" in the comic books; the ''Teen Titans'' animated series calls it a "sonic cannon") which can be employed at various settings either to stun his foes or to deliver concentrated blasts of [[sound]] potent enough to shatter rock and deform steel.<ref>''[[Who's Who in the DC Universe|Who's Who: The Definitive Directory of the DC Universe]]'' #5 (July 1985), p. 31. The entry on Cyborg mentions both a "sound amplifier" and a "sonic disruptor", and the illustration depicts him using his sonic weapon to shatter rock. He can also leap great distances.</ref>
+
+Cyborg is consistently depicted as making adjustments to his cybernetic parts, enhancing his functions and abilities to levels beyond those set by his father. This change has allowed writers to adjust his powers as needed for various stories. Following DC's [[The New 52|New 52]] reboot in 2011, Cyborg's origin story was changed so that his enhancements were the product of alien technology, specifically that of a [[Mother Box]] from the planet [[New Genesis]]. His cybernetics are now seen as a living extension of his body, and a host of new skills such as [[electromagnetic pulse|EMP]] blasts, technology absorption, and underwater adaptation were added to his powerset. Most significantly, he was given the ability to generate [[boom tube]]s — powerful teleportation tunnels that are used by the [[New Gods]] to travel vast distances — due to this Mother Box connection. Elements of Victor's original backstory were re-established following DC's [[Trinity War]] storyline when his father rebuilds systems following extensive damage to them.
+
+In addition to his mechanical enhancements, Stone possesses an "exceptionally gifted" level of intelligence; his [[Intelligence quotient|IQ]] has been measured at 170.<ref>''Tales of the New Teen Titans'' #1 (June 1982); ''DC Special: Cyborg'' #1 (July 2008)</ref>
+
+==Collected editions==
+{| class="wikitable sortable"
+|-
+! style="width:1%;" class="unsortable"| #
+! Title !! Material collected 
+! class="unsortable" style="width:1%;"| Pages
+! style="width:1%;"| Publication date!! class="unsortable" style="width:14.47%;"| ISBN
+|-
+! colspan="6" |The New 52
+|-
+|1
+|'''Unplugged'''
+|''Cyborg'' vol. 1 #1–6, sneak peek of ''Convergence: Crime Syndicate'' #2
+|152
+|{{DTS|2016-3-29}}
+|{{ISBNT|978-1401261191}}
+|-
+|2
+|'''Enemy of the State'''
+|''Cyborg'' vol. 1 #7–12, ''Cyborg: Rebirth'' #1
+|168
+|{{DTS|2016-12-6}}
+|{{ISBNT|978-1401265311}}
+|-
+! colspan="6" |DC Rebirth
+|-
+|1
+|'''The Imitation of Life'''
+|''Cyborg: Rebirth'' #1, ''Cyborg'' vol. 2 #1–5
+|152
+|{{DTS|2017-3-28}}
+|{{ISBNT|978-1401267926}}
+|-
+|2
+|'''Danger in Detroit'''
+|''Cyborg'' vol. 2 #6–13
+|144
+|{{DTS|2017-8-15}}
+|{{ISBNT|978-1401270872}}
+|-
+|3
+|'''Singularity'''
+|''Cyborg'' vol. 2 #14–20
+|168
+|{{DTS|2018-5-15}}
+|{{ISBNT|978-1401274559}}
+|-
+|4
+| 
+|''Cyborg'' vol. 2 #21-26 (cancelled along with the series)
+|144
+|{{DTS|2018-11-27}}
+|{{ISBNT|978-1401285135}}
+|}
+
+==Other versions==
+===Flashpoint===
+In the ''[[Flashpoint (comics)|Flashpoint]]'' event, the timeline is greatly altered. In this alternate version of events, Cyborg is America's greatest superhero (occupying the role held by [[Superman]] in DC's standard timeline). He attempts to put together a group to stop the war between [[Aquaman]] and [[Wonder Woman]]'s forces. However, the heroes he approaches all refuse, after [[Thomas Wayne|Batman]] declines.<ref>''Flashpoint'' #1 (May 2011)</ref> Cyborg connects the resistance member [[Lois Lane]] to spy on the Amazons for any information.<ref>''Flashpoint: Lois Lane and the Resistance'' #1 (June 2011)</ref> Cyborg rescues people in the subway station from arsonist [[Heat Wave (comics)|Heat Wave]].<ref>''Flashpoint: Legion of Doom'' #1 (June 2011)</ref> [[Abin Sur]] crashes on Earth; he is subsequently taken into custody by Cyborg and the US government to be questioned about his reasons for being on Earth. When Abin Sur is recovering, he is on a mission to retrieve the [[White Lantern Corps|Entity]], however, Cyborg convinces him to join with Earth's heroes.<ref>''Flastpoint: Abin Sur – The Green Lantern'' #2 (July 2011)</ref> Afterwards, Cyborg is seen talking with the President in his headquarters in Detroit. The President states that [[Steve Trevor]] sent a signal to the resistance but was intercepted by a traitor among the heroes that Cyborg tried to recruit and suspicion leads to the [[Outsiders (comics)|Outsider]]. For Cyborg's failure, he is relieved of duty as the [[Element Girl|Element Woman]] sneaks into the headquarters. Later, Cyborg is called by Batman and the [[Flash (Barry Allen)|Flash]] for help in tracking down "Project: Superman", the government branch responsible for 'raising' Kal-El after his rocket destroyed Metropolis upon its arrival. Cyborg and them agree to join the cause to stop Wonder Woman and Aquaman, but only if Batman gets to choose whom to recruit, and Cyborg agrees as long as he comes with them. The three sneak into the government underground bunkers, and the group comes across a giant vault door bearing the Superman logo. Cyborg opens the door and sees a weakened Kal-El, with the arrival of guards. Forced to escape, Kal-El's powers begin to manifest, and flies off leaving them at the hands of the guards.<ref>''Flashpoint'' #3 (July 2011)</ref> While they are fending off the guards, they are rescued by [[Element Girl|Element Woman]]. Later, Cyborg and other heroes arrive at the [[Marvel Family]]'s place helping the Flash from drastically forgetting his memories. After the Flash is recovering, he asked to stop the Atlantean/Amazon war from casualty, although Cyborg and the heroes are not willing unless Batman wants to join them, because Cyborg explains to him that they believe Batman was invincible. However, the Flash convinces him that no one is invincible and the group of heroes is agreeing to join the Flash. The heroes arrive at New Themyscira to stop the Atlantean/Amazon war, and the Flash tells Cyborg to find Aquaman's ultimate bomb to dispose of it.<ref>''Flashpoint'' #4 (August 2011)</ref>
+
+===Titans Tomorrow===
+In the ''[[Titans Tomorrow]]'' storyline, a future version of Victor Stone called '''Cyborg 2.0''' is a member of Titans East. He is shown having similar plating as the animated Cyborg from the ''[[Teen Titans (TV series)|Teen Titans]]'' animated series.<ref>''Teen Titans'' (vol. 3) #17–19 (December 2004 – February 2005)</ref>
+
+===Earth-23===
+An alternate version of Cyborg appears as part of the Justice League of Earth-23 in the [[DC Multiverse]].<ref>''Action Comics'' (vol. 2) #9</ref>
+
+===Kingdom Come===
+Cyborg appears as the third Robotman as part of Superman's Justice League. Robotman is now completely liquid metal. He is petrified by the nuclear blast.
+
+===''Injustice'' series===
+====''Injustice: Gods Among Us''====
+Cyborg appears as a character in the prequel comic to [[Injustice: Gods Among Us|the game]], where he joins Superman's Regime to force peace on the world. He serves as Superman's eyes and ears over the world, offering insight on any activity deemed disruptive. At the end of Year Two, he discovers someone is trying to hack into the Regime's system during a war with the Green Lantern Corps (Oracle) and goes to the Watchtower to locate her. Jim Gordon follows and corners him, managing to rip Cyborg's metallic faceplate off and knock him unconscious, stopping the locating sequence. Cyborg spends most of the next year a prisoner of the Insurgency until he is released when the two groups collide in a battle that nearly destroys them when Trigon and Mr. Mxyzptlk get involved. In Year Four he and the Regime are confronted by the Greek gods, who want Superman to step down as ruler. While the Regime is forced to go underground, they come together to defeat the gods once and for all. During Year Five tension grows among the Regime because of Superman's growing hostility and controversial decisions, such as enlisting the aid of villains to help the Regime. Cyborg is especially disgusted when he discovers that during a rally with supporters of the Joker who reject Superman, the Man of Steel killed over two hundred defenseless protesters in anger. Batman and Batwoman later go to the Hall of Justice to kidnap Cyborg because he is the only one aware of this and has the information stored in his data. He is incapacitated and taken underground to the ruins of Metropolis where Batgirl works to find the data and reveal it to the world. While they succeed in finding it, Raven casts a massive blackout over the world to prevent the video from being seen, and the Insurgency is forced to retreat before Flash comes to get Cyborg. Superman has Cyborg erase any data containing information on his killings so the incident will not repeat itself.
+
+====''Injustice 2''====
+Cyborg appears in a prequel comic to the [[Injustice 2|sequel game]]. He remained in prison with Superman, even after the League of Assassins and impostor Batman's [[Suicide Squad]] raid the Ryker's Island to free only Damian Wayne/the current Nightwing.
+
+===''DCeased''===
+Cyborg appears as a main character in the series. His body was used to create the virus which ravaged Earth and he unwillingly became a carrier of the virus. Cyborg spends the majority of the series helping out the surviving characters. In the final issue, Cyborg chooses to remain on Earth, surmising that he could cause another outbreak. While fighting the infected Wonder Woman, he decides to use the [[Lasso of Truth]] on her. Asking her if there's a cure, Cyborg is shocked to find out that he held the cure inside him all along. Before he could inform the others, Wonder Woman uses the opportunity to catch him off-guard and decapitate him.
+
+==Reception==
+The character of Cyborg has been analyzed as a hero who is both Black and disabled, and has been called "an exceptional figure in a genre replete with wonders."<ref>Gray J.W. (2016) “Why Couldn’t You Let Me Die?”: Cyborg, Social Death, and Narratives of Black Disability. In: Foss C., Gray J.W., Whalen Z. (eds) Disability in Comic Books and Graphic Narratives. Literary Disability Studies. Palgrave Macmillan, London. https://doi.org/10.1057/9781137501110_9</ref> His appearance has also been analyzed as a visual design of a Black superhero.<ref>Davis, Blair. "9. Bare Chests, Silver Tiaras, And Removable Afros: The Visual Design Of Black Comic Book Superheroes." The Blacker the Ink. Rutgers University Press, 2015. 193-212.</ref>
+
+==In other media==
+===Television===
+====Live-action====
+[[File:Joivan Wade.png|thumb|right|[[Joivan Wade]] plays Cyborg on ''[[Doom Patrol (TV series)|Doom Patrol]]'']]
+* Cyborg appeared in ''[[Smallville]]'', portrayed by [[Lee Thompson Young]]. Introduced in the episode "Cyborg", this version is a former [[Metropolis (comics)|Metropolis]] High School football player who was believed to have been involved in a car accident that killed him and his family, but was secretly rebuilt by Cyntechnics scientists such as Dr. Alistair Krieg with [[endoskeleton|endoskeletal]] cybernetic enhancements, which Stone describes as "[[bionics|bionic]]". After becoming the only survivor of Krieg's experiments, Stone escaped before Cyntechnics was bought out by [[Luthorcorp|LuthorCorp]]. In the episode "Justice", the [[Green Arrow]] brings together a group of individuals to combat [[Lex Luthor (Smallville)|Lex Luthor]], and recruits Stone, who has taken the name Cyborg and received further enhancements from Green Arrow. Stone also makes a minor appearance in the episode "Salvation".
+* Cyborg appears in ''[[Doom Patrol (TV series)|Doom Patrol]]'', portrayed by [[Joivan Wade]]. This version is well-established as a superhero and helps bring the [[Doom Patrol|eponymous team]] together to protect the fictional town of Clovertown, [[Ohio]].
+
+====Animation====
+* Cyborg appears in ''[[The Super Powers Team: Galactic Guardians]]'',<ref>[http://www.animatedsuperheroes.com/2008/05/super-powers-team-galactic-guardians.html The Super Powers Team: Galactic Guardians] animatedsuperheroes.com</ref> voiced by [[Ernie Hudson]]. This version was a promising decathlon athlete until an accident destroyed most of his body and his father rebuilt him using machine parts and is an affiliate of the [[Justice League of America]] under [[Superman]].
+* When ''[[Justice League (TV series)|Justice League]]'' was pitched to the [[Kids' WB]] network, the lineup originally included three young members as protégés for the Justice League: [[Robin (comics)|Robin]], [[Bart Allen|Impulse]], and an original character described as a teenage female version of Cyborg named '''[[Natasha Irons]]''' / '''Cyborgirl'''.
+[[File:CyborgTTgo!.png|250px|right|thumb|Cyborg using his Sonic Cannon in the ''[[Teen Titans (TV series)|Teen Titans]]'' animated series]]
+* Cyborg appears in ''[[Teen Titans (TV series)|Teen Titans]]'', voiced by [[Khary Payton]]. This version is largely similar to the original comics incarnation, though he displays a more easygoing personality coupled with an enormous appetite and excess pride for his inventions and was unable to finish high school due to the circumstances that turned him from Victor Stone into Cyborg. Additionally, he possesses a bulkier body compared to the aforementioned comics incarnation, primarily wields a sonic cannon housed in his forearms, and serves as the [[Teen Titans]]' chief technician, gadgetry expert, and occasional second-in-command to [[Dick Grayson|Robin]].
+* Cyborg appears in ''[[Mad (TV series)|Mad]]'', voiced by both [[Hugh Davidson (actor)|Hugh Davidson]] in episode 44 and [[Gary Anthony Williams]] in episode 45 respectively.
+* Cyborg appears in the "New Teen Titans" segment of ''[[DC Nation Shorts]]'', voiced again by Khary Payton and by [[Kevin Michael Richardson]] in "Lightning Round".
+* Cyborg appears in ''[[Teen Titans Go!]]'', voiced again by Khary Payton. This version is a member of the Teen Titans who is uncertain about his half-mechanical nature, a slob knowledgeable in 1980s culture, and in a relationship with [[Jinx (DC Comics)|Jinx]].
+* Cyborg appears in the television special ''[[Lego DC Comics: Batman Be-Leaguered]]'', voiced again by Khary Payton. This version is a member of the Justice League.
+* Cyborg appears in ''[[Justice League Action]]'', voiced again by Khary Payton. This version is a member of the Justice League.
+* Cyborg appears in ''[[Young Justice: Outsiders]]'', voiced by [[Zeno Robinson]]. This version was a receiver for Hayward High School's football team, the Steel Workers, who wants his father [[Silas Stone]] to attend his football games. When the latter fails to appear due to being buried in his work with [[S.T.A.R. Labs]], an angered Victor confronts Silas, believing his father cares more about his work than his family. Amidst their argument, Victor accidentally activates a [[Reach (comics)|Reach]] metahuman failsafe device, causing an explosion that grievously injures him. In desperation, Silas fuses Victor with a Father Box the Justice League asked him to study, transforming Victor into a cybernetic organism. Victor is healed, but he blames Silas for ruining his life, inadvertently falling victim to the Father Box's programming until [[Halo (DC Comics)|Halo]], who had unlocked the ability to open Boom Tubes, arrives and temporarily restores Victor's mind. Following this, Victor joins the [[List of Young Justice characters#"The Team"|Team]] and, over the course of the season, fights to maintain control of his body until [[Superboy (Kon-El)|Superboy]], [[Black Lightning]], and [[Forager (character)|Forager]] bring him to [[Metron (comics)|Metron]]'s Mobius Chair to permanently remove the Father Box's programming, reconciles with Silas, helps Halo save the universe from the [[Anti-Life Equation]], joins the [[Outsiders (comics)|Outsiders]], takes the name "Cyborg", and helps the Team and Outsiders combat the [[List of Young Justice characters#The Light|Light]]. As of ''[[Young Justice (TV series)|Young Justice: Phantoms]]'', Victor has joined the Justice League.<ref>{{cite web|url=https://www.s8.org/gargoyles/askgreg/search.php?qid=25519 |title=Search Ask Greg : Gargoyles : Station Eight |publisher=S8.org |date= |accessdate=2022-03-16}}</ref>
+* Cyborg appears in ''[[DC Super Hero Girls (TV series)|DC Super Hero Girls]]'', voiced again by [[Phil LaMarr]].
+
+===Film===
+* Cyborg appears in ''[[Teen Titans: Trouble in Tokyo]]'', voiced again by [[Khary Payton]].
+* An unnamed, [[Multiverse (DC Comics)|alternate universe]] version of Cyborg makes a non-speaking appearance in ''[[Justice League: Crisis on Two Earths]]'' as a member of the [[Crime Syndicate]].
+* Cyborg appears in ''[[Justice League: Doom]]'', voiced by [[Bumper Robinson]].<ref>{{cite web|url=http://www.tvguide.com/News/Justice-League-Doom-Cast-1038097.aspx|title=Nathan Fillion, Tim Daly and Michael Rosenbaum Join Justice League: Doom|work=TV Guide}}</ref> This version is a cheerful, resourceful individual who is recruited by [[Batman]] to combat the [[Royal Flush Gang]] and save the [[Justice League]] from [[Vandal Savage]]'s [[Legion of Doom]], for which Cyborg is inducted into the League.
+* Cyborg appears in ''[[Lego Batman: The Movie – DC Super Heroes Unite]]'', voiced by [[Brian Bloom]].<ref>{{cite web|last=Gartler|first=James|title=NYCC 2012: DARK KNIGHTS & LEGO Fights on DC Animation|url=http://www.newsarama.com/film/nycc-2012-dark-knight-returns-2-lego-panel.html|publisher=Newsarama}}</ref>
+* Cyborg appears in films set in the [[DC Animated Movie Universe]], originally voiced by [[Michael B. Jordan]]<ref>{{cite web|url=http://www.tvguide.com/News/Greys-Anatomy-Kevin-McKidd-Justin-Chambers-Justice-League-Flashpoint-Paradox-1064095.aspx|title=First Look: Grey's Anatomy Stars Get Animated for Justice League|work=TV Guide}}</ref> and [[Shemar Moore]]<ref>{{cite web|url=http://www.worldsfinestonline.com/2013/07/initial-details-cast-and-crew-information-for-upcoming-justice-league-war-animated-feature/|title=Initial Details, Cast And Crew Information, For Upcoming "Justice League: War" Animated Feature|work=worldsfinestonline.com}}</ref> in subsequent appearances.
+** Cyborg appears in ''[[Justice League: The Flashpoint Paradox]]''. This version is a member of the Justice League. Additionally, the ''[[Flashpoint (comics)|Flashpoint]]'' incarnation of Cyborg appears in the film, with his storyline playing out similarly to the comics until he is mortally wounded by [[Aquaman]].
+** Cyborg appears in ''[[Justice League: War]]''. Following changes made to the universe during the events of ''The Flashpoint Paradox'', Victor Stone became a skilled football player that was shunned by his father [[Silas Stone]], who believes humanity's physical prowess means nothing once metahumans become the dominant species. Amidst an [[Apokolips|Apokoliptian]] invasion, Victor is mortally wounded by an energy blast. Silas brings him to an advanced machine built from international technology, but it fuses with Victor, who joins the future Justice League in halting the invasion using his newly acquired ability to interface with Apokoliptian technology.
+** Cyborg makes subsequent appearances in ''[[Justice League: Throne of Atlantis]]'', ''[[Justice League vs. Teen Titans]]'', ''[[Justice League Dark (film)|Justice League Dark]]'', ''[[The Death of Superman (film)|The Death of Superman]]'' and its sequel ''[[Reign of the Supermen (film)|Reign of the Supermen]]'', and ''[[Justice League Dark: Apokolips War]]''.
+* Cyborg appears in ''[[JLA Adventures: Trapped in Time]]'', voiced by Avery Kidd Waddell.<ref>{{cite web|url=http://www.worldsfinestonline.com/2014/01/target-exclusive-jla-adventures-trapped-in-time-movie-hitting-dvd-january-21st-2014/|title=Target-Exclusive "JLA Adventures: Trapped In Time" Movie Hitting DVD January 21st, 2014|work=worldsfinestonline.com}}</ref>
+* Cyborg appears in ''[[Lego DC Comics Super Heroes: Justice League vs. Bizarro League]]'', voiced again by Khary Payton.
+* Cyborg appear in ''[[Batman Unlimited: Monster Mayhem]]'', voiced again by Khary Payton.
+* A young, alternate universe version of Victor Stone appears in ''[[Justice League: Gods and Monsters]]'', voiced by [[Taylor Parks]]. After his father Silas is commissioned by [[Chris Kent (character)|Superman]] to study Kryptonian technology, the Stones are attacked and killed by a [[Metal Men|Metal Man]] designed to resemble and frame Superman.
+* Cyborg appears in ''[[Lego DC Comics Super Heroes: Justice League: Attack of the Legion of Doom]]'', voiced again by Khary Payton once again.
+* Cyborg appears in ''[[Lego DC Comics Super Heroes: Justice League: Cosmic Clash]]'', voiced again by Khary Payton.
+* Cyborg appears in ''[[Lego DC Comics Super Heroes: Justice League: Gotham City Breakout]]'', voiced by Khary Payton once again.
+* Cyborg makes a non-speaking appearance in ''[[The Lego Batman Movie]]''. This version is a member of the Justice League.
+* Cyborg appears in ''DC Super Heroes vs. Eagle Talon'', voiced by [[Wataru Takagi]].<ref>{{cite web|url=http://dc-taka.com/character/サイボーグ/|title=サイト名|website=dc-taka.com|language=ja|access-date=April 4, 2018}}</ref>
+* Cyborg appears in ''[[Lego DC Comics Super Heroes: The Flash]]'', voiced by Khary Payton once again.
+* Cyborg appears in ''[[Lego DC Comics Super Heroes: Aquaman: Rage of Atlantis]]'', voiced again by Khary Payton.
+* The ''Teen Titans Go!'' and the original ''Teen Titans'' animated series versions of Cyborg appear in ''[[Teen Titans Go! vs. Teen Titans]]'', with both voiced again by Khary Payton. In addition, several alternate universe versions of Cyborg also appear, including his counterparts from the ''[[Tiny Titans]]'', the ''New Teen Titans'' comic, and the DC Animated Movie Universe version.
+* Cyborg appears in ''[[Injustice (2021 film)|Injustice]]'', voiced by [[Brandon Micheal Hall]].<ref>{{cite web|last=Couch|first=Aaron|date=2021-07-21|title=DC's 'Injustice' Sets Cast for Animated Movie (Exclusive)|url=https://www.hollywoodreporter.com/movies/movie-news/injustice-gods-among-us-movie-dc-1234985568/|access-date=2021-07-21|website=The Hollywood Reporter|language=en-US}}</ref>
+* Cyborg appears in ''[[Teen Titans Go! & DC Super Hero Girls: Mayhem in the Multiverse]]'', with Khary Payton reprising his role from various DC media.
+
+===DC Extended Universe===
+{{main|Victor Stone (DC Extended Universe)}}
+[[File:Ray Fisher by Gage Skidmore 2.jpg|thumb|211x211px|[[Ray Fisher (actor)|Ray Fisher]] portrayed Cyborg in the [[DC Extended Universe]]]]
+Cyborg appears in media set in the [[DC Extended Universe]] (DCEU), portrayed by [[Ray Fisher (actor)|Ray Fisher]].
+* Cyborg first appears in a cameo depicted in the film ''[[Batman v Superman: Dawn of Justice]]'' (2016).
+* Cyborg appears in ''[[Justice League (film)|Justice League]]'' (2017) and the director's cut, ''[[Zack Snyder's Justice League]]'' (2021).<ref>{{cite web|title=HBO Max to #ReleaseTheSnyderCut|url=https://pressroom.warnermediagroup.com/us/media-release/hbo-max-releasethesnydercut|date=May 20, 2020|website=Warner Media Group|access-date=May 26, 2020}}</ref> In both films, the effects for his cybernetic parts were made using CGI.<ref>{{cite web|url=http://www.joblo.com/movie-news/set-visit-everything-you-need-to-know-about-zack-snyders-justice-league-228|title=Set Visit: Everything You Need To Know About Zack Snyder's Justice League|publisher=Joblo|last=Bumbray|first=Chris |date=June 21, 2016}}</ref>
+* A stand-alone ''Cyborg'' film was originally scheduled for a release date of April 3, 2020, but it has since been delayed.<ref>{{cite web |url=https://variety.com/2014/film/news/batman-superman-cyborg-ray-fisher-1201163390/|title=Ray Fisher to Play Cyborg In 'Batman-Superman' (EXCLUSIVE)|work=Deadline Hollywood|date=April 23, 2014|access-date=April 24, 2014}}</ref><ref>{{cite web|url=https://variety.com/2016/film/news/cyborg-the-flash-movie-1201838408/|title=Cyborg to Appear in 'The Flash' Movie (EXCLUSIVE)|work=Variety |last=Lang|first=Brent|date=August 16, 2016}}</ref>
+* Cyborg was originally going to appear in the TV series ''[[Peacemaker (TV series)|Peacemaker]]'' episode "It's Cow or Never", but it was later cut.<ref>https://www.instagram.com/p/CaKpbLvJskM/ {{dead link|date=March 2022}}</ref>
+
+===Video games===
+* Cyborg appears as a playable character in the 2005 ''[[Teen Titans (2005 video game)|Teen Titans]]'' game. This version is a member of the [[Teen Titans|eponymous team]].
+* Cyborg appears as a playable character in the 2006 ''[[Teen Titans (2006 video game)|Teen Titans]]'' game, with [[Khary Payton]] reprising his role from the 2003 series. This version is a member of the eponymous team.
+* Cyborg appears in ''[[DC Universe Online]]'', voiced by [[Alexander Brandon]].<ref>{{cite web | url=http://www.dcuniverseonline.com/movies.vm?movie=DCUO_CGI_072310&category=allvideos | title=DCUO Cinematic Trailer – Who Do You Trust | work=DC Universe Online (official site)}}</ref>
+* Cyborg appears in ''[[LittleBigPlanet 2]]'', voiced by Tom Clarke-Hill.
+* Cyborg appears as a playable character in ''[[Injustice: Gods Among Us]]'',<ref>{{cite web|url=https://www.theverge.com/gaming/2012/7/11/3153746/injustice-gods-among-us-adds-two-new-heroes-cyborg-and-nightwing|title=Injustice: Gods Among Us adds two new heroes: Cyborg and Nightwing|work=Polygon|date=July 11, 2012}}</ref> voiced again by [[Khary Payton]]. This version is a member of the [[Justice League]]. In the Regime's reality, Cyborg became a member of Superman's Regime following the Teen Titans' deaths. In his non-canonical arcade ending, Cyborg leads an assault on the [[Fortress of Solitude]] to defeat the remnants of Superman's Regime. He uses Kryptonian technology to upgrade his cybernetics and finds out that he can control an army of Superman's robots, which he plans to use to bring justice to the world.
+* Cyborg appears as a playable character in the Microsoft Windows and Wii U versions of ''[[Scribblenauts Unmasked]]''. This version is a member of the Justice League.
+* Cyborg appears as a playable character in ''[[Infinite Crisis (video game)|Infinite Crisis]]'', voiced again by [[Bumper Robinson]].
+* Cyborg appears as a playable character in ''[[Injustice 2]]'', voiced by [[Khary Payton]] once again. The Regime Cyborg remains allied with Regime Superman, who reluctantly join forces with [[Batman]]'s Insurgency to thwart [[Brainiac (character)|Brainiac]]'s attack on Earth. Amidst this, Cyborg faces a robotic clone of himself created by Brainiac called [[Grid (comics)|Grid]]. In his non-canonical arcade ending, Cyborg defeats Brainiac and takes his 12th level intellect and ship's data core. Using his newly acquired powers, he restores the cities that Brainiac stole and revives the deceased Titans to help him restore all of the worlds that Brainiac attacked.
+* Cyborg appears as a playable character in ''DC Unchained''.
+
+===Lego===
+* Cyborg appears as a playable character in ''[[Lego Batman 2: DC Super Heroes]]'', voiced again by [[Brian Bloom]].
+* Cyborg appears as a playable character in ''[[Lego Batman 3: Beyond Gotham]]'', voiced again by [[Bumper Robinson]].
+* Cyborg and the ''Teen Titans Go!'' incarnation of Cyborg appeared as playable characters in ''[[Lego Dimensions]]'', voiced again by Bumper Robinson and [[Khary Payton]] respectively.
+* Cyborg and [[Grid (comics)|Grid]] appear as playable characters in ''[[Lego DC Super-Villains]]'', both voiced by Bumper Robinson.
+
+===Toys===
+* A [[DC Animated Universe]]-inspired Cyborg figure was released in the [[DC Universe: Justice League Unlimited Fan Collection|''Justice League Unlimited'' toyline]] in 2009.
+* A Cyborg figure was released by [[DC Direct]] in 2001 as part of its Teen Titans series and in the 2003 Classic Titans Box Set, presented in gold bionics as opposed to his standard silver.
+* Two versions of Cyborg were released in [[Mattel]]'s [[DC Universe Classics]] action figure line: a standard version and a [[KB Toys]] exclusive version that features Cyborg with a "sonic arm".
+* A Cyborg figure based on the ''New 52'' Justice League was released in late 2012.
+
+===Miscellaneous===
+* Cyborg appears in ''[[SMALLVILLE LEGENDS: JUSTICE AND DOOM|Smallville Legends: Justice & Doom]]''.
+* Cyborg appears in ''[[DC Super Friends]]: The Joker's Playhouse'', voiced by [[Phil LaMarr]]. This version is a member of the Super Friends.
+* Cyborg appears in ''[[DC Super Hero Girls]]'', voiced again by Khary Payton.
+* Cyborg appears in the ''[[Robot Chicken DC Comics Special]]'', voiced by [[Abraham Benrubi]].
+* Cyborg appears in ''[[Robot Chicken DC Comics Special 2: Villains in Paradise]]'', voiced by [[Seth Green]].
+* Cyborg makes a non-speaking appearance in ''[[Robot Chicken DC Comics Special III: Magical Friendship]]''.
+
+==See also==
+{{Columns-list|colwidth=30em|
+* [[Deathlok]]
+* [[List of black superheroes]]
+* [[List of child superheroes]]
+* [[List of DC Comics characters]]
+* [[List of fictional cyborgs]]
+* [[List of Justice League members]]
+* [[List of Teen Titans members]]
+* [[List of Teen Titans characters|List of ''Teen Titans'' animated series characters]]
+}}
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://www.titanstower.com/cyborg/ Titans Tower: Cyborg]
+* [http://worldofblackheroes.com/2010/06/15/cyborg-victor-stone/ World of Black Heroes: Cyborg Biography]
+* [[DCDatabase:Cyborg (Victor Stone)|DCDP: Cyborg (Victor Stone)]] – DC Database Project
+
+{{Cyborg (DC Comics)}}
+{{Justice League characters}}
+{{Teen Titans}}
+{{The New 52}}
+{{DC Rebirth}}
+{{Superfriends series}}
+{{Subject bar|portal1=1980s|portal2=Comics|portal3=Speculative fiction|commons=y|q=y|d=y}}
+
+[[Category:African-American superheroes]]
+[[Category:Black characters in animation]]
+[[Category:Black people in comics]]
+[[Category:Black characters in films]]
+[[Category:Characters created by Marv Wolfman]]
+[[Category:Characters created by George Pérez]]
+[[Category:Comics characters introduced in 1980]]
+[[Category:Cyborg superheroes]]
+[[Category:DC Comics American superheroes]]
+[[Category:DC Comics characters with superhuman strength]]
+[[Category:DC Comics cyborgs]]
+[[Category:DC Comics film characters]]
+[[Category:DC Comics male superheroes]]
+[[Category:DC Comics characters who can teleport]] 
+[[Category:Fictional characters from Detroit]]
+[[Category:Fictional characters with superhuman senses]]
+[[Category:Fictional amputees]]
+[[Category:Fictional inventors]]
+[[Category:Fictional roboticists]]
+[[Category:Fictional technopaths]]
+[[Category:Fictional programmers]]
+[[Category:Fictional computer scientists]]
+[[Category:Fictional software engineers]]
+[[Category:Fictional players of American football]]
+[[Category:Teenage characters in television]]
+[[Category:Teenage superheroes]]

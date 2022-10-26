@@ -1,0 +1,111 @@
+{{Use mdy dates|date=June 2022}}
+{{short description|Fictional superhero in DC Comics}}
+{{Infobox comics character
+<!--Wikipedia:WikiProject Comics-->
+| character_name = Hourman 
+| image          = [[Image:3hourmen jhwilliams3.jpg|225px]]
+| imagesize      = <!-- default 250 -->
+| caption        = All three Hourmen (from top: Matthew, Rick and Rex Tyler). Promotional art for ''[[Justice Society of America|JSA]]'' #65 by [[J. H. Williams III]].
+| alt            = 
+| publisher      = [[DC Comics]]
+| debut          = 
+| first_series   = 
+| first_episode  = 
+| first_comic    = ''[[Adventure Comics]]'' #48 (March 1940)
+| creators       = Ken Fitch (writer)<br />[[Bernard Baily]] (artist)
+| voiced_by      = 
+| based_on       = 
+| alter_ego      = [[Hourman (Rex Tyler)|Rex Tyler]]<br>[[Hourman (Rick Tyler)|Rick Tyler]]<br>[[Hourman (android)|Matthew Tyler]]
+| full_name      = 
+| species        = <!-- optional -->
+| homeworld      = <!-- optional -->
+| alliances      = {{Plain list |
+* [[Justice Society of America]]
+* [[Freedom Fighters (comics)|Freedom Fighters]]
+* [[All-Star Squadron]]
+* [[Justice League]]
+}}
+| partners       = <!-- optional -->
+| supports       = <!-- optional -->
+| aliases        = Hour-Man<!-- optional -->
+| powers         = {{Plain list |
+* Use of Miraclo Pill grants:
+* Superhuman strength, speed, stamina, and durability
+* Night vision
+* Ability to survive underwater
+}}
+| cat            = 
+| subcat         = 
+| hero           = 
+| villain        = 
+| sortkey        = 
+| addcharcat#    = 
+}}
+'''Hourman''' or '''Hour-Man''' is the name of three different [[fictional character|fictional]] [[superhero]]es appearing in comics published by [[DC Comics]]. The original Hourman was created by writer Ken Fitch and artist [[Bernard Baily]] in ''[[Adventure Comics]]'' #48 (March 1940), during the [[Golden Age of Comic Books]].<ref name=Guide>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Korte |first3=Steve |last4=Manning |first4=Matt |last5=Wiacek |first5=Win |last6=Wilson |first6=Sven |title=The DC Comics Encyclopedia: The Definitive Guide to the Characters of the DC Universe |date=2016 |publisher=DK Publishing |isbn=978-1-4654-5357-0 |page=145}}</ref> The first Hourman is chemist Rex Tyler, who creates a new synthesis, "Miraclo", which grants him super-strength and endurance, but only for one hour.<ref>{{cite book |last1=Mitchell |first1=Kurt |last2=Thomas |first2=Roy |title=American Comic Book Chronicles: 1940-1944 |date=2019 |publisher=TwoMorrows Publishing |isbn=978-1605490892 |page=25}}</ref>
+
+Rex Tyler made his live action debut in the [[Legends of Tomorrow (season 1)|season one]] finale of [[The CW]] series ''[[Legends of Tomorrow]]'' portrayed by [[Patrick J. Adams]]. Both Rex and Rick Tyler also appear in the [[DC Universe (streaming service)|DC Universe]] series ''[[Stargirl (TV series)|Stargirl]]'' portrayed by [[Lou Ferrigno Jr.]] and [[Cameron Gellman]] respectively.
+
+==Fictional character biography==
+===Rex Tyler===
+{{Main|Hourman (Rex Tyler)}}
+The original Hourman is '''Rex Tyler''' who appeared in the [[Golden Age of Comic Books]] and is a common member of the [[Justice Society of America]].<ref>{{cite book |last1=Benton |first1=Mike |title=Superhero Comics of the Golden Age: The Illustrated History |date=1992 |publisher=Taylor Publishing Company |location=Dallas |isbn=0-87833-808-X |url=https://archive.org/details/superherocomicso0000bent |url-access=registration |access-date=April 8, 2020 |page=[https://archive.org/details/superherocomicso0000bent/page/146 146]}}</ref>
+
+===Rick Tyler===
+{{main|Hourman (Rick Tyler)}}
+'''Rick Tyler''', Rex's son, took over the Hourman mantle during the ''[[Crisis on Infinite Earths]]''. Rick swallowed some of his father's Miraclo pills to help him save people trapped in a burning hospital. After serving for a few years as a member of Infinity, Inc., a team composed largely of other JSA-member children, Rick began to grow addicted to Miraclo just as his father did. He spent many years after leaving the group critically ill until [[Amazo]], posing as a future incarnation of the android Hourman, cured him of his Miraclo addiction. Having conquered his personal demons and regaining his health, Rick joined the JSA in its incarnation as a small band of freedom fighters during the "Stealing Thunder" arc. The android had given him an hourglass full of [[tachyons]] that gave Rick random visions one hour into the future. As a second gift, Rick could visit with his father in an otherworldly dimension called the Timepoint, frozen in time, just before Rex's death. At one point, Rick is severely injured in battle, and switched places with his father to save his life. Tyler, the android known as the third Hourman, took Rex and some other JSA members to the Timepoint to save Rick's life. The one hour Rex was allotted in the Timepoint expired just as [[Doctor Mid-Nite#Pieter Cross|Doctor Mid-Nite]] and Tyler had healed Rick of his injuries. Father and son fought over who would perish in the battle with Extant. Ultimately, Tyler the android took Rex's place and was destroyed when Rick and Rex returned to Earth. Rick is once again active as Hourman and is an active member of the JSA. He is married to [[Jesse Chambers]].
+
+===Matthew Tyler===
+{{main|Hourman (android)}}
+In the 853rd century another Hourman, an android that was modeled on Rex Tyler's [[DNA]], served with both the Justice League and the Justice Society for a time. He often perceived himself as Rex and also as Rex's descendant. Originally possessing the time-manipulating cosmic artifact known as the Worlogog, he divested himself of most of its power at the suggestion of [[Snapper Carr]] and went about learning to be human. After failing to stop [[Hank Hall|Extant]] from escaping a fight, Hourman quit the JSA and began travelling through the timestream, returning when he received a distress call from the JSA. As noted above, he is believed to have been destroyed at the hands of Extant in Rex's place, although the time-traveler [[Rip Hunter]] mentioned that his actions would leave him inactive for a relative year, indicating his probable return. Before he died, the android also gave his hourglass to Rex Tyler, who hopes to rebuild him. The android briefly used the alias '''Matthew Tyler''' and was often simply called '''Tyler'''.
+
+==Powers and abilities==
+Neither Rex nor Rick have any innate powers (though it was once theorized that their powers derive from a metagene, like many DC superheroes). Any superhuman abilities they display are derived from the use of '''Miraclo'''. Taking Miraclo grants a user several abilities for the span of an hour. Most obvious are the superhuman strength, durability, increased resistance to physical damage (to the extent of being impervious to small arms fire) and speed enhancements. Other, lesser known and mentioned powers include night vision and the ability to survive underwater. Rex and Rick both took Miraclo in pill form, but Rick later changed to using a transdermal patch.
+
+The amount of Miraclo that can be taken per day has varied. Normally, it is once a day, but in some instances, Rex has been shown taking another pill as soon as an "Hour of Power" runs out. One story states that Rex needed to wait another hour after the Miraclo wore off before taking another dose. Miraclo works specifically on the Tylers and may or may not work on others who take it. In one instance it worked on an animal, [[Dr. Mid-Nite]]'s owl [[Dr. Mid-Nite#Owls of Doctor Mid-Nite|Hootie]], as well as the villain [[Bane (comics)|Bane]].
+
+Rex and Rick both wore an hourglass around their necks given to them by the Hourman Android. It was filled with energized tachyons, time in its most basic form. It gives Rick "time vision", flashes of events that will happen exactly one hour later as well as the ability to touch those out of phase with normal time. The latter effect comes to anyone holding the hourglass. Rex displayed neither of these abilities.
+
+"Tyler" is often simply called an android, but is actually an intelligent machine colony (possibly a form of nanotechnology) created by Tylerco in the far future. If damaged, this colony can effortlessly multiply and repair. His software is encoded with the genetics of Rex Tyler, giving him all of Rex's memories. He originally possessed the Worlogog, which gave him complete control over time. He later gave all but a shard of it up, but not before he absorbed all of Batman's memories of the JLA.
+
+Though not as powerful as he was originally, Tyler still retained super strength, durability, and speed equivalent to a person using Miraclo. He was able to access an "Hour of Power", sixty minutes during which he had power over time. He can do many things with this control: move between [[picosecond]]s, travel through time, use his own time vision (which allows him to see a person's past and future, as well as their age) or make people and things younger, slow a person down until essentially frozen, create tunnels between different time periods, and share power with other individuals (though the amount of time that he provides them power for directly takes away from his sixty minutes). Tyler activates the Hour of Power at will and the hourglass on his chest keeps count of the time. There seems to be some doubt how often he can use his Hour of Power. Like the other Hourmans' use of Miraclo, sometimes Tyler is said to only have one Hour of Power a day, while at other times he simply must wait another hour to recharge before he can reactivate, and it is unclear if he must use that Hour of Power in one go or if he can spread it out over the course of the day.
+
+Tyler also has a timeship that he can summon from the timestream. It is connected to him and reacts to his thoughts. It normally appears as a [[Viking]]-style wooden sailing ship adorned with clocks, but it can change form as Tyler dictates to anything from a simple wooden [[skiff]] to a futuristic spaceship and also be used as a weapon, as when Hourman made a large hand out of it to trap [[Hank Hall|Extant]]. The ship can travel through time, to alternate timelines, or through [[hypertime]].
+
+==In other media==
+{{see also|Hourman (Rex Tyler)#In other media|Hourman (Rick Tyler)#In other media}}
+===Television===
+* The Rick Tyler incarnation of Hourman appears in ''[[Justice League Unlimited]]'' as a member of the [[Justice League]].
+* The Rex Tyler incarnation of Hourman appears in the ''[[Batman: The Brave and the Bold]]'' episode "The Golden Age of Justice", voiced by [[Lex Lang]].
+* In November 2013, a live-action Hourman series was revealed to have been in development at [[The CW]]. No progress on the series was made after its announcement.<ref>{{cite web|url=http://www.hollywoodreporter.com/live-feed/cw-developing-drama-based-dc-653261|title=The CW Developing Drama Based on DC Comics Hero 'Hourman'|last=Goldberg|first=Natalie|work=The Hollywood Reporter|date=November 5, 2013|access-date=May 19, 2016}}</ref>
+* The Rex Tyler incarnation of Hourman appears in ''[[Legends of Tomorrow]]'', portrayed by [[Patrick J. Adams]].<ref>{{cite magazine|url=http://www.ew.com/article/2016/05/19/legends-tomorrow-justice-society-season-2|title=Legends of Tomorrow to introduce Justice Society of America in season 2|last=Abrams|first=Natalie|magazine=[[Entertainment Weekly]]|date=May 19, 2016|access-date=May 19, 2016}}</ref> This version is the leader of the Justice Society of America before being killed by the [[Eobard Thawne (Arrowverse)|Reverse-Flash]].
+* Both the Rex and Rick Tyler incarnations of Hourman appear in ''[[Stargirl (TV series)|Stargirl]]'', portrayed by [[Lou Ferrigno Jr.]] and [[Cameron Gellman]] respectively.<ref>{{cite news |last=Mitovich|first=Matt Webb|title=Stargirl Casts Lou Ferrigno Jr. as Hourman, Founding Member of JSA|url=https://tvline.com/2018/12/13/stargirl-casts-hourman-lou-ferrigno-jr-dc-universe/|access-date=December 13, 2018 |work=Variety|date=December 13, 2018 |language=en}}</ref> These versions use a special hourglass amulet that gives them superpowers for one hour.
+
+===Film===
+* The Rex Tyler incarnation of Hourman makes a non-speaking appearance in the opening credits of the animated direct-to-DVD film ''[[Justice League: The New Frontier]]''.
+* A variation of Rex Tyler / Hourman appears in the animated film ''[[Justice Society: World War II]]'', voiced by [[Matthew Mercer]].<ref>{{Cite web|url=https://www.superherohype.com/movies/491395-stana-katic-and-matt-bomer-headline-dcs-animated-justice-society-film|title = Stana Katic and Matt Bomer Headline DC's Animated Justice Society Film|date = January 7, 2021}}</ref> This version is from [[Earth-Two|Earth-2]] and is a founding member of the Justice Society of America, who were active during their Earth's version of the titular war.
+* An Hourman movie was announced to be in development in March 2021 with Gavin James and Neil Widener to write the screenplay as well as [[Chernin Entertainment]] producing it along with [[Warner Bros.]] and [[DC Films]].<ref>{{Cite web|title=Warner Bros, DC Films And Chernin Teaming On 'Hourman' Film With Gavin James And Neil Widener Writing The Script|date=March 17, 2021|url=https://deadline.com/2021/03/warner-bros-d-c-films-chernin-hourman-film-gavin-james-and-neil-widener-1234716614/|url-status=live}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.comics.org Grand Comics Database]
+* [http://www.toonopedia.com/hourman1.htm Hourman] at [[Don Markstein's Toonopedia]]. 
+* [https://web.archive.org/web/20110113002946/http://www.comicsarchives.org/HOURMAN.html Comics Archives: JSA Fact File: Hourman I]
+* [http://archive.today/PovUj DC Indexes: Earth-2 Hourman I]
+{{Earth-Two}}
+{{Justice Society of America}}
+{{Justice League characters}}
+{{GoldenAge}}
+
+[[Category:Articles about multiple fictional characters]]
+[[Category:Comics characters introduced in 1940]]
+[[Category:DC Comics characters with superhuman strength]]
+[[Category:DC Comics characters who can move at superhuman speeds]]
+[[Category:DC Comics male superheroes]]
+[[Category:DC Comics titles]]
+[[Category:Earth-Two]]
+[[Category:DC Comics characters with accelerated healing]]
+[[Category:Fictional chemists]]
+[[Category:DC Comics metahumans]]
+[[Category:Golden Age superheroes]]

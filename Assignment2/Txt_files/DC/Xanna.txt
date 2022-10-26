@@ -1,0 +1,80 @@
+{{For|the Marvel Comics miniseries|Empyre}}
+{{Refimprove|date=September 2007}}
+{{Infobox comic book title
+|title = Empire
+|image = EmpireDCComics.jpg
+|imagesize = <!-- default 250 -->
+|caption = 
+|schedule = Monthly
+|limited = y
+|Superhero = y
+|publisher = [[Gorilla Comics]] ([[Image Comics]])<br />[[DC Comics]]<br />Thrillbent ([[IDW Publishing]])
+|date = '''Gorilla'''<br />May and September [[2000 in comics|2000]]<br />'''DC'''<br />September [[2003 in comics|2003]]&nbsp;– February [[2004 in comics|2004]]<br />'''Thrillbent/IDW'''<br />May [[2015 in comics|2015]]
+|startmo = September
+|startyr = 2003
+|endmo = February
+|endyr = 2004
+|issues = 6 (plus issue #0)
+|main_char_team = 
+|writers = [[Mark Waid]]
+|artists = 
+|pencillers = [[Barry Kitson]]
+|inkers = James Dean Pascoe
+|letterers = [[Comicraft]]
+|colorists = Badass
+|editors = [[Joey Cavalieri]]<br />[[Harvey Richards]]
+|creative_team_month = 
+|creative_team_year = 
+|creators = [[Mark Waid]]<br />[[Barry Kitson]]
+|TPB = Empire
+|ISBN = 1-4012-0212-8
+|TPB# = 
+|ISBN# = 
+|subcat = DC Comics
+|sort = Empire
+}}
+'''''Empire''''' is an [[American comic book]] [[Limited series (comics)|limited series]] created by [[Mark Waid]] and [[Barry Kitson]]. It was published between 2000 and 2004 by [[Gorilla Comics]] (an [[Image Comics]] [[imprint (trade name)|imprint]]) and [[DC Comics]], then sold to Thrillbent and [[IDW Publishing]] in 2015.
+
+The protagonist is a [[Doctor Doom]]-like [[supervillain]] named Golgoth who has defeated all [[superhero]]es and conquered the world, but who must now contend with internal power struggles.
+
+==Publication history==
+The series was originally published in 2000 by [[Gorilla Comics]], a company formed by Mark Waid, [[Kurt Busiek]] and several others, but the company folded after only two issues were produced. ''Empire'' was finished at [[DC Comics]] in 2003–2004, although it remains in its own fictional universe and is not part of the [[DC Universe]] (as yet). The already published two comic books were collected in a #0 and then the rest of the story was told over six issues.
+
+In April 2014, the rights to the series had reverted to Waid and Kitson and the series would return under Waid's [[Thrillbent]] comics platform.<ref>[http://www.comicbookresources.com/?page=article&id=52303 Waid's Thrillbent Launches an App; Revives "Empire"]</ref>
+
+==Characters==
+*'''Golgoth'''&nbsp;– the [[Emperor]] of the world. He is human and at the beginning of the series it is revealed that his wife is dead but his daughter is still alive. He is ruthless and ensures the loyalty of his Ministers through the use of a highly addictive booster drug called ''Eucharist''. His powers seemingly come from his armour; he is never in the series seen without his mask. His powers include hand blasts and teleportation, a technology that greatly helped him in his fight against the world.
+*'''Delfi'''&nbsp;– Golgoth's daughter resides in the Empire's citadel and is treated by the Emperor and its people as a secluded princess. Golgoth keeps his business and ruthlessness secret from her and she seemingly knows nothing about his real actions. She spends the majority of her day studying or reading books that are recommended to her by the Emperor. However, the girl reveals herself to be not as innocent as first suspected as the series progresses.
+*'''Xanna'''&nbsp;– Minister of Execution. She is the Emperor's chief assassin but, being bored with her position (because the Emperor has killed most of his enemies), she chooses to ponder the origins of the Eucharist drug.
+*'''Tumbril'''&nbsp;– Minister of Discipline. The Emperor's chief Torturer who uses pain and fear to extract information from the enemies of the Empire.
+*'''Lohkyn'''&nbsp;– The newly appointed Minister of Espionage and is the character whose point of view the reader sees through much of the series. He develops a secret sexual relationship with Delfi.
+*'''Lucullan'''&nbsp;– The Minister of War. He is known for frequently fumbling his words. He first met Golgoth in Australia 10 years prior to the events of issue #0.
+*'''Kafra'''&nbsp;– Head of the Ministry of Information. Kafra has been modified and bound to his workstation for the purpose of co-ordinating and editing the news of the world to best represent the intentions and goals of the Empire.
+*'''Sebirus'''&nbsp;– the Emperor's Domestic Advisor and an old friend of the Emperor. He knew the Emperor's wife before she died, and is close to Delfi. Due to his friendship and loyalty to the Emperor, he believes that he is the only indispensable member of the cabinet.
+*'''Endymion'''&nbsp;– A superhero and Golgoth's greatest opponent. He was reportedly slain by Golgoth some time before the beginning of the story.
+
+==Collected editions==
+The complete mini-series has been collected into a [[trade paperback (comics)|trade paperback]], ''Empire'' {{ISBN|1-4012-0212-8}},<ref>[http://dccomics.com/graphic_novels/?gn=3917 ''Empire'' trade details] at DC Comics.com</ref> and reprinted in ''Empire'' {{ISBN|978-1-63140-305-7}}.<ref>[http://www.idwpublishing.com/product/empire-vol-1/ ''Empire vol. 1. (2015 reprint)'' trade details] at IDW Publishing.com</ref>
+
+==Awards==
+* 2004: Nominated for "Best Limited Series" [[Eisner Award]]<ref>[http://www.hahnlibrary.net/comics/awards/eisner04.php 2004 Will Eisner Comic Industry Awards], the Comic Book Awards Almanac</ref>
+
+==Notes==
+{{Reflist}}
+
+==References==
+{{refbegin}}
+*{{gcdb series|id=7264|title=''Empire'' (Gorilla)}}
+*{{comicbookdb|type=title|id=2264|title=''Empire'' (Gorilla)}}
+*{{gcdb series|id=12091|title=''Empire'' (DC)}}
+*{{comicbookdb|type=title|id=3493|title=''Empire'' (DC)}}
+*{{gcdb series|id=1434614|title=''Empire'' (IDW)}}
+*{{comicbookdb|type=title|id=50622|title=''Empire'' (IDW)}}
+{{refend}}
+
+{{IDW Publishing}}
+
+[[Category:2000 comics debuts]]
+[[Category:Comics by Mark Waid]]
+[[Category:Image Comics limited series]]
+[[Category:IDW Publishing titles]]

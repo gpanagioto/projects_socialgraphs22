@@ -1,0 +1,83 @@
+{{short description|Marvel Comics superhero}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+| character_name = Peni Parker
+| image          = PeniParker.jpeg
+| imagesize      = 230
+| caption        = Peni Parker and SP//dr, from the cover of ''Edge of Spider-Geddon'' (Volume 1) #2 (October 2018), by Jake Wyatt
+| publisher      = [[Marvel Comics]]
+| creators       = [[Gerard Way]]<br />Jake Wyatt
+| debut          = ''[[Edge of Spider-Verse]]'' #5 (October 2014)
+
+| real_name      = Peni Parker
+| species        = {{Plainlist|
+* '''Peni:'''
+* Human Mutate
+* '''SP//dr:'''
+* [[Spider]] / [[Robot]]
+}}
+| homeworld      = Earth-14512
+| affiliations       = [[Spider-Verse|Spider-Army/Web-Warriors]]
+| IOM_partners       = {{Plainlist|
+* [[Miles Morales]]
+* [[Spider-Man]]
+* [[Spider-Man Noir]]
+* [[Spider-Ham]]
+* [[Spider-Woman (Gwen Stacy)|Spider-Gwen]]
+}}
+| powers         = {{Plainlist|
+* '''Peni:'''
+* Spider Sense 
+* Genius Intellect
+* Psychic Connection with SP//dr
+* Enhanced Strength in SP//dr
+'''SP//dr:'''
+* Psychic Connection with Peni
+}}
+}}
+'''Peni Parker''' is a [[superhero]] appearing in publications by [[Marvel Comics]]. She is an [[Alternative versions of Spider-Man|alternative version]] of [[Spider-Man]]. The character is depicted as a 14-year-old high school student who was adopted by [[Aunt May#Spider-Verse|Aunt May]] and [[Uncle Ben#Spider-Verse|Uncle Ben]] following the death of her father/caretaker. She pilots a psychically-powered mech suit built by her father known as the '''SP//dr''', which is partially controlled by a radioactive spider that also shares a psychic link with her.<ref name="eosv5">''Edge of Spider-Verse'' #5 (2014)</ref>
+
+Both Peni Parker and SP//dr have made scant appearances in media, with their most prominent being the animated film ''[[Spider-Man: Into the Spider-Verse]]'', in which the former is voiced by [[Kimiko Glenn]].
+
+==Publication history==
+Peni Parker and SP//dr were created by writer [[Gerard Way]] and artist Jake Wyatt, and first appeared in the ''[[Spider-Verse]]'' comic book ''Edge of Spider-Verse'' #5 in October 2014. According to Way, SP//dr "is {{sic|comprised |hide=y|of}} three vital components: a pilot, a machine, and a radioactive sentient spider acting as one half of the brain that makes it all work."<ref>{{cite web |title=Gerard Way Makes his Marvel Debut with Edge of Spider-Verse #5 {{!}} News {{!}} Marvel |url=https://www.marvel.com/articles/comics/gerard-way-makes-his-marvel-debut-with-edge-of-spider-verse-5 |website=Marvel Entertainment |access-date=18 January 2019 |language=en}}</ref><ref>{{cite web |title=Gerard Way Discusses His Marvel Debut with "Edge of Spider-Verse" |url=https://www.cbr.com/gerard-way-discusses-his-marvel-debut-with-edge-of-spider-verse/ |website=CBR |access-date=18 January 2019 |date=26 June 2014}}</ref> SP//dr’s story was continued in the ''[[Spider-Geddon]]'' comic book, ''Edge of Spider-Geddon'' #2 by Alberto Albuquerque.<ref>{{cite web |title=Jake Wyatt Departs Sp//dr-Focused Edge of Spider-Geddon #2 |url=https://www.cbr.com/jake-wyatt-exits-edge-of-spider-geddon/ |website=CBR |access-date=18 January 2019 |date=2 August 2018}}</ref>
+
+==Fictional character biography==
+===''Spider-Verse''===
+Peni's father acted as the original pilot of the SP//dr mecha, in which he protected New York from crime and other dangers. After his mysterious death, Peni is approached by her [[Aunt May#Spider-Verse|Aunt May]] and [[Uncle Ben#Spider-Verse|Uncle Ben]] to become the new pilot of the SP//dr. In order to do so however, she has to be bitten by the sentient radioactive spider which controls part of the suit. Soon after being bitten, Peni becomes the new protector of the city. Five years later, she battles her universe’s version of [[Mysterio#Spider-Verse|Mysterio]] - an obsessed fanboy of hers. Peni eventually teams up with her universe's version of [[Daredevil (Marvel Comics character)|Daredevil]] – who had known her father – to battle a group of criminals before being approached by [[Spider-Ham]] and [[Alternative_versions_of_Spider-Man#Old Man Spider (Earth-4)|Old Man Spider]] to join the Spider-Army to fight the [[Inheritors (comics)|Inheritors]].
+
+===''Spider-Geddon''===
+After the events of "[[Spider-Verse]]", Peni is approached by a girl named [[Eddie Brock|Addy Brock]], who wonders if she was really the SP//dr pilot. Peni ignores her, but Addy retorts by saying she is not as special as she thinks. At home, Peni tries to talk to Ben and May about being special, but she gets ignored. While improving the SP//dr's web shooters, she notices Addy walking in the base and follows her; only to find another mech-suit similar to the SP//dr, only in black and powered by a sym-engine called [[Alternative versions of Venom#Spider-Geddon|VEN#m]], with Addy as its pilot. Peni becomes furious at her aunt and uncle for not telling her about this. When a [[kaiju]]-like creature named [[Morbius the Living Vampire#Spider-Geddon|M.O.R.B.I.U.S.]] starts to drain the city's electrical energy, SP//dr goes after it, but is quickly defeated. In order to defeat M.O.R.B.I.U.S., Peni's aunt and uncle send VEN#m to defeat the creature. It is successful, but the creature causes VEN#m to malfunction; causing the mech suit to attain sentience and consume Addy. When May flies in to fix the problem manually, it consumes her as well. SP//dr confronts VEN#m, but the black mech suit overpowers her until she uses her improved web shooters to defeat it. However, she is too late to save her Aunt May and Addy, who have vanished from inside the suit. Following the battle, Peni and Ben have a heart to heart, but Spider-Ham re-appears to recruit Peni to help defeat the Inheritors once more during the events of ''[[Spider-Geddon]]''.
+
+==In other media==
+===Television===
+* SP//dr makes a non-speaking [[cameo appearance]] in the ''[[Ultimate Spider-Man (TV series)|Ultimate Spider-Man vs. the Sinister 6]]'' animated television series episode, "Return to the Spider-Verse" Pt. 4, as one of several alternate reality Spider-Men that the villainous [[Wolf Spider (comics)|Wolf Spider]] took hostage in order to siphon their powers before the "prime" [[Spider-Man]], [[Miles Morales|Kid Arachnid]], and [[Spider-Woman (Gwen Stacy)|Spider-Gwen]] arrive to save them.<ref>{{cite episode |title=Return to the Spider-Verse Pt. 4 |series=Ultimate Spider-Man |network=Disney XD |season=4 |number=19 |airdate=September 17, 2016}}</ref>
+
+===Film===
+* Peni Parker and SP//dr appear in the 2018 computer-animated superhero film ''[[Spider-Man: Into the Spider-Verse]]'', with [[Kimiko Glenn]] voicing the former.<ref name="MulaneyGlenn">{{cite web|url=https://screenrant.com/spider-man-into-spider-verse-spider-man-noir-spider-ham-peni-parker/|title=Into the Spider-Verse: Spider-Man Noir, Spider-Ham & Peni Parker Confirmed|website=Screen Rant|last=Freeman|first=Molly|date=July 20, 2018|access-date=July 20, 2018|archive-url=https://web.archive.org/web/20180721105707/https://screenrant.com/spider-man-into-spider-verse-spider-man-noir-spider-ham-peni-parker/|archive-date=21 July 2018|url-status=live|df=dmy-all}}</ref><ref name="PeniParkerDescription">{{cite news |last1=Peters |first1=Megan |title='Spider-Man: Into the Spider-Verse' Debuts Its Anime Heroine |url=https://comicbook.com/anime/2018/10/02/spider-man-into-the-spider-verse-anime-peni-parker/ |access-date=October 2, 2018 |work=Comicbook.com |date=October 2, 2018 |archive-url=https://web.archive.org/web/20181002185739/https://comicbook.com/anime/2018/10/02/spider-man-into-the-spider-verse-anime-peni-parker/ |archive-date=2 October 2018 |url-status=live |df=dmy-all }}</ref> This version of Peni takes on an [[anime]] aesthetic, is incredibly perky, and is shown eating numerous candies and snacks in her robot. SP//dr itself is a one-piece capsule cockpit topped with a dome-shaped one-way visor with the inside providing Peni with a HUD-style view to the world around her and the outside displaying various electronic faces, uses magnetically manipulated appendages for versatility, and holds various tools in its fingers. They arrive in [[Miles Morales]]'s universe along with [[Spider-Ham]] and [[Spider-Man Noir]] due to the [[Kingpin (character)|Kingpin]]'s machinations and join forces with them, among other "Spider-People", to return to their respective home dimensions. During the climax, SP//dr is severely damaged by the [[Scorpion (Marvel Comics)|Scorpion]], but Peni manages to rescue the radioactive spider within it before returning to her dimension to rebuild SP//dr.
+
+===Video games===
+* SP//dr appears as a playable character in the video game ''[[Spider-Man Unlimited (video game)|Spider-Man Unlimited]]''.
+* Peni and SP//dr appear as playable characters in the mobile game ''[[Marvel Contest of Champions]]''.
+
+===Merchandise===
+* [[Hasbro]] released a Build-A-Figure of the comics' version of SP//dr in the [[Marvel Legends]] toy line. <ref>[https://www.bigbadtoystore.com/Product/VariationDetails/75555 Spider-Man Marvel Legends Wave 8 Set of 7 Figures (SP//dr BAF)]</ref>
+* Hasbro also released a separate set of the animated Peni Parker and Sp//dr from Spider-Man: Into The Spider-Verse in a line devoted to that film. <ref>[https://www.amazon.com/Spider-Man-Spider-Verse-Parker-Scale-Figure/dp/B076KKX4XP/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1549158941&sr=1-1-catcorr&keywords=Sp%2F%2Fdr Spider-Man: Into The Spider-Verse SP//Dr and Peni Parker 6"-Scale Super Hero Figure Toy] [[Amazon (company)|Amazon.com]]</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://marvel.wikia.com/wiki/Peni_Parker_(Earth-14512) Peni Parker] at Marvel Wiki
+{{Spider-Man characters}}
+
+{{DEFAULTSORT:Parker, Peni}}
+[[Category:Incarnations of Spider-Man]]
+[[Category:Fictional characters from New York City]]
+[[Category:Comics characters introduced in 2014]]
+[[Category:Japanese superheroes]]
+[[Category:Marvel Comics child superheroes]]
+[[Category:Marvel Comics female superheroes]]
+[[Category:Fictional characters from parallel universes]]
+[[Category:Spider-Man characters]]
+[[Category:Japanese-American superheroes]]
+[[Category:Fictional female scientists]]

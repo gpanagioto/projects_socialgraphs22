@@ -1,0 +1,5 @@
+#REDIRECT [[Collector (character)]]
+
+{{Redirect category shell|
+{{R from move}}
+}}

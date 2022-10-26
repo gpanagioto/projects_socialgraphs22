@@ -1,0 +1,728 @@
+{{Short description|Marvel Comics fictional character}}
+{{Cleanup|reason=Please verify that split has been completed cleanly|date=August 2022}}
+{{Use dmy dates|date=April 2022}}
+{{Infobox comics set and title
+<!--Part of Wikipedia:WikiProject Comics-->
+<!--Character section-->
+|image=Excalibur (Vol. 4) No. 14 (Sauz Textless Variant).png
+|converted=y
+|caption= Textless variant cover of Excalibur (Vol. 4) #14, depicting Brian Braddock as Captain Avalon (left) and Betsy Braddock as Captain Britain (right). Art by Jesus Saiz.
+|character_name=Captain Britain
+|publisher=[[Marvel Comics]]
+|debut='''Brian Braddock:'''<br />''Captain Britain'' (Vol. 1) #1 (Oct. 1976)<br />'''Betsy Braddock::'''<br />''Captain Britain'' (Vol. 1) #8 (Dec. 1976)<br />Debut as Captain Britain:<br />''Captain Britain'' (Vol. 2) #13 (Jan. 1986)<br />'''Kelsey Leigh Kirkland:'''<br />''The Avengers'' (Vol. 3) #77 (Mar. 2004)<br />Debut as Captain Britain:<br />''The Avengers'' (Vol. 3) #80 (May 2004)
+|creators=[[Chris Claremont]] (writer)<br />[[Herb Trimpe]] (artist)
+|cat=super
+|subcat=Marvel Comics
+|hero=y
+|sortkey=Captain Britain
+<!--Series section-->
+| title = Captain Britain
+| cvr_image = Captain_Britain_Issue_1.jpg
+| cvr_caption = Cover to ''Captain Britain'' #1 (Oct. 1976). Art by [[Larry Lieber]] and [[Frank Giacoia]]
+| schedule = Weekly<br/>Monthly
+| ongoing = y
+| pub_series = [[Marvel UK]]
+| date = {{collapsible list|'''(vol. 1)'''<br>October 1976 - July 1977<br>'''(vol. 2)'''<br>January 1985 - February 1986}}
+| issues = {{collapsible list| '''(vol. 1)''': 39 and 1 ''Annual''<br>'''(vol. 2)''': 14}}
+| writers = {{collapsible list|'''(vol. 1)''':<br>[[Chris Claremont]]<br>[[Gary Friedrich]]<br>[[Larry Lieber]]<br>[[Len Wein]]<br>[[Bob Budiansky]]<br>Jim Lawrence<br>'''(vol. 2)''':<br>Jamie Delano<br>[[Mike Collins (comics)|Mike Collins]]<br>[[Alan Davis]]}}
+| pencillers = {{collapsible list|'''(vol. 1)''':<br>[[Herb Trimpe]]<br>[[John Buscema]]<br>Ron Wilson<br>Bob Budiansky<br>'''(vol 2.)''':<br>Alan Davis<br>Noel Davis}}
+| inkers = {{collapsible list|'''(vol. 1)''':<br>[[Fred Kida]]<br>[[Tom Palmer (comics)|Tom Palmer]]<br>[[Mike Esposito (comics)|Mike Esposito]]<br>Brian H. Moore<br>'''(vol. 2)''':<br>Alan Davis<br>Noel Davis}}
+| letterers = {{collapsible list|'''(vol. 1)''':<br>Irving Watanabe<br>Karen Mantlo<br>Steve Craddock<br>'''(vol. 2)''':<br>[[Annie Parkhouse]]}}
+| colorists = {{collapsible list|'''(vol. 1)''':<br>[[Marie Severin]]<br>[[George Roussos]]}}
+| editors = {{collapsible list|'''(vol. 1)''':<br>Larry Lieber<br>Neil Tennant<br>'''(vol. 2)''':<br>Chris Gill<br>[[Ian Rimmer]]}}
+
+}}
+
+'''Captain Britain''' is a title used by various [[superhero]]es in [[comic book]]s published by [[Marvel Comics]], commonly in association with [[Excalibur (comics)|Excalibur]]. The moniker was first used in publication by '''[[Brian Braddock]]''' in ''Captain Britain Weekly'' #1 by writer [[Chris Claremont]] and artist [[Herb Trimpe]],<ref name="CBW001">{{cite book |last1=Claremont |first1=Chris |title=Captain Britain Weekly #1 |date=13 October 1976 |publisher=Marvel Comics}}</ref> and is currently held by Brian's twin sister, '''[[Betsy Braddock]]'''.<ref name="EV0401">{{cite book |last1=Howard |first1=Tini |title=Excalibur (Vol. 4) #1 |date=30 October 2019 |publisher=Marvel Comics UK}}</ref> The concept of the [[Marvel Multiverse]], as well as the designation of the publisher's primary continuity as [[Earth-616]], originated in [[Alan Moore]]'s Captain Britain stories, which also established the multiversal [[#Captain Britain Corps|Captain Britain Corps]], members of which act as the champions of their own respective versions of the British Isles, which act as a nexus point between dimensions via [[Avalon (Marvel Comics)|Otherworld]].<ref name="D01">{{cite book |last1=Moore |first1=Alan |title=Daredevils #6 |date=June 1983|publisher=Marvel Comics UK}}</ref>
+
+==Publication history and fictional biography==
+In [[Earth-616|the main continuity of Marvel Comics]], three characters have used the Captain Britain title in regular publication.
+===Brian Braddock===
+{{main|Brian Braddock}}
+Created by Chris Claremont and Herb Trimpe, Brian Braddock first appeared in ''Captain Britain Weekly'' #1 in 1976, an anthology comic published exclusively in the United Kingdom by the Marvel Comics imprint known as [[Marvel UK]].<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=69}}</ref> The comic represented the first original content published by Marvel UK, who had previously only handled reprints of Marvel Comics' U.S. publications.<ref name="back29">{{cite journal|last=Lowrey|first=Nigel |title=The Saga of Captain Britain|journal=[[Back Issue!]]|issue=29|pages=35–43 |publisher=[[TwoMorrows Publishing]]|date=August 2008|location=Raleigh, North Carolina}}</ref> However, the new content was still created by Marvel's American staff (the initial team being [[London]]-born writer Chris Claremont, penciller [[Herb Trimpe]], and inker [[Fred Kida]]) under the supervision of U.S. editor [[Larry Lieber]], then shipped to the UK for publication.<ref name="back29"/> (In addition, the new 8-page Captain Britain installments in each issue of ''Captain Britain Weekly'' were supplemented by more reprinted material, featuring [[Nick Fury]] and the [[Fantastic Four]]).
+
+''Captain Britain'' went to black-and-white with issue #24 (23 March 1977) and was cancelled with issue #39 (6 July 1977), though the Captain Britain serial was immediately transferred to [[Spider-Man Comics Weekly|Marvel UK's Spider-Man comic]], which was then retitled ''[[Super Spider-Man & Captain Britain]]''.<ref name="back29"/> In 1978 Chris Claremont and [[John Byrne (comics)|John Byrne]] introduced Captain Britain to an American audience for the first time with ''[[Marvel Team-Up]]'' #65-66.<ref name="back29"/> The ''Marvel Team-Up'' story was reprinted as the last six installments of the UK serial, ending with ''Super Spider-Man & Captain Britain'' #253. From this point, the character was featured as a guest in a variety of titles, returning to regular publication in 1981 with a redesigned costume in issue #377 of the ''[[The Mighty World of Marvel|Marvel Superheroes]]'' anthology title, initially written by [[Dave Thorpe]] and illustrated by [[Alan Davis]]. After ''Marvel Superheroes'' #388 (August 1982), the series moved into a new monthly comic, ''[[The Daredevils]]'', written by [[Alan Moore]], who introduced the concept of the Captain Britain Corps and the broader Marvel Multiverse. When ''The Daredevils'' was canceled after eleven issues, Captain Britain stories were featured in to ''The Mighty World of Marvel'' (Volume 2), later moving to the new series ''Captain Britain Monthly''. The character was infrequently featured in American Marvel comics as well.
+
+Following the cancellation of Captain Britain's solo series, Claremont and Davis created the one-shot special ''Excalibur: The Sword is Drawn'' (December 1987), which served to launch the American monthly ''[[Excalibur (comics)|Excalibur]]'' in 1988, featuring an eponymous team which included Captain Britain. Marvel UK incorporated Captain Britain as the main attraction of their own group series, ''[[Knights of Pendragon]]'', which initially met with positive critical response and strong sales, but declined to the point of cancellation with issue #18.<ref name="back29"/> ''Excalibur'' Volume 1 ended with issue #125 in 1998. Brian was later featured as the team leader of ''[[New Excalibur]]'' in 2005, culminating with the ''[[X-Men: Die by the Sword]]'' [[Limited series (comics)|limited series]]. Following the [[Secret Invasion]] crossover, Brian headlined the 2008 series ''[[Captain Britain and MI: 13]]'', written by [[Paul Cornell]], which included some characters from ''New Excalibur'', as well as members of [[MI-13 (comics)|MI: 13]] who appeared in Cornell's ''[[Pete Wisdom|Wisdom]]'' limited series. The character later appeared as a regular character in the 2010-2013 ''Secret Avengers'' series, from issue #22 (April 2012) through its final issue #37 (March 2013), reappearing with the Avengers as a part of the ''Time Runs Out'' storyline.<ref>{{cite web|url=http://www.comicbookresources.com/?page=article&id=54436 |title=EXCLUSIVE: "Time Runs Out for The Avengers in Alessio's Variant Covers |publisher=Comic Book Resources |date=2014-07-29 |access-date=2016-07-22}}</ref>
+
+Following the 2019 [[X-Men]] franchise relaunch [[Dawn of X]], Betsy Braddock became the new Captain Britain following the Brian's corruption by Morgan le Fay, with Brian taking up the new mantle of Captain Avalon as defender of [[Avalon (Marvel Comics)|Avalon]].<ref>''Excalibur'' Vol. 4 #13. Marvel Comics.</ref>
+
+===Betsy Braddock===
+{{main|Betsy Braddock}}
+Brian's twin sister Elizabeth "Betsy" Braddock first appeared in ''Captain Britain'' #8 (Dec. 1976).<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=282}}</ref> Betsy's mutant power initially manifested itself in the form of precognitive dreams, later joining [[S.T.R.I.K.E.]]'s Psi Division.<ref>''Daredevils'' #3</ref> After being targeted for assassination and imprisoned in a concentration camp by [[Mad Jim Jaspers]], Betsy received aid from Victoria Bentley, who helped Betsy use the trauma to focus and strengthen her growing psychic powers. Following Brian's defeat at the hands of his counterpart from another reality, the sadistic Kaptain Briton, Betsy was able to kill the villain, and was convinced by her old flame Gabriel to replace Brian as a new Captain Britain until being blinded in a confrontation with [[Slaymaster]].<ref>''Captain Britain'' Vol. 2 #13. Marvel UK.</ref>
+
+In ''[[New Mutants|New Mutants Annual]]'' #2 (1986), Claremont integrated Betsy Braddock into the [[X-Men]] franchise. After being rescued by the [[New Mutants]] and taking up residence at their mutant-training academy, Braddock is formally invited to join the X-Men and officially adopts the codename [[Psylocke]], becoming an enduring fixture of the team over the next three decades.<ref name="issue2">''New Mutants Annual'', vol. 1 #2</ref> In a 1989 story,  an amnesiac Betsy is kidnapped by [[Hand (comics)|The Hand]], who brainwash her and physically alter her to take on an East Asian appearance.<ref name="issue256–8">''Uncanny X-Men'' #256–258 (1989)</ref> Under the name Lady Mandarin she briefly becomes the Hand’s supreme assassin. While her memories return, she retains her new appearance and skills, including the ability to manifest the focused totality of her telepathic power in the form of a "psychic knife." A 1993 story by [[Fabian Nicieza]]  would retroactively establish that Braddock’s changed appearance was the product of a [[body swap]] between Braddock and the assassin [[Kwannon (character)|Kwannon]],<ref name="issue31–32">''X-Men'', vol. 2 #31–32</ref> which lasted for 29 years of publication.
+
+In the Claremont-written ''[[X-Treme X-Men]]'' #2 (2001), the character dies, her [[comic book death]] lasting until 2005's ''Uncanny X-Men'' #455. During the 2018 [[Hunt for Wolverine]] storyline, the psychic vampire Sapphire Styx absorbs the entirety of Braddock’s soul, leaving her body dead.<ref name="issue1">Hunt for Wolverine: Mystery in Madripoor (2018)</ref> After destroying Sapphire Styx from the inside with assistance from a fragment of Wolverine’s soul, Braddock reconstitutes her original body with the villain’s remaining soul power.<ref name="issue4">Hunt for Wolverine: Mystery in Madripoor (2018)</ref>
+
+During the [[Dawn of X]], Braddock subsequently took up her brother Brian’s former title of Captain Britain, forming a new iteration of [[Excalibur (comics)|Excalibur]] with [[Apocalypse (comics)|Apocalypse]], [[Gambit (Marvel Comics)|Gambit]], [[Rogue (comics)|Rogue]], [[Jubilee (comics)|Jubilee]], and [[Rictor]]. In the limited series ''Knights of X'', Betsy was trapped in Otherworld alongside several of her Excalibur teammates, as well as [[Shatterstar]], Bei the Blood Moon, and [[Rachel Summers]]; cut off from the security of Krakoan resurrection, the new team tasked themselves with restoring the rightful order and rescuing desperate mutants being targeted in the realm.
+
+===Kelsey Leigh Kirkland===
+{{main|Lionheart (Marvel Comics)}}
+Created by [[Chuck Austen]] and [[Olivier Coipel]], Kelsey Leigh Kirkland first appeared in ''[[The Avengers (comic book)|The Avengers]]'' #77-81 (March–June 2004), in which the character sacrifices her life to protect [[Captain America]], only to be resurrected as the new Captain Britain, but with the condition that she does not reveal her identity to her children. She went on to appear in Austen and [[Scott Kolins]]' ''[[Avengers (comics)|The Avengers]]'' #82-84 (July–Aug. 2004) and Austen, [[Allan Jacobsen (comics)|Allan Jacobsen]] and C.P. Smith's ''The New Invaders'' #0 (Aug. 2004); in a story-line which begins with her getting angry at her own funeral causing her new teammates to begin to suspect her true identity. She made a brief supporting appearance in [[Brian Michael Bendis]] and [[David Finch (comics)|David Finch]]'s ''[[Avengers (comics)|The Avengers]]'' #500-501 (Sept.–Oct. 2004); in which she is hospitalized in critical condition following the initial battle. Bendis and [[Michael Gaydos]] concluded her run in the ''Avengers'' with a brief appearance in ''Avengers Finale'' (Jan. 2005); in which she announces her intention to return home.
+
+Kirkland adopted the codename Lionheart in 2005's [[New Excalibur]], seeking revenge and blaming Brian Braddock for not warning her of the consequences of choosing the Sword of Might and for losing her children.<ref>''New Excalibur'' #4</ref> After being manipulated by Albion, a supervillain who also dislikes Captain Britain, Kirkland is complicit in plunging Britain into a pre-industrial state. Seeing the error of her ways, she joins forces with New Excalibur and helps defeat Albion and his Shadow Captains, restoring Britain to its former state. In acknowledgment of her help against Albion, the Government gives her a second chance working with them, and she is reunited with her family.
+
+===Other===
+[[Modred the Mystic]] briefly assumed the mantle of Captain Britain by syphoning off Braddock's energies in an effort to defeat Merlyn.<ref>''Captain America'' #305. Marvel Comics.</ref>
+
+==Captain Britain Corps==
+{{Infobox comics organization
+<!--Wikipedia:WikiProject Comics-->
+|image=
+|imagesize=250
+|caption=  Hauptmann Englande of Captain Britain Corps
+|publisher=[[Marvel Comics]]
+|debut=''[[The Mighty World of Marvel]]'' #13 (June 1984)
+|creators=[[Alan Moore]]<br />[[Alan Davis]]
+|base=[[Avalon (Marvel Comics)|Starlight Citadel, Avalon]]
+|members=[[Betsy Braddock|Captain Britain (Betsy Braddock)]]<br />[[Saturnyne]]
+<br />''(see [[#Membership|member list]])''
+|cat= teams
+|subcat=Marvel Comics
+|hero=y
+|villain=
+|sortkey=Captain Britain Corps
+|}}
+
+The '''Captain Britain Corps''' is a fictional league of [[super-heroes]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The characters are all known as, or appear as an alternative version of, Captain Britain, each coming from an [[Marvel Comics Multiverse|alternative reality]]. Created by writer Alan Moore and artist Alan Davis, the corps first appeared in ''The Daredevils'' #6 (June 1983). Founded by [[Merlyn (Marvel Comics)|Merlyn]], his daughter [[Roma (comics)|Roma]] and Sir James Braddock, the organization is tasked with defending the multiverse, with each member protecting their own reality from their respective dimensional equivalent the British Isles, and was powered by the friction between dimensions. In addition to the Captains themselves, the organization has included administrators such as Merlyn, Roma, and Saturnyne.
+
+===History===
+Merlyn and Roma had arranged for each chosen member of the Corps to gain superpowers, often using unscrupulous means. The first published gathering of the Corps in their entirety occurred at Merlyn's funeral.<ref>''The Mighty World of Marvel'' (Vol. 2) #13</ref> Following Merlyn's funeral, Roma took control over the corps, making Saturnyne her subordinate and bringing Corps members to the Starlight Citadel for training. Roma also tasked Corps members to take turns in defending Otherworld.{{Issue|date=April 2009}} Corps members would continue to gather in various stories, such as the wedding of [[Meggan (character)|Meggan]] and Braddock,<ref name=":0" /> the conclusion of the Cross-Time Caper){{Issue|date=April 2009}}, and their assignment as the jury in Braddock's trial for breaching the Corps Code of Conduct.{{Issue|date=April 2009}} The corps rarely fought as a unit in these stories, with an exception occurring when Roma dispatched them against [[Franklin Richards (Fantastic Four)|Franklin Richards]] and the [[Fantastic Four]], though it is suggested that this attack was a ruse to let [[Alysande Stuart|Caledonia]], a former prisoner of Roma's starlight citadel, infiltrate the Fantastic Four's home as Franklin's nanny to prepare them for their forthcoming battle with [[Abraxas (comics)|Abraxas]].{{Issue|date=April 2009}}
+
+The Corps was nearly wiped out by Mastermind, a villainous computer belonging to Brian Braddock, and a group of mutated children known as the [[Jaspers' Warp#Warpies|Warpies]] (victims of the [[Jaspers' Warp]]), who were once the wards of Captain UK. Roma stepped down as omniversal guardian, giving the title to Brian Braddock, who became King of Otherworld and rebuilt the Corps. Another wave of destruction tore through Otherworld due to [[Scarlet Witch|Wanda Maximoff]]'s alterations to reality in ''[[House of M]]'', which nearly led to Roma and Saturnyne erasing that universe, however due to Meggan's sacrifice, the heroes are able to seal the tear.<ref name=tuxm1>''The Uncanny X-Men'' #462-465. Marvel Comics.</ref> The corps rebuilt its ranks but once again it came under attack, this time from Mad Jim Jaspers and corps members which he began to turn into [[Fury (Marvel Comics)|Fury]]s.{{Issue|date=April 2009}} The end of the battle saw Roma dead and most of the corps along with her. [[Saturnyne]] appointed Albion leader and told Captain Britain to stay and keep an eye on his reality as they rebuilt the corps once again.<ref name=dbts5>''[[X-Men: Die by the Sword]]'' #5. Marvel Comics.</ref> During the events of "Time Runs Out", the Captain Britain Corps investigate universal Incursions which are causing the destruction of various realities, and the deaths of twenty Corpsmen. After the members of the Corps capture a Mapmaker, the [[Beyonders|Ivory Kings]] send their entire forces to overrun the Starlight Citadel, destroying the entire Corps. Saturnyne is able to teleport Brian Braddock to safety, leaving him as the Corps' only survivor.<ref>''New Avengers'' vol. 3 #30. Marvel Comics.</ref> Following the reestablishment of the Multiverse, Brian is still the only member of the Captain Britain Corps alive. 
+
+When the mutant nation of Krakoa came into conflict with Otherworld, Brian was corrupted by Morgana Le Fey and his sister Braddock claimed the title of Captain Britain. After their brother Jamie took Otherworld's throne as king, he used his omega-level mutant abilities to break and rebuild reality by using Earth-616 as the foundation, changing several details and allowing the new reality to "backfill" justifications its existence. After fracturing reality once again by killing Betsy, Jamie restores the numbers of the Incursion crisis, which historically, were made up of Braddock family members across the Omniverse (usually variants of Brian), however this new reality chooses to use Betsy's compatriots in the new iteration of Excalibur (Gambit, Jubilee, Rictor and Rogue) as templates for new Captains Britain, each of which is given a version of the Amulet of Right.{{fact|date=August 2022}} During ''[[X of Swords]]'', in which Betsy Braddock wielded the Starlight Sword, a blade forged from the nexus of reality itself, Braddock was seemingly killed in battle by Isca the Unbeaten, shattering the sword and Braddock herself; Saturnyne used the broken pieces to reconstitute the corps.<ref name="XOSD">''X of Swords: Destruction'' (Nov. 2020)</ref>
+
+===Membership===
+The Captain Britain Corps spans the multiverse; the exact number of members, most of whom are unnamed, is unclear. While many members are simply named Captain Britain, others use names which take an alternate approach to referencing their role as champion of the British isles (such as Captain U.K. or Lady London), while others' names may be reflective of the specific characteristics of their respective universes (such as Hauptmann Englande or The Violet Swan) or individual circumstances (such as Spider-UK). Of the corps members depicted in publication, most, but not all, have been [[Brian_Braddock#Other_versions|alternate versions of Brian]] or [[Betsy_Braddock#Other_versions|Betsy Braddock]]. Although members usually refer to the organization simply as "The Corps" or "The Captain Britain Corps," others have attached their own names, such as Crusader X referring to them as "The Crusader X Corps."
+
+====Current members====
+These individuals are known in-story to be current members of the Corps as of the conclusion of ''X of Swords''.<ref name="XOSD" />
+<!--Please fill in as information becomes available, preferably with references-->
+{| class="wikitable" width=100%
+!width=20%| Title (real name)
+!width=10%| Universe of origin
+!width=20%| First appearance as member of corps
+!width=45%| Additional notes
+|-
+| Captain Britain (Beth Braddock)
+| Earth-6
+|
+|
+|-
+| Justicar Druidica
+| Earth-14
+|
+|
+|-
+| Captain Britain (Elizander Braddock)
+| Earth-15
+|
+| 
+|-
+| Captain Amphibian
+| Earth-22
+|
+|
+|-
+| Alpha Briton
+| Earth-33
+|
+|
+|-
+| Sister Britain
+| Earth-65
+|
+|
+|-
+| Captain Krakoica
+| Earth-78
+|
+|
+|-
+| The Green Woman
+| Earth-99
+|
+|
+|-
+| Captain Angland
+| Earth-305
+|
+|
+|-
+| Captain Albion
+| Earth-523
+|
+|
+|-
+| [[Betsy Braddock|Captain Britain (Betsy Braddock)]]
+| Earth-616
+| ''Captain Britain'' (vol. 2) #13 (temporary); ''Excalibur'' (vol. 4) #1 (permanent)
+|
+|-
+| Captain Britain (Liz Braddock)
+| Earth-812
+|
+|
+|-
+| Captain UK
+| Earth-839
+|
+|
+|-
+| Captain Bretland
+| Earth-904
+|
+|
+|-
+| Captain Granbretan
+| Earth-1812
+|
+|
+|-
+| Captain Plumdragon
+| Earth-2112
+|
+|
+|-
+| High Priestess Celtia
+| Earth-2113
+|
+|
+|-
+| Crusader X (Bran Braddock)
+| Earth-2122
+|
+|
+|-
+| Centurion Britannia
+| Earth-4100
+|
+|
+|-
+| Captain Baboon
+| Earth-8101
+|
+|
+|-
+| The Violet Swan
+| Earth-8311
+|
+|
+|-
+| Elspeth Braddock
+| Earth-13059
+|
+|
+|-
+| Britannica Rex
+| Earth-99476
+|
+|
+|-
+|}
+
+====Former members====
+These individuals are known in-story to have left the Corps or died.
+<!--Please fill in as information becomes available, preferably with references-->
+{| class="wikitable" width=100%
+!width=20%| Title (real name)
+!width=10%| Universe of origin
+!width=20%| First appearance as member of corps
+!width=45%| Additional notes
+|-
+|Brother Brit-Man (Gilles Weill)
+|Earth-65
+|''Excalibur'' vol. 1 #44
+|Killed by a [[Fury (Marvel Comics)|Fury]].<ref name=dbts3/>
+|-
+|Yeoman U.K. (Brion Burdack)<ref name="OHOTMUv2"/>
+|Earth-148 (''Ee'rath'')
+|''Excalibur'' #1
+|He was a member of an [[Excalibur (comics)#Excalibur (Earth-148)|alternative Excalibur]]. After dying, he returned briefly as a reanimated corpse<ref>''Excalibur'' #45</ref>
+|-
+|Captain Britain (Brian Braddock)
+|[[House of M|Earth-58163]]
+|''Uncanny X-Men'' #462
+|Ruled Britain as King in the [[House of M]].
+|-
+|Hauptmann Englande
+|Earth-597<ref name="OHOTMUAU"/>
+|''Excalibur'' vol. 1 #9
+|He was a member of [[Excalibur (comics)|Lightning Force]]. 
+|-
+|[[Brian Braddock|Captain Avalon (Brian Braddock)]]
+|[[Earth-616]]
+|''Captain Britain Comics'' #1
+|Brian, son of Sir James Braddock, is from the main [[Marvel Universe]] and a former ruler of [[Otherworld (Marvel Comics)|Otherworld]]. He was the first character to use the Captain Britain title in publication and has been the leader of three incarnations of Earth-616's [[Excalibur (comics)|Excalibur]] as well as the Corps has worked with [[MI-13 (comics)|MI: 13]].<ref>''[[Captain Britain and MI: 13]]'' #1 (May 2008)</ref> He currently uses the title Captain Avalon as defender of [[Avalon (Marvel Comics)|Avalon]].<ref>''Excalibur'' Vol. 4 #13. Marvel Comics.</ref>
+|-
+|[[Lionheart (comics)|Lionheart (Kelsey Leigh Shorr)]]
+|Earth-616
+|''[[Avengers (comics)|Avengers]]'' vol. 3 #77
+|She is from the main [[Marvel Universe]] and was given the role as Captain Britain for a brief time before becoming Lionheart. She is a former member of the [[Avengers (comics)|Avengers]] and currently lives in her home reality.
+|-
+|Captain Empire (Robert Doherty)
+|Earth-741
+|''Mighty World of Marvel'' vol. 2 #13 (June 1984)
+|He wore a [[pith helmet]] and a monocle.
+|-
+|Captain Airstrip-One (George Smith)
+|Earth-744
+|''Daredevils'' #7 (July 1983, mentioned); ''Mighty World of Marvel'' vol. 2 #13 (June 1984) 
+|He appeared in a one-off solo strip written by Alan Moore for the small press title ''Mad Dog'' in 1986.<ref>''Mad Dog'' #10 available [http://home.insightbb.com/~fourcolorheroes4/free/CaptainAirstripOne.pdf online]</ref> His Earth is portrayed as a similar type of world to that of [[George Orwell|Orwell]]'s novel [[Nineteen Eighty-Four|1984]]. He was among the members of the Corps slaughtered by Mastermind and the Warpies.<ref>[http://www.marvunapp.com/Appendix/airstrip1cp.htm Captain Airstrip-One] at the Appendix to the Handbook of the marvel Universe</ref>
+|-
+|Kaptain Briton (Byron Brad-Dhok)
+|Earth-794<ref name="OHOTMUAU"/>
+|''Mighty World of Marvel'' vol. 2 #13 (June 1984)
+|He was killed by [[Betsy Braddock (character)|Betsy Braddock]]<ref>''Captain Britain'' vol. 2 #7</ref>
+|-
+|Captain Britain (Brian Braddock) 
+|[[Days of Future Past|Earth-811]]<ref name="OHOTMUAU"/>
+|''Excalibur'' vol. 1 #66
+|He was killed by [[Sentinels (comics)|Sentinels]].<ref name=":0">''Excalibur'' vol. 1 #125</ref>
+|-
+|[[Spider-UK|Spider-UK (Willy Badrock)]]
+|Earth-833
+|''Edge of Spider-Verse'' #2 (September 2014)
+|A former member of the Captain Britain Corps, he became the leader of the [[Web Warriors]] during the ''[[Spider-Verse]]'' event, but dying in ''[[Spider-Geddon]]''.
+|-
+|Captain Commonwealth (Doug Andrews)
+|Earth-920
+|''Daredevils'' #7 (July 1983, mentioned); ''Mighty World of Marvel'' vol. 2 #13 (June 1984) 
+|He is killed by [[Dr. Doom]]<ref name="XMRSCE3">''X-Men/Red Skull: Chaos Engine: Book Three''</ref>
+|-
+|Captain Britain (Brian Braddock)
+|Earth-1189<ref name="OHOTMUAU"/>
+|''Excalibur'' vol. 1 #15
+|His world was devastated by nuclear war until he was killed in battle.
+|-
+|Captain Marshall (Bryon Bradek)
+|Earth-1193
+|''Excalibur'' #12
+|Died years before the ''Cross-Time Caper'' during which his costume was handed over to Earth-616's Captain Britain.
+|-
+|Captain Granbretan (Paul Peltier)
+|Earth-1812
+|''Captain Britain'' vol. 2 #13<ref>''Captain Britain'' vol. 2 #13 (text story) - written by [[Grant Morrison]] and illustrated by [[John Stokes (artist)|John Stokes]], available [http://homepage.ntlworld.com/fish1000/index/lostandfound.htm#granbretan online] {{webarchive |url=https://web.archive.org/web/20080612150042/http://homepage.ntlworld.com/fish1000/index/lostandfound.htm#granbretan |date=12 June 2008 }}</ref>
+|He eventually attempted to retire due to dissatisfaction with the Corps, but was forced to continue his activities for a brief time by his suit even past his own death.<ref>[http://www.marvunapp.com/Appendix2/captaingranbretan.htm Captain Granbretan] at the Appendix to the Handbook of the Marvel Universe</ref>
+|-
+|Captain Wales (Huw Gruffydd)
+|Earth-6200
+|''X-Men/Red Skull: Chaos Engine: Book Three''
+|Killed by Dr. Doom<ref name="XMRSCE3"/> and was posthumously honored by the Corps for his actions.
+|-
+|Lord Goldstar (Seamus O'Rourke)<ref name="OHOTMUv2"/>
+|Earth-7123<ref name="OHOTMUv2"/>
+|''[[X-Men: Die by the Sword]]'' #3
+|Not seen, only mentioned as being present. Presumably died along with the majority of the Captain Britain Corps members present for the battle against Mad Jim Jaspers.
+|-
+|Captain Prydain (Lloyd Thomas)<ref name="OHOTMUv2"/>
+|Earth-7580<ref name="OHOTMUv2"/><ref name="MAML"/>
+|''New Excalibur'' #18
+|Traveled to Earth-70518<ref name="MAML" /> to defeat alien slavers before being killed by Albion.<ref>''New Excalibur'' #18</ref>
+|-
+|Cap'n Brit (Barry Braddock)
+|Earth-8910<ref name="OHOTMUAU">''Official Handbook of the Marvel Universe: Alternate Universes (2005)''</ref>
+|''Excalibur'' vol. 1 #14
+|He was from a world that was devastated by [[Galactus]] and repopulated by the [[Impossible Man]].
+|-
+|Captain Britain (Brian Braddock)
+|Earth-9620
+|''Excalibur'' vol 1. #94
+|
+|-
+|Striker Llewellyn (Owein Llewellyn)
+|Earth-20712
+|''X-Men: Die By The Sword'' #1
+|One of the first of the Corps to encounter Mad Jim Jaspers on his return, who transformed him into a [[Fury (Marvel Comics)|Fury]].<ref name=dbts3/>
+|-
+|Lord High Justicer (Brian Braddock)
+|Earth-23238
+|''Excalibur'' #23
+|He was Chief Justicer Bull's superior.
+|-
+|Flight Leader (Dan Hampson)<ref name="OHOTMUv2"/>
+|Earth-59462<ref name="OHOTMUv2"/>
+|''Uncanny X-Men'' #462
+|He was assimilated by Sir James Jaspers into a new [[Fury (Marvel Comics)|Fury]].<ref name=dbts3>''[[X-Men: Die by the Sword]]'' #3</ref>
+|-
+|Captain Britannia (Elsbeth Braddock)
+|Earth-79596<ref name="MAML">[http://www.marvunapp.com/master/capbcapz.htm Marvel Appendix - Master List (capb-capz)]</ref>
+|''Exiles'' #97
+|Mentioned by [[Alternative versions of Kitty Pryde#Exiles|Cat Pryde]].
+|-
+|Sir James Braddock<ref name="CBC14">''Captain Britain Comics'' #14</ref>
+|[[Avalon (Marvel Comics)|Otherworld]]<ref>[http://www.marvunapp.com/Appendix/braddocksirj.htm Sir James Braddock - Marvel Appendix]</ref>
+|''Captain Britain'' vol. 2 #7 (July 1985)
+|Member of the original Corps,<ref>''Excalibur'' vol. 2 #2 (March 2001) - Ben Raab (writer), Pablo Raimondi (pencils), Walden Wong (inks), Ralph Macchio (editor)</ref> Braddock was sent by Merlyn to [[Earth-616]] shortly after the end of [[World War II]] to replace its James Braddock and father a hero.<ref>''Captain Britain'' vol 2. #1 (January 1985) - Jamie Delano (writer), Alan Davis (artist), Ian Rimmer (editor)</ref> He fathered [[Jamie Braddock|Jamie]], Brian and [[Betsy Braddock (character)|Betsy Braddock]] and was a member of the [[Hellfire Club (comics)|Hellfire Club]] (London) before he was killed in an explosion.<ref name="CBC14"/>
+|-
+|Alecto
+|[[Avalon (Marvel Comics)|Otherworld]]
+|''X-Men/Dr. Doom Chaos Engine: Book One'' (2000)
+|Formerly the personal guard of Roma at the Starlight Citadel.
+|-
+|Gorka
+|[[Avalon (Marvel Comics)|Otherworld]]
+|''X-Men/Dr. Doom: Chaos Engine: Book One''
+|He was a personal guard of Roma at the Starlight Citadel.
+|-
+|[[Merlyn (Marvel Comics)|Merlyn]]
+|[[Avalon (Marvel Comics)|Otherworld]]
+|''Captain Britain'' #1 (October 1976)
+|Merlyn began safeguarding the total of all universes in existence when he established himself as Omniversal Guardian and founded the Corps. He later went mad and his daughter usurped his position.
+|-
+|[[Roma (comics)|Roma]]
+|[[Avalon (Marvel Comics)|Otherworld]]
+|''Captain Britain'' #1 (October 1976)
+|Founding of the Corps alongside her father [[Merlyn (Marvel Comics)|Merlyn]] and Sir James Braddock. Took the position of Omniversal Guardian after her father went mad but was later killed during an attack on the Starlight Citadel.<ref name=dbts5/>
+|-
+|}
+
+====Unconfirmed members====
+Due the impact of events such as ''[[X-Men: Die by the Sword]]'' on large portions of corps members, it is unclear whether certain characters previously confirmed as members are still active or alive in-story. Additionally, other characters have been referred to by the Captain Britain title without any positive confirmation that they are or have ever been associated with the corps.
+
+<!--Please fill in as information becomes available, preferably with references-->
+{| class="wikitable" width=100%
+!width=20%| Title (real name)
+!width=10%| Universe of origin
+!width=20%| First appearance as member of corps
+!width=45%| Additional notes
+|- 
+| [[Saturnyne|Saturnyne (Opal Luna Saturnyne)]]
+| Earth-9<ref name="OHOTMUAU" />
+| ''Mighty World of Marvel'' (vol. 1) #381 (Jan 1982)
+| Was the Omniversal Majestrix; overseer of the Captain Britain Corps. Since losing that position she has stayed with the Corps.
+|- 
+| Captain U.K. (Linda McQuillan)
+| [[Earth-238]]
+| ''Marvel Super Heroes'' #388<br />(August 1982)
+| The sole survivor of Earth-238, Linda was transported to Earth-616 to escape the Fury and eventually helped destroy it. Afterwards, Roma assigned her to Earth-794 (to deal with Opul Lun Sat-Yr-Nin)<ref>''Captain Britain Monthly'' #14</ref> and later reassigned her to Earth-839.<ref>''Excalibur'' #44</ref>
+|- 
+| Captain Angleterre (Paul-Henri Spencer) 
+| Earth-305
+| ''Mighty World of Marvel'' (vol. 2) #13 (1984)
+| 
+|- 
+| Captain England (Henric Lockwood)
+| Earth-522<ref name="OHOTMUAU" /> ("The Hub")
+| ''Daredevils'' #6 (1983)
+| He is from The Hub, where the trial of [[Saturnyne]] took place and often carries a staff.
+|- 
+| Captain Albion (Katherine Huggen) 
+| Earth-523
+| ''Daredevils'' #6 (1983)
+| 
+|- 
+| [[Spider-UK]] (William "Billy" Braddock)
+| Earth-833
+| ''The Amazing Spider-Man'' (vol. 3) #7
+| A British version of Spider-Man.<ref>''The Amazing Spider-Man'' vol. 3 #7</ref>
+|- 
+| Kommandant Englander (Helga Geering) 
+| Earth-846
+| ''Mighty World of Marvel'' (vol. 2) #13 (1984)
+| She is from a German dominated world.
+|- 
+| Cap'n Saxonia (Frideswide Lawley) 
+| Earth-924
+| ''Excalibur'' (vol. 1) #49 (1992)
+| Also a member of Calibur alongside that dimension's versions of Spider-Girl, Iron Fist, Hulk and Dr. Strange. She was sometimes known as Captain Saxonia.
+|- 
+| Captain Britain (Meggan) 
+| Earth-1189[23]
+| ''Excalibur'' (vol. 1) #44 (1991)
+| Her world was devastated by war between superheroes and villains. She took over the mantle after her version of Braddock died<ref>''Excalibur'' #15</ref> and became part of the Corps.
+|- 
+| Captain Cymru (Morwen Powell) 
+| Earth-1282
+| ''Excalibur'' (vol. 1) #24 (1990)
+| One of the few known Captains who uses a gun with Plastrix.
+|- 
+| Captain Britain (Kymri)
+| Earth-1289<ref name="OHOTMUAU" />
+| ''Excalibur'' (vol. 1) #16
+| Never confirmed as official Corps member.  She and [[Lockheed (comics)#Earth-1289|Lockheed]] jointly took the mantle of Captain Britain. Her planet was conquered and her people enslaved. She was bound to Kyllian as his personal hound by Tullamore Vogue.
+|- 
+| [[Lockheed (comics)#Earth-1289|Captain Britain (Lockheed)]]
+| Earth-1289<ref name="OHOTMUAU" />
+| ''Excalibur'' (vol. 1) #16
+| Never confirmed as official Corps member.  He and Kymri jointly took the mantle of Captain Britain.
+|- 
+| Chevalier Bretagne (René de Bragelonne) 
+| Earth-1508
+| ''Excalibur'' (vol. 1) #24 (1990)
+| He wears a purple and green suit similar to a Musketeer.
+|- 
+| [[Brian_Braddock#Ultimate_Marvel|Captain Britain (Brian Braddock)]]
+| [[Ultimate Marvel|Earth-1610]]
+| ''Ultimate X-Men'' #19 (2002)
+| Never confirmed as official Corps member.  ''Ultimate Marvel'' version of character.
+|- 
+| Maasai Marion (Sadiki Namuntaya) 
+| Earth-1857
+| ''Excalibur'' (vol. 1) #43 (1991)
+| 
+|- 
+| Crusader X (Bran Braddock) 
+| Earth-2122
+| ''Excalibur'' (vol. 1) #21 (1990)
+| 
+|- 
+| [[Brian_Braddock#Marvel_Zombies|Captain Britain (Brian Braddock)]]
+| [[Marvel Zombies|Earth-2149]]
+| ''Marvel Zombies'' (vol. 1) #2 (2006)
+| Never confirmed as official Corps member. Was infected with the zombie virus by Quicksilver.<ref name="MAML">[http://www.marvunapp.com/master/capbcapz.htm Marvel Appendix - Master List (capb-capz)]</ref>
+|- 
+| Right Honorable Captain Winston Faneshawe-Sinclair 
+| Earth-3208
+| ''Excalibur'' (vol. 1) #44 (1991)
+| 
+|- 
+| Captain Britain (Brian Braddock) 
+| Earth-3913
+| ''Excalibur'' (vol. 1) #44 (1991)
+| He was accused of murdering a police officer.
+|- 
+| Centurion Britannus (Thracius Scipio Magnus) 
+| Earth-4100
+| ''Excalibur'' (vol. 1) #24 (1990)
+| His costume resembles that of the Roman Empire. He invokes Mithras, a god worshiped in both India and Ancient Rome.
+|- 
+| Captain Colonies (Stephen Rogers)<ref name="OHOTMUAU" />
+| Earth-4103
+| ''Excalibur'' (vol. 1) #44 (1991)
+| 
+|- 
+| Captain Britain (Brian Braddock) 
+| Earth-4400
+| ''Exiles'' (vol. 1)  #43 (2004)
+| 
+|- 
+| Madam Sussex (Francesca Grace)<ref name="OHOTMUAU" /> 
+| Earth-4811
+| ''Excalibur'' (vol. 1) #44 (1991)
+| 
+|- 
+| Major Commonwealth (Byron Falsworth)<ref name="OHOTMUAU" /> 
+| Earth-4904
+| ''Mighty World of Marvel'' (vol. 2) #13 (1984)
+| 
+|- 
+| Mercian Marsh'al (C'rta M'ller) 
+| Earth-5511
+| ''Excalibur'' (vol. 1) #44 (1991)
+| 
+|- 
+| Anglo-Simian (Joseph Cornelius) 
+| Earth-5905
+| ''Excalibur'' (vol. 1) #44 (1991)
+| 
+|- 
+| Skrull Lord: Colony UK7 (Kl'rt)<ref name="OHOTMUAU" /> 
+| Earth-6309)<ref name="OHOTMUAU" />
+| ''Excalibur'' (vol. 1) #49 (1992)
+| 
+|- 
+| Samurai Saxonai (Kendra Matsumoto) 
+| Earth-6315
+| ''Excalibur'' (vol. 1) #44 (1991)
+| 
+|- 
+| Chieftain Justice (T'Challa)<ref name="OHOTMUAU" /> 
+| Earth-6606<ref name="OHOTMUAU" />
+| ''Excalibur'' (vol. 1) #44 (1991)
+| 
+|- 
+| Centurionous Britainicosarus (Magnus Rex) 
+| Earth-6993
+| ''Excalibur'' (vol. 1) #44 (1991)
+| 
+|- 
+| Albion (Bran Bardic)<ref name="OHOTMUv2">''Official Handbook of the Marvel Universe A-Z'' vol. #2 (May 2008)</ref>
+| Earth-70518<ref name="OHOTMUv2" />
+| ''X-Men: Die By The Sword'' #5 (2007)
+| 
+|- 
+| Will Of The People (John Raven)<ref name="OHOTMUAU" /> 
+| Earth-7305<ref name="OHOTMUAU" />
+| ''Excalibur'' (vol. 1) #50 (1992)
+| 
+|- 
+| Captain Britain (Brian Braddock) 
+| Earth-7475
+| ''Alpha Flight'' (vol. 1) #74
+| Runs the common market, all of Western Europe and North Africa.
+|- 
+| Maid Britannia (Guinevere Wren) 
+| Earth-8406
+| ''Mighty World Of Marvel'' (vol. 2) #13 (1984)
+| 
+|- 
+| Gotowar Konanegg (Kavin Plundarr)<ref name="OHOTMUAU" /> 
+| Earth-8413<ref name="OHOTMUAU" />
+| ''Mighty World Of Marvel'' (vol. 2) #13 (1984)
+| 
+|- 
+| Captain Britain (Brian Braddock) 
+| Earth-8545
+| ''Exiles'' (vol. 1) #20
+| 
+|- 
+| Lady London (Sybil Sherman) 
+| Earth-9006
+| ''Excalibur'' (vol. 1) #24 (1990)
+| 
+|- 
+| Captain Britain (Betsy Braddock) 
+| Earth-9012
+| Excalibur #43 (1991)
+| 
+|- 
+| Officer Saxon (Peter Hunter)<ref name="OHOTMUAU" />
+| Earth-9106
+| ''Excalibur'' (vol. 1) #43 (1991)
+| 
+|- 
+| Sister Gaia (Serena Foster) 
+| Earth-9111
+| ''Excalibur'' (vol. 1) #44 (1991)
+| 
+|- 
+| Captain Britain (Brian Braddock) 
+| Earth-9411
+| ''Spectacular Spider-Man'' (UK) #114
+| 
+|- 
+| Pookie Pendragon (Kozfran) 
+| Earth-9246
+| ''Excalibur'' (vol. 1) #24 (1990)
+| 
+|- 
+| Friar Albion (Petros Wisdom)<ref name="OHOTMUAU" /> 
+| Earth-9586<ref name=" OHOTMUAU"/>
+| ''Excalibur'' (vol. 1) #44 (1991)
+| 
+|- 
+| Caledonia (Alysande Stuart) 
+| Earth-9809
+| Fantastic Four vol. 3 #9
+| She was a prisoner in the Starlight Citadel before becoming Franklin Richards' nanny on Earth-616 as well as a spy for Roma.
+|- 
+| Privateer Albion (Jack Turner) 
+| Earth-9890
+| ''Excalibur'' (vol. 1) #124 (1998)
+| 
+|- 
+| King Britain (Brian Braddock) 
+| Earth-9997<ref name="EXS">''Earth X Sketchbook''</ref>
+| ''Paradise X: X'' (2003)
+| Captain Britain became King of England and resides in the Realm of the Dead.
+|- 
+| Agent Albion (Victoria Whitman) 
+| Earth-10221
+| ''Excalibur'' (vol. 2) #1 (2001)
+| 
+|- 
+| Captain Britain (Brian Braddock) 
+| Earth-21993
+| ''What If?'' (vol. 2) #46 (1989)
+| 
+|- 
+| Rifleman (Lance Hunter)<ref name="OHOTMUAU" /> 
+| Earth-22110<ref name="OHOTMUAU" />
+| ''Excalibur'' (vol. 2) #1 (2001)
+| 
+|- 
+| Justicer Bull (Cassandra Bull)
+| Earth-23238
+| ''Excalibur'' (vol. 1) #23 (1990)
+| She is one of the few Captains to have survived the Warpies attack and led the Corps against Jim Jaspers.<ref name=dbts3/>
+|- 
+| Britannic (Brian Braddock) 
+| Earth-28927
+| ''Excalibur Annual'' #2 (1994)
+| 
+|- 
+| Captain Britain (Brian Braddock) 
+| Earth-32000
+| ''X-Men Unlimited'' (vol. 1) #26 (2000)
+| 
+|- 
+| Gizmo (William "Billy" Ransom) 
+| Earth-40121
+| ''Excalibur'' (vol. 2) #1 (2001)
+| 
+|- 
+| Percy Penfold 
+| Earth-81289
+| ''Excalibur'' (vol. 1) #44 (1991)
+| 
+|- 
+| Enforcer Capone (Adolfo Costa) 
+| Earth-89947
+| ''Excalibur'' (vol. 1) #44 (1991)
+| 
+|- 
+| Britanotron
+| Earth-91418
+| ''Excalibur'' (vol. 1) #43 (1991)
+| 
+|- 
+| Captain Britain (Brian Braddock) 
+| Earth-98125
+| ''Marvel Vision'' #25 (1998)
+| He chose both the Amulet of Life and the Sword of Death.
+|- 
+| Britanicus Rex (Brian Braddock) 
+| Earth-99476
+| ''Excalibur'' (vol. 1) #51 (1992)
+| He resided in the dimension also known as Dino-World.
+|-
+|}
+
+== References ==
+{{Reflist}}
+
+==External links==
+* {{Marveldatabase}}
+* [https://www.marvel.com/characters/captain-britain-brian-braddock Captain Britain (Brian Braddock)] at Marvel.com
+* [http://www.taint-the-meat.com/comics/captain-britain-weekly Captain Britain Weekly] at Tainthemeat.com.
+* [https://web.archive.org/web/20060721164019/http://www.classicmarvel.com/cast/captain_britain1.htm Marvel Heroes Classic Role-playing Game Statistics for Captain Britain]
+* {{comicbookdb|type=character|id=1596|title=Captain Britain (Brian Braddock)}}
+* [https://web.archive.org/web/20070708042111/http://www.internationalhero.co.uk/c/capbrit.htm Captain Britain] at the International Catalogue of Superheroes
+* {{gcdb series|id=2371|title=Captain Britain (1976)}}
+* {{gcdb series|id=3069|title=Captain Britain (1985)}}
+* [https://archive.today/20130119164520/http://www.comics-db.com/Marvel_Comics/C/Captain_Britain/index.html ''Captain Britain''] at the [[Big Comic Book DataBase]]
+* [http://www.marveldirectory.com/individuals/c/captainbritain.htm Captain Britain] at the Marvel Directory
+* [http://uncannyxmen.net/characters/captain-britain-i Captain Britain] at UncannyXmen.net
+*[http://www.toonopedia.com/capnbrit.htm Captain Britain] at [[Don Markstein's Toonopedia]]. [https://www.webcitation.org/66nyuRPiH?url=http://www.toonopedia.com/capnbrit.htm Archived] from the original on 9 April 2012.
+
+{{Captain Britain}}
+{{Avengers characters}}
+{{Alan Moore}}
+{{Excalibur}}
+{{Marvel Mystic}}
+{{Portal bar|Speculative fiction|United Kingdom}}
+
+[[Category:1976 comics debuts]]
+[[Category:Avengers (comics) characters]]
+[[Category:British comics characters]]
+[[Category:British superheroes]]
+[[Category:Comics by Alan Moore]]
+[[Category:Comics by Chris Claremont]]
+[[Category:Comics characters introduced in 1976]]
+[[Category:Excalibur (comics)]]
+[[Category:Fictional British secret agents]]
+[[Category:Fictional characters with superhuman senses]]
+[[Category:Fictional engineers]]
+[[Category:Fictional kings]]
+[[Category:Fictional physicists]]
+[[Category:Fictional swordfighters in comics]]<!--Excalibur-->
+[[Category:Marvel Comics characters who can move at superhuman speeds]]
+[[Category:Marvel Comics characters who use magic]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics mutates]]
+[[Category:Marvel UK characters]]
+[[Category:Twin characters in comics]]
+[[Category:United Kingdom-themed superheroes]]

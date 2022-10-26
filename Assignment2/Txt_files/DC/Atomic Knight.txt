@@ -1,0 +1,102 @@
+'''Atomic Knight''' is a [[superhero]] appearing in [[American comic books]] published by [[DC comics]], and was briefly a member of the [[Outsiders (comics)|Outsiders]] team. He is sometimes depicted as one of a group of Atomic Knights, which first appeared in ''[[Strange Adventures]]'' #117 (June 1960) and ran quarterly in that monthly comic up through #160 (January 1964).<ref name="dc-ency">{{Cite book|last = Greenberger|first = Robert|contribution = Atomic Knight|editor-last = Dougall|editor-first = Alastair|title = The DC Comics Encyclopedia|pages = 31|publisher = [[Dorling Kindersley]]|place = London|year = 2008|isbn = 978-0-7566-4119-1}}</ref>
+
+Sergeant Gardner Grayle was portrayed by Boone Platt in the live action [[Arrowverse]] series ''[[Black Lightning (TV series)|Black Lightning]]'' in the [[Black Lightning (season 3)|third season]].
+
+==Development==
+During an interview, co-creator [[John Broome (writer)|John Broome]] discussed the genesis for the idea. "I remember, in the beginning, we both got the feeling that it had something to do with [[King Arthur]] and the [[Knights of the Round Table]]. We thought if we could make a modern version of that spirit and the feeling, that would be a new kind of comic that hadn't been done and we would enjoy doing it. So we worked out a third World War where life was almost destroyed and crime was all over. And the Atomic Knights stand for justice and faith and all that. So that is the way the story began."<ref>{{cite web | url=https://www.newsfromme.com/pov/col234/ | title=News from ME - Mark Evanier's blog }}</ref>
+
+==The original Atomic Knights==
+[[Image:Strangeadventures144-175.jpg|right|thumb|150px|The only Atomic Knights cover appearance in ''Strange Adventures'' #144. The giant Dalmatians are also present on the cover.]]
+The Atomic Knights appeared in every third issue of ''[[Strange Adventures]]'' in the early 1960s, beginning with #117 (June 1960) and running through #160 (January 1964).<ref name=Guide>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Korte |first3=Steve |last4=Manning |first4=Matt |last5=Wiacek |first5=Win |last6=Wilson |first6=Sven |title=The DC Comics Encyclopedia: The Definitive Guide to the Characters of the DC Universe |date=2016 |publisher=DK Publishing |isbn=978-1-4654-5357-0 |page=22}}</ref> In all there were 15 early-1960s Atomic Knights stories created by writer [[John Broome (writer)|John Broome]] and artist [[Murphy Anderson]]; they were a band of heroes living in and protecting the post-apocalyptic future of 1992.
+ 
+Following the catastrophic Hydrogen War of 1986, a petty tyrant named the Black Baron ruled a small section of the [[Midwestern United States]] with an iron fist. He was opposed by Sgt. Gardner Grayle and the Atomic Knights, who wore medieval suits of armor that were impervious to the Baron's energy weapons, the armor having been irradiated in the war.<ref>{{cite web |last1=Markstein |first1=Don |title=The Atomic Knights |url=http://www.toonopedia.com/atomic_k.htm |website=Don Markstein's Toonopedia |access-date=1 April 2020}}</ref> The other Knights were twins Wayne and Hollis Hobard, Bryndon Smith, the last scientist left on Earth, and brother and sister Douglas and Marene Herald. The group became a symbol of hope to the survivors of the cataclysm.<ref>{{cite book |last=Wells |first=John |title=American Comic Book Chronicles: 1960-64 |date=2015 |publisher=TwoMorrows Publishing |isbn=978-1605490458 |pages=20–21}}</ref>
+
+[[Image:Hercules Unbound 10.jpg|left|thumb|150px|The Atomic Knights, mid-70s incarnation.]]
+The 15 Atomic Knights stories in ''[[Strange Adventures]]'' took place in "real time" (three months usually passed between the events of each story as well as in the real world) and generally dealt with post-holocaust recovery, as the Knights would fend off menaces and attempt to rebuild the area around their home base of Durvale, though they also managed to travel to [[Los Angeles]], Detroit, New Orleans, New York, and Washington, D.C.
+
+The Atomic Knights concept then lay dormant for more than a decade, until [[Cary Bates]] used the Knights as guest-stars in the mid-1970s series ''[[Hercules (DC Comics)|Hercules Unbound]]'', beginning with #10 (April–May 1977). Hercules, [[Kamandi]], and the Atomic Knights all inhabited the same comics universe, one in which the [[Great Disaster]] had taken place (references to 1986 became less and less frequent as that date actually approached). ''Crisis on Infinite Earths: Absolute Edition'' had ''two'' Great Disaster realities: Earth-86 (where the Great Disaster was an atomic war) and Earth-295 (where the Great Disaster was natural). Since the Great Disaster on Earth-295 was natural that reality had no Atomic Knights.
+
+The entire Great Disaster concept has since been declared to be out-of-continuity in the current DC Universe, although one of the Post-52 alternate Earths (Earth-17) ''does'' feature the world of the Great Disaster. ''[[DC Comics Presents]]'' #57 attempted to [[retcon]] the Atomic Knights by 'revealing' them to be the dream of Gardner Grayle in a state of suspended animation (during which dream Superman attempts to prevent Grayle from causing a nuclear war). This story is not held to be canon in terms of the Earth of the Great Disaster, and little reference has been made to it after publication.
+
+The 15 Atomic Knights stories were reprinted in ''Strange Adventures'' #217-231. In 2010 they were collected into a single DC [[hardcover]] volume; their appearances in ''Hercules Unbound'' and ''DC Comics Presents'' had not been reprinted until a 2014 volume entitled ''Showcase Presents The Great Disaster Featuring the Atomic Knights''.
+
+==Fictional character biography==
+===Gardner Grayle===
+{{Superherobox
+|image=Atomicknight.png
+|image_size=175
+|caption=Atomic Knight '''Gardner Grayle'''.
+|real_name=Gardner Grayle
+|publisher=[[DC Comics]]
+|debut=''Strange Adventures'' #117 (June 1960)
+|creators=[[John Broome (writer)|John Broome]]<br>[[Murphy Anderson]]
+|alliances=Atomic Knights<br>[[Outsiders (comics)|Outsiders]]<br>[[Forgotten Heroes]]<br>[[Seven Soldiers of Victory]]
+|aliases=[[Shining Knight]]
+|powers=Precognition<br>Wears a suit of armor granting enhanced strength, speed, endurance and blasts of energy, as well as being adaptable to other technology
+}}
+On Earth-One, '''Gardner Grayle''' was a [[sergeant]] in the army. His platoon was the infamous Platoon 13 and its symbol was a knight. Feverishly opposed to nuclear war, Grayle volunteered for a virtual reality experiment to see how people would react to a post-atomic war world. Within this experiment, Grayle believed that the adventures of the Atomic Knights were only a dream. After emerging from the experiment, Grayle donned a [[S.T.A.R. Labs]] battle suit and declared himself a modern knight in shining armor, briefly becoming the second [[Shining Knight]] and serving with the [[Seven Soldiers of Victory]].<ref name="dc-ency"/>
+
+After a mildly successful career as a superhero, Grayle took a job at S.T.A.R. When he received a premonition from the goddess Cassandra, Grayle proceeded to use his new technical know-how to build his atomic armor. He then participated in the ''[[Crisis on Infinite Earths]]'' as one of the [[Forgotten Heroes]] who contacted [[Darkseid]] to enlist his help against the [[Anti-Monitor]].
+
+Afterward, he appeared in the ''[[Outsiders (comics)|Outsiders]]'' (vol. 1), a team he joined and stayed with until its disbanding. The Outsiders would later reform (in vol. 2) but were considered fugitives after being framed for the slaughter of a Markovian village (home country to Outsider [[Geo-Force]]). At first, he hunted the team down but was ultimately convinced of their innocence and was able to clear their name to the rest of the world. He also helps the Outsiders battle a vampiric infestation of the underground nation of Abyssia. With the Outsiders, he also fell in love with fellow Outsider Windfall and they were seen together at Geo-Force's wedding.
+
+Beyond just his Atomic Knight armor, Gardner also had the power to see the future.
+
+[[Image:NewAtomicKnights.JPG|left|thumb|200px|The Atomic Knights from ''Battle for Bludhaven'' #6, art by [[Dan Jurgens]] and [[Jim Palmiotti]].]]
+In the post-''[[Infinite Crisis]]'' mini-series ''The Battle for Blüdhaven'' that takes place [[One Year Later]], Gardner Grayle is the leader of an underground band of new Atomic Knights operating within the destroyed city of [[Blüdhaven]], working with an organization named the Roundtable towards helping citizens harassed by the organization known as [[Father Time (DC Comics)|S.H.A.D.E.]] and the new Black Baron (a former pimp and drug dealer who gains metahuman powers after the Blüdhaven destruction and is later defeated by the [[golem]] known as [[Monolith (comics)|Monolith]]). There are roughly 125 Atomic Knights, with the main Knights being Grayle, Marene and Doug Herald, Bryndon, and Wayne and Hollis Hobard (based on the original group from the 1960s), who are shown posing as refugees with the help of advanced cloaking technology, and using armor with numerous powers including the ability to record and analyze complex data and fire powerful ballistic and nuclear blasts. At the end of the series, [[Captain Atom]] obliterates the remains of Blüdhaven, making way for the departure of S.H.A.D.E. operatives. After this, the Knights are seen entering an underground lush environment through a bunker named '''Command-D''', reminiscent of their access to the post-nuclear world of their original incarnation. Command-D is the bunker in which Kamandi and his grandfather, the original [[OMAC (comics)|OMAC]], lived.<ref name="dc-ency"/>
+
+In the second issue of ''[[Final Crisis]]'', Dan Turpin travels to Blüdhaven and briefly sees the Atomic Knights, riding atop giant dogs in the ruined city. Afterwards, he visits the Command-D bunker.
+
+In the third issue, the Knights accompany [[Wonder Woman]] into the city, where they go up against an evil [[Mary Marvel]] who has had her body augmented by their technology, who chops Marene Herald in half.
+
+In the fourth issue, the Atomic Knights among those in the Blüdhaven Strike Force are eventually killed in battle, when Darkseid's forces showed their hand at Blüdhaven.
+
+==Powers and abilities==
+Gardner Grayle has precognition.
+
+===Equipment===
+Gardner Grayle wears a suit of armor that grants him enhanced strength, speed, endurance and blasts of energy, as well as being adaptable to other technology.
+
+==Other versions==
+In the out-of-continuity maxi-series ''[[Justice (DC Comics)|Justice]]'', the [[Atom (Ray Palmer)|Atom]] wears a suit of armor that resembles the Earth-One Atomic Knight.
+
+[[Image:Earth17.JPG|right|thumb|225px|Atomic Knights from ''52'' Week 52, artist Justiniano.]]
+In ''[[52 (comics)|52]]'', the existence of a new Multiverse is revealed. These Earths are originally carbon copies of the New Earth created at the end of ''Infinite Crisis''.
+
+===Earth-17===
+One of the Earths, designated Earth-17 by Rip Hunter, is heavily altered by [[Mister Mind]] in his Hyperfly form, and his effects on the Earth have turned it into a copy of the home of the original version of the Atomic Knights, the version from their original stories.<ref name="dc-ency"/>
+
+Based on comments by [[Grant Morrison]], this alternate universe is not the original setting of the 1960s stories.<ref>{{cite web|url=http://forum.newsarama.com/showthread.php?t=111900 |title=THE 52 EXIT INTERVIEWS: GRANT MORRISON |access-date=2007-05-12 |last=Brady |first=Matt |date=2007-05-08 |publisher=Newsarama |archive-url=https://web.archive.org/web/20070510031223/http://forum.newsarama.com/showthread.php?t=111900 |archive-date=10 May 2007 |url-status=dead}}</ref>
+
+===Earth-38===
+In ''Countdown: Arena'' #2 (2007) an alternate version of Captain Atom appears who is the leader of that world's Atomic Knights.
+
+==Collected editions==
+* '''The Atomic Knights''' (collects ''Strange Adventures'' #117, 120, 123, 126, 129, 132, 135, 138, 141, 144, 147, 150, 153, 156 and 160, {{ISBN|978-1-4012-2748-7}})
+
+==In other media==
+A variation of Gardner Grayle appears in the [[Black Lightning (season 3)|third season]] of the live-action television series ''[[Black Lightning (TV series)|Black Lightning]]'', portrayed by Boone Platt.<ref>{{cite web|url=http://www.tvmaze.com/characters/668187/black-lightning-sergeant-gardner-grayle|title=Black Lightning / Characters / Sergeant Gardner Grayle|website=TVMaze|access-date=December 9, 2019}}</ref> This version is an [[A.S.A. (comics)|A.S.A.]] sergeant. Following a minor appearance in the episode "The Book of Resistance: Chapter Two: Henderson's Opus", in the episode "The Book of Resistance: Chapter Three: The Battle of Franklin Terrace", Grayle allows [[Lynn Stewart (Black Lightning)|Lynn Stewart]] to escape when the A.S.A.'s headquarters, the Pit, is locked down following [[Black Lightning]]'s duel with Commander Carson Williams. In the episode "The Book of Markovia: Chapter One: Blessings and Curses Reborn", Major Sara Grey tasks Grayle and fellow operative Specialist Travis with bringing [[Lightning (DC Comics)|Jennifer Pierce]] to high-ranking agent Odell. However, Grayle allows her to escape after incapacitating Travis. In the episode "The Book of Markovia: Chapter Two: Lynn's Addiction", Grayle pre-records a message for anyone to find if anything happens to him before helping Lynn sneak [[Tobias Whale]] out of the Pit before they are attacked by a [[Markovia]]n operative and teleported to Markovia by the teleporting mercenary Instant. In the episode "The Book of Markovia: Chapter Three: Motherless Id", Grayle contacts Black Lightning about what happened to Lynn and arranges a parley with Major Grey for a temporary truce to handle the matter. In the episode "The Book of Markovia: Chapter Four: Grab the Strap", Grayle assists Black Lightning and his allies in recusing Lynn from the Markovians. Along the way, he stops [[Geo-Force|Brandon Marshall]] from killing Dr. [[Helga Jace]] and evacuated them. In the season three finale "The Book of War: Chapter Three: Liberation", Grayle assisted in evacuating metahumans out of the Pit, only to be stopped by Gravedigger.
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://web.archive.org/web/20090303183426/http://www.dcuguide.com/who.php?name=AtomicKnight DCU Guide entry]
+* [http://www.toonopedia.com/atomic_k.htm The Atomic Knights] at [[Don Markstein's Toonopedia]]. [https://www.webcitation.org/6bCOnYEvH?url=http%3A%2F%2Ftoonopedia.com%2Fatomic_k.htm Archived] from the original on August 31, 2015.
+* [http://darkmark6.tripod.com/atomicind.htm The Earth-One Index: The Atomic Knights] (fan site)
+* [http://www.writeups.org/fiche.php?id=4615 Writeups.org: Original 1960 Atomic Knights]
+
+{{The Outsiders}}
+
+[[Category:DC Comics characters with superhuman strength]]
+[[Category:DC Comics superheroes]]
+[[Category:Fictional characters with precognition]]
+[[Category:DC Comics characters who can move at superhuman speeds]]
+[[Category:Fictional knights]]
+[[Category:Fictional sergeants]]
+[[Category:Post-apocalyptic comics]]
+[[Category:Comics characters introduced in 1960]]
+[[Category:Characters created by John Broome]]
+[[Category:Characters created by Murphy Anderson]]
+[[Category:Fiction set in 1986]]
+[[Category:Fiction set in 1992]]

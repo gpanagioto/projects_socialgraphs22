@@ -1,0 +1,6 @@
+#REDIRECT [[A-Next#Blacklight]]
+
+{{Rcat shell|
+{{R to related topic}}
+{{R to section}}
+}}

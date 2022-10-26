@@ -1,0 +1,10 @@
+#redirect [[The_Deadly_Hands_of_Kung_Fu#The Sons of the Tiger]]
+
+{{Rcatshell|
+{{R to section}}
+{{R from merge}}
+}}
+
+[[Category:Fictional trios]]
+[[Category:Marvel Comics martial artists]]
+[[Category:Marvel Comics titles]]

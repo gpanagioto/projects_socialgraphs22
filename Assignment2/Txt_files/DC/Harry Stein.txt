@@ -1,0 +1,58 @@
+{{short description|Fictional police officer and secret agent}}
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Harrysteindcu0.jpg|250px]]
+|caption=Harry Stein, art by [[Steve Erwin (comics)|Steve Erwin]].
+|character_name=Harry Stein
+|publisher=[[DC Comics]]
+|debut=''[[Vigilante (comics)|Vigilante]]'' #23 (November 1985)
+|creators=[[Paul Kupperberg]] (writer)<br> Tod Smith (artist)
+|real_name = Harry Stein
+|species = <!-- optional -->
+|homeworld = <!-- optional -->
+|alliances =[[Checkmate (comics)|Checkmate]]<br/>[[List of government agencies in DC Comics#The Agency|The Agency]]<br/>[[NYPD]]
+|aliases = King
+|supports=<!--optional-->
+|powers = Experienced police officer and espionage agent.
+}}
+
+'''Harry Stein''' is a fictional [[police officer]] and [[secret agent]] featured in [[DC Comics]]. Stein first appeared in ''[[Vigilante (comics)|Vigilante]]'' #23 (November 1985) and was created by [[Paul Kupperberg]] and Tod Smith.
+
+==Fictional character biography==
+===Vigilante===
+{{main|Vigilante (comics)}}
+Lieutenant Harry Stein is an eighteen-year veteran of the [[New York City Police Department|NYPD]]. His first DCU appearance was in ''[[Vigilante (comics)|Vigilante]]'' #23 where he is introduced as the head of a police task force operating out of Midtown South. This task force's sole job is the apprehension of Vigilante (Adrian Chase) whom they believed was a cop killer.<ref>''[[Vigilante (comics)|Vigilante]]'' #23 (November 1985)</ref> Gary Washington the very first [[Checkmate (comics)|Checkmate]] Knight was also introduced during Harry Stein's run, in issue #24 as Stein's partner. In ''Vigilante'' Annual #2, Harry Stein uses illegally obtained evidence to prove Adrian Chase is the Vigilante.<ref>''Vigilante'' Annual #2 (1986)</ref> Stein admitted to illegal search and seizure and all charges against Chase were thrown out. In #37 Stein is forced to resign by his supervisor Chief Rogers and hands over his badge, Rogers informs him that there are criminal charges pending against him.<ref>''Vigilante'' #37 (January 1987)</ref>
+
+In #37, Harry is recruited into the [[List of government agencies in DC Comics#The Agency|Agency]] by [[Valentina Vostok]], his first mission is to help a mentally unbalanced Vigilante (Adrian Chase) take down a ship full of middle eastern terrorists. During the mission, Vostok, Stein and Chase come into conflict with an equally deranged [[Peacemaker (comics)|Peacemaker]] (Christopher Smith), a man that Adrian Chase had sworn to kill.
+
+Adrian Chase becomes a cop killer, but commits suicide out of regret.
+
+===Doom Patrol===
+{{main|Doom Patrol}}
+Harry Stein shows up next in ''[[Doom Patrol]]'' (vol. 2) #2, heading for a meeting with his boss, Valentina Vostok.<ref>''[[Doom Patrol]]'' (vol. 2) #2 (November 1987)</ref> Harry later makes it inside Kalki's complex (father of [[Celsius (comics)|Celsius]]), and shuts down the electrical plant long enough for the Doom Patrol to free themselves from Kalki's traps.<ref>''Doom Patrol'' (vol. 2) #3 (December 1987)</ref> Harry promises to leave any mention of [[Joshua Clay]]'s double identity as doctor Johnathan Carmichael out of his reports.<ref>''Doom Patrol'' (vol. 2) #4 (January 1988)</ref> Harry later informs the Doom Patrol that the Agency needed them to rescue an American superhero who had been taken hostage in [[San Salvador]].<ref>''Doom Patrol'' (vol. 2) #5 (February 1988)</ref>
+
+===Checkmate===
+{{main|Checkmate (comics)}}
+Harry Stein is appointed Valentina Vostok's replacement in the Agency's command position by [[Amanda Waller]]. Stein later sought out the most stable personnel available from the American and international intelligence and law enforcement communities to form Checkmate. His agency would field only the best-trained and well-equipped of agents, working under the strictest rules of secrecy. For the organizational structure of the re-organized Agency, Stein chose the game of [[chess]] as his working model.<ref>''[[Action Comics]]'' #598 (March 1988)</ref> 
+
+Stein brought in Gary Washington (Knight One) and [[Black Thorn (comics)|Black Thorn]] as operatives, both of whom were his friends, and both of whom were introduced during his run on Vigilante. Harry Stein's sons Barry and Matthew are introduced in ''Checkmate'' #2.
+
+On a rare vacation with his sons, Harry confronts a murderous gang of thieves robbing the payroll of a popular and extensive amusement park. Harry deals with the gang, mostly on his own. Months later, he almost loses one of his sons to a killer's bullet. Harry Stein's last recorded appearance was in ''Checkmate'' #33 (January 1991), the final issue of the original series.
+
+==Notes==
+* When first introduced in ''Vigilante'' #23 and throughout his run in that series, Harry was drawn as slovenly and unshaven, in the mould of [[Harvey Bullock (comics)|Harvey Bullock]].
+* In ''Action Comics'' #598 and ''Checkmate'' #2, Harry is shown as a clean cut level headed father.
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.dcuguide.com/chronology.php?name=harrystein DCU Guide: Harry Stein chronology]
+*[https://web.archive.org/web/20070304095523/http://www.dcuguide.com/Sm/Act_598.php DCU Guide: ''Action Comics'' #598]
+*[https://web.archive.org/web/20061219071408/http://www.dcuguide.com/Ckmt/Ckmt_001.php DCU Guide: ''Checkmate'' #1]
+*[http://www.cosmicteams.com/cosmic/c.html#checkmate Cosmic Teams: Checkmate]
+*[http://members.tripod.com/doompatrolreview/doompatrol2.htm The Doom Patrol Review: ''Doom Patrol'' (Volume Two)]
+
+{{DEFAULTSORT:Stein, Harry}}
+[[Category:Characters created by Paul Kupperberg]]
+[[Category:DC Comics superheroes]]
+[[Category:Fictional New York City Police Department lieutenants]]

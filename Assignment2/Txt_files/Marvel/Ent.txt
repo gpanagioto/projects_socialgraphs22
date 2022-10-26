@@ -1,0 +1,8 @@
+#redirect [[Morlocks (comics)#Post-Mutant Massacre]]
+
+{{Rcat shell|
+{{R from fictional character|Marvel Comics}}
+{{R to section}}
+}}
+
+[[Category:Marvel Comics mutants]]

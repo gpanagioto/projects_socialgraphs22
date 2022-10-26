@@ -1,0 +1,80 @@
+{{short description|Name of two DC comics superheroes}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|image = Aztek comic cover.jpg
+|converted = yes
+|caption = Cover of ''Aztek: The Ultimate Man'' #1 (August 1996) by N. Steven Harris.
+|character_name = Aztek
+|real_name = {{ubl|Uno/Dr. Curtis "Curt" Falconer|Nayeli Constant}}
+|publisher = [[DC Comics]]
+|debut = {{ubl|'''Uno''': ''Aztek, The Ultimate Man'' #1 (August 1996)|'''Constant''': ''Justice League of America'' vol. 5 #20 (December 2017)}}
+|creators = '''Uno''': {{ubl|N. Steven Harris|[[Mark Millar]]|[[Grant Morrison]]}}<br>'''Constant''':{{ubl|[[Steve Orlando]]|[[Ivan Reis]]}}
+|alliances = '''Uno''': {{ubl|[[Justice League]]|Q Society}}<br>'''Constant''': {{ubl|Q Society|[[Justice League|Justice League of America II]]|Justice Foundation}}
+|aliases = 
+|powers = Manipulates four-dimensional energy for:{{ubl|Superhuman strength, speed, and hearing|X-ray vision|Flight|Invisibility|Plasma blasts|Body heat camouflage|Density shifting|Entrapment net generation}}
+|cat = super
+|subcat = DC Comics
+|hero = y
+|sortkey = Aztek (comics)
+}}
+'''Aztek''' is the name of a fictional superhero in the [[DC Universe]]. Both versions are based out of the fictional Vanity City. Aztek is the champion of the [[Aztecs|Aztec]] god [[Quetzalcoatl]].  The first Aztek first appeared in ''Aztek, The Ultimate Man #1'' in August 1996, created by [[Grant Morrison]], [[Mark Millar]] and N. Steven Harris.<ref>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Manning |first3=Matthew K. |last4=McAvennie |first4=Michael |last5=Wallace |first5=Daniel |title=DC Comics Year by Year: A Visual Chronicle |date=2019 |publisher=DK Publishing |isbn=978-1-4654-8578-6 |page=259}}</ref> Following the short run series, Aztek appeared in several issues of ''[[Justice League|JLA]]'' also written by Morrison.<ref name="dc-ency">{{Cite book | last = Jimenez | first = Phil | author-link = Phil Jimenez | contribution = Aztek | editor-last = Dougall | editor-first = Alastair | title = The DC Comics Encyclopedia | page = 32 | publisher = [[Dorling Kindersley]] | place = London | year = 2008 | isbn = 978-0-7566-4119-1}}</ref> The second Aztek appeared in ''Justice League of America'' vol. 5 #20 in December 2017, created by Steve Orlando and [[Ivan Reis]], as the rival and later partner of the [[Ray (Ray Terrill)|Ray]].
+
+==Fictional character biography==
+===Uno===
+Uno is raised from childhood by a secret organization named the Q Society to be the champion of the [[Aztec]] god [[Quetzalcoatl]] to battle their enemy, the Aztec god [[Tezcatlipoca (DC Comics)|Tezcatlipoca]].<ref name=Guide>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Korte |first3=Steve |last4=Manning |first4=Matt |last5=Wiacek |first5=Win |last6=Wilson |first6=Sven |title=The DC Comics Encyclopedia: The Definitive Guide to the Characters of the DC Universe |date=2016 |publisher=DK Publishing |isbn=978-1-4654-5357-0 |page=23}}</ref> He is given a magical suit of armor that bestows many abilities, complementing Uno's peak human mental and physical abilities.<ref name="dc-ency"/> After his training is completed, he enters the United States and assumes the identity of recently deceased physician Curt Falconer.<ref>''Aztek: The Ultimate Man'' #1 (August 1996)</ref>
+
+Aztek later joins the [[Justice League]],<ref>''Aztek: The Ultimate Man'' #10 (May 1997)</ref> but resigns when it is revealed that one of the mysterious benefactors of the Q Society is [[supervillain]] [[Lex Luthor]].<ref>''JLA'' #15 (February 1998)</ref> He is later blinded helping the League save the Earth in a battle against the planet-destroying machine Mageddon (apparently the Tezcatlipoca that the cult was referring to all along). Aztek ultimately sacrifices himself to allow Superman the chance to destroy Mageddon/Tezcatlipoca, during the [[World War III (DC Comics)|World War III]] story arc.<ref>''JLA'' #41 (May 2000)</ref>
+
+===Nayeli Constant===
+A new version of the character appeared in ''[[Justice League|Justice League of America]]'' vol. 5 #20; instead of being Uno/Curt Falconer, the new hero is Nayeli Constant. She was a [[software engineer]] in [[Austin, Texas]] who was startled by the Aztek helmet bursting into her window and telling her about the millennia-long war against the dark god Tezcatlipoca. She decided to accept the role of the new Aztek and modified the armor to suit her purposes; eventually finding her way to Vanity after The Ray left the city to join the Justice League of America. When he returned from a mission, the two encountered one another and briefly argued about who should protect the citizens of Vanity but they teamed up to stop a criminal and decided that the city could use both heroes.<ref>{{cite web|url=http://www.cbr.com/dc-comics-aztek-rebirth/|title=Justice League of America: Aztek to Make Rebirth Debut|date=8 October 2017|website=Cbr.com|access-date=9 October 2017}}</ref>
+
+==Powers and abilities==
+Aztek has peak human physical and mental conditioning. He wears an ancient helmet and armor (powered by a "four-dimensional mirror"), from which he derives flight, infrared and X-Ray vision, invisibility, intangibility, bodyheat camouflage, entrapment nets, plasma beams and density manipulation, as well as augmenting his peak physical abilities to superhuman levels. The helmet could feed information directly into his brain even after he was blinded in his first confrontation with Mageddon. The four-dimensional power source could self-destruct in a highly explosive manner.<ref name="dc-ency"/>
+
+==Other versions==
+===The Rock of Ages===
+Another version of Aztek, with the same abilities, known as '''Azteka''' was seen in Grant Morrison's run on JLA during "''The Rock of Ages''" storyline in which the JLA traveled to an alternate future overrun by [[Darkseid]]. She sacrifices her life to destroy Darkseid's lunar facilities.
+
+==In other media==
+[[File:Aztek (JLU screenshot).jpg|thumb|right|Aztek in ''[[Justice League Unlimited]]'' along with Shayera Hol, Superman and King Faraday in the episode "I Am Legion".]]
+
+===Television===
+* Aztek appeared in ''[[Justice League Unlimited]]'', mostly appearing in brief cameos throughout the series. After making a very brief appearance in "Question Authority" (voiced by Chris Cox), he made a more significant appearance in "I Am Legion" (voiced by [[Corey Burton]]) where he helped Superman and [[Shayera Hol]] investigate where Lex Luthor had gone after escaping prison. Superman asked Aztek to scan the scene to see if he could find out where Luthor went, but had no luck after finishing his scan. [[King Faraday]] then appeared behind the trio and introduced himself to Aztek.
+
+=== Video games ===
+* Aztek appeared in ''[[Scribblenauts Unmasked: A DC Comics Adventure]]'', as did his Battlesuit, a costume giving the player his powers.<ref>{{Citation|title=DC Characters and Objects - Scribblenauts Unmasked Wiki Guide - IGN|url=https://www.ign.com/wikis/scribblenauts-unmasked/DC_Characters_and_Objects|language=en|access-date=2021-12-13}}</ref>
+
+==Bibliography==
+The original run of the [[eponym]]ous title has been collected as a [[trade paperback (comics)|trade paperback]]: ''JLA Presents: Aztek, the Ultimate Man'' (by co-authors [[Grant Morrison]] and [[Mark Millar]], and pencils by N. Steven Harris, and inks by [[Keith Champagne]], 1996; collects ''Aztek, the Ultimate Man'' #1–10, 240 pages, April 2008, {{ISBN|1-4012-1688-9}}).<ref>{{cite web|url=http://www.dccomics.com/graphic_novels/?gn=9011 |title=''JLA Presents: Aztek, the Ultimate Man'' profile at DC |publisher=Dccomics.com |date=2010-04-21 |access-date=2011-01-15}}</ref>
+
+Aztek also appeared in several issues of Morrison's ''JLA'' (5, 10–12, 15, 36, 38–41), as well as the final two issues of Mark Millar's ''JLA: Paradise Lost'' and his fill-in issue for ''JLA'' (27).
+
+He has profile entries in ''JLA Secret Files and Origins'' #1, ''JLA–Z'' #1, and ''The DC Comics Encyclopedia''.
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+*[http://www.dcuguide.com/who.php?name=aztek Aztek at the DCU Guide] {{Webarchive|url=https://web.archive.org/web/20120320025721/http://www.dcuguide.com/who.php?name=aztek |date=2012-03-20}}
+*[http://www.fanzing.com/mag/fanzing26/hoj.shtml Aztek History at Fanzing, by Alan Kistler]
+*[https://web.archive.org/web/20080828233102/http://www.moviepoopshoot.com/comics101/148.html Movie Poop Shoot's look at Aztek: The Ultimate Man]
+{{Justice League characters}}{{Grant Morrison}}
+{{Mark Millar}}
+[[Category:Articles about multiple fictional characters]]
+[[Category:1996 comics debuts]]
+[[Category:Characters created by Mark Millar]]
+[[Category:Comics characters introduced in 1996]]
+[[Category:Comics characters introduced in 2017]]
+[[Category:Comics by Grant Morrison]]
+[[Category:Characters created by Grant Morrison]]
+[[Category:DC Comics male superheroes]]
+[[Category:DC Comics female superheroes]]
+[[Category:DC Comics characters with superhuman strength]]
+[[Category:DC Comics characters who can move at superhuman speeds]]
+[[Category:DC Comics titles]]
+[[Category:Fictional characters with density control abilities]]
+[[Category:Fictional characters who can turn invisible]]
+[[Category:Fictional Nahua people]]
+[[Category:Mexican superheroes]]
+[[Category:Mesoamerican mythology in popular culture]]
+[[Category:Fictional software engineers]]
+[[Category:Fictional characters from Austin, Texas]]

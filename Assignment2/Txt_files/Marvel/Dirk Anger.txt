@@ -1,0 +1,5 @@
+#REDIRECT [[Nextwave]]
+
+{{Rcat shell|
+{{R to related topic}}
+}}

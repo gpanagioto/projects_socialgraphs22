@@ -1,0 +1,59 @@
+{{Infobox comics character<!--Wikipedia:WikiProject Comics-->
+| image = jackdc.jpg
+| caption = Jack O'Lantern from the cover of ''Justice League Europe'' #30.
+| character_name = Jack O'Lantern
+| publisher = [[DC Comics]]
+| debut = (I) ''Super Friends'' #8 (November 1977)<br>(II) ''Justice League Europe Annual'' #1 (1990)<br>''Justice League Quarterly'' #14 (spring 1994) 
+| creators = (I) [[E. Nelson Bridwell]], [[Ramona Fradon]]<br>(III) [[Steven T. Seagle]], Ken Hooper
+| alter_ego = Daniel Cormac<br>Marvin Noronsa<br>Liam McHugh
+| full_name =
+| species = <!-- optional -->
+| homeworld = <!-- optional -->
+| alliances = (I) [[Global Guardians]]<br>(III) [[Primal Force]]<br>[[Ultramarine Corps]]
+| aliases = <!-- optional: actual identities the character uses, not nicknames -->
+| supports=
+| powers = (I, II) Mystical lantern provides flight, flame projection, teleportation, illusion casting, enhanced strength, fog creation<br>(III) Has internalized the powers of the lantern used by his predecessors
+}}
+{{Lead too short|date=April 2022}}
+'''Jack O'Lantern''' is the name of several [[fictional character]]s appearing in [[American comic books]] published by [[DC Comics]].
+
+==Fictional character biography==
+===Daniel Cormac===
+The first Jack O'Lantern is '''Daniel Cormac''' of [[Ireland]], who was born to a poor [[farmer]] who was granted a magic lantern by an Irish fairy. Cormac is a member of the [[Global Guardians]], an international group of superheroes.<ref name="dc-glob">{{Citation | last = Greenberger | first = Robert | author-link = Robert Greenberger | contribution = Global Guardians | editor-last = Dougall | editor-first = Alastair | title = The DC Comics Encyclopedia | pages = 138 | publisher = [[Dorling Kindersley]] | place = New York | year = 2008 | isbn = 978-0-7566-4119-1 | oclc = 213309017}}</ref> His first recorded mission in ''Super Friends'' #8 was to help [[Green Lantern]] dismantle a bomb in Ireland.<ref name=Guide>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Korte |first3=Steve |last4=Manning |first4=Matt |last5=Wiacek |first5=Win |last6=Wilson |first6=Sven |title=The DC Comics Encyclopedia: The Definitive Guide to the Characters of the DC Universe |date=2016 |publisher=DK Publishing |isbn=978-1-4654-5357-0 |page=156}}</ref> He appears in three solo back up stories in ''Super Friends'' issues #37, #40 and #44. 
+
+Cormac's first appearance in the mainstream DC Comics universe is ''DC Comics Presents'' #46, helping [[Superman]] find an ancient ruin in Ireland. He is later seen as part of a group of  heroes from Ireland and England trying to save the world in the ''[[Crisis on Infinite Earths]]''.  
+
+When the [[United Nations]] decide to fund the [[Justice League International]], the Global Guardians find themselves without financial support, and disband. Cormac subsequently joins Rumaan Harjavti's army in Bialya.<ref>''Justice League International'' #8, #9, #16, #17 and #27.</ref> After Harjavti is killed by the [[Queen Bee (comics)|Queen Bee]], Jack voluntarily joins forces with the villainess in taking over the world. He is left dying in a sewer after a battle with the Justice League.<ref>''Captain Atom Annual'' #2, ''Justice League Europe'' #2-4.</ref> He is found alive by his girlfriend [[Owlwoman]] in ''Justice League Quarterly'' issues #6 - #8 when the two heroes are found by [[Doctor Mist]]. They take a major part in reuniting the Global Guardians and fight with [[Sonar (comics)|Sonar]] against the Justice League in ''Justice League Europe'' issues #49 and #50. Afterwards, Jack dies of natural causes.<ref>Revealed in ''Primal Force'' #0.</ref>
+
+===Marvin Noronsa===
+'''Marvin Noronsa''' is a native of Bialya who takes over the Jack O'Lantern identity at Queen Bee's behest. Noronsa is able to use Cormac's mystical lantern only after Queen Bee modifies it.<ref>''Justice League Europe'' #29-30; ''Justice League'' #53 - 55.</ref> Noronsa is killed in an explosion caused by Sumaan Harjavti in ''Justice League America'' #55 (October 1991).
+
+===Liam McHugh===
+More recently, Cormac's cousin '''Liam McHugh''' takes up the mantle of Jack O'Lantern. An Irish [[freedom fighter]] who wields a mystical jack o'lantern and is blessed with incredible agility, McHugh has fought evil in various arenas over the past few years. He was a member of the Leymen (Primal Force) and later joined the Ultramarine Corps in Superbia. He appears in three solo stories in ''Justice League Quarterly'' #14, 15 and 17. He became a member of Dr. Mist's Leymen in ''[[Primal Force]]'' #0, appearing in every issue until the book was cancelled with issue #14. Liam is last seen as a member of the [[Ultramarine Corps]] in ''JLA'' #26 and ''JLA Classified'' #1-3.
+
+==Powers and abilities==
+Daniel Cormac and Marvin Noronsa have a mystical lantern that gives them the power of flight, flame projection, teleportation, illusion casting, enhanced strength, and the ability to create fogs.  The power of the lantern is at its weakest at noon, and gradually increases to its peak at midnight.  
+
+Liam McHugh has found a way to internalize the powers of the mystical lantern, and no longer needs to carry it.
+
+==In other media==
+* Marvin Noronsa aka Jack O’Lantern is a recurring villain in ''[[Powerless (TV series)|Powerless]]'', portrayed by Kimani Ray Smith.<ref>{{Cite web|url=http://scriptshadow.net/tv-pilot-tuesday-powerless/|title=TV Pilot Tuesday! – Powerless| date=23 February 2016 }}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.dcuguide.com/chronology.php?name=jackolantern Daniel Cormac the Unofficial Guide to the DC Universe]
+* [http://www.dcuguide.com/who.php?name=jackolantern2 Marvin Noronsa at the Unofficial Guide to the DC Universe]
+* [http://www.dcuguide.com/who.php?name=jackolantern3 Liam McHugh at the Unofficial Guide to the DC Universe]
+
+[[Category:Articles about multiple fictional characters]]
+[[Category:DC Comics characters who use magic]]
+[[Category:DC Comics characters who can teleport]]
+[[Category:DC Comics superheroes]]
+[[Category:DC Comics male superheroes]]
+[[Category:Comics characters introduced in 1977]]
+[[Category:Fictional characters with fire or heat abilities]]
+[[Category:Fictional Irish people]]
+[[Category:Irish superheroes]]
+[[Category:Characters created by Steven T. Seagle]]

@@ -1,0 +1,51 @@
+{{Short description|Marvel Comics fictional character}}
+{{more citations needed|date=July 2018}}
+
+{{Infobox comics character
+|image= NIcodemus West (Earth-616).jpg
+|caption=
+|character_name=Nicodemus West
+|species=[[Human]]
+|publisher=[[Marvel Comics]]
+|debut= ''[[Doctor Strange: The Oath]]'' #1 (December 2006)
+|creators= [[Brian K. Vaughan]] (Writer)<br />[[Marcos Martín (cartoonist)|Marcos Martin]] (Artist)
+|alliances= Timely Pharmaceuticals
+|aliases=
+|powers= Mastery of [[Magic in fiction|magic]]<br />Trained physician
+}}
+'''Nicodemus West''' is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]]. The character first appeared in ''The Oath #1'' in 2006, as the surgeon who operated on [[Stephen Strange]]'s hands following his car accident.<ref>{{cite news |title=Doctor Strange Casts Boardwalk Empire Star in Key Role |url=https://movieweb.com/doctor-strange-movie-cast-michael-stuhlbarg-nicodemus-west/ |access-date=13 August 2021 |publisher=MovieWeb |date=2 November 2015}}</ref>
+
+[[Michael Stuhlbarg]] portrays the character in the [[Marvel Cinematic Universe]] film ''[[Doctor Strange (2016 film)|Doctor Strange]]'' (2016) and ''[[Doctor Strange in the Multiverse of Madness]]'' (2022).
+
+==Publication history==
+{{expand section|date=November 2016}}
+The character was created by [[Brian K. Vaughan]] and [[Marcos Martín (cartoonist)|Marcos Martin]] and appears in the limited series, ''[[Doctor Strange: The Oath]]''.<ref>''Doctor Strange: The Oath'' vol. 1 #1</ref>
+
+==Fictional character biography==
+Nicodemus West was born with [[Heterochromia iridum|heterochromia]] and spent most of his life studying and practicing medicine and surgery. He was long time admirer of [[Doctor Strange|Dr. Stephen Strange]], and proudly accepted the opportunity to perform surgery on his idol's hands after his fateful accident. Unfortunately, West was unable to repair the nerves in Strange's hands.<ref>''Doctor Strange: The Oath'' #2</ref>
+
+He followed Strange to [[Kamar-Taj]], where he too began training under the [[Ancient One]]. Feeling that he could heal people around the world with his new abilities, West leaves his training early, but due to his inexperience accidentally kills a cancer patient. He ends up joining Timely Pharmaceuticals as its C.E.O. under the condition he never use magic.<ref>''Doctor Strange: The Oath'' #3-4</ref>
+
+He eventually reveals himself to Strange when he steals a special elixir that would threaten Timely Pharmaceuticals' business. They fight using their sorcery, but West is easily defeated by Strange. West dies when he temporarily becomes powerless and falls off the Pharmaceuticals building.<ref>''Doctor Strange: The Oath'' #5</ref>
+
+==In other media==
+Nicodemus "Nic" West appears in the live-action [[Marvel Cinematic Universe]] films ''[[Doctor Strange (2016 film)|Doctor Strange]]''<ref name="Stuhlbarg">{{cite web|url=https://variety.com/2015/film/news/michael-stuhlbarg-doctor-strange-1201631614/|title=Michael Stuhlbarg in Talks to Join 'Doctor Strange'|last=Kroll|first=Justin|work=[[Variety (magazine)|Variety]]|date=November 2, 2015|accessdate=November 2, 2015|archiveurl=https://web.archive.org/web/20151104033358/http://variety.com/2015/film/news/michael-stuhlbarg-doctor-strange-1201631614/|archivedate=November 4, 2015|url-status=live}}</ref> and ''[[Doctor Strange in the Multiverse of Madness]]'' (2022),<ref>{{cite web | url=https://www.slashfilm.com/715442/doctor-strange-in-the-multiverse-of-madness-trailer-breakdown-things-just-got-out-of-hand/ | title=Doctor Strange in the Multiverse of Madness Trailer Breakdown: Things Just Got Out of Hand | date=22 December 2021 }}</ref> portrayed by [[Michael Stuhlbarg]]. This version is a rival surgeon to [[Stephen Strange (Marvel Cinematic Universe)|Dr. Stephen Strange]]<ref name="MarvelProductionBegins">{{cite web|url=http://marvel.com/news/movies/25486/marvels_doctor_strange_begins_production|title=Marvel's 'Doctor Strange' Begins Production|publisher=[[Marvel Comics|Marvel.com]]|date=November 24, 2015|accessdate=November 24, 2015|archiveurl=https://web.archive.org/web/20151125092911/http://marvel.com/news/movies/25486/marvels_doctor_strange_begins_production|archivedate=November 25, 2015|url-status=live}}</ref> who serves as a comedic foil with no sinister intentions.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://marvel.wikia.com/wiki/Nicodemus_West_(Earth-616) Nicodemus West] at Marvel Wiki
+
+{{Doctor Strange}}
+
+{{DEFAULTSORT:West, Nicodemus}}
+[[Category:Characters created by Brian K. Vaughan]]
+[[Category:Comics characters introduced in 2006]]
+[[Category:Fictional surgeons]]
+[[Category:Marvel Comics characters who use magic]]
+[[Category:Marvel Comics male supervillains]]
+[[Category:Marvel Comics supervillains]]
+
+
+{{Marvel-villain-stub}}

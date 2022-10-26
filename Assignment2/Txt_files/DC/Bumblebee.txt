@@ -1,0 +1,5 @@
+#REDIRECT [[Bumblebee (DC Comics)]]
+
+{{Redirect category shell|
+{{R from move}}
+}}

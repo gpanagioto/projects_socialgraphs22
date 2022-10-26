@@ -1,0 +1,5 @@
+#REDIRECT [[Wild Child (character)]]
+
+{{Redirect category shell|
+{{R from move}}
+}}

@@ -1,0 +1,129 @@
+{{Short description|DC Comics superhero}}
+{{Infobox comics character
+<!--Wikipedia:WikiProject Comics-->
+| character_name = Guardian
+| image          = Guardian (James 'Jim'Harper).png
+| converted      = y
+| caption        = James Harper as The Guardian.<br />Art by [[Jack Kirby]].
+| publisher      = [[DC Comics|DC ]]
+| debut          = ''[[Star-Spangled Comics]]'' #7<br />(April 1942)
+| creators       = [[Joe Simon]] (writer, artist, inks)<br />[[Jack Kirby]] (artist)
+| alter_ego      = James Jacob "Jim" Harper<br>[[Mal Duncan]]
+| full_name      =
+| species        = Human
+| homeworld      = Earth
+| alliances      = [[Science Police]]<br />[[Project Cadmus]]<br />[[All-Star Squadron]]<br />[[Newsboy Legion]]<br />[[Justice League]]
+| partners       = <!-- optional -->
+| supports       = <!-- optional -->
+| aliases        = [[List of minor characters in the Teen Titans animated series#Private H.I.V.E.|Private H.I.V.E.]] <br /> (Clone):<br />Golden Guardian
+| powers         = '''(Original)''':<br />Exceptional hand to hand combatant of boxing and other martial arts, with tactician<br />Excellent gymnast<br />Wears a golden helmet and carries a shield<br />Use of customized motorcycle and a set of video-cameras<br />'''(Clone)''':<br />Enhanced strength and reflexes<br />Accelerated healing factor<br />Access to the Whiz Wagon
+| cat            = superheroes
+| subcat         = DC Comics
+| hero           = 
+| villain        = 
+| sortkey        = Guardian
+| addcharcat#    = 
+|}}
+'''Guardian''' ('''James Jacob''' "'''Jim'''" '''Harper''') is a [[DC Comics]] [[superhero]] introduced in April 1942 by writer/artist [[Joe Simon]] and artist [[Jack Kirby]].
+
+Guardian resembles the earlier Kirby and Simon character [[Captain America]] (first published 13 months earlier by [[Marvel Comics]]), as he had no [[superpower (ability)|super powers]] and carried an indestructible shield. When Kirby returned to DC in 1970, he eventually re-established the character as a supporting one in the ''[[Superman]]'' franchise: as a clone who was head of security for [[Project Cadmus]].
+
+In the [[Arrowverse]] series ''[[Supergirl (TV series)|Supergirl]]'', [[Jimmy Olsen|James Olsen]], portrayed by [[Mehcad Brooks]], became the superhero Guardian. Additionally, James Harper appeared in the first season as a marine colonel portrayed by [[Eddie McClintock]]. In the sixth season, James Olsen’s sister Kelly became known as the Golden Guardian played by [[Azie Tesfai]].
+
+== Publication history ==
+He first appeared in ''[[Star-Spangled Comics]]'' #7 (April 1942) and was created by [[Jack Kirby]] and [[Joe Simon]].<ref name="dc-ency">{{Citation | last = Greenberger | first = Robert | author-link = Robert Greenberger | contribution = Guardian | editor-last = Dougall | editor-first = Alastair | title = The DC Comics Encyclopedia | pages = 150 | publisher = [[Dorling Kindersley]] | place = New York | year = 2008 | isbn = 978-0-7566-4119-1 | oclc = 213309017}}</ref><ref>{{cite book|last=Wallace|first= Daniel|editor-last = Dolan|editor-first = Hannah|chapter= 1940s|title = DC Comics Year By Year A Visual Chronicle|publisher=[[Dorling Kindersley]] |year=2010 |isbn= 978-0-7566-6742-9 |page= 41 |quote = Joe Simon and Jack Kirby took their talents to a second title with ''Star-Spangled Comics'', tackling both the Guardian and the Newsboy Legion in issue #7.}}</ref>
+
+==Fictional character biography==
+===Jim Harper===
+[[File:Star-Spangled Comics -7 (April 1942).png|thumb|upright|left|Guardian (Jim Harper) and the Newsboy Legion's debut. {{Descript-cvr|Star-Spangled Comics|1|7|April 1942|art=[[Jack Kirby]], [[Joe Simon]]|pub=DC}}]]
+Jim Harper is a police officer in [[Metropolis (comics)|Metropolis]]' [[Suicide Slum]] who becomes a [[vigilante]] to catch crooks that the law could not prosecute, describing himself as guarding society from criminals.<ref>{{cite book |last1=Greenberger |first1=Robert |last2=Pasko |first2=Martin |title=The Essential Superman Encyclopedia |date=2010 |publisher=Del Rey |isbn=978-0-345-50108-0 |pages=111–113}}</ref> He was trained to fighting condition by ex-boxer Joe Morgan (the same man who trained two other mystery men, [[Wildcat (DC Comics)|Wildcat]] and the first [[Atom (Al Pratt)|Atom]]). He doesn't have superpowers, but he carries a bulletproof shield.<ref>{{cite book |last1=Nevins |first1=Jess |title=Encyclopedia of Golden Age Superheroes |date=2013 |publisher=High Rock Press |isbn=978-1-61318-023-5 |page=120}}</ref>
+
+He's aided by a group of boys known as the [[Newsboy Legion]], to whom he is, literally, a guardian, having volunteered to take them in rather than allowing them to be sent to prison; he does so on the grounds that they're basically good kids who just needed a chance.<ref>{{cite book |last1=Thomas |first1=Roy |title=The All-Star Companion: Vol 2 |date=2006 |publisher=TwoMorrows Publishing |isbn=978-1893905375 |page=84}}</ref> The Legion grows up to become the heads of the [[Project Cadmus|Cadmus Project]], subsequently saving Harper's life by transferring his mind from his old, dying body into a younger clone of himself.<ref name="dc-ency" />
+
+It's later revealed that Jim Harper is the great-uncle of [[Roy Harper (comics)|Roy Harper]], who becomes [[Green Arrow]]'s sidekick under the name of "[[Speedy (comics)|Speedy]]".<ref>''[[Superboy (comic book)|Superboy]]'' (vol. 4) #82 (January 2001) [[DC Comics]].</ref>
+
+Other relatives include his niece Roberta "Famous Bobby" Harper, who is briefly a member of the second Newsboy Legion<ref>''Guardians of Metropolis'' #1 (November 1994) [[DC Comics]]</ref> and Jamie Harper, his grandniece working for the [[Gotham City]] Police Department. She works as [[Tim Drake|Robin]]'s personal contact in the GCPD, similar to the role [[James Gordon (comics)|Commissioner James Gordon]] plays for Batman.<ref>''[[Detective Comics]]'' #817 (May 2006) [[DC Comics]]</ref> After helping Robin and [[Jason Bard]] expose two dirty cops in the GCPD, Jamie Harper is promoted to Detective Specialist and transfers to the Metropolis [[Science Police]].<ref>''[[Superman (comic book)|Superman]]'' #687 (June 2009) [[DC Comics]].</ref>
+
+===Golden Guardian===<!-- This section is linked from [[List of DC Comics characters: G]] -->
+In ''Superman's Pal Jimmy Olsen #135'' (January 1971), Jack Kirby reintroduces the boys of the now grown-up Newsboy Legion as supporting characters connected with the DNA Project (later [[Project Cadmus]]), a [[genetics]] research laboratory. One of the Project's experiments is a [[Clone (genetics)|clone]] of the late Jim Harper, who takes up his predecessor's role, and becomes the Project's Head of Security as the '''Golden Guardian'''. Post-[[Crisis on Infinite Earths|Crisis]] this character is simply known as the Guardian.
+
+Harper remains Cadmus' Head of Security even after the former Newsboys leave. Eventually, he too is killed, although another clone is created and rapidly aged to adulthood, retaining all his predecessor's memories. This Guardian disappears along with the rest of Cadmus following an altercation with [[Amanda Waller]] and [[Lex Luthor|President Luthor]], and his whereabouts are unknown.
+
+==== Post-Infinite Crisis ====
+Following ''[[Infinite Crisis]]'', the Guardian clone's backstory was [[retroactive continuity|retconned]]. As [[Dubbilex]] explains to [[Jimmy Olsen]], Jim Harper was not killed in the line of duty, but shot by Cadmus' first head of security, [[Codename: Assassin|Jonathan Drew]], upon discovering the clone was already being created.
+
+It's also revealed that the original Guardian clone had left Cadmus early on, and was now living in the town of Warpath on the [[Mexico|Mexican]] border, where he assisted Sheriff [[Vigilante (comics)|Greg Saunders]]. Subsequent appearances of the Guardian had been new clones, each of which died within a year.<ref>''Superman's Pal Jimmy Olsen'' one-shot (October 2008)</ref>
+
+The original Guardian clone has decided to move to Metropolis with Gwen, his adopted daughter (in fact, an adolescent female clone of himself that he rescued), during the [[Superman: New Krypton|New Krypton]] storyline.<ref>''Adventure Comics'' Special #1 (January 2009) [[DC Comics]]</ref>
+
+[[Science Police]] team leaders DuBarry and Daniels, along with several prison guards, are killed during the events of [[Superman: New Krypton|New Krypton]] when a team of [[Kandor (comics)|Kandorians]] led by Commander Gor assault Stryker's Island and demand custody of [[Parasite (comics)|Parasite]].<ref>''[[Superman (comic book)|Superman]]'' #682 (January 2009). [[DC Comics]].</ref> The Science Police Control 'Rachel' tasks Guardian to act as a liaison between the [[Metropolis (comics)#Metropolis Police Department|Metropolis Police Department]] and a coalition of [[superhero]]es in bringing justice for the fallen science police officers and prison guards.<ref>''[[Superman (comic book)|Superman]]'' #683 (February 2009). [[DC Comics]].</ref> After the Kandorians leave Earth, Guardian is appointed Field Commander of the Science Police, as replacement for DuBarry and Daniels, due in part to his cloned memories of Jim Harper as a police officer and Guardian as a superhero.<ref>''[[Superman (comic book)|Superman]]'' #684 (March 2009). [[DC Comics]].</ref> He is asked by Superman to help [[Mon-El]], offering him a job with the Science Police and mentoring him on how to be a hero.
+
+The issues of ''[[Detective Comics]]'' published during the ''[[One Year Later]]'' event reveals that Harper has a grandniece, Jamie,<ref>''Detective Comics'' #819</ref> formerly a detective of [[Gotham City Police Department]] and an associate of [[Tim Drake|Robin III]].
+
+The Guardian later travels to the [[JLA Watchtower]] to warn the [[Justice League]] after finding a teleportation device in Metropolis. While on the Watchtower, the heroes are attacked by [[Prometheus (DC Comics)|Prometheus]], who blinds the Guardian. In the aftermath of the attack, Guardian and Mon-El are recruited by [[Kimiyo Hoshi]] to join the [[Justice League of America|Justice League]].<ref>''Justice League of America'' (vol. 2) #41 (January 2010)</ref> On his first and only mission with the team, the Guardian helps battle [[Doctor Impossible]]'s gang of villains. After a mere three issues, the Guardian was written out of the book due to writer [[James Robinson (comics)|James Robinson]]'s desire to work with a smaller cast.<ref>{{cite web|url=http://comicbookresources.com/?page=article&id=25567|title=WC10: Spotlight on James Robinson|date=5 April 2010}}</ref>
+
+Following the events of ''[[War of the Supermen]]'', Harper abandons his role as the Guardian and takes Jamie (now pregnant with Mon-El's child) off to an unknown destination.<ref>''War of the Supermen'' #4</ref>
+
+===Mal Duncan===<!-- This section is linked from [[List of DC Comics characters: G]] -->
+{{Main|Mal Duncan}}
+In ''[[Teen Titans]]'' #44 (November 1976), the previously uncostumed Titan [[Mal Duncan]] takes the name of the Guardian, wearing the original's outfit and an [[Powered exoskeleton|exoskeleton]] with strength augmenting abilities. The two Guardians finally meet in ''Superman Family'' #s 191-193 (Sept 78-Feb 79), when Mal helps rescue the Harper clone from Adam, an evil clone created using genetic material from both Harper and [[Dubbilex]] who have taken control of the DNA Project.
+
+The ''[[Crisis on Infinite Earths]]'' removes Duncan's career as the Guardian, although he does appear briefly in his Guardian costume during the Crisis itself.
+
+===Jake Jordan===
+{{Main|Manhattan Guardian}}
+In 2005, [[Grant Morrison]]'s ''[[Seven Soldiers]]'' [[metaseries|megaseries]] introduced a new character based on the original Guardian, Jake Jordan the [[Manhattan Guardian]].
+
+==Powers and abilities==
+The Guardian possesses exceptional combat and tactical skills. He was trained in many forms of fighting, and excelled at gymnastics, thinking quickly on his feet, and deduction. His only weapons are his golden helmet and shield. Guardian often used a customized motorcycle equipped with autopilot and a set of video cameras filming from various angles and recorded on videodisc.
+
+The Harper clone possesses enhanced strength and reflexes, and an accelerated healing factor. The Harper clone's exact strength level is unknown but has demonstrated the ability to hurt Superboy (who he trained in hand-to-hand combat) and [[Kryptonian]]s from Kandor. As an agent of Cadmus, Jim Harper also has access to the wondrous Whiz Wagon. The Hairies (a super-advanced tribe of techno-wizards, originally genetic creations of Donovan, who left Cadmus) built the Whiz Wagon to handle every situation. It can adapt to every terrain, fly, and even go underwater. The Wagon can be remote controlled or pre-programmed and is equipped with a set of powerful weapons and various gadgets.
+
+==Other versions==
+* In the [[Frank Miller (comics)|Frank Miller]] [[graphic novel]] ''[[The Dark Knight Strikes Again|Batman: The Dark Knight Strikes Again]]'', the Guardian is one of the superheroes killed by [[Dick Grayson]]. It is implied that he had a daughter with [[Lois Lane]] named Lana Harper-Lane, a television reporter.
+* The Guardian's golden shield survives to the alternative future of the 853rd century; it is kept by that timeline's Batman.<ref>''Superman/Batman'' #79</ref>
+* A bearded version of Guardian exists on the post-Flashpoint Earth-23 as a member of a predominantly African American Justice League.
+* The Guardian makes a non-speaking cameo appearance in the final issue of ''The Golden Age''. He is one of many heroes who tries and fails to fight the villainous Dynaman.
+
+==In other media==
+===Television===
+====Animation====
+[[File:GuardianYJ.jpg|thumb|upright|Jim Harper / Guardian as seen in the ''[[Young Justice (TV series)|Young Justice]]'' episode "Independence Day" Pt. 1]]
+The Jim Harper and [[Mal Duncan]] incarnations of Guardian appear in ''[[Young Justice (TV series)|Young Justice]]''.<ref>{{cite web|url=http://www.newsarama.com/tv/nycc201-young-justice-animated-101009.html|title=NYCC 2010: YOUNG JUSTCE Video Presentation & Q&A LIVE!}}</ref>
+* Jim Harper (voiced by [[Crispin Freeman]]) is a clone of [[Roy Harper (character)|Roy Harper]] created by the [[List of Young Justice characters#The Light|Light]] to serve their needs. Through programming and hypnosis, Guardian operates as a superhero who believes he is Roy Harper's uncle while also working for [[Project Cadmus]]. Introduced in the two-part episode "[[Independence Day (Young Justice)|Independence Day]]", Mark Desmond orders [[Dubbilex]] to mind control Jim and fend off [[Kaldur'ahm|Aqualad]], [[Dick Grayson|Robin]], and [[Wally West|Kid Flash]] after the trio infiltrate Project Cadmus. After they find and release [[Superboy (Kon-El)|Superboy]], Dubbilex frees Jim, who attempts to fight Desmond after he transforms into [[Blockbuster (DC Comics)|Blockbuster]] before Aqualad, Robin, Kid Flash, and Superboy defeat Desmond and the [[Justice League]] take him away. Following this, Jim vows to reform Project Cadmus. After learning of his true nature, Jim spends season two searching for Roy and taking part in an intervention for fellow clone, Red Arrow, before retiring the Guardian identity. As of ''Young Justice: Outsiders'', Jim has formed a familial relationship with Red Arrow and Roy.
+* Mal Duncan (voiced by [[Kevin Michael Richardson]]), a member of the [[List of Young Justice characters#"The Team"|Team]], becomes the Guardian in the season two episode "Cornered" and continues to use the identity for the rest of the season.
+
+====Live-action====
+[[File:Guardian (Mehcad Brooks).jpg|thumb|upright|James Olsen ([[Mehcad Brooks]]) as Guardian in [[The CW]]'s ''[[Supergirl (TV series)|Supergirl]]'']]
+Several versions of Guardian appear in series set in the [[Arrowverse]]:
+* James Harper appears in the ''[[Supergirl (TV series)|Supergirl]]'' episode "[[Manhunter (Supergirl)|Manhunter]]", portrayed by [[Eddie McClintock]]. This version is a colonel in the [[United States Marine Corps]].<ref>{{cite web|url=http://www.spoilertv.com/2016/03/supergirl-episode-117-manhunter-press.html|title=Supergirl - Episode 1.17 - Manhunter - Sneak Peeks, Promo, Promotional Photos & Press Release *Updated*|date=18 March 2016}}</ref>
+* With [[Winn Schott]]'s help, '''[[James Olsen (Arrowverse)|James Olsen]]''' (portrayed by [[Mehcad Brooks]]) became the superhero Guardian.<ref>{{cite news|url= https://www.hollywoodreporter.com/live-feed/jimmy-olsen-cast-cbs-supergirl-768142|work= [[The Hollywood Reporter]]|title=Jimmy Olsen Cast in CBS' ''Supergirl'' Pilot|first= Lesley|last= Goldberg|date= January 28, 2015|archive-url= https://web.archive.org/web/20150129035739/http://www.hollywoodreporter.com/live-feed/jimmy-olsen-cast-cbs-supergirl-768142|archive-date= January 29, 2015|url-status=live}}</ref><ref>{{cite web|url=http://tvline.com/2014/10/31/supergirl-casting-jimmy-olsen-cat-grant/|title=CBS' ''Supergirl'' Casting Jimmy Olsen, Cat Grant and Others|last=Mitovich|first=Matt Webb|publisher=[[TVLine]]|date=October 31, 2014|archive-url= https://web.archive.org/web/20151121050244/http://tvline.com/2014/10/31/supergirl-casting-jimmy-olsen-cat-grant/|archive-date= November 21, 2015|url-status=live|access-date=October 31, 2014}}</ref><ref>{{cite web|url=https://tvline.com/2016/10/11/supergirl-spoilers-season-2-james-guardian-kara-relationship/|title= ''Supergirl'' EP Reveals James' Future as DC Comics' Guardian, Explains Why He and Kara Are 'Best as Friends'|publisher=TV Line|last=Swift|first=Andy|date=October 11, 2016|archive-url= https://web.archive.org/web/20161015133814/https://tvline.com/2016/10/11/supergirl-spoilers-season-2-james-guardian-kara-relationship/|archive-date= October 15, 2016|url-status=live}}</ref>
+** An [[Multiverse (DC Comics)|alternate reality]] version of James Olsen / Guardian appears in "[[Crisis on Earth-X]]".<ref>{{Cite web|url=https://www.cbr.com/arrowverse-crisis-on-earth-james-olsen-guardian-dead/|title = Arrowverse: Crisis on Earth-X's First Casualty is|date = 28 November 2017}}</ref> This Guardian is a member of the [[Freedom Fighters (comics)|Freedom Fighters]] on [[Earth-X (Arrowverse)|Earth-X]] who wears a costume patterned after the American flag. He is tasked with protecting a temporal gateway from the New Reichsmen, but is killed by Nazi Führer [[Oliver Queen (Arrowverse)|Oliver Queen]].
+* In the [[Supergirl (season 6)|sixth season]] of ''Supergirl'', James Olsen's sister '''Kelly Olsen''' (portrayed by [[Azie Tesfai]]) becomes the new Guardian.<ref>{{cite web|url=https://www.upi.com/Entertainment_News/TV/2021/05/07/CW-Azie-Tesfai-Guardian-Supergirl-photo/5741620415064/|title=CW releases first look of Azie Tesfai as new Guardian on 'Supergirl'}}</ref>
+
+===Film===
+A character inspired by Guardian named '''[[Nathan Hardy|Colonel Nathan Hardy]]''' appears in ''[[Man of Steel (film)|Man of Steel]]'', portrayed by [[Christopher Meloni]]. He is a member of the [[USAF]] who goes by the call sign "Guardian".
+
+===Web series===
+The Mal Duncan incarnation of Guardian makes non-speaking appearances in ''[[DC Super Hero Girls]]''. This version is a student of Super Hero High.
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{comicbookdb|type=character|id=227|title=Guardian}}
+* [http://www.dcuguide.com/who.php?name=guardian Guardian profile] {{Webarchive|url=https://web.archive.org/web/20081202042443/http://www.dcuguide.com/who.php?name=GUARDIAN |date=2008-12-02 }} at The Unofficial Guide to the DC Universe
+{{Jack Kirby|state=collapsed}}
+{{All-Star Squadron}}
+{{GoldenAge}}
+{{Superman characters}}
+{{Justice League characters}}
+
+[[Category:Golden Age superheroes]]
+[[Category:Comics characters introduced in 1942]]
+[[Category:Fictional American police officers]]
+[[Category:Fictional shield fighters]]
+[[Category:Characters created by Jack Kirby]]
+[[Category:Characters created by Joe Simon]]
+[[Category:DC Comics characters with accelerated healing]]
+[[Category:Vigilante characters in comics]]

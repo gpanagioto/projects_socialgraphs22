@@ -1,0 +1,141 @@
+{{short description|Two fictional characters, supervillains published by DC Comics}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+<!-- | character_name = Clock King -->
+|image= clockkingdccomics.jpg
+| noimage =yes
+| caption = The Tem version of Clock King.
+| publisher = [[DC Comics]]
+| debut = '''(Tockman)'''<br>''[[World's Finest Comics]]'' #111 (August 1960)<br>'''(Tem)'''<br>''[[Teen Titans]]'' #56 (April 2008)
+| creators = '''(Tockman)'''<br>[[France Herron]] (writer)<br /> [[Lee Elias]] (artist) <br/> '''(Tem)'''<br> [[Sean McKeever]] (writer) <br /> Eddy Burrows (artist)
+| alter_ego = - William Tockman<br> - Tem
+| full_name =
+| species   =
+| homeworld =
+| alliances = '''(Tockman)'''<br>Injustice League<br/>Justice League Antarctica<br>[[Longbow Hunters]]<br/>Time Foes<br/>[[Suicide Squad]]<br>'''(Tem)'''<br>[[Terror Titans]]
+| partners  = <!-- optional -->
+| supports  = <!-- optional -->
+| aliases   =  '''(Tockman)'''<br>King Clock<br>'''(Tem)'''
+| powers = '''(Tockman)'''<br>Uses clock-related gadgetry<br>Accomplished swordsman<br>'''(Tem)'''<br>Absolute time sense
+}}
+The '''Clock King''' is the name of three <!--Do not add "fictional" as it is tautological; supervillains (and characters in general) are by definition implied to be fictionalized to some extent.-->[[supervillains]] appearing in [[American comic books]] published by [[DC Comics]]. The first Clock King was a villain and enemy of [[Green Arrow]], and debuted in ''[[World's Finest Comics]]'' #111 (August 1960), and was created by [[France Herron]] and [[Lee Elias]].<ref name=Guide>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Korte |first3=Steve |last4=Manning |first4=Matt |last5=Wiacek |first5=Win |last6=Wilson |first6=Sven |title=The DC Comics Encyclopedia: The Definitive Guide to the Characters of the DC Universe |date=2016 |publisher=DK Publishing |isbn=978-1-4654-5357-0 |page=70}}</ref>
+
+The Clock King made his first live-action appearance in the 1960s ''[[Batman (TV series)|Batman]]'' TV series, played by [[Walter Slezak]]. The character was later played by [[Robert Knepper]], appearing in episodes from the [[Arrow (season 2)|''Arrow'''s second season]] and ''[[The Flash (2014 TV series)|The Flash]]'' set in the [[Arrowverse]]. The character, named '''Temple Fugate''', appeared in shows set in the [[DC Animated Universe]] voiced by [[Alan Rachins]].
+
+{{TOC limit|3}}
+
+==Publication history==
+The first Clock King was originally an enemy of [[Green Arrow]]. He has no superpowers or abilities. He wears a clock mask, a cape, and a blue suit with clock drawings on it.<ref>{{cite book |last1=Greenberger |first1=Robert |title=The Essential Batman Encyclopedia |date=2008 |publisher=Del Rey |isbn=9780345501066 |page=92}}</ref>
+
+Clock King is a master planner and sometimes uses [[clock]]-themed gadgetry. The Clock King became better known more recently by his appearances in ''[[Justice League International]]'' and ''[[Suicide Squad]]''.
+
+==Fictional character biography==
+===William Tockman===
+Born '''William Tockman''', the Clock King spends his early years taking care of his invalid sister. During one day, he finds out from a doctor's visit that he himself only has six months to live. Despairing for his sister's future, he watches the timing of a local bank's vault in order to rob it, hoping the money would provide for his sister after he was gone. His caper would have gone successfully, had he not tripped a silent alarm and been caught by Green Arrow.<ref name="dc-ency">{{Cite book | last = Wallace | first = Dan | contribution = Clock King | editor-last = Dougall | editor-first = Alastair | title = The DC Comics Encyclopedia | page = 84 | publisher = [[Dorling Kindersley]] | place = New York | year = 2008 | isbn = 978-0-7566-4119-1 | oclc = 213309017}}</ref>
+
+While he is incarcerated, his sister dies alone. In further and hideous irony, Tockman discovers that he really is not terminally ill; his doctor had accidentally switched his papers with those of another patient. Infuriated, he escapes, later futilely attempting revenge on both Green Arrow and the incompetent doctor.<ref>{{cite book |last =Rovin |first =Jeff |title =The Encyclopedia of Supervillains |publisher =Facts on File |date =1987 |location =New York |isbn = 0-8160-1356-X |page=60}}</ref>
+
+With several other villains, the Clock King becomes a member of the Injustice League, a team of out-of-luck supervillains who, when banding together, become even less successful than they have been in their individual careers.<ref>''Justice League International'' #23 (January 1989)</ref> The Injustice League is defeated time and again by the [[Justice League International]], at least when they are not making laughingstocks of themselves. Trying to reform, the members later become the core of the equally laughable hero team Justice League Antarctica. This JLA includes G'Nort, who ends up saving the lives of the entire team.<ref>''Justice League America'' Annual #4 (October 1990)</ref> Like his compatriots, Clock King becomes an ardent supporter of [[Maxwell Lord]], partly due to the fact he is the only one willing to hire them. His group even guards Lord when he is incapacitated by a bullet wound.<ref>''Justice League America'' #53 (August 1991)</ref> The villains again later reunite as the Injustice League as henchmen of [[Sonar (comics)|Sonar]].<ref>''Justice League Europe'' #49&ndash;50 (April&ndash;May 1993)</ref>
+
+Later, the Clock King leads his own separate team of villains in a mission. They consist of Radiant, Sharpe, Acidia, and Crackle. They are not as well-organized as even the Injustice League. For example, Crackle still lives with his mother and they have to take the bus to their fight. It takes place at a [[Metropolis (comics)|Metropolis]] toy store. They end up fighting one of the many incarnations of the [[Teen Titans]], the heroes [[Booster Gold]] and [[Firehawk (comics)|Firehawk]] and DEO agent [[Cameron Chase]]. An unclear super-effect from Chase ultimately neutralizes Clock King's team and they are all imprisoned. Clock King himself escapes on another bus.<ref>''Chase'' #4 (May 1998)</ref>
+
+Still later, Clock King and his Injustice League friends are transformed into the new [[Suicide Squad]]. They are sent to a remote research facility where a [[gene]]tic monstrosity is holding its creator hostage. Its main defenses are spawned "children" that could explode. During the mission, most of the team are seemingly killed, including Clock King, who is shot repeatedly in a retreat attempt. He is seen still alive after his brutal wounds but, in the end, [[Major Disaster]] believes he is the only one who survives. It turns out [[Cluemaster]], shot in a similar manner as Clock King, survives, albeit with drastic scarring.<ref>''Suicide Squad'' (vol. 2) #1</ref><ref name="dc-ency"/> [[Multi-Man]] also survives due to his ability to be reborn with new powers after dying.
+
+Clock King is not seen for a period of time after ''[[Infinite Crisis]]''. In an issue of ''[[52 (comics)|52]]'', one character decides to kill all the time-travelers, and mentions someone "ending up like [[Time Commander (comics)|Time Commander]] and Clock Queen".
+
+===Tem===
+A new Clock King appears in ''[[Teen Titans]]'' #56 as the head of a team of villains named the [[Terror Titans]]. In an interview with ''Teen Titans'' writer Sean McKeever, he described this Clock King as "... Very smart. He sees things differently than others".<ref>{{cite web |url=http://forum.newsarama.com/showthread.php?t=144154 |title=Sean Mckeever On The Terror Titans - Newsarama |publisher=Forum.newsarama.com |date=2008-01-23 |access-date=2010-12-25 |url-status=dead |archive-url=https://web.archive.org/web/20110211183237/http://forum.newsarama.com/showthread.php?t=144154 |archive-date=2011-02-11}}</ref> His costume is similar to the suit worn by the Clock King seen in ''[[Batman: The Animated Series]]'', although lacking a hat and having clock faces on his tie. Also evocative of ''the Animated Series'', [[Disruptor (comics)|Disruptor]] refers to him as "'''Tem'''" before being killed; After his group defeats and captures [[Kid Devil]],<ref>''Teen Titans'' (vol. 3) #56 (April 2008)</ref> Clock King conditions the hero<ref>''Teen Titans'' (vol. 3) #58 (June 2008)</ref> to be sold as a fighter to a group called "The Dark Side Club".<ref name=tt59>''Teen Titans'' (vol. 3) #59 (July 2008)</ref> Clock King then brings the Titans to his base of operations, a dimension outside of time.<ref name=tt59 /> After besting Robin, Clock King is stymied by [[Rose Wilson|Ravager]], who possesses similar precognitive abilities.<ref name=tt60>''Teen Titans'' (vol. 3) #60 (August 2008)</ref> He offers Ravager a chance to join him, but she refuses. Clock King then removes the Titans from his base and decides to move on to new plans. Ravager ultimately reconsiders his earlier offer.<ref name=tt59 /> In the ''Terror Titans'' miniseries, Clock King takes over the [[Dark Side Club]], and uses it to brainwash young metahumans, turning them into his very own "Martyr Militia". He sends the Militia to attack [[Los Angeles]], for no reason other than to amuse him.<ref>''Terror Titans'' #5 (April 2009)</ref> Clock King's plans are eventually undone by [[Miss Martian]], who was posing as one of the captured Metahumans, and Ravager, who attacks and defeats him, forcing him to flee his base of operations.<ref>''Terror Titans'' #6 (May 2009)</ref>
+
+===''The New 52''===
+In ''[[The New 52]]'', three iterations of the Clock King appeared:
+* '''Billy Tockman''' is an African-American crime boss based in Seattle. Tockman owns a nightclub called the Midnight Lounge, and vintage clock repair shop called the Clock King, which he uses as a front for his operations.<ref>''Green Arrow'' (vol. 5) #22 (September 2013)</ref> While Green Arrow is off dealing with The [[Outsiders (comics)|Outsiders]], Diggle, along with Naomi Singh and Henry Fyff, talk Tockman into taking down [[Richard Dragon]], to which he agrees. When they meet to take down Dragon, Tockman betrays them, claiming Dragon made a better offer. When Green Arrow returns and faces Dragon, he holds Naomi and Fyff at gunpoint on Dragon's orders and ends up shooting Fyff, then promptly getting beat up and knocked out by [[Emiko Queen]].
+* Another Clock King, wearing the original Clock King costume, battles the newest incarnation of the [[Birds of Prey (comics)|Birds of Prey]] amped up on Venom.<ref>''Batman: The Dark Knight'' (vol. 2) #2 (October 2011)</ref> 
+* Another, bearing an appearance similar to his Animated Series look (but with a black and blue suit and black and yellow glasses), tries to rob a store alongside his roommate [[Sportsmaster]], who calls him '''Bill'''. He is stopped by [[Harley Quinn]] and [[Power Girl]], but not before teleporting them into another dimension. He is shown to have the ability to rewind time.<ref>''Harley Quinn'' (vol. 2) #11-13. (December 2014)</ref>
+
+===''DC Rebirth''===
+In the ''[[DC Rebirth]]'' relaunch, two Clock Kings are active:
+* A man who wears the classic Clock King costume, but with his face showing, this new version claims to be a temporal anomaly and feeds on the life force of others to maintain his youth, which led to him preying on African citizens. He is sheltered within the African nation of Buredunia under dictator Matthew Bland. His actions drew the attention of [[Deathstroke the Terminator]], who was assigned by Bland to kill Clock King as revenge for his murders. However, Clock King managed to save his life by revealing that the warlord would kill Deathstroke after he had finished the job. He later kidnaps Bland. During the fight, Slade shoots him, revealing his powers to be special effects. Furthermore, Clock King revealed that as a time anomaly, he saw that as a result of [[Doctor Manhattan]]'s [[Doomsday Clock (comics)|manipulation of the timestream]] led to the rebirth of Deathstroke's ally [[Wintergreen (comics)|Wintergreen]]. With that information, Deathstroke spared Clock King's life.<ref>''Deathstroke: Rebirth'' #1 and ''Deathstroke'' (vol. 4) #1</ref>
+* A former engineer and drug dealer in a suit, sporting glasses inherited from his grandfather<ref>''Nightwing'' (vol. 3) #24-25</ref> and having a tattoo of a clock and arrow on the side of his head, he wired targets to clocks that can kill the wearer.<ref>''Green Arrow'' (vol. 7)</ref> This version would later face Batman. He bragged that he would be able to predict every one of Batman's movements, but was defeated by a hiding [[Catwoman]].<ref>''Batman'' (vol. 3) #14</ref> He was invited to a weapons deal by [[Tiger Shark (DC Comics)|Tiger Shark]] and [[Blockbuster (DC Comics)|Blockbuster]] on board a ship, which was stopped by [[Nightwing]]. He is seen tinkering with his clocks as the ship sinks.<ref>''Nightwing'' (vol. 3) #22-28</ref>
+
+==Powers and abilities==
+* The original Clock King has no [[metahuman]] powers or abilities, although he is athletic and extraordinarily smart. He extensively uses clock and time -related gimmicks to devastating effect.
+* The second Clock King has the always-active ability to see what is about to happen four seconds or so into the future, allowing him to anticipate an opponent's every move.<ref name=tt59 /> He is also a technological genius, creating devices such as teleporters, communications jamming equipment, and even an anti-gravity platform, all of them modelled after timepieces.
+
+==Other versions==
+===''Flashpoint''===
+In the alternate timeline of the ''[[Flashpoint (comics)|Flashpoint]]'' event, Clock King is imprisoned in [[Legion of Doom (Super Friends)|military Doom prison]]. During the prison break, Clock King joined [[Heat Wave (comics)|Heat Wave]] and [[Plastic Man]] to retrieve his weapons.<ref>''Flashpoint: Legion of Doom'' #2 (July 2011)</ref>
+
+===''Batman '66''===
+In ''[[Batman (TV series)#Batman '66|Batman '66]]'' #4, the Clock King of the [[Batman (TV series)|60's series]] appears as a secret collaborator to the [[Mad Hatter (DC Comics)|Mad Hatter]]'s latest scheme. At the end, it is revealed that he is Jervis Tetch's brother, '''Morris Tetch''', who made much of the Mad Hatter's more advanced weapons and described himself and his brother as both "meticulous obsessives", Jervis loving hats and Morris clocks.<ref>''Batman '66'' #4</ref>
+
+===''The Batman Adventures''===
+The Clock King also makes an appearance in a 2004 ''[[The Batman Adventures]]'' comic. In this issue, he finally gets his revenge on Hill by rigging the mayoral election so that it seems that Oswald C. Cobblepot (the [[Penguin (character)|Penguin]]) has won.
+
+===''Batman: The Brave and the Bold''===
+The Clock King appears in ''[[Batman: The Brave and the Bold]]'' comic, in "President Batman!", where Clock King (along with [[Killer Croc]], [[Scarecrow (DC Comics)|Scarecrow]] and [[Two-Face]]) help [[Doctor Psycho]] in his plan, until they are defeated by [[Wonder Woman]] and [[Batman]].
+
+===''Injustice''===
+====''Injustice: Gods Among Us''====
+The Clock King makes a brief cameo in Chapter Eight of the ''[[Injustice: Gods Among Us]]'' comic, visibly shocked by the sudden appearance of [[Wonder Woman]] and [[Flash (Barry Allen)|Flash]] in the villains only bar called World's End.
+
+====''Injustice 2''====
+In the prequel comic to ''[[Injustice 2]]'', Clock King is shown to be a member of this universe's [[Suicide Squad]].<ref>''Injustice 2'' #1</ref> After a mysterious evil Batman copycat (a revived [[Jason Todd]] in disguise) appears and takes control of the Squad, he kills the Clock King using the bomb implanted in his neck, considering him useless.<ref>''Injustice 2'' #3</ref>
+
+==In other media==
+===Television===
+====Live action====
+[[File:B60s-Clocking.jpg|180px|right|thumb|[[Walter Slezak]] as the Clock King in the 1960s ''Batman'' show.]]
+[[File:Clock King (Robert Knepper).jpg|175px|thumb|right|[[Robert Knepper]] as William Tockman in ''Arrow''.]]
+* The Clock King appears in the [[Batman (TV series)|1960s ''Batman'' TV series]], portrayed by [[Walter Slezak]]. This version wears a black cape and a top-hat with a clock inside it. Furthermore, he wields weapons such as "Super Slick Watch Oil", "Knock Out Gas", and "Super Sonic Sound". In the consecutive episodes, "The Clock King's Crazy Crimes" and "The Clock King Gets Crowned", he disguises himself as a pop artist and tries to rob a time-related [[surrealism|surrealist]] painting. [[Batman]] and [[Dick Grayson|Robin]] intervene, but are captured and stuffed into the bottom of an oversized hourglass, stripped of their utility belts, and left to be drowned in sand as the Clock King plots to filch Bruce Wayne's collection of antique pocket watches, only for the Dynamic Duo to escape the trap. Believing his enemies dead, the Clock King attempts to steal an atomic-powered [[Cesium clock]], only to be foiled by the Dynamic Duo.
+* The William Tockman incarnation of the Clock King appears in television series set in the [[Arrowverse]], portrayed by [[Robert Knepper]]:<ref>{{cite news|url=http://www.comingsoon.net/news/tvnews.php?id=112409 |title=Robert Knepper Cast as Clock King on Arrow |date=11 December 2013 | website=[[ComingSoon.net]] |access-date=2014-11-12}}</ref> 
+** The character made his debut in the ''[[Arrow (TV series)|Arrow]]'' episode "Time of Death".<ref>[http://tvline.com/2013/12/03/glee-season-5-dianna-agron-returning-quinn-returns/ Ask Ausiello: Spoilers on Arrow, HIMYM, Once, Good Wife, Hannibal, Scandal, Sleepy and More]</ref> Tockman masterminds the theft of a hacking device that can be used to break into bank vaults and computer systems to raise money for medical treatment for his dying sister, Beverly. He hacks into [[Felicity Smoak (Arrowverse)|Felicity Smoak]]'s computer system and disables it, leading to her getting involved in the [[Oliver Queen (Arrowverse)|Arrow]]'s efforts to capture him and defeating Tockman herself.<ref>{{Cite web |url=http://blog.zap2it.com/frominsidethebox/2014/02/arrow-season-2-timing-is-everything-in-time-of-death.html |title='Arrow' Season 2: Timing is everything in 'Time of Death' |access-date=2014-02-27 |archive-url=https://web.archive.org/web/20140302102126/http://blog.zap2it.com/frominsidethebox/2014/02/arrow-season-2-timing-is-everything-in-time-of-death.html |archive-date=2014-03-02 |url-status=dead}}</ref>
+** Tockman returns in ''[[The Flash (2014 TV series)|The Flash]]'' episode "Power Outage".<ref name="ClockKing1">{{cite web|url=http://tvline.com/2014/08/07/flash-arrow-crossover-episode-spoilers-clock-king/|title=Arrow's [Spoiler] Crosses Over to Flash|last=Swift|first=Andy|publisher=[[TV Line]]|date=August 7, 2014|access-date=August 8, 2014}}</ref> He is temporarily transferred to the [[Central City (DC Comics)|Central City]] Police Department's custody before taking advantage of a citywide blackout to take everyone inside hostage. However, [[Iris West (Arrowverse)|Iris West]] grabs Officer [[Eddie Thawne]]'s gun beforehand and wounds Tockman with it before the [[Barry Allen (Arrowverse)|Flash]] arrives to help.
+
+====Animation====
+* The William Tockman incarnation of the Clock King appears in ''[[Batman: The Brave and the Bold]]'', voiced by [[Dee Bradley Baker]].<ref>{{cite web|url=http://www.comicscontinuum.com/stories/0810/22/index.htm |title=Comics Continuum by Rob Allstetter: Wednesday, October 22, 2008 |publisher=Comicscontinuum.com |date=2008-10-22 |access-date=2010-12-25}}</ref> Like his comics counterpart, this version possesses many clock-themed weapons and gadgets and wears a modified version of his original costume. He is also shown to resemble the 1960s version of the Clock King underneath his mask. In keeping with his clock theme, he employs two henchmen named Tick and Tock. Additionally, an unnamed, heroic, [[Multiverse (DC Comics)|alternate universe]] version of the Clock King makes a cameo appearance in the episode "Deep Cover for Batman!".
+* An unidentified Clock King appears in the ''[[Harley Quinn (TV series)|Harley Quinn]]'' episode "The 83rd Annual Villy Awards", voiced by [[James Adomian]]. This version is openly gay and in a relationship with the [[Riddler]].
+
+=====DC Animated Universe=====
+[[File:TempleFugate.jpg|thumb|right|180px|Temple Fugate/The Clock King as seen in ''[[Batman: The Animated Series]]''.]]
+A new incarnation of the Clock King appeared in series set in the [[DCAU]], voiced by [[Alan Rachins]]. This version is {{anchor|Temple Fugate}}'''Temple Fugate''' (a play on the [[Latin]] phrase ''[[tempus fugit]]''), a man who is obsessed with time and punctuality, even going so far as to pre-plan his every waking moment on a "to do" list broken down into precise blocks.
+* Introduced in the ''[[Batman: The Animated Series]]'' episode "The Clock King", Fugate serves as the head of a [[time and motion study]] consulting company that was fined $20 million in court and was in the midst of appealing against it. Future Gotham mayor [[Hamilton Hill (comics)|Hamilton Hill]] convinces Fugate to break his schedule and take his coffee break at a slightly later time, warning Fugate that the judge may consider Fugate's stress a sign of suspicious behavior. However, due to a string of bad luck, Fugate shows up late for his court appointment, loses his appeal, and goes bankrupt as a result. He later learns that Hill's firm represented the plaintiff for the case and swears revenge on Hill for making him late. Seven years later, Fugate becomes the Clock King and dedicates his life to destroying Hill. After publicly shaming him, Fugate has a confrontation with Batman and falls to his apparent death, only to return in the episode "Time Out of Joint", continuing to seek revenge against Hill by utilizing a stolen device that allows him to manipulate time and incorporating it into a bomb. Nevertheless, Batman and Robin foil his plans and Fugate is sent to [[Arkham Asylum]].
+* Fugate returns in the ''[[Justice League Unlimited]]'' episode "Task Force X". [[Project Cadmus]] recruits him into the [[Suicide Squad|eponymous group]] to assist in a mission to steal the Annihilator automaton from the [[Justice League]] by acting as radio support and coordinating the mission's timing down to the second.
+
+===Film===
+* The 1960s ''Batman'' series version of the Clock King appears in the animated film ''[[Batman: Return of the Caped Crusaders]]''.
+* The William Tockman incarnation of the Clock King appears in the animated film ''[[The Lego Batman Movie]]''.
+
+===Video games===
+* The William Tockman incarnation of the Clock King appears as a boss in ''[[Batman: The Brave and the Bold – The Videogame]]'',<ref>{{cite web|url=http://gametrailers.com/video/ds-gameplay-batman-the/702694 |title=Batman: The Brave And The Bold Video Game, DS Gameplay Featurette &#124; Video Clip &#124; Game Trailers & Videos |publisher=GameTrailers.com |date=2010-08-10 |access-date=2010-12-25}}</ref> voiced again by Dee Bradley Baker. In the [[Wii]] version, he is hired by [[Gentleman Ghost]] to lure Batman to London by capturing [[Hawkman (Carter Hall)|Hawkman]] and threatening to blow up [[Big Ben]]. In the [[Nintendo DS]] version, the Clock King and [[Morgaine le Fey (DC Comics)|Morgaine le Fey]] join forces, but are defeated by Batman and the [[Red Tornado]].
+* The William Tockman incarnation of the Clock King appears as a playable character in ''[[Lego DC Super-Villains]]'',<ref>{{Cite web|url=http://www.comicsbeat.com/sdcc18-lego-dc-super-villains-cast-and-devs-dish-on-funever-evil/|title=Syndicated Comics|date=22 July 2018}}</ref> voiced once more by Dee Bradley Baker.
+
+===Toys===
+In February 2009, [[Mattel]] released an action figure of the DCAU incarnation of the Clock King in the [[DC Universe: Justice League Unlimited Fan Collection|''Justice League Unlimited'' toyline]] in a Matty Collector exclusive four pack along with [[Bane (DC Comics)|Bane]], [[Harley Quinn]], and the [[Scarecrow (DC Comics)|Scarecrow]].
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://web.archive.org/web/20100206000859/http://dcuguide.com/who.php?name=clockking ''The Unofficial Guide to the DC Universe'''s biography for the Clock King]
+* [https://web.archive.org/web/20070927185500/http://www.dcindexes.com/database/story-details.php?storyid=7225 The ''DC Database'''s article on the Clock King's debut]
+* {{DCdatabase|Clock King}}
+* [http://seanbaby.com/stupcom/clockking.htm Stupid Villain Showcase] Satirical analysis of the first Clock King by [[Seanbaby]]
+* [http://www.batmantas.com/cmp/new.htm Clock King on the ''Batman: The Animated Series'' official page]
+
+{{Green Arrow}}
+{{Batman characters}}
+{{Robin}}
+{{Teen Titans}}
+{{Batman (TV series)}}
+
+[[Category:Characters created by Lee Elias]]
+[[Category:Characters created by France Herron]]
+[[Category:Characters created by Sean McKeever]]
+[[Category:DC Comics male supervillains]]
+[[Category:Fictional scientists]]
+[[Category:DC Comics metahumans]]
+[[Category:Comics characters introduced in 1960]]
+[[Category:Comics characters introduced in 2008]]
+[[Category:DC Comics television characters]]
+[[Category:DC Animated Universe characters]]
+[[Category:Batman characters]]
+[[Category:Suicide Squad members]]

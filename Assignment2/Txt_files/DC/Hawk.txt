@@ -1,0 +1,273 @@
+{{short description|Fictional team of superheroes}}
+{{other uses|Hawk and dove (disambiguation)}}
+{{Redirect|Dove (comics)|the ''League of Champions'' superhero|Dove (Heroic Publishing)}}
+{{Use mdy dates|date=May 2022}}
+{{Use American English|date=May 2022}}
+{{Infobox comics team and title <!--Wikipedia:WikiProject Comics-->
+<!-- Group section -->
+|group = y
+|image = Ditko Hawk & Dove.png
+|imagesize =
+|caption = Dove (Don Hall, left) and Hawk (Hank Hall, right) from their first appearance in ''[[Showcase (comics)|Showcase]]'' #75 (June 1968); art by [[Steve Ditko]].
+|alt = Hawk and Dove breaking through a ceiling
+|publisher = [[DC Comics]]
+|debut = ''[[Showcase (comics)|Showcase]]'' #75 (June [[1968 in comics|1968]])
+|creators = {{Plainlist|
+* [[Steve Ditko]]
+* [[Steve Skeates]]
+}}
+|base = 
+|members = [[Hank Hall]] and Don (Donald)<ref name=bd4>''Brightest Day'' #4 (August 2010)</ref> Hall<br>Hank Hall and Dawn Granger<br>Sasha Martens and Wiley Wolverman<br>Dawn Granger and Holly Granger
+|alliances = [[Teen Titans]]<br/>[[Black Lantern Corps]]<br/>[[Birds of Prey (comics)|Birds of Prey]]<br/>[[Justice League]]
+
+<!-- Series section -->
+|title = Hawk and Dove
+|cvr_image = <!-- filename format only -->
+|cvr_caption = 
+|1stishhead = Volume 1
+|1stishyr = 1968
+|1stishmo = September
+|endishyr = 1969
+|endishmo = June/July
+|1stishhead1 = Volume 2
+|1stishyr1 = 1988
+|1stishmo1 = October
+|endishyr1 = 1988
+|endishmo1 = December
+|1stishhead2 = Volume 3
+|1stishyr2 = 1989
+|1stishmo2 = June
+|endishyr2 = 1991
+|endishmo2 = October
+|1stishhead3 = Volume 4
+|1stishyr3 = 1997
+|1stishmo3 = November
+|endishyr3 = 1998
+|endishmo3 = March
+|1stishhead4 = Volume 5
+|1stishyr4 = 2011
+|1stishmo4 = September
+|endishyr4 = 2012
+|endishmo4 = March
+|issues = <br/>6 (vol. 1)<br/>5 (vol. 2)<br/>28, plus 2 ''Annual''s (vol. 3)<br/>5 (vol. 4)<br/>8 (vol. 5)
+|main_char_team = 
+|writers = 
+|artists = 
+|pencillers = 
+|inkers = 
+|letterers = 
+|colorists = 
+|editors = 
+|creative_team_month = 
+|creative_team_year = 
+|creators_series = 
+|TPB = Hawk and Dove
+|ISBN = 978-1-56389-120-5
+|cat = teams
+|subcat= DC Comics
+|hero = y
+|sortkey = Hawk And Dove
+}}'''Hawk and Dove''' are a [[superhero]] team appearing in [[American comic books]] published by [[DC Comics]]. Created by [[Steve Ditko]] and [[Steve Skeates]], they appeared in ''[[Showcase (comics)|Showcase]]'' #75 (June [[1968 in comics|1968]]) during the [[Silver Age of Comic Books]].<ref>{{cite web |last1=Markstein |first1=Don |website=Don Markstein's Toonopedia |access-date=2 April 2020  |url=http://www.toonopedia.com/hawkdove.htm |title=Hawk and Dove}}</ref> The duo has existed in multiple incarnations over the years across several eponymous [[ongoing series]] and [[miniseries]], and has also appeared in a number of recurring roles and guest appearances in titles such as ''[[Teen Titans]]'', ''[[Birds of Prey (comics)|Birds of Prey]]'', and ''[[Brightest Day]]''. The duo originated as teenage brothers '''[[Hank Hall]]''' as Hawk and '''Don Hall''' as Dove. Following Don's death in ''[[Crisis on Infinite Earths]]'' (1985), '''Dawn Granger''' assumed the role of Dove in ''Hawk & Dove'' #1 (October 1988). The mantle of Hawk would later be taken up by Dawn's sister '''Holly Granger''' in 2003 after Hank was killed during 1994's ''[[Zero Hour: Crisis in Time!]]'' until her death and Hank's resurrection in ''[[Blackest Night]]'' (2009). An unrelated team consisting of military cadet '''Sasha Martens''' as Hawk and rock musician '''Wiley Wolverman''' as Dove also appeared as the focus of a 1997 miniseries. The pairing of Hank and Dawn serve as the current and most commonly published incarnation of the team.
+
+Inspired by the emerging political divides of the 1960s between pro-war [[War hawk|hawk]]s and pacifist [[War dove|dove]]s, the central concept traditionally revolves around two young heroes with contrasting personalities and diametrically opposed ideologies who, by speaking their superheroic aliases, are transformed and granted power sets of heightened strength, speed, and agility. With Dove embodying reason and nonviolence and Hawk embodying force and aggression, the two heroes complement one another to effectively fight evil. With the introduction of Dawn Granger, it was revealed that Hawk and Dove receive their powers from the [[Lords of Chaos and Order]], respectively, and that their powers are mystic in origin.
+
+Though the duo's ongoing titles have all been relatively short-lived and their guest appearances in other titles sporadic, the heroes have experienced a storied and sometimes tragic history. Multiple characters have worn the respective titles of Hawk and Dove at one time or another and the legacy has experienced death, resurrection and even Hank's own descent into madness and subsequent transformation into the mass-murdering villain Monarch and later Extant.
+
+Hank Hall, Dawn Granger, and Don Hall made their live-action debuts in the television series ''[[Titans (2018 TV series)|Titans]]'', played by [[Alan Ritchson]], [[Minka Kelly]], and [[Elliot Knight]], respectively.
+
+==Publication history==
+===Silver and Bronze Age===
+Spinning off from their ''[[Showcase (comics)|Showcase]]'' debut, [[Hank Hall|Hank]] and Don Hall received their own series titled ''The Hawk and the Dove''. Created by plotter/artist [[Steve Ditko]] and writer [[Steve Skeates]],<ref>{{cite book|last=McAvennie|first= Michael|editor-last = Dolan|editor-first = Hannah|chapter= 1960s|title = DC Comics: Year by Year - A Visual Chronicle|publisher=[[Dorling Kindersley]]|year=2010|isbn= 978-0-7566-6742-9 |page= 130|quote = Brothers Hank and Don Hall were complete opposites, yet writer/artist Steve Ditko with scripter Steve Skeates made sure the siblings shared a desire to battle injustice as Hawk and Dove.}}</ref> with [[Carmine Infantino]] coming up with the title,<ref>{{Cite web | url=https://www.comics.org/issue/21917/ | title=GCD :: Issue :: Showcase #75 }}</ref> Ditko plotted only the first issue and left after the second.<ref>{{cite book |last1=Wells |first1=John |title=American Comic Book Chronicles: 1965-1969 |date=2014 |publisher=TwoMorrows Publishing |isbn=978-1605490557 |pages=210–211}}</ref> In a 1999 interview, Skeates expressed dismay with changes that would be made to his script by Ditko and editorial, citing a tendency to neutralize Dove's abilities as a crimefighter in favor of Hawk's:
+
+<blockquote>It was strange. A lot of changes would happen after I turned in a script. Quite often, my idea of what to do with the Dove was have him do brave stuff – and then it would be changed by either [[Dick Giordano|Dick [Giordano]]] or Steve into the Hawk doing that stuff. They'd say it was out of character for the Dove. They seemed to be equating Dove with wimp, wuss, coward or whatever. And I don't really think it was because they were more hawkish. I just don't think that they knew what a dove was.<ref>Skeates, Steve. Interview from ''Comic Book Artist Magazine'' #5 (1999).</ref></blockquote>
+
+Although Skeates attempted to change the direction of the series after Ditko left and artist [[Gil Kane]] joined the creative team, Skeates himself left after the fourth issue, leaving Kane to take on both writing and art responsibilities until the book's cancellation due to low sales after only the sixth issue.
+
+The original Hawk and Dove made sporadic appearances in different DC titles throughout the 1970s and 1980s, primarily within the ''[[Teen Titans (comics)|Teen Titans]]'' and ''New Teen Titans'', joining the original incarnation briefly from ''Teen Titans'' #25–30 (January–October 1970), under the guidance of writers [[Dick Giordano]] and [[Robert Kanigher]] and artist [[Nick Cardy]]. Skeates also provided scripts for some of these issues they appeared in. The brothers also teamed up with Batman in ''[[The Brave and the Bold]]'' #181 (Dec 1981) in an out-of-continuity tale written by [[Alan Brennert]] and drawn by [[Jim Aparo]].
+
+The original Hawk and Dove's last appearance together was in ''Crisis on Infinite Earths'' #12 (March 1986), in which Don Hall was killed and became one of the last of a multitude of characters to meet their demise throughout the series, including the [[Flash (Barry Allen)|Flash]], [[Supergirl (Kara Zor-El)|Supergirl]], and dozens of others.
+
+===Modern Age===
+Following Dove's death, Hawk and Dove would appear together in various flashbacks, while Hawk would appear alone in occasional guest-appearances in the ''Teen Titans'' titles, including his own solo two-part story in ''Teen Titans Spotlight'' #7–8 (February-March 1987) by [[Mike Baron]] and [[Jackson Guice]].
+
+In 1986, [[Karl Kesel]] and [[Barbara Kesel]] began collaborating on a revival of Hawk and Dove, with the idea of creating a second Dove, who would this time be a female that would later become Dawn Granger. Karl Kesel stated:
+<blockquote>I was inking the figure of the dead Dove on [[George Pérez]]'s "Crisis" spread in ''The History of the DC Universe'' not crying tears over the death of the guy since he was pretty much a minor hero, but regretting the end of a really interesting team. I always liked Hawk and Dove. I always thought how they'd say "Hawk!" and "Dove!" and transform was really cool. Then it hit me: The mysterious voice that gave Hawk and Dove their powers could easily give the Dove powers to someone else! Maybe… a woman! I called Barbara as soon as I could. She sparked off the idea instantly and before even we knew it, we were co-writers.<ref>Kesel, Karl: Introduction to ''Hawk and Dove: Ghost & Demons'' TPB.</ref></blockquote>
+
+The revival was approved for a five-issue miniseries, and the Kesels were joined by then-up-and-coming artist [[Rob Liefeld]]. The miniseries, shortened from its 1968 title to simply ''Hawk & Dove'', was published in 1988–1989. The revival veered away from the duo's Silver Age political leanings and told a more straightforward superhero story with human trappings, introducing a number of supporting characters and villains that were loosely based on many of the Kesels' friends and family. Their portrayals of Hank and Dawn themselves were modeled on Barbara Kesel's brother and Karl Kesel's sister, respectively. This new direction was well received by fans and sold out,<ref>Kesel, Barbara: From the intro to the ''Hawk and Dove: Ghosts & Demons'' trade paperback.</ref> which then spurred the launch of an ongoing series with ''Hawk & Dove'' (vol. 3) in June 1989, co-written by the Kesels, with Greg Guler replacing Liefeld on art chores. The Kesels also wrote a Hawk and Dove feature in ''[[Secret Origins]]'' #43 (August 1989) that elaborated on the origin story of Hank and Don, revealing that Hawk and Dove's powers were given to them by the Lords of Chaos and Order and that Hawk and Dove themselves were Agents of Chaos and Order, respectively.
+
+Despite its strong start, the relaunched ongoing series was eventually cancelled after 28 issues and two ''Annual''s, with issue #28 being published in October 1991. To date, this is the longest any ''Hawk & Dove'' ongoing series has lasted.
+
+==Fictional character biography==
+===Hank and Don Hall<span id="Hank Hall and Don Hall"></span>===
+[[File:Hawk&Dove-DitkoV1n1.jpg|left|175px|thumb|Hank and Don Hall in ''The Hawk and the Dove'' #1 (September 1968), cover art by [[Steve Ditko]].]]
+Hank and Don Hall were the sons of Judge Irwin Hall. They eventually found out that their father had many enemies when he was nearly assassinated. Hank and Don eventually follow the criminal back to the hideout where they accidentally locked themselves in the closet of some criminals plotting to dispose of him. Just as Hank and Don who found for the first time they could agree that they wanted to save their father, mysterious voices echoed throughout the room offering the boys a chance to save their father. All they had to do was call upon the powers of the Hawk and the Dove. The voices belonged to a Lord of Chaos named T'Charr and a Lord of Order named Terataya (even though the [[Lords of Chaos and Order]] were eternal enemies, these two Lords had fallen in love<ref>''Secret Origins'' (vol. 2) #43 (August 1989)</ref>). The Hall brothers invoked their new powers and became Hawk and Dove. The conservative Hawk (Hank) was hot-headed and reactionary, whereas the liberal Dove (Don) was more thoughtful and reasoned, but was prone to indecisiveness. Judge Irwin Hall displayed a more balanced political beliefs, and firmly disapproved of vigilantism, not knowing his sons were costumed adventurers and the fact that Hawk and Dove had saved him from his would-be assailants.
+
+After their series ended, Hawk and Dove became semi-regulars in the [[Teen Titans]], eventually joining Titans West. Writer Alan Brennert attempted to end their saga in a 1982 issue of ''[[The Brave and the Bold]]'' where 12 years later, Hank and Don Hall, then adults, are trying to cope with their 1960s values in the 1980s. After Hawk and Dove teamed up with [[Batman]], the mysterious voice revoked Hank and Don's powers, deeming them still immature. This was later intentionally disregarded with a joke (where Don notes everyone says they look older) in ''New Teen Titans'' #50, when it was realized the [[Real time (media)|real time]] aging of Hank and Don would affect the age of the Teen Titans as well.
+
+Dove died in 1985's ''[[Crisis on Infinite Earths]]'' while saving a young boy who was being attacked by the [[Anti-Monitor]]'s shadow demons. The creature that killed Dove came from behind while he was saving a kid from a falling building and Hawk was too far away to intervene. A statue of Don is part of the [[Titans Tower#Memorial|memorial]] at [[Titans Tower]] in San Francisco. Hawk continued on his own, but without Dove to restrain him, he became violent to the point where many superheroes considered him nearly as much trouble as the supervillains.
+
+===Modern Age===
+[[File:Hawk and Dove2.jpg|175px|thumb|Hawk and Dove: Hank Hall and Dawn Granger, art by [[Rob Liefeld]].]]
+
+In 1988, a new ''Hawk and Dove'' miniseries written by [[Karl Kesel]] and [[Barbara Kesel]] reintroduced the duo.<ref>Manning, Matthew K. "1980s" in Dolan, p. 234: "Written by Barbara and Karl Kesel and drawn by future superstar Rob Liefeld, this five-issue miniseries reestablished the famous pair for a new generation".</ref> This series placed a woman named Dawn Granger as the Dove, replacing Don, who had died. The new Dove mysteriously received her powers while attempting to save her mother from terrorists. At the end of the miniseries, it was revealed that Dawn received her powers the moment Don had been stripped of them.
+
+This Dove, while considerably more aggressive and self-confident than Don, also has greater-than-average strength and dexterity, faster-than-human speed and expanded mental capabilities. Dove fights mostly defensively, preferring to out-think and remain in control of her opponent. She also heals quickly and cannot revert to Dawn if her wounds or some other condition would be fatal to Dawn. They managed to hold their own against the Lords of Chaos' creation called Kestrel.
+
+Set in Washington, D.C. (where the duo attended [[Georgetown University]]), the series introduced several supporting characters, including Hank's girlfriend, Ren Takamori, and friends Kyle Spenser and Donna Cabot. They also worked with police Captain Brian "Sal" Arsala, who would develop a mutual admiration for Dawn. It also introduced Kestrel, an evil spell created by M'Shulla and Barter, owner of Barter Trading: Exotic Goods and Services.
+
+Hawk and Dove are lured to the mystical land of Druspa Tau – the home of the Lords of Chaos and Order – by Kestrel. It is all an effort of M'Shulla to seek out that world's Lords of Order. They are eventually discovered – Terataya, Lord of Order, and T'Charr, Lord of Chaos – in the form of a combined being called Unity. After M'Shulla and Kestrel are defeated (Hawk absorbs Kestrel and effectively destroys him), T'Charr and Terataya reveal they created Hawk and Dove to prove to the other Lords of Chaos and Order that the two forces could work together (and also because they were in love) and then convince Hawk and Dove to absorb the essence of their respective creators. This merging enhances their powers: Dove could now fly and was stronger and bulletproof; and Hawk now had superstrength and was nearly invulnerable.<ref>''Hawk & Dove'' (vol. 2) #14–17</ref>
+
+=== Hawk's fall and redemption: ''Armageddon 2001'', ''Zero Hour: Crisis in Time!'' and JSA ===
+In 1991, in an editorial snafu concerning the miniseries ''[[Armageddon 2001]]'', word leaked out that the central time-travelling villain of the piece (known as [[Monarch (comics)|Monarch]]) was actually [[Captain Atom]]. Monarch had originally been conceived as a future identity of Captain Atom (post-psychotic break). [[Waverider (comics)|Waverider]] had even "checked" Hawk's future in ''Hawk and Dove Annual'' #2, which had them fighting Monarch, eliminating them as possible candidates. In a last-ditch effort to provide a "surprise twist", DC changed the storyline.
+
+Sales of ''Hawk and Dove'' had dipped and the series was slotted for cancellation, so Monarch's identity was revealed as the future Hank Hall. Monarch attacked Hawk and Dove and managed to murder Dawn in front of Hank, causing him to suffer the psychotic break, kill Monarch, and assume his villainous identity. He briefly became a recurring foe for Captain Atom before absorbing Waverider's time-travel powers, subsequently changing his form and name to Extant in ''[[Zero Hour: Crisis in Time!]]''.
+
+As Extant, Hawk murdered several members of the [[Justice Society of America]]; during a rematch, however, the [[Albert Rothstein|Atom Smasher]] used the [[New Gods|New God]] [[Metron (character)|Metron]]'s Mobius Chair to transfer Hall onto a doomed plane in place of the Atom Smasher's mother; the plane exploded due to the terrorist actions of Kobra. Despite his crimes and the lives taken by him, a statue of him is present in the Titans Tower memorial in San Francisco.
+
+===Sasha Martens and Wiley Wolverman===
+[[File:Hawkanddove3.JPG|thumb|175px|right|Hawk and Dove: Sasha Martens and Wiley Wolverman.]]
+Another version of Hawk (Sasha Martens) and Dove (Wiley Wolverman) appeared in a five-issue miniseries in 1997, written by [[Mike Baron]]. In this version, completely unrelated to the concept of the Lords of Chaos and Order, the duo's conflicting personalities manifested as "[[military brat]]" and "slacker dude", respectively. They gained large bird wings and a telepathic link by receiving experimental medical treatments as children. Following the miniseries, the new Hawk and Dove made a handful of cameo appearances in Titans-related books, once protecting the town of Woodstock, New York, during a worldwide crisis.
+
+=== Holly and Dawn Granger===<!-- This section is linked from [[List of DC Comics characters: H]] -->
+In 2003, ''JSA'' #45–50 told of a mysterious woman in a coma who was taken into the care of the Justice Society. Initially thought to be the comatose body of [[Hector Hall]]'s missing wife, [[Fury (DC Comics)|Hippolyta Trevor]], the woman was revealed to be none other than the presumed-dead Dawn Granger. Dawn's "death" was revealed to be a hoax orchestrated by the villain Mordru, who was also revealed to have caused Hank's insanity that set him down the path to becoming Monarch (and later Extant).
+
+Dawn later gained a new partner when her estranged and aggressive British sister Holly Granger was granted the mystical powers of Chaos as the third Hawk. Holly's first appearance was in ''Teen Titans'' (vol. 3) #22–23, joining her sister and many other former Titans against [[Doctor Light (Arthur Light)|Dr. Light]]. The duo later re-teamed with the Titans to rescue [[Raven (DC Comics)|Raven]]'s "soul self" from their old nemesis Kestrel.
+
+In the ''Day of Vengeance'' [[Limited series (comics)|limited series]], the [[Spectre (DC Comics character)|Spectre]] attacks and apparently destroys T'Charr and Terataya (who apparently were temporarily no longer dead), leaving Hawk and Dove supposedly powerless. Despite this, however, Hawk and Dove were shown during a worldwide prison break, being contacted telepathically by [[Martian Manhunter|J'onn J'onzz]]. Both were in costume and Dove was carrying Hawk while flying, possibly implying that T'Charr and Terataya were somehow restored to life after Earth entered the Tenth Age of Magic.
+
+Hawk and Dove also appeared in ''[[Countdown to Mystery]]'', in which Dawn Granger is one of a number of heroes possessed by [[Eclipso]]. In ''Teen Titans'' (vol. 3) #34 (post-''[[Infinite Crisis]]''), Holly and Dawn are shown in Titans Tower sometime during the [[52 (comics)|previous year]], with dialogue from Hawk implying that they were at the time members of the Teen Titans. Their association with the team was temporary, though they resurfaced in the ''[[Titans East]] Special'' as part of a new team organized by [[Cyborg (comics)|Cyborg]]. The sisters were both shot by energy beams from [[Trigon (comics)|Trigon]] and were left for dead. Later events showed they were badly injured but had survived the experience.<ref>''Titans'' (vol. 2) #1 (June 2008)</ref>
+
+===''Blackest Night''===
+{{Main|Blackest Night}}
+In ''Blackest Night'' #2, multiple [[Power ring (DC Comics)#Black|black power ring]]s attempt to reanimate the body of Don Hall, only to be prevented from disturbing his grave by an invisible barrier. As they collide with the barrier, the rings' typical command ("rise") is interrupted; the rings instead respond "Don Hall of Earth at peace". This is the first depiction of the black power rings failing to recruit a member for the [[Black Lantern Corps]].<ref name="bn2">''Blackest Night'' #2 (October 2009)</ref> Though Don rejects the black rings, his brother Hank's corpse accepts his with humor: "Same old, same old, huh, bro? Hawk's got to do all the dirty work himself".<ref name="bn2"/>
+
+In ''Blackest Night: Titans'' #1, Hank lures Holly and Dawn to a library with a trail of dead hawks and doves, then kills Holly by ripping out her heart.<ref name="bnt1">''Blackest Night: Titans'' #1 (October 2009)</ref> A black power ring then claims Holly's body and the two Black Lantern Hawks assault and torment Dawn. Eventually Dove goes to Titans Tower for help, only to find it under attack by more Black Lantern Titans. Holly and Hank catch up to her and resume their attack. When Holly attempts to rip out Dawn's heart, a blast of white energy radiates from her body, severing the connection between Holly and the ring. Dawn then turns the light on the other Black Lanterns, destroying all but [[Terra (character)|Terra]], [[Garth (character)|Tempest]] and Hank. The effort causes Dawn to pass out. While unconscious, she has a vision of Don, who tells her that she can save Hank and should not give up on him.<ref name="bnt3">''Blackest Night: Titans'' #3 (December 2009)</ref>
+
+Dawn and the Titans join the [[Justice League]] in battling the Black Lanterns at [[Coast City]]. She is able to destroy Black Lanterns with her very presence. The [[Flash (Barry Allen)]] witnesses Dawn's fight with the undead army and realizes that she possesses the "white light of creation" as mentioned by Indigo-1 (a member from the [[Indigo Tribe]]), a power believed to be created by the combined seven powers of the emotional spectrum.<ref>''Blackest Night'' #3 (November 2009)</ref> During the battle, Dove's white energies are pulled into the Black Lanterns' central power battery, under the control of the being trapped inside:<ref>''Blackest Night'' #7 (February 2010)</ref> the being is eventually revealed to be the villainous [[Anti-Monitor]]. Dove aids the seven Corps members to defeat the cosmic entity before resuming their battle with the Black Lantern Corps.<ref>''Green Lantern Corps'' (vol. 2) #46 (March 2010)</ref> In the aftermath of the final battle, Hank is brought back to life by the power of the white light.<ref>''Blackest Night'' #8 (March 2010)</ref> A memorial statue is created for Holly at Titans Tower.<ref>''Titans'' (vol. 2) #23 (March 2010)</ref>
+
+===''Brightest Day''===
+{{Main|Brightest Day}}
+Hank and Dawn encounter [[Deadman (DC Comics)|Deadman]] shortly after the events of ''Blackest Night''. They have him, in their own particular ways, try to resurrect Don and Holly, but to no avail;<ref name=bd4 /><ref>''Brightest Day'' #5 (July 2010)</ref> the voice guiding Deadman simply indicates death no longer holds the same meaning.<ref>''Brightest Day'' #6 (July 2010)</ref> The three are transported to [[Silver City, New Mexico]], where they find the White Lantern power battery in a crater. When Deadman asks the white battery why they were all brought back to life, the [[White Lantern Corps|Entity]] tells them that it is dying and requires a successor. The Entity also tells Hawk to save Dawn from [[Captain Boomerang]] (although the fact that it also told Boomerang to attack Dawn in the first place suggests a larger plan at play). When asking why Dove needs to be protected, the Entity said they all need protection.<ref>''Brightest Day'' #7 (August 2010)</ref>
+
+Dove and Deadman travel together for a time, first to [[Atlantis (DC Comics)|Atlantis]]<ref>''Brightest Day'' #9 (September 2010)</ref> and then [[Gotham City]],<ref>''Brightest Day'' #12 (October 2010)</ref> in a search for a candidate to replace the Entity. They believe the [[Resurrection Man (comics)|Resurrection Man]] and [[Batman]] to be possible candidates,<ref>''Brightest Day'' #13 (November 2010)</ref> and Deadman tries to give the ring to Batman, but the ring rejects him and returns to Deadman, who is suddenly shot to death. But the ring brings him back to life and, upon doing so, both he and Dawn realize they are in love (she is the reason he embraces life and accepts the ring's offer).<ref>''Brightest Day'' #14 (November 2010)</ref> Deadman has since moved into Dove's apartment.<ref>''Brightest Day'' #17 (January 2011)</ref>
+
+Later as the "dark avatar" made his presence known, Hawk and Dove are transported to the Star City forest by the Entity, where it tells them that they must protect the forest and withstand the ultimate savior, [[Swamp Thing|Alec Holland]].<ref>''Brightest Day'' #23 (April 2011)</ref> Within the forest, Captain Boomerang finds Dawn and throws a boomerang at her. Hawk fails to catch it, but Deadman succeeds, dying in the process. Hawk is left to knock Captain Boomerang unconscious. After the Dark Avatar is defeated, the Entity reveals to them that the boomerang was part of a plan to free Hawk from his role as an avatar of war from the Lords of Chaos: his act of saving Dawn would have broken their power over Hawk and allow him to be true to himself. Dawn is heartbroken. She and Boston Brand share an emotional farewell as Brand resumes his duties as "Deadman".<ref>''Brightest Day'' #24 (April 2011)</ref>
+
+Around this same time period, Dawn and Hank are recruited into the [[Birds of Prey (comics)|Birds of Prey]] by [[Zinda Blake]] while in Gotham to stop some teenaged supervillains. Immediately after their meeting with Zinda, the two are called in by [[Barbara Gordon|Oracle]] to rescue the [[Black Canary]] and the [[Huntress (Helena Bertinelli)|Huntress]] from a villainess calling herself the White Canary.<ref>''Birds of Prey'' (vol. 2) #1–2 (July–August 2010)</ref> Dove also appears as part of [[Wonder Woman]]'s all-female super team in ''Wonder Woman'' #600.<ref>{{Cite web | url=http://dcu.blog.dccomics.com/files/2010/06/ww_600_no_ads-3-copy.jpg | title=Image of Wonder Woman's all-female superteam | work=DC Comics}}{{dead link|date=October 2017 |bot=InternetArchiveBot |fix-attempted=yes}}</ref>
+
+=== ''The New 52''===
+In 2011, DC relaunched this title as part of their company-wide [[The New 52|reboot]] of their 52 major titles. It was released on 7 September, written by [[Sterling Gates]] and art by [[Rob Liefeld]].
+
+In this new series, Hawk and Dove are Hank Hall and Dawn Granger, who resume their superhero activities in Washington, D.C., with assistance from Deadman. They encounter Condor and Swan, a new pair of supervillains who possess superpowers similar to theirs. Hawk and Dove fight Condor and Swan after they try to kill President [[Barack Obama]] and Hank's father. Swan escapes, but Hawk and Dove manage to defeat Condor, who is revealed to be an old unnamed man.
+
+During the first issue, the origins of Hawk and Dove are recounted – Don and Hank were Dove and Hawk for at least two years, until three years before the start of the series, when Don perished during the "worst crisis the world has ever seen" (referencing Don's death in the original canon in the Crisis) and Dawn became the next avatar almost immediately. This is later [[retcon]]ned in the ''Titans Hunt'' miniseries, where it is revealed that Hank and Don were members of the original Teen Titans, and that Don was killed during a battle between the team and [[Mister Twister (comics)|Mister Twister]].<ref>''Titans Hunt'' #8</ref>
+
+It is also said that Dawn had a connection to Don, known only to herself and Deadman, but unknown to Hank. The ''Hawk and Dove'' series was cancelled after issue #8 (released on 4 April 2012).<ref name=SecondWave>{{cite web| last = Kushins| first = Josh| title = DC Comics in 2012–-Introducing the "Second Wave" of DC Comics The New 52| work = The Source| publisher = DC Comics| date = 12 January 2012| url = https://www.dccomics.com/blog/2012/01/12/dc-comics-in-2012-%25e2%2580%2593-introducing-the-%25e2%2580%259csecond-wave%25e2%2580%259d-of-dc-comics-the-new-52| access-date = May 10, 2022| archive-url = https://web.archive.org/web/20120115002335/http://dcu.blog.dccomics.com/2012/01/12/dc-comics-in-2012-%E2%80%93-introducing-the-%E2%80%9Csecond-wave%E2%80%9D-of-dc-comics-the-new-52/| archive-date = 15 January 2012| url-status = dead| df = dmy-all}}</ref>
+
+In the new continuity, Dawn Granger has a tenuous romantic relationship with Deadman and has appeared in the team comic ''[[Justice League Dark]]''; their attempt fails miserably, as while Deadman insists to carry on their relationship using borrowed bodies, Dove shows disdain and repulsion to the idea.
+
+In the ''[[Watchmen]]'' sequel ''[[Doomsday Clock (comics)|Doomsday Clock]]'', Hawk and Dove are shown on TV being arrested by the [[Rocket Red Brigade]] for interfering with the Russian police.<ref>''Doomsday Clock'' #5 (May 2018). DC Comics.</ref>
+
+In the pages of ''[[Dark Nights: Death Metal]]'', Don Hall is revealed to be entombed in the Valhalla Cemetery.<ref>''Dark Nights: Death Metal'' #2. DC Comics.</ref> Batman later revived him and Holly Granger with a Black Lantern Ring.<ref>''Dark Nights: Death Metal'' #5. DC Comics.</ref>
+
+==Powers and abilities==
+===Dove===
+Dove possesses an ability known as danger sense transformation. When in the presence of danger, whether to herself or others, Dawn Granger can call out the word "Dove" and transform into Dove. She does not need to be aware of danger, meaning she transforms if she says the word while unknowingly being in danger. However, the transformation requires actual danger, so if Dawn says "Dove" without danger being present, she would not transform.
+
+The transformation wears off a short time after any danger has passed, unless Dove is seriously injured. She will remain as Dove until the injuries are sufficiently healed. Hank once searched the [[warehouse district]] to find a criminal hideout, having to say "Hawk" before entering each warehouse. On high magic worlds, Dawn can remain as Dove for extended periods regardless of whether danger is present.
+
+The transformation changes Granger into a minor force of Order and she gains avian characteristics, which are hidden under her costume. If the costume receives sufficient damage, it can reveal part of her true form, which shines with the golden glowing light of Order. Within realms of higher magic, Dove can easily remove the costume and show her true form.
+
+Dove is also hypervigilant; her natural aptitudes are enhanced, such as her ability to judge people which allows her to "read" people and objects, and know how they will behave. In addition to flight, she also has enhanced agility, can withstand physical punishment, heal quickly and her perceptions are heightened to their fullest extent.
+
+Due to her connection with Terataya, on high magic worlds her powers are enhanced. She can concentrate her radiance into a blinding beam of light. She also possesses the White Light of Creation. It is unknown whether this power is an extension of her radiance ability, but during the ''Blackest Night'' crisis, Dove was able to channel this particular force and destroy Black Lanterns along with blocking a Black Lantern's aura-reading power. How and why Dawn was chosen for this power, or whether it has anything to do with her link to Terataya, remains unknown.
+
+As seen in the pages of ''Blackest Night'', Don Hall is impervious to black power rings. In an interview with [[IGN]], [[Geoff Johns]] provides an explanation behind Dove's immunity to the black power rings: "You'll learn more about this as we go forward. But really it speaks to the nature of Don Hall. He can't be desecrated by the likes of these things. He's untouchable in death and at total peace more than any other being in the universe". Reflecting on the limitations of the rings, Johns goes on to state that, even though magic is a "joke" to the black power rings, Don is quite the opposite.<ref name="inside2">{{Cite web | url=https://www.ign.com/articles/2009/08/15/geoff-johns-inside-blackest-night-part-two | title=Geoff Johns: Inside Blackest Night – Part Two | work=[[IGN]] | date=14 August 2009|access-date=May 10, 2022}}</ref>
+
+===Hawk===
+Hawk possesses a "danger sense transformation" which allows him to change into a super-human with the powers of superstrength, unlimited stamina, enhanced speed, enhanced agility, enhanced durability, enhanced body density and healing factor. 
+
+His partner Dove suppresses his violent nature and without her presence Hawk's rage becomes boundless.
+
+While he was a member of the Black Lantern Corps, Hawk wielded a black power ring which allowed him to generate black energy constructs. He was also able to perceive emotional auras.
+
+==Enemies==
+Outside of the enemies they fought with the Teen Titans, each of the Hawk and Dove incarnations had their own enemies:
+
+* '''Condor''' – The evil counterpart of Hawk. Condor's identity is an unnamed elderly man who was a 200 year old cannibalistic serial killer of Avatars. <ref>''Hawk and Dove'' Vol 5 5</ref>
+
+* '''D'Khan''' – A priest that is secretly the ancient Dragon of D'Yak.
+
+* '''Hunter''' – A supervillain that worked for the "D'Yak" and had hunted Hawk and Dove. <ref>''Hawk and Dove'' Vol 5 #7</ref>
+
+* '''Kestrel''' – A formless supervillain created by M'Shulla and Gorrum of the Lords of Chaos to either subvert Hawk to the forces of evil or kill him. <ref>''Hawk and Dove'' Vol 2 #1</ref>Powers are possession, dimensional travel and strength. 
+
+* '''Necromancer''' – A powerful sorceress who tried unlocking unlimited magical power with the circle of totems. <ref>''Hawk and Dove'' Vol 5 #6</ref>
+
+* '''Shellshock''' – A mysterious woman who can blow up anything by saying its name.
+
+* '''Sudden Death''' – A beach bum-themed metahuman named '''Dwayne Wainwright''' with incredible strength, stamina, and an ability to generate explosions of massive force. <ref>''Hawk and Dove'' Vol 3 #5</ref> He'd later join the ''[[Suicide Squad]]. <ref>''Suicide Squad'' Vol 1 66</ref>
+** A loose adaptation of Wainwright was featured in the ''[[HBOMax]]'' / ''[[DC Universe (streaming service)|DC Universe]]'' show ''[[Titans (TV series)|Titans]]'', played by Bas Reitsma. In the flashbacks of episode ''Hawk and Dove'', a non-powered Dwayne was arrested April 23, 2009 from the police of Washington, D.C. for uploading pornographic pictures of a ten-years-old in a local coffee shop. He denied the accusations and was released on the same day. The following night, on their very first operation, Hawk and Dove, beat him up in order to force him to confess his crimes and record all of it with a camera.
+
+* '''Swan''' – The evil counterpart of Dove and killer of Ospery to gain power as an Avatar. Swan's identity is '''Rachel Felps''', who was later killed for her power by Condor. <ref>''Hawk and Dove'' Vol 5 5</ref>
+
+* '''Unity''' – '''Dr. Arsala''' is the daughter of Hank and Dawn from an alternate future who used the Gem of Order to become Unity. <ref>''Hawk and Dove'' Vol 3 #17</ref>
+
+==Collected editions==
+* ''Hawk and Dove'' (collects ''Hawk and Dove'' (vol. 2) #1–5), November 1993, {{ISBN|978-1-56389-120-5}}
+* ''Hawk and Dove:  Ghosts & Demons'' (new edition also collects ''Hawk and Dove'' (vol. 2) #1–5), March 2012, {{ISBN|978-1401233976}}
+* ''DC Comics Presents: Brightest Day Vol. 3'' (collects ''Teen Titans'' (vol. 3) #27–28; ''Legends of the DC Universe'' #26–27), February 2011 – features Hawk (Holly) and Dove (Dawn), alongside the Teen Titans, fighting Kestrel.
+* ''Hawk and Dove: First Strikes'' (collects ''Hawk and Dove'' (vol. 5) #1–8), August 2012, {{ISBN|978-1781163993}}
+* ''Teen Titans: The Silver Age Omnibus'' (collects ''Showcase'' #75, ''Hawk and Dove'' #1–6, ''Teen Titans'' #21), November 2016, {{ISBN|978-1401267568}}
+
+==Other versions==
+===''The Dark Knight Strikes Again''===
+Hank Hall and Don Hall appear in ''[[The Dark Knight Strikes Again]]''. The Hall brothers try to take up the tights again in their old age, but do not return to action, due to their constant arguments.
+
+===''Dark Multiverse''===
+''[[Dark Multiverse]]'' variants are seen in he form of a deceased Hank and Holly Granger.
+
+==In other media==
+===Television===
+[[File:Hawkanddove.JPG|right|175px|thumb|The original version of Hawk and Dove as depicted in ''[[Justice League Unlimited]]''.]]
+* Hank and Don Hall / Hawk and Dove appear in ''[[Justice League Unlimited]]'', voiced by [[Fred Savage]] and [[Jason Hervey]], respectively. This version of the duo depicts a stronger relationship between the brothers, Don is more self-confident than Hank and their philosophical bickering resembles brotherly teasing. Hank utilizes brute force and aggressive tactics, at times resembling a [[American football|football]] player, while Don uses a blend of techniques reminiscent of [[aikido]] or [[judo]], using his attacker's movements to fling them aside. In their self-titled episode, Hawk and Dove defeat a group of thugs before they are enlisted by [[Wonder Woman]] to help her stop [[Ares (DC Comics)|Ares]] from causing a war in [[Kaznia]], with the mission succeeding due to Dove's peaceful resistance against the rage-powered automaton, Annihilator. Hawk and Dove also make minor appearances in the episodes "The Greatest Story Ever Told", "The Doomsday Sanction", and the series finale "Destroyer".
+* Hank and Don Hall / Hawk and Dove appear in ''[[Batman: The Brave and the Bold]]'', voiced by [[Greg Ellis (actor)|Greg Ellis]] and [[Dee Bradley Baker]], respectively. In the teaser for the episode "When OMAC Attacks!", they help [[Batman]] stop an intergalactic war between the [[Controllers (DC Comics)|Controllers]] and the Warlords of Okaara. Hawk and Dove also briefly appear in the two-part episode "The Siege of Starro!", amongst the heroes who were taken over by the [[Starro|titular alien]] before they are freed following Starro's defeat.
+[[File:Hawk and Dove Titans.jpg|thumb|[[Alan Ritchson]] as Hawk (left) and [[Minka Kelly]] as Dove (right) in the 2018 television series ''[[Titans (2018 TV series)|Titans]]''.]]
+* Hank and Don Hall / Hawk and Dove as well as Dawn Granger / Dove all appear in ''[[Titans (2018 TV series)|Titans]]'', portrayed by [[Alan Ritchson]], [[Elliot Knight]], and [[Minka Kelly]], respectively, while Tait Blum and Jayden Marine portray younger versions of Hank and Don Hall, respectively.<ref name="Kelly">{{cite web|url=https://deadline.com/2017/09/titans-minka-kelly-cast-dove-dc-live-action-series-1202163720/|title=''Titans'': Minka Kelly Cast As Dove In DC Live-Action Series|last=Andreeva|first=Nellie|date=7 September 2017|website=Deadline Hollywood|access-date=7 September 2017}}</ref><ref>{{cite web|url=https://deadline.com/2017/09/titans-alan-ritchson-hawk-dc-live-action-series-1202163748/|title=''Titans'': Alan Ritchson Cast As Hawk In DC Live-Action Series|last=Andreeva|first=Nellie|date=7 September 2017|website=Deadline Hollywood|access-date=7 September 2017}}</ref><ref>{{Cite news|url=https://superbromovies.com/2018/08/14/exclusive-elliot-knight-joins-dcs-titans-as-don-hall-the-original-dove/|title=EXCLUSIVE: Elliot Knight Joins DC's 'TITANS' As Don Hall, The Original Dove|last=Melendez|first=Marcos|date=14 August 2018|work=SuperBroMovies|access-date=14 August 2018}}</ref> All three are depicted as not having superpowers, instead relying on their physical prowess - Hank as a football player, Don as a martial artist, and Dawn as a ballerina - to fight crime. The series' versions of the Halls are half-brothers who operated as the original Hawk and Dove to hunt down sexual predators, motivated by abuse that Hank's football coach inflicted on him as a child. After Don and Dawn's mother, Marie, are killed in an accident, Hank and Dawn gradually enter a relationship, with Dawn subsequently becoming the next Dove using the physical abuse she and Marie suffered at the hands of the former's father as motivation. The new duo goes on to meet and team up with [[Dick Grayson]] and the Titans, though tensions occur when Dick and Dawn have a romantic relationship. While planning on retiring, Hank and Dawn cross paths with Dick again when he requests their help in protecting [[Raven (DC Comics)|Rachel Roth]]. This leads to Hank, Dawn and Dick being attacked by the [[Nuclear Family (comics)|Nuclear Family]], who were hired to retrieve Rachel, and Dawn ending up in a coma due to injuries sustained in the ensuing fight. Dawn eventually awakens when she receives a vision from Rachel, telling her and Hank to find [[Jason Todd]].
+** Hank and Dawn also appear in the [[Arrowverse]] crossover "[[Crisis on Infinite Earths (Arrowverse)|Crisis on Infinite Earths]]". In the ''[[Supergirl (TV series)|Supergirl]]'' episode "Crisis on Infinite Earths: Part One", Hawk appears via archive footage from the episode "Trigon".<ref>{{Cite web |url=https://www.inverse.com/article/61569-crisis-on-infinite-earths-titans-cameo-explained |title="Crisis on Infinite Earths" Titans Cameo Makes TV Streaming History |last=Francisco |first=Eri |date=9 December 2019 |website=[[Inverse (website)|Inverse]] |url-status=live |archive-url=https://web.archive.org/web/20200303232015/https://www.inverse.com/article/61569-crisis-on-infinite-earths-titans-cameo-explained |archive-date=3 March 2020 |access-date=2 April 2020}}</ref> In the ''[[Legends of Tomorrow]]'' episode "Crisis on Infinite Earths: Part Five", Hank and Dawn appear via archive footage from the episode "Titans".<ref>{{Cite web |url=https://www.looper.com/179414/every-crisis-on-infinite-earths-cameo-ranked/ |title=Every Crisis on Infinite Earths cameo ranked |last=Martin |first=Michileen |date=15 January 2020 |website=Looper |url-status=live |archive-url=https://web.archive.org/web/20200402174627/https://www.looper.com/179414/every-crisis-on-infinite-earths-cameo-ranked/ |archive-date=2 April 2020 |access-date=2 April 2020}}</ref>
+
+===Web series===
+* Hank Hall and Dawn Granger / Hawk and Dove appear in ''[[DC Super Hero Girls]]'', as background students of Super Hero High.{{fact|date=January 2022}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.toonopedia.com/hawkdove.htm Hawk and Dove] at [[Don Markstein's Toonopedia]]. [https://www.webcitation.org/6ddLc4j37?url=http://www.toonopedia.com/hawkdove.htm Archived] from the original on 8 December 2015.
+* [https://comicvine.gamespot.com/hawk-dove/4060-42865/ Hawk and Dove] at Comic Vine
+** [https://comicvine.gamespot.com/hank-hall/4005-2030/ Hank Hall] at Comic Vine
+** [https://comicvine.gamespot.com/don-hall/4005-34758/ Don Hall] at Comic Vine
+** [https://comicvine.gamespot.com/holly-granger/4005-3574/ Holly Granger] at Comic Vine
+** [https://comicvine.gamespot.com/dawn-granger/4005-3573/ Dawn Granger] at Comic Vine
+* [https://web.archive.org/web/20070106042128/http://politedissent.com/fav_hawk.php The Hawk and the Dove Chronicles]
+* [https://web.archive.org/web/20060927151035/http://www.ditko.comics.org/ditko/crea/crhawka.html Blake Bell's article on Hawk and Dove]
+* [[wikia:dcanimated:Dove|Don]] and [[wikia:dcanimated:Hawk|Hank Hall]] at the [[wikia:dcanimated|DC Animated Universe Wiki]]
+
+{{Birds of Prey}}
+{{Teen Titans}}
+{{Steve Ditko}}
+
+{{DEFAULTSORT:Hawk And Dove}}
+[[Category:Animated duos]]
+[[Category:Characters created by Steve Ditko]]
+[[Category:Comics by Steve Ditko]]
+[[Category:Comic strip duos]]
+[[Category:DC Comics American superheroes]]
+[[Category:DC Comics characters who can move at superhuman speeds]]
+[[Category:DC Comics characters with accelerated healing]]
+[[Category:DC Comics characters with superhuman strength]]
+[[Category:DC Comics female superheroes]]
+[[Category:DC Comics titles]]
+[[Category:Fictional duos]]
+[[Category:Superhero duos]]
+[[Category:Vigilante characters in comics]]

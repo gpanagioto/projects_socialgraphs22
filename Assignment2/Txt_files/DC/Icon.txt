@@ -1,0 +1,213 @@
+{{For|the Marvel Comics imprint|Icon Comics}}
+{{Primary sources|date=November 2020}}
+{{Infobox comic book title <!--Wikipedia:WikiProject Comics-->
+|title               = Icon
+|2ndary_box          = Y
+|image               = IconM0.jpg
+|imagesize           = <!-- numeral only, defaults to 250 -->
+|caption             = Icon and Rocket from ''Icon'' #41, art by Wilfred Santiago.
+|schedule            =
+|format              = 
+|limited             = 
+|ongoing             = N
+|1shot               = 
+|genre               = 
+|publisher           = [[DC Comics]]
+|date                = 1993–1997
+|startmo             = 
+|startyr             = 
+|endmo               = 
+|endyr               = 
+|issues              = 42 
+|main_char_team      = 
+|writers             = [[Dwayne McDuffie]]
+|artists             = 
+|pencillers          = [[M. D. Bright]]
+|inkers              = [[Mike Gustovich]]
+|letterers           = Steve Dutro
+|colorists           = 
+|editors             = 
+|creative_team_month = 
+|creative_team_year  = 
+|italic title=no
+}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|character_name = Icon
+|image          = <!-- IconM0.jpg -->
+|imagesize      = <!-- numeral only, defaults to 250 -->
+|converted      = <!-- y -->
+|caption        = <!-- Icon and Rocket from Icon #41<br>Art by Wilfred Santiago. -->
+|real_name      = Arnus
+|publisher      = [[Milestone Media]]
+|debut          = ''Icon'' #1 (May 1993)
+|creators       = [[Dwayne McDuffie]] (writer)<br> [[M. D. Bright]] (artist)
+|species        = <!-- optional -->Terminan
+|homeworld      = Terminus, The Cooperative
+|alliances      = [[Underground Railroad]]<br/>[[Union Army]]<br/>[[United States Armed Forces]]<br/>[[Shadow Cabinet (comics)|Shadow Cabinet]]<br/>[[Justice League]]
+|partners       = [[Rocket (DC Comics)|Rocket]] (student & protege)
+|supports       = <!-- optional -->
+|aliases        =  Augustus Freeman IV
+|powers         = Formidable hand to hand combatant<br>Well trained armed/unarmed combatant<br>Vast superhuman strength<br>Superhuman speed, reflexes, stamina and senses<br>Flight<br>Nigh-invulnerability and durability<br>Enhanced mental perception<br>Regenerative healing factor<br>Extraordinary longevity<br>Ability to generate and project [[positron]] energy blasts
+|cat            = super
+|subcat = Milestone Media
+|addcharcat2 = DC Comics superheroes
+|hero           = y
+|villain        =
+|sortkey        = Icon
+|}}
+
+'''Icon''' is a fictional [[superhero]] appearing in [[comic book]]s published by [[DC Comics]], one of the headline characters introduced by [[Milestone Media]] in the 1990s. A being from another planet, he has taken on the form of an African American man, and has abilities such as flight, super-strength, and invulnerability. He uses these in partnership with [[Rocket (DC Comics)|Rocket]], a human teenager using his alien technology, to protect the people of the fictional city of [[Dakota City (comics)|Dakota]].
+
+==Publication history==
+{{Expand section|1=more info on the Milestone (pre-DC) years|date=January 2010}}
+An original character from [[Milestone Media|Milestone Comics]], he was created by [[Dwayne McDuffie]] and [[M. D. Bright]] and first appeared in ''Icon'' #1 (May 1993). Although published and distributed by DC Comics, the Milestone titles took place in a different [[Continuity (fiction)|continuity]]. In addition to guest appearances in other titles, the character appeared monthly in his own series, until the Milestone imprint was discontinued in 1997. In 1994, the character was involved in ''[[Worlds Collide (comics)|Worlds Collide]]'', a month-long [[Crossover (fiction)|crossover]] between Milestone and DC Comics' Superman titles.
+
+In the late 2000s, the Milestone Universe and characters were revived and merged into the DC Universe, as part of an agreement between DC Comics and Milestone Media. The merger treated the characters as new to the universe, ignoring the previous crossover. Icon, along with [[Shadow Cabinet (comics)|Shadow Cabinet]], appeared in ''[[Justice League of America]]'' (vol. 2) #27, written by [[Dwayne McDuffie]].
+
+==Character Biography==
+In 1839, an alien starliner malfunctioned and exploded, jettisoning a life-pod in the middle of a cotton field in the [[American South]].<ref name=Icon1>''Icon'' #1 (May 1993)</ref><ref name=Icon8>''Icon'' #8 (December 1993)</ref> The pod automatically altered the appearance of its passenger, named '''Arnus''', to mimic the first sentient life-form who discovered him.  That life-form was an enslaved black woman named Miriam, who saw the pod crash land and adopted Arnus as her son.<ref name=Icon1/>
+
+In the present, Arnus is still alive. He did not age visibly beyond adulthood; to disguise this fact, he periodically assumes the identity of his own son.<ref name=Icon8/> By the late 20th century, he is posing as '''Augustus Freeman IV''', the great-grandson of his original human identity. Still marooned, Arnus/Freeman waits for [[Earth]]'s technology to catch up to his lifepod's.<ref name=Icon8/> Secretly possessing superpowers that belie his human appearance, he has always performed quiet acts of charity.<ref name=Icon8/><ref name=Icon25/>
+
+However, when Freeman's house is broken into, he uses his powers for the first time in decades, an action witnessed by one of the intruders, Raquel Ervin,<ref name="worldofblackheroes.com">''Icon'' #1 http://worldofblackheroes.com/2010/11/11/icon-1-review-2/</ref> an idealistic teenage girl who was born in Paris Island, the poorest, most gang-ridden neighborhood in Dakota City. Her prospects seemed fairly bleak until this encounter with Freeman. After seeing Freeman use his powers, Raquel persuades him to become a superhero named '''Icon''', with herself as his sidekick, [[Rocket (DC Comics)|Rocket]].<ref>''Icon'' #2 http://worldofblackheroes.com/2011/02/28/icon-2-review/</ref>
+
+===Personality===
+Icon is portrayed as a very intelligent, somewhat stiff kind of person. Due to his upper-class job as a corporate lawyer, he is often criticized as being a "[[sell out]]" due to his conservative views. Icon usually prefers to do everything by the book instead of acting on instinct.<ref name="worldofblackheroes.com"/> During the majority of his series, he mostly fought plain street criminals and those who gained powers from Dakota's [[Big Bang (comics)|Big Bang]].
+
+===DC Universe===
+Following the death of [[Darkseid]] (as chronicled in ''[[Final Crisis]]''), the space-time continuum was torn asunder, threatening the existence of both the Dakotaverse and the mainstream DC universe. The being known as [[Dharma (comics)|Dharma]] was able to use energies that he harnessed from Rift (upon that being's defeat in ''[[Worlds Collide (comics)|Worlds Collide]]'') to merge the two universes, creating an entirely new continuity. Only Dharma, Icon and [[Superman]] are aware that Dakota and its inhabitants ever existed in a parallel universe.<ref name=jla34>''Justice League of America'' (vol. 2) #34 (June 2009)</ref>
+
+In the revised continuity, Icon and the other Milestone characters have apparently always existed in the [[DC Universe]]. Augustus appears to have an existing friendship with Superman and to be a member of the [[Shadow Cabinet (comics)|Shadow Cabinet]]. Icon also claims that, due to his status as a citizen of the Cooperative (an alien civilization in the [[Hoag's Object]] galaxy), he is exempt from prosecution at the hands of the [[Green Lantern Corps]].<ref name=jla28>''Justice League of America'' (vol. 2) #28 (December 2008)</ref>
+Icon later plays a crucial role in the JLA's battle with the star-eating villain [[Starbreaker (comics)|Starbreaker]].
+
+After the events of ''[[New Krypton]]'' led to [[Kryptonians]] being banned from Earth, it is shown that the General [[Sam Lane (comics)|Sam Lane]] is keeping tabs on Icon. It is unclear whether Lane believes Icon is a Kryptonian, or if he is merely watching him due to his friendship with Superman.<ref>''Superman'' #688 (July 2009)</ref>
+
+==Supporting characters==
+* '''Raquel Ervin/Rocket'''&nbsp;– Raquel saw Augustus Freeman IV use his powers when his home was being robbed, and convinced him to become a super hero, as well as take her on as sidekick.  All of Rocket's superhuman powers derive from her inertia belt, based on tech from Icon's ship.
+* '''Darnice/Rocket II'''&nbsp;– Raquel's best friend. Darnice took on the role of Rocket while Racquel was on maternity leave (one insisted upon by both Icon and her close friends).
+* '''Amistad Augustus Ervin'''&nbsp;– Raquel's infant son, named for the [[Amistad (ship)|Spanish slave ship]] and for her partner, Icon.
+[[Image:Buckwildmsu0.jpg|thumb|right|150px|Buck Wild Mercenary Man, artist [[M.D. Bright]].]]
+* '''Rufus T. Wild/"Buck Wild, Mercenary Man"'''&nbsp;– First appeared in ''Icon'' #13 "It's Always Christmas" (May 1994); Buck Wild possessed "belief defyin' strength" and "[[tungsten]] hard skin", but spoke as if he came from a [[blaxploitation]] film. He was a hero to the local folks, but he also took money for his work. It was revealed in his first appearance that when he received his powers in 1972, his brain had been frozen, which explains his outdated speaking patterns. Wild was clearly a parody of Marvel's [[Luke Cage]], complete with afro, gold headband and yellow shirt unbuttoned to the navel. In his next appearance, he is recruited to take Icon's place—costume included—when Icon returned to his home planet. Rocket (Darnice) used her Inertia Belt to carry him, making him appear to fly. Buck's time as Icon II was short-lived, as he gave his life in order to stop Oblivion, a mass murdering alien foe of Icon. In an issue devoted to his funeral, it is revealed in a series of [[eulogy|eulogies]] from his enemies (although it is unclear how trustworthy these eulogies are) that he had taken several other costumed identities, all of them parodies of other famous black superheroes. According to these eulogies, Buck once used an experimental growth serum which turned him into the gigantic "Buck Goliath" (a [[parody]] of [[Bill Foster (comics)|Black Goliath]]). While working with a Captain America-type known as Patriot, he called himself "Jim Crow" and wore a winged costume allowing him to fly (as with [[Falcon (comics)|Falcon]]). As "Buck Lightning" ([[Black Lightning]]), Buck wore a wrist apparatus that generated lightning bolts. At the funeral, Kingfish (a take on [[Kingpin (comics)|Kingpin]]) used the legendary Ruby Begonia gemstone to bring him back to life, now able to generate green smoke, the sound of drums tolling doom, and a ghost-like double which could possess others and make them do his bidding ([[Brother Voodoo]]). Darnice, however, tells him that his time on earth is over, at which Buck removes the Begonia stone and allows himself to die. Icon recounts that Buck serves as an example to all of us of how we can be heroes wherever we are.
+
+==Powers and abilities==
+===Powers===
+Icon's lifepod altered his DNA so he would resemble a normal human being, thus enabling him to blend among Earth's natives. A side effect of this process was the maximization of his now human/alien genetic structure.  Thus, Icon possesses a variety of superhuman abilities that are unusual even for a Terminan.<ref name=Icon25/>
+
+* '''Superhuman strength''': Icon possesses superhuman strength that is on par with Superman's.
+* '''Superspeed and reflexes''': Icon possesses the ability to think, move, and react at superhuman speeds.<ref name=Icon1/>
+* '''Superhuman stamina''': Icon has limitless stamina in all physical activities.
+* '''Flight''': Icon flies by manipulation of [[gravitons]], manipulation of [[magnetic fields]], and utilizing his superhuman speed. Icon can fly far beyond [[supersonic]] speeds.<ref name=Icon1/>
+* '''Superhuman senses''': Icon possesses superhuman sight, smell, taste, touch, and hearing.<ref name=Icon3>''Icon'' #3 (July 1993)</ref>
+* '''Enhanced mental perception''': Icon possesses the ability to comprehend things on levels far above human capability.
+* '''Invulnerability''': Icon seems to be invulnerable & extremely durable, able to withstand bullets,<ref name=Icon2>''Icon'' #2</ref> temperature and pressure extremes,<ref name=Icon10>''Icon'' #10 (February 1994)</ref> and powerful energy blasts without injury.<ref>''Shadow Cabinet'' #0 (January 1994)</ref> He can even survive in the vacuum of space.<ref name="jla28"/> Icon's invulnerability has not been portrayed consistently. If he is not expecting an attack, he can be easily injured. For example, in ''Icon'' #2, he sustains a bloody nose from getting hit in the face with the butt of a rifle that surprised him. After being injured by [[Shadow Cabinet (comics)#Payback|Payback]],<ref name=Icon3/> Icon began wearing alien body armor to grant him further protection.<ref name=Icon5>''Icon'' #5 (September 1993)</ref>
+* '''[[Healing factor]]''': Despite his almost invulnerability, it is possible to injure Icon. If hurt, his body is capable of quickly repairing damaged tissue.<ref name=Icon3/>
+* '''Energy generation''': Icon has the ability to generate and control a [[radiant energy]] based on [[positron]]s.<ref name=Icon6>''Icon'' #6 (October 1993)</ref> He can manipulate this energy for various effects.
+:* '''Concussive force bolts''': Icon can release positron energy from his hands as bolts of concussive force.<ref name=Icon6/>
+:* '''Stun bolts''': Icon can project low-energy bolts that render human beings unconscious by disrupting the electrical impulses in their nervous systems.<ref name=Icon21>''Icon'' #21 (January 1995)</ref> Icon can also use these bolts like an [[electromagnetic pulse]] to overload electronic devices.<ref name=Icon27>''Icon'' #27 (July 1995)</ref>
+:* '''Energy enhanced punches''': Icon can focus positron energy into his fists, which he can then use to shatter virtually any substance.<ref name=Icon27/>
+:* '''Energy pulse''': Icon can release all of his body's positron energy as a massive omnidirectional pulse of devastating power.<ref name=Icon36>''Icon'' #36</ref>
+:* '''[[Positron]] field''': Icon can detect the presence of Bang Babies within his vicinity by flooding an area with a field of positrons.<ref name=Icon20>''Icon'' #20 (December 1994)</ref> The field interacts with the invisible [[quantum well]] surrounding a Bang Baby, who then glows as he or she gives off mild [[gamma particles]]. Hence, Icon can use these fields to distinguish Bang Babies from other metahumans as well as normal humans.
+
+According to Icon, he possesses powers that all humans will possess once they evolve past their limitations.<ref name=Icon25/>
+
+Icon possesses extraordinary longevity, enabling him to age at a much slower rate than human beings.<ref name=Icon1/> Though centuries old, he appears to be around forty years old. Icon's lifespan is typical for a Terminan and the only power that is not the result of his genetic maximization.<ref name=Icon26>''Icon'' #26 (June 1995)</ref>
+
+===Skills===
+Icon is among the Cooperative’s most celebrated mediators. He has extensive knowledge of the Cooperative legal system as well as decades of experience in his chosen field. Icon is an equally adept corporate lawyer due to his mediator background and a century’s worth of experience in American law.<ref name=Icon8/><ref name=Icon25>''Icon'' #25</ref>
+
+Icon is also a formidable combatant, whose fighting skills are close to those of Superman.<ref name=Icon25/><ref name=Icon16>''Icon'' #16</ref> Icon is well trained in unarmed and armed combat, having fought in major conflicts ranging from the Civil War to World War II.<ref name=Icon8/><ref name=Icon25/> Some opponents underestimate Icon’s abilities since he tries to peacefully settle disputes before pummeling his foes.
+
+Icon is fluent in English and Galactic Standard, the native language of the Cooperative.<ref name=Icon6/><ref name=Icon27/>
+
+==Equipment==
+===Costume===
+Icon wears a costume composed of alien materials that grant him further protection from projectile weaponry, energy beams, and intense heat or cold.<ref name=Icon5/> On his command, the Info Tool aboard his starship can instantly construct his costume over his civilian clothing.<ref name=Icon39>''Icon'' #39</ref> When no longer needed, the costume is disassembled, converted back to energy, and stored in the structural files of the Info Tool.
+
+===Transportation===
+For interstellar journeys, Icon employs his personal starship that is a gift from the Cooperative.<ref name=Icon36>''Icon'' #36</ref> Like all Cooperative vessels, Icon's starship has a faster-than-light drive that allows it to shift into the realm called hyperspace. Within hyperspace, the speed of light is not a limiting factor and thus cannot prevent the starship from quickly traversing intergalactic distances. Gravity compensators provide artificial gravity that can be adjusted to the comfort level of the ship's passengers.<ref name=Icon36>''Icon'' #36</ref>
+
+Icon's starship contains a range of highly advanced Cooperative technology. Two notable items are the Information Tool and the Maker.<ref name=Icon31>''Icon'' #31 (November 1995)</ref> Icon's starship is equipped with a local access system that links directly with the Information Tool or "Info Tool". The Info Tool is a computerized database of virtually everything anyone within the Cooperative knows. It even contains very detailed files on the cultures, languages, history and technology of Sol III (Earth) thanks to Icon's firsthand accounts of his life on the planet. The Info Tool acquires new information from written documents, verbal accounts, and visual data inputs. The database can even scan an item (organic or inorganic) and store its molecular structure within files called "software".  Apart from storing and retrieving data, the local access to the Info Tool can also link to and control any computer-operated device or system. This includes Cooperative technology like the starship's Maker to terrestrial technology like phone lines or lights.<ref name=Icon38>''Icon'' #38 (June 1996)</ref>
+
+Because of all the data it has accumulated over the millennia, the Info Tool is truly self-aware and even has a personality of sorts. The Info Tool relies on verbal inputs to receive commands to perform certain functions.<ref name=Icon31/> In terms of information retrieval, the Tool can respond either verbally or by displaying its findings via holographic imagers aboard the starship. The Info Tool remains in contact with Icon via a communicator hidden in his costume.<ref name=Icon39>''Icon'' #39</ref> The communicator's maximum range is unknown.
+
+The Maker is a molecular factory that can construct any physical item, molecule by molecule, from structural data files stored within the Info Tool. These data files are called "software" while the objects created by the Maker are known as "hardware".<ref name=Icon31/> The Maker operates by tapping the vast energies of the reactor for Icon's starship and converting them into matter used for the construction of hardware. The Maker can create any item, terrestrial or extraterrestrial, in a matter of seconds as long as its structure is on file within the Info Tool. These include medicines, machinery (e.g., vehicles), clothing, and even food.<ref name=Icon31/> The Maker can repair or modify constructed hardware by altering its molecular structure according to the whims of its user.
+
+The Maker can also rearrange the molecular structure of items it did not create in order to change their appearance or function.<ref name=Icon38/> To do so, the Info Tool must first scan the structure of the object to be modified. For example, Icon employed the Maker to build the starship garage beneath his mansion's swimming pool.
+
+Icon's starship has numerous projectors through which the Maker can construct hardware within the vessel.<ref name=Icon31/> To build an item outside the vessel, the Maker relies on a special probe mounted on the underside of the starship.<ref name=Icon38/> It is the probe that facilitates the Maker repairing or remodeling Icon's possessions over great distances. Icon has often employed this feature to repair any damage to his costume.<ref name=Icon41>''Icon'' #41 (September 1996)</ref>
+
+Icon's starship is also equipped with cloaking technology that can render the vessel invisible to both the human eye and all forms of Earthly electronic surveillance.<ref name=Icon38/>  Though not typical for a civilian vessel, the cloak was installed in Icon's ship so he could use it on Earth without attracting attention.
+
+When not in use, Icon stores his starship in his "garage", a hangar located beneath his mansion’s swimming pool.<ref name=Icon38/> The pool slides out of the way to provide easy entry or exit for the ship.
+
+==Collected editions==
+===Trade paperbacks===
+{|class="wikitable"
+|-
+!#!!Title!!ISBN!!Release date!!Collected material
+|-
+|1
+|''Icon: A Hero's Welcome'' 
+|{{ISBN|1-56389-339-8}}
+{{ISBN|1-4012-2549-7}}
+|1996
+(Reprint: October 6, 2009)
+|''Icon'' #1–8 
+|-
+|2
+|''Icon: The Mothership Connection''
+|{{ISBN|1-4012-2711-2}}
+|June 8, 2010
+|''Icon'' #13, 19-22, 24-27, and 30
+|}
+
+==In other media==
+===Television===
+* While he did not appear onscreen, Augustus Freeman was referred to several times in ''[[Static Shock]]'' through the names of various centers and organizations, notably the Dakota-based '''Freeman Community Centre'''.<ref>Beginning with the first season episode "Child's Play".</ref>
+* Icon appears in ''[[Young Justice (TV series)|Young Justice]]'', voiced by [[Tony Todd]]. He first appears in "Revelation", where he and Rocket are shown rescuing civilians from a Plant Creature that the [[Injustice League]] had unleashed on Paris. In "Agendas", Icon and Rocket are considered for membership in the [[Justice League]]. He officially joins the League in "Usual Suspects", while Rocket joins The Team. Alongside the rest of the League, Icon is infected and brainwashed by the [[Starro]] spores released by [[Roy Harper (comics)|Red Arrow]]. During Season 2, Icon acts as legal counsel to the Justice League while facing trial on Rimbor for the crimes they committed under Vandal Savage's Starro-Tech influence. He appears again in the [[Young Justice: Outsiders|third season]].
+
+==Politics==
+* Icon is a conservative [[Republican Party (United States)|Republican]] who holds [[Conservatism in the United States|conservative]] views on economic and social issues, which often put him in conflict with more [[Modern liberalism in the United States|liberal]] [[Milestone Comics]] superheroes, including his sidekick. [[Clarence Thomas]] was an avowed fan of Icon, to the extent that he quoted the character on multiple occasions; upon learning of this, author Dwayne McDuffie, who in the blog post he wrote on the matter describes himself as very liberal, suffered [[writer's block]] out of fears that dialogue he wrote would be used in the service of [[conservatism]].<ref name=BTYB>[https://web.archive.org/web/20010527032512/http://www.psycomic.com/columns/2000/dmcduffie/20001206dmcduffie.shtml Here Comes the Judge!], by [[Dwayne McDuffie]], at Psycomic! (via archive.org); published December 6, 2000; retrieved April 9, 2016</ref>
+
+==Awards==
+* ''Icon'' was nominated for three Eisners and is a three-time winner of [[Parents' Choice Award]] honors.
+
+==Crossovers==
+* ''Shadow War'' - Milestone company-wide crossover, which involved all comics, including the newly premiered ''[[Xombi]]'' and ''[[Shadow Cabinet (comics)|Shadow Cabinet]]''.
+* ''Long Hot Summer'' - Milestone company-wide crossover, consisting of three issues of the comic by the same title along with tie-ins in every Milestone title.
+* ''[[Worlds Collide (comics)|Worlds Collide]]'' - A postal worker named Fred Bentson unwittingly becomes a portal between two worlds and two cities. A living link between Dakota, home city of the Milestone heroes, and Metropolis, home of Superman. Eventually Bentson loses control of his powers and transforms into Rift, a cosmic being capable of manipulating and reconfiguring matter on a subatomic scale. The heroes of two universes come together to stop him and seal the dangerous rift between their worlds. This crossover with Milestone Universe and DC Universe characters included [[Blood Syndicate]], [[Hardware (comics)|Hardware]], Icon, [[Static (DC Comics)|Static]], and DC's [[Steel (John Henry Irons)|Steel]], [[Superman]], and [[Superboy (Kon-El)|Superboy]].
+
+==See also==
+* [[Rocket (DC Comics)|Rocket (comics)]]
+
+==References==
+{{Reflist|2}}
+
+==External links==
+*[https://www.dccomics.com/characters/icon Official DC Comics profile]
+*[https://archive.today/20121225192902/http://worldofblackheroes.wordpress.com/2010/07/03/icon/ World of black heroes: Icon Biography]
+*[http://www.internationalhero.co.uk/i/icon.htm International Heroes: Icon]
+*[[DCDatabase:Augustus Freeman (Dakotaverse)|Icon at the DC Database Project]]
+
+{{Milestone Media}}
+{{Justice League characters}}
+{{Steel}}
+
+{{DEFAULTSORT:Icon (Comics)}}
+[[Category:1993 comics debuts]]
+[[Category:Characters created by Dwayne McDuffie]]
+[[Category:Comics characters introduced in 1993]]
+[[Category:DC Comics characters with accelerated healing]]
+[[Category:DC Comics characters with superhuman strength]]
+[[Category:DC Comics hybrids]]
+[[Category:Fictional characters with superhuman senses]]
+[[Category:Fictional extraterrestrial–human hybrids in comics]]
+[[Category:Fictional Republicans (United States)]]
+[[Category:Fictional slaves]]
+[[Category:Fictional lawyers]]
+[[Category:Milestone Comics titles]]
+[[Category:Superheroes who are adopted]]
+[[Category:Black people in comics]]
+[[Category:DC Comics male superheroes]]
+[[Category:Male characters in comics]]
+[[Category:African-American superheroes]]

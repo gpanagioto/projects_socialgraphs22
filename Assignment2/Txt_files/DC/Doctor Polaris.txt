@@ -1,0 +1,145 @@
+{{Use mdy dates|date=September 2019}}
+'''Doctor Polaris''' is an alias used by two <!--Do not add "fictional" as it is tautological; supervillains (and characters in general) are by definition implied to be fictionalized to some extent.-->[[supervillain]]s appearing in [[American comic book]]s published by [[DC Comics]].<ref name=Guide>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Korte |first3=Steve |last4=Manning |first4=Matt |last5=Wiacek |first5=Win |last6=Wilson |first6=Sven |title=The DC Comics Encyclopedia: The Definitive Guide to the Characters of the DC Universe |date=2016 |publisher=DK Publishing |isbn=978-1-4654-5357-0 |page=94}}</ref>
+
+==Publication history==
+Created by [[John Broome (writer)|John Broome]] and [[Gil Kane]], the first Doctor Polaris, Neal Emerson, made his first appearance in ''[[Green Lantern]]'' #21 (August 1963).<ref>{{cite book |last=Wells |first=John |title=American Comic Book Chronicles: 1960-64 |date=2015 |publisher=TwoMorrows Publishing |isbn=978-1605490458 |page=125}}</ref>
+
+The second Dr. Polaris, John Nichol, first appeared off-panel in ''[[Justice League of America]]'' vol. 2 #11 (September 2007), before receiving a full introduction in ''[[Justice League of America]]'' vol. 2 #17 (March 2008). Nichol's origins in this issue were developed by [[Matthew Sturges]] and Andre Coelho.
+
+==Fictional character biography==
+===Neal Emerson===
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|image= Doctor Polaris (Neal Emerson - circa 1996).png
+|imagesize= 208
+|converted = y
+|caption = Neal Emerson as Doctor Polaris, art by [[Oscar Jimenez (comics)|Oscar Jimenez]].
+|character_name = Doctor Polaris
+|real_name = Neal Emerson
+|publisher= [[DC Comics]]
+|debut = ''[[Green Lantern]]'' vol. 2 #21 (June 1963) 
+|creators = [[John Broome (writer)|John Broome]]<br>[[Gil Kane]]
+|Base of operations = <!-- optional -->
+|species = Human
+|homeworld = [[New Earth (DC Comics)|New Earth]]
+|alliances = [[Cadre (comics)|Cadre]]<br/>[[Secret Society of Super Villains]]<br/> [[Black Lantern Corps]]<br/>[[Suicide Squad]]
+|partners = <!-- optional -->
+|supports = <!-- optional -->
+|aliases = Baxter Timmons, Repulse
+|powers = Magnetic manipulation<br />Electromagnetism<br/>Magnetic force-fields<br/>Flight<br/>Expert physician<br/> Expert [[physicist]]
+|cat = supervillains
+|subcat = DC Comics
+|hero = 
+|villain = y
+|sortkey = Doctor Polaris
+}}
+'''Neal Emerson''' and his brother John were raised by an abusive father (although a later flashback shows him raised by an abusive aunt). This apparently drove Neal Emerson within himself and led to the creation of the personification of his own dark side.<ref name="dc-ency"/> Emerson left the United States for a year and returned to find he was an uncle. His brother John and sister-in-law Katherine had adopted a baby and named him [[Damage (DC comics)|Grant]]. Emerson was not around much for his nephew over the years, but he was quite fond of the boy.
+
+As a medical student, Neal Emerson develops a fanatical interest in [[magnets]], despite the teasing of his classmates. Emerson is convinced exposure to [[magnetic fields]] will give him more energy. He later holds crowd-drawing lectures on "Health via Magnetism". Due to his medical background and belief in [[magnetism]], Emerson adopts the name "Doctor Polaris". He even designs a special costume and mask to wear for his public appearances.<ref name="dc-ency">{{Citation | last = Jimenez | first = Phil | author-link = Phil Jimenez | contribution = Doctor Polaris | editor-last = Dougall | editor-first = Alastair | title = The DC Comics Encyclopedia | page = 105 | publisher = [[Dorling Kindersley]] | place = New York | year = 2008 | isbn = 978-0-7566-4119-1 | oclc = 213309017}}</ref>
+
+After time Emerson came to believe he had absorbed too much magnetic energy, and unsuccessfully tries to drain off the excess energy. In desperation, Emerson tries to make a public appeal at a charity event to [[Hal Jordan|Green Lantern]], believing Green Lantern's [[power ring (weapon)|power ring]] can help him. On his unfortune, putting on the costume causes the evil persona of Doctor Polaris to take over Emerson, and he robs the box office of the proceeds instead.<ref name="dc-ency"/> Polaris tries to draw a magnetic gun on Green Lantern, but is knocked unconscious by the Lantern instead. At the hospital, Green Lantern probes Polaris' mind, and learns of Emerson's evil side. Shortly thereafter, Polaris recovers and attacks Green Lantern from hiding with girders and other metal objects. The Green Lantern manages to draw Polaris out into the open and defeat him. Doctor Polaris is remanded to police custody; during that time, his "good self" resurfaces.<ref>{{cite book |last =Rovin |first =Jeff |title =The Encyclopedia of Supervillains |publisher =Facts on File |date =1987 |location =New York |isbn = 0-8160-1356-X |page=102}}</ref>
+
+Doctor Polaris apparently returns to battle Green Lantern and the [[Justice League]] alongside [[Killer Moth]], [[Dagon]], the [[Mask (DC Comics)|Mask]] and the [[Pied Piper (comics)|Pied Piper]], but it is later revealed the Demons Three, Abnegazar, Rath and Ghast, had created magical duplicates of the villains. The League even has to battle the villains' costumes before ultimately defeating the Demons Three.
+
+Doctor Polaris was later released from imprisonment during one of his "good" periods. He attempted to discover the source of Green Lantern's power by kidnapping his friend, [[Tom Kalmaku]]. Polaris learned Green Lantern's power battery was hidden at Ferris Aircraft and was able to put a magnetic barrier around it, which prevented Green Lantern from fully charging his ring. The hero tracked Kalmaku to Polaris' lair as his power ring ran out of energy. Polaris turned his weapon on the Green Lantern, apparently killing him. The emerald gladiator's body disappeared.
+
+What Doctor Polaris did not know was that Green Lantern was taken to [[Oa]], home of the [[Guardians of the Universe]], the masters of the [[Green Lantern Corps]]. Due to the magnetic effect of Polaris' weapon, they believed Jordan was dead. To complicate matters further, Jordan was taken into the 58th Century where he battled a threat to the Earth in the fictional identity of Pol Manning. Returning to the 20th Century, Green Lantern defeated Polaris. After reviving him, Jordan revealed to Kalmaku the "good" nature of Neal Emerson had lessened the effect of Doctor Polaris' weapon, thereby saving the ring wielder.
+
+A reformed Emerson traveled to the Earth's magnetic [[North Pole]] to study it. Emerson was at the point where the lines of magnetic force converge when an earthquake plunged him into a deep crevice. At the bottom of the crevice lay a glowing blue blob. The radiation from the blob altered Emerson's perceptions, allowing him to understand the blob's intentions to dehydrate the entire Earth. Emerson was able to subconsciously influence Hal Jordan into becoming Green Lantern, but was unable to bring the Lantern to the North Pole. In desperation, Emerson created a mental duplicate of his evil alter ego. Doctor Polaris took advantage of the situation and attacked Green Lantern by blocking his power battery with a magnetic barrier. Doctor Polaris flew into Earth's orbit to increase the solar radiation reaching the planet. As he left the Earth's magnetic field, the barrier around the power ring faded, allowing Green Lantern to recover. Green Lantern managed to use micrometeorites to form an iron mask around Polaris' head, blocking off his vision. Back on Earth, Emerson was able to use telepathy to warn Green Lantern of the alien threat. Once Green Lantern disintegrated the blob, the mental image of the evil Doctor Polaris faded away.
+
+Years later, Emerson's dark side returns. Returning to his old costume, Polaris takes the name of Baxter Timmons and moves to [[Metropolis (comics)|Metropolis]]' Suicide Slum, where he steals advanced technology from warehouses throughout the city. Polaris integrates the new magnetic circuits into his costume, as part of an attempt to gain revenge on Green Lantern. Polaris' plans are stopped through the efforts of the superhero [[Black Lightning]].
+
+Over the years, the Polaris and Emerson personalities fought for dominance, until Polaris was approached by the demon [[Neron (DC Comics)|Neron]]. Polaris sold Neron Emerson's soul in exchange for greater power and being rid of the other, restraining side of his personality. Polaris was one of Neron's lieutenants before being betrayed by [[Lex Luthor]] and the Joker.<ref>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Manning |first3=Matthew K. |last4=McAvennie |first4=Michael |last5=Wallace |first5=Daniel |title=DC Comics Year By Year: A Visual Chronicle |date=2019 |publisher=DK Publishing |isbn=978-1-4654-8578-6 |page=255}}</ref>
+
+Polaris later attacks [[Steel (John Henry Irons)|Steel]] in Washington D.C., seeking a weapon called the Annihilator that Steel had built. During the battle, Steel's grandmother attacks Polaris and is killed. Polaris is driven away after the [[Parasite (comics)|Parasite]] attacks him. Afraid of absorbing Polaris's mind and not just his power, Parasite lets him go before killing him. Polaris flees to Keystone City.<ref>''Steel'' vol. 2 #29. DC Comics.</ref>
+
+Some time after that, Polaris shows up at Poseidonis in an attempt to seize control of the city, prompting a battle against [[Aquaman]] and his allies. At that same time, [[Maxima (comics)|Maxima]] is in the city trying to force Aquaman to marry her. Using her powerful mental abilities, Maxima compels Polaris into believing that his alternate personality has reemerged, forcing him into a nearly catatonic state.
+
+Under unknown circumstances, the catatonic Polaris ends up being held in [[Iraq]], but he is rescued by Hatchet, [[Heat Wave (comics)|Heat Wave]] and [[Sonar (comics)|Sonar]]. The trio planned to carry him to the ''Aurora Borealis'' in the magnetic North Pole for recharge, thinking that he would be thankful to them and would lead them. They fought [[Wally West|The Flash]], [[Connor Hawke|Green Arrow]] and [[Kyle Rayner|Green Lantern]]. When Polaris recovers, the Flash gives him a bit of his speed, which has the same effect as applying kinetic energy to a magnet; Doctor Polaris' body attracts the remains of the sunken ''Aurora Borealis'', containing him.<ref>''Green Lantern'' vol. 3 #96</ref><ref>''Green Arrow'' vol. 2 #130</ref><ref>''The Flash'' vol. 2 #135</ref>
+
+In 2001, Polaris emerges during the [[Joker (character)|Joker]]'s "[[Last Laugh (comics)|Last Laugh]]" crisis attempting to take control of the magnetic south pole itself, forcing a battle against the Justice League where the League only just manage to defeat him thanks to the actions of [[Plastic Man]] (the only League member with no metal on him whatsoever). At the end of ''Last Laugh'', the Slab metahuman prison is moved to [[Antarctica]], as Polaris now ''is'' the magnetic pole and cannot be moved.
+
+Shortly thereafter, Polaris appears in San Francisco, allied with the villainous [[Cadre (comics)|Cadre]]. Here, he is utilizing the power of one of the unimaginably powerful alien [[Controllers (DC Comics)|Controllers]], as well as Cadre member [[Black Mass (comics)|Black Mass]], the latter keeping Polaris' magnetic powers in check so that he can move from the Slab. This time, Doctor Polaris has an "altruistic" goal in sight; convinced that civilization and humanity's free will are obstacles for creating a better Earth, he plans to use the Controller's power and some stolen [[S.T.A.R. Labs]] equipment to focus his powers and "cleanse the world". The heroes known as the [[Power Company]] defeat Polaris by turning the brain-damaged Black Mass against his master and use his gravitational powers to drain Polaris on power.
+
+Shortly before the "[[Infinite Crisis]]" storyline, Dr. Polaris appears in [[Metropolis (comics)|Metropolis]], seeking [[Superman]]'s help in battling a more powerful and ruthless magnetism manipulator who calls herself '''Repulse'''. It eventually transpires that this is a new manifestation of his personality disorder; Polaris is hallucinating Repulse (who looks like the aunt who hated him), and performs her actions himself. Eventually, Superman forces him to accept she is not real.
+
+After recovering from this breakdown, Polaris is recruited by [[Lex Luthor]]'s [[Secret Society of Super Villains]] in "[[Villains United]]". Dr. Polaris is one of the villains waiting to ambush the [[Freedom Fighters (comics)|Freedom Fighters]] in a warehouse south of Metropolis in the beginning of ''Infinite Crisis''. When [[Phantom Lady]] is impaled by [[Deathstroke]], the [[Human Bomb]] becomes enraged. After Dr. Polaris taunts the Human Bomb, he is blown into pieces by the Human Bomb's explosive rage.<ref name="dc-ency"/><ref>{{Cite comic |writer=[[Geoff Johns|Johns, Geoff]] |penciller=[[Phil Jimenez|Jimenez, Phil]] |inker=[[Andy Lanning|Lanning, Andy]] |story=Infinite Crisis |title=Infinite Crisis |volume=1 |issue=1 |date=December 2005 |publisher=[[DC Comics]] |location=New York, NY}}</ref>
+
+During the "[[Blackest Night]]" storyline, Emerson has been identified as one of the deceased entombed below the [[Hall of Justice (comics)|Hall of Justice]].
+
+Neal Emerson appears in the "[[DC Rebirth]]". He first appears as part of Max Lord's supervillain team trying to kill [[Amanda Waller]].<ref>{{Cite comic |writer=Williamson, Joshua |penciller=Fabok, Jason |inker=Fabok, Jason |story=Justice League vs. Suicide Squad |title=Justice League vs. Suicide Squad |volume=1 |issue=1 |date=February 2017 |publisher=[[DC Comics]] |location=New York, NY}}</ref> He is revealed to have been part of Waller's original [[Suicide Squad]].<ref>{{Cite comic |writer=[[Rob Williams (comics)|Williams, Rob]], [[Simon Spurrier|Spurrier, Simon]] |penciller=[[Riley Rossmo|Rossmo, Riley]] |inker=Rossmo, Riley |story=The First and Last Mission of Suicide Zero |title=[[Suicide Squad]] |volume=5 |issue=#9 |date=March 2017 |publisher=[[DC Comics]] |location=New York, NY}}</ref>
+
+===John Nichol===
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|image= 
+|imagesize= <!-- numeral only, defaults to 250 -->
+|converted = y
+|caption = 
+|character_name = Doctor Polaris
+|real_name = John Nichol
+|publisher= [[DC Comics]]
+|debut = ''[[Justice League of America]]'' vol. 2 #17 (March 2008) 
+|creators = [[Brad Meltzer]] (writer)<br/>[[Gene Ha]] (artist)
+|Base of operations = <!-- optional -->
+|species   = Human
+|homeworld = [[New Earth (DC Comics)|New Earth]]
+|alliances = [[Intergang]]
+|partners  = <!-- optional -->
+|supports  = <!-- optional -->
+|aliases   = <!-- optional -->
+|powers = Magnetic manipulation<br />Electromagnetism<br/>Magnetic force-fields<br/>Flight<br/>Expert businessman
+|cat = supervillains
+|subcat = DC Comics
+|hero = 
+|villain = y
+|sortkey = Doctor Polaris
+}}
+A new Doctor Polaris is mentioned, having fought League members [[Roy Harper (comics)|Red Arrow]] and [[Vixen (comics)|Vixen]].<ref>''[[Justice League of America]]'' vol. 2 #11. DC Comics.</ref> The battle occurs off-panel, but he appears in a panel.<ref>''Justice League of America'' vol. 2 #17. DC Comics.</ref>
+
+During the "[[Final Crisis]]" storyline, the new Doctor Polaris can be seen among the recruits of [[Libra (DC Comics)|Libra]]'s new Secret Society.<ref>''Justice League of America'' vol. 2 #21. DC Comics.</ref>
+
+It is revealed that businessman and [[Intergang]] associate '''John Nichol''', a follower of Neal Emerson's exploits, became the second Doctor Polaris after the death of Neal Emerson. He battles [[Jaime Reyes|Blue Beetle]], holding a definitive advantage, until he is shot in the shoulder by his own daughter.<ref>''[[Blue Beetle]]'' vol. 7 #32 (December 2008). DC Comics.</ref>
+
+This Doctor Polaris was also among the villains in the ambush of the [[Justice Society of America|JSA]] led by Tapeworm.<ref>{{Cite comic |writer=[[Bill Willingham|Willingham, Bill]], [[Lilah Sturges|Sturges, Lilah]] |penciller=[[Jesus Merino|Merino, Jesús]] |inker=Merino, Jesús |story=Bad Seed, Part One: Fresh Meat |title=Justice Society of America |volume=3 |issue=#29 |date=September 2009 |publisher=[[DC Comics]] |location=New York, NY}}</ref>
+
+During the "[[Blackest Night]]" storyline, Nichol is reported to have been killed by the [[Black Lantern Corps|Black Lantern]] version of Emerson during a conversation between [[Calculator (comics)|Calculator]] and [[Lex Luthor]]. The kill is said to be verified by [[Cheetah (character)|Cheetah]] and Calculator noting that Nichol was the only real source of information he had on the new Blue Beetle.<ref>''Blackest Night'' #4, DC Comics.</ref>
+
+==Powers and abilities==
+Both versions of Doctor Polaris possessed the power to manipulate and channel magnetic fields. They can lift and move heavy metallic objects, control ferrous particles in the atmosphere, even alter Earth's magnetic field. The Neal Emerson version is strong enough with his powers to bring the Justice League Watchtower down to Earth, and has used metal objects to apply enough force to overwhelm constructs created by Green Lantern Rings. He is able to manipulate the metals deep in the Earth to create earthquakes, volcanic eruptions, and other disasters. He can also sense metals around him, he can determine what they are and how far away they are.
+
+They can also levitate and fly at subsonic speeds, project or control forms of energy related to electromagnetism, like firing bolts of electricity or creating intense heat to destroy a metal door, erect force fields with a high degree of impenetrability to protect themselves or others from nearly any physical, energy, or psionic attack, and absorb an electromagnetic pulse that arose as a result of a nuclear explosion.
+
+The Neal Emerson Doctor Polaris was shown to have lost his powers when exposed to extreme heat. Another one of Emerson's weaknesses was telepathy, due to his dual personalities.
+
+The John Nichol Polaris has all of Emerson's abilities and more, such as the power to create a localized magnetic storm in a person's brain, killing them instantly.<ref>{{Cite comic |writer=[[Lilah Sturges|Sturges, Lilah]] |penciller=Coelho, Andre |inker=Coelho, Andre |story=Boundaries (Part IV) – Backstory |title=[[Blue Beetle]] |volume=7 |issue=#32 |date=December 2008 |publisher=[[DC Comics]] |location=New York, NY}}</ref> Having no mental defects, Nichol is able to utilize his powers much more effectively than Emerson did.
+
+==In other media==
+* Doctor Polaris appears in ''[[Justice League Unlimited]]'', voiced by an uncredited [[Michael Rosenbaum]]. This version is a member of [[Gorilla Grodd|Grodd]]'s [[Secret Society of Super Villains|Secret Society]] who received augmented powers from [[Lex Luthor]], who also included fail-safes to override the latter's powers and prevent him from betraying the former.
+* Doctor Polaris appears in the ''[[Batman: The Brave and the Bold]]'' episodes "Fall of the Blue Beetle!" and "Game Over for Owlman!", voiced by [[Lex Lang]]. Additionally, a heroic [[Multiverse (DC Comics)|alternate universe]] counterpart makes a non-speaking appearance in the episode "Deep Cover for Batman!"
+* Doctor Polaris appears in the "[[Thunder (comics)|Thunder]] and [[Lightning (DC Comics)|Lightning]]" segments of ''[[DC Nation Shorts]]''.
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://dc.fandom.com/wiki/Neal_Emerson_(New_Earth) DCU Guide: Doctor Polaris (Neal Emerson)]
+* [http://dcanimated.wikia.com/wiki/Doctor_Polaris DC Animated Universe: Doctor Polaris (Neal Emerson)]
+
+{{Black Lightning}}
+{{Blue Beetle}}
+{{Green Lantern}}
+{{Justice League characters}}
+{{Starman}}
+{{Steel}}
+{{Flash}}
+{{DEFAULTSORT:Polaris}}
+[[Category:DC Comics metahumans]]
+[[Category:DC Comics supervillains]]
+[[Category:Fictional physicians]]
+[[Category:Fictional scientists]]
+[[Category:Fictional businesspeople]]
+[[Category:Fictional characters with electric or magnetic abilities]]
+[[Category:Comics characters introduced in 1962]]
+[[Category:Characters created by Gil Kane]]
+[[Category:Characters created by John Broome]]
+[[Category:Characters created by Brad Meltzer]]
+[[Category:Comics characters introduced in 2008]]

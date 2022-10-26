@@ -1,0 +1,60 @@
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+|image=Det 544-c large.jpg
+|image_size=250
+|caption=Night-Slayer from ''Detective Comics'' #544, artist [[Gene Colan]].
+|character_name=Night-Slayer
+|publisher=[[DC Comics]]
+|debut=''[[Detective Comics]]'' #529 (August 1983)
+|creators=[[Doug Moench]] (writer)<br>[[Gene Colan]] (artist)
+|alter_ego = 
+|full_name =Anton Knight
+|species = <!-- optional -->
+|homeworld = <!-- optional -->
+|alliances = <!-- optional -->
+|partners =[[Nocturna (DC Comics)|Nocturna]]
+|aliases = Thief of Night, Night-Thief
+|supports =<!--optional-->
+|powers= Expert martial artist and burglar
+|}}
+'''Night-Slayer''' is a fictional character in the [[DC Comics]] [[fictional universe|universe]]. He first appeared in ''[[Detective Comics]]'' #529 (August 1983), and was created by [[Doug Moench]] and [[Gene Colan]].<ref>{{cite book |last1=Greenberger |first1=Robert |title=The Essential Batman Encyclopedia |date=2008 |publisher=Del Rey |isbn=9780345501066 |pages=272–273}}</ref>
+
+==Fictional character biography==
+The son of a Gotham City millionaire (and undercover crime lord), '''Anton Knight''' was raised in a life of luxury and privilege. Even so, as a youth he yearned to improve himself, honing his body and mind to a sharp edge. He studied the martial arts and eventually left for the East to learn from the Masters.
+
+Anton learned of his father's death while travelling in the Orient studying the martial arts. At the funeral, Anton met his stepsister Natalia (also, perhaps erroneously, called Natasha) whom he had never met before and who had been raised in poverty. The long-separated stepsiblings fell in love and began a partnership. Natalia quickly became accustomed to the life of luxury Anton had always known, but the couple soon used up their inheritance, in no small part because Natalia needed expensive medical help due to a rare "light sensitivity" skin pigmentation disorder.
+
+Natalia and Anton adopted a nocturnal existence to protect Natalia from the damaging rays of the sun, while continuing to use the expensive medical equipment to treat her skin sensitivity. After the inheritance money began to run short, Anton and Natalia decided to keep themselves in their accustomed lavish lifestyle through burglary, following in their father's criminal footsteps. Clad in a black body suit, Anton used his martial arts and acrobatic prowess to rob Gotham City's rich as the "Thief of Night", while Natalia operated behind the scenes as "[[Nocturna (DC Comics)|Nocturna]], Mistress of the Night".<ref>{{cite book |last =Rovin |first =Jeff |title =The Encyclopedia of Supervillains |publisher =Facts on File |date =1987 |location =New York |isbn = 0-8160-1356-X |pages=247–248}}</ref>
+
+Anton, having spent much time in [[Asia]], proved to be a highly capable [[martial arts|martial artist]]. However their burglary soon brought them into conflict with [[Batman]]. The two had several clashes with the Darknight Detective, many of which ended with no clear-cut victor. For a while, the Night-Slayer even traded identities with a delirious Batman.
+
+After several clashes with Batman, Anton was eventually captured and sent to prison. Nocturna remained free and continued her life of crime along with a new ally, Nightshade. Anton finally escaped and, after being rejected by his beloved Nocturna, changed his style and became the murderous "Night-Slayer". He killed Nightshade, an action which the more moral Nocturna abhorred (which is why she rejected him), accusing Anton of slaying the night. After being betrayed too many times by Nocturna, Anton vowed to kill her. However, that never occurred as he was again put in jail by the Catwoman, while Nocturna seemingly died in an accident.
+
+When last seen, Night-Slayer was freed from prison in a mass breakout engineered by [[Ra's al Ghul]].
+
+===Post-''Crisis'' absence===
+While his stepsister and former partner Nocturna has returned to make various minor comics appearances over the years, Night-Slayer has been notably absent. Because of this, it remains unclear if Night-Slayer's existence is canonical in the Post-''Crisis'' universe.
+
+==Powers and abilities==
+Night-Slayer is an expert martial artist.
+
+==In other media==
+* Night-Slayer appears as an enemy in the [[NES]] ''[[Batman (NES)|Batman]]'' videogame.
+
+==See also==
+*[[List of Batman family enemies]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.dcuguide.com/who.php?name=nightslayer DCU Guide: Nightslayer]
+
+{{Batman characters}}
+
+[[Category:DC Comics male supervillains]]
+[[Category:DC Comics martial artists]]
+[[Category:DC Comics supervillains]]
+[[Category:Fictional professional thieves]]
+[[Category:Comics characters introduced in 1983]]
+[[Category:Characters created by Doug Moench]]
+[[Category:Characters created by Gene Colan]]

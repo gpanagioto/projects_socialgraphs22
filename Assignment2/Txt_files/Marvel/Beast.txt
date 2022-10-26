@@ -1,0 +1,5 @@
+#REDIRECT [[Beast (Marvel Comics)]]
+
+{{Redirect category shell|
+{{R from move}}
+}}

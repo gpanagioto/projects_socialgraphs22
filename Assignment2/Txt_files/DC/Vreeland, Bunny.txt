@@ -1,0 +1,326 @@
+{{short description|1999-2001 American television series}}
+{{Use mdy dates|date=July 2015}}
+{{Infobox television
+| image                    = Batman Beyond title card.png
+| caption                  = Title card
+| num_seasons              = 3
+| genre                    = {{unbulleted list|[[Superhero fiction|Superhero]]|[[Science fiction]]|[[Action fiction|Action]]|[[Adventure fiction|Adventure]]|[[Cyberpunk]]}}
+| runtime                  = 22 minutes<br>44 minutes (2-part episode)
+| based_on                 = {{based_on|[[Batman]]||[[Bob Kane]]|[[Bill Finger]]}}
+| creator                  = 
+| developer                = [[Bruce Timm]]<br/>[[Paul Dini]]<br/>[[Alan Burnett]]
+| writer                   = Alan Burnett<br>Paul Dini<br>Stan Berkowitz<br>[[Rich Fogel]]
+| voices                   = [[Will Friedle]]<br/>[[Kevin Conroy]]<br/>[[Cree Summer]]<br/>[[Lauren Tom]]<br/>[[Frank Welker]]<br/>[[Stockard Channing]]<br/>[[Angie Harmon]]
+| composer                 = [[Shirley Walker]]<br/>[[Lolita Ritmanis]]<br/>Michael McCuistion<br/>[[Kristopher Carter]]
+| country                  = United States
+| language                 = English
+| company                  = [[Warner Bros. Television Animation]]<br>[[DC Comics]]
+| distributor              = [[Warner Bros. Television Distribution]]
+| network                  = [[Kids' WB]]
+| first_aired              = {{Start date|1999|1|10}}
+| last_aired               = {{End date|2001|12|18}}
+| num_episodes             = 52
+| list_episodes            = List of Batman Beyond episodes
+| executive_producer       = [[Jean MacCurdy]]<br/>Shaun McLaughlin<br/>[[Tom Ruegger]]
+| producer                 = Alan Burnett<br/>Paul Dini<br/>[[Glen Murakami]]<br/>Bruce Timm
+| preceded_by              = ''[[The New Batman Adventures]]''
+| followed_by              = ''[[The Batman (2004)]]''
+| related                  = {{ubl|''[[The Zeta Project]]''|''[[DC animated universe#TV series|DC animated universe television series]]''}}
+}}
+
+'''''Batman Beyond''''' (known as '''''Batman of the Future''''' outside the United States) is an American [[Superhero fiction|superhero]] animated television series developed by [[Bruce Timm]], [[Paul Dini]], and [[Alan Burnett]]. It was produced by [[Warner Bros. Animation]] in collaboration with [[DC Comics]] and is the fourth series in the [[DC Animated Universe]].<ref>{{cite news|title= A History of Batman on TV|work= [[IGN]]|url= http://uk.tv.ign.com/articles/891/891807p8.html|access-date=August 15, 2010}}</ref> The series began airing on January 10, 1999 on [[Kids' WB]], and ended on December 18, 2001. In the United Kingdom, it began airing on September 4, 2000.<ref>{{cite book |last1=Erickson |first1=Hal |title=Television Cartoon Shows: An Illustrated Encyclopedia, 1949 Through 2003 |date=2005 |edition=2nd |publisher=McFarland & Co |isbn=978-1476665993 |pages=114–122}}</ref> After 52 episodes spanning three seasons and one [[direct-to-video]] [[Batman Beyond: Return of the Joker|feature film]], the series was brought to an end in favor of the ''[[Justice League (TV series)|Justice League]]'' animated series, and plans for a fourth season were cancelled.<ref>{{cite web|url=http://www.comicscontinuum.com/stories/0102/09/index.htm |title=News |publisher=Comics Continuum |date=February 9, 2001 |access-date=January 2, 2011}}</ref>
+
+Depicting a teenaged [[Batman (Terry McGinnis)|Batman]] (Terry McGinnis) in a futuristic [[Gotham City]] under the tutelage of an elderly [[Batman|Bruce Wayne]], ''Batman Beyond'' is chronologically the final series of the DC Animated Universe (despite being released before ''[[Static Shock]]'', ''[[Justice League (TV series)|Justice League]]'' and ''[[Justice League Unlimited]]'' as the fourth series), and serves as a continuation of both ''[[Batman: The Animated Series]]'' and ''[[The New Batman Adventures]]''. Due to the series taking place in the same universe as ''[[Batman: The Animated Series]]'', Bruce Timm thought it was ideal to have [[Kevin Conroy]] voice the older Batman.<ref>{{Cite web|url=https://www.looper.com/762629/the-untold-truth-of-batman-beyond/|title=The Untold Truth Of Batman Beyond|first=Sergio|last=Pereira|date=February 9, 2022|website=Looper.com}}</ref>
+
+Though the initial announcement of the series drew mixed reactions, ''Batman Beyond'' went on to receive critical acclaim and a [[cult following]]. The show is said to explore the darker side of many Batman projects, playing on key elements such as emotions, personal relations, fear of the unknown, as well as [[cyberpunk]] and [[sci-fi]] themes such as the issues and dilemmas of innovation and technological and scientific progress affecting society, and the psychology of the character of Bruce Wayne. In addition, due to the titular character being a high school student, it includes issues that plague teenagers (substance abuse, subcultures, child abuse and neglect, school violence, peer pressure, etc.). As such, it was considerably darker than most other children's programs at the time, although producer [[Bruce Timm]] recalls it was conceived as a kid-friendly ''Batman'' cartoon.<ref name="mmv3">{{cite book |title= Modern Masters Volume 3: Bruce Timm |last= Nolen-Weathington |first= Eric |date= June 1, 2004 |publisher= [[TwoMorrows Publishing]] |isbn= 978-1-893905-30-6 |page= 67 |url= https://books.google.com/books?id=EMwn_4llWK0C&q=Bruce+Timm+kid-friendly+Batman+Beyond+cartoon&pg=PA67 |access-date= July 18, 2010}}</ref> It is also the first ''Batman'' series to portray the hero as a teenager. ''[[IGN]]'' named the show 40th on their list of "Top 100 Animated TV Series."<ref name="ign"/> The premise of ''Batman Beyond'' has been used in [[Batman Beyond (comics)|various comic book stories]] published by DC Comics, including an ongoing series beginning in 2011.
+
+==Plot==
+{{See also|List of Batman Beyond episodes}}
+The story begins in the year 2019 (20 years following ''[[Batman: The Animated Series]]'' and ''[[The New Batman Adventures]]'' and 15 to 17 years following ''[[Justice League (TV series)|Justice League]]'' and ''[[Justice League Unlimited]]'') [[Batman|Bruce Wayne]], despite being past his prime and in his mid- to late 50s, continues to fight crime as Batman in a new high-tech [[Batsuit]]. In the rescue of a kidnapped heiress and daughter of an [[List of DC Animated Universe characters#Veronica Vreeland|old socialite friend]] of his, he suffers a mild heart attack and, at risk of being beaten to death by one of the kidnappers, is forced to betray a lifelong principle and his paramount rule by threatening the criminals with a gun, the same kind of weapon that murdered his parents and drove him to become Batman in the first place. Bruce is ashamed and, fearing that he eventually will surrender to his murderous temptation if continuing crime-fighting, decides to retire from being Batman for good and by this point in his life, his butler, father figure and close confidant [[Alfred Pennyworth]] as well as close allies [[Commissioner James Gordon]], [[Dr. Leslie Thompkins]], [[Hamilton Hill (comics)|Hamilton Hill]], [[Harvey Bullock (character)|Harvey Bullock]], [[Renee Montoya]], [[Lucius Fox]] and [[Summer Gleeson]] have all either retired or died of natural causes. His crime-fighting partners [[Dick Grayson]], [[Barbara Gordon]], [[Tim Drake]] and [[Selina Kyle]] are still alive and are now estranged from him following their retirements from their alter-egos and possible falling outs with him. His [[List of Batman family enemies|rogues' gallery]], consisting of [[Joker (character)|Joker]], [[Harley Quinn]], [[Two-Face]], [[Riddler]], [[Scarecrow (DC Comics)|Scarecrow]], [[Poison Ivy (character)|Poison Ivy]], [[Man-Bat]], [[Mad Hatter (DC Comics)|Mad Hatter]], [[Bane (DC Comics)|Bane]], [[Clayface]], [[Ra's al Ghul]] and his daughter [[Talia al Ghul|Talia]], [[Andrea Beaumont|Phantasm]], [[Ventriloquist (character)|Ventriloquist]], [[Scarface (comics)|Scarface]], [[Firefly (DC Comics)|Firefly]], [[Mr. Freeze]], [[Hugo Strange]], [[Rupert Thorne]], [[Deadshot]], [[Baby-Doll (character)|Baby-Doll]] and [[Killer Croc]] are all either in prison, exile, have disappeared or are dead. He has also severed his ties with and resigned from the [[Justice League]].
+
+The story moves ahead 20 years later to 2039 in [[Gotham City|Neo-Gotham]], a futuristic version of Gotham City, a [[Megalopolis (city type)|megalopolis]] featuring staggering high rises and flying vehicles driven by [[upper class]] society. Bruce is now a man in his 70s, living in bitter isolation in [[Wayne Manor]], with no other companion but his guard dog [[Ace the Bat-Hound|Ace]]. It is implied by his virtue of continuing to fight crime for as long as possible and ignoring his aging and deteriorating health (he had retained his former partner's costumes) that he had suffered a tragic event years prior to his retirement, which is revealed in ''[[Batman Beyond: Return of the Joker]]''. [[Batman (Terry McGinnis)|Terry McGinnis]] is an athletic 16-year-old high school student and reformed troublemaker with a deeply ingrained sense of personal justice. Living on difficult terms with his father Warren McGinnis, Terry disobeys his curfew one night to meet up with his girlfriend Dana Tan, only to be harassed by a gang called the [[Jokerz]]. A high-speed motorcycle chase between him and the Jokerz ends in the grounds of Wayne Manor, where they run into the elderly Bruce Wayne. Bruce and Terry fend off the gang side-by-side, but the exertion aggravates Bruce's heart condition. Terry helps him back to the manor and, while exploring the mansion, stumbles upon the entrance to the Batcave and thus discovers Bruce's secrets, only to be chased out by an angered Bruce.
+
+Terry returns home to discover that his father has been murdered, apparently by the vengeful Jokerz. Soon after, though, he discovers that his father had stumbled onto information about the production of [[Biological warfare|illegal chemical weapons]] by [[Derek Powers]] through [[Wayne Enterprises|Wayne-Powers]] (Wayne Enterprises had merged with Powers' company long ago around the time of and following Bruce's retirement as Batman) and that the man actually responsible for his father's murder is Powers' personal assistant/bodyguard Mr. Fixx. Terry goes to Bruce who tells Terry to take the evidence to Barbara Gordon, the current Police Commissioner. After the evidence of the illegal weapon production is forcibly taken from Terry by Derek Powers, Terry subsequently steals the Batsuit, intending to bring Powers to justice. Bruce initially opposes all of Terry's efforts and demands that he return the suit, but Terry convinces Bruce to let him take on the Batman mantle and subsequently defeats Mr. Fixx. During the battle, Powers is exposed to the chemical and forced to flee into hiding to receive treatment, which subsequently mutates him into a radiation-emitting entity, though he uses artificial skin to hide the accident. Realizing that crime and corruption are running rampant in Gotham without Batman's presence, Bruce offers Terry the chance to assume the role of Batman, with Bruce himself mentoring Terry and in addition to working as Bruce's chauffeur and assistant so that Terry can support his family.
+
+The new Batman soon develops his own rogues gallery, with both new villains (the radiation-emitting metahuman Blight (a.k.a. Derek Powers); seductive shapeshifter [[Inque]]; hypnotist the [[Spellbinder (DC Comics)|Spellbinder]]; [[Sonic weapon|sound weaponizer]] Shriek; deadly assassin Curaré; insane eco-terrorist Mad Stan; cybernetically enhanced African [[big-game hunter]] the Stalker; nerdy [[psychokinetic]] Willie Watt and a new version of the [[Royal Flush Gang]] as well as some of his mentor's old foes, such as a rejuvenated [[Mr. Freeze]], [[Bane (comics)|Bane]], the [[longevity|longevous]] [[Ra's al Ghul]], and even the [[Joker (character)|Joker]] himself.
+
+Terry also makes allies in Neo-Gotham, including computer [[genius]] [[Maxine "Max" Gibson]]. After discovering Batman's secret identity, she helps him with everything from [[Hacker (computer security)|computer hacking]] to [[babysitting]]. Police Commissioner Barbara Gordon also works with Terry. Though initially unhappy about another person following in Bruce's dangerous footsteps and at first vehemently opposed to his efforts to help, she admits that the city needs Batman. He also has a relationship with Melanie Walker, who was forced to do the bidding of her family, the new Royal Flush Gang, under the codename Ten. Terry would also later encounter [[Superman]] and the Justice League and help them fight an [[Starro|alien threat]] although he would not join the group until adulthood where he presumably like his mentor before him also operates as a part-timer. 
+
+In the episode "Epilogue" (the second season finale of ''Justice League Unlimited'' but a conclusion to ''Batman Beyond''), Terry in his 30s learns that Bruce Wayne is his biological father. Upon questioning Wayne's old enemy-turned-ally [[Amanda Waller]], she reveals to him that she spearheaded "Project: Batman Beyond" to create a successor upon realising the possibility of Bruce's eventual retirement or death as he got older and that a world always needed a Batman and his unique skillset. While this revelation supposedly strained Bruce and Terry's relationship he eventually makes peace with it and resumes his duty as Batman.
+
+==Voice cast==
+{{main|List of Batman Beyond characters|List of DC Animated Universe characters}}
+* [[Will Friedle]] as [[Batman (Terry McGinnis)|Terry McGinnis / Batman]]:<br />The second Batman, he is a high school student and former delinquent. Under the pretense of doing errands for Bruce, Terry fights crime as the new Batman. Terry was chosen to be the new Dark Knight as he shared a similar loss as Bruce had; that being the death of a parent.
+*
+* [[Kevin Conroy]] as [[Batman|Bruce Wayne]]: <br />The original Batman, although initially reluctant he later becomes Terry's employer, mentor, and predecessor who guides Terry through the Batcomputer but also occasionally ventures into the field to help his successor if the situation demands it, despite the risks associated with his age. During his final mission as the Dark Knight twenty years prior to the events of the main story, Bruce suffered a [[heart attack]] that nearly cost him his life, forcing him to break his primary moral principle by threatening to kill a criminal with a gun in self-defense. Abhorred that he nearly used the type of weapon that took his parents' ([[Thomas Wayne|Thomas]] and [[Martha Wayne|Martha]]) lives and the very thing that drove him to become a vigilante, and afraid of what he might do next, Wayne reluctantly hung up his cape and cowl.
+* [[Cree Summer]] as Maxine "Max" Gibson:<br /> A genius high schooler and friend of Terry's. She discovers his secret identity, and from then on occasionally helps Batman in an "[[Alfred Pennyworth|Alfred]]"-type role, though she is considered a nuisance to his predecessor (but less so as time went on). Her parents are divorced and she has an unnamed sister.
+*[[Lauren Tom]] as Dana Tan: <br />Terry's on and off girlfriend in high school who is initially and formerly unaware of his secret identity as the new Dark Knight, and thus surprised or upset by his frequent absences which she only knows due to him working as a personal assistant for Bruce Wayne, to support his family financially following his father's death. She also has a father who is disapproving of Terry because of the latter's past as an irresponsible delinquent, which serves as a reminder and another motivation for Terry being Batman.
+* [[Frank Welker]] as [[Ace the Bat-Hound|Ace]]:<br />Bruce Wayne's pet dog and his sole companion in Wayne Manor, the billionaire rescued and took in the stray [[Great Dane]] after the canine defended him from a [[Jokerz]] thug during one of Wayne's annual visits in memory of his parents to [[Crime Alley]]. Fiercely loyal to Bruce, he eventually develops a bond with Terry as well.
+* [[Stockard Channing]] (1999–2000) and [[Angie Harmon]] (2000) as [[Barbara Gordon]]: <br />The new Commissioner of the Gotham City Police Department, having succeeded her father [[Jim Gordon (character)|Jim]] and one of Bruce's former crime-fighting partners, Batgirl and was at one point in her younger years romantically involved with him which ended badly. Unlike her father, Barbara initially has a rocky relationship with the new Batman, showing resentment towards Bruce for dragging him into this life and is at first against him intervening in police duty. Though this is revealed to have been due to a long standing grudge towards Bruce for how he treated his former partners and also because of what happened years ago, [[Batman Beyond: Return of the Joker|the night the Bat-family splintered]] as she later gains respect for Terry after he helps her in several sticky situations and begins acknowledging his help whenever needed, though does not use a [[Bat-Signal]] unlike her father, presumably because she has direct access to the Batcave from the office and because of her past as Batgirl. She is married to Sam Young, the District Attorney of Neo-Gotham.
+
+==Episodes==
+{{main|List of Batman Beyond episodes}}
+{{:List of Batman Beyond episodes}}
+
+===Crossovers===
+The third season of ''Batman Beyond'' featured the two-part episode "The Call" with (for the first time) a futuristic [[Justice League]], a [[springboard]] for the ''[[Justice League (TV series)|Justice League]]'' animated series. The setting and characters of ''Batman Beyond'' were also briefly revived in ''[[Static Shock]]'' during the episode "[[Future Shock (Static Shock)|Future Shock]]" in which [[Static (DC Comics)|Static]] is accidentally transported 40 years into the future.
+
+''[[Justice League Unlimited]]'' revisited the ''Batman Beyond'' world twice in 2005. The first was in "[[The Once and Future Thing]]" (Part 2), which featured [[Batman]], [[Wonder Woman]] and [[John Stewart (comics)|Green Lantern]] transported 50 years into the future to stop a [[Chronos (character)|time-travelling villain]] with the help of the future Justice League (Batman II, Static and Warhawk).
+
+The second time was meant to be the de facto [[series finale]] for ''Batman Beyond'': the episode "[[Epilogue (Justice League Unlimited episode)|Epilogue]]" reveals that Bruce Wayne is actually Terry McGinnis's biological father. The story, set 15 years after ''Batman Beyond'', centers on Terry (now in his early 30s) tracking down an elderly [[Amanda Waller]]. She explains through [[Flashback (narrative)|flashbacks]] that, even though she grew to trust and respect Batman, she was aware of him aging, thus accepting the idea of either Bruce retiring or being killed at some point. Finding the idea of a world without Batman unacceptable, Waller used her [[Project Cadmus]] connections to gather the technology for "Project Batman Beyond", whose goal was to physically create a new Batman, starting with a secretly collected sample of Bruce Wayne's DNA. Some years after Bruce retired, Waller found a young Neo-Gotham couple—the McGinnises—with psychological profiles nearly identical to those of Bruce's parents, a [[Nanotechnology|nanotech]] solution was injected into Warren McGinnis to rewrite his [[Reproduction|reproductive]] material with that of Bruce. The eventual result was his wife Mary McGinnis giving birth to Terry, a child sharing the genetic traits of his mother and Bruce Wayne. When Terry was eight years old, Waller employed an elderly Andrea Beaumont in her [[Andrea Beaumont|Phantasm]] alias as an assassin to kill Terry's family, hoping the [[Psychological trauma|trauma]] would put him on the path to becoming Batman. However, Beaumont could not commit the act, arguing that she would be doing something against what Bruce stood for. Waller eventually conceded that Beaumont had been right and abolished the project altogether. Eight years afterward, Warren would be murdered, and Terry would meet Bruce by happenstance—resulting in Terry becoming Batman's successor. Waller concludes by reminding Terry that he is Bruce's son, not his clone, and that, despite the circumstances of his existence, he still has [[free will]] to live out his own life; Terry comes to terms with his revelations, and continues in being Batman. With a new sense of purpose, Terry plans to propose to Dana, while continuing his life of crimefighting.
+
+===Animation===
+In order to complete the series, Warner Bros. Animation outsourced ''Batman Beyond'' to [[Dong Yang Animation]], [[CNK International|Koko Enterprises]] and Seoul Movie (a subsidiary of TMS) in Seoul, South Korea. While the South Korean studios animated the series' episodes, the feature film ''[[Batman Beyond: Return of the Joker]]'' was animated by [[TMS Entertainment]] in Tokyo, Japan.
+
+==Spinoff==
+{{main|The Zeta Project}}
+A spinoff from ''Batman Beyond'', an animated series called ''[[The Zeta Project]]'', featured a revamped version of the [[synthoid]] Zeta from the ''Batman Beyond'' episode "Zeta". Batman would guest star in the episode "Shadows". The super villain Stalker was to have appeared in ''The Zeta Project'' episode "Taffy Time", but ultimately did not do so.<ref name="worldsfinestonline1">{{cite web|url=http://www.worldsfinestonline.com/WF/zetaproject/backstage/kuhr.php |title=The World's Finest - The Zeta Project |publisher=Worldsfinestonline.com |access-date=January 2, 2011}}</ref> The second-season episode "Ro's Gift" has an appearance by the [[Brain Trust]] from the ''Batman Beyond'' episode "Mind Games". [[Batman (Terry McGinnis)|Terry McGinnis/Batman]] was originally slated to appear in this episode as well, but was cut since [[Bruce Timm]] and company were working on ''[[Justice League (TV series)|Justice League]]''.<ref name="worldsfinestonline1"/>
+
+==Reception==
+While the idea of ''Batman Beyond'' seemed as if it were "not a proper continuation of the legacy of the Dark Knight",<ref name="ign"/> it gathered acclaim after its release. It has been praised for its dark, mature, and often unsettling storytelling. The show was nominated for four [[Daytime Emmy Awards]], two of which it won in 2001 for Outstanding Special Class Animated Program and Outstanding Music Direction and Composition. In addition, the show was nominated for five [[Annie Awards]] and won two of those nominations in 1999 and 2001.<ref name="imdb">{{IMDb title|147746|section=awards}}</ref> In 2009, [[IGN]].com named ''Batman Beyond'' the 40th-best animated television series of all time.<ref name="ign">{{Cite web |url=http://tv.ign.com/top-100-animated-tv-series/40.html |publisher=IGN |title=40. Batman Beyond |url-status=dead |archive-url=https://web.archive.org/web/20090122200042/http://tv.ign.com/top-100-animated-tv-series/40.html |archive-date=January 22, 2009}}</ref>
+
+==Home video==
+===VHS===
+Some episodes of the series were released on [[VHS]] from 1999 to 2000, including the series' premiere (as ''Batman Beyond: The Movie''), and select episodes as five VHS volumes containing three episodes per tape (the same contents as the individual [[DVD-Video|DVD]] volume releases, see below), and the direct-to-video film ''Batman Beyond: Return of the Joker'' (edited version).
+
+===Season DVD===
+{| class="wikitable"
+|-
+!DVD name!!Release date!!Episodes!!Additional information
+|-
+|''The Complete First Season''|| March 21, 2006|| style="text-align:center;"|13|| Special features: creators' commentary on two key episodes; ''Inside ''Batman Beyond'': Meet the Series' Creators''; ''Music of the Knight'': Enjoy Score-Only Versions of Key Scenes.
+|-
+|{{nowrap|''The Complete Second Season''}}|| October 24, 2006|| style="text-align:center;"|26|| Special features: creators' commentary on two key episodes; ''Inside ''Batman Beyond'': The Panel – In-Depth Dialogue with the Show's Creators''. DVD art designed by [[Jesse Stagg]] at RDI.
+|-
+|''The Complete Third Season''|| March 20, 2007|| style="text-align:center;"|13|| Special features: ''Inside Batman Beyond''; featurettes on four episodes by producers, directors and Will Friedle. DVD art designed by [[Jesse Stagg]] at RDI.
+|-
+|''The Complete Series''|| {{nowrap|November 23, 2010}}||style="text-align:center;"|52|| Special features: creator commentaries, season retrospectives, bonus 9th disc with 95 minutes of new special features, ''Secret Origin: The Story of DC Comics'' documentary and three all-new, all-revealing featurettes.
+|}
+
+===Individual DVD===
+{| class="wikitable"
+|-
+!DVD name!!Release date!!Episodes!!Additional information
+|-
+|''[[Batman Beyond: Return of the Joker]]''<br/>(edited version, 73 min.)||{{nowrap|December 12, 2000}}|| style="text-align:center;"|1||Commentary by the filmmakers*; behind-the-scenes documentary; deleted scenes; animation tests; music video ''Crash'' by Mephisto Odyssey featuring Static X; animated character bios; interactive menus; production notes; trailers; scene access; subtitles: English and French.
+|-
+|''[[Batman Beyond: Return of the Joker]]''<br/>(uncut version, 76 min.)|| April 23, 2002|| style="text-align:center;"|1||Commentary by the filmmakers*; behind-the-scenes documentary; deleted scenes; animation tests; music video ''Crash'' by Mephisto Odyssey featuring Static X; animated character bios; interactive menus; production notes; trailers; scene access; subtitles: English and French.
+|-
+|''[[Batman Beyond: The Movie]]''|| May 18, 1999 ||style="text-align:center;"|6|| Compilation of the [[List of Batman Beyond episodes#Season One: 1999|first six episodes]] (by production order, not by air date) of the series: "Rebirth " (Parts 1 and 2), "Golem", "Dead Man's Hand", "Meltdown", "The Winning Edge"
+|-
+|''Batman Beyond: School Dayz and Spellbound''|| March 2, 2004|| style="text-align:center;"|6||Contains episodes: S01E04, S01E08, S01E09, S01E10, S01E12 and S02E08, plus all episodes as one long movie.
+|-
+|{{nowrap|''Batman Beyond: Tech Wars and Disappearing Inque''}}|| March 2, 2004|| style="text-align:center;"|6|||
+|}
+* '''*Note''': The audio commentaries for both the edited and uncut versions of ''Batman Beyond: Return of the Joker'' were provided by the same contributors; however, both versions are slightly different from each other.
+
+=== Blu-ray ===
+''Batman Beyond'' was released on [[Blu-ray]] on October 29, 2019. The four-disc set includes all 52 episodes and the uncut version of ''Batman Beyond: Return of the Joker''. Forty-one of the episodes and ''Return of the Joker'' were remastered. The remaining 11 episodes were an [[Video scaler|upconversion]].<ref>{{Cite web|url=https://www.slashfilm.com/batman-beyond-blu-ray-release-remastered/|title='Batman Beyond' is Finally Getting a Remastered Blu-ray Release This October [Comic-Con 2019]|date=2019-07-18|website=/Film|language=en-US|access-date=2019-07-19}}</ref>
+
+==In other media==
+
+===Comics===
+{{Main|Batman Beyond (comics)}}
+
+===Books===
+"Batman Beyond: Return of the Joker" novelization of the feature film, written by Michael Teitelbaum, was released on November 1, 2000.
+Two Batman Beyond books for young readers were released on November 14, 2000: "Batman Beyond: New Hero in Town" and "Batman Beyond: No Place Like Home", followed by two more, released on May 28, 2002: "Batman Beyond: Hear No Evil" and "Batman Beyond: Grounded".
+
+===Music===
+{{Infobox album
+| name       = '''Batman Beyond'''
+| type       = soundtrack
+| artist     = [[Shirley Walker]], [[Kristopher Carter]], [[Lolita Ritmanis]], Michael McCuistion
+| cover      = 
+| caption    = 
+| alt        =
+| released   = {{Start date|1999|08|31}}
+| recorded   =
+| venue      =
+| studio     =
+| genre      =
+| length     = {{Duration|m=39|s=58}}
+| label      = [[Rhino Entertainment]]
+| producer   =
+| prev_title =
+| prev_year  =
+| next_title =
+| next_year  =
+}}
+{{Album reviews
+|rev1 = [[Allmusic]]
+|rev1score = {{Rating|4|5}}<ref name="am">{{cite web|last=Phares|first=Heather|title=Batman Beyond|publisher=[[AllMusic]]|url={{AllMusic|class=album|id=r428036|pure_url=yes}}|access-date=July 18, 2010}}</ref>
+}}
+
+Released on August 31, 1999, the soundtrack to ''Batman Beyond'' features many of the same composers who worked on the previous animated ''Batman'' shows. The music style is more [[Industrial music|industrial]], with some [[Industrial metal|metal]] influence, to tie in with the show's futuristic [[cyberpunk]] genre.
+
+{{Track listing
+|collapsed=no
+| headline        = Batman Beyond
+| extra_column    = Composer
+
+| title1          = Batman Beyond (Main Title)
+| extra1          = Kristopher Carter
+| length1         =1:00
+
+| title2          = Cold vs. Hot
+| extra2          = Lolita Ritmanis
+| length2         =3:12
+
+| title3          = Terrific Trio vs. Rocketeers
+| extra3          = Michael McCuistion
+| length3         =1:50
+
+| title4          = Bat-Slapped in Store
+| extra4          = Kristopher Carter
+| length4         =1:16
+
+| title5          = Farewells
+| extra5          = Lolita Ritmanis
+| length5         =2:44
+
+| title6          = Batman Defeats Chappell
+| extra6          = Kristopher Carter
+| length6         =2:14
+
+| title7          = Batman Chases Inque
+| extra7          = Kristopher Carter
+| length7         =2:43
+
+| title8          = Yachting with the Card Gang
+| extra8          = Shirley Walker
+| length8         =2:09
+
+| title9          = Batman's First Fight
+| extra9          = Michael McCuistion
+| length9         =2:57
+
+| title10         = The Legacy Continues
+| extra10         = Michael McCuistion
+| length10        =1:24
+
+| title11         = Hotel Scuffle
+| extra11         = Shirley Walker
+| length11        =1:57
+
+| title12         = Trouble in the Museum
+| extra12         = Shirley Walker
+| length12        =1:46
+
+| title13         = Inque Escapes!
+| extra13         = Kristopher Carter
+| length13        =1:22
+
+| title14         = Nuclear Lab Destruction
+| extra14         = Michael McCuistion
+| length14        =1:54
+
+| title15         = Golem Chases Shoppers
+| extra15         = Shirley Walker
+| length15        =2:00
+
+| title16         = Willie Defeated
+| extra16         = Shirley Walker
+| length16        =2:37
+
+| title17         = Genetic Theft
+| extra17         = Michael McCuistion
+| length17        =1:29
+
+| title18         = Joker Chase
+| extra18         = Lolita Ritmanis
+| length18        =3:08
+
+| title19         = Move to the Groove
+| extra19         = Lolita Ritmanis
+| length19        =1:16
+
+| title20         = Batman Beyond (End Credits)
+| extra20         = Shirley Walker
+| length20        =1:00
+}}
+
+===Toys===
+In 2000, [[Burger King]] included ''Batman Beyond'' toys in their kids' meals.
+
+===Films===
+{{main|Batman in film}}
+A [[direct-to-video]] feature film, ''[[Batman Beyond: Return of the Joker]]'', was released on December 12, 2000. The original release was censored for elements of violence and death, though a second, uncensored version was later released. it received critical acclaim for its story, voice acting, animation and score.<ref>{{cite web | url=https://www.rottentomatoes.com/m/batman_beyond_return_of_the_joker/ | title=Batman Beyond - Return of the Joker | publisher=[[Rotten Tomatoes]] | access-date=2009-10-23| archive-url= https://web.archive.org/web/20091022162149/http://www.rottentomatoes.com/m/batman_beyond_return_of_the_joker/| archive-date= 22 October 2009 | url-status= live}}</ref> A second ''Batman Beyond'' film, focusing on the origins of Terry McGinnis, multiple clones of Bruce Wayne and the appearance of an elderly [[Catwoman|Selina Kyle]], was planned by [[Bruce Timm]] and [[Glen Murakami]], though it was never scripted, as it never went beyond a 45-minute impromptu plotting session between the two. The project was scrapped due to the dark tones and controversies surrounding ''Batman Beyond: Return of the Joker''.<ref>{{cite web |url=http://jl.toonzone.net/episode50/episode50.htm |title=Epilogue |access-date=2010-01-02 |url-status=dead |archive-url=https://web.archive.org/web/20160516063839/http://jl.toonzone.net/episode50/episode50.htm |archive-date=May 16, 2016 |df=mdy }}</ref> Despite of it, the plot elements were eventually reworked into the second-season finale of ''[[Justice League Unlimited]]'' titled "Epilogue" (which was intended to be the series finale until the show was renewed for a third and final season) where Terry discovers his genetic origins from [[Amanda Waller]] and Selina Kyle is briefly mentioned in passing.
+
+Among the live-action films proposed between the critical failure of ''[[Batman & Robin (film)|Batman & Robin]]'' and the [[Batman Begins|reboot of the ''Batman'' franchise]] was ''Batman Beyond''. In August 2000, Warner Bros. announced that it was developing a live action [[film adaptation]] with [[Boaz Yakin]] attached to co-write and direct. The TV series' creators, Dini and [[Alan Burnett]], were hired to write a screenplay for the feature film, with [[Neal Stephenson]] as consultant. Yakin hoped to cast [[Clint Eastwood]] as the retired Batman.<ref>{{cite news |last=Harris |first=Dana | url=https://www.variety.com/article/VR1117785384.html?categoryid=13&cs=1 | title=There's new 'Batman' in WB's belfry | work=[[Variety (magazine)|Variety]] | date=August 22, 2000 | access-date=May 17, 2007 }}</ref><ref name="greenberg20050508">{{Cite news |url=https://articles.latimes.com/2005/may/08/entertainment/ca-batman8 |title=Rescuing Batman |last=Greenberg |first=James |date=2005-05-08 |work=Los Angeles Times |access-date=2019-05-11 |archive-url=https://web.archive.org/web/20081202014002/http://articles.latimes.com/2005/may/08/entertainment/ca-batman8 |archive-date=December 2, 2008 |url-status=live |page=E-10 }}</ref> By July 2001, a first draft was turned in to the studio, and the writers were waiting to see if a rewrite would be needed. The studio, also exploring other takes of Batman in development<ref>{{cite news |last=Linder |first=Brian | url=http://movies.ign.com/articles/301/301455p1.html | title=''Beyond'' Doubt | publisher=IGN | date=July 17, 2001 | access-date=May 17, 2007 }}</ref> eventually placed ''Batman Beyond'' on hold in August 2001, but ultimately canceled the proposal.<ref>{{cite news |last=Linder |first=Brian | url=http://movies.ign.com/articles/305/305442p1.html | title=Aronofsky's Sci-Fi Epic Postponed | publisher=IGN | date=August 31, 2001 | access-date=May 17, 2007 }}</ref> Yakin reportedly wanted to the film to be dark, nihilistic, and with swearing and violence, and not the [[PG-13]] film the studio wanted.{{r|greenberg20050508}}
+
+In January 2019, rumors began to circulate that [[Warner Animation Group]] was developing an animated ''Batman Beyond'' film following the critical and commercial success of [[Sony Pictures Animation]]'s ''[[Spider-Man: Into the Spider-Verse]]'',<ref>{{cite web |last=Gerber |first=Jamie |title=Batman Beyond Animated Movie In Development at Warner Bros. |url=https://screenrant.com/batman-beyond-animated-movie-development-warner-bros/ |website=[[Screen Rant]] |access-date=July 3, 2020 |date=January 30, 2019}}</ref> but was later reported that no such film was in the works.<ref>{{cite web |last=Wood |first=Matt |title=Sorry, The Batman Beyond Movie Rumor Was Shot Down |url=https://www.cinemablend.com/news/2466275/sorry-the-batman-beyond-movie-rumor-was-shot-down |website=CinemaBlend |access-date=July 3, 2020 |date=February 2, 2019}}</ref> In the later August interview with [[DC Universe (streaming service)|DC Universe]], Paul Dini revealed that Warner Bros. continues to express interest in a film adaptation but have put emphasis on other projects.<ref>{{cite web |last=Lapin-Bertone |first=Joshua |title=BATMAN BEYOND Writer & Director on a Possible Movie |url=https://www.dcuniverse.com/news/batman-beyond-writer-director-possible-movie/ |website=[[DC Universe (streaming service)|DC Universe]] |access-date=July 3, 2020 |date=August 22, 2019}}</ref> In June 2020, [[Michael Keaton]] entered talks to play an elderly Bruce Wayne, reprising his role from [[Tim Burton]]'s ''[[Batman (1989 film)|Batman]]'' (1989) and ''[[Batman Returns]]'' (1992), in the DCEU film, ''[[The Flash (film)|The Flash]]'', which was set for release in 2022. According to ''[[The Hollywood Reporter]]'', Warner Bros. hopes for Keaton to return for multiple DCEU films in a way "akin to the role played by [[Samuel Jackson]] as [[Nick Fury (Marvel Cinematic Universe)|Nick Fury]] in the [[Marvel Cinematic Universe]], something of a mentor or guide or even string-puller".<ref>{{cite web |last1=Kit |first1=Borys |title=Micheal Keaton in Talks to Return as Batman for 'Flash' Movie |url=https://www.hollywoodreporter.com/heat-vision/micheal-keaton-talks-return-as-batman-flash-movie-1299668 |website=[[The Hollywood Reporter]] |access-date=June 22, 2020 |date=June 22, 2020}}</ref> Keaton was officially confirmed to return in August of the same year.<ref>{{Cite news |last=Breznican |first=Anthony |date=August 20, 2020 |title=Ben Affleck Will Return as Batman in ''The Flash'' |work=[[Vanity Fair (magazine)|Vanity Fair]] |url=https://www.vanityfair.com/hollywood/2020/08/ben-affleck-returns-batman-the-flash-multiverse-keaton |url-status=live |access-date=August 20, 2020 |archive-url=https://web.archive.org/web/20200820190653/https://www.vanityfair.com/hollywood/2020/08/ben-affleck-returns-batman-the-flash-multiverse-keaton |archive-date=August 20, 2020}}</ref>
+
+===Video games===
+The first appearance of the Terry McGinnis version of Batman in a video game is in the [[Nintendo 64]], [[PlayStation (console)|PlayStation]], and [[Game Boy Color]] video game ''[[Batman Beyond: Return of the Joker (video game)|Batman Beyond: Return of the Joker]]''.
+
+The ''Batman Beyond'' Batsuit appears as an alternate costume in ''[[Justice League Heroes]]'' and as downloadable content in ''[[Batman: Arkham City]]'' and ''[[Injustice: Gods Among Us]]''.
+
+A ''Batman Beyond'' DLC was included in the third ''Lego Batman'' video game.
+
+A "Batman of the Future" character pack featuring the Terry McGinnis Batman with all its trademark gadgets (such as the flying suit and the ability to turn invisible) and other ''Batman Beyond''-era characters were revealed to be [[PS3]]/[[PS4]]-exclusive DLC for ''[[Lego Batman 3: Beyond Gotham]]''.<ref>{{cite web|url=http://www.vg247.com/2014/09/26/the-batman-of-the-future-is-coming-to-lego-batman-3-in-europe/|title=The Batman of the Future is coming to LEGO Batman 3 in Europe|date=September 26, 2014|publisher=VG247.com}}</ref>
+
+[[Rocksteady Studios]] created their own unique take on the ''Batman Beyond'' Batsuit for ''[[Batman: Arkham Knight]]'' as a pre-order bonus along with ''The Dark Knight Returns'' Batsuit titled "Gotham's Future Pack".
+
+===Animation===
+In April 2014, a ''Batman Beyond'' short by [[Darwyn Cooke]] premiered at [[WonderCon]]. The short, which saw Will Friedle and Kevin Conroy reprise their roles, sees Batman (Terry McGinnis) battle a Batman android (resembling the design from ''The New Batman Adventures'') in the Batcave with help from the elderly Bruce Wayne and the [[Batmobile]] (resembling the design from ''Batman: The Animated Series''). Once defeated, Batman and Bruce look out to see and prepare to fight seven additional invading androids resembling the designs from ''[[Beware the Batman]]'', ''[[The Batman (TV series)|The Batman]]'', ''[[Batman: The Brave and the Bold]]'', ''[[The Dark Knight Returns]]'', [[Batman (1989 film)|''Batman'' (1989 film)]], [[Batman (TV series)|''Batman'' (1960s TV series)]], and the original design by [[Bill Finger]].<ref>{{cite web |url=https://movies.yahoo.com/blogs/movie-news/batman-beyond-75th-anniversary-exclusive-short-darwyn-cooke-214026355.html |title=Spot the Easter Eggs in a New Batman Film for His 75th Anniversary |last=McDaniel |first=Matt |publisher=[[Yahoo!]] |date=April 18, 2014 |access-date=April 20, 2014}}</ref> Though the androids' source is unstated, they're reminiscent of [[Heart of Steel|the story arc]] from ''Batman: The Animated Series'' involving the [[His Silicon Soul|computer program HARDAC]].
+
+''Batman Beyond'' is alluded in ''[[Teen Titans Go!]]''. In the episode "Sandwich Thief", [[Robin (character)|Robin]] travels to the future to his future self [[Dick Grayson|Nightwing]]'s apartment where a poster of the ''Batman Beyond'' Batman can be seen, indicating that Nightwing admires this incarnation of Batman.
+
+==References==
+{{reflist}}
+
+==External links==
+{{wikiquote|Batman Beyond}}
+{{Portal|Television|United States|Cartoon|Speculative fiction|1990s}}
+* [http://www.dccomics.com/tv/batman-beyond-1999-2001 DC page]
+* [http://www.batmanbeyond.com/HTML/index.html Warner Bros. site] {{Webarchive|url=https://web.archive.org/web/20061009005237/http://batmanbeyond.com/HTML/index.html |date=October 9, 2006 }}
+* {{bcdb|Warner_Bros_/Television/Batman/Batman_Beyond/index.html}}
+* {{IMDb title|0147746}}
+* {{dcauw|Batman Beyond}}
+* [http://www.toonopedia.com/b-beyond.htm ''Batman Beyond''] at [[Don Markstein's Toonopedia]]. [https://www.webcitation.org/6xQujSKpK?url=http://www.toonopedia.com/b-beyond.htm Archived] from the original on February 22, 2018.
+
+{{DC Animated Universe}}
+{{Batman in popular media}}
+{{Warner Bros. animation and comics}}
+{{Kids' WB}}
+{{Toonami Cartoon Network}}
+{{Annie Award for Best Animated Television Production}}
+{{DC Comics animated TV series}}
+
+[[Category:Batman Beyond| ]]
+[[Category:1990s American animated television series]]
+[[Category:1990s American mystery television series]]
+[[Category:1990s American science fiction television series]]
+[[Category:1999 American television series debuts]]
+[[Category:2000s American animated television series]]
+[[Category:2000s American mystery television series]]
+[[Category:2000s American science fiction television series]]
+[[Category:2001 American television series endings]]
+[[Category:American children's animated action television series]]
+[[Category:American children's animated adventure television series]]
+[[Category:American children's animated mystery television series]]
+[[Category:American children's animated science fiction television series]]
+[[Category:American children's animated superhero television series]]
+[[Category:American sequel television series]]
+[[Category:Animated Batman television series]]
+[[Category:Animated television shows based on DC Comics]]
+[[Category:Annie Award winners]]
+[[Category:Anime-influenced Western animated television series]]
+[[Category:Cyberpunk television series]]
+[[Category:DC Comics titles]]
+[[Category:Emmy Award-winning programs]]
+[[Category:English-language television shows]]
+[[Category:Flying cars in fiction]]
+[[Category:Kids' WB original shows]]
+[[Category:Animated television series about teenagers]]
+[[Category:Teen animated television series]]
+[[Category:Teen superhero television series]]
+[[Category:Television shows adapted into comics]]
+[[Category:Television series about alien visitations]]
+[[Category:Television series about genetic engineering]]
+[[Category:Television series by Warner Bros. Animation]]
+[[Category:Television series set in the 2030s]]
+[[Category:The WB original programming]]
+[[Category:Toonami]]
+[[Category:Works about atonement]]

@@ -1,0 +1,173 @@
+{{short description|Fictional comic book group}}
+{{Infobox comics team and title <!--Wikipedia:WikiProject Comics-->
+<!-- Group section -->
+|name                = Skrull Kill Krew
+|image               = Skrull Kill Krew 01 cover.jpg
+|imagesize           = <!-- default 250 -->
+|caption             = Cover of ''Skrull Kill Krew'' #1 (September 1995)
+|publisher           = [[Marvel Edge]] ([[Marvel Comics]])
+|group               = y
+|debuthead           =
+|debut               = ''Skrull Kill Krew'' #1
+|debutmo             = September
+|debutyr             = 1995
+|debuthead#          =
+|debut#              =
+|debutmo#            =
+|debutyr#            =
+|creators            = [[Grant Morrison]]<br />[[Mark Millar]]<br />[[Brendan McCarthy]]<br />[[Steve Yeowell]]
+|type                = Team
+|business            =
+|organisation        =
+|organization        = y
+|team                =
+|base                =
+|owners              =
+|employees           =
+|members             = [[Ryder (comics)|Ryder]]<br>the [[Delroy Garrett|3-D Man]] II<br>[[Riot (comics)|Riot]]<br>Catwalk<br>Dice<br>Moonstomp
+|fullroster          =
+
+<!-- Series section -->
+|title               = Skrull Kill Krew
+|cvr_image           = <!-- filename format only -->
+|cvr_caption         =
+|schedule            = Monthly
+|limited             = y
+|Superhero           = y
+|pub_series          =
+|1stishhead          = vol. 1
+|1stishyr            = 1995
+|1stishmo            = September
+|endishyr            = 1996
+|endishmo            = January
+|1stishhead1         = vol. 2
+|1stishyr1           = 2009
+|1stishmo1           = June
+|endishyr1           = 2009
+|endishmo1           = December
+|issues              = '''(vol. 1)'''<br />5'''<br />(vol. 2)'''<br />5
+|main_char_team      =
+|writers             = '''(vol. 1)'''<br />[[Grant Morrison]]<br />[[Mark Millar]]<br />'''(vol. 2)'''<br />[[Adam Felber]]
+|artists             =
+|pencillers          = '''(vol. 1)'''<br />[[Steve Yeowell]]<br />'''(vol. 2)'''<br />[[Mark Robinson (comics)|Mark Robinson]]
+|inkers              = '''(vol. 1)'''<br />[[Chris Ivy]]<br />'''(vol. 2)'''<br />[[Mike Getty]]
+|letterers           = '''(vol. 1)'''<br />[[Richard Starkings]]<br />[[Comicraft]]<br />'''(vol. 2)'''<br />[[Joe Caramagna]]
+|colorists           = '''(vol. 1)'''<br />[[Chia-Chi Wang]]<br />'''(vol. 2)'''<br />[[Andres Mossa]]
+|editors             = '''(vol. 1)'''<br />[[Tom Brevoort]]<br />'''(vol. 2)'''<br />[[Thomas Brennan (editor)|Thomas Brennan]]<br />[[Joe Quesada]]<br />[[Stephen Wacker]]
+|creative_team_month =
+|creative_team_year  =
+|creators_series     = [[Grant Morrison]]<br />[[Mark Millar]]<br />[[Steve Yeowell]]
+|TPB                 = Skrull Kill Krew
+|ISBN                = 0-7851-2120-X
+|TPB1                = Dark Reign: Skrull Kill Krew
+|ISBN1               = 0-7851-3849-8
+|TPB2                = Skrulls Must Die! The Complete Skrull Kill Krew
+|ISBN2               = 0-7851-9407-X
+
+<!-- Category section -->
+|cat                 = teams
+|subcat              = Marvel Comics
+|altcat              =
+|hero                = y
+|villain             =
+|sortkey             = Skrull Kill Krew
+|addgrpcat#          =
+|addpubcat#          =
+}}
+The '''Skrull Kill Krew''' are a fictional group appearing in [[American comic book]]s published by [[Marvel Comics]]. They first appeared in their own [[Limited series (comics)|miniseries]] published in [[1995 in comics|1995]]. They were created by [[Grant Morrison]], [[Mark Millar]] and [[Steve Yeowell]].
+
+The group are humans modified by eating [[Skrull]]-infected beef. Some of the team returned during the Skrulls' ''[[Secret Invasion]]'', which led to another miniseries.
+
+==Publication history==
+The team first appeared in their own [[eponym]]ous series written by [[Grant Morrison]] and [[Mark Millar]], published in 1995. It was one of [[Tom Brevoort]]'s first projects and came about when Morrison and Millar faxed the Marvel offices looking for work:
+
+{{quote|As a low-ranking editor, I didn't really have many cards to play in terms of securing popular characters for any project I might come up with. So the best strategy was to come up with something new.
+
+...
+
+This was the period when the [[mad cow disease]] scares were taking place in the UK, so it was a short leap for Grant and Mark to hit on the notion that those [[Skrull#Empire-changing_events|Skrull cows]] had been slaughtered, their meat entered the food chain, and that those who wound up eating it developed Skrull-like abilities, which they would use to hunt down the secret Skrull infiltrators that were living among us. It was a very ''[[2000 AD (comics)|2000 AD]]'' sort of an idea: part parody, part over-the-top action/adventure comic. Grant was also looking around for new paradigms onto which to paint the super hero team structure, and in this case the model would be a motorcycle gang. Believe me, for the Marvel of 1994, this was some pretty off-the-wall thinking.<ref name=formcrisis>[[Tom Brevoort|Brevoort, Tom]]. [http://www.marvel.com/blogs/Tom_Brevoort/entry/1392 Formative Crisis], Marvel.com, January 29, 2009</ref>}}
+
+The original idea for the team name was the Skrull Kill Kult, based on the band [[Thrill Kill Kult]], but Marvel's Editor-in-Chief [[Tom DeFalco]] objected to the use of "Kult" because "he felt that it made the series seem like too much of an endorsement of murder cults".<ref name=formcrisis /> [[Brendan McCarthy]] designed the characters and [[Steve Yeowell]] was brought on board to provide the pencils, the same division of labor on Morrison's ''[[Zenith (comics)|Zenith]]'', because of "a lukewarm reception to Steve's initial visualizations".<ref name=formcrisis />
+
+The series was originally announced as an ongoing series. However, it was changed to a miniseries, because of wider problems in the [[American comic book]] market in the mid-1990s and changes at Marvel, with DeFalco leaving. There were four issues worth of scripts done at the time and Brevoort managed to argue for a fifth to close the miniseries.<ref name=formcrisis />
+
+They then made an appearance in ''[[Avengers: The Initiative]]'' #16 as one of the ''[[Secret Invasion]]'' tie-ins and writer [[Dan Slott]] announced at the 2008 [[Baltimore Comic-Con]] that they would be getting a new miniseries featuring the new line-up.<ref>[http://www.comicbookresources.com/?page=article&id=18245 Baltimore: Cup of B Panel], [[Comic Book Resources]], September 27, 2008</ref> It was a five-issue miniseries written by [[Adam Felber]], and saw the original team brought back together to fight the descendants of the original Skrull-cows.<ref>[http://www.newsarama.com/comics/020910-SKK.html Adam Felber - Hangin' With the Skrull Kill Krew], [[Newsarama]], February 10, 2009</ref>
+
+==Fictional team biography==
+
+The [[Fantastic Four]], at the beginning of their superhero career<ref>''Fantastic Four'' #2</ref> defeated a group of [[Skrull]] spies. Reed Richards brainwashed them into becoming [[cow]]s and retaining that form for life. The Skrull-cows at one point regained their memories and Skrull forms in the Kree-Skrull War,<ref>''[[Avengers (comics)|Avengers]]'' #89-97</ref> leading to the death of one of them. The other three were turned over to the [[U.S. government]] and restored to cows in form and mind.
+
+The milk from these cows affected the inhabitants of a small dairy town named King's Crossing, giving them shapeshifting powers. The Fantastic Four, via a girl that Johnny Storm was dating at the time, ended up investigating the town and neutralizing the threat.<ref>''Fantastic Four Annual'' #17</ref>
+
+They were then (apparently by accident) shipped to a [[slaughterhouse]] and butchered as [[beef]]. Some of the meat eaten by people transferred the Skrull's adaptable [[DNA]] code into the humans' cells, resulting in a bizarre condition called ''Skrullovoria-Induced Skrullophobia'', in which these individuals not only gained [[shapeshifting]] powers equal to, or greater than, actual Skrulls, but also developed an intense fear or hatred of Skrulls. Only a small number of humans proved susceptible to this syndrome and most did not survive the initial stages of infection. But several people who proved somewhat longer-lived (though they were still dying) were gathered together by a man known only as Ryder, who was himself a victim of the disease, to act out their increasingly irrational impulses to seek out and destroy the ones who did this to them (by "letting" themselves get turned into cows), usually by graphically "blowing away" the Skrulls with high-powered weapons.
+
+Their desire to kill Skrulls not only stopped many plots which endangered humans, it also led them to fight other well-known Marvel characters, such as [[Baron Strucker]] and [[Captain America]].
+
+===''Secret Invasion''===
+{{main|Secret Invasion}}
+Ryder and Riot return to ferret out more Skrulls. The other three are still alive, their heads kept in jars, as their Skrull infestation has resulted in the loss of their bodies.<ref>''Avengers: The Initiative'' #18</ref> They encounter the [[Delroy Garrett|3-D Man]] II in the New Mexico desert and save him from a Skrull posing as the [[Sharon Ventura|'She-Thing']]. The 3-D Man II joins them in rooting out Blacksmith of the [[Desert Stars]], another Skrull, and killing him as well.<ref>''Avengers: The Initiative'' #16</ref> They were next seen helping [[Nevada]]'s [[Fifty State Initiative]] team, the [[Heavy Hitters (comics)|Heavy Hitters]], deal with a Skrull posing as an unnamed team member. They found out that in every Initiative state team is one Skrull-impostor and decided to kill them all. Komodo and her lover Hardball both join with the team as well. The Skrull Kill Krew thought they would not be able to track Skrulls through all the states on time, but then former Avenger [[Jocasta (comics)|Jocasta]] appeared with the [[Devil-Slayer (comics)|Devil-Slayer]], who is a member of the Hawaiian [[Avengers: The Initiative|Initiative]] team, the Point Men. The Devil-Slayer has teleportation powers, thus allowing the group to speed up their plans.<ref>''Avengers: the Initiative'' #17</ref> Most Skrull-killing incidents end with a few more ad-hoc recruits.
+
+Later, Ryder reveals that he still has the heads of Moonstomp, Dice and Catwalk, who can also track down Skrulls. He gives the three heads to the speedsters the [[Whiz Kid]], the [[Spinner (Marvel Comics)|Spinner]] and [[Nonstop (Marvel Comics)|Nonstop]]. The team splits up into six different squads, each one to search for the six remaining Skrull sleeper agents within the Initiative teams. Also, they are to destroy the devices within each Initiative building that could assist the Skrulls in destroying the [[United States]]. Despite multiple failures (including the death of the Spinner), the devices are never set off.<ref>''Avengers: the Initiative'' #18</ref>
+
+After the Skrulls are defeated, Moonstomp, Dice and Catwalk's heads all die, and Riot reverts to human form, dying as well. The 3-D Man II and Ryder then leave her behind and set out to find and kill any Skrulls that might still be on Earth.<ref name="Avengers: The Initiative #20">''Avengers: The Initiative'' #20</ref>
+
+Ryder is working alone, attacking [[nightclub]]s for Skrulls. Riot is revealed to have survived and is looking on [[Match.com]] for a woman. The 3-D Man II is not an active participant.<ref>''Skrull Kill Krew'' (vol. 2) #1</ref> It was later revealed that Ryder has obtained some means of reviving his former teammates via an unknown liquid. The miniseries' second issue ends with Moonstomp's head reanimating as his body begins to grow back and Ryder prepares to inform him that [[Barack Obama|the current President of the United States is an African American]].<ref>''Skrull Kill Krew'' (vol. 2) #2</ref> Ryder succeeds in reviving Moonstomp, Dice, and Catwalk.<ref>''Skrull Kill Krew'' (vol. 2) #3</ref> The reunited team then faces off against the descendants of the Skrulls that were hypnotized into being cows.<ref>''Skrull Kill Krew'' (vol. 2) #4</ref> Following the battle against the Skrulls, Moonstomp leaves the team.<ref>''Skrull Kill Krew'' (vol. 2) #5</ref>
+
+It is later revealed that, in addition to cows, the Fantastic Four had transformed one of the original Skrull invaders into a duck. The duck was eaten by a young Chinese-American girl named Tara Tam, who gained superhuman abilities as a result. The members of the Skrull Kill Krew tried to recruit Tara as part of the group, but she turned them down out of fear over how her parents would react. Years later, Tara would become the partner of [[Howard the Duck]].<ref>''Howard the Duck'' (vol. 2) #5</ref>
+
+==Membership==
+
+===Current===
+[[File:4.25.13MarkMillarByLuigiNovi39.jpg|thumb|Writer [[Mark Millar]] signing copies of the book during an appearance at [[Midtown Comics]] in Manhattan]]
+* '''[[Ryder (comics)|Ryder]]''' - Founder and leader. In addition to shapeshifting, he can [[Teleportation|teleport]], has enhanced strength and reflexes, and carries many [[firearms]]. He prefers to animate his hair into snake-like  [[tentacles]]. In the relaunched ''Skrull Kill Krew'' (vol. 2) #1-5, it is implied that he may be one of the Skrulls that were turned into cows who ultimately was able to grant himself a human appearance, but losing his memory in the process and believing himself a regular human affected by ''Skrullovoria-Induced Skrullophobia''.
+* '''The [[Delroy Garrett|3-D Man]] II''' - An [[African American]] who inherited his powers from the [[3-D Man]] I, a 1950s anti-Skrull hero. Able to recognize Skrulls with his powers; used the 3-D Man I's goggles to focus his ability, ultimately believing them to be granted by the item, until their destruction forced him to rely on himself.
+* '''[[Riot (comics)|Riot]]''' - [[Punk rock]]er. Turns into an armored insectoid form. In this form she has great strength and sharp spines. Was stuck in that form for an extended period. Appeared to have died at [[Camp Hammond (comics)|Camp Hammond]] after finally reverting to human form.<ref name="Avengers: The Initiative #20"/> It is later revealed that she survived and was working with Ryder, though grudgingly. Riot is also looking on [[Match.com]] for a [[lesbian]] dating partner, though she has trouble reverting to her human form again.<ref>''Skrull Kill Krew'' (vol. 2) #2</ref>
+* '''Catwalk''' - Former fashion model who transforms into a [[Felidae|feline]]/humanoid form. In this form, she has enhanced athletic abilities, claws and fangs.
+* '''Dice''' - Former surfer. He can breathe underwater and transform his limbs into weapons, which project explosive blasts.
+
+===Former===
+* '''Moonstomp''' - British [[Nazi-Skinheads|neo-Nazi skinhead]]. Hates Skrulls so much that he is willing to work with Ryder (a black man), even though he feels like he is compromising his values by doing so. He has some shapeshifting powers, but prefers to bash his foes with a normal claw [[hammer]]. During the series, his degenerative condition worsens, causing him to develop patches of dark skin, which displeases him immensely.
+
+==Collected editions==
+{| class="wikitable"
+|+
+!Title
+!Material collected
+!Published date
+!ISBN
+|-
+|''Skrull Kill Krew'' 
+|''Skrull Kill Krew'' (vol. 1) #1-5
+|June 2006
+|{{ISBNT|978-0785121206}}
+|-
+|''Dark Reign: Skrull Kill Krew''
+|''Skrull Kill Krew'' (vol. 2) #1-5, material from ''Dark Reign: New Nation''
+|December 2009
+|{{ISBNT|978-0785138495}}
+|-
+|''Skrulls Must Die! The Complete Skrull Kill Krew''
+|''Skrull Kill Krew'' (vol. 1) #1-5, ''Avengers: The Initiative'' #16-19, ''Skrull Kill Krew'' (vol. 2) #1-5, material from ''Dark Reign: New Nation''
+|April 2015
+|{{ISBNT|978-0785194071}}
+|}
+
+==In other media==
+In 2006 it was revealed that the series was considered for a TV series adaptation, but it never came to fruition.<ref>[http://forum.newsarama.com/showthread.php?t=90143 Marvel Reports 3Q Earnings] {{webarchive|url=https://web.archive.org/web/20070929110953/http://forum.newsarama.com/showthread.php?t=90143 |date=2007-09-29 }}, [[Newsarama]], November 6, 2006</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.comicsbulletin.com/reviews/114969794928745.htm Review of trade paperback] and [http://www.comicsbulletin.com/reviews/115390520767480.htm another], [[Comics Bulletin]]
+* [http://www.comicsbulletin.com/reviews/124032639575498.htm Review of ''Skrull Kill Krew'' (vol. 2) #1], [[Comics Bulletin]]
+* {{gcdb|type=character|search=Skrull+Kill+Krew|title=Skrull Kill Krew}}
+* {{comicbookdb|type=team|id=1274|title=Skrull Kill Krew}}
+* {{Marvunapp|http://www.marvunapp.com/Appendix/skrlkk.htm|Skrull Kill Krew}}
+* {{Marveldatabase}}
+
+{{Skrull}}
+{{Grant Morrison}}
+{{Mark Millar}}
+
+[[Category:Comics characters introduced in 1995]]

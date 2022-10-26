@@ -1,0 +1,167 @@
+{{short description|Fictional superhero in DC Comics}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+| character_name= Chris Kent
+| image=ChristopherKent.jpg
+| imagesize=
+| caption=Chris Kent as [[Nightwing]] on the cover of ''Action Comics'' #883 (January 2010), art by Pere Pérez.
+| publisher=[[DC Comics]]
+| debut=''[[Action Comics]]'' #844 (December [[2006 in comics|2006]])
+| creators=[[Richard Donner]]<br />[[Geoff Johns]]<br />[[Adam Kubert]]
+| full_name=Christopher Kent/Lor-Zod<br />Hernan Guerra
+| species= [[Kryptonian]]
+| homeworld=[[Phantom Zone]] (place of birth)
+| alliances=[[Justice League]]<br />[[Superman Family]]
+| partners=[[Thara Ak-Var|Flamebird (Thara Ak-Var)]]
+| aliases=[[Nightwing]]<br />K'Riss/C'Riss<br />Superman
+| supports=[[Superman]]<br />[[Young Justice (TV series)|Young Justice]]
+| powers=
+*Superhuman strength, speed, stamina, durability, agility, and reflexes
+*Solar energy absorption
+*Flight
+*Telekinesis
+*Electromagnetic spectrum vision
+*Telescopic vision
+*Microscopic vision
+*Heat vision
+*X-ray vision
+*Infrared vision
+*Freezing breath
+*Super-hearing
+*Invulnerability
+*Longevity
+*Phantom zone immunity
+*Umbrakinesis
+| cat=super
+| subcat=DC Comics
+| hero=y
+}}
+'''Christopher Kent''' ('''Lor-Zod''') is a [[superhero]] appearing in [[American comic book]]s published by [[DC Comics]]. The character first appeared in ''[[Action Comics]]'' #844 (December 2006) and was created by [[Richard Donner]], [[Geoff Johns]], and [[Adam Kubert]].
+
+As the biological son of [[General Zod]] and [[Ursa (DC Comics)|Ursa]], he is a [[Kryptonian]] who becomes the foster son of [[Superman|Clark Kent (Superman)]] and his wife [[Lois Lane]]. He was later reinterpreted as a [[supervillain]] in [[DC Rebirth]]. An adaptation of the villainous Lor-Zod appears in the animated series ''[[Young Justice (TV series)|Young Justice]]'', voiced by [[Phil Morris]]. Another interpretation of the character had appeared in the animated film ''[[Justice League: Gods and Monsters]]'', voiced by [[Benjamin Bratt]]. 
+
+==Publication history==
+He first appeared in ''[[Action Comics]]'' #844 (December 2006), in the story arc ''[[Superman: Last Son]]'', and was created by [[Richard Donner]], [[Geoff Johns]], and [[Adam Kubert]]. The character has assumed the role of [[Nightwing]]. Following ''[[Flashpoint (comics)|Flashpoint]]'', DC revisited the concept of Zod's heroic son. On Earth-16, he succeeds Clark Kent as Superman and is best friends with the new Batman, [[Damian Wayne]]. On Earth-2, in the comic ''Earth 2'', Zod's son '''[[Val-Zod]]''' succeeds Kal-El as the pacifist Superman of his universe.<ref>''Earth 2'' #19</ref>
+
+A new version of Lor-Zod was introduced in 2017 during [[DC Rebirth]] in the ''Action Comics'' series during the "Revenge" storyline, this time as a villain.<ref name="AC984"/>
+
+==Fictional character biography==<!-- W:MOS -->
+
+==="Last Son"===
+When a spacecraft fell towards [[Metropolis (comics)|Metropolis]], it was diverted to a relatively safe landing by [[Superman]]. After its landing, Superman was very surprised to discover a young boy inside. Echoing his own arrival in his youth years before, Superman saw that the boy was completely unharmed. The Kryptonian writings on his ship stated that his Kryptonian name was "Lor-Zod", which was later confirmed in ''Action Comics'' #851 (August 2007). He was taken to the east coast lab of the [[Department of Metahuman Affairs]] (under supervision of [[Sarge Steel]]) for observation.
+
+The boy exhibited superhuman strength and could only speak [[Kryptonian]]. He did not know his name or where he came from. As with [[Supergirl (Kara Zor-El)|Supergirl]], Superman instinctively knew the boy was Kryptonian before the tests were completed. After he was confirmed as a Kryptonian, he was immediately taken to the Department of [[Metahuman]] Affairs headquarters in [[Washington, D.C.]] without Superman's knowledge. He removed the boy from their [[Child custody|custody]], and decided, with [[Lois Lane]], to raise the boy.<ref name="ac844">''Action Comics'' #844 (December 2006)</ref> Clark then contacted [[Batman]], who used his resources to create the identity '''Christopher Kent'''.<ref>{{cite book |last1=Greenberger |first1=Robert |last2=Pasko |first2=Martin |title=The Essential Superman Encyclopedia |date=2010 |publisher=Del Rey |isbn=978-0-345-50108-0 |pages=152–153}}</ref>
+
+Chris remained in the custody of Lois and Clark as their foster son. He attended the Ellsworth School, an elite private school, where he had some trouble concealing his powers, particularly during P.E. To aid him, Superman worked with Batman to develop an implant, concealed within a wristwatch, that used red sun radiation to block Chris' powers while in school until he learned how to control them.  While the watch was being created, Chris made friends with [[Tim Drake]], the current Robin, who treated him like a younger brother and offered to show him some gymnastics.<ref name="sm668">''Superman'' #668 (December 2007)</ref>  Eventually, the wristwatch failed, due to it being calibrated on the metabolism of an adult Kryptonian, and the built-up energies exploded, wrecking Clark and Lois' apartment. Clark reassured the young boy that he wouldn't be sent away, and that they would find a way to cope with his growing powers.<ref name="sm673">''Superman'' #673 (April 2008)</ref>
+
+Afterwards, Superman held a press conference to inform the world that the Kryptonian child was under his care. At that time, [[Bizarro]], sent by [[Lex Luthor]], attempted unsuccessfully to kidnap Chris. Later, it was revealed that Chris is the biological son of [[General Zod]] and [[Ursa (comics)|Ursa]]. His arrival released Zod, [[Non (DC Comics)|Non]], and Ursa from the [[Phantom Zone]].<ref name="ac845">''Action Comics'' #845 (January 2007)</ref> He was apparently conceived and raised there within a prison structure that is immune to the "timeless" effects of the zone, and Christopher himself was specially immune as well. It was insinuated by Phantom Zone resident [[Lar Gand|Mon-El]] that Zod and Ursa were abusive towards their son before sending him out of the Zone. In a battle with Superman, Zod and Ursa reclaimed their son and captured Lois. After sending Superman to the [[Phantom Zone]], General Zod's army invaded Earth.<ref name="ac846">''Action Comics'' #846 (February 2007)</ref> Superman escaped with Mon-El's aid, and then sought an alliance with [[Lex Luthor]] to defeat Zod, who had captured a large portion of Earth's superhero population. In Zod's custody, Chris used his powers to prevent Lois from being harmed.<ref name="ac851">''Action Comics'' #851 (August 2007)</ref>
+
+Following the events of ''Action Comics'' Annual #11, Zod and his army were defeated and Chris pursued them into the Phantom Zone in order to ensure that the passage between the Phantom Zone and the rest of the universe is closed properly, since it would remain weak for as long as he remained on Earth. He was aware of the cost of this action, and as he left he thanked Superman and Lois for giving him a proper family. Afterward, Mon-El, asked by Superman to look for the child in the Zone, reported that he was unsuccessful so far although he knows that Zod does not have him, but vowed to continue searching.
+
+===Nightwing===
+After returning to the [[Phantom Zone]], Chris entered the Kryptonian prison where his parents had made shelter. There he found a piece of [[Brainiac (character)|Brainiac]]'s technology; Chris' mind interfaced with the device, expanding his consciousness, and forging a connection with the mind of [[Thara Ak-Var]], security chief of [[Kandor (comics)|Kandor]], which had recently been freed from Brainiac's ship by Superman. Thara used the connection between their minds to stage a successful rescue attempt with the added help of [[Non (DC Comics)|Non]].<ref>''Action Comics'' Annual #12 (August 2009)</ref> When the citizens of Kandor created [[New Krypton]], which was placed in orbit around the Sun opposite Earth, Chris and Thara tasked themselves with the mission of bringing in the Phantom Zone Kryptonian criminals hiding on Earth as sleeper agents. Since the belligerent government of [[Alura (DC Comics)|Alura Zor-El]] and Zod had tarnished all Kryptonians' reputations on Earth, Chris and Thara decided to act as a new [[Nightwing]] and [[Flamebird]] duo (since [[Dick Grayson]], the previous Nightwing, became the new Batman), at first with simple cloth masks, then with fake power suits, to obscure the origins of their powers.
+
+However Chris, due to his birth in the Phantom Zone, exhibits strange and uncontrollable growth spurts: when Thara saved him he was still the young boy raised by [[Lois Lane|Lois]] and [[Superman|Clark]], as Nightwing he is shown as roughly 15 or 16, and after another growth spurt of about seven years, he ages to 23 years old.<ref>[http://www.comicbookresources.com/?page=article&id=20543 Greg Rucka: Man of "Action"]</ref>
+
+His mother, Ursa, begins stalking him to exact revenge. Chris had been shown denying his heritage and insisting Thara address him with his "human" name, despising her attempts to transliterate it as a Kryptonian name, and never going by his true Kryptonian name of Lor-Zod.<ref name="ac875">''Action Comics'' #875 (May 2009)</ref> After a brutal attack by Ursa, Thara is left gravely wounded by a [[frangible]] [[Kryptonite]] knife and Chris is forced to bring her to Lois for medical assistance.<ref name="ac876">''Action Comics'' #876 (June 2009)</ref>
+
+Upon bringing Thara to Lois, Chris and Lois have a tearful reunion. Lois is happy to see him again but is concerned about his advanced aging. Lois calls [[Doctor Light (Kimiyo Hoshi)|Doctor Light]] for medical assistance while Chris goes back to the fortress and is again confronted by Ursa. Their conflict is cut short as UAVs sent by [[Sam Lane (comics)|General Lane]] arrived at the scene, forcing both to flee.<ref>''Action Comics'' #877 (July 2009)</ref>
+
+While Chris returns home to Lois, he finds that Thara has recovered and is being quizzed by Lois about their relationship. Before Lois is able to learn anything, the two fly away to confront a Kryptonian couple on a crime spree. The four battle, with Chris and Thara quickly gaining the upper hand; however their fight is interrupted by [[Codename: Assassin]] and what seems to be a gang of "ogres".<ref name="ac876"/> The sleeper couple use the distraction to escape. Chris as Nightwing pursues them, but is forced to let them go in order to save some innocents from a falling bridge.<ref>''Action Comics'' #879 (September 2009)</ref>
+
+After the two receive a hero's thank you from a crowd in Hollywood, Thara notices that one of the girls gave her phone number to Chris. Chris asks if she is jealous. Thara lies saying that she does not care if he goes around with hundreds of girls. Reacting on an impulse the two share a kiss. Before either of the two actually manages to respond they are attacked by [[Metallo]] and [[Reactron]] and captured.<ref name="ac880">''Action Comics'' #880 (October 2009)</ref>
+
+===Framed for murder===
+Fortunately Chris and Thara are teleported away, along with [[Supergirl (Kara Zor-El)|Supergirl]]. Kara as Supergirl attacks Thara, for killing her father and trying to kill her. However, Chris stops her and tells her he is her cousin. The three are attacked by Guardian and the Science Police, for apparently killing Mon-El. Chris tries to tell Guardian that they did not murder Mon-El, but Guardian ignores him. The three manage to escape to Paris. Chris, Thara, and Kara talk about what has happened. They then discover that the two sleepers they were fighting were [[Metallo]] and [[Reactron]]. However, they are attacked by Squad K.<ref name="ac881">''Action Comics'' #881 (November 2009)</ref>
+
+Framed for the murder of [[Mon-El]], the two along with Kara, manage to escape from Squad K, and go to [[Lana Lang]]'s apartment. They enlist Lois' help in clearing their names. Chris and Lana go to find Lois while Kara and Thara stay in Lana's apartment.<ref name="supergirl45">''Supergirl'' (vol. 5) #45 (November 2009)</ref>
+
+Chris and Thara are discovered, and once more forced to flee. During the attempt to flee they once more encounter Squad K however the three opt to surrender in order to clear their names. While they manage to persuade the Squad K commander, Reactron quickly murders his teammates and attempts to kill the three.
+
+During their conflict Thara is injured while attempting to protect Supergirl. As Reactron is about to kill Chris and Kara, Thara manifests her Flamebird powers and personality, and easily overpowers Reactron. The Flamebird decides to kill Reactron but is swayed to show mercy after Reactron reveals that Mon-El is alive and is talked down by Supergirl. The Flamebird is once more submerged after sharing a kiss with Chris.<ref>''Action Comics'' #882 (December 2009)</ref>
+
+Donning new costumes, Chris and Thara continue to save lives, despite their actions being twisted by the anti-Kryptonian media. Not long after, Chris experiences another aging spurt, becoming an old man. Doctor Light brings Chris to her colleague, Doctor Pillings, who, unbeknownst to any of them, is the Kryptonian sleeper agent [[Jax-Ur]].<ref>''Action Comics'' #883 (January 2010)</ref>
+Jax-Ur cures Chris, reverting him to his young adult form and takes a sample of his DNA.<ref>''Action Comics'' #884 (February 2010)</ref>
+
+Jax-Ur's theft of Chris' DNA and its purpose is soon revealed as he unleashes a replica of the Kryptonian deity Rao to trample and rampage across Earth. Thara attempts to subdue Jax-Ur and the false deity but even in her Flamebird form is overpowered.  Meanwhile, Chris is helpless once more stuck in the Phantom Zone, banished there by Jax-Ur. While he is there he can only observe as Thara, Lois, and other heroes battle against Rao but fail to inflict any actual damage, only [[Wonder Woman]] managing to hold her own. Saddened and frustrated, he is contacted by the Nightwing, another Kryptonian entity, opposite and lover of Flamebird. Nightwing reveals that while Thara is truly the host of Flamebird, so is he Nightwing's. For some reason, however, the two are unable to connect. Seeing that Thara and the others won't hold out much longer, Chris and Nightwing merge properly and are able to free themselves.
+
+Now a fully fledged avatar of the Nightwing entity Chris is able to fight [[Jax-Ur]] (revealed to be the Kryptonian deity the Builder as well) along with Flamebird on even terms. Furious that Nightwing escaped, Jax-Ur flees into the heart of his construct, Rao and triggers a self-destruct located in Rao's heart which would engulf the Earth into a black hole and rip the universe apart. Nightwing and Flamebird together are able to overpower him and Nightwing absorbs Rao's heart into the Phantom Zone where it is rendered harmless and destroys the Rao construct.
+
+Once the Rao crises is dealt with both Thara and Chris regroup with the other heroes; they kiss and flee in order to avoid any more hostilities with the locals.<ref>''Action Comics'' #885-889 (March–June 2010)</ref>
+
+During the ''[[Superman: War of the Supermen|War of the Supermen]]'' event, the solar system's sun was turned red by the combined efforts of [[Sam Lane (comics)|General Lane]] and [[Lex Luthor]]. Thara sacrifices herself to restore it to its yellow coloration, becoming a charred skeleton. Chris attempted to join her, but the Nightwing entity spirited him away.<ref>''Superman: War of the Supermen'' #3 (July 2010)</ref>
+
+In the final confrontation between Superman and Zod, Chris pushes Zod back into the Phantom Zone. Once back in the Zone, Chris returns to being a young boy, and encounters Mon-El once again.<ref>''Superman: War of the Supermen'' #4 (July 2010)</ref>
+
+===Rebirth===
+Following the [[New 52]] reboot, Chris Kent was officially retconned from the continuity. Later during [[DC Rebirth]], a new version of Lor-Zod was introduced, this one more loyal to his father General Zod.<ref name="AC984">''Action Comics'' #984</ref> Freed by the [[Superman Revenge Squad]], the House of Zod ruled over Jekuul, a planet with two yellow [[sun]]s. He, his father and the [[Eradicator (comics)|Eradicator]] eventually come into conflict with [[Green Lanterns]] [[Kyle Rayner]], [[Mogo]], [[Guy Gardner (comics)|Guy Gardner]], and [[Hal Jordan]].<ref>''Hal Jordan and the Green Lantern Corps'' #38</ref>
+
+==Powers and abilities==
+Chris has developed some of Superman's powers. His abilities are less powerful than those of the average [[Kryptonian]], but the limits have not been measured. He has exhibited eight Kryptonian abilities so far:
+* ''Flight'': He flies in the [[Fortress of Solitude]] and at the Kent farm.<ref name="ac845"/>
+* ''Heat vision'': He burns [[General Zod]]'s hand when he attempts to harm [[Lois Lane]].<ref name="ac851" />
+* ''Telescopic vision'': He is able to combine this power with his x-ray vision to watch the main screens in the [[Batcave]] from afar.<ref name="sm668" />
+* ''X-Ray vision'': He is able to combine this power with his super vision to watch the main screens in the Batcave from afar.<ref name="sm668" />
+* ''Invulnerability'': He arrives on Earth unharmed, and a bus falls on him during the [[Bizarro]] attack.<ref name="ac845"/> Despite of his ability, he has stated that he isn't as invulnerable as other Kryptonians.<ref name="ac876"/>
+* ''Superhuman strength'': He is able to lift objects hundreds of times his own weight, including a heavy, old style, console television in the Metahuman Affairs lab as a child.<ref name="ac844" /> He then, later, exhibited a greater degree of strength when he caught the ''[[Daily Planet]]'' globe as it fell during the Bizarro attack.<ref name="ac845" /> He said that he is not as strong as other Kryptonians.<ref name="ac876"/>
+* ''Superhuman intelligence'': He is able to memorize a dictionary within an hour and learn the English language.<ref name="ac845" />
+* ''Vortex breath'': He is able to use this power to slow the falls of several cars, allowing [[Superman]] to catch them.<ref name="sm668"/>
+
+As [[Nightwing]], he has also demonstrated additional abilities due to his birth in the [[Phantom Zone]]:
+* ''Tactile telekinesis'': He is able to dismantle objects similarly to [[Superboy (Kon-El)|Conner Kent]].<ref name="ac876"/> He also displays the skill in a more traditional sense, such as moving objects without actually touching them. While this is considered base telekinesis, he seems to manifest this power through hand gestures instead of this ability emanating from pure thought. Also, while he is moderately powerful in this area, he lacks any fine skill, generally using it as a "blunt instrument" of destructive power. The use of his power is usually accompanied by a dark purple display of lighted bands emanating from his hands.<ref>''Supergirl'' (vol. 5) #46 (December 2009)</ref>
+* ''Kryptonite resistance'': He does not feel the effects of kryptonite exposure as severely as other Kryptonians and can withstand its effects for much longer periods of time, an ability he has used offensively and defensively in combat. It is not known if prolonged exposure to kryptonite would eventually kill him or not.<ref name="ac876"/>
+
+He is also immune to the effects of the [[Phantom Zone]] because he was born there. He has a solid body within the zone and apparently ages normally while all other inhabitants are timeless and phantoms. For the same reason however, while living outside the Zone, he ages in sudden, debilitating, growth spurts, in which several years pass to him in mere minutes.<ref name="ac875"/> Jax-Ur, in his guise of Dr. Pillings, attached a device to Chris' arm that keep the growth spurts at bay.<ref name="ac885">''Action Comics'' #885 (March 2010)</ref>
+
+His recent merging with the Nightwing entity has granted him further abilities which include:
+* ''Teleportation'': he is able to merge with shadows and cross distances. The exact distance he can teleport remains unknown, but he was able to teleport or absorb a faulty artificial sun into the Phantom Zone.
+* ''Shadow construct creation'': Chris displays this ability in the most rudimentary form, creating dark creatures, shadow shields, etc. His exact limitations are also unknown.
+* ''Virtual omniscience'': The Nightwing has stated that he sees and knows everything that occurs in shadows or darkness. So far he was able to detect his sibling deity who was hiding in his own shadow and sense that [[Jay Garrick]] was in danger of being killed.
+
+==Other versions==
+* An alternate universe counterpart of Chris Kent (from Earth-16) appears in the ''[[Countdown: Arena]]'' mini-series, where he is depicted as a highly evolved (both physically and spiritually) individual with access to vast powers beyond those of standard Kryptonians. Sacrificing himself in an attempt to kill [[Monarch (comics)|Monarch]] ([[Captain Atom|Nathaniel Adam]]), he is ultimately the first to fall in his battle against the Supermen of [[Superman: Red Son|Earth-30]] and [[The Dark Knight Returns|Earth-31]].<ref>''Countdown: Arena'' #3-4</ref>
+* A previous/similar version of Chris Kent/Nightwing was devised in the [[Elseworlds]] series ''[[Superman & Batman: Generations]]'' in issue #4, "1999: Beginnings and Endings", where a descendant of [[Superman]] named Clark Wayne - the biological son of Joel Kent, Superman's son, who was manipulated into turning against his father by Lex Luthor and subsequently killed, with Bruce Wayne Junior adopting Clark after Joel's death, adopts the heroic identity of "Knightwing".<ref>''Superman & Batman: Generations'' #3</ref>
+* The New 52 version of Earth-16 is visited in ''[[The Multiversity]]: The Just'' #1, where Chris Kent is Superman and his best friend is Damian Wayne, Batman, with Conner Kent as Superboy. Chris and his friends, including [[Offspring (comics)|Offspring]], [[Kyle Rayner]], and [[Connor Hawke]], though they've inherited the superhero mantles of their parents and predecessors, are deeply bored as the world is effectively policed by [[Superman robot]]s, and many of the Justice League's villains were defeated by the previous generation of heroes. They resort to a celebrity lifestyle of partying and affairs, as well as occasional battle re-enactments, to pass the time.
+*Also in DC's New 52 era, a version of the character appears &ndash; Zod's heroic son adopted by the House of El &ndash; in the comic book series ''[[Earth-Two#Earth 2 in "The New 52"|Earth 2]]'', as the orphaned Val-Zod. He succeeds Kal-El as the second Superman of his world.
+
+==In other media==
+===Television===
+* Children of [[General Zod|Zod]] are alluded to in [[Smallville (season 8)|seasons eight]] and [[Smallville (season 9)|nine]] of ''[[Smallville]]''. In the episode "Bloodline", it is revealed that Zod's desire for a child led to the creation of [[Doomsday (DC Comics)|Doomsday]]. Amidst [[Krypton (comics)|Krypton]]'s failing years, Zod and his wife [[Faora]] discover the latter is infertile, so they collected the DNA of the most violent alien species on Krypton and fused them with their own to create the perfect "son" before attaching the genetic samples to the infant Kal-El's ship. When it landed on Earth, the DNA went on to become "[[Davis Bloome]]" (portrayed by [[Sam Witwer]]). As Bloome grew older and more prone to "blackouts", his true monstrous form remained camouflaged as it adapted to Earth until it was ready to destroy the civilization. He would also come into conflict with Kal-El, now [[Clark Kent (Smallville)|Clark Kent]]. In a flashback depicted in the episode "Kandor", Major Zod lost his first child in a battle with [[Black Zero]] in the [[Kandor (comics)|eponymous city]]. After saving [[Jor-El]] from his punishment by the Science Council, Zod asked him to clone the former's dead son, but Jor-El refused, fearing possible mutations or the clone having a shorter lifespan, and Zod broke off their friendship.
+* A character named Lor-Zod appeared in ''[[Krypton (TV series)|Krypton]]'', portrayed by Emmanuel Ighodaro. This version was a Sagitari and father of Jayna-Zod and Vidar-Zod.
+* Lor-Zod appeared in the fourth season of ''[[Young Justice (TV series)|Young Justice]]'', voiced by [[Phil Morris (actor)|Phil Morris]]. This version was born in the 31st century after the United Planets released his parents from the [[Phantom Zone]]. While Lor's parents were sent back to the Zone by the [[Legion of Super-Heroes]] for attempting a coup, the United Planets pardoned Lor due to his age. Developing a hatred for the Legion after they destroyed the Phantom Zone projector, Lor stole kryptonite and a time sphere to go back to the past and kill [[Superboy (Kon-El)|Superboy]], who was the inspiration for the Legion. On Mars, he planted his kryptonite on [[Ma'alefa'ak]]'s gene bomb, which apparently killed Superboy, unaware that [[Phantom Girl]] saved him and sent him into the Phantom Zone. Lor forms an alliance with [[Darkseid]] to gain access to the Phantom Zone projector inside [[Metron (comics)|Metron]]'s vault. Lor succeeds in freeing his parents and a brainwashed Superboy and brings them to Earth, only for the [[List of Young Justice characters#"The Team"|Team]] to restore Superboy's mind and end the Zods' attempt at conquest. Lor escapes in his time sphere, unaware that Metron pre-programmed it to bring him to the moment of Superboy's apparent death and abandon him before he can stop Phantom Girl, resulting in Lor being killed by his own bomb.
+
+===Film===
+A son of [[General Zod]] appeared in the animated film ''[[Justice League: Gods and Monsters]]'', voiced by [[Benjamin Bratt]]. This character is the genetically engineered child of Zod and [[Lara Lor-Van]], who was rocketed to Earth as a child from Krypton following Zod's murder of Jor-El. Upon his arrival on Earth, the baby is named '''Hernan Guerra''' and was raised by a family of honorable and hardworking [[Mexicans|Mexican]] migrant farmers. Having gone through the troubles that undocumented immigrants face in the United States, Guerra became short-tempered and withdrawn from humanity and developed a deep contempt and resentment for authority. Despite this, he would go on to become his universe's version of '''[[Superman]]''' and leader of the [[Justice League]]. Due to his willingness to use lethal force against enemies and plans to topple world governments and reorganize world leadership under the Justice League's rule, he is criticized by [[Lois Lane]] and resented by [[Lex Luthor]] and President [[Amanda Waller]]. While foiling [[Will Magnus]]'s plot to subjugate the world using nanites and learning his father was responsible for Krypton's destruction, Guerra comes to realize the consequences of his brutality, earns back public favor, and considers using less lethal methods.
+
+===Miscellaneous===
+The ''Gods and Monsters'' incarnation of Superman appears in the animated web series ''[[Justice League: Gods and Monsters Chronicles]]'' episode "Bomb", voiced again by Benjamin Bratt.
+
+==References==
+{{Reflist}}
+
+{{Superman characters}}
+
+{{DEFAULTSORT:Kent, Chris}}
+[[Category:DC Comics aliens]]
+[[Category:DC Comics characters who can move at superhuman speeds]]
+[[Category:DC Comics characters who can teleport]]
+[[Category:DC Comics characters with accelerated healing]]
+[[Category:DC Comics characters with superhuman strength]]
+[[Category:DC Comics extraterrestrial superheroes]]
+[[Category:Kryptonians]]
+[[Category:Comics characters introduced in 2006]]
+[[Category:Characters created by Geoff Johns]]
+[[Category:DC Comics superheroes]]
+[[Category:DC Comics male superheroes]]
+[[Category:DC Comics supervillains]]
+[[Category:DC Comics male supervillains]]
+[[Category:DC Comics telekinetics]]
+[[Category:Fictional characters with eidetic memory]]
+[[Category:Fictional characters with slowed ageing]]
+[[Category:Fictional characters with X-ray vision]]
+[[Category:Fictional characters with nuclear or radiation abilities]]
+[[Category:Fictional characters with ice or cold abilities]]
+[[Category:Fictional characters with absorption or parasitic abilities]]
+[[Category:Fictional characters with energy-manipulation abilities]]
+[[Category:Fictional characters with fire or heat abilities]]
+[[Category:Fictional characters who can manipulate darkness or shadows]]
+[[Category:Superheroes who are adopted]]

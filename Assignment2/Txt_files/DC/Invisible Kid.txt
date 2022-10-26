@@ -1,0 +1,117 @@
+{{short description|DC Comics character}}
+{{about|the superhero}}
+'''Invisible Kid''' is the name of two  [[Character (arts)|fictional characters]], [[comic book]] [[superhero]]es in the [[DC Comics]] [[DC Universe|universe]], and a member of the [[Legion of Super-Heroes]] in the 30th and 31st centuries.<ref name=Guide>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Korte |first3=Steve |last4=Manning |first4=Matt |last5=Wiacek |first5=Win |last6=Wilson |first6=Sven |title=The DC Comics Encyclopedia: The Definitive Guide to the Characters of the DC Universe |date=2016 |publisher=DK Publishing |isbn=978-1-4654-5357-0 |page=155}}</ref>
+
+==Publication history==
+The first Invisible Kid debuted alongside [[Chameleon Boy]] and [[Colossal Boy]] in ''[[Action Comics]]'' #267 by [[Jerry Siegel]] and [[Jim Mooney]].<ref>{{cite web |title=Supergirl's Shocking First Meeting With the Legion |url=https://www.cbr.com/supergirl-legion-of-superheroes-first-meeting/ |website=CBR |access-date=4 January 2020 |date=4 April 2017}}</ref> He was introduced as a new member of the [[Legion of Super-Heroes]].<ref>{{cite book |last1=Booker |first1=M. Keith |title=Comics through Time: A History of Icons, Idols, and Ideas [4 volumes]: A History of Icons, Idols, and Ideas |date=2014 |publisher=ABC-CLIO |isbn=978-0-313-39751-6 |url=https://books.google.com/books?id=hnuQBQAAQBAJ&q=invisible+kid+legion+of+superheroes |access-date=4 January 2020 |language=en}}</ref><ref>{{cite web |title=Learning to Love the LEGION: On Supergirl and Selective Continuity |url=http://www.comicosity.com/learning-to-love-the-legion-on-supergirl-and-selective-continuity/ |website=Comicosity |access-date=4 January 2020 |date=10 September 2019}}</ref><ref>{{cite book |last1=Cadigan |first1=Glen |title=The Best of the Legion Outpost |date=2004 |publisher=TwoMorrows Publishing |isbn=978-1-893905-36-8 |url=https://books.google.com/books?id=5iFklF_oCMgC&q=Invisible+Kid+Legion+of+Super-Heroes |language=en}}</ref>
+
+==Lyle Norg==
+{{Infobox comics character
+<!--Wikipedia:WikiProject Comics-->
+<!-- |character_name  = Invisible Kid -->
+|image           = 
+|converted       = y
+|caption         = Lyle Norg on the cover of ''Legion of Super-Heroes'' (vol. 5) #4, art by Barry Kitson.
+|real_name       = Lyle Norg
+|publisher       = DC Comics
+|debut           = ''Action Comics'' #267 (August 1960)
+|creators        = [[Jerry Siegel]]<br> [[Jim Mooney]] 
+|alliances       = [[Legion of Super-Heroes]]
+|species = [[Metahuman]]
+|homeworld = [[Earth]] (31st century)
+|aliases         = 
+|powers          = Ability to stay undetected from many kinds of means (ocular, auditory and telepathic).
+| cat            = super
+| subcat         = DC Comics
+| hero           = y
+| villain        = 
+| sortkey        = Invisible Kid
+}}
+{{main|Legion of Super-Heroes (1958 team)}}
+The first Invisible Kid was Lyle Norg, an early member of the Legion who gained his powers from a chemical serum he invented.<ref>{{cite book |last1=Fleisher |first1=Michael L. |title=The Original Encyclopedia of Comic Book Heroes, Volume Three: Superman |date=2007 |publisher=DC Comics |isbn=978-1-4012-1389-3 |page=91}}</ref> He first appeared in ''[[Action Comics]]'' #267. His scientific aptitude meant he got along well with the super-intelligent [[Brainiac 5]]. His abilities made him a valuable asset to the Legion Espionage Squad, of which he was a permanent member. Norg also served one term as Legion Leader. He was killed by the monster [[Validus]] of the [[Fatal Five]] in ''Superboy and the Legion of Super-Heroes'' #203 (July/August 1974).<ref>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Manning |first3=Matthew K. |last4=McAvennie |first4=Michael |last5=Wallace |first5=Daniel |title=DC Comics Year By Year: A Visual Chronicle |date=2019 |publisher=DK Publishing |isbn=978-1-4654-8578-6 |page=154}}</ref>
+
+Many years later, during the "Five Year Gap" following the Magic Wars, Earth fell under the covert control of the [[Dominators (DC Comics)|Dominators]], and withdrew from the [[United Planets]]. A few years later, the members of the Dominators' highly classified "Batch SW6" escaped captivity. Originally, Batch SW6 appeared to be a group of teenage Legionnaire clones, created from samples apparently taken just prior to [[Ferro Lad]]'s death at the hands of the Sun-Eater (since Lyle was Legion leader at that time, the members of Batch SW6 were led by the teenage Lyle). Later, they were revealed to be time-paradox duplicates, every bit as legitimate as their older counterparts. After Earth was destroyed in a disaster reminiscent of the destruction of [[Krypton (comics)|Krypton]] over a millennium earlier,<ref>''Legion of Super-Heroes'' (vol. 4) #38, Late December 1992.</ref> a few dozen surviving cities and their inhabitants reconstituted their world as New Earth. The SW6 Legionnaires—including their version of Invisible Kid—remained.
+
+===Reboot===
+{{main|Legion of Super-Heroes (1994 team)}}
+<!-- Deleted image removed: [[File:5590 art.jpg|left|thumb|150px|Lyle Norg (Reboot)]] -->
+Following the ''[[Zero Hour (comics)|Zero Hour]]'' Legion reboot, Lyle Norg was still alive and serving with the Legion. As well as a brilliant chemist, he was also a professional spy at a very young age. He invented the invisibility serum while in Earthgov Intelligence's spy school. Rather than his scientific aptitude resulting in his getting on well with Brainiac 5, they had more of a rivalry. While Querl was more intelligent, Lyle had more imagination, being quicker to see unexpected applications for discoveries.
+
+He was the de facto leader of the Legion Espionage Squad, consisting of himself, [[Reep Daggle|Chameleon]], [[Tinya Wazzo|Apparition]], [[Luornu Durgo|Triad]], and [[Salu Digby|Shrinking Violet]], and was instrumental in bringing down the corrupt administration of United Planets President Chu.
+
+Lyle served one term as Legion Leader; during his tenure, this version of the Legion defeated [[Mordru]] in their first and only battle with the sorcerer.
+
+According to ''The Definitive Guide to The Characters of the DC Universe'' (2004), he was in a homosexual relationship with [[Chemical King|Condo Arlik]]. This, however, was never stated explicitly in the comic book itself and was never developed.
+
+==="Threeboot" continuity (2004-2009)===
+{{main|Legion of Super-Heroes (2004 team)}}
+Lyle Norg is a genius with a skill for xenochemistry who was used by his father to develop an invisibility serum. His [[Science Police]] officer father used to bring him alien cell samples nearly every night to experiment with. By the time he had successfully created a serum, he discovered that his father promised to hand over Lyle's research to the Science Police all along. So he injected the only existing serum into himself and lied about it before contacting [[Brainiac 5]] for help. Brainy invited Lyle to join the Legion. Eventually his father discovered the truth and tried to get Lyle to quit and hand over the serum. After the Legion was outlawed, Lyle reneged and produced a blood sample for his father to use. The sample was encoded with a monitoring virus allowing Legion access to the United Planets systemworks. Because of his relationship to Brainiac 5 his teammates have snarlingly nicknamed him "Brainiac 6".
+
+When Lyle betrayed [[Cosmic Boy]]'s trust by revealing to Brainiac 5 that several members had broken into Brainy's lab, he lied to the team by blaming everything on [[Shrinking Violet (comics)|Shrinking Violet]]. He and Violet, who prefers the moniker Atom Girl, have since made a deal to continue the ruse, but his teammates still have a hard time trusting him. When [[Supergirl (Kara Zor-El)|Supergirl]] mysteriously appeared in the 31st Century, Lyle, along with half the male Legionnaires vied for her attention. However, Lyle convinced Cosmic Boy that he did not have a crush on Supergirl in order to remove the competition for her affections. He recently had his arm torn off when his flight ring exploded, and was given an alien arm to replace it by a member of the [[Wanderers (comics)|Wanderers]]. He is left in Metropolis, the doctors reproducing his DNA to give him another arm.
+
+His arm apparently healed, he returns to the active roster to save a young Tritonian mutant, ''Gazelle'', for whom he carries a torch from then on.<ref>''Legion of Super-Heroes'' (vol. 5) #38 (March 2008)</ref> During an invasion of aliens hailing from cyberspace, a small squad of legionnaires, including him and the recently appointed Gazelle, are digitized and sent into their home base: Invisible Lad has a customized avatar issued by Brainac 5, with a bulkier and more handsome physique that greatly impresses Gazelle (who, despite being saved by him, had never seen his face due to his invisibility powers). His idealized body is shown to be a [[Trojan horse (computing)|trojan horse]] able to give Brainiac 5 complete mastery over the alien, digital universe. Invisible Kid, Gazelle and the other legionnaires spend some time trapped in cyberspace, while Brainiac 5 restores their physical bodies, damaged in a skirmish between the Coluan and some physical avatars of the invading aliens: in that week, Invisible Kid admits his feelings for Gazelle who happily reciprocates. Upon returning to the physical world, they both witness Brainiac 5 and [[Nura Nal]] exchanging their nuptial vows and inviting them to their marriage.<ref>''Legion of Super-Heroes'' (vol. 5) #50 (March 2009)</ref>
+
+===Post-Infinite Crisis (2007)===
+The events of the ''[[Infinite Crisis]]'' miniseries have apparently restored a close analogue of the Pre-[[Crisis on Infinite Earths|Crisis]] Legion to continuity, as seen in "[[The Lightning Saga]]" story arc in ''[[Justice League of America]]'' and ''[[Justice Society of America]]'', and in the "[[Superman and the Legion of Super-Heroes (comics)|Superman and the Legion of Super-Heroes]]" story arc in ''[[Action Comics]]''.  Lyle is depicted as a member of this version of the team in ''Justice Society of America'' (vol. 3) #5 (June 2007), and ''Action Comics'' #858 (late December 2007), but this incarnation of the Legion shares roughly the same history as the original Legion up to the events of ''Crisis on Infinite Earths''.<ref>[http://uk.comics.ign.com/articles/828/828574p1.html IGN: Superman/Green Lantern interview] {{webarchive|url=https://web.archive.org/web/20120209150438/http://uk.comics.ign.com/articles/828/828574p1.html |date=2012-02-09}}</ref> Therefore, this version of Lyle is presumably deceased.
+
+==Jacques Foccart==
+{{Superherobox|
+image=
+|caption=
+|character_name=Invisible Kid
+|alter_ego=Jacques Foccart
+|publisher=[[DC Comics]]
+|debut=''[[Legion of Super-Heroes]]'' (vol. 2) Annual #1 (1982)
+|creators=[[Paul Levitz]]<br>[[Keith Giffen]]<br>(based upon the Lyle Norg character by [[Jerry Siegel]] and [[Jim Mooney]])
+|alliances=[[Legion of Super-Heroes]]
+|species = [[Metahuman]]
+|homeworld = [[Earth]] (31st century)
+|aliases=
+|supports=
+|powers=Ability to stay undetected from many kinds of means (ocular, auditory and telepathic)<br>Formerly:<br>Teleportation
+|}}
+Many years later, Brainiac 5 was approached by Jacques Foccart, a teenage native of Earth from what was once the [[African French|francophone African]] nation of [[Côte d'Ivoire]]. Jacques' younger sister [[Computo (Danielle Foccart)|Danielle]] was suffering from a life-threatening [[neurological]] disorder which had baffled the best medical experts of the 30th century, and Jacques took her to Brainiac 5 as a last resort. Brainiac 5 rashly decided to utilize a piece of circuitry from the dismantled machine [[Computo (comics)|Computo]], a highly advanced supercomputer he had created years earlier. Computo promptly possessed Danielle's body. Computo took control of Legion headquarters and the city of [[Metropolis (comics)#Legion-Era Metropolis|Metropolis]] and nearly killed several Legionnaires. In order to save Danielle and the others, Jacques drank Lyle Norg's serum and gained the power of invisibility. Immediately thereafter, the Legion voted Jacques onto the team as its newest member. He took the name Invisible Kid in honor of Lyle.<ref>''Legion of Super-Heroes'' (vol. 2) Annual #1 (1982).</ref>
+
+Within days of Jacques' addition to the team, the Legion faced a new foe whom they initially referred to as the Master of the Servants of Darkness. The Servants' Master possessed a myriad of superpowers, including the ability to generate teleportation tubes out of thin air, and after one encounter Jacques decided to follow him. The sight of the real face of the Servants' Master—later revealed as the ancient villain [[Darkseid]]—frightened Jacques so deeply that a large strip of his jet black hair turned permanently white.<ref>''Legion of Super-Heroes'' (vol. 2) #291 (September 1982).</ref>
+
+Jacques soon learned that, unlike his predecessor, he had also developed the ability to teleport and shift into other dimensions. This talent served him well when he and his teammate [[Wildfire (comics)|Wildfire]] were almost killed by a Lyle Norg imposter. However, when he caused the death of a criminal by accidentally teleporting him into space, Jacques had the additional powers removed. Jacques served as a permanent member of the Legion Espionage Squad, along with [[Chameleon Boy]], [[Phantom Girl]], and [[Shrinking Violet (comics)|Shrinking Violet]].
+
+==="Five Years Later"===
+During the [[Legion of Super-Heroes#"Five Years Later"|"Five Year Gap"]] following the Magic Wars, the Legion disbanded and Earth's government fell under the covert control of the [[Dominators (DC Comics)|Dominators]], who had attempted to conquer the planet in the 20th century. Earth withdrew from the [[United Planets]], and the government gradually became more repressive. Jacques became the leader of a resistance cell which included himself, [[Tyroc]], and the former members of the [[Legion of Substitute Heroes]]. He became romantically involved with Drura Sepht, a Substitute Hero who once called herself [[Infectious Lass]]. He successfully led the resistance to victory over the Dominators, along with the unlikely assistance of former Legion foe [[Universo]] and the members of the Dominators' highly classified "Batch SW6".
+
+At the time, Batch SW6 appeared to be a group of teenaged Legionnaire clones, created from samples apparently taken immediately following the team's first encounter with Universo.<ref>The Legion first battled Universo in ''[[Adventure Comics]]'' (vol. 1) #349 (October 1966). In the following issue, [[Thom Kallor|Star Boy]] and [[Nura Nal|Dream Girl]] rejoined the team under the aliases "Sir Prize" and "Miss Terious", but the two are not included in Batch SW6.</ref> Later, they were revealed to be time-paradox duplicates, every bit as legitimate as their older counterparts. In any event, the emergence of the SW6 Legionnaires allowed Jacques to meet their leader—the real Lyle Norg—for the first time.
+
+After the defeat of the Dominators, Jacques became a planetary hero. The people of Earth rewarded his efforts by making him president of the planet, with Troy Stewart ([[Tyroc]]) serving as vice president. But soon thereafter, Earth was destroyed in a disaster reminiscent of the destruction of [[Krypton (comics)|Krypton]] over a millennium earlier.<ref>''Legion of Super-Heroes'' (vol. 4) #38, Late December 1992.</ref> A few dozen cities and their inhabitants survived, and the planet was reconstituted as New Earth. Eventually, Jacques resigned as president to rejoin the Legion (where he served as co-leader with [[Cosmic Boy|Rokk Krinn]]), and Troy ascended to the presidency.
+
+===Post-Zero Hour===
+After Legion continuity was completed rebooted by the events of ''[[Zero Hour (comics)|Zero Hour]]'', Jacques was recast as a close friend of Lyle Norg from their days in school. Jacques was forced by Charma, a fellow student who had developed mind control abilities, to drink Lyle's serum as a test to see if it would be safe for her. Jacques was believed to have been killed by the serum, as Lyle had calibrated it to only work with his physiology. In truth, he was saved by the Intelligence Division. The serum worked differently for him than for Lyle, granting him the ability to become undetectable by any means, though this ability causes him severe pain to use. He continued to work for EarthGov's Intelligence. Some time after Lyle joined the Legion, Jacques would later save Lyle from Charma, though he could not reveal that he still lived.<ref>''Legionnaires'' #66 (December 1998)</ref>
+
+===Post-Infinite Crisis===
+Jacques has not appeared in the "Threeboot" Legion continuity which began in 2005. However, the events of the ''[[Infinite Crisis]]'' miniseries have restored a close analogue of the Pre-''[[Crisis on Infinite Earths]]'' Legion to continuity, as seen in "[[The Lightning Saga]]" story arc in ''[[Justice League of America]]'' and ''[[Justice Society of America]]'', and in the "[[Superman and the Legion of Super-Heroes (comics)|Superman and the Legion of Super-Heroes]]" story arc in ''[[Action Comics]]''. Jacques is included in their number. The events of the "Five Years Later" era (including Jacques' rise to the presidency of Earth) are no longer part of mainstream DC continuity.
+
+==Reception==
+[[Syfy]] ranked the first Invisible Kid as the 24th greatest Legion of Superheroes member stating that during "his time in the 1960s, Invisible Kid was a constant, but not noteworthy presence, until he was killed by Validus. When the Legion rebooted in 1994, he became a major player, showing he was one of the saaviest members of the team". Syfy ranked the second Invisible Kid as number 38 describing the character as "boring" and "notable because of his name and his [[Rogue (Marvel Comics)|Rogue]] inspired haircut". Syfy opined that despite "later becoming President of Earth, he never did a whole lot except shout French expressions".<ref>{{cite web |last1=Murray |first1=Jesse |title=Every Member of the Legion of Super Heroes, Ranked: #49-1 |url=https://www.syfy.com/syfywire/every-member-of-the-legion-of-super-heroes-ranked-49-1 |website=SYFY WIRE |access-date=4 January 2020 |language=en |date=12 January 2016}}</ref>
+
+==In other media==
+The Jacques Foccart version of the Invisible Kid has made background appearances in the "Lightning Storm" and "Substitutes" episodes of the ''[[Legion of Super Heroes (animated series)|Legion of Super Heroes]]'' animated television series.
+
+==References==
+{{reflist|30em}}
+
+
+==External links==
+*{{comicbookdb|type=character|id=1490|title=Invisible Kid}}
+*[https://web.archive.org/web/20090318172829/http://www.studiosanning.shawbiz.ca/legion_of_super-heroes/membership/invisible_kid/index.htm  Invisible Kid at Legion of Super-Heroes fan site]
+*[https://web.archive.org/web/20080303184209/http://www.majorspoilers.com/archives/2893.htm/ A Hero History of Invisible Kid]
+*[https://web.archive.org/web/20090725040016/http://www.gayleague.com/wordpress/2009/07/03/invisible-kid/ Gay League Profile: Lyle Norg]
+
+{{Legion of Super-Heroes}}
+{{Superman characters}}
+[[Category:DC Comics LGBT superheroes]]
+[[Category:DC Comics characters who can teleport]]
+[[Category:Fictional characters who can turn invisible]]
+[[Category:Fictional gay males]]
+[[Category:Fictional scientists]]
+[[Category:LGBT superheroes]]
+[[Category:Characters created by Jerry Siegel]]
+[[Category:Characters created by Jim Mooney]]

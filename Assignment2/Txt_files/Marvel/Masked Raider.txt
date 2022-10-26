@@ -1,0 +1,54 @@
+{{Infobox comics set and title
+<!--Wikipedia:WikiProjectComics-->
+<!--Character section-->
+|image       = 
+|imagesize   = 
+|caption     = 
+|code_name   = The Masked Raider
+|publisher   = [[Marvel Comics]]
+|debut       = ''[[Marvel Mystery Comics|Marvel Comics]]'' #1 (Oct. 1939)
+|debutyr1    = 2019
+|creators    = [[Al Anders]]
+|characters  = Jim Gardley<br/>Masked Raider II
+}}
+
+The '''Masked Raider''' is an alias of several fictional characters appearing in [[American comic book]]s published by [[Marvel Comics]]. The original character went by the name of Jim Gardley and appeared in [[comic book]]s published during the 1930s and 1940s period known as the [[Golden Age of Comic Books]], he was created by writer and artist [[Al Anders]]. Jim Gardley was a gunslinger and former rancher active during the [[American frontier]].  <ref>{{cite book |last1=Howe |first1=Sean |title=Marvel Comics: The Untold Story |date=2013 |publisher=Harper Perennial |isbn=978-0061992117 |chapter=Chapter 1}}</ref> He was one of the few individuals that held the [[Eternity Mask]] for a short period. In Marvel Comics #1000, it was revealed how the [[Golden Age of Comic Books|Golden Age]] Masked Raider died and a new character, yet unidentified, had taken up the name. He was in the possession of the Eternity Mask.
+
+==Publication history==
+Created by writer-artist [[Al Anders]], Jim Gardley [[first appeared]] in the [[Timely Comics]]' anthology series ''[[Marvel Mystery Comics|Marvel Comics]]'' #1 (Oct. 1939), and ran through issue #12 (Oct. 1940) of the by-then retitled ''Marvel Mystery Comics''.<ref>{{cite book |last1=Nevins |first1=Jess |title=Encyclopedia of Golden Age Superheroes |date=2013 |publisher=High Rock Press |isbn=978-1-61318-023-5 |pages=175–176}}</ref>
+
+The first [[Western comics|Western]] character published by Timely, the predecessor of [[Marvel Comics]], the Masked Raider is Jim Gardley, who with his horse Lightning dedicates his life to fighting the lawless and bringing justice to the oppressed.
+
+He is unrelated to the [[Charlton Comics]] series ''[[Billy the Kid (Charlton Comics)|Billy the Kid]]'', which for its first eight issues was titled ''Masked Raider''.
+
+In the milestone issue Marvel Comics #1000, the comic aimed to celebrate the long history of Marvel Comics, in which it was shown that the long-forgotten original character had died and a new [[Legacy hero|legacy character]] had taken up the ''Masked Raider'' mantle and was in the possession of ''Eternity Mask'', a powerful mask that various characters over the course of history have worn (Jim Gardley wearing the Eternity Mask instead of a normal mask was a retcon in Marvel Comics #1000, to tie various disparate parts of Marvel continuity together). The yet-unnamed superhero reappeared in the ''[[Incoming! (comics)|Incoming!]]'' one-shot.<ref>{{cite web|url=https://www.cbr.com/marvel-incoming-masked-raider-watcher/|title=Marvel Transforms a C-List Hero Into a Badass New Watcher|last=Matadeen|first=Renaldo|website=[[Comic Book Resources]]|date=January 6, 2020|accessdate=May 25, 2020|archiveurl=https://web.archive.org/web/20200107144330/https://www.cbr.com/marvel-incoming-masked-raider-watcher/|archivedate=January 7, 2020|url-status=live}}</ref> Marvel Comics announced in 2019 that a new ''Masked Raider'' series would be published in 2020 with the new hero.<ref>{{cite news |url=https://bleedingcool.com/comics/marvel-comics-publish-the-masked-raider-2020/|title=After 80 Years, Marvel to Publish "Masked Raider" Comics Again|last=Johnston|first=Rich|website=[[Bleeding Cool]]|date=July 16, 2019|accessdate=April 22, 2020}}</ref>
+
+==Fictional character biography==
+===Jim Gardley===
+Jim Gardley was a cattle rancher in Arizona who in 1849 was falsely accused of cattle rustling, forcing him to go on the run. He took up the mantle of the Masked Raider to clear his name.<ref>''Marvel Mystery Comics'' #1 (Oct. 1939)</ref> Under undisclosed circumstances, Gardley found the Eternity Mask, a fragment of the cosmic entity Eternity which grants those who wear it powers equal to whoever they face.<ref>''Marvel Comics'' #1000</ref> In 1880, Gardley is attacked and mortally wounded by unknown assailants. He is found by Dr. Matt Masters, once the masked outlaw known as the Cactus Kid, and dies in front of the man. Masters takes the Eternity Mask and becomes the Black Rider.<ref>''Marvel Comics'' #1000</ref>
+
+===Second Masked Raider===
+In the modern day, an unidentified individual finds the Eternity Mask. Operating anonymously, they approach and interact with several superheroes, while investigating the activities of the mysterious Enclave,<ref>''Marvel Comics'' #1000</ref> such as their efforts to revive Korvac.<ref>''Marvel Comics'' #1001</ref>
+
+In their investigation, the Masked Raider finds a mysterious murder case, but determining it to not be the Enclave's work they instead draw New York's superheroes attention to it.<ref>''Incoming!'' one-shot</ref>
+
+==Reception==
+In ''American Comic Book Chronicles'', Kurt Mitchell and [[Roy Thomas]] write that the Masked Raider is "a lifeless [[Lone Ranger]] imitation."<ref>{{cite book |last1=Mitchell |first1=Kurt |last2=Thomas |first2=Roy |title=American Comic Book Chronicles: 1940-1944 |date=2019 |publisher=TwoMorrows Publishing |isbn=978-1605490892 |page=43}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.toonopedia.com/mraider.htm Masked Raider] at [[Don Markstein's Toonopedia]]. [https://www.webcitation.org/6fKJpbPc0 Archived] from the original on February 15, 2016.
+*[http://www.comics.org Grand Comics Database]
+*[http://www.comicbookresources.com/news/newsitem.cgi?id=757 Comicbookresources.com: ''Marvel Comics'' #1]
+
+{{Marvel Western Characters}}
+{{Defenders}}
+
+[[Category:Comics characters introduced in 1939]]
+[[Category:Fictional gunfighters]]
+[[Category:Golden Age superheroes]]
+[[Category:Marvel Comics Western (genre) characters]]
+[[Category:Timely Comics characters]]
+[[Category:Vigilante characters in comics]]

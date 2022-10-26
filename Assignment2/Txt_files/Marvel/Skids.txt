@@ -1,0 +1,5 @@
+#REDIRECT [[Skids (character)]]
+
+{{Redirect category shell|
+{{R from move}}
+}}

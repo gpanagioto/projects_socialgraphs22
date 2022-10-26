@@ -1,0 +1,54 @@
+{{Short description|Marvel Comics fictional character}}
+{{primary sources|date=October 2012}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+| character_name = Sleeper
+| image          =
+| caption        =
+| real_name      =
+| publisher      = [[Marvel Comics]]
+| debut          = ''Tales of Suspense'' #72 (December 1965)
+| creators       = [[Stan Lee]] (writer)<br>[[Jack Kirby]] (artist)
+| species        = [[Robot]]
+| alliances      = [[Skeleton Crew (comics)|Skeleton Crew]]
+| aliases        = SL-4, the Fourth Sleeper
+| powers         = 
+}}
+The '''Sleepers''' is the name of several fictional characters appearing in [[American comic book]]s published by [[Marvel Comics]]. The Sleepers are depicted as five destructive robots created by the [[Red Skull]].
+
+==Fictional character biography==
+The Sleepers were five doomsday robots designed in Berlin by Nazi Germany as agents of destruction. After World War II, the Fourth Sleeper was entombed within a crypt that was sunk into the sea. The first three robots were activated by agents at a certain time in European villages, consisting of a giant human-like robot with blaster rays, a winged robot, and the 'brain', which resembled the [[Red Skull]] and was a powerful bomb. Despite [[Captain America]] and the personnel of a nearby U.S. Army base's attempts to stop them, the robots combined and flew towards the North Pole. While in pursuit with the military, Captain America surmises that the first Sleeper would use its blasts to dig into the ice, enabling the robot to travel into the Earth and explode, destroying the world, as the Red Skull had vowed that if he could not conquer the world, he would destroy it. To prevent this, Captain America is able to board the combined vehicle in midair and detonate the bomb early with a flamethrower, destroying the three Sleepers.<ref>''Tales of Suspense'' #74</ref> The crypt containing the Fourth Sleeper was retrieved from the sea in modern times, and when the Sleeper reactivated it destroyed a seacoast smelting factory and battled Captain America. The Sleeper was ultimately rendered intangible by a "sonic crystal".<ref>''Strange Tales'' #115</ref> Similarly, the Red Skull later activated the Fifth Sleeper, only to have it stopped by Captain America and the [[Falcon (comics)|Falcon]] as well.<ref>''Captain America'' #148</ref>
+
+The Fourth Sleeper was later restored to tangibility by the [[Machinesmith]] and was used as a "Trojan horse" to gain entrance onto [[Hydro-Base|Avengers Island]] in order to liberate the various robots incarcerated there. It was thwarted by Captain America, and badly damaged.<ref>''Captain America'' #354</ref>
+
+The damage done to the Fourth Sleeper was later repaired by the Machinesmith.<ref>''Captain America'' #368</ref> The Fourth Sleeper was animated by the Machinesmith to join the [[Skeleton Crew (comics)|Skeleton Crew]] in search of the missing Red Skull. It battled [[Hellfire Club (comics)|Hellfire Club]] mercenaries, and the [[Selene (comics)|Black Queen]].<ref>''Captain America'' #369</ref> Replicas of the five Sleeper robots were then pitted against Captain America and [[Diamondback (Rachel Leighton)|Diamondback]].<ref>''Captain America'' #370</ref>
+
+==Powers and abilities==
+The Fourth Sleeper's robotic materials, design, and construction provide it with superhuman strength, stamina, durability, and reflexes.  It possesses a limited artificial intelligence, with a capacity for limited self-motivated activity. The Fourth Sleeper is programmed to be moderately proficient at hand-to-hand combat. The Fourth Sleeper has repulsor-ray blasters mounted in its eyesockets.
+
+Originally, the Fourth Sleeper could alter its density from its natural tempered steel form to total intangibility. The circuits that controlled this function have burned out and have not been replaced. The vibration of a certain "sonic crystal" caused the Fourth Sleeper's intangibility control to malfunction. The Fourth Sleeper originally could also generate "volcanic" thermal energy and project it through its faceplate. This function has also apparently been eradicated.
+
+==In other media==
+===Television===
+* The original Sleepers story appeared in the "Captain America" segment of ''[[The Marvel Super Heroes]]''. In particular, it is seen in the episodes "The Sleeper Shall Awake", "Where Walks the Sleeper", and "The Final Sleep".
+* A Sleeper robot appeared in the ''[[X-Men: The Animated Series|X-Men]]'' episode "Old Soldiers", wherein it was defeated by [[Wolverine (character)|Wolverine]] and [[Captain America]].
+* Robots of a similar design to the Sleepers appeared in the ''[[Spider-Man (1994 TV series)|Spider-Man]]'' episode "Six Forgotten Warriors". They were created to protect the Red Skull's "doomsday weapon" and were initially defeated by Captain America, the titular warriors, the [[Kingpin (character)|Kingpin]], and the [[Sinister Six|Insidious Six]], but were later reactivated by [[Electro (Marvel Comics)|Electro]] to attack the [[United Nations]] until they were defeated once again by the Six Warriors.
+* Multiple Sleepers appear in ''[[The Avengers: Earth's Mightiest Heroes]]'' episode "Winter Soldier". A Sleeper attacks the Avengers' [[Hydro-Base]] in order to break out the [[Red Skull]]. While Captain America and [[Nick Fury (Ultimate Marvel character)|Nick Fury]] are looking for the [[Bucky Barnes|Winter Soldier]], they find him fighting a Sleeper and help him defeat it. Afterward, the Winter Soldier tells them the Sleepers were activated after the [[Avengers (comics)|Avengers]] foiled the Red Skull's campaign as Dell Rusk. Five Sleepers are activated in Washington D.C. and combine into one '''Mega-Sleeper''' to destroy it. However, the Avengers are able to distract it while Captain America and the Winter Soldier confront the Red Skull as he is piloting the robot. Their resulting fight damages the Mega-Sleeper, allowing the Avengers to destroy it.
+* A variation of the Sleeper appears in the ''[[Avengers Assemble (TV series)|Avengers Assemble]]'' series episode "The Sleeper Awakens", voiced by [[Liam O'Brien]].{{issue|date=September 2017}} This version is referred to as '''Skull-Net''', the Red Skull's A.I. system, and battles the [[The New Avengers (comics)|New Avengers]].<ref name="The Sleeper Awakens">{{cite episode|title=The Sleeper Awakens|series-link=Avengers Assemble (TV series)|series=Avengers: Secret Wars|network=Disney XD|season=4|number=3|airdate=August 27, 2017}}</ref>
+* A variation of the Sleepers known as '''Sleeper-Mechs''' appear in [[Agents of S.H.I.E.L.D. (season 5)|season five]] of the live-action series ''[[Marvel's Agents of S.H.I.E.L.D.]]'', serving as shock troopers for lone [[Hydra (comics)|HYDRA]] leader, [[United States Air Force|USAF]] General Hale. Introduced in the episode "All the Comforts of Home", they are remote-controlled by Hale's cybernetic associate, Anton Ivanov. He and the Sleeper-Mechs continue to serve Hale until the episode, "The Honeymoon", when [[S.H.I.E.L.D.]] agent [[Yo-Yo Rodriguez]] kills Ivanov, disabling the robots in the process.
+
+===Video games===
+The Sleeper appears in ''[[Captain America: Super Soldier]]''. It was discovered during the [[Middle Ages]] by Heller Zemo. Though they did not understand what the Sleeper was, Heller and his men realized it was something important and built Castle Zemo around its resting place. Hundreds of years later, during World War II, Heller's descendant [[Heinrich Zemo]] acquired the castle, believing he was destined to awaken the Sleeper and use it to help him in his plans for world conquest. However, he formed an alliance with HYDRA commander [[Red Skull|Johann Schmidt]], who ousted Heinrich and occupied Castle Zemo so his top scientist [[Arnim Zola]] could study the Sleeper for HYDRA's purposes. In 1944, the castle was infiltrated by Captain America and the [[Invaders (comics)|Invaders]], who successfully destroyed the Sleeper after it was activated.
+
+==References==
+{{reflist}}
+
+{{Captain America}}
+{{Stan Lee}}
+{{Jack Kirby}}
+
+[[Category:Articles about multiple fictional characters]]
+[[Category:Characters created by Jack Kirby]]
+[[Category:Characters created by Stan Lee]]
+[[Category:Marvel Comics robots]]
+[[Category:Marvel Comics supervillains]]
+[[Category:Marvel Comics weapons]]

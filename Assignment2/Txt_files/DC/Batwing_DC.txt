@@ -1,0 +1,164 @@
+{{Short description|Fictional superhero in DC Comics}}
+{{For|the plane used by Batman|Batplane}}
+{{For|the Marvel Comics character|Batwing (Marvel Comics)}}
+{{Infobox comics character and title <!--Wikipedia:WikiProject Comics-->
+| character_name = Batwing
+| image          =
+| imagesize      =
+| caption        =
+| publisher      = [[DC Comics]]
+| debut          = '''(David Zavimbe)'''<br />''[[Batman Incorporated]]'' #5<br/>(May 2011)<br/>'''(Luke Fox)'''<br />''Batwing'' #19<br/>(June 2013)
+| creators       = '''(David Zavimbe)'''<br/>[[Grant Morrison]] (writer)<br/>[[Chris Burnham]] (artist)<br/>'''(Luke Fox)'''<br />[[Jimmy Palmiotti]] (writer)<br/>[[Justin Gray]] (writer)<br/>Eduardo Pansica (artist)
+| aliases        = Batwing
+| species        = Human
+| homeworld      = Earth
+| alliances      = [[List of Batman supporting characters|Batman Family]]<br />[[Justice League]]<br />[[Batman Incorporated]]
+| partners       = [[Batman]]
+| supports       =
+| powers         = Master martial artist<br />Flight via suit's wings<br />Arsenal of weapons and high-tech gadgets<br />Skilled detective
+
+<!--Series section-->
+|title               = Batwing
+|cvr_image           = Batwing01.jpg
+|cvr_caption         = Cover for ''Batwing'' #1 (September 2011).<br>Art by [[Ben Oliver]] & Brian Reber
+|cvr_alt             =
+|schedule            = Monthly
+|format              =
+|limited             =
+|ongoing             = Y
+|1shot               =
+|Superhero           = y
+|pub_series          =
+|date                = September 2011 – August 2014
+|1stishhead          =
+|1stishyr            =  
+|1stishmo            = 
+|endishyr            =  
+|endishmo            = 
+|1stishhead#         =
+|1stishyr#           =
+|1stishmo#           =
+|endishyr#           =
+|endishmo#           =
+|issues              = 34
+|main_char_team      =
+|writers             = {{collapsible list|[[Judd Winick]] (#1–14)<br>[[Fabian Nicieza]] (#15–18)<br>[[Jimmy Palmiotti]] and [[Justin Gray]] (#19–34) }}
+|artists             = 
+|pencillers          = {{collapsible list|[[Ben Oliver]] (#1–3, 5–6)<br> [[ChrisCross]] (#4)<br>[[Dustin Nguyen (artist)|Dustin Nguyen]] (#7–8)<br>[[Marcus To]] (#9–14) <br> Fabrizio Fiorentino (#15–18)<br>Eduardo Pansica (#19–34) }}
+|inkers              = {{collapsible list| Derek Fridolfs <br> Ryan Winn <br> Julio Ferreira }}
+|letterers           =
+|colorists           = {{collapsible list| Brian Reber <br> Pete Pantazis <br> [[Paul Mounts]] }}
+|editors             =
+|creative_team_month =
+|creative_team_year  =
+|creators_series     =
+|TPB                 =
+|ISBN                =
+|nonUS               =
+
+<!--Categories-->
+| cat            = super
+| subcat         = DC Comics
+| hero           = y
+| villain        =
+| sortkey        = Batwing
+}}
+
+'''Batwing''' is a [[superhero]] appearing in [[American comic books]] published by [[DC Comics]]. Within DC Comics internal continuity, Batwing is one of several superheroes patterned after the famous superhero [[Batman]]. Batwing, in particular, was conceived by Batman as his crime-fighting counterpart overseas, 'the Batman of Africa'.
+
+The first Batwing is David Zavimbe, a [[Democratic Republic of the Congo|Congolese]] police officer, created by writer [[Grant Morrison]] within the pages of ''[[Batman Incorporated]]'' prior to receiving his own [[eponym]]ous series. Following later events within ''Batman Incorporated'' and ''Batwing'', Zavimbe is replaced in the role by Luke Fox, an American mixed martial artist who had been Batman's first choice in the role, who is also the son of Batman's close associate [[Lucius Fox]].
+
+Batwing faces a roster of adversaries ranging from international super villains to the Democratic Republic of Congo's corrupt police force. ''Batwing'' expands the DC Universe by taking place in Africa, making David Zavimbe both the first (in continuity) black Batman and one of the few characters headlining a series outside the United States.
+
+Luke Fox appears in the [[Arrowverse]] TV series ''[[Batwoman (TV series)|Batwoman]]'' as part of the main cast, portrayed by Camrus Johnson. He takes on the mantle of Batwing at the end of the second season.
+
+==Publication history==
+The character proper appears first in "Batman of Africa", in ''Batman Incorporated'' #5 (May 2011), written by Grant Morrison.<ref name=Guide>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Korte |first3=Steve |last4=Manning |first4=Matt |last5=Wiacek |first5=Win |last6=Wilson |first6=Sven |title=The DC Comics Encyclopedia: The Definitive Guide to the Characters of the DC Universe |date=2016 |publisher=DK Publishing |isbn=978-1-4654-5357-0 |page=35}}</ref> He was designed by [[Chris Burnham]],<ref>{{cite web|first=Chris |last=Sims |url=http://www.comicsalliance.com/2011/05/12/batwing-batman-of-africa-exclusive |title=Introducing Batwing, The New Batman Based in Africa [Exclusive] |publisher=[[Comics Alliance]] |date=May 12, 2011 |access-date=September 9, 2011 |url-status=dead |archive-url=https://web.archive.org/web/20110912120450/http://www.comicsalliance.com/2011/05/12/batwing-batman-of-africa-exclusive/ |archive-date=September 12, 2011 }}</ref> but was first drawn by [[Yanick Paquette]].
+
+Batwing has since gained his own monthly [[ongoing series]] as part of the [[The New 52|2011 DC Universe reboot]], featuring art by [[Ben Oliver]] and written by ''[[Power Girl]]'' and ''[[Justice League: Generation Lost]]'' writer [[Judd Winick]].<ref name=cbr32731>{{cite web |first=Josie |last=Campbell |url=http://www.comicbookresources.com/?page=article&id=32731 |title=Winick Patrols Africa with "Batwing" |publisher=[[Comic Book Resources]] |date=June 10, 2011 |access-date=September 9, 2011 }}</ref><ref name=newsaramabw110613>{{cite web |first=Vaneta |last=Rogers |url=http://www.newsarama.com/comics/dcnu-judd-winick-black-batman-nightwing-110613.html |title=WINICK Brings BATMAN, INC.'s BATWING To DCnU Solo Series |publisher=[[Newsarama]] |date=June 13, 2011 |access-date=September 9, 2011}}</ref><ref name=bwhuffp>{{cite web |first=Bryan |last=Young |url=http://www.huffingtonpost.com/bryan-young/batwing-comic_b_950777.html |title=Interview: Judd Winick Talks Batwing, a New Batman Comic Set in Africa  |work=[[The Huffington Post]] |date=September 7, 2011 |access-date=September 9, 2011}}</ref>
+
+According to fellow ''Batman Incorporated'' artists, Chris Burnham told iFanboy that he designed the character first, while Paquette was the first to draw him in interiors. In line with Morrison's use of obscure continuity throughout his ''Batman'' stories, the character seems to be based visually on a minor character which appeared in ''Batman'' #250 in a story called "The Batman Nobody Knows". In this story, a young [[African-American]] boy tells his friends how he imagines Batman to be, and gives him the name "Batwings".
+
+Writing duo [[Justin Gray]] and [[Jimmy Palmiotti]] took over the book starting with ''Batwing'' #19 (June 2013), to introduce a new Batwing, Luke Fox, unrelated to the previous one.<ref>{{cite web|last=Phegley|first=Kiel|title=THE BAT SIGNAL: PALMIOTTI & GRAY'S TALE OF TWO "BATWINGS"|url=http://www.comicbookresources.com/?page=article&id=44463|publisher=Comic Book Resources|date = March 25, 2013}}</ref> The new Batwing character would no longer be the "Batman of Africa", but be more international, along with having more ties to [[Gotham City]].<ref>{{cite web|last=Campbell|first=Josie|title=THE BAT SIGNAL: PALMIOTTI & GRAY TURN TO AFRICA WITH "BATWING"|url=http://www.comicbookresources.com/?page=article&id=43944|publisher=Comic Book Resources|date = March 5, 2013}}</ref><ref>{{cite web|last=Rogers|first=Vaneta|title=SPOILER SPORT: BATWING Co-Writer On BATMAN's New Ally|url=http://www.newsarama.com/17341-spoiler-sport-batwing-co-writer-on-batman-s-new-ally.html|publisher=Newsarama|date=April 3, 2013}}</ref>
+
+==Fictional character biography==
+===David Zavimbe===
+'''David Zavimbe''' operates as Batwing who is a representative of [[Batman Incorporated]] from the city of '''Tinasha''', within the [[Democratic Republic of Congo]].
+
+When David Zavimbe was a young boy in Tinasha, his parents died of [[HIV]]/[[AIDS]] very early in his life.<ref>''Batwing'' #1 (November 2011)</ref> Following the death of their parents, David, and his brother, Isaac, were taken from their orphanage and drafted as boy soldier prodigies, like many children his age, into General Keita's army known as the Army of the Dawn, for a war that ravaged his country. While many young boys were picked to join, the Zavimbe brothers shined above the rest with their ability to take orders and kill and garnered the name the Dragonflies. Due to their speed, dexterity, and prodigious ability to kill, General Keita promoted the boys into the ranks of his elite men.
+
+On Keita's path to power and domination, he orders the brothers to kill Okuru, one of Keita's major enemies.<ref>''Batwing'' #2 (December 2011)</ref> They agree to sneak in and slit Okuru's throat, but Keita demands they torch the entire village to prevent any possible escape. Refusing to kill innocent women and children, Isaac shoots his gun in the air, giving Okuru and his squadron time to fire shots back, forcing Keita to retreat. The General cannot stand for any insubordination and while he is arguing with David, Isaac hits him over the head with a rock. Keita reaches for his machete and slices Isaac multiple times; all the while, David is sprinting away.<ref>''Batwing'' #4 (February 2012)</ref>
+
+Later that night, David sneaks into Keita's room and drugs him before he can make a move. Eventually, Keita comes to be tied up in the back of an SUV. David says he will not kill any longer and drops Keita outside of Okuru's new encampment, while firing shots in the air to notify them.
+
+After General Keita's death, David spends the next few days walking to the Children's Harbor, an orphanage for former child soldiers. David was able to escape the life of being a soldier at such a young age, and soon became a police officer in Tinasha, where despite corruption running rampant, he remained dedicated to the law and justice. Elsewhere in the United States, Bruce Wayne announces [[Batman Incorporated]], an initiative to put Batman-like figures in countries all across the world. Soon after that, [[Batman]] pays a visit to Tinasha, where he inducts David as the newest member of his team in his quest to stop the global terrorists, [[Leviathan (DC Comics)|Leviathan]].<ref>''Batman Incorporated'' #4 (April 2011)</ref><ref>''Batwing'' #8 (June 2012)</ref>
+
+Shortly after finding the false Dr. Dedalus and coming into confrontation with Leviathan yet again, Batman travels to an unknown destination within the continent of Africa to recruit a new member to his team of Batmen, Batman Incorporated. Batman leads David through his first mission for Batman Incorporated, providing a technologically advanced bat-suit. David comes into contact with a Leviathan brain-washing cell, narrowly avoiding capture once his presence is compromised. During his escape, he demonstrated a knowledge of martial arts, also showing off special capabilities of his bat-suit including jet propulsion.<ref>''Batwing'' #10 (August 2012)</ref>
+
+Batwing faces off against a new villain calling himself Massacre. As Massacre gets the upper hand in battle against Batwing, we see a flashback of Batwing stopping Blood Tiger, a former captain of a warlord and now in control of a drug ring. With the help of Batman he manages to capture him.
+
+As his investigation continues, he comes upon a gruesome crime scene with beheaded bodies. Later, as he researches it with the police, he finds a room filled with murdered police officers and he gets stabbed in the back by Massacre as he looks shocked at the murdered officers. David attempts to fight back his attacker, but he quickly loses. Massacre attempts to finish David off, but is interrupted by Kia Okuru and other officers who fire shots at him. David passes out during the shootout and wakes up two weeks later in The Haven. He asks Matu to see about the shootout and the welfare of Kia Okuru. Matu informs him that Kia lives, but she had been badly beaten and the rest of the officers had been killed. David attempts to go after Massacre shortly after he awoke, but Matu urges him to remain in The Haven to heal up his injuries and regain his strength.
+
+They both argue about it for a bit before Matu forces David to get back to bed. David soon knocks out Matu with a tranquilizer dart and goes after Massacre. He is able to deduce Massacre's location from something Massacre had said to him back at the police station. He arrives just in time to aid Thunder Fall of The Kingdom, who is engaged in a brutal battle with Massacre. Despite his injuries, Batwing, along with the help of a severely injured Thunder Fall manage to fight and then escape from Massacre to a nearby hospital where Thunder Fall reveals that The Kingdom, a super hero team which operated in Africa, had done something terrible and that Massacre was their punishment.<ref>''Batwing'' #14 (January 2013)</ref>
+
+The final truth is revealed after the heroes rescue The Kingdom's tech-powered member, Steelback. He tells them that years ago, The Kingdom was fighting the ruthless dictator of Congo alongside the People's Army, which left him only with the capital city to defend. Intending on this to be a victory of the people, they left the army to go alone, but soon received a message saying the dictator has allied himself with the African crime lords, making it impossible to win even with The Kingdom's intervention. The heroes are forced to give amnesty to him and promise no retaliations after that. The crime lords fought anyway but without the dictator to support them, their army of child soldiers was slaughtered, and 50,000 lives were lost in the battle. This tragedy led to The Kingdom's subsequent dissolution.<ref>''Batwing'' #15 (February 2013)</ref>
+
+After the events of the bomb attack at the United Nations place outside, Booster Gold was saddened that the team had lost some of the JLI members who were hurt or killed. Massacre was later revealed to have been Batwing's older brother, who was brainwashed by X. After this, after Matu is injured in an attack on Batwing's home base, he decided that he would use lethal force in his protection of the Democratic Republic of Congo. Batwing was briefly a member in the JLI until the series came to an end with ''Justice League International Annual'' #1.
+
+Batwing joined with the team calling themselves the Dead Heroes Club, an offshoot of Batman Inc.. The other members are [[Looker (comics)|Looker]], Freight Train, The Hood, [[Batmen of All Nations|Gaucho]], Wingman, and [[Halo (DC Comics)|Halo]].
+
+===Luke Fox===
+{{Update|date=August 2017}}
+After the events of ''Batwing'' #19, David resigned as Batwing. [[Lucius Fox]] would then make a new Batwing suit, which Batman then gives to Fox's son '''Luke Fox'''.<ref>''Batwing'' #19 (June 2013)</ref> Luke plays a significant part in ''[[Batman Eternal]]'' when he helps [[Jim Corrigan]] investigate recent events in [[Arkham Asylum]], where the [[Joker's Daughter]] is using the spirits of the inmates to resurrect what she believes to be the Joker in the body of [[Maxie Zeus]] (although it is revealed to be [[Deacon Blackfire]]). In ''Batgirl'' #45, Luke Fox began a romantic relationship with [[Barbara Gordon]], also fighting crime together as their alter egos Batwing and Batgirl.<ref>{{citation|title='Batgirl's' creative team pops a new romantic question: Is three company, or a crowd?|author=David Betancourt|url=https://www.washingtonpost.com/news/comic-riffs/wp/2015/10/28/batgirls-creative-team-pops-a-new-romantic-question-is-three-company-or-a-crowd/|date=October 28, 2015|access-date=August 8, 2016}}</ref><ref>{{cite comic|writer=Brenden Fletcher, Cameron Stewart|artist=Babs Tarr|title=Batgirl|volume=4|issue=45|date=October 28, 2015}}</ref>  Luke Fox was created by [[Jimmy Palmiotti]] and [[Justin Gray]], the writers of Batwing #19<ref>{{Cite web|url=https://www.dccomics.com/comics/batwing-2011/batwing-19|title=BATWING #19|date=2013-01-14|website=DC|language=en|access-date=2019-12-03}}</ref> in April, 2013. 
+
+In 2016, DC Comics implemented another relaunch of its books called "[[DC Rebirth]]", which restored its continuity to a form much as it was prior to "The New 52". Following Red Robin's apparent sacrifice, Luke is recruited to the team that Batman and [[Batwoman]] set up.<ref>''Detective Comics'' #944</ref>
+
+==Powers and abilities==
+Batwing has shown a knowledge of martial arts and is supplied by Batman with a variety of gadgets, weapons and tech to help him fight crime and corruption. He is also very well trained without any weapon in his hands, which makes him one of the biggest threats in the Batman universe. His batsuit is armored and is capable of regeneration abilities, and adaptation skills with the help of wings allowing him to fly or glide. Because he works as a police officer it is implied that he received basic police training with the genius detective Bruce Wayne assisting him along the way.
+
+==Other versions==
+* David Zavimbe is featured in the ''[[Smallville|Smallville Season 11]]'' digital comic based on the [[Smallville|TV series]]. In this continuity, David is an ally of [[Lana Lang (Smallville)|Lana Lang]], who supplies her with information for her vigilante activities in Africa.<ref>''Smallville Season 11 Special'' #2</ref>
+
+==In other media==
+===Television===
+* A character by the name of Lucius Fox Jr. is mentioned in the animated series ''[[Batman Beyond]]'', like Luke Fox in the comics, this version is the son of [[Lucius Fox|Lucius Fox Sr.]], a close friend of Bruce Wayne. It is revealed that around the time of Derek Powers' hostile takeover of [[Wayne Enterprises]], Fox Jr. served as Vice President but was eventually fired by Powers, leading him to move on and form his own company Foxteca. In "Black Out" Wayne warns Powers to leave Foxteca alone as the Fox family were close to the former. 
+* Luke Fox appears in the [[Arrowverse]] TV series ''[[Batwoman (TV series)|Batwoman]]'', portrayed by Camrus Johnson.<ref>{{cite web|url=https://deadline.com/2019/01/batwoman-meagan-tandy-camrus-johnson-nicole-kang-to-star-in-the-cw-pilot-dc-1202541983/|title='Batwoman': Meagan Tandy, Camrus Johnson & Nicole Kang To Co-Star In the CW Pilot|author=Nellie Andreeva|date=January 25, 2019|work=Deadline}}</ref> While Luke being the son of Lucius Fox is intact with the series, he keeps an eye on Wayne Tower when Batman has been missing for three years. He befriends Bruce Wayne's cousin Kate Kane and becomes her ally in light of the Wonderland gang's attacks. Like his father, Lucius with Bruce Wayne, Luke helped Kate out by providing some gadgets for her. He even helped redesign her Batsuit where it gained some red on it while the mask has a red wig added onto it. While he does know where Bruce is, Luke states that he isn't answering his calls. The episode "I'll Be Judge, I'll Be Jury" had Luke mentioning to Kate that his father was killed during a store robbery when Lucius was running some errands for his family. Luke also told Kate that he was called down by the police to ID the body. In season two, Luke and Mary support Ryan Wilder when she becomes the new Batwoman after Kate's disappearance at the hands of Black Mask. In the season two finale during the riots instigated by Black Mask, Luke becomes Batwing and rescues Mary from Russell Tavaroff. In season three, Luke works to perfect the Batwing suit with Ryan coming up with the Batwing codename. While working on the Batwing suit, Luke ends up activating an A.I. version of Lucius Fox that was in the helmet.
+** In the crossover event ''[[Crisis on Infinite Earths (Arrowverse)|Crisis on Infinite Earths]]'', a version of Luke Fox (also portrayed by Camrus Johnson) lives on Earth-99 and works for an aged Bruce Wayne.
+
+===Film===
+The Luke Fox version of Batwing appeared in ''[[Batman: Bad Blood]]'', voiced by [[Gaius Charles]].<ref>{{cite web|url=http://www.tvinsider.com/article/28047/yvonne-strahovski-and-gaius-charles-get-animated-for-batman-bad-blood-batwoman-batwing/|title=Yvonne Strahovski and Gaius Charles Get Animated for Batman: Bad Blood|work=TV Insider}}</ref> After almost losing his father Lucius Fox in an attack orchestrated by Talia al Ghul, he uses his technology to become Batwing. He later reappears with a non-speaking role in ''[[Justice League Dark: Apokolips War]]''. He is seen fighting against Parademons, but is shot down by one of them.
+
+===Video games===
+The Luke Fox version of Batwing appeared in ''[[DC Universe Online]]''.
+
+In ''[[Batman: The Telltale Series]]'', a young Luke Fox appears in a picture in Lucius Fox's laboratory. He is also mentioned by his sister Tiffany in  [[Batman: The Enemy Within|Season Two]].
+
+===Books===
+The Luke Fox version of Batwing appeared in ''Catwoman: Soulstealer'' written by [[Sarah J. Maas]] as part of the DC Icons series.
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://worldofblackheroes.com/2011/07/08/batwing-david-zavimbi/ World of Black Heroes: Batwing Biography]
+* {{gcdb series|id=60835|title=''Batwing''}}
+* {{comicbookdb|type=character|id=54815|title=Batwing (pre-Flashpoint)}}
+* {{comicbookdb|type=character|id=57290|title=Batwing (post-Flashpoint)}}
+* [http://www.comicvine.com/batwing/29-77559/|id=54815|title=Batwing (Batwing entry on Comic Vine)]
+* [https://web.archive.org/web/20110910064357/http://dcu.blog.dccomics.com/new-52-batwing/ DC Comics The New 52 – Batwing], [[DC Comics.com]]
+* [http://www.comicvine.com/batwing/29-77559/ Batwing] at Comic Vine
+* {{cite web |first=Tim |last=Callahan |url=http://www.tor.com/blogs/2011/06/readers-guide-to-the-new-dc-universe-batwing |title=Reader's Guide to the New DC Universe: Batwing |date=June 27, 2011 |access-date=October 27, 2012}}
+
+{{Batman characters}}
+{{Grant Morrison}}
+{{Justice League characters}}
+[[Category:Articles about multiple fictional characters]]
+[[Category:Batman characters code names]]
+[[Category:Fictional Democratic Republic of the Congo people]]
+[[Category:Fictional child soldiers]]
+[[Category:DC Comics police officers]]
+[[Category:DC Comics martial artists]]
+[[Category:2011 comics debuts]]
+[[Category:Characters created by Grant Morrison]]
+[[Category:Comics characters introduced in 2011]]
+[[Category:DC Comics titles]]

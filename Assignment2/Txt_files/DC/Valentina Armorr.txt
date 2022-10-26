@@ -1,0 +1,6 @@
+#REDIRECT [[Karate Kid (character)]]
+
+{{Redirect category shell|
+{{R from move}}
+{{R from alternative disambiguation}}
+}}

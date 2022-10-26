@@ -1,0 +1,131 @@
+{{short description|Fictional character}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|image= JSA-86-int.jpg
+|imagesize= <!-- numeral only, defaults to 250 -->
+|converted = y
+|caption = Gentleman Ghost facing [[Alan Scott]] from ''JSA'' #84, by artist [[Luke Ross]].
+|character_name = Gentleman Ghost
+|real_name = James Craddock
+|publisher=[[DC Comics]]
+|debut = ''[[Flash Comics]]'' #88 (October 1947)
+|creators = [[Robert Kanigher]] (writer)<br>[[Joe Kubert]] (artist)
+|Base of operations = 
+|species   = [[Ghost]]
+|homeworld = <!-- optional -->
+|alliances = [[Injustice Society]]<br/>[[Secret Society of Super Villains]]<br/>[[Suicide Squad]]
+|partners  = <!-- optional -->
+|supports  = <!-- optional -->
+|aliases   = The Ghost<br>"Gentleman Jim"<br>Jim Craddock
+|powers    = *Spectral ability to turn invisible and incorporeal
+*Renders anybody who touches him deathly cold
+*[[Teleportation]]
+*Adequate marksman with antique [[flintlock]] pistols
+*Interdimensional travel
+*Spectral energy projection
+*Control over undead
+*Enhanced speed, regeneration, and strength
+*Invokes a white horse that serves as a means of transport
+*Can create spectral weapons
+|cat      = super
+|subcat   = DC Comics
+|hero     = 
+|villain  = y
+|sortkey  = Gentleman Ghost
+}}
+'''Gentleman Ghost''' is a <!--Do not add "fictional" as it is tautological; supervillains (and characters in general) are by definition implied to be fictionalized to some extent.-->[[supervillain]] appearing in books published by [[DC Comics]] publications.<ref>{{cite book |last =Rovin |first =Jeff |title =The Encyclopedia of Supervillains |publisher =Facts on File |date =1987 |location =New York |isbn = 0-8160-1356-X |page=141}}</ref> Created by writer [[Robert Kanigher]] and artist [[Joe Kubert]], the character first appeared in ''[[Flash Comics]]'' #88 (October 1947).<ref>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Manning |first3=Matthew K. |last4=McAvennie |first4=Michael |last5=Wallace |first5=Daniel |title=DC Comics Year By Year: A Visual Chronicle |date=2019 |publisher=DK Publishing |isbn=978-1-4654-8578-6 |page=53}}</ref>
+
+==Fictional character biography==
+===Earth-Two===
+Originally, on [[Earth-Two]] just called "Ghost," this criminal clashed twice with [[Hawkman (Carter Hall)|Hawkman]] and [[Shiera Sanders Hall|Hawkgirl]], claiming to be an actual ghost. Hawkman refused to believe it, and the couple's investigation seemed to support that, but the original story left the truth ambiguous. In their next encounter, it was confirmed that the supposed, ghost was a mundane criminal named James Craddock who had used special tricks and gadgets to pretend to be a ghost.<ref>''Flash Comics'' #88. DC Comics.</ref><ref>''Flash Comics'' #104. DC Comics.</ref>
+
+===Post-Crisis===
+In Post-Crisis continuity, James Craddock is the son of an English [[gentleman]] who abandoned both Jim and his mother, forcing them into poverty. Craddock grew up to become a notorious [[highwayman]] and robber who terrorized [[England]] in the 19th century under the name "Gentleman Jim", after a prophecy from a gypsy said he would be a highwayman. He encountered the [[ghost]]s of other highwaymen and [[Dick Turpin]] left him a horse. He journeyed to the [[United States]] and encounters the [[gunslinger]]s [[Nighthawk (DC Comics)|Nighthawk]] and [[Cinnamon (comics)|Cinnamon]]. The hot-headed Nighthawk lynched Craddock after wrongly assuming that he sexually assaulted Cinnamon, but Craddock somehow eludes death to rise again as a ghost.<ref>{{cite book |last1=Greenberger |first1=Robert |title=The Essential Batman Encyclopedia |date=2008 |publisher=Del Rey |isbn=9780345501066 |page=145}}</ref>
+
+The Gentleman Ghost learns he must wander the earth until the spirit of his killer moves on to the next [[plane (metaphysics)|plane of existence]].<ref name=Guide>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Korte |first3=Steve |last4=Manning |first4=Matt |last5=Wiacek |first5=Win |last6=Wilson |first6=Sven |title=The DC Comics Encyclopedia: The Definitive Guide to the Characters of the DC Universe |date=2016 |publisher=DK Publishing |isbn=978-1-4654-5357-0 |page=119}}</ref> Nighthawk and Cinnamon turn out to be the [[reincarnation]]s of [[Ancient Egypt]]ian royalty Prince Khufu and Chay-Ara: their [[soul]]s (due to their exposure to the Thanagarian Nth metal) can never truly pass on. Both are eventually resurrected as [[Hawkman (Carter Hall)|Hawkman]] and [[Hawkgirl]], and the Gentleman Ghost becomes their recurring nemesis during the 1940s.<ref name="dc-ency">{{Citation | last = Wallace | first = Dan | contribution = Gentleman Ghost | editor-last = Dougall | editor-first = Alastair | title = The DC Comics Encyclopedia | pages = 137 | publisher = [[Dorling Kindersley]] | place = New York | year = 2008 | isbn = 978-0-7566-4119-1 | oclc = 213309017}}</ref> Craddock has over the decades menaced other heroes, including [[Batman]], [[Atom (Ray Palmer)|The Atom]], [[Flash (Barry Allen)|Flash]], [[Teen Titans|The New Teen Titans]], [[Max Mercury]] and [[Courtney Whitmore|Stargirl]], but the vengeful ghost always returns to his main foes, the Hawks, sometimes as a foe and sometimes as a friend.
+
+Gentleman Ghost later appears as a member of the [[Injustice Society]].<ref>''JSA Classified'' #5-7. DC Comics.</ref>
+
+During the ''[[Infinite Crisis]]'' storyline, he joins [[Alexander Luthor Jr.]]'s [[Secret Society of Super Villains]]. He fought [[Alan Scott]] and placed him in a coma.<ref>''Villains United'' #1. DC Comics.</ref>
+
+His origin is explored and altered in the pages of ''JSA'' #82-87 (2006). The [[Legitimacy (family law)|natural]] son of an abusive father and a poor mother, young Jim Craddock soon slips into a life of crime, making contacts with the supernatural. After a [[Romani people|gypsy]] prophesies that he will be able to transcend death and return to life fighting and killing his enemies on English soil, his villainous career is put to an end when he is captured and sentenced to death by hanging after he is tricked by a woman he is trying to seduce who summons Redcoats. Returning as a ghost, he battles those on JSA, hoping for the prophecy to come true. When the rightful time arrives, the Ghost gains the additional power of summoning vengeful ghosts from his enemies' (the JSA) past, like someone Scott killed with an electrical accident, although this is a fake, and other highwaymen. His plan is foiled by [[Courtney Whitmore (comics)|Stargirl]], who, as a [[virginity|virgin]] girl, is impervious to ghostly attacks, an army of ghostly nobles who attack his army, and [[Wildcat (Ted Grant)|Wildcat]], surprisingly a descendant of the Royal House of England, who decapitates him. Vanquished, he disappears.<ref>''JSA'' #82-87. DC Comics.</ref>
+
+Gentleman Ghost is seen as one of the villains sent to retrieve the Get Out of Hell Free card from the [[Secret Six (comics)|Secret Six]].
+
+===The New 52===
+In 2011, "[[The New 52]]" rebooted the DC universe. Gentleman Ghost is still a thief and is not a ghost like his Earth-Two counterpart.<ref name="Gotham By Midnight Annual #1">''Gotham By Midnight'' Annual #1. DC Comics.</ref>
+
+In his first appearance, he steals the Mortis Orb, which has the power to resurrect the dead.<ref>''Savage Hawkman'' #5. DC Comics.</ref> Hawkman deduces that Gentleman Ghost is Jim Craddock and Gentleman Ghost confirms it. Gentleman Ghost tells Hawkman he invited him here because the Nth metal drew him to the Mortis Orb. Then, he tells Hawkman he will take him to the orb, but Hawkman refuses, so Gentleman Ghost sends more apparitions after him, Hawkman escapes the building. Then, Gentleman Ghost appears again, saying that the warlock's spell rendered the orb inert years ago, but the Nth Metal broke the spell causing the orb to regain its power. Gentleman Ghost takes the orb, saying that he will use it to transcend death and resurrect himself through the life-force of every man, woman, and child nearby. Then, he disappears and the [[zombie]]s attacking Hawkman fall apart.<ref>''The Savage Hawkman'' #6. DC Comics.</ref> Gentleman Ghost begins fully harnessing the orb’s power, creating a portal from which Julius Gates comes out. Gates (demanding the orb) grabs Craddock, while Hawkman takes the orb from him. The portal vanishes with Craddock and Gates inside causing them both to disappear along with the apparitions and zombies. Hawkman drops the Mortis Orb somewhere in Antarctica to keep it from falling into the wrong hands again.<ref>''The Savage Hawkman'' #7. DC Comics.</ref>
+
+Sometime later, Craddock takes up residence in a New Hampshire called Duskhaven which he operates out of while he robs wealthy socialites of Gotham. When the Midnight Shift apprehends him, he reveals his new origins. Some time in the past, Craddock was a philanderer and drew the ire of a witch, who cursed him, granting his abilities but forcing him to commit criminal acts. He believed the curse would be lifted once the witch died. It was not and he found himself to be immortal.<ref name="Gotham By Midnight Annual #1"/>
+
+===DC Rebirth===
+In 2016, DC Comics implemented another relaunch of its books called "[[DC Rebirth]]", which restored its continuity to a form much as it was prior to "The New 52". When [[Sebastian Faust]] goes rogue and steals all the magical items in A.R.G.U.S storage, Amanda Waller recruits Craddock into a special magic-based team of criminals known as Suicide Squad Black.<ref>''Suicide Squad Black Files'' #1-6. DC Comics.</ref>
+
+==Powers and abilities==
+The Gentleman Ghost of Earth-Two seemed to rely on devices to simulate a ghostly existence; the original 1940s stories left the question of his nature open to speculation.
+
+Later, he is [[retroactive continuity|retcon]]ned into a true ghost and his abilities altered to follow suit. As a ghost, Craddock has several abilities. He can become intangible and pass effortlessly through solid material. He can become completely invisible. In fact, the appearance of his head as a floating hat and monocle is actually him rendering his decayed face invisible. He has been shown as being able to teleport as short a distance as a few rooms or as far as across states. Gentleman Ghost can also summon spectral weapons including a cane that shoots spectral fire, and flintlock pistols. When passing through Craddock's ghostly form, people will sometimes experience an intense feeling of cold. Since this does not happen every time, it would seem that he can control this effect. Craddock can apparently track psionic energy and travel across dimensions as he did when he followed an astral tether from the Wizard to Johnny Sorrow. On certain occasions most of the manifestations of his abilities like teleportation and phasing are accompanied by a purple glow of spectral energy or transparent mist (possibly courtesy of different pencilers). Around the time of his prophesied return to life, he gains the power to summon and control the spirits of the dead due to his mother's spirit spending centuries recruiting them to help her son. It is unknown if he can still call upon them.
+
+The Gentleman Ghost is apparently unable to touch or be touched by virgins. This is confirmed by his inability to do harm to both [[Courtney Whitmore|Stargirl]] and [[Jakeem Thunder]]. However, he can pick up a real weapon and be able to hurt them, as when he brandished the Cosmic Rod.
+
+As a supernatural being, Gentleman Ghost cannot be killed and is very hard to hurt, but those with royal blood can physically harm him and, when unaware, energy hitting him causes pain.
+
+==Other versions==
+===Kingdom Come===
+In the ''[[Kingdom Come (comics)|Kingdom Come]]'' reality, Gentleman Ghost is seen as a patron of a supervillain bar. He is present when [[Superman (Kingdom Come)|Superman]] appears announcing that he is reforming the Justice League.<ref>''Kingdom Come'' #2. DC Comics.</ref>
+
+===Earth 3===
+On Earth 3, Gentleman Ghost's heroic counterpart is the Pinkerton Ghost. He is seen as a member of the Justice Society All-Stars (a counterpart of the Injustice Society).<ref>''Hawkman'' (vol. 6) #18. DC Comics.</ref>
+
+==In other media==
+===Television===
+* Gentleman Ghost appears in ''[[The All-New Super Friends Hour]]'' episode "Ghost", voiced by an uncredited [[Alan Oppenheimer]]. This version is referred to only as "Gentleman Jim Craddock" instead.
+* Gentleman Ghost was briefly considered to appear in ''[[The New Batman Adventures]]''. When asked about his potential use in the show, producer and writer [[Paul Dini]] stated Gentleman Ghost's appearance would be "likely, if we do more contemporary Batman stories". Ultimately, Gentleman Ghost never appeared in the series.<ref>{{cite web|url=http://www.worldsfinestonline.com/WF/sections/backstage/unused/batman/gentleman.php|title=The World's Finest - Backstage - Unused Villains Database - Gentleman Ghost|website=www.worldsfinestonline.com|access-date=24 August 2017}}</ref>
+* Gentleman Ghost appears in ''[[Justice League Unlimited]]'', voiced by [[Robin Atkin Downes]]. This version is a member of [[Gorilla Grodd]]'s [[Secret Society of Super Villains|Secret Society]].
+* Gentleman Ghost appears in ''[[Batman: The Brave and the Bold]]'', voiced by [[Greg Ellis (actor)|Greg Ellis]]. This version is an infamous [[highwayman]] from 19th century London who tries to obtain immortality by offering ten souls to the demon [[Asteroth]] in exchange, only to be foiled by [[Sherlock Holmes]], [[Etrigan the Demon]], and a time-displaced [[Batman]]. After being hanged for his crimes, Craddock's soul is cursed by Asteroth to never leave the Earthly plane, causing the former to rise from his grave as Gentleman Ghost and swear revenge on Batman. Centuries later, he has several encounters with Batman, and is defeated each time.
+** Additionally, an unnamed, heroic, [[Multiverse (DC Comics)|alternate reality]] version of Gentleman Ghost appears in the episode "Deep Cover for Batman!"
+* Gentleman Ghost appears in the ''[[DC Super Hero Girls (TV series)|DC Super Hero Girls]]'' two-part episode "Nightmare in Gotham", voiced by [[Fred Tatasciore]].
+
+===Film===
+* Gentleman Ghost appears in ''[[The Lego Batman Movie]]''.<ref>{{cite web|url=http://comicbook.com/dc/2016/12/12/new-lego-batman-movie-tv-spot-features-gentlemen-ghost-calendar-/|title=LEGO Batman Movie TV Spot with Gentleman Ghost, Calendar Man, and Condiment King|website=DC|access-date=24 August 2017}}</ref>
+* Gentleman Ghost appears in ''[[Teen Titans Go! vs. Teen Titans]]'', voiced by [["Weird Al" Yankovic]].
+
+===Video games===
+* Gentleman Ghost appears in ''[[Batman: The Brave and the Bold – The Videogame]]'', voiced again by [[Greg Ellis (actor)|Greg Ellis]].
+* Gentleman Ghost appears in ''[[DC Universe Online]]'', voiced by Jason Brenizer.
+* Gentleman Ghost appears as a playable character in ''[[Lego DC Super-Villains]]'', voiced again by Robin Atkin Downes.
+
+==See also==
+* [[List of Batman Family adversaries]]
+
+==References==
+{{reflist}}
+{{Hawkman}}
+{{Justice League characters}}
+{{Justice Society of America}}
+
+[[Category:Comics characters introduced in 1947]]
+[[Category:Characters created by Robert Kanigher]]
+[[Category:Characters created by Joe Kubert]]
+[[Category:DC Comics characters who can move at superhuman speeds]]
+[[Category:DC Comics characters who can teleport]]
+[[Category:DC Comics characters who use magic]]
+[[Category:DC Comics characters with superhuman strength]]
+[[Category:DC Comics characters with accelerated healing]]
+[[Category:DC Comics supervillains]]
+[[Category:DC Comics male supervillains]]
+[[Category:DC Comics undead characters]]
+[[Category:Earth-Two]]
+[[Category:Fictional English people]]
+[[Category:Fictional characters from parallel universes]]
+[[Category:Fictional characters who can turn intangible]]
+[[Category:Fictional characters who can turn invisible]]
+[[Category:Fictional characters with dimensional travel abilities]]
+[[Category:Fictional characters with energy-manipulation abilities]]
+[[Category:Fictional characters with ice or cold abilities]]
+[[Category:Fictional characters with death or rebirth abilities]]
+[[Category:Fictional gentleman thieves]]
+[[Category:Fictional ghosts]]
+[[Category:Fictional murderers]]
+[[Category:Golden Age supervillains]]
+[[Category:Undead supervillains]]

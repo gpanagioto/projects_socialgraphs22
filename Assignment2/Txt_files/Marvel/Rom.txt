@@ -1,0 +1,5 @@
+#REDIRECT [[Rom the Space Knight]]
+
+{{Redirect category shell|
+{{R from move}}
+}}

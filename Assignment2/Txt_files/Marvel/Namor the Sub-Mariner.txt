@@ -1,0 +1,5 @@
+#REDIRECT [[Namor]]
+
+{{Rcat shell|
+{{R from long name}}
+}}

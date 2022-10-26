@@ -1,0 +1,220 @@
+{{for|the movie|The Omega Man}}
+{{Infobox comics team and title <!--Wikipedia:WikiProject Comics-->
+<!-- Group section -->
+|image               = OmegaMen.jpg
+|imagesize           = <!-- default 250 -->
+|caption             = The Omega Men by [[Pasqual Ferry]].
+|publisher           = [[DC Comics]]
+|debuthead           = 
+|debut               = ''[[Green Lantern (comic book)|Green Lantern]]'' (vol. 2) #141
+|debutmo             = June 
+|debutyr             = 1981
+|debuthead#          = 
+|debut#              = 
+|debutmo#            = 
+|debutyr#            = 
+|creators            = [[Marv Wolfman]]<br>[[Joe Staton]]
+|type                = Team
+|group               = y
+|business            = 
+|organisation        = 
+|organization        = y
+|team                = 
+|base                = Kuraq in the [[Vega|Vegan system]]
+|owners              = 
+|employees           = 
+|members             = Tigorr<br>Broot<br>Elu<br>Ryand'r
+|fullroster          =
+|title               = Omega Men
+|cvr_image           = Omegamen v1 01.jpg
+|cvr_caption         = Cover to ''Omega Men'' #1 (April 1983), art by [[Keith Giffen]] and Mike DeCarlo.
+|schedule            = Monthly
+|format              = '''(vol. 1)'''<br />[[Ongoing series]]<br />'''(vol. 2)'''<br />[[Limited series (comics)|Limited series]]<br />'''(vol. 3)'''<br />[[Limited series (comics)|Limited series]]
+|limited             = Y
+|ongoing             = Y
+|SciFi               = first
+|Superhero           = y
+|multigenre          = y
+|pub_series          = 
+|1stishhead          = vol. 1
+|1stishyr            = 1983
+|1stishmo            = April 
+|endishyr            = 1986 
+|endishmo            = May 
+|1stishhead1         = vol. 2
+|1stishyr1           = 2006 
+|1stishmo1           = December
+|endishyr1           = 2007  
+|endishmo1           = May 
+|1stishhead2         = vol. 3
+|1stishyr2           = 2015 
+|1stishmo2           = June
+|endishyr2           = 2016  
+|endishmo2           = May 
+|issues              = '''(vol. 1)'''<br />38<br />'''(vol. 2)'''<br />6<br />'''(vol. 3)'''<br />12
+|main_char_team      = 
+|writers             = '''(vol. 1)'''<br>[[Roger Slifer]]<br>'''(vol. 2)'''<br>[[Andersen Gabrych]]<br>'''(vol. 3)'''<br>[[Tom King (comic book writer)|Tom King]]
+|artists             = '''(vol. 2)'''<br>[[Henry Flint]]<br>'''(vol. 3)'''<br>Barnaby Bagenda
+|pencillers          = '''(vol. 1)'''<br>[[Keith Giffen]]
+|inkers              = '''(vol. 1)'''<br>[[Mike DeCarlo]]
+|letterers           = '''(vol. 1)'''<br>[[John Costanza]]<br>'''(vol. 2)'''<br>Pat Brosseau
+|colorists           = '''(vol. 1)'''<br>Petra Goldberg<br>'''(vol. 2)'''<br>Donimic Regan<br>'''(vol. 3)'''<br>Romulo Fajardo, Jr
+|editors             = 
+|creative_team_month = 
+|creative_team_year  = 
+|creators_series     = 
+|TPB                 = 
+|ISBN                = 
+|cat                 = teams
+|subcat              = DC Comics
+|altcat              = 
+|hero                = y
+|villain             = 
+|sortkey             = Omega Men
+}}
+The '''Omega Men''' are a [[fictional]] team of extraterrestrial [[superhero]]es who have appeared in various [[comic book]] series published by [[DC Comics]]. They first appeared in ''[[Green Lantern (comic book)|Green Lantern]]'' (vol. 2) #141 (June 1981), and were created by [[Marv Wolfman]] and [[Joe Staton]].<ref>{{cite book|last=Manning|first= Matthew K.|editor-last = Dougall|editor-first = Alastair|chapter= 1980s|title = DC Comics Year By Year A Visual Chronicle|publisher=[[Dorling Kindersley]] |year=2010 |isbn= 978-0-7566-6742-9 |page= 193|quote = DC's newest science-fiction franchise, a band of over one hundred aliens called the Omega Men. They gave Green Lantern a run for his money in this issue written by Marv Wolfman, with art by Joe Staton, and the Omega Men went on to gain their own ongoing series in 1983.}}</ref>
+
+==Publication history==
+After appearances in ''Green Lantern'', ''[[Action Comics]]'' and ''[[Teen Titans|The New Teen Titans]]'', the Omega Men were featured in their own comics series which ran for 38 issues from April 1983 to May 1986. During its run, writer [[Roger Slifer]] and artist [[Keith Giffen]] created the mercenary [[anti-hero]] [[Lobo (DC Comics)|Lobo]]. Later creators included writers [[Doug Moench]] and [[Todd Klein]] (who also lettered later issues in the run), artists Tod Smith, [[Shawn McManus]] and [[Alex Niño]], and inkers [[Mike DeCarlo]], [[Jim McDermott (illustrator)|Jim McDermott]] and [[Greg Theakston]].
+
+Members of the Omega Men also appeared in the 2004 eight-issue ''[[Adam Strange]]'' [[Limited series (comics)|limited series]], as well as the 2005 ''[[Infinite Crisis]]'' lead-in 6-issue limited series, ''[[Rann-Thanagar War]]'' and the 2008 follow-up ''[[Rann-Thanagar War|Rann-Thanagar Holy War]]''.<ref>[http://forum.newsarama.com/showthread.php?t=146143 Dan Didio on R/T: Holy War and Reign in Hell]{{dead link|date=January 2018 |bot=InternetArchiveBot |fix-attempted=yes}}, [[Newsarama]], 2-09-2008</ref>
+
+In 2006 they had their own six issue [[Limited series (comics)|limited series]] with Tigorr, Doc, Elu, Broot and Ryand'r - written by [[Andersen Gabrych]] and art by [[Henry Flint]].<ref>[http://forum.newsarama.com/showthread.php?t=73192 Andersen Gabrych on Omega Men]{{dead link|date=January 2018 |bot=InternetArchiveBot |fix-attempted=yes}}, [[Newsarama]], June 9, 2006</ref><ref>[http://www.comicbookresources.com/?page=article&id=7884 Alpha & Omega: Gabrych talks "The Omega Men"], [[Comic Book Resources]], August 17, 2006</ref>
+
+==Fictional team history==
+The Omega Men hail from the [[Vega|Vega system]], a [[planetary system]] with twenty-five habitable planets, which as of the early 1980s had been ruled for millennia by the Citadelians, a race of warriors cloned from the First Citadelian, the demi-godlike son of X'Hal.<ref>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Korte |first3=Steve |last4=Manning |first4=Matt |last5=Wiacek |first5=Win |last6=Wilson |first6=Sven |title=The DC Comics Encyclopedia: The Definitive Guide to the Characters of the DC Universe |date=2016 |publisher=DK Publishing |isbn=978-1-4654-5357-0 |page=222}}</ref>
+
+[[Image:Omegamen1.png|thumb|left|170px|Cover of ''Green Lantern'' (vol. 2) #141, art by [[George Pérez]].]]
+The Citadelians established a tyrannical regime based in a fortress moon known as the Citadel. The citadel then set about to conquer the younger races of Vega. Originally there were only two races in the Vegan system, the primitive Branx and the pacifistic Okaarans, but the [[Psion (comics)|Psions]] used Okaaran [[DNA]] to create the other twenty-three races of Vega such as the [[Tamaran]]eans, Euphorixians, Aelloans, Karnans, and the Changralyns.
+
+The Omega Men were assembled as a group of renegades and representatives of conquered Vegan worlds to fight Citadelian aggression. Pre-''[[Infinite Crisis]]'' the team was based on the planet Kuraq. The Omega Men are important peacekeepers in their sector because the [[Green Lantern Corps]] is not allowed into Vegan space, due to a long-standing agreement with the Psions.
+
+The Omega Men made a return appearance in the ''[[Adam Strange]]'' mini-series. Still led by Tigorr, with veteran members Broot, Doc, Elu, Artin and Harpis. They were joined by a group of new members whose names were given, but not identified in the book. They were still fighting the Spider Empire. A vision by one of their new members, a precog, results in them waiting in a Rannian space station for some time; their ultimate purpose to meet Adam Strange. It was in this storyline that the first Doc is discovered to be a Durlan assassin. Doc himself is presumed slain.
+
+In the recent ''Omega Men'' mini-series, it had been revealed that upon returning to the remains of [[Tamaran]] with Ryand'r (who was not part of the team in the Adam Strange mini-series), the Omegans are attacked by the [[Darkstars|Darkstar]] zombies of [[Lady Styx]] and all but five of them died.
+
+The Omega Men have been seen fleeing [[L.E.G.I.O.N.]] robots during a hostile takeover ousting [[Vril Dox]].<ref>''[[R.E.B.E.L.S.]]'' #1</ref>
+
+===Alternate versions===
+An alternate future has the Earth taken over by a new Nazi movement. A division of Omega Men participates in a rescue mission and all are killed.<ref>''Justice Society of America'' (vol. 3) #38-40 (June–August 2010)</ref>
+
+===Current members===
+*Tigorr
+*Broot
+*Doc (apparently from the same species as the first Doc, with green coloring instead of purple)
+*Elu
+*Ryand'r (Darkfire)
+*Felicity (Nebula): the very same Felicity that died during ''[[Invasion! (DC Comics)|Invasion!]]'', she refused to be converted into one of [[Lady Styx]]'s [[Darkstars]] and stayed in a limbo, from which she later came out changed in a new super-powered form.
+
+===Founding members===
+*Primus: Primus is a telepath and telekinetic from planet Euphorix. Dies during ''Invasion!'' storyline, shot down by guards.
+*Kalista: widow of Primus, sorceress from planet Euphorix.
+*Tigorr: Taghurrhu of planet Karna, last of his kind.
+*Broot: super strong and durable, born of a pacifist society on Changralyn. Rejected from his society for resorting to violence.
+*Nimbus: disembodied agent of reincarnation of Branx warriors, later planetary guardian of Kuraq.
+*Harpis: sister of Demonia from planet Aello, mutated by [[Psion (comics)|Psions]], killed by Lady Styx' Darkstars.
+*Demonia: sister of Harpis from planet Aello, mutated by Psions, betrayed the team, killed by Tigorr.
+*Felicity: last female of Tigorr's species, died during ''Invasion!'' storyline when shape-shifting Durlans attacked.
+*Doc: bio-organic doctor from Aello, killed by Durlan assassin in ''[[Adam Strange]]'' mini-series.
+*Shlagen: team mechanic, from planet Slagg, died in battle against Lady Styx.
+
+===Later members===
+*Elu: a shy energy being and Ryand'r's best friend
+*Ryand'r: brother of [[Starfire (Koriand'r)|Starfire]], from Old Tamaran, now goes by the name Darkfire. In the ''Teen Titans Go!'' comics, he is renamed Wildfire.
+*[[Auron (comics)|Auron]]: Lambien of Okaara, son of the goddess X'Hal, godlike energy powers.
+*[[Green Man (comics)|Green Man]]: ex-[[Green Lantern Corps|Green Lantern]] from planet Uxor, died during ''Invasion!'' storyline.
+*Artin: artificial intelligence created by the Psions who holds a recording of Primus' brain in his memory, destroyed by Lady Styx's Darkstars.
+*Rynoc: male warrior from Okaara, deceased.
+*Zirral: female from Old Tamaran.
+*Ynda: Kallista's cousin from Euphorix and love interest of Ryand'r, died during ''Invasion!''.
+*Oho-Besh: a Changralyn priest, deceased.
+*Uhlan: a [[Gordanian]] from Karna.
+*Seer
+*Cecilia 
+*Dark Flea
+*Chantale
+*Vandal
+*[[Lianna (comics)|Lianna]]: female member of the [[Guardians of the Universe]].
+
+===Deceased members===
+*Primus
+*Kalista
+*Felicity (resurrected)
+*Shlagen
+*Rynoc
+*Ynda
+*Green Man
+*Doc 
+*Seer
+*Cecilia
+*Chantale
+*Dark Flea
+*Demonia
+*Harpis
+*Vandal
+
+===Other members===
+*Typical
+*Outrage
+*Doc Rod
+*Infinite
+*Soap
+*Exkurt
+*Dark Ord
+*Zen
+*High Voltage
+*Galanta
+*Arguth
+*Tilian
+*Magnum 
+*Preside
+*Folex
+*Light Sheperd
+*Deka
+
+==The New 52==
+In [[The New 52]], a modified version of the Omega Men dubbed The Omegas was introduced. The new group consists of young aliens under the tutelage of [[Zealot (Wildstorm)|Zealot]]. Each of the aliens' parents were enslaved by [[Lobo (DC Comics)|Lobo]], and they are united in seeking revenge on the marauder.<ref>''Deathstroke'' #9</ref>
+
+===The Omegas members===
+*Primus
+*Kalista
+*Tigorr
+
+==DC You==
+In 2015, as part of the "DC You" revamp of the DC Comics, a new ''Omega Men'' series was launched. The new series, which lasted 12 issues, retroactively replaced the previous "New 52" Omega group in canon.
+
+The series, written by [[Tom King (writer)|Tom King]], rebooted the entire story of the Omega Men. In the new canon, the Citadel is now an interplanetary corporation. The Citadel, exploiting the chaos from the destruction of Krypton, has begun selling thousands of worlds rare metal that can be used to "stabilize planetary cores" to prevent a world from exploding ala Krypton. The rare, planetary core stabilizing metal, is only available in the Vega Star system. The planets of the Vega Star system as a result, have been wholesale enslaved by the alien corporation. Several worlds, whose inhabitants resisted the Citadal, were subjected to genocide: survivors of the genocide from these worlds, became the Omega Men. The group is led by Primus, recast as a wealthy pacifist who was imprisoned by the Citadel to silence him.
+
+Due to the power and influence over thousands of worlds, the Citadel has framed the Omega Men as terrorists and murderers. The reach of the Citadel even ascends to Earth: after making contact with the US Military, to broker a deal to sell them metal from the Vega Star System, the US Government secretly sends Kyle Rayner to broker a deal with the Citadel at the start of the twelve issue series. However, the head of the Citadel corporation forces Kyle to surrender his white power ring upon meeting him (for "security" reasons; in truth, due to him coveting the ring for his own selfish desires). Shortly afterwards, Kyle is kidnapped by the Omega Men, who fake his death and then force Kyle to join them on a tour of the Vega Star System so he could see the evil of the Citadel and expose their sins.
+
+Kyle eventually realizes the truth about the Citadel and with the Omega Men's help, crash an interview with the head of the Citadel, in order to air recorded footage of the Citadel destroying an entire populated planet that had been mined dry of the rare metal. The move clears the Omega Men's good name but fails to stop the Citadel's activities in the Vega Star System. A final battle between the Citadel and the Omega Men then ensues, ending in the death of the Citadel's leadership caste. Meanwhile, Kyle, who had assumed the alias of "Green Man" during the time with the Omega Men, regains his White Lantern ring and is ultimately banished back to Earth by the Omega Men when he fails to convince them to spare the leaders of the Citadel.
+
+===The Omega Men members===
+*Primus
+*Tigorr
+*Broot
+*DOC
+*Scrapps
+*[[Kyle Rayner]]
+*Kalista
+
+==References==
+{{Reflist}}
+
+==Sources==
+{{refbegin}}
+* {{gcdb series|id=2719|title=''Omega Men'' (vol. 1)}}
+* {{gcdb series|id=20179|title=''Omega Men'' (vol. 2)}}
+* {{comicbookdb|type=team|id=276|title=Omega Men}}
+{{refend}}
+
+==External links==
+* [https://web.archive.org/web/20040501094406/http://titanstower.com/source/whoswho/vegan.html Titans Tower: The Vegan Star System]
+* [http://darkmark6.tripod.com/omega_men_index.html An index of the Omega Men series]
+* [http://www.cosmicteams.com/omegamen/index.html Welcome to Vega: Omega Men at Cosmic Teams!]
+* [http://www.dcuguide.com/who.php?name=omegamen DCU Guide: Omega Men]
+* [http://www.comicbookresources.com/news/newsitem.cgi?id=8102 Preview pages for issue #1 of the current mini-series] and [http://www.comicbookresources.com/news/newsitem.cgi?id=8601 issue #2]
+
+{{Omega Men}}
+
+[[Category:Omega Men| ]]

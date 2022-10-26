@@ -1,0 +1,64 @@
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+image=[[File:Lorna-the-Jungle-Girl-6.jpg|250px]]
+|caption=''Lorna the Jungle Girl'' #6 (March 1954), cover art by [[Russ Heath]].
+|character_name= Lorna the Jungle Girl
+|real_name=
+|publisher=[[Atlas Comics (1950s)|Atlas Comics]]
+|debut=''Lorna the Jungle Queen'' #1 (July 1953)
+|creators=[[Don Rico]]<br>[[Werner Roth (comics)|Werner Roth]]
+|aliases=
+|powers=Skilled fighter
+}}
+'''Lorna the Jungle Girl''', initially called '''Lorna the Jungle Queen''', is a [[comic book]] [[jungle girl]] [[protagonist]] created by writer [[Don Rico]] and artist [[Werner Roth (comics)|Werner Roth]]. She debuted in ''Lorna the Jungle Queen'' #1 (July 1953), published by [[Marvel Comics]]' 1950s predecessor, [[Atlas Comics (1950s)|Atlas Comics]].
+
+==Publication history==
+Marvel Comics' jungle-girl protagonist Lorna debuted in ''Lorna the Jungle Queen'' #1 (July 1953), published by Marvel's 1950s predecessor, [[Atlas Comics (1950s)|Atlas Comics]] and created by writer [[Don Rico]] and artist [[Werner Roth (comics)|Werner Roth]].<ref>[http://www.comics.org/issue/10663/ ''Lorna the Jungle Queen'' #1] at the [[Grand Comics Database]]</ref><ref>[http://www.toonopedia.com/lorna.htm Lorna the Jungle Girl] at [[Don Markstein's Toonopedia]]. [https://www.webcitation.org/66XZCfzVC?url=http://www.toonopedia.com/lorna.htm Archived] from the original on March 29, 2012. Retrieved March 29, 2012.</ref> After issue #5 (Feb. 1954), ''Lorna the Jungle Queen'' was retitled ''Lorna the Jungle Girl'' and ran 21 more issues, through #26 (March 1954 - Aug. 1957).<ref>{{cite book |title=Marvel 80 for 80: Volume 1 |date=2019 |publisher=Marvel Entertainment |isbn=9781302516284 |chapter-url=https://www.google.com/books/edition/Marvel_80_For_80/lYemDwAAQBAJ?hl=en&gbpv=1&dq=%22lorna+the+jungle+girl%22&pg=PT41&printsec=frontcover |accessdate=2 April 2020 |chapter=1957}}</ref> The [[trademarked]] cover logo of both titles placed a comma after the character's name, though the [[copyright]] as indicated in the postal [[indicia (publishing)|indicia]] is without a comma in both cases.
+
+A wide variety of cover artists included [[Carl Burgos]], [[Vince Colletta]], [[Russ Heath]], [[Joe Maneely]], and [[Syd Shores]]. [[Bill Everett]] contributed five of the final six issues' covers. Rico and artist [[Jim Mooney]] initiated the backup feature "Greg Knight", starring a jungle-explorer character from the lead feature, with Shores, [[George Tuska]], and [[John Romita Sr.]] among its later artists.
+
+While the character has not appeared in new stories since her original 1950s run, selected adventures were reprinted in the 1970s Marvel comic ''[[Jungle Action]]'' #1-4, 6 (Oct. 1972 - April 1973, Sept. 1973)<ref>[http://www.comics.org/series/2053/ ''Jungle Action'' (Marvel 1972 series)] at the Grand Comics Database</ref> and in three hardcover volumes in the 2010s.
+
+==Fictional character biography==
+After her mother had died in childbirth, young Lorna was brought to the African interior by her father, who died after being mauled by a lion known locally as Numa. Lorna then was raised by her father's friend Chief M'tuba and learned aboriginal skills, honing proficiency with knife and spear. She developed an almost mystical rapport with native animals, particularly with the chimpanzee Mikki. In adulthood she became a jungle protector, befriending natives, government authorities and explorer Greg Knight.
+
+==Collected editions==
+{| class="wikitable"
+|-
+! Title
+! Material collected
+! Publication date
+! ISBN
+|-
+| ''Marvel Masterworks Atlas Era Jungle Adventure, Vol. 1''
+| ''Lorna the Jungle Queen'' #1-5, ''Lorna the Jungle Girl'' #6-9
+| January 2010
+| {{ISBNT|978-0785141914}}
+|-
+| ''Marvel Masterworks Atlas Era Jungle Adventure, Vol. 2''
+| ''Lorna the Jungle Girl'' #10-12 (also non-Lorna ''[[Jungle Action]]'' #1-3, ''[[Jungle Tales]]'' #1-4)
+| June 2011
+| {{ISBNT|978-0785150121}}
+|-
+| ''Marvel Masterworks Atlas Era Jungle Adventure, Vol. 3''
+| ''Lorna the Jungle Girl'' #13-16 (also non-Lorna ''[[Jungle Action]]'' #4-6, ''[[Jungle Tales]]'' #5-7)
+| March 2013
+| {{ISBNT|978-0785159278}}
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{cite web|url=http://www.internationalhero.co.uk/l/lorna.htm |title=Lorna the Jungle Queen |publisher=An International Catalogue of Superheroes |archiveurl=https://web.archive.org/web/20110620011423/http://internationalhero.co.uk/l/lorna.htm |archivedate=June 20, 2011 |accessdate=March 29, 2012 |url-status=live}}
+
+{{DEFAULTSORT:Lorna the Jungle Girl}}
+[[Category:Atlas Comics titles]]
+[[Category:Atlas Comics characters]]
+[[Category:1953 comics debuts]]
+[[Category:Comics characters introduced in 1953]]
+[[Category:1957 comics endings]]
+[[Category:Jungle (genre) comics]]
+[[Category:Jungle girls]]
+[[Category:American comics characters]]
+[[Category:Comics about women]]
+[[Category:Marvel Comics female characters]]

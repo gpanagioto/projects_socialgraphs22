@@ -1,0 +1,396 @@
+{{short description|Multiple superheroes from the DC universe}}
+{{About|the fictional characters|other uses|Green Lantern (disambiguation)}}
+{{Infobox comics set index
+|image      = Green Lantern Rebirth 6.jpg
+|caption    = Cover of ''[[Green Lantern: Rebirth]]'' #6 (May 2005)<br />Pictured left to right: [[Guy Gardner (character)|Guy Gardner]], [[Kyle Rayner]], [[Hal Jordan]], [[John Stewart (character)|John Stewart]], and [[Kilowog]]. Art by [[Ethan Van Sciver]].
+|alt        =
+|publisher  = [[DC Comics]]
+|debut      = ''[[All-American Comics]]'' #16
+|debutmo    = July
+|debutyr    = 1940
+|debutyr1   = 1959
+|debutyr2   = 1968
+|debutyr3   = 1971
+|debutyr4   = 1994
+|debutyr5   = 2012
+|writer1    = [[Martin Nodell]]
+|creators   = '''Alan Scott:'''<br/>[[Martin Nodell]]<br/>[[Bill Finger]]
+<br/>'''Hal Jordan:'''<br/>[[John Broome (writer)|John Broome]]<br/>[[Gil Kane]]<br/>'''John Stewart:'''<br/>[[Dennis O'Neil]]<br/>[[Neal Adams]]
+|characters = [[Alan Scott]]<br/>[[Hal Jordan]]<br/>[[Guy Gardner (character)|Guy Gardner]]<br/>[[John Stewart (character)|John Stewart]]<br/>[[Kyle Rayner]]<br/>[[Simon Baz]]<br/>[[Jessica Cruz]]<br/>
+|seealso    = [[Green Lantern Corps]]
+|cat        = 
+|subcat     = All-American Publications
+|hero       = y
+|villain    =
+|sortkey    = Green Lantern
+|addcharcat1= DC Comics superheroes}}
+'''Green Lantern''' is the name of several [[superhero]]es appearing in [[American comic book]]s published by [[DC Comics]]. They fight evil with the aid of rings that grant them a variety of extraordinary powers, all of which come from imagination, fearlessness, and the electromagnetic spectrum of emotional willpower.<ref name="dc-ency-aw2">{{Citation|last=Wallace|first=Dan|title=The DC Comics Encyclopedia|page=93|year=2008|editor-last=Dougall|editor-first=Alastair|contribution=Green Lantern's Power Ring|place=New York|publisher=[[Dorling Kindersley]]|isbn=978-0-7566-4119-1|oclc=213309017}}</ref> The characters are typically depicted as members of the [[Green Lantern Corps]], an intergalactic law enforcement agency.
+
+The first Green Lantern character, [[Alan Scott]], was created in 1940 by [[Martin Nodell]] with scripting or co-scripting of the first stories by [[Bill Finger]]<ref>{{Cite web|title=TwoMorrows Publishing - Alter Ego #5 - Mart Nodell Interview|url=https://twomorrows.com/alterego/articles/05nodell.html|access-date=2021-11-27|website=twomorrows.com}}</ref> during the [[Golden Age of Comic Books]] and usually fought common criminals in Capitol City (and later, [[Gotham City]]) with the aid of his magic ring. For the [[Silver Age of Comic Books]], [[John Broome (writer)|John Broome]] and [[Gil Kane]] reinvented the character as [[Hal Jordan]] in 1959 and shifted the origin of the character from fantasy to science fiction. Other notable Green Lanterns include [[Guy Gardner (character)|Guy Gardner]], [[John Stewart (character)|John Stewart]], [[Kyle Rayner]], [[Simon Baz]], [[Jessica Cruz]] and [[Sojourner Mullein|Jo Mullein]].
+
+The Green Lanterns are among DC Comics' longest lasting sets of characters. They have been adapted to television, video games, and motion pictures.
+
+==Publication history==
+{{see also|Green Lantern (comic book)}}
+
+=== Golden Age ===
+{{main|Alan Scott}}
+[[File:All-American Comics 16.jpg|right|thumb|600px|Green Lantern's debut in ''All-American Comics'' #16 (July 1940),<br/>art by [[Sheldon Moldoff]]]]
+
+[[Martin Nodell]] (initially using the pen-name Mart Dellon) created the first Green Lantern in collaboration with [[Bill Finger]]. He first appeared in the [[Golden Age of Comic Books]] in ''[[All-American Comics]]'' #16 (July 1940), published by [[All-American Publications]], one of three companies that would eventually merge to form [[DC Comics]].<ref>{{cite book |last1=Benton |first1=Mike |title=Superhero Comics of the Golden Age: The Illustrated History |date=1992 |publisher=Taylor Publishing Company |location=Dallas |isbn=0-87833-808-X |pages=[https://archive.org/details/superherocomicso0000bent/page/104 104]-105 |url=https://archive.org/details/superherocomicso0000bent |url-access=registration |access-date=15 January 2020}}</ref>
+
+This Green Lantern's real name was [[Alan Scott]], a railroad engineer who, after a railway crash, came into possession of a magic lantern which spoke to him and said it would bring power. From this, he crafted a [[magic ring]] which gave him a wide variety of powers. The limitations of the ring were that it had to be "charged" every 24 hours by touching it to the lantern for a time, and that it could not directly affect objects made of wood. Alan Scott fought mostly ordinary human villains, but he did have a few paranormal ones such as the immortal [[Vandal Savage]] and the zombie [[Solomon Grundy (character)|Solomon Grundy]]. Most stories took place in New York.
+
+As a popular character in the 1940s, the Green Lantern featured both in anthology books such as ''All-American Comics'' and ''[[Comic Cavalcade]]'', as well as his own book, ''Green Lantern''. He also appeared in ''[[All Star Comics]]'' as a member of the superhero team known as the [[Justice Society of America]].
+
+After [[World War II]] the popularity of [[superhero]]es in general declined. The ''Green Lantern'' [[comic book]] was cancelled with issue #38 (May–June 1949), and ''[[All Star Comics]]'' #57 (1951) was the character's last Golden Age appearance. When superheroes came back in fashion in later decades, the character Alan Scott was revived, but he was forever marginalized by the new [[Hal Jordan]] character who had been created to supplant him (see below). Initially, he made guest appearances in other superheroes' books, but eventually got regular roles in books featuring the Justice Society. He never got another solo series, although he did star in individual stories and in the single-issue 2002 comic book ''Brightest Day, Blackest Night.''<ref>{{Cite book|last1=Seagle|first1=Steven T|title=Green Lantern: Brightest Day, Blackest Night|last2=Snyder|first2=John K III|publisher=DC Comics|year=2002}}</ref> Between 1995 and 2003, DC Comics changed Alan Scott's superhero codename to "Sentinel" in order to distinguish him from the newer and more popular science fictional Green Lanterns.
+
+In 2011, the Alan Scott character was revamped. His costume was redesigned and the source of his powers was changed to that of the mystical power of nature (referred to in the stories as "the Green").
+
+===Silver Age===
+In 1959, [[Julius Schwartz]] reinvented the Green Lantern character as a science fiction hero named [[Hal Jordan]]. Hal Jordan's powers were more or less the same as Alan Scott's, but otherwise this character was completely different than the Green Lantern character of the 1940s. He had a new name, a redesigned costume, and a rewritten origin story. Hal Jordan received his ring from a dying alien and was commissioned as an officer of the [[Green Lantern Corps]], an interstellar law enforcement agency overseen by the [[Guardians of the Universe]].<ref>{{cite web|last=Albert|first=Aaron|url=http://comicbooks.about.com/od/greenlantern/p/glhaljordan.htm|title=Green Lantern - Hal Jordan Profile|access-date=17 January 2013|url-status=dead|archive-url=https://web.archive.org/web/20130117112607/http://comicbooks.about.com/od/greenlantern/p/glhaljordan.htm|archive-date=17 January 2013}}</ref>
+
+[[Image:Showcase 22.png|200px|thumb|right|Cover to ''Showcase'' #22 (October 1959), the first appearance of [[Hal Jordan]]]]
+
+Hal Jordan was introduced in ''[[Showcase (comic book)|Showcase]]'' #22 (September–October 1959). [[Gil Kane]] and [[Sid Greene]] were the art team most notable on the title in its early years, along with writer [[John Broome (writer)|John Broome]]. His initial physical appearance, according to Kane, was patterned after his one-time neighbor, actor [[Paul Newman]].<ref name="stow">{{cite web |last1=Stowe |first1=Dusty |title=15 Things You Didn't Know About Green Lantern |url=https://screenrant.com/green-lantern-trivia-facts/ |website=Screenrant.com |date=3 August 2017 |publisher=Screen Rant, Inc. |access-date=9 November 2019}}</ref>
+
+===Later developments===
+With issue #76 (April 1970), the series made a radical stylistic departure. Editor Schwartz, in one of the company's earliest efforts to provide more than fantasy, worked with the writer-artist team of [[Dennis O'Neil|Denny O'Neil]] and [[Neal Adams]] to spark new interest in the comic book series and address a perceived need for social relevance. They added the character [[Green Arrow]] (with the cover, but not the official name, retitled ''Green Lantern Co-Starring Green Arrow'') and had the pair travel through America encountering "real world" issues, to which they reacted in different ways — Green Lantern as fundamentally a lawman, Green Arrow as a [[Liberalism|liberal]] [[iconoclasm|iconoclast]]. Additionally during this run, the groundbreaking "[[Snowbirds Don't Fly]]" story was published (issues #85-86) in which Green Arrow's teen sidekick [[Speedy (DC Comics)|Speedy]] (the later grown-up hero [[Roy Harper (character)|Red Arrow]]) developed a [[heroin]] [[Substance use disorder|addiction]] that he was forcibly made to quit. The stories were critically acclaimed, with publications such as ''[[The New York Times]]'', ''[[The Wall Street Journal]]'', and ''[[Newsweek]]'' citing it as an example of how comic books were "growing up".<ref>Wright, Bradford W. ''Comic Book Nation''. Johns Hopkins, 2001. p. 227</ref> However, the O'Neil/Adams run was not a commercial success, and the series was cancelled after only 14 issues, though an additional unpublished three installments were finally published as back-ups in ''[[The Flash (comic book)|The Flash]]'' #217-219.<ref name="back45">{{cite journal|last= Wells|first= John|date= December 2010|title= Green Lantern/Green Arrow: And Through Them Change an Industry|journal= [[Back Issue!]]|issue= #45|pages= 39–54|publisher= [[TwoMorrows Publishing]]}}</ref>
+
+The title saw a number of revivals and cancellations. It changed to ''Green Lantern Corps'' at one point as the popularity rose and waned. During a time there were two regular titles, each with a Green Lantern, and a third member in the Justice League. A new character, [[Kyle Rayner]], was created to become the feature while Hal Jordan first became the villain [[Parallax (comics)|Parallax]], then died and came back as the [[Spectre (DC Comics character)|Spectre]].
+
+In the wake of ''[[DC: The New Frontier|The New Frontier]]'', writer Geoff Johns returned Hal Jordan as Green Lantern in ''[[Green Lantern: Rebirth]]'' (2004–05). Johns began to lay the groundwork for "[[Blackest Night]]" (released July 13, 2010)<ref>{{cite book|title=Green Lantern: Blackest Night (9781401227869): Geoff Johns, Doug Mahnke: Books |isbn = 978-1401227869|last1 = Johns|first1 = Geoff|year = 2010}}</ref>), viewing it as the third part of the trilogy started by ''Rebirth''. Expanding on the Green Lantern mythology in the second part, "[[Sinestro Corps War]]" (2007), Johns, with artist [[Ethan van Sciver]], found wide critical acclaim and commercial success with the series, which promised the introduction of a spectrum of colored "lanterns".
+
+===Awards===
+The series and its creators have received several awards over the years, including the 1961 [[Alley Award]] for Best Adventure Hero/Heroine with Own Book<ref>{{cite web|url=http://www.hahnlibrary.net/comics/awards/alley61.php|title=1961 Alley Awards|access-date=22 November 2011|year=2006|author=Joel Hahn|work=Comic Book Awards Almanac}}</ref> and the [[Academy of Comic Book Arts]] [[Shazam Award]] for Best Continuing Feature in 1970, for Best Individual Story ("No Evil Shall Escape My Sight", ''Green Lantern'' (vol. 2) #76 by [[Dennis O'Neil]] and [[Neal Adams]]),<ref name="Shazam1970">{{cite web|url=http://www.hahnlibrary.net/comics/awards/shazam70.php|title=1970 Academy of Comic Book Arts Awards
+|author=Joel Hahn|work=Comic Book Awards Almanac|year=2006|access-date=22 November 2011}}</ref> and in 1971 for Best Individual Story ("Snowbirds Don't Fly", ''Green Lantern'' (vol. 2) #85 by O'Neil and Adams).<ref>{{cite web|url=http://www.hahnlibrary.net/comics/awards/shazam71.php|title=1971 Academy of Comic Book Arts Awards
+|author=Joel Hahn|work=Comic Book Awards Almanac|year=2006|access-date=22 November 2011}}</ref>
+
+Writer O'Neil received the Shazam Award for Best Writer (Dramatic Division) in 1970 for his work on ''Green Lantern'', ''[[Batman]]'', ''[[Superman]]'' and other titles, while artist Adams received the Shazam for Best Artist (Dramatic Division) in 1970 for his work on ''Green Lantern'' and ''Batman''.<ref name="Shazam1970"/> Inker [[Dick Giordano]] received the Shazam Award for Best Inker (Dramatic Division) for his work on ''Green Lantern'' and other titles.<ref name="Shazam1970"/>
+
+In [[Judd Winick]]'s first regular writing assignment on Green Lantern, he wrote a storyline in which an assistant of Kyle Rayner's emerged as a gay character in ''Green Lantern'' (vol. 3) #137 (June 2001). In ''Green Lantern'' (vol. 3) #154 (November 2001) the story entitled "Hate Crime" gained media recognition when Terry was brutally beaten in a homophobic attack. Winick was interviewed on Phil Donahue's show on MSNBC for that storyline on August 15, 2002<ref>{{Cite web|url=https://www.antiquetrader.com/tag/comics-buyers-guide|archive-url=https://web.archive.org/web/20100530125410/http://www.cbgxtra.com/Default.aspx?tabid=1191|url-status=dead|title=Comics Buyer's Guide|archive-date=May 30, 2010|website=Antique Trader|access-date=May 30, 2020}}</ref> and received two [[GLAAD Media Award]]s for his Green Lantern work.<ref>{{cite web|url=http://www.comicbookresources.com/?page=article&id=2238|title=Green Lantern Honored by GLAAD|author=Jonah Weiland|date=13 June 2003|website=[[Comic Book Resources]]|access-date=22 November 2011}}</ref>
+
+In May 2011, Green Lantern placed 7th on IGN's Top 100 Comic Book Heroes of All Time.<ref>{{cite web|url=http://www.ign.com/top/comic-book-heroes/7|title=Hal Jordan (Green Lantern) - #7 Top Comic Book Heroes|website=IGN|date=May 2011|access-date=22 November 2011}}</ref>
+
+=== Legal disputes ===
+DC Comics has been involved in two disputes concerning Green Lantern trade marks before the United States Patent and Trade Mark Office, the first in 2012 and the second in 2016.<ref>{{Cite web|last=Stewart|first=DG|date=August 26, 2020|title=Happy 80th birthday, Green Lantern|url=https://www.worldcomicbookreview.com/2020/08/26/happy-80th-birthday-green-lantern/|access-date=January 19, 2021|website=World Comic Book Review}}</ref>
+
+==Fictional character biographies==
+
+===Golden Age Green Lantern===
+
+==== Alan Scott ====
+{{Main|Alan Scott}}
+Alan Scott's Green Lantern history originally began thousands of years ago when a mystical "green flame" meteor fell to Earth in ancient [[China]]. The voice of the flame prophesied that it would act three times: once to bring death (a lamp-maker named Luke Fairclough crafted the green metal of the meteor into a lamp; in fear and as punishment for what they thought to be [[sacrilege]], the local villagers killed him, only to be destroyed by a sudden burst of the green flame), once to bring life (in modern times, the lamp came into the hands of a patient in a mental institution who fashioned the lamp into a modern lantern; the green flame restored him to sanity and gave him a new life), and once to bring power. By 1940, the lantern passed into the possession of Alan Scott, a young engineer. Following a railroad-bridge collapse of which he was the only survivor, the flame instructed Scott how to fashion a ring from its metal to give him fantastic powers as the superhero Green Lantern. He adopted a colorful costume and became a crimefighter. Alan was a founding member of the [[Justice Society of America]].
+
+After the '''[[Crisis on Infinite Earths]]'' (although the original origin story was still in continuity), a later ''Tales of the Green Lantern Corps'' story was published that brought Scott even closer to the Corps' ranks, when it was revealed that Alan Scott was predated as Earth's Green Lantern by a Green Lantern named Yalan Gur, a resident of China. Not only had the Corps' now-familiar green, black and white uniform motif not yet been adopted, but Yalan Gur altered the basic red uniform to more closely resemble the style of clothing worn by his countrymen. Power ultimately corrupted this early Green Lantern, as he attempted to rule over mankind, which forced the Guardians to cause his ring to manifest a weakness to wood, the material from which most Earth weapons of the time were fashioned. This allowed the Chinese peasants to ultimately defeat their corrupted "champion". His ring and lantern were burned and it was during this process that the "intelligence" inhabiting the ring and the lantern and linking them to the Guardians was damaged. Over time, when it had occasion to manifest itself, this "intelligence" became known as the mystical 'Starheart' of fable.
+
+Centuries later, it was explained, when Scott found the mystical lantern, it had no memory of its true origins, save a vague recollection of the uniform of its last master. This was the origin of Scott's distinctive costume. Due to its damaged link to them, the Guardians presumed the ring and lantern to be lost in whatever cataclysm overcame their last owner of record, thus Scott was never noticed by the Guardians and went on to carve a history of his own apart from that of the Corps, sporting a ring with an artificially induced weakness against anything made of wood. Honoring this separate history, the Guardians never moved to force Scott to relinquish the ring, formally join the Corps, or adopt its colors. Some sort of link between Scott and the Corps, however, was hinted at in a Silver Age crossover story which depicts Scott and Hal Jordan charging their rings at the same Power Battery while both reciting the "[[Brightest Day]]" oath.  During the ''[[Rann-Thanagar War]]'', it was revealed that Scott is an honorary member of the Corps.
+
+On June 1, 2012, DC Comics announced that it would be introducing an alternate version of Alan Scott as a gay man in the title ''Earth 2''. The ''[[The New 52|New 52]]'' issue was released on June 6, 2012.<ref name="Reuters.com">{{cite web|url=https://www.reuters.com/article/us-gay-greenlatern-idUSBRE85017H20120601|title=Gay Green Lantern appears in alternate universe|author=Daniel Trotta|date=June 1, 2012|work=Reuters.com}}</ref> In its story, Alan Scott and his partner Sam were both passengers aboard a train, but the latter was killed when their train was wrecked in the railroad-bridge collapse that Scott alone survived; a magical green flame found Alan amongst the rubble. Telling him he is to become an avatar of the flame's great power and that he must channel this power through an item of importance to his heart, Alan chooses the engagement ring he was to give his boyfriend, becoming Green Lantern. This alternate version is not a member of the Green Lantern Corps, which does not exist in Earth 2, but rather adopts the name Green Lantern for himself, for his mystical powers derive  from the [[Parliament of Trees|Green]] (the elemental force which connects all plant life on Earth).
+
+===Silver Age Green Lantern===
+
+==== Hal Jordan ====
+{{Main|Hal Jordan}}
+
+The character of Harold "Hal" Jordan was a second-generation [[test pilot]], having followed in the footsteps of his father. He was given the power ring and battery (lantern) by a dying [[Extraterrestrial life|alien]] named [[Abin Sur]], whose [[Starship|spaceship]] crashed on [[Earth]]. Abin Sur used his ring to seek out an individual who was "utterly honest and born without fear" to take his place as a member of the corps. At one point, when Hal Jordan was incapacitated, it was revealed that there were two individuals matching the specified criteria on Earth, the other being [[Guy Gardner (character)|Guy Gardner]], and the ring chose Jordan solely because of his proximity to Abin Sur. Gardner then became listed as Hal's "backup", even though he had a strong friendship with Barry Allen (the Flash). Gardner would fill in if Jordan was unavailable or otherwise incapacitated. Later, when Gardner was put into a coma, it turned out that by then there was a third human suitable for the task, [[John Stewart (character)|John Stewart]], who was designated as the Earth Sector's "backup" Lantern. Jordan, as Green Lantern, became a founding member of the Justice League of America and as of the mid-2000's is, along with John Stewart, one of the two active-duty Lanterns in Earth's sector of space.
+
+Jordan also automatically became a member of the Green Lantern Corps, a galactic "police" force which bears some similarities to the "[[Lensman series|Lensmen]]" from the science fiction series written by [[E. E. Smith]], although both creators Julius Schwartz and John Broome denied ever reading Smith's stories.<ref name="Lensmen">{{Cite news | last=Thomas | first=Roy | title=The Lensman Connection | periodical=Alter Ego | volume=3 | issue=#10 | year=2001 | page=24 }}</ref> Nevertheless, the early 1980s miniseries ''Green Lantern Corps'' honors the similarity with two characters in the corps: [[List of Green Lanterns#Eddore|Eddore of Tront]] and [[Arisia Rrab|Arisia]].
+
+Following the rebirth of Superman and the destruction of Green Lantern's hometown of Coast City in the early 1990s, Hal Jordan seemingly went insane and destroyed the Green Lantern Corps and the Central Power Battery. Now calling himself [[Parallax (comics)|Parallax]], Hal Jordan would devastate the DC Universe on and off for the next several years.  However, after Earth's sun was threatened by a Sun-Eater, Jordan sacrificed his life, expending the last of his vast power to reignite the dying star.  Jordan subsequently returned from beyond the grave as the [[Spectre (DC Comics character)|Spectre]], the divine Spirit of God's Vengeance, whom Jordan attempted to transform into a Spirit of Redemption, which ended in failure.
+
+In ''[[Green Lantern: Rebirth]]'', it is revealed that Jordan was under the influence of a creature known as [[Parallax (comics)|Parallax]] when he turned renegade. Parallax was a creature of pure fear that had been imprisoned in the Central Power Battery by the Guardians of the Universe in the distant past. Imprisonment had rendered the creature dormant and it was eventually forgotten, becoming known merely as the "yellow impurity" in the power rings. [[Sinestro]] was able to wake Parallax and encourage it to seek out Hal Jordan as a host. Although Parallax had been trying to corrupt Jordan (via his ring) for some time, it was not until after the destruction of Coast City that it was able to succeed. It took advantage of Jordan's weakened emotional state to lure him to Oa and cause him to attack anyone who stood in his way. After killing several Green Lanterns, Jordan finally entered the Central Power Battery and absorbed all the power, unwittingly freeing the Parallax entity and allowed it to graft onto his soul.
+
+The Spectre bonded with Jordan in the hopes of freeing the former Green Lantern's soul from Parallax's taint, but was not strong enough to do so. In ''Green Lantern: Rebirth'', Parallax began to assert control of the Parallax-Spectre-Jordan composite. Thanks to a supreme effort of will, Jordan was able to free himself from Parallax, rejoin his soul to his body and reclaim his power ring. The newly revived (and rejuvenated) Jordan awoke just in time to save [[Kyle Rayner]] and the [[Green Arrow]] from Sinestro. After the Korugarian's defeat, Jordan was able to successfully lead his fellow Green Lanterns in battle against Parallax and with help from Guardians Sayd and Ganthet, imprisoned it within the personal power batteries of Earth's Lanterns, rendering the Green Lantern's rings free of the yellow impurity, provided they had the power of will to do so.
+Hal Jordan is once again a member of both the Justice League and the Green Lantern Corps and, along with John Stewart, is one of the two Corps members assigned to Sector 2814, personally defeating Sinestro in the "[[Sinestro Corps War]]". Jordan is designated as Green Lantern 2814.1.
+
+Post-"[[Sinestro Corps War]]", [[DC Comics]] revisited the origin of [[Hal Jordan]] as a precursor to the "[[Blackest Night]]" storyline, the next chapter in the [[Geoff Johns]] era on ''Green Lantern''.
+Hal Jordan is the Green Lantern portrayed by [[Ryan Reynolds]] in the 2011 ''[[Green Lantern (film)|Green Lantern]]'' film.
+
+===Bronze Age Green Lanterns===
+<!-- Should this pair be listed in perceived importance or in publication order? -->
+
+====Guy Gardner====
+{{Main|Guy Gardner (character)}}
+
+In the late 1960s, Guy Gardner appeared as the second choice to replace Abin Sur as Green Lantern of Sector 2814. Gardner was a candidate to receive Abin Sur's ring, but Jordan was closer. This placed him as the "backup" Green Lantern for Jordan.  But early in his career as a Green Lantern, tragedy struck Gardner as a power battery blew up in his face, putting him in a coma for years. During the ''[[Crisis on Infinite Earths]]'', the Guardians split into factions, one of which appointed a newly revived Gardner as their champion. As a result of his years in a coma, Guy was emotionally unstable, although he still mostly managed to fight valiantly. He has gone through many changes, including wielding [[Sinestro]]'s yellow Guardian power ring, gaining and losing [[Vuldarian]] powers, and readmission to the Corps during ''[[Green Lantern: Rebirth]]''. He later became part of the Green Lantern Honor Guard, and oversees the training of new Green Lanterns. Gardner is designated as Green Lantern 2814.2 within the Corps.
+
+Guy Gardner helped lead the defense of Oa during the events of "[[Blackest Night]]".
+
+Following his outstanding acts of valour, the Guardians appoint Guy to a unique role and highest rank in the Green Lantern Corps - Sentinel, answering directly to the Guardians themselves.
+
+====John Stewart====
+{{Main|John Stewart (character)}}
+
+<!-- "Bronze Age" notation -->
+In the early 1970s, John Stewart, an architect from [[Detroit]], was selected by the Guardians to replace a comatose [[Guy Gardner (character)|Guy Gardner]] as the backup Green Lantern for Jordan. When Jordan resigned from the Corps for an extended period of time, Stewart served as the regular Lantern, coming into his own as he battled numerous Green Lantern villains and played a key role during the ''[[Crisis on Infinite Earths]]''. During that time, the Guardians of the Universe assigned [[Katma Tui]] to train Stewart, and the two developed romantic feelings for each other. They married, but Katma was soon murdered by longtime Green Lantern villain Star Sapphire. Stewart was crushed by this, and his life began to unravel. He reached his lowest point when he failed to save the planet Xanshi from destruction during the ''[[Cosmic Odyssey (comics)|Cosmic Odyssey]]''.
+
+John Stewart redeemed himself during the ''[[Green Lantern: Mosaic|Mosaic]]'' crisis, when an insane Guardian abducted cities from all over the universe and placed them together on Oa. When the Guardian was defeated, the cities remained, as the other Guardians claimed to not have enough energy in the Central Power Battery to send them home. While they gathered the resources, John Stewart was assigned to oversee the jammed together communities. Using his intellect and unconventional thinking, he formed the warring communities into a cohesive society. He was aided by Rose Hardin, a farmer from West Virginia who was trapped on Oa, due to her town being abducted. Stewart once again found love with Rose, and the two of them came to feel more comfortable on their new world than they did back on Earth.
+
+Stewart eventually deduced that the Guardians had the energy to send the cities home whenever they wanted, and that they let them remain on Oa as an experiment in cosmic integration, and also as a test for John Stewart. Stewart passed the test, and discovered that he was a figure in Oan prophecy. That was why the Guardians directly chose him instead of allowing a power ring to do it, as is standard procedure. John Stewart rose to a new level of awareness and became the first mortal Guardian of the Universe. He was also rewarded with the resurrection of Katma Tui, which caused him to break up with Rose.
+
+Stewart's new powers and resurrected wife were taken from him when Hal Jordan went mad and became Parallax, absorbing the power from the Central Power Battery. During this time, the Green Lantern Corps was disbanded, and Stewart went on to lead the [[Darkstars]], a new organization of universal peacekeepers led by the Controllers, offshoots of the Guardians of the Universe. During a battle, Stewart was badly injured and left paralyzed from the waist down. Hal Jordan eventually restored his ability to walk before sacrificing himself to save Earth's Sun. Soon after, John Stewart found himself hunted by a serial killer from Xanshi called [[Fatality (character)|Fatality]]. She sought out any remnants of the Green Lantern Corps in order to kill them in the name of avenging her doomed planet. Stewart fended off Fatality with residual energy he blasted from his body, which was in him due to Hal Jordan healing his crippling condition; however, this left him unable to walk again.
+
+Stewart later visited Fatality while she was in custody and she revealed to him that his back was fine and he had the ability to walk if he wanted to. Stewart had imposed a psychological block upon himself, due to feeling guilty over his sister's death. Stewart overcame this condition and was given a power ring by Kyle Rayner. Rayner departed Earth and Stewart became the Green Lantern of Earth once again and also a member of the Justice League of America.
+
+When the Green Lantern Corps reformed, Stewart began serving with Jordan as one of his sector's two designated regular-duty Lanterns, designated as Green Lantern 2814.3. Since then, he has played key roles in all major Green Lantern events, such as the "[[Sinestro Corps War]]" and "[[Blackest Night]]".
+
+In the ''[[The New 52|New 52]]'' continuity, John Stewart was a U.S. Marine as well as being an architect and the son of a social activist. He started a romantic relationship with his longtime enemy, Fatality, who, by that point, had become a Star Sapphire and apparently forgave him for failing to save her world. In the events leading up to the "Uprising", Fatality was captured by shape-shifting Durlans, and a Durlan operative replicated her and took her place. John Stewart was at first hesitant about the relationship, but he eventually came to love Fatality, but it turned out that it had been the impostor at that point. In the final battle of the "Uprising", the impostor revealed itself as Verrat Din, an eons-old Durlan, and destroyed Fatality's Star Sapphire ring, having no use for it after gaining the power of a Daxamite. Though Stewart defeated the powerful threat, he was shaken by having been misled for so long, and having been intimate with a Durlan shapeshifter.
+
+Stewart immediately set out to find the real Fatality and when he did, he was astonished to discover that she had reverted to hating him. Fatality revealed that she was forcibly inducted into the Star Sapphires and brainwashed into being one of them. When her ring was destroyed, the spell was broken. Every moment she was with Stewart, she was trapped within herself. She revealed that she never loved John Stewart and departed, leaving Stewart emotionally crushed.
+
+John Stewart is notable for being the Green Lantern showcased on the ''[[Justice League (TV series)|Justice League]]'' and ''[[Justice League Unlimited]]'' TV cartoon series, as well as being the primary Green Lantern of the [[DC Animated Universe]].
+
+===Modern Age Green Lanterns===
+
+==== Kyle Rayner ====
+{{Main|Kyle Rayner}}
+
+Kyle Rayner was a struggling freelance artist when he was approached by the last Guardian of the Universe, [[Ganthet]], to become a new Green Lantern with the last power ring. Ganthet's reasons for choosing Rayner remained a secret for quite some time. Despite not being from the same cloth of bravery and fearlessness as Hal Jordan—or perhaps because of that—Rayner proved to be popular with readers and his fellow characters. Having continually proven himself on his own and with the JLA, he became known amongst the Oans as ''The Torch Bearer''. He briefly operated as [[Ion (DC Comics)|Ion]] after using the power of the entire Green Lantern Corps. He was responsible for the rebirth of the Guardians and the re-ignition of the Central Power Battery, essentially restoring all that Jordan had destroyed as Parallax.
+
+Kyle Rayner was chosen to wield the last ring because he knew fear, and Parallax had been released from the Central Power Battery. Ganthet knew this and chose Kyle because his experiences dealing with fear enabled him to resist Parallax. Because Parallax is a manifestation of fear, and yellow, none of the other Green Lanterns, including Hal, could harm Parallax and, therefore, came under his control. Kyle taught them to feel and overcome fear so they could defeat Parallax and incarcerate him in the Central Power Battery once again.
+
+Kyle became Ion, who is later revealed to be the manifestation of willpower in the same way Parallax is fear. During the [[Sinestro Corps War]] between the Green Lantern Corps and the Sinestro Corps, Ion was imprisoned while Parallax possesses Kyle. In ''Green Lantern'' (vol. 4) #24, Parallax consumes Hal Jordan.  Hal Jordan enters into Kyle's prison, and with his help, Kyle finally escapes Parallax.
+
+Afterward, [[Ganthet]] and [[Sayd]] trap Parallax in the Lanterns of the four Green Lanterns of Earth. Ganthet asks Kyle to give up his right to be Ion and become a Green Lantern again. Kyle accepts, and Ganthet gives Kyle a power ring. Kyle is outfitted with a new costume including a mask that looks like the one from his first uniform. Kyle is now a member of the Green Lantern Corps Honor Guard, and has been partnered with Guy Gardner.
+
+Kyle now shows up mostly as part of the ensemble cast of ''[[Green Lantern Corps]]''. Corps rookie [[Sodam Yat]] took over the mantle of Ion. Sodam has made an appearance in the [[Legion of Super Heroes]] ''[[Final Crisis]]'' tie-in ''[[Legion of Three Worlds]]'' as the last surviving Green Lantern/Guardian of the Universe.
+
+Kyle is designated as Green Lantern 2814.4 within the Corps.{{Citation needed|date=June 2010}}
+
+Kyle Rayner died in ''Green Lantern Corps'' (vol. 2) #42 (Jan. 2010) after sacrificing himself to save Oa from an attack by the Black Lantern Corps. The following issue, Kyle is brought back to life by the power of a Star Sapphire who connects Soranik Natu's heart to his heart.
+
+====Simon Baz====
+{{Main|Simon Baz}}
+Simon Baz is a [[Lebanese American]] [[Muslim]] from the [[Detroit]] suburb of [[Dearborn, Michigan]]. He first appeared in ''[[The New 52]]! FCBD'' #1 before making his first full appearance in ''Green Lantern'' (vol. 5) #0 during the "Rise of the Third Army" storyline written by [[Geoff Johns]]. He was caught by the police street racing in a stolen car with an armed bomb in the back of the van. While being questioned by authorities, Sinestro's Green Lantern ring chose Simon as its next ring bearer, recruiting him into the Green Lantern Corps. The squirrel-like Green Lantern B'dg follows, becoming Baz's mentor and friend. The [[Justice League]] eventually tracks Baz down and questions him as to how he came into the possession of a Green Lantern ring. Batman tries to disarm him by removing Simon's ring, but self-defense mechanisms of the ring prevent this.<ref>{{cite comic|title=Green Lantern (vol. 5) #14|date=Jan. 2013}}</ref>
+Following the events of "Wrath of the First Lantern",<ref>{{cite comic|title=Green Lantern (vol. 5) #17|date=Jan. 2013}}</ref><ref>{{cite comic|title=Green Lantern (vol. 5) #18|date=Mar. 2013}}</ref><ref>{{cite comic|title=Green Lantern (vol. 5) #19|date=Apr. 2013}}</ref><ref name="Green Lantern (vol. 5) #20">{{cite comic|title=Green Lantern v5 #20|date=May. 2013}}</ref> Simon Baz was offered the opportunity to join Amanda Waller and Steve Trevor's "Justice League of America" under the pretense that his criminal charges would be dropped and his innocence publicly declared after FBI Agent Franklin Fed vouched for him.<ref>{{cite comic|title=Justice league of America (vol. 3) #1|date=Feb. 2013}}</ref> During the events of the "[[Trinity War]]" storyline, after Cyborg's (Victor) body was mangled by Crime Syndicate member "the Grid", Baz's ring was the only thing protecting Victor from certain death.<ref>{{cite comic|title=Justice League (vol. 3) #27|date=Jan. 2014}}</ref> During the battle against Relic, when Lantern Guy Gardner and the Red Lantern Corps become the protectors of Space Sector 2814, Simon was appointed a Green Lantern Ambassador of Earth by Hal Jordan. Additionally, per Hal's request, Simon became the protector of Hal Jordan's family.{{citation needed|date=March 2016}} In ''Green Lantern'' (vol. 5) #20, after the fierce battle against the First Lantern, it was revealed that Simon Baz will go on to train the first female Green Lantern of Earth, Jessica Cruz.<ref name="Green Lantern (vol. 5) #20" />
+
+====Jessica Cruz====
+{{Main|Power Ring (DC Comics)|Jessica Cruz}}
+First mentioned in ''Green Lantern'' (vol. 5) #20 as the first female Green Lantern of Earth, Jessica Cruz is a young Latin American woman who was forced to become the unwilling host to the evil Ring of Volthoom after "[[Power Ring (DC Comics)|Power Ring]]" dies in his alternate Earth universe. Though she is not technically "Power Ring", as she is not a member of the [[Crime Syndicate]] and has no association with the organization, for namesake purposes she is dubbed "Power Ring" while the ring uses her as a host. She is helped by the Justice League and Simon Baz, who help her understand her cursed powers. In the [[Darkseid War]], she becomes trapped inside the Ring of Volthoom, as Volthoom himself takes over Jessica's body. She then battles the previous wearers of the ring with the help of Cyborg, and forces her body in front of the Black Racer (who, at the time, was controlling the Flash) and kills Volthoom. After the battle, whilst the League mourns her motionless body, a Green Lantern ring appears and Jessica is made the sixth Green Lantern of Earth, to everyone's surprise.
+
+In ''Green Lantern: Rebirth'' #1, she meets up with Simon Baz to battle a Dave. This turns out to be an exercise controlled by [[Hal Jordan]], as he needs them to protect Earth whilst he goes on a mission to find the rest of the Corps. He then fuses both their Lanterns into one, which can only be used when they are together. Hal also gives them membership into the Justice League to help with their training.
+
+====Sojourner "Jo" Mullein====
+{{Main|Sojourner Mullein}}
+Jo Mullein is introduced originally under DC's Young Animal Print of original comic books as a rookie Green Lantern who is a young black woman, who sets about investigating the first murder committed in City Enduring in the last 500 years. She first headlined as Green Lantern in the comic book ''Far Sector'', published by DC Young Animal. She later begins appearing in mainstream Green Lantern comics following [[Infinite Frontier]]. {{Citation needed|date=June 2021}}
+{{Clear}}
+
+===Others who have headlined as Green Lantern in a Green Lantern comic book or related title===
+{{unreferenced section|date=April 2022}}
+
+==== Jade ====
+{{Main|Jade (DC Comics)}}
+The daughter of Alan Scott, '''Jennifer-Lynn Hayden''' would discover she shared her father's mystical connection to the [[Alan Scott#Return|Starheart]], which gave her the abilities of a Green Lantern. Choosing to follow in her father's footsteps, she became the superheroine Jade. She would later fight a manifestation of the Starheart and lose those abilities. When Jade was fighting an Okaaran monster, she was saved by an Orange Lantern named Cade and fell in love with him.
+
+After Jade is stripped of her powers, Kyle Rayner gives her a copy of Hal Jordan's power ring. When Rayner left Earth to restart the Green Lantern Corps, Jade donned the classic Green Lantern uniform and served as the planet's Green Lantern until losing the ring during a battle with the villain [[Fatality (character)|Fatality]]. Later, when the ring was returned to her, she changed her Green Lantern uniform to a modified version of Rayner's. Jade continued to function as a Green Lantern until Rayner, as Ion, used his power to restore her connection to the Starheart. During ''[[Infinite Crisis]]'', she died while trying to stop [[Alexander Luthor, Jr.]] from destroying the universe to create a new Multiverse. Upon her death, Jade returned her Starheart power to Rayner. In "[[Blackest Night]]", her remains have been reanimated as one of the [[Black Lantern Corps]] after receiving a black power ring. She was resurrected by the [[Life Entity]] along with 11 other Black Lantern Corps members.
+
+Following ''[[The New 52]]'' and ''[[DC Rebirth]]'', she has been removed from continuity. This creates a major hole in Kyle Rayner's backstory as well, given how long they were together. She was later returned to continuity along with her father Alan Scott and the rest of the JSA during ''[[Doomsday Clock (comics)|Doomsday Clock]]''.
+{{Clear}}
+
+====Thaal Sinestro====
+{{Main|Sinestro}}
+Thaal Sinestro was born on the planet Korugar and became Green Lantern of Space Sector 1417. He was a friend of [[Abin Sur]] and a mentor to Hal Jordan. His desire for order was an asset in the Corps and initially led him to be considered one of the greatest Green Lanterns. As the years passed, he became more and more fixated upon not simply protecting his sector, but on preserving order in the society of his home planet no matter what the cost. Eventually, he concluded that the best way to accomplish this was to conquer Korugar and rule the planet as a dictator. Exposed by Hal Jordan and punished, he later wielded a yellow ring of fear from [[Qward]]. Later, in league with Parallax, he would establish the [[Sinestro Corps]], which began the War of Light. Following "[[Blackest Night]]" and "[[War of the Green Lanterns]]", Sinestro would once again receive a Green Lantern ring and temporarily headline the monthly ''Green Lantern'' comic book following ''[[The New 52]]''. In Scott Snyder's film ''Justice League'', it was revealed that Sinestro was searching for the entity Umbrax, which is one of the seven hidden forces of the universe. Umbrax represents the unseen emotions of the Ultraviolet Lantern Corps. Sinestro finally discovers this force and creates an army of Ultraviolet Lanterns, including John Stewart (who is later freed). 
+ 
+{{Clear}}
+
+====Jediah Caul====
+Premiering in ''Green Lantern: New Guardians'' Annual #1, Caul is a deep undercover Green Lantern operative that works in the Tenebrian Dominion. He unwillingly helps Carol Ferris and the New Guardians attempt to petition [[Lady Styx]] to send aid against the Third Army. For betraying them, the New Guardians leave Caul behind and he is forced to become part of a reality program called ''The Hunted'', stripped of his powers and with his discharged power ring embedded into his chest. Caul stars as part of an ensemble cast of spacebound DC characters, including the [[Blue Beetle]] and a new [[Captain Carrot|Captain K'rot]], in the ''Hunted'' main feature of ''[[Threshold (DC Comics)|Threshold]]''. Caul received his Green Lantern power ring after he shot and killed its previous bearer, unsure himself why he was then chosen. Caul is able to save Sh'diki Borough on the planet Tolerance after it had been bottled by [[Brainiac (character)|Brainiac]]. Caul is later informed that ''The Hunted'' has been cancelled and offered the lead role on a new show, ''Team Cauldron'', with the rest of his friends and ''Hunted'' competitors. Caul agrees to the role, having his power ring re-embedded into his chest. He is granted a meeting with Lady Styx to finalize his new role. However, as soon as Caul materializes at her base, he is killed by multiple gunshots, as planned by Colonel [[Tommy Tomorrow|T'omas T'morra]]. In a glimmernet commercial, it is shown that T'morra replaces Caul in the proposed new show. However, Caul is shown alive later, along with Captain K'rot in tow, when the planet Telos manifests during the 2015 "[[Convergence (comics)|Convergence]]" storyline, investigating it alongside Superman, Supergirl, Guy Gardner and the Red Lanterns.
+{{Clear}}
+
+===Others who have had a supporting role as a Green Lantern===
+{{unreferenced section|date=April 2022}}
+
+====Charles Vicker====
+Charlie Vicker was an actor who portrayed Green Lantern in a TV show on Earth. Charlie enjoyed his fame and happily threw himself into the life of a playboy television star. After one particularly grueling night of partying, Charlie was too hung over to show up on set so his brother Rodger had to go on as his stand-in. Unfortunately for Roger, a group of various space criminals, led by former Earth criminal Al Magone, mistook the television Green Lantern for the real thing and attacked during a live broadcast. The criminals were ones previous imprisoned by the Green Lanterns on a special timeless criminal planet who had banded together and launched simultaneous attacks on Green Lanterns across the galaxy. By the time the real Green Lantern (Hal Jordan) arrived on the scene, the defenseless stand-in was dead and the criminal responsible was gone. Charlie was overcome with grief and blamed himself for his brother's death. He demanded that Hal Jordan bring him along in his hunt for the murderer responsible, so that Charlie could avenge his brother.
+
+Eventually the two, along with the rest of the Green Lantern Corps tracked the criminals down and brought their terror to an end. During the battle, Green Lantern gives Vicker a power ring from one of the fallen Green Lanterns and appoints him a temporary Green Lantern. Vicker proves himself well enough that the Guardians of the Universe grant him his own power ring. He was assigned to Sector 3319 where the strange alien inhabitants made Vicker uncomfortable and alone. Just when he considered resigning from the Green Lantern Corps, Vicker saved an alien child from death. The child's mother was extremely grateful to Vicker making him realize that their physical differences hid how similar the aliens were to mankind.
+
+Vicker would later use his skills as an actor to teach the natives of his sector the great plays of Earth. When an invasion force threatened his sector following the first destruction of the Central Power Battery, the now depowered Vicker raised and trained a resistance group that eventually repelled the invaders and ensured his adopted people's freedom. Vicker later joined John Stewart's Darkstars. He was killed during the battle with [[Grayven]], third son of Darkseid.
+{{Clear}}
+
+====Keli Quintela====
+''[[Young Justice]]'' (vol. 3) #1 (March 2019) introduced Keli Quintela as Teen Lantern. An unofficial Green Lantern, Quintela is an 11-year-old from La Paz, Bolivia, who receives a Green Lantern power gauntlet similar to Krona's from a dying Green Lantern that she then modifies and hacks to act like a Green Lantern power ring.
+
+==Powers and abilities==
+{{Main|Power ring (DC Comics)}}
+The ring is powered by willpower. 
+Each Green Lantern wears a ring that grants them a variety of possibilities. The full extent of the ring's ability has never been rigorously defined in the stories, but two consistent traits are that it grants the power of flight and that all its effects are accompanied by a green light.
+
+Early Green Lantern stories showed the characters performing all sorts of feats with the ring, from shrinking objects to turning people invisible. Later stories de-emphasized these abilities in favor of constructs.
+
+The signature power of all Green Lanterns is the ability to conjure "constructs": solid green objects that the Green Lantern can control telekinetically. These can be anything, such as a disembodied fist to beat a foe, a shield to block an attack, a sword to cut a rope, or chains to bind a prisoner. Whatever their shape or size, these constructs are always pure green in color, unless a Lantern is skillful enough to know how to change the EM spectrum the construct emits. Hal Jordan has shown the ability to have a construct emit kryptonite radiation under Batman's guidance.
+
+The rings of the Green Lantern Corps allow their bearers to travel very quickly across interstellar distances, fast enough that they can efficiently patrol the universe. They allow the wearer to survive in virtually any environment, and also remove the need to eat, sleep and pass waste. The rings can translate practically any language in the universe. They possess powerful sensors that can identify and analyze objects. Lanterns are granted full access to all Guardian knowledge by their rings through the Book of Oa.
+
+A noteworthy power the rings ''do not'' have is the ability to automatically heal injuries, though they can provide shielding. In Hal Jordan's origin story, Abin Sur passed on his ring to Hal because he was unable to treat his own fatal injuries. If the Green Lantern happens to be a skilled physician, then the ring can be invaluable as it can conjure any conceivable medical tool, but it cannot do much for a Lantern who lacks medical expertise. When Hal Jordan breaks his arm, the best he can do is conjure up a cast. This is further extended into an ability to replace large sections of one's injured body with constructs, but this too requires detailed biological knowledge of one's body and concentration enough to prolong the construct.
+
+Alan Scott's ring is unable to directly affect anything made of wood. Alan can conjure a green shield to block bullets, but a wooden club will pass through it effortlessly. The rings of Hal Jordan and his colleagues originally shared a similar weakness to anything colored yellow, though due to the removal of the yellow impurity from the Central Battery on Oa, more recent stories have removed this weakness.
+
+The effectiveness of the ring is tied to the wearer's willpower. A Green Lantern with strong willpower will beat a weaker-willed Lantern in a duel.  Anything which weakens the Green Lantern's mind, such as a telepathic attack, may render his ring useless.
+
+==Green Lantern Oath==
+Green Lantern is famous for the oath he recites when he charges his ring. Originally, the oath was:
+
+{{poemquote|
+... and I shall shed my light over dark evil.
+For the dark things cannot stand the light,
+The light of the Green Lantern!|Alan Scott}}
+
+This oath is also used by Lanterns [[Tomar-Re]] of sector 2814 and Chief Administrator [[Salaak]].<ref>''Green Lantern Corps'' #206</ref>
+In the mid-1940s, this was revised into the form that became famous during the Hal Jordan era:
+
+{{poemquote|
+In brightest day, in blackest night,
+No evil shall escape my sight!
+Let those who worship evil's might
+Beware my power, Green Lantern's light!|Hal Jordan/many current Lanterns}}
+
+The oath in this form is credited to [[Alfred Bester]],<ref>{{cite book |last= Schwartz |first= Julius |author-link= Julius Schwartz |title= Man of Two Worlds: My Life in Science Fiction and Comics |url= https://archive.org/details/manoftwoworldsmy00schw |url-access= registration |location= New York |publisher=Harper Collins |year= 2000 |pages=[https://archive.org/details/manoftwoworldsmy00schw/page/67 67–68] |isbn= 0-380-810514}}</ref> who wrote many Green Lantern stories in the 1940s. This version of the oath was first spoken by Alan Scott in ''Green Lantern'' #9 from the fall of 1943. Scott would revert to reciting his original oath after he was reintroduced during the Silver Age.
+
+Many Green Lanterns have a unique personal oath, but some oaths are shared by several Lanterns. They are usually four lines long with a [[rhyme scheme]] of "AAAA" or "AABB".
+
+The [[Pre-Crisis]] version of Hal Jordan was inspired to create his oath after a series of adventures in which he developed new ways to detect evasive criminals: in the first adventure, he used his ring as [[radar]] to find robbers who had blinded him with a magnesium flash; in the second, he tracked criminals in a dark cave by using his ring to make them glow with [[phosphorescence]]; finally, Jordan tracked safecrackers by the faint shockwaves from the explosives they had used.
+
+[[Medphyll]], the Green Lantern of the planet J586 (seen in ''[[Swamp Thing]]'' #61, "All Flesh Is Grass"), a planet where a sentient plant species lives, has the following oath:
+
+{{poemquote|
+In forest dark or glade beferned,
+No blade of grass shall go unturned!
+Let those who have the daylight spurned
+Tread not where this green lamp has burned!}}
+
+Other notable oaths include that of [[Jack T. Chance]],
+
+{{poemquote|
+You who are wicked, evil and mean,
+I'm the nastiest creep you've ever seen!
+Come one, come all, put up a fight,
+I'll pound your butts with Green Lantern's light!
+Yowza!}}
+
+and that of [[Rot Lop Fan]], a Green Lantern whose species lacks sight and thus has no concepts of brightness, darkness, day, night, color, or lanterns.
+
+{{poemquote|
+In loudest din or hush profound,
+My ears catch evil's slightest sound!
+Let those who toll out [[evil]]'s knell
+Beware my power, the [[Musical scale|F-Sharp]] [[Bell (instrument)|Bell]]!}}
+
+In ''Green Lantern'' (vol. 4) #27, the [[Alpha Lanterns]] use the oath:
+
+{{poemquote|
+In days of peace, in nights of war,
+Obey the Laws forever more!
+Misconduct must be answered for,
+Swear us the chosen: the Alpha Corps!}}
+
+In ''[[Final Crisis: Legion of 3 Worlds|Legion of 3 Worlds]]'', [[Sodam Yat]] in the 31st century
+—the last of the Green Lanterns and the last of the Guardians
+—recited a new oath:
+
+{{poemquote|
+In brightest day, through [[The Blackest Night|Blackest Night]],
+No other Corps shall spread its light!
+Let those who try to stop what's right
+Burn like my power, Green Lantern's light!}}
+
+In ''Batman: The Dawnbreaker'' #1, the Dawnbreaker (an amalgamation of Batman and Green Lantern from the Dark Multiverse's Earth-32) creates and recites his own oath after the death of the Guardians of the Universe and the Green Lantern Corps by his own hands:
+
+{{poemquote|
+With darkness black, I choke the light!
+No brightest day escapes my sight!
+I turn the dawn to midnight!
+Beware my power—Dawnbreaker's might!}}
+
+In ''The Green Lantern'' #11, written by [[Grant Morrison]], several distinct oaths were used by the Green Lanterns of the Multiverse. Morrison's creation 'Magic Lantern', first seen in his run on ''[[Animal Man]]'', used this oath:
+
+{{poemquote|
+When it's groovy, when it's grim,
+We hum the Living Guru's hymn.
+When other Lanterns lose their kit,
+We keep the Magic Lantern lit!<ref>''The Green Lantern'' #11 (October 2019)</ref>}}
+
+(Since it was an all-ages book, the last word in the third line was obscured by another oath balloon from another Lantern.)
+
+In the video game, ''[[Infinite Crisis (video game)|Infinite Crisis]]'', Hal Jordan of Earth-13 (the Arcane universe) has his own variation:
+
+{{poemquote|
+In forests deep where darkness dwells,
+In dungeons dank beneath ancient fells,
+Let those who seek to rule the night
+Beware my power, the Emerald Light!}}
+
+In the animated TV series ''[[Duck Dodgers (TV series)|Duck Dodgers]]'', [[Duck Dodgers]] temporarily becomes a Green Lantern after accidentally picking up Hal Jordan's laundry. In the first part of the episode, he forgets the real quote and makes up his own version:
+
+{{poemquote|
+In blackest day or brightest night
+[[Walla|Watermelon, cantaloupe]], yadda yadda,
+Erm ... [[Batman#Golden Age|superstitious and cowardly lot]],
+[[Pledge of Allegiance (United States)|With liberty and justice for all!]]}}
+
+In 2011, soon after the release of the ''[[Green Lantern (film)|Green Lantern]]'' movie, a trailer for ''[[The Muppets (film)|The Muppets]]'' featured [[Kermit the Frog|Kermit]] reciting a parody of the oath:<ref>{{cite web|title=The Muppets - Being Green Teaser Trailer|url=https://www.youtube.com/watch?v=DUUcOmgYEhY/| archive-url=https://ghostarchive.org/varchive/youtube/20211030/DUUcOmgYEhY| archive-date=2021-10-30|publisher=MuppetsStudio|access-date=9 July 2011}}{{cbignore}}</ref>
+
+{{poemquote|
+In brightest day, in darkest night,
+No evil shall escape my sight!
+Let those who laugh at my lack of height
+Beware my [[banjo]] ... Green Froggy's light!}}
+
+The TV show, ''[[Mad (TV series)|Mad]]'', included a movie parody called "RiOa", a fusion of ''[[Green Lantern (film)|Green Lantern]]'' and ''[[Rio (2011 film)|Rio]]''. Blu from ''Rio'', in a last ditch effort to save his love Jewel, knocks out Hal Jordan and is instead the one who gets the ring from the dying Abin Sur. He becomes a Green Lantern, grows jealous at how there's only one bird (Tomar-Re) in the entire Corps, builds his own Green Lantern Corps and recruits [[Big Bird]], the [[Wile E. Coyote and the Road Runner|Road Runner]], Mordecai from ''[[Regular Show]]'', Mumble from ''[[Happy Feet]]'' and Chuck from [[Angry Birds]], all of them birds who cannot fly, and turns them all into Green Lanterns.<ref>{{cite web|title=MAD - Warner Bros.|url=https://vimeopro.com/bunkostudios/mad-warner-bros/video/30882113| archive-url=https://web.archive.org/web/20220925023128/https://vimeopro.com/bunkostudios/mad-warner-bros/video/30882113| archive-date=2022-09-24|publisher=Bunko Studios|access-date=24 September 2022}}</ref>
+
+{{poemquote|
+In brightest day, in blackest night,
+Despite our shape, our size, our height,
+We're birds who walk, which isn't right,
+But starting now, we will take flight!}}
+
+==In other media==
+{{Main|Green Lantern in other media}}
+
+=== Standalone film ===
+Hal Jordan made his live-action debut in the 2011 film [[Green Lantern (film)|of the same name]], portrayed by [[Ryan Reynolds]].<ref name="reynolds">{{cite news|url=http://weblogs.variety.com/bfdealmemo/2009/07/ryan-reynolds-is-the-green-lantern.html |archive-url=https://web.archive.org/web/20100104001536/http://weblogs.variety.com/bfdealmemo/2009/07/ryan-reynolds-is-the-green-lantern.html |archive-date=January 4, 2010 |title=Ryan Reynolds is the 'Green Lantern'|first=Mike|last= Fleming|work=[[Variety (magazine)|Variety]]|date=July 10, 2009|access-date=July 15, 2012}}</ref> The film originally intended on launching a new DC Comics cinematic franchise with a sequel and an untitled [[Flash (Barry Allen)|Flash]] film, but due to the film's failure, nothing moved forward.
+
+===DC Extended Universe===
+{{Main|DC Extended Universe|Zack Snyder's Justice League}}
+[[John Stewart (character)|John Stewart]] was scheduled to appear in [[Zack Snyder]]'s director cut of ''[[Justice League (film)|Justice League]]'', portrayed by Wayne T. Carr, but the scene was reworked with [[Martian Manhunter]], portrayed by [[Harry Lennix]], at the request of Warner Bros.<ref>{{cite web|url=https://screenrant.com/justice-league-snyder-cut-green-lantern-wayne-carr/|title=Justice League Green Lantern Actor Responds To Not Being in Snyder Cut|website=[[Screen Rant]]|last=Hermanns|first=Grant|date=April 28, 2021|accessdate=October 18, 2021}}</ref>
+
+A ''Green Lantern Corps'' movie is currently in development and is scheduled for the 2022-23 DCEU release slate with Stewart confirmed as one of the Green Lanterns appearing in the film, but the movie has yet to start production.<ref>{{cite web|url=https://thedirect.com/article/green-lantern-supergirl-movies-release-dates|title=Green Lantern Corps Movie & Supergirl Film Reportedly Set To Release In Next 3 Years|website=The Direct|last=Sanders|first=Savannah|date=April 1, 2021|accessdate=October 18, 2021}}</ref>
+
+===Television===
+In the live-action television series ''[[Stargirl (TV series)|Stargirl]]'', [[Alan Scott]]'s power battery is shown in a flashback to when the [[Injustice Society]] attacked the [[Justice Society of America]]'s headquarters. JSA member [[Pat Dugan]] hid his power battery in his basement. In the [[Stargirl (season 2)|second season]], Alan Scott's daughter [[Jade (DC Comics)|Jennie-Lynn Scott]] finds Alan's power battery and activates it. Jennifer absorbs the battery's energy and breaks it. She then leaves Blue Valley to find her missing brother [[Obsidian (comics)|Todd Rice]].
+
+A live-action ''Green Lantern'' television series is currently in development at [[HBO Max]] set to feature the [[Alan Scott]], [[Guy Gardner (comics)|Guy Gardner]], [[Jessica Cruz]], and [[Simon Baz]] versions of Green Lantern along with an original character Bree Jarta with [[Finn Wittrock]] and [[Jeremy Irvine]] portraying Gardner and Scott respectively. The series will be set in multiple time periods focusing on a separate story for each of the Green Lanterns for that time.<ref>{{Cite web |last=D'Alessandro |first=Anthony |date=2020-01-15 |title=Greg Berlanti 'Green Lantern' HBO Max Series Details Teased At TCA |url=https://deadline.com/2020/01/green-lantern-greg-berlanti-details-hbo-max-series-tca-1202831967/ |access-date=2022-04-03 |website=Deadline |language=en-US}}</ref>
+
+==In academic and journalistic jargon==
+
+Some political pundits and academic political scientists use the phrase "Green Lanternism" (or "political Green Lanternism") to refer to the common tendency to demand perfection or omnipotence from political leaders, and to blame actually unsolvable or inevitable problems on political leaders' alleged weakness or malice, as if political office-holders' powers and abilities, like Green Lantern's powers and abilities, were limited only by their personal strength of will.<ref>{{cite web | url=https://academic.oup.com/globalsummitry/article/2/1/13/2355286 | title=Validate User }}</ref><ref>{{cite web | url=https://www.fdu.edu/news/fdu-poll-green-lanternism-holding-down-bidens-approval-ratings/ | title=FDU Poll: "Green Lanternism" holding down Biden's approval ratings | date=10 May 2022 }}</ref>
+
+==See also==
+* ''[[Green Lantern: The Animated Series]]''
+* [[Doctor Spectrum]], a [[Marvel Comics]] homage to Green Lantern.
+* The [[Green Lantern Corps]].
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Wikiquote}}
+
+{{Green Lantern}}
+{{Justice League characters}}
+{{GoldenAge}}
+{{Portal bar|United States|Television|Film|Cartoon|Animation|Comics|Video games|Speculative fiction|1950s|1960s|1980s|1990s}}
+
+{{Authority control}}
+
+[[Category:Green Lantern| ]]
+[[Category:1940 comics debuts]]
+[[Category:American comics characters]]
+[[Category:Characters created by Bill Finger]]
+[[Category:Comics characters introduced in 1940]]
+[[Category:DC Comics adapted into films]]
+[[Category:DC Comics adapted into video games]]
+[[Category:Fictional super soldiers]]
+[[Category:Articles about multiple fictional characters]]

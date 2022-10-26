@@ -1,0 +1,54 @@
+{{notability|date=May 2021}}
+{{Infobox comics character<!--Wikipedia:WikiProject Comics-->
+| image = TNT DC Comics.jpg
+| character_name = TNT
+| publisher = [[DC Comics]]
+| debut = ''Star-Spangled Comics'' #7 (April 1942)
+| creators = [[Mort Weisinger]] 
+| alter_ego = Thomas N. "Tex" Thomas
+| full_name =
+| species = <!-- optional -->
+| homeworld = <!-- optional -->
+| alliances = [[All-Star Squadron]]<br>[[Seven Soldiers of Victory]]
+| partners=[[Dan the Dyna-Mite]] 
+| aliases = <!-- optional: actual identities the character uses, not nicknames -->
+| supports=<!--optional-->
+| powers ='''After coming in contact with Dan the Dyna-Mite''':<br>Enhanced strength, speed and resistance to injury<br>Heat generation 
+|}}
+'''TNT''' is a [[DC Comics]] [[superhero]] from the 1940s. TNT and his side-kick [[Dan the Dyna-Mite]] were created by [[Mort Weisinger]] for DC Comics, and made their debut in ''[[Star Spangled Comics]]'' #7 (April 1942).<ref>{{cite book |last1=Benton |first1=Mike |title=Superhero Comics of the Golden Age: The Illustrated History |date=1992 |publisher=Taylor Publishing Company |location=Dallas |isbn=0-87833-808-X |url=https://archive.org/details/superherocomicso0000bent/page/184 |access-date=8 April 2020 |page=184}}</ref>
+
+The "human hand grenades" had a short lived career during the [[Golden Age of Comic Books]], reappearing occasionally in reprint form during the 1970s, returning in ''[[Super Friends]]'' #12, and appearing from time to time in ''[[All-Star Squadron]]'' and its Post-Crisis sequel, ''[[Young All-Stars]]''.
+
+==Fictional character biography==
+===Pre-Crisis===
+TNT and Dan the Dyna-Mite are the secret identities of chemistry teacher and track coach Thomas N. "Tex" Thomas and his student Daniel Dunbar.<ref>{{cite web |last1=Markstein |first1=Don |title=TNT and Dan the Dyna-Mite |url=http://www.toonopedia.com/tnt.htm |website=Don Markstein's Toonopedia |access-date=23 April 2020}}</ref> While working together with some "radioactive salts", they discover they are charged with atomic energy.<ref name=Chron>{{cite book |last1=Mitchell |first1=Kurt |last2=Thomas |first2=Roy |title=American Comic Book Chronicles: 1940-1944 |date=2019 |publisher=TwoMorrows Publishing |isbn=978-1605490892 |page=150}}</ref> Thomas is charged with positive energy, while Dunbar is charged with negative energy. Thomas makes a pair of rings which keeps the energy dormant until they are touched together, at which point the pair gains enhanced strength, speed, and resistance to injury, and the ability to generate different forms of energy. Thomas generates heat, while Dan can generate short bursts of electricity. One of their villains is the evil Crime Clown.<ref>{{cite book |last1=Nevins |first1=Jess |title=Encyclopedia of Golden Age Superheroes |date=2013 |publisher=High Rock Press |isbn=978-1-61318-023-5 |page=273}}</ref> The series ran through ''Star-Spangled Comics'' #23 (August 1943).
+
+===Post-Crisis===
+TNT was revived as part of [[Roy Thomas]]'s ''All-Star Squadron'', and its spin-off, ''The Young All-Stars''. After TNT and Dyna-Mite had been active for a few months, they are summoned by the All-Star Squadron to participate in their first general meeting.  Their participation seems to have been limited to attending meetings and little else until April 1942, when [[Liberty Belle (comics)|Liberty Belle]], as chairperson of the All-Stars, asks TNT and Dyna-Mite to look into Axis espionage activity in Colorado. Here, they meet future All-Star member [[Iron Munro]], but TNT is killed by Gudra the Valkyrie, a supernatural agent of [[Adolf Hitler]].<ref>''The Young All-Stars'' #1</ref> TNT is posthumously awarded the [[Medal of Honor]], leaving Dyna-Mite to work with Munro and other members of the Young All-Stars. Keeping Thomas' ring, Dan finds he can activate his powers by slamming both rings together.
+
+In 2010's ''DCU: Legacies'' #2, TNT and Dyna-Mite are revealed to have been founding members of the [[Seven Soldiers of Victory]].<ref>{{cite web|url=http://www.dccomics.com/blog/2010/06/15/continue-to-explore-the-history-of-the-dcu-with-legacies-2|title=Continue to explore the history of the DCU with LEGACIES #2|access-date=27 February 2017}}</ref><ref>{{cite web |url=http://www.majorspoilers.com/archives/42515.htm/ |title=Dueling Review: DC Universe: Legacies #2 &#124; Major Spoilers - Comic Book Reviews and News |access-date=2011-01-28 |url-status=dead |archive-url=https://web.archive.org/web/20100625003119/http://www.majorspoilers.com/archives/42515.htm/ |archive-date=2010-06-25}}</ref><ref>{{cite web|url=http://www.comicbloc.com/forums/showthread.php?p=1617133|title=Newest Seven Soldiers in DC Legacies #2 (Spoilers) - The Comic Bloc Forums|access-date=27 February 2017|url-status=dead|archive-url=https://web.archive.org/web/20110718120413/http://www.comicbloc.com/forums/showthread.php?p=1617133|archive-date=18 July 2011}}</ref> How this retcon affects their histories, such as the previously established death of TNT and Dyna-Mite's Young All-Stars stint, has not yet been revealed.
+
+===Current version===
+The latest version of the character is featured in [[Grant Morrison]]'s ''[[Seven Soldiers]]'' project. Calling himself '''Dyno-Mite Dan''', Harris D. Ledbetter makes an online purchase of what he believes are TNT and Dan The Dyna-Mite's rings, and joins five other heroes in ''Seven Soldiers'' #0. Later, he is killed with the rest of his team. His rings are actually working fakes made by [[Cassandra Craft]].
+
+===DC Universe===
+During the ''[[Dark Nights: Death Metal]]'' storyline, TNT is among the superheroes that were revived by [[Batman]] using a Black Lantern ring.<ref>''Dark Nights: Death Metal'' #5. DC Comics.</ref>
+
+==Reception==
+''American Comic Book Chronicles'' says that the TNT and Dan the Dyna-Mite series "had potential, but consistently fell flat, limited space and unimaginative writing its chief problems".<ref name=Chron/>
+
+==Other appearances==
+TNT is mentioned in the 1993 four issue mini-series ''[[The Golden Age (comics)|The Golden Age]]'', written by [[James Dale Robinson|James Robinson]] and drawn by [[Paul Smith (comics)|Paul Smith]]. This series is set during the period of [[McCarthyism]] and, much as he did in ''The Young All-Stars'', TNT is said to have died during World War II.
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.dcuguide.com/who.php?name=tnt TNT at the Unofficial Guide to the DC Universe]
+
+{{All-Star Squadron}}
+{{GoldenAge}}
+
+[[Category:DC Comics superheroes]]
+[[Category:Golden Age superheroes]]
+[[Category:DC Comics metahumans]]

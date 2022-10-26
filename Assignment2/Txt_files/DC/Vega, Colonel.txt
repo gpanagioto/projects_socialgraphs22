@@ -1,0 +1,595 @@
+{{Short description|Comic book story arc}}
+{{About||the DC character of the same name|Knightfall (comics)}}
+{{Multiple issues|
+{{Long plot|date=July 2022}}
+{{More citations needed|date=July 2022}}
+}}
+{{italic title}}
+{{Infobox comics story arc
+|title          = Knightfall
+|image          = Batman497.png
+|imagesize      = <!-- default 250 -->
+|caption        = Cover to ''Batman'' #497: The breaking of the Bat. Art by [[Kelley Jones]].
+|publisher      = [[DC Comics]]
+|startmo        = April
+|startyr        = 1993
+|endmo          = August
+|endyr          = 1994
+|Crossover      = y
+|titles         = ''[[Batman (comic book)|Batman]]'' #492-510; 512-515<br><!--
+-->''[[Batman: Shadow of the Bat]]'' #16-30; 32-35<br><!--
+-->''[[Catwoman]]'' #6-7; 12-13<br><!--
+-->''[[Detective Comics]]'' #659-677; 679-682<br><!--
+-->''[[Justice League Task Force (comics)|Justice League Task Force]]'' #5-6<br><!--
+-->''[[Legends of the Dark Knight|Batman: Legends of the Dark Knight]]'' #59-63<br><!--
+-->''[[Robin (comics)|Robin]]'' #7-9; 11-14<br><!--
+-->''[[Showcase (comics)|Showcase '93]]'' #7-8<br><!--
+-->''Showcase '94'' #10
+|main_char_team = [[Batman]]<br>[[Bane (comics)|Bane]]<br>[[Azrael (comics)|Azrael]]
+|writers        = [[Chuck Dixon]], [[Jo Duffy]], [[Alan Grant (writer)|Alan Grant]], [[Dennis O'Neil]], [[Doug Moench]]
+|artists        =
+|pencillers     = [[Jim Aparo]], [[Jim Balent]], [[Eduardo Barreto]], [[Bret Blevins]], [[Norm Breyfogle]], [[Vincent Giarrano]], [[Tom Grummett]], [[Klaus Janson]], [[Barry Kitson]], [[Mike Manley (artist)|Mike Manley]], [[Graham Nolan]], [[Sal Velluto]], [[Mike Vosburg]], [[Ron Wagner]]
+|inkers         = [[Jeff Albrecht]], [[Jim Aparo]], [[Terry Austin (comics)|Terry Austin]], [[Eduardo Barreto]], [[John Beatty (illustrator)|John Beatty]], [[Bret Blevins]], [[Norm Breyfogle]], [[Rick Burchett]], [[Steve George (artist)|Steve George]], [[Vince Giarrano]], [[Dick Giordano]], [[Scott Hanna]], [[Klaus Janson]], [[Ray Kryssing]], [[Tom Mandrake]], [[Mike Manley (artist)|Mike Manley]], [[Ron McCain]], [[Frank McLaughlin (artist)|Frank McLaughlin]], [[Josef Rubinstein]], [[Bob Smith (comics)|Bob Smith]], [[Bob Wiacek]]
+|letterers      =
+|editors        =
+|colorists      =
+|TPB            = Vol. 1
+|ISBN           = 978-1401233792
+|TPB1           = Vol. 2: Knightquest
+|ISBN1          = 978-1401235369
+|TPB2           = Vol. 3: KnightsEnd
+|ISBN2          = 978-1401237219
+|cat            = Batman
+|sortkey        = Knightfall
+|nonUS          = 1-56389-334-7
+}}
+"'''Knightfall'''" is a 1993–1994 [[Batman]] [[story arc]] published by [[DC Comics]]. It consists of a trilogy of storylines that ran from 1993 to 1994, consisting of "Knightfall", "'''Knightquest'''", and "'''KnightsEnd'''".<ref group="note">On the comic book covers, only the third part had its title written in [[CamelCase]].</ref>
+
+The story takes place over approximately six months. [[Bruce Wayne]] (Batman) suffers burnout and is systematically assaulted and crippled by a "super [[steroid]]"-enhanced [[genius]] named [[Bane (comics)|Bane]]. Wayne is replaced as Batman by an apprentice named [[Jean-Paul Valley]] (a.k.a. [[Azrael (comics)|Azrael]]), who becomes increasingly violent and unstable, tarnishing Batman's reputation. Eventually, Wayne is healed through paranormal means and reclaims his role as Batman.
+
+"Knightfall" resulted in long-term ramifications for the Batman continuity, as Batman's trust from the police, the public, and his fellow superheroes had to be rebuilt due to Azrael's violence.<ref>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Manning |first3=Matthew K. |last4=McAvennie |first4=Michael |last5=Wallace |first5=Daniel |title=DC Comics Year By Year: A Visual Chronicle |date=2019 |publisher=DK Publishing |isbn=978-1-4654-8578-6 |page=243}}</ref> Additionally, Wayne realizes the peril and burden of attempting to work in solitude, leading to the eventual creation of the modern incarnation of the [[List of Batman supporting characters#Bat-Family|Batman Family]]. The events of "Knightfall" also led to the (temporary) resignation of Wayne's loyal butler, [[Alfred Pennyworth]].
+
+The entire "Knightfall" storyline took over a year to complete in the comic book serials. In later years, the comics were reprinted several times, though never in full, as the "Knightquest: The Search" story arc had not been collected until the second omnibus edition in 2017.
+
+{{TOC limit|3}}
+
+==Publication==
+
+The initial idea for the character of [[Azrael (comics)|Azrael]] stemmed from a two-part story idea pitched by ''Detective Comics'' writer [[Peter Milligan]] circa 1991, as he was leaving that position.<ref name="Milligan">{{cite web|url=http://www.comicbookresources.com/?page=article&id=27788 |title=The Bat Signal: Peter Milligan |publisher=Comic Book Resources |access-date=2016-03-10}}</ref><ref name="Knightfall">{{cite web|url=http://knightfallsaga.angelfire.com/denny.htm |title=An interview with Dennis O' Neil |website=Knightfallsaga.angelfire.com |access-date=2016-03-10}}</ref> After line editor [[Dennis O'Neil]] decided to expand it into a larger epic, he and the Batman line writers [[Chuck Dixon]], [[Doug Moench]] and [[Alan Grant (writer)|Alan Grant]] convened an authors' summit over a long weekend to flesh out the details and story points. At the same time, the [[Superman]] team was planning for a similar character-altering storyline, and neither they nor the Batman group initially had any knowledge of each other's plans.<ref name="Knightfall" /> Dennis O'Neil denies the Knightfall storyline was in any way inspired by the ''[[Death of Superman]]'' storyline and states that it was already in development by as much as three years, saying that if the Batman staff had known, the storyline would likely have been pushed down a year.<ref>''Wizard: The Guide to Comics'' #35 - publication date July 1994</ref>
+
+The serial stories of the monthly Batman comics titles began slowly building toward the "Knightfall" arc several months prior, in conjunction with the publication of the four-issue ''Sword of Azrael'' miniseries and the ''Vengeance of Bane'' one-shot, which also laid foundation for the larger story.
+
+"Knightfall" ran from April to October 1993, ''Batman'' issues #492-500 and ''Detective Comics'' issues #659-666, with the two titles sharing a single narrative during this time. The two series each hit numerical milestones at the end of the arc, with a triple-size 500th issue of ''Batman'' and the ominous ''Detective Comics'' [[Number of the beast|number 666]] wrapping up the storyline only one month apart. The massive story was quickly collected into two volumes of [[Trade paperback (comics)|trade paperbacks]]. Volume One was subtitled ''Broken Bat'' and Volume Two ''Who Rules the Night''. “Knightfall” was the first time that multiple Batman titles had shared a single narrative for an extended period since the ''[[Crisis on Infinite Earths]]'' era.
+
+"Knightfall" was immediately followed by "Knightquest" in the monthly serials. "Knightquest" is divided into two storylines, one following Bruce Wayne ("Knightquest: The Search") and the other on the new Batman ("Knightquest: The Crusade"). The stories were not treated as crossovers and the ''Batman'' titles continued as they had before "Knightfall" where the creative teams each pursued its own storyline. Instead of a crossover, "Knightquest" was more of an umbrella title that also encompassed some issues of ''[[Batman: Shadow of the Bat]]'' (to avoid giving away their plans, the publishers treated it as though it were the new status quo, so issues were not numbered as chapters). Additionally, ''The Crusade'' served as a launching point for the first ongoing monthly series featuring [[Robin (comics)|Robin]] in solo adventures. Neither thread of "Knightquest" was collected in book format until over two decades later.
+
+Although previous parts of the "KnightSaga" had taken considerable time to run their course, the entirety of "KnightsEnd" was published within a two-month span, as the Batman books had to prepare themselves for DC's impending company-wide crossover ''[[Zero Hour (comics)|Zero Hour]]'', which would immediately follow the "KnightSaga". Nothing was truncated, as the ''Batman'' editorial line made use of all of the Batman-related titles at their disposal, such as ''Catwoman'', ''Robin'' and ''Batman: Legends of the Dark Knight'' (normally an anthology title with stories set in the past). "KnightsEnd" was collected in trade paperback as ''Knightfall Volume 3'' soon after completion.
+
+The serial nature of the Batman titles continued beyond the end of "KnightsEnd", with the "Prodigal" and "Troika" storylines, and into subsequent unbannered stories. This setup resurfaced in later arcs such as "[[Batman: Contagion|Contagion]]", "[[Batman: Legacy|Legacy]]", "[[Batman: Cataclysm|Cataclysm]]", "[[Batman: No Man's Land|No Man's Land]]", and "[[Batman: War Games|War Games]]", and has on occasion continued into the present.
+
+The intent of ''Knightfall'''s writers was to counter the then-popular style of violent heroes in comics and demonstrate that the traditional Batman made for a better hero.<ref name="Knightfall" /> The issues featuring Jean-Paul Valley as Batman on the cover depict him with highly exaggerated musculature and legs which taper into disproportionally tiny feet, mimicking the styles of contemporary "violent hero" artists such as [[Rob Liefeld]]. {{Citation needed|date=January 2021}}
+
+==Storyline==
+
+===Prelude===
+The prelude to "Knightfall" began with the introduction of two new characters key to its storyline in issues prior to the release of "Knightfall":
+* [[Azrael (comics)|Azrael]], a.k.a. Jean-Paul Valley (introduced in ''Batman: Sword of Azrael'' #1-4 (October 1992-January 1993) by [[Dennis O'Neil]] and [[Joe Quesada]]), a [[graduate student]] at Gotham University who discovers he has been unconsciously trained since birth as an [[assassination|assassin]] for an ancient religious order.
+* [[Bane (comics)|Bane]], introduced in ''Batman: Vengeance of Bane'' #1 (January 1993) by [[Chuck Dixon]] and [[Graham Nolan]], an orphan born and raised in a [[Central America]]n island prison, self-taught and ruthless, who underwent an involuntary experimental operation to become a new type of supersoldier, before breaking free and deciding to take [[Gotham City]] from its "king", Batman.
+
+The two characters were quickly added to the cast in the monthly ''Batman'' titles, with Azrael being a superhero-in-training who fights alongside Batman, while Bane was introduced as a supervillain.
+
+Within the regular series, the buildup to "Knightfall" begins with a six-issue run in ''Batman'' #484-489 (September 1992 - February 1993), in which Batman (at the onset of a personal psychological [[mid-life crisis]]) is forced to deal, in rapid succession, with the returning villain [[Black Mask (comics)|Black Mask]] and his gang (who target Bruce Wayne and [[Lucius Fox]]), a crazed killer called Metalhead, and a [[sharpshooter]] assassin hired by an imprisoned mobster to murder [[James Gordon (comics)|Commissioner Gordon]]. Batman begins to feel that he has lost his edge, especially after his failure to capture Black Mask. He finds himself unable to [[meditate]] or even focus. As Bruce Wayne, he contacts [[holistic]] therapist Shondra Kinsolving for treatment. He also assigns Robin ([[Tim Drake]]) to train Jean-Paul Valley in detective work to aid them as an ally, hoping to guide Valley's [[brainwashing]] away from making him a villainous threat. Despite the advice of everyone in his life, including Dr. Kinsolving, Bruce refuses to rest and continues to pursue his self-imposed duty despite his worsening condition (although not explicitly noted as [[trauma trigger|a cause]], these events take place immediately after the [[death of Superman]], Batman's peer, elsewhere in the DC Universe). In addition, since the events from ''[[Batman: A Death in the Family|A Death in the Family]],'' Batman struggles with the trauma of the loss of his protégé [[Jason Todd]].
+
+The next storyline, in ''Detective Comics'' #654-656 (December 1992 - February 1993), involves [[General (DC Comics)|a young military student]] usurping power in Gotham's underworld and assaulting a police station, with Bruce's fatigue continuing to worsen. At the conclusion of this story, Bane and his henchman are shown monitoring Batman's performance.
+
+Bane begins a series of encounters letting Batman know of his presence and his intentions. In ''Batman'' #489-490 (February–March 1993), Bane interferes with encounters pitting villains [[Killer Croc]] and the [[Riddler]] against Batman, and, to test Batman's limits, goes so far as to inject the Riddler with the Venom drug. This escalation culminates in an assault on [[Arkham Asylum]] in ''Batman'' #491 (April 1993), where Bane breaks the inmates free and supplies them with numerous weapons to escape. Meanwhile, Robin finds it difficult to work with Jean-Paul, due to the man's violent subconscious training and lack of social skills, and also finds himself being shut out from working alongside Batman.
+
+==="Knightfall"===
+The plot of "Knightfall" begins<ref group="note" name="Batman491">''Batman'' #491 was the final prelude issue and therefore not an official part of Knightfall. However, this issue was included in the original trade paperback edition, ''Broken Bat'', as well as the 2012 and 2017-2018 re-printings.</ref> with the master criminal Bane freeing all of the maximum-security inmates of [[Arkham Asylum]], a notorious psychiatric facility in [[Gotham City]]. Aware that he would lose in a direct assault against Batman, Bane's plan consists of weakening Batman by forcing him to deal with the deadly villains simultaneously. Among the freed inmates, there are numerous high-profile villains, such as the [[Joker (character)|Joker]] (who trapped Arkham's administrator [[Jeremiah Arkham]]), the [[Scarecrow (DC Comics)|Scarecrow]], the [[Riddler]], and [[Poison Ivy (character)|Poison Ivy]], as well as many lesser-known villains, such as the [[Mad Hatter (DC Comics)|Mad Hatter]], the [[Ventriloquist (comics)|Ventriloquist]], the [[Firefly (DC Comics)|Firefly]], the [[Cavalier (comics)|Cavalier]], the [[Film Freak]], [[Victor Zsasz|Mr. Zsasz]], [[Cornelius Stirk]], [[Abattoir (comics)|Abattoir]],  and [[Amygdala (comics)|Amygdala]]. The scenario creates a rift in the relationship between [[Robin (comics)|Robin]] and Batman, as Batman irrationally seeks to face the outbreak alone—in later issues, Robin asks Batman if he is even needed as his sidekick anymore. A later flashback to this time period (''Showcase '93'' #7-8) shows Batman pursuing [[Two-Face]] alone, being trapped and kidnapped to stand a [[mock trial]]; he is saved only by a rescue attempt from Robin.
+
+[[File:Bane breaks Batman.png|175px|thumb|left|Bane breaks [[Batman]]'s back in a [[Splash panel|splash page]] from ''Batman'' #497 (July 1993). Art by [[Jim Aparo]].]]Over the next few issues, Batman becomes weaker and weaker as each criminal is put away. The rescue of Mayor Krol from the teaming of the [[Joker (character)|Joker]] and [[Scarecrow (DC Comics)|Scarecrow]] pushes Batman to his mental and physical limits: a dose of Scarecrow's fear gas makes him relive [[Batman: A Death in the Family|the murder of Jason Todd]], which he considers to be his greatest failure. After this encounter, Bane's men assault Batman before he himself makes his move and attacks him at [[Wayne Manor]], his home as his alter-ego—long before this time, Bane had deduced the secret identity of Batman. The fight between Bruce Wayne and Bane is detailed in ''Batman'' #497. After three months, the exhausted Batman was no match for Bane; Bane pummels him ruthlessly before breaking Wayne's back over his knee inside the [[Batcave]] below the manor, symbolically "breaking" Batman.<ref name="dc-ency">{{Citation  | last = Beatty  | first = Scott | contribution = Batman | editor-last = Dougall  | editor-first = Alastair  | title = The DC Comics Encyclopedia  | pages = 40–44  | publisher = [[Dorling Kindersley]]  | place = London  | year = 2008 | isbn = 978-0-7566-4119-1}}</ref> Bane takes the grievously-wounded Wayne (still costumed in the Batman outfit) downtown to Gotham Square and throws him from a rooftop to demonstrate his superiority to the populace. Quick action by Robin and Alfred spares Batman's life, but at great cost - he is left a [[paraplegic]].  With Batman incapacitated, Bane assumes control of Gotham City's underworld and takes over several illegal operations within it.
+
+After his defeat, Bruce Wayne enlists the aid of Dr. Shondra Kinsolving to rehabilitate him and asks [[Jean-Paul Valley]] to take up the mantle of Batman so that Gotham has a protector. Tim Drake argues with Bruce to allow [[Dick Grayson]] (the former Robin and then-current [[Nightwing]]) to become Batman, as he is more experienced and mentally competent.  Bruce replies that Grayson has his own responsibilities and would only take up the mantle of the Bat reluctantly (Dick later expressed resentment at not being asked to stand in as Batman).  Bruce's rationale for this decision is revealed in later issues - secretly, he does not want Dick to have to face Bane, as he knows Dick's character will compel him to try. Indeed, Bruce gives Jean-Paul strict orders never to engage Bane in combat—and when Jean-Paul does face Bane, only his modified gloves save Jean-Paul from being thrown to his death.
+
+Soon after, Kinsolving and Tim's father [[Jack Drake]] are kidnapped and Bruce and [[Alfred Pennyworth|Alfred]] leave the country to find them - their story is continued in "Knightquest: The Search", while the happenings in Gotham are recorded in "Knightquest: The Crusade". Jean-Paul is shown to be a different, but not dangerous, Batman until an encounter with the Scarecrow, which results in Jean-Paul being infected by Scarecrow's fear gas and "The System"—his programming as Azrael—taking over, in order to combat Jean-Paul's fear. Following this, Jean-Paul is unable to shake the influence of the System, giving in to it completely after his first defeat at Bane's hands and being increasingly influenced by it during the rest of his tenure as Batman. Gradually, Jean-Paul alienates Robin with his paranoia and arrogance.
+
+In ''Batman'' #500, Jean-Paul, in his new mechanical [[Batsuit]] (which is an amalgam of Azrael's costume and the Batman's), confronts Bane in an arduous battle and prevails, although many bystanders are put at risk. Jean-Paul leaves Bane broken mentally and physically, though he struggles with the choice of whether to simply kill Bane or hand him over to the police. He decides that he will let Bane go to Blackgate Prison. Jean-Paul continues to watch over Gotham after the fight, but grows increasingly unstable.
+
+==="Knightquest"===
+{{multiple image
+ | align     = right
+ | direction = vertical
+ | header    =
+ | width    = 150
+ | image1    = Detective Comics 667.jpg
+ | caption1  = Jean-Paul Valley as Batman, during ''The Crusade'' story arc. Cover to ''Detective Comics'' #667. Art by Kelley Jones.
+ | image2    = Justice League Task Force vol.1 -5 (October 1993).png
+ | caption2  = A paraplegic Bruce Wayne, traveling across the globe on a rescue mission with help from his allies, including members of the Justice League Task Force, in ''The Search'' story arc.
+}}
+At the onset of "Knightquest", Jean-Paul Valley has been established as Batman, and Bruce Wayne is out of the country. Instead of a crossover with a definite ending, the publishers treated the scenario as though it were the new status quo, leaving it open-ended.
+
+'''"Knightquest: The Crusade"''' follows the story of Jean-Paul Valley during his tenure as Batman. He becomes increasingly violent and mentally unbalanced. During this time, he drives Robin away because he believes Gotham to be so tough that only violence could answer its criminals. In several issues, Robin is left horrified as Jean-Paul ferociously attacks common criminals, often with a weapon and sometimes nearly to death. This surge of violence from Gotham's defender puts pressure on Batman's relationship with Police Commissioner Gordon, who begins to distrust and even fear the new Batman and eventually comes to realize he is not the same man he has known.
+
+All of Jean-Paul's actions are compelled by "the System"; on numerous occasions, he experiences the ghosts of his father and the patriarch Saint Dumas giving him guidance and he is driven to near-insanity by the time the saga ends. He repeatedly redesigns his Batman costume, adding more [[gadget]]s and lethal weapons, including metal claws, a laser, razor-sharp [[batarang]]s and a flamethrower. Eventually, he also adds a Bat-symbol, matching the one used for the series' logo. Valley becomes compelled by a desire to be a better Batman than Bruce Wayne, especially when he discovers his lack of interest in detective work caused him to make false assumptions about [[Catwoman]] (he thought that she would sell a powerful [[nerve gas]] to [[terrorist]]s, when she merely wanted to dispose of it so that it could not be used to hurt anyone).
+
+His questionable behavior climaxes when he encounters the [[serial killer]] [[Abattoir (comics)|Abattoir]], who is keeping an innocent prisoner in a secret [[torture chamber]]: Jean-Paul purposely lets Abattoir die, thereby condemning the prisoner to death as well. Other villains Jean-Paul faces include [[Mr. Freeze]], the [[Trigger Twins]], Gunhawk and Gunbunny, the [[Tally Man]] and [[Clayface]] III and IV; the most notable encounters are with Catwoman and the Joker, both of whom could tell that Valley was not the original Batman.
+
+'''"Knightquest: The Search"''' follows Bruce Wayne and Alfred Pennyworth's search for [[Jack Drake]] and Shondra Kinsolving, the father of the current Robin and the physical therapist with whom Bruce Wayne had fallen in love during his rehabilitation sessions, respectively. Their investigation leads them to the [[Caribbean]] and then [[Great Britain]]. Kinsolving's brother-by-adoption Benedict Asp kidnapped her to use her [[Superpower (ability)|special powers]] to kill people at a distance. Asp demonstrates this new form of mass murder on a small English village. When Bruce Wayne finds Kinsolving, he finds himself caught in the middle of a telekinetic tug-of-war between Asp and Kinsolving. The battle climaxes with her refocusing her energy to defeat Asp; as a side effect of the energy, Bruce's broken spine becomes healed. However, the drugs forced onto her by Asp, combined with the effects of the fight with Asp, reduce her mind to that of a child as Shondra's traumatised mind regresses to the past to escape her unhappy present, and Wayne reluctantly puts her into a [[Psychiatric hospital|mental institution]].
+
+Bruce eventually leaves England to return home to a civilian life in Gotham, but Alfred remains in England, not wanting to see Bruce Wayne damage his body further. He does not return to Gotham until a while later, when [[Dick Grayson]] persuades him to do so in later issues.
+
+==="KnightsEnd"===
+[[File:Batman-KnightsEnd.jpg|upright|left|thumb|Bruce Wayne returns to Gotham City and battles to reclaim his mantle from Jean-Paul Valley. {{Descript-cvr-art|Batman: Shadow of the Bat|1|#30|August 1994|art=[[Brian Stelfreeze]]|pub=DC}}]]
+Jean-Paul Valley sees visions of his dead father, who had programmed him at birth to be a deadly weapon. These visions tell Jean-Paul to avenge his father's death, and Jean-Paul searches Gotham for his father's killer. Though the killer, Carlton LeHah, had already been encountered and defeated (in ''Batman: Sword of Azrael''), Jean-Paul's conditioning had warped his mind to the extent that he no longer remembered the incident. He eventually comes to believe that Penn Selkirk, a Gotham mobster turned weapons dealer who has taken over the remnants of LeHah's organization, is his father's murderer. Valley now spends his time doggedly pursuing him.
+
+Returning to Gotham, Bruce meets with Tim. Even though Jean-Paul disobeyed Bruce's order to refrain from attacking Bane, Bruce is sufficiently impressed with Jean-Paul's results.  Bruce decides to retire and allow Jean-Paul to continue as Batman.  But when Robin tells Bruce of the circumstances surrounding Abattoir's death, Bruce sneaks into the [[Batcave]] and demands that Jean-Paul step down. Jean-Paul refuses and tells Bruce to leave the cave and never come back.
+
+To rehabilitate his skills due to his lost reflexes after so long out of action, Bruce asks the famed assassin [[Lady Shiva]] to retrain him, using a mask to conceal his identity and arguing that she will do it for the same reason that she does anything; it might be interesting. After helping him regain the essentials of his combat reflexes, Shiva then pits Bruce against several vengeful expert [[martial artist]]s, having killed their master while wearing a distinctive ''[[tengu]]'' mask that carries a motif of a bat that she subsequently gives to Batman.<ref name="dc-ency"/> Shiva's caveat is that these attacks will continue indefinitely until Bruce Wayne breaks his vow to never kill. Finally, in the midst of an attack by the final martial artist, Bruce feigns using the "[[Leopard Blow]]" [[Dim Mak|fatal maneuver]] Shiva had taught him, leaving his would-be assailant apparently dead. Shiva finally declares him worthy of fighting her at some point in the future, with Bruce only revealing his adversary's survival to Nightwing and Robin after her departure. Shiva would later learn the truth.
+
+Now back in fighting shape, Bruce returns to the Batcave and resumes his role as Batman. Along with Robin and Nightwing, he tracks Valley down to Selkirk's [[Penthouse apartment|penthouse]]. Coincidentally, [[Catwoman]] is chasing the same man because he owns a neural enabler which might allow her [[paraplegic]] friend to walk again. Selkirk already wants to kill Jean-Paul for destroying a valuable weapons cache in Gotham Harbor.
+
+When they eventually all meet, mass fighting and gunfire ensue. The battle ends with Selkirk's [[helicopter]] crashing into the Gotham Narrows Bridge while Bruce and Jean-Paul fight on the attached Batrope; Jean-Paul falls aflame into the Gotham River. Bruce and Catwoman save Selkirk and his aides just before the helicopter explodes from the leaking fuel, his decision to protect criminals affirming to Catwoman that the true Batman has returned. When Bruce tries to find Jean-Paul using the Batmobile, it explodes due to a planted booby-trap. Nightwing fears Bruce dead and takes his vengeance out on Jean-Paul on a party boat. The police arrive in time to prevent Nightwing from committing murder, but Jean-Paul escapes.  However, to his shock, Jean-Paul finds Bruce waiting at Wayne Manor; Bruce had managed to escape the Batmobile before Jean-Paul's trap destroyed it, reasoning that he would have done the same thing with a less dangerous trap.
+
+The final battle of the "Knightfall" saga takes place between Jean-Paul Valley and Bruce Wayne in the caverns surrounding the Batcave below Wayne Manor: rather than beating Jean-Paul at hand-to-hand combat, Bruce outwits him by escaping into a passage too narrow for Jean-Paul to go through in his armor, thus forcing Jean-Paul to remove most of it.  Bruce then opens a hatch to the outside, which covered the very hole he fell into as a child,<ref>depicted in ''[[Batman: The Man Who Falls]]'', et al.</ref> allowing sunlight to enter the night lenses in Jean-Paul's helmet.  After being momentarily blinded, Jean-Paul removes his cowl, sees Bruce standing over him in the original Batman costume and concedes defeat, saying "''You are the Batman... You've always been the Batman... and I am nothing...''"  Bruce comforts Jean-Paul, who leaves to wander the streets of Gotham, homeless and destitute. Bruce decides not to take Jean-Paul to the police because it was his decision to make Jean-Paul the Batman, leading to his subsequent breakdown.<ref name="dc-ency"/>
+
+"KnightsEnd" was collected into a trade paperback about a year later.  Originally released as ''Batman: KnightsEnd'', recent editions retitled it as ''Knightfall Volume 3''.
+
+===Aftermath===
+
+==="Prodigal"===
+[[File:Prodigal-Dick Grayson as Batman.jpg|200px|thumb|left|Dick Grayson assuming the role of Batman during the "Prodigal" storyline from ''Batman'' #513 (Dec. 1994), a homage to Dick's first appearance as Robin in ''Detective Comics'' #38 (1940).<br>Art by Mike Gustovich.]] Shortly after the events of ''[[Zero Hour: Crisis in Time]],'' Bruce reaffirms his partnership with Tim, resolving the tension caused by Bruce's unwillingness to accept help during the Arkham prison break. [[Publication history of Dick Grayson#The Prodigal Son|Bruce passes the mantle of Batman to Grayson]] so he can re-evaluate what it will take to restore his aura of invincibility. This begins the ''Prodigal'' storyline, a reference to Dick Grayson essentially being Bruce's prodigal son; Bruce had adopted Dick after his parents were murdered.
+
+Because of the events of the entire arc, considerable time passes before [[James Gordon (character)|Commissioner Gordon]] restores his trust in the idea of a Batman working for good. Gordon can tell that he is not looking at the original Batman (based on Jean-Paul's costume and Dick's height, and the fact that Jean-Paul was more than ready to kill people), and he refuses to place blind trust in a costume after spending so long learning to trust the man. "Prodigal" was utilized as a way of tying up the numerous loose ends that "Knightfall" left, with [[Killer Croc]], the [[Ventriloquist (comics)|Ventriloquist]], the [[Ratcatcher (comics)|Ratcatcher]] and [[Two-Face]], along with many other, less notorious escaped inmates being returned to prison. In doing so, Dick avenges his worst mistake from his days as Robin, when a mistake in a confrontation with Two-Face caused a man to die and nearly killed Bruce. He also comes to appreciate the incredible physical and mental burden Bruce places on himself in donning the Batsuit. During the story, a firm bond arises between Dick and Tim as they share Wayne Manor together in Bruce's and Alfred's absence.
+
+It is revealed later in "No Man's Land" that Bruce also used this time to set up contingency bases throughout Gotham.
+
+==="Troika"===
+[[File:Detective Comics 682.jpg|thumb|150px|right|Batman's black costume's debut during "Troika"]]
+When Bruce finally returns for good, he wears a sturdier, matte-black [[Batsuit]] made of a combination Nomex and Kevlar (inspired by the costume of the Tim Burton ''Batman'' films), and drives a new, state-of-the-art Batmobile. He fights former [[USSR|Soviet]] agents Colonel Vega (who teamed with Asp in "Knightquest: The Search"), [[KGBeast]], and Dark Rider, in order to foil a plot to nuke Gotham City with a device the size and shape of a [[Baseball (ball)|baseball]]. (''Troika'' is the Russian word for "trio".) The saga also shows how Batman makes changes to his life as Bruce Wayne, his relationships with his "family", plans to live without Alfred, and copes with the decision of making Jean-Paul his replacement.
+
+===''Nightwing: Alfred's Return''===
+A [[one-shot (comics)|one-shot]] that features the return of Alfred after his resignation during "Knightquest: The Search". It has Nightwing going to England in order to track Alfred down.
+
+===''Azrael''===
+{{Main|Azrael (comic book)}}
+
+A new series following Jean-Paul Valley was begun in April 1995, titled ''Azrael''. In it, he is found on the street by Bruce Wayne and given money to leave Gotham to travel the world and find his purpose, as had Bruce. His journeys take him to Europe, where he uncovers conspiracies within the Sacred Order of Saint Dumas which had brainwashed him. Later, he returns to Gotham City to aid Batman and the series was retitled ''Azrael: Agent of the Bat'' at issue #47. The series ended after 100 issues, with Valley's apparent death. Each issue was written by [[Dennis O'Neil]]. Azrael's demise occurred at the same time as the ''[[Batman: Hush]]'' storyline, which focused on how Bruce Wayne as Batman interacted with his various friends, allies, loved ones, and enemies; oddly enough though, Jean-Paul Valley was neither mentioned, alluded to, or appeared during this time.
+
+==="Batman: Legacy"===
+This crossover event involves a rematch between Batman and Bane, who is now allied with [[Ra's al Ghul]]. It is followed by the one-shot graphic novel ''Batman: Bane''.
+
+==="Bough Breaks"===
+''Batman Annual'' #22 featured the return of Arnold Etchinson (Abattoir)'s spirit, wishing to take revenge on Batman (specifically, Azrael-Batman) for his death. Now calling himself Etkar, he [[spirit possession|possesses]] Azrael's former Batsuit and returns to the site of his own death with a hostage.
+
+==="Angel and the Bane"===
+In ''Azrael'' issues #36-40, a final thread of the "Knightfall" plot is resolved in the four-part storyline "Angel and the Bane" and its following issue, "Hour of the Quake".
+
+After the events of ''Batman: Bane'', Azrael is tasked by Batman to track down the recently resurfaced Bane. After meeting, the two men struggle, and Bane gets the upper hand with the aid of a small band of Santa Priscan soldiers and his old henchman Bird. He restrains Azrael and injects him with Venom, with the plan of using him as a super soldier to take over Santa Prisca. Azrael is able to resist addiction to the drug and eventually conquers Bane and flies him back to Gotham City. They arrive just as the [[Batman: Cataclysm|massive earthquake]] occurs. Bane attempts escape but is unable; as a last-ditch effort he unsuccessfully tries to convince Azrael to form a partnership. Instead, Azrael reaffirms his dedication to Bruce Wayne.
+
+The cover of issue #37 depicts Bane breaking Azrael over his knee in a recreation of the famous cover of ''Batman'' #497, "Knightfall" part 11.
+
+==Reading order and release dates==
+Each story arc of the "Knightfall" saga ran across a number of Gotham City-related comics.  This created a fairly complex reading order, which is summarized below.
+
+{| class="wikitable"
+|-
+! Knightfall
+! colspan="2" | Knightquest
+! KnightsEnd
+! Aftermath
+|- style="text-align:center;"
+|| '''"Broken Bat"'''<br />(April-late July 1993)
+|| '''"The Crusade"'''<br />(Oct. 1993-June 1994)
+|| '''"The Search"'''<br />(Oct. 1993-June 1994)
+|| (July-Aug. 1994)
+|| (Nov. 1994-Feb. 1995)
+|-
+| rowspan="3" style="vertical-align:top;"|
+* ''Batman'' #491<ref group="note" name="Batman491" />
+* 1: ''Batman'' #492
+* 2: ''Detective Comics'' #659
+* 3: ''Batman'' #493
+* 4: ''Detective Comics'' #660
+* 5: ''Batman'' #494
+* 6: ''Detective Comics'' #661
+* 7: ''Batman'' #495
+* 8: ''Detective Comics'' #662
+* 9: ''Batman'' #496
+* 10: ''Detective Comics'' #663
+* 11: ''Batman'' #497
+| rowspan="5" style="vertical-align:top;"|
+* ''Detective Comics'' #667-668
+* ''Batman: Shadow of the Bat'' #19-20
+* ''Batman'' #501-502
+* ''Detective Comics'' #669-670<ref group="note" name="Detective 670">''Detective Comics'' #670 was mislabeled on its cover as "The Search". It is, in fact, part of "The Crusade". This was confirmed in the letters page in ''Detective Comics'' #674. Per editor Scott Peterson, "we printed the wrong story title on the cover of DETECTIVE #670 (it said "The Search" when it should have said "The Crusade"), and are extremely embarrassed."</ref>
+* ''Catwoman'' #6<ref group="note" name="Catwoman 6">''Catwoman'' #6 was mislabeled on its cover as "The Search". It is, in fact, part of "The Crusade". This was confirmed in the letters page in ''Catwoman'' #10. Per assistant editor Jordan Gorfinkel, "The banner identifying CATWOMAN #6 as "Knightquest: The Search" was our mistake. The banner should have read "Knightquest: The Crusade", as it did on the cover of CATWOMAN #7."</ref>
+* ''Batman'' #503-504
+* ''Catwoman'' #7
+* ''Detective Comics'' #671-673
+* ''Batman: Shadow of the Bat'' #24
+* ''Batman'' #505
+* ''Batman: Shadow of the Bat'' #25
+* ''Batman'' #506-507
+* ''Batman: Shadow of the Bat'' #26-27
+* ''Detective Comics'' #674
+* ''Batman'' #508
+* ''Batman: Shadow of the Bat'' #28
+* ''Detective Comics'' #675
+| rowspan="5" style="vertical-align:top;"|
+* ''Justice League Task Force'' #5-6<ref group="note" name="paperback">These issues were not included in the 2012 Knightquest trade paperback, but they are included in the 2017 omnibus edition and the 2018 25th Anniversary trade paperback.</ref>
+* ''Batman: Shadow of the Bat'' #21-23<ref group="note" name="paperback"/>
+* ''Batman: Legends of the Dark Knight'' #59-61<ref group="note" name="paperback"/>
+* ''Robin'' #7
+| rowspan="5" style="vertical-align:top;"|
+* 1: ''Batman'' #509
+* 2: ''Batman: Shadow of the Bat'' #29
+* 3: ''Detective Comics'' #676
+* 4: ''Batman: Legends of the Dark Knight'' #62
+* 5: ''Robin'' #8
+* 6: ''Catwoman'' #12
+* 7: ''Batman'' #510
+* 8: ''Batman: Shadow of the Bat'' #30
+* 9: ''Detective Comics'' #677
+* 10: ''Batman: Legends of the Dark Knight'' #63
+* Aftermath: ''Robin'' #9
+* Aftermath: ''Catwoman'' #13
+* ''Showcase '94'' #10
+|-
+| style="text-align:center;"| '''"Prodigal"<ref name="Robin 0">{{cite web|url=https://www.bleedingcool.com/2018/11/08/dc-comics-robin-0-batman-prodigal/ |title=DC Comics is Adding Robin #0 to the Batman Prodigal Collection Now |publisher=Bleeding Cool}}</ref><ref group="note" name="Robin 0">''Robin'' #0 (Oct. 1994), officially part of the ''Zero Hour'' event, is also a significant lead-in to ''Prodigal''. This issue established a previously untold backstory involving Dick Grayson and Two-Face, which is of great importance later in ''Prodigal''. Also, the ending scene in this issue continues right into ''Batman'' #512's opening pages. This issue is included in the new 25th anniversary edition ''Batman: Prodigal'' trade paperback, released in 2019.</ref>'''<br />(Nov. 1994-Jan. 1995)
+|-
+| valign="top" |
+* 1: ''Batman'' #512
+* 2: ''Batman: Shadow of the Bat'' #32
+* 3: ''Detective Comics'' #679
+* 4: ''Robin'' #11
+* 5: ''Batman'' #513
+* 6: ''Batman: Shadow of the Bat'' #33
+* 7: ''Detective Comics'' #680
+* 8: ''Robin'' #12
+* 9: ''Batman'' #514
+* 10: ''Batman: Shadow of the Bat'' #34
+* 11: ''Detective Comics'' #681
+* 12: ''Robin'' #13
+|- style="text-align:center;"
+|| '''"Who Rules the Night"'''<br />(late July-Oct. 1993)
+|| '''"Troika"'''<br />(Feb. 1995)
+|-
+| valign="top" |
+* 12: ''Detective Comics'' #664
+* 13: ''Showcase '93'' #7
+* 14: ''Showcase '93'' #8
+* 15: ''Batman'' #498
+* ''Batman: Shadow of the Bat'' #16-18<ref group="note" name="Shadow of the Bat 16-18">''Batman: Shadow of the Bat'' #16-18 is a non-numbered tie-in story to Knightfall. In both the original trade paperback release as well as the 2012 reissue edition, this story was incorrectly placed between ''Detective Comics'' #665 (part 16) and ''Batman'' #499 (part 17). This created a problem with the flow of the story, as Knightfall part 16 flows directly into part 17. In the 2017 omnibus edition and 2018 25th Anniversary trade paperback edition of Knightfall, the ''Batman: Shadow of the Bat'' story is correctly placed after ''Batman'' #498 (part 15).</ref>
+* 16: ''Detective Comics'' #665
+* 17: ''Batman'' #499
+* 18: ''Detective Comics'' #666
+* 19: ''Batman'' #500
+| valign="top" |
+* ''Batman'' #515
+* ''Batman: Shadow of the Bat'' #35
+* ''Detective Comics'' #682
+* ''Robin'' #14
+|}
+* The following ''Annual''s, special issues and guest appearances take place during "Knightquest" with Jean-Paul Valley as Batman, but are not vital to the plot:
+** ''Batman Annual'' #17
+** ''Detective Comics Annual'' #6
+** ''Showcase '93'' #10
+** ''Superman'' vol. 2 #83
+** ''Chain Gang War'' #5-6, #10-12
+** ''Batman: Legends of the Dark Knight Annual'' #3
+** ''Catwoman'' #5
+** ''Showcase '94'' #5-7
+** ''[[Robin (character)#Robin monthlies|Robin]]'' #1
+** ''[[Outsiders (comics)#Outsiders|Outsiders]]'' #7-9
+** ''[[Bloodlines (comics)|Bloodbath]]'' #1-2
+** ''Batman/[[Punisher]]: Lake of Fire'' (this has a direct sequel, ''Punisher/Batman: Deadly Knights'', which takes place during the aftermath of "KnightsEnd" and features Bruce Wayne as Batman)
+** ''[[Batman: Turning Points]]'' #4
+* During his incapacitation, Bruce Wayne appears in:
+** ''Justice League Task Force'' #4
+** ''Catwoman'' #4
+** ''Batman'' #506
+* Bane and his henchmen appear in ''Catwoman'' #1-4 in the lead-up to, and aftermath of, his defeat by the new Batman.
+
+==Influence and legacy==
+DC Comics published "Knightfall" around the same time as "[[The Death of Superman]]" storyline. "Knightfall" started almost immediately after the "Funeral For a Friend" storyline in the ''Superman'' books. During the breakout at Arkham Asylum, Batman and Robin both wear a black arm band with the S-shield engraved on it. The two stories involved [[DC Comics]]'s most prominent characters. Similar stories followed for [[Green Lantern]], [[Wonder Woman]], [[Aquaman]], and [[Green Arrow]], with Green Lantern [[Hal Jordan]] being driven insane and replaced with [[Kyle Rayner]], a [[Artemis of Bana-Mighdall|new Wonder Woman]] being appointed by [[Hippolyta (DC Comics)|Hippolyta]], Aquaman losing his hand, and Green Arrow dying in a plane crash as his long-lost [[Green Arrow (Connor Hawke)|son]] took over the role.
+
+In the opening of the novelisation, ''KnightFall'', [[Dennis O'Neil]] stated that part of the reason "Knightfall" was written was due to the recent popularity of more "ruthless" heroes such as the [[Terminator (character)|Terminator]] and [[James Bond (character)|James Bond]] in films, as editors were starting to wonder if readers would prefer a Batman who was willing to kill his opponents.
+
+During ''[[DC vs. Marvel]]'', Bane attempts to break [[Captain America]]'s back in a fight in a similar maneuver, but is caught off-guard when [[Captain America's shield]] returns to its owner to strike Bane in the back of the head and knock him out.<ref>{{cite web|url=http://secretearths.blogspot.com/2006/05/dc-versus-marvel-dcmarvel-where-dc.html |title=Secret Wars on Infinite Earths: The Comic Book Fight Club |website=Secretearths.blogspot.com |date=2006-05-22 |access-date=2016-03-10}}</ref>
+
+In the climax to Year One of ''[[Injustice: Gods Among Us]]'', Superman confronts Batman in the Batcave as Batman is downloading the formula to a pill that can grant the user superhuman strength and durability, stolen from the Fortress of Solitude. While Superman does not want to kill Batman, he chooses to paralyze him by breaking his back in a similar fashion to Bane (albeit by standing on Batman's back instead of slamming him over his knee as Bane did). This puts Batman out of commission for much of Year Two as he heals.
+
+==Reception==
+[[IGN]] ''Comics'' #15 ranked ''Batman: Knightfall Part One-Broken Bat'' on a list of the 25 greatest Batman graphic novels, saying: "What makes 'Knightfall, Part One' so memorable is not the actually snapping of Batman's back. It's the quick fall into despair that proves most shocking. The ending is a foregone conclusion as Batman is worn down both physically and mentally. The Batman's spirit is broken before his vertebrae and that's a feat you'll never see accomplished anywhere else."<ref>{{cite web |last=Goldstein |first=Hilary |date=2014-04-09 |title=The 25 Greatest Batman Graphic Novels - IGN |url=http://comics.ign.com/articles/624/624619p1.html |url-status=dead |archive-url=https://web.archive.org/web/20060213033627/http://comics.ign.com/articles/624/624619p1.html |archive-date=2006-02-13 |access-date=2016-03-10 |website=Comics.ign.com}}</ref>
+
+==Continuity==
+The bulk of the events in the ''Knightfall'' saga are estimated to take place in the 10th or 11th year of Batman's career by most reckonings, including official DC timelines. It begins within a few months of Tim Drake assuming the role of the third Robin. Dick Grayson's wedding to [[Starfire (Koriand'r)|Starfire]] occurs very shortly after Bruce Wayne's injury. It is an election year, and Armand Krol is campaigning for re-election as mayor both before and after the story arc.
+
+The initial scenes of the prelude miniseries ''Batman: Sword of Azrael'' #1-4 take place during the Gotham City "Founders' Day" parade.
+
+A meeting between Selina Kyle and Bruce Wayne on his airplane is explicitly described as the first [[Crisis on Infinite Earths|Post-''Crisis'']] out-of-costume interaction between the two.
+
+As the contemporary [[Batmobile]] was destroyed in "KnightsEnd", the original Batmobile (with the large hood ornament) was used by Batman and Robin for several issues following. "Knightquest" also introduces Batman's rocket rail car linking the Batcave to the Gotham [[Rapid transit|subway]] system; it was designed and completed by [[Harold Allnut]] after his discovery of the cavern passages in ''Detective Comics'' #650 ("The Dragon").
+
+In "KnightsEnd, Part 1: Spirit of the Bat" (''Batman'' #509 (July 1994)), Jean-Paul Valley references his defeat of [[Marvel Comics]]' [[Jigsaw (Marvel Comics)|Jigsaw]] during the crossover issue ''Batman/Punisher: Lake of Fire''. This is a very rare mention of a character from another company in a non-intercompany capacity, made possible by the insanity of Jean-Paul.
+
+==Alternates==
+In the one-shot issue '''''Tales from the Dark Multiverse: Knightfall''''', Azrael-Batman viciously defeats Bruce Wayne in their final confrontation. The storyline then jumps to 30 years later where Jean-Paul Valley, who now calls himself "Saint Batman", uses Venom to maintain his physicality (possibly to compensate for his aging) after killing all of Gotham's villains. Saint Batman also has Gotham burnt down and completely rebuilt as he isolates it from the rest of the outside world, which is hinted to have fallen into chaos. Jean-Paul keeps Bruce Wayne 'alive' as only a head and torso in Wayne Tower, linked to a life support system. Jean Paul visits Wayne at Wayne Tower once a year and attempts to sway him to approve of his methods. Wayne is eventually 'rescued' by Bane's son and Lady Shiva, the son of Bane seeking revenge for Bane's death at Jean-Paul's hands decades earlier, with the two even providing Wayne with a new body made of nanotech. The three of them, along with other insurgents, work to destroy Jean-Paul's hold on Gotham, even persuading his own wife to turn against him by stealing his Venom supply. However, after confronting Bane's son (whose blood naturally produces Venom) and Lady Shiva, Saint Batman manages to defeat them in battle after nearly being beaten to death. Distracted while fighting Shiva and Wayne, the son of Bane stabs Jean-Paul in the back and proceeds to break his back shortly afterwards. But after their victory, Wayne then kills Shiva and Bane's son after they suggest restoring Gotham to its former glory; Wayne refutes their suggestion, revealing that his years of isolation and torment have driven him to a point where he concludes that he can only rely on himself and that Jean-Paul was mostly right all along. Wayne confesses this to Jean-Paul and then hangs him up on a bat-sigil in the style of a crucifixion for all the citizens of Gotham to see.
+
+==Adaptations==
+
+===Novels===
+[[Dennis O'Neil]] adapted the entire storyline into a 1994 novel which was released by Warner Books in hardcover form and then in mass paperback later on (Hardcover {{ISBN|0-553-09673-7}}, Paperback {{ISBN|0-553-57260-1}}). A young adults' book version was also released, this one written by [[Alan Grant (writer)|Alan Grant]] and titled ''Batman: Knightfall and Beyond'' ({{ISBN|0-553-48187-8}}).
+
+===Television===
+* ''[[The Flash (2014 TV series)|The Flash]]'' alluded to Knightfall in the episode "Enter Zoom". [[Barry Allen (Flash)|The Flash's]] enemy [[Zoom (comics)|Zoom]] overpowers Barry in their battle and breaks his back. He then goes to Central City News and the police department, holding Barry's broken body while taunting Central City of his victory, similar to what Bane did to Batman. After Zoom escapes, Barry's accelerated healing allows him to heal from his damaged back, although he takes some time to recover from the psychological effects of the beating.
+* The Knightfall storyline is spoofed in ''[[Supermansion]]'' in the episode "Brokeback Saturn". Because Black Saturn is seriously injured due to the beating Bugula gave him in the previous episode, he allows Courtney to replace him as he recovers and is given a suit similar to the one Jean wore during his time as Batman. However, unlike the comic, Courtney actually betters the Black Saturn mantle with the public and the League admitting he does a better job than his predecessor. Saturn gets jealous and when he recovers, seeks to reclaim his title; however, since his suit was in the cleaner's, he uses his villain alter ego Mage (a spoof on Tom Hardy's portrayal of Bane) to confront Courtney. As "Mage" he convinces Courtney to take off the suit, taunting that he could not beat him without the suit; as Courtney gets the suit off, Mage immediately enters it, revealing that he was the original Saturn, and beats up Courtney, telling him to stay at his position.
+* In the ''[[Gotham (TV series)|Gotham]]'' episode "I Am Bane", Eduardo Dorrance, who has now become Bane, throws Alfred against a metal pole, apparently breaking his back, echoing the breaking of Batman's back in Knightfall.
+
+===Animation===
+* The character Bane was quickly added to the roster of villains in ''[[Batman: The Animated Series]]''. He appeared in the episode "Bane" as an assassin rather than the mastermind as he was in the comics. He was hired by the mobster [[Rupert Thorne]] to eliminate Batman and, in turn, by Thorne's [[Gun moll|moll]] to eliminate Thorne afterwards. Bane eventually fought Batman on board a boat (where Robin had been kidnapped and tied up), but before he could break his back as he did in the comics, Batman thrusts a crumpled [[batarang]] into the controls that inject Bane with Venom. This action caused a rapid and uncontrollable feed into Bane's body before Batman pulls out the tube, stopping a fatal overdose of the drug.
+* The ''Knightfall'' saga was loosely adapted in ''[[The Batman (TV series)|The Batman]]'' episode ''Traction''. In this version, Bane lures the Batman into a trap. Batman overpowers Bane in his normal form, but when Bane unleashed his more bestial side, he severely injures Batman and breaks his back off-screen. Believing him to be dead, Bane attempts to take over Gotham City. Three weeks after crippling Batman, Bane goes on a rampage through Gotham and knocks out Detective Ellen Yin. As he prepares to kill her, Batman interferes, wearing a new mechanical Batsuit, and battles Bane. As Bane attempts to unmask Batman and kill him, Batman uses an electrical wire to incapacitate Bane.
+
+===Film===
+* In ''[[Justice League: Doom]]'', Bane makes reference to the storyline when he confronts Bruce Wayne above his parents' empty graves, stating: "When we fought before, I broke the bat. Today...I break the man".
+* ''[[The Dark Knight Rises]]'' is partially based on the "Knightfall" story arc. The comic focuses on Bane's early life in a foreign prison; as a way to protest Bruce's decision to continue as Batman, Alfred resigns his post as his butler; Bane uses a high-tech cannon to start a jailbreak at [[Blackgate Penitentiary]] and equips the inmates with firearms; in order to take control of Gotham, Bane deduces that Batman is Bruce Wayne. Bane then ambushes Batman and forces him to fight. Since Batman is too weak to defend himself, Bane successfully beats Batman and finishes him off by breaking his back with his knee. Afterwards, Bruce struggles to recover from his spinal injury.
+* In ''[[Batman vs. Teenage Mutant Ninja Turtles]]'', Bane references this storyline when he boasts that he is "the man who broke the Bat!", as he attempts to break Donatello's back in the same manner.
+
+===Video games===
+* The video game adaptation of ''[[Batman Forever (video game)|Batman Forever]]'' pays homage to the initial confrontation between Batman and Bane. During the final boss battle, [[Riddler|The Riddler]] initially appears wearing a hulking suit of armor (based upon the costume worn during the film's climax) which gives his physique a muscular appearance akin to that of Bane's. As such, Riddler will attack the player with an identical back breaker move to the one seen in Knightfall. However, once the player manages to diminish his health bar, The Riddler's true feeble form will appear, allowing the player to eliminate him with ease.
+* In the video game ''[[Batman: Rise of Sin Tzu]]'' Bane breaks into the batcave to challenge Batman. During this fight, if the player is caught by Bane, he executes the infamous back breaker.
+* The famous back-breaking scene was referenced in ''[[Batman: Arkham Asylum]]'', where if the player loses the fight with [[Bane (comics)|Bane]], one of the death scenes shows Bane breaking Batman over his knee. Another reference is where Batman threatens, "No, Bane. This time, I break you!" before knocking Bane down with the Batmobile.
+* In ''[[Lego Batman: The Videogame]]'' for the [[Xbox 360]], the achievement Atomic Backbreaker is acquired by using Bane to give Batman the famous back-breaker.
+* An alternate skin for Bane inspired by "Knightfall" can be unlocked in ''[[Injustice: Gods Among Us]]'' by rating the mobile app version. Also, Bane's super move is known as "Break the Bat", which involves striking his opponent's back over his knee.
+* In the video game, ''[[Batman: Arkham Origins]]'', exclusive DLC for the PlayStation 3 includes a Batman skin based on the "Knightfall" storyline. It also includes a selection of challenge maps featuring characters and enemies from the storyline. Bane makes reference to "breaking the bat" on a few occasions and in multiplayer, Bane can perform the back-breaker to instantly kill Batman or Robin. In the final battle in the main storyline, at one point Bane does manage to break Batman's back over his knee, though it only temporarily stops Batman before the fight resumes.
+* In ''[[Batman: Arkham Knight]]'', Azrael appears in a sidequest in which he expresses his interest in becoming Batman's successor (though this is the Michael Washington Lane version), referencing Azrael replacing Batman in the ''Knightfall'' storyline. In the game's ending, Batman activates the Knightfall protocol after the Scarecrow reveals to the world that he is Bruce Wayne. He is supposedly killed when he arrives home and Wayne Manor explodes (though a likely scenario is that he faked his death) and a new Batman emerged protecting Gotham's streets afterwards. Whether this is Bruce or a successor is never shown.
+
+===Radio===
+{{Infobox album
+| italic_title = no
+| name         = Batman: Knightfall
+| type         = studio
+| longtype     = (radio broadcast)
+| artist       =
+| cover        = Knightfall BBC Radio.PNG
+| alt          =
+| released     = {{start date|2007|03|5}}
+| recorded     =
+| venue        =
+| studio       =
+| genre        =
+| length       = Disc 1: ~80 min<br>Disc 2: ~60 min<br>Disc 3: ~80 min
+| label        = BBC Audio
+| producer     = [[Dirk Maggs]]
+| prev_title   =
+| prev_year    =
+| next_title   =
+| next_year    =
+}}
+In 1994, [[BBC Radio 1]] broadcast a radio-play adaptation, later also released on audio-tape ({{ISBN|0-563-39520-6}}) and CD by BBC Audiobooks on March 5, 2007. It was adapted, produced and directed by [[Dirk Maggs]], with music composed by [[Mark Russell (composer)|Mark Russell]], who had recently made ''[[Superman: Doomsday & Beyond]]'' on [[BBC Radio 5 (former)|BBC Radio 5]]. This show, however, was not commissioned of its own, but rather to be three-minute episodes on the ''[[Mark Goodier]] Show''. This meant it was written with a sense of immediacy; having to make an instant effect and each three-minute segment contains a major plot development or sound effect stunt and end on a cliffhanger. DC acknowledged the effort in an issue of ''Shadow of The Bat'' by having villains jump past a sign that read Dirk Maggs Radio. The radio-play itself contained similar minor allusions to Batman - the host of a TV show called [[Chuck Dixon]] and [[Dennis O'Neil]] an author of a book.
+
+"Knightfall" was a sequel to ''[[Batman: The Lazarus Syndrome]]'' also produced for BBC radio by [[Dirk Maggs]].
+
+Its performers are:
+* [[Bob Sessions (actor)|Bob Sessions]] as [[Batman]]
+* [[Michael Gough]] as [[Alfred Pennyworth]]
+* [[Daniel Marinker]] as [[Robin (comics)|Robin]]
+* [[Peter Marinker]] as [[Bane (comics)|Bane]], [[Jack Drake]]
+* [[Kerry Shale]] as [[Jean Paul Valley]], [[Joker (character)|The Joker]], [[Cavalier (comics)|The Cavalier]], [[Thomas Wayne]]
+* [[William Roberts (actor)|William Roberts]] as [[Commissioner James Gordon]], [[Amygdala (comics)|Amygdala]], [[Carlton LeHa]], [[Tough Tony]]
+* [[Lorelei King]] as [[Renee Montoya]], [[Leslie Thompkins]], [[Lady Shiva]], Young Bruce, [[Martha Wayne]], [[Sarah Essen]]
+* [[Eric Meyers (actor)|Eric Meyers]] as [[Harvey Bullock (comics)|Harvey Bullock]], [[Colonel Vega]], Batcave Computer, [[Joe Chill]], Bird, [[Jeremiah Arkham]], [[Firefly (DC Comics)|Firefly]], [[Nomoz]]
+* [[Michael Roberts (actor)|Michael Roberts]] as [[Ventriloquist (comics)|The Ventriloquist]], [[Film Freak]], [[Simpson Flanders]], [[Benedict Asp]], Hood
+* [[Alibe Parsons]] as [[Shondra Kinsolving]]
+* [[James Goode]] as [[Nightwing]], [[Scarecrow (DC Comics)|The Scarecrow]]
+* [[Stuart Milligan]] as [[Riddler]], [[Maxie Zeus]]
+* [[Chris Emmett]] as [[Mad Hatter (DC Comics)|Mad Hatter]]
+* [[Vincent Marzello]] as [[Armand Krol]], [[Abattoir]], [[Victor Zsasz|Mr. Zsasz]]
+
+===Action figures===
+In 1994, [[Kenner]] released the Legends of Batman [[action figure]] collection. This revolved primarily around [[Elseworlds]] stories and the modern "Knightfall" era; although it strangely did not include a Bane figure. The collection lasted two series and corresponded with the [[The Death of Superman#Action figures|Superman: Man of Steel]] figure line based on ''[[The Death of Superman]]''.
+
+In 2006, [[DC Direct]] released a series of figures specifically based on the "Knightfall" saga. This included Jean Paul Valley as Batman, Nightwing, Bane, Catwoman, and the unique "Mask of Tengu" Batman figure.
+
+==Collected editions==
+Part of the storyline has been collected into a few [[Trade paperback (comics)|trade paperback]]s. Earlier printings of the "Knightfall" books had covers by [[Kelley Jones]] and were under the "Knightfall" name and book three was under the "KnightsEnd" name (with this volume featuring a new cover by [[Graham Nolan]] and [[Brian Stelfreeze]]). These earlier editions also featured the original cover art/DC Comics monthly ads of the storyline as the chapter headings. The later printings of these three books do not have these cover/ads and solely title the three books under the "Knightfall" name with a similar cover dressing design. These new editions have covers by [[Mike Deodato]].
+* ''Batman: Knightfall Part One: Broken Bat'' (collects ''[[Batman (comic book)|Batman]]'' #491–497 and ''[[Detective Comics]]'' #659–663, 272 pages, paperback, September 1993, {{ISBN|1-56389-142-5}})
+* ''Batman: Knightfall Part Two: Who Rules the Night'' (collects ''[[Batman (comic book)|Batman]]'' #498–500, ''[[Detective Comics]]'' #664–666, ''[[Batman: Shadow of the Bat]]'' #16–18, and stories from ''Showcase '93'' #7–8; 288 pages, paperback, 1993, {{ISBN|1-56389-148-4}})
+* ''Batman: Knightfall Part Three: KnightsEnd'' (collects ''[[Batman (comic book)|Batman]]'' #509–510, ''[[Batman: Shadow of the Bat]]'' #29–30, ''[[Detective Comics]]'' #676–677, ''[[Batman: Legends of the Dark Knight]]'' #62–63, and ''Catwoman'' (vol. 2) #12; 304 pages, paperback, June 1995, {{ISBN|1-56389-191-3}})
+
+Parts of the Aftermath storyline had been collected in a [[Trade paperback (comics)|trade paperback]]:
+* ''Batman: Prodigal'' (collects ''[[Batman (comic book)|Batman]]'' #512–514, ''[[Detective Comics]]'' #679–681, ''[[Batman: Shadow of the Bat]]'' #32–34, and ''Robin'' (vol. 4) #11–13; 271 pages, paperback, January 1998, {{ISBN|1-56389-334-7}})
+
+=== 2012 new editions ===
+Accompanying the release of the movie ''[[The Dark Knight Rises]]'' in 2012, DC Comics released a new edition of trade paperbacks collecting the Knightfall storyline. While the 1993 editions omitted the complete Knightsquest story arc, the 2012 editions re-release "The Crusade" part of this arc in volume 2, leaving "The Search" part still uncollected. In addition, Bane's back story from the one-shot publication ''Batman: Vengeance of Bane'' #1 is included in the first volume, providing a proper introduction of the character, and volume 3 sees the "KnightsEnd" and "Prodigal" arcs released in a single volume.
+* ''Batman: Knightfall Vol. 1'' (includes all the material collected in 1993s ''Batman: Knightfall, Part One: Broken Bat'' and ''Batman: Knightfall, Part Two: Who Rules the Night'' with the addition of ''Batman: Vengeance of Bane'' #1, 640 pages, paperback, 2012, {{ISBN|978-1401233792}})
+* ''Batman: Knightfall Vol. 2: Knightquest'' (includes ''[[Detective Comics]]'' #667-675, ''[[Batman: Shadow of the Bat]]'' #19-20, 24–28, ''[[Batman (comic book)|Batman]]'' #501-508, ''Catwoman'' (vol. 2) #6-7 and ''Robin'' (vol. 4) #7, 656 pages, paperback, 2012, {{ISBN|978-1401235369}})
+* ''Batman: Knightfall Vol. 3: KnightsEnd'' (includes all material collected in 1993's ''Batman: Knightfall, Part Three: KnightsEnd'' and 1998's ''Batman: Prodigal'', 652 pages, paperback, 2012 {{ISBN|978-1401237219}})
+
+=== 2017–2018 omnibus editions ===
+''Batman: Knightfall Omnibus Vol. 1'' ({{ISBN|978-1401270421}}) was released in April 2017 in hardcover format, featuring a new cover by artist Kelley Jones. At 960 pages, this edition contains the entire contents of the 2012 edition of ''Batman: Knightfall Vol. 1'' and also contains several never before reprinted prelude issues to Knightfall. These extra issues include ''Batman'' #484-490 and ''Detective Comics'' #654–658. Other new features in this edition include a two-page introduction written by Doug Moench, a two-page afterword written by Chuck Dixon, a short story from ''Batman Villains [[Secret Files and Origins]]'' #1 (October 1998) titled "Lost Pages: How Bane Infiltrated Wayne Manor", and other various concept art and covers.
+
+''Batman: Knightfall Omnibus Vol. 2 - Knightquest'' ({{ISBN|978-1401274368}}) was released in hardcover in October 2017. This edition includes "The Crusade", which was included in the 2012 edition ''Batman: Knightfall Vol. 2 - Knightquest'', as well as "The Search", which had never before been reprinted.
+
+''Batman: Knightfall Omnibus Vol. 3 - KnightsEnd'' ({{ISBN|978-1401278496}}) was released in May 2018 in hardcover. This edition includes "KnightsEnd" and "Prodigal", which were included in the 2012 edition ''Batman: Knightfall Vol. 3 - KnightsEnd'', as well as "Troika", which had never before been reprinted.
+
+===2018–2019 25th Anniversary editions===
+Starting on September 11, 2018, nine new trade paperback books were planned for release which were completed on February 5, 2019 as part of the 25th anniversary of the ''Batman: Knightfall'' event.<ref>{{cite web|url=https://www.bleedingcool.com/2018/03/15/dc-comics-to-reprint-and-recut-chuck-dixons-batman-knightfall-for-25th-anniversary/|title=DC Comics to Reprint and Recut Chuck Dixon's Batman: Knightfall for 25th Anniversary|date=March 15, 2018|website=www.BleedingCool.com|access-date=May 9, 2019}}</ref> These new volumes essentially have the same issues from all the past collected editions, including the ones first reprinted in the ''Omnibus'' editions, which is the first time these issues have been published in a trade paperback format. Unlike the ''Omnibus''es and the 2012 editions, these new editions are printed in smaller volumes, much like the original 1990s editions, essentially only focusing on specific points of the storyline instead of merging more than one together in a single volume. Much like the 2012 editions, the 25th anniversary editions were also released digitally.
+{| class="wikitable"
+|+
+!Title
+!Material collected
+!Publication date
+!ISBN
+|-
+|''Batman: Prelude to Knightfall''
+|
+* ''Batman: Vengeance of Bane'' #1
+* ''Batman'' #484
+* ''Batman'' #485
+* ''Batman'' #486
+* ''Batman'' #487
+* ''Detective Comics'' #654
+* ''Detective Comics'' #655
+* ''Detective Comics'' #656
+* ''Batman'' #488
+* ''Detective Comics'' #657
+* ''Detective Comics'' #658
+* ''Batman'' #489
+* ''Batman'' #490
+* ''Batman'' #491
+|September 11, 2018
+|{{ISBN|978-1401284220}}
+|-
+|''Batman: Knightfall Vol. 1''
+|
+* ''Batman'' #492
+* ''Detective Comics'' #659
+* ''Batman'' #493
+* ''Detective Comics'' #660
+* ''Batman #494''
+* ''Detective Comics'' #661
+* ''Batman'' #495
+* ''Detective Comics'' #662
+* ''Batman'' #496
+* ''Detective Comics'' #663
+* ''Batman'' #497
+* ''Batman Villains Secret Files and Origins'' #1 - "Lost Pages: How Bane Infiltrated Wayne Manor"
+|September 18, 2018
+|{{ISBN|978-1401284299}}
+|-
+|''Batman: Knightfall Vol. 2''
+|
+* ''Detective Comics'' #664
+* ''Showcase '93'' #7 - "Two-Face - Double-Cross"
+* ''Showcase '93'' #8 - "Two-Face Part 2 - Bad Judgment"
+* ''Batman'' #498
+* ''Batman: Shadow of the Bat'' #16
+* ''Batman: Shadow of the Bat'' #17
+* ''Batman: Shadow of the Bat'' #18
+* ''Detective Comics'' #665
+* ''Batman'' #499
+* ''Detective Comics'' #666
+* ''Batman'' #500
+|September 25, 2018
+|{{ISBN|978-1401284398}}
+|-
+|''Batman: Knightquest - The Crusade Vol. 1''
+|
+* ''Detective Comics'' #667
+* ''Detective Comics'' #668
+* ''Robin'' (vol. 4) #1
+* ''Robin'' (vol. 4) #2
+* ''Batman: Shadow of the Bat'' #19
+* ''Batman: Shadow of the Bat'' #20
+* ''Batman'' #501
+* ''Batman'' #502
+* ''Detective Comics'' #669
+* ''Detective Comics'' #670
+* ''Catwoman'' (vol. 2) #6
+* ''Batman'' #503
+* ''Batman'' #504
+* ''Catwoman'' (vol. 2) #7
+|October 2, 2018
+|{{ISBN|978-1401284503}}
+|-
+|''Batman: Knightquest - The Crusade Vol. 2''
+|
+* ''Detective Comics'' #671
+* ''Detective Comics'' #672
+* ''Detective Comics'' #673
+* ''Batman: Shadow of the Bat'' #24
+* ''Batman'' #505
+* ''Batman: Shadow of the Bat'' #25
+* ''Batman'' #506
+* ''Batman'' #507
+* ''Batman: Shadow of the Bat'' #26
+* ''Batman: Shadow of the Bat'' #27
+* ''Showcase '94'' #7 - "Cracks"
+* ''Detective Comics'' #674
+* ''Batman'' #508
+* ''Batman: Shadow of the Bat'' #28
+* ''Detective Comics'' #675
+|October 9, 2018
+|{{ISBN|978-1401284589}}
+|-
+|''Batman: Knightquest - The Search''
+|
+* ''Justice League Task Force'' #5
+* ''Justice League Task Force'' #6
+* ''Batman: Shadow of the Bat'' #21
+* ''Batman: Shadow of the Bat'' #22
+* ''Batman: Shadow of the Bat'' #23
+* ''Batman: Legends of the Dark Knight'' #59
+* ''Batman: Legends of the Dark Knight'' #60
+* ''Batman: Legends of the Dark Knight'' #61
+* ''Robin'' (vol. 4) #7
+|November 27, 2018
+|{{ISBN|978-1401285012}}
+|-
+|''Batman: KnightsEnd''
+|
+* ''Batman'' #509
+* ''Batman: Shadow of the Bat'' #29
+* ''Detective Comics'' #676
+* ''Batman: Legends of the Dark Knight'' #62
+* ''Robin'' (vol. 4) #8
+* ''Catwoman'' (vol. 2) #12
+* ''Batman'' #510
+* ''Batman: Shadow of the Bat'' #30
+* ''Detective Comics'' #677
+* ''Batman: Legends of the Dark Knight'' #63
+* ''Robin'' (vol. 4) #9
+* ''Catwoman'' (vol. 2) #13
+* ''Showcase '94'' #10 - "Aftermath"
+|December 4, 2018
+|{{ISBN|978-1401285180}}
+|-
+|''Batman: Prodigal''
+|
+* ''Robin'' (vol. 4) #0
+* ''Batman'' #512
+* ''Batman: Shadow of the Bat'' #32
+* ''Detective Comics'' #679
+* ''Robin'' (vol. 4) #11
+* ''Batman'' #513
+* ''Batman: Shadow of the Bat'' #33
+* ''Detective Comics'' #680
+* ''Robin'' (vol. 4) #12
+* ''Batman'' #514
+* ''Batman: Shadow of the Bat'' #34
+* ''Detective Comics'' #681
+* ''Robin'' (vol. 4) #13''
+|January 8, 2019
+|{{ISBN|978-1401285609}}
+|-
+|''Batman: Troika''
+|
+* ''Batman'' #515
+* ''Batman: Shadow of the Bat'' #35
+* ''Detective Comics'' #682
+* ''Robin'' (vol. 4) #14
+* ''Nightwing: Alfred's Return'' #1
+* ''Batman: Vengeance of Bane II - The Redemption''
+|February 5, 2019
+|{{ISBN|978-1401285876}}
+|}
+
+==Notes==
+<references group="note"/>
+
+==References==
+{{Portal|1990s}}
+{{Reflist}}
+
+{{Batman publications}}
+{{DC events}}
+
+[[Category:1994 novels]]
+[[Category:1994 audio plays]]
+[[Category:Comics adapted into radio series]]
+[[Category:British radio dramas]]
+[[Category:Batman radio series]]
+[[Category:Comics by Alan Grant (writer)]]
+[[Category:Comics by Dennis O'Neil]]
+[[Category:Comics by Doug Moench]]

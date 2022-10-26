@@ -1,0 +1,66 @@
+{{Short description|Name for several DC Comics characters}}
+{{Infobox comics character
+|character_name=Whip
+|publisher=[[DC Comics]]
+|debut=''Flash Comics'' #1
+|creators=[[Grant Morrison]]<br>[[Fabian Nicieza]]
+|alter ego=Rodney Gaynor
+|aliases=Fernando Suarez (El Castigo)<br>Johnny Lash<br>Shelly Gaynor<br>Unnamed assassin
+|affiliations='''Unnamed assassin'''<br>[[League of Assassins]]
+|powers=*Agility
+*Enhanced weaponry 
+*Hand to hand combat}}
+
+The '''Whip''' is the alias used by different characters in [[DC Comics]] with four of them being superheroes. The third one made his first appearance in ''[[Flash Comics]]'' #1.<ref>{{cite book |last1=Benton |first1=Mike |title=Superhero Comics of the Golden Age: The Illustrated History |date=1992 |publisher=Taylor Publishing Company |location=Dallas |isbn=0-87833-808-X |url=https://archive.org/details/superherocomicso0000bent/page/162 |access-date=8 April 2020 |pages=163-164}}</ref> The fourth Whip appeared in 2005 and was created by [[Grant Morrison]]. The fifth Whip appeared in 2011 and was created by [[Fabian Nicieza]].
+
+==Fictional character biography==
+===Fernando Suarez (El Castigo)===
+The first Whip was '''Don Fernando Suarez'''. In 1840s Mexico, Fernando was the protector of the poor in a small Mexican town.<ref>{{cite book |last1=Nevins |first1=Jess |title=Encyclopedia of Golden Age Superheroes |date=2013 |publisher=High Rock Press |isbn=978-1-61318-023-5 |pages=290-291}}</ref> His name was '''El Castigo''', which was incorrectly translated from Spanish as The Whip (it should be "The Punishment").<ref>{{cite web |last1=Markstein |first1=Don |website=Don Markstein's Toonopedia |access-date=2 April 2020  |url=http://www.toonopedia.com/whip.htm |title=The Whip}}</ref>
+
+===Johnny Lash===
+The second Whip had no relation to Don Fernando. His name was '''Johnny Lash''', and he appeared in ''Crack Western'' #70, published by [[Quality Comics]].
+
+===Rodney Gaynor===
+On a trip to the United States, '''Rodrigo "Rodney" Elwood Gaynor''' (a descendant of Don Fernando Suarez, the original Whip) was deeply disturbed at the treatment of the poor citizens of a small Mexican town. Once Rodney discovered his ancestor's alter-ego of the Whip, he revived the logo and with the help of his horse King, began to fight the evil land barons who so mercilessly taxed the poor. Rodney would sometimes team up with [[Greg Saunders|the Vigilante]] and became a member of the [[All-Star Squadron]].
+
+===Shelly Gaynor===
+'''Shelly Gaynor''', granddaughter of Rod Gaynor, worked as a columnist for the Daily Recorder, a well-known newspaper. Shelly decided to do an in-depth study on what it was like to be a superhero, or as she called a '''Super Cowboy'''. Her first book on superheroics was called "''Body Thunder: How I Turned My Body Into A Living Weapon To Beat The 21st Century Blues''". Just like her grandfather before her, she decided to revive the Whip logo.
+
+Her first appearance in comic books was ''[[Seven Soldiers of Victory|Seven Soldiers]]'' #0, where she became a part of an ill-fated team of six superheroes rounded up by [[Greg Saunders]]. Shelly had a sexual relationship with teammate [[Spider (DC Comics)|I, Spyder]], and was killed along with the rest of the team by the [[Sheeda]], an evil race of beings who hunt down civilizations but always leave enough survivors  for the race to continue.<ref>''Seven Soldiers'' #0. DC Comics.</ref>
+
+She was mentioned in ''Midnighter'' #3 (October 2015), with a character reading "Shelly Gaynor's latest".<ref>''Midnighter'' #3. DC Comics.</ref>
+
+===Unnamed assassin===
+Another female Whip, presumably unconnected to any of the previous versions, appeared as a member of the [[League of Assassins]]. She battled [[Azrael (comics)#Michael Lane|Azrael]] and [[Tim Drake|Red Robin]] at several points.<ref>''Azrael: Death's Dark Knight'' #1. DC Comics.</ref>
+
+==In other media==
+* In the ''[[Batwoman (TV series)|Batwoman]]'' episode "A Lesson from Professor Pyg", Ryan and Alice were tracking someone who's using a bullwhip and believing Whip is doing all of this. It was later revealed that it's [[Flamingo (comics)|Flamingo]] who's doing all of the victims.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.dcuguide.com/who.php?name=whip The Whip (Don Suarez)] at the DCU Guide
+* {{comicbookdb|type=character|id=21921|title=The Whip (Don Suarez)}}
+* [http://www.dcuguide.com/who.php?name=whip2 The Whip (Johnny Lash)] at the DCU Guide
+* [http://www.dcuguide.com/who.php?name=whip3 The Whip (Rodrigo Gaynor)] at the DCU Guide
+* {{comicbookdb|type=character|id=1527|title=The Whip (Rodrigo Gaynor)}}
+* [http://www.dcuguide.com/who.php?name=whip4 The Whip (Shelly Gaynor)] at the DCU Guide
+* {{comicbookdb|type=character|id=24386|title=The Whip (Shelly Gaynor)}}
+* [http://toonopedia.com/whip.htm The Whip (Rodney Gaynor)] at [[Don Markstein's Toonopedia]]. [https://www.webcitation.org/6bERB34Dl?url=http://toonopedia.com/whip.htm Archived] from the original on September 2, 2015.
+
+{{All-Star Squadron}}
+{{GoldenAge}}
+{{Grant Morrison}}
+
+{{DEFAULTSORT:Whip (comics)}}
+[[Category:Characters created by Fabian Nicieza]]
+[[Category:Characters created by Grant Morrison]]
+[[Category:Comics characters introduced in 1940]]
+[[Category:Comics characters introduced in 1951]]
+[[Category:Comics characters introduced in 2005]]
+[[Category:Comics characters introduced in 2011]]
+[[Category:DC Comics superheroes]]
+[[Category:Mexican superheroes]]
+[[Category:Fictional writers]]
+[[Category:Golden Age superheroes]]

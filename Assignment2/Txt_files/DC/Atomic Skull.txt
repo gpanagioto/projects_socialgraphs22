@@ -1,0 +1,127 @@
+{{short description|Fictional characters in DC Comics}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|image=Atomic Skull (Albert Michaels).jpg
+|caption= Atomic Skull (Albert Michaels), art by [[Curt Swan]].
+|real_name=- Albert Michaels<br>- Joseph Martin
+|publisher=[[DC Comics]]
+|debut='''(Michaels)'''<br>''[[Superman]]'' #303 (September 1976)<br>'''(Michaels as the Atomic Skull)'''<br>''[[Superman]]'' #323 (May 1978)<br>'''(Martin)'''<br>''[[Superman (comic book)|The Adventures of Superman]]'' #483 (October 1991)<br>'''(Martin as the Atomic Skull)'''<br>''[[Action Comics]]'' #670 (October 1991)
+|creators='''(Michaels)'''<br>[[Gerry Conway]]<br>[[Curt Swan]]<br/>'''(Martin)'''<br>[[Roger Stern]]<br>[[Bob McLeod (comics)|Bob McLeod]]
+|alliances='''(Michaels)'''<br>[[List_of_criminal_organizations_in_DC_Comics#S|SKULL]]<br/>[[S.T.A.R. Labs]]<br>[[Secret Society of Super Villains]]<br>[[Injustice League]]<br/>'''(Martin)'''<br>[[Secret Society of Super Villains]]
+|aliases='''(Martin)''' <br> Skull
+|powers= '''(Michaels)'''<br>Seizure-generated atomic "brain-blasts"<br>Brilliant scientist<br>Superhuman strength
+<br>'''(Martin)'''<br>Superhuman strength, agility, and endurance<br>Atomic blasts
+|}}
+'''Atomic Skull''' is a <!--Do not add "fictional" as it is tautological; supervillains (and characters in general) are by definition implied to be fictionalized to some extent.-->[[supervillain]] in [[American comic books]] published by [[DC Comics]], who is commonly a foe of [[Superman]].<ref>{{cite book |last1=Greenberger |first1=Robert |last2=Pasko |first2=Martin |title=The Essential Superman Encyclopedia |date=2010 |publisher=Del Rey |isbn=978-0-345-50108-0 |page=18}}</ref> The character first appeared in 1978.
+
+==Publication history==
+The Albert Michaels version of the Atomic Skull first appeared in ''[[Superman]]'' #323 (May 1978) and was created by [[Martin Pasko]] and [[Curt Swan]].<ref>{{cite book |last1=Eury |first1=Michael |title=The Krypton Companion |date=2006 |publisher=TwoMorrows Publishing |isbn=9781893905610 |page=158 |chapter=Martin Pasko Interview}}</ref>
+
+The Joseph Martin version of the Atomic Skull first appeared in ''[[Superman (comic book)|The Adventures of Superman]]'' #483 and was created by [[Roger Stern]] and [[Bob McLeod (comics)|Bob McLeod]].
+
+==Fictional character biography==
+===Albert Michaels===
+Albert Michaels was a brilliant, but genuinely unfriendly scientist-administrator at [[S.T.A.R. Labs]] with a rare nervous system disorder that short-circuited the electrical impulses in his brain, creating painful and uncontrollable [[seizures]]. When he could not find a cure, he secretly contacted the criminal organization [[List_of_criminal_organizations_in_DC_Comics#S|SKULL]], and they implanted him with a [[radium]]-powered device designed to harness his neural disorder into deadly atomic "brain-blasts" in exchange for him becoming their agent.<ref>{{cite book |last =Rovin |first =Jeff |title =The Encyclopedia of Supervillains |publisher =Facts on File |date =1987 |location =New York |isbn = 0-8160-1356-X |page=11}}</ref> However, these mental blasts were difficult to control and only made his condition worse, a situation that he blamed on [[Superman]] after the Man of Steel captured the only SKULL scientists who could have cured him. Swearing revenge, the evil genius donned his distinctive yellow and green costume with its visored, cowl-topped skull mask, called himself the Atomic Skull, and eventually became the organization's leader, flying around in a sleek skull-shaped [[hovercraft]] of his own design and assisted by his similarly costumed lover Felicia, who was a [[Panthera|panther]] that he had [[The Island of Doctor Moreau|artificially evolved into human form]].
+
+Following ''[[Crisis on Infinite Earths]]'', Michaels made one appearance, battling [[Thunder and Lightning (comics)|Thunder and Lightning]] in ''[[Teen Titans|Teen Titans Spotlight]]''. It is assumed that his background has not changed, although instead of being diagnosed with a nervous disorder, it was said that his powers came because he sought immortality and presumably mutated himself. It is not known if he ever fought the Post-''Crisis'' version of Superman before, as his first (Post-''Crisis'') appearance was in ''[[Captain Atom]]'', yet his history with S.T.A.R. Labs and SKULL remained as established in ''The DC Comics Encyclopedia''.
+
+Michaels returned in 2007 in ''[[Birds of Prey (comic)|Birds of Prey]]''.<ref>''Birds of Prey'' #110</ref> He also appeared in the miniseries ''[[Villains United]]'', where he joined Luthor's Society.<ref>''Villains United'' #5</ref>
+
+===Joseph Martin===
+<!-- Deleted image removed: [[File:Atomic Skull (Joseph Martin).jpg|thumb|upright|left|The Atomic Skull (Joseph Martin). Art by [[Phil Jimenez]]{{FFDC|Atomic Skull (Joseph Martin).jpg|log=2021 February 17}}]] -->
+Student Joseph Martin was at [[S.T.A.R. Labs]] for a routine check-up when it was struck by an intense blast of energy from the [[Dominators (DC Comics)|Dominators]]' gene-bomb that gave him superhuman strength and caused his flesh to become invisible. Later attacked by some thugs, the resulting brain damage caused insanity, and he took on the guise of "the Atomic Skull" who was a hero from an old [[movie serial]] that he loved. He also emitted dangerous amounts of radiation, later gaining the ability to project it as energy blasts. He has plagued [[Superman]], whom he believed to be the serial's villain Doctor Electron (particularly when Superman had currently acquired electricity-based powers), and [[Lois Lane]], whom he saw as the Skull's love interest, Zelda Wentworth.<ref name="dc-ency">{{Citation  | last = Greenberger  | first = Robert | contribution = Atomic Skull | editor-last = Dougall  | editor-first = Alastair  | title = The DC Comics Encyclopedia  | page = 31  | publisher = [[Dorling Kindersley]]  | place = London  | year = 2008 | isbn = 978-0-7566-4119-1}}</ref>
+
+He was later given enhanced powers by the demon [[Neron (DC Comics)|Neron]] in exchange for his soul.<ref>''Underworld Unleashed'' #1</ref> Cured of his delusions, he at first intended to follow the character's example for real as a superhero, but has since appeared as a more conventional supervillain.
+
+He is killed in battle by the [[Maximums]],<ref>''Superman/Batman'' #21</ref> an alternate reality superhero team, but is later seen alive in the pages of ''Action Comics'',<ref>''Action Comics'' #853</ref> assuming that [[Mister Mxyzptlk|Mr. Mxyzptlk]] reversed his death, along with other events having to do with the Maximums.
+
+Recently, Martin crashed a movie premiere in [[Hollywood, Los Angeles, California|Hollywood]], having become obsessed with an actress who was in the film. He was defeated by [[Manhunter (Kate Spencer)|Manhunter]].<ref>''Manhunter'' vol. 2 #31</ref>
+
+Martin was among the villains in the ambush of the [[Justice Society of America|JSA]] led by the Tapeworm.<ref>''Justice Society of America'' vol. 3 #29</ref>
+
+While Superman is [[World of New Krypton|off-world]], Martin attempts to cause trouble in downtown Metropolis, but is defeated by [[Mon-El]].<ref>''Justice League of America'' vol. 2 #41</ref>
+
+====''The New 52''====
+In ''[[The New 52]]'' reboot launched in 2011, the Joseph Martin version of the Atomic Skull is re-introduced in ''Action Comics'' vol. 2 Annual #1, penned by ''[[Chronicle (film)|Chronicle]]'' writer [[Max Landis]].<ref>{{cite web|author=Tony Guerrero |url=http://www.comicvine.com/news/interview-chronicle-writer-max-landis-talks-superman-atomic-skull-and-his-passion-for-comics/145429/ |title=Interview: 'Chronicle' Writer Max Landis Talks Superman, Atomic Skull and His Passion for Comics |publisher=Comic Vine |date=2012-10-25 |access-date=2016-09-23}}</ref>
+
+When a S.T.A.R. Labs submarine crashes far below the surface of the ocean, one of its scientists is exposed to experimental radiation. He is washed to shore, with memories of the life he had, and the woman he loved and lost. Alone on a desert island, he fights to survive, eating the local, tropical vegetation. When a leopard finds and attacks him, he unexpectedly emits a blast of radiation that vaporizes the big cat's body. Eventually, he learns to use this power to his benefit, killing animals for food, and blasting away holes in the rock faces for shelter. The radiation soon takes its toll on him, as he remembers how he had caught his wife flirting with someone at a dance club and murdered her in a jealous rage. In anger, he destroys most of the island. His face, meanwhile, practically melts away, revealing his radioactive skull.<ref>''Action Comics'' vol. 2 Annual #1</ref><ref name=Guide>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Korte |first3=Steve |last4=Manning |first4=Matt |last5=Wiacek |first5=Win |last6=Wilson |first6=Sven |title=The DC Comics Encyclopedia: The Definitive Guide to the Characters of the DC Universe |date=2016 |publisher=DK Publishing |isbn=978-1-4654-5357-0 |page=22}}</ref>
+
+====''DC Rebirth''====
+In June 2016, DC Comics relaunched its entire line of comic book titles with ''[[DC Rebirth]]''. The Atomic Skull is seen imprisoned in Kamen Maximum Security Prison in ''Superwoman'' #1.<ref>''Deathstroke'' #4</ref>
+
+In ''Hal Jordan and the Green Lantern Corps'' #45, the Atomic Skull is shown trying to make amends by being the warden at [[Stryker's Island|Stryker's Island Penitentiary]]. When [[Hal Jordan]] tried to break out [[Hector Hammond]], the Atomic Skull fought him, but before he could do anything else, Hector Hammond renders him temporarily brain dead using his psychic powers and Hal Jordan convinces him to let the Atomic Skull live.<ref>''Hal Jordan and the Green Lantern Corps'' #45</ref>
+
+==Powers and abilities==
+Albert Michaels can deliver powerful energy bolts through the visor of his mask. The energy blasts have been described as powerful brain waves, heat vision and atomic blasts throughout the years. Aside from his energy attacks, Michaels is also the head of the SKULL organization and a brilliant scientist.
+
+Joseph Martin has superhuman strength, agility and endurance, comparable to that of Superboy (Conner Kent), Superman, and Mon-El. He can also produce purple atomic blasts from his hands and mouth for long range attacks and use the same energy to power up his already impressive physical strength to a higher degree.
+
+==Other versions==
+===Movie serial===
+The Atomic Skull is the name of Joseph Martin's favorite hero from a (fictional) 12-episode movie serial made by National Film Studios in 1936. The serial stars Lawrence Dennis (according to ''Superman Villains [[Secret Files and Origins]]'' #1) as the titular character. This Atomic Skull was originally government agent Joe Martin who investigated the evil Doctor Electron and was transformed into the hideous Atomic Skull by one of Electron's inventions. Despite this, he and Zelda Wentworth, Electron's daughter (played by actress Eleanor Hart, whom [[Lois Lane]] has a passing resemblance to<ref>''Superman: The Essential Guide to the Man of Steel'', p. 100</ref>), fell in love. Battling Electron and his minions (such as Rocketman) with his heat ray eye-blasts, the Atomic Skull eventually destroyed the mad scientist's plans and returned to normal. The [[fictional character]] from the serial is visually identical to Albert Michaels, the Pre-''Crisis'' version of the Atomic Skull.
+
+===Dominus' reality===
+In a story featuring the reality-altering villain [[Dominus (DC Comics)|Dominus]] recreating various Pre-''[[Crisis on Infinite Earths|Crisis]]'' Superman continuities, the supposed [[Golden Age of Comic Books|Golden Age]] Atomic Skull was first introduced. He was '''Lawrence Dennis''', an actor and [[Nazism|Nazi]] sympathizer who used his reputation as the hero of the serial ''Curse of the Atomic Skull'' as a platform to promote [[Nazism]].
+
+===''Superman: Red Son''===
+The Atomic Skull is featured in the alternate reality ''[[Superman: Red Son]]'' as one of [[Lex Luthor]]'s experiments.<ref>''Superman: Red Son'' #3</ref>
+
+===''Flashpoint''===
+In the alternate timeline of the ''[[Flashpoint (comics)|Flashpoint]]'' event, a version of the Atomic Skull is imprisoned in the [[Legion of Doom (Super Friends)|military Doom prison]] and is working to keep the other prisoners in, as he recognizes that he is a bigger fish in jail than he would ever be in the real world.<ref>''Flashpoint: Legion of Doom'' #1 (June 2011)</ref>
+
+==In other media==
+===Television===
+* Albert Michaels appeared in the 1988 ''[[Superman (TV series)|Superman]]'' series. In the episode "Fugitive from Space", he appeared as a scientist at S.T.A.R. Labs.
+
+[[Image:Atomic Skull jlu.jpg|thumb|right|The Atomic Skull in ''[[Justice League Unlimited]]''.]]
+* The Joseph Martin version of the Atomic Skull appears in ''[[Justice League Unlimited]]'', voiced by [[Lex Lang]]. He first appears in "The Cat and the Canary" as [[Wildcat (DC Comics)|Wildcat]]'s main opponent at [[Roulette (DC Comics)|Roulette]]'s Meta-Brawl until the [[Green Arrow]] and the [[Black Canary]] interrupted the match. Atomic Skull later returns as a member of the [[Secret Society of Super Villains|Secret Society]]. In "Alive" and "Destroyer", he sides with [[Lex Luthor]] during a mutiny in the two-part series finale. He is found among the survivors of [[Darkseid]]'s attack. He and Luthor join to help the heroes during the defense of Earth against the forces of [[Apokolips]]. He fights alongside [[Hawkgirl]] and [[Commander Steel]] in Washington DC. He is last seen taking advantage of the Justice League's "five-minute [[Head start (positioning)|head start]]" granted to the surviving supervillains at the final episode's end (notably he is the one who vocally opposes being arrested after helping save the world from Darkseid's forces).
+* The Albert Michaels version of the Atomic Skull appears in the ''[[Young Justice (TV series)|Young Justice]]'' animated series. In the episode "Revelation", he is seen as a member of the Injustice League and is mainly used to power [[Poison Ivy (character)|Poison Ivy]]'s plant creature.
+* A character who resembles the Atomic Skull appears in ''[[The Flash (2014 TV series)|The Flash]]'' live action series. In the episode "Invincible", he appears in [[Hunter Zolomon|Zoom]]'s metahuman army. This version also semi-looks like Firestorm.
+* The Albert Michaels version of Atomic Skull appeared in the ''[[Powerless (TV series)|Powerless]]'' TV series. He was seen battling [[Firestorm (comics)|Firestorm]] and [[The Flash (comics)#Barry Allen|The Flash]] in the opening credits.
+
+===Film===
+* The Joseph Martin version of the Atomic Skull appears in ''[[Superman vs. The Elite]]'', voiced by [[Dee Bradley Baker]]. He appears in the film's opening, killing random civilians in order to get [[Superman]]'s attention. They brawl around the city, eventually culminating in the Atomic Skull's defeat after Superman throws him into a large pond. Later on, he is seen in [[Stryker's Island]], being used to power the prison but soon escapes by overloading the generator before running rampant throughout Metropolis. He is soon confronted by the combined forces of [[Superman]] and The [[The Elite (DC Comics)|Elite]], who manage to defeat the Atomic Skull through [[Coldcast]] absorbing the Atomic Skull's radiation, but with massive collateral damage. At this point, The Elite's leader [[Manchester Black]] plans to execute the Atomic Skull himself, leaving the decision up to the son of a professor who was killed by the Atomic Skull and a vehement Superman supporter. The boy votes for the Atomic Skull's death and Manchester Black executes the Atomic Skull to the cheer of the watching crowd and the horror of Superman.
+* A version of the Atomic Skull briefly appears in ''[[Justice League vs. Teen Titans]]'', voiced by [[Rick D. Wasserman]] (albeit uncredited). The Atomic Skull is quickly beaten and nearly killed by Superman, who was possessed by [[Trigon (comics)|Trigon]] at the time.
+
+=== Video games ===
+* The Atomic Skull is among many other DC characters included in ''[[Scribblenauts Unmasked: A DC Comics Adventure]]''.<ref>{{Citation|title=Scribblenauts Unmasked: A DC Comics Adventure - A look at every character in the game (over 2000!!)|url=https://www.youtube.com/watch?v=dOQ5aPYkXLU |archive-url=https://ghostarchive.org/varchive/youtube/20211221/dOQ5aPYkXLU |archive-date=2021-12-21 |url-status=live|language=en|access-date=2019-09-08}}{{cbignore}}</ref>
+
+===Miscellaneous===
+* The Albert Michaels version of Atomic Skull appeared as one of the primary villains in a special [[Free Comic Book Day]] tie-in for the ''[[Young Justice (TV series)|Young Justice]]'' cartoon. He and [[Psycho-Pirate]] attack a STAR Labs facility in order to steal some plutonium, but Atomic Skull is forced to retreat after the members of the team reclaim the plutonium and capture Psycho-Pirate.
+
+==See also==
+*[[List of Superman enemies]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.dcuguide.com/who.php?name=atomicskull2 DCU Guide: Atomic Skull (Joseph Martin)]
+*[http://www.dcuguide.com/who.php?name=atomicskull DCU Guide: Atomic Skull (Dr. Albert Michaels)]
+
+{{Birds of Prey}}
+{{Captain Atom}}
+{{Firestorm}}
+{{Green Lantern}}
+{{Justice Society of America}}
+{{Supergirl}}
+{{Superman characters}}
+
+[[Category:Articles about multiple fictional characters]]
+[[Category:Characters created by Curt Swan]]
+[[Category:Characters created by Gerry Conway]]
+[[Category:Characters created by Roger Stern]]
+[[Category:Comics characters introduced in 1976]]
+[[Category:Comics characters introduced in 1991]]
+[[Category:DC Comics characters with superhuman strength]]
+[[Category:DC Comics male supervillains]]
+[[Category:DC Comics metahumans]]
+[[Category:Fictional biologists]]
+[[Category:Fictional characters who have made pacts with devils]]
+[[Category:Fictional characters with energy-manipulation abilities]]
+[[Category:Fictional characters with nuclear or radiation abilities]]
+[[Category:Fictional inventors]]
+[[Category:Fictional mad scientists]]
+[[Category:Superman characters]]
+
+
+[[de:Schurken im Superman-Universum#Atomic Skull]]

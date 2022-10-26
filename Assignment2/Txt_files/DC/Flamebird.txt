@@ -1,0 +1,91 @@
+{{Infobox comics set index
+<!--Wikipedia:WikiProject Comics-->
+<!-- |code_name = Fire Hawk-->
+|image = <!-- filename format only -->
+|imagesize = <!-- default 250 -->
+|noimage = yes <!-- Multiple characters with multiple looks. Get a consensus before adding an image here. -->
+|caption = 
+|publisher = [[DC Comics]]
+|debut = ''[[Superman]]'' #158 <!-- Original identiy used by Olsen -->
+|debutmo = January
+|debutyr = 1963
+|debutyr1 = <!-- Ak-Var was introed well prior to taking the codname -->
+|debutyr2 = <!-- Kane was retconned to taking the codname -->
+|debutyr3 = <!-- Lane was introed well prior to taking the codname -->
+|debutyr4 = <!-- Kara was introed well prior to taking the codname -->
+|debutyr5 = 2008
+|writer1 = [[Edmond Hamilton]]
+|artist1 = [[Curt Swan]]
+|characters = [[Jimmy Olsen]]<br />Ak-Var<br />[[Bette Kane]]<br />[[Lois Lane]]<br />[[Supergirl (Kara Zor-El)|Kara Zor-El]]<br />[[Thara Ak-Var]]
+|seealso = 
+|cat = super
+|subcat = DC Comics
+|hero = y
+|villain = 
+|sortkey = Flamebird
+}}
+'''Flamebird''' is the name used by six different [[fictional]] [[comic book]] characters who have appeared in books published by [[DC Comics]], specifically from the ''[[Superman]]'' and ''[[Batman]]'' [[mythos]].
+
+The primary character to use the Flamebird name is '''[[Bette Kane]]''', who was the pre-''[[Crisis on Infinite Earths|Crisis]]'' hero '''[[Batgirl#Betty Kane|Bat-Girl]]'''. However, the original pre-''Crisis'' Flamebird was [[Jimmy Olsen]], who was later succeeded by a [[Kandor (comics)|Kandor]]ian scientist. In post-''Crisis'', a [[Krypton (comics)|Kryptonian]] hero used the name Flamebird, and in a "[[One Year Later]]" storyline, so has [[Supergirl (Kara Zor-El)|Kara Zor-El]].
+
+Flamebird characters are also often associated with characters who use the name [[Nightwing]].
+
+==Pre-Crisis history==
+===Jimmy Olsen===<!-- This section is linked from [[List of DC Comics characters: F]] -->
+[[File:Superman v1 158.png|thumb|left|Superman as Nightwing (left) and Jimmy Olsen as Flamebird (right) in the bottle city of [[Kandor (comics)|Kandor]], art by [[Curt Swan]].]]
+In [[Crisis on Infinite Earths|pre-Crisis]] continuity, Flamebird was an alias used by [[Jimmy Olsen]] in adventures shared with [[Superman]] in the city of [[Kandor (comics)|Kandor]], a [[Krypton (comics)|Kryptonian]] city that had been shrunken and preserved in a bottle by the villainous [[Brainiac (character)|Braniac]]. After the miniaturized city was rescued from Braniac, Superman placed it in his [[Fortress of Solitude]], where he would occasionally shrink himself, and sometimes one or more guests, to pay a visit to the Kandorian inhabitants.
+
+In Kandor, Superman had no powers and was branded an outlaw due to a misunderstanding. To protect themselves, Superman and Jimmy created vigilante identities inspired by [[Batman]] and [[Robin (comics)|Robin]]; however, as neither bats nor robins existed on Krypton, Superman chose the names of two native avian species: [[Nightwing]] (for himself) and Flamebird (for Jimmy).<ref>''Superman'' #158 (January 1962)</ref> At one point, Nightwing and Flamebird teamed up with their inspirations, Batman and Robin, for an adventure in Kandor which would prove especially important to the young Robin.<ref>''World's Finest Comics'' #143 (August 1964)</ref>
+
+In ''Superman'' #166 (January 1964), the imaginary sons of Superman go to Kandor, and take on the Flamebird/Nightwing personas in order to combat a Kandorian villain by the name of Gann Artar, after finding the costumes used by their father and Jimmy Olsen.
+
+===Ak-Var===<!-- This section is linked from [[List of DC Comics characters: F]] -->
+While in Kandor, Nightwing and Flamebird met Van-Zee, a Kandorian scientist who looked strikingly similar to Superman. At one point, Van-Zee himself donned the Nightwing costume in order to rescue a captured Superman. After Superman and Jimmy's departure from Kandor, Van-Zee took up the role of Nightwing full-time.
+
+Ak-Var, Van-Zee's lab assistant and husband of his niece Thara, later assumed the mantle of Flamebird.<ref>''Superman Family'' #185 (September–October 1977); first appearance as Flamebird in #184.</ref> The two shared several distinct adventures, once teaming up with Superman and Jimmy.<ref>''Superman Family'' #188 (March–April 1978)</ref>
+
+==Post-Crisis==
+===Bette Kane===
+{{Main|Bette Kane}}
+[[File:Flamebird Nightwing.jpg|left|thumb|upright|[[Bette Kane]] as Flamebird and [[Dick Grayson]] as Nightwing, from ''[[Justice League|JLA]]/[[Teen Titans|Titans]]'' #2; art by [[Phil Jimenez]].]]
+For a brief time in the 1970s, the young costumed adventurer Betty Kane had joined a west coast version of the [[Teen Titans]], Titans West, under her original moniker of "Bat-Girl". After the ''[[Crisis on Infinite Earths]]'', "Bat-Girl" did not exist, though her team did. ''[[Secret Origins]] Annual'' #3 (1989) established the official post-Crisis history of Titans West. Instead of Betty Kane as Bat-Girl, fans were introduced to a similar character called Mary Elizabeth "Bette" Kane, also known as Flamebird.<ref name="dc-ency">{{Cite book | last=Beatty | first=Scott | author-link=Scott Beatty | contribution=Flamebird | editor-last=Dougall | editor-first=Alastair | title=The DC Comics Encyclopedia | page=128 | publisher=[[Dorling Kindersley]] | location=[[New York City|New York]] | year=2008 | isbn=0-7566-4119-5 | oclc=213309017}}</ref>
+
+====The Krypton connection====
+''Nightwing Secret Files'' #1 tells the post-Crisis tale of how [[Dick Grayson]] became [[Nightwing]], but retroactively erases the notion that Superman and Jimmy Olsen ever held the titles of Nightwing or Flamebird, respectively.
+
+The connection between Bette Kane's "Flamebird" and Grayson's "Nightwing" was conjectural until 2001's ''Superman: The Man of Steel'' #111, wherein Superman and [[Lois Lane]] travel to [[Krypton (comics)#Revisiting Krypton|a version of the Kryptonian past]] and assume the names themselves.<ref>{{cite book |last1=Greenberger |first1=Robert |title=The Essential Batman Encyclopedia |date=2008 |publisher=Del Rey |isbn=9780345501066 |page=137}}</ref> This once again associated Superman with the roles directly, and he revealed to Lois that he had indeed related tales of both Kryptonian legends to Dick and Bette.<ref name="mos111">{{Cite comic | writer=[[Mark Schultz (comics)|Schultz, Mark]] | penciller=[[Doug Mahnke|Mahnke, Doug]] | inker=Nguyen, Tom | story=Return to Krypton, Part Three: The Most Dangerous Kryptonian Game | title=[[Superman: The Man of Steel]] | issue=#111 | date=April 2001 | publisher=DC Comics | location=New York}}</ref>
+
+===Kara Zor-El===
+{{expand section|date=March 2016}}
+[[File:Flamebird Kandor.jpg|thumb|upright|right|Kara Zor-El as Flamebird, art by [[Ed Benes]].]]
+In ''[[Supergirl (comic book)|Supergirl]]'' #6, [[Supergirl (Kara Zor-El)|Kara Zor-El]] has assumed the Flamebird identity to fight crime in the city of [[Kandor (comics)|Kandor]], along with [[Power Girl]] as [[Nightwing]].
+
+===Thara Ak-Var===
+{{main|Thara Ak-Var}}
+In 2008, "[[Superman: New Krypton]]" has Superman coming to terms with the death of his adoptive father while also dealing with 100,000 Kryptonians now living on Earth as a result of the [[Brainiac (story arc)|Brainiac story arc]].<ref>{{cite book |last1=Greenberger |first1=Robert |last2=Pasko |first2=Martin |title=The Essential Superman Encyclopedia |date=2010 |publisher=Del Rey |isbn=978-0-345-50108-0 |pages=94-96}}</ref> At the end of the fourth issue of the arc, a new Nightwing and Flamebird appear to stop two of [[General Zod]]'s followers (who were living on Kandor) from releasing the Kryptonian General from his [[Phantom Zone]] imprisonment. While guarding the projector in order to prevent any Zod loyalists from freeing him from the Phantom Zone, both Flamebird and Nightwing exhibited powers that are not inherent to normal Kryptonians, Flamebird shooting fire from her hands and Nightwing employing [[psychokinesis|telekinesis]] to dismantle his attackers' weapons. Furthermore, unlike in previous portrayals, Flamebird appears to be the dominant partner. It is later revealed that her real name is [[Thara Ak-Var]], chief of security for New Krypton, whom [[Alura (DC Comics)|Alura]] partially blames for [[Zor-El]]'s death. Thara also apparently freed [[Chris Kent (comics)|Chris Kent]] from the Phantom Zone, making him the new Nightwing. Thara's name is a reference to the pre-Crisis Flamebird and his wife.<ref>''Action Comics'' #875 (May 2009)</ref> The Flamebird identity is based on a mythical Kryptonian creature, whose existence is intertwined with that of its partner beast, the Nightwing. Thara possesses a connection to the Flamebird, having had dreams and visions involving the creature for most of her life.<ref>''Action Comics Annual'' #12 (2009)</ref>
+
+===New 52===
+Following the events of ''Infinite Crisis'', it is revealed that Bette is the cousin of current [[Batwoman]], Kate Kane. In ''[[Detective Comics]]'' #856, Bette moves to [[Gotham City]] to enroll in Gotham University. She encounters her cousin at a party thrown for the [[Gotham City Police Department]], and attempts to chat her up, only to be blown off. According to Kate's father, Bette looks up to her and likes spending time with her. Bette is kidnapped by a crazed serial killer known as the Cutter, and awakens bound and gagged in his workshop. The Cutter plans on removing Bette's ears as part of a plan to create a perfect woman through the use of stolen body parts. Batwoman rescues Bette from the killer and accidentally reveals her identity. At the end of the story, Bette is seen in her Flamebird outfit, telling Kate that she wants to become her new partner.<ref>''Detective Comics'' #863</ref> Kate eventually agrees to train Bette, and gives her a capeless grey military outfit and the codename Plebe.<ref>''Batwoman'' #1</ref> Kate later puts an end to their mentor-student relationship in an attempt to keep Bette from harm but is unable to stop Bette from being critically wounded. Shortly after her recovery, Bette acquires pyrotechnic technology and adopts the codename '''Hawkfire'''.
+
+==In other media==
+===Television===
+In the second season episode of ''[[Krypton (TV series)|Krypton]]'', "Ghost In The Fire", Flamebird is mentioned to have created the titular planet and was claimed as a god by Kryptonians.<ref>{{cite web|url=http://comicbook.com/dc/2018/07/21/krypton-season-2-characters-nightwing-and-flamebird-sdcc-2018|title=''Krypton'': Nightwing and Flamebird Will Appear in Season 2|first=Jenna|last=Anderson|website=comicbook.com|date=July 21, 2018|access-date=March 15, 2019}}</ref>
+
+===Miscellaneous===
+Flamebird first appeared in issue #50 of ''[[Teen Titans Go! (2004 comic series)|Teen Titans Go!]]'' as a potential new member along with (the TTG universe's version of) [[Mirage (DC Comics)|Mirage]], [[Aquagirl]], [[Golden Eagle (comics)|Golden Eagle]], and [[Azrael (comics)|Azrael]]. She is later shown in issue #55 in Starfire's hallucination to have joined Titans North alongside Mirage.
+
+==References==
+{{Reflist}}
+
+{{Batman characters}}
+{{Superman characters}}
+
+[[Category:Flamebird| ]]
+[[Category:Articles about multiple fictional characters]]
+[[Category:Characters created by Edmond Hamilton]]
+[[Category:DC Comics extraterrestrial superheroes]]
+[[Category:DC Comics male superheroes]]
+[[Category:DC Comics female superheroes]]
+[[Category:Kryptonians]]
+[[Category:Batman characters code names]]
+[[Category:Superman characters code names]]

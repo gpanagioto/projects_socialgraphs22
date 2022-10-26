@@ -1,0 +1,210 @@
+{{Short description|Fictional Superhero}}
+{{Use mdy dates|date=May 2022}}
+{{Use American English|date=May 2022}}
+{{Infobox comics character
+<!--Wikipedia:WikiProject Comics-->
+|image= Blue Devil (Dan Cassidy).png
+|imagesize= <!-- numeral only, defaults to 250 -->
+|converted = y
+|character_name = Blue Devil 
+|caption = Cover art for ''Blue Devil'' #1 (June 1984), art by Paris Cullins.
+|full_name = Daniel Patrick Cassidy 
+|publisher=[[DC Comics]]
+|debut = ''[[Firestorm (comics)|Fury of Firestorm]]'' #24 (June 1984) 
+|creators = [[Dan Mishkin]] (character)<br />[[Gary Cohn (comics)|Gary Cohn]] (character and visual)<br/>[[Paris Cullins]] (belt design)
+|Base of operations = 
+|species   =
+|homeworld = 
+|alliances = [[Shadowpact]]<br/>[[Justice League International#Expansion|Justice League America]]<br/>[[Sentinels of Magic]]<br/>[[Justice League Dark]]<br/>[[Justice League]]
+|partners  = <!-- optional -->
+|supports  = <!-- optional -->
+|aliases   =  <!-- optional: actual identities the character uses, not nicknames -->
+|powers = *Superhuman strength, durability, agility, and senses 
+*Enhanced vision and hearing
+*Master martial artist and hand-to-hand combatant
+*Expert acrobat
+*Nigh-invulnerability 
+*Healing factor 
+*Utilizes the Trident of Lucifer 
+*Can find demons on Earth and banish them to Hell
+|cat = super
+|subcat = DC Comics
+|hero = y
+|villain = 
+|sortkey = Blue Devil
+}}
+
+{{Infobox comics set and title
+<!--Series section-->
+|title               = Blue Devil
+|cvr_image           = BlueDevil1.jpg
+|cvr_caption         =''Blue Devil'' #1 (June 1984), cover art by [[Paris Cullins]].
+|schedule            = monthly
+|ongoing             = Y
+|Superhero           = y
+|pub_series          = DC Comics
+|1stishhead          = 
+|1stishyr            = 1984
+|1stishmo            = June
+|endishyr            = 1986
+|endishmo            = Dec.
+|issues              = 31 issues & 1 annual
+|main_char_team      = Daniel Cassidy
+|writers             =
+|artists             =
+|pencillers          =
+|inkers              =
+|letterers           =
+|colorists           =
+|editors             =
+|creative_team_month =
+|creative_team_year  =
+|creators_series     =
+|TPB                 =
+|ISBN                =
+|nonUS               =
+|cat                 =
+|subcat              = DC Comics
+|subcat_pub          = DC Comics
+|altcat              =
+|hero                = y
+|villain             =
+|sortkey             = Blue Devil
+|sort_title          = Blue Devil
+|addcharcat1         = DC Comics superheroes
+|addpubcat#          =
+}}
+
+'''Blue Devil''' ('''Daniel Cassidy''') is a [[superhero]] appearing in [[American comic books]] published by [[DC Comics]]. He first appeared in a [[DC Comics insert previews|special insert]] published in ''[[Firestorm (comics)|Fury of Firestorm]]'' #24 (June 1984).<ref>{{cite book|last=Manning|first= Matthew K.|editor-last = Dolan|editor-first = Hannah|chapter= 1980s|title = DC Comics Year By Year A Visual Chronicle|publisher=[[Dorling Kindersley]] |year=2010 |isbn= 978-0-7566-6742-9 |page= 208|quote = [A] sixteen-page preview story marked the debut of fledgling stuntman-turned-hero Blue Devil. An attempt to put the fun back into comics, writers Gary Cohn and Dan Mishkin and penciller Paris Cullins had Blue Devil face the machinations of Flash villain the Trickster in this lead-in to his own ongoing series.}}</ref> That story led directly into ''Blue Devil'' #1, also cover dated June 1984.<ref name="dc-ency">{{Citation | last = Greenberger | first = Robert | contribution = Blue Devil | editor-last = Dougall | editor-first = Alastair | title = The DC Comics Encyclopedia | pages = 56 | publisher = [[Dorling Kindersley]] | place = London | year = 2008 | isbn = 978-0-7566-4119-1}}</ref> He was created by [[Dan Mishkin]], [[Gary Cohn (comics)|Gary Cohn]], and [[Paris Cullins]]. The Blue Devil comic book ran for 31 issues and one annual. Blue Devil later appeared as a regular character in ''[[Shadowpact]]'' which ran for 25 issues.
+
+Dan Cassidy was working as a [[stuntman]] and [[special effects]] specialist in Hollywood when he created the Blue Devil full body suit, complete with a built in exoskeleton, specifically designed for the Blue Devil movie being produced by Verner Brothers Studios.
+
+During filming on ''The Blue Devil'', the demon Nebiros was accidentally unleashed from within an ancient temple and, thinking Cassidy was an actual demon, tried to drain his demonic powers with blasts of magic. Instead, the blasts permanently bonded the suit to Cassidy. This unnatural fusion of magic and technology caused Cassidy to experience unusual events and draw the attention of otherworldly beings, a condition known in occult circles as a "weirdness magnet".
+
+Horrified at the prospect of being stuck in the suit forever, Cassidy sought ways to separate himself from it, becoming a reluctant superhero along the way.<ref name=Guide>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Korte |first3=Steve |last4=Manning |first4=Matt |last5=Wiacek |first5=Win |last6=Wilson |first6=Sven |title=The DC Comics Encyclopedia: The Definitive Guide to the Characters of the DC Universe |date=2016 |publisher=DK Publishing |isbn=978-1-4654-5357-0 |page=49}}</ref>
+
+Cassidy was eventually transformed into an actual demon after making a deal with the demon [[Neron (DC Comics)|Neron]]. Regretting the deal, Blue Devil decided to fight occult evil, often alongside the other members of Shadowpact.
+
+Cassidy's original trident was a mechanical device that he designed himself but, after being turned into an actual demon, he acquired the magical "Trident of Lucifer" to help combat demons.
+
+Blue Devil has appeared in the animated series ''[[Justice League Unlimited]]'' and ''[[Young Justice (TV series)|Young Justice]]'' as well as the live-action [[DC Universe (streaming service)|DC Universe]] series ''[[Swamp Thing (2019 TV series)|Swamp Thing]]'', in which he was portrayed by [[Ian Ziering]].
+
+==Concept and creation==
+[[Gary Cohn (comics)|Gary Cohn]] recounted how he and writing partner [[Dan Mishkin]] created Blue Devil: <blockquote>Our editor for a number of things we were doing was a guy named Dave Manak. At this point, Dan [Mishkin] was living in Michigan and I was in New York. I was the point guy who went to the DC office once a week and schmoozed the editors. One day Manak says, "[[Steve Ditko|Ditko]]’s been hanging around the office and he really wants something to do. Do you think you and Dan can come up for something for him?" I went home and I called Dan and told him about this, and we were both very excited. Ditko was the guy who created [[Spider-Man]] and [[Doctor Strange|Dr. Strange]], and we were gaga for Ditko! ... We decided to do something that takes something from every Marvel character we ever loved. Let’s take [[Iron Man]], the guy in the costume; [[Thing (comics)|the Thing]], the tragedy of the guy stuck in a shape he didn’t want; and a light-hearted, bouncy approach and a character who was going to move like Spider-Man. ... And we wanted something like the [[Green Goblin]]. How about Blue Devil? We called him that because Dan’s wife is from [[North Carolina]] and he was a [[Duke Blue Devils|Blue Devils]] fan. Then we started creating Blue Devil and thinking, "Ditko is going to love this!" We created this great proposal, and it was everything that we knew was going to set Ditko’s light on high beam. We took it in to Manak and he gave it to Ditko. Ditko looked at it and said, "I’ll do it if I have to, but this is really not my kind of stuff at all".<ref name="Back21">{{cite journal|last= Johnson|first= Dan|date= April 2007|title= The Blue Devil You Don't Know|journal= [[Back Issue!]]|issue= 21|pages= 28–32|publisher = [[TwoMorrows Publishing]]}}</ref></blockquote>
+
+However, Manak liked the proposal and suggested that they show it to artist [[Paris Cullins]]. Cullins was immediately enthusiastic, and Blue Devil was given his own series.<ref name="Back21"/>
+
+Blue Devil's costume and general visual appearance were chiefly designed by Cohn; Cullins came up with the belt design.<ref name="Back21"/>
+
+==Publication history==
+Co-writer Gary Cohn recounted that "the first six issues [of Blue Devil], I was living in
+[[Brooklyn]] and Paris [Cullins] was living in [[Philadelphia|Philly]]. Paris was kind of a vagabond spirit. He would show up in New York on the train with his sketchbook, his artist satchel, and his toothbrush, and he would come to my place and stay for three or four days. We would spend the whole time creating plots and visuals as we went, laughing hysterically. We were constantly calling Dan [Mishkin]. It was not the stiff process of writing a script, giving it to the artist, or even [[Marvel Method|writing a plot and giving it to an artist]]. It was a very organic collaboration".<ref name="Back21"/> Following issue #6, Cullins left the series, and both Mishkin and Cohn felt that none of the succeeding artists were able to capture the combination of thrills and comedy that they wanted the series to have.<ref name="Back21"/>
+
+The first ''Blue Devil'' series was intentionally written as a humorous and light-hearted comic book story, but this light-hearted style was discarded with later appearances of the character.{{Citation needed|date=June 2022}}
+
+==Fictional character biography==
+'''Daniel Patrick Cassidy''' is a [[special effect]]s wizard and [[stunt performer|stuntman]] hired to create and play the title character in the movie ''Blue Devil''. To that end Cassidy creates a full-body costume with a hidden powered [[exoskeleton]] and built-in special-effects devices. When two of his co-stars accidentally free a demon named Nebiros, Cassidy uses his costume to drive the demon back, but not before being blasted with mystical energy. After the fight, Cassidy finds that the blast has permanently grafted the Blue Devil costume to his body.<ref>''Blue Devil'' #1 (June 1984). DC Comics.</ref>
+
+Cassidy quickly finds himself embroiled in repeated adventures and conflicts with [[supervillain]]s, as his newfound status has turned him into a "weirdness magnet". After failing to find a way to remove his costume, Cassidy starts to enjoy his new lifestyle, and becomes more and more comfortable as a superhero, even accepting a place in the [[Justice League|Justice League of America]].<ref>{{cite web |last1=Markstein |first1=Don |title=Blue Devil |url=http://www.toonopedia.com/bluedevl.htm |website=Don Markstein's Toonopedia |access-date=2 April 2020}}</ref> He gains a sidekick when Eddie Bloomberg, his former [[gofer]] and devoted fan, designs a suit similar to his own to adventure as [[Kid Devil]]. Eventually, he moves into "The House of Weirdness" with [[Cain and Abel (comics)|Cain the Caretaker]] as his superintendent.<ref>''Blue Devil'' #20 (January 1986). DC Comics.</ref>
+
+===Blue Demon and later alliances===
+Seeking more fame and thrills, [[Underworld Unleashed|Blue Devil is approached]] by the demon [[Neron (DC Comics)|Neron]]. Neron is known for offering Faustian bargains to heroes and villains alike. Neron offers Cassidy fame as an actor, requiring an act of destruction as payment. Neron sends Cassidy to destroy an unmanned electrical substation in the desert. Believing it to be a relatively harmless act, having checked that nobody was working that night and a relay station would kick in to carry the load, Blue Devil complies and inadvertently causes the death of Marla Bloom, the aunt of Cassidy's best friend Eddie, as the resulting power outage in other electrical towers causes a crash that kills Marla. The story of his personal loss is enough to attract several movie offers.<ref>''[[Underworld Unleashed]]'' (1995). DC Comics</ref>
+
+Opposing Neron, Cassidy is able to partly foil the demon's short-term plans, but he dies in the process. Cassidy's death is short-lived, as he is restored to life as a real devil, no longer a man in an organic suit. Ironically, Cassidy had been a devout [[Catholic]], but now is unable to set foot on consecrated ground without harmfully bursting into flame.
+
+Blue Devil joins the Justice League again, until his second death at the hands of [[Mist (comics)|Mist]], who showers him with [[holy water]].<ref>''Starman'' (vol. 2) #38 (January 1998). DC Comics.</ref> Blue Devil is resurrected again by [[Sebastian Faust]], who hopes to gain his assistance restarting the fires of Hell during the ''[[Day of Judgment (comics)|Day of Judgment]]'' storyline. Blue Devil has a chance to confront Nebiros, empowered by a magic trident seemingly given by the King of Lies himself. Blue Devil stalls Nebiros, stripping him of his trident and allowing [[Firestorm (comics)|Firestorm]] to deal the killing blow; back on Earth, the other heroes of the [[Sentinels of Magic]] save the world.
+
+Blue Devil then joins the Sentinels of Magic and becomes Faust's partner, but it is an uneasy partnership. In an apparent act of kindness, Faust restores Blue Devil's freedom by restoring to him his last missing bone. Blue Devil sacrifices his life fighting Hermes Trismegistus, but as a true devil he returns to life again. He is tasked to roam the Earth with Lucifer's Trident sending escaped demons back to Hell.
+
+===One Year Later===
+[[One Year Later]] Blue Devil is employed as a bouncer at the [[Oblivion Bar]], an interdimensional place for magical beings, and there he is recruited by [[Ragman (comics)|Ragman]], [[Enchantress (DC Comics)|Enchantress]], and [[Detective Chimp]] to fight against [[Spectre (DC Comics character)|The Spectre]] in ''[[Day of Vengeance]]''. With his enhanced demonic strength, he is the heavy hitter of the [[Shadowpact]], the assemblage of magical heroes devoted to fight for every "lost cause". This grouping is even able to wound the powerful [[Eclipso]]. Feeling necessary for the first time in a long time, he devotes himself to the team. One of their goals is to help look over the wild magic of the "Tenth Age", a direct result of the events of ''Day of Vengeance''.<ref name="dc-ency"/>
+
+He spends the "missing year" trapped in Riverrock, Wyoming along with the rest of Shadowpact. It is a small city hidden by a blood shield by an assembly of evil magical beings called the Pentacle. There he meets, or rather meets again, Jack of Fire, a red, muscular demon. The entity is hiding a disfigured, bony face under a black bandanna, claiming to have been turned into a demon by the actions of Daniel. He further explains that the very same moment the demonic [[Neron (DC Comics)|Neron]] granted fame and powers to Cassidy as Blue Devil, the dead parents and siblings of Patrick were dragged from Heaven to Hell.
+
+From then on, Blue Devil's life starts going downhill: even if in his personal timeline only a few days passed, the Enchantress was forced to steal a year of life out of every Shadowpact member (and surviving Riverrock townsperson) to shatter the bloody barrier. As such, the entire world had long thought Shadowpact lost, even building a memorial statue. Having been considered dead for a year, Blue Devil struggles to rebuild his life.
+
+Blue Devil is forced to confront Kid Devil, now granted [[metahuman]] powers by Neron himself. When questioned about his involvement in Marla's death, Blue Devil is forced to admit that his actions were what caused her death. Due to the terms of his deal with Neron, that he would become Neron's eternal servant on his 20th birthday should he lose his trust in Blue Devil, Kid Devil realizes that he is now damned, having lost all trust in Blue Devil following his confession. Kid Devil, enraged, yells at Blue Devil to stay away from him and runs off, leaving a guilt-ridden Blue Devil behind.
+
+To add further misery to his condition, Blue Devil is demoted to the rank of a Rhyming Demon. His new position results in the heroic Earth-based angel [[Zauriel]] being sent to confront him.<ref>''Shadowpact'' #13 (March 2007). DC Comics.</ref> His demotion is explained as the paradoxical condition of his being both a hero and a demon: being famous and loved by everyone, he makes Hell a glamorous place, spurring weak minds to attain his glamour by selling their souls to Hell. Zauriel, on behalf of his good faith, takes Blue Devil's place in the Shadowpact, giving him enough time to get out of his infernal deal.
+
+Blue Devil puts his case in the hands of an eager lawyer, more than happy to be able to confront Hell itself in a hall of justice. Blue Devil undertakes the task of completing 13 labors, as [[Hercules]] before him, on behalf of the [[Catholic Church]] as a show of good will.
+
+Returning to Hell for the final hearing, he discovers that Jack of Fire was the one selling his sibling's soul first, with Blue Devil merely following unwillingly. His lawyer repeatedly proves that Jack is the only one who can return Cassidy's soul, and the souls of his family, back, since he was the one who sold them in the first place. Blue Devil uses his new lower status as a Rhyming Demon to force Jack to do so, but in the process he loses both Lucifer's Trident and his demon form, reverting into a mortal.<ref>''Shadowpact'' #23 (May 2008). DC Comics.</ref>
+
+Jack of Fire is now allied with a seemingly all-powerful Sun God, but plots to betray him in retaliation for his harsh treatment and to lead an army of demons on Earth. Cassidy feels forced to don a new suit of armor, very similar to the one he wore during his Hollywood years, but even more powerful. He sets off to fight his brother, who refuses. Instead, after a brief confrontation, acknowledging that the Sun God will eventually kill him for his betrayal, he commits suicide in front of Cassidy, naming him inheritor of all his powers and demonic status - but without forfeiting his soul. Cassidy rejoins the Shadowpact to defeat the Sun God, and Zauriel ends his temporary membership with the group.
+
+During the ''[[Reign in Hell]]'' storyline, Cassidy convinces [[Zatanna]] and [[Sargon the Sorcerer]] to take him to Hell and accompany him as to make a deal with Lord Satanus against Neron; when, after much suffering, they reach Satanus, he pleads to be incorporated into Satanus' attack force in hopes of receiving the gift of full humanity from the demon in case of his victory. Inadvertently, he brags about being capable of handling [[Etrigan]], who is causing damage to Satanus' forces; Satanus takes heed of this and teleports him to do battle with Etrigan. Upon losing, Etrigan steals the remains of his humanity.
+
+Later, due to the effects of the magical drug Satanus has released all over Hell, he is transformed into a human, but soulless. [[Etrigan]], now transformed into a replica of [[Jason Blood]], offers him his soul back, warning him the drug only worked on pureblood demons such as the type he had been transformed into when Etrigan stole his soul, meaning accepting it back meant returning to his demon shape forever. He is later traumatized by Sargon's sacrifice to let almost all heroes intervening in the War of Hell escape to [[Nanda Parbat]] and is later the only one convinced of reuniting the Shadowpact by Detective Chimp.
+
+He appears with [[Zatanna]] and the [[Phantom Stranger]] at the desecrated grave of [[Batman]]. [[Power ring (weapon)#Black|Black rings]] take control of [[Crispus Allen]].<ref>''[[Blackest Night]]'' #2 (October 2009). DC Comics.</ref> While Zatanna is sent to gather the Justice League, Blue Devil and the Stranger attempt to stop the [[Black Lantern]] Spectre, failing miserably. He and the Stranger head to Nanda Parbat, where the Stranger helps [[Deadman (DC Comics)|Deadman]] remove the black ring from his body. Blue Devil is then tasked by the Stranger to protect the body, being told that it is of "singular importance".<ref>''Phantom Stranger'' (vol. 2) #42 (March 2010). DC Comics.</ref>
+
+===The New 52===
+{{Update|date=September 2017}}
+In [[The New 52]] rebooted DC's continuity, Blue Devil is reintroduced when he busts up a drug deal and runs into [[Black Lightning]], who is also there to bust the deal. They both state that they are trying to take down crime lord [[Tobias Whale]], but Black Lightning does not believe Blue Devil. A fight ensues, but Blue Devil quickly gets the better of Black Lightning and tries to make him listen, when he is interrupted by the [[Los Angeles Police Department|LAPD]], who are ready to open fire. Black Lightning takes that opportunity to run off and Blue Devil manages to escape as well.<ref>''DC Universe Presents'' #13. DC Comics.</ref>
+
+During the ''[[Forever Evil]]'' storyline (namely ''[[Forever Evil: Blight]]''), Blue Devil is among the magic users that were captured by Felix Faust and Nick Necro in order to use them as part of a weapon that would defeat the [[Anti-Monitor|creature]] that destroyed the [[Crime Syndicate of America|Crime Syndicate]]'s Earth.<ref>''Constantine'' #11. DC Comics.</ref>
+
+==Powers and abilities==
+Even before he became Blue Devil, Dan Cassidy was a highly trained martial artist and acrobat. His costume included [[kevlar]] body armor, visual and auditory amplifiers, radio gear, mini-gills allowing underwater breathing, and servo-motors which increased his strength at least twentyfold. After being grafted to Cassidy's body the costume became organic and gained the ability to self-repair at an extremely fast rate (effectively a healing factor). Cassidy's abilities seem to have been changed little by his transformation into an actual demon.
+
+In his current incarnation, Blue Devil still possesses some degree of superhuman strength, capable of going toe-to-toe with beings like [[Eclipso]], and knocking out a power-drunk [[Enchantress (DC Comics)|Enchantress]] in one punch. He is also remarkably resistant to physical damage, evidenced when Eclipso threw him a distance of approximately 500 feet upwards, he did not even require time to recover before getting up and heading back into the fight.
+
+Originally, Blue Devil wielded a [[trident]] of his own design which included, among other things, [[rocket]] engines capable of carrying two people at high speeds. He now carries the '''Trident of Lucifer''', which allows him to find demons on Earth and banish them to Hell. During a battle with Eclipso and the Spectre the trident was thrown into the ocean; it was recovered shortly after by [[Aquaman]] who returned it to Cassidy, and much later given to Jack of Fire.
+
+Briefly resuming his human body with a more powerful exosuit, Cassidy is given back his trident and demonic powers by Jack of Fire, but as a "demon with a soul".
+
+Dan's apartment in Metropolis connects to California via a closet that opens into Cain's [[House of Mystery]]. By crossing through the house, he can travel from the East Coast to the West Coast in moments.
+
+==Other versions==
+===Kingdom Come===
+In ''[[Kingdom Come (comics)|Kingdom Come]]'', there is a background character named '''Blue Devil II''', an indigo-skinned demon with wings who was visually based on the demon Chernabog from the Disney film ''[[Fantasia (1940 film)|Fantasia]]''.
+
+===Tangent Comics===
+In the 1997 [[Tangent Comics]] one-shot ''[[Sea Devils (comics)|Sea Devils]]'' Blue Devil lends his name to the brand of beer served at The [[Black Pirate]] pub in [[New Atlantis]]. There is also a patron of the pub seen wearing a Blue Devil T-shirt.
+
+===CW Arrowverse===
+Blue Devil "the Movie" is shown as a bus advertisement on Arrow Season 2 episode "Time of Death".
+Blue Devil is mentioned in 2 episodes of the Flash, "Things You Can't Outrun" and "Power Outage" (mentioned and seen on posters)
+
+
+===Future's End===
+
+==In other media==
+===Television===
+[[File:BlueDevil.jpg|thumb|right|Blue Devil in ''[[Justice League Unlimited]]'' in the episode "Dark Heart" as he destroys robots with his trident.]]
+* Blue Devil appears in the ''[[Justice League Unlimited]]'' animated series, voiced by an uncredited [[Lex Lang]]. This version is a member of the [[Justice League]] and primarily makes non-speaking background appearances.
+* Blue Devil appears in the ''[[Young Justice (TV series)|Young Justice]]'' animated series, voiced by [[Troy Baker]]. This version is Irish and serves as an associate of the Justice League in the first two seasons before joining them in the third. In the fourth season, Blue Devil serves as the "[[wiktionary:den mother#English|den mother]]" of the League's sub-groups, the [[List of Young Justice characters#"The Team"|Team]] and the [[Outsiders (comics)|Outsiders]].
+* Blue Devil appears in ''[[Justice League Action]]''.
+* Daniel Cassidy appears in the [[DC Universe (streaming service)|DC Universe]] series ''[[Swamp Thing (2019 TV series)|Swamp Thing]]'', portrayed by [[Ian Ziering]].<ref>{{cite web|url=https://www.hollywoodreporter.com/heat-vision/ian-ziering-joins-swamp-thing-as-dc-hero-blue-devil-1168729|title='Swamp Thing': Ian Ziering Joins the Cast as DC Hero Blue Devil|last=Kit|first=Borys|date=December 11, 2018|publisher=The Hollywood Reporter|access-date=December 11, 2018}}</ref> This version made a deal with the [[Phantom Stranger]] that leaves the former trapped in Marais, Louisiana. Following a minor appearance in the episode "Worlds Apart", Cassidy visits [[Madame Xanadu]] in the episode "He Speaks" to express his desire to leave Marais and learns from her that change is coming. In the episode "Drive All Night", Daniel tries to leave Marais, but his arm bursts into blue flames at the border and he ends up in a coma. In "The Price You Pay", Cassidy recalls the deal he made before [[Jason Woodrue]] wakes him up while experimenting on him. In "The Anatomy Lesson", Cassidy recovers and becomes Blue Devil to save [[Abby Holland|Abby Arcane]] and Liz Tremayne from Conclave's security team after the Phantom Stranger shows him the events in a vision. In "Loose Ends", Cassidy is able to leave Marais.
+
+===Miscellaneous===
+* Blue Devil appears in issue #23 of the ''[[Teen Titans Go!]]'' tie-in comic book series.
+* Blue Devil appears in issue #25 of the ''[[Justice League Unlimited]]'' tie-in comic book series.
+
+===Toys===
+* Blue Devil was the sixth figure released in [[DC Universe Classics#Wave Thirteen|wave 13]] of the [[DC Universe Classics]] line.
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://web.archive.org/web/20060227013634/http://www.mykey3000.com/cosmicteams/profiles/bluedevil.html Cosmic Teams entry]
+* [https://web.archive.org/web/20070929111155/http://www.comicon.com/ubb/ultimatebb.php/ubb/get_topic/f/36/t/006043.html Blue Devil interview/preview on THE PULSE]
+*[https://web.archive.org/web/20110728141700/http://bluedevil.uatu.net/ Justin's Honest-to-Goodness Blue Devil Page]
+* [http://www.comics.org/search.lasso?type=title&query=Blue+Devil&sort=alpha The Grand Comics Database Project] - Index access for ''Blue Devil'' and ''Blue Devil Annual''
+
+[[Category:Comics characters introduced in 1984]]
+[[Category:1984 comics debuts]]
+[[Category:DC Comics characters with superhuman strength]]
+[[Category:DC Comics male superheroes]]
+[[Category:DC Comics titles]]
+[[Category:DC Comics characters with accelerated healing]]
+[[Category:Fictional characters who have made pacts with devils]]
+[[Category:Fictional polearm and spearfighters]]
+[[Category:DC Comics demons]]
+[[Category:DC Comics martial artists]]
+[[Category:DC Comics fantasy characters]]
+
+{{Justice League Dark}}
+{{Justice League characters}}

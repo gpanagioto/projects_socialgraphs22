@@ -1,0 +1,100 @@
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|character_name = The Web
+|image          = 
+|imagesize      = 
+|converted      = y
+|caption        = 
+|real_name      = John Raymond<br/>Jane Raymond
+|publisher      = [[Archie Comics]]<br/>[[DC Comics]]<br/>[[Dark Circle Comics]]
+|debut          = ''Zip Comics'' #27 (July 1942)
+|creators       = Unknown (writer)<br/>John Cassone (artist)
+|species        = <!-- optional -->
+|homeworld      = <!-- optional -->
+|alliances      = <!-- optional -->
+|partners       = <!-- optional -->
+|supports       = <!-- optional -->
+|aliases        = John Raymond
+|powers         = Hi-Tech Suit, Taekwondo
+|cat            = super
+|subcat         = DC Comics
+|hero           = y
+|villain        = y
+|sortkey        = Web (comics)
+}}
+
+'''The Web''' is a [[fictional character]], a superhero created by [[Archie Comics|MLJ Comics]] in 1942 by artist John Cassone and an unknown writer. The character was published in ''[[Zip Comics]]'' until 1943, and was later brought back in 1966 to appear in Archie's revived superhero line. DC Comics licensed Archie's superhero characters in 1991, and brought a new revival of the character to life in 2009.
+
+==1940s==
+The Web debuted in issue #27 of ''[[Zip Comics]]'' in July 1942, having originally been intended for ''[[Top-Notch Comics]]'', the change occurring due to a decision to emphasize the humour of ''Top-Notch''. In that first issue, he rescues a woman named Rose Wayne from a Japanese terrorist, the Black Dragon of Death. Rose discovers his secret identity.<ref>{{cite book |last1=Mitchell |first1=Kurt |last2=Thomas |first2=Roy |title=American Comic Book Chronicles: 1940-1944 |date=2019 |publisher=TwoMorrows Publishing |isbn=978-1605490892 |page=156}}</ref> His origin was recounted in the second story, in issue #28.<ref name=Mougin>{{cite book |last1=Mougin |first1=Lou |title=Secondary Superheroes of Golden Age Comics |date=2020 |publisher=McFarland & Co |isbn=9781476638607|pages=135–137}}</ref>
+
+The Web's secret identity was John Raymond, a college professor of [[criminology]], and mystery writer.<ref>{{cite book |last1=Nevins |first1=Jess |title=Encyclopedia of Golden Age Superheroes |date=2013 |publisher=High Rock Press |isbn=978-1-61318-023-5 |page=289}}</ref> Raymond's interest in studying the motives and behavior of criminals harked back to his youth, and the criminal leanings of his brother Tom.
+
+The Web's enemies include Captain Berlin, and other Nazis.<ref name=Mougin/>
+
+The character was the lead story in ''Zip'' for a while, but lost the cover spot to [[Steel Sterling]]. His last appearance in ''Zip'' was in issue #38, in July 1943.<ref name=Mougin/>
+
+==1960s==
+The Web came out of retirement in March 1966 in ''[[Fly (Archie Comics)|Fly-Man]]'' #36, written by [[Jerry Siegel]] and drawn by [[Paul Reinman]] to combat the antics of an impostor.<ref name=Chron>{{cite book |last1=Wells |first1=John |title=American Comic Book Chronicles: 1965-1969 |date=2014 |publisher=TwoMorrows Publishing |isbn=978-1605490557 |page=78}}</ref> By this time, he was retired and married to Rose, who doesn't want him to be a superhero anymore. He convinces her to let him go out once and fight a character who'd stolen his name and costume, but after one fight, he decided to stay in the superhero game, and lie to his wife.<ref name=Chron/>
+
+In ''[[Mighty Crusaders]]'' #4 (April [[1966 in comics|1966]]), he joins with [[Fox (comics)|the Fox]] and [[Captain Flag]] to form the Ultra-Men. In [[Red Circle Comics|''Mighty Comics'']] #40 (November 1966), he is chastised by his wife, who no longer wanted him to be a superhero.<ref name=toon>[http://www.toonopedia.com/web.htm Web] at [[Don Markstein's Toonopedia]]. [https://www.webcitation.org/66tXFTaLG?url=http://www.toonopedia.com/web.htm Archived] from the original on April 14, 2012.</ref>
+
+Despite this criticism, Raymond continues his crimefighting, while becoming increasingly [[wiktionary:henpeck|hen-pecked]] domestically. His wife ultimately trains and dons her own costume: as "Pow-Girl" (appearing in ''Mighty Comics'' #43) she fights crime alongside her husband, who is unaware of her real identity. The Web had several more issues' worth of appearances, before disappearing again.<ref>{{cite web|url=http://www.mightycrusaders.net/handbook/web2.htm|title=The Mighty Crusaders Handbook|work=mightycrusaders.net}}</ref> It was later revealed that Rose was the younger sister of another Archie superhero, [[Jaguar (Archie Comics)|The Jaguar]].<ref>{{cite comic| writer= [[Stan Timmons|Timmons, Stan]]|penciller=[[Lou Manna|Manna, Lou]]|inker=[[Rex Lindsley|Linsdley, Rex]], [[Chic Stone|Stone, Chic]]|story= The Killing Hour|title= Blue Ribbon Comics|issue= 14|date= December 1984}}</ref>
+
+===Reception===
+The 60s version of the Web with a nagging wife and mother-in-law was intended to copy the then-popular [[Marvel Comics]] style, in which superhero characters are seen coping with conflicts in their personal lives.<ref name=Chron/> This was not well-received by fans. ''The MLJ Companion'' describes it as "a conceit lifted straight out of the day's inane TV situation comedies" and Dwight R. Decker wrote in ''[[Amazing Heroes]]'' that "The Web was reduced to playing straight man to mother-in-law jokes".<ref>{{cite book |last1=Offenberger |first1=Rik |last2=Castiglia |first2=Paul |title=The MLJ Companion: The Complete History of the Archie Super-Heroes |date=2016 |publisher=TwoMorrows Publishing |isbn=978-1605490670 |page=143}}</ref> John Wells in ''American Comic Book Chronicles'' writes that "the ongoing nagging of Rose Raymond was more shrill than funny", although "that's not to say the feature didn't have its moments".<ref name=Chron/>
+
+==Later appearances==
+The Web returned in Archie's ''[[Red Circle Comics]]'' superhero revival of the 1980s. He made several appearances alongside the company's heroes.
+
+In 2006, he made a [[cameo appearance]] in ''Archie and Friends'' #101, in the [[Katy Keene]] story. In 2007, he appeared again in the Katy Keene story in ''Archie and Friends'' #107.
+
+===''New Crusaders''===
+In ''[[New Crusaders]]'', John Raymond/Web and Rose Raymond/Pow-Girl had a son, Wyatt, who has been given a super suit that enhances his physical skills and assumes his father's role of the Web.{{citation needed|date=July 2013}}
+
+==DC Comics==
+===Impact Comics===
+In 1991 the Archie superhero characters were re-imagined in the [[Impact Comics]] line. Here the Web is portrayed as a group of secret agents who wore powered armor.
+
+===2009 revival===
+{{long plot|date=August 2015}}
+[[DC Comics]]' 2009 revival of the Red Circle characters included the Web.<ref>{{cite web|url=http://www.newsarama.com/comics/040929-JMS-Red-Cirlce.html |title=Completing the Red Circle: Talking to JMS |publisher=Newsarama.com |access-date=2010-12-27}}</ref>
+
+The new incarnation of John Raymond is a spoiled, slacker womanizer, fancying himself a [[socialite]]. His brother David, a social worker, has distanced himself from his family, choosing to help the poorer as a social worker. Despite their differences, John always admired David. John was made the heir of the family fortune by his father, who reasoned that John's cold, privileged mindset would make him a better businessman. John, who believed his brother to be the better man and rightful heir, decided to balance business needs with humanitarian goals. To those ends, John maintained his profile as a spoiled socialite while using part of his five-billion dollar fortune to set up a superpowered persona as the Web, a ''common people'' superhero who derived his name from the [[World Wide Web]]. John developed an advanced supercomputer to select the most urgent or worthy of numerous requests for help submitted his website ''summontheweb.com''.
+
+John later discovers that David has fallen in debt to loansharks, who later murder David. David explains with his last breath that he didn't want to ask John for help because he was too proud. David's death causes John to reevaluate his activities as the Web, and decides that he will no longer aid those who have the resources to help themselves, or who have friends and family they can turn to. Instead, the Web will assist only those who have no one else to turn to.<ref>''The Red Circle: The Web'' (October 2009)</ref> The first beneficiary of his "new deal" is Lieutenant Joseph Higgins, stationed in Afghanistan and looking for his missing father. However, waiting for the Web reply, Higgins is grievously wounded while in a mission, and saved by an experimental warsuit: by the time the Web reviews email, and gives him a positive reply, Higgins has become [[Shield (Archie Comics)|The Shield]], superhero on his own and a potential ally in John's quest.<ref>''The Red Circle: The Shield'' (October 2009)</ref>
+
+John eventually discovers that the man responsible for David's murder is a renowned scientist named '''Dr. Archer''', who is using his knowledge of chemistry to create addictive recreational drugs which he then distributes through violent street gangs. Unable to hold off Archer and fight him actively alone the Web resorts, like the previous [[Impact Comics]] character, to turn the Web identity into an organization of equally empowered crime fighters, a small army of ''Web Hosts'', receiving functional copies of his suit in exchange for enacting justice in his name.<ref name=tw1>''The Web'' (vol. 3) #1 (November 2009)</ref><ref name=tw2>''The Web'' (vol. 3) #2 (December 2009)</ref> After a brief period of unrests and anarchy, [[Barbara Gordon|Oracle]] and [[Stephanie Brown (comics)|Batgirl]] offer an upgrade to the ''Web Hosts'', in exchange for them pledging alliance to the [[Justice League of America]] rather than acting independently and thinning their number to expel the more rambunctious and rebellious members. The ''Web Hosts'' now receive their powers from a [[cloud computing]] server in the ''Web Lair'', making the Web able to shut their suits down remotely. Furthermore, every suit is fitted with an access to ''Twitterati'' (the DCU equivalent of [[Twitter]] featured into the ''Final Crisis: Dance'' miniseries), granting the Host a private [[social network]] to use for personal interactions and crimefighting as well, and John Raymond himself, as the current administrator, a permanent link to his ''Hosts'' and simple supporters (and a [[spyware]] implanted program to gain Oracle absolute control over the aptly named ''Interweb'').
+
+With the help of his new hosts and his supporters the Web finally tracks down Dr. Archer, finally handing him down to the police with enough proof to get him put on trial. However Alice, girlfriend of the late David, warns John of another hidden instigator behind Archer's actions, the mysterious Deuces Wilde.<ref name=tw3>''The Web'' (vol. 3) #3 (January 2010)</ref>
+
+When a technological-savvy villain, Doctor Zadar, manages to mainline the remote link, effectively capturing and controlling the entire Web Hosts population, Raymond meets Kim Brand, the current incarnation of the [[Flygirl (Archie Comics)|Flygirl]], in this continuity no longer a magic user but a former ''Web Host'' wearing an enhanced, illegally modified and souped-up ''Web Host'' suit with greater proficiency. Raymond enlists her for the rescue mission, offering her the enhanced suit in exchange, this time as her personal property.
+
+Raymond handles the crisis selflessly, deliberately risking his life to keep Fly Girl out of harm, but highlighting his lack of teamplay abilities: however, he manages to impress the U.S. Army to warrant for Kim and himself an induction into the newly formed ''[[Mighty Crusaders#DC Comics series|Mighty Crusaders]]'', along with [[Comet (Archie Comics)|The Comet]], [[Inferno (comics)|Inferno]], The Shield and War Eagle.<ref>''The Web'' (vol. 3) #10 (August 2010)</ref>
+
+====Powers====
+The DC Comics incarnation of the Web has no superpowers, having in his John Raymond persona the strength of a man in his prime engaging in moderate physical exercise. Instead, he relies on an overtly technological suit, granting him several abilities, including but not limited to flight, bullet-proof armor, HUD interface connected to a GPS tracker and enhanced strength. However, his most prized asset is his ''Lair'', similar to the ''Batcave'' in containing his weaponry and a supercomputer, always connected to the website ''summontheweb.com'' and feeding him the data of people desperate enough to get help from outside sources.<ref name=tw1 />
+
+John Raymond has fully functional copies of his suit, with every power of his original one, used by willing followers of ''summontheweb.com'',<ref name=tw2 /> along with an instruction manual and 120 days of [[tech support]], creating a super-hero [[media franchise|franchise]] named the "Web Hosts" (obvious pun over the [[webhost]] concept, consistent with the image of the Web as an accessibile, [[Internet]]-savvy hero). When Oracle and Batgirl confront him about his lack of control over the Hosts, John Raymond agrees to enforce a stricter charter on his users in exchange for upgrades provided by Oracle herself.
+
+The Web Hosts are now permanently connected to the Interwebs, a [[Twitter]]-derived [[social network]], fully accessible from the suits, that constantly feeds in John Raymond's administrator account and suit all information the Hosts are willing to share about crime fighting, or simple socialization. As a programmed side-effect, however, everything the Web does is out on the display on the Interwebs, for everyone to view or comment upon. As a security measure, the Web Lair is upgraded with a [[cloud computing]] system linked to the Hosts, making Raymond (and Oracle) able to remotely disable the Hosts Suits.<ref name=tw3 />
+
+==Jane Raymond==
+In July 2015, [[Archie Comics]] announced that its imprint [[Dark Circle Comics]] would introduce a new version of the Web the following year: Jane Raymond, a 14-year old [[Korean-American]] high school student who becomes a costumed hero after gaining powers from an accident.<ref>{{cite web | url = http://www.comicbookresources.com/article/sdcc-exclusive-archies-dark-circle-introduces-teen-hero-in-the-web |title= Archie's Dark Circle Introduced Teen Hero in ''The Web'' |first=Kiel |last= Phegley|publisher= [[Comic Book Resources]] |date= July 2, 2015 |access-date= August 31, 2015 |archive-url = https://web.archive.org/web/20150814030536/http://www.comicbookresources.com/article/sdcc-exclusive-archies-dark-circle-introduces-teen-hero-in-the-web |archive-date= August 14, 2015|url-status=live}}</ref> The announced series never materialized.<ref>{{cite web |url = https://twitter.com/SzymonKudranski/status/1264607793673392135 |title= Szymon Kudranski's Twitter |date= May 24, 2020| access-date= November 21, 2020}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*[[Rik Offenberger|Offenberger, Rik]], ed. [http://www.mightycrusaders.net/handbook/web.htm Web I] at MightyCrusaders.net
+*[[Rik Offenberger|Offenberger, Rik]], ed. [http://www.mightycrusaders.net/handbook/web2.htm Web II] at MightyCrusaders.net
+
+{{Archie Comics characters}}
+{{GoldenAge}}
+
+{{DEFAULTSORT:Web (comics)}}
+[[Category:Golden Age superheroes]]
+[[Category:Archie Comics superheroes|Web, The]]
+[[Category:Comics characters introduced in 1942]]
+[[Category:DC Comics superheroes]]
+[[Category:Male characters in comics]]
+[[Category:Vigilante characters in comics]]

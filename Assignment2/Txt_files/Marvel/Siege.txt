@@ -1,0 +1,5 @@
+#REDIRECT [[Siege (character)]]
+
+{{Redirect category shell|
+{{R from move}}
+}}

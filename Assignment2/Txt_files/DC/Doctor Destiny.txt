@@ -1,0 +1,111 @@
+{{short description|Fictional character}}
+{{Infobox comics character
+| image = Doctor Destiny (post-Zero Hour version).jpg
+| caption = Doctor Destiny as he appears in ''[[JLA Classified]]'' #32 (March [[2007 in comics|2007]]).<br>Art by [[Dan Jurgens]]. 
+| character_name = Doctor Destiny
+| publisher = [[DC Comics]]
+| debut = ''[[Justice League of America]]'' #5 (June [[1961 in comics|1961]])
+| creators = {{Plainlist|
+* [[Gardner Fox]]
+* [[Mike Sekowsky]]
+}}
+| real_name = John Dee
+| species = <!-- optional -->
+| homeworld = <!-- optional -->
+| alliances = [[Secret Society of Super Villains]]
+| aliases = [[Hal Jordan|Green Lantern]]
+| supports = <!--optional-->
+| powers = Dream manipulation and extensive medical knowledge
+}}
+'''Doctor Destiny''' ('''John Dee''') is a <!--Do not add "fictional" as it is tautological; supervillains (and characters in general) are by definition implied to be fictionalized to some extent.-->[[supervillain]] appearing in [[American comic books]] published by [[DC Comics]].<ref name=Guide>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Korte |first3=Steve |last4=Manning |first4=Matt |last5=Wiacek |first5=Win |last6=Wilson |first6=Sven |title=The DC Comics Encyclopedia: The Definitive Guide to the Characters of the DC Universe |date=2016 |publisher=DK Publishing |isbn=978-1-4654-5357-0 |page=92}}</ref>
+
+[[Jeremy Davies]] played the character in his [[live-action]] debut on the [[Arrowverse]] crossover "[[Elseworlds (Arrowverse)|Elseworlds]]". [[David Thewlis]] plays a non-supervillain version of the character in the television series ''[[The Sandman (TV series)|The Sandman]]''.<ref>{{cite web|url=https://deadline.com/2021/05/the-sandman-netflix-series-kirby-howell-baptiste-mason-alexander-park-donna-preston-12-cast-1234764168/|title='The Sandman': Kirby Howell-Baptiste, Mason Alexander Park & Donna Preston Among 12 Added To Netflix Series|work=Deadline Hollywood|first=Alexandra| last= Del Rosario|date=May 26, 2021|access-date=May 26, 2021|archive-date=May 26, 2021|archive-url=https://web.archive.org/web/20210526152531/https://deadline.com/2021/05/the-sandman-netflix-series-kirby-howell-baptiste-mason-alexander-park-donna-preston-12-cast-1234764168/|url-status=live}}</ref><ref>{{cite web |last1=Bui |first1=Hoai-Tran |title='The Sandman' Netflix Series Expands With 12 More Actors, Including Kirby Howell-Baptiste as Death |url=https://www.slashfilm.com/the-sandman-cast-new-netflix/ |website=[[/Film]] |access-date=May 26, 2021 |date=May 26, 2021}}</ref>
+
+==Publication history==
+Doctor Destiny first appeared in ''[[Justice League|Justice League of America]]'' #5 (June 1961), and was created by [[Gardner Fox]] and [[Mike Sekowsky]].<ref name="dc-ency">{{Citation | last = Wallace | first = Dan | contribution = Doctor Destiny | editor-last = Dougall | editor-first = Alastair | title = The DC Comics Encyclopedia | pages = 102 | publisher = [[Dorling Kindersley]] | place = New York | year = 2008 | isbn = 978-0-7566-4119-1 | oclc = 213309017}}</ref>
+
+==Fictional character biography==
+Doctor Destiny was once a petty criminal scientist who used his [[genius]] to create astounding devices for crime. He first encountered the [[Justice League|Justice League of America]] shortly after he invented an [[anti-gravity]] device and will-deadener beam that allowed him to capture [[Green Lantern#Silver Age Green Lantern|Green Lantern]] by luring him into his base using anti-gravity discs to fly over the city as Green Lantern to impersonate and infiltrate the JLA.<ref>{{cite book |last =Rovin |first =Jeff |title =The Encyclopedia of Supervillains |publisher =Facts on File |date =1987 |location =New York |isbn = 0-8160-1356-X |page=90}}</ref> Before Destiny could further his criminal ends, the League discovered his treachery as [[Green Arrow]] had heard from an underworld informant that a member of the League had been captured and was being impersonated. The League was captured by his will-deadening beam which also had [[kryptonite]] as an element. Destiny then revealed he planned to send his ship into space, thus getting rid of the JLA. However, when drawing the JLA upwards, the station suffered a brief power drain, lessening the effects of the will-deadener. Green Lantern was able to free himself during the drain and promptly imprisoned Destiny and his two henchmen.
+
+===Morpheus===
+He then created the "Materioptikon", a device which allowed him to create reality from the fabric of [[dream]]s.<ref>''Justice League of America'' #19 (1963)</ref> In a later [[retroactive continuity|retcon]] in ''[[The Sandman (Vertigo)|The Sandman]]'' series written by [[Neil Gaiman]], his mother Ethel (the former mistress of [[List of characters in The Sandman#Roderick Burgess|Roderick Burgess]]) gave [[Dream (comics)|Morpheus]]' Dreamstone to him, which powered the device. He manipulated the Dreamstone, forcing flaws and adding circuitry, until it was attuned to him and not the Dream King. Morpheus was imprisoned by [[Alex Burgess]] at the time, unaware of what Destiny was doing and unable to stop or prevent it.<ref name="dc-ency"/>
+
+Doctor Destiny's power was so great that the [[Justice League]] resorted to drastic measures to stop him. They hypnotized him and manipulated his psyche to prevent him from [[dream]]ing; this kept him from using the Materioptikon for criminal purposes but caused him to lose his mind and shrivel to a skeletal wreck of a man. He was then sent to [[Arkham Asylum]], where his sanity eroded further.<ref name="dc-ency"/>
+
+He escaped from Arkham and captured the [[Sandman (DC Comics)|Sandman]] (Dr. Garrett Sanford), and used equipment to pit people's dreams against the Justice League, eventually capturing most of the current Leaguers. Thanks to the efforts of others such as [[Zatanna]] and [[Elongated Man]], the Sandman was freed and reclaimed his equipment, aiding Doctor Destiny's recapture.<ref>''Justice League of America'' Annual #1</ref>
+
+===Arkham Asylum===
+Again from ''The Sandman'' series by Neil Gaiman, when his mother died, Doctor Destiny escaped Arkham, reclaimed the Ruby, which he used to go on a rampage, driving the whole world insane. Destiny makes his way to a 24-hour diner and proceeds to torture the patrons in numerous sadistic ways over the span of 24 hours before having them kill each other. [[Dream (comics)|Dream]], recently freed and searching for stolen tokens of power, could not stop Destiny until the villain decided to leech all of Dream's power into the Ruby and destroy the gem. The destruction of the Dreamstone returned all of its power back to Dream, including power the Lord of Dreams had been without for millennia. Morpheus then returned Destiny to Arkham and returned the ability to dream (or at least sleep). Although he is able to dream once again, Destiny's sanity is still extremely shaky.
+
+Doctor Destiny later learned that continued use of the Materioptikon meant he still had some dream manipulation powers even without the Dreamstone. He warped the [[Atom (comics)|Atom]]'s dreams of the original Justice League into a world where the [[superhero]]es were [[fascism|fascist]] bullies as part of a plan to trap the then-current Justice League there. He was defeated when the comatose [[Blue Beetle]] was able to enter the dream world. Later, Doctor Destiny threatened the JLA once again by bringing his "dream self" into the real world and attacking them with bizarre and irrational dream-logic, "haunting" scenes of his old crimes as well as Atlantis (the ocean signifying a spiritual centre in dreams). Before Destiny's dream-self fully realized what was happening to him, he was defeated when the League tracked down his real-world self and projected their dream selves into reality to confront Destiny; since the League were dreaming about victory, they couldn't lose, and Destiny was swiftly returned to his cell in Arkham.
+
+Over the years, Doctor Destiny has proven one of the Justice League's most persistent foes.<ref name="dc-ency"/> In his earliest appearances, before he lost his sanity, his goals were more rational: to acquire wealth and personal power, to eliminate all his enemies, and so on. All of these schemes revolved around the creative and liberal use of the Materioptikon, a strategy which often caught his opponents off-guard. One can assume that Destiny is still interested in attaining all of his former goals: the elimination of the Justice League, the restoration of his human appearance, and the reconstruction of the Materioptikon.
+
+===4th Parallel===
+During the "4th Parallel" storyline in ''JLA Classified'', Doctor Destiny's control over the Materioptikon is usurped by Darrin Profitt, the [[Red King (DC Comics)|Red King]].
+
+===Justice Society of America===
+In the previews for future issues of ''Justice Society of America'' (vol. 3), [[Thom Kallor|Starman]] mentioned "''It's the doctor. The one with no face!''", which would allude to future appearances by Doctor Destiny (i.e., his skeletal face). He finally appeared in ''[[Justice Society of America]]'' (vol. 3) #4, back in his old costume, with the captured [[Legion of Super-Heroes|Legionnaire]] [[Nura Nal|Dream Girl]] chained in his cell in [[Arkham Asylum]]. He uses Dream Girl's nightmares to deal with the asylum guards. When [[Batman]], [[Sandy Hawkins|Sandman]], [[Thom Kallor|Starman]], and [[Geo-Force]] arrive at the asylum, Starman goes up against Destiny by himself, but is subdued when Destiny uses Dream Girl's powers to create a zombified version of Kenz Nuhor, the man Starman killed. Starman begs Destiny to let Dream Girl go, and awakens her from her trance by using the "wake-up" word. When she awakens, Dream Girl tells Destiny that she foresaw his death, being killed in his sleep by the [[Daniel Hall (comics)|owner]] of the Dreamstone, before she knocks him out.
+
+===Superman/Batman===
+In the [[Superman/Batman]] storyline '"Mash-Up", Doctor Destiny created a dream world consisting of combinations of people from the real world, hoping to replace the waking world with his fabricated realm. [[Superman]] and Batman, who had managed to escape being fused together, stopped Destiny by freeing the combined form of [[Raven (DC Comics)|Raven]] and [[Zatanna]]. The backlash from the broken illusion put Destiny into a comatose state, mumbling the name "Bruce Kent"—the only combined being he was unable to create. He appears again capable of massive reality warping without direct control of the Materioptikon in the waking world, or at least enough magical power to fuel the creation of a new world using only dreams as his base.<ref>''Superman/Batman'' #60-61</ref>
+
+===The New 52===
+In "[[The New 52]]" (a 2011 reboot of the DC Comics universe), Doctor Destiny/John Dee first appears at the end of ''[[Justice League Dark]]'' #19.<ref>{{cite comic|writer=Jeff Lemire, Ray Fawkes|artist=Mikel Janín, Vincente Cifuentes|story=Horror City Part 1: The House of Mystery|title=Justice League Dark|volume=|issue=#19|date=June 2013|publisher=DC Comics}}</ref> A.R.G.U.S. is in possession of his Dream Stone, which John Constantine recognizes, as Dee was a student of magic and Constantine back in the 1500s.<ref>{{cite comic|writer=Jeff Lemire|artist=Mikel Janin|story=The Black Room|title=Justice League Dark|volume=|issue=#9|date=July 2012|publisher=DC Comics}}</ref> It is revealed that [[Madame Xanadu]] is Dr. Destiny's mother.<ref>{{cite comic|writer=Ray Fawkes, Jeff Lemire|artist=Mikel Janin, Vincente Cifuentes|story=Horror City Part 2: The Nightmare Gospel|title=Justice League Dark|volume=|issue=#20|date=July 2013|publisher=DC Comics}}</ref>
+
+During the "[[Forever Evil]]" storyline, Doctor Destiny is among the villains recruited by the [[Crime Syndicate of America]] to join the [[Secret Society of Super Villains]].<ref>''Forever Evil'' #1</ref>
+
+While tracking various threats from his original timeline, the displaced pre-''[[Flashpoint (comics)|Flashpoint]]'' Superman joined forces with [[Dick Grayson]] to track the New 52 Doctor Destiny, eventually trapping the powerful foe after confronting him in Superman's dream-recreation of this timeline's Bludhaven.<ref>''Nightwing'' (vol. 4) #9</ref>
+
+==Powers and abilities==
+Doctor Destiny has the ability to manipulate anyone's dreams. Basically, Doctor Destiny can use twisted versions of dreams to commit crimes. He can, for example, make people become murderers by exploiting their secret dreams, since minds are uninhibited in the confines of dreams. He can also explore a particular person's dream to create a kind of dream world, where everything happens based on a misrepresented version of that dream, and send people there. Doctor Destiny also has an extensive medical knowledge.
+
+==Other versions==
+===''Arkham Asylum: A Serious House on Serious Earth''===
+In [[Grant Morrison]]'s 1989 ''[[Batman]]'' [[graphic novel]], ''[[Arkham Asylum: A Serious House on Serious Earth]]'', Dr. Destiny makes a brief appearance in the graphic novel. In the annotated script for ''Arkham Asylum'', Morrison explains that he was not a fan of the popular depiction of the Doctor as a tall, musclebound man with a skull for a head. Rather he believed that Destiny's body would have "withered horribly" after having been robbed of the ability to dream.<ref>Morrison, Grant, and Dave McKean. ''Arkham Asylum: A Serious House on Serious Earth''. New York, N.Y.: DC Comics, 2004. 146. Print.</ref> Thus [[Dave McKean]] (the artist) portrays him as being atrophied and feeble, restricted to a wheelchair, but still wielding a latent amount of power which could not be ignored (though he was mentioned as needing eye contact with a victim to disable them). He is easily defeated by Batman, who kicks the villain's wheelchair down a set of steps before he has a chance to display his powers, though it is left ambiguous if his latent powers triggered a temporal time loop, bringing the events of the story into motion.<ref>Morrison, Grant, and Dave McKean. Arkham Asylum. Lonson: Titan, 1989. Print.</ref>
+
+===''Justice League Unlimited''===
+Doctor Destiny has appeared in the ''Justice League Unlimited'' spin-off comic book released by [[Johnny DC]]. He appears in issue #25 where he battles the Justice League alongside [[Dr. Fate]] and [[Blue Devil (DC Comics)|Blue Devil]].<ref>''Justice League Unlimited'' #25 (September 2005)</ref>
+
+===''All-New Batman: The Brave and the Bold''===
+Doctor Destiny appears in ''All-New Batman: The Brave and the Bold'' #12 based on the [[Batman: The Brave and the Bold|TV show]]. The Doctor is summoned by [[Klarion the Witch Boy]] alongside [[Blockbuster (DC Comics)|Blockbuster]], the vampiric [[Batman and the Mad Monk|Dala Vadium]], [[Hugo Strange]]'s [[Batman and the Monster Men|Monster Men]], [[Man-Bat]], [[Professor Milo]]'s [[werewolves]], and [[Solomon Grundy (comics)|Solomon Grundy]] to help fight [[Batman]] and [[Zatanna]].<ref>''All-New Batman: The Brave and the Bold'' #12</ref>
+
+==In other media==
+===Television===
+[[Image:Dr Destiny Justice League.jpg|right|thumb|Dr. Destiny as he appeared in the ''[[Justice League (TV series)|Justice League]]'' animated series]]
+[[File:Doctor John 'Destiny' Deegan (Jeremy Davies).jpg|right|upright|thumb|[[Jeremy Davies]] as John Deegan in the [[Arrowverse]] television crossover "[[Elseworlds (Arrowverse)|Elseworlds]]"]]
+* Doctor Destiny appears in series set in the [[DC Animated Universe]], voiced by [[William Atherton]]:
+** Destiny was briefly considered to appear in ''[[The New Batman Adventures]]'' with Atherton in the role.<ref>{{cite web | title=Backstage - Unused Villains Database - Dr. Destiny | website=The World's Finest | url=https://dcanimated.com//WF/sections/backstage/unused/batman/destiny.php | access-date=December 4, 2018}}</ref>
+** Dr. Destiny appears in the ''[[Justice League (TV series)|Justice League]]'' episode "Only a Dream". This version of John Dee was a low-level [[LexCorp]] employee and small-time crook who was incarcerated in [[Stryker's Island|Stryker's Prison]] for guarding a supply of smuggled weapons. He volunteers to be a guinea pig for a doctor's experiments with the Materioptikon, a machine that gives people [[Extrasensory perception|ESP]] abilities. In between sessions, Dee dreams of single-handedly defeating the [[Justice League]] and joining the [[Injustice Gang]]. After learning his parole request failed to go through and his wife Penny (voiced by [[Fairuza Balk]]) leaves him for another man, Dee abuses the Materioptikon during a prison riot, gaining [[telepathy]] and leaving to attack people in their dreams. Using his abilities to manipulate his appearance and taking the name "Doctor Destiny", Dee kills Penny before trapping most of the Justice League in their worst nightmares. [[Martian Manhunter]] rescues his fellow Leaguers while a sleep-deprived [[Batman]] eventually tracks down Destiny and confronts him. In the ensuing struggle, Destiny accidentally injects himself with a powerful [[sedative]], leaving him in a [[catatonia|catatonic]] state as he is re-incarcerated at Stryker's.
+** Destiny makes several non-speaking appearances in ''[[Justice League Unlimited]]'', having apparently recovered and now able to assume his nightmare form in reality. As of the episode "I Am Legion", he has joined [[Gorilla Grodd]]'s [[Secret Society of Super Villains|Secret Society]]. Prior to and during the episode "Alive!", [[Lex Luthor]] takes control of the Society, but Grodd mounts a mutiny. Destiny sides with Luthor, only to be killed off-screen by [[Darkseid]].
+* A variation of Doctor Destiny, named '''John Deegan''', appears in the 2018 live-action [[Arrowverse]] crossover "[[Elseworlds (Arrowverse)|Elseworlds]]", primarily portrayed by [[Jeremy Davies]].<ref>{{cite web | last=Boucher | first=Geoff | title='Arkham Asylum's New Face: Jeremy Davies Cast As Dr. Deegan In Arrowverse Crossover | website=Deadline | date=September 20, 2018 | url=https://deadline.com/2018/09/arrowverse-crossover-jeremy-davies-arkham-asylum-dr-john-deegan-casting-1202468506/ | access-date=December 4, 2018}}</ref> This version is an [[Arkham Asylum]] psychiatrist who believes in augmenting patients to help them achieve their peak potential, though his colleagues consider him mad and his methods extreme. The multiverse-traveling [[Monitor (comics)|Monitor]] approaches Deegan, commends him on his "vision", and gives him the ''Book of Destiny'' to rewrite reality as he sees fit. Deegan attempts to make himself a superhero, but inadvertently switches [[Barry Allen (Arrowverse)|Barry Allen]] and [[Oliver Queen (Arrowverse)|Oliver Queen]]'s lives instead. After the heroes convince their respective teams of the changes and learn of Deegan, they travel to Arkham to confront him. While they manage to secure the ''Book of Destiny'', Deegan escapes. Following this, the Monitor takes the book back and returns it to Deegan, who successfully alters reality and transforms himself into a black-suited [[Superman]] (portrayed by [[Tyler Hoechlin]]). Despite having been turned into powerless criminals, Allen and Queen recruit allies from [[Earth-38 (Arrowverse)|Earth-38]] to help them stop Deegan. With the Monitor's help, Queen succeeds in separating Deegan from the ''Book of Destiny'' and undoing his changes, resulting in Deegan being disfigured. He is later imprisoned in Arkham.
+* [[David Thewlis]] appears as John Dee in the TV series ''[[The Sandman (TV series)|The Sandman]]''.<ref>M. Arbeiter (May 26, 2021). https://nerdist.com/article/sandman-netflix-cast-death-desire-despair-john-dee/</ref> John Burgess is the son of Ethel Cripps and Roderick Burgess who escapes prison after his mother passed on her protection amulet that allowed her to not die. During his search for the Dreamstone, John meets a samaritan named Rosemary who assists John in finding the Dreamstone. John eventually finds the Dreamstone and gives his protection amulet to Rosemary. John takes refugee at a local diner where he uses the Dreamstone to manipulate the staff and customers into wanting to kill each other. After doing so, [[Dream (character)|Dream]] arrives and defeats John, taking him back to his prison and putting him to an endless sleep.
+
+===Film===
+* A variation of the ''[[New 52]]'' Doctor Destiny, simply referred to as '''"Destiny"''', appears in the animated film ''[[Justice League Dark (film)|Justice League Dark]]'', voiced by [[Alfred Molina]]. A dark magic practitioner who was active centuries ago, this version was initially defeated by [[Merlin (DC Comics)|Merlin]] and [[Etrigan the Demon]], with his spirit trapped in the "Dreamstone", an ancient magical artifact contained in the [[House of Mystery]] and monitored by [[John Constantine]]. John's old friend, '''[[Ritchie Simpson]]''' is manipulated into bringing the Dreamstone together to save his own life, which restores Destiny to life in Simpson's body. Despite his power, Destiny is defeated by Constantine, [[Deadman (DC Comics)|Deadman]], and [[Jason Blood]] after they separate him from the Dreamstone.
+* Doctor Destiny appears in the live-action fan film ''[[Sandman: 24 Hour Diner]]'', portrayed by Zach MacKendrick.<ref>{{Cite AV media |last=Morpheus|title=Sandman: 24 Hour Diner|date=2017-06-25|url=https://vimeo.com/223025116|access-date=2017-09-15}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://jl.toonzone.net/destiny/destiny.htm Toonzone: Doctor Destiny]
+* [http://www.dcuguide.com/chronology.php?name=doctordestiny DCU Guide: Doctor Destiny chronology]
+
+{{Justice League characters}}
+{{Justice League Dark}}
+{{The Sandman}}
+{{Gardner Fox}}
+
+[[Category:Characters created by Gardner Fox]]
+[[Category:Characters created by Mike Sekowsky]]
+[[Category:Comics characters introduced in 1961]]
+[[Category:DC Comics characters who have mental powers]]
+[[Category:DC Comics demons]]
+[[Category:DC Comics fantasy characters]]
+[[Category:DC Comics male supervillains]] 
+[[Category:DC Comics telepaths]]
+[[Category:Fictional characters with dream manipulation abilities]]
+[[Category:Fictional inventors]]
+[[Category:Fictional mass murderers]]
+[[Category:Fictional rapists]]

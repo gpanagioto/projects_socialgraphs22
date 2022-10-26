@@ -1,0 +1,66 @@
+{{for multi|the science fiction comic published by [[First Comics]]|Warp!#In other media}}
+{{Infobox comics character<!--Wikipedia:WikiProject Comics-->
+| image = 
+| caption = 
+| character_name = Warp
+| publisher = [[DC Comics]]
+| debut = ''[[The New Teen Titans]]'' #14 (December 1981)
+| creators = [[George Pérez]] (plot, pencils)<br>[[Marv Wolfman]] (script)
+| alter_ego =
+| full_name = Emil LaSalle
+| species = [[Metahuman]]
+| homeworld = <!-- optional -->
+| alliances = [[Secret Society of Super Villains]]<br/>[[Brotherhood of Evil]]<br/>[[Brotherhood of Evil|Society of Sin]]<br/>[[Suicide Squad]]
+| partners = <!-- optional -->
+| aliases = <!-- optional: actual identities the character uses, not nicknames -->
+| supports=<!--optional-->
+| powers = Flight<br>Ability to open portals that permit travel to other locations
+}}
+'''Warp''' is a fictional character appearing in [[American comic book]]s published by [[DC Comics]].
+
+==Publication history==
+Warp first appeared in ''[[The New Teen Titans]]'' #14 (December 1981) and was created by [[George Pérez]] and [[Marv Wolfman]].<ref>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Korte |first3=Steve |last4=Manning |first4=Matt |last5=Wiacek |first5=Win |last6=Wilson |first6=Sven |title=The DC Comics Encyclopedia: The Definitive Guide to the Characters of the DC Universe |date=2016 |publisher=DK Publishing |isbn=978-1-4654-5357-0 |page=324}}</ref>
+
+==Fictional character biography==
+The origin of '''Emil LaSalle''' is unknown. This [[France|French]] [[supervillain]] had previously fought Phantasmo and Fleur-de-Lis, prior to being approached by the [[Brain (DC Comics)|Brain]], [[Monsieur Mallah]], and [[Phobia (comics)|Phobia]] to become part of their new [[Brotherhood of Evil]].<ref>{{cite book |last =Rovin |first =Jeff |title =The Encyclopedia of Supervillains |publisher =Facts on File |date =1987 |location =New York |isbn = 0-8160-1356-X |page=368}}</ref> At first, Warp refused but, after being attacked by Captain Toulon and trapped on the "Earth-11" alternate Earth, Warp changed his mind and joined the group (the whole affair had been engineered by [[Doctor Mist]] to get rid of Toulon and save the survivors of that alternate Earth).{{issue|date=July 2020}}
+
+Warp has fought the Teen Titans on different occasions, later resurfacing with the other Brotherhood of Evil members who were then called the Society of Sin.
+
+When the [[Joker (character)|Joker]] altered the sanity of dozens of supervillains, Warp was one of those affected. He attacked the [[United Nations]] building, sending the top halves of many people into deep space.
+
+In the [[Villains United]] "[[Infinite Crisis]]" special, Warp, now partially cured, was with the Brotherhood of Evil when they appear as members of [[Alexander Luthor Jr.]]'s [[Secret Society of Super Villains]].<ref>''Infinite Crisis'' #4. DC Comics.</ref> He was seen working with [[Doctor Psycho]] to free [[Doomsday (DC Comics)|Doomsday]] from captivity near the center of the Earth.
+
+He kidnapped [[Icemaiden]], a service paid for by [[Delores Winters]]. Winters stole Icemaiden's skin, but the heroine survived, now in a comatose state in [[S.T.A.R. Labs]].
+
+During the ''[[One Year Later]]'' story, Warp rejoined the Brotherhood of Evil.
+
+In "[[Salvation Run]]', he was used by [[Lex Luthor]] as a component in a teleportation device and was killed when it self-destructed.
+
+In 2011 "[[The New 52]]" rebooted the DC universe. Warp is a member of The Brotherhood of Evil. He and the rest of the team are battling [[Jaime Reyes|Blue Beetle]] in his new title.<ref>''Blue Beetle'' (vol. 9) #1. DC Comics.</ref>
+
+During the "[[Forever Evil]]" storyline, Warp is among the villains recruited by the [[Crime Syndicate of America|Crime Syndicate]] to join the Secret Society of Super Villains.<ref>''Wonder Woman'' (vol. 4) #23.1. DC Comics.</ref>
+
+==Powers and abilities==
+Besides flying, Warp can open portals between any two locations that he chooses and travel through them and bring others through it as well. Repeated use of this power tires him out.
+
+==In other media==
+Warp appeared in the ''[[Teen Titans (TV series)|Teen Titans]]'' cartoon series, voiced by [[Xander Berkeley]]. This version is a time-travelling villain from one-hundred years in the future. In the episode "How Long is Forever", he travels to Jump City in order to steal an artifact, but the [[Teen Titans]] appear to stop him. During their first fight, Warp attempts to escape but [[Starfire (Koriand'r)|Starfire]] tackles him into a time portal. They end up twenty years in the future after Starfire takes a crucial part of Warp's suit. He steals the part back and fixes his machine, but the future Teen Titans apprehend him before he is able to escape. During the second battle, Warp's time suit malfunctions from the damage to his suit's vortex regulator thanks to [[Dick Grayson|Nightwing]] and he is reduced to the age of an infant. Starfire returned to the present with the artifact at the time when Warp was escaping back to his own time before Starfire pushed him into the portal rewriting the future. Warp makes one final non-voiced appearance in "Calling All Titans" as a member of the [[Brotherhood of Evil]], aiding fellow supervillain See-More in an attack on [[Herald (comics)|Herald]] and participates in the subsequent showdown with the extended Teen Titans but is later frozen by [[Mas y Menos]].
+
+Warp appears in the tenth season of ''[[Smallville]]'', portrayed by [[Elias Toufexis]]. He appears as a member of the [[Suicide Squad]] that assists [[Rick Flag]] on a mission. He helps Rick to assassinate Lois's father, [[General Sam Lane]] who was planning to pass the Vigilante Registration Act. However, when they were about to be attacked by Oliver and Clark, Emil teleports himself and Rick Flag to a safer place. In this episode, Emil didn't have the ability to fly, unlike his comic book incarnation.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.dcuguide.com/who.php?name=warp Warp's Bio]
+
+{{Teen Titans}}
+
+[[Category:Characters created by George Pérez]]
+[[Category:Characters created by Marv Wolfman]]
+[[Category:Comics characters introduced in 1981]]
+[[Category:DC Comics characters who can teleport]]
+[[Category:DC Comics metahumans]]
+[[Category:DC Comics supervillains]]
+[[Category:Fictional French people]]
+[[Category:Suicide Squad members]]

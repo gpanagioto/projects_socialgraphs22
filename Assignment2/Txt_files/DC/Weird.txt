@@ -1,0 +1,68 @@
+{{Infobox comics character  <!--Wikipedia:WikiProject Comics-->
+| image          = DCWeird4.jpg
+| converted      = y
+| caption        = Cover to ''The Weird'' #4, art by [[Bernie Wrightson]].
+| character_name = The Weird
+| publisher      = [[DC Comics]]
+| debut          = ''The Weird'' #1 (April 1988)
+| creators       = [[Jim Starlin]]<br />[[Bernie Wrightson]]
+| real_name      = <!-- optional -->
+| species        = Zarolatt
+| homeworld      = <!-- optional -->
+| alliances      = <!-- optional -->
+| aliases        = Walter Langley
+| supports       = 
+| powers         = Density manipulation<br />Energy manipulation<br />Flight<br />Non-corporeal energy form
+| cat            = super
+| subcat         = DC Comics
+| hero           = y
+| sortkey        = Weird
+}}
+'''''The Weird''''' is a fictional [[DC Comics]] character created by [[Jim Starlin]] and [[Bernie Wrightson]]. He first appeared in his own self-titled miniseries ''The Weird'' in 1988.<ref>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Korte |first3=Steve |last4=Manning |first4=Matt |last5=Wiacek |first5=Win |last6=Wilson |first6=Sven |title=The DC Comics Encyclopedia: The Definitive Guide to the Characters of the DC Universe |date=2016 |publisher=DK Publishing |isbn=978-1-4654-5357-0 |page=357}}</ref>
+
+==Publication history==
+The Weird appeared in an [[eponym]]ous miniseries.
+
+The character returned in a number of series written by Starlin: the 2006 ''[[Mystery in Space]]'' series, ''[[Rann-Thanagar]] Holy War'' (2008) and the 2009 ''[[Strange Adventures]]'' series.
+
+==Fictional character biography==
+A being of pure energy from an alternate dimension, The Weird was a member of a race known as the Zarolatts. For years, his people had been exploited as energy sources by a cruel race known as the Macrolatts. However, for some unknown reason, The Weird did not share the docile acceptance of the rest of his race. When the Macrolatts sought to bridge the dimensional gap and attack other realms, The Weird knew he had to act. Escaping through a portal to another world, The Weird found himself on the planet Earth.
+
+Seeking a corporeal form to contain his energy, he possessed the body of a dead man named Walter Langley. This produced a composite form which contained both The Weird's memories and traces of Langley's. In this shape, he sought out Earth's [[superhero]]es for aid and was dubbed "The Weird" by the [[Blue Beetle (Ted Kord)|Blue Beetle]]. With the heroes' assistance, he was able to repel the Macrolatt invasion.
+
+Tragically, his victory was short-lived. The Weird soon discovered that his new body was molecularly unstable and approaching [[critical mass]]. With the help of [[Guy Gardner (comics)|Green Lantern Guy Gardner]], he was taken to the depths of space where he detonated, ending his brief life in the physical realm.
+
+===''Mystery in Space''===
+Starlin would later return to his creation in the pages of the 2006 [[Limited series (comics)|limited series]], ''[[Mystery in Space]]''.<ref>{{cite book|editor-last=Cowsill|editor-first= Alan|editor-last2=Dolan|editor-first2=Hannah|chapter= 2000s|title = DC Comics Year By Year A Visual Chronicle|publisher=[[Dorling Kindersley]] |year=2010 |isbn= 978-0-7566-6742-9 |page= 327 |quote = [Mystery in Space] returned for an eight-issue run featuring Captain Comet, and was written by Jim Starlin and drawn by Shane Davis. It also contained a back-up strip starring the Weird, written and drawn by Starlin.}}</ref> For years, The Weird's spiritual essence had floated in the void until it made contact with the disembodied [[Captain Comet]], himself robbed of life by the villainous [[Lady Styx]]. The intermingling of these spiritual bodies produced a reaction, which neither of them at this point understand, returning them both to life in regenerated bodies.
+
+Since his return, The Weird has attempted to determine the cause of his mysterious resurrection and to seek out Comet, the "other" whose memories now mingle with his own. To this end, he has sought answers within the extraterrestrial church the Eternal Light Corporation, though he has since discovered them to have a sinister agenda. 
+
+Having viewed the physical realm from outside of it, The Weird regards the universe with a more philosophical eye than most superhumans, always seeking to understand his own nature and purpose.
+
+==''The New 52''==
+The Weird becomes a member of the newly assembled [[Stormwatch (comics)|Stormwatch]] team, debuting in issue #19.
+
+==Powers and abilities==
+* In his natural state, The Weird is a non-corporeal entity of pure energy, able to drift unaided through the void of his home dimension. Like other Zarolatts, he is unable to harness his energy for other purposes or to affect the physical realm without aid.
+* In his physical Walter Langley form, The Weird has the ability to alter the molecular density of his body. This allows him to become intangible and phase through walls and solid objects or to become as hard as rock, giving him increased durability and strength on par with Superman. He is also able to affect the physical density of anything he comes in contact with. The Weird is able to fly by riding [[magnetic]] currents. His Zarolatt origins also allowed him to freely manipulate any energy he had physical contact with, allowing him to perform various feats ranging from the transformation of electricity to the creation of complex illusions via the manipulation of brainwaves.
+
+==Collected editions==
+The miniseries was reprinted in 2008 in the ''[[Mystery in Space]] Volume 2'' trade paperback ({{ISBN|1-4012-1692-7}}).
+
+==References==
+{{Reflist}} 
+
+==External links==
+*{{comicbookdb|type=character|id=6184|title=The Weird}}
+*{{gcdb series|id=3629|title=''The Weird''}}
+*[http://www.dcuguide.com/who.php?name=weird The Weird] at the DCU Guide
+*[http://www.thebatsquad.net/continuity/dc_theweird.htm The Weird] at Batsquad.net
+
+{{Jim Starlin}}
+
+[[Category:Comics characters introduced in 1988]]
+[[Category:1988 comics debuts]]
+[[Category:Comics by Jim Starlin]]
+[[Category:DC Comics limited series]]
+[[Category:Fictional characters with spirit possession or body swapping abilities]]
+[[Category:Characters created by Jim Starlin]]

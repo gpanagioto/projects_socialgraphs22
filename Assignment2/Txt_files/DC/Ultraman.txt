@@ -1,0 +1,163 @@
+{{short description|Comic character}}
+{{About|the DC Comics supervillains|the 1940s era All-American Comics superheroes|Ultra-Man|the DC Comics teenage superhero|Ultra Boy|other uses|Ultraman (disambiguation)}}
+{{Infobox comics character<!--Wikipedia:WikiProject Comics-->
+|image=Ultraman (Earth-Three - 1964–1985).png
+|caption=The Pre-''Crisis'' Earth-Three Ultraman, art by Phil Winslade (pencils and inks) and Lovern Kindzierski (colors).
+|character_name=Ultraman
+|real_name=Clark Kent<br />Clark Luthor<br />Kal-ll (New 52 Earth 3)<br />Kal-El (Infinite Frontier Earth 3)
+|publisher= [[DC Comics]]
+|debut=''[[Justice League of America]]'' #29 (August 1964)
+|creators=[[Gardner Fox]]<br />[[Mike Sekowsky]]<br />(based upon [[Superman]] by [[Jerry Siegel]] and [[Joe Shuster]])
+|alliances=[[Crime Syndicate of America|Crime Syndicate of America (Earth-Three)<br />Crime Syndicate (Qward)<br />Crime Syndicate of Amerika (Anti-Matter Earth)<br />Crime Society of America (Earth-3)]]
+|aliases=
+|powers     = {{collapsible list
+| titlestyle = background:transparent;text-align:left;font-weight:normal;
+| title = ''See list''
+|
+*Superhuman strength, endurance, hearing, speed, agility and reflexes
+*Superhuman vision
+**Heat vision
+**Electromagnetic spectrum vision
+**Microscopic vision
+**X-ray vision
+**Telescopic vision
+**[[Infrared vision]]
+*Superhuman breath
+**Freeze and wind breath
+**Accelerated healing 
+*Invulnerability
+*Flight}}
+}}
+'''Ultraman''' is the name of several <!--Do not add "fictional" as it is tautological; supervillains (and characters in general) are by definition implied to be fictionalized to some extent.-->[[supervillain]]s appearing in stories published by [[DC Comics]]. The characters are all evil or corrupted alternate-universe counterparts of [[Superman]]. Ultraman first appeared in ''[[Justice League of America]]'' #29 (August 1964).<ref name="dc-crim">{{Cite book | last = Greenberger | first = Robert | author-link = Robert Greenberger | contribution = Crime Syndicate | editor-last = Dougall | editor-first = Alastair | title = The DC Comics Encyclopedia | pages = 89 | publisher = [[Dorling Kindersley]] | place = New York | year = 2008 | isbn = 978-0-7566-4119-1 | oclc = 213309017}}</ref>
+
+==Publication history==
+Ultraman first appeared as the evil counterpart of Superman on the original [[Earth-Three]].<ref>{{cite book |last1=Greenberger |first1=Robert |last2=Pasko |first2=Martin |title=The Essential Superman Encyclopedia |date=2010 |publisher=Del Rey |isbn=978-0-345-50108-0 |pages=452–454}}</ref> Having created the worlds of [[Earth-One]], containing [[Silver Age of Comic Books|Silver Age]] superheroes, as well as [[Earth-Two]], containing the [[Golden Age of Comic Books|Golden Age]] ones, [[DC Comics]] decided to expand the universe to include various themed universes. The first of these was Earth-Three, in which there were villainous counterparts of DC's heroes as well as heroic counterparts of DC's villains. The first Ultraman was killed in ''[[Crisis on Infinite Earths]]'' and Earth-Three was destroyed by an anti-matter storm and then wiped from continuity at the end of the series. This original Earth-Three Ultraman has reappeared briefly both in the 1980s ''[[Animal Man (comic book)|Animal Man]]'' series and the later ''[[Infinite Crisis]]'' [[Limited series (comics)|mini-series]].
+
+Since ''Crisis on Infinite Earths'', DC has returned to the concept of Ultraman, creating two different characters with that name, often appearing only for a single issue in a story arc. There have been several appearances by both characters. The first version was an anti-matter version of Ultraman, created for [[Grant Morrison]]'s ''[[JLA: Earth 2]]'' [[graphic novel]]. This version has appeared several times and was slain at the conclusion of the ''[[Final Crisis]]'' series. Another version, closer to the Silver Age original Ultraman, appeared on the [[New 52]] universe's Earth-3. Based on comments by Grant Morrison, this Earth-3 universe is not the pre-Crisis Earth-Three, making this a new character unrelated to previous versions.<ref>{{cite web
+ |url         = http://forum.newsarama.com/showthread.php?t=111900
+ |title       = THE 52 EXIT INTERVIEWS: GRANT MORRISON
+ |last        = Brady
+ |first       = Matt
+ |date        = 2007-05-08
+ |publisher   = [[Newsarama]]
+ |url-status=dead
+ |archive-url  = https://web.archive.org/web/20070510031223/http://forum.newsarama.com/showthread.php?t=111900
+ |archive-date = 2007-05-10}}</ref>
+
+==Fictional character biography==
+===Original Earth-Three Ultraman===
+Unlike Superman, the Earth-Three Ultraman gets stronger every time he is exposed to [[kryptonite]], originally developing a completely new superpower with each new exposure. In one such encounter, Ultraman acquired the ability to see through dimensional barriers, thus alerting the Crime Syndicate to the existence of alternate Earths in their first appearance. This allowed the Syndicate to attack the Justice League and [[Justice Society of America|Justice Society]]. Ultraman also differed from Superman in that his version of the planet [[Krypton (planet)|Krypton]] had not exploded. Where the Earth-Three dimension kryptonite originated was never specifically listed in any published book.
+
+However, it is implied to be the same as ordinary kryptonite, as Ultraman got powers when exposed to Kryptonite from pre-Crisis Earth-One and Earth-Two, gaining heat vision from [[Flash (Barry Allen)|Barry Allen]] throwing some at him. Being exposed to a large chunk of it paralyzed him, as he acquired so many new superpowers that his body couldn't decide which one to use and he was therefore frozen in place. He does not appear to have been affected after this, so perhaps he can reject powers, or they wear off.
+
+In the early 1980s, Ultraman teamed up with [[Lex Luthor]] of Earth-One, and Alexei Luthor of Earth-Two, in an unsuccessful attempt to eliminate the Supermen of both Earth-One and -Two (the Supermen were, in turn, assisted by the heroic Alexander Luthor of Earth-Three).<ref>''DC Comics Presents'' Annual #1 (1981). DC Comics.</ref> Later, Ultraman joined the rest of the Crime Syndicate in a teamup with a time traveling villain named [[Per Degaton]] who had found their prison and released them. Degaton used them in his attempt to conquer Earth-Two, by stealing nuclear missiles from the [[Cuban Missile Crisis]] of [[Earth Prime]], though they planned to betray him. This proved unsuccessful as well, and he hurled them into the Future of Earth-1, having made sure this would happen if they touched him, and the events were wiped from the timeline afterwards. The original Ultraman was eliminated in the 1985 12-issue [[Limited series (comics)|limited series]] ''[[Crisis on Infinite Earths]]''. Distraught at the fact that his superpowers were useless at the one time he actually needed them, he flew straight into the anti-matter cloud that was destroying Earth-Three, grimly informing [[Power Ring (DC Comics)|Power Ring]], "I do what I have done all my life. I fight... to the very end!".
+
+After his death, the Pre-''Crisis'' Ultraman showed up in the pages of ''[[Animal Man (comic book)|Animal Man]]''. There he learned that he was seemingly a comic book character himself, who existed only for the entertainment of others.<ref>''Animal Man'' #24 (June 1990)</ref> He also fought [[Alternative versions of Superman|Overman]], another pre-''Crisis'' alternate universe version of Superman who had been infected by a [[sexually transmitted disease]], became insane and killed, seemingly for the sake of killing. This Ultraman later faded into the mask of the [[Psycho-Pirate]], who, for a time, was the only one who remembered the [[Pre-Crisis]] [[Multiverse (DC Comics)|multiverse]].
+
+In ''[[One Year Later]]'' there are hints that a man controlling [[Kandor (comics)|Kandor]], under the name Kal-El, could be Ultraman. He has been using the help of a group of followers called the "Praisesingers" and the guidance of the "Holy Mother". [[Supergirl]] and [[Power Girl]] fight his efforts, causing his cult-like following to falter. This leader also slays several of his own people to keep political information quiet. It has now been revealed that this Kal-El is indeed Ultraman, who was saved from the Crisis and brainwashed by [[Saturn Queen]], his "mother", one of the masterminds behind the "Absolute Power" arc in ''[[Superman/Batman]]''. This version appears to be a much weaker version, as he receives a vicious beating from [[Supergirl]] not once, but twice.
+
+An additional incarnation of the Pre-''Crisis'' Earth-Three Ultraman has made appearances most recently in ''[[Infinite Crisis]]'' where [[Alexander Luthor, Jr.]] wanted to create so-called "perfect beings" out of his models of long-dead father Alexander Luthor, Sr., the lone super-hero of Earth-Three, Superman (both of Earth-One and Earth-Two), [[Wonder Woman]] (of Earth-One and Two) and the Earth-Three Ultraman and Superwoman.
+
+During the ''[[Convergence (comics)|Convergence]]'' storyline, Ultraman was with the Crime Syndicate when they planned to free Superwoman from death row. After they failed and the domes fell around the various cities, Ultraman engaged the Superman of the Justice Legion.<ref>''Convergence: Crime Syndicate'' #1. DC Comics.</ref>
+
+===Clark Kent (Anti-Matter Ultraman)===
+[[File:Ultramanburns.jpg|thumb|upright|Antimatter Clark Kent as Ultraman.]]
+In 1999, Ultraman was reintroduced in the ''[[JLA: Earth 2]]'' graphic novel. The [[Crime Syndicate of America]] (CSA) is revealed for the first time to the Justice League by Alexander Luthor, the heroic antimatter counterpart to Lex Luthor. In this continuity, the CSA comes from the Antimatter Universe, each member being the antimatter counterpart to a core League member.<ref name="dc-crim"/>
+
+Unlike the original pre-''Crisis'' Earth-Three Kryptonian Ultraman, the antimatter Ultraman was fully rewritten for modern continuity as '''[[Lieutenant]] [[Clark Kent]]''', a human [[astronaut]] from the antimatter Earth and no longer a Kryptonian matching Superman exactly. After his ship imploded into hyperspace, an unknown alien race reconstructed Kent in an attempt to repair the damaged astronaut, which ended up altering the human both mentally and physically, giving him ultrapowers similar to Superman's superpowers. According to Alexander Luthor, the process also twisted Ultraman's mind. In contrast to Superman, Ultraman's power relies on his proximity and exposure to a substance called Anti-Kryptonite; the longer and farther he is separated from it, the weaker he becomes. This substance has repeatedly been shown to have no apparent effect on Superman, just as Kryptonite has been shown to have no effect on Ultraman.<ref name="dc-crim"/>
+
+Antimatter Ultraman is unhappily married to his Crime Syndicate teammate [[Superwoman]]. Their alter-egos are the Antimatter Earth's alternate Clark Kent and [[Lois Lane]]. In the early 2000s, the two had a child together, but Superwoman maintains a periodic affair with another member of the Crime Syndicate, [[Owlman (comics)|Owlman]], much to Ultraman's frustration. Ultraman would usually fire his eyebeams in between Owlman and Superwoman as a warning when he sees Owlman flirting with Superwoman, although undisclosed photographic blackmail material in Owlman's possession stops Ultraman actually doing anything permanent to him.<ref name="dc-crim"/>
+
+Antimatter Clark Kent has been shown to have returned to the Antimatter Earth and again leads the antimatter Crime Syndicate. In an attempt to repair their Earth after the destruction done by the Weaponers of [[Qward]] (which resulted as part of the follow-up to their appearance in the first issue of ''[[JLA/Avengers]]''), The Syndicate was shown to have been kidnapping people from all 52 matter universes as shown in the ''[[Trinity (comic book)|Trinity]]'' series. In ''Trinity'' #13, antimatter Ultraman, Owlman and Superwoman were banished to an alternate subdimension by Superman after Superman defeated Ultraman in a fight.
+
+In ''Superman Beyond'', the antimatter Ultraman was recruited on a journey to the DC Universe's version of Limbo, along with several other alternate universe Supermen, briefly combining - albeit against his will - with Superman to activate a massive robotic version of themselves to defeat Mandrakk, the dark [[Monitors (comics)|Monitor]], their raw power combining in the robot along with Superman's moral strength and Ultraman's pragmatic ruthlessness. In ''Superman Beyond'' #2, he was shown to have been converted into a vampiric being. In the seventh issue of ''[[Final Crisis]]'', the antimatter Ultraman was apparently slain by the united Supermen alongside his new master, Mandrakk.
+
+===Post Crisis Earth-3 Ultraman===
+In ''[[52 (comics)|52]]'' Week 52, a new version of [[Earth-Three#Alternate versions|Earth-Three]] was shown as one universe amongst the Post-Crisis DC Multiverse. In the depiction was the ''[[Crime Syndicate of America|Crime Society of America]]'', whose members were twisted versions of the original [[Justice Society of America]], including [[Superman]]. The names of the characters and the team are not mentioned in the two panels in which they appear, but this Post-''Crisis'' Earth-3 Ultraman was originally shown to be aged, as he was a counterpart of the aged Superman of Post-''Crisis'' Earth-2. When the Earth-3 Ultraman is shown in later appearances of the ''Countdown'' series, he is no longer aged but young. The Earth-3 team is the ''Crime Society of America''.
+
+The Society make their first solo appearance in ''Countdown Presents The Search for [[Atom (Ray Palmer)|Ray Palmer]]: Crime Society'' #1 (origin of Post Crisis Earth-3 Owlmen, Talons, Jokester, who is a heroic Joker) written by [[Sean McKeever]] and illustrated by [[Jamal Igle]].<ref>{{cite web|url = http://forum.newsarama.com/showthread.php?t=111900|title = The 52 Exit Interviews: Grant Morrison|access-date = 2007-05-12|last = Brady|first = Matt|date = 2007-05-08|publisher = Newsarama|url-status=dead|archive-url = https://web.archive.org/web/20070510031223/http://forum.newsarama.com/showthread.php?t=111900|archive-date = 2007-05-10}}</ref><ref>[http://www.comicbookresources.com/news/newsitem.cgi?id=11396 CCI: DC New World Order - Comic Book Resources] ''..there's a CSA in both the anti-matter universe and on Earth-3 (the former is Grant Morrison's rendition, the latter is a "Golden Age" "Crime Society")''</ref><ref>[http://forum.newsarama.com/showthread.php?t=124897 A QUICK CHECK-IN WITH JAMAL IGLE - NEWSARAMA] {{webarchive|url=https://web.archive.org/web/20070929124841/http://forum.newsarama.com/showthread.php?t=124897 |date=2007-09-29}} ..''"I just finished the Crime Society one-shot"'', Jamal Igle</ref> In subsequent appearances, the Crime Society are agents of [[Monarch (comics)|Monarch's]] Multiversal army. Ultraman, along with several other members of the Crime Society, were in the Earth-51 dimension when Superman-Prime destroyed the Monarch's containment armor unleashing all of Monarch's quantum energy which destroyed the entire Earth-51 dimension. As such, Ultraman is presumed dead along with his fellow Crime Society members.
+
+===The New 52===
+In [[The New 52]] rebooted DC's continuity, a new version of Ultraman is introduced as one of the members of the [[Crime Syndicate of America#The New 52|Crime Syndicate]] to arrive from [[Earth-Three#The New 52|Earth-Three]] at the conclusion of the "[[Trinity War]]" event.<ref>''Justice League'' (vol. 2) #23. DC Comics.</ref>
+
+This version of Ultraman is '''Kal-Il''', who comes from a version of Krypton whose people are mean-spirited and selfish. Unlike their other incarnations, they gain power when exposed to green Kryptonite. Just before this Krypton was destroyed, Kal-Il's parents Jor-Il and Lara sent him to Earth-3 to one day seek vengeance against the being that destroyed Krypton (whom Jor-Il inadvertently summoned), teaching him to become the strongest being on the planet, or become nothing at all. Upon his arrival on Earth-3, the young Kal-Il coerced two alcoholic drug addicts, Johnny and Martha Kent, to adopt him, only to murder them years later once he had no further need of them. He went on to found the Crime Syndicate and take over the world. Ultraman is a violent, homicidal megalomaniac, as well as an elitist and Darwinist who values strength and selfishness, and hates weakness and altruism. After Earth-3 was devastated by the same being that destroyed Krypton-3, Ultraman led the Crime Syndicate to the Prime Earth to conquer it.<ref>{{Cite comic|title=Justice League (vol. 2)|issue=#24|date=October 2013|publisher=[[DC Comics]]|writer=Geoff Johns|artist=Ivan Reis, Joe Prado}}</ref>
+
+This version of Ultraman possesses the standard powers of a Kryptonian, only he is empowered by green [[Kryptonite]] (being able to crush it into powder and even snort it like cocaine) and is weakened by yellow sunlight. He was responsible for murdering [[Monocle (character)|Monocle]] when he claimed that the Crime Syndicate was the Justice League in disguise. Ultraman moved the moon in front of the sun to eclipse the Crime Syndicate's section of Earth as well as to protect himself from its rays.<ref>{{Cite comic|title=Forever Evil|issue=#1|date=September 2013|publisher=DC Comics|writer=Geoff Johns|artist=David Finch, Richard Friend}}</ref>
+
+The "New 52" version of Ultraman is shown as incredibly strong (fights Black Adam and swiftly defeats him), and is fairly impervious to "Shazam magic", which, in pre-New 52 continuity, is one of mainstream Superman's weaknesses (possibly because Ultraman comes from an alternate universe and is unaffected by magic of a different universe).<ref>''Forever Evil'' #3. DC Comics.</ref> Also Outsider mentioned that Ultraman has killed many gods from Earth-3<ref>''Trinity of Sin: Pandora'' #5. DC Comics.</ref> In the final battle, Ultraman engages Alexander Luthor but is beaten, Alexander leaves him to steal Deathstorm's powers. Ultraman later returns and attempts to attack Lex Luthor after he murdered Alexander Luthor only to be weakened after Sinestro and Black Adam move the moon and expose him to yellow sunlight. Lex Luthor opts not to kill Ultraman and kills Atomica instead. In the aftermath of the battle, Ultraman and Superwoman are in the custody of the authorities. He is seen sobbing in his cell.<ref>''Forever Evil'' #7. DC Comics.</ref>
+
+During the "[[Darkseid War]]" storyline, Ultraman is released and given Kryptonite in order to battle the former Anti-Monitor: [[Anti-Monitor|Mobius]]. When he attacks Mobius by himself against Superman's advice, he find himself overpowered. Mobius then brutally kills Ultraman in cold blood.<ref>''Justice League'' (vol. 2) #48. DC Comics.</ref>
+
+During the "[[Year of the Villain]]" event, Earth 3 alongside the Crime Syndicate of America was revived. Ultraman was present when Perpetua as Ultraman becomes impressed with her bloodshed. After witnessing Johnny Quick get killed when he suspects that allying with her is a bad idea, Ultraman agrees to have his Crime Syndicate lead the people of Earth 3 in her army where the people of Earth 3 were turned into Apex Predators.<ref>''Year of the Villain: Hell Arisen'' #1. DC Comics.</ref>
+
+During the "[[Dark Nights: Death Metal]]" storyline following Perpetua's conquest of the Multiverse, Ultraman and Superwoman fight [[John Stewart (comics)|Green Lantern]], Superman of Earth 23, and Wonder Woman of Earth 6 when they target Perpetua's tuning fork that is powering her Anti-Crisis Energy. Weary about what Perpetua would do to Earth 3, Owlman uses a gun made on Qward to kill Ultraman and Superwoman.<ref>''Dark Nights: Death Metal: Multiverse's End'' #1. DC Comics.</ref> Using a Black Lantern ring, Batman was able to revive Ultraman and Johnny Quick to help fight the forces of the [[The Batman Who Laughs|Darkest Knight]].<ref>''Dark Nights: Death Metal'' #5. DC Comics.</ref>
+
+===Infinite Frontier===
+Following the reboot of the multiverse after ''[[Dark Nights: Death Metal]]'', a new Earth-3 and Ultraman are created. Kal Il is the last survivor of the dead planet Krypton, sent to Earth as a baby. He was found by Jonathan and Martha Kent, who adopted him and named him Clark. His powers manifested early and he never bothered to hide them, so the other children were afraid of and ostracised him, telling him that he was from space. The Kents exploited Clark and his powers for free labour, teaching him that obedience was the ultimate virtue and that people who did not contribute to society were to be reviled as "freeloaders". They also manipulated him to be emotionally dependent on them so that he would never leave the farm. When he was a teenager in 1963 his parents showed him his spacecraft and revealed to him that he was the last of his kind, telling him they were all he had. They hoped this would make him afraid to ever break free of them, but in fact he turned on them, realising that they had only ever taken advantage of him. He flew away from Smallville, carrying his ship.
+
+Ultraman revealed himself to the world on [[Assassination of John F. Kennedy|November 22, 1963]] by assassinating the hated President [[John F. Kennedy]] with his heat vision. He was his world's only known [[metahuman]] until other beings with unnatural powers began to emerge at the start of the year 2021. He rules over Metropolis as a semi-benevolent dictator, beloved by some but feared and hated by many others. Ultraman allows the people of Metropolis some limited freedoms but tolerates no dissent, the only people who dare to challenge him openly are the editrix of the [[Daily Planet]] [[Cat Grant]] and [[Lex Luthor|Alexander Luthor]].<ref>''Crime Syndicate'' #1</ref>
+
+Following the [[Starro]] invasion, a number of metahumans revealed themselves to the world and Luthor began recruiting them into his [[Legion of Doom|Legion of]] [[Justice League|Justice]]. [[Owlman (DC Comics)|Owlman]] and [[Superwoman#Infinite Frontier incarnation|Superwoman]] approached Ultraman for an alliance to counter Luthor and rule the world, offering to make him their leader. Ultraman accepts and Superwoman also offers herself to him, hoping to conceive an heir.<ref>''Crime Syndicate'' #4</ref>
+
+==Powers and abilities==
+Ultraman possesses, essentially, the same Kryptonian superpowers as Superman, albeit most portrayals show him gaining powers from exposure to Kryptonite, even snorting it like a drug in the New 52 series; contrasting Superman, who is empowered by yellow sunlight. Ultraman is also weakened by yellow sunlight in the New 52 comics as his parents state that direct sunlight from Earth's sun breaks down the Kryptonite radiation in the cells of Earth-Three Kryptonians, stripping them of their powers and causing physical weakness and possibly emotional distress as well. A few portrayals have shown Ultraman being empowered by "Anti-Kryptonite", but not weakened by Kryptonite from the mainstream universe or yellow sunlight as in the New 52.
+
+In the animated movie ''[[Justice League: Crisis on Two Earths]]'', Ultraman is weakened by blue Kryptonite that came from his earth and alternate earths though it is never explicitly stated what produces his abilities. ''Smallville'''s Ultraman was shown to be vulnerable to Kryptonite (from both Earths) and strengthened by yellow sunlight like Earth-One Superman. The Anti-Matter Ultraman was a human empowered by Anti-Kryptonite and required it on his person to maintain his powers while regular Kryptonite did not affect him.
+
+There is a difference in the names of some of his abilities (super strength is called ultra strength, super vision is called ultra vision, super speed is called ultra speed, super hearing is called ultra hearing, etc.). His other powers are flight, heat vision (which he often uses to intimidate or murder people), x-ray vision, and invulnerability.
+
+Superman noted during a fight with Ultraman that Ultraman constantly murdering his opponents in their first confrontations actually made him weaker than Superman, as he simply eliminated his enemies upon encountering them as they were still getting used to their powers, while Superman fought them as they continued to get stronger and thus had to improve himself, putting Ultraman at a disadvantage when facing Superman's ability to think tactically, although this confrontation occurred when Superman was subject to a complex spell that was causing him to 'merge' with Batman and Wonder Woman, allowing him to draw on their superior tactical expertise. Also the first comic book portrayal showed Ultraman being defeated when over-exposed to kryptonite as he gained too much power for his body to handle; this is similar to what caused Superman a slow death in ''[[All-Star Superman]]'' when he flew too close to the sun and gained more power than his body could handle.
+
+==Other versions==
+===Earth-43===
+As well as Earth-3, there is also a further New 52 iteration of Ultraman (as opposed to Superman) on vampire-dominated Earth-43, who is a member of the ex-metahuman vampiric "Blood League", which also includes vampire analogues of [[Batman]], [[Robin (comics)|Robin]], [[Cyborg (comics)|Cyborg]], [[Green Lantern]] and [[Wonder Woman]], as well as supervillains such as the [[Joker (comics)|Joker]] and [[Doctor Sivana]]. It is possible that this iteration of Ultraman may share Superman's vulnerability to [[Magic (paranormal)|magic]], which is presumably how Ultraman was infected on that alternate Earth.
+
+==In other media==
+===Television===
+* A variation of Ultraman named '''Kal-Ul''' appears in ''[[The World's Greatest Super Friends]]'' episode "Universe of Evil", voiced by [[Danny Dark]]. Similarly to the comics and Kal-El / Superman, Kal-Ul hails from Earth-Three and was sent from Krypton to Earth, during which he was empowered by Kryptonite. Upon his arrival on Earth, he developed new powers across other encounters with Kryptonite until he reached adulthood, renamed himself "Ultraman", began a life of destruction, and eventually founded the [[Crime Syndicate of America]].
+* A variation of Ultraman named '''Clark Luthor''' appears in [[Smallville (season 10)|season ten]] of ''[[Smallville]]'', portrayed by [[Tom Welling]]. This version hails from [[Earth-Two]], where the toddler Kal-El was discovered and raised by [[Lionel Luthor]] instead of [[Jonathan and Martha Kent]] and went on to become the murderous Ultraman. Additionally, Ultraman bears an "L"-shaped scar on his right arm after his foster brother, [[Lex Luthor (Smallville)|Lex Luthor]], attacked him with Gold Kryptonite. In the episode "Luthor", he travels to Earth-One after its [[Clark Kent (Smallville)|Clark Kent]] activates a Mirror Box and inadvertently causes him and Ultraman to swap universes. Free of Lionel's influence, Ultraman enjoys living in Earth-One until Clark Kent activates an Earth-Two Mirror Box to undo the swap. In the episode "Kent", Ultraman goes on the run after killing his universe's [[Oliver Queen (Smallville)|Oliver Queen]], who exposed the former's secret identity and vulnerability to green Kryptonite to the world. After using his Mirror Box to swap places with Clark Kent once more, Ultraman attempts to find the Earth-One Lionel until Clark Kent returns and defeats him. Upon his return to Earth-Two, Ultraman is greeted by his version of [[Jor-El]].
+
+===Film===
+Ultraman appears in ''[[Justice League: Crisis on Two Earths]]'', voiced by [[Brian Bloom]]. This version is the ruthless "Boss of Bosses" of the Crime Syndicate who is vulnerable to Blue Kryptonite and enjoys tormenting President [[Slade Wilson]] and the [[First Family of the United States|First Daughter]], [[Rose Wilson|Rose]], after he murdered the [[First Lady]], [[Adeline Wilson]]. After being defeated by the [[Justice League]] and betrayed by [[Owlman (character)|Owlman]], Ultraman and the Crime Syndicate are arrested by [[United States Marine Corps|Marines]] led by President Wilson.
+
+===Video games===
+* Ultraman appears as a playable character in ''[[Lego DC Super-Villains]]'', voiced by [[Nolan North]].<ref>{{Cite web|url=https://metro.co.uk/2018/05/30/lego-dc-super-villains-confirmed-first-trailer-7591334/|title = Lego DC Super-Villains confirmed with first trailer|date = 30 May 2018}}</ref> After the Justice League go missing, he and the Crime Syndicate pose as the Justice Syndicate, with Ultraman also adopting the alias of '''Kent Clarkson''', Clark Kent's replacement at the ''Daily Planet''.
+* Ultraman appears as a boss in ''[[DC Universe Online]]'' as part of the "Earth-3" DLC.
+
+==See also==
+*[[List of Superman enemies]]
+
+== References ==
+{{Reflist}}
+
+==External links==
+* [http://supermanica.kinlok.nu/wiki/index.php/Ultraman_of_Earth-3 Supermanica: Ultraman of Earth-3] Supermanica entry on the Pre-Crisis Ultraman
+
+{{Superman characters}}
+{{All-Star Squadron}}
+{{Gardner Fox}}
+
+{{DEFAULTSORT:Ultraman (comics)}}
+[[Category:DC Comics characters who can move at superhuman speeds]]
+[[Category:DC Comics characters with superhuman strength]]
+[[Category:DC Comics supervillains]]
+[[Category:DC Comics male supervillains]]
+[[Category:DC Comics extraterrestrial supervillains]]
+[[Category:Fictional astronauts]]
+[[Category:Fictional characters from parallel universes]]
+[[Category:Fictional dictators]]
+[[Category:Fictional characters with slowed ageing]]
+[[Category:Fictional characters with X-ray vision]]
+[[Category:Fictional characters with superhuman senses]]
+[[Category:Fictional characters with air or wind abilities]]
+[[Category:Fictional characters with ice or cold abilities]]
+[[Category:Fictional characters with energy-manipulation abilities]]
+[[Category:Fictional characters with fire or heat abilities]]
+[[Category:Fictional characters with absorption or parasitic abilities]]
+[[Category:Kryptonians]]
+[[Category:Fictional mass murderers]]
+[[Category:Comics characters introduced in 1964]]
+[[Category:Characters created by Gardner Fox]]
+[[Category:Characters created by Mike Sekowsky]]
+[[Category:Video game bosses]]
+[[Category:Superman characters]]

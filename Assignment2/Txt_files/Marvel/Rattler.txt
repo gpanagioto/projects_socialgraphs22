@@ -1,0 +1,5 @@
+#REDIRECT [[Rattler (character)]]
+
+{{Redirect category shell|
+{{R from move}}
+}}

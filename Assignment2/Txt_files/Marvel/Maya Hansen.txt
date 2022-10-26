@@ -1,0 +1,57 @@
+{{notability|date=June 2018}}
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|character_name=Maya Hansen
+|real_name=
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Iron Man (comic book)|Iron Man]]'' vol. 4 #1 (Jan. 2005)
+|creators=[[Warren Ellis]] and [[Adi Granov]] 
+|alliances= [[Stark Industries]], [[S.H.I.E.L.D.]]
+|aliases=
+|powers=Genius-level intellect
+}}
+'''Maya Hansen''' is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+[[Rebecca Hall]] portrayed the character in the [[Marvel Cinematic Universe]] film ''[[Iron Man 3]]'' (2013).
+
+==Publication history==
+Maya Hansen first appeared in ''[[Iron Man (comic book)|Iron Man]]'' vol. 4 #1 (Jan. 2005) and was created by [[Warren Ellis]] and [[Adi Granov]].
+
+==Fictional character biography==
+Within the context of the [[Extremis]] storyline, Maya is a scientist who developed the Extremis virus alongside [[Aldrich Killian]]. When Killian steals a sample of the virus and sells it to domestic terrorists, she calls up her old friend [[Iron Man|Tony Stark]] to help recover it.<ref name="IMv4_1">{{Cite comic | writer = [[Warren Ellis]] | penciller = [[Adi Granov]] | inker = Adi Granov | story = Extremis (Part I of VI) | title = Iron Man | volume = 4 | issue = #1 | date = January 2005 | publisher = Marvel Comics}}</ref> After Tony is severely beaten by [[Mallen (comics)|Mallen]], a terrorist who had been injected with the virus, he convinces Maya to inject him with Extremis too.<ref name="IMv4_4">{{Cite comic | writer = [[Warren Ellis]] | penciller = [[Adi Granov]] | inker = Adi Granov | story = Extremis (Part IV of VI) | title = Iron Man | volume = 4 | issue = #4 | date = March 2005 | publisher = Marvel Comics}}</ref> Tony defeats and apprehends Mallen, but he discovers that Killian could not have acted alone in selling Extremis. Tony confronts Maya, who confesses to assisting in the crime as she knew it would force defense contractors to renew their funding. She is subsequently taken into custody.<ref name="IMv4_6">{{Cite comic | writer = [[Warren Ellis]] | penciller = [[Adi Granov]] | inker = Adi Granov | story = Extremis (Part VI of VI) | title = Iron Man | volume = 4 | issue = #6 | date = April 2006 | publisher = Marvel Comics}}</ref>
+
+Later, Tony believes Extremis is altering his brain functions so he gets her out of jail to help him. She is placed under his custody.<ref name="IMv4_10">{{Cite comic | writer = [[Daniel Knauf]] & [[Charles Knauf]] | penciller = [[Patrick Zircher]] | inker = [[Scott Hanna]] | story = Execute Program (Part IV of VI) | title = Iron Man | volume = 4 | issue = #10 | date = September 2006 | publisher = Marvel Comics}}</ref> When [[Sal Kennedy]] is killed, Maya feels she could have saved him if she had been allowed to continue her research on Extremis. She is unknowingly tricked into giving [[Mandarin (character)|The Mandarin]] samples of the virus.<ref name="IMv4_18">{{Cite comic | writer = [[Charles Knauf]] | penciller = [[Roberto De La Torre]] | inker = [[Jon Sibal]] | story = The Initiative: Part 4 | title = Iron Man | volume = 4 | issue = #18 | date = July 2007 | publisher = Marvel Comics}}</ref>
+
+Following the events of the ''[[Secret Invasion]]'' storyline, Maya Hansen disappeared from the series and was not seen again until the relaunch of the ''Iron Man'' series during the ''[[Marvel NOW!]]'' event. It was revealed that she was kidnapped by [[Advanced Idea Mechanics|A.I.M.]] to recreate the Extremis serum for them and succeeded. Though she was killed while trying to escape, she accomplishes her failsafe plan by sending a prerecorded message she made to Tony to warn him that the Extremis virus is on the loose again.<ref>''Iron Man'' vol. 5 #1</ref>
+
+==Powers and abilities==
+Maya Hansen has genius-level intellect. She was a brilliant scientist who designed Extremis, a virus that could rewrite humans' genetic code and provide enhancements to the body. She earned at least three [[Ph.D.]]s, one in [[botany]].<ref>''Iron Man'' vol. 4 #10</ref>
+
+According to [[Mandarin (character)|The Mandarin]], Maya's genetic sequence would have allowed her to survive being exposed to Extremis.<ref>''The Invincible Iron Man'' #25</ref>
+
+==In other media==
+
+===Film===
+* Maya Hansen appears in the 2013 film ''[[Iron Man 3]]'', where she is portrayed by actress [[Rebecca Hall]]. In the film, Maya is a scientist and one of [[Tony Stark (Marvel Cinematic Universe)|Tony Stark]]'s one-night stands; in a flashback to 1999, she reveals to him the prototype of the virus known as Extremis and is upset when he leaves her after their night together and forgoes aiding her research. Maya reunites with Tony during the film to warn him about the Mandarin and is saved by [[Pepper Potts]] from the destruction of his mansion. She is later revealed to be working with [[Aldrich Killian]] to improve on Extremis and use the Mandarin to cover up the deaths of their test subjects. To convince Tony to help perfect the virus, Maya tricks Pepper while in hiding and tells Killian where to find them, resulting in Pepper being taken captive. Later however, she has a change of heart when confronted by Tony and realizing the extent of Killian's agenda. Maya then tries to back out of Killian's plan by holding a vial of potent Extremis to her neck and threatening to kill them all in the resulting explosion unless he frees Tony and Pepper. Instead, Killian decides she is no longer necessary to his plans and shoots her himself. An extended scene of this shows Maya sending her files on Extremis to Tony as she is dying from her gunshot wound in order to help him stop Killian.
+
+===Motion comics===
+* Maya Hansen appears in the [[motion comic]] production of the "Iron Man Extremis" storyline, voiced by [[Theresa Spurrier]].
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://marvel.com/universe/Hansen,_Maya Maya Hansen] at Marvel.com
+* [http://marvel.wikia.com/Maya_Hansen_%28Earth-616%29 Maya Hansen] at Marvel Wiki
+* [http://www.comicvine.com/maya-hansen/4005-50599/ Maya Hansen] at Comic Vine
+
+{{Iron Man}}
+
+{{DEFAULTSORT:Hansen, Maya}}
+[[Category:Characters created by Warren Ellis]]
+[[Category:Comics characters introduced in 2005]]
+[[Category:Fictional female scientists]]
+[[Category:Iron Man characters]]
+[[Category:Marvel Comics female characters]]

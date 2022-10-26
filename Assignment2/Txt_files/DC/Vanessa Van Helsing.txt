@@ -1,0 +1,111 @@
+{{Infobox comics team and title <!--Wikipedia:WikiProject Comics-->
+<!-- Group section -->
+|image               = <!-- file name format only -->
+|imagesize           = <!-- default 250 -->
+|caption             = 
+|publisher           = [[DC Comics]]
+|group               = y
+|debuthead           = 
+|debut               = ''[[New Teen Titans]]'' #21
+|debutmo             = July
+|debutyr             = 1982
+|debuthead#          = 
+|debut#              = 
+|debutmo#            = 
+|debutyr#            = 
+|creators            = [[Marv Wolfman]]<br />[[Gene Colan]]
+|type                = Team
+|business            = 
+|organisation        = y
+|organization        = 
+|team                = 
+|base                = 
+|owners              = 
+|employees           = 
+|members             = Baron Winters<br />Vanessa Van Helsing<br />Jack Gold<br />Donovan Caine<br />Zadok Grimm
+|fullroster          =
+
+<!-- Series section -->
+|title               = Night Force
+|cvr_image           = <!-- filename format only -->
+|cvr_caption         = 
+|schedule            = Monthly
+|ongoing             = y
+|Superhero           = y
+|pub_series          = 
+|1stishhead          = vol. 1
+|1stishyr            = 1982 
+|1stishmo            = August 
+|endishyr            = 1983
+|endishmo            = September 
+|1stishhead1         = vol. 2
+|1stishyr1           = 1996
+|1stishmo1           = December
+|endishyr1           = 1997
+|endishmo1           = November
+|1stishhead2         = vol. 3
+|1stishyr2           = 2012 
+|1stishmo2           = May 
+|endishyr2           = 2012
+|endishmo2           = November
+|issues              = '''vol. 1'''<br />14<br />'''vol. 2'''<br />12<br />'''vol. 3'''<br />7
+
+|main_char_team      = 
+|writers             = [[Marv Wolfman]]
+|artists             = 
+|pencillers          = '''vol. 1'''<br />[[Gene Colan]]<br />'''vol. 2'''<br />[[Brent Eric Anderson]]<br />'''vol. 3''' <br />[[Tom Mandrake]]
+|inkers              = 
+|letterers           = 
+|colorists           = 
+|editors             = 
+|creative_team_month = 
+|creative_team_year  = 
+|creators_series     = 
+|TPB                 = 
+|ISBN                = 
+<!-- Category section -->
+|cat                 = teams
+|subcat              = DC Comics
+|altcat              = 
+|hero                = y
+|villain             = 
+|sortkey             = Night Force
+}}
+'''''Night Force''''' is the name of three [[comic book]] series published by American company [[DC Comics]]. The first series, written by [[Marv Wolfman]] and illustrated by [[Gene Colan]], debuted in a [[DC Comics insert previews|special insert]] in ''The [[New Teen Titans]]'' #21 (July 1982).<ref>{{cite book|last=Manning|first= Matthew K.|editor-last = Dolan|editor-first = Hannah|chapter= 1980s|title = DC Comics Year By Year A Visual Chronicle|publisher=[[Dorling Kindersley]] |year=2010 |isbn= 978-0-7566-6742-9 |page= 197|quote = [T]his issue...hid another dark secret: a sixteen-page preview comic featuring Marv Wolfman's newest team - Night Force. Chronicling the enterprise of the enigmatic Baron Winters and featuring the art of Gene Colan, Night Force spun out into an ongoing title of gothic mystery and horror the following month.}}</ref> The second series began in 1996 was one of four books that made up DC's [[Weirdoverse]] group of titles. The third series began in 2012 as a seven issue miniseries. It was again written by Marv Wolfman, this time with artist [[Tom Mandrake]].<ref>{{cite web|url= http://www.comicbookresources.com/?page=article&id=37328|title= Wolfman Revisits Baron Winters & "Night Force"|first= Josie|last= Campbell|date= March 6, 2012|publisher= [[Comic Book Resources]]|archive-url= https://web.archive.org/web/20120308173349/http://www.comicbookresources.com/?page=article&id=37328|archive-date= March 8, 2012|url-status=dead|access-date= March 10, 2012}}</ref>
+
+The main character of all three series is '''Baron Winters''', a sorcerer who would assemble a team of chosen individuals to fight supernatural threats.<ref>{{cite book |last1=Cowsill |first1=Alan |last2=Irvine |first2=Alex |last3=Korte |first3=Steve |last4=Manning |first4=Matt |last5=Wiacek |first5=Win |last6=Wilson |first6=Sven |title=The DC Comics Encyclopedia: The Definitive Guide to the Characters of the DC Universe |date=2016 |publisher=DK Publishing |isbn=978-1-4654-5357-0 |page=216}}</ref> The Baron himself did not participate in the missions and would manipulate, sometimes unethically, others to do so for him. This was because, for reasons not revealed, he could not leave Wintersgate Manor, the labyrinthine mansion in Washington, D.C. where he lived. The mansion was located in a special juncture of time and space, allowing him to send his team to different places and times.<ref>{{cite web |last1=Markstein |first1=Don |title=Night Force |url=http://www.toonopedia.com/nt-force.htm |website=Don Markstein's Toonopedia |access-date=1 April 2020}}</ref>
+
+==Publication history==
+The first ''Night Force'' series was launched in August 1982 in the midst of a collapse in the [[horror comics]] market, with most titles in the genre being either cancelled or on the verge of cancellation.<ref name="Back27">{{cite journal|last= Kingman|first= Jim|date= April 2008|title = Forces of the Night, What Horrors they Faced: Marv Wolfman and Gene Colan's ''Night Force''|journal= [[Back Issue!]]|issue= 27|pages= 71–74|publisher= [[TwoMorrows Publishing]]}}</ref> Despite this, writer [[Marv Wolfman]] felt (and publisher [[DC Comics]] agreed) that ''Night Force'' could be a success: {{quote|''Night Force'' was my idea, as I was looking for another book to do and felt I’d like to create my own horror title and push the boundaries a bit more than I had with ''[[Tomb of Dracula]]''. I really wanted to try something different and thought I had solved the problem of doing an [[anthology series]] by doing it with continued characters. The idea was to write for the older audience, with darker and more realistic stories than had been done at that point.<ref name="Back27"/>}}
+
+''Night Force'' was the first collaboration between Wolfman and ''Tomb of Dracula'' penciler [[Gene Colan]] since Wolfman convinced him to join the staff at DC. Both Wolfman and Colan did extensive creative design work for ''Night Force'' before working on the actual issues, with Wolfman charting out the characters' astrology and Colan doing multiple drafts of each character's visual design.<ref name="Back27"/>
+
+After only 14 issues, ''Night Force'' was cancelled due to an underestimating of the series's sales. Wolfman explained, "... DC wanted to have ''Night Force'' be one of the first direct-sales books, where I believed it should be [[newsstand]] only. I felt the [[comic shop]]s appealed primarily to the [[superhero]] fans while ''Night Force'' would appeal more to the casual mainstream reader, who might not have bought comics otherwise. We got the comic-book shops' sales early and it was canceled based on those, but when the newsstand sales finally dribbled in we actually sold pretty well".<ref name="Back27"/>
+
+Thirteen years later, ''Night Force'' was revived as part of the [[Weirdoverse]] line. The creative team included Wolfman but not Colan, and did not carry over the plot threads from the original series.<ref name="Back27"/>
+
+==Characters==
+The team had a rotating membership, but notable members included:
+* Vanessa Van Helsing&nbsp;– Granddaughter of [[Abraham Van Helsing]] and a powerful psychic.
+* Jack Gold&nbsp;– Vanessa's husband, a reporter.
+* Donovan Caine&nbsp;– A professor of parapsychology who lost an arm and a leg on one of the missions.
+* Zadok Grimm&nbsp;– Apparently, an ancient warrior in the time of [[King David]]. He has an unexplained connection to Baron Winters.
+
+==Other versions==
+In issue three of the ''[[Tangent Comics|Tangent]]: Superman's Reign'' series, a version of Night Force is featured. This group is a mystically-powered branch of the [[Nightwing]] organization, and its members are [[Jonah Hex|Hex]], [[Black Orchid (character)|Black Orchid]], and [[Wildcat (DC Comics)|Wildcat]].
+
+==In other media==
+* The character of '''Jasper Winters''', mentioned in several episodes of ''[[Constantine (TV series)|Constantine]]'', was loosely based on Baron Winters, although the look is modernized.<ref>{{cite web|url=https://comicbook.com/2014/10/25/constantine-premiere-easter-eggs-and-dc-comics-references/|title=Constantine Premiere Easter Eggs and DC Comics References|website=ComicBook|first=Russ|last=Burlingame|date=October 24, 2014|access-date=December 27, 2018}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{comicbookdb|type=team|id=380|title=Night Force}}
+*{{gcdb series|id=2633|title=Night Force vol. 1}}
+*{{gcdb series|id=12196|title=Night Force vol. 2}}
+*{{gcdb series|id=63916|title=Night Force vol. 3}}
+*[http://dc.wikia.com/wiki/Night_Force Night Force] at the DC Database Project
+
+[[Category:Characters created by Marv Wolfman]]
+[[Category:Comics by Marv Wolfman]]

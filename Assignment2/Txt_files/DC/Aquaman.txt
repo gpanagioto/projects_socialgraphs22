@@ -1,0 +1,673 @@
+{{short description|Comic book superhero}}
+{{other uses}}
+{{Redirect|Arthur Curry|the military general|Arthur Currie}}
+{{pp-pc1}}
+{{Use mdy dates|date=May 2022}}
+{{Use American English|date=May 2022}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+| character_name = Aquaman 
+|image = Aquaman Rebirth 1.png
+|imagesize =
+|caption = Variant cover of ''Aquaman: Rebirth''&nbsp;#1 (August&nbsp;2016), art by Brad Walker
+|pub =
+|alt = Aquaman holding his triton
+|publisher = [[DC Comics]]
+|debut = ''[[More Fun Comics]]'' #73 (November 1941)
+|debutmo = 
+|debutyr =
+|creators = [[Mort Weisinger]]<br>(writer)<br/>[[Paul Norris]] <br>(artist)
+|alter_ego = Arthur Curry
+|species = {{unbulleted list|[[Atlantis (DC Comics)|Atlantean]]-[[demigod]] hybrid <small>(2019–present)</small>|Human-Atlantean hybrid <small>(some continuities)</small>}}
+|homeworld = [[Atlantis (DC Comics)|Atlantis]] <small>(Earth)</small>
+|alliances = {{unbulleted list|[[Justice League]]|[[Justice League International]]|The Others|[[Justice League Europe]]|[[Justice League Task Force (comics)|Justice League Task Force]]}}
+|partners = {{unbulleted list|[[Mera (comics)|Mera]] (wife)|[[Aqualad]] (various)|[[Topo (DC Comics)|Topo]]}}
+|supports =
+|aliases = Orin<br>King of the Seven Seas<br>Dweller-in-the-Depths<br>Aquatic Ace<br>Marine Marvel<br>Terra Firma<br>Rider of King Tide<br>AC<br>Protector of the Deep
+| powers =
+* Superhuman strength, intelligence, durability, endurance, speed, agility, and senses
+* Telepathic control of all aquatic life
+* Divine empowerment
+* Proficient in magic 
+* Master [[Military tactics|tactician]]
+* Skilled [[hand-to-hand combat]]ant and [[Martial arts|martial artist]]
+* Aquatic adaption
+* Hydrokinesis
+* Multilingualism
+* Extreme Night Vision
+|cvr_alt =
+|schedule =
+|limited =
+|1shot =
+|pub_series =
+|1stishhead = 
+|1stishyr = 
+|1stishmo = 
+|endishyr = 
+|endishmo = 
+|1stishhead1 = 
+|1stishmo6 = 
+|endishyr6 = 
+|endishmo6 =
+|main_char_team =
+|artists =
+|inkers = 
+|letterers =
+|colorists =
+|editors =
+|creative_team_month =
+|creative_team_year =
+|creators_series =
+|TPB =
+|ISBN =
+|nonUS =
+|cat =
+|subcat =
+|altcat =
+|hero =
+|villain =
+|sortkey =
+}}
+'''Aquaman''' is a [[superhero]] appearing in [[American comic book]]s published by [[DC Comics]]. Created by [[Paul Norris]] and [[Mort Weisinger]], the character debuted in ''[[More Fun Comics]]'' #73 (November 1941).<ref>{{Cite news |title=Happy 70th Birthday Aquaman! |publisher=The Aquaman Shrine |url=http://www.aquamanshrine.com/2011/09/happy-70th-birthday-aquaman.html |access-date=9 October 2011 |archive-url=https://web.archive.org/web/20111028123352/http://www.aquamanshrine.com/2011/09/happy-70th-birthday-aquaman.html |archive-date=28 October 2011}}</ref> Initially a backup feature in DC's anthology titles, Aquaman later starred in several volumes of a solo comic book series. During the late 1950s and 1960s superhero-revival period known as the [[Silver Age of Comic Books|Silver Age]], he was a founding member of the [[Justice League]]. In the 1990s [[Modern Age of Comic Books|Modern Age]], writers interpreted Aquaman's character more seriously, with storylines depicting the weight of his role as king of [[Atlantis (DC Comics)|Atlantis]].<ref name="dc-ency">{{Cite book |last=Wallace |first=Dan |title=The DC Comics Encyclopedia |publisher=[[Dorling Kindersley]] |year=2008 |isbn=978-0-7566-4119-1 |editor-last=Dougall |editor-first=Alastair |location=London |pages=18–19 |chapter=Aquaman}}</ref> Aquaman's villains include his archenemy [[Black Manta]] and his own half-brother [[Ocean Master]], among others.
+
+The character's original 1960s animated appearances left a lasting impression, making Aquaman widely recognized in popular culture and one of the world's most recognized superheroes. Jokes about his wholesome, weak portrayal in ''[[Super Friends]]'' and perceived feeble powers and abilities have been staples of comedy programs and stand-up routines,<ref>{{Cite web |last=Bradley |first=Laura |date=12 December 2018 |title=A Brief History of Pop Culture Dumping on Aquaman |url=https://www.vanityfair.com/hollywood/2018/12/aquaman-jokes-family-guy-big-bang-theory-south-park |access-date=16 January 2019 |website=HWD}}</ref><ref>{{Cite web |date=4 November 2018 |title=How The Animated Justice League Erased Super Friends' Aquaman |url=https://www.cbr.com/how-animated-justice-league-saved-aquaman/ |access-date=31 December 2018 |website=CBR}}</ref><ref name="auto">{{Cite web |last=Fuller |first=Devin |date=24 December 2018 |title='Aquaman' Through History: The Stuff That Memes Are Made Of |url=https://www.nytimes.com/2018/12/24/movies/aquaman-through-history-tv-movies.html |access-date=31 December 2018 |website=[[The New York Times]]}}</ref> leading DC at several times to attempt to make the character edgier or more powerful in the comic books.<ref>{{Cite web |title=AQUAMAN Evolution: From Laughingstock to New 52 Rock Star |url=https://www.newsarama.com/6966-aquaman-evolution-from-laughingstock-to-new-52-rock-star.html |access-date=31 December 2018 |website=Newsarama.com}}</ref> Modern comic book depictions have attempted to reconcile these various aspects of his public perception, with many versions often casting Aquaman as serious and brooding, saddled with an ill reputation, and struggling to find a true role and purpose beyond his public side as a deposed king and a fallen hero.<ref>''Aquaman'' (vol. 7) #1 (November 2011). DC Comics.</ref>
+
+Aquaman has been featured in several adaptations, first appearing in animated form in the 1967 ''[[The Superman/Aquaman Hour of Adventure]]'' and then in the related ''[[Super Friends]]'' program. Since then he has appeared in various animated productions, including prominent roles in the 2000s series [[Justice League (TV series)|''Justice League'']] and ''[[Justice League Unlimited]]'' and ''[[Batman: The Brave and the Bold]]'', as well as several [[DC Universe Animated Original Movies]]. Actor [[Alan Ritchson]] also portrayed the character in the live action television show ''[[Smallville]]''. In the [[DC Extended Universe]], actor [[Jason Momoa]] portrays [[Arthur Curry (DC Extended Universe)|the character]] in the films ''[[Batman v Superman: Dawn of Justice]]'', ''[[Justice League (film)|Justice League]]'' and its [[director's cut]] ''[[Zack Snyder's Justice League]]'', ''[[Aquaman (film)|Aquaman]]'', the [[HBO Max]] series ''[[Peacemaker (TV series)|Peacemaker]]'', and the upcoming ''[[Aquaman and the Lost Kingdom]]''.<ref>{{Cite web|url=https://comicbook.com/movies/news/aquaman-2018-what-do-we-know/|title=Aquaman 2018: What Do We Know?}}</ref><ref>{{Cite web |last=McWeeny |first=Drew |date=June 14, 2014 |title=JASON MOMOA WILL PLAY AQUAMAN IN 'DAWN OF JUSTICE,' AND WE KNOW HOW IT WILL HAPPEN |url=http://www.hitfix.com/motion-captured/jason-momoa-will-play-aquaman-in-dawn-of-justice-and-we-know-how-it-will-happen |access-date=June 14, 2014 |website=Hitfix}}</ref><ref>{{Cite web |last=Rebecca Ford |last2=Borys Kit |date=June 16, 2014 |title=Jason Momoa to Play Aquaman in 'Batman v. Superman: Dawn of Justice' |url=http://www.hollywoodreporter.com/heat-vision/jason-momoa-playing-aquaman-batman-711899 |access-date=June 16, 2014 |website=The Hollywood Reporter}}</ref>
+
+==Publication history==
+Aquaman's appearances began in ''More Fun Comics'' #73 in 1941 and continued until issue #107, after which all superhero stories were replaced with humor features. At this time, in 1946, Aquaman was transferred to ''[[Adventure Comics]]'' with issue #103 along with the other superhero features from ''More Fun Comics''. Aquaman would continue to feature in ''Adventure Comics'' for the next 15 years, being one of the few DC superheroes to appear continuously throughout the 1950s.
+
+In 1961, Aquaman starred in a four-issue run in the anthology series ''[[Showcase (comic book)|Showcase]]'' in issues #30–33. These Showcase issues are notable as Aquaman's first cover appearances in any comic. Simultaneously, the Aquaman backup feature ended in ''Adventure Comics'' with issue #284 and was transferred to ''[[Detective Comics]]'' with issue #293.
+
+Soon thereafter, the first ''Aquaman'' solo series began, with the first issue cover-dated February 1962. The same month, the backup feature in ''Detective Comics'' ended with issue #300. Simultaneously with the solo series, an Aquaman backup feature was also published in ''World's Finest'' #125–139 (cover-dated May 1962 to February 1964). The solo series ''Aquaman'' would last 56 issues in its initial run until 1971.
+
+After a three-year hiatus, Aquaman returned as a backup feature in ''Adventure Comics'' for issues #435–437 before becoming the main feature in issues #441–452. This run transitioned into a revival of the ''Aquaman'' solo series in 1977, resuming the initial run's numbering at #57; however, the series ended after just seven issues with #63 in 1978.
+
+Aquaman once again returned to ''Adventure Comics'' as part of the [[Dollar Comics]] revamp of the series, appearing in issues #460–466 over 1978–1979. When this ended, Aquaman appeared in three issues of ''[[World's Finest Comics]]'' (#262–264) and then returned to ''Adventure Comics'' as the first feature for four more issues (#475–#478). The feature found a new home as a backup in ''[[Action Comics]]'' for 14 issues (#517–520; #527–530; #536–540), which would be the end of Aquaman's Pre-''Crisis'' solo appearances.
+
+Aquaman's first Post-''Crisis'' appearance was in the four-issue miniseries ''Aquaman'' (vol. 2) in 1986, which gave the character a new blue costume which did not reappear in any later series. In 1988 the character starred in the one-shot ''Aquaman'' #1, followed by the ''Legend of Aquaman Special'' one-shot issue in 1989. This was followed by the five-issue miniseries ''Aquaman'' (vol. 3). A new ongoing series, ''Aquaman'' (vol. 4), began in 1991, but was cancelled after 13 issues.
+
+The character was reinvented in the 1993–1994 miniseries ''Aquaman: Time and Tide'', which provided a revamped origin for Aquaman. This was followed by a new ongoing series, ''Aquaman'' (vol. 5), which lasted until 2001 with 75 issues altogether, making it the longest-running Aquaman solo series to date.
+
+''Aquaman'' (vol. 6) was launched in 2003, following on from the Obsidian Age storyline in ''[[Justice League of America|JLA]]''. In the wake of the DC event miniseries ''[[Infinite Crisis]]'' and DC's "[[One Year Later]]" relaunch, the series was renamed ''Aquaman: Sword of Atlantis'' with issue #40 until the final issue (#57); these 18 issues starred a brand new, younger Aquaman named Arthur Joseph Curry. There were no more solo Aquaman publications in Post-''Crisis'' continuity, although the original Aquaman did feature as a main character in the limited series ''[[Brightest Day]]''.
+
+''[[The New 52]]'' continuity reboot in September 2011 saw the beginning of the ongoing series ''Aquaman'' (vol. 7). A spin-off team title, ''Aquaman and the Others'', also ran for 11 issues from 2014 to 2015. ''Aquaman'' vol. 7 lasted for the entirety of the ''New 52'' era of DC, ending with issue #52 in 2016 as part of the line-wide relaunch ''[[DC Rebirth]]''. The ''New 52'' volume was immediately followed by the one-shot issue ''Aquaman: Rebirth'', preceding the launch of the current ongoing series ''Aquaman'' (vol. 8), which ended with issue #66.
+
+A digital only series titled ''Aquaman: Deep Dives'' was released in 2020.
+
+==Fictional character biography==
+
+===Golden Age===
+Aquaman's first origin story was presented in [[Flashback (narrative)|flashback]] from his debut in ''More Fun Comics'' #73 (November 1941), narrated by the character himself:
+
+{{blockquote|quote=The story must start with my father, a famous undersea explorer—if I spoke his name, you would recognize it. My mother died when I was a baby, and he turned to his work of solving the ocean's secrets. His greatest discovery was an ancient city, in the depths where no other diver had ever penetrated. My father believed it was the lost kingdom of [[Atlantis]]. He made himself a water-tight home in one of the palaces and lived there, studying the records and devices of the race's marvelous wisdom. From the books and records, he learned ways of teaching me to live under the ocean, drawing oxygen from the water and using all the power of the sea to make me wonderfully strong and swift. By training and a hundred scientific secrets, I became what you see—a human being who lives and thrives under the water.}}
+
+In his early Golden Age appearances, Aquaman can breathe underwater and control fish and other underwater life for up to an hour. Initially, he was depicted as speaking to sea creatures "in their own language" rather than telepathically, and only when they were close enough to hear him (within a {{convert|20|yd|m}} radius). Aquaman's adventures took place all across the world and his base was "a wrecked fishing boat kept underwater," in which he also lived.<ref>''More Fun Comics'' #84 (October 1942). DC Comics.</ref>
+
+During his [[World War II|wartime]] adventures, most of Aquaman's foes were [[Nazism|Nazi]] [[U-boat]] commanders and various [[Axis powers|Axis]] villains from when he once worked with the [[All-Star Squadron]]. The rest of his adventures in the 1940s and 1950s had him dealing with several sea-based criminals, including modern-day pirates such as his longtime archenemy Black Jack, as well as various threats to aquatic life, shipping lanes, and sailors.
+
+Aquaman's last appearance in ''More Fun Comics'' was in issue #106, before being moved along with [[Superboy (Kal-El)|Superboy]] and [[Green Arrow]] to ''[[Adventure Comics]]'', starting with issue #103 in 1946.
+
+===Silver Age===
+Aquaman's adventures continued to be published in ''[[Adventure Comics]]'' through the 1940s and 1950s, as one of the few superheroes to last through the 1950s in continuous publication. Starting in the late 1950s new elements to Aquaman's backstory were introduced, with various new supporting characters added and several adjustments made to the character, his origins, his power and persona. The first of these elements was the story "Aquaman's Undersea Partner" in ''Adventure Comics'' #229 (October 1956), where his [[octopus]] sidekick Topo was first introduced. This and subsequent elements were later removed or altered from the Aquaman character after the establishment of DC's [[Multiverse (DC Comics)|multiverse]] in the 1960s, attributed to the Aquaman of [[Earth-One]].
+
+The Silver Age Aquaman made his first appearance in ''Adventure Comics'' #260 (May 1959). In it and subsequent Silver Age comics, it was revealed that Aquaman was Arthur Curry, the son of lighthouse keeper Tom Curry and Atlanna, a water-breathing outcast from the lost underwater city of [[Atlantis (DC Comics)|Atlantis]]. Due to his heritage, Aquaman discovered as a youth that he possessed various superhuman abilities, including the powers of surviving underwater, communication with sea life and tremendous swimming prowess. Eventually, Arthur decided to use his talents to become the defender of the Earth's oceans. It was later revealed that in his youth Arthur had adventured as Aquaboy and, on one occasion, met [[Superboy (Kal-El)|Superboy]], Earth's only other publicly active superpowered hero at the time.<ref>''Superboy'' #171 (January 1971). DC Comics.</ref> When Arthur grew up, he called himself "Aquaman".
+
+It was later revealed that after Atlanna's death, Tom Curry met and married an ordinary human woman and had a son named Orm Curry, Aquaman's half-brother. Orm grew up as a troubled youth in the shadow of his brother, who constantly bailed him out of trouble with the law. He grew to hate Aquaman not only for the powers that he could never possess, but also because he believed that their father would always favor Aquaman. Orm disappeared after becoming an [[amnesia]]c and would resurface years later as Aquaman's nemesis the [[Ocean Master]].<ref>''Aquaman'' #29 (October 1966). DC Comics.</ref>
+
+Aquaman's ability to talk with fish eventually expanded to full-fledged telepathic communication with sea creatures even from great distances. He also [[Retroactive continuity|retroactively]] developed a specific weakness akin to [[Superman]]'s vulnerability to [[kryptonite]] or [[Green Lantern]]'s vulnerability to the color yellow: Aquaman had to come into contact with water at least once per hour or he would die. Prior to this, Aquaman could exist both in and out of water indefinitely.<ref>''Adventure Comics'' #256 (January 1959). DC Comics.</ref>
+
+In ''Aquaman'' #18 (December 1964), Aquaman married [[Mera (comics)|Mera]] in the first superhero wedding depicted in a comic book.<ref>{{Cite book |last=Wells |first=John |title=American Comic Book Chronicles: 1960–64 |date=2015 |publisher=TwoMorrows Publishing |isbn=978-1605490458 |pages=183–184}}</ref>
+
+====Allies and enemies====
+Aquaman was included in the ''[[Justice League|Justice League of America]]'' comic book series, appearing with the team in their very first adventure,<ref>''[[The Brave and the Bold]]'' #28 (March 1960). DC Comics.</ref> and was also a founding member of the team.<ref>As shown in a [[Flashback (narrative)|flashback]] in ''Justice League of America'' #9 (February 1962). DC Comics.</ref> Aquaman took part in most of the 1960s adventures of the superhero team.
+
+Aquaman's supporting cast and rogues gallery soon began to grow with the addition of [[Garth (comics)|Aqualad]], an outcast, orphaned youth from an Atlantean colony whom Aquaman took in and began to mentor.<ref>''Adventure Comics'' #269 (February 1960). DC Comics.</ref> Aquaman later discovered the submerged [[:Category:DC Comics populated places|fictional city]] of New Venice,<ref>''Adventure Comics'' #264 (September 1959). DC Comics.</ref> which became Aquaman's base of operations for a time.<ref>From ''World's Finest Comics'' #263 (July 1980) onwards. DC Comics.</ref>
+
+Aquaman is recognized as the son of Atlanna and is later voted to be the King after the death of the former regent, who had no heirs.<ref name="Aquaman #18 Dec. 1964">''Aquaman'' #18 (December 1964). DC Comics.</ref> By this time, Aquaman had met [[Mera (comics)|Mera]],<ref>''Aquaman'' #11 (September 1963)</ref> a queen from a water-based dimension, and married her shortly after he became king.<ref name="Aquaman #18 Dec. 1964" /> They soon have a son, Arthur, Jr. (nicknamed "Aquababy").<ref>''Aquaman'' #23 (October 1965). DC Comics.</ref>
+
+[[File:AdventureComics443 (1976).jpg|thumb|upright|Aquaman in ''Adventure Comics'' #443 (January 1976), art by [[Jim Aparo]]]]
+The 1960s series introduced other such archenemies as the [[Ocean Master]] (Aquaman's amnesiac half-brother Orm),<ref>''Aquaman'' #29 (September 1966). DC Comics.</ref> [[Black Manta]],<ref>''Aquaman'' #35 (September 1967). DC Comics.</ref> the [[Fisherman (comics)|Fisherman]],<ref>Nick Cardy (p)"The Fearful Freak from Atlantis", ''Aquaman'' #21 (May–June 1965). DC Comics.</ref> the [[Scavenger (comics)|Scavenger]],<ref>''Aquaman'' #37 (January 1968). DC Comics.</ref> and the terrorist organization known as [[O.G.R.E. (comics)|O.G.R.E.]]<ref>''Aquaman'' #26 (July 1976). DC Comics.</ref> Other recurring members of the Aquaman cast introduced in this series include the well-meaning but annoying [[Qwsp]] (a water sprite);<ref>''Aquaman'' #1 (January/February 1962). DC Comics.</ref> [[Nuidis Vulko|Dr. Vulko]], a trustworthy Atlantean scientist who became Aquaman's royal advisor and whom Aquaman eventually appoints to be king after leaving the throne himself;<ref>''The Brave and the Bold'' #73 (August/September 1967). DC Comics.</ref> and Tula (known as "[[Aquagirl (Tula)|Aquagirl]]"), an Atlantean princess who was Aqualad's primary love interest.<ref>''Aquaman'' #33 (May/June 1967). DC Comics.</ref>
+
+====End of an era====
+In the mid-1980s, after his own feature's demise, Aquaman is briefly made the leader of the Justice League of America. In a storyline in ''Justice League of America'' #228–230<!--indica month and year need including-->, an invasion of Earth by a race of [[White Martian|Martian]]s occurs at a time when the core members are missing. Aquaman is thus forced to defend Earth with a League much depleted in power and capability, and he takes it upon himself to disband the Justice League altogether in ''Justice League of America'' Annual #2 (1984), thereafter reforming it with new bylaws requiring members to give full participation to the League's cases.
+
+With the help of veteran Justice League members the [[Martian Manhunter]], [[Zatanna]], and the [[Elongated Man]], Aquaman recruits and trains four new and untried members: [[Gypsy (comics)|Gypsy]], [[Vibe (comics)|Vibe]], [[Vixen (comics)|Vixen]], and [[Commander Steel#Hank Heywood III|Steel]]. Arthur also relocates the team's headquarters to a reinforced bunker in [[Detroit]], [[Michigan]] after the destruction of the JLA's satellite headquarters during the Martian invasion.<ref name="dc-jlah">{{Cite book |last=Jimenez |first=Phil |title=The DC Comics Encyclopedia |publisher=Dorling Kindersley |year=2008 |isbn=978-0-7566-4119-1 |editor-last=Dougall |editor-first=Alastair |location=New York |page=132 |chapter=JLA Watchtower |oclc=213309017 |author-link=Phil Jimenez}}</ref> Aquaman's participation in this new version of the Justice League ended in #243 (October 1985), when he resigned to work on his marriage with Mera.
+
+===Modern Age===
+After the [[1980s in comics#1985|1985]] miniseries ''[[Crisis on Infinite Earths]]'', several short miniseries were produced in the late 1980s and the early 1990s, beginning with 1986's four-issue miniseries ''Aquaman'' (February–May 1986), written by [[Neal Pozner]] and featuring Aquaman in a new, largely deep-sea blue "camouflage" costume. The series was well received and a follow-up limited series was in the works, but was [[List of comics solicited but never published#DC Comics|eventually cancelled]] due to creative problems.<ref>{{Cite journal |last=Scott |first=Richard A. |date=February 2011 |title=The ''Aquaman'' Sequel That Wasn't |journal=[[Back Issue!]] |publisher=[[TwoMorrows Publishing]] |issue=#46 |pages=53–59}}</ref> This series also expanded on several details of the Silver Age Aquaman's origin as well as Aquaman's relationship with his half-brother, the Ocean Master, whose origin was retold in more complete detail. The series also added mystical elements to Aquaman's mythology and reinvented the Ocean Master as a sorcerer. Aquaman reappeared in his blue costume in ''Aquaman Special'' #1 (1988).
+
+[[File:Aquaman1 (1986).jpg|thumb|upright|Aquaman's deep-blue camouflage suit in ''Aquaman'' (vol. 2) #1 (February 1986), art by Craig Hamilton]]
+In late 1988, the character appeared in the ''[[Invasion! (DC Comics)|Invasion!]]'' storyline, guest-starring with the [[Doom Patrol]] and once again wearing his trademark orange and green costume.
+
+====Retelling origins====
+In 1989, the ''Legend of Aquaman Special'' (officially titled as ''Aquaman Special'' #1 in the comic's legal indicia, the second ''Special'' in back-to-back years) rewrote Aquaman's mythos and origin while still keeping most of his Silver Age history intact. The special was written by writer [[Robert Loren Fleming]] with plots/breakdown art by [[Keith Giffen]] and full pencil art by artist [[Curt Swan]].
+
+This origin story of the Modern Age recounts that Aquaman is born as '''Orin''' to Queen Atlanna and the mysterious wizard [[Atlan (DC Comics)|Atlan]] in the sunken Atlantean city of Poseidonis. As a baby, Orin was abandoned to die on Mercy Reef (which is above sea level at low tide, causing fatal air exposure to Atlanteans) because of his blond hair, which was seen by the superstitious Atlanteans as a sign of a curse they called "the Mark of [[List of Aquaman enemies#Kordax|Kordax]]." The only individual who spoke up on Orin's behalf was Vulko, a scientist who had no patience for myth or superstition. While his pleas fell on deaf ears, Vulko would later become a close friend and advisor to the young Orin.
+
+As a [[feral child]] who raised himself in the wilds of the ocean with only sea creatures to keep him company, Orin was found and taken in by a lighthouse keeper named Arthur Curry who named Orin "Arthur Curry" after himself. One day, a young Arthur returns home and finds that his adoptive father has disappeared, so he sets off on his own. In his early teens, Orin ventures to the far North, where he meets and falls in love with an [[Inupiat people|Inupiat]] girl named Kako. It is also here that he first earned the hatred of Orm, the future Ocean Master, who was later revealed to be Arthur's half-brother by Atlan and an Inupiat woman.<ref>[[David, Peter]] (w), [[Jarvinen, Kirk]] (p). ''Aquaman: Time and Tide'' #4. DC Comics.</ref>
+
+As detailed in the five-issue miniseries ''Aquaman'' (June–October 1989) (by the same creative team of the 1989 special of [[Robert Loren Fleming]], [[Keith Giffen]], and [[Curt Swan]]), which continued a few of the themes from the ''Legend of Aquaman Special'', Mera is eventually driven insane by grief over the death of her son, Arthur, Jr., and is committed to an [[Psychiatric hospital|asylum]] in Poseidonis. Shortly afterwards, a jellyfish-esque alien force conquers Atlantis. Arthur is forced to save the city, but is hampered by an escaped Mera, who personally blames Arthur for the death of their son. In a fit of rage, Mera leaves Earth for her homeworld of Xebel in another dimension.
+
+The publication of writer [[Peter David]]'s ''[[The Atlantis Chronicles]]'' #1–7 (March–September 1990), which tells the story of Atlantis from [[antediluvian]] times to Aquaman's birth, introduced the ancient Atlantean characters Orin (after whom Aquaman was named) and Atlan (who was revealed to be Aquaman's father).
+
+Another ''Aquaman'' ongoing series with creative team Shaun McLaughlin and Ken Hooper (#1–13) thereafter ran from December 1991 to December 1992, which portrayed Aquaman reluctantly deciding to remain in Poseidonis as its protector once again. For a time, Arthur served as Atlantis' representative to the [[United Nations]], but always found himself thrust back into the superhero role. Becoming more and more of a [[workaholic]] and solitary figure, Aquaman eventually returned to the oceans and soon becomes tangled up in another attempt by [[Black Manta]] to destroy Atlantis by dragging it into a war with a surface nation.
+
+Peter David returned to the character in another miniseries, ''Aquaman: Time and Tide'', a 1993–1994 four-issue miniseries which further explained Aquaman's origins, as he finally learns all about the history of his people through the ''Atlantis Chronicles'', which are presented as historical texts passed down and updated through the centuries. Aquaman learns that his birth name was Orin and that he and his enemy the Ocean Master share the same father, "an ancient Atlantean wizard" named Atlan. This revelation sends Orin into a bout of rage and depression, setting the stage for later confrontations between the two, as it is said in the ''Chronicles'' that "two brothers will also battle for control of Atlantis". This is in contrast to the Silver Age Aquaman, who had always known that the Ocean Master was his half-brother Orm, although Orm's amnesia prevented him from remembering this fact for some time. This series is credited by Kevin Melrose of [[Comic Book Resources]] with helping the character reach the height of his modern-era popularity.<ref>{{Cite web |last=Melrose |first=Kevin |date=March 27, 2011 |title=Geoff Johns to Write New Aquaman Series |url=http://robot6.comicbookresources.com/2011/03/geoff-johns-to-write-new-aquaman-series/ |website=[[Comic Book Resources]]}}</ref>
+
+====New direction====
+Aquaman starred in his own series again with the publication of ''Aquaman'' (vol. 5) #1 (August 1994), initially scripted by Peter David, following up on his 1993 ''Time and Tide'' miniseries. This series was the longest-running for the character, lasting until its 75th issue. David left the series after issue #46 (July 1998) after working on it for nearly four years.
+
+[[File:Aquaman17 (1996).jpg|thumb|left|upright|The 1990s version of Aquaman on the cover of ''Aquaman'' (vol. 5) #17 (February 1996), art by [[Jim Calafiore]]]]
+David began by giving Aquaman an entirely new look, forsaking his former clean-cut appearance. Following his discoveries reading the ''Atlantis Chronicles'' during ''Time and Tide'', Aquaman withdraws from the world for a time. Garth finds him weeks later, with his hair and beard grown long, brooding in his cave. Aquaman loses his left hand when the madman [[Charybdis (comics)|Charybdis]], attempting to force Arthur to show him how he can harness Arthur's ability to communicate with sea life, sticks Arthur's hand into a [[piranha]]-infested pool.<ref>David, Peter (w), Egeland, Martin (p), Vancata, Brad. (i). "Single Wet Female", ''Aquaman'' (vol. 5) #2 (September 1994). DC Comics.</ref> This loss causes Aquaman to become somewhat unhinged and he begins having prophetic dreams, and then, feeling in need of a "symbol", attaches a [[harpoon]] spearhead to his left arm in place of his missing hand. His classic orange shirt is shredded in a battle with [[Lobo (DC Comics)|Lobo]],<ref>David, Peter (w), Egeland, Martin (p), Shum, Howard M. (i). "A Porpoise in Life", ''Aquaman'' (vol. 5) #4 (December 1994). DC Comics.</ref> but rather than replace it, he instead goes shirtless for a while before donning a gladiatorial [[Manica (armguard)|manica]].<ref>David, Peter (w), [[Calafiore, Jim]] (p), Ramos, Rodney; Shum, Howard M. (i). "Out Cold", ''Aquaman'' (vol. 5) #5 (June 1995). DC Comics.</ref> After the destruction of the harpoon,<ref>David, Peter (w), Egeland, Martin; Jones, Casey (p), Gilmore, Craig; Shum, Howard M. (i). "Elemental, My Dear Aquaman", ''Aquaman'' (vol. 5) #8 (April 1995). DC Comics.</ref> Aquaman has it replaced by a cybernetic [[prosthetic]] harpoon from [[S.T.A.R. Labs]]<ref>David, Peter (w), St. Pierre, Joe (p), Ramos, Rodney; Shum, Howard M. (i). "Dreaded Deadline Doom", ''Aquaman'' (vol. 5) #9 (June 1995). DC Comics.</ref> with a retractable reel that he can fully control.
+
+A major storyline, culminating in #25, concerns the Five Lost Cities of Atlantis. Facing an unearthly invading species linked to the origin of the Atlanteans, Aquaman has to search out and unite the lost cities. This storyline established Arthur as a Warrior King and a major political power, ruling largely undisputed over all the Atlantean cities. The remainder of Peter David's run focused on Orin coming to terms with his genetic heritage and his role as king. During this time he discovers the remnants of a sentient alien ship beneath Poseidonis and is able to take control of it, returning Poseidonis to the surface and bringing Atlantis into greater contact with the outside world. The cultural changes this brings about, including increased tourism, as well as his conflicting duties as superhero and king, bring him into increasing tension with the political powers in his city.
+
+After a brief stint by [[Dan Abnett]] and [[Andy Lanning]], David was replaced as writer by [[Erik Larsen]] with issue #50 (Dec. 1998) and again by [[Dan Jurgens]] in issue #63 (January 2000). The series ended with issue #75 (January 2001). During this time Aquaman's wife Mera returns, once again sane, from the otherworldly dimension where she had been trapped and Aquaman narrowly averts a coup d'état orchestrated by his son Koryak and his advisor Vulko. Arthur's second harpoon is also destroyed, this time in a battle with Noble, King of the Lurkers. Aquaman replaces it with a golden prosthetic hand developed by Atlantean scientists which can change shape at his command, thus retaining the powers of the former harpoon while also being more all-purpose. After a brief war with an island nation, Aquaman expands Atlantis' surface influence by annexing the country to Atlantis.
+
+====Hiatus between series====
+Aquaman had no regular series of his own from 2001 to 2003, but his plot went through several developments via his cameo appearances in multiple other titles.
+
+Aquaman was a founding member of the reformed JLA<ref>[[Morrison, Grant]] (w), [[Howard Porter (artist)|Porter, Howard]] (p). ''JLA'' #1 (January 1997). DC Comics</ref> and remained an active, if sometimes reluctant member of that team, until the "[[Our Worlds at War]]" storyline in 2001 (shortly after the cancellation of ''Aquaman'' vol. 5), during which Aquaman and the city of Poseidonis disappear during a battle between Aquaman and an [[Imperiex]] probe.
+
+The Justice League eventually found out that the city was still there, just magically shielded, but in ruins and apparently uninhabited. These Atlanteans were trapped in the ancient past, sent there by [[Garth (comics)|Tempest]] (Aqualad) as a last measure when it appeared that the city would be destroyed by the probe. There, however, they were enslaved by their own Atlantean ancestors, led by a powerful sorceress named [[Gamemnae]], and Aquaman himself was transformed into living water and imprisoned in an ornamental pool. Over time, this civilization had collapsed until only Gamemnae herself, now immensely powerful, inhabited the ruins.
+
+After a few months of their own time, but fully 15 years for the Atlanteans, the JLA free Aquaman in "The Obsidian Age" storyline in ''JLA''.<ref>''JLA'' #68–75 (July 2002&nbsp;– January 2003). DC Comics</ref> Although the original League is killed by Gamemnae, their souls are contained by the magician [[Manitou Raven]] to use in a spell to contain Gamemnae in Atlantis until the present day, when he is able to resurrect them. Aquaman is freed from his imprisonment in the pool and Zatanna enhances his abilities so that he can now control the entire ocean as a powerful water wraith. With this power, Aquaman is able to sever Gamemnae's connection to the city by sinking it under the sea again. While he fights Gamemnae, the League members return the modern Atlanteans to the present, where they begin rebuilding the city, which is once again at the bottom of the sea.
+
+====Sixth series====
+[[File:Aquaman7 Guichet.jpg|thumb|upright|The initial look of the 2003 series by Yvel Guichet]]
+A sixth ''Aquaman'' series began shortly afterward, initially written by [[Rick Veitch]], who sought to take Aquaman in a more mystical direction. Subsequent writers who contributed to the series include [[John Ostrander]], [[Will Pfeifer]], [[Tad Williams]], and [[John Arcudi]]. This series ran 57 issues, starting in December 2002 (cover-dated February 2003). Initially focusing on Aquaman's efforts to survive after he was exiled from Atlantis and the ocean, the theme of the storyline changed when Aquaman became involved after a sizeable portion of [[San Diego]] sunk into the ocean. Over the next few months, it was discovered that the sinking was the work of a scientist who had acquired a sample of Aquaman's DNA. Believing that the human race as it currently existed would destroy Earth, he had sunk the city while also using the DNA sample he took from Aquaman to convert most of the residents into water-breathers. Aquaman goes on to establish himself as the protector of 'Sub Diego', aided by new [[Aquagirl]] [[Aquagirl (Lorena Marquez)|Lorena Marquez]], despite such problems as the human residents' poor reaction to being trapped underwater and the Ocean Master's attempt to rewrite history so that he is Aquaman while Orin is the Ocean Master.
+
+Starting with #40 (May 2006), following the events of the ''[[Infinite Crisis]]'' storyline, the series was renamed ''Aquaman: Sword of Atlantis'' which ended with issue #57 (October 2007). These issues featured a new, younger Aquaman named Arthur Joseph Curry.
+
+====The "missing year" through ''Final Crisis''====
+Following the "[[One Year Later]]" storyline (starting with ''Aquaman'' (vol. 6) #40 (May 2006)), the series was renamed ''Aquaman: Sword of Atlantis'' and taken in an entirely different direction by writer [[Kurt Busiek]]. In this version, Aquaman is missing and presumed dead following the events of ''Infinite Crisis''. A young man with aquatic powers by the name of Arthur Joseph Curry is summoned by the mysterious Dweller in the Depths to take up the mantle of Aquaman, but it gradually emerges that the Dweller himself is Aquaman, having lost much of his memory and been strangely mutated, while gaining magical powers (see the Arthur Joseph Curry section [[#Arthur Joseph Curry|below]]).
+
+These changes were explained later during the "missing year" between ''Infinite Crisis'' and ''One Year Later'' depicted in the weekly series ''[[52 (comics)|52]]'', where Aquaman makes a brief appearance at the memorial for [[Superboy (Kon-El)|Superboy]]. Sometime later [[Elongated Man|Ralph Dibny]], seemingly accompanied by [[Doctor Fate]]'s helmet, meets a bearded, long-haired and amnesic Orin in the ruins of Atlantis. The helmet portends that "''if'' he lives... ''if'' he lives... it is as a victim of the magicks of legend and the power of the sea."<ref>{{Cite comic |Writer=[[Johns, Geoff]] |Cowriters=[[Morrison, Grant]], [[Rucka, Greg]], [[Waid, Mark]] |Title=52 |Issue=#39 |Date=Jan. 2007 |Publisher=DC Comics}}</ref>
+
+During ''Infinite Crisis'', Orin makes a deal with the gods of the sea in a desperate bid to gain the power to save the lives of several Sub Diego inhabitants who had lost the ability to live in water. Using the bones of his severed left hand in a magical ritual, the sea gods give Orin the power to raise Sub Diego onto dry land. However, as a side effect of this, Orin mutates into the "Dweller of the Depths" and loses his memories.<ref>{{Cite comic |Writer=Johns, Geoff |Cowriters=Morrison, Grant, Rucka, Greg, Waid, Mark |Title=52 |Issue=#50 |Date=April 2007 |Publisher=DC Comics}}</ref> The fate the Dweller foresees for Arthur Joseph Curry once they meet is revealed to really only be a confused memory of the Dweller's own past as Aquaman.
+
+In the midst of trying to help his successor, Arthur Joseph, the Dweller (Orin) is murdered by Narwhal.<ref>{{Cite comic |Writer=Williams, Tad |Title=Aquaman: Sword of Atlantis |Issue=#50 |Date=March 2007 |Publisher=DC Comics}}</ref> Upon the receipt of Orin's body, members of the [[Justice League|Justice League of America]], including [[Superman]], [[Batman]], [[Hal Jordan|Green Lantern]], and the [[Wally West|Flash]], examine the body in Atlantis and wish the best for [[Mera (comics)|Mera]] and the new Aquaman.<ref name="SoA51" />
+
+Orin seemingly reappears in [[Atlantis (DC Comics)|Atlantis]] during the 2008 ''[[Final Crisis]]'' storyline to fend off the forces of [[Darkseid]], but this Aquaman is revealed to be from another Earth in the [[Multiverse (DC Comics)|multiverse]].<ref>{{Cite web |last=Latoski |first=Todd |date=February 28, 2009 |title=Mega Con '09: DC Nation Panel&nbsp;– Final Crisis HC Details |url=http://www.newsarama.com/comics/020928-Mega-DC-Nation.html |url-status=live |archive-url=https://web.archive.org/web/20090303214926/http://www.newsarama.com/comics/020928-Mega-DC-Nation.html |archive-date=3 March 2009 |access-date=2009-03-01 |website=[[Newsarama]]}}</ref><ref>{{Cite comic |Writer=Morrison, Grant |Title=Final Crisis |Issue=#7 |Date=Jan. 2009 |Publisher=DC Comics}}</ref> The appearance of this Aquaman is later perceived by [[Hal Jordan]] and [[Flash (Barry Allen)|Barry Allen]] to be an unsubstantiated rumor, however, since this person was never seen nor heard from again.<ref>{{Cite comic |Writer=Johns, Geoff |Title=Blackest Night |Issue=#0 |Date=May 2009 |Publisher=DC Comics}}</ref> Sometime between his death and the beginning of the 2008–09 ''[[Blackest Night]]'' storyline, Orin's body is moved and buried on land at Mercy Reef alongside Tom Curry in accordance with his final wishes.<ref name="BN1">{{Cite comic |Writer=Johns, Geoff |Issue=#1 |Date=July 2009 |Publisher=DC Comics |penciller=[[Reis, Ivan]] |title=Blackest Night}}</ref>
+
+====''Blackest Night''====
+{{Main|Blackest Night}}
+In ''Blackest Night'' #1 (July 2009), [[Garth (comics)|Garth]] returns to Atlantis and tells Orin's wife Mera that he is angry at the notion of Aquaman's body being buried on land. Mera relays to Tempest that Orin felt safe on land and that this is indeed what Arthur wanted. Sometime later, a [[Power Ring (weapon)|black power ring]] is seen entering Orin's grave, bidding him to rise from the dead.<ref name="BN1" /> Aquaman's corpse rises, along with those of [[Aquagirl (Tula)|Tula]] and the [[Dolphin (comics)|Dolphin]] as [[revenant]] members of the [[Black Lantern Corps]], and demands that Mera reunite with him in death, offering her a chance to see her son again. Garth is killed and joins the Black Lanterns himself. Mera rejects Aquaman's corpse before fleeing. In the climax of the miniseries, Aquaman is among those resurrected by The [[White Lantern Entity]] and is reunited with Mera. The Black Lantern Ring helps reconstruct Orin's body and when he is resurrected, his hand is restored as well.<ref>Johns, Geoff (w), Reis, Ivan (p). ''Blackest Night'' #8 (March 2010). DC Comics.</ref>
+
+====''Brightest Day''====
+{{Main|Brightest Day}}
+Aquaman and Mera spend the night together in the lighthouse of Amnesty Bay, but in the morning Mera finds Arthur on the dock looking at the sea and wondering why he was resurrected.<ref>''Brightest Day'' #0 (April 2010). DC Comics.</ref> They later intercept a pirate vessel, but Aquaman finds that he can now only call on dead sea life to help him.<ref>''Brightest Day'' #1 (May 2010). DC Comics.</ref>
+
+While cleaning up an oil spill, Aquaman and Mera are attacked by soldiers from Mera's homeworld, led by the Siren, and Mera reveals that the Siren was sent to kill him.<ref>''Brightest Day'' #5 (July 2010). DC Comics.</ref> Mera also hints that, despite the long-lasting exile of her people, Xebel's soldiers had been enemies of Black Manta himself from a distant time, even preceding the first public appearance of Aquaman. She also states that, despite Mera's original mission being a solo one, the Siren is now backed by an entire Death Squad of elite Xebel soldiers acting at the orders of the acting princess and also later reveals that the Siren is her younger sister.<ref>''Brightest Day'' #6 (July 2010). DC Comics.</ref>
+
+Aquaman is instructed by the White Lantern Entity to find [[Aqualad (Jackson Hyde)|Jackson Hyde]] before a second, unidentified group does.<ref>''Brightest Day'' #7 (August 2010). DC Comics.</ref> Mera states that she knows who Hyde is<ref>''Brightest Day'' #9 (September 2010). DC Comics.</ref> and after she tells Aquaman, he leaves and rescues Jackson from a Xebel attack. It is revealed that Aquaman's Silver Age origin has been re-established and he is once again the half-human son of Tom Curry and an Atlantean queen.<ref>''Brightest Day'' #16 (December 2010). DC Comics.</ref> The Entity subsequently reduces Aquaman to what appears to be white water.<ref>''Brightest Day'' #20 (March 2011). DC Comics.</ref> Aquaman is revealed to be one of the Elementals, transformed by the Entity to become the element of water and protect the Star City forest from the Dark Avatar, the Black Lantern version of the [[Swamp Thing]].<ref>''Brightest Day'' #23 (April 2011). DC Comics.</ref> After the Dark Avatar is defeated, the Swamp Thing returns Aquaman to normal. Afterward, Aquaman is reunited with Mera, at which point he discovers that the Xebels' weapons were made of Atlantean technology.<ref>''Brightest Day'' #24 (June 2011). DC Comics.</ref>
+
+===''The New 52'' and ''Convergence''===
+As part of ''[[The New 52]]'', DC's 2011 relaunch of their entire superhero line, [[Geoff Johns]], [[Ivan Reis]] and Joe Prado served as the initial creative team of the company's new ''Aquaman'' series, the first issue of which was released September 28, 2011.<ref>{{Cite web |date=September 27, 2011 |title=The New 52 Interviews: Aquaman |url=http://comics.ign.com/articles/119/1196868p1.html |publisher=[[IGN]]}}</ref> The three creators remained on the title for the first 16 issues <ref>[[Rich Johnston|Johnston, Rich]] (August 20, 2012) [http://www.bleedingcool.com/2012/08/20/geoff-johns-to-leave-aquaman-with-ivan-reis/ "Geoff Johns To Leave Aquaman With Ivan Reis"] [[Bleeding Cool]].</ref> which subsequently lead into the first continual Aquaman-related [[Crossover (fiction)|crossover]] in years: "[[Throne of Atlantis]]".
+
+The relaunched series cemented Aquaman's status as the half-human son of Tom Curry and [[Atlanna]] and saw him return to Amnesty Bay with Mera. Greatly distressed by the harsh treatment given to the oceans during his time as ruler of Atlantis, Aquaman decides to abdicate the Atlantean throne and return to full-time heroics. Arthur struggles, however, with his lack of reputation with the greater public, which views him as a lesser metahuman with less impressive powers than those of his peers.<ref name="Aquaman #1 2011">Johns, Geoff (w), Reis, Ivan (p). ''Aquaman'' (vol. 7) #1 (September 2011). DC Comics.</ref> He is also once again a founding member of the Justice League<ref>Johns, Geoff (w), D'Anda, Carlos; [[Lee, Jim]] (p), various (i). ''Justice League'' (vol. 2) #6 (March 2012). DC Comics.</ref> and it is revealed in ''Aquaman'' (vol. 7) #7 that early in his career, Aquaman had teamed with a mysterious, loose-knit group of characters simply known as the Others. The Others consist of Aquaman, the South American jungle girl [[Ya'Wara]] and her panther, a Russian known as [[Vostok-X]], an ex-army veteran called [[Prisoner-of-War]], the Operative, and an Iranian called [[Kahina the Seer]]. All of the Others have in their possession an enchanted relic from Atlantis. From 2014 to 2015, an independent ''Aquaman and the Others'' series was launched based on the success of these new characters.
+
+The 2015 ''[[Convergence (comics)|Convergence]]'' storyline gave Aquaman a new look at issue #41. In this story, he has been deposed from his throne by Mera, now Queen of Atlantis, who is now hunting him as a fugitive. Along the way, Arthur acquires some new powers and new equipment, giving him access to powerful mystical capabilities. It is later revealed that Atlantis is really being run by the Siren, identical twin sister of Mera, whom Mera had taken prisoner.
+
+===''DC Rebirth''/''DC Universe''===
+Following the company-wide rebranding in ''[[DC Rebirth]]'' with one focus point to bring back legacy and relationships, Arthur finally proposes to Mera in ''DC Universe: Rebirth'' #1. Aquaman was given an eighth volume of his eponymous series, which started with a one-shot comic book entitled ''Aquaman: Rebirth'' #1 (August 2016). This series kept writer Dan Abnett, who had taken over the title for the last three issues of ''The New 52'' and who had previously written the character for a short time a decade earlier. ''Aquaman'' (vol. 8) focuses on Aquaman's role as king and diplomat with Arthur attempting to strengthen Atlantis-surface relationships by opening an Atlantean embassy in Amnesty Bay, with Mera appointed as ambassador. The series largely focuses on the main cast featured in the ''New 52'' series, consisting of Aquaman, Mera, and Black Manta while also fleshing out forgotten side characters such as Lagoon Boy, [[Aquagirl (Tula)|Tula (Aquagirl)]], Black Jack, and others. After the events of '''Drowned Earth''' Arthur loses his memories, begins going by Andy and lives amongst an enclave of island dwellers making their home on Unspoken Water.<ref>''Aquaman'' (vol. 8) #43 (February 2019). DC Comics.</ref>
+
+Unbeknownst to him, however, this habitation is a place set within the Sphere of the Gods where forgotten sea deities go—either when/after they perish, fade from their worshipers' memories or simply forget their role in servicing the ocean's majesty.<ref>''Aquaman'' (vol. 8) #44 (March 2019). DC Comics.</ref> One such goddess, who was actually a primordial adept from before time, begrudgingly makes her home on a separate island adjacent to that of the divinity who betrayed her and her departed husband. Namma, whose real name is actually Mother Salt, has every intention of drowning the world in brine with the intended consequence of killing everything that lives and breathes on it in revenge and to start over—remaking the universe in her own image.<ref>''Aquaman'' (vol. 8) #45 (April 2019). DC Comics.</ref>
+
+With the help of one of Namma's cast-off creatures—needed to regain her full power as well as aid from the forgotten gods—who is reawakened by Arthur/Andy's clarion call through the Life Force power, Aquaman is able to best the vengeful divine progenitor and scatter her essence across the cosmos, ending her threat for a time.<ref>''Aquaman'' (vol. 8) #45–47 (April–June 2019). DC Comics.</ref> In thanks for aiding them in quelling their mother's fury, the [[Sea Gods of the World]] and the newly revived Father Sea (the aforementioned life mate of Mother Salt), give praise to Arthur for his valor and integrity. The Sea Gods awaken his dormant demigod abilities by bestowing upon him tribal tattoo's, christening him a bastion of the High Seas, while Father Sea himself retrieves Arthur/Andy's trident from the waters bestowing it to him once more.<ref>''Aquaman'' (vol. 8) #47 (June 2019). DC Comics.</ref> Yearning to remember who he was, Arthur/Andy undergoes a ritual where he communes with another primal ocean entity known as Mother Shark, who, when asked to, restores Arthur's memories wherein he realizes Mera killed him in a fit of rage because of his hesitation about hearing that he is going to become a father.<ref>''Aquaman'' (vol. 8) #48–49 (July–August 2019). DC Comics.</ref>
+
+Aquaman and the sea gods return to Amnesty Bay, the gods settle on Amnesty Island, in an abandoned lighthouse formerly occupied by Tristram Maurer, a 19th-century horror writer. Aquaman is called upon to bail [[Kaldur'ahm|Jackson Hyde]] out of jail, and Jackson appoints himself Aquaman's [[Sidekick|”assistant”]].<ref>''Aquaman'' (vol. 8) #51 (October 2019). DC Comics.</ref> Along with Callie and Tula, the two fight a sea monster which mysteriously disappears when the new lamp in the restored lighthouse is destroyed. An Amnesty Bay civilian named Ralph is killed during the fight, and at his funeral, Aquaman meets the resurrected Tristan Maurer.<ref>''Aquaman'' (vol. 8) #52 (November 2019). DC Comics.</ref>
+
+Black Manta destroys an Atlantean historical site in order to provoke a confrontation with Mera and the recently resurrected Arthur. Mera, along with Arthur, Jackson Hyde, and Arthur's new ally Tristan Maurer successfully fight off Manta, who is equipped with a mecha provided by Lex Luthor. Mera joins her powers with Jackson to create a gigantic, bioelectric powered water construct of herself, destroying the mecha, however, the strain of the immense hydrokinetic power Mera she is forced to use puts her in a coma, and she gives birth to her daughter Andy shortly after. Arthur was present for his daughter's birth, and fell in love with her instantly, losing all of his trepidation about becoming a father or the kind of life they could have together. He named her Andy, the name he used while amnesiac and stranded on Unspoken Water.
+
+Mera remains comatose for ten months, during which Arthur and Andy would regularly sneak into Atlantis to visit the comatose Mera in secret. After 10 months in a coma, Mera reawakens. With the ruse of a fake wedding to Vulko she calls to Atlantis the leaders of the 7 underwater kingdoms. Prior to the wedding, she has the entire widowhood arrested. Once all 7 kingdoms are assembled, to their surprise, Mera announces that she was dissolving the Atlantean monarchy and that she intended to hand power to the people. Orm attempts to take power for himself, however, Orm and his forces are stopped by Aquaman, assisted by the Justice league and the Sea gods.
+
+Following this, Mera finally embraces her daughter, as she and Arthur settle down in Amnesty Bay. Soon afterwards, Mera and Arthur marry in the presence of their family and friends, in what was originally planned as a welcome back party for her.<ref>''Aquaman'' (vol. 8) #65 (November 2020). DC Comics.</ref>
+
+Following the abolition of the monarchy, Arthur and Mera intended to hold themselves apart from Atlantis to allow the city to govern itself, but they were forced to intervene when the Frost King's forces attacked the city during what was intended to be their honeymoon. Arthur journeyed into the city's heating vents to meet with the Fire Trolls who lived in the tunnels below Atlantis, hoping they could be an ally against the Frost King. Originally Mera agreed to stay behind to guard Andy but quickly followed him, arriving in time to save Arthur from a Fire Troll with a hydrokinetic attack. The Trolls were in awe of this and swore loyalty to her. With her army of Fire Trolls, Mera and Arthur defeated the ice creatures attacking Atlantis.<ref>''Aquaman'' (vol. 8) #66 (December 2020). DC Comics.</ref>
+
+==Arthur Joseph Curry==
+'''Arthur Joseph Curry''' is the second [[DC Comics]] [[superhero]] to be known as '''Aquaman'''. Created by [[Kurt Busiek]] and [[Jackson Guice]], he [[first appearance|first appeared]] in ''Aquaman: Sword of Atlantis'' #40 (May 2006). As part of DC Comics's ''[[One Year Later]]'' event, Aquaman's series was renamed ''Aquaman: Sword of Atlantis'' with issue #40 (May 2006). The new developments included a new lead character, a new supporting cast, and the inclusion of [[sword and sorcery]]–type fantasy elements in the series. The character was short-lived, and was not seen much leading up to the revival of Aquaman in the 2010 ''[[Blackest Night]]'' miniseries, and he was not featured in DC continuity at all following its 2011 reboot, ''[[The New 52]]''.
+
+Arthur's story resembles versions of the original Aquaman's. While awaiting transport to [[Miami]], [[Florida]], a young man named Arthur Joseph Curry is washed out to sea when a storm ruptures the tank he is in. This Arthur Curry, much like the Golden Age Aquaman, is the son of [[Marine biology|oceanobiologist]] Dr. Phillip Curry. Arthur's mother, Elaine, died in childbirth and Dr. Curry was forced to use a mutagenic serum on his son when he was born three months premature. Arthur has lived his whole life in the main tank of his father's research facility at Avalon Cay, his only window to the outside world being television.
+
+[[File:Sword of Atlantis 54.jpg|thumb|upright|Arthur Joseph Curry on the cover of ''Aquaman: Sword of Atlantis'' #54 (September 2007), art by Rachel and [[Terry Dodson]]]]
+Shortly after his arrival in the sea, Arthur is mentally contacted by the mysterious "Dweller of the Depths", a deformed humanoid with tentacles instead of hair and a left hand made of water who is later revealed to be the new form of the previous Aquaman (Arthur Curry). The Dweller urges him to help [[King Shark]], who still bears scars from a previous battle with Aquaman during the [[Infinite Crisis|recent Crisis]]. The Dweller, confusing this new Arthur for Aquaman and calling him his "charge", tells Arthur and King Shark of a prophecy regarding Arthur's future, a prophecy which seems to be a distorted version of the original Aquaman's history. The Dweller reveals that the original Aquaman was "transformed into one akin to a great and terrible enemy of your people and became the vessel of power strange, ancient and terrible."
+
+Arthur's first trip to Atlantis and the oceans causes him to meet many of Aquaman's supporting characters, including Mera, the Sea Devils, Vulko, and, eventually, the [[Ocean Master]]. During this adventure, the Dweller progressively realizes that he himself is the original Aquaman, despite having no memory of his former life.
+
+Later, Arthur finds a humanoid squid named Topo, a naive youth attracted by superheroics and seeking to become a sidekick and Tempest, who is amnesiac, unable to breathe water, and implanted with a post-hypnotic suggestion warning of an upcoming battle. The foreseen battle soon occurs, during which the Dweller is apparently killed. The [[Justice League]] is called in to evaluate The Dweller's situation, but are unable to determine if he is truly dead, or if he can somehow resurrect himself due to his new magical nature.<ref name="SoA51">{{Cite comic |Writer=Williams, Tad |Title=Aquaman: Sword of Atlantis |Issue=#51 |Date=April 2007 |Publisher=DC Comics}}</ref>
+
+In ''Sword of Atlantis'' #57, the series' final issue, Aquaman is visited by the Lady of the Lake, who explains his origins. She explains that the original Aquaman had given a sample of his water hand to Dr. Curry in order to resurrect Curry's dead son, Arthur, whom he had named after the hero. When the original Aquaman attempted to resurrect Sub Diego, a part of his soul attached itself to the dead body of Arthur Joseph Curry, while Aquaman's (Arthur Curry) body mutated into the Dweller of the Depths. Blaming himself for this death, Aquaman vows to never be called 'Arthur' again, refraining from using what he sees as a "stolen" name and asking only to be called Joseph in the future.<ref>{{Cite comic |Writer=Williams, Tad |Title=Aquaman: Sword of Atlantis |Issue=#57 |Date=July 2009 |Publisher=DC Comics}}</ref>
+
+Joseph is considered as a candidate for the new [[Outsiders (comics)|Outsiders]] by [[Batman]]. After seeing him in action with [[Metamorpho]], however, Batman decides against his induction.<ref>{{Cite comic |Writer=Wilson, G. Willow |Cowriters=Tony Bedard |Title=Outsiders: Five of a Kind&nbsp;– Metamorpho/Aquaman |Issue=#1 |Date=October 2007 |publisher=DC Comics}}</ref>
+
+In their quest to rid the Earth of all forms of [[kryptonite]], [[Superman]] and Batman journey deep below the sea, where they find a large amount of the substance. The two of them are met with hostility by Aquaman and King Shark. A brief fight ensues, but, eventually, Joseph allows them to take the kryptonite. Before doing so, he points out that not everyone may want Superman to find all of Earth's kryptonite, but that Superman would have to be at least part human to understand that.<ref>{{Cite comic |Writer=Green, Michael |Title=Superman/Batman |Issue=#45 |Date=January 2008 |publisher=DC Comics}}</ref>
+
+Joseph Curry would continue to be the stand-in king of Atlantis until after the ''Final Crisis'' storyline. It was revealed that Joseph had stepped down from his position due to being unable to deal with the pressure of carrying on the Aquaman legacy. [[Garth (comics)|Tempest]] later finds Joseph's trident and costume draped over a throne, confirming that he had abandoned his duties as Atlantis' king.<ref>{{Cite comic |Writer=Krul, J. T. |Title=Titans |Volume=2 |Issue=#15 |Date=July 2009 |Publisher=DC Comics}}</ref> This is the final real reference to Arthur Joseph Curry, with the character never appearing again or being referenced in any DC material since that point. The character has yet to reappear after two of DC Comics' major relaunches, 2011's ''The New 52'' and 2016's ''[[DC Rebirth]]''.
+
+==Powers and abilities==
+
+=== Marine Telepathy ===
+Aquaman's most widely recognized power is the ability to communicate with marine life, which he can summon from great distances. This was originally described in the stories as an ability to actually speak with fish (in a similar manner to Dr. Dolittle's ability to speak to animals).<ref>{{Cite journal |last=Writer Unknown |last2=Artist: Fradon |first2=Ramona |date=May 1952 |title=Aquaman: "The Ex-King of the Sea" |journal=Adventure Comics |issue=#176}}</ref> This portrayal of his powers was later retconned into the ability to communicate with them telepathically.  He once stated that this power more relied on encouraging and compelling the subject rather than full control, citing piranha as a species he has trouble commanding under any circumstances due to their ruthlessness and hunger.
+
+In the ''New 52'' onwards, Aquaman's telepathy abilities changed; acknowledging that most marine life does not possess enough intelligence to carry on a meaningful telepathic communication, Aquaman is now stated to simply add compulsions and needs in the mindset of aquatic life, compelling them to do his bidding by a subtle altering of their [[cerebellum]].<ref name="Aquaman #1 2011" /> It is later revealed during ''Drowned Earth'' event that Arthur's ability to speak with the ocean comes from a metaphysical energy known as the Life Force,<ref>''Justice League/Aquaman: Drowned Earth'' #1 (December 2018)</ref> a vast ocean of genesistic power which enables him to connect with any and all forms of sentience within the cosmos, even from across realities.<ref>''Aquaman'' (vol. 8) #46 (May 2019). DC Comics.</ref> Through it, Arthur could also use its power to revert lost forms and assert varying consciousnesses within, like making the human shell of Mother Salt's monster daughter, the Cailleach, subservient to her human host's will; even restoring the true forms and divine powers of long-forgotten ocean gods while calling out to them through his aquatelepathy.<ref>''Aquaman'' (vol. 8) #46–47 (May–June 2019). DC Comics.</ref>
+
+=== Physical abilities ===
+The character has a number of other superhuman powers, most of which derive from the fact that he is adapted to live and thrive in the harshest of underwater environments. He has the ability to breathe underwater and possesses a superhuman physique strong enough to withstand attacks from superhuman opponents and resist machine gun fire.<ref name="JLA Vol. 5: Justice For All">''JLA Vol. 5: Justice For All''. DC Comics</ref> Aquaman frequently displays feats of super-Atlantean (the average Atlantean can lift/press approximately two tons) and superhuman strength. While not on par with Superman and Wonder Woman, he has proven capable of leaps up to six miles.<ref>{{Cite book |title=Aquaman Rebirth Vol. 5 |publisher=DC Comics}}</ref> He can swim at extremely high speeds, capable of reaching speeds of 3,000&nbsp;meters per second<ref name="JLA Vol. 5: Justice For All" /> (10,800&nbsp;km [roughly 6,700 miles] per hour) and can swim up [[Niagara Falls]].<ref>''JLA: Classified'' #3. DC Comics</ref> He can see in near total darkness and has enhanced hearing, granting limited [[Animal echolocation|sonar]].<ref name="dc-ency" />
+
+Although Aquaman can remain underwater indefinitely without suffering any ill effects, he grows weak if he remains on land for extended periods. Originally, when Batman invented Aquaman's water suit, he was able to walk on land for an indefinite amount of time and was no longer vulnerable to a "[[dehumidifier]]".<ref name="dc-ency" /> This weakness was later removed from continuity in 2011, establishing that he grew up on land before learning of his Atlantean heritage,<ref>''Aquaman'' (vol. 7) #0 (2012). DC Comics.</ref> but he still runs the risk of dying by dehydration within incredibly hostile environments, such as deserts.<ref>''Aquaman'' (vol. 7) #5 (2012). DC Comics.</ref> Aquaman had also been bestowed an ability he never showcased before, given to him by an old Sea Monarch, granting him the ability of unaided flight using his own power.<ref>''Aquaman'' (vol. 7) #46 (2012). DC Comics.</ref>
+
+=== Other powers and abilities ===
+While typically able to mostly telepathically commune with marine animals, Aquaman has at times demonstrated the ability to affect any being that lives upon the sea (e.g., [[sea eagle]]s), or even any being evolved from marine life (e.g., humans and some aliens).  Pre-Flashpoint Aquaman has had an ill-defined level of telekinetic capability he would use every so often. It's very, very rarely touched upon and the only times he ever used it few and far between; often applying these abilities as a focus for team battles to strengthen combo attacks with other supers.<ref>''Justice League America'' #92 (September 1994). DC Comics.</ref>
+
+At various times in his life, Aquaman has been transformed into a purely oceanic entity with power over all the seas of the world;<ref>''JLA'' #70 (September 2002). DC Comics.</ref> this was usually temporary, as he would often revert to normal afterwards.<ref>''Aquaman'' (vol. 6) #11 (December 2002). DC Comics.</ref><ref>''JLA'' #75 (January 2003). DC Comics.</ref><ref>''Brightest Day'' #23 (2019). DC Comics.</ref>
+
+=== Weapons and equipment ===
+
+==== Trident of Neptune ====
+Before ''The New 52'', the Trident, granted by [[Poseidon]] to the rightful ruler and protector of the seas, was indestructible and a very powerful melee weapon, which Aquaman wielded with unmatched skill. Apart from its power as a melee weapon, the Trident also had the power to manipulate water, fire bolts of powerful energy and act as a focus to amplify the magical power of others, most notably Tempest.<ref>''JLA'' #68 (2002). DC Comics.</ref> 
+
+In the ''New 52,'' the Trident of Neptune (also called '''Atlan's Trident''' or the '''Trident of Atlan''') is a weapon in which is  part of a collection of seven very powerful Atlantean magical items, forged by the first king of Atlantis who calls himself 'The Dead King'.<ref>''Aquaman'' (vol. 7) #7 (2012). DC Comics.</ref> initially thought to be the most powerful weapon of the set, with the possible exception of the recently discovered seventh item, the Trident is completely indestructible and able to hurt even the most powerful of opponents, such as the evil [[New Gods|New God]] Darkseid. In one instance, the Trident was shown glowing with magical power when Black Manta used the rest of the items to discover the hidden seventh one. Sometimes when Arthur utilizes the Trident of Neptunee's supernatural powers, his eyes glow with arcane power and this further strengthens his abilities as well as giving him various arcane energy-based capabilitie.<ref>''Aquaman'' (vol. 7) #33 (June 2011). DC Comics.</ref>
+
+==== Trident of Poseidon ====
+In the New 52 onwards, the trident in which is usually the favored weapon of Poseidon was given to Aquaman by the sea god.<ref>''Aquaman'' (vol. 7) #41 (2015). DC Comics.</ref> Poseidon's trident has displayed the power to summon tsunamis and deluges,<ref>''Justice League of America'' (vol. 4) #10 (January 2017)</ref> and call down thunder and lightning,<ref>''Aquaman Sneak Preview'' #1 (2016). DC Comics.</ref> project and control ice, move landmasses, and grant the ability for Aquaman to teleport himself across global and even interplanetary distances using water as a medium.<ref>''Aquaman'' (vol. 7) #42 (2015). DC Comics.</ref> It can also transform into a [[gladius]] (a type of sword used by ancient Roman gladiators) and back into a trident at will.<ref>''Aquaman'' (vol. 7) #41 (2012). DC Comics.</ref> 
+
+==== Prosthetic hand ====
+After the loss of his left hand, Aquaman initially replaced it with a cybernetic retractable hook, then a liquid metal hand. The mechanical hand was replaced by a magical hand made out of water,  His biological hand was restored when the character was resurrected in ''[[Blackest Night]]'' #8.
+
+===== Waterbearer Hand =====
+A magical hand made out of water, it was given given to him by the [[Lady of the Lake]], which granted Aquaman numerous abilities. These included: the ability to instantly dehydrate to death anyone he touched, shoot jets of scalding or freezing water from it, healing abilities, the ability to create portals into mystical dimensions that could act as spontaneous transport, control and negate magic, manipulate almost any body of water he sets his focus on<ref name="dc-ency" /> and the capability to communicate with the Lady of the Lake.<ref>''Aquaman'' (vol. 6) #12 (January 2003). DC Comics.</ref>
+
+==Other versions==
+===Earth-Two===
+In the 1960s, following the establishment of DC Comics's [[Multiverse (DC Comics)|multiverse]] system,<ref>''The Flash'' #123 (September 1961). DC Comics.</ref> the Golden Age version of Aquaman became known as the Aquaman of [[Earth-Two]], while the Silver Age version of Aquaman became the Aquaman of [[Earth-One]]. Although the two versions of Aquaman never met, the Earth-Two Aquaman did appear post-Golden Age in ''[[All-Star Squadron]]'' #59–60 (July–August 1986). The Earth-Two version of the character was [[Retroactive continuity|retroactively]] eliminated from existence via the 1985 ''[[Crisis on Infinite Earths]]'' storyline.<ref>[http://www.aquamanshrine.com/2008/05/all-star-squadron-60-aug-1986.html The Aquaman Shrine on All-Star Squadron #60] {{Webarchive|url=https://web.archive.org/web/20180130231244/http://www.aquamanshrine.com/2008/05/all-star-squadron-60-aug-1986.html |date=2018-01-30 }}. Aquamanshrine.com, Retrieved April 3, 2012.</ref>
+
+===Earth-C-Minus===
+The 1980s series ''[[Captain Carrot and His Amazing Zoo Crew!]]'' presented the [[Multiverse (DC Comics)|parallel Earth]] of "Earth-C-Minus," a world populated by anthropomorphic animal superheroes that paralleled the mainstream DC Universe. Earth-C-Minus featured Aquaduck, a duck version of Aquaman with similar powers.<ref>''Captain Carrot and His Amazing Zoo Crew!'' #14–15 (April–May 1983). DC Comics.</ref>
+
+===Supergirl: Wings===
+Aquaman watches over the seas and his kingdom in the ''[[Supergirl: Wings]]'' [[Elseworlds]] story.
+
+===Tangeant Comics===
+Arthur Curry appears in the 1997 [[Tangent Comics]] [[One-shot (comics)|one-shot]] ''[[Green Lantern]]'', in which he is revealed to be the son of the pilot [[Captain Boomerang]], and a member of Boomerang's fleet.
+
+===Old Lady Harley===
+Aquaman is the focus in a look into the future in ''Old Lady Harley''. During a [[Joker (character)|Joker]] attack on the Justice League, Aquaman and Lobo had pursued the villain. A simple accident has the Joker decapitated by Aquaman's trident. Future Aquaman acts as a peacekeeper between America and Mexico, a meeting that goes well for all concerned.<ref>''Old Lady Harley'' #1–5 (2019). DC Comics.</ref>
+
+===Earth-11===
+In the ''[[Countdown to Final Crisis|Countdown]]'' tie-in issue ''The Search for Ray Palmer: Superwoman/Batwoman'', a female version of Aquaman is shown to reside on [[List of DC Multiverse worlds|Earth-11]]. This version is called "Anne", is physically similar to Joseph Curry, and commands the armies of Atlantis. The Aquawoman of the slightly revised Earth-11 appears in ''The Multiversity'' #1 (2014) as one of the assembled heroes of the [[Multiverse (DC Comics)|Multiverse]] who have come together to save it from destruction.
+
+===JLA/Avengers===
+In the 2003–04 intercompany crossover ''[[JLA/Avengers]]'', Aquaman teams up with the Avenger the [[Vision (Marvel Comics)|Vision]] to investigate the changes to their respective Earths as a result of the actions of the [[Grandmaster (Marvel Comics)|Grandmaster]]. He displays his immense psychic control over sea life when he single-handedly shuts down the minds of Atlantean soldiers under the control of [[Attuma]], although his abilities only partially affect [[Namor|Namor the Sub-Mariner]], due to Namor's half-human physiology.
+
+===Flashpoint===
+In the alternate timeline of the 2011 ''[[Flashpoint (comics)|Flashpoint]]'' storyline, Aquaman is brought back to Atlantis when he was a teenager, due to the death of his father. As a result, the young Arthur never learned compassion and kindness from his father, who was killed by the Atlantean agents sent to recover him.<ref name="fpea2">''Flashpoint: Emperor Aquaman'' #2 (July 2011). DC Comics.</ref> In the present day, Aquaman and all of Atlantis wage war against [[Wonder Woman]] and the [[Amazons (DC Comics)|Amazons]],<ref>Johns, Geoff (w). ''Flashpoint'' #1 (May 2011). DC Comics.</ref> which began when Diana's mother [[Hippolyta (DC Comics)|Hippolyta]] was killed on Aquaman and Diana's wedding day. In an act of retribution, Wonder Woman later killed [[Mera (comics)|Mera]], who had apparently married Aquaman.<ref>''Flashpoint: Emperor Aquaman'' #1 (June 2011). DC Comics.</ref> The death of Hippolyta was, however, revealed to be a casualty of war since the real target was Wonder Woman herself. Aquaman later caused Western Europe to sink into the sea, killing over 60 million people, and intends to sink England as well.<ref>Johns, Geoff (w). ''Flashpoint'' #2 (June 2011). DC Comics.</ref> In the present, Aquaman reassigns the [[Hila (comics)|Siren]] and the Ocean Master to assassinate [[Terra (comics)|Terra]] in New Themyscira. The mission fails, with the Siren being killed by Diana's aunt, Penthesleia. The Amazonian Furies then attack the reinforcements led by Aquaman, who is confronted in battle by their leader, Wonder Woman.<ref name="fpea2" /> During their struggle, Wonder Woman tells him that they have both been deceived by the Ocean Master and Penthesileia, who are responsible for the war between the Atlanteans and the Amazons.<ref>''Flashpoint: Wonder Woman and the Furies'' #3 (August 2011). DC Comics.</ref> This Aquaman returns in ''[[Convergence (comics)|Convergence: Justice League]]'' #1.
+
+===Injustice: Gods Among Us prequel===
+In the prequel comic to the online video game ''[[Injustice: Gods Among Us]]'', Aquaman appears to attack Japanese fisherman who killed a whale. He is intercepted by the Justice League, with it turning into a brawl between the Justice League and the Atlanteans. Superman, having undergone the death of his wife and unborn child and the destruction of Metropolis, threatens Aquaman to stop his efforts. While warned over a communication link with Batman not to test him, Aquaman does just that, summoning a [[kraken]]. In response Superman, Green Lantern, Shazam, and Wonder Woman lift the entire city of Atlantis off the sea floor and carry it to dry deserts, putting its inhabitants in harm as a way to bully Aquaman. He relents and, as a result of this, largely abstains from the conflict between the Regime (led by Superman) and the Insurgency (led by Batman). In Year Four, he gets involved when Batman informs him that the Greek gods have attempted to force their own rule over the world, so Aquaman and Mera take on Poseidon. He wins the conflict, as his wife stalls a massive tidal wave from crashing on Themiscyra. Superman comes to Atlantis in Year Five to ensure the Regime has Aquaman's support, despite Aquaman having frequently made it clear he is not choosing sides. Aquaman agrees, purely to get Superman to leave.
+
+===Earth-3===
+During the 2013 "[[Trinity War]]" storyline, Aquaman's [[Crime Syndicate of America#The New 52|Crime Syndicate]] counterpart is revealed to be '''The Sea King'''. He apparently fails to survive the passage from [[Earth-Three#The New 52|Earth-3]] to Prime Earth, but is awakened in "[[Forever Evil: Blight]]"<ref name="JLD 25">{{Cite comic |writer=[[DeMatteis, J. M.]] |penciller=Janin, Mikel |inker=Cifuentes, Vincente, Guillermo Ortego |colorist=Cox, Jeromy |letterer=Leigh, Rob |story=Forever Evil: Blight: The Rebirth of Evil |title=Justice League Dark |issue=#25 |date=January 2014 |publisher=[[DC Comics]]}}</ref> after being possessed by [[Deadman (DC Comics)|Deadman]].<ref name="JLD 26">{{Cite comic |writer=DeMatteis, J. M. |penciller=Janin, Mikel |inker=Cifuentes, Vincente, Guillermo Ortego, Jordi Tarragona |colorist=Cox, Jeromy |letterer=Wands, Steve |story=Forever Evil: Blight: The Haunted Sea |title=Justice League Dark |issue=#26 |date=February 2014 |publisher=[[DC Comics]]}}</ref> The design of the Sea King resembles that of the [[#New direction|1990s Aquaman]].<ref name="Justice League 23">{{Cite comic |writer=[[Geoff Johns|Johns, Geoff]] |penciller=Reis, Ivan |inker=Prado, Joe, Oclair Albert, Eber Ferreira |colorist=Reis, Rod |letterer=Napolitano, Nick J. |story=Trinity War Chapter Six: Conclusion |title=[[Justice League#The New 52|Justice League]] |volume=2 |issue=#23 |date=October 2013 |publisher=[[DC Comics]]}}</ref>
+
+==Collected editions==
+{| class="wikitable" style="width:100%;"
+|-
+! width="32" | Title
+!width=45%| Material collected
+!width=5%| Pages
+!width=20%| ISBN
+|-
+| ''Aquaman Archives Vol. 1''
+| ''Adventure Comics'' #260–280, 282; ''Showcase'' #30–31;
+| 224
+| {{ISBNT|1-5638-9943-4}}
+|-
+| ''Showcase Presents Aquaman Vol. 1''
+| ''Aquaman'' #1–6; ''Adventure Comics'' #260–280, 282, 284; ''Superman's Girl Friend, Lois Lane'' #12; ''Showcase'' #30–33; ''Detective Comics'' #293–300; ''Superman's Pal Jimmy Olsen'' #55; ''World's Finest Comics'' #125–129
+| 544
+| {{ISBNT|1-4012-1223-9}}
+|-
+| ''Showcase Presents Aquaman Vol. 2''
+| ''Aquaman'' #7–23; ''World's Finest'' #130–133, 135, 137, 139; ''The Brave and the Bold'' #51
+| 544
+| {{ISBNT|978-1401217129}}
+|-
+| ''Showcase Presents Aquaman Vol. 3''
+| ''Aquaman'' #24–39; ''The Brave and the Bold'' #73; ''Superman's Pal Jimmy Olsen'' #115
+| 448
+| {{ISBNT|978-1401221812}}
+|-
+|''Aquaman: The Search for Mera''
+| ''Aquaman'' #40–48
+| 216
+| {{ISBNT| 978-1401285227}}
+|-
+|''Aquaman: Deadly Waters''
+| ''Aquaman'' #49–56
+| 208
+| {{ISBNT| 978-1779502940}}
+|-
+| ''Aquaman: Death of a Prince''
+| ''Aquaman'' #57–63; ''Adventure Comics'' #435–437, 441–455
+| 336
+| {{ISBNT|978-1401231132}}
+|-
+|''Aquaman: The Legend of Aquaman''
+|''Aquaman'' (vol. 3) #1–5; ''Aquaman Special'' #1
+|176
+|{{ISBNT|978-1401277932}}
+|-
+|''Aquaman by Peter David Book One''
+|''Aquaman'' (vol. 5) #0–8; ''Aquaman: Time and Tide'' #1–4
+|344 
+|{{ISBNT|978-1401277468}}
+|-
+|''Aquaman by Peter David Book Two''
+|''Aquaman'' (vol. 5) #9–20; ''Aquaman Annual'' #1
+|344
+|{{ISBNT|978-1401281434}}
+|-
+| ''Aquaman: The Waterbearer''
+| ''Aquaman'' (vol. 6) #1–4; ''Aquaman [[Secret Files and Origins]]'' #1
+| 119
+| {{ISBNT|1-4012-0088-5}}
+|-
+| ''Aquaman: Sub Diego''
+| ''Aquaman'' (vol. 6) #15–22
+| 192
+| {{ISBNT|978-1401255107}}
+|-
+| ''Aquaman: To Serve and Protect''
+| ''Aquaman'' (vol. 6) #23–31
+| 224
+| {{ISBNT|978-1401263829}}
+|-
+| ''Aquaman: Kingdom Lost''
+| ''Aquaman'' (vol. 6) #32–39
+| 200
+| {{ISBNT|978-1401271299}}
+|-
+| ''Aquaman: Sword of Atlantis''
+| ''Aquaman: Sword of Atlantis'' #40–45
+| 114
+| {{ISBNT|1-4012-1145-3}}
+|-
+| ''Aquaman: Sword of Atlantis Book One''
+| ''Aquaman: Sword of Atlantis'' #40–49
+|160
+|{{ISBNT|978-1401287719}}
+|-
+! colspan="4" |Limited Series
+|-
+|''Aquaman: Time and Tide''
+|''Aquaman: Time and Tide'' #1–4
+|88
+|{{ISBNT|1-5638-9259-6}}
+|-
+|''Aquaman: The Atlantis Chronicles – The Deluxe Edition''
+|''The Atlantis Chronicles'' #1–7
+|344
+|{{ISBNT|978-1401274399}}
+|-
+|''Aquaman: Tempest''
+|''Tempest'' #1–4; ''Teen Titans Spotlight'' #10, #18
+|168
+|{{ISBNT|978-1401280482}}
+|}
+
+===''The New 52''===
+{| class="wikitable"
+!#
+!Title
+!Material Collected
+!Pages
+!ISBN
+|-
+! colspan="5" |''Aquaman'' (vol. 7) (2011)
+|-
+|1
+|'''''The Trench'''''
+|''Aquaman'' (vol. 7) #1–6
+|144
+|{{ISBNT|1-4012-3551-4}}
+|-
+|2
+|'''''The Others'''''
+|''Aquaman'' (vol. 7) #7–13
+|160
+|{{ISBNT|1-4012-4016-X}}
+|-
+|3
+|'''''Throne of Atlantis'''''
+|''Aquaman'' (vol. 7) #0, 14–16; ''Justice League'' (vol. 2) #15–17
+|176
+|{{ISBNT|978-1401243098}}
+|-
+|4
+|'''''Death of a King'''''
+|''Aquaman'' (vol. 7) #17–19, 21–25
+|192
+|{{ISBNT|978-1401246969}}
+|-
+|5
+|'''''Sea of Storms'''''
+|''Aquaman'' (vol. 7) #26–31, ''Aquaman Annual'' #2, ''Swamp Thing'' (vol. 5) #32
+|208
+|{{ISBNT|978-1401250393}}
+|-
+|6
+|'''''Maelstrom'''''
+|''Aquaman'' (vol. 7) #32–40, stories from ''Secret Origins'' (vol. 3) #2, 5
+|240
+|{{ISBNT|978-1401254414}}
+|-
+|7
+|'''''Exiled'''''
+|''Aquaman'' (vol. 7) #41–47
+|200
+|{{ISBNT|978-1401260989}}
+|-
+|8
+|'''''Out of Darkness'''''
+|''Aquaman'' (vol. 7) #48–52, ''Aquaman: Rebirth'' #1
+|144
+|{{ISBNT|978-1401268749}}
+|-
+! colspan="5" |''Aquaman and the Others'' (2014)
+|-
+|1
+|'''''Legacy of Gold'''''
+|''Aquaman'' (vol. 7) #20, ''Aquaman Annual'' #1, ''Aquaman and the Others'' #1–5
+| rowspan="2" |176
+|{{ISBNT|978-1401250386}}
+|-
+|2
+|'''''Alignment: Earth'''''
+|''Aquaman and the Others'' #6–11, ''Aquaman: Futures End'' #1, ''Aquaman and the Others: Futures End'' #1
+|{{ISBNT| 978-1401253318}}
+|}
+
+===''DC Rebirth''===
+{| class="wikitable sortable"
+! class="unsortable" width="1%" | #
+!Title
+!Material Collected
+! class="unsortable" width="1%" | Pages
+! width="1%" | Publication date
+! class="unsortable" width="14.47%" | ISBN
+|-
+|1
+|'''''The Drowning'''''
+|''Aquaman: Rebirth'' #1, ''Aquaman'' (vol. 8) #1–6
+|192
+|{{DTS|2017-1-17}}
+|{{ISBNT|978-1401267827}}
+|-
+|2
+|'''''Black Manta Rising'''''
+|''Aquaman'' (vol. 8) #7–15
+|212
+|{{DTS|2017-4-18}}
+|{{ISBNT|978-1401272272}}
+|-
+|3
+|'''''Crown of Atlantis'''''
+|''Aquaman'' (vol. 8) #16–24
+|216
+|{{DTS|2017-9-5}}
+|{{ISBNT|978-1401271497}}
+|-
+|4
+|'''''Underworld'''''
+|''Aquaman'' (vol. 8) #25–30
+|152
+|{{DTS|2018-1-30}}
+|{{ISBNT|978-1401275426}}
+|-
+|5
+|'''''The Crown Comes Down'''''
+|''Aquaman'' (vol. 8) #31–33, ''Annual'' (vol. 2) #1
+|144
+|{{DTS|2018-7-10}}
+|{{ISBNT|978-1401280697}}
+|-
+|6
+|'''''Kingslayer'''''
+|''Aquaman'' (vol. 8) #34–38, ''Annual'' (vol. 2) #2
+| rowspan="2" |128
+|{{Dts|2018-12-18}}
+|{{ISBNT|978-1401285432}}
+|-
+| colspan="2" |'''''Aquaman/Suicide Squad: Sink Atlantis'''''
+|''Aquaman'' (vol. 8) #39–40, ''Suicide Squad'' #45–46
+|{{DTS|2019-2-19}}
+|{{ISBNT|978-1401290726}}
+|-
+| colspan="2" |'''''Justice League/Aquaman: Drowned Earth'''''
+|''Justice League/Aquaman: Drowned Earth'' #1, ''Justice League'' (vol. 4) #10–12, ''Titans'' (vol. 3) #28, ''Aquaman'' (vol. 8) #41–42, ''Aquaman/Justice League: Drowned Earth'' #1
+|224
+|{{DTS|2019-4-16}}
+|{{ISBNT|978-1401291013}}
+|-
+|1
+|'''''Unspoken Water'''''
+|''Aquaman'' (vol. 8) #43–47
+|152
+|{{DTS|2019-8-13}}
+|'''HC:''' {{ISBNT|978-1401292478}}<br>'''SC:''' {{ISBNT|978-1779501431}}
+|-
+|2
+|'''''Amnesty'''''
+|''Aquaman'' (vol. 8) #48–52
+|144
+|{{DTS|2019-12-24}}
+|'''HC:''' {{ISBNT|978-1401295332}}<br>'''SC:''' {{ISBNT|978-1779502506}}
+|-
+|3
+|'''''Manta vs. Machine'''''
+|''Aquaman'' (vol. 8) #53–57, ''Annual'' (vol. 3) #2
+|168
+|{{DTS|2020-9-8}}
+|{{ISBNT|978-1779502810}}
+|-
+|4
+|'''''Echoes of a Life Lived Well'''''
+|''Aquaman'' (vol. 8) #58–65
+|200 
+|{{DTS|2021-2-9}}
+|{{ISBNT|978-1779505880}}
+|-
+|}
+
+==In other media==
+[[File:Jason Momoa as Aquaman.jpg|thumb|upright|Promotional image of [[Jason Momoa]] as [[Arthur Curry (DC Extended Universe)|Aquaman]] in the DC Extended Universe]]
+{{Main|Aquaman in other media}}
+Since his comic book debut in November 1941, Aquaman has appeared in a number of adaptations. These formats include television shows, video games, and films.
+
+===Television===
+Aquaman has made multiple television appearances. The character was featured in the animated series ''[[Super Friends]]'', ''[[Justice League (TV series)|Justice League]]'', ''Justice League Unlimited'', ''[[Batman: The Brave and the Bold]]'', ''[[Young Justice]]'', ''[[Harley Quinn (TV series)|Harley Quinn]]'' and ''[[Aquaman: King of Atlantis]]''.<ref name="auto" /><ref>{{Cite web |date=10 September 2021 |title=Watch: DC's Aquaman Makes a Splash in First 'King of Atlantis' Promo |url=https://www.animationmagazine.net/streaming/watch-dcs-aquaman-makes-a-splash-in-first-king-of-atlantis-promo/}}</ref>
+
+He also appeared in the live-action television series ''[[Smallville]]'' being portrayed by [[Alan Ritchson]].
+
+There was also an [[Aquaman (TV pilot)|''Aquaman'' pilot]] made by the creator of ''Smallville'', featuring [[Justin Hartley]], which never aired.
+
+Aquaman has made non-speaking appearances in the animated series ''[[Teen Titans Go!]]''. In "Don't Press Play", he is voiced by [[Greg Cipes]]. In "Finding Aquaman", he is voiced by [[Patrick Warburton]].<ref>{{Cite web |last=Milligan |first=Mercedes |date=May 11, 2022 |title=Sneak Peek: Aquaman & Black Manta Make a Splash on 'Teen Titans Go!' |url=https://www.animationmagazine.net/tv/sneak-peek-aquaman-black-manta-make-a-splash-on-teen-titans-go/ |access-date=May 15, 2022 |publisher=[[Animation Magazine]]}}</ref>
+
+===Film===
+[[File:Chris Hardwick & Jason Momoa (35368589944) (cropped).jpg|thumb|upright|Jason Momoa at 2017 [[San Diego Comic-Con International]]]]
+The character has appeared in direct-to-DVD animated films such as ''[[Justice League: The New Frontier]]'' (2008) and ''[[Justice League: The Flashpoint Paradox]]'' (2011).
+[[File:Vijay at the Nadigar Sangam Protest.jpg|thumb|right|[[Vijay (actor)|Vijay]] depicted an Indian version of Aquaman in multiverse in the 2010 film ''[[Sura (film)|Sura]].''|221x221px]]
+Within the live-action [[DC Extended Universe]] films, American actor [[Jason Momoa]] plays [[Arthur Curry (DC Extended Universe)|Aquaman]], and the character made his feature film debut in ''[[Batman v Superman: Dawn of Justice]]'' (2016). Momoa reprised the role in ''[[Justice League (film)|Justice League]]'' (2017) and starred in his own film ''[[Aquaman (film)|Aquaman]]'' (2018). This movie version of Aquaman is of [[Polynesians|Polynesian]] ethnicity, rather than the blond-haired [[White people|white]] man of his traditional depiction. Momoa's Aquaman has long, dark hair, a full beard and extensive [[tattoo]]s.<ref>{{Cite web |last=Wilson |first=Matt D. |title=Jason Momoa Excited To Represent Polynesians As Aquaman |url=http://comicsalliance.com/jason-momoa-looking-forward-to-representing-polynesians-as-aquaman/ |website=ComicsAlliance}}</ref><ref>{{Cite web |last=December 20 |first=2018 7:30 pm Updated on |last2=Pm |first2=2018 at 11:21 |date=20 December 2018 |title=Jason Momoa pays tribute to his Polynesian roots in 'Aquaman' |url=http://www.staradvertiser.com/2018/12/20/tgif/local-boy-jason-momoa-makes-a-splash-as-the-star-of-aquaman/ |website=Honolulu Star-Advertiser}}</ref><ref name="ID Times">{{Cite web |last=Times |first=IDN |last2=Triadanti |date=December 19, 2018 |title=Filmnya Sukses, 11 Meme Aquaman yang Bikin Ngakak Sampai Atit Peyut |url=https://www.idntimes.com/hype/humor/danti/filmnya-sukses-11-meme-aquaman-yang-bikin-ngakak-sampai-atit-peyut/3 |url-status=live |archive-url=https://web.archive.org/web/20201214074551/https://www.idntimes.com/hype/humor/danti/filmnya-sukses-11-meme-aquaman-yang-bikin-ngakak-sampai-atit-peyut/3 |archive-date=December 14, 2020 |access-date=December 14, 2020 |website=IDN Times |language=id}}</ref> [[Times of Indonesia]] stated that Actor [[Vijay (actor)|Vijay]] depicted Aquaman as an Indian version in multiverse who fights for the rights of his fisherman community in 2010 ''[[Sura (film)]]''.<ref name="ID Times"/>
+
+=== Theme park attractions ===
+The character has multiple attractions themed to the character at [[Six Flags]] theme parks. 
+
+One of them, announced in 2020 is [[Aquaman: Power Wave]], a [[Mack Rides|Mack]] water roller coaster at [[Six Flags Over Texas]] in [[Arlington, Texas]].<ref name="wfaa">{{Cite web |last=Rodriguez |first=Jiselle |date=August 29, 2020 |title=Six Flag Over Texas announces water-coaster 'Aquaman: Power Wave' to make a big splash in 2020 |url=https://www.wfaa.com/article/news/six-flag-over-texas-announces-water-coaster-aquaman-power-wave-to-open-2020/287-2f13cba4-8f93-4a9b-bc18-40a0c44c2ebd |access-date=July 27, 2020 |website=WFAA.com}}</ref> The roller coaster is set to open in 2023.<ref>{{Cite web |title=Aquaman: Power Wave Debut Delayed Again to 2023 — News & Updates {{!}} Six Flags Over Texas |url=https://www.sfotsource.com/news/2022/7/6/aquaman-power-wave-debut-delayed-again-to-2023 |access-date=2022-09-19 |website=SFOT Source |language=en-US}}</ref> Aquaman: Power Wave replaced another theme park attraction based on Aquaman, Aquaman Splashdown.<ref>{{Cite web |title=Aquaman Splashdown Ride |url=https://guidetosfot.com/rides/aquamansplashdown/ |access-date=2022-09-19 |website=Guide to Six Flags over Texas |language=en-US}}</ref>
+
+Another one, [[Six Flags Great America#DC Universe|Aquaman Splashdown]], is an [[Arrow Dynamics]] hydroflume water ride at [[Six Flags Great America]] in [[Gurnee, Illinois]]. The water ride was Yankee Clipper in 1976, but was re-themed to Aquaman in 2022.<ref>{{Cite web |date=2022-03-24 |title=DC Universe coming to Six Flags Great America |url=https://wgntv.com/news/dc-universe-coming-to-six-flags-great-america/ |access-date=2022-09-19 |website=WGN-TV |language=en-US}}</ref>
+
+==Reception==
+Aquaman was listed as the 147th-greatest comic book character of all time by ''[[Wizard (magazine)|Wizard]]'' magazine.<ref>{{Cite web |title=Wizard's Top 200 Characters |url=http://herochat.com/forum/index.php?topic=170859.0 |url-status=dead |archive-url=https://web.archive.org/web/20110608020121/http://herochat.com/forum/index.php?topic=170859.0 |archive-date=2011-06-08 |access-date=2011-05-17 |website=[[Wizard (magazine)|Wizard]]}} NOTE: External link consists of a forum site summing up the top 200 characters of ''Wizard Magazine'' because the real site that contains the list is broken.</ref> [[IGN]] also ranked Aquaman as the 53rd-greatest comic book hero of all time, opining that "even though he'll forever be the butt of jokes thanks to his fishy powers, comic readers have come to love Aquaman as a noble (and very powerful) figure who is forever torn between the worlds of land and sea."<ref>{{Cite web |title=Aquaman is Number 52 |url=http://www.ign.com/top/comic-book-heroes/52 |access-date=2011-05-17 |website=[[IGN]]}}</ref> In a 2011 reader poll, ''[[Parade (magazine)|Parade]]'' magazine ranked Aquaman among the top 10 superheroes of all time.<ref>{{Cite web |date=7 March 2011 |title=Parade Magazine Superhero Poll |url=http://parade.condenast.com/73764/keithgildea/facebook-superheroes/ |access-date=2014-01-30 |website=[[Parade (magazine)|Parade]]}}</ref>
+
+By 2008, cultural critic [[Glen Weldon]] noted that Aquaman had become ridiculed by a popular mindset that cast him as an ineffectual hero. This was due to the perception that his heroic abilities were too narrow. Weldon wrote that critics and pop culture comedians who chose to focus on this had overplayed the joke, making it "officially the hoariest, hackiest arrow in the quiver of pop-culture commentary."<ref>{{Cite web |title=Baggin' On the Sea King, or: The Comedy Meme that Ate Atlantis |url=https://www.npr.org/blogs/monkeysee/2008/12/baggin_on_the_sea_king_or_the_1.html |access-date=2014-04-19 |website=NPR.org}}</ref><ref>Spiegel, Danny (July 28, 2014). Comic-Con Preview: First Looks. ''[[TV Guide]]''. p. 26.</ref>
+
+== See also ==
+*[[List of Aquaman enemies]]
+*[[Namor]] - a similar character from [[Marvel Comics]] who precedes Aquaman's debut.
+
+==References==
+{{Reflist|2}}
+
+==External links==
+{{Portal bar|United States|Television|Film|Animation|Cartoon|Comics|Toys|Video games|Geography|Speculative fiction|1950s|1960s|1980s|1990s}}
+*[http://aqua.gjovaag.com/ The Unofficial Aquaman Site, including the Aquaman FAQ]
+*[http://www.aquamanshrine.net Aquaman Shrine]
+*[http://www.aquamantv.com AquamanTV: Mercy Reef]
+*[http://darkmark6.tripod.com/aquamanind.html Index of Aquaman's Earth-1 Adventures]
+*[http://www.toonopedia.com/aquaman.htm Aquaman] at [[Don Markstein's Toonopedia]]. [https://www.webcitation.org/66gXL52mu?url=http://www.toonopedia.com/aquaman.htm Archived] from the original on April 4, 2012.
+*{{DCdatabase|Aquaman}}
+{{Aquaman|state=expanded}}
+{{Justice League characters}}
+{{All-Star Squadron}}
+{{GoldenAge}}
+{{The New 52}}
+{{DC Rebirth}}
+{{Authority control}}
+
+[[Category:Aquaman| ]]
+[[Category:1941 comics debuts]]
+[[Category:Atlantis in fiction]]
+[[Category:Characters created by Paul Norris]]
+[[Category:Characters created by Mort Weisinger]]
+[[Category:Comics characters introduced in 1941]]
+[[Category:DC Comics adapted into films]]
+[[Category:DC Comics American superheroes]]
+[[Category:DC Comics Atlanteans]]
+[[Category:DC Comics characters who can move at superhuman speeds]]
+[[Category:DC Comics characters who use magic]]
+[[Category:DC Comics characters with accelerated healing]]
+[[Category:DC Comics characters with superhuman strength]]
+[[Category:DC Comics film characters]] 
+[[Category:DC Comics martial artists]]
+[[Category:DC Comics deities]]
+[[Category:DC Comics characters who have mental powers]]
+[[Category:DC Comics telekinetics]] 
+[[Category:DC Comics telepaths]]
+[[Category:DC Comics titles]]
+[[Category:DC Comics male superheroes]] 
+[[Category:DC Comics hybrids]]
+[[Category:Fantasy comics]]
+[[Category:Nautical comics]]
+[[Category:Fictional activists]]
+[[Category:Fictional amputees]]
+[[Category:Fictional characters with water abilities]]
+[[Category:Fictional characters with superhuman senses]]
+[[Category:Fictional demigods]]
+[[Category:Fictional polearm and spearfighters]]
+[[Category:Fictional conservationists and environmentalists]]
+[[Category:Fictional empaths]]
+[[Category:Fictional kings]]
+[[Category:Fictional mermen and mermaids]]
+[[Category:Golden Age superheroes]]
+[[Category:Superheroes who are adopted]]

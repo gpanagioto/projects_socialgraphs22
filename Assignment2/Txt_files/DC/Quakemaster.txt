@@ -1,0 +1,47 @@
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+| image = Quakemaster.jpg
+| caption = Quakemaster
+| character_name = Quakemaster
+| real_name = Robert Coleman
+| publisher = [[DC Comics]]
+| debut = ''[[DC Special]]'' #28 (June-July 1977)
+| creators = [[Bob Rozakis]] (writer)<br>[[John Calnan]], [[Tex Blaisdell]] (art)
+| alliances = [[Secret Society of Super Villains]] 
+| aliases =  
+| powers = None  
+}}
+
+'''Quakemaster''' is a fictional [[supervillain]] in the [[DC Comics]] universe.  He first appeared in ''[[DC Special]]'' #28 (June-July 1977)<ref>{{cite book |last1=Greenberger |first1=Robert |title=The Essential Batman Encyclopedia |date=2008 |publisher=Del Rey |isbn=9780345501066 |page=301}}</ref> and was co-created by writer [[Bob Rozakis]] and artist [[John Calnan]].<ref>{{cite book|last= Manning|first= Matthew K.|editor-last = Dougall|editor-first = Alastair|chapter= 1970s|title= Batman: A Visual History|publisher= [[DK (publisher)|Dorling Kindersley]]|date= 2014|location= London, United Kingdom|page= 125|isbn= 978-1465424563|quote= A lead feature by writer Bob Rozakis and penciller John Calnan starring Batman as Gotham City suffered earthquakes.}}</ref>
+
+==Fictional character biography==
+'''Robert Coleman''' is an architect of some note in [[Gotham City]]. His reputation is irreparably damaged when an apartment complex he designed and built does not withstand a [[hurricane]]. Feeling that he has been wrongly branded, Coleman creates the alias of the Quakemaster and uses his super-charged [[jackhammer]] to create earthquakes in [[Gotham City]]. His scheme backfires and only his buildings are damaged in the quakes. Quakemaster is defeated and captured by [[Batman]].<ref>{{cite book |last =Rovin |first =Jeff |title =The Encyclopedia of Supervillains |publisher =Facts on File |date =1987 |location =New York |isbn = 0-8160-1356-X |page=284}}</ref>
+
+Quakemaster is later released and recruited by the [[Secret Society of Super Villains]] to be part of the team working with the [[Silver Ghost (comics)|Silver Ghost]] to kill the [[Freedom Fighters (comics)|Freedom Fighters]]. This story was scheduled to appear in ''The Secret Society of Super-Villains'' #16-17, but the title was canceled before it could be published. It eventually appeared in issue #2 of ''[[Cancelled Comic Cavalcade]]'', the extremely limited series produced by DC Comics.
+
+Quakemaster is part of a team of supervillains recruited by [[Lex Luthor]] and [[Brainiac (character)|Brainiac]] during the so-called ''[[Crisis on Infinite Earths]]''.<ref>''Crisis on Infinite Earths'' #9-10 (December 1985-January 1986)</ref>
+
+Quakemaster later takes to hanging out with other villains who have apparently fallen on hard times. This group includes [[Black Mass (comics)|Black Mass]], [[Sonar (comics)|Sonar]], the original [[Blackrock (comics)|Blackrock]] and the [[Cavalier (comics)|Cavalier]]. The villains gather at a New York bar to play games of [[poker]]. In one such game, the villains lose most of their weapons and devices to Wally Tortelloni, an everyday civilian. When the villains gang up to track Tortelloni down and retake their devices, they are apprehended by members of the [[Justice League International]].<ref>''Justice League America'' #43 (October 1990) and #44 (November 1990)</ref> 
+
+In ''The Adventures of Superman'' #608 (November 2002), Quakemaster is one of the numerous villains hired by [[Manchester Black]] to attack friends and family members of Clark Kent, secretly [[Superman]]. He is once again defeated.
+
+In ''[[Infinite Crisis]]'', Quakemaster became a member of the [[Secret Society of Super Villains]].
+
+==Powers and abilities==
+Quakemaster has no inherent powers or abilities. He uses a power charged jackhammer of his own design. It projects pulse waves of energy capable of destroying concrete or smashing bone.
+
+==Other versions==
+For a brief time, the name Quakemaster is used by fellow villain [[Ventriloquist (comics)|the Ventriloquist]] during the [[Gotham City]] disaster known as [[Batman: Cataclysm|the Cataclysm]].<ref>''Batman: Shadow of the Bat'' #74 (May 1998)</ref><ref>''Nightwing'' (vol. 2) #20 (May 1998)</ref><ref>''Batman'' #554 (May 1998)</ref><ref>''Detective Comics'' #721 (May 1998)</ref><ref>''Robin'' (vol. 2) #53 (May 1998)</ref>
+
+Still later, another supervillain called [[Geomancer]] takes up Quakemaster's [[modus operandi|m.o.]], although seemingly without the aid of technical equipment.
+
+In the first issue of the ''[[Hero Hotline]]'' miniseries, the titular team battled an exo-skeleton-wearing criminal who was using a super-powered jackhammer to tunnel under a building which had been erected over the hiding place for his loot while he was in prison. Although the character was identified as potentially being Quakemaster, his identity was never verified.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.dcuguide.com/who.php?name=quakemaster Quakemaster] at the Unofficial Guide to the DC Universe
+
+[[Category:Comics characters introduced in 1977]]
+[[Category:DC Comics supervillains]]
+[[Category:Fictional architects]]

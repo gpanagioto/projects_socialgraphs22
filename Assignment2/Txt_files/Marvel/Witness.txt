@@ -1,0 +1,5 @@
+#REDIRECT [[Witness (character)]]
+
+{{Redirect category shell|
+{{R from move}}
+}}

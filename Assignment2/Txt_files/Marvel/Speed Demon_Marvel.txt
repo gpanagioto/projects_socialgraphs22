@@ -1,0 +1,5 @@
+#REDIRECT [[Speed Demon (character)]]
+
+{{Redirect category shell|
+{{R from move}}
+}}

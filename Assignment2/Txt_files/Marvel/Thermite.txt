@@ -1,0 +1,65 @@
+{{Notability|date=October 2018}}
+'''Thermite''' is the name of two [[fictional characters]] appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Publication history==
+The first Thermite first appeared in ''Squadron Supreme'' #10 (June 1986), and was created [[Mark Gruenwald]] and [[Paul Ryan (cartoonist)|Paul Ryan]].
+
+==Fictional character biography==
+===Earth-712 Thermite===
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|character_name=Thermite
+|real_name=Sam Yurimoto
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Squadron Supreme]]'' #10 (Jun 1986)
+|creators=[[Mark Gruenwald]] and [[Paul Ryan (cartoonist)|Paul Ryan]]
+|alliances=[[Squadron Supreme]]<br/>[[America Redeemers|Redeemers]]
+|aliases=
+|powers=
+}}
+Thermite was recruited by [[Nighthawk (Marvel Comics)|Nighthawk]] into his [[America Redeemers|Redeemers]] to oppose his former group, the [[Squadron Supreme]]. Along with four other members of the Redeemers ([[Redstone (comics)#Squadron Supreme|Redstone]], [[Moonglow (comics)|Moonglow]], [[Inertia (Marvel Comics)#Inertia (Squadron Supreme)|Inertia]], and [[Haywire (comics)|Haywire]]), Thermite infiltrated the Squadron and served for about a month before the Redeemers openly opposed the Squadron.<ref>''Squadron Supreme'' #10</ref> He was killed when his regulator pack was damaged in a collision with the [[Whizzer (comics)#Stanley Stewart (Earth-712)|Whizzer]].<ref>''Squadron Supreme'' #12</ref>
+{{-}}
+
+===Earth-616 Thermite===
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|character_name=Thermite
+|real_name=Sam Yurimoto
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Web of Spider-Man]]'' #100 (May 1993)
+|creators=
+|alliances=[[New Enforcers]]
+|aliases=
+|powers=
+}}
+The origin of this Thermite has not been revealed before joining the [[New Enforcers]].
+
+When [[Richard Fisk|Blood Rose]] tracked the New Enforcers to their headquarters, Thermite assisted his teammates into attacking Black Rose where he uses his powers to disarm Blood Rose. [[Spider-Man]] arrived in his new armor and defeated the New Enforcers members until Thermite was the only one left standing. Thermite managed to destroy Spider-Man's armor, but Spider-Man managed to knock him out with one punch. Thermite and the other members of the New Enforcers were arrested by the police.<ref>''Web of Spider-Man'' #100</ref>
+{{-}}
+
+==Powers and abilities==
+The Squadron Supreme Thermite could project intense heat from the left side of his body, and intense cold from the right. He needed a regulator pack to control his body temperature at the interface between his two sides of his body.
+
+The Earth-616 version has the same powers.
+
+==In other media==
+The Earth-616 Thermite appears in ''[[Spider-Man: Web of Fire]]''. He appears as a member of the New Enforcers.{{cn|date=May 2016}}
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://marvel.com/universe/Thermite_(Earth-712) Thermite (Earth-712)] at Marvel.com
+* {{Marvunapp|http://www.marvunapp.com/Appendix/thermiteenforcers.htm|Thermite (Earth-616)}}
+
+{{Squadron Supreme}}
+
+{{DEFAULTSORT:Thermite (Comics)}}
+[[Category:Characters created by Mark Gruenwald]]
+[[Category:Comics characters introduced in 1986]]
+[[Category:Marvel Comics mutates]]
+[[Category:Squadron Supreme]]

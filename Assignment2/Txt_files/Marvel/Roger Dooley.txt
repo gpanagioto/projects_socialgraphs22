@@ -1,0 +1,47 @@
+{{Short description|Fictional character in Marvel Comics}}
+{{Infobox comics character<!--Wikipedia:WikiProject Comics-->
+|image=Roger Dooley.jpg
+|caption=
+|character_name=Roger Dooley
+|real_name=
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''Marvel Graphic Novel'' #18 (1985)
+|creators=[[John Byrne (comics)|John Byrne]]
+|alliances=[[S.H.I.E.L.D.]]
+|aliases=
+|powers=
+}}
+'''Roger Dooley''' is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+[[Shea Whigham]] appeared as Roger Dooley in the [[Marvel Cinematic Universe]] TV series ''[[Agent Carter (TV series)|Agent Carter]]'' in the first season. He was depicted as the chief of the Strategic Scientific Reserve (SSR) who oversaw agents [[Peggy Carter]], [[List of Agent Carter characters|Jack Thompson]], and [[Daniel Sousa]].
+
+==Publication history==
+Roger Dooley first appeared in ''Marvel Graphic Novel'' #18 and was created by [[John Byrne (comics)|John Byrne]].
+
+==Fictional character biography==
+Roger Dooley was a Level Four Special Officer for [[S.H.I.E.L.D.]]<ref>''The Official Handbook of the Marvel Universe'' vol. 2 #11</ref>
+
+Dooley was placed in charge of an operation to evaluate [[She-Hulk]]. During the operation, he accidentally teleported a colony of sentient [[cockroach]]es which later took over his body. When the cockroaches tried to have him take over She-Hulk, she threw him and his body ruptured.<ref>''Marvel Graphic Novel'' #18 (1985)</ref>
+
+==Powers and abilities==
+Roger Dooley was a trained S.H.I.E.L.D. agent.
+
+==In other media==
+
+===Television===
+* [[Shea Whigham]] appears as Roger Dooley in ''[[Agent Carter (TV series)|Agent Carter]]''. He is depicted as the chief of the Strategic Scientific Reserve (SSR) who oversees agents [[Peggy Carter]], Jack Thompson, and Daniel Sousa.<ref name="Whigham">{{cite web|url=https://deadline.com/2014/09/agent-carter-cast-shea-whigham-marvel-839001/|title=Shea Whigham To Co-Star On 'Marvel's Agent Carter'|last=Andreeva|first=Nellie|website=[[Deadline Hollywood]]|date=September 22, 2014|accessdate=September 22, 2014|archiveurl=https://web.archive.org/web/20140924041227/http://deadline.com/2014/09/agent-carter-cast-shea-whigham-marvel-839001/|archivedate=September 24, 2014|url-status=live}}</ref> Because of a lack of "rich comic book history to draw from", Whigham created his own background for the character on which he said: "I don't think Dooley is a political appointee. I think I worked my way up through good hard work. I don't think I'm a politician in any respect. Dooley's got a pretty wicked sense of humor".<ref name="WhighamDetails">{{cite web|url=http://marvel.com/news/tv/23909/shea_whigham_divulges_details_on_marvels_agent_carter|title=Shea Whigham Divulges Details on Marvel's Agent Carter|last=Cavanaugh|first=Patrick|work=[[Marvel Comics|Marvel.com]]|date=January 9, 2015|accessdate=January 14, 2015|archiveurl=https://web.archive.org/web/20150115112932/http://marvel.com/news/tv/23909/shea_whigham_divulges_details_on_marvels_agent_carter|archivedate=January 15, 2015|url-status=live}}</ref> Unlike many of the other agents, Whigham believes that Dooley does respect Carter, saying "I think he likes her. I think he cares deeply. I'm not sure that he can always show that, but I think you'll see that he cares deeply about Carter. And these are things that keep him up at night, as well as the other boys, when I send them out on missions".<ref name="WhighamDetails" /> In the episode "Snafu", it is revealed that he has a wife named Loretta and two kids and that he served in World War II.<ref name="Snafu">{{cite episode|title=Snafu|series=Agent Carter|credits=Misiano, Vincent (director); Chris Dingess (writer)|network=[[American Broadcasting Company|ABC]]|airdate=February 17, 2015|season=1|number=7}}</ref> While he was away, Loretta was unfaithful which caused marital problems.<ref>{{cite episode|title=A Sin to Err|series=Agent Carter|credits=Williams, Stephen (director); Lindsey Allen (writer)|network=[[American Broadcasting Company|ABC]]|airdate=February 10, 2015|season=1|number=6}}</ref> During the episode, [[Doctor Faustus (comics)|Dr. Ivchenko]] mesmerizes Dooley into locking Peggy Carter and Edwin Jarvis in the interrogation room and getting him Item #17. Ivchenko even finishes the job by mesmerizing Dooley into putting an explosive vest on. Upon being snapped out of the trance, Dooley finds the vest on him as it starts to heat up. When the vest is on the verge of exploding, Dooley asks his fellow SSR agents to give a message to his wife that he loves her while asking Carter to get Ivchenko. Dooley runs to the window while shooting out the glass and jumps out of it as the vest explodes during his fall.<ref name="Snafu" />
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://marvel.wikia.com/Roger_Dooley_%28Earth-616%29 Roger Dooley] at Marvel Wiki
+* {{Marvunapp|http://www.marvunapp.com/Appendix/cockrchs.htm#Roger Dooley|Roger Dooley}}
+
+{{S.H.I.E.L.D.}}
+[[Category:Characters created by John Byrne (comics)]]
+[[Category:Comics characters introduced in 1985]]
+[[Category:S.H.I.E.L.D. agents]]
+
+{{Marvel-char-stub}}

@@ -1,0 +1,43 @@
+{{Infobox comics character
+| character_name = Ding Dong Daddy
+| image = 
+| caption = 
+| publisher = [[DC Comics]]
+| debut = ''[[Teen Titans]]'' #3 (January 1966)
+| creators = [[Bob Haney]]<br/>[[Nick Cardy]]
+| real_name = Dowd
+| species = [[Human]]
+| homeworld = [[Earth]]
+| alliances = 
+| aliases = <!-- optional: actual identities the character uses, not nicknames -->
+| supports = <!--optional-->
+| powers = Expert car driver
+|}}
+{{for multi|the 1928 song|I'm a Ding Dong Daddy from Dumas|the streetcar conductor convicted of bigamy|Francis Van Wie|the similarly named 1942 animated short|Ding Dog Daddy}}
+'''Ding Dong Daddy''' (DDD) is a [[comic book]] <!--Do not add "fictional" as it is tautological; supervillains (and characters in general) are by definition implied to be fictionalized to some extent.-->[[supervillain]] published by [[DC Comics]] and appearing as an enemy of the [[Teen Titans]].
+
+Ding Dong Daddy is based on legendary hot rod enthusiast/painter/pinstriper [[Ed Roth|Ed "Big Daddy" Roth]].<ref>''The Official Teen Titans Index'' #1</ref> Further evidence of this is shown by DDD's minions the Gremlins who strongly resemble some of Roth's creations.
+
+==Publication history==
+Created by [[Bob Haney]] and [[Nick Cardy]], he first appeared in ''[[Teen Titans]]'' #3 (Jan. 1966).<ref>{{cite book |last1=Cadigan |first1=Glen |title=Titans Companion |date=2005 |publisher=TwoMorrows Publishing |isbn=9781893905504 |page=15}}</ref>
+
+==Fictional character biography==
+The President's Commission on Education asked the [[Teen Titans]] to help deal with the problem of high school dropouts. In the town of Harrison, the young heroes discovered dropouts being hired by Ding-Dong Daddy Dowd, proprietor of a custom [[hot rod]] and bike shop. Uncovering evidence that Dowd's operation was a front for criminals, the Titans went undercover as would-be high school drop-outs and exposed his schemes, and persuaded his teenage employees to return to school. This was a morality issue to stay in school.<ref>''Teen Titans'' #3. DC Comics.</ref>
+
+Ding Dong Daddy later steals the [[Arrowcar]] from [[Roy Harper (comics)|Speedy]] after [[Green Arrow]] allowed the young hero to borrow it.<ref>''Teen Titans: Year One'' #5. DC Comics.</ref>
+
+==In other media==
+Ding Dong Daddy appears in the [[Teen Titans (season 5)|fifth season]] of the animated series ''[[Teen Titans (TV series)|Teen Titans]]'', voiced by [[David Johansen]]. He appears as one of dozens of villains recruited by the [[Brotherhood of Evil]] to fight the Titans and their allies throughout the world. He later steals a locked briefcase containing [[Dick Grayson|Robin's]] most prized possession and offers to return it if the Titans can beat him in a road race. He drives a customized [[hot rod]] equipped with an arsenal of weapons and devices to foil pursuers and is accompanied by a pit crew of [[gremlin]]s in a rolling full-service repair shop that can fix damage to his vehicle and sabotage those of his competitors. Several other villains learn of the race and join in, but Red X surprises everyone by disabling their vehicles so Robin can win. Robin opens the briefcase to show its contents to the other Titans, but [[MacGuffin|the camera angle prevents the viewer from seeing what is inside]]. Ding Dong Daddy appears in "Titans Together", joining in the final all-out battle against the Titans in the Brotherhood's Paris hideout. [[Kole]] and [[Gnarrk]] destroy his car and is subsequently flash-frozen alongside all the other villains.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://marionetteblog.blogspot.com/2006/11/i-am-bunny-in-headlights-of-teen.html A blog on Ding Dong Daddy's only appearance]
+
+{{Teen Titans}}
+
+[[Category:Characters created by Bob Haney]]
+[[Category:Comics characters introduced in 1966]]
+[[Category:DC Comics male supervillains]]
+[[Category:Fictional racing drivers]]

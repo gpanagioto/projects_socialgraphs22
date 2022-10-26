@@ -1,0 +1,36 @@
+{{Supersupportingbox| <!--Wikipedia:WikiProject Comics-->
+noimage=yes
+|caption=
+|character_name=Anna Watson
+|publisher=[[Marvel Comics]]
+|debut= ''The Amazing Spider-Man'' #15 (August [[1964 in comics|1964]])
+|creators= [[Stan Lee]]<br>[[Steve Ditko]]
+|full_name= 
+|alliances=
+|supports=[[Spider-Man]]
+|}}
+'''Anna May Watson''' is a fictional character, a supporting character of Spider-Man.<ref>{{cite book |last1=Cowsill |first1=Alan |last2=Manning |first2=Matthew K. |title=Spider-Man Chronicle: Celebrating 50 Years of Web-Slinging |date=2012 |publisher=DK Publishing |isbn=978-0756692360 |page=42}}</ref>
+
+==Publication history==
+The character, created by [[Stan Lee]] and [[Steve Ditko]], first appeared in ''The Amazing Spider-Man'' #15.<ref>{{cite book |last1=DeFalco |first1=Tom |last2=Sanderson |first2=Peter |last3=Brevoort |first3=Tom |last4=Teitelbaum |first4=Michael |last5=Wallace |first5=Daniel |last6=Darling |first6=Andrew |last7=Forbeck |first7=Matt |last8=Cowsill |first8=Alan |last9=Bray |first9=Adam |title=The Marvel Encyclopedia |date=2019 |publisher=DK Publishing |isbn=978-1-4654-7890-0 |page=402}}</ref> Her first appearance helped foreshadow the first appearance of [[Mary Jane Watson]] as Mary Jane would be referenced as the niece of Anna.<ref>{{cite web |title=75 Most Iconic Marvel Comics Moments: #60-46 |url=https://comicbook.com/2014/09/09/75-most-iconic-marvel-comics-moments-60-46/ |website=Comicbook.com |access-date=18 December 2018 |language=en}}</ref><ref>{{cite web |title=25 Things Only True Fans Know About Spider-Man And Mary Jane's Relationship |url=https://screenrant.com/spider-man-mary-jane-relationship-hidden-trivia/18/?v=6&n=f |website=ScreenRant |access-date=18 December 2018 |date=21 July 2018}}</ref>
+
+==Fictional character biography== 
+Anna Watson is depicted as [[Mary Jane Watson]]'s aunt, an old friend of [[Aunt May]], and a recurring character in various [[Spider-Man]] titles. She is depicted as filling the same role of surrogate mother in Mary Jane's life as May does for [[Spider-Man|Peter Parker]]. For a period of time when May was believed to be dead, she moved in with Peter and Mary Jane. While initially very supportive of her niece's husband, she becomes suspicious with Peter's long absences and unreliability occasionally.<ref>{{cite web |title=Spider-Man, Who?? The Psychology of Marvel Comics Vs. the Movies |url=https://www.bleedingcool.com/2018/10/19/spider-man-psychology-marvel-comics-vs-movies/ |website=www.bleedingcool.com |access-date=18 December 2018}}</ref> 
+
+==In other media==
+* Anna Watson appears in the 1994 ''[[Spider-Man (1994 TV series)|Spider-Man TV series]]'', voiced by [[Majel Barrett]]. She continuously voices her disapproval of Peter Parker due to his absences and his attraction for danger.
+* Anna Watson appears in the TV series ''[[The Spectacular Spider-Man (TV series)|The Spectacular Spider-Man]]'', voiced by [[Kath Soucie]]. Much like the comics, she colludes with May to have Peter and Mary Jane meet.
+* Anna Watson is mentioned in the ''[[Spider-Man (2017 TV series)|Marvel's Spider-Man]]'' episode "Horizon High".
+
+==References== 
+{{reflist}}
+{{Spider-Man characters}}
+{{Stan Lee}}
+{{Steve Ditko}}
+{{DEFAULTSORT:Watson, Anna}}
+[[Category:Comics characters introduced in 1964]]
+[[Category:Fictional characters from New York City]]
+[[Category:Spider-Man characters]]
+[[Category:Characters created by Stan Lee]]
+[[Category:Characters created by Steve Ditko]]
+[[Category:Marvel Comics female characters]]
