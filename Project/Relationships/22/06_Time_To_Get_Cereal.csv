@@ -1,0 +1,17 @@
+,source,target,weight
+0,Jimbo,Ned,2
+1,Jimbo,Stan,1
+2,Ned,Stan,1
+3,Randy,Stan,1
+4,Jimbo,Randy,1
+5,Ned,Randy,1
+6,Kyle,Stan,9
+7,Cartman,Stan,6
+8,Kenny,Stan,5
+9,Mackey,Stan,1
+10,Cartman,Kyle,5
+11,Kenny,Kyle,5
+12,Kyle,Mackey,1
+13,Cartman,Kenny,3
+14,Cartman,Mackey,1
+15,Kenny,Mackey,1

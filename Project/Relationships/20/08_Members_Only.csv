@@ -1,0 +1,16 @@
+,source,target,weight
+0,Garrison,Mackey,1
+1,Garrison,Stephen,1
+2,Butters,Cartman,4
+3,Cartman,Heidi,2
+4,Butters,Heidi,2
+5,Gerald,Ike,2
+6,Ike,Sheila,2
+7,Gerald,Sheila,2
+8,Kyle,Sheila,2
+9,Ike,Kyle,1
+10,Heidi,Kyle,1
+11,Gerald,Kyle,1
+12,Heidi,Ike,1
+13,Gerald,Heidi,1
+14,Heidi,Sheila,1

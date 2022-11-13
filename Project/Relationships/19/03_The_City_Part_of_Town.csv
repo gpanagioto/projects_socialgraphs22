@@ -1,0 +1,21 @@
+,source,target,weight
+0,Kyle,Stan,1
+1,Cartman,Stan,1
+2,Kenny,Stan,1
+3,Butters,Stan,1
+4,Cartman,Kyle,2
+5,Kenny,Kyle,1
+6,Butters,Kyle,1
+7,Cartman,Kenny,1
+8,Butters,Cartman,1
+9,Butters,Kenny,1
+10,Randy,Stephen,2
+11,Kenny,Stuart,2
+12,Kenny,Randy,2
+13,Randy,Stuart,2
+14,Carol,Stuart,2
+15,Karen,Stuart,1
+16,Carol,Karen,1
+17,Kenny,Tuong Lu Kim,2
+18,Randy,Tuong Lu Kim,1
+19,Karen,Kenny,1

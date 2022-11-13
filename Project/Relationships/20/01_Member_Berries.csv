@@ -1,0 +1,16 @@
+,source,target,weight
+0,Jimbo,Stephen,1
+1,Jimbo,Randy,1
+2,Randy,Stephen,3
+3,Cartman,Wendy,2
+4,Cartman,Heidi,1
+5,Heidi,Wendy,1
+6,Bebe,Cartman,1
+7,Bebe,Wendy,1
+8,Randy,Stan,1
+9,Sharon,Stan,1
+10,Randy,Sharon,1
+11,Cartman,Kyle,3
+12,Butters,Kyle,1
+13,Butters,Cartman,1
+14,Gerald,Kyle,1

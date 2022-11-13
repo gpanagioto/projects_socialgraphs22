@@ -1,0 +1,12 @@
+,source,target,weight
+0,Kyle,Stan,13
+1,Cartman,Stan,12
+2,Cartman,Kyle,13
+3,Gerald,Stan,10
+4,Sheila,Stan,10
+5,Gerald,Kyle,11
+6,Kyle,Sheila,11
+7,Cartman,Gerald,10
+8,Cartman,Sheila,10
+9,Gerald,Sheila,11
+10,Shelly,Stan,1

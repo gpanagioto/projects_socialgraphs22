@@ -1,0 +1,48 @@
+,source,target,weight
+0,Cartman,Stan,8
+1,Kenny,Stan,3
+2,Stan,Stuart,4
+3,Stan,Timmy,11
+4,Randy,Stan,6
+5,Cartman,Kenny,3
+6,Cartman,Stuart,4
+7,Cartman,Timmy,8
+8,Cartman,Randy,4
+9,Kenny,Stuart,3
+10,Kenny,Timmy,3
+11,Kenny,Randy,3
+12,Stuart,Timmy,4
+13,Randy,Stuart,8
+14,Randy,Timmy,5
+15,Butters,Stan,6
+16,Big Gay Al,Stan,4
+17,Butters,Cartman,5
+18,Big Gay Al,Cartman,4
+19,Butters,Stuart,2
+20,Butters,Timmy,5
+21,Big Gay Al,Butters,4
+22,Butters,Randy,2
+23,Big Gay Al,Stuart,2
+24,Big Gay Al,Timmy,4
+25,Big Gay Al,Randy,2
+26,Stephen,Stuart,1
+27,Randy,Stephen,1
+28,Jimmy,Stan,7
+29,Cartman,Jimmy,6
+30,Butters,Kenny,1
+31,Jimmy,Kenny,1
+32,Big Gay Al,Kenny,1
+33,Butters,Jimmy,5
+34,Jimmy,Stuart,1
+35,Jimmy,Timmy,9
+36,Big Gay Al,Jimmy,3
+37,Jimmy,Randy,1
+38,Sharon,Stan,1
+39,Sheila,Stan,1
+40,Cartman,Sharon,1
+41,Cartman,Sheila,1
+42,Jimmy,Sharon,1
+43,Jimmy,Sheila,1
+44,Sharon,Timmy,1
+45,Sheila,Timmy,1
+46,Sharon,Sheila,1

@@ -1,0 +1,12 @@
+,source,target,weight
+0,Jimbo,Ned,16
+1,Kyle,Stan,14
+2,Cartman,Stan,8
+3,Cartman,Kyle,8
+4,Jimbo,Stan,12
+5,Jimbo,Kyle,7
+6,Cartman,Jimbo,5
+7,Kenny,Stan,2
+8,Kenny,Kyle,2
+9,Cartman,Kenny,1
+10,Jimbo,Kenny,1

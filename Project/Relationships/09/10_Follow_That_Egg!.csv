@@ -1,0 +1,24 @@
+,source,target,weight
+0,Kenny,Stan,2
+1,Heidi,Stan,2
+2,Stan,Timmy,2
+3,Big Gay Al,Stan,2
+4,Heidi,Kenny,2
+5,Kenny,Timmy,2
+6,Big Gay Al,Kenny,1
+7,Heidi,Timmy,2
+8,Big Gay Al,Heidi,1
+9,Big Gay Al,Timmy,1
+10,Kyle,Stan,8
+11,Bebe,Stan,2
+12,Bebe,Kyle,2
+13,Stan,Wendy,3
+14,Kyle,Wendy,3
+15,Bebe,Wendy,1
+16,Kenny,Kyle,1
+17,Heidi,Kyle,1
+18,Kyle,Timmy,1
+19,Big Gay Al,Kyle,1
+20,Randy,Stan,1
+21,Kyle,Randy,1
+22,Randy,Wendy,1
