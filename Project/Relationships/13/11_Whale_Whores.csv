@@ -1,0 +1,9 @@
+,source,target,weight
+0,Randy,Stan,2
+1,Kyle,Stan,2
+2,Cartman,Stan,4
+3,Kenny,Stan,3
+4,Cartman,Kyle,1
+5,Kenny,Kyle,1
+6,Cartman,Kenny,3
+7,Butters,Stan,1

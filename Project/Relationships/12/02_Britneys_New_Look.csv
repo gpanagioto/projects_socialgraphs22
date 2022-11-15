@@ -1,0 +1,17 @@
+,source,target,weight
+0,Cartman,Stan,4
+1,Randy,Stan,3
+2,Cartman,Randy,2
+3,Kyle,Stan,13
+4,Butters,Stan,4
+5,Cartman,Kyle,3
+6,Butters,Kyle,4
+7,Kyle,Randy,2
+8,Butters,Cartman,3
+9,Butters,Randy,1
+10,Gerald,Stan,1
+11,Gerald,Kyle,1
+12,Gerald,Randy,1
+13,Jimbo,Randy,1
+14,Jimbo,Sheila,1
+15,Randy,Sheila,1

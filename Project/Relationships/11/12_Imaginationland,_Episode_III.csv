@@ -1,0 +1,17 @@
+,source,target,weight
+0,Kyle,Stan,5
+1,Cartman,Stan,3
+2,Cartman,Kyle,5
+3,Butters,Jesus,3
+4,Butters,Stan,2
+5,Jesus,Stan,2
+6,Jesus,Kyle,2
+7,Santa,Stan,1
+8,Butters,Kyle,1
+9,Kyle,Santa,1
+10,Butters,Cartman,1
+11,Cartman,Jesus,1
+12,Cartman,Santa,1
+13,Butters,Santa,1
+14,Jesus,Santa,1
+15,Butters,Linda,1

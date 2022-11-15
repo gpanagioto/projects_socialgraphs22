@@ -1,0 +1,24 @@
+,source,target,weight
+0,Gerald,Randy,2
+1,Cartman,Kyle,5
+2,Butters,Kyle,2
+3,Butters,Cartman,3
+4,Gerald,Sheila,2
+5,Kyle,Stan,1
+6,Cartman,Stan,1
+7,Butters,Stan,1
+8,Stan,Wendy,1
+9,Stan,Tuong Lu Kim,1
+10,Kyle,Wendy,1
+11,Kyle,Tuong Lu Kim,1
+12,Cartman,Wendy,1
+13,Cartman,Tuong Lu Kim,1
+14,Butters,Wendy,1
+15,Butters,Tuong Lu Kim,1
+16,Tuong Lu Kim,Wendy,1
+17,Cartman,Liane,1
+18,Cartman,Gerald,2
+19,Gerald,Liane,1
+20,Kyle,Tolkien,1
+21,Cartman,Tolkien,1
+22,Gerald,Kyle,2

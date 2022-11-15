@@ -1,0 +1,11 @@
+,source,target,weight
+0,Cartman,Liane,8
+1,Kyle,Stan,9
+2,Chef,Stan,5
+3,Chef,Kyle,5
+4,Cartman,Stan,3
+5,Liane,Stan,3
+6,Cartman,Kyle,3
+7,Kyle,Liane,3
+8,Cartman,Chef,7
+9,Chef,Liane,6
