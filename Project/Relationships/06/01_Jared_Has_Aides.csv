@@ -1,37 +1,45 @@
 ,source,target,weight
-0,Kyle,Stan,15
-1,Cartman,Stan,11
-2,Stan,Tuong Lu Kim,5
-3,Cartman,Kyle,12
-4,Kyle,Tuong Lu Kim,5
-5,Cartman,Tuong Lu Kim,3
-6,Butters,Stan,11
-7,Butters,Kyle,11
-8,Butters,Cartman,12
+0,Cartman,Kyle,48
+1,Cartman,Stan,22
+2,Cartman,Tuong Lu Kim,6
+3,Kyle,Stan,30
+4,Kyle,Tuong Lu Kim,10
+5,Stan,Tuong Lu Kim,5
+6,Butters,Kyle,22
+7,Butters,Stan,11
+8,Butters,Cartman,24
 9,Butters,Tuong Lu Kim,2
-10,Kyle,Randy,2
-11,Cartman,Randy,1
-12,Chef,Stan,3
-13,Chef,Kyle,3
-14,Cartman,Chef,2
-15,Butters,Chef,2
-16,Stan,Stephen,1
-17,Linda,Stan,1
-18,Kyle,Stephen,1
-19,Kyle,Linda,1
-20,Cartman,Stephen,3
-21,Cartman,Linda,3
-22,Butters,Stephen,2
-23,Butters,Linda,2
-24,Linda,Stephen,2
-25,Chef,Jimbo,2
-26,Jimbo,Stan,1
-27,Randy,Stan,1
-28,Gerald,Stan,1
-29,Jimbo,Kyle,1
-30,Gerald,Kyle,1
-31,Jimbo,Randy,1
-32,Gerald,Jimbo,1
-33,Chef,Randy,1
-34,Chef,Gerald,1
-35,Gerald,Randy,1
+10,Cartman,Randy,2
+11,Kyle,Randy,4
+12,Cartman,Chef,8
+13,Chef,Kyle,12
+14,Chef,Stan,6
+15,Butters,Chef,4
+16,Cartman,Linda,12
+17,Cartman,Stephen,12
+18,Kyle,Linda,4
+19,Kyle,Stephen,4
+20,Linda,Stan,2
+21,Stan,Stephen,2
+22,Butters,Linda,4
+23,Butters,Stephen,4
+24,Linda,Stephen,8
+25,Chef,Jimbo,4
+26,Chef,Skeeter,4
+27,Jimbo,Skeeter,2
+28,Cartman,Terrance,2
+29,Linda,Terrance,2
+30,Gerald,Kyle,2
+31,Jimbo,Kyle,2
+32,Kyle,Skeeter,2
+33,Gerald,Stan,1
+34,Jimbo,Stan,1
+35,Randy,Stan,1
+36,Skeeter,Stan,1
+37,Chef,Gerald,2
+38,Chef,Randy,2
+39,Gerald,Jimbo,1
+40,Gerald,Randy,1
+41,Gerald,Skeeter,1
+42,Jimbo,Randy,1
+43,Randy,Skeeter,1
