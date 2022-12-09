@@ -1,0 +1,81 @@
+,source,target,weight
+0,Mr. Jarvis,Stan,12
+1,Driver,Stan,9
+2,Judge,Stan,64
+3,Morgan,Stan,12
+4,Nelson,Stan,148
+5,Coach,Stan,24
+6,Gavin,Stan,28
+7,Park County,Stan,30
+8,Adams County,Stan,16
+9,Morgan,Nelson,4
+10,Coach,Morgan,2
+11,Gavin,Morgan,2
+12,Morgan,Park County,1
+13,Adams County,Morgan,1
+14,Coach,Nelson,8
+15,Gavin,Nelson,8
+16,Nelson,Park County,4
+17,Adams County,Nelson,4
+18,Coach,Gavin,4
+19,Coach,Park County,2
+20,Adams County,Coach,2
+21,Gavin,Park County,2
+22,Adams County,Gavin,6
+23,Adams County,Park County,1
+24,Sharon,Stan,24
+25,Announcer,Denver goalie,3
+26,Crowd,Denver goalie,1
+27,Denver goalie,Kyle,1
+28,Announcer,Crowd,3
+29,Announcer,Kyle,3
+30,Crowd,Kyle,1
+31,A man,Woman,1
+32,A man,Stan,4
+33,A man,Mr. Brown,6
+34,A man,Mrs. Brown,2
+35,Stan,Woman,4
+36,Mr. Brown,Woman,6
+37,Mrs. Brown,Woman,2
+38,Mr. Brown,Stan,24
+39,Mrs. Brown,Stan,8
+40,Mr. Brown,Mrs. Brown,12
+41,Judge,Nelson,20
+42,Announcer,Stan,2
+43,Announcer,Judge,1
+44,Dr. Doctor,Nelson,30
+45,Dr. Doctor,Stan,30
+46,Dr. Doctor,Judge,10
+47,Kyle,Stan,12
+48,Kyle,Park County,4
+49,Official,Stan,30
+50,Av 1,Stan,18
+51,Av 2,Stan,6
+52,Av 3,Stan,6
+53,Stan,The Avs,6
+54,Official,Park County,5
+55,Av 1,Official,15
+56,Av 2,Official,5
+57,Av 3,Official,5
+58,Judge,Official,5
+59,Official,The Avs,5
+60,Av 1,Park County,3
+61,Av 2,Park County,1
+62,Av 3,Park County,1
+63,Judge,Park County,1
+64,Park County,The Avs,1
+65,Av 1,Av 2,3
+66,Av 1,Av 3,3
+67,Av 1,Judge,3
+68,Av 1,The Avs,3
+69,Av 2,Av 3,1
+70,Av 2,Judge,1
+71,Av 2,The Avs,1
+72,Av 3,Judge,1
+73,Av 3,The Avs,1
+74,Judge,The Avs,1
+75,Man,Stan,1
+76,Fans,Stan,1
+77,Fans,Man,1
+78,A Red Wing,Ike,1
+79,Former coach,Red Wings coach,1

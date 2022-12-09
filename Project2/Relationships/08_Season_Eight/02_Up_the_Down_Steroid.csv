@@ -1,0 +1,59 @@
+,source,target,weight
+0,Stan,Timmy,4
+1,Jimmy,Stan,6
+2,Cartman,Stan,20
+3,Kyle,Stan,16
+4,Jimmy,Timmy,130
+5,Cartman,Timmy,14
+6,Kyle,Timmy,8
+7,Cartman,Jimmy,34
+8,Jimmy,Kyle,12
+9,Cartman,Kyle,62
+10,Francis,Timmy,4
+11,Nathan,Timmy,32
+12,Francis,Jimmy,11
+13,Jimmy,Nathan,88
+14,Francis,Nathan,8
+15,Jimmy,Ryan,49
+16,Girl,Ryan,7
+17,Nancy,Ryan,7
+18,Girl,Jimmy,7
+19,Jimmy,Nancy,37
+20,Girl,Nancy,1
+21,Cartman,Liane,56
+22,Coach,Timmy,1
+23,Coach,Jimmy,2
+24,Volunteer,Woman,9
+25,Michael,Volunteer,9
+26,Cartman,Volunteer,36
+27,Liane,Volunteer,45
+28,Michael,Woman,1
+29,Cartman,Woman,4
+30,Liane,Woman,5
+31,Cartman,Michael,4
+32,Liane,Michael,5
+33,Mr. Mackey,Timmy,56
+34,Nancy,Sarah,5
+35,Jimmy,Sarah,6
+36,Host,Jimmy,15
+37,Cartman,Host,7
+38,Cartman,Volunteer 2,9
+39,Volunteer 2,Winner,3
+40,Blond Boy,Volunteer 2,3
+41,Blonde Girl,Volunteer 2,3
+42,Cartman,Winner,3
+43,Blond Boy,Cartman,3
+44,Blonde Girl,Cartman,3
+45,Blond Boy,Winner,1
+46,Blonde Girl,Winner,1
+47,Blond Boy,Blonde Girl,1
+48,Bonds,Jimmy,7
+49,Bonds,Host,2
+50,Bonds,Cartman,3
+51,Bonds,Timmy,2
+52,Bonds,McGuire,1
+53,Jimmy,McGuire,7
+54,Host,Timmy,4
+55,Host,McGuire,2
+56,Cartman,McGuire,3
+57,McGuire,Timmy,2

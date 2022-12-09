@@ -1,0 +1,121 @@
+,source,target,weight
+0,Mr. Garrison,Security Guard,1
+1,Security Guard,Voice,1
+2,Mr. Garrison,Voice,1
+3,Kyle,Sheila,64
+4,Ike,Kyle,3
+5,Both Kyles,Kyle,3
+6,Ike,Sheila,7
+7,Both Kyles,Sheila,7
+8,Both Kyles,Ike,1
+9,Clerk,Mr. Garrison,48
+10,Man,Mr. Garrison,16
+11,Mr. Garrison,People,32
+12,Clerk,Man,12
+13,Clerk,People,24
+14,Man,People,8
+15,Mr. Garrison,Mr. Hat,16
+16,Enrique Iglesias,Mr. Hat,4
+17,Enrique Iglesias,Mr. Garrison,3
+18,Cartman,Kyle,140
+19,Cartman,Stan,10
+20,Kyle,Stan,13
+21,Kyle,Ms. Choksondik,36
+22,Cartman,Ms. Choksondik,30
+23,Guests,Mr. Hat,3
+24,Mr. Hat,Steve Forbes,3
+25,Donald Trump,Mr. Hat,1
+26,Bill Gates,Mr. Hat,2
+27,Mr. Hat,Steve Jobs,2
+28,Guest 1,Mr. Hat,1
+29,Guest 2,Mr. Hat,1
+30,Guest 3,Mr. Hat,1
+31,Guest 4,Mr. Hat,1
+32,Guests,Mr. Garrison,12
+33,Mr. Garrison,Steve Forbes,12
+34,Donald Trump,Mr. Garrison,4
+35,Bill Gates,Mr. Garrison,8
+36,Mr. Garrison,Steve Jobs,8
+37,Guest 1,Mr. Garrison,4
+38,Guest 2,Mr. Garrison,4
+39,Guest 3,Mr. Garrison,4
+40,Guest 4,Mr. Garrison,4
+41,Guests,Steve Forbes,9
+42,Donald Trump,Guests,3
+43,Bill Gates,Guests,6
+44,Guests,Steve Jobs,6
+45,Guest 1,Guests,3
+46,Guest 2,Guests,3
+47,Guest 3,Guests,3
+48,Guest 4,Guests,3
+49,Donald Trump,Steve Forbes,3
+50,Bill Gates,Steve Forbes,6
+51,Steve Forbes,Steve Jobs,6
+52,Guest 1,Steve Forbes,3
+53,Guest 2,Steve Forbes,3
+54,Guest 3,Steve Forbes,3
+55,Guest 4,Steve Forbes,3
+56,Bill Gates,Donald Trump,2
+57,Donald Trump,Steve Jobs,2
+58,Donald Trump,Guest 1,1
+59,Donald Trump,Guest 2,1
+60,Donald Trump,Guest 3,1
+61,Donald Trump,Guest 4,1
+62,Bill Gates,Steve Jobs,4
+63,Bill Gates,Guest 1,2
+64,Bill Gates,Guest 2,2
+65,Bill Gates,Guest 3,2
+66,Bill Gates,Guest 4,2
+67,Guest 1,Steve Jobs,2
+68,Guest 2,Steve Jobs,2
+69,Guest 3,Steve Jobs,2
+70,Guest 4,Steve Jobs,2
+71,Guest 1,Guest 2,1
+72,Guest 1,Guest 3,1
+73,Guest 1,Guest 4,1
+74,Guest 2,Guest 3,1
+75,Guest 2,Guest 4,1
+76,Guest 3,Guest 4,1
+77,Craig's father,Mr. Garrison,4
+78,Craig's Father,Stuart,2
+79,John Travolta,Woman,1
+80,Announcer,Woman,1
+81,Announcer,John Travolta,1
+82,Jimbo,Mr. Garrison,12
+83,Jimbo,Man 1,2
+84,Jimbo,Man 2,2
+85,Jimbo,Man 3,2
+86,Jimbo,Man 4,2
+87,Man 1,Mr. Garrison,6
+88,Man 2,Mr. Garrison,6
+89,Man 3,Mr. Garrison,6
+90,Man 4,Mr. Garrison,6
+91,Man 1,Man 2,1
+92,Man 1,Man 3,1
+93,Man 1,Man 4,1
+94,Man 2,Man 3,1
+95,Man 2,Man 4,1
+96,Man 3,Man 4,1
+97,Security Guard,Stan,4
+98,Kyle,Security Guard,8
+99,Agent 1,Agent 2,1
+100,Agent 1,Mr. Garrison,5
+101,Agent 1,Agent 3,1
+102,Agent 1,Agent 4,1
+103,Agent 1,Agent 5,1
+104,Agent 1,Agent 6,1
+105,Agent 2,Mr. Garrison,5
+106,Agent 2,Agent 3,1
+107,Agent 2,Agent 4,1
+108,Agent 2,Agent 5,1
+109,Agent 2,Agent 6,1
+110,Agent 3,Mr. Garrison,5
+111,Agent 4,Mr. Garrison,5
+112,Agent 5,Mr. Garrison,5
+113,Agent 6,Mr. Garrison,5
+114,Agent 3,Agent 4,1
+115,Agent 3,Agent 5,1
+116,Agent 3,Agent 6,1
+117,Agent 4,Agent 5,1
+118,Agent 4,Agent 6,1
+119,Agent 5,Agent 6,1

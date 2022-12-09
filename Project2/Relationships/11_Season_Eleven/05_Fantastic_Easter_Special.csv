@@ -1,0 +1,99 @@
+,source,target,weight
+0,Sharon,Stan,6
+1,Cartman,Mall Bunny,12
+2,Aide,Mall Bunny,6
+3,Mall Bunny,Stan,24
+4,Aide,Cartman,2
+5,Cartman,Stan,8
+6,Aide,Stan,4
+7,Gray Hare,Stan,6
+8,Purple Hare,Stan,3
+9,Gray Hare,Purple Hare,1
+10,Hare 2,Hare 3,1
+11,Hare 2,Hare 4,1
+12,Hare 3,Hare 4,1
+13,Marvin,Stan,6
+14,Hares,Pink Hare,3
+15,Pink Hare,Stan,9
+16,Gray Hare,Pink Hare,3
+17,Pink Hare,White Hare,3
+18,Brown Hare,Pink Hare,3
+19,Layman,Pink Hare,3
+20,Hares,Stan,3
+21,Gray Hare,Hares,1
+22,Hares,White Hare,1
+23,Brown Hare,Hares,1
+24,Hares,Layman,1
+25,Stan,White Hare,3
+26,Brown Hare,Stan,3
+27,Layman,Stan,5
+28,Gray Hare,White Hare,1
+29,Brown Hare,Gray Hare,1
+30,Gray Hare,Layman,1
+31,Brown Hare,White Hare,1
+32,Layman,White Hare,1
+33,Brown Hare,Layman,1
+34,Hare 7,Stan,2
+35,Hare 7,Layman,1
+36,Kyle,Stan,47
+37,Butler,Kyle,4
+38,Butler,Teabag,5
+39,Butler,Stan,5
+40,Kyle,Teabag,57
+41,Stan,Teabag,44
+42,Layman,Pope Benedict,6
+43,Bill,Pope Benedict,85
+44,Bill,Layman,2
+45,Bill,Teabag,2
+46,Ninja 1,Teabag,4
+47,Ninja 2,Teabag,2
+48,Bill,Butler,1
+49,Butler,Ninja 1,2
+50,Butler,Ninja 2,1
+51,Bill,Stan,67
+52,Ninja 1,Stan,6
+53,Ninja 2,Stan,3
+54,Bill,Ninja 1,2
+55,Bill,Ninja 2,1
+56,Bill,Kyle,13
+57,Ninja 1,Ninja 2,2
+58,Kyle,Ninja 1,6
+59,Kyle,Ninja 2,3
+60,Reporter,Violet Hare,1
+61,Pope Benedict,Reporter,1
+62,Bill,Reporter,2
+63,Pope Benedict,Violet Hare,1
+64,Bill,Violet Hare,2
+65,Pope Benedict,Stan,48
+66,Kyle,Pope Benedict,8
+67,Jesus,Pope Benedict,48
+68,Pope Benedict,Singer,8
+69,Cardinal,Pope Benedict,8
+70,Pope Benedict,Purple Hare 2,8
+71,Jesus,Stan,42
+72,Singer,Stan,6
+73,Cardinal,Stan,8
+74,Purple Hare 2,Stan,6
+75,Bill,Jesus,66
+76,Bill,Singer,10
+77,Bill,Cardinal,12
+78,Bill,Purple Hare 2,10
+79,Jesus,Kyle,70
+80,Kyle,Singer,1
+81,Cardinal,Kyle,1
+82,Kyle,Purple Hare 2,1
+83,Jesus,Singer,6
+84,Cardinal,Jesus,9
+85,Jesus,Purple Hare 2,6
+86,Cardinal,Singer,1
+87,Purple Hare 2,Singer,1
+88,Cardinal,Purple Hare 2,1
+89,Cardinal,Tourist,1
+90,Cardinal,Crowd,1
+91,Stan,Tourist,2
+92,Crowd,Stan,2
+93,Jesus,Tourist,3
+94,Bill,Tourist,2
+95,Crowd,Tourist,1
+96,Crowd,Jesus,3
+97,Bill,Crowd,2

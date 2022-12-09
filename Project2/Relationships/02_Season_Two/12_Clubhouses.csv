@@ -1,0 +1,62 @@
+,source,target,weight
+0,Kyle,Stan,72
+1,Cartman,Stan,48
+2,Cartman,Kyle,38
+3,Stan,Wendy,36
+4,Kyle,Wendy,29
+5,Bebe,Wendy,15
+6,Phillip,Terrance,1
+7,Fat Abbot,Rudy,8
+8,Kyle,Rudy,4
+9,Rudy,Stan,2
+10,Fat Abbot,Kyle,4
+11,Fat Abbot,Stan,5
+12,Kenny,Stan,8
+13,Cartman,Kenny,27
+14,Kenny,Kyle,7
+15,Kenny,Liane,8
+16,Cartman,Liane,20
+17,Sharon,Stan,65
+18,Kyle,Mr. Twig,2
+19,Mr. Garrison,Mr. Twig,6
+20,Mr. Twig,Stan,5
+21,Class,Mr. Twig,1
+22,Cartman,Mr. Twig,2
+23,Kenny,Mr. Twig,1
+24,Mr. Twig,Wendy,1
+25,Kyle,Mr. Garrison,12
+26,Class,Kyle,2
+27,Mr. Garrison,Stan,45
+28,Class,Mr. Garrison,6
+29,Cartman,Mr. Garrison,15
+30,Kenny,Mr. Garrison,6
+31,Mr. Garrison,Wendy,6
+32,Class,Stan,5
+33,Cartman,Class,2
+34,Class,Kenny,1
+35,Class,Wendy,1
+36,Cartman,Wendy,2
+37,Kenny,Wendy,1
+38,Mr. Mackey,Stan,29
+39,Mr. Mackey,Sharon,72
+40,Bebe,Stan,13
+41,Chef,Stan,29
+42,Cartman,Donald,1
+43,Cartman,Runaway girl 2,5
+44,Cartman,Runaway girl 1,31
+45,Cartman,Sharon,5
+46,Cartman,Roy,1
+47,Roy,Stan,14
+48,Roy,Sharon,11
+49,Bebe,Kyle,21
+50,Roy,Wendy,1
+51,Runaway girl 1,Runaway girl 2,2
+52,Cartman,Guy in leather jacket,3
+53,Cartman,Guy with long hair,3
+54,Guy in leather jacket,Guy with long hair,1
+55,Guy in leather jacket,Runaway girl 1,1
+56,Guy in leather jacket,Runaway girl 2,1
+57,Guy with long hair,Runaway girl 1,1
+58,Guy with long hair,Runaway girl 2,1
+59,Bill,Fat Abbot,3
+60,Bill,Stan,1

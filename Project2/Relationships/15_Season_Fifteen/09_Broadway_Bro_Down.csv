@@ -1,0 +1,68 @@
+,source,target,weight
+0,Peter Nelson,Worker 1,13
+1,Peter Nelson,Worker 2,12
+2,Worker 1,Worker 2,5
+3,Male,Witches,2
+4,Cartman,Shelly,1
+5,Man 2,Worker 2,3
+6,Man 2,Stephen,2
+7,Stephen,Worker 2,1
+8,Sharon,Stan,4
+9,Sharon,Shelly,2
+10,Shelly,Stan,5
+11,Mr. Feegan,Shelly,9
+12,Mr. Feegan,Stan,3
+13,Females,Males,2
+14,Man 2,Worker 1,1
+15,Man 2,Peter Nelson,1
+16,Bob,Man 2,1
+17,Stephen,Worker 1,1
+18,Bob,Worker 1,1
+19,Peter Nelson,Stephen,1
+20,Bob,Peter Nelson,1
+21,Bob,Stephen,1
+22,Both,Lady 1,1
+23,Both,Man 4,3
+24,All,Both,3
+25,Both,Lady 2,1
+26,Both,Men,1
+27,Lady 1,Man 4,3
+28,All,Lady 1,3
+29,Lady 1,Lady 2,1
+30,Lady 1,Men,1
+31,All,Man 4,9
+32,Lady 2,Man 4,3
+33,Man 4,Men,3
+34,All,Lady 2,3
+35,All,Men,3
+36,Lady 2,Men,1
+37,Both,Reginald,1
+38,Reginald,Representative,2
+39,Both,Representative,2
+40,Representative,Webber,6
+41,Schwartz,Webber,12
+42,Sondheim,Webber,29
+43,Elton John,Webber,5
+44,Representative,Schwartz,6
+45,Representative,Sondheim,10
+46,Elton John,Representative,2
+47,Schwartz,Sondheim,26
+48,Elton John,Schwartz,4
+49,Elton John,Sondheim,8
+50,Larry,Shelly,1
+51,Mrs. Feegan,Sharon,6
+52,Sondheim,Spectator,8
+53,Sondheim,Spectator 2,8
+54,Spectator,Webber,1
+55,Spectator 2,Webber,1
+56,Schwartz,Spectator,1
+57,Schwartz,Spectator 2,1
+58,Spectator,Spectator 2,1
+59,Bros,Schwartz,1
+60,Bros,Sondheim,3
+61,Bros,Elton John,1
+62,Bros,Webber,2
+63,Elderly Man,Shelly,1
+64,Shelly,Usher,1
+65,Elderly Man,Usher,1
+66,Announcer,Audience,1

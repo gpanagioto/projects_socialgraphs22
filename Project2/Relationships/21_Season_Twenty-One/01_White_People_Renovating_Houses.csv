@@ -1,0 +1,102 @@
+,source,target,weight
+0,Alexa,Butters,5
+1,Alexa,Cartman,104
+2,Alexa,Ike,5
+3,Alexa,Heidi,52
+4,Alexa,Stan,5
+5,Alexa,Kyle,5
+6,Alexa,Clyde,5
+7,Alexa,Jimmy,5
+8,Butters,Cartman,21
+9,Butters,Ike,1
+10,Butters,Heidi,8
+11,Butters,Stan,1
+12,Butters,Kyle,1
+13,Butters,Clyde,3
+14,Butters,Jimmy,1
+15,Cartman,Ike,11
+16,Cartman,Heidi,146
+17,Cartman,Stan,11
+18,Cartman,Kyle,11
+19,Cartman,Clyde,16
+20,Cartman,Jimmy,11
+21,Heidi,Ike,8
+22,Ike,Stan,1
+23,Ike,Kyle,1
+24,Clyde,Ike,1
+25,Ike,Jimmy,1
+26,Heidi,Stan,8
+27,Heidi,Kyle,8
+28,Clyde,Heidi,8
+29,Heidi,Jimmy,8
+30,Kyle,Stan,1
+31,Clyde,Stan,1
+32,Jimmy,Stan,1
+33,Clyde,Kyle,1
+34,Jimmy,Kyle,1
+35,Clyde,Jimmy,1
+36,Darryl,Eddie,3
+37,Cleetus,Eddie,1
+38,Alexa,Eddie,1
+39,Cleetus,Darryl,15
+40,Alexa,Darryl,3
+41,Alexa,Cleetus,1
+42,Darryl,Protesters,22
+43,A Protester,Protesters,4
+44,A Protester,Darryl,4
+45,Protester 2,Protesters,5
+46,Protester 3,Protesters,5
+47,Protester 4,Protesters,5
+48,Protester 5,Protesters,16
+49,Protester 2,Protester 3,1
+50,Darryl,Protester 2,1
+51,Protester 2,Protester 4,1
+52,Protester 2,Protester 5,3
+53,Darryl,Protester 3,1
+54,Protester 3,Protester 4,1
+55,Protester 3,Protester 5,3
+56,Darryl,Protester 4,9
+57,Darryl,Protester 5,8
+58,Protester 4,Protester 5,11
+59,Darryl,Judge,2
+60,Darryl,Protester 6,2
+61,Darryl,Protester 7,2
+62,Judge,Protester 4,4
+63,Protester 4,Protester 6,4
+64,Protester 4,Protester 7,4
+65,Judge,Protester 6,1
+66,Judge,Protester 7,1
+67,Judge,Protester 5,2
+68,Protester 6,Protester 7,1
+69,Protester 5,Protester 6,2
+70,Protester 5,Protester 7,2
+71,Cartman,Tolkien,5
+72,Butters,Tolkien,2
+73,Clyde,Tolkien,1
+74,Protester 5,Protester 8,1
+75,Protester 8,Protester 9,1
+76,Protester 8,Protesters,1
+77,Darryl,Protester 8,1
+78,Protester 5,Protester 9,1
+79,Protester 9,Protesters,1
+80,Darryl,Protester 9,1
+81,Cartman,Liane,30
+82,Jim Bob,Liane,24
+83,Jim bob,Liane,6
+84,Cartman,Jim Bob,20
+85,Cartman,Jim bob,5
+86,Jim Bob,Jim bob,4
+87,Darryl,Sharon,12
+88,All 4 Heidi's,Heidi 3,2
+89,Cartman,Heidi 3,2
+90,All 4 Heidi's,Cartman,1
+91,Heidi,Liane,4
+92,Alexa,Siri,1
+93,Alexa,Google Home,1
+94,Alexa,Alexas,1
+95,Google Home,Siri,1
+96,Alexas,Siri,1
+97,Cartman,Siri,1
+98,Alexas,Google Home,1
+99,Cartman,Google Home,1
+100,Alexas,Cartman,1

@@ -1,0 +1,251 @@
+,source,target,weight
+0,Jimbo,Mayor,26
+1,Chef,Jimbo,67
+2,Chef,Mayor,36
+3,Cartman,Class,8
+4,Class,Kyle,4
+5,Class,Stan,2
+6,Class,Craig,2
+7,Cartman,Kyle,8
+8,Cartman,Stan,4
+9,Cartman,Craig,4
+10,Kyle,Stan,43
+11,Craig,Kyle,2
+12,Craig,Stan,1
+13,Ned,Stan,1
+14,Kyle,Ned,1
+15,Jimbo,Ned,15
+16,Jimbo,Stan,2
+17,Jimbo,Kyle,14
+18,Chef,Wendy,29
+19,Chef,Mr. Mackey,28
+20,Chef,Principal Victoria,28
+21,Chef,Man 1,28
+22,Chef,Man 2,42
+23,Chef,Man 3,28
+24,Chef,Woman 2,7
+25,Mr. Mackey,Wendy,4
+26,Principal Victoria,Wendy,4
+27,Man 1,Wendy,4
+28,Man 2,Wendy,6
+29,Man 3,Wendy,4
+30,Wendy,Woman 2,1
+31,Mr. Mackey,Principal Victoria,16
+32,Man 1,Mr. Mackey,16
+33,Man 2,Mr. Mackey,24
+34,Man 3,Mr. Mackey,16
+35,Mr. Mackey,Woman 2,4
+36,Man 1,Principal Victoria,16
+37,Man 2,Principal Victoria,24
+38,Man 3,Principal Victoria,16
+39,Principal Victoria,Woman 2,4
+40,Man 1,Man 2,24
+41,Man 1,Man 3,16
+42,Man 1,Woman 2,4
+43,Man 2,Man 3,24
+44,Man 2,Woman 2,6
+45,Man 3,Woman 2,4
+46,Stan,Wendy,3
+47,Kyle,Wendy,15
+48,Chef,Stan,20
+49,Chef,Kyle,71
+50,Cartman,Wendy,166
+51,Butters,Cartman,8
+52,Cartman,Clyde,8
+53,Butters,Wendy,5
+54,Clyde,Wendy,5
+55,Butters,Clyde,1
+56,Chef,Reporter,16
+57,Chef,Man 4,4
+58,Chef,Man 5,4
+59,Chef,Man 6,4
+60,Chef,Monk,4
+61,Chef,The KKK,16
+62,Chef,KKK Leader,12
+63,Chef,Ned,4
+64,Chef,Sheila,4
+65,Chef,Mr. Garrison,18
+66,Jimbo,Reporter,11
+67,Jimbo,Man 4,3
+68,Jimbo,Man 5,3
+69,Jimbo,Man 6,3
+70,Jimbo,Monk,3
+71,Jimbo,The KKK,13
+72,Jimbo,KKK Leader,40
+73,Jimbo,Sheila,3
+74,Jimbo,Mr. Garrison,12
+75,Mayor,Reporter,6
+76,Man 4,Mayor,2
+77,Man 5,Mayor,2
+78,Man 6,Mayor,2
+79,Mayor,Monk,2
+80,Mayor,The KKK,6
+81,KKK Leader,Mayor,4
+82,Mayor,Ned,2
+83,Mayor,Sheila,2
+84,Mayor,Mr. Garrison,6
+85,Man 4,Reporter,3
+86,Man 5,Reporter,3
+87,Man 6,Reporter,3
+88,Monk,Reporter,3
+89,Reporter,The KKK,13
+90,KKK Leader,Reporter,10
+91,Ned,Reporter,3
+92,Reporter,Sheila,3
+93,Mr. Garrison,Reporter,15
+94,Man 4,Man 5,1
+95,Man 4,Man 6,1
+96,Man 4,Monk,1
+97,Man 4,The KKK,3
+98,KKK Leader,Man 4,2
+99,Man 4,Ned,1
+100,Man 4,Sheila,1
+101,Man 4,Mr. Garrison,3
+102,Man 5,Man 6,1
+103,Man 5,Monk,1
+104,Man 5,The KKK,3
+105,KKK Leader,Man 5,2
+106,Man 5,Ned,1
+107,Man 5,Sheila,1
+108,Man 5,Mr. Garrison,3
+109,Man 6,Monk,1
+110,Man 6,The KKK,3
+111,KKK Leader,Man 6,2
+112,Man 6,Ned,1
+113,Man 6,Sheila,1
+114,Man 6,Mr. Garrison,3
+115,Monk,The KKK,3
+116,KKK Leader,Monk,2
+117,Monk,Ned,1
+118,Monk,Sheila,1
+119,Monk,Mr. Garrison,3
+120,KKK Leader,The KKK,14
+121,Ned,The KKK,5
+122,Sheila,The KKK,3
+123,Mr. Garrison,The KKK,15
+124,KKK Leader,Ned,14
+125,KKK Leader,Sheila,2
+126,KKK Leader,Mr. Garrison,12
+127,Ned,Sheila,1
+128,Mr. Garrison,Ned,3
+129,Mr. Garrison,Sheila,3
+130,Chef,Johnson,1
+131,Assistant,Chef,1
+132,Johnson,Mayor,2
+133,Assistant,Mayor,2
+134,Assistant,Johnson,1
+135,Kenny,Stan,20
+136,Gerald,Stan,15
+137,Kenny,Kyle,28
+138,Gerald,Kyle,21
+139,Gerald,Kenny,12
+140,KKK Leader,Officer Barbrady,2
+141,KKK Leader,Man 7,2
+142,KKK Leader,Man 8,2
+143,KKK Leader,Man 9,2
+144,Officer Barbrady,The KKK,2
+145,Man 7,The KKK,2
+146,Man 8,The KKK,2
+147,Man 9,The KKK,2
+148,Mr. Garrison,Officer Barbrady,3
+149,Man 7,Mr. Garrison,3
+150,Man 8,Mr. Garrison,3
+151,Man 9,Mr. Garrison,3
+152,Chef,Officer Barbrady,2
+153,Chef,Man 7,2
+154,Chef,Man 8,2
+155,Chef,Man 9,2
+156,Officer Barbrady,Reporter,2
+157,Man 7,Officer Barbrady,1
+158,Man 8,Officer Barbrady,1
+159,Man 9,Officer Barbrady,1
+160,Jimbo,Officer Barbrady,1
+161,Man 7,Reporter,2
+162,Man 8,Reporter,2
+163,Man 9,Reporter,2
+164,Man 7,Man 8,1
+165,Man 7,Man 9,1
+166,Jimbo,Man 7,1
+167,Man 8,Man 9,1
+168,Jimbo,Man 8,1
+169,Jimbo,Man 9,1
+170,Brother Anderson,Jimbo,2
+171,Jimbo,KKK Members,50
+172,Jimbo,Ticket 2974 Holder,2
+173,Brother Anderson,Ned,2
+174,KKK Members,Ned,10
+175,Ned,Ticket 2974 Holder,2
+176,Brother Anderson,The KKK,1
+177,KKK Members,The KKK,1
+178,The KKK,Ticket 2974 Holder,1
+179,Brother Anderson,KKK Leader,4
+180,KKK Leader,KKK Members,36
+181,KKK Leader,Ticket 2974 Holder,4
+182,Brother Anderson,KKK Members,1
+183,Brother Anderson,Ticket 2974 Holder,1
+184,KKK Members,Ticket 2974 Holder,1
+185,Cartman's voice,Wendy,4
+186,KKK Members,Member 1,8
+187,Member 1,Member 2,1
+188,Jimbo,Member 1,6
+189,KKK Leader,Member 1,4
+190,Member 1,Ned,1
+191,A Member,Member 1,1
+192,KKK Members,Member 2,8
+193,A Member,KKK Members,8
+194,Jimbo,Member 2,6
+195,KKK Leader,Member 2,4
+196,Member 2,Ned,1
+197,A Member,Member 2,1
+198,A Member,Jimbo,6
+199,A Member,KKK Leader,4
+200,A Member,Ned,1
+201,Bebe,Wendy,25
+202,People in Audience,Wendy,2
+203,Really Shocked Man,Wendy,2
+204,Kyle's Team,Wendy,6
+205,Mayor,Wendy,2
+206,A Few People,Wendy,2
+207,Some KKK members,Wendy,2
+208,Jimbo,Wendy,4
+209,Audience Members,Wendy,2
+210,People in Audience,Really Shocked Man,1
+211,Kyle,People in Audience,6
+212,Chef,People in Audience,11
+213,Kyle's Team,People in Audience,3
+214,Mayor,People in Audience,1
+215,A Few People,People in Audience,1
+216,People in Audience,Some KKK members,1
+217,Jimbo,People in Audience,2
+218,Audience Members,People in Audience,1
+219,Kyle,Really Shocked Man,6
+220,Chef,Really Shocked Man,11
+221,Kyle's Team,Really Shocked Man,3
+222,Mayor,Really Shocked Man,1
+223,A Few People,Really Shocked Man,1
+224,Really Shocked Man,Some KKK members,1
+225,Jimbo,Really Shocked Man,2
+226,Audience Members,Really Shocked Man,1
+227,Kyle,Kyle's Team,18
+228,Kyle,Mayor,6
+229,A Few People,Kyle,6
+230,Kyle,Some KKK members,6
+231,Audience Members,Kyle,6
+232,Chef,Kyle's Team,33
+233,A Few People,Chef,11
+234,Chef,Some KKK members,11
+235,Audience Members,Chef,11
+236,Kyle's Team,Mayor,3
+237,A Few People,Kyle's Team,3
+238,Kyle's Team,Some KKK members,3
+239,Jimbo,Kyle's Team,6
+240,Audience Members,Kyle's Team,3
+241,A Few People,Mayor,1
+242,Mayor,Some KKK members,1
+243,Audience Members,Mayor,1
+244,A Few People,Some KKK members,1
+245,A Few People,Jimbo,2
+246,A Few People,Audience Members,1
+247,Jimbo,Some KKK members,2
+248,Audience Members,Some KKK members,1
+249,Audience Members,Jimbo,2

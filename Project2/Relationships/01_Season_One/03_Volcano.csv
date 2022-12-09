@@ -1,0 +1,54 @@
+,source,target,weight
+0,Cartman,Kyle,44
+1,Cartman,Stan,60
+2,Cartman,Jimbo,37
+3,Cartman,Liane,3
+4,Kyle,Stan,45
+5,Jimbo,Kyle,21
+6,Kyle,Liane,2
+7,Jimbo,Stan,35
+8,Liane,Stan,2
+9,Jimbo,Liane,4
+10,Cartman,Kenny,2
+11,Kenny,Stan,1
+12,Jimbo,Kenny,3
+13,Ned,Stan,8
+14,Jimbo,Ned,22
+15,Kyle,Ned,7
+16,Cartman,Ned,9
+17,Johnson,Mayor McDaniels,6
+18,Chef,Mayor McDaniels,6
+19,Mayor McDaniels,Ted,3
+20,Chef,Ted,1
+21,Kenny,Ned,4
+22,Mayor McDaniels,Newscaster,7
+23,Chef,Newscaster,2
+24,Chef,Officer Barbrady,3
+25,Cartman,Newscaster,1
+26,Cartman,Mayor McDaniels,1
+27,Cartman,Patrick Duffy,1
+28,Kyle,Patrick Duffy,2
+29,Jimbo,Patrick Duffy,3
+30,Mayor McDaniels,Scuzzlebutt,2
+31,Chef,Scuzzlebutt,1
+32,Mr. Garrison,Scuzzlebutt,1
+33,Officer Barbrady,Scuzzlebutt,1
+34,Jimbo,Scuzzlebutt,1
+35,Mayor McDaniels,Mr. Garrison,1
+36,Mayor McDaniels,Officer Barbrady,1
+37,Jimbo,Mayor McDaniels,3
+38,Chef,Mr. Garrison,1
+39,Chef,Jimbo,1
+40,Mr. Garrison,Officer Barbrady,1
+41,Jimbo,Mr. Garrison,1
+42,Jimbo,Officer Barbrady,1
+43,Liane,Mayor McDaniels,1
+44,Denver citizens,Liane,1
+45,Denver citizens,Mayor McDaniels,1
+46,Newscaster,Scuzzlebutt,2
+47,Mayor McDaniels,Stan,3
+48,Mayor McDaniels,Patrick Duffy,1
+49,Kyle,Mayor McDaniels,1
+50,Mayor McDaniels,Ned,1
+51,Patrick Duffy,Stan,3
+52,Ned,Patrick Duffy,1

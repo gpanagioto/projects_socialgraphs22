@@ -1,0 +1,102 @@
+,source,target,weight
+0,Ms. Choksondik,Rancher,1
+1,Kids,Rancher,2
+2,Kyle,Rancher,5
+3,Cartman,Rancher,5
+4,Rancher,Stan,3
+5,Butters,Rancher,1
+6,Kids,Ms. Choksondik,2
+7,Kyle,Ms. Choksondik,5
+8,Cartman,Ms. Choksondik,5
+9,Ms. Choksondik,Stan,3
+10,Butters,Ms. Choksondik,1
+11,Kids,Kyle,10
+12,Cartman,Kids,10
+13,Kids,Stan,6
+14,Butters,Kids,2
+15,Cartman,Kyle,245
+16,Kyle,Stan,224
+17,Butters,Kyle,89
+18,Cartman,Stan,267
+19,Butters,Cartman,63
+20,Butters,Stan,107
+21,Officer Barbrady,Sharon,10
+22,Sharon,Shelly,12
+23,Sharon,Stan,73
+24,Butters,Sharon,36
+25,Kyle,Sharon,36
+26,Officer Barbrady,Shelly,2
+27,Officer Barbrady,Stan,6
+28,Butters,Officer Barbrady,3
+29,Kyle,Officer Barbrady,3
+30,Shelly,Stan,12
+31,Butters,Shelly,2
+32,Kyle,Shelly,2
+33,Sharon,Sheila,32
+34,Kyle,Sheila,25
+35,Sheila,Stephen,25
+36,Butters,Sheila,25
+37,Sheila,Stan,30
+38,Cartman,Sheila,10
+39,Sharon,Stephen,30
+40,Cartman,Sharon,17
+41,Kyle,Stephen,25
+42,Butters,Stephen,25
+43,Stan,Stephen,30
+44,Cartman,Stephen,10
+45,Liane,Sheila,5
+46,Liane,Sharon,2
+47,Butters,Field reporter,8
+48,Field reporter,Thomas,4
+49,Field reporter,Stan,8
+50,Field reporter,Kyle,4
+51,Butters,Thomas,2
+52,Stan,Thomas,2
+53,Kyle,Thomas,1
+54,Butters,Voices,2
+55,Butters,Hippies,4
+56,Butters,Hippie,2
+57,Kyle,Voices,2
+58,Hippies,Voices,2
+59,Cartman,Voices,2
+60,Stan,Voices,1
+61,Hippie,Voices,1
+62,Hippies,Kyle,4
+63,Hippie,Kyle,2
+64,Cartman,Hippies,9
+65,Hippies,Stan,2
+66,Hippie,Hippies,2
+67,Cartman,Hippie,2
+68,Hippie,Stan,1
+69,FBI agent,Sharon,7
+70,FBI negotiator,Sharon,1
+71,FBI agent,Officer Barbrady,13
+72,FBI agent,FBI negotiator,3
+73,FBI negotiator,Officer Barbrady,1
+74,Glen Dumont,Officer Barbrady,7
+75,Glen Dumont,Stan,30
+76,Glen Dumont,Kyle,16
+77,Cartman,Glen Dumont,110
+78,Glen Dumont,Sharon,9
+79,Glen Dumont,Sheila,1
+80,Adults,Officer Barbrady,2
+81,Adults,FBI agent,4
+82,Adults,Glen Dumont,3
+83,Adults,Sharon,1
+84,FBI agent,Glen Dumont,12
+85,FBI agent,Michael Dorn,11
+86,Cartman,Michael Dorn,28
+87,Kyle,Michael Dorn,7
+88,Michael Dorn,Stan,6
+89,Cartman,FBI agent,8
+90,FBI agent,Kyle,5
+91,FBI agent,Stan,4
+92,FBI Agents,FBI agent,1
+93,FBI agent,Hippies,1
+94,FBI Agents,Hippies,1
+95,Cartman,FBI Agents,5
+96,FBI Agents,Michael Dorn,4
+97,Hippies,Michael Dorn,4
+98,Butters,FBI agent,1
+99,Michael Dorn,Officer Barbrady,2
+100,Butters,Michael Dorn,1

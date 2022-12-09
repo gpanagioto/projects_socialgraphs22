@@ -1,0 +1,148 @@
+,source,target,weight
+0,Kyle,Stan,124
+1,Chef,Mrs. Garrison,8
+2,Gerald,Mr. Mackey,1
+3,A Man,Gerald,1
+4,A Sign-Holder,Gerald,1
+5,Chef,Gerald,1
+6,A Man,Mr. Mackey,1
+7,A Sign-Holder,Mr. Mackey,1
+8,Chef,Mr. Mackey,1
+9,A Man,A Sign-Holder,1
+10,A Man,Chef,1
+11,A Sign-Holder,Chef,1
+12,Cartman,Stan,56
+13,Cartman,Chef,68
+14,Cartman,Kyle,58
+15,Chef,Stan,107
+16,Chef,Kyle,103
+17,Chef,Jimbo,7
+18,Chef,Townsfolk,7
+19,Jimbo,Mrs. Garrison,1
+20,Mrs. Garrison,Townsfolk,1
+21,Kyle,Mrs. Garrison,1
+22,Mrs. Garrison,Stan,1
+23,Jimbo,Townsfolk,1
+24,Jimbo,Kyle,1
+25,Jimbo,Stan,1
+26,Kyle,Townsfolk,1
+27,Stan,Townsfolk,1
+28,Kenny,Stan,11
+29,Kenny,Kyle,15
+30,Cartman,Clyde,6
+31,Cartman,The Boys,10
+32,Clyde,Kyle,15
+33,Kyle,The Boys,12
+34,Clyde,Stan,9
+35,Chef,Clyde,18
+36,Clyde,The Boys,3
+37,Stan,The Boys,15
+38,Chef,The Boys,26
+39,Det. Jarvis,Kyle,16
+40,Butters,Kyle,4
+41,Kyle,The Class,2
+42,Det. Jarvis,Stan,24
+43,Butters,Det. Jarvis,16
+44,Det. Jarvis,The Class,8
+45,Butters,Stan,6
+46,Stan,The Class,3
+47,Butters,The Class,2
+48,Chef,Kenny,16
+49,Cartman,Kenny,8
+50,Butler,Kyle,24
+51,Butler,Head Adventurer,6
+52,Butler,Club Members,3
+53,Butler,Mr. Connolly,21
+54,Butler,Marksman,3
+55,Butler,Marine,3
+56,Butler,Stan,9
+57,Butler,Cartman,3
+58,Head Adventurer,Kyle,16
+59,Club Members,Kyle,8
+60,Kyle,Mr. Connolly,119
+61,Kyle,Marksman,11
+62,Kyle,Marine,8
+63,Club Members,Head Adventurer,2
+64,Head Adventurer,Mr. Connolly,14
+65,Head Adventurer,Marksman,2
+66,Head Adventurer,Marine,2
+67,Head Adventurer,Stan,6
+68,Cartman,Head Adventurer,2
+69,Club Members,Mr. Connolly,7
+70,Club Members,Marksman,1
+71,Club Members,Marine,1
+72,Club Members,Stan,3
+73,Cartman,Club Members,1
+74,Marksman,Mr. Connolly,13
+75,Marine,Mr. Connolly,7
+76,Mr. Connolly,Stan,110
+77,Cartman,Mr. Connolly,34
+78,Marine,Marksman,1
+79,Marksman,Stan,7
+80,Cartman,Marksman,3
+81,Marine,Stan,3
+82,Cartman,Marine,1
+83,Stan,Woman,4
+84,Nurse,Stan,4
+85,Chef,Woman,4
+86,Chef,Nurse,4
+87,Nurse,Woman,1
+88,Kyle,Woman,3
+89,Cartman,Woman,2
+90,Kyle,Nurse,3
+91,Cartman,Nurse,2
+92,Blaze,Chef,16
+93,Blonde,Chef,8
+94,Chef,DJ,8
+95,Chef,Spantaneous Bootay,8
+96,Chef,Mr. Connolly,33
+97,Blaze,Stan,8
+98,Blonde,Stan,4
+99,DJ,Stan,4
+100,Spantaneous Bootay,Stan,4
+101,Blaze,Kyle,4
+102,Blaze,Cartman,6
+103,Blaze,Blonde,2
+104,Blaze,DJ,2
+105,Blaze,Spantaneous Bootay,2
+106,Blaze,The Boys,4
+107,Blaze,Kenny,2
+108,Blaze,Mr. Connolly,2
+109,Blonde,Kyle,2
+110,DJ,Kyle,2
+111,Kyle,Spantaneous Bootay,2
+112,Blonde,Cartman,3
+113,Cartman,DJ,3
+114,Cartman,Spantaneous Bootay,3
+115,Blonde,DJ,1
+116,Blonde,Spantaneous Bootay,1
+117,Blonde,The Boys,2
+118,Blonde,Kenny,1
+119,Blonde,Mr. Connolly,1
+120,DJ,Spantaneous Bootay,1
+121,DJ,The Boys,2
+122,DJ,Kenny,1
+123,DJ,Mr. Connolly,1
+124,Spantaneous Bootay,The Boys,2
+125,Kenny,Spantaneous Bootay,1
+126,Mr. Connolly,Spantaneous Bootay,1
+127,Kenny,The Boys,2
+128,Mr. Connolly,The Boys,8
+129,Kenny,Mr. Connolly,1
+130,Guard 1,Mr. Connolly,10
+131,Guard 2,Mr. Connolly,10
+132,Cartman,Guard 1,1
+133,Cartman,Guard 2,1
+134,Guard 1,Stan,6
+135,Guard 2,Stan,6
+136,Guard 1,Kyle,4
+137,Guard 2,Kyle,4
+138,Guard 1,Guard 2,1
+139,Kyle,William,2
+140,Chef,William,2
+141,Cartman,William,1
+142,Kenny,William,1
+143,Stan,William,1
+144,Chef,Marksman,4
+145,Marksman,The Boys,1
+146,Kyle,Mr. Mackey,1

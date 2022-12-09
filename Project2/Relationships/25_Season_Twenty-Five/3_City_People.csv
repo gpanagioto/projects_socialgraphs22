@@ -1,0 +1,76 @@
+,source,target,weight
+0,Agent 2,Agent 3,1
+1,John,Liane,4
+2,Cartman,Liane,132
+3,Butters,Cartman,31
+4,City Man,Liane,36
+5,City Man,City Woman,19
+6,City Girl,City Man,6
+7,City Woman,Liane,18
+8,City Girl,Liane,6
+9,City Girl,City Woman,3
+10,City Man 2,Liane,5
+11,City Man 3,Liane,5
+12,City Woman 2,Liane,5
+13,Cartman,City Man 2,7
+14,Cartman,City Man 3,7
+15,Cartman,City Woman 2,5
+16,City Man 2,City Man 3,2
+17,City Man 2,City Woman 2,1
+18,City Man 3,City Woman 2,1
+19,Harriet,Mr. Adler,6
+20,Mr. Adler,Tuong Lu Kim,2
+21,Jimbo,Mr. Adler,3
+22,Mr. Adler,Tuong Lu kim,1
+23,Mayor McDaniels,Mr. Adler,4
+24,All,Mr. Adler,1
+25,Harriet,Tuong Lu Kim,4
+26,Harriet,Jimbo,6
+27,Harriet,Tuong Lu kim,2
+28,Harriet,Mayor McDaniels,8
+29,All,Harriet,2
+30,Jimbo,Tuong Lu Kim,2
+31,Tuong Lu Kim,Tuong Lu kim,1
+32,Mayor McDaniels,Tuong Lu Kim,4
+33,All,Tuong Lu Kim,1
+34,Jimbo,Tuong Lu kim,1
+35,Jimbo,Mayor McDaniels,4
+36,All,Jimbo,1
+37,Mayor McDaniels,Tuong Lu kim,1
+38,All,Tuong Lu kim,1
+39,All,Mayor McDaniels,1
+40,City Man,City Man 2,1
+41,City Man,City Man 3,1
+42,Cartman,City Man,6
+43,City Man,City Man 4,1
+44,City Man 2,City Woman,1
+45,City Man 2,City Man 4,1
+46,City Man 3,City Woman,1
+47,City Man 3,City Man 4,1
+48,Cartman,City Woman,2
+49,Cartman,City Man 4,2
+50,City Man 4,City Woman,1
+51,Cartman,Richard,10
+52,City Boy,Richard,2
+53,City Man,Richard,2
+54,Mrs. Tweak,Richard,2
+55,Cartman,City Boy,4
+56,Cartman,Mrs. Tweak,4
+57,City Boy,City Man,1
+58,City Boy,Mrs. Tweak,1
+59,City Man,Mrs. Tweak,1
+60,John,Realtor,19
+61,John,Realtors,9
+62,Realtor,Realtors,7
+63,Chris,John,9
+64,Hot Dog Owner,Realtor,1
+65,Hot Dog Owner,Realtors,4
+66,Hot Dog Owner,John,1
+67,Cartman,City People,1
+68,Jimbo,John,3
+69,John,Mr. Adler,3
+70,Harriet,John,6
+71,Jimbo,Realtor,1
+72,Mr. Adler,Realtor,1
+73,Harriet,Realtor,2
+74,Harriet,Liane,1

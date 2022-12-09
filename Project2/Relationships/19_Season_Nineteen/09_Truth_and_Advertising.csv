@@ -1,0 +1,44 @@
+,source,target,weight
+0,Cartman,Mrs. Nelson,15
+1,Cartman,Kyle,87
+2,Cartman,Mr. Mackey,10
+3,Kyle,Mrs. Nelson,15
+4,Mr. Mackey,Mrs. Nelson,6
+5,Kyle,Mr. Mackey,14
+6,Sharon,Shelly,1
+7,Sharon,Stan,1
+8,Shelly,Stan,1
+9,Jimmy,Tom,44
+10,Kevin,Tom,15
+11,Jimmy,Kevin,4
+12,Kyle,Stan,123
+13,Butters,Kyle,64
+14,Butters,Stan,55
+15,Cartman,Stan,58
+16,Butters,Cartman,29
+17,Kyle,Nathan,3
+18,Nathan,Stan,6
+19,Caitlyn,Mr. Garrison,12
+20,Mr. Garrison,Principal Victoria,4
+21,Principal Victoria,Survey worker,2
+22,Mr. Garrison,Survey worker,2
+23,Mr. Garrison,Stephen,1
+24,Jimmy,Leslie,33
+25,Butters,Kenny,4
+26,Kenny,Kyle,9
+27,Cartman,Kenny,3
+28,Kenny,Stan,6
+29,Rancher,Skeeter,4
+30,Caitlyn,Garrison,5
+31,Caitlyn,Victoria,1
+32,Garrison,Victoria,22
+33,David,Tom,2
+34,David,Kevin,1
+35,David,Leslie,1
+36,Newsman,Tom,3
+37,Kevin,Newsman,1
+38,Barbrady,Jimmy,15
+39,Barbrady,Tom,35
+40,Barbrady,Kevin,5
+41,Jimmy,Nathan,16
+42,Leslie,Nathan,4

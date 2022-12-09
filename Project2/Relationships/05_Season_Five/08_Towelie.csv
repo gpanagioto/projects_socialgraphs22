@@ -1,0 +1,108 @@
+,source,target,weight
+0,Kenny,Stan,30
+1,Kyle,Stan,271
+2,Cartman,Stan,188
+3,Sharon,Stan,59
+4,Kenny,Kyle,28
+5,Cartman,Kenny,24
+6,Kenny,Sharon,7
+7,Cartman,Kyle,148
+8,Kyle,Sharon,40
+9,Cartman,Sharon,54
+10,Kyle,Towelie,150
+11,Boys,Kyle,18
+12,Stan,Towelie,207
+13,Boys,Stan,21
+14,Cartman,Towelie,120
+15,Boys,Cartman,14
+16,Kenny,Towelie,17
+17,Boys,Kenny,3
+18,Sharon,Towelie,3
+19,Boys,Towelie,18
+20,Boys,Sharon,4
+21,Boys,TV,2
+22,Cartman,TV,4
+23,Kyle,TV,2
+24,Stan,Voice,10
+25,Kyle,Voice,6
+26,Cartman,Voice,4
+27,Man,Stan,18
+28,Official,Stan,54
+29,Man 2,Stan,9
+30,Soldier 1,Stan,9
+31,Soldier 2,Stan,18
+32,Guard,Stan,28
+33,Soldier,Stan,17
+34,Soldier 3,Stan,9
+35,Man,Towelie,6
+36,Official,Towelie,18
+37,Man 2,Towelie,3
+38,Soldier 1,Towelie,3
+39,Soldier 2,Towelie,6
+40,Guard,Towelie,8
+41,Soldier,Towelie,7
+42,Soldier 3,Towelie,3
+43,Man,Official,12
+44,Kyle,Man,4
+45,Man,Man 2,2
+46,Man,Soldier 1,2
+47,Man,Soldier 2,4
+48,Guard,Man,4
+49,Man,Soldier,2
+50,Man,Soldier 3,2
+51,Kyle,Official,12
+52,Man 2,Official,6
+53,Official,Soldier 1,6
+54,Official,Soldier 2,12
+55,Guard,Official,12
+56,Official,Soldier,6
+57,Official,Soldier 3,6
+58,Kyle,Man 2,2
+59,Kyle,Soldier 1,2
+60,Kyle,Soldier 2,4
+61,Guard,Kyle,12
+62,Kyle,Soldier,8
+63,Kyle,Soldier 3,2
+64,Man 2,Soldier 1,1
+65,Man 2,Soldier 2,2
+66,Guard,Man 2,2
+67,Man 2,Soldier,1
+68,Man 2,Soldier 3,1
+69,Soldier 1,Soldier 2,2
+70,Guard,Soldier 1,2
+71,Soldier,Soldier 1,1
+72,Soldier 1,Soldier 3,1
+73,Guard,Soldier 2,4
+74,Soldier,Soldier 2,2
+75,Soldier 2,Soldier 3,2
+76,Guard,Soldier,2
+77,Guard,Soldier 3,2
+78,Soldier,Soldier 3,1
+79,Soldier,Woman,2
+80,Mr. Garrison,Soldier,6
+81,Research leader,Stan,82
+82,Kyle,Research leader,52
+83,Cartman,Research leader,32
+84,Sgt. Boll,Sgt. Masters,4
+85,Research leader,Towelie,22
+86,Guard,Research leader,4
+87,Cartman,Soldier,2
+88,Official 2,Research leader,2
+89,GS-401,Research leader,38
+90,GS-401,Official 2,1
+91,GS-401,Towelie,45
+92,GS-401,Stan,54
+93,GS-401,Kyle,45
+94,Cartman,GS-401,54
+95,GS-401,Zytar,27
+96,Boys,GS-401,9
+97,GS-401,Kenny,18
+98,Towelie,Zytar,15
+99,Research leader,Zytar,12
+100,Boys,Research leader,4
+101,Kenny,Research leader,8
+102,Stan,Zytar,18
+103,Kyle,Zytar,15
+104,Cartman,Zytar,18
+105,Boys,Zytar,3
+106,Kenny,Zytar,6

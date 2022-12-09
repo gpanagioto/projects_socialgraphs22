@@ -1,0 +1,63 @@
+,source,target,weight
+0,Clyde,Stan,15
+1,Clyde,Kyle,9
+2,Clyde,Craig,3
+3,Clyde,Tolkien,3
+4,Clyde,Jimmy,6
+5,Cartman,Clyde,3
+6,Kyle,Stan,24
+7,Craig,Stan,5
+8,Stan,Tolkien,5
+9,Jimmy,Stan,10
+10,Cartman,Stan,227
+11,Craig,Kyle,3
+12,Kyle,Tolkien,3
+13,Jimmy,Kyle,6
+14,Cartman,Kyle,18
+15,Craig,Tolkien,1
+16,Craig,Jimmy,2
+17,Cartman,Craig,1
+18,Jimmy,Tolkien,2
+19,Cartman,Tolkien,1
+20,Cartman,Jimmy,2
+21,Jack,Sharon,4
+22,Jack,Stan,4
+23,Jack,Tom,1
+24,Jack,Naked Man,4
+25,Sharon,Stan,101
+26,Sharon,Tom,4
+27,Naked Man,Sharon,16
+28,Stan,Tom,4
+29,Naked Man,Stan,16
+30,Naked Man,Tom,4
+31,Sharon,Singer,4
+32,Singer,Stan,5
+33,Butters,Stan,285
+34,Butters,Linda,30
+35,Linda,Stan,37
+36,A Voice,Mr. Brooks,3
+37,A Voice,Director,4
+38,A Voice,Josh,2
+39,A Voice,Mrs. Brooks,3
+40,Director,Mr. Brooks,12
+41,Josh,Mr. Brooks,6
+42,Mr. Brooks,Mrs. Brooks,9
+43,Director,Josh,8
+44,Director,Mrs. Brooks,12
+45,Josh,Mrs. Brooks,6
+46,Butters,Cartman,142
+47,Director,Sharon,4
+48,Cartman,Felipe,12
+49,Carlos,Felipe,4
+50,Butters,Felipe,4
+51,Carlos,Cartman,12
+52,Butters,Carlos,4
+53,Butters,Stephen,35
+54,Butters,Sharon,14
+55,Cartman,Stephen,5
+56,Cartman,Linda,4
+57,Cartman,Sharon,2
+58,Stan,Stephen,45
+59,Linda,Stephen,20
+60,Sharon,Stephen,10
+61,Linda,Sharon,8

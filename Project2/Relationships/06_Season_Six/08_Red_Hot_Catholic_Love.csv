@@ -1,0 +1,154 @@
+,source,target,weight
+0,Linda,Richard,6
+1,Cartman,Tweek,36
+2,Richard,Stuart,2
+3,Sharon,Stuart,1
+4,Priest Maxi,Stuart,1
+5,All,Stuart,1
+6,Stephen,Stuart,1
+7,Richard,Sharon,8
+8,Priest Maxi,Richard,4
+9,All,Richard,9
+10,Richard,Stephen,4
+11,Priest Maxi,Sharon,1
+12,All,Sharon,5
+13,Sharon,Stephen,1
+14,All,Priest Maxi,1
+15,Priest Maxi,Stephen,1
+16,All,Stephen,3
+17,Boys,Counselor,15
+18,Boys,Stan,6
+19,Boys,Butters,6
+20,Boys,Cartman,3
+21,Counselor,Stan,10
+22,Butters,Counselor,10
+23,Cartman,Counselor,5
+24,Butters,Stan,4
+25,Cartman,Stan,62
+26,Butters,Cartman,2
+27,Richard,Roger,5
+28,Linda,Roger,3
+29,All,Roger,4
+30,Roger,Stephen,4
+31,All,Linda,3
+32,Linda,Stephen,2
+33,Cartman,Kyle,167
+34,Cartman,Chef,20
+35,Cartman,Parents,20
+36,Cartman,Richard,14
+37,Kyle,Tweek,38
+38,Kyle,Stan,60
+39,Chef,Kyle,22
+40,Kyle,Parents,22
+41,Kyle,Richard,15
+42,Stan,Tweek,14
+43,Chef,Tweek,6
+44,Parents,Tweek,6
+45,Richard,Tweek,3
+46,Chef,Stan,8
+47,Parents,Stan,8
+48,Richard,Stan,4
+49,Chef,Parents,4
+50,Chef,Richard,2
+51,Parents,Richard,2
+52,Elderly priest,Priest 1,16
+53,Priest 1,Priest 2,12
+54,Priest 1,Priest Maxi,32
+55,Fat priest,Priest 1,4
+56,Other priests,Priest 1,8
+57,Priest 1,Priest 3,4
+58,Priest 1,Priest 4,4
+59,Elderly priest,Priest 2,12
+60,Elderly priest,Priest Maxi,32
+61,Elderly priest,Fat priest,4
+62,Elderly priest,Other priests,8
+63,Elderly priest,Priest 3,4
+64,Elderly priest,Priest 4,4
+65,Priest 2,Priest Maxi,24
+66,Fat priest,Priest 2,3
+67,Other priests,Priest 2,6
+68,Priest 2,Priest 3,3
+69,Priest 2,Priest 4,3
+70,Fat priest,Priest Maxi,8
+71,Other priests,Priest Maxi,16
+72,Priest 3,Priest Maxi,8
+73,Priest 4,Priest Maxi,8
+74,Fat priest,Other priests,2
+75,Fat priest,Priest 3,1
+76,Fat priest,Priest 4,1
+77,Other priests,Priest 3,2
+78,Other priests,Priest 4,2
+79,Priest 3,Priest 4,1
+80,Cartman,Craig,10
+81,Craig,Stan,4
+82,Craig,Kyle,6
+83,Italian cardinal,Priest Maxi,59
+84,Italian cardinal,Other Cardinals,5
+85,French cardinal,Italian cardinal,9
+86,Italian cardinal,Moroccan cardinal,5
+87,British cardinal,Italian cardinal,13
+88,Italian cardinal,The Clergy,5
+89,Gelgamek cardinal,Italian cardinal,9
+90,Other Cardinals,Priest Maxi,5
+91,French cardinal,Priest Maxi,19
+92,Moroccan cardinal,Priest Maxi,5
+93,British cardinal,Priest Maxi,17
+94,Priest Maxi,The Clergy,5
+95,Gelgamek cardinal,Priest Maxi,19
+96,French cardinal,Other Cardinals,1
+97,Moroccan cardinal,Other Cardinals,1
+98,British cardinal,Other Cardinals,1
+99,Other Cardinals,The Clergy,1
+100,Gelgamek cardinal,Other Cardinals,1
+101,French cardinal,Moroccan cardinal,1
+102,British cardinal,French cardinal,1
+103,French cardinal,The Clergy,1
+104,French cardinal,Gelgamek cardinal,5
+105,British cardinal,Moroccan cardinal,1
+106,Moroccan cardinal,The Clergy,1
+107,Gelgamek cardinal,Moroccan cardinal,1
+108,British cardinal,The Clergy,1
+109,British cardinal,Gelgamek cardinal,1
+110,Gelgamek cardinal,The Clergy,1
+111,Sharon,Stan,8
+112,Another cardinal,French cardinal,4
+113,A Bishop,French cardinal,2
+114,Another cardinal,Priest Maxi,14
+115,A Bishop,Priest Maxi,7
+116,Another cardinal,Gelgamek cardinal,4
+117,Another cardinal,Italian cardinal,4
+118,A Bishop,Another cardinal,2
+119,A Bishop,Gelgamek cardinal,2
+120,A Bishop,Italian cardinal,2
+121,News anchor,Tweek,3
+122,Surgeon General,Tweek,1
+123,Cartman,News anchor,15
+124,Cartman,Surgeon General,5
+125,News anchor,Stan,6
+126,Stan,Surgeon General,2
+127,Kyle,News anchor,15
+128,Kyle,Surgeon General,5
+129,News anchor,Surgeon General,3
+130,FBI agent,Martha Stewart,2
+131,Old monk,Priest Maxi,12
+132,Linda,Sharon,2
+133,Roger,Sharon,2
+134,British cardinal,The clergy,2
+135,British cardinal,Queen Spider,4
+136,A bishop,British cardinal,2
+137,Priest Maxi,The clergy,5
+138,Priest Maxi,Queen Spider,10
+139,A bishop,Priest Maxi,5
+140,Italian cardinal,The clergy,4
+141,Italian cardinal,Queen Spider,8
+142,A bishop,Italian cardinal,4
+143,Queen Spider,The clergy,2
+144,A bishop,The clergy,1
+145,A bishop,Queen Spider,2
+146,A Man,Kyle,4
+147,Kyle,Linda,4
+148,A Man,Cartman,4
+149,Cartman,Linda,4
+150,A Man,Linda,1
+151,A Man,Richard,1
+152,British cardinal,Richard,1

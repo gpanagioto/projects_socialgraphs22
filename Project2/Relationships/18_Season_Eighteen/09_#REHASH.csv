@@ -1,0 +1,67 @@
+,source,target,weight
+0,Gerald,Kyle,6
+1,Ike,PewDiePie,20
+2,Kyle,PewDiePie,26
+3,Ike,Kyle,20
+4,Butters,Kyle,15
+5,Butters,Cartman,16
+6,Cartman,Kyle,72
+7,Announcer,MJ Hologram,1
+8,Kyle,Stan,28
+9,Kenny,Stan,1
+10,Kenny,Kyle,2
+11,Sharon,Shelly,15
+12,Cartman,Stan,12
+13,Iggy,Record producer,12
+14,Kids,Kyle,6
+15,Conner,Kyle,3
+16,Kid 1,Kyle,3
+17,Kid 2,Kyle,6
+18,Kids,PewDiePie,4
+19,Butters,PewDiePie,2
+20,Cartman,PewDiePie,2
+21,PewDiePie,Stan,8
+22,Conner,PewDiePie,2
+23,Kid 1,PewDiePie,2
+24,Kid 2,PewDiePie,4
+25,Butters,Kids,2
+26,Cartman,Kids,2
+27,Kids,Stan,8
+28,Conner,Kids,2
+29,Kid 1,Kids,2
+30,Kid 2,Kids,4
+31,Butters,Stan,4
+32,Butters,Conner,1
+33,Butters,Kid 1,1
+34,Butters,Kid 2,2
+35,Cartman,Conner,1
+36,Cartman,Kid 1,1
+37,Cartman,Kid 2,2
+38,Conner,Stan,4
+39,Kid 1,Stan,4
+40,Kid 2,Stan,8
+41,Conner,Kid 1,1
+42,Conner,Kid 2,2
+43,Kid 1,Kid 2,2
+44,MJ Hologram,Nicki,1
+45,Audience,Wendy,4
+46,Audience,Cartman,4
+47,Cartman,Wendy,16
+48,Guard 1,MJ Hologram,2
+49,Sharon,Stan,1
+50,MJ Hologram,Passenger,56
+51,Record producer,Tech 3,15
+52,Record producer,Tech 4,9
+53,Record producer,Tech 2,3
+54,Tech 3,Tech 4,15
+55,Tech 2,Tech 3,5
+56,Tech 2,Tech 4,3
+57,Kyle,Mr. Garrison,15
+58,Kyle,Mr. Mackey,5
+59,Cartman,Mr. Garrison,21
+60,Cartman,Mr. Mackey,7
+61,Butters,Mr. Garrison,6
+62,Mr. Garrison,Mr. Mackey,3
+63,Butters,Mr. Mackey,2
+64,Cartman,Principal Victoria,2
+65,Sharon,Tupac's Hologram,3

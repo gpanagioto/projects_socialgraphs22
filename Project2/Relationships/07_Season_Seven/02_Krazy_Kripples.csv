@@ -1,0 +1,117 @@
+,source,target,weight
+0,Butters,Jimmy,20
+1,Reeve,Townspeople,4
+2,Jimmy,Reeve,24
+3,Cartman,Reeve,4
+4,Reeve,Stan,12
+5,Kyle,Reeve,8
+6,Reeve,Timmy,12
+7,Jimmy,Townspeople,6
+8,Cartman,Townspeople,1
+9,Stan,Townspeople,3
+10,Kyle,Townspeople,2
+11,Timmy,Townspeople,3
+12,Cartman,Jimmy,26
+13,Jimmy,Stan,33
+14,Jimmy,Kyle,22
+15,Jimmy,Timmy,191
+16,Cartman,Stan,15
+17,Cartman,Kyle,10
+18,Cartman,Timmy,7
+19,Kyle,Stan,13
+20,Stan,Timmy,12
+21,Kyle,Timmy,8
+22,Jimmy,McGillicuddy,20
+23,King,Reeve,9
+24,Bum,Jimmy,4
+25,Bum,Timmy,2
+26,Officer,Timmy,14
+27,Driver,Timmy,7
+28,Jimmy,Officer,26
+29,Driver,Jimmy,13
+30,Driver,Officer,2
+31,Crip 1,Crips,1
+32,Crip 1,Jimmy,2
+33,Cipac,Crip 1,1
+34,Crip 1,Timmy,1
+35,Crips,Jimmy,2
+36,Cipac,Crips,1
+37,Crips,Timmy,1
+38,Cipac,Jimmy,4
+39,Cipac,Timmy,3
+40,Jimmy,Pops,9
+41,Crowd,Reeve,1
+42,Reporter,Stan,1
+43,Kyle,Reporter,1
+44,Jimmy,Mr. Kim,56
+45,Mr. Kim,Timmy,32
+46,Jimmy,Mamsie,14
+47,Jimmy,Ryan,31
+48,Mamsie,Pops,2
+49,Pops,Ryan,3
+50,Mamsie,Ryan,6
+51,Aide,Man,1
+52,Aide,Reeve,5
+53,Aide,Hackman,4
+54,Man,Reeve,5
+55,Hackman,Man,4
+56,Hackman,Reeve,38
+57,Blood,Jimmy,28
+58,Blood,Hyde,8
+59,Blood,Richardson,4
+60,Blood,Ryan,2
+61,Blood,Timmy,7
+62,Hyde,Jimmy,40
+63,Jimmy,Richardson,20
+64,Hyde,Richardson,8
+65,Hyde,Ryan,4
+66,Hyde,Timmy,12
+67,Richardson,Ryan,2
+68,Richardson,Timmy,6
+69,Ryan,Timmy,3
+70,Gerald,Liane,1
+71,Gerald,Reporter,3
+72,Gerald,Hackman,3
+73,Gerald,Reeve,3
+74,Liane,Reporter,3
+75,Hackman,Liane,3
+76,Liane,Reeve,3
+77,Hackman,Reporter,9
+78,Reeve,Reporter,9
+79,Janitor,Jimmy,3
+80,Janitor,Mr. Appleby,2
+81,Jimmy,Mr. Appleby,6
+82,Crip,Jimmy,10
+83,Crip,Timmy,2
+84,Dr. Doom,Saddam Hussein,1
+85,Dr. Doom,Reeve,3
+86,Dr. Doom,Professor Chaos,1
+87,Dr. Doom,Hackman,3
+88,Reeve,Saddam Hussein,3
+89,Professor Chaos,Saddam Hussein,1
+90,Hackman,Saddam Hussein,3
+91,Professor Chaos,Reeve,3
+92,Hackman,Professor Chaos,3
+93,Blood 4,Jimmy,16
+94,Blood 6,Jimmy,8
+95,Jimmy,Someone,8
+96,All,Jimmy,8
+97,Blood 4,Blood 6,2
+98,Blood 4,Someone,2
+99,All,Blood 4,2
+100,Blood,Blood 4,2
+101,Blood 4,Crip,2
+102,Blood 4,Timmy,2
+103,Blood 6,Someone,1
+104,All,Blood 6,1
+105,Blood,Blood 6,1
+106,Blood 6,Crip,1
+107,Blood 6,Timmy,1
+108,All,Someone,1
+109,Blood,Someone,1
+110,Crip,Someone,1
+111,Someone,Timmy,1
+112,All,Blood,1
+113,All,Crip,1
+114,All,Timmy,1
+115,Blood,Crip,1

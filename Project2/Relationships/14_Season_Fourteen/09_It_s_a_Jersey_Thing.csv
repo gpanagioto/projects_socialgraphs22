@@ -1,0 +1,92 @@
+,source,target,weight
+0,Gerald,Sheila,5
+1,Gerald,Ike,3
+2,Gerald,Kyle,4
+3,Ike,Sheila,18
+4,Kyle,Sheila,44
+5,Ike,Kyle,16
+6,Sharon,Teresa,23
+7,Joe,Sharon,7
+8,Joe,Teresa,8
+9,Cartman,Kyle,111
+10,Cartman,Stan,46
+11,Cartman,Jersey Man,6
+12,Kyle,Stan,39
+13,Jersey Man,Kyle,2
+14,Jersey Man,Stan,2
+15,Teresa,Woman 1,2
+16,Jacqueline,Woman 1,1
+17,Caroline,Woman 1,1
+18,Salon Girl,Woman 1,1
+19,Jacqueline,Teresa,10
+20,Caroline,Teresa,14
+21,Salon Girl,Teresa,6
+22,Caroline,Jacqueline,7
+23,Jacqueline,Salon Girl,3
+24,Caroline,Salon Girl,4
+25,Caroline,Sharon,9
+26,Caroline,Sheila,9
+27,Salon Girl,Sharon,3
+28,Salon Girl,Sheila,3
+29,Sheila,Teresa,12
+30,Jacqueline,Sharon,6
+31,Sharon,Sheila,10
+32,Jacqueline,Sheila,6
+33,Jimbo,Mr. Garrison,2
+34,All,Mr. Garrison,1
+35,Mr. Garrison,Sheila,1
+36,All,Jimbo,2
+37,Jimbo,Sheila,2
+38,All,Sheila,1
+39,Kenny,Kyle,8
+40,Kenny,Stan,5
+41,Cartman,Kenny,12
+42,P-Train,Reporter,2
+43,P-Train,Tan Jovi,4
+44,Reporter,Tan Jovi,2
+45,Mr. Garrison,Stuart,1
+46,Stephen,Stuart,2
+47,Bar Patron 1,Stuart,2
+48,Mr. Garrison,Stephen,2
+49,Bar Patron 1,Mr. Garrison,2
+50,Bar Patron 1,Stephen,4
+51,Bar Patron 2,Barbrady,3
+52,Barbrady,Jimbo,1
+53,Barbrady,Snooki,2
+54,Barbrady,Stephen,2
+55,Bar Patron 2,Jimbo,3
+56,Bar Patron 2,Snooki,6
+57,Bar Patron 2,Stephen,6
+58,Jimbo,Snooki,2
+59,Jimbo,Stephen,2
+60,Snooki,Stephen,4
+61,Butters,Cartman,12
+62,Snooki,Stan,14
+63,Cartman,Snooki,18
+64,Kenny,Snooki,1
+65,Kyle,Snooki,17
+66,Jimbo,The Situation,3
+67,Gerald,The Situation,3
+68,Sharon,The Situation,3
+69,Jersey People,The Situation,3
+70,Jersey Man 2,The Situation,3
+71,Jersey Woman,The Situation,3
+72,Gerald,Jimbo,1
+73,Jimbo,Sharon,1
+74,Jersey People,Jimbo,1
+75,Jersey Man 2,Jimbo,1
+76,Jersey Woman,Jimbo,1
+77,Gerald,Sharon,1
+78,Gerald,Jersey People,1
+79,Gerald,Jersey Man 2,1
+80,Gerald,Jersey Woman,1
+81,Jersey People,Sharon,1
+82,Jersey Man 2,Sharon,1
+83,Jersey Woman,Sharon,1
+84,Jersey Man 2,Jersey People,1
+85,Jersey People,Jersey Woman,1
+86,Jersey Man 2,Jersey Woman,1
+87,Butters,Snooki,3
+88,Butters,Stan,4
+89,Butters,Kyle,4
+90,Jimbo,Stuart,1

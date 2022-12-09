@@ -1,0 +1,181 @@
+,source,target,weight
+0,Lolly,Stan,20
+1,Cartman,Stan,149
+2,Kyle,Stan,110
+3,Cartman,Lolly,25
+4,Kyle,Lolly,10
+5,Cartman,Kyle,146
+6,Stan,Stuart,7
+7,Carol,Stan,12
+8,Kyle,Stuart,10
+9,Carol,Stuart,8
+10,Cartman,Stuart,12
+11,Carol,Kyle,14
+12,Carol,Cartman,16
+13,Robot Guard,Stan,1
+14,Cartman,Robot Guard,1
+15,Kyle,Robot Guard,1
+16,Sharon,Stan,10
+17,Jimbo,Stan,5
+18,Sheila,Stan,9
+19,Gerald,Stan,12
+20,Jimbo,Sharon,2
+21,Sharon,Sheila,3
+22,Gerald,Sharon,3
+23,Jimbo,Sheila,5
+24,Gerald,Jimbo,2
+25,Gerald,Sheila,4
+26,Mr. Garrison,Sheila,1
+27,Mayor McDaniels,Sheila,1
+28,Field reporter,Sheila,1
+29,Sheila,Townsman,1
+30,Kyle,Sheila,6
+31,Cartman,Sheila,7
+32,Jimbo,Mr. Garrison,1
+33,Jimbo,Mayor McDaniels,1
+34,Field reporter,Jimbo,1
+35,Jimbo,Townsman,1
+36,Jimbo,Kyle,1
+37,Cartman,Jimbo,2
+38,Mayor McDaniels,Mr. Garrison,1
+39,Field reporter,Mr. Garrison,1
+40,Mr. Garrison,Townsman,1
+41,Kyle,Mr. Garrison,1
+42,Cartman,Mr. Garrison,2
+43,Mr. Garrison,Stan,1
+44,Field reporter,Mayor McDaniels,1
+45,Mayor McDaniels,Townsman,1
+46,Kyle,Mayor McDaniels,1
+47,Cartman,Mayor McDaniels,2
+48,Mayor McDaniels,Stan,1
+49,Field reporter,Townsman,1
+50,Field reporter,Kyle,6
+51,Cartman,Field reporter,5
+52,Field reporter,Stan,5
+53,Kyle,Townsman,1
+54,Cartman,Townsman,2
+55,Stan,Townsman,1
+56,SNN reporter,Woman 1,2
+57,Fat man,Woman 1,1
+58,SNN correspondent,Woman 1,1
+59,Fat man,SNN reporter,3
+60,SNN correspondent,SNN reporter,2
+61,Fat man,SNN correspondent,1
+62,Man 1,Stan,2
+63,Stan,Woman 2,2
+64,Alan Jackson,Stan,8
+65,Man 2,Stan,2
+66,General,Stan,10
+67,Soldiers,Stan,2
+68,Man 1,Woman 2,1
+69,Alan Jackson,Man 1,2
+70,Gerald,Man 1,1
+71,Man 1,Man 2,1
+72,General,Man 1,1
+73,Man 1,Soldiers,1
+74,Kyle,Man 1,1
+75,Cartman,Man 1,1
+76,Alan Jackson,Woman 2,2
+77,Gerald,Woman 2,1
+78,Man 2,Woman 2,1
+79,General,Woman 2,1
+80,Soldiers,Woman 2,1
+81,Kyle,Woman 2,1
+82,Cartman,Woman 2,1
+83,Alan Jackson,Gerald,2
+84,Alan Jackson,Man 2,2
+85,Alan Jackson,General,4
+86,Alan Jackson,Soldiers,2
+87,Alan Jackson,Kyle,7
+88,Alan Jackson,Cartman,5
+89,Gerald,Man 2,1
+90,General,Gerald,1
+91,Gerald,Soldiers,1
+92,Gerald,Kyle,11
+93,Cartman,Gerald,11
+94,General,Man 2,1
+95,Man 2,Soldiers,1
+96,Kyle,Man 2,1
+97,Cartman,Man 2,1
+98,General,Soldiers,1
+99,General,Kyle,11
+100,Cartman,General,7
+101,Kyle,Soldiers,1
+102,Cartman,Soldiers,1
+103,Kenny,Stan,9
+104,Cartman,Kenny,18
+105,Kenny,Kyle,3
+106,Bush,General,17
+107,Dick Cheney,General,5
+108,Bush,Dick Cheney,3
+109,Redneck,War protester,1
+110,Fat man,War protester,1
+111,SNN reporter,War protester,1
+112,Fat man,Redneck,1
+113,Redneck,SNN reporter,1
+114,Carol,Gerald,4
+115,Gerald,Stuart,2
+116,Gerald,Liane,2
+117,Liane,Stan,4
+118,Kyle,Sharon,10
+119,Carol,Sharon,2
+120,Cartman,Sharon,8
+121,Sharon,Stuart,1
+122,Liane,Sharon,1
+123,Kyle,Liane,5
+124,Carol,Sheila,2
+125,Sheila,Stuart,1
+126,Liane,Sheila,1
+127,Carol,Liane,2
+128,Cartman,Liane,5
+129,Liane,Stuart,1
+130,Cartman,Nurse,8
+131,Boyfriend,Nurse,2
+132,Nurse,Woman,2
+133,Nurse,Steven,2
+134,Boyfriend,Cartman,4
+135,Cartman,Woman,4
+136,Cartman,Steven,4
+137,Boyfriend,Woman,1
+138,Boyfriend,Steven,1
+139,Steven,Woman,1
+140,Bush,Indian ambassador,3
+141,Natsako Semu,Nobunaga,1
+142,Sharon,Some guy,1
+143,General,Sharon,2
+144,Field reporter,Sharon,1
+145,Johnson,Sharon,1
+146,Crowd,Sharon,1
+147,Bush,Sharon,1
+148,Alan Jackson,Sharon,1
+149,Some guy,Stan,4
+150,Johnson,Stan,4
+151,Crowd,Stan,4
+152,Bush,Stan,4
+153,General,Some guy,2
+154,Kyle,Some guy,5
+155,Cartman,Some guy,3
+156,Field reporter,Some guy,1
+157,Johnson,Some guy,1
+158,Crowd,Some guy,1
+159,Bush,Some guy,1
+160,Alan Jackson,Some guy,1
+161,Field reporter,General,2
+162,General,Johnson,2
+163,Crowd,General,2
+164,Johnson,Kyle,5
+165,Crowd,Kyle,5
+166,Bush,Kyle,5
+167,Cartman,Johnson,3
+168,Cartman,Crowd,3
+169,Bush,Cartman,3
+170,Field reporter,Johnson,1
+171,Crowd,Field reporter,1
+172,Bush,Field reporter,1
+173,Alan Jackson,Field reporter,1
+174,Crowd,Johnson,1
+175,Bush,Johnson,1
+176,Alan Jackson,Johnson,1
+177,Bush,Crowd,1
+178,Alan Jackson,Crowd,1
+179,Alan Jackson,Bush,1

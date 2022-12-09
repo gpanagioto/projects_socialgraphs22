@@ -1,0 +1,199 @@
+,source,target,weight
+0,Mr. Garrison,Mr. Slave,2
+1,Cartman,Mr. Slave,8
+2,Cartman,Mr. Garrison,2
+3,Kyle,Stan,54
+4,Kyle,Protesters,12
+5,Kyle,Mr. Mackey,14
+6,A voice,Kyle,3
+7,Kyle,Tom,9
+8,Cartman,Kyle,72
+9,Kyle,Skeeter,19
+10,Kyle,Stuart,15
+11,Kyle,Supporters,11
+12,Protesters,Stan,16
+13,Mr. Mackey,Stan,18
+14,A voice,Stan,3
+15,Stan,Tom,9
+16,Cartman,Stan,55
+17,Skeeter,Stan,22
+18,Stan,Stuart,18
+19,Stan,Supporters,15
+20,Mr. Mackey,Protesters,14
+21,A voice,Protesters,2
+22,Protesters,Tom,6
+23,Cartman,Protesters,4
+24,Protesters,Skeeter,10
+25,Protesters,Stuart,6
+26,Protesters,Supporters,10
+27,A voice,Mr. Mackey,2
+28,Mr. Mackey,Tom,6
+29,Cartman,Mr. Mackey,8
+30,Mr. Mackey,Skeeter,20
+31,Mr. Mackey,Stuart,7
+32,Mr. Mackey,Supporters,10
+33,A voice,Tom,3
+34,A voice,Cartman,2
+35,A voice,Skeeter,2
+36,A voice,Stuart,1
+37,A voice,Supporters,1
+38,Cartman,Tom,6
+39,Skeeter,Tom,6
+40,Stuart,Tom,3
+41,Supporters,Tom,3
+42,Cartman,Skeeter,12
+43,Cartman,Stuart,6
+44,Cartman,Supporters,2
+45,Skeeter,Stuart,16
+46,Skeeter,Supporters,8
+47,Stuart,Supporters,7
+48,Butters,Mr. Garrison,2
+49,Butters,Class,1
+50,Class,Mr. Garrison,2
+51,Kenny,Kyle,10
+52,Kyle,Mr. Slave,4
+53,Cartman,Kenny,7
+54,Kenny,Stan,11
+55,Mr. Slave,Stan,3
+56,Kenny,Mr. Slave,1
+57,Jimbo,Protesters,3
+58,Protester,Protesters,1
+59,Gerald,Protesters,3
+60,Protesters,Townsfolk,1
+61,Jimbo,Protester,3
+62,Jimbo,Stuart,4
+63,Gerald,Jimbo,5
+64,Jimbo,Townsfolk,4
+65,Jimbo,Skeeter,12
+66,Protester,Stuart,1
+67,Gerald,Protester,1
+68,Protester,Townsfolk,1
+69,Protester,Skeeter,1
+70,Gerald,Stuart,10
+71,Stuart,Townsfolk,3
+72,Gerald,Townsfolk,4
+73,Gerald,Skeeter,13
+74,Skeeter,Townsfolk,6
+75,Mayor McDaniels,Skeeter,12
+76,Gerald,Mayor McDaniels,4
+77,Mayor McDaniels,Stuart,2
+78,Mayor McDaniels,Mr. Mackey,3
+79,Mayor McDaniels,Townsfolk,2
+80,Jimbo,Mayor McDaniels,3
+81,Gerald,Mr. Mackey,5
+82,Mr. Mackey,Townsfolk,2
+83,Jimbo,Mr. Mackey,2
+84,Kyle,TV OH,3
+85,Cartman,TV OH,5
+86,Stan,TV OH,3
+87,Cartman,Official messenger boy,30
+88,Dr. Doctor,Liane,3
+89,Dr. Doctor,Kyle,2
+90,Dr. Doctor,Stan,1
+91,Kyle,Liane,6
+92,Liane,Stan,3
+93,Cartman,Jefferson,22
+94,Jefferson,Official messenger boy,8
+95,Kenny,Protesters,2
+96,Protester 1,Protesters,1
+97,Protester 2,Protesters,1
+98,Protester 3,Protesters,1
+99,Gerald,Kyle,8
+100,Kyle,Protester 1,3
+101,Kyle,Protester 2,3
+102,Kyle,Protester 3,3
+103,Gerald,Stan,10
+104,Protester 1,Stan,4
+105,Protester 2,Stan,4
+106,Protester 3,Stan,4
+107,Kenny,Mr. Mackey,2
+108,Mr. Mackey,Protester 1,1
+109,Mr. Mackey,Protester 2,1
+110,Mr. Mackey,Protester 3,1
+111,Gerald,Supporters,4
+112,Gerald,Kenny,4
+113,Gerald,Protester 1,2
+114,Gerald,Protester 2,2
+115,Gerald,Protester 3,2
+116,Kenny,Supporters,4
+117,Protester 1,Supporters,2
+118,Protester 2,Supporters,2
+119,Protester 3,Supporters,2
+120,Kenny,Skeeter,4
+121,Protester 1,Skeeter,2
+122,Protester 2,Skeeter,2
+123,Protester 3,Skeeter,2
+124,Kenny,Stuart,6
+125,Protester 1,Stuart,3
+126,Protester 2,Stuart,3
+127,Protester 3,Stuart,3
+128,Kenny,Protester 1,2
+129,Kenny,Protester 2,2
+130,Kenny,Protester 3,2
+131,Protester 1,Protester 2,1
+132,Protester 1,Protester 3,1
+133,Protester 2,Protester 3,1
+134,Cartman,Hancock,6
+135,Adams,Cartman,7
+136,Adams,Hancock,10
+137,Skeeter,Somebody,6
+138,Mr. Mackey,Somebody,1
+139,Jimbo,Somebody,1
+140,Mayor McDaniels,Somebody,1
+141,Congressman 1,Dickinson,2
+142,Congressman 2,Dickinson,4
+143,Cartman,Dickinson,6
+144,Congressman 1,Congressman 2,1
+145,Cartman,Congressman 1,1
+146,Cartman,Congressman 2,3
+147,Mr. Mackey,Sharon,3
+148,Protesters,Sharon,3
+149,Sharon,Stan,2
+150,Kyle,Sharon,1
+151,Sharon,Skeeter,1
+152,Sharon,Supporters,2
+153,Adams,Dickinson,4
+154,Congressman,Dickinson,2
+155,Congressmen,Dickinson,2
+156,Dickinson,Hancock,4
+157,Dickinson,Franklin,4
+158,Dickinson,Jefferson,2
+159,Adams,Congressman,2
+160,Adams,Congressmen,2
+161,Adams,Franklin,4
+162,Adams,Jefferson,2
+163,Adams,Congressman 2,2
+164,Congressman,Congressmen,1
+165,Cartman,Congressman,2
+166,Congressman,Hancock,2
+167,Congressman,Franklin,2
+168,Congressman,Jefferson,1
+169,Congressman,Congressman 2,1
+170,Cartman,Congressmen,2
+171,Congressmen,Hancock,2
+172,Congressmen,Franklin,2
+173,Congressmen,Jefferson,1
+174,Congressman 2,Congressmen,1
+175,Cartman,Franklin,4
+176,Franklin,Hancock,4
+177,Hancock,Jefferson,2
+178,Congressman 2,Hancock,2
+179,Franklin,Jefferson,2
+180,Congressman 2,Franklin,2
+181,Congressman 2,Jefferson,1
+182,Cartman,Townsman,4
+183,Stan,Townsman,2
+184,Kyle,Townsman,2
+185,Skeeter,Townsman,2
+186,Gerald,Townsman,1
+187,Mr. Mackey,Townsman,1
+188,Stuart,Townsman,1
+189,Townsfolk,Townsman,1
+190,Cartman,Gerald,4
+191,Cartman,Townsfolk,4
+192,Stan,Townsfolk,2
+193,Kyle,Townsfolk,2
+194,Everybody,Skeeter,4
+195,Everybody,Stuart,2
+196,Everybody,Stan,2
+197,Everybody,Kyle,2

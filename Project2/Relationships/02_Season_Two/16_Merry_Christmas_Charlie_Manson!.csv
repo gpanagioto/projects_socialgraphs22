@@ -1,0 +1,248 @@
+,source,target,weight
+0,Sharon,Stan,19
+1,Shelly,Stan,4
+2,Sharon,Shelly,8
+3,Cartman,Liane,117
+4,Kyle,Liane,105
+5,Liane,Stuart,8
+6,Kenny,Liane,4
+7,Liane,Stan,63
+8,Liane,Sheila,4
+9,Cartman,Kyle,199
+10,Cartman,Stuart,8
+11,Cartman,Kenny,12
+12,Cartman,Stan,144
+13,Cartman,Sheila,4
+14,Kyle,Stuart,4
+15,Kenny,Kyle,9
+16,Kyle,Stan,141
+17,Kyle,Sheila,2
+18,Kenny,Stuart,2
+19,Stan,Stuart,8
+20,Sheila,Stuart,2
+21,Kenny,Stan,9
+22,Kenny,Sheila,1
+23,Sheila,Stan,4
+24,Liane,Man,5
+25,Everyone,Liane,5
+26,Liane,Uncle Stinky,5
+27,Florence,Liane,15
+28,Kyle,Man,3
+29,Everyone,Kyle,3
+30,Kyle,Uncle Stinky,3
+31,Florence,Kyle,14
+32,Cartman,Man,8
+33,Cartman,Everyone,8
+34,Cartman,Uncle Stinky,8
+35,Cartman,Florence,21
+36,Everyone,Man,1
+37,Man,Uncle Stinky,1
+38,Florence,Man,2
+39,Man,Stan,2
+40,Everyone,Uncle Stinky,1
+41,Everyone,Florence,2
+42,Everyone,Stan,2
+43,Florence,Uncle Stinky,2
+44,Stan,Uncle Stinky,2
+45,Florence,Stan,10
+46,Elvin,Stan,14
+47,Howard,Stan,80
+48,All,Stan,5
+49,Elvin,Liane,10
+50,Howard,Liane,10
+51,All,Liane,5
+52,Elvin,Kyle,24
+53,Howard,Kyle,62
+54,All,Kyle,8
+55,Cartman,Elvin,20
+56,Cartman,Howard,78
+57,All,Cartman,5
+58,Elvin,Howard,10
+59,Elvin,Florence,2
+60,All,Elvin,2
+61,Florence,Howard,3
+62,All,Howard,2
+63,All,Florence,1
+64,Inmate,Stan,5
+65,Inmate,Kyle,5
+66,Cartman,Inmate,8
+67,Howard,Inmate,4
+68,Howard,Manson,74
+69,Announcer,Howard,3
+70,George Bailey,Howard,9
+71,Announcer,Manson,1
+72,George Bailey,Manson,6
+73,Manson,Stan,87
+74,Cartman,Manson,61
+75,Kyle,Manson,52
+76,Announcer,George Bailey,1
+77,Announcer,Stan,1
+78,Announcer,Cartman,20
+79,Announcer,Kyle,1
+80,George Bailey,Stan,3
+81,Cartman,George Bailey,7
+82,George Bailey,Kyle,4
+83,Cartman,The Adults,7
+84,Cartman,Stinky,13
+85,Announcer,The Adults,4
+86,Announcer,Stinky,7
+87,Stinky,The Adults,3
+88,Reporter,Stinky,1
+89,Elvin,Stinky,1
+90,Announcer,Reporter,1
+91,Reporter,The Adults,1
+92,Cartman,Reporter,2
+93,Elvin,Reporter,1
+94,Announcer,Elvin,1
+95,Elvin,The Adults,1
+96,Elvin,George Bailey,1
+97,Elvin,Manson,6
+98,Liane,Sharon,12
+99,Liane,Shelly,3
+100,Kid,Stan,5
+101,Kid,Kyle,10
+102,Cartman,Kid,4
+103,Elvin,Kid,1
+104,Kid,Manson,1
+105,Kenny,Kid,1
+106,Elvin,Kenny,1
+107,Kenny,Manson,8
+108,Kyle,Mall Hankey,60
+109,Hankey Elf,Kyle,6
+110,Kids,Kyle,24
+111,Kid 1,Kyle,6
+112,Girl,Kyle,12
+113,Kyle,Mother,6
+114,Kyle,Security Guard 1,6
+115,Mall Hankey,Stan,30
+116,Hankey Elf,Mall Hankey,10
+117,Kids,Mall Hankey,40
+118,Kid 1,Mall Hankey,10
+119,Girl,Mall Hankey,20
+120,Mall Hankey,Mother,10
+121,Kid,Mall Hankey,10
+122,Mall Hankey,Security Guard 1,10
+123,Hankey Elf,Stan,3
+124,Kids,Stan,12
+125,Kid 1,Stan,3
+126,Girl,Stan,6
+127,Mother,Stan,3
+128,Security Guard 1,Stan,3
+129,Hankey Elf,Kids,4
+130,Hankey Elf,Kid 1,1
+131,Girl,Hankey Elf,2
+132,Hankey Elf,Mother,1
+133,Hankey Elf,Kid,1
+134,Hankey Elf,Security Guard 1,1
+135,Kid 1,Kids,4
+136,Girl,Kids,8
+137,Kids,Mother,4
+138,Kid,Kids,4
+139,Kids,Security Guard 1,4
+140,Girl,Kid 1,2
+141,Kid 1,Mother,1
+142,Kid,Kid 1,1
+143,Kid 1,Security Guard 1,1
+144,Girl,Mother,2
+145,Girl,Kid,2
+146,Girl,Security Guard 1,2
+147,Kid,Mother,1
+148,Mother,Security Guard 1,1
+149,Kid,Security Guard 1,1
+150,Cartman,Officer 2,4
+151,Manson,Officer 2,7
+152,Kyle,Officer 2,3
+153,Officer 2,Stan,3
+154,Kenny,Officer 2,1
+155,Officer 2,The Boys,1
+156,Officer,Officer 2,2
+157,Cartman,The Boys,4
+158,Cartman,Officer,8
+159,Manson,The Boys,7
+160,Manson,Officer,16
+161,Kyle,The Boys,3
+162,Kyle,Officer,7
+163,Stan,The Boys,3
+164,Officer,Stan,7
+165,Kenny,The Boys,1
+166,Kenny,Officer,2
+167,Officer,The Boys,2
+168,Elvin,Officer,1
+169,Big Blonde,Manson,1
+170,Harold,Manson,4
+171,Manson,Stinky,1
+172,Manson,Terrance,1
+173,Manson,Phillip,1
+174,Big Blonde,Cartman,1
+175,Cartman,Harold,2
+176,Cartman,Terrance,1
+177,Cartman,Phillip,1
+178,Big Blonde,Harold,2
+179,Big Blonde,Stan,1
+180,Big Blonde,Stinky,1
+181,Big Blonde,Terrance,1
+182,Big Blonde,Phillip,1
+183,Big Blonde,Howard,1
+184,Harold,Stan,3
+185,Harold,Stinky,2
+186,Harold,Terrance,2
+187,Harold,Phillip,2
+188,Harold,Howard,7
+189,Stan,Stinky,1
+190,Stan,Terrance,1
+191,Phillip,Stan,1
+192,Stinky,Terrance,1
+193,Phillip,Stinky,1
+194,Howard,Stinky,1
+195,Phillip,Terrance,5
+196,Howard,Terrance,1
+197,Howard,Phillip,1
+198,Officer,Police Chief,1
+199,Howard,Officer,5
+200,Harold,Officer,2
+201,Howard,Police Chief,2
+202,Manson,Police Chief,1
+203,Harold,Police Chief,1
+204,Chief Stevens,Sharon,11
+205,Kyle,Sharon,3
+206,Howard,Sharon,3
+207,Manson,Sharon,6
+208,Robert Pooner,Stan,4
+209,Howard,Robert Pooner,3
+210,Florence,Robert Pooner,1
+211,Howard,The Adults,3
+212,Chief Stevens,Howard,17
+213,Harold,The Adults,1
+214,Chief Stevens,Harold,1
+215,Manson,The Adults,1
+216,Chief Stevens,Manson,36
+217,Stan,The Adults,1
+218,Chief Stevens,The Adults,1
+219,Officer,The Adults,1
+220,Chief Stevens,Stan,22
+221,Chief Stevens,Officer,1
+222,Chief Stevens,Kyle,14
+223,Chief Stevens,Cops,7
+224,Blond Cop,Chief Stevens,7
+225,Cartman,Chief Stevens,7
+226,Chief Stevens,Robert Pooner,7
+227,Cops,Manson,5
+228,Blond Cop,Manson,5
+229,Manson,Robert Pooner,5
+230,Cops,Kyle,2
+231,Blond Cop,Kyle,2
+232,Kyle,Robert Pooner,2
+233,Blond Cop,Cops,1
+234,Cops,Howard,2
+235,Cartman,Cops,1
+236,Cops,Stan,3
+237,Cops,Sharon,1
+238,Cops,Robert Pooner,1
+239,Blond Cop,Howard,2
+240,Blond Cop,Cartman,1
+241,Blond Cop,Stan,3
+242,Blond Cop,Sharon,1
+243,Blond Cop,Robert Pooner,1
+244,Cartman,Sharon,1
+245,Cartman,Robert Pooner,1
+246,Robert Pooner,Sharon,1

@@ -1,0 +1,45 @@
+,source,target,weight
+0,Cartman,Kyle,12
+1,Butters,Cartman,21
+2,Cartman,Craig,25
+3,Cartman,Wendy,78
+4,Cartman,Red,35
+5,Butters,Craig,3
+6,Butters,Kyle,1
+7,Butters,Wendy,8
+8,Butters,Red,4
+9,Craig,Kyle,2
+10,Craig,Wendy,13
+11,Craig,Red,6
+12,Kyle,Wendy,5
+13,Kyle,Red,2
+14,Red,Wendy,18
+15,Cartman,Principal Victoria,57
+16,Mr. Garrison,Mr. Mackey,3
+17,Mr. Mackey,Principal Victoria,2
+18,Mr. Garrison,Principal Victoria,6
+19,Cartman,Sia,14
+20,Sia,Wendy,4
+21,Principal Victoria,Sia,6
+22,Red,Sia,2
+23,Principal Victoria,Wendy,6
+24,Principal Victoria,Red,3
+25,Cartman,Designer,4
+26,Record Producer,Ron,12
+27,Butters,Stan,3
+28,Cartman,Stan,4
+29,Cartman,Jenny,3
+30,Cartman,Jason,3
+31,Jenny,Red,2
+32,Jason,Red,2
+33,Jenny,Wendy,3
+34,Jason,Wendy,3
+35,Craig,Jenny,1
+36,Craig,Jason,1
+37,Jason,Jenny,1
+38,Butters,Jenny,1
+39,Butters,Jason,1
+40,Principal Victoria,Stan,1
+41,Boss,Carol,6
+42,Butters,Clyde,4
+43,Cartman,Clyde,4

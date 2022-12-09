@@ -1,0 +1,151 @@
+,source,target,weight
+0,Hollis,Marvin,19
+1,Ethiopians,Marvin,8
+2,Ethiopian,Marvin,5
+3,Chief,Marvin,5
+4,Ethiopians,Hollis,4
+5,Ethiopian,Hollis,2
+6,Chief,Hollis,2
+7,Ethiopian,Ethiopians,1
+8,Chief,Ethiopians,1
+9,Chief,Ethiopian,1
+10,Agent 1,Sphinx,1
+11,Agent 1,Mr. Garrison,2
+12,Agent 1,Cartman,1
+13,Agent 1,Kyle,1
+14,Agent 1,Connelly,1
+15,Agent 1,Kenny,1
+16,Mr. Garrison,Sphinx,2
+17,Cartman,Sphinx,58
+18,Kyle,Sphinx,37
+19,Connelly,Sphinx,69
+20,Kenny,Sphinx,9
+21,Cartman,Mr. Garrison,2
+22,Kyle,Mr. Garrison,2
+23,Connelly,Mr. Garrison,2
+24,Kenny,Mr. Garrison,2
+25,Cartman,Kyle,111
+26,Cartman,Connelly,79
+27,Cartman,Kenny,12
+28,Connelly,Kyle,45
+29,Kenny,Kyle,14
+30,Connelly,Kenny,13
+31,Kyle,Stan,107
+32,Cartman,Stan,102
+33,Sphinx,Stan,33
+34,Connelly,Stan,44
+35,Man 1,Man 2,1
+36,Crowd,Man 1,2
+37,Man 1,Marvin,3
+38,Man 1,Man 3,1
+39,Man 1,Man 4,1
+40,Man 1,Mayor,5
+41,Man 1,Man 5,1
+42,Man 1,Woman,1
+43,Crowd,Man 2,2
+44,Man 2,Marvin,3
+45,Man 2,Man 3,1
+46,Man 2,Man 4,1
+47,Man 2,Mayor,5
+48,Man 2,Man 5,1
+49,Man 2,Woman,1
+50,Crowd,Marvin,6
+51,Crowd,Man 3,2
+52,Crowd,Man 4,2
+53,Crowd,Mayor,10
+54,Crowd,Man 5,2
+55,Crowd,Woman,2
+56,Man 3,Marvin,3
+57,Man 4,Marvin,3
+58,Marvin,Mayor,15
+59,Man 5,Marvin,3
+60,Marvin,Woman,3
+61,Man 3,Man 4,1
+62,Man 3,Mayor,5
+63,Man 3,Man 5,1
+64,Man 3,Woman,1
+65,Man 4,Mayor,5
+66,Man 4,Man 5,1
+67,Man 4,Woman,1
+68,Man 5,Mayor,5
+69,Mayor,Woman,5
+70,Man 5,Woman,1
+71,Stan,The Boys,4
+72,Connelly,The Boys,8
+73,Cartman,The Boys,8
+74,Kyle,The Boys,4
+75,Sphinx,The Boys,4
+76,Connelly,Sally,44
+77,Sally,Sphinx,24
+78,Cartman,Pat,5
+79,Boys,Cartman,12
+80,Cartman,Marvin,39
+81,Cartman,Singer,14
+82,Kyle,Pat,7
+83,Kenny,Pat,1
+84,Boys,Pat,1
+85,Marvin,Pat,4
+86,Pat,Stan,5
+87,Pat,Singer,2
+88,Boys,Kyle,20
+89,Kyle,Marvin,66
+90,Kyle,Singer,26
+91,Boys,Kenny,1
+92,Kenny,Marvin,6
+93,Kenny,Stan,11
+94,Kenny,Singer,2
+95,Boys,Marvin,12
+96,Boys,Stan,14
+97,Boys,Singer,4
+98,Marvin,Stan,50
+99,Marvin,Singer,12
+100,Singer,Stan,16
+101,Hollis,Man,3
+102,Connelly,Hollis,12
+103,Hollis,Sphinx,11
+104,Connelly,Man,2
+105,Man,Sphinx,1
+106,Marvin,Sphinx,12
+107,Connelly,Marvin,11
+108,Hollis,Stan,11
+109,Hollis,Kyle,21
+110,Cartman,Hollis,16
+111,Pat,Susan,4
+112,FBI agent,Sphinx,3
+113,Connelly,FBI agent,5
+114,FBI agent,Kyle,3
+115,FBI agent,Marvin,1
+116,FBI agent,Stan,3
+117,Cartman,FBI agent,3
+118,FBI agent,Kenny,2
+119,Ethiopians,Kyle,6
+120,Kyle,The boys,6
+121,Marvin,The boys,2
+122,Boys,Hollis,2
+123,Hollis,Singer,2
+124,Hollis,The boys,1
+125,Boys,Ethiopians,1
+126,Boys,The boys,1
+127,Ethiopians,Stan,3
+128,Cartman,Ethiopians,3
+129,Ethiopians,Singer,2
+130,Ethiopians,The boys,1
+131,Stan,The boys,3
+132,Cartman,The boys,2
+133,Singer,The boys,2
+134,Kenny,Sally,4
+135,Cartman,Crew,1
+136,Crew,Ethiopians,1
+137,Crew,Marvin,1
+138,Crew,Hollis,1
+139,Computer,Stan,2
+140,Sally,Stan,12
+141,Computer,Kyle,3
+142,Kyle,Sally,18
+143,Computer,Sally,6
+144,Computer,Connelly,1
+145,Computer,Hollis,2
+146,Cartman,Computer,5
+147,Computer,Sphinx,1
+148,Hollis,Sally,12
+149,Cartman,Sally,30

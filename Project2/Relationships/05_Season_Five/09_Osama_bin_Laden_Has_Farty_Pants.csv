@@ -1,0 +1,246 @@
+,source,target,weight
+0,Butters,Cartman,20
+1,Cartman,Stan,154
+2,Cartman,Kyle,101
+3,Cartman,Officer Barbrady,16
+4,Butters,Stan,15
+5,Butters,Kyle,10
+6,Butters,Officer Barbrady,20
+7,Kyle,Stan,123
+8,Officer Barbrady,Stan,12
+9,Kyle,Officer Barbrady,8
+10,Cartman,Ms. Choksondik,15
+11,Ms. Choksondik,Wendy,6
+12,Cartman,Wendy,10
+13,Sharon,Stan,8
+14,Hazmat man,Stan,8
+15,Official,Stan,32
+16,Stan,Two SWAT men,8
+17,Stan,Tweek,8
+18,Richard,Stan,8
+19,Goat,Stan,86
+20,People,Stan,8
+21,Blond Man,Stan,8
+22,Man 1,Stan,8
+23,Brunet Man,Stan,8
+24,Johnson,Stan,8
+25,Kenny,Stan,14
+26,Hazmat man,Official,4
+27,Hazmat man,Two SWAT men,1
+28,Hazmat man,Tweek,1
+29,Hazmat man,Richard,1
+30,Goat,Hazmat man,4
+31,Hazmat man,People,1
+32,Blond Man,Hazmat man,1
+33,Hazmat man,Man 1,1
+34,Brunet Man,Hazmat man,1
+35,Hazmat man,Johnson,1
+36,Cartman,Hazmat man,2
+37,Hazmat man,Kyle,2
+38,Hazmat man,Kenny,1
+39,Official,Two SWAT men,4
+40,Official,Tweek,4
+41,Official,Richard,4
+42,Goat,Official,16
+43,Official,People,4
+44,Blond Man,Official,4
+45,Man 1,Official,4
+46,Brunet Man,Official,4
+47,Johnson,Official,4
+48,Cartman,Official,8
+49,Kyle,Official,8
+50,Kenny,Official,4
+51,Tweek,Two SWAT men,1
+52,Richard,Two SWAT men,1
+53,Goat,Two SWAT men,4
+54,People,Two SWAT men,1
+55,Blond Man,Two SWAT men,1
+56,Man 1,Two SWAT men,1
+57,Brunet Man,Two SWAT men,1
+58,Johnson,Two SWAT men,1
+59,Cartman,Two SWAT men,2
+60,Kyle,Two SWAT men,2
+61,Kenny,Two SWAT men,1
+62,Richard,Tweek,1
+63,Goat,Tweek,4
+64,People,Tweek,1
+65,Blond Man,Tweek,1
+66,Man 1,Tweek,1
+67,Brunet Man,Tweek,1
+68,Johnson,Tweek,1
+69,Cartman,Tweek,2
+70,Kyle,Tweek,2
+71,Kenny,Tweek,1
+72,Goat,Richard,4
+73,People,Richard,1
+74,Blond Man,Richard,1
+75,Man 1,Richard,1
+76,Brunet Man,Richard,1
+77,Johnson,Richard,1
+78,Cartman,Richard,2
+79,Kyle,Richard,2
+80,Kenny,Richard,1
+81,Goat,People,4
+82,Blond Man,Goat,4
+83,Goat,Man 1,4
+84,Brunet Man,Goat,4
+85,Goat,Johnson,4
+86,Cartman,Goat,40
+87,Goat,Kyle,33
+88,Goat,Kenny,10
+89,Blond Man,People,1
+90,Man 1,People,1
+91,Brunet Man,People,1
+92,Johnson,People,1
+93,Cartman,People,2
+94,Kyle,People,2
+95,Kenny,People,1
+96,Blond Man,Man 1,1
+97,Blond Man,Brunet Man,1
+98,Blond Man,Johnson,1
+99,Blond Man,Cartman,2
+100,Blond Man,Kyle,2
+101,Blond Man,Kenny,1
+102,Brunet Man,Man 1,1
+103,Johnson,Man 1,1
+104,Cartman,Man 1,2
+105,Kyle,Man 1,2
+106,Kenny,Man 1,1
+107,Brunet Man,Johnson,1
+108,Brunet Man,Cartman,2
+109,Brunet Man,Kyle,2
+110,Brunet Man,Kenny,1
+111,Cartman,Johnson,2
+112,Johnson,Kyle,2
+113,Johnson,Kenny,1
+114,Cartman,Kenny,11
+115,Kenny,Kyle,9
+116,Postman,Stan,18
+117,Stan,Towelie,36
+118,Stan,The Boys,14
+119,Cartman,Postman,12
+120,Kyle,Postman,6
+121,Goat,Postman,3
+122,Postman,Towelie,18
+123,Postman,The Boys,6
+124,Cartman,Towelie,24
+125,Cartman,The Boys,11
+126,Kyle,Towelie,12
+127,Kyle,The Boys,6
+128,Goat,Towelie,6
+129,Goat,The Boys,4
+130,The Boys,Towelie,12
+131,Soldier 1,Stan,8
+132,Stan,Tony,33
+133,Soldier,Stan,6
+134,Soldier 2,Stan,4
+135,Soldier 3,Stan,12
+136,Soldier 4,Stan,4
+137,Soldiers,Stan,8
+138,Soldier 1,Tony,16
+139,Soldier,Soldier 1,2
+140,Goat,Soldier 1,8
+141,Soldier 1,Soldier 2,2
+142,Soldier 1,Soldier 3,6
+143,Soldier 1,Soldier 4,2
+144,Soldier 1,Soldiers,2
+145,Soldier,Tony,8
+146,Goat,Tony,33
+147,Soldier 2,Tony,9
+148,Soldier 3,Tony,24
+149,Soldier 4,Tony,8
+150,Soldiers,Tony,9
+151,Goat,Soldier,4
+152,Soldier,Soldier 2,1
+153,Soldier,Soldier 3,3
+154,Soldier,Soldier 4,1
+155,Soldier,Soldiers,2
+156,Goat,Soldier 2,4
+157,Goat,Soldier 3,12
+158,Goat,Soldier 4,4
+159,Goat,Soldiers,6
+160,Soldier 2,Soldier 3,3
+161,Soldier 2,Soldier 4,1
+162,Soldier 2,Soldiers,2
+163,Soldier 3,Soldier 4,3
+164,Soldier 3,Soldiers,3
+165,Soldier 4,Soldiers,1
+166,Goat,Pilot,8
+167,Boys,Goat,2
+168,Pilot,Stan,8
+169,Boys,Stan,2
+170,Cartman,Pilot,12
+171,Boys,Cartman,3
+172,Pilot,The Boys,2
+173,Kyle,Pilot,10
+174,Kenny,Pilot,6
+175,Boys,Pilot,2
+176,Kenny,The Boys,2
+177,Boys,The Boys,1
+178,Boys,Kyle,2
+179,Boys,Kenny,2
+180,Kyle,Soldiers,6
+181,Kenny,Soldiers,1
+182,Pilot,Soldiers,2
+183,Cartman,Soldiers,5
+184,Kyle,Performer,1
+185,Performer,Stan,2
+186,Cartman,Performer,1
+187,Akmarh,Stan,64
+188,Fat Boy,Stan,11
+189,Boy in Blue Vest,Stan,23
+190,Protester,Stan,11
+191,Akmarh,Goat,10
+192,Akmarh,Cartman,39
+193,Akmarh,Kyle,39
+194,Akmarh,Fat Boy,17
+195,Akmarh,Boy in Blue Vest,22
+196,Akmarh,Protester,5
+197,Fat Boy,Goat,2
+198,Boy in Blue Vest,Goat,3
+199,Goat,Protester,2
+200,Cartman,Fat Boy,7
+201,Boy in Blue Vest,Cartman,21
+202,Cartman,Protester,7
+203,Fat Boy,Kyle,6
+204,Boy in Blue Vest,Kyle,19
+205,Kyle,Protester,6
+206,Boy in Blue Vest,Fat Boy,7
+207,Fat Boy,Protester,1
+208,Boy in Blue Vest,Protester,1
+209,Cartman,Voice,2
+210,Cartman,Osama bin Laden,41
+211,Cameraman,Cartman,2
+212,Osama bin Laden,Voice,3
+213,Kyle,Voice,1
+214,Goat,Voice,1
+215,Cameraman,Voice,1
+216,Stan,Voice,1
+217,Kyle,Osama bin Laden,24
+218,Goat,Osama bin Laden,3
+219,Cameraman,Osama bin Laden,3
+220,Osama bin Laden,Stan,14
+221,Cameraman,Kyle,1
+222,Cameraman,Goat,1
+223,Cameraman,Stan,1
+224,General,Tony,1
+225,General,Soldier 2,1
+226,General,Soldiers,2
+227,Boy in Blue Vest,Osama bin Laden,14
+228,Boy in Blue Vest,Tony,1
+229,General,Osama bin Laden,4
+230,Osama bin Laden,Soldiers,4
+231,Osama bin Laden,Soldier,4
+232,Akmarh,Osama bin Laden,8
+233,Cartman,General,2
+234,Cartman,Soldier,2
+235,General,Kyle,3
+236,General,Soldier,1
+237,Boy in Blue Vest,General,2
+238,Akmarh,General,2
+239,General,Stan,2
+240,Boy in Blue Vest,Soldiers,2
+241,Akmarh,Soldiers,2
+242,Kyle,Soldier,3
+243,Boy in Blue Vest,Soldier,2
+244,Akmarh,Soldier,2

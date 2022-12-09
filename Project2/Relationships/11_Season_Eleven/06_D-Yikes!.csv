@@ -1,0 +1,265 @@
+,source,target,weight
+0,Kyle,Mrs. Garrison,23
+1,Kyle,Stan,19
+2,Cartman,Kyle,36
+3,Butters,Kyle,4
+4,Mrs. Garrison,Stan,21
+5,Cartman,Mrs. Garrison,23
+6,Butters,Mrs. Garrison,11
+7,Cartman,Stan,20
+8,Butters,Stan,4
+9,Butters,Cartman,4
+10,Kenny,Kyle,7
+11,Cartman,Kenny,6
+12,Kenny,Stan,3
+13,Laborer 1,Laborer 2,33
+14,Cartman,Laborer 1,36
+15,Laborer 1,Laborer 3,8
+16,Laborer 1,Laborer 4,19
+17,Laborer 1,Laborer 5,19
+18,Laborer 1,Stan,15
+19,Cartman,Laborer 2,20
+20,Laborer 2,Laborer 3,6
+21,Laborer 2,Laborer 4,11
+22,Laborer 2,Laborer 5,10
+23,Laborer 2,Stan,7
+24,Cartman,Laborer 3,4
+25,Cartman,Laborer 4,8
+26,Cartman,Laborer 5,12
+27,Laborer 3,Laborer 4,5
+28,Laborer 3,Laborer 5,2
+29,Laborer 3,Stan,1
+30,Laborer 4,Laborer 5,5
+31,Laborer 4,Stan,3
+32,Laborer 5,Stan,5
+33,Mrs. Garrison,Woman,9
+34,Allyson,Woman,9
+35,Janet,Woman,6
+36,Allyson,Mrs. Garrison,9
+37,Janet,Mrs. Garrison,6
+38,Allyson,Janet,92
+39,Woman 2,Woman 3,2
+40,Allyson,Woman 2,10
+41,Janet,Woman 2,10
+42,Allyson,Woman 3,5
+43,Janet,Woman 3,5
+44,Cartman,Laborers,4
+45,Cartman,The Boys,4
+46,Kyle,Laborers,6
+47,Laborer 1,Laborers,7
+48,Laborer 2,Laborers,2
+49,Laborer 5,Laborers,2
+50,Laborers,Stan,2
+51,Laborers,The Boys,1
+52,Laborer 4,Laborers,3
+53,Kenny,Laborers,1
+54,Kyle,Laborer 1,36
+55,Kyle,Laborer 2,12
+56,Kyle,Laborer 5,12
+57,Kyle,The Boys,6
+58,Kyle,Laborer 4,6
+59,Laborer 1,The Boys,6
+60,Kenny,Laborer 1,6
+61,Laborer 2,The Boys,2
+62,Kenny,Laborer 2,2
+63,Laborer 5,The Boys,2
+64,Kenny,Laborer 5,2
+65,Stan,The Boys,2
+66,Laborer 4,The Boys,1
+67,Kenny,The Boys,1
+68,Kenny,Laborer 4,1
+69,Clyde,Kyle,3
+70,Clyde,Jimmy,1
+71,Cartman,Clyde,3
+72,Clyde,Mrs. Garrison,6
+73,Clyde,Stan,1
+74,Butters,Clyde,1
+75,Class,Clyde,1
+76,Jimmy,Kyle,3
+77,Class,Kyle,3
+78,Cartman,Jimmy,3
+79,Jimmy,Mrs. Garrison,6
+80,Jimmy,Stan,1
+81,Butters,Jimmy,1
+82,Class,Jimmy,1
+83,Cartman,Class,3
+84,Class,Mrs. Garrison,6
+85,Class,Stan,1
+86,Butters,Class,1
+87,Janet,Tracy,14
+88,Linda,Tracy,4
+89,Patty,Tracy,2
+90,Lesbian 4,Tracy,2
+91,Lesbian 5,Tracy,2
+92,Katie,Tracy,4
+93,Lesbian 6,Tracy,2
+94,Janet,Linda,37
+95,Janet,Patty,7
+96,Janet,Lesbian 4,7
+97,Janet,Lesbian 5,7
+98,Janet,Katie,26
+99,Janet,Lesbian 6,42
+100,Linda,Patty,2
+101,Lesbian 4,Linda,2
+102,Lesbian 5,Linda,2
+103,Katie,Linda,5
+104,Lesbian 6,Linda,5
+105,Lesbian 4,Patty,1
+106,Lesbian 5,Patty,1
+107,Katie,Patty,2
+108,Lesbian 6,Patty,1
+109,Lesbian 4,Lesbian 5,1
+110,Katie,Lesbian 4,2
+111,Lesbian 4,Lesbian 6,1
+112,Katie,Lesbian 5,2
+113,Lesbian 5,Lesbian 6,1
+114,Katie,Lesbian 6,4
+115,Janet,Mayor McDaniels,12
+116,Lesbians,Mayor McDaniels,4
+117,Janet,Lesbians,15
+118,Janet,Lesbian 7,12
+119,Allyson,Lesbian 7,1
+120,Katie,Lesbian 7,1
+121,Lesbian 7,Linda,1
+122,Emir,Lesbian 7,6
+123,Lesbian 6,Lesbian 7,2
+124,Lesbian 7,Persian,1
+125,Lesbian 7,Narrator,7
+126,Anchor,Lesbian 7,1
+127,Lesbian 7,Lesbian 8,1
+128,Lesbian 7,Lesbian 9,1
+129,Lesbian 7,Tumon,6
+130,Lesbian 7,Persians,1
+131,Lesbian 7,Lesbians,1
+132,Lesbian 7,Xerxes,2
+133,Emir,Janet,72
+134,Janet,Persian,12
+135,Janet,Narrator,84
+136,Anchor,Janet,12
+137,Janet,Lesbian 8,12
+138,Janet,Lesbian 9,12
+139,Janet,Tumon,72
+140,Janet,Persians,12
+141,Janet,Xerxes,64
+142,Allyson,Katie,1
+143,Allyson,Linda,6
+144,Allyson,Emir,6
+145,Allyson,Lesbian 6,5
+146,Allyson,Persian,1
+147,Allyson,Narrator,7
+148,Allyson,Anchor,1
+149,Allyson,Lesbian 8,1
+150,Allyson,Lesbian 9,1
+151,Allyson,Tumon,6
+152,Allyson,Persians,1
+153,Allyson,Lesbians,1
+154,Allyson,Xerxes,3
+155,Emir,Katie,6
+156,Katie,Persian,1
+157,Katie,Narrator,7
+158,Anchor,Katie,1
+159,Katie,Lesbian 8,1
+160,Katie,Lesbian 9,1
+161,Katie,Tumon,6
+162,Katie,Persians,1
+163,Katie,Lesbians,1
+164,Katie,Xerxes,2
+165,Emir,Linda,6
+166,Linda,Persian,1
+167,Linda,Narrator,7
+168,Anchor,Linda,1
+169,Lesbian 8,Linda,1
+170,Lesbian 9,Linda,1
+171,Linda,Tumon,6
+172,Linda,Persians,1
+173,Lesbians,Linda,1
+174,Linda,Xerxes,2
+175,Emir,Lesbian 6,12
+176,Emir,Persian,6
+177,Emir,Narrator,42
+178,Anchor,Emir,6
+179,Emir,Lesbian 8,6
+180,Emir,Lesbian 9,6
+181,Emir,Tumon,36
+182,Emir,Persians,6
+183,Emir,Lesbians,6
+184,Emir,Xerxes,12
+185,Lesbian 6,Persian,2
+186,Lesbian 6,Narrator,14
+187,Anchor,Lesbian 6,2
+188,Lesbian 6,Lesbian 8,2
+189,Lesbian 6,Lesbian 9,2
+190,Lesbian 6,Tumon,12
+191,Lesbian 6,Persians,2
+192,Lesbian 6,Lesbians,2
+193,Lesbian 6,Xerxes,4
+194,Narrator,Persian,7
+195,Anchor,Persian,1
+196,Lesbian 8,Persian,1
+197,Lesbian 9,Persian,1
+198,Persian,Tumon,6
+199,Persian,Persians,1
+200,Lesbians,Persian,1
+201,Persian,Xerxes,2
+202,Anchor,Narrator,7
+203,Lesbian 8,Narrator,7
+204,Lesbian 9,Narrator,7
+205,Narrator,Tumon,42
+206,Narrator,Persians,7
+207,Lesbians,Narrator,7
+208,Narrator,Xerxes,14
+209,Anchor,Lesbian 8,1
+210,Anchor,Lesbian 9,1
+211,Anchor,Tumon,6
+212,Anchor,Persians,1
+213,Anchor,Lesbians,1
+214,Anchor,Xerxes,2
+215,Lesbian 8,Lesbian 9,1
+216,Lesbian 8,Tumon,6
+217,Lesbian 8,Persians,1
+218,Lesbian 8,Lesbians,1
+219,Lesbian 8,Xerxes,2
+220,Lesbian 9,Tumon,6
+221,Lesbian 9,Persians,1
+222,Lesbian 9,Lesbians,1
+223,Lesbian 9,Xerxes,2
+224,Persians,Tumon,6
+225,Lesbians,Tumon,6
+226,Tumon,Xerxes,12
+227,Lesbians,Persians,1
+228,Persians,Xerxes,2
+229,Lesbians,Xerxes,2
+230,Allyson,Lesbian 10,3
+231,Janet,Lesbian 10,4
+232,Lesbian 10,Linda,1
+233,Janet,Laborer 1,23
+234,Allyson,Laborer 1,6
+235,Laborer 1,Lesbian 6,5
+236,Janet,Laborer 2,12
+237,Allyson,Laborer 2,3
+238,Laborer 2,Lesbian 6,3
+239,Janet,Laborer 3,11
+240,Janet,Laborer 4,22
+241,Janet,Laborer 5,4
+242,Allyson,Laborer 3,3
+243,Laborer 3,Lesbian 6,2
+244,Allyson,Laborer 4,6
+245,Laborer 4,Lesbian 6,4
+246,Allyson,Laborer 5,1
+247,Laborer 5,Lesbian 6,1
+248,Lesbian 11,Lesbian 6,1
+249,Laborers,Lesbian 6,1
+250,Janet,Lesbian 11,7
+251,Janet,Laborers,7
+252,Lesbian 11,Linda,1
+253,Allyson,Lesbian 11,2
+254,Laborer 3,Lesbian 11,1
+255,Laborer 4,Lesbian 11,2
+256,Laborer 1,Lesbian 11,1
+257,Laborers,Lesbian 11,1
+258,Laborer 3,Linda,1
+259,Laborer 4,Linda,2
+260,Laborer 1,Linda,1
+261,Laborers,Linda,1
+262,Allyson,Laborers,2
+263,Laborer 3,Laborers,1

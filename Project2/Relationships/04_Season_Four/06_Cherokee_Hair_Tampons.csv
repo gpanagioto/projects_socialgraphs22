@@ -1,0 +1,171 @@
+,source,target,weight
+0,Cartman,Stan,238
+1,Cartman,Kenny,72
+2,Cartman,Wendy,7
+3,Cartman,The Class,7
+4,Butters,Cartman,11
+5,Kenny,Stan,68
+6,Stan,Wendy,6
+7,Stan,The Class,6
+8,Butters,Stan,30
+9,Kenny,Wendy,1
+10,Kenny,The Class,1
+11,Butters,Kenny,4
+12,The Class,Wendy,1
+13,Butters,Wendy,1
+14,Butters,The Class,1
+15,Board Member,Mr. Garrison,14
+16,Chairman,Mr. Garrison,28
+17,Mr. Garrison,Principal Victoria,7
+18,Board Member,Chairman,8
+19,Board Member,Principal Victoria,2
+20,Chairman,Principal Victoria,4
+21,Sharon,Stan,55
+22,Sharon,Sheila,54
+23,Butters,Sharon,10
+24,Kyle,Sharon,5
+25,Sheila,Stan,42
+26,Kyle,Stan,15
+27,Butters,Sheila,10
+28,Kyle,Sheila,5
+29,Butters,Kyle,2
+30,Mr. Garrison,Mr. Mackey,36
+31,Miss Information,Sheila,39
+32,Miss Information,Sharon,60
+33,Miss Information,Stan,45
+34,Blonde Mother,Miss Information,10
+35,Blonde Mother,Sheila,6
+36,Blonde Mother,Stan,6
+37,Blonde Mother,Sharon,6
+38,Blonde Mother,Other mothers,2
+39,Miss Information,Other mothers,5
+40,Other mothers,Sheila,3
+41,Other mothers,Stan,3
+42,Other mothers,Sharon,3
+43,Dr. Doctor,Stan,36
+44,Cartman,Liane,48
+45,Cartman,Kyle,16
+46,Kenny,Liane,12
+47,Kenny,Kyle,4
+48,Liane,Stan,33
+49,Kyle,Liane,3
+50,Man 2,Miss Information,6
+51,Man 2,Man 3,1
+52,Man 2,Man 4,1
+53,Man 2,Man 5,1
+54,Man 2,Man 6,1
+55,Carlos Ramirez,Man 2,4
+56,Man 2,Woman 1,1
+57,Chief Running Pinto,Man 2,5
+58,Man 2,Sharon,5
+59,Man 2,Sheila,2
+60,Man 2,Man 7,1
+61,Man 2,Man 8,1
+62,Man 2,Stan,4
+63,Man 3,Miss Information,6
+64,Man 4,Miss Information,6
+65,Man 5,Miss Information,6
+66,Man 6,Miss Information,6
+67,Carlos Ramirez,Miss Information,39
+68,Miss Information,Woman 1,9
+69,Chief Running Pinto,Miss Information,45
+70,Man 7,Miss Information,15
+71,Man 8,Miss Information,9
+72,Man 3,Man 4,1
+73,Man 3,Man 5,1
+74,Man 3,Man 6,1
+75,Carlos Ramirez,Man 3,4
+76,Man 3,Woman 1,1
+77,Chief Running Pinto,Man 3,5
+78,Man 3,Sharon,5
+79,Man 3,Sheila,2
+80,Man 3,Man 7,1
+81,Man 3,Man 8,1
+82,Man 3,Stan,4
+83,Man 4,Man 5,1
+84,Man 4,Man 6,1
+85,Carlos Ramirez,Man 4,4
+86,Man 4,Woman 1,1
+87,Chief Running Pinto,Man 4,5
+88,Man 4,Sharon,5
+89,Man 4,Sheila,2
+90,Man 4,Man 7,1
+91,Man 4,Man 8,1
+92,Man 4,Stan,4
+93,Man 5,Man 6,1
+94,Carlos Ramirez,Man 5,4
+95,Man 5,Woman 1,1
+96,Chief Running Pinto,Man 5,5
+97,Man 5,Sharon,5
+98,Man 5,Sheila,2
+99,Man 5,Man 7,1
+100,Man 5,Man 8,1
+101,Man 5,Stan,4
+102,Carlos Ramirez,Man 6,4
+103,Man 6,Woman 1,1
+104,Chief Running Pinto,Man 6,5
+105,Man 6,Sharon,5
+106,Man 6,Sheila,2
+107,Man 6,Man 7,1
+108,Man 6,Man 8,1
+109,Man 6,Stan,4
+110,Carlos Ramirez,Woman 1,9
+111,Carlos Ramirez,Chief Running Pinto,45
+112,Carlos Ramirez,Sharon,30
+113,Carlos Ramirez,Sheila,18
+114,Carlos Ramirez,Man 7,19
+115,Carlos Ramirez,Man 8,9
+116,Carlos Ramirez,Stan,16
+117,Chief Running Pinto,Woman 1,10
+118,Sharon,Woman 1,7
+119,Sheila,Woman 1,4
+120,Man 7,Woman 1,4
+121,Man 8,Woman 1,2
+122,Stan,Woman 1,4
+123,Chief Running Pinto,Sharon,35
+124,Chief Running Pinto,Sheila,20
+125,Chief Running Pinto,Man 7,20
+126,Chief Running Pinto,Man 8,10
+127,Chief Running Pinto,Stan,20
+128,Man 7,Sharon,11
+129,Man 8,Sharon,7
+130,Man 7,Sheila,8
+131,Man 8,Sheila,4
+132,Man 7,Man 8,4
+133,Man 7,Stan,4
+134,Man 8,Stan,4
+135,Stan,Timmy,16
+136,Kenny,Timmy,4
+137,Butters,Timmy,5
+138,Cartman,Timmy,3
+139,Mr. Garrison,Publisher,64
+140,Kenny,Mover,2
+141,Mover,Stan,2
+142,Chief Running Pinto,Customers,10
+143,Chief Running Pinto,Man,5
+144,Chief Running Pinto,Gerald,5
+145,Customers,Man 7,6
+146,Man,Man 7,3
+147,Gerald,Man 7,3
+148,Carlos Ramirez,Customers,10
+149,Carlos Ramirez,Man,5
+150,Carlos Ramirez,Gerald,5
+151,Customers,Miss Information,6
+152,Man,Miss Information,3
+153,Gerald,Miss Information,3
+154,Customers,Sheila,4
+155,Man,Sheila,2
+156,Gerald,Sheila,2
+157,Customers,Sharon,4
+158,Customers,Man,2
+159,Customers,Man 8,2
+160,Customers,Gerald,2
+161,Customers,Woman 1,2
+162,Man,Sharon,2
+163,Gerald,Sharon,2
+164,Man,Man 8,1
+165,Gerald,Man,1
+166,Man,Woman 1,1
+167,Gerald,Man 8,1
+168,Gerald,Woman 1,1
+169,Cartman,Dr. Doctor,9

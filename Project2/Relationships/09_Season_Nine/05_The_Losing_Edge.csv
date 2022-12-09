@@ -1,0 +1,383 @@
+,source,target,weight
+0,Mr. Varcas,Roger,1
+1,Butters,Umpire,7
+2,Butters,Mr. Varcas,6
+3,Butters,Sharon,2
+4,Butters,Stan,22
+5,Butters,Kyle,10
+6,Butters,Local announcer 1,1
+7,Butters,Cartman,11
+8,Butters,Stephen,2
+9,Butters,Gerald,1
+10,Butters,Tom,1
+11,Mr. Varcas,Umpire,12
+12,Sharon,Umpire,6
+13,Stan,Umpire,42
+14,Kyle,Umpire,36
+15,Local announcer 1,Umpire,2
+16,Cartman,Umpire,40
+17,Stephen,Umpire,9
+18,Gerald,Umpire,2
+19,Tom,Umpire,2
+20,Mr. Varcas,Sharon,12
+21,Mr. Varcas,Stan,36
+22,Kyle,Mr. Varcas,18
+23,Local announcer 1,Mr. Varcas,6
+24,Cartman,Mr. Varcas,18
+25,Mr. Varcas,Stephen,12
+26,Gerald,Mr. Varcas,6
+27,Mr. Varcas,Tom,6
+28,Sharon,Stan,14
+29,Kyle,Sharon,7
+30,Local announcer 1,Sharon,2
+31,Cartman,Sharon,8
+32,Sharon,Stephen,4
+33,Gerald,Sharon,2
+34,Sharon,Tom,2
+35,Kyle,Stan,51
+36,Local announcer 1,Stan,6
+37,Cartman,Stan,57
+38,Stan,Stephen,19
+39,Gerald,Stan,9
+40,Stan,Tom,6
+41,Kyle,Local announcer 1,3
+42,Cartman,Kyle,38
+43,Kyle,Stephen,11
+44,Gerald,Kyle,4
+45,Kyle,Tom,3
+46,Cartman,Local announcer 1,3
+47,Local announcer 1,Stephen,2
+48,Gerald,Local announcer 1,1
+49,Local announcer 1,Tom,1
+50,Cartman,Stephen,10
+51,Cartman,Gerald,4
+52,Cartman,Tom,3
+53,Gerald,Stephen,10
+54,Stephen,Tom,2
+55,Gerald,Tom,1
+56,Cartman,Craig,4
+57,Cartman,Jimmy,1
+58,Cartman,The other boys,1
+59,Craig,Stan,12
+60,Jimmy,Stan,4
+61,Stan,The other boys,4
+62,Butters,Craig,6
+63,Craig,Jimmy,2
+64,Craig,Kyle,6
+65,Craig,The other boys,2
+66,Butters,Jimmy,3
+67,Butters,The other boys,3
+68,Jimmy,Kyle,1
+69,Jimmy,The other boys,1
+70,Kyle,The other boys,1
+71,Men,Roger,1
+72,Roger,Stephen,4
+73,Gerald,Roger,2
+74,Roger,Stan,3
+75,Richard,Roger,1
+76,Men,Stephen,3
+77,Gerald,Men,2
+78,Men,Stan,1
+79,Men,Richard,1
+80,Richard,Stephen,3
+81,Gerald,Richard,2
+82,Richard,Stan,1
+83,FC team,Stan,16
+84,FC fat player,Stan,4
+85,FC pitcher,Stan,24
+86,FC batter,Stan,8
+87,FC catcher,Stan,4
+88,SP team,Stan,8
+89,Mr. Pratt,Stan,16
+90,FC announcer,Stan,6
+91,Morgan,Stan,24
+92,FC batter 1,Stan,4
+93,FC fat player,FC team,4
+94,FC pitcher,FC team,24
+95,FC team,Kyle,12
+96,FC batter,FC team,8
+97,FC catcher,FC team,4
+98,Butters,FC team,4
+99,FC team,SP team,4
+100,FC team,Mr. Pratt,12
+101,Cartman,FC team,20
+102,FC announcer,FC team,4
+103,FC team,Umpire,16
+104,FC team,Morgan,24
+105,FC batter 1,FC team,4
+106,FC fat player,FC pitcher,6
+107,FC fat player,Kyle,3
+108,FC batter,FC fat player,2
+109,FC catcher,FC fat player,1
+110,Butters,FC fat player,1
+111,FC fat player,SP team,1
+112,FC fat player,Mr. Pratt,3
+113,Cartman,FC fat player,5
+114,FC announcer,FC fat player,1
+115,FC fat player,Umpire,4
+116,FC fat player,Morgan,6
+117,FC batter 1,FC fat player,1
+118,FC pitcher,Kyle,18
+119,FC batter,FC pitcher,12
+120,FC catcher,FC pitcher,6
+121,Butters,FC pitcher,6
+122,FC pitcher,SP team,6
+123,FC pitcher,Mr. Pratt,18
+124,Cartman,FC pitcher,30
+125,FC announcer,FC pitcher,6
+126,FC pitcher,Umpire,24
+127,FC pitcher,Morgan,36
+128,FC batter 1,FC pitcher,6
+129,FC batter,Kyle,6
+130,FC catcher,Kyle,3
+131,Kyle,SP team,9
+132,Kyle,Mr. Pratt,11
+133,FC announcer,Kyle,4
+134,Kyle,Morgan,18
+135,FC batter 1,Kyle,3
+136,FC batter,FC catcher,2
+137,Butters,FC batter,2
+138,FC batter,SP team,2
+139,FC batter,Mr. Pratt,6
+140,Cartman,FC batter,10
+141,FC announcer,FC batter,2
+142,FC batter,Umpire,8
+143,FC batter,Morgan,12
+144,FC batter,FC batter 1,2
+145,Butters,FC catcher,1
+146,FC catcher,SP team,1
+147,FC catcher,Mr. Pratt,3
+148,Cartman,FC catcher,5
+149,FC announcer,FC catcher,1
+150,FC catcher,Umpire,4
+151,FC catcher,Morgan,6
+152,FC batter 1,FC catcher,1
+153,Butters,SP team,2
+154,Butters,Mr. Pratt,3
+155,Butters,FC announcer,1
+156,Butters,Morgan,6
+157,Butters,FC batter 1,1
+158,Mr. Pratt,SP team,3
+159,Cartman,SP team,9
+160,FC announcer,SP team,1
+161,SP team,Umpire,14
+162,Morgan,SP team,6
+163,FC batter 1,SP team,1
+164,Cartman,Mr. Pratt,19
+165,FC announcer,Mr. Pratt,5
+166,Mr. Pratt,Umpire,16
+167,Morgan,Mr. Pratt,18
+168,FC batter 1,Mr. Pratt,3
+169,Cartman,FC announcer,7
+170,Cartman,Morgan,30
+171,Cartman,FC batter 1,5
+172,FC announcer,Umpire,6
+173,FC announcer,Morgan,6
+174,FC announcer,FC batter 1,1
+175,Morgan,Umpire,24
+176,FC batter 1,Umpire,4
+177,FC batter 1,Morgan,6
+178,Mr. Pratt,Sharon,2
+179,FC announcer,Sharon,1
+180,Greeley batter,Greeley team,1
+181,Greeley batter,Greeley man,1
+182,Greeley man,Greeley team,1
+183,Pueblo dad,Pueblo team,1
+184,Pueblo team,Umpire,1
+185,Pueblo dad,Umpire,1
+186,Gerald,Mr. Donovan,1
+187,Cartman,Mr. Donovan,1
+188,Mr. Donovan,Stephen,2
+189,Kyle,Mr. Donovan,1
+190,Mr. Donovan,Stan,1
+191,Reporter,Stan,9
+192,Denver player,Reporter,3
+193,Denver player 2,Reporter,3
+194,Reporter,Reporter Chris,9
+195,Bat dad,Reporter,3
+196,Reporter,Sheila,3
+197,A woman,Reporter,3
+198,Denver cop,Reporter,3
+199,Denver player 3,Reporter,3
+200,Denver player 4,Reporter,3
+201,Kyle,Reporter,6
+202,Cartman,Reporter,6
+203,Clyde,Reporter,3
+204,Craig,Reporter,3
+205,Denver player,Stan,3
+206,Denver player 2,Stan,3
+207,Reporter Chris,Stan,9
+208,Bat dad,Stan,3
+209,Sheila,Stan,3
+210,A woman,Stan,3
+211,Denver cop,Stan,3
+212,Denver player 3,Stan,3
+213,Denver player 4,Stan,3
+214,Clyde,Stan,3
+215,Denver player,Denver player 2,1
+216,Denver player,Reporter Chris,3
+217,Bat dad,Denver player,1
+218,Denver player,Sheila,1
+219,A woman,Denver player,1
+220,Denver cop,Denver player,1
+221,Denver player,Denver player 3,1
+222,Denver player,Denver player 4,1
+223,Denver player,Kyle,2
+224,Cartman,Denver player,2
+225,Clyde,Denver player,1
+226,Craig,Denver player,1
+227,Denver player 2,Reporter Chris,3
+228,Bat dad,Denver player 2,1
+229,Denver player 2,Sheila,1
+230,A woman,Denver player 2,1
+231,Denver cop,Denver player 2,1
+232,Denver player 2,Denver player 3,1
+233,Denver player 2,Denver player 4,1
+234,Denver player 2,Kyle,2
+235,Cartman,Denver player 2,2
+236,Clyde,Denver player 2,1
+237,Craig,Denver player 2,1
+238,Bat dad,Reporter Chris,3
+239,Reporter Chris,Sheila,3
+240,A woman,Reporter Chris,3
+241,Denver cop,Reporter Chris,3
+242,Denver player 3,Reporter Chris,3
+243,Denver player 4,Reporter Chris,3
+244,Kyle,Reporter Chris,6
+245,Cartman,Reporter Chris,6
+246,Clyde,Reporter Chris,3
+247,Craig,Reporter Chris,3
+248,Bat dad,Sheila,1
+249,A woman,Bat dad,1
+250,Bat dad,Denver cop,1
+251,Bat dad,Denver player 3,1
+252,Bat dad,Denver player 4,1
+253,Bat dad,Kyle,2
+254,Bat dad,Cartman,2
+255,Bat dad,Clyde,1
+256,Bat dad,Craig,1
+257,A woman,Sheila,1
+258,Denver cop,Sheila,1
+259,Denver player 3,Sheila,1
+260,Denver player 4,Sheila,1
+261,Kyle,Sheila,2
+262,Cartman,Sheila,2
+263,Clyde,Sheila,1
+264,Craig,Sheila,1
+265,A woman,Denver cop,1
+266,A woman,Denver player 3,1
+267,A woman,Denver player 4,1
+268,A woman,Kyle,2
+269,A woman,Cartman,2
+270,A woman,Clyde,1
+271,A woman,Craig,1
+272,Denver cop,Denver player 3,1
+273,Denver cop,Denver player 4,1
+274,Denver cop,Kyle,2
+275,Cartman,Denver cop,2
+276,Clyde,Denver cop,1
+277,Craig,Denver cop,1
+278,Denver player 3,Denver player 4,1
+279,Denver player 3,Kyle,2
+280,Cartman,Denver player 3,2
+281,Clyde,Denver player 3,1
+282,Craig,Denver player 3,1
+283,Denver player 4,Kyle,2
+284,Cartman,Denver player 4,2
+285,Clyde,Denver player 4,1
+286,Craig,Denver player 4,1
+287,Clyde,Kyle,2
+288,Cartman,Clyde,2
+289,Clyde,Craig,1
+290,Denver catcher,Denver pitcher,3
+291,Cartman,Denver pitcher,6
+292,Denver pitcher,Kyle,9
+293,Bat Dad,Denver pitcher,6
+294,Denver pitcher,Woman,3
+295,Announcer,Denver pitcher,3
+296,Denver pitcher,Umpire,15
+297,Denver pitcher,SP team,6
+298,Denver pitcher,Second baseman,3
+299,Denver pitcher,Stan,6
+300,Denver pitcher,Roger,3
+301,Denver pitcher,Stephen,3
+302,Denver pitcher,Tolkien,3
+303,Denver pitcher,Mr. Williams,3
+304,Cartman,Denver catcher,2
+305,Denver catcher,Kyle,3
+306,Bat Dad,Denver catcher,2
+307,Denver catcher,Woman,1
+308,Announcer,Denver catcher,1
+309,Denver catcher,Umpire,5
+310,Denver catcher,SP team,2
+311,Denver catcher,Second baseman,1
+312,Denver catcher,Stan,2
+313,Denver catcher,Roger,1
+314,Denver catcher,Stephen,1
+315,Denver catcher,Tolkien,1
+316,Denver catcher,Mr. Williams,1
+317,Bat Dad,Cartman,4
+318,Cartman,Woman,2
+319,Announcer,Cartman,2
+320,Cartman,Second baseman,2
+321,Cartman,Roger,2
+322,Cartman,Tolkien,2
+323,Cartman,Mr. Williams,2
+324,Bat Dad,Kyle,6
+325,Kyle,Woman,3
+326,Announcer,Kyle,3
+327,Kyle,Second baseman,3
+328,Kyle,Roger,3
+329,Kyle,Tolkien,3
+330,Kyle,Mr. Williams,3
+331,Bat Dad,Woman,2
+332,Announcer,Bat Dad,2
+333,Bat Dad,Umpire,10
+334,Bat Dad,SP team,4
+335,Bat Dad,Second baseman,2
+336,Bat Dad,Stan,4
+337,Bat Dad,Roger,2
+338,Bat Dad,Stephen,2
+339,Bat Dad,Tolkien,2
+340,Bat Dad,Mr. Williams,2
+341,Announcer,Woman,1
+342,Umpire,Woman,5
+343,SP team,Woman,2
+344,Second baseman,Woman,1
+345,Stan,Woman,2
+346,Roger,Woman,1
+347,Stephen,Woman,1
+348,Tolkien,Woman,1
+349,Mr. Williams,Woman,1
+350,Announcer,Umpire,5
+351,Announcer,SP team,2
+352,Announcer,Second baseman,1
+353,Announcer,Stan,2
+354,Announcer,Roger,1
+355,Announcer,Stephen,1
+356,Announcer,Tolkien,1
+357,Announcer,Mr. Williams,1
+358,Second baseman,Umpire,5
+359,Roger,Umpire,5
+360,Tolkien,Umpire,5
+361,Mr. Williams,Umpire,5
+362,SP team,Second baseman,2
+363,Roger,SP team,2
+364,SP team,Stephen,2
+365,SP team,Tolkien,2
+366,Mr. Williams,SP team,2
+367,Second baseman,Stan,2
+368,Roger,Second baseman,1
+369,Second baseman,Stephen,1
+370,Second baseman,Tolkien,1
+371,Mr. Williams,Second baseman,1
+372,Stan,Tolkien,2
+373,Mr. Williams,Stan,2
+374,Roger,Tolkien,1
+375,Mr. Williams,Roger,1
+376,Stephen,Tolkien,1
+377,Mr. Williams,Stephen,1
+378,Mr. Williams,Tolkien,1
+379,Denver team,Umpire,1
+380,Denver team,Kyle,1
+381,Butters,Denver team,1

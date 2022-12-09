@@ -1,0 +1,63 @@
+,source,target,weight
+0,Cartman,Stan,163
+1,Cartman,Kyle,236
+2,Cartman,Kenny,22
+3,Kyle,Stan,87
+4,Kenny,Stan,8
+5,Kenny,Kyle,13
+6,Another boy,Scott,5
+7,Another boy,Cartman,4
+8,Cartman,Scott,500
+9,Kyle,Rick,9
+10,Cartman,Rick,18
+11,Rick,Stan,3
+12,Kenny,Rick,3
+13,Cartman,Man,15
+14,Man,Teen boy,6
+15,Cartman,Teen boy,10
+16,Clyde,Kids,1
+17,Clyde,Kyle,2
+18,Cartman,Clyde,5
+19,Butters,Clyde,1
+20,Clyde,Stan,1
+21,Clyde,Timmy,2
+22,Kids,Kyle,2
+23,Cartman,Kids,5
+24,Butters,Kids,1
+25,Kids,Stan,1
+26,Kids,Timmy,2
+27,Butters,Kyle,2
+28,Kyle,Timmy,4
+29,Butters,Cartman,5
+30,Cartman,Timmy,10
+31,Butters,Stan,1
+32,Butters,Timmy,2
+33,Stan,Timmy,2
+34,Cartman,Jimbo,113
+35,Cartman,Ned,35
+36,Cartman,Mr. Tenorman,21
+37,A man,Cartman,7
+38,Jimbo,Ned,55
+39,Jimbo,Mr. Tenorman,33
+40,A man,Jimbo,11
+41,Mr. Tenorman,Ned,15
+42,A man,Ned,5
+43,A man,Mr. Tenorman,3
+44,Cartman,Kurt Loder,12
+45,Kurt Loder,Scott,2
+46,Kurt Loder,Stan,2
+47,Scott,Stan,7
+48,Ed,Phil,1
+49,Phil,Thom,1
+50,Ed,Thom,1
+51,Kyle,Scott,31
+52,Mrs. Tenorman,Scott,12
+53,Mr. Tenorman,Mrs. Tenorman,8
+54,Mr. Tenorman,Scott,6
+55,Buddy 2,Scott,6
+56,Buddy 1,Scott,3
+57,Buddy 1,Buddy 2,2
+58,Chef,Stan,8
+59,Cartman,Chef,40
+60,Chef,Kyle,8
+61,Chef,Scott,12

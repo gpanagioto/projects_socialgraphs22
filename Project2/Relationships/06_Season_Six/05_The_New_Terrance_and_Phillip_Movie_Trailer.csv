@@ -1,0 +1,145 @@
+,source,target,weight
+0,Kyle,Stan,225
+1,Cartman,Kyle,187
+2,Cartman,Stan,268
+3,Man,Russell Crowe,7
+4,Man,Stan,17
+5,Man,Shelly,9
+6,Russell Crowe,Stan,146
+7,Russell Crowe,Shelly,49
+8,Shelly,Stan,123
+9,Kyle,Shelly,81
+10,Cartman,Shelly,104
+11,Butters,Shelly,41
+12,Shelly,Tugger,16
+13,Butters,Stan,118
+14,Stan,Tugger,31
+15,Kyle,Russell Crowe,99
+16,Kyle,Man,10
+17,Butters,Kyle,88
+18,Kyle,Tugger,22
+19,Cartman,Russell Crowe,116
+20,Cartman,Man,13
+21,Butters,Cartman,100
+22,Cartman,Tugger,26
+23,Butters,Russell Crowe,49
+24,Russell Crowe,Tugger,82
+25,Butters,Man,5
+26,Man,Tugger,2
+27,Butters,Tugger,10
+28,Ike,Stan,12
+29,Gerald,Stan,9
+30,Lehrer,Stan,3
+31,Butters,Ike,8
+32,Butters,Gerald,6
+33,Butters,Lehrer,2
+34,Ike,Russell Crowe,8
+35,Gerald,Russell Crowe,6
+36,Lehrer,Russell Crowe,2
+37,Ike,Kyle,20
+38,Gerald,Kyle,15
+39,Kyle,Lehrer,5
+40,Cartman,Ike,16
+41,Gerald,Ike,12
+42,Ike,Lehrer,4
+43,Cartman,Gerald,12
+44,Cartman,Lehrer,4
+45,Gerald,Lehrer,3
+46,Chef,The Boys,2
+47,Chef,Stan,43
+48,Announcer,Stan,12
+49,Stan,The boys,9
+50,Black player,Stan,14
+51,Puerto Rican player,Stan,14
+52,Stan,The TV,7
+53,Chef,Russell Crowe,36
+54,Cartman,Chef,24
+55,Chef,Kyle,24
+56,Announcer,Chef,6
+57,Chef,The boys,6
+58,Butters,Chef,12
+59,Black player,Chef,12
+60,Chef,Puerto Rican player,12
+61,Chef,The TV,6
+62,Announcer,Russell Crowe,14
+63,Russell Crowe,The boys,6
+64,Black player,Russell Crowe,12
+65,Puerto Rican player,Russell Crowe,12
+66,Russell Crowe,The TV,6
+67,Announcer,Cartman,7
+68,Cartman,The boys,6
+69,Black player,Cartman,8
+70,Cartman,Puerto Rican player,8
+71,Cartman,The TV,4
+72,Announcer,Kyle,9
+73,Kyle,The boys,5
+74,Black player,Kyle,8
+75,Kyle,Puerto Rican player,8
+76,Kyle,The TV,4
+77,Announcer,The boys,1
+78,Announcer,Butters,3
+79,Announcer,Black player,2
+80,Announcer,Puerto Rican player,2
+81,Announcer,The TV,1
+82,Butters,The boys,3
+83,Black player,The boys,2
+84,Puerto Rican player,The boys,2
+85,The TV,The boys,1
+86,Black player,Butters,4
+87,Butters,Puerto Rican player,4
+88,Butters,The TV,2
+89,Black player,Puerto Rican player,4
+90,Black player,The TV,2
+91,Puerto Rican player,The TV,2
+92,Stan,The Boys,3
+93,Cartman,The Boys,3
+94,Editor,Russell Crowe,6
+95,Jimbo,Russell Crowe,3
+96,Barkeep,Russell Crowe,12
+97,Russell Crowe,The Boys,3
+98,Editor,Jimbo,2
+99,Barkeep,Editor,8
+100,Editor,Kyle,2
+101,Editor,Stan,4
+102,Cartman,Editor,4
+103,Butters,Editor,2
+104,Editor,The Boys,2
+105,Barkeep,Jimbo,4
+106,Jimbo,Kyle,1
+107,Jimbo,Stan,2
+108,Cartman,Jimbo,2
+109,Butters,Jimbo,1
+110,Jimbo,The Boys,1
+111,Barkeep,Kyle,4
+112,Barkeep,Stan,8
+113,Barkeep,Cartman,8
+114,Barkeep,Butters,4
+115,Barkeep,The Boys,4
+116,Kyle,The Boys,1
+117,Butters,The Boys,1
+118,Chef,Townsman,1
+119,Announcer,Tugger,8
+120,Cartman,Old woman,1
+121,Doctor,Russell Crowe,16
+122,Old folks,Old woman 2,1
+123,Cartman,Old folks,2
+124,Old folks,Old man 2,1
+125,Old folks,The boys,1
+126,Old folks,Stan,1
+127,Cartman,Old woman 2,2
+128,Old man 2,Old woman 2,1
+129,Old woman 2,The boys,1
+130,Old woman 2,Stan,1
+131,Cartman,Old man 2,2
+132,Old man 2,The boys,1
+133,Old man 2,Stan,1
+134,Shelly,The boys,1
+135,All,Tugger,1
+136,Chef,Tugger,1
+137,All,Stan,1
+138,All,Chef,1
+139,A girl,Wally B.,1
+140,Russell Crowe,Wally B.,1
+141,Tugger,Wally B.,1
+142,A girl,Russell Crowe,1
+143,A girl,Tugger,1

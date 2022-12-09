@@ -1,0 +1,47 @@
+,source,target,weight
+0,Butters,Cashier,12
+1,Cashier,Tuong Lu Kim,10
+2,Butters,Tuong Lu Kim,37
+3,Mr. Takiyama,Tuong Lu Kim,114
+4,Sgt. Yates,Stephen,9
+5,Butters,Sgt. Yates,3
+6,Butters,Stephen,19
+7,Linda,Stephen,11
+8,Dr. Janus,Linda,12
+9,Dr. Janus,Stephen,4
+10,Butters,Linda,4
+11,Matt,Tuong Lu Kim,8
+12,Matt,Mr. Takiyama,6
+13,Butters,Dr. Janus,260
+14,Alias 1,Butters,24
+15,Butters,Psycho Janus,24
+16,Billy,Butters,12
+17,Alias 2,Butters,12
+18,Alias 3,Butters,12
+19,Alias 4,Butters,12
+20,Alias 1,Dr. Janus,26
+21,Dr. Janus,Psycho Janus,26
+22,Billy,Dr. Janus,13
+23,Alias 2,Dr. Janus,13
+24,Alias 3,Dr. Janus,13
+25,Alias 4,Dr. Janus,13
+26,Alias 1,Psycho Janus,4
+27,Alias 1,Billy,2
+28,Alias 1,Alias 2,2
+29,Alias 1,Alias 3,2
+30,Alias 1,Alias 4,2
+31,Billy,Psycho Janus,2
+32,Alias 2,Psycho Janus,2
+33,Alias 3,Psycho Janus,2
+34,Alias 4,Psycho Janus,2
+35,Alias 2,Billy,1
+36,Alias 3,Billy,1
+37,Alias 4,Billy,1
+38,Alias 2,Alias 3,1
+39,Alias 2,Alias 4,1
+40,Alias 3,Alias 4,1
+41,Sgt. Yates,Steven,4
+42,A woman,Tuong Lu Kim,1
+43,Dr. Janus,Tuong Lu Kim,6
+44,Sgt. Yates,Tuong Lu Kim,20
+45,Mr. Takiyama,Sgt. Yates,12

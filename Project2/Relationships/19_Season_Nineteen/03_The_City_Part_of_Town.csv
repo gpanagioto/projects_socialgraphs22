@@ -1,0 +1,74 @@
+,source,target,weight
+0,Cartman,Kyle,3
+1,Butters,Kyle,1
+2,Kenny,Kyle,1
+3,Kyle,Stan,1
+4,Butters,Cartman,3
+5,Cartman,Kenny,3
+6,Cartman,Stan,3
+7,Butters,Kenny,1
+8,Butters,Stan,1
+9,Kenny,Stan,1
+10,Fr. Maxi,Stephen,1
+11,Mayor McDaniels,Stephen,1
+12,Fr. Maxi,Mayor McDaniels,3
+13,Kenny,Stuart,3
+14,Kenny,Mayor McDaniels,1
+15,Architect,Kenny,1
+16,Mayor McDaniels,Stuart,5
+17,Architect,Stuart,2
+18,Architect,Mayor McDaniels,1
+19,Johnson,Stuart,6
+20,Aide,Stuart,3
+21,Aide,Johnson,2
+22,Johnson,Mayor McDaniels,4
+23,Aide,Mayor McDaniels,1
+24,Det. Harris,Stephen,1
+25,Officer Barbrady,Stephen,1
+26,Det. Harris,Officer Barbrady,1
+27,Diner,Tuong Lu Kim,2
+28,Diner,Man,2
+29,Diner,Mike,2
+30,Man,Tuong Lu Kim,4
+31,Mike,Tuong Lu Kim,4
+32,Man,Mike,4
+33,Carol,Karen,1
+34,Carol,Stuart,2
+35,Karen,Stuart,1
+36,Johnson,Townsman,1
+37,Johnson,Whole Foods rep,1
+38,Mayor McDaniels,Townsman,2
+39,Mayor McDaniels,Whole Foods rep,17
+40,Townsman,Whole Foods rep,1
+41,Man 2,Tuong Lu Kim,2
+42,Man 2,Man 3,1
+43,Man 3,Tuong Lu Kim,2
+44,PC Principal,Whole Foods rep,9
+45,Mayor McDaniels,Teacher,3
+46,Teacher,Whole Foods rep,3
+47,Stuart,Voice,1
+48,Carol,Voice,1
+49,Kenny,Tuong Lu Kim,22
+50,Rancher,Whole Foods rep,4
+51,Mayor McDaniels,Rancher,2
+52,Fr. Maxi,Rancher,4
+53,Rancher,Richard,2
+54,Bob,Rancher,2
+55,Fr. Maxi,Whole Foods rep,4
+56,Richard,Whole Foods rep,2
+57,Bob,Whole Foods rep,2
+58,Mayor McDaniels,Richard,1
+59,Bob,Mayor McDaniels,1
+60,Fr. Maxi,Richard,2
+61,Bob,Fr. Maxi,2
+62,Bob,Richard,1
+63,Townfolk,Tuong Lu Kim,3
+64,Kenny,Townfolk,2
+65,Girl,Townfolk,1
+66,Townfolk,Whole Foods rep,1
+67,Girl,Tuong Lu Kim,3
+68,Tuong Lu Kim,Whole Foods rep,3
+69,Girl,Kenny,2
+70,Kenny,Whole Foods rep,2
+71,Girl,Whole Foods rep,1
+72,Karen,Kenny,1

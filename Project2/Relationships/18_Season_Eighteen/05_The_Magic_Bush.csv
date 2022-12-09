@@ -1,0 +1,50 @@
+,source,target,weight
+0,Butters,Cartman,291
+1,Butters,Stephen,18
+2,Cartman,Stephen,10
+3,Butters,Kenny,36
+4,Cartman,Kenny,80
+5,Stephen,Thomas,10
+6,Kenny,Stan,30
+7,Kenny,Kyle,20
+8,Cartman,Stan,48
+9,Cartman,Kyle,74
+10,Kyle,Stan,24
+11,Craig,Jimmy,4
+12,Butters,Craig,12
+13,Cartman,Craig,12
+14,Butters,Jimmy,12
+15,Cartman,Jimmy,12
+16,Roger,Thomas,6
+17,Laura Tucker,Thomas,2
+18,Laura,Thomas,10
+19,Stuart,Thomas,2
+20,Mr. Garrison,Thomas,2
+21,Laura Tucker,Roger,3
+22,Laura,Roger,9
+23,Roger,Stuart,3
+24,Mr. Garrison,Roger,3
+25,Laura,Laura Tucker,3
+26,Laura Tucker,Stuart,1
+27,Laura Tucker,Mr. Garrison,1
+28,Laura,Stuart,3
+29,Laura,Mr. Garrison,3
+30,Mr. Garrison,Stuart,1
+31,Clerk,Stephen,42
+32,Officer 1,Thomas,6
+33,Officer 1,Sgt. Yates,6
+34,Laura,Officer 1,3
+35,Officer 1,Officer 2,3
+36,Sgt. Yates,Thomas,4
+37,Officer 2,Thomas,2
+38,Laura,Sgt. Yates,2
+39,Officer 2,Sgt. Yates,2
+40,Laura,Officer 2,1
+41,Farmer,Jimbo,1
+42,Anchor,Jimbo,1
+43,Anchor,Farmer,1
+44,Mr. Garrison,Steve,1
+45,Laura,Reporter,6
+46,Laura,Stephen,4
+47,Reporter,Thomas,3
+48,Reporter,Stephen,6

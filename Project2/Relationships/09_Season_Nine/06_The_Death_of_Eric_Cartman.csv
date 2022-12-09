@@ -1,0 +1,101 @@
+,source,target,weight
+0,Cartman,Kyle,66
+1,Kyle,Sharon,18
+2,Kyle,Stan,78
+3,Kyle,The boys,6
+4,Cartman,Sharon,21
+5,Cartman,Stan,61
+6,Cartman,The boys,7
+7,Sharon,Stan,18
+8,Sharon,The boys,3
+9,Stan,The boys,6
+10,Kenny,Kyle,16
+11,Kenny,Stan,16
+12,Cartman,Kenny,6
+13,Black plumber,Liane,2
+14,Fat plumber,Thin plumber,2
+15,Cartman,Fat plumber,2
+16,Cartman,Thin plumber,1
+17,Stan,Tolkien,2
+18,Craig,Stan,1
+19,Bradley,Stan,1
+20,Kevin,Stan,1
+21,Other boys,Stan,1
+22,Clyde,Stan,1
+23,Kyle,Tolkien,4
+24,Craig,Kyle,2
+25,Bradley,Kyle,2
+26,Kevin,Kyle,2
+27,Kyle,Other boys,2
+28,Clyde,Kyle,2
+29,Craig,Tolkien,2
+30,Bradley,Tolkien,2
+31,Kevin,Tolkien,2
+32,Other boys,Tolkien,2
+33,Clyde,Tolkien,2
+34,Cartman,Tolkien,2
+35,Bradley,Craig,1
+36,Craig,Kevin,1
+37,Craig,Other boys,1
+38,Clyde,Craig,1
+39,Cartman,Craig,1
+40,Bradley,Kevin,1
+41,Bradley,Other boys,1
+42,Bradley,Clyde,1
+43,Bradley,Cartman,1
+44,Kevin,Other boys,1
+45,Clyde,Kevin,1
+46,Cartman,Kevin,1
+47,Clyde,Other boys,1
+48,Cartman,Other boys,1
+49,Cartman,Clyde,1
+50,Butters,Cartman,330
+51,Butters,Linda,18
+52,Butters,Stephen,88
+53,Linda,Stephen,10
+54,Cartman,Stephen,30
+55,Butters,Liane,16
+56,Cartman,Liane,12
+57,Butters,Kyle,3
+58,Cartman,Linda,7
+59,Doctor,Linda,2
+60,Butters,Doctor,8
+61,Doctor,Stephen,1
+62,Cartman,Doctor,4
+63,Butters,Psychic,20
+64,Cartman,Psychic,15
+65,Announcer,Psychic,5
+66,Anchor Tom,Psychic,5
+67,Psychic,Reporter Chris,5
+68,Announcer,Butters,4
+69,Anchor Tom,Butters,4
+70,Butters,Reporter Chris,5
+71,Announcer,Cartman,3
+72,Anchor Tom,Cartman,3
+73,Cartman,Reporter Chris,3
+74,Anchor Tom,Announcer,1
+75,Announcer,Reporter Chris,1
+76,Anchor Tom,Reporter Chris,1
+77,Det. Yates,Man,1
+78,Lead convict,Man,1
+79,Det. Yates,Lead convict,1
+80,Butters,Det. Yates,3
+81,Cartman,Det. Yates,2
+82,Bald convict,Convict 2,3
+83,Cartman,Convict 2,2
+84,Convict 2,Lead convict,2
+85,Bald convict,Cartman,1
+86,Bald convict,Lead convict,1
+87,Cartman,Lead convict,1
+88,Butters,Officer 2,1
+89,Butters,Convict 2,1
+90,Bald convict,Butters,1
+91,Det. Yates,Officer 2,1
+92,Convict 2,Officer 2,1
+93,Bald convict,Officer 2,1
+94,Officer 2,Reporter Chris,1
+95,Convict 2,Det. Yates,1
+96,Bald convict,Det. Yates,1
+97,Det. Yates,Reporter Chris,1
+98,Convict 2,Reporter Chris,1
+99,Bald convict,Reporter Chris,1

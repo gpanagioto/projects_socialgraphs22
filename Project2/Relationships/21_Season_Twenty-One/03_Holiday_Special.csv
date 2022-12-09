@@ -1,0 +1,65 @@
+,source,target,weight
+0,Cartman,Stan,28
+1,Kyle,Stan,30
+2,Butters,Stan,8
+3,Cartman,Kyle,33
+4,Butters,Cartman,18
+5,Butters,Kyle,12
+6,Jimmy,Stan,2
+7,Cartman,Jimmy,8
+8,Jimmy,Kyle,6
+9,Butters,Jimmy,3
+10,Announcer,Sharon,3
+11,Cyclist,Sharon,1
+12,Sharon,Woman 1,1
+13,Sharon,Steve,2
+14,Office Worker,Sharon,1
+15,Driver,Sharon,1
+16,Female Jogger,Sharon,1
+17,Painter,Sharon,1
+18,Announcer,Cyclist,3
+19,Announcer,Woman 1,3
+20,Announcer,Steve,6
+21,Announcer,Office Worker,3
+22,Announcer,Driver,3
+23,Announcer,Female Jogger,3
+24,Announcer,Painter,3
+25,Cyclist,Woman 1,1
+26,Cyclist,Steve,2
+27,Cyclist,Office Worker,1
+28,Cyclist,Driver,1
+29,Cyclist,Female Jogger,1
+30,Cyclist,Painter,1
+31,Steve,Woman 1,2
+32,Office Worker,Woman 1,1
+33,Driver,Woman 1,1
+34,Female Jogger,Woman 1,1
+35,Painter,Woman 1,1
+36,Office Worker,Steve,2
+37,Driver,Steve,2
+38,Female Jogger,Steve,2
+39,Painter,Steve,2
+40,Driver,Office Worker,1
+41,Female Jogger,Office Worker,1
+42,Office Worker,Painter,1
+43,Driver,Female Jogger,1
+44,Driver,Painter,1
+45,Female Jogger,Painter,1
+46,Masked voice,Mr. Galtman,12
+47,Kyle,Masked voice,3
+48,Kenny,Masked voice,6
+49,Masked voice,Mrs. Galtman,3
+50,Kyle,Mr. Galtman,10
+51,Kenny,Mr. Galtman,24
+52,Mr. Galtman,Mrs. Galtman,4
+53,Kenny,Kyle,8
+54,Kyle,Mrs. Galtman,1
+55,Kenny,Mrs. Galtman,2
+56,Bill,Sharon,4
+57,Kenny,Stan,18
+58,Cartman,Kenny,12
+59,Mr. Galtman,Stan,13
+60,Cartman,Mr. Galtman,6
+61,Bill,DNA test administrator,15
+62,Bill,Mr. Galtman,3
+63,Bill,Stan,3

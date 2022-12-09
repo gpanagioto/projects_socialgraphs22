@@ -1,0 +1,151 @@
+,source,target,weight
+0,News anchor,Tweek,8
+1,Mrs. Tweak,Tweek,27
+2,Mrs. Tweak,News anchor,8
+3,Richard,Tweek,19
+4,Mrs. Tweak,Richard,33
+5,Tweek,Voice,12
+6,Richard,Voice,6
+7,Mrs. Tweak,Voice,6
+8,Cartman,Kyle,7
+9,Kyle,Tweek,7
+10,Cartman,Tweek,10
+11,Driver,Tweek,2
+12,Man,Tweek,4
+13,Man,The Ghost of Human Kindness,3
+14,The Ghost of Human Kindness,Tweek,32
+15,Officer 1,Tweek,5
+16,Detective,Tweek,5
+17,Liane,Tweek,5
+18,Sharon,Tweek,5
+19,Sheila,Tweek,5
+20,Steve,Tweek,5
+21,Officer 1,The Ghost of Human Kindness,4
+22,Mrs. Tweak,The Ghost of Human Kindness,4
+23,Richard,The Ghost of Human Kindness,4
+24,Detective,The Ghost of Human Kindness,4
+25,Liane,The Ghost of Human Kindness,4
+26,Sharon,The Ghost of Human Kindness,4
+27,Sheila,The Ghost of Human Kindness,4
+28,Steve,The Ghost of Human Kindness,4
+29,Mrs. Tweak,Officer 1,1
+30,Officer 1,Richard,1
+31,Detective,Officer 1,1
+32,Liane,Officer 1,1
+33,Officer 1,Sharon,1
+34,Officer 1,Sheila,1
+35,Officer 1,Steve,1
+36,Detective,Mrs. Tweak,1
+37,Liane,Mrs. Tweak,1
+38,Mrs. Tweak,Sharon,1
+39,Mrs. Tweak,Sheila,1
+40,Mrs. Tweak,Steve,1
+41,Detective,Richard,1
+42,Liane,Richard,1
+43,Richard,Sharon,10
+44,Richard,Sheila,4
+45,Richard,Steve,1
+46,Detective,Liane,1
+47,Detective,Sharon,1
+48,Detective,Sheila,1
+49,Detective,Steve,1
+50,Liane,Sharon,1
+51,Liane,Sheila,1
+52,Liane,Steve,1
+53,Sharon,Sheila,4
+54,Sharon,Steve,1
+55,Sheila,Steve,1
+56,Mayor McDaniels,Townsfolk,9
+57,Jimbo,Mayor McDaniels,3
+58,Gerald,Mayor McDaniels,3
+59,Mayor McDaniels,Sheila,6
+60,Mayor McDaniels,Richard,3
+61,Jimbo,Townsfolk,5
+62,Gerald,Townsfolk,4
+63,Sheila,Townsfolk,6
+64,Richard,Townsfolk,7
+65,Gerald,Jimbo,1
+66,Jimbo,Sheila,2
+67,Jimbo,Richard,2
+68,Gerald,Sheila,4
+69,Gerald,Richard,3
+70,Gerald,Tuong Lu Kim,2
+71,Sharon,Tuong Lu Kim,2
+72,Gerald,Sharon,6
+73,Sharon,Stan,10
+74,Kyle,Stan,3
+75,Kyle,Richard,4
+76,Kyle,Townsfolk,3
+77,Jimbo,Kyle,1
+78,Richard,Stan,4
+79,Stan,Townsfolk,5
+80,Jimbo,Stan,2
+81,Kyle,Sharon,5
+82,Roger,Sharon,5
+83,Sharon,Townsfolk,4
+84,News anchor,Sharon,4
+85,Sharon,Tom,8
+86,Chris,Sharon,8
+87,Kyle,Roger,1
+88,Kyle,News anchor,1
+89,Kyle,Tom,2
+90,Chris,Kyle,2
+91,Gerald,Kyle,1
+92,Roger,Townsfolk,1
+93,Richard,Roger,4
+94,News anchor,Roger,1
+95,Roger,Tom,2
+96,Chris,Roger,2
+97,Gerald,Roger,2
+98,Roger,Stan,4
+99,News anchor,Townsfolk,1
+100,Tom,Townsfolk,2
+101,Chris,Townsfolk,2
+102,News anchor,Richard,8
+103,Richard,Tom,4
+104,Chris,Richard,4
+105,News anchor,Tom,2
+106,Chris,News anchor,2
+107,Gerald,News anchor,1
+108,News anchor,Stan,1
+109,Chris,Tom,4
+110,Gerald,Tom,2
+111,Stan,Tom,2
+112,Chris,Gerald,2
+113,Chris,Stan,2
+114,Gerald,Stan,4
+115,Cartman,Richard,1
+116,Cartman,Sharon,1
+117,Kyle,Sheila,1
+118,Cartman,Sheila,1
+119,Mr. Mackey,Roger,3
+120,Roger,Stephen,1
+121,Mr. Mackey's Father,Roger,1
+122,Mr. Mackey,Richard,6
+123,Mr. Mackey,Stephen,3
+124,Mr. Mackey,Mr. Mackey's Father,3
+125,Richard,Stephen,2
+126,Mr. Mackey's Father,Richard,2
+127,Mr. Mackey's Father,Stephen,1
+128,Sheila,Stan,6
+129,Linda,Stan,3
+130,A Woman,Stan,3
+131,Linda,Sharon,1
+132,A Woman,Sharon,1
+133,Gerald,Linda,1
+134,A Woman,Gerald,1
+135,Linda,Sheila,2
+136,Roger,Sheila,2
+137,A Woman,Sheila,2
+138,Linda,Roger,1
+139,A Woman,Linda,1
+140,A Woman,Roger,1
+141,Mongolian,Stan,1
+142,Cartman,Stan,1
+143,Stan,Tweek,1
+144,All,Stan,1
+145,Cartman,Mongolian,1
+146,Mongolian,Tweek,1
+147,All,Mongolian,1
+148,All,Cartman,1
+149,All,Tweek,1

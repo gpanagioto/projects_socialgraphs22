@@ -1,0 +1,59 @@
+,source,target,weight
+0,Shelly,Stan,1
+1,Sharon,Stan,1
+2,Stan,Towelie,2
+3,Sharon,Shelly,1
+4,Shelly,Towelie,2
+5,Sharon,Towelie,2
+6,Butters,Cartman,125
+7,Cartman,Cook,22
+8,Cartman,Wendy,27
+9,Butters,Cook,15
+10,Butters,Wendy,22
+11,Cook,Wendy,2
+12,Cartman,Smith,2
+13,Cartman,Craig,6
+14,Cartman,Nichole,24
+15,Boy,Cartman,24
+16,Cartman,Millie,6
+17,Cartman,Mr. Mackey,32
+18,Craig,Nichole,2
+19,Boy,Craig,3
+20,Craig,Millie,1
+21,Craig,Mr. Mackey,4
+22,Butters,Craig,1
+23,Boy,Nichole,8
+24,Millie,Nichole,2
+25,Mr. Mackey,Nichole,8
+26,Butters,Nichole,12
+27,Boy,Millie,3
+28,Boy,Mr. Mackey,12
+29,Boy,Butters,8
+30,Millie,Mr. Mackey,4
+31,Butters,Millie,1
+32,Butters,Mr. Mackey,6
+33,Gerald,Towelie,7
+34,Nichole,Wendy,6
+35,Boy,Wendy,3
+36,Clerk,Towelie,4
+37,Clerk,Customer,4
+38,Customer,Towelie,1
+39,Cook,Mr. Mackey,2
+40,Goo Man,Mr. Kim,64
+41,Both,Cartman,5
+42,Both,Butters,4
+43,Clerk,Goo Man,4
+44,Cartman,Clerk,2
+45,Clerk,Rancer,1
+46,Clerk,Rancher,1
+47,Butters,Clerk,1
+48,Cartman,Goo Man,8
+49,Goo Man,Rancer,4
+50,Goo Man,Rancher,4
+51,Butters,Goo Man,4
+52,Cartman,Rancer,2
+53,Cartman,Rancher,2
+54,Rancer,Rancher,1
+55,Butters,Rancer,1
+56,Butters,Rancher,1
+57,Bll Keegan,Rick,5

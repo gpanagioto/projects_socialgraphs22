@@ -1,0 +1,57 @@
+,source,target,weight
+0,Cartman,Kyle,25
+1,Cartman,Stan,85
+2,Cartman,Kenny,5
+3,Cartman,Woman,15
+4,Brian,Cartman,65
+5,Cartman,Kelly,10
+6,Kyle,Stan,89
+7,Kenny,Kyle,4
+8,Kyle,Woman,12
+9,Brian,Kyle,52
+10,Kelly,Kyle,8
+11,Kenny,Stan,16
+12,Stan,Woman,48
+13,Brian,Stan,220
+14,Kelly,Stan,38
+15,Kenny,Woman,3
+16,Brian,Kenny,13
+17,Kelly,Kenny,2
+18,Brian,Woman,39
+19,Kelly,Woman,6
+20,Brian,Kelly,28
+21,Sharon,Stan,58
+22,Marvin,Stan,8
+23,Marvin,Sharon,3
+24,Michelle,Stan,42
+25,Kelly,Michelle,7
+26,Brian,Michelle,14
+27,Brian,Mr. Mackey,4
+28,Mike,Mr. Mackey,4
+29,Brian,Mike,16
+30,Man,President,4
+31,Man 3,Man 4,1
+32,Man 3,Stan,1
+33,Man 3,President,1
+34,Man 4,Stan,1
+35,Man 4,President,1
+36,President,Stan,162
+37,President,Sharon,22
+38,President,Shelly,4
+39,John Travolta,President,4
+40,Cruise,President,40
+41,Sharon,Shelly,3
+42,John Travolta,Sharon,3
+43,Cruise,Sharon,30
+44,John Travolta,Shelly,1
+45,Shelly,Stan,10
+46,Cruise,Shelly,10
+47,John Travolta,Stan,10
+48,Cruise,John Travolta,10
+49,Cruise,Stan,100
+50,Chris,Sergeant,1
+51,President,Xenu,30
+52,Sharon,Xenu,3
+53,Stan,Xenu,12
+54,Cruise,Nicole,20
+55,Cruise,Travolta,16

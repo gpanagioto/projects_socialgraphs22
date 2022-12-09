@@ -1,0 +1,168 @@
+,source,target,weight
+0,Edge,Spectators,3
+1,Darryl,Edge,6
+2,Edge,Obese woman,3
+3,Edge,John Cena,3
+4,Edge,Redneck 1,3
+5,Cartman,Edge,9
+6,Edge,Stan,3
+7,Edge,Redneck 2,3
+8,Edge,Redneck 3,3
+9,Butters,Edge,3
+10,Darryl,Spectators,2
+11,Obese woman,Spectators,1
+12,John Cena,Spectators,1
+13,Redneck 1,Spectators,1
+14,Cartman,Spectators,7
+15,Spectators,Stan,5
+16,Redneck 2,Spectators,1
+17,Redneck 3,Spectators,1
+18,Butters,Spectators,1
+19,Darryl,Obese woman,2
+20,Darryl,John Cena,2
+21,Darryl,Redneck 1,2
+22,Cartman,Darryl,6
+23,Darryl,Stan,2
+24,Darryl,Redneck 2,2
+25,Darryl,Redneck 3,2
+26,Butters,Darryl,2
+27,John Cena,Obese woman,1
+28,Obese woman,Redneck 1,1
+29,Cartman,Obese woman,3
+30,Obese woman,Stan,1
+31,Obese woman,Redneck 2,1
+32,Obese woman,Redneck 3,1
+33,Butters,Obese woman,1
+34,John Cena,Redneck 1,1
+35,Cartman,John Cena,3
+36,John Cena,Stan,1
+37,John Cena,Redneck 2,1
+38,John Cena,Redneck 3,1
+39,Butters,John Cena,1
+40,Cartman,Redneck 1,3
+41,Redneck 1,Stan,1
+42,Redneck 1,Redneck 2,1
+43,Redneck 1,Redneck 3,1
+44,Butters,Redneck 1,1
+45,Cartman,Stan,164
+46,Cartman,Redneck 2,3
+47,Cartman,Redneck 3,3
+48,Butters,Cartman,85
+49,Redneck 2,Stan,1
+50,Redneck 3,Stan,1
+51,Butters,Stan,39
+52,Redneck 2,Redneck 3,1
+53,Butters,Redneck 2,1
+54,Butters,Redneck 3,1
+55,Kyle,Stan,91
+56,Coach,Stan,48
+57,Stan,The boys,4
+58,Butters,Kyle,31
+59,Cartman,Kyle,144
+60,Coach,Kyle,48
+61,Kyle,The boys,4
+62,Butters,Coach,48
+63,Butters,The boys,4
+64,Cartman,Coach,120
+65,Cartman,The boys,10
+66,Coach,The boys,12
+67,Cartman,Jimmy,36
+68,Butters,Jimmy,21
+69,Jimmy,Stan,11
+70,Jimmy,Tolkien,5
+71,Cartman,Tolkien,15
+72,Butters,Tolkien,8
+73,Stan,Tolkien,10
+74,Redneck 4,Redneck 5,1
+75,Redneck 11,Redneck 12,1
+76,Jimmy,Kenny,2
+77,Announcer,Stan,6
+78,Redneck 13,Stan,5
+79,Redneck 14,Stan,4
+80,Redneck 15,Stan,4
+81,Redneck 16,Stan,4
+82,Announcer,Kyle,3
+83,Kyle,Redneck 13,2
+84,Kyle,Redneck 14,2
+85,Kyle,Redneck 15,2
+86,Kyle,Redneck 16,2
+87,Kyle,Spectators,2
+88,Announcer,Cartman,4
+89,Announcer,Redneck 13,1
+90,Announcer,Redneck 14,1
+91,Announcer,Redneck 15,1
+92,Announcer,Redneck 16,1
+93,Announcer,Spectators,1
+94,Cartman,Redneck 13,4
+95,Cartman,Redneck 14,4
+96,Cartman,Redneck 15,4
+97,Cartman,Redneck 16,4
+98,Redneck 13,Redneck 14,1
+99,Redneck 13,Redneck 15,1
+100,Redneck 13,Redneck 16,1
+101,Redneck 13,Spectators,1
+102,Redneck 14,Redneck 15,1
+103,Redneck 14,Redneck 16,1
+104,Redneck 14,Spectators,1
+105,Redneck 15,Redneck 16,1
+106,Redneck 15,Spectators,1
+107,Redneck 16,Spectators,1
+108,Darryl,Redneck 13,12
+109,Redneck 13,Redneck 17,3
+110,Coach,Redneck 13,9
+111,Darryl,Redneck 17,4
+112,Coach,Darryl,12
+113,Coach,Redneck 17,3
+114,Boys,Kyle,2
+115,Boys,Cartman,1
+116,Boys,Butters,1
+117,Redneck 18,Stan,1
+118,Redneck 13,Redneck 18,1
+119,Coach,Principal Victoria,16
+120,Kyle,Tolkien,8
+121,Darryl,Redneck 19,1
+122,Redneck 20,Stan,2
+123,Crowd,Stan,6
+124,Butters,Redneck 20,1
+125,Butters,Crowd,2
+126,Announcer,Butters,1
+127,Kyle,Redneck 20,1
+128,Crowd,Kyle,5
+129,Crowd,Redneck 20,1
+130,Announcer,Redneck 20,1
+131,Announcer,Crowd,1
+132,Kenny,Kyle,25
+133,Cartman,Kenny,40
+134,Kenny,Stan,22
+135,Cartman,Number 17,4
+136,Number 17,Number 24,1
+137,Kyle,Number 17,1
+138,Kenny,Number 17,1
+139,Number 17,Stan,2
+140,Cartman,Number 24,4
+141,Kyle,Number 24,1
+142,Kenny,Number 24,1
+143,Number 24,Stan,2
+144,Mr. Conners,Stan,8
+145,Number 37,Stan,4
+146,Redneck 21,Stan,4
+147,Kyle,Mr. Conners,8
+148,Kyle,Number 37,4
+149,Kyle,Redneck 21,4
+150,Cartman,Mr. Conners,10
+151,Cartman,Crowd,5
+152,Cartman,Number 37,5
+153,Cartman,Redneck 21,5
+154,Butters,Mr. Conners,4
+155,Crowd,Mr. Conners,2
+156,Mr. Conners,Number 37,2
+157,Mr. Conners,Redneck 21,2
+158,Butters,Number 37,1
+159,Butters,Redneck 21,1
+160,Crowd,Number 37,1
+161,Crowd,Redneck 21,1
+162,Number 37,Redneck 21,1
+163,Stan,Vince,1
+164,Butters,Guard,4
+165,Guard,Mr. Conners,2
+166,Butters,Kenny,1

@@ -1,0 +1,78 @@
+,source,target,weight
+0,Cartman,Kyle,98
+1,Kenny,Kyle,16
+2,Kyle,Stan,139
+3,Cartman,Kenny,12
+4,Cartman,Stan,45
+5,Kenny,Stan,14
+6,Kip's dad,Kip's mom,16
+7,Kip,Kip's mom,23
+8,Kip,Kip's dad,16
+9,Stan,Wendy,52
+10,Man 1,Stan,5
+11,Man 2,Stan,10
+12,Man 1,Wendy,2
+13,Man 2,Wendy,4
+14,Man 1,Man 2,2
+15,Computer voice,Stan,8
+16,Guard 1,Stan,5
+17,Profile 1,Stan,5
+18,Profile 2,Stan,5
+19,Profile 3,Stan,5
+20,Profile 4,Stan,5
+21,Guard 1,Profile 1,1
+22,Guard 1,Profile 2,1
+23,Guard 1,Profile 3,1
+24,Guard 1,Profile 4,1
+25,Profile 1,Profile 2,1
+26,Profile 1,Profile 3,1
+27,Profile 1,Profile 4,1
+28,Profile 2,Profile 3,1
+29,Profile 2,Profile 4,1
+30,Profile 3,Profile 4,1
+31,Dude,Kyle,10
+32,Cartman,Dude,14
+33,Stan,Tom Davis,35
+34,Guard,Tom Davis,10
+35,Profile 5,Tom Davis,5
+36,Referee,Tom Davis,10
+37,Profile 6,Tom Davis,5
+38,Guard,Stan,14
+39,Profile 5,Stan,7
+40,Referee,Stan,28
+41,Profile 6,Stan,7
+42,Guard,Profile 5,2
+43,Guard,Referee,4
+44,Guard,Profile 6,2
+45,Profile 5,Referee,2
+46,Profile 5,Profile 6,1
+47,Profile 6,Referee,2
+48,Boy,Kyle,9
+49,Boy,Cartman,6
+50,Butters' profile,Garrison's profile,1
+51,Butters' profile,Kevin Donahue's profile,1
+52,Butters' profile,Stan,3
+53,Butters' profile,Susan92's profile,1
+54,Butters' profile,Gary Johnson's profile,1
+55,Butters' profile,Kyle,4
+56,Butters' profile,Isiah,3
+57,Garrison's profile,Kevin Donahue's profile,1
+58,Garrison's profile,Stan,3
+59,Garrison's profile,Susan92's profile,1
+60,Garrison's profile,Gary Johnson's profile,1
+61,Garrison's profile,Kyle,4
+62,Garrison's profile,Isiah,3
+63,Kevin Donahue's profile,Stan,3
+64,Kevin Donahue's profile,Susan92's profile,1
+65,Gary Johnson's profile,Kevin Donahue's profile,1
+66,Kevin Donahue's profile,Kyle,4
+67,Isiah,Kevin Donahue's profile,3
+68,Stan,Susan92's profile,3
+69,Gary Johnson's profile,Stan,3
+70,Isiah,Stan,9
+71,Gary Johnson's profile,Susan92's profile,1
+72,Kyle,Susan92's profile,4
+73,Isiah,Susan92's profile,3
+74,Gary Johnson's profile,Kyle,4
+75,Gary Johnson's profile,Isiah,3
+76,Isiah,Kyle,12

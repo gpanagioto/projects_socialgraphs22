@@ -1,0 +1,141 @@
+,source,target,weight
+0,Linda,Sheila,3
+1,Sheila,Stephen,18
+2,Linda,Stephen,7
+3,Cartman,Stan,30
+4,Kyle,Stan,35
+5,Cartman,Kyle,10
+6,Gerald,Stephen,18
+7,Gerald,Sheila,9
+8,Butters,Gerald,1
+9,Butters,Stephen,7
+10,Butters,Sheila,4
+11,Stan,Stephen,4
+12,Phil,Stephen,19
+13,Stephen,The parents,2
+14,Josh,Stephen,20
+15,Phil,Stan,1
+16,Stan,The parents,1
+17,Josh,Stan,2
+18,Sheila,Stan,2
+19,Phil,The parents,7
+20,Josh,Phil,66
+21,Phil,Sheila,12
+22,Josh,The parents,5
+23,Sheila,The parents,2
+24,Josh,Sheila,11
+25,Butters,Kyle,5
+26,Butters,Cartman,13
+27,Butters,Stan,22
+28,Josh,The Boys,1
+29,Butters,Josh,2
+30,Cartman,Josh,1
+31,Stephen,The Boys,2
+32,Cartman,Stephen,2
+33,Sheila,The Boys,1
+34,Cartman,Sheila,1
+35,Butters,The Boys,2
+36,Stan,The Boys,1
+37,Cartman,The Boys,1
+38,Cartman,Thumper,14
+39,Cartman,Ike,4
+40,Butters,Thumper,21
+41,Ike,Thumper,14
+42,Kyle,Thumper,7
+43,Butters,Ike,6
+44,Ike,Kyle,2
+45,Gerald,Josh,29
+46,Gerald,Phil,36
+47,Gerald,The parents,2
+48,Cartman,Tad,16
+49,Cartman,Skier,1
+50,Cartman,Tad's friends,1
+51,Stan,Tad,162
+52,Skier,Tad,8
+53,Tad,Tad's friends,13
+54,Skier,Stan,5
+55,Stan,Tad's friends,11
+56,Skier,Tad's friends,1
+57,Josh,Sharon,5
+58,Gerald,Sharon,3
+59,Phil,Sharon,5
+60,Sharon,Sheila,1
+61,Sharon,Stephen,3
+62,Kyle,Tad,13
+63,Heather,Kyle,2
+64,Kyle,Tad's friends,1
+65,Heather,Stan,12
+66,Heather,Tad,10
+67,Heather,Tad's friends,2
+68,Butters,Tad,14
+69,A skier,Tad,3
+70,Tad,Teen girl,14
+71,A skier,Stan,4
+72,Stan,Teen girl,18
+73,A skier,Butters,2
+74,Butters,Teen girl,5
+75,A skier,Teen girl,2
+76,Gerald,Lift Operator,4
+77,Gerald,Linda,3
+78,Lift Operator,Stephen,6
+79,Lift Operator,Sheila,2
+80,Lift Operator,Linda,2
+81,Announcer,Stan,10
+82,Stan,The ladies,10
+83,Stan,Teen Boy,10
+84,Stan,Teens,10
+85,A teen boy,Stan,10
+86,Announcer,Kyle,1
+87,Kyle,The ladies,1
+88,Kyle,Teen Boy,1
+89,Kyle,Teens,1
+90,Kyle,Teen girl,1
+91,A teen boy,Kyle,1
+92,Announcer,Butters,1
+93,Butters,The ladies,1
+94,Butters,Teen Boy,1
+95,Butters,Teens,1
+96,A teen boy,Butters,1
+97,Announcer,Cartman,1
+98,Cartman,The ladies,1
+99,Cartman,Teen Boy,1
+100,Cartman,Teens,1
+101,Cartman,Teen girl,1
+102,A teen boy,Cartman,1
+103,Announcer,Tad,8
+104,Announcer,The ladies,1
+105,Announcer,Teen Boy,1
+106,Announcer,Teens,1
+107,Announcer,Teen girl,1
+108,A teen boy,Announcer,1
+109,Tad,The ladies,8
+110,Tad,Teen Boy,8
+111,Tad,Teens,8
+112,A teen boy,Tad,8
+113,Teen Boy,The ladies,1
+114,Teens,The ladies,1
+115,Teen girl,The ladies,1
+116,A teen boy,The ladies,1
+117,Teen Boy,Teens,1
+118,Teen Boy,Teen girl,1
+119,A teen boy,Teen Boy,1
+120,Teen girl,Teens,1
+121,A teen boy,Teens,1
+122,A teen boy,Teen girl,1
+123,Mechanic,Stan,10
+124,Kyle,Mechanic,6
+125,Parents,Stephen,1
+126,Parents,Phil,2
+127,Josh,Parents,1
+128,Stan,Thumper,2
+129,Phil,Thin cop,10
+130,Fat cop,Phil,5
+131,Linda,Phil,5
+132,Fat cop,Thin cop,2
+133,Linda,Thin cop,2
+134,Gerald,Thin cop,2
+135,Josh,Thin cop,4
+136,Fat cop,Linda,1
+137,Fat cop,Gerald,1
+138,Fat cop,Josh,2
+139,Josh,Linda,2

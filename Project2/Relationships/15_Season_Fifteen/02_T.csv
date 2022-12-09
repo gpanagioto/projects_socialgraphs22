@@ -1,0 +1,112 @@
+,source,target,weight
+0,Butters,Kyle,34
+1,Kyle,Stan,26
+2,Cartman,Kyle,80
+3,Butters,Stan,23
+4,Butters,Cartman,76
+5,Cartman,Stan,56
+6,Butters,Craig,3
+7,Butters,Principal Victoria,3
+8,Butters,Mr. Mackey,3
+9,Cartman,Craig,4
+10,Cartman,Principal Victoria,106
+11,Cartman,Mr. Mackey,4
+12,Craig,Kyle,2
+13,Craig,Principal Victoria,1
+14,Craig,Mr. Mackey,1
+15,Craig,Stan,1
+16,Kyle,Principal Victoria,2
+17,Kyle,Mr. Mackey,2
+18,Mr. Mackey,Principal Victoria,1
+19,Principal Victoria,Stan,1
+20,Mr. Mackey,Stan,1
+21,Cartman,Clyde,10
+22,Butters,Clyde,4
+23,Clyde,Kyle,4
+24,Clyde,Stan,2
+25,Millie,Nelly,1
+26,Cartman,Millie,2
+27,Millie,Principal Victoria,1
+28,Cartman,Nelly,2
+29,Nelly,Principal Victoria,1
+30,Doctor,Liane,3
+31,Cartman,Liane,2
+32,Liane,Receptionist,1
+33,Cartman,Doctor,29
+34,Doctor,Receptionist,3
+35,Cartman,Receptionist,2
+36,Mrs. Stevens,Principal Victoria,2
+37,Bodybuilder,Tea Bag Participant,2
+38,Bodybuilder,Doctor,4
+39,Bodybuilder,Michael,1
+40,Bodybuilder,Tuong Lu Kim,1
+41,Bodybuilder,Wigger,1
+42,Bodybuilder,Cartman,3
+43,Doctor,Tea Bag Participant,8
+44,Michael,Tea Bag Participant,2
+45,Tea Bag Participant,Tuong Lu Kim,2
+46,Tea Bag Participant,Wigger,2
+47,Cartman,Tea Bag Participant,6
+48,Doctor,Michael,4
+49,Doctor,Tuong Lu Kim,14
+50,Doctor,Wigger,4
+51,Michael,Tuong Lu Kim,1
+52,Michael,Wigger,1
+53,Cartman,Michael,5
+54,Tuong Lu Kim,Wigger,1
+55,Cartman,Tuong Lu Kim,5
+56,Cartman,Wigger,3
+57,Riley,Theresa,3
+58,Daniel,Doctor,23
+59,Chase,Daniel,13
+60,Daniel,Wayne D,15
+61,Daniel,Gretchen,9
+62,Daniel,Tuong Lu Kim,8
+63,Cartman,Daniel,10
+64,Chase,Doctor,15
+65,Doctor,Wayne D,18
+66,Doctor,Gretchen,13
+67,Chase,Wayne D,10
+68,Chase,Gretchen,6
+69,Chase,Tuong Lu Kim,6
+70,Cartman,Chase,5
+71,Gretchen,Wayne D,7
+72,Tuong Lu Kim,Wayne D,6
+73,Cartman,Wayne D,9
+74,Gretchen,Tuong Lu Kim,4
+75,Cartman,Gretchen,4
+76,Ms. Turnod,Wendy,1
+77,Clerk,Customer,1
+78,Cartman,Customer,1
+79,Cartman,Clerk,1
+80,Cartman,Field Reporter,6
+81,Chase,Field Reporter,3
+82,Daniel,Field Reporter,3
+83,Field Reporter,Wayne D,3
+84,Butters,Linda,9
+85,Butters,Driver 1,3
+86,Butters,Driver 2,3
+87,Butters,Driver 3,3
+88,Driver 1,Linda,3
+89,Driver 2,Linda,3
+90,Driver 3,Linda,3
+91,Driver 1,Driver 2,1
+92,Driver 1,Driver 3,1
+93,Driver 2,Driver 3,1
+94,Cartman,Woman,2
+95,Wayne D,Woman,1
+96,Michael,Woman,1
+97,Announcer,Woman,1
+98,Rebecca Turnod,Woman,2
+99,Daniel,Woman,1
+100,Announcer,Cartman,2
+101,Cartman,Rebecca Turnod,4
+102,Michael,Wayne D,1
+103,Announcer,Wayne D,1
+104,Rebecca Turnod,Wayne D,2
+105,Announcer,Michael,1
+106,Michael,Rebecca Turnod,2
+107,Daniel,Michael,1
+108,Announcer,Rebecca Turnod,2
+109,Announcer,Daniel,1
+110,Daniel,Rebecca Turnod,2

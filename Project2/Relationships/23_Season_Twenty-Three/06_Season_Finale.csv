@@ -1,0 +1,88 @@
+,source,target,weight
+0,Mayor,Mayor McDaniels,6
+1,Cartman,Kyle,6
+2,Jason,Kyle,4
+3,Cartman,Jason,6
+4,Shelly,Stan,16
+5,Sharon,Shelly,20
+6,Sharon,Stan,16
+7,Garrison,Giuliani,18
+8,Sharon,Sheila,8
+9,Sheila,Shelly,2
+10,Linda Black,Sheila,2
+11,Bob,Sheila,4
+12,Mrs. White,Sheila,2
+13,Butters,Sheila,4
+14,Cartman,Sheila,4
+15,Linda Black,Sharon,4
+16,Bob,Sharon,8
+17,Mrs. White,Sharon,4
+18,Butters,Sharon,8
+19,Cartman,Sharon,8
+20,Linda Black,Shelly,1
+21,Bob,Shelly,2
+22,Mrs. White,Shelly,1
+23,Butters,Shelly,2
+24,Cartman,Shelly,2
+25,Bob,Linda Black,2
+26,Linda Black,Mrs. White,1
+27,Butters,Linda Black,2
+28,Cartman,Linda Black,2
+29,Bob,Mrs. White,64
+30,Bob,Butters,4
+31,Bob,Cartman,4
+32,Butters,Mrs. White,2
+33,Cartman,Mrs. White,3
+34,Butters,Cartman,4
+35,Bob,Jeff,32
+36,Baja Shepherd,Bob,4
+37,Bob,Mexican,4
+38,Jeff,Mrs. White,16
+39,Baja Shepherd,Jeff,6
+40,Jeff,Mexican,6
+41,Baja Shepherd,Mrs. White,2
+42,Mexican,Mrs. White,2
+43,Baja Shepherd,Mexican,1
+44,Crystal,Mrs. White,10
+45,Anchor,Mrs. White,5
+46,Giuliani,Mrs. White,5
+47,Mr. White,Mrs. White,5
+48,Bob,Crystal,18
+49,Anchor,Bob,6
+50,Bob,Giuliani,7
+51,Bob,Mr. White,6
+52,Anchor,Crystal,1
+53,Crystal,Giuliani,1
+54,Crystal,Mr. White,1
+55,Anchor,Giuliani,1
+56,Anchor,Mr. White,1
+57,Giuliani,Mr. White,1
+58,Bob,Panamanian,4
+59,Jeff,Panamanian,2
+60,Mrs. White,Panamanian,2
+61,Giuliani,Officer Peterson,3
+62,Crowd,Field reporter,1
+63,Crowd,The Whites,1
+64,Crowd,Mrs. White,1
+65,Bob,Crowd,5
+66,Crowd,Crystal,2
+67,Field reporter,The Whites,1
+68,Field reporter,Mrs. White,1
+69,Bob,Field reporter,4
+70,Crystal,Field reporter,2
+71,Mrs. White,The Whites,1
+72,Bob,The Whites,4
+73,Crystal,The Whites,2
+74,Crowd,Giuliani,1
+75,Giuliani,Man with orange shirt,1
+76,Giuliani,Townswoman,1
+77,Giuliani,Officer 2,1
+78,Crowd,Man with orange shirt,1
+79,Crowd,Townswoman,1
+80,Crowd,Officer 2,1
+81,Man with orange shirt,Townswoman,1
+82,Man with orange shirt,Officer 2,1
+83,Bob,Man with orange shirt,1
+84,Officer 2,Townswoman,1
+85,Bob,Townswoman,1
+86,Bob,Officer 2,1

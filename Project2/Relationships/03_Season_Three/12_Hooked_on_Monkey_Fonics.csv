@@ -1,0 +1,104 @@
+,source,target,weight
+0,Cartman,Liane,49
+1,Cartman,Female Voice,10
+2,Female Voice,Liane,6
+3,Gerald,Jimbo,9
+4,Cartman,Jimbo,54
+5,Jimbo,Kyle,24
+6,Jimbo,Mayor,52
+7,Jimbo,Stan,26
+8,Jimbo,The Cotswolds,8
+9,Jimbo,Mark,26
+10,Cartman,Gerald,10
+11,Gerald,Kyle,2
+12,Gerald,Mayor,9
+13,Gerald,Stan,3
+14,Gerald,The Cotswolds,2
+15,Gerald,Mark,3
+16,Cartman,Kyle,76
+17,Cartman,Mayor,146
+18,Cartman,Stan,104
+19,Cartman,The Cotswolds,20
+20,Cartman,Mark,89
+21,Kyle,Mayor,82
+22,Kyle,Stan,81
+23,Kyle,The Cotswolds,4
+24,Kyle,Mark,106
+25,Mayor,Stan,73
+26,Mayor,The Cotswolds,18
+27,Mark,Mayor,83
+28,Stan,The Cotswolds,2
+29,Mark,Stan,100
+30,Mark,The Cotswolds,6
+31,Mayor,Rebecca,32
+32,Kyle,Rebecca,194
+33,Mr. Cotswolds,Rebecca,55
+34,Jimbo,Rebecca,8
+35,Rebecca,Stan,32
+36,Cartman,Rebecca,28
+37,Mark,Rebecca,55
+38,Mayor,Mr. Cotswolds,16
+39,Kyle,Mr. Cotswolds,67
+40,Jimbo,Mr. Cotswolds,14
+41,Mr. Cotswolds,Stan,16
+42,Cartman,Mr. Cotswolds,14
+43,Mark,Mr. Cotswolds,99
+44,Mr. Cotswolds,Mrs. Cotswolds,84
+45,Mark,Mrs. Cotswolds,58
+46,Mrs. Cotswolds,Rebecca,22
+47,Kyle,Mrs. Cotswolds,27
+48,Mark,Mr. Garrison,10
+49,Cartman,Mr. Garrison,25
+50,Mr. Garrison,Stan,10
+51,Pip,Stan,12
+52,Mark,Pip,9
+53,Craig,Pip,6
+54,Butters,Pip,3
+55,Craig,Stan,20
+56,Butters,Stan,6
+57,Craig,Mark,17
+58,Butters,Mark,5
+59,Butters,Craig,5
+60,Gerald,Mr. Cotswolds,5
+61,Mark,Principal Victoria,5
+62,Kenny,Mark,5
+63,Principal Victoria,Stan,5
+64,Kenny,Stan,13
+65,Kyle,Principal Victoria,3
+66,Kenny,Principal Victoria,1
+67,Craig,Principal Victoria,2
+68,Kenny,Kyle,3
+69,Craig,Kyle,6
+70,Craig,Kenny,2
+71,Announcer,Cartman,5
+72,Announcer,Liane,4
+73,Both parents,Mark,3
+74,Both parents,Mr. Cotswolds,5
+75,Both parents,Mrs. Cotswolds,1
+76,Both parents,Rebecca,4
+77,Both parents,Kyle,3
+78,Liane,Stan,8
+79,Kenny,Liane,4
+80,Cartman,Kenny,14
+81,Boys,Stan,2
+82,Bill,Stan,2
+83,Men,Stan,2
+84,Boys,Craig,1
+85,Bill,Craig,1
+86,Craig,Jimbo,3
+87,Craig,Gerald,1
+88,Craig,Men,1
+89,Boys,Butters,1
+90,Bill,Butters,1
+91,Butters,Jimbo,3
+92,Butters,Gerald,1
+93,Butters,Men,1
+94,Bill,Boys,1
+95,Boys,Jimbo,3
+96,Boys,Gerald,1
+97,Boys,Men,1
+98,Bill,Jimbo,3
+99,Bill,Gerald,1
+100,Bill,Men,1
+101,Jimbo,Men,3
+102,Gerald,Men,1

@@ -1,0 +1,49 @@
+,source,target,weight
+0,Guy Fieri,Sharon,6
+1,Announcer,Sharon,3
+2,Paula Deen,Sharon,6
+3,Announcer,Guy Fieri,2
+4,Guy Fieri,Paula Deen,4
+5,Announcer,Paula Deen,2
+6,Sharon,Stan,16
+7,Phillip,Terrance,4
+8,Alton Brown,Terrance,8
+9,Stan,Terrance,2
+10,Announcer,Terrance,2
+11,Alton Brown,Phillip,8
+12,Phillip,Stan,2
+13,Announcer,Phillip,2
+14,Alton Brown,Stan,10
+15,Alton Brown,Announcer,8
+16,Announcer,Stan,1
+17,Woman 1,Woman 2,4
+18,Announcer,Woman 1,4
+19,Alton Brown,Woman 1,8
+20,Announcer,Woman 2,1
+21,Alton Brown,Woman 2,2
+22,Hotline Man,Sharon,6
+23,Sharon,Sheila,6
+24,Michael,Sharon,16
+25,Shake Weight,Sharon,111
+26,Cartman,Stan,19
+27,Shake Weight,Stan,10
+28,Craig,Stan,3
+29,Kyle,Stan,15
+30,Kenny,Stan,4
+31,Cartman,Kyle,7
+32,Kenny,Kyle,3
+33,Cartman,Kenny,2
+34,Bobby Flay,Cartman,2
+35,Alton Brown,Cartman,2
+36,Cartman,Jamie Oliver,1
+37,Bobby Flay,Stan,6
+38,Jamie Oliver,Stan,3
+39,Alton Brown,Bobby Flay,4
+40,Bobby Flay,Jamie Oliver,2
+41,Bobby Flay,Kyle,2
+42,Alton Brown,Jamie Oliver,4
+43,Alton Brown,Kyle,2
+44,Jamie Oliver,Kyle,1
+45,Rosemary,Shake Weight,4
+46,Rosemary,Sharon,3
+47,Announcer,Jamie Oliver,1

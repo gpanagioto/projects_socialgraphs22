@@ -1,0 +1,189 @@
+,source,target,weight
+0,Butters,Stan,18
+1,Blaine,Stan,51
+2,Carol,Stan,6
+3,Crowd,Stan,6
+4,Stan,Woman,3
+5,Kyle,Stan,160
+6,Cartman,Stan,34
+7,Jimbo,Stan,18
+8,Man,Stan,3
+9,Blaintologist,Stan,9
+10,Blaine,Butters,9
+11,Butters,Carol,2
+12,Butters,Crowd,2
+13,Butters,Woman,1
+14,Butters,Kyle,13
+15,Butters,Cartman,10
+16,Butters,Jimbo,6
+17,Butters,Man,1
+18,Blaintologist,Butters,1
+19,Blaine,Carol,18
+20,Blaine,Crowd,30
+21,Blaine,Woman,9
+22,Blaine,Kyle,69
+23,Blaine,Cartman,45
+24,Blaine,Jimbo,54
+25,Blaine,Man,14
+26,Blaine,Blaintologist,13
+27,Carol,Crowd,4
+28,Carol,Woman,2
+29,Carol,Kyle,10
+30,Carol,Cartman,6
+31,Carol,Jimbo,12
+32,Carol,Man,2
+33,Blaintologist,Carol,2
+34,Crowd,Woman,2
+35,Crowd,Kyle,13
+36,Cartman,Crowd,12
+37,Crowd,Jimbo,12
+38,Crowd,Man,5
+39,Blaintologist,Crowd,2
+40,Kyle,Woman,5
+41,Cartman,Woman,3
+42,Jimbo,Woman,6
+43,Man,Woman,1
+44,Blaintologist,Woman,1
+45,Cartman,Kyle,96
+46,Jimbo,Kyle,30
+47,Kyle,Man,6
+48,Blaintologist,Kyle,9
+49,Cartman,Jimbo,18
+50,Cartman,Man,5
+51,Blaintologist,Cartman,4
+52,Jimbo,Man,6
+53,Blaintologist,Jimbo,6
+54,Blaintologist,Man,1
+55,Stan,Steven,25
+56,Cartman,Steven,26
+57,Butters,Steven,15
+58,Kyle,Steven,26
+59,Ike,Kyle,3
+60,Ike,Sheila,3
+61,Kyle,Sheila,9
+62,Barber,Butters,1
+63,Recruits,Steven,1
+64,Recruits,Stan,11
+65,Butters,Recruits,1
+66,Kyle,Recruits,4
+67,Cartman,Recruits,1
+68,Aide,Recruits,6
+69,Aide,Steven,6
+70,Aide,Stan,66
+71,Aide,Butters,6
+72,Aide,Kyle,24
+73,Aide,Cartman,6
+74,Cartman,Elderly woman,67
+75,Elderly woman,Kyle,25
+76,Cartman,Driver,2
+77,Driver,Kyle,1
+78,Driver,Stan,1
+79,Jesus,Stan,85
+80,Announcer,Blaine,8
+81,Announcer,Kyle,2
+82,Announcer,Jesus,8
+83,Announcer,Man,2
+84,Announcer,Cartman,4
+85,Announcer,Crowd,6
+86,Announcer,Elderly woman,2
+87,Blaine,Jesus,36
+88,Blaine,Elderly woman,4
+89,Jesus,Kyle,26
+90,Jesus,Man,4
+91,Cartman,Jesus,15
+92,Crowd,Jesus,12
+93,Elderly woman,Jesus,4
+94,Elderly woman,Man,1
+95,Crowd,Elderly woman,3
+96,Buddha,Stan,20
+97,Buddha,Jesus,15
+98,Member,Steven,8
+99,Kyle,Member,4
+100,Cartman,Member,2
+101,Loa Tse,Mohammad,3
+102,Jesus,Mohammad,18
+103,Mohammad,Stan,14
+104,Joseph Smith,Mohammad,10
+105,Mohammad,Seaman,12
+106,Buddha,Mohammad,8
+107,Jesus,Loa Tse,1
+108,Loa Tse,Stan,2
+109,Joseph Smith,Loa Tse,1
+110,Loa Tse,Seaman,3
+111,Buddha,Loa Tse,2
+112,Jesus,Joseph Smith,24
+113,Jesus,Seaman,12
+114,Joseph Smith,Stan,28
+115,Seaman,Stan,12
+116,Joseph Smith,Seaman,6
+117,Buddha,Joseph Smith,8
+118,Buddha,Seaman,8
+119,Joseph Smith,Moses,8
+120,Joseph Smith,Lao Tse,11
+121,Joseph Smith,Krishna,7
+122,Moses,Stan,4
+123,Lao Tse,Stan,10
+124,Krishna,Stan,8
+125,Jesus,Moses,12
+126,Jesus,Lao Tse,9
+127,Jesus,Krishna,12
+128,Mohammad,Moses,6
+129,Lao Tse,Mohammad,3
+130,Krishna,Mohammad,4
+131,Lao Tse,Moses,4
+132,Krishna,Moses,4
+133,Krishna,Lao Tse,3
+134,Blaine,Steven,1
+135,Man,Steven,1
+136,George Bush,Karl Rove,1
+137,Karl Rove,Larry,1
+138,George Bush,Larry,1
+139,Blaintologist,Jesus,5
+140,Jesus,Lincoln,5
+141,Blaine,Buddha,8
+142,Blaine,Mohammad,4
+143,Blaine,Joseph Smith,12
+144,Blaine,Krishna,4
+145,Blaine,Lao Tse,4
+146,Blaine,Seaman,4
+147,Blaine,Lincoln,4
+148,Buddha,Krishna,2
+149,Buddha,Lao Tse,2
+150,Blaintologist,Buddha,2
+151,Buddha,Kyle,8
+152,Buddha,Lincoln,2
+153,Buddha,Cartman,2
+154,Blaintologist,Mohammad,1
+155,Kyle,Mohammad,4
+156,Lincoln,Mohammad,1
+157,Cartman,Mohammad,1
+158,Blaintologist,Joseph Smith,3
+159,Joseph Smith,Kyle,12
+160,Joseph Smith,Lincoln,3
+161,Cartman,Joseph Smith,3
+162,Krishna,Seaman,2
+163,Blaintologist,Krishna,1
+164,Krishna,Kyle,4
+165,Krishna,Lincoln,1
+166,Cartman,Krishna,1
+167,Lao Tse,Seaman,1
+168,Blaintologist,Lao Tse,1
+169,Kyle,Lao Tse,4
+170,Lao Tse,Lincoln,1
+171,Cartman,Lao Tse,1
+172,Blaintologist,Seaman,1
+173,Kyle,Seaman,4
+174,Lincoln,Seaman,1
+175,Cartman,Seaman,1
+176,Lincoln,Stan,6
+177,Blaintologist,Lincoln,1
+178,Kyle,Lincoln,4
+179,Cartman,Lincoln,1
+180,Jesus,Narrator,14
+181,Moses,Narrator,6
+182,Moses,Seaman,2
+183,Mohammad,Narrator,6
+184,Krishna,Narrator,3
+185,Narrator,Seaman,3
+186,Kyle,Narrator,1
+187,Cartman,Narrator,1

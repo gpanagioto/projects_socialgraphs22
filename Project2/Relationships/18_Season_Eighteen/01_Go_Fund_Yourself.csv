@@ -1,0 +1,79 @@
+,source,target,weight
+0,Cartman,Kenny,16
+1,Kyle,Stan,81
+2,Registrar,Stan,18
+3,Cartman,Registrar,12
+4,Kyle,Registrar,6
+5,Cartman,Stan,49
+6,Cartman,Kyle,152
+7,Butters,Stan,15
+8,Butters,Kyle,37
+9,Kenny,Stan,4
+10,Kenny,Kyle,8
+11,Butters,Cartman,65
+12,Butters,Kenny,8
+13,Cartman,Teen boy,1
+14,News 4 anchor,Teen boy,1
+15,Cartman,News 4 anchor,1
+16,Businessman,Cartman,8
+17,Businessman,Dan Snyder,7
+18,Businessman,Butters,1
+19,Businessman,Coach,2
+20,Cartman,Dan Snyder,56
+21,Cartman,Coach,16
+22,Butters,Dan Snyder,7
+23,Coach,Dan Snyder,14
+24,Butters,Coach,2
+25,A caller,Reporter,1
+26,Reporter,Woman,1
+27,A caller,Woman,1
+28,Dan Snyder,Goodell,21
+29,Dan Snyder,Jim Irsay,10
+30,Goodell,Jim Irsay,2
+31,Jim Irsay,Steve Bischiotti,2
+32,Jim Irsay,Paul Allen,4
+33,Alex Spanos,Jim Irsay,2
+34,Jerry Jones,Jim Irsay,2
+35,Jim Irsay,Owners,2
+36,Dan Snyder,Steve Bischiotti,5
+37,Dan Snyder,Paul Allen,10
+38,Alex Spanos,Dan Snyder,5
+39,Dan Snyder,Jerry Jones,5
+40,Dan Snyder,Owners,5
+41,Goodell,Steve Bischiotti,1
+42,Goodell,Paul Allen,2
+43,Alex Spanos,Goodell,1
+44,Goodell,Jerry Jones,1
+45,Goodell,Owners,1
+46,Paul Allen,Steve Bischiotti,2
+47,Alex Spanos,Steve Bischiotti,1
+48,Jerry Jones,Steve Bischiotti,1
+49,Owners,Steve Bischiotti,1
+50,Alex Spanos,Paul Allen,2
+51,Jerry Jones,Paul Allen,2
+52,Owners,Paul Allen,2
+53,Alex Spanos,Jerry Jones,1
+54,Alex Spanos,Owners,1
+55,Jerry Jones,Owners,1
+56,Employee,Harry,2
+57,Announcer,Commentator,8
+58,Announcer,Dan Snyder,8
+59,Commentator,Dan Snyder,4
+60,Crowd,Dan Snyder,4
+61,Another fan,Dan Snyder,4
+62,Dan Snyder,Fan wearing a blue star,4
+63,Dan Snyder,Other fans,4
+64,Announcer,Crowd,2
+65,Announcer,Another fan,2
+66,Announcer,Fan wearing a blue star,2
+67,Announcer,Other fans,2
+68,Commentator,Crowd,1
+69,Another fan,Commentator,1
+70,Commentator,Fan wearing a blue star,1
+71,Commentator,Other fans,1
+72,Another fan,Crowd,1
+73,Crowd,Fan wearing a blue star,1
+74,Crowd,Other fans,1
+75,Another fan,Fan wearing a blue star,1
+76,Another fan,Other fans,1
+77,Fan wearing a blue star,Other fans,1

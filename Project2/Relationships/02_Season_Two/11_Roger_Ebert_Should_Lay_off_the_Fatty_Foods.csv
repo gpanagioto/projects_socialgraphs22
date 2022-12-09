@@ -1,0 +1,91 @@
+,source,target,weight
+0,Kyle,Mr. Garrison,38
+1,Kyle,Stan,34
+2,Kyle,The Class,12
+3,Cartman,Kyle,18
+4,Mr. Garrison,Stan,43
+5,Mr. Garrison,The Class,30
+6,Cartman,Mr. Garrison,25
+7,Stan,The Class,12
+8,Cartman,Stan,17
+9,Cartman,The Class,4
+10,Announcer,Cartman,8
+11,Announcer,Kyle,1
+12,Announcer,Mr. Garrison,2
+13,A Girl,Dr. Adams,3
+14,A Girl,Kyle,1
+15,A Girl,Mr. Garrison,1
+16,Dr. Adams,Kyle,10
+17,Dr. Adams,Mr. Garrison,9
+18,Cartman,Dr. Adams,5
+19,Dr. Adams,Missy,2
+20,Dr. Adams,Stan,9
+21,Missy,Stan,2
+22,Boy,Kyle,1
+23,Kyle,Van Gelder,2
+24,Boy,Stan,1
+25,Boy,Mr. Garrison,1
+26,Boy,Van Gelder,2
+27,Boy,Cartman,1
+28,Stan,Van Gelder,3
+29,Mr. Garrison,Van Gelder,2
+30,Cartman,Van Gelder,2
+31,Nurse Gollum,Van Gelder,15
+32,Mr. Mackey,Nurse Gollum,25
+33,Mr. Mackey,Van Gelder,15
+34,Principal Victoria,Van Gelder,4
+35,Teen 1,Teen 2,1
+36,Dr. Adams,The Class,2
+37,Cartman,Liane,4
+38,Cartman,Cosette,2
+39,Cartman,Cosette's mother,2
+40,Cosette,Liane,1
+41,Cosette's mother,Liane,1
+42,Cosette,Cosette's mother,2
+43,Clyde,Mr. Garrison,2
+44,Clyde,Dr. Adams,2
+45,Clyde,Several kids,2
+46,A girl,Clyde,2
+47,Another girl,Clyde,2
+48,Clyde,Wendy,2
+49,Clyde,Fosse,2
+50,Mr. Garrison,Several kids,1
+51,A girl,Mr. Garrison,1
+52,Another girl,Mr. Garrison,1
+53,Mr. Garrison,Wendy,1
+54,Fosse,Mr. Garrison,1
+55,Dr. Adams,Several kids,1
+56,A girl,Dr. Adams,1
+57,Another girl,Dr. Adams,1
+58,Dr. Adams,Wendy,1
+59,Dr. Adams,Fosse,1
+60,A girl,Several kids,1
+61,Another girl,Several kids,1
+62,Several kids,Wendy,1
+63,Fosse,Several kids,1
+64,A girl,Another girl,1
+65,A girl,Wendy,1
+66,A girl,Fosse,1
+67,Another girl,Wendy,1
+68,Another girl,Fosse,1
+69,Fosse,Wendy,1
+70,Cartman,Center judge,3
+71,Center judge,Liane,1
+72,Blonde judge,Cartman,2
+73,Blonde judge,Center judge,1
+74,Asian reporter,Dr. Adams,2
+75,Kyle,Officer Barbrady,7
+76,Officer Barbrady,Stan,16
+77,Cartman,Director,11
+78,Director,Liane,1
+79,Dr. Adams,Officer Barbrady,20
+80,Chef,Stan,2
+81,Chef,Officer Barbrady,6
+82,Chef,Dr. Adams,2
+83,Cartman,Voice-over,2
+84,Mr. Mackey,Stan,2
+85,Nurse Gollum,Stan,1
+86,Mr. Mackey,Officer Barbrady,5
+87,Dr. Adams,Mr. Mackey,2
+88,Nurse Gollum,Officer Barbrady,2
+89,Dr. Adams,Nurse Gollum,1

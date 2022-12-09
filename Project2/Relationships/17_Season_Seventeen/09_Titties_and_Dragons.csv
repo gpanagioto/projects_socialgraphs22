@@ -1,0 +1,135 @@
+,source,target,weight
+0,Exec. 2,Sony President,14
+1,Kenny,Sony President,23
+2,Exec. 1,Sony President,16
+3,Exec. 2,Kenny,21
+4,Exec. 1,Exec. 2,16
+5,Exec. 1,Kenny,26
+6,Cartman,Clyde,10
+7,Clyde,Kyle,9
+8,Clyde,Liane,1
+9,Cartman,Kyle,110
+10,Cartman,Liane,5
+11,Kyle,Liane,4
+12,Niles,Rick,6
+13,Craig,Jimmy,4
+14,Craig,Stan,28
+15,Craig,Pete,8
+16,Craig,Kyle,20
+17,Cartman,Craig,12
+18,Clyde,Craig,4
+19,Jimmy,Stan,9
+20,Jimmy,Pete,2
+21,Jimmy,Kyle,6
+22,Cartman,Jimmy,8
+23,Clyde,Jimmy,1
+24,Pete,Stan,14
+25,Kyle,Stan,100
+26,Cartman,Stan,105
+27,Clyde,Stan,7
+28,Kyle,Pete,10
+29,Cartman,Pete,6
+30,Clyde,Pete,2
+31,Exec. 3,Sony President,4
+32,Exec. 3,Kenny,10
+33,Exec. 3,Secretary 1,2
+34,Cartman,Exec. 3,2
+35,Exec. 1,Exec. 3,8
+36,Exec. 2,Exec. 3,6
+37,Exec. 3,Man,2
+38,Exec. 3,The office,2
+39,Secretary 1,Sony President,2
+40,Cartman,Sony President,11
+41,Man,Sony President,2
+42,Sony President,The office,2
+43,Kenny,Secretary 1,5
+44,Cartman,Kenny,13
+45,Kenny,Man,5
+46,Kenny,The office,5
+47,Cartman,Secretary 1,1
+48,Exec. 1,Secretary 1,4
+49,Exec. 2,Secretary 1,3
+50,Man,Secretary 1,1
+51,Secretary 1,The office,1
+52,Cartman,Exec. 1,4
+53,Cartman,Exec. 2,3
+54,Cartman,Man,1
+55,Cartman,The office,1
+56,Exec. 1,Man,4
+57,Exec. 1,The office,4
+58,Exec. 2,Man,3
+59,Exec. 2,The office,3
+60,Man,The office,1
+61,Stan,Thompson,36
+62,Cartman,Thompson,66
+63,Niles,Tom,1
+64,Butters,George R. R. Martin,1
+65,Cartman,Manager,28
+66,Kyle,Manager,16
+67,Kyle,Sharon,8
+68,Sharon,Stan,7
+69,Guard 3,Guard 6,4
+70,Guard 6,Guard 8,4
+71,Guard 3,Guard 8,1
+72,George R. R. Martin,Shopper 8,2
+73,Crowd,George R. R. Martin,2
+74,George R. R. Martin,Manager,4
+75,George R. R. Martin,Pete,2
+76,Crowd,Shopper 8,1
+77,Manager,Shopper 8,2
+78,Pete,Shopper 8,1
+79,Crowd,Manager,2
+80,Crowd,Pete,1
+81,Manager,Pete,2
+82,Clyde,Kenny,1
+83,Shopper 10,Shopper 9,1
+84,Shopper 11,Shopper 9,1
+85,Shopper 10,Shopper 11,1
+86,Gates,Kyle,7
+87,Kyle,Sony President,7
+88,Kenny,Kyle,7
+89,Cartman,Gates,10
+90,Gates,Sony President,7
+91,Gates,Kenny,1
+92,Gates,Stan,2
+93,Sony President,Stan,1
+94,Kenny,Stan,1
+95,Butters,Sony President,3
+96,Butters,Gates,2
+97,Butters,Cartman,6
+98,Guard 8,Shopper 4,1
+99,Rick,Shopper 4,1
+100,Shopper 12,Shopper 4,1
+101,Shopper 2,Shopper 4,1
+102,Shopper 13,Shopper 4,1
+103,Sharon,Shopper 4,1
+104,Guard 8,Rick,1
+105,Guard 8,Shopper 12,1
+106,Guard 8,Shopper 2,1
+107,Guard 8,Shopper 13,1
+108,Guard 8,Sharon,1
+109,Rick,Shopper 12,1
+110,Rick,Shopper 2,1
+111,Rick,Shopper 13,1
+112,Rick,Sharon,1
+113,Shopper 12,Shopper 2,1
+114,Shopper 12,Shopper 13,1
+115,Sharon,Shopper 12,1
+116,Shopper 13,Shopper 2,1
+117,Sharon,Shopper 2,1
+118,Sharon,Shopper 13,1
+119,Cartman,Elmo,2
+120,Cartman,EVGames clerk,4
+121,Elmo,Stan,1
+122,EVGames clerk,Stan,2
+123,Elmo,Gates,1
+124,EVGames clerk,Gates,2
+125,EVGames clerk,Elmo,2
+126,Butters,Stan,2
+127,Stan,The boys,4
+128,Butters,Jimmy,1
+129,Butters,Kyle,1
+130,Butters,The boys,2
+131,Jimmy,The boys,2
+132,Cartman,The boys,10
+133,Kyle,The boys,2

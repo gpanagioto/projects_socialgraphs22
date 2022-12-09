@@ -1,0 +1,204 @@
+,source,target,weight
+0,Cartman,Stan,104
+1,Electronic Head,Stan,10
+2,Kyle,Stan,70
+3,Carol,Stan,11
+4,Kenny,Stan,11
+5,Stan,Stuart,10
+6,Cartman,Electronic Head,18
+7,Cartman,Kyle,104
+8,Carol,Cartman,13
+9,Cartman,Kenny,13
+10,Cartman,Stuart,14
+11,Electronic Head,Kyle,10
+12,Carol,Electronic Head,2
+13,Electronic Head,Kenny,2
+14,Electronic Head,Stuart,2
+15,Carol,Kyle,11
+16,Kenny,Kyle,11
+17,Kyle,Stuart,13
+18,Carol,Kenny,33
+19,Carol,Stuart,27
+20,Kenny,Stuart,27
+21,Cartman,Tony,36
+22,Agent,Tony,12
+23,Agent,Cartman,20
+24,Dad,Mom,9
+25,Dad,Kenny,3
+26,Kenny,Mom,3
+27,Cartman,Mr. Hammerhead,4
+28,Mr. Garrison,Mr. Hammerhead,5
+29,Agent,Mr. Hammerhead,2
+30,Cartman,Mr. Garrison,20
+31,Agent,Mr. Garrison,10
+32,Mr. Garrison,Officer Barbrady,18
+33,Officer Barbrady,Tony,12
+34,Man,Officer Barbrady,36
+35,Officer Barbrady,Other NAMBLA Men,12
+36,Mr. Garrison,Tony,6
+37,Man,Mr. Garrison,18
+38,Mr. Garrison,Other NAMBLA Men,6
+39,Man,Tony,12
+40,Other NAMBLA Men,Tony,4
+41,Man,Other NAMBLA Men,12
+42,Cartman,Dr. Mephesto,25
+43,Members,NAMBLA leader,8
+44,Cartman,Members,6
+45,Cartman,NAMBLA leader,24
+46,Kenny,Pharmacist,6
+47,Announcer,Two Guys,2
+48,Announcer,Guy 1,2
+49,Announcer,Guy 2,2
+50,Announcer,Kenny,2
+51,Guy 1,Two Guys,1
+52,Guy 2,Two Guys,1
+53,Kenny,Two Guys,1
+54,Guy 1,Guy 2,1
+55,Guy 1,Kenny,1
+56,Guy 2,Kenny,1
+57,Carol,Operator,1
+58,Operator,Stuart,1
+59,Dr. Doctor,Kenny,6
+60,Carol,Dr. Doctor,9
+61,Dr. Doctor,Stuart,3
+62,NAMBLA Leader,Stan,27
+63,NAMBLA Membe,Stan,3
+64,Member 1,Stan,3
+65,Member 2,Stan,3
+66,Patrick,Stan,6
+67,Butters,Stan,10
+68,Mr. Harris,Stan,3
+69,Stan,Timmy,6
+70,Cartman,NAMBLA Leader,18
+71,Cartman,NAMBLA Membe,2
+72,Cartman,Member 1,2
+73,Cartman,Member 2,2
+74,Cartman,Patrick,4
+75,Butters,Cartman,32
+76,Cartman,Mr. Harris,2
+77,Cartman,Timmy,9
+78,NAMBLA Leader,NAMBLA Membe,6
+79,Kyle,NAMBLA Leader,19
+80,Member 1,NAMBLA Leader,6
+81,Member 2,NAMBLA Leader,6
+82,NAMBLA Leader,Patrick,12
+83,Butters,NAMBLA Leader,12
+84,Mr. Harris,NAMBLA Leader,6
+85,NAMBLA Leader,Timmy,8
+86,Kyle,NAMBLA Membe,1
+87,Member 1,NAMBLA Membe,1
+88,Member 2,NAMBLA Membe,1
+89,NAMBLA Membe,Patrick,2
+90,Butters,NAMBLA Membe,2
+91,Mr. Harris,NAMBLA Membe,1
+92,NAMBLA Membe,Timmy,1
+93,Kyle,Member 1,1
+94,Kyle,Member 2,1
+95,Kyle,Patrick,2
+96,Butters,Kyle,6
+97,Kyle,Mr. Harris,1
+98,Kyle,Timmy,3
+99,Member 1,Member 2,1
+100,Member 1,Patrick,2
+101,Butters,Member 1,2
+102,Member 1,Mr. Harris,1
+103,Member 1,Timmy,1
+104,Member 2,Patrick,2
+105,Butters,Member 2,2
+106,Member 2,Mr. Harris,1
+107,Member 2,Timmy,1
+108,Butters,Patrick,4
+109,Mr. Harris,Patrick,2
+110,Patrick,Timmy,2
+111,Butters,Mr. Harris,2
+112,Butters,Timmy,6
+113,Mr. Harris,Timmy,1
+114,Agent 1,Agent 2,1
+115,Agent 1,Mephesto,6
+116,Agent 1,Mr. Garrison,1
+117,Agent 1,Blond Member,1
+118,Agent 1,Brunet Member,1
+119,Agent 1,Members,2
+120,Agent 1,Black Member,1
+121,Agent 2,Mephesto,6
+122,Agent 2,Mr. Garrison,1
+123,Agent 2,Blond Member,1
+124,Agent 2,Brunet Member,1
+125,Agent 2,Members,2
+126,Agent 2,Black Member,1
+127,Mephesto,Mr. Garrison,6
+128,Blond Member,Mephesto,6
+129,Brunet Member,Mephesto,6
+130,Members,Mephesto,12
+131,Black Member,Mephesto,6
+132,Blond Member,Mr. Garrison,1
+133,Brunet Member,Mr. Garrison,1
+134,Members,Mr. Garrison,2
+135,Black Member,Mr. Garrison,1
+136,Blond Member,Brunet Member,1
+137,Blond Member,Members,2
+138,Black Member,Blond Member,1
+139,Brunet Member,Members,2
+140,Black Member,Brunet Member,1
+141,Black Member,Members,2
+142,Member 3,Member 4,1
+143,Kyle,Member 3,1
+144,Member 3,Stan,1
+145,Member 3,NAMBLA Leader,1
+146,Kyle,Member 4,1
+147,Member 4,Stan,1
+148,Member 4,NAMBLA Leader,1
+149,Mephesto,Stan,6
+150,Stan,Waiter,10
+151,Stan,The Boys,7
+152,Agent,Stan,2
+153,Kyle,Mephesto,3
+154,Kyle,Waiter,5
+155,Kyle,The Boys,8
+156,Agent,Kyle,1
+157,Mephesto,Waiter,15
+158,Mephesto,The Boys,6
+159,Carol,Mephesto,6
+160,Kenny,Mephesto,6
+161,Mephesto,Stuart,3
+162,Mephesto,NAMBLA Leader,6
+163,Mephesto,Timmy,3
+164,Agent,Mephesto,3
+165,The Boys,Waiter,10
+166,Carol,Waiter,10
+167,Kenny,Waiter,10
+168,Stuart,Waiter,5
+169,NAMBLA Leader,Waiter,10
+170,Timmy,Waiter,5
+171,Agent,Waiter,5
+172,Carol,The Boys,4
+173,Kenny,The Boys,4
+174,Stuart,The Boys,3
+175,NAMBLA Leader,The Boys,6
+176,The Boys,Timmy,3
+177,Agent,The Boys,2
+178,Carol,NAMBLA Leader,4
+179,Carol,Timmy,2
+180,Agent,Carol,2
+181,Kenny,NAMBLA Leader,4
+182,Kenny,Timmy,2
+183,Agent,Kenny,2
+184,NAMBLA Leader,Stuart,6
+185,Stuart,Timmy,1
+186,Agent,Stuart,1
+187,Agent,NAMBLA Leader,2
+188,Agent,Timmy,1
+189,Cartman,Tolkien,7
+190,Cartman,The Boys,10
+191,Timmy,Tolkien,1
+192,Stan,Tolkien,1
+193,The Boys,Tolkien,1
+194,Kyle,Tolkien,1
+195,Butters,Tolkien,4
+196,Butters,The Boys,4
+197,Paramedic,Stuart,1
+198,NAMBLA Leader,Paramedic,2
+199,Kyle,Paramedic,5
+200,Paramedic,Stan,2
+201,Cartman,Paramedic,3
+202,Paramedic,The Boys,1

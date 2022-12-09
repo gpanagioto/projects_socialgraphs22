@@ -1,0 +1,60 @@
+,source,target,weight
+0,Sharon,Stan,10
+1,Mayor McDaniels,Sharon,1
+2,Mayor McDaniels,Stephen,1
+3,Linda,Mayor McDaniels,1
+4,Mayor McDaniels,Stan,1
+5,Jimmy,Mayor McDaniels,1
+6,Butters,Mayor McDaniels,1
+7,Sharon,Stephen,1
+8,Linda,Sharon,1
+9,Jimmy,Sharon,1
+10,Butters,Sharon,1
+11,Linda,Stephen,1
+12,Stan,Stephen,1
+13,Jimmy,Stephen,1
+14,Butters,Stephen,1
+15,Linda,Stan,1
+16,Jimmy,Linda,1
+17,Butters,Linda,1
+18,Jimmy,Stan,32
+19,Butters,Stan,51
+20,Butters,Jimmy,19
+21,Passenger 1,Passenger 2,8
+22,Mitchell,Passenger 1,4
+23,Mitchell,Passenger 2,2
+24,Butters,Producer,50
+25,Butters,Kenny,5
+26,Jimmy,Producer,29
+27,Producer,Stan,85
+28,Kenny,Producer,7
+29,Jimmy,Kenny,3
+30,Kenny,Stan,6
+31,Female Inspector,Male Inspector,2
+32,A familiar voice,Prisoner 1,1
+33,Piglet,Prisoner 1,1
+34,A familiar voice,Piglet,1
+35,Presiding Judge,Prisoner 2,2
+36,Mickey,Thor,5
+37,Pooh,Thor,1
+38,Off-Screen Assistant,Thor,1
+39,Mickey,Pooh,5
+40,Mickey,Off-Screen Assistant,5
+41,Off-Screen Assistant,Pooh,1
+42,Mr. Mackey,Stan,5
+43,Jimmy,Mr. Mackey,1
+44,Mr. Mackey,Producer,3
+45,Censor,Stan,1
+46,Merchant,Pooh,8
+47,Piglet,Pooh,8
+48,Merchant,Piglet,4
+49,Butters,Cartman,2
+50,Butters,Kyle,2
+51,Cartman,Stan,4
+52,Kyle,Stan,4
+53,Cartman,Jimmy,1
+54,Jimmy,Kyle,1
+55,Cartman,Kyle,1
+56,Producer,The others,1
+57,Stan,The others,2
+58,Butters,The others,1

@@ -1,0 +1,97 @@
+,source,target,weight
+0,Cartman,Denver poll worker,9
+1,Cartman,Denver guard,6
+2,Denver guard,Denver poll worker,6
+3,Kyle,President Obama,7
+4,Cartman,President Obama,15
+5,Cartman,Kyle,124
+6,Cartman,Liane,11
+7,Kyle,Liane,18
+8,Agent,President Obama,18
+9,General Tso,President Obama,24
+10,Agent,General Tso,6
+11,Cartman,Officer 2,5
+12,Cartman,Officer 1,5
+13,Kyle,Officer 2,4
+14,Officer 1,Officer 2,2
+15,Kyle,Officer 1,4
+16,Kyle,Stan,86
+17,Jimmy,Stan,18
+18,Craig,Stan,11
+19,Butters,Stan,62
+20,Jimmy,Kyle,31
+21,Craig,Kyle,20
+22,Butters,Kyle,126
+23,Craig,Jimmy,3
+24,Butters,Jimmy,25
+25,Butters,Craig,14
+26,Cartman,General Tso,18
+27,A Diner,Cartman,3
+28,Cartman,Diner 1,3
+29,Cartman,Diner 2,3
+30,Cartman,Diner 3,3
+31,Cartman,Diner 4,3
+32,A Diner,General Tso,2
+33,Diner 1,General Tso,2
+34,Diner 2,General Tso,2
+35,Diner 3,General Tso,2
+36,Diner 4,General Tso,2
+37,A Diner,President Obama,2
+38,A Diner,Diner 1,1
+39,A Diner,Diner 2,1
+40,A Diner,Diner 3,1
+41,A Diner,Diner 4,1
+42,Diner 1,President Obama,2
+43,Diner 2,President Obama,2
+44,Diner 3,President Obama,2
+45,Diner 4,President Obama,2
+46,Diner 1,Diner 2,1
+47,Diner 1,Diner 3,1
+48,Diner 1,Diner 4,1
+49,Diner 2,Diner 3,1
+50,Diner 2,Diner 4,1
+51,Diner 3,Diner 4,1
+52,Doctor,Kyle,7
+53,Kenny,Kyle,21
+54,Butters,Doctor,9
+55,Doctor,Stan,3
+56,Doctor,Kenny,3
+57,Doctor,Jimmy,2
+58,Butters,Kenny,27
+59,Kenny,Stan,9
+60,Jimmy,Kenny,6
+61,General Tso,Kyle,8
+62,General Tso,Morgan Freeman,16
+63,Craig,General Tso,4
+64,General Tso,Stan,4
+65,General Tso,Jimmy,4
+66,Morgan Freeman,President Obama,8
+67,Craig,President Obama,2
+68,President Obama,Stan,2
+69,Jimmy,President Obama,2
+70,Kyle,Morgan Freeman,8
+71,Cartman,Morgan Freeman,12
+72,Cartman,Craig,3
+73,Cartman,Stan,3
+74,Cartman,Jimmy,3
+75,Craig,Morgan Freeman,4
+76,Morgan Freeman,Stan,4
+77,Jimmy,Morgan Freeman,4
+78,Agent 2,Mike,1
+79,Kyle,Mickey Mouse,6
+80,Jimmy,Liane,6
+81,Jimmy,Mickey Mouse,4
+82,Liane,Stan,9
+83,Liane,Mickey Mouse,6
+84,Mickey Mouse,Stan,6
+85,Butters,Cartman,4
+86,Café Monet diner,Salesman,1
+87,Cartman,Mickey Mouse,64
+88,Field reporter,Kyle,16
+89,Kyle,Wolf Blitzer,4
+90,Chris,Kyle,4
+91,Field reporter,Wolf Blitzer,4
+92,Chris,Field reporter,4
+93,Chris,Wolf Blitzer,1
+94,A Santa,Kyle,3
+95,A Santa,Stan,3

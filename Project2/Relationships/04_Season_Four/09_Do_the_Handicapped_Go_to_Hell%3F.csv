@@ -1,0 +1,98 @@
+,source,target,weight
+0,Cantor,Mr. Mackey,3
+1,Cantor,Cartman,4
+2,Cantor,Stan,2
+3,Cantor,Kenny,1
+4,Cantor,Priest Maxi,2
+5,Cartman,Mr. Mackey,12
+6,Mr. Mackey,Stan,6
+7,Kenny,Mr. Mackey,3
+8,Mr. Mackey,Priest Maxi,6
+9,Cartman,Stan,197
+10,Cartman,Kenny,42
+11,Cartman,Priest Maxi,54
+12,Kenny,Stan,49
+13,Priest Maxi,Stan,33
+14,Kenny,Priest Maxi,2
+15,Hula Dancers,Men,2
+16,Hula Dancers,Singers,2
+17,Hula Dancers,Satan,8
+18,Demon,Hula Dancers,2
+19,Hula Dancers,Man,2
+20,Gary,Hula Dancers,2
+21,Hula Dancers,Walter,4
+22,Men,Singers,1
+23,Men,Satan,4
+24,Demon,Men,1
+25,Man,Men,1
+26,Gary,Men,1
+27,Men,Walter,2
+28,Satan,Singers,4
+29,Demon,Singers,1
+30,Man,Singers,1
+31,Gary,Singers,1
+32,Singers,Walter,2
+33,Demon,Satan,4
+34,Man,Satan,4
+35,Gary,Satan,4
+36,Satan,Walter,8
+37,Demon,Man,1
+38,Demon,Gary,1
+39,Demon,Walter,2
+40,Gary,Man,1
+41,Man,Walter,2
+42,Gary,Walter,2
+43,Chris,Satan,232
+44,Chris,Saddam,46
+45,Saddam,Satan,86
+46,Sharon,Stan,4
+47,Cartman,Sharon,2
+48,Priest Maxi,Sharon,2
+49,Sister Anne,Stan,110
+50,Butters,Stan,48
+51,Cartman,Sister Anne,105
+52,Kenny,Sister Anne,36
+53,Butters,Sister Anne,28
+54,Butters,Cartman,48
+55,Butters,Kenny,12
+56,Cartman,Kyle,54
+57,Cartman,Timmy,28
+58,Kyle,Stan,55
+59,Stan,Timmy,26
+60,Kenny,Kyle,13
+61,Butters,Kyle,18
+62,Kyle,Timmy,14
+63,Kenny,Timmy,6
+64,Butters,Timmy,6
+65,Priest Maxi,Sister Anne,32
+66,Gerald,Ike,6
+67,Gerald,Sheila,10
+68,Gerald,Kyle,10
+69,Ike,Sheila,15
+70,Ike,Kyle,17
+71,Kyle,Sheila,25
+72,Kyle,Priest Maxi,14
+73,Ike,Priest Maxi,7
+74,Ike,Stan,1
+75,Kyle,Sister Anne,8
+76,Ike,Sister Anne,4
+77,Secretary,Sister Anne,10
+78,Secretary,The Pope,10
+79,Sister Anne,The Pope,25
+80,Stan,Tolkien,4
+81,Butters,Tolkien,2
+82,Clyde,Tolkien,2
+83,Kenny,Tolkien,1
+84,Cartman,Tolkien,2
+85,Clyde,Stan,8
+86,Butters,Clyde,4
+87,Clyde,Kenny,2
+88,Cartman,Clyde,4
+89,Stan,Woman,8
+90,Cartman,Woman,12
+91,Butters,Woman,2
+92,Butters,Priest Maxi,4
+93,Priest Maxi,Woman,8
+94,Heidi,Sister Anne,1
+95,Heidi,Stan,1
+96,Cartman,Heidi,2

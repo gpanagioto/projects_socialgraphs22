@@ -1,0 +1,44 @@
+,source,target,weight
+0,Cartman,Kyle,13
+1,Blanket,Cartman,11
+2,Cartman,Stan,15
+3,Blanket,Stan,22
+4,Kyle,Stan,22
+5,Blanket,Kyle,36
+6,Blanket,Michael,19
+7,Kyle,Michael,25
+8,Michael,Stan,24
+9,Cartman,Red,3
+10,Kyle,Red,1
+11,Craig,Red,2
+12,Cartman,Craig,6
+13,Craig,Kyle,2
+14,Cartman,Michael,12
+15,Sharon,Stan,5
+16,Michael,Stephen,7
+17,Michael,Sheila,4
+18,Michael,Sharon,5
+19,Sheila,Stephen,1
+20,Sharon,Stephen,1
+21,Sharon,Sheila,1
+22,Gerald,Michael,3
+23,Gerald,Stephen,1
+24,Harris,Yates,21
+25,Blanket,Mr. Jefferson,3
+26,Kyle,Mr. Jefferson,3
+27,Mr. Jefferson,Stan,4
+28,Michael,Mr. Jefferson,3
+29,Johnson,Yates,4
+30,Frakes,Johnson,1
+31,Harris,Johnson,2
+32,Frakes,Yates,4
+33,Frakes,Harris,2
+34,Cartman,Sharon,1
+35,Maggie,Yates,6
+36,Kenny,Stan,6
+37,Kenny,Kyle,2
+38,Snetzl,Yates,36
+39,Kenny,Michael,9
+40,Cartman,Yates,1
+41,Michael,Yates,2
+42,Kyle,Yates,1

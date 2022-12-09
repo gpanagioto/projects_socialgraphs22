@@ -1,0 +1,86 @@
+,source,target,weight
+0,Cartman,Heidi,172
+1,Cartman,Liane,9
+2,Heidi,Liane,7
+3,Cartman,Jimmy,5
+4,Jimmy,Kyle,4
+5,Heidi,Jimmy,3
+6,Jimmy,Stan,1
+7,Butters,Jimmy,1
+8,Cartman,Kyle,84
+9,Cartman,Stan,26
+10,Butters,Cartman,18
+11,Heidi,Kyle,99
+12,Kyle,Stan,13
+13,Butters,Kyle,15
+14,Heidi,Stan,15
+15,Butters,Heidi,7
+16,Butters,Stan,4
+17,Stan,Tolkien,3
+18,Kyle,Tolkien,3
+19,Butters,Tolkien,1
+20,Cartman,Tolkien,44
+21,Heidi,Tolkien,4
+22,Garrison,McConnell,21
+23,Garrison,Memberberries,6
+24,Garrison,Ryan,21
+25,McConnell,Memberberries,2
+26,McConnell,Ryan,17
+27,Memberberries,Ryan,1
+28,Kyle,Wendy,4
+29,Annie,Wendy,1
+30,Nichole,Wendy,1
+31,Theresa,Wendy,1
+32,Lola,Wendy,1
+33,Annie,Kyle,4
+34,Kyle,Nichole,4
+35,Kyle,Theresa,4
+36,Kyle,Lola,4
+37,Annie,Nichole,1
+38,Annie,Theresa,2
+39,Annie,Lola,3
+40,Nichole,Theresa,1
+41,Lola,Nichole,1
+42,Lola,Theresa,3
+43,Reporter,Ryan,4
+44,Linda,Tolkien,14
+45,Cartman,Linda,24
+46,Pence,Ryan,20
+47,McConnell,Pence,12
+48,Garrison,Pence,12
+49,Linda,Steve,12
+50,Cartman,Steve,42
+51,Steve,Tolkien,6
+52,Heidi,The other girls,3
+53,Red,The other girls,3
+54,Annie,The other girls,1
+55,Bebe,The other girls,3
+56,Isla,The other girls,2
+57,Lola,The other girls,2
+58,The other girls,Theresa,1
+59,The girls,The other girls,3
+60,Heidi,Red,9
+61,Annie,Heidi,3
+62,Bebe,Heidi,9
+63,Heidi,Isla,6
+64,Heidi,Lola,6
+65,Heidi,Theresa,3
+66,Heidi,The girls,9
+67,Annie,Red,3
+68,Bebe,Red,9
+69,Isla,Red,6
+70,Lola,Red,6
+71,Red,Theresa,3
+72,Red,The girls,9
+73,Annie,Bebe,3
+74,Annie,Isla,2
+75,Annie,The girls,3
+76,Bebe,Isla,6
+77,Bebe,Lola,6
+78,Bebe,Theresa,3
+79,Bebe,The girls,9
+80,Isla,Lola,4
+81,Isla,Theresa,2
+82,Isla,The girls,6
+83,Lola,The girls,6
+84,The girls,Theresa,3

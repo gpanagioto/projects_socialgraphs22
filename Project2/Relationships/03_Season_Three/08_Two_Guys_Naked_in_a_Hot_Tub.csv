@@ -1,0 +1,162 @@
+,source,target,weight
+0,Mr. Mackey,Stan,14
+1,Mr. Mackey,Sharon,15
+2,Mr. Mackey,Pip,6
+3,Butters,Mr. Mackey,4
+4,Dougie,Mr. Mackey,2
+5,All three,Mr. Mackey,2
+6,Sharon,Stan,21
+7,Pip,Stan,102
+8,Butters,Stan,104
+9,Dougie,Stan,42
+10,All three,Stan,6
+11,Pip,Sharon,3
+12,Butters,Sharon,10
+13,Dougie,Sharon,1
+14,All three,Sharon,1
+15,Butters,Pip,71
+16,Dougie,Pip,34
+17,All three,Pip,3
+18,Butters,Dougie,27
+19,All three,Butters,2
+20,All three,Dougie,1
+21,Gerald,Sheila,6
+22,Gerald,Mr. Mackey,9
+23,Gerald,Sharon,36
+24,Mr. Mackey,Sheila,6
+25,Sharon,Sheila,6
+26,ATF agent,Barbrady,4
+27,ATF agent,ATF lead,11
+28,ATF lead,Barbrady,19
+29,ATF agent,Johnson,4
+30,ATF lead,Johnson,6
+31,Mr. Mackey,Woman,2
+32,ATF lead,Man,1
+33,Agent 1,Man,1
+34,Agent 2,Man,1
+35,Agent 3,Man,1
+36,ATF lead,Agent 1,1
+37,ATF lead,Agent 2,1
+38,ATF lead,Agent 3,1
+39,Agent 1,Agent 2,1
+40,Agent 1,Agent 3,1
+41,Agent 2,Agent 3,1
+42,Blond man,Burly man,3
+43,Burly man,Jimbo,6
+44,Burly man,Other men,3
+45,Burly man,Gerald,6
+46,Blond man,Jimbo,2
+47,Blond man,Other men,1
+48,Blond man,Gerald,2
+49,Jimbo,Other men,2
+50,Gerald,Jimbo,10
+51,Gerald,Other men,2
+52,Reporter,Stan,15
+53,Dougie,Reporter,9
+54,Pip,Reporter,10
+55,Butters,Reporter,12
+56,Gerald,Stan,46
+57,Butters,Gerald,26
+58,ATF lead,Stan,6
+59,Barbrady,Stan,2
+60,ATF lead,Butters,3
+61,Barbrady,Butters,1
+62,Mr. Garrison,Mr. Mackey,1
+63,Goateed man,Other man,2
+64,Gerald,Other man,7
+65,Other man,Sharon,3
+66,Other man,Stan,4
+67,Butters,Other man,2
+68,Gerald,Goateed man,14
+69,Goateed man,Sharon,6
+70,Goateed man,Stan,8
+71,Butters,Goateed man,4
+72,Dougie,Ganz,7
+73,Ganz,Reporter,19
+74,Butters,Ganz,18
+75,Ganz,Stan,21
+76,Ganz,Pip,11
+77,Gerald,Mackey,6
+78,Gerald,Ned,3
+79,Gerald,Man 1,3
+80,Gerald,Man 2,3
+81,Gerald,Man 3,3
+82,Gerald,Man 4,3
+83,Gerald,Man 5,3
+84,Gerald,Man 6,3
+85,Gerald,Man 7,3
+86,Mackey,Ned,2
+87,Mackey,Man 1,2
+88,Mackey,Man 2,2
+89,Mackey,Man 3,2
+90,Mackey,Man 4,2
+91,Mackey,Man 5,2
+92,Mackey,Man 6,2
+93,Mackey,Man 7,2
+94,Jimbo,Mackey,4
+95,Man 1,Ned,1
+96,Man 2,Ned,1
+97,Man 3,Ned,1
+98,Man 4,Ned,1
+99,Man 5,Ned,1
+100,Man 6,Ned,1
+101,Man 7,Ned,1
+102,Jimbo,Ned,2
+103,Man 1,Man 2,1
+104,Man 1,Man 3,1
+105,Man 1,Man 4,1
+106,Man 1,Man 5,1
+107,Man 1,Man 6,1
+108,Man 1,Man 7,1
+109,Jimbo,Man 1,2
+110,Man 2,Man 3,1
+111,Man 2,Man 4,1
+112,Man 2,Man 5,1
+113,Man 2,Man 6,1
+114,Man 2,Man 7,1
+115,Jimbo,Man 2,2
+116,Man 3,Man 4,1
+117,Man 3,Man 5,1
+118,Man 3,Man 6,1
+119,Man 3,Man 7,1
+120,Jimbo,Man 3,2
+121,Man 4,Man 5,1
+122,Man 4,Man 6,1
+123,Man 4,Man 7,1
+124,Jimbo,Man 4,2
+125,Man 5,Man 6,1
+126,Man 5,Man 7,1
+127,Jimbo,Man 5,2
+128,Man 6,Man 7,1
+129,Jimbo,Man 6,2
+130,Jimbo,Man 7,2
+131,Blond agent,Reporter,1
+132,ATF agent,Reporter,1
+133,Derek,Reporter,2
+134,Kyle,Reporter,3
+135,Blond agent,Ganz,4
+136,ATF agent,Ganz,4
+137,Derek,Ganz,8
+138,Ganz,Kyle,12
+139,Blond agent,Pip,2
+140,ATF agent,Blond agent,1
+141,Blond agent,Derek,2
+142,Blond agent,Dougie,1
+143,Blond agent,Butters,3
+144,Blond agent,Stan,3
+145,Blond agent,Kyle,3
+146,ATF agent,Pip,2
+147,Derek,Pip,4
+148,Kyle,Pip,6
+149,ATF agent,Derek,2
+150,ATF agent,Dougie,1
+151,ATF agent,Butters,3
+152,ATF agent,Stan,3
+153,ATF agent,Kyle,3
+154,Derek,Dougie,2
+155,Butters,Derek,6
+156,Derek,Stan,6
+157,Derek,Kyle,6
+158,Dougie,Kyle,3
+159,Butters,Kyle,9
+160,Kyle,Stan,9

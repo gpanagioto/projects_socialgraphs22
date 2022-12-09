@@ -1,0 +1,105 @@
+,source,target,weight
+0,Kyle,Mr. Garrison,1
+1,Announcer 1,Mr. Garrison,3
+2,Cartman,Mr. Garrison,7
+3,Chef,Mr. Garrison,7
+4,Announcer 1,Cartman,7
+5,Announcer 1,Chef,6
+6,Cartman,Chef,13
+7,Chef,Kyle,12
+8,Kyle,Stan,17
+9,Chef,Stan,10
+10,Cartman,Kyle,24
+11,Sharon,Sheila,1
+12,Greenfield,Mayor McDaniels,27
+13,Mayor McDaniels,Officer Barbrady,7
+14,Jimbo,Mayor McDaniels,14
+15,Cameraman,Mayor McDaniels,5
+16,Announcer 1,Mayor McDaniels,6
+17,Greenfield,Officer Barbrady,6
+18,Greenfield,Jimbo,19
+19,Cameraman,Greenfield,5
+20,Announcer 1,Greenfield,7
+21,Jimbo,Officer Barbrady,5
+22,Cameraman,Officer Barbrady,1
+23,Announcer 1,Officer Barbrady,1
+24,Cameraman,Jimbo,1
+25,Announcer 1,Jimbo,5
+26,Announcer 1,Cameraman,2
+27,Liane,Receptionist,49
+28,Cartman,Stan,11
+29,Dr. Doctor,Stan,16
+30,Dr. Doctor,Kyle,23
+31,Assistant,Greenfield,8
+32,Garrison 1,Greenfield,4
+33,Greenfield,Mr. Hat 1,4
+34,Greenfield,Mr. Garrison,14
+35,Greenfield,Mr. Hat,4
+36,Assistant,Garrison 1,1
+37,Assistant,Mr. Hat 1,1
+38,Assistant,Mr. Garrison,5
+39,Assistant,Mr. Hat,1
+40,Garrison 1,Mr. Hat 1,1
+41,Garrison 1,Mr. Garrison,2
+42,Garrison 1,Mr. Hat,1
+43,Mr. Garrison,Mr. Hat 1,2
+44,Mr. Hat,Mr. Hat 1,1
+45,Mr. Garrison,Mr. Hat,2
+46,Greenfield,Mr. Hat 2,1
+47,Liane,O'Reilly,4
+48,Cartman,Dr. Doctor,17
+49,Garrison Actor,Mr. Hat Actor,1
+50,Eric Roberts as Kevin,Garrison Actor,1
+51,Garrison Actor,Greenfield,2
+52,Eric Roberts,Garrison Actor,1
+53,Eric Roberts as Kevin,Mr. Hat Actor,1
+54,Greenfield,Mr. Hat Actor,2
+55,Eric Roberts,Mr. Hat Actor,1
+56,Eric Roberts as Kevin,Greenfield,2
+57,Eric Roberts,Eric Roberts as Kevin,1
+58,Eric Roberts,Greenfield,2
+59,Cameraman,John Walsh,1
+60,Announcer 1,John Walsh,1
+61,Greenfield,John Walsh,1
+62,Dr. Doctor,Goodly,2
+63,Chef,Dr. Doctor,8
+64,Greenfield,Mayor McDaneils,1
+65,Mayor McDaneils,Mr. Garrison,1
+66,Mayor McDaneils,Mayor McDaniels,1
+67,Assistant,Mayor McDaneils,1
+68,Mayor McDaneils,Officer Barbrady,1
+69,Jimbo,Mayor McDaneils,1
+70,Mayor McDaniels,Mr. Garrison,4
+71,Mr. Garrison,Officer Barbrady,3
+72,Jimbo,Mr. Garrison,12
+73,Assistant,Mayor McDaniels,1
+74,Assistant,Officer Barbrady,1
+75,Assistant,Jimbo,4
+76,Barbrady,Jimbo,5
+77,Barbrady,Officer Barbrady,1
+78,Barbrady,Mr. Garrison,3
+79,Cartman,Kenny,8
+80,Dr. Doctor,Kenny,34
+81,Assistant,Barbrady,1
+82,Barbrady,Greenfield,2
+83,Kenny,Kyle,12
+84,Kenny,Stan,4
+85,Clinton,Liane,20
+86,Chef,Mephesto,16
+87,Dr. Doctor,Mephesto,2
+88,Ned,Officer Barbrady,1
+89,Officer Barbrady,Singer,1
+90,Jimbo,Ned,1
+91,Jimbo,Singer,1
+92,Mayor McDaniels,Ned,1
+93,Mayor McDaniels,Singer,1
+94,Ned,Singer,1
+95,Mr. Garrison,Ned,1
+96,Mr. Garrison,Singer,1
+97,Cartman,Mephesto,10
+98,Cartman,Liane,5
+99,Liane,Mephesto,10
+100,Mephesto,Mr. Garrison,10
+101,Chef,Liane,4
+102,Liane,Mr. Garrison,4
+103,Liane,Stan,1

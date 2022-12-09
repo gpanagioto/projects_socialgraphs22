@@ -1,0 +1,305 @@
+,source,target,weight
+0,Cartman,Stan,96
+1,Cartman,Kenny,17
+2,Cartman,Kyle,48
+3,Kenny,Stan,19
+4,Kyle,Stan,45
+5,Kenny,Kyle,8
+6,Announcer,Carson,1
+7,Carson,Sheila,2
+8,Carson,Gerald,3
+9,Carson,Kyle,9
+10,Announcer,Sheila,1
+11,Announcer,Gerald,3
+12,Announcer,Kyle,2
+13,Gerald,Sheila,12
+14,Kyle,Sheila,22
+15,Gerald,Kyle,24
+16,Gerald,Sharon,5
+17,Gerald,Stuart,8
+18,Gerald,Skeeter,4
+19,Sharon,Stuart,4
+20,Sharon,Skeeter,7
+21,Skeeter,Stuart,2
+22,Linda,Sheila,6
+23,Linda,Sharon,13
+24,Linda,Sarah,6
+25,Sharon,Sheila,6
+26,Sarah,Sheila,4
+27,Sarah,Sharon,6
+28,Butters,Cartman,4
+29,Cartman,Connor,4
+30,Cartman,Clyde,4
+31,A boy,Cartman,4
+32,Cartman,Craig,45
+33,Cartman,Chef,16
+34,Butters,Kenny,1
+35,Connor,Kenny,1
+36,Clyde,Kenny,1
+37,A boy,Kenny,1
+38,Craig,Kenny,7
+39,Chef,Kenny,4
+40,Butters,Stan,5
+41,Connor,Stan,5
+42,Clyde,Stan,5
+43,A boy,Stan,5
+44,Craig,Stan,45
+45,Chef,Stan,20
+46,Butters,Connor,1
+47,Butters,Clyde,1
+48,A boy,Butters,1
+49,Butters,Craig,4
+50,Butters,Kyle,2
+51,Butters,Chef,4
+52,Clyde,Connor,1
+53,A boy,Connor,1
+54,Connor,Craig,4
+55,Connor,Kyle,2
+56,Chef,Connor,4
+57,A boy,Clyde,1
+58,Clyde,Craig,4
+59,Clyde,Kyle,2
+60,Chef,Clyde,4
+61,A boy,Craig,4
+62,A boy,Kyle,2
+63,A boy,Chef,4
+64,Craig,Kyle,19
+65,Chef,Craig,16
+66,Chef,Kyle,8
+67,Class,Mr. Garrison,4
+68,Class,Timmy,1
+69,Class,Stan,2
+70,Class,Kyle,1
+71,Class,Craig,2
+72,Cartman,Class,4
+73,Mr. Garrison,Timmy,4
+74,Mr. Garrison,Stan,8
+75,Kyle,Mr. Garrison,68
+76,Craig,Mr. Garrison,8
+77,Cartman,Mr. Garrison,16
+78,Stan,Timmy,2
+79,Kyle,Timmy,1
+80,Craig,Timmy,2
+81,Cartman,Timmy,4
+82,Jimbo,Mr. Slave,8
+83,Mr. Garrison,Mr. Slave,51
+84,Mr. Slave,Richard,8
+85,Mr. Slave,Patrons,4
+86,Mr. Slave,Skeeter,2
+87,Jimbo,Mr. Garrison,56
+88,Jimbo,Richard,17
+89,Jimbo,Patrons,8
+90,Jimbo,Skeeter,10
+91,Mr. Garrison,Richard,56
+92,Mr. Garrison,Patrons,28
+93,Mr. Garrison,Skeeter,14
+94,Patrons,Richard,8
+95,Richard,Skeeter,4
+96,Patrons,Skeeter,2
+97,Stan,Tolkien,5
+98,Jason,Stan,10
+99,Cartman,Tolkien,6
+100,Cartman,Jason,12
+101,Kyle,Tolkien,3
+102,Jason,Kyle,6
+103,Craig,Tolkien,3
+104,Craig,Jason,6
+105,Jason,Tolkien,2
+106,A voice,Kyle,6
+107,Kyan,Kyle,18
+108,Kyle,Thom,10
+109,A voice,Sheila,3
+110,Kyan,Sheila,6
+111,Sheila,Thom,4
+112,A voice,Gerald,3
+113,Gerald,Kyan,3
+114,Gerald,Thom,3
+115,A voice,Kyan,1
+116,A voice,Thom,1
+117,Kyan,Thom,7
+118,Chef,Mr. Garrison,20
+119,Chef,Mr. Slave,10
+120,Clerk,Kyle,4
+121,Kyle,Mr. Slave,9
+122,Cartman,Richard,1
+123,Cartman,Man,1
+124,Cartman,Ryan,2
+125,Cartman,Gerald,1
+126,Cartman,Jimbo,2
+127,Cartman,Sharon,3
+128,Cartman,Linda,2
+129,Cartman,Mrs. Tweek,2
+130,Man,Richard,1
+131,Richard,Ryan,1
+132,Gerald,Richard,1
+133,Richard,Sharon,1
+134,Linda,Richard,1
+135,Mrs. Tweek,Richard,1
+136,Man,Ryan,1
+137,Gerald,Man,1
+138,Jimbo,Man,1
+139,Man,Sharon,1
+140,Linda,Man,1
+141,Man,Mrs. Tweek,1
+142,Gerald,Ryan,1
+143,Jimbo,Ryan,2
+144,Ryan,Sharon,3
+145,Linda,Ryan,2
+146,Mrs. Tweek,Ryan,2
+147,Gerald,Jimbo,1
+148,Gerald,Linda,1
+149,Gerald,Mrs. Tweek,1
+150,Jimbo,Sharon,7
+151,Jimbo,Linda,4
+152,Jimbo,Mrs. Tweek,2
+153,Mrs. Tweek,Sharon,3
+154,Linda,Mrs. Tweek,2
+155,Carson,Head of Programming,10
+156,Carson,Jai,5
+157,Carson,Mr. Garrison,16
+158,Carson,Mr. Slave,3
+159,Head of Programming,Jai,3
+160,Head of Programming,Mr. Garrison,40
+161,Head of Programming,Kyle,17
+162,Head of Programming,Mr. Slave,3
+163,Jai,Mr. Garrison,12
+164,Jai,Kyle,5
+165,Jai,Mr. Slave,3
+166,Craig,Tom,15
+167,Craig,Men,3
+168,Craig,Other men,3
+169,Craig,Sharon,6
+170,Craig,The women,3
+171,Craig,The males,6
+172,Craig,Linda,3
+173,Craig,Jimbo,3
+174,Craig,Ryan,3
+175,Craig,Stuart,3
+176,Craig,Mrs. Tweek,3
+177,Stan,Tom,10
+178,Men,Stan,2
+179,Other men,Stan,2
+180,Sharon,Stan,4
+181,Stan,The women,2
+182,Stan,The males,4
+183,Linda,Stan,2
+184,Jimbo,Stan,2
+185,Ryan,Stan,2
+186,Stan,Stuart,2
+187,Mrs. Tweek,Stan,2
+188,Men,Tom,5
+189,Other men,Tom,5
+190,Sharon,Tom,10
+191,The women,Tom,5
+192,The males,Tom,10
+193,Linda,Tom,5
+194,Jimbo,Tom,5
+195,Cartman,Tom,5
+196,Ryan,Tom,5
+197,Stuart,Tom,5
+198,Kenny,Tom,5
+199,Mrs. Tweek,Tom,5
+200,Men,Other men,1
+201,Men,Sharon,2
+202,Men,The women,1
+203,Men,The males,2
+204,Linda,Men,1
+205,Jimbo,Men,1
+206,Cartman,Men,1
+207,Men,Ryan,1
+208,Men,Stuart,1
+209,Kenny,Men,1
+210,Men,Mrs. Tweek,1
+211,Other men,Sharon,2
+212,Other men,The women,1
+213,Other men,The males,2
+214,Linda,Other men,1
+215,Jimbo,Other men,1
+216,Cartman,Other men,1
+217,Other men,Ryan,1
+218,Other men,Stuart,1
+219,Kenny,Other men,1
+220,Mrs. Tweek,Other men,1
+221,Sharon,The women,2
+222,Sharon,The males,4
+223,Kenny,Sharon,2
+224,The males,The women,2
+225,Linda,The women,1
+226,Jimbo,The women,1
+227,Cartman,The women,1
+228,Ryan,The women,1
+229,Stuart,The women,1
+230,Kenny,The women,1
+231,Mrs. Tweek,The women,1
+232,Linda,The males,2
+233,Jimbo,The males,2
+234,Cartman,The males,2
+235,Ryan,The males,2
+236,Stuart,The males,2
+237,Kenny,The males,2
+238,Mrs. Tweek,The males,2
+239,Linda,Stuart,1
+240,Kenny,Linda,1
+241,Jimbo,Stuart,1
+242,Jimbo,Kenny,1
+243,Cartman,Stuart,1
+244,Ryan,Stuart,1
+245,Kenny,Ryan,1
+246,Kenny,Stuart,1
+247,Mrs. Tweek,Stuart,1
+248,Kenny,Mrs. Tweek,1
+249,Carson,Kyan,9
+250,Kyan,Mr. Garrison,24
+251,Jai,Kyan,6
+252,Kyan,Leader,3
+253,Kyan,Mr. Slave,3
+254,Kyan,The Queer Eye guys,3
+255,Carson,Thom,3
+256,Carson,Leader,2
+257,Carson,The Queer Eye guys,2
+258,Mr. Garrison,Thom,8
+259,Leader,Mr. Garrison,4
+260,Mr. Garrison,The Queer Eye guys,4
+261,Jai,Thom,2
+262,Jai,Leader,2
+263,Jai,The Queer Eye guys,2
+264,Leader,Thom,1
+265,Mr. Slave,Thom,1
+266,The Queer Eye guys,Thom,1
+267,Kyle,Leader,2
+268,Kyle,The Queer Eye guys,2
+269,Leader,Mr. Slave,1
+270,Leader,The Queer Eye guys,1
+271,Mr. Slave,The Queer Eye guys,1
+272,Crab People,Mr. Garrison,4
+273,Crab Solo,Mr. Garrison,2
+274,Crab People,Crab Solo,2
+275,Crab People,Kyle,2
+276,Crab Solo,Kyle,1
+277,Officer Barbrady,Sharon,2
+278,Linda,Skeeter,3
+279,Linda,Officer Barbrady,1
+280,Jimbo,Officer Barbrady,2
+281,Officer Barbrady,Skeeter,3
+282,Head of Programming,Kyan,21
+283,Kyan,Sharon,6
+284,Kyan,Linda,6
+285,Kyan,Sarah,6
+286,Head of Programming,Thom,7
+287,Sharon,Thom,2
+288,Linda,Thom,2
+289,Sarah,Thom,2
+290,Head of Programming,Sharon,14
+291,Head of Programming,Linda,14
+292,Head of Programming,Sarah,14
+293,Head of Programming,Sheila,7
+294,Mr. Garrison,Sharon,8
+295,Linda,Mr. Garrison,8
+296,Mr. Garrison,Sarah,8
+297,Mr. Garrison,Sheila,4
+298,Carson,Sharon,2
+299,Carson,Linda,2
+300,Carson,Sarah,2
+301,Kyle,Sharon,4
+302,Kyle,Linda,4
+303,Kyle,Sarah,4

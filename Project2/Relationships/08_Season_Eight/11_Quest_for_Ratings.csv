@@ -1,0 +1,130 @@
+,source,target,weight
+0,Cartman,Jimmy,96
+1,Butters,Cartman,89
+2,Cartman,Tolkien,63
+3,Cartman,Kyle,96
+4,Cartman,Stan,148
+5,Cartman,Mr. Meryl,63
+6,Cartman,Craig,19
+7,Butters,Jimmy,27
+8,Butters,Tolkien,29
+9,Butters,Kyle,52
+10,Butters,Stan,74
+11,Butters,Mr. Meryl,18
+12,Butters,Craig,3
+13,Jimmy,Tolkien,23
+14,Jimmy,Kyle,42
+15,Jimmy,Stan,62
+16,Jimmy,Mr. Meryl,31
+17,Craig,Jimmy,5
+18,Kyle,Tolkien,32
+19,Stan,Tolkien,46
+20,Mr. Meryl,Tolkien,7
+21,Craig,Tolkien,2
+22,Kyle,Stan,96
+23,Kyle,Mr. Meryl,21
+24,Craig,Kyle,8
+25,Mr. Meryl,Stan,43
+26,Craig,Stan,16
+27,Craig,Mr. Meryl,10
+28,Stan,Whistlin' Willy,6
+29,Bradley,Stan,3
+30,Kid 1,Stan,3
+31,Kevin,Stan,3
+32,Cartman,Whistlin' Willy,6
+33,Bradley,Whistlin' Willy,2
+34,Kid 1,Whistlin' Willy,2
+35,Kevin,Whistlin' Willy,2
+36,Kyle,Whistlin' Willy,2
+37,Craig,Whistlin' Willy,6
+38,Bradley,Cartman,3
+39,Cartman,Kid 1,3
+40,Cartman,Kevin,3
+41,Bradley,Kid 1,1
+42,Bradley,Kevin,1
+43,Bradley,Kyle,1
+44,Bradley,Craig,3
+45,Kevin,Kid 1,1
+46,Kid 1,Kyle,1
+47,Craig,Kid 1,3
+48,Kevin,Kyle,1
+49,Craig,Kevin,3
+50,Cartman,Kenny,2
+51,Craig,Kenny,2
+52,Clyde,Kenny,2
+53,Kenny,Kids,2
+54,Kenny,Kyle,4
+55,Kenny,Tolkien,2
+56,Kenny,Stan,4
+57,Butters,Kenny,2
+58,Cartman,Clyde,1
+59,Cartman,Kids,1
+60,Clyde,Craig,1
+61,Craig,Kids,1
+62,Clyde,Kids,1
+63,Clyde,Kyle,2
+64,Clyde,Tolkien,1
+65,Clyde,Stan,2
+66,Butters,Clyde,1
+67,Kids,Kyle,2
+68,Kids,Tolkien,1
+69,Kids,Stan,2
+70,Butters,Kids,1
+71,Announcer,Kyle,8
+72,Announcer,Cartman,11
+73,Announcer,Tolkien,5
+74,Announcer,Stan,11
+75,Announcer,Butters,7
+76,Announcer,Jimmy,3
+77,Raisins Girls,Stan,1
+78,Cartman,Raisins Girls,4
+79,Raisins Girls,Tolkien,2
+80,Jimmy,Raisins Girls,2
+81,Kyle,Raisins Girls,1
+82,Stan,The boys,4
+83,Kyle,The boys,2
+84,Cartman,The boys,1
+85,Mr. Meryl,The boys,4
+86,Butters,The boys,1
+87,Kyle,Pharmacist,15
+88,Herbert Garrison,Kyle,6
+89,Kyle,Mr. Slave,6
+90,Pharmacist,Stan,15
+91,Herbert Garrison,Stan,6
+92,Mr. Slave,Stan,6
+93,Cartman,Pharmacist,5
+94,Cartman,Herbert Garrison,2
+95,Cartman,Mr. Slave,2
+96,Jimmy,Pharmacist,10
+97,Herbert Garrison,Jimmy,4
+98,Jimmy,Mr. Slave,4
+99,Herbert Garrison,Pharmacist,10
+100,Mr. Slave,Pharmacist,10
+101,Butters,Pharmacist,5
+102,Herbert Garrison,Mr. Slave,4
+103,Butters,Herbert Garrison,2
+104,Butters,Mr. Slave,2
+105,Kyle,Pete,5
+106,Bebe,Kyle,5
+107,Kyle,Principal Victoria,10
+108,Butters,Pete,3
+109,Bebe,Butters,3
+110,Butters,Principal Victoria,6
+111,Pete,Stan,7
+112,Bebe,Stan,7
+113,Principal Victoria,Stan,14
+114,Cartman,Pete,3
+115,Bebe,Cartman,3
+116,Cartman,Principal Victoria,6
+117,Pete,Tolkien,2
+118,Bebe,Tolkien,2
+119,Principal Victoria,Tolkien,4
+120,Jimmy,Pete,2
+121,Bebe,Jimmy,2
+122,Jimmy,Principal Victoria,4
+123,Announcer,Pete,1
+124,Announcer,Bebe,1
+125,Announcer,Principal Victoria,2
+126,Bebe,Pete,1
+127,Pete,Principal Victoria,2
+128,Bebe,Principal Victoria,2

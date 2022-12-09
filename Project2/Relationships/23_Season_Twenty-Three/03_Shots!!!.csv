@@ -1,0 +1,68 @@
+,source,target,weight
+0,Sharon,Shelley,4
+1,Doctor,Liane,7
+2,Cartman,Liane,81
+3,Cartman,Doctor,7
+4,Liane,PC Principal,35
+5,Cartman,PC Principal,20
+6,Butters,Kyle,2
+7,Cartman,Kyle,10
+8,Kyle,Stan,6
+9,Kyle,Tolkien,2
+10,Butters,Cartman,5
+11,Butters,Stan,3
+12,Butters,Tolkien,1
+13,Cartman,Stan,15
+14,Cartman,Tolkien,5
+15,Stan,Tolkien,3
+16,Stephen,Thomas,4
+17,Liane,Stephen,40
+18,Jimbo,Stephen,4
+19,Sheila,Stephen,5
+20,Stephen,Stuart,4
+21,Liane,Thomas,4
+22,Jimbo,Thomas,1
+23,Sheila,Thomas,1
+24,Stuart,Thomas,1
+25,Jimbo,Liane,4
+26,Liane,Sheila,8
+27,Liane,Stuart,4
+28,Jimbo,Sheila,1
+29,Jimbo,Stuart,1
+30,Sheila,Stuart,1
+31,Doctor 2,Liane,4
+32,Liane,Linda Stotch,4
+33,Gerald,Liane,4
+34,Cartman,Stephen,8
+35,Doctor 2,Stephen,5
+36,Linda Stotch,Stephen,5
+37,Gerald,Stephen,5
+38,Cartman,Doctor 2,1
+39,Cartman,Linda Stotch,1
+40,Cartman,Gerald,1
+41,Doctor 2,Linda Stotch,1
+42,Doctor 2,Gerald,1
+43,Gerald,Linda Stotch,1
+44,Deep voices,Sharon,3
+45,Deep voices,Shelley,1
+46,Deep voices,Stan,1
+47,Sharon,Stan,3
+48,Shelley,Stan,1
+49,Cartman,Murph,12
+50,Liane,Murph,8
+51,Murph,Stephen,6
+52,Murph,Richard,3
+53,Richard,Stephen,2
+54,Announcer,Danny,4
+55,Cartman,Danny,4
+56,Announcer,Cartman,7
+57,Announcer,Murph,1
+58,Announcer,Liane,4
+59,Crowd,Liane,4
+60,Announcer,Stephen,1
+61,Crowd,Stephen,1
+62,Announcer,Sheila,1
+63,Cartman,Sheila,3
+64,Crowd,Sheila,1
+65,Announcer,Crowd,1
+66,Cartman,Crowd,3

@@ -1,0 +1,159 @@
+,source,target,weight
+0,Cartman,Stan,115
+1,Kyle,Stan,31
+2,Cartman,Kyle,134
+3,Kenny,Stan,35
+4,Cartman,Kenny,18
+5,Kenny,Kyle,9
+6,Kyle,Ticket Salesman,4
+7,Jesus,Soldier 2,2
+8,Kyle,Soldier 2,1
+9,Jesus,Kyle,2
+10,Cartman,Phillip,10
+11,Phillip,Terrance,6
+12,Kyle,Phillip,6
+13,Cartman,Terrance,15
+14,Kyle,Terrance,9
+15,Elise,Man 1,1
+16,Elise,Woman 1,1
+17,Elise,Stan,7
+18,Elise,Ticket Salesman,15
+19,Elise,Kenny,1
+20,Man 1,Woman 1,1
+21,Man 1,Stan,7
+22,Man 1,Ticket Salesman,5
+23,Kenny,Man 1,1
+24,Stan,Woman 1,7
+25,Ticket Salesman,Woman 1,5
+26,Kenny,Woman 1,1
+27,Stan,Ticket Salesman,35
+28,Kenny,Ticket Salesman,5
+29,Cartman,Liane,6
+30,Elise,Jack,13
+31,Jack,Man 2,6
+32,Jack,Ticket Salesman,10
+33,Jack,Woman 2,3
+34,Cartman,Jack,24
+35,Jack,Woman 3,3
+36,Jack,Man 3,5
+37,Guests,Jack,6
+38,Elise,Man 2,6
+39,Elise,Woman 2,3
+40,Cartman,Elise,24
+41,Elise,Woman 3,3
+42,Elise,Man 3,5
+43,Elise,Guests,6
+44,Man 2,Ticket Salesman,4
+45,Man 2,Woman 2,2
+46,Cartman,Man 2,8
+47,Man 2,Woman 3,2
+48,Man 2,Man 3,2
+49,Guests,Man 2,4
+50,Ticket Salesman,Woman 2,2
+51,Cartman,Ticket Salesman,20
+52,Ticket Salesman,Woman 3,2
+53,Man 3,Ticket Salesman,4
+54,Guests,Ticket Salesman,4
+55,Cartman,Woman 2,4
+56,Woman 2,Woman 3,1
+57,Man 3,Woman 2,1
+58,Guests,Woman 2,2
+59,Cartman,Woman 3,4
+60,Cartman,Man 3,10
+61,Cartman,Guests,8
+62,Man 3,Woman 3,1
+63,Guests,Woman 3,2
+64,Guests,Man 3,2
+65,Mel,Stan,48
+66,Kenny,Mel,4
+67,Father Maxi,Kyle,20
+68,Man 4,Ticket Salesman,2
+69,Ticket Salesman,Townsfolk,10
+70,Man 3,Man 4,1
+71,Man 3,Townsfolk,5
+72,Cartman,Man 4,9
+73,Elise,Man 4,2
+74,Jack,Man 4,2
+75,Man 4,Townsfolk,5
+76,Cartman,Townsfolk,30
+77,Elise,Townsfolk,10
+78,Jack,Townsfolk,10
+79,Kyle,Man 4,3
+80,Kyle,Sheila,3
+81,Kyle,Man 5,3
+82,Gerald,Kyle,3
+83,Kyle,Man 6,3
+84,Kyle,Man 7,3
+85,Kyle,Man 8,3
+86,Kyle,Man 9,3
+87,Kyle,Woman 4,3
+88,Kyle,Rabbi,3
+89,Kyle,Mob,9
+90,Man 4,Sheila,1
+91,Man 4,Man 5,1
+92,Gerald,Man 4,1
+93,Man 4,Man 6,1
+94,Man 4,Man 7,1
+95,Man 4,Man 8,1
+96,Man 4,Man 9,1
+97,Man 4,Woman 4,1
+98,Man 4,Rabbi,1
+99,Man 4,Mob,3
+100,Man 5,Sheila,1
+101,Gerald,Sheila,1
+102,Man 6,Sheila,1
+103,Man 7,Sheila,1
+104,Man 8,Sheila,1
+105,Man 9,Sheila,1
+106,Sheila,Woman 4,1
+107,Rabbi,Sheila,1
+108,Mob,Sheila,3
+109,Cartman,Sheila,3
+110,Gerald,Man 5,1
+111,Man 5,Man 6,1
+112,Man 5,Man 7,1
+113,Man 5,Man 8,1
+114,Man 5,Man 9,1
+115,Man 5,Woman 4,1
+116,Man 5,Rabbi,1
+117,Man 5,Mob,3
+118,Cartman,Man 5,3
+119,Gerald,Man 6,1
+120,Gerald,Man 7,1
+121,Gerald,Man 8,1
+122,Gerald,Man 9,1
+123,Gerald,Woman 4,1
+124,Gerald,Rabbi,1
+125,Gerald,Mob,3
+126,Cartman,Gerald,3
+127,Man 6,Man 7,1
+128,Man 6,Man 8,1
+129,Man 6,Man 9,1
+130,Man 6,Woman 4,1
+131,Man 6,Rabbi,1
+132,Man 6,Mob,3
+133,Cartman,Man 6,3
+134,Man 7,Man 8,1
+135,Man 7,Man 9,1
+136,Man 7,Woman 4,1
+137,Man 7,Rabbi,1
+138,Man 7,Mob,3
+139,Cartman,Man 7,3
+140,Man 8,Man 9,1
+141,Man 8,Woman 4,1
+142,Man 8,Rabbi,1
+143,Man 8,Mob,3
+144,Cartman,Man 8,3
+145,Man 9,Woman 4,1
+146,Man 9,Rabbi,1
+147,Man 9,Mob,3
+148,Cartman,Man 9,3
+149,Rabbi,Woman 4,1
+150,Mob,Woman 4,3
+151,Cartman,Woman 4,3
+152,Mob,Rabbi,3
+153,Cartman,Rabbi,3
+154,Cartman,Mob,9
+155,Driver,Kenny,6
+156,Driver,Stan,36
+157,Driver,Mel,12

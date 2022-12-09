@@ -1,0 +1,130 @@
+,source,target,weight
+0,Cartman,Mrs. Garrison,20
+1,Baahir,Cartman,22
+2,Baahir,Mrs. Garrison,8
+3,Cartman,Kyle,130
+4,Barbrady,Cartman,16
+5,Baahir,Butters,5
+6,Baahir,Kyle,7
+7,Butters,Kyle,7
+8,Butters,Cartman,12
+9,Cartman,Head agent,5
+10,Head agent,Mr. Thompson,4
+11,Cartman,Mr. Thompson,66
+12,Bush,Cartman,6
+13,Brian,Hillary,29
+14,Driver,Hillary,3
+15,Brian,Driver,2
+16,Chris,Hillary,5
+17,Blond Russian,Hillary,2
+18,Blonde Russian,Hillary,2
+19,Blond Russian,Chris,8
+20,Blonde Russian,Chris,8
+21,Blond Russian,Blonde Russian,4
+22,Kyle,Mayor McDaniels,4
+23,Hillary,Kyle,12
+24,Hildog Fan,Kyle,4
+25,Brian,Kyle,16
+26,Kyle,Otis,8
+27,Aide 3,Kyle,12
+28,Female aide,Kyle,4
+29,Cartman,Mayor McDaniels,4
+30,Cartman,Hillary,12
+31,Cartman,Hildog Fan,4
+32,Brian,Cartman,16
+33,Cartman,Otis,8
+34,Aide 3,Cartman,12
+35,Cartman,Female aide,4
+36,Hillary,Mayor McDaniels,3
+37,Hildog Fan,Mayor McDaniels,1
+38,Brian,Mayor McDaniels,4
+39,Mayor McDaniels,Otis,2
+40,Aide 3,Mayor McDaniels,3
+41,Female aide,Mayor McDaniels,1
+42,Hildog Fan,Hillary,3
+43,Hillary,Otis,6
+44,Aide 3,Hillary,14
+45,Female aide,Hillary,3
+46,Brian,Hildog Fan,4
+47,Hildog Fan,Otis,2
+48,Aide 3,Hildog Fan,3
+49,Female aide,Hildog Fan,1
+50,Brian,Otis,8
+51,Aide 3,Brian,41
+52,Brian,Female aide,4
+53,Aide 3,Otis,6
+54,Female aide,Otis,2
+55,Aide 3,Female aide,3
+56,Agent,Mr. Thompson,12
+57,Brian,Mr. Thompson,8
+58,Hillary,Mr. Thompson,2
+59,CIA vice head,Cartman,6
+60,CIA vice head,Mr. Thompson,6
+61,Kyle,Stan,19
+62,Mr. Thompson,Police officer,2
+63,Mr. Hakeem,Mr. Thompson,5
+64,Cartman,Police officer,1
+65,Cartman,Mr. Hakeem,50
+66,Mr. Hakeem,Police officer,1
+67,EOD leader,Hillary,4
+68,Hillary,Vladimir,1
+69,Brian,EOD leader,23
+70,Brian,Chris,1
+71,Brian,Vladimir,1
+72,Aide 3,EOD leader,13
+73,Aide 3,Chris,1
+74,Aide 3,Vladimir,1
+75,Chris,EOD leader,1
+76,EOD leader,Vladimir,1
+77,Chris,Vladimir,1
+78,Agent 2,Mr. Hakeem,5
+79,Female agent,Mr. Hakeem,16
+80,Agent 2,Cartman,5
+81,Agent 2,Female agent,2
+82,Cartman,Female agent,26
+83,CIA vice head,Stan,6
+84,FBI leader,Stan,3
+85,ATF leader,Stan,1
+86,Secret Service leader,Stan,1
+87,Nelson,Stan,1
+88,CIA vice head,Kyle,18
+89,CIA vice head,FBI leader,18
+90,ATF leader,CIA vice head,6
+91,CIA vice head,Secret Service leader,6
+92,CIA vice head,Nelson,6
+93,FBI leader,Kyle,9
+94,ATF leader,Kyle,3
+95,Kyle,Secret Service leader,3
+96,Kyle,Nelson,3
+97,ATF leader,FBI leader,3
+98,FBI leader,Secret Service leader,3
+99,FBI leader,Nelson,3
+100,ATF leader,Secret Service leader,1
+101,ATF leader,Nelson,1
+102,Nelson,Secret Service leader,1
+103,Cartman,Mrs. Hakeem,32
+104,Female agent,Mrs. Hakeem,8
+105,Mr. Hakeem,Mrs. Hakeem,12
+106,Mr. Thompson,Mrs. Hakeem,4
+107,Female agent,Mr. Thompson,2
+108,CIA leader 2,Kyle,22
+109,Chase,Kyle,8
+110,Female agent 2,Kyle,10
+111,CIA leader 2,Chase,7
+112,CIA leader 2,Stan,5
+113,CIA leader 2,Female agent 2,11
+114,Chase,Stan,1
+115,Chase,Female agent 2,4
+116,Female agent 2,Stan,2
+117,Cartman,Vladimir,36
+118,Captain,Queen Elizabeth II,2
+119,Agent 4,Female agent 2,1
+120,Agent 4,Chase,2
+121,Agent 4,Kyle,2
+122,Agent 4,CIA leader 2,1
+123,Baahir,Vladimir,5
+124,Agent,Baahir,2
+125,Baahir,Mr. Thompson,5
+126,Agent,Vladimir,10
+127,Mr. Thompson,Vladimir,25
+128,Captain,Soldier,1

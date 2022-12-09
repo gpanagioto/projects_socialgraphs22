@@ -1,0 +1,72 @@
+,source,target,weight
+0,Kyle,Wendy,5
+1,Kenny,Mr. Garrison,2
+2,Kenny,Kyle,3
+3,Kenny,Wendy,1
+4,Kyle,Mr. Garrison,12
+5,Mr. Garrison,Wendy,2
+6,Mr. Garrison,Sheila,12
+7,Cartman,Sheila,10
+8,Cartman,Stan,21
+9,Cartman,Mr. Garrison,11
+10,Cartman,Kyle,19
+11,Mr. Garrison,Stan,7
+12,Sheila,Stan,9
+13,Kyle,Stan,16
+14,Kyle,Sheila,9
+15,Kyle,Officer Barbrady,2
+16,Officer Barbrady,Stan,1
+17,Large woman,Some men,1
+18,Crowd,Stan,1
+19,Father Maxi,Stan,1
+20,Crowd,Sheila,1
+21,Father Maxi,Sheila,1
+22,Crowd,Mr. Garrison,1
+23,Father Maxi,Mr. Garrison,3
+24,Cartman,Crowd,1
+25,Crowd,Kyle,1
+26,Crowd,Father Maxi,1
+27,Cartman,Father Maxi,1
+28,Father Maxi,Kyle,1
+29,Man,Tree hugger,1
+30,Man,Man 1,1
+31,Man,Man 2,1
+32,Man,Uncle Jimbo,1
+33,Man 1,Tree hugger,1
+34,Man 2,Tree hugger,1
+35,Tree hugger,Uncle Jimbo,1
+36,Man 1,Man 2,1
+37,Man 1,Uncle Jimbo,3
+38,Man 2,Uncle Jimbo,1
+39,Assistant 1,Mayor McDaniels,1
+40,Kyle,Mayor McDaniels,1
+41,Mayor McDaniels,Sheila,2
+42,Cartman,Mayor McDaniels,1
+43,Kenny,Mayor McDaniels,1
+44,Mayor McDaniels,Stan,1
+45,Kenny,Sheila,2
+46,Cartman,Kenny,1
+47,Kenny,Stan,1
+48,Gerald,Kyle,8
+49,Ike,Sheila,1
+50,Kyle,Mr. Hankey,17
+51,Janitor 2,Mr. Garrison,2
+52,Cartman,Janitor 2,1
+53,Janitor 2,Kyle,1
+54,Kyle,Mr. Mackey,39
+55,Mr. Garrison,Students,1
+56,Kyle,Nurse,6
+57,His Date,Sheila,1
+58,Cartman,Chef,5
+59,Chef,Mr. Garrison,2
+60,Father Maxi,Gerald,2
+61,Elderly Tree Hugger,Father Maxi,2
+62,Gerald,Mr. Garrison,1
+63,Elderly Tree Hugger,Mr. Garrison,1
+64,Elderly Tree Hugger,Gerald,1
+65,Chef,Stan,4
+66,Chef,Mr. Hankey,3
+67,Cartman,Mr. Hankey,1
+68,Mr. Hankey,The Mayor,1
+69,Santa Claus,Stan,1
+70,Kyle,Santa Claus,1

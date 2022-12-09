@@ -1,0 +1,123 @@
+,source,target,weight
+0,Bannon,Surgeon,1
+1,Bannon,Caitlyn,1
+2,Caitlyn,Surgeon,1
+3,Caitlyn,Garrison,4
+4,Cartman,Secretary,24
+5,Cartman,Cher,12
+6,Cher,Secretary,8
+7,Mackey,PC Principal,14
+8,Garrison,Mackey,12
+9,Garrison,PC Principal,42
+10,Memberberry 1,Memberberry 2,10
+11,Memberberry 1,Tubbs,12
+12,Memberberry 1,Memberberry 3,16
+13,Guard Berry,Memberberry 1,6
+14,Memberberry 2,Tubbs,6
+15,Memberberry 2,Memberberry 3,10
+16,Guard Berry,Memberberry 2,2
+17,Memberberry 3,Tubbs,9
+18,Guard Berry,Tubbs,2
+19,Guard Berry,Memberberry 3,4
+20,Memberberry 2,Memberberry 4,6
+21,Don,Memberberry 2,12
+22,Memberberry 2,Waiter Berry,1
+23,Memberberry 1,Memberberry 4,7
+24,Memberberry 3,Memberberry 4,7
+25,Don,Memberberry 4,12
+26,Memberberry 4,Tubbs,7
+27,Memberberry 4,Waiter Berry,2
+28,Don,Memberberry 1,8
+29,Memberberry 1,Waiter Berry,1
+30,Don,Memberberry 3,12
+31,Memberberry 3,Waiter Berry,1
+32,Don,Tubbs,8
+33,Don,Waiter Berry,4
+34,Tubbs,Waiter Berry,2
+35,Bedrager,Dick,15
+36,Dick,Gerald,12
+37,Dick,Troll 4,3
+38,Bedrager,Gerald,10
+39,Bedrager,Troll 4,5
+40,Gerald,Troll 4,2
+41,Garrison,Stephen,3
+42,First general,Stephen,2
+43,First general,Garrison,64
+44,Anonymous821,Dick,4
+45,Anonymous821,Gerald,6
+46,Cartman,Heidi,33
+47,Butters,Heidi,28
+48,Butters,Cartman,45
+49,Gerald,Ike,84
+50,Ike,Sheila,49
+51,Ike,Shelia,7
+52,Gerald,Sheila,84
+53,Gerald,Shelia,12
+54,Sheila,Shelia,7
+55,Garrison,Second general,12
+56,Garrison,Third general,4
+57,First general,Second general,12
+58,First general,Third general,4
+59,Second general,Third general,3
+60,Aide 1,Putin,4
+61,Aide 2,Putin,4
+62,Memberberry 3,Putin,8
+63,Memberberry 1,Putin,12
+64,Memberberry 4,Putin,4
+65,Putin,Tubbs,8
+66,Memberberry 2,Putin,4
+67,Aide 1,Aide 2,1
+68,Aide 1,Memberberry 3,2
+69,Aide 1,Memberberry 1,3
+70,Aide 1,Memberberry 4,1
+71,Aide 1,Tubbs,2
+72,Aide 1,Memberberry 2,1
+73,Aide 2,Memberberry 3,2
+74,Aide 2,Memberberry 1,3
+75,Aide 2,Memberberry 4,1
+76,Aide 2,Tubbs,2
+77,Aide 2,Memberberry 2,1
+78,Cartman,Tour assistant,4
+79,Cartman,Elon Musk,22
+80,Cartman,PA door voice,4
+81,Butters,Tour assistant,1
+82,Butters,Elon Musk,7
+83,Butters,PA door voice,1
+84,Elon Musk,Tour assistant,4
+85,PA door voice,Tour assistant,1
+86,Elon Musk,PA door voice,4
+87,Garrison,Staffer 2,6
+88,Garrison,Staffer 3,6
+89,Boris Johnson,Garrison,24
+90,Garrison,UK aide,24
+91,Garrison,UK aide 2,6
+92,Staffer 2,Staffer 3,1
+93,First general,Staffer 2,1
+94,Boris Johnson,Staffer 2,4
+95,Staffer 2,UK aide,4
+96,Staffer 2,UK aide 2,1
+97,First general,Staffer 3,1
+98,Boris Johnson,Staffer 3,4
+99,Staffer 3,UK aide,4
+100,Staffer 3,UK aide 2,1
+101,Boris Johnson,First general,4
+102,First general,UK aide,4
+103,First general,UK aide 2,1
+104,Boris Johnson,UK aide,16
+105,Boris Johnson,UK aide 2,4
+106,UK aide,UK aide 2,4
+107,Cartman,Groups,4
+108,Elon Musk,Groups,6
+109,Butters,Groups,2
+110,Berry Henchmen,Memberberries,1
+111,Berry Henchmen,Don,4
+112,Berry Henchmen,Memberberry 3,2
+113,Berry Henchmen,Memberberry 1,1
+114,Berry Henchmen,Memberberry 4,1
+115,Berry Henchmen,Memberberry 2,2
+116,Don,Memberberries,4
+117,Memberberries,Memberberry 3,2
+118,Memberberries,Memberberry 1,1
+119,Memberberries,Memberberry 4,1
+120,Memberberries,Memberberry 2,2
+121,Kyle,Sheila,9

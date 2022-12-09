@@ -1,0 +1,138 @@
+,source,target,weight
+0,Gerald,Greeter,15
+1,Greeter,Waiter,6
+2,Greeter,Mr. Rodriguez,12
+3,Greeter,Mrs. Rodriguez,9
+4,Gerald,Waiter,10
+5,Gerald,Mr. Rodriguez,20
+6,Gerald,Mrs. Rodriguez,15
+7,Mr. Rodriguez,Waiter,8
+8,Mrs. Rodriguez,Waiter,6
+9,Mr. Rodriguez,Mrs. Rodriguez,12
+10,Cartman,Mr. Rodriguez,88
+11,Cartman,Davíd,95
+12,Cartman,Male food critic,46
+13,Cartman,Female food critic,11
+14,Davíd,Mr. Rodriguez,24
+15,Male food critic,Mr. Rodriguez,32
+16,Female food critic,Mr. Rodriguez,8
+17,Davíd,Male food critic,12
+18,Davíd,Female food critic,3
+19,Female food critic,Male food critic,7
+20,Butters,Cartman,57
+21,Cartman,Kyle,82
+22,Butters,Kyle,18
+23,Butters,Davíd,14
+24,Davíd,Kyle,23
+25,Gerald,Sheila,21
+26,Gerald's review,Sheila,4
+27,Gerald,Gerald's review,5
+28,Butters,Tuong Lu Kim,6
+29,Butters,Stan,2
+30,Cartman,Tuong Lu Kim,18
+31,Cartman,Stan,6
+32,Kyle,Tuong Lu Kim,9
+33,Stan,Tuong Lu Kim,3
+34,Davíd,Tuong Lu Kim,3
+35,Kyle,Stan,3
+36,Davíd,Stan,1
+37,Barkley,Sgt. Yates,21
+38,Male food critic,Son,3
+39,Diner 1,Male food critic,3
+40,Male food critic,Whistlin' Willy,12
+41,Diner 2,Male food critic,3
+42,Gerald,Male food critic,8
+43,Female food critic,Son,1
+44,Diner 1,Female food critic,1
+45,Female food critic,Whistlin' Willy,4
+46,Diner 2,Female food critic,1
+47,Female food critic,Gerald,2
+48,Diner 1,Son,1
+49,Son,Whistlin' Willy,4
+50,Diner 2,Son,1
+51,Gerald,Son,2
+52,Diner 1,Whistlin' Willy,4
+53,Diner 1,Diner 2,1
+54,Diner 1,Gerald,2
+55,Diner 2,Whistlin' Willy,4
+56,Gerald,Whistlin' Willy,8
+57,Diner 2,Gerald,2
+58,Maggie,Yates,12
+59,Cartman,Liane,40
+60,Cartman,Yelpers,10
+61,A reviewer,Cartman,10
+62,A Yelper,Cartman,20
+63,Cartman,Gerald,24
+64,Cartman,Sgt. Yates,12
+65,Liane,Yelpers,4
+66,A reviewer,Liane,4
+67,A Yelper,Liane,8
+68,Gerald,Liane,8
+69,Liane,Sgt. Yates,4
+70,A reviewer,Yelpers,1
+71,A Yelper,Yelpers,2
+72,Gerald,Yelpers,2
+73,Sgt. Yates,Yelpers,1
+74,A Yelper,A reviewer,2
+75,A reviewer,Gerald,2
+76,A reviewer,Sgt. Yates,1
+77,A Yelper,Gerald,4
+78,A Yelper,Sgt. Yates,2
+79,Gerald,Sgt. Yates,4
+80,Cartman,Tolkien,4
+81,Kyle,Tolkien,2
+82,Davíd,Tolkien,1
+83,David,Reporter,1
+84,Barkley,Reporter,3
+85,Reporter,Sgt. Yates,3
+86,Barkley,David,3
+87,David,Sgt. Yates,6
+88,David,Kyle,12
+89,Cartman,David,6
+90,David,Gerald,6
+91,David,Yelper 1,3
+92,David,Yelper 2,3
+93,David,Yelper 3,3
+94,David,Male food critic,3
+95,David,Yelper 4,3
+96,Gerald,Kyle,9
+97,Kyle,Sgt. Yates,4
+98,Kyle,Yelper 1,4
+99,Kyle,Yelper 2,4
+100,Kyle,Yelper 3,4
+101,Kyle,Male food critic,4
+102,Kyle,Yelper 4,4
+103,Cartman,Yelper 1,2
+104,Cartman,Yelper 2,2
+105,Cartman,Yelper 3,2
+106,Cartman,Yelper 4,2
+107,Gerald,Yelper 1,2
+108,Gerald,Yelper 2,2
+109,Gerald,Yelper 3,2
+110,Gerald,Yelper 4,2
+111,Sgt. Yates,Yelper 1,1
+112,Sgt. Yates,Yelper 2,1
+113,Sgt. Yates,Yelper 3,1
+114,Male food critic,Sgt. Yates,1
+115,Sgt. Yates,Yelper 4,1
+116,Yelper 1,Yelper 2,1
+117,Yelper 1,Yelper 3,1
+118,Male food critic,Yelper 1,1
+119,Yelper 1,Yelper 4,1
+120,Yelper 2,Yelper 3,1
+121,Male food critic,Yelper 2,1
+122,Yelper 2,Yelper 4,1
+123,Male food critic,Yelper 3,1
+124,Yelper 3,Yelper 4,1
+125,Male food critic,Yelper 4,1
+126,Gerald,Mayor McDaniels,3
+127,Gerald,Mr. Davis,1
+128,Kyle,Mayor McDaniels,3
+129,Mayor McDaniels,Mr. Davis,3
+130,Kyle,Mr. Davis,1
+131,Chef,Waiter,1
+132,Backup singers,Lead singer,21
+133,All Singers,Backup singers,3
+134,All Singers,Lead singer,3
+135,Backup singers,Cartman,3
+136,Backup singers,Davíd,2

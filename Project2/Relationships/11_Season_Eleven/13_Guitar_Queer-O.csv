@@ -1,0 +1,72 @@
+,source,target,weight
+0,Butters,Kyle,8
+1,Kyle,Stan,198
+2,Cartman,Kyle,11
+3,Craig,Kyle,8
+4,Butters,Stan,11
+5,Butters,Cartman,9
+6,Butters,Craig,6
+7,Cartman,Stan,20
+8,Craig,Stan,11
+9,Cartman,Craig,9
+10,Cartman,M.C,1
+11,Cartman,Man,2
+12,Cartman,Mr. Kincade,9
+13,Kyle,M.C,2
+14,Kyle,Man,4
+15,Kyle,Mr. Kincade,18
+16,M.C,Stan,6
+17,M.C,Man,2
+18,M.C,Mr. Kincade,3
+19,Man,Stan,12
+20,Mr. Kincade,Stan,144
+21,Man,Mr. Kincade,6
+22,Mr. Kincade,Producer,6
+23,Producer,Stan,30
+24,Kyle,Producer,24
+25,Jay,Producer,12
+26,Guest,Producer,6
+27,Producer,Tom Shane,6
+28,Jay,Stan,10
+29,Guest,Stan,5
+30,Stan,Tom Shane,5
+31,Jay,Kyle,8
+32,Guest,Kyle,4
+33,Kyle,Tom Shane,4
+34,Guest,Jay,2
+35,Jay,Tom Shane,2
+36,Guest,Tom Shane,1
+37,Mr. Kincade,Thad,32
+38,Stan,Thad,45
+39,Male Diner,Thad,2
+40,Male Diner,Mr. Kincade,4
+41,Male Diner,Stan,2
+42,Kyle,Thad,7
+43,Butters,Thad,1
+44,Cartman,Thad,1
+45,Craig,Thad,1
+46,Brett,Stan,25
+47,Mr. Hart,Mr. Kincade,11
+48,Mr. Hart,Stan,11
+49,Mr. Hart,Thad,3
+50,Kyle,Younger Boy,12
+51,Kyle,Older Boy,6
+52,Kyle,Mick,29
+53,Older Boy,Younger Boy,2
+54,Mick,Younger Boy,6
+55,Mick,Older Boy,3
+56,Cartman,Tolkien,4
+57,Craig,Tolkien,4
+58,Butters,Tolkien,2
+59,Mr. Kincade,Tolkien,6
+60,Mr. Hart,Tolkien,2
+61,Cartman,Mr. Hart,2
+62,Craig,Mr. Kincade,6
+63,Craig,Mr. Hart,2
+64,Butters,Mr. Kincade,3
+65,Butters,Mr. Hart,1
+66,Mick,Stan,9
+67,Stan,The Dragon,8
+68,Craig,The Boys,1
+69,Cartman,The Boys,2
+70,Butters,The Boys,2

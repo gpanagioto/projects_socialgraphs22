@@ -1,0 +1,62 @@
+,source,target,weight
+0,Cartman,Stan,111
+1,Kyle,Stan,43
+2,Mr. Garrison,Stan,43
+3,Stan,Wendy,40
+4,Mr. Hat,Stan,7
+5,Cartman,Kyle,91
+6,Cartman,Mr. Garrison,87
+7,Cartman,Wendy,78
+8,Cartman,Mr. Hat,13
+9,Kyle,Mr. Garrison,44
+10,Kyle,Wendy,43
+11,Kyle,Mr. Hat,6
+12,Mr. Garrison,Wendy,43
+13,Mr. Garrison,Mr. Hat,16
+14,Mr. Hat,Wendy,7
+15,Mayor McDaniels,Ted,15
+16,Johnson,Ted,15
+17,Johnson,Mayor McDaniels,9
+18,Chef,Wendy,6
+19,Kenny,Wendy,1
+20,Chef,Stan,12
+21,Cartman,Chef,6
+22,Chef,Kyle,6
+23,Chef,Kenny,6
+24,Kenny,Stan,3
+25,Cartman,Kenny,3
+26,Kenny,Kyle,3
+27,Cartman,Mayor McDaniels,5
+28,Mayor McDaniels,Mr. Garrison,13
+29,Mayor McDaniels,Mr. Hat,3
+30,Mayor McDaniels,Wendy,3
+31,Beefcake,Cartman,35
+32,Beefcake,TV Announcer,5
+33,Beefcake,Liane,15
+34,Cartman,TV Announcer,7
+35,Cartman,Liane,21
+36,Liane,TV Announcer,3
+37,Clyde,Mr. Garrison,6
+38,Bebe,Mr. Garrison,1
+39,Kyle,Townsman,2
+40,Cartman,Townsman,4
+41,Townsman,Wendy,1
+42,Jimbo,Mr. Garrison,10
+43,Mr. Garrison,Townswoman,3
+44,Mr. Garrison,Officer Barbrady,2
+45,Kathie Lee Gifford,Townswoman,1
+46,Mayor McDaniels,Townswoman,1
+47,Kathie Lee Gifford,Mr. Garrison,1
+48,Kathie Lee Gifford,Mayor McDaniels,1
+49,Chef,Mayor McDaniels,5
+50,Officer Barbrady,Wendy,1
+51,Agent 2,Kyle,1
+52,Cartman,TV Crew Director,2
+53,TV Crew Director,Wendy,1
+54,Townsman 1,Townsman 2,1
+55,Stan,Townsman 1,1
+56,Townsman 1,Wendy,1
+57,Stan,Townsman 2,1
+58,Townsman 2,Wendy,1
+59,Mr. Hat,Officer Barbrady,1
+60,Cartman,Geraldo,2

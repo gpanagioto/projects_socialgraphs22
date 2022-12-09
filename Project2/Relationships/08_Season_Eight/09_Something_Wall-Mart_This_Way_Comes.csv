@@ -1,0 +1,100 @@
+,source,target,weight
+0,Cartman,Stan,49
+1,Kyle,Stan,107
+2,Herbert Garrison,Stan,6
+3,Stan,Townsfolk,2
+4,Cartman,Kyle,178
+5,Cartman,Herbert Garrison,9
+6,Cartman,Townsfolk,2
+7,Herbert Garrison,Kyle,8
+8,Kyle,Townsfolk,1
+9,Herbert Garrison,Townsfolk,2
+10,Herbert Garrison,Man,1
+11,Herbert Garrison,Manager,2
+12,Herbert Garrison,Marvin Marsh,1
+13,Herbert Garrison,Sheila,1
+14,Herbert Garrison,Sharon,2
+15,Herbert Garrison,Jimmy,1
+16,Chef,Herbert Garrison,3
+17,Herbert Garrison,Woman,1
+18,Cartman,Man,5
+19,Cartman,Manager,14
+20,Cartman,Marvin Marsh,5
+21,Cartman,Sheila,5
+22,Cartman,Sharon,10
+23,Cartman,Jimmy,5
+24,Cartman,Chef,7
+25,Cartman,Woman,5
+26,Kyle,Man,4
+27,Kyle,Manager,16
+28,Kyle,Marvin Marsh,4
+29,Kyle,Sheila,4
+30,Kyle,Sharon,8
+31,Jimmy,Kyle,4
+32,Chef,Kyle,15
+33,Kyle,Woman,4
+34,Man,Manager,2
+35,Man,Marvin Marsh,1
+36,Man,Sheila,1
+37,Man,Sharon,2
+38,Jimmy,Man,1
+39,Chef,Man,1
+40,Man,Woman,1
+41,Manager,Marvin Marsh,2
+42,Manager,Sheila,2
+43,Manager,Sharon,4
+44,Jimmy,Manager,2
+45,Chef,Manager,10
+46,Manager,Woman,2
+47,Marvin Marsh,Sheila,1
+48,Marvin Marsh,Sharon,2
+49,Jimmy,Marvin Marsh,1
+50,Chef,Marvin Marsh,1
+51,Marvin Marsh,Woman,1
+52,Sharon,Sheila,2
+53,Jimmy,Sheila,1
+54,Chef,Sheila,1
+55,Sheila,Woman,1
+56,Jimmy,Sharon,2
+57,Chef,Sharon,2
+58,Sharon,Woman,2
+59,Chef,Jimmy,1
+60,Jimmy,Woman,1
+61,Chef,Woman,1
+62,Kyle,Mr. Farkle,15
+63,Cartman,Mr. Farkle,9
+64,Mr. Farkle,Stan,3
+65,Butters,Stan,2
+66,Butters,Kyle,1
+67,Chef,Gerald,6
+68,Gerald,Manager,4
+69,Gerald,Kyle,11
+70,Cartman,Gerald,3
+71,Shelly,Stan,3
+72,Sharon,Stan,3
+73,Sharon,Shelly,1
+74,Gerald,Herbert Garrison,4
+75,Gerald,Stan,4
+76,Gerald,Jimbo,2
+77,Gerald,Stephen,2
+78,Herbert Garrison,Jimbo,2
+79,Herbert Garrison,Stephen,2
+80,Jimbo,Stan,1
+81,Chef,Stan,9
+82,Stan,Stephen,1
+83,Chef,Jimbo,1
+84,Jimbo,Stephen,1
+85,Jimbo,Kyle,1
+86,Chef,Stephen,1
+87,Kyle,Stephen,1
+88,Driver,Kyle,6
+89,Driver,Stan,3
+90,Cartman,Driver,3
+91,Kyle,Receptionist,4
+92,Receptionist,Stan,2
+93,Harvey Brown,Kyle,15
+94,Harvey Brown,Stan,15
+95,Cartman,Harvey Brown,15
+96,Kyle,Wall-Mart,32
+97,Stan,Wall-Mart,64
+98,Chef,Wall-Mart,8

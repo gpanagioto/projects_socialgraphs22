@@ -1,0 +1,66 @@
+,source,target,weight
+0,Cartman,Kyle,160
+1,Craig,Kyle,17
+2,Cartman,Craig,23
+3,Butters,Cartman,23
+4,Butters,Craig,7
+5,Butters,Kyle,16
+6,Kyle,Mr. Mackey,51
+7,Butters,Mr. Mackey,2
+8,Kyle,Principal Victoria,12
+9,Kyle,Rabbi 2,12
+10,Mr. Mackey,Principal Victoria,9
+11,Principal Victoria,Rabbi 2,3
+12,Mr. Mackey,Rabbi 2,6
+13,Cleric 1,Rabbi 2,3
+14,Cleric 1,Mr. Mackey,1
+15,Cleric 1,Kyle,2
+16,Cartman,Rabbi 2,1
+17,Bishop,Cleric 2,6
+18,Cleric 2,Rabbi 3,2
+19,Cleric 2,Israeli,2
+20,Cleric 2,Others,2
+21,Cleric 2,Cleric 3,2
+22,Bishop,Rabbi 3,3
+23,Bishop,Israeli,3
+24,Bishop,Others,3
+25,Bishop,Cleric 3,3
+26,Israeli,Rabbi 3,1
+27,Others,Rabbi 3,1
+28,Cleric 3,Rabbi 3,1
+29,Israeli,Others,1
+30,Cleric 3,Israeli,1
+31,Cleric 3,Others,1
+32,Kyle,Sheila,6
+33,Cartman,Sheila,4
+34,Kyle,Stan,156
+35,Cartman,Stan,31
+36,Craig,Stan,3
+37,Cartman,Mr. Mackey,15
+38,Crowd,Rabbi 3,1
+39,Crowd,Rabbi,1
+40,Crowd,Muslim,1
+41,Crowd,David Lee Roth,1
+42,Rabbi,Rabbi 3,1
+43,Muslim,Rabbi 3,1
+44,David Lee Roth,Rabbi 3,1
+45,Muslim,Rabbi,1
+46,David Lee Roth,Rabbi,1
+47,David Lee Roth,Muslim,1
+48,Kyle,Ringtone,10
+49,Ringtone,Stan,6
+50,Cartman,Ringtone,2
+51,Kenny,Stan,9
+52,God,Kyle,25
+53,Butters,Stan,1
+54,David Lee Roth,Stan,7
+55,Bishop,Stan,7
+56,Kenny,Kyle,7
+57,David Lee Roth,Kyle,7
+58,Bishop,Kyle,7
+59,David Lee Roth,Kenny,1
+60,Bishop,Kenny,1
+61,Cartman,Kenny,1
+62,Bishop,David Lee Roth,1
+63,Cartman,David Lee Roth,1
+64,Bishop,Cartman,1

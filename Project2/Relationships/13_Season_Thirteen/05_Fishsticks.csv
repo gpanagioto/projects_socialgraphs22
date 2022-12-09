@@ -1,0 +1,53 @@
+,source,target,weight
+0,Cartman,Jimmy,298
+1,Jimmy,Sarah,28
+2,Cartman,Sarah,31
+3,Clyde,Jimmy,8
+4,Jimmy,Stan,1
+5,Butters,Jimmy,13
+6,Jimmy,Tolkien,2
+7,Cartman,Clyde,27
+8,Cartman,Stan,7
+9,Butters,Cartman,33
+10,Cartman,Tolkien,14
+11,Clyde,Stan,3
+12,Butters,Clyde,10
+13,Clyde,Tolkien,6
+14,Butters,Stan,3
+15,Stan,Tolkien,2
+16,Butters,Tolkien,6
+17,Peterson,Stephen,1
+18,David Letterman,Paul Shaffer,1
+19,Kanye,Tom Snyder,110
+20,Cartman,Kyle,30
+21,Jimmy,Kyle,35
+22,Craig,Kyle,28
+23,Cartman,Craig,12
+24,Craig,Jimmy,20
+25,Doctor,Kanye,3
+26,Doctor,Reporter 1,1
+27,Doctor,Reporter 2,1
+28,Kanye,Reporter 1,3
+29,Kanye,Reporter 2,3
+30,Reporter 1,Reporter 2,1
+31,Conan O'Brien,Mencia,1
+32,Cartman,Conan O'Brien,1
+33,Cartman,Mencia,1
+34,Audience,Kanye,2
+35,House,Kanye,6
+36,Aide 1,House,2
+37,Aide 1,Kanye,3
+38,Jimmy,Wendy,10
+39,Cartman,Wendy,12
+40,Butters,Sarah,3
+41,Clyde,Sarah,2
+42,Sarah,Wendy,3
+43,Butters,Wendy,2
+44,Clyde,Wendy,1
+45,Aide 2,Kanye,12
+46,Aide 2,Mencia,12
+47,Kanye,Mencia,36
+48,Cartman,Ellen,20
+49,Ellen,Jimmy,12
+50,Jimmy,Kanye,22
+51,Cartman,Kanye,20

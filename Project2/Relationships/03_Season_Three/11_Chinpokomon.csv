@@ -1,0 +1,226 @@
+,source,target,weight
+0,Cartman,Kitty,14
+1,Announcer,Cartman,58
+2,Cartman,Singer,28
+3,Cartman,Japanese Woman,7
+4,Announcer,Kitty,10
+5,Kitty,Singer,4
+6,Japanese Woman,Kitty,2
+7,Announcer,Singer,70
+8,Announcer,Japanese Woman,5
+9,Japanese Woman,Singer,2
+10,Cartman,Liane,30
+11,Boy,Girl,2
+12,Boy,Louis,2
+13,Boy,Cartman,20
+14,Boy,Stan,8
+15,Boy,Kenny,10
+16,Girl,Louis,1
+17,Cartman,Girl,8
+18,Girl,Stan,2
+19,Girl,Kenny,5
+20,Cartman,Louis,8
+21,Louis,Stan,2
+22,Kenny,Louis,5
+23,Cartman,Stan,191
+24,Cartman,Kenny,52
+25,Kenny,Stan,19
+26,Cashier,Liane,1
+27,Japanese woman,Liane,2
+28,Kids,Liane,2
+29,Cashier,Japanese woman,3
+30,Cashier,Kids,1
+31,Japanese woman,Kids,1
+32,Kenny,Kyle,12
+33,Cartman,Kyle,169
+34,Kyle,Stan,189
+35,Kyle,Sheila,25
+36,Gerald,Kyle,24
+37,Ike,Kyle,12
+38,Gerald,Sheila,13
+39,Ike,Sheila,6
+40,Gerald,Ike,8
+41,Cashier,Kyle,3
+42,A voice,Kyle,1
+43,Kyle,Lambtron,1
+44,A voice,Cashier,3
+45,Cashier,Lambtron,3
+46,A voice,Lambtron,1
+47,Cartman,Japanese woman,6
+48,Announcer,Kyle,13
+49,Japanese woman,Kyle,6
+50,Announcer,Stan,22
+51,Japanese woman,Stan,4
+52,Announcer,Japanese woman,2
+53,Announcer,Kenny,1
+54,Japanese woman,Kenny,2
+55,Japanese woman,Red,16
+56,Japanese woman,Taller man,2
+57,Japanese woman,Mr. Ose,14
+58,Japanese woman,President Hirohito,16
+59,Japanese woman,Lambtor,2
+60,Japanese woman,Woman 1,2
+61,Japanese woman,Woman 2,2
+62,Cashier,Red,8
+63,Cashier,Taller man,1
+64,Cashier,Mr. Ose,7
+65,Cashier,President Hirohito,8
+66,Cashier,Lambtor,1
+67,Cashier,Woman 1,1
+68,Cashier,Woman 2,1
+69,Red,Taller man,8
+70,Mr. Ose,Red,56
+71,President Hirohito,Red,64
+72,Lambtor,Red,8
+73,Red,Woman 1,8
+74,Red,Woman 2,8
+75,Mr. Ose,Taller man,7
+76,President Hirohito,Taller man,8
+77,Lambtor,Taller man,1
+78,Taller man,Woman 1,1
+79,Taller man,Woman 2,1
+80,Mr. Ose,President Hirohito,102
+81,Lambtor,Mr. Ose,7
+82,Mr. Ose,Woman 1,7
+83,Mr. Ose,Woman 2,7
+84,Lambtor,President Hirohito,8
+85,President Hirohito,Woman 1,8
+86,President Hirohito,Woman 2,8
+87,Lambtor,Woman 1,1
+88,Lambtor,Woman 2,1
+89,Woman 1,Woman 2,1
+90,Roostor,Sharon,3
+91,Narrator,Sharon,3
+92,Japanese woman,Singer,2
+93,Sharon,Singer,4
+94,Liane,Singer,2
+95,Sheila,Singer,6
+96,Japanese woman,Sharon,2
+97,Japanese woman,Sheila,3
+98,Liane,Sharon,5
+99,Sharon,Sheila,22
+100,Liane,Sheila,5
+101,Kids,Stan,32
+102,Singer,Stan,14
+103,Mr. Ose,Stan,35
+104,Emperor Hirohito,Stan,4
+105,Instructors,Stan,2
+106,Kids,Singer,5
+107,Kids,Mr. Ose,187
+108,Kids,Kyle,22
+109,Cartman,Kids,15
+110,Emperor Hirohito,Kids,10
+111,Instructors,Kids,5
+112,Mr. Ose,Singer,6
+113,Kyle,Singer,9
+114,Emperor Hirohito,Singer,2
+115,Instructors,Singer,1
+116,Kyle,Mr. Ose,25
+117,Cartman,Mr. Ose,17
+118,Emperor Hirohito,Mr. Ose,12
+119,Instructors,Mr. Ose,6
+120,Emperor Hirohito,Kyle,6
+121,Instructors,Kyle,3
+122,Cartman,Emperor Hirohito,4
+123,Cartman,Instructors,2
+124,Emperor Hirohito,Instructors,2
+125,Class,Stan,6
+126,Mr. Garrison,Stan,25
+127,Stan,Wendy,3
+128,Class,Mr. Garrison,10
+129,Cartman,Class,4
+130,Class,Wendy,2
+131,Cartman,Mr. Garrison,15
+132,Mr. Garrison,Wendy,5
+133,Cartman,Wendy,2
+134,Mr. Garrison,Sharon,5
+135,Mr. Garrison,Priest Maxi,9
+136,Mayor,Mr. Garrison,3
+137,Mr. Garrison,President Hirohito,20
+138,Mr. Garrison,Mr. Ose,10
+139,Jimbo,Mr. Garrison,3
+140,Priest Maxi,Sharon,3
+141,Mayor,Sharon,3
+142,President Hirohito,Sharon,36
+143,Mr. Ose,Sharon,174
+144,Jimbo,Sharon,1
+145,Mayor,Priest Maxi,3
+146,President Hirohito,Priest Maxi,18
+147,Mr. Ose,Priest Maxi,9
+148,Jimbo,Priest Maxi,3
+149,Mayor,President Hirohito,6
+150,Mayor,Mr. Ose,3
+151,Jimbo,Mayor,1
+152,Jimbo,President Hirohito,6
+153,Jimbo,Mr. Ose,3
+154,Liane,Mayor,2
+155,Mayor,Sheila,2
+156,Announcer,Boys,20
+157,Announcer,Boy,20
+158,Announcer,Lab Tech 1,20
+159,Announcer,Boy 1,20
+160,Announcer,Boy 2,20
+161,Boys,Singer,12
+162,Boy,Boys,4
+163,Boys,Cartman,4
+164,Boys,Stan,4
+165,Boys,Lab Tech 1,4
+166,Boy 1,Boys,4
+167,Boy 2,Boys,4
+168,Boys,Kyle,2
+169,Boy,Singer,12
+170,Lab Tech 1,Singer,12
+171,Boy 1,Singer,12
+172,Boy 2,Singer,12
+173,Boy,Lab Tech 1,4
+174,Boy,Boy 1,4
+175,Boy,Boy 2,4
+176,Boy,Kyle,2
+177,Cartman,Lab Tech 1,4
+178,Boy 1,Cartman,4
+179,Boy 2,Cartman,4
+180,Lab Tech 1,Stan,4
+181,Boy 1,Stan,4
+182,Boy 2,Stan,4
+183,Boy 1,Lab Tech 1,4
+184,Boy 2,Lab Tech 1,4
+185,Kyle,Lab Tech 1,2
+186,Boy 1,Boy 2,4
+187,Boy 1,Kyle,2
+188,Boy 2,Kyle,2
+189,Kids,Sharon,158
+190,Kids,President Hirohito,26
+191,Gerald,Kids,12
+192,Kids,Sheila,13
+193,Gerald,Mr. Ose,13
+194,Mr. Ose,Sheila,14
+195,Sharon,Stan,33
+196,Gerald,Sharon,13
+197,President Hirohito,Stan,22
+198,Gerald,Stan,1
+199,Sheila,Stan,11
+200,Gerald,President Hirohito,2
+201,President Hirohito,Sheila,4
+202,Kids,Mr. Garrison,1
+203,Kids,Other kids,1
+204,Liane,Stan,10
+205,Other kids,Stan,10
+206,Liane,Mr. Garrison,1
+207,Mr. Garrison,Other kids,1
+208,Kyle,Mr. Garrison,7
+209,Mr. Garrison,Sheila,1
+210,Liane,President Hirohito,2
+211,Liane,Mr. Ose,1
+212,Liane,Other kids,1
+213,Kyle,Liane,7
+214,Cartman,President Hirohito,10
+215,Cartman,Other kids,5
+216,Cartman,Sharon,10
+217,Cartman,Sheila,5
+218,Other kids,President Hirohito,2
+219,Kyle,President Hirohito,14
+220,Mr. Ose,Other kids,1
+221,Other kids,Sharon,2
+222,Kyle,Other kids,7
+223,Other kids,Sheila,1
+224,Kyle,Sharon,14

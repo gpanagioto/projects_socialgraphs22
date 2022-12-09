@@ -1,0 +1,147 @@
+,source,target,weight
+0,Cartman,Stan,41
+1,Bebe,Cartman,30
+2,Butters,Cartman,22
+3,Cartman,Kyle,24
+4,Bebe,Stan,22
+5,Butters,Stan,95
+6,Kyle,Stan,172
+7,Bebe,Butters,5
+8,Bebe,Kyle,5
+9,Butters,Kyle,55
+10,Kyle,Wendy,27
+11,Jimmy,Kyle,78
+12,Stan,Wendy,36
+13,Jimmy,Stan,101
+14,Jimmy,Wendy,24
+15,Butters,Wendy,9
+16,Cartman,Wendy,3
+17,Butters,Jimmy,33
+18,Cartman,Jimmy,11
+19,Diners,Redhead,4
+20,Brunette,Redhead,2
+21,Blonde,Redhead,2
+22,Kyle,Redhead,6
+23,Jimmy,Redhead,2
+24,Butters,Redhead,8
+25,Cartman,Redhead,4
+26,Lexus,Redhead,12
+27,Redhead,The boys,2
+28,Porsche,Redhead,2
+29,Brunette,Diners,2
+30,Blonde,Diners,2
+31,Diners,Kyle,6
+32,Diners,Jimmy,2
+33,Butters,Diners,17
+34,Cartman,Diners,4
+35,Diners,Lexus,16
+36,Diners,The boys,2
+37,Diners,Porsche,6
+38,Blonde,Brunette,1
+39,Brunette,Kyle,3
+40,Brunette,Jimmy,1
+41,Brunette,Butters,4
+42,Brunette,Cartman,2
+43,Brunette,Lexus,6
+44,Brunette,The boys,1
+45,Brunette,Porsche,1
+46,Blonde,Kyle,3
+47,Blonde,Jimmy,1
+48,Blonde,Butters,4
+49,Blonde,Cartman,2
+50,Blonde,Lexus,6
+51,Blonde,The boys,1
+52,Blonde,Porsche,1
+53,Kyle,Lexus,30
+54,Kyle,The boys,3
+55,Kyle,Porsche,9
+56,Jimmy,Lexus,10
+57,Jimmy,The boys,1
+58,Jimmy,Porsche,3
+59,Butters,Lexus,206
+60,Butters,The boys,4
+61,Butters,Porsche,53
+62,Cartman,Lexus,16
+63,Cartman,The boys,2
+64,Cartman,Porsche,4
+65,Lexus,The boys,6
+66,Lexus,Porsche,32
+67,Porsche,The boys,1
+68,Cartman,Raisins girl,1
+69,Porsche,Stan,10
+70,Porsche,Raisins girl,11
+71,Lexus,Stan,20
+72,Raisins girl,Stan,5
+73,Kyle,Raisins girl,3
+74,Lexus,Raisins girl,14
+75,Butters,Raisins girl,26
+76,Jimmy,Raisins girl,1
+77,Butters,Maury,16
+78,Lexus,Maury,16
+79,Henrietta,Michael,16
+80,Firkle,Michael,2
+81,Michael,Stan,31
+82,Michael,Pete,17
+83,Firkle,Henrietta,1
+84,Henrietta,Stan,24
+85,Henrietta,Pete,13
+86,Firkle,Stan,3
+87,Firkle,Pete,1
+88,Pete,Stan,44
+89,Ferrari,Mercedes,4
+90,Ferrari,Porsche,2
+91,Ferrari,Raisins girl,2
+92,Butters,Ferrari,6
+93,Ferrari,Lexus,4
+94,Mercedes,Porsche,14
+95,Mercedes,Raisins girl,8
+96,Butters,Mercedes,33
+97,Lexus,Mercedes,16
+98,Henrietta's mom,Stan,6
+99,Other Goths,Stan,14
+100,Henrietta's mom,Michael,6
+101,Michael,Other Goths,4
+102,Henrietta,Henrietta's mom,15
+103,Henrietta,Other Goths,7
+104,Henrietta's mom,Pete,3
+105,Other Goths,Pete,9
+106,Henrietta's mom,Other Goths,3
+107,Butters,Stephen,60
+108,Linda,Stephen,40
+109,Chris,Stephen,8
+110,Butters,Linda,78
+111,Butters,Chris,12
+112,Chris,Linda,8
+113,Michael,Waitress,1
+114,Other Goths,Waitress,2
+115,Pete,Waitress,4
+116,Stan,Waitress,6
+117,Kyle,Waitress,6
+118,Henrietta,Waitress,1
+119,Kyle,Michael,6
+120,Kyle,Other Goths,12
+121,Kyle,Pete,24
+122,Henrietta,Kyle,6
+123,Diners,Mercedes,3
+124,Linda,Mercedes,18
+125,Mercedes,Stephen,12
+126,Boy,Mercedes,3
+127,Boy,Butters,9
+128,Diners,Raisins girl,2
+129,Linda,Raisins girl,12
+130,Raisins girl,Stephen,8
+131,Boy,Raisins girl,2
+132,Diners,Linda,6
+133,Diners,Stephen,4
+134,Boy,Diners,1
+135,Boy,Linda,6
+136,Linda,Porsche,24
+137,Lexus,Linda,24
+138,Boy,Stephen,4
+139,Porsche,Stephen,16
+140,Lexus,Stephen,16
+141,Boy,Porsche,4
+142,Boy,Lexus,4
+143,Butters,Pete,18
+144,Butters,Michael,18
+145,Butters,Henrietta,6

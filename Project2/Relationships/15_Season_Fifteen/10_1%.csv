@@ -1,0 +1,91 @@
+,source,target,weight
+0,Board rep,Principal Victoria,1
+1,Assembly,Principal Victoria,1
+2,Assembly,Board rep,1
+3,Kyle,Stan,10
+4,Cartman,Stan,48
+5,Coach,Stan,8
+6,Craig,Stan,10
+7,Stan,Wendy,4
+8,Clyde,Stan,4
+9,Cartman,Kyle,27
+10,Coach,Kyle,2
+11,Craig,Kyle,6
+12,Kyle,Wendy,1
+13,Clyde,Kyle,1
+14,Cartman,Coach,14
+15,Cartman,Craig,26
+16,Cartman,Wendy,7
+17,Cartman,Clyde,7
+18,Coach,Craig,4
+19,Coach,Wendy,2
+20,Clyde,Coach,2
+21,Craig,Wendy,2
+22,Clyde,Craig,2
+23,Clyde,Wendy,1
+24,Cartman,Polly Prissypants,54
+25,Butters,Stan,2
+26,Jimmy,Stan,2
+27,Fifth Grader,Stan,1
+28,Butters,Cartman,2
+29,Butters,Jimmy,12
+30,Butters,Fifth Grader,2
+31,Cartman,Jimmy,2
+32,Cartman,Fifth Grader,1
+33,Fifth Grader,Jimmy,2
+34,Board rep,Butters,8
+35,Board rep,Jimmy,12
+36,Cartman,Liane,41
+37,Class,Kyle,2
+38,Kid 1,Kyle,2
+39,Kid 2,Kyle,2
+40,Kid 4,Kyle,2
+41,Cartman,Class,6
+42,Cartman,Kid 1,6
+43,Cartman,Kid 2,6
+44,Cartman,Kid 4,6
+45,Class,Craig,2
+46,Craig,Kid 1,2
+47,Craig,Kid 2,2
+48,Craig,Kid 4,2
+49,Class,Stan,1
+50,Kid 1,Stan,1
+51,Kid 2,Stan,1
+52,Kid 4,Stan,1
+53,Class,Kid 1,1
+54,Class,Kid 2,1
+55,Class,Kid 4,1
+56,Kid 1,Kid 2,1
+57,Kid 1,Kid 4,1
+58,Kid 2,Kid 4,1
+59,Board rep,Receptionist,2
+60,Polly Prissypants,Rumpertumskin,21
+61,Liane,Polly Prissypants,15
+62,Muscleman Marc,Polly Prissypants,9
+63,Cartman,Rumpertumskin,33
+64,Cartman,Muscleman Marc,15
+65,Liane,Rumpertumskin,15
+66,Muscleman Marc,Rumpertumskin,9
+67,Liane,Muscleman Marc,15
+68,Officer 1,Sgt. Yates,8
+69,Officer 1,Officer 2,4
+70,Officer 2,Sgt. Yates,8
+71,Cartman,Fireman 2,3
+72,Female reporter,Patron,1
+73,Fifth grader,Stan,3
+74,Fifth grader,Kyle,3
+75,Bob,Linda,1
+76,Bob,Liane,1
+77,Liane,Linda,1
+78,Cartman,Tolkien,26
+79,Kyle,Tolkien,1
+80,Stan,Tolkien,2
+81,Kenny,Tolkien,1
+82,Cartman,Kenny,5
+83,Kenny,Kyle,1
+84,Kenny,Stan,2
+85,Classmates,Stephen Tamill,1
+86,Jimmy,Stephen Tamill,4
+87,Butters,Stephen Tamill,2
+88,Polly Prissypants,Stan,4
+89,Kyle,Polly Prissypants,4

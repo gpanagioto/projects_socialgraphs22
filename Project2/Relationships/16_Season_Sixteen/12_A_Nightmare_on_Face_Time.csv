@@ -1,0 +1,117 @@
+,source,target,weight
+0,Sharon,Stan,59
+1,Sharon,Shelly,10
+2,Shelly,Stan,13
+3,Boy,Fillmore,1
+4,Ghost,Shopper,6
+5,Shopper,Stan,2
+6,Sharon,Shopper,2
+7,Ghost,Stan,3
+8,Ghost,Sharon,3
+9,Cartman,Kenny,18
+10,Butters,Cartman,8
+11,Cartman,Jimmy,4
+12,Butters,Kenny,3
+13,Jimmy,Kenny,1
+14,Butters,Jimmy,2
+15,Kyle,Stan,99
+16,Kenny,Stan,25
+17,Cartman,Stan,47
+18,Kyle,Sharon,30
+19,Kenny,Sharon,5
+20,Cartman,Sharon,5
+21,Kyle,Shelly,6
+22,Kenny,Shelly,1
+23,Cartman,Shelly,1
+24,Kenny,Kyle,18
+25,Cartman,Kyle,28
+26,Stan,The boys,3
+27,Man 1,Stan,15
+28,Stan,Woman 1,6
+29,Man 2,Stan,6
+30,Cartman,The boys,8
+31,Cartman,Man 1,40
+32,Cartman,Woman 1,16
+33,Cartman,Man 2,16
+34,Kyle,The boys,1
+35,Kyle,Man 1,5
+36,Kyle,Woman 1,2
+37,Kyle,Man 2,2
+38,Man 1,The boys,5
+39,The boys,Woman 1,2
+40,Kenny,The boys,1
+41,Man 2,The boys,2
+42,Man 1,Woman 1,10
+43,Kenny,Man 1,5
+44,Man 1,Man 2,10
+45,Kenny,Woman 1,2
+46,Man 2,Woman 1,4
+47,Kenny,Man 2,2
+48,Boyfriend,Girlfriend,2
+49,Robber 2,Robber 3,2
+50,Kyle,Robber 2,2
+51,Robber 2,Robber 4,3
+52,Cartman,Robber 2,1
+53,Kenny,Robber 2,1
+54,Kyle,Robber 3,2
+55,Robber 3,Robber 4,2
+56,Cartman,Robber 3,1
+57,Kenny,Robber 3,1
+58,Kyle,Robber 4,4
+59,Cartman,Robber 4,2
+60,Kenny,Robber 4,2
+61,Robber 2,Stan,4
+62,Robber 1,Stan,13
+63,Robber 4,Stan,4
+64,Robber 1,Robber 2,2
+65,Robber 1,Robber 4,2
+66,Ben,Girlfriend,12
+67,Girlfriend,Stan,12
+68,Ben,Stan,9
+69,Cartman,Sgt. Yates,6
+70,Officer,Sgt. Yates,2
+71,Cartman,Officer,1
+72,Kyle,Sgt. Yates,21
+73,Kyle,Officer 2,3
+74,Kyle,Officer 3,3
+75,Kyle,Officer 4,3
+76,Sgt. Yates,Stan,31
+77,Officer 2,Stan,4
+78,Officer 3,Stan,10
+79,Officer 4,Stan,4
+80,Cartman,Officer 2,1
+81,Cartman,Officer 3,1
+82,Cartman,Officer 4,1
+83,Officer 2,Sgt. Yates,4
+84,Officer 3,Sgt. Yates,4
+85,Officer 4,Sgt. Yates,4
+86,Kenny,Sgt. Yates,7
+87,Officer 2,Officer 3,1
+88,Officer 2,Officer 4,1
+89,Kenny,Officer 2,1
+90,Officer 3,Officer 4,1
+91,Kenny,Officer 3,1
+92,Kenny,Officer 4,1
+93,Butters,Stan,9
+94,Man 3,Stan,4
+95,A Banana,Stan,4
+96,Butters,Man 3,1
+97,Butters,Officer 3,1
+98,A Banana,Butters,1
+99,Man 3,Officer 3,1
+100,A Banana,Man 3,1
+101,A Banana,Officer 3,1
+102,Mr. Garrison,Stan,2
+103,Mr. Garrison,Officer 3,1
+104,Officer 5,Sgt. Yates,3
+105,Robber 1,Sgt. Yates,3
+106,Butters,Sgt. Yates,3
+107,Officer 5,Stan,5
+108,Officer 5,Robber 1,1
+109,Butters,Officer 5,1
+110,Kyle,Officer 5,3
+111,Kenny,Officer 5,1
+112,Butters,Robber 1,1
+113,Kyle,Robber 1,3
+114,Kenny,Robber 1,1
+115,Butters,Kyle,3

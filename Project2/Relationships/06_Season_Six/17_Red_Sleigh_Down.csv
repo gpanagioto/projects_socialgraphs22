@@ -1,0 +1,101 @@
+,source,target,weight
+0,Cartman,Townsfolk,16
+1,Kyle,Townsfolk,8
+2,Mayor McDaniels,Townsfolk,12
+3,Jimbo,Townsfolk,4
+4,Jimmy,Townsfolk,8
+5,Mr. Garrison,Townsfolk,4
+6,Cartman,Kyle,89
+7,Cartman,Mayor McDaniels,12
+8,Cartman,Jimbo,4
+9,Cartman,Jimmy,8
+10,Cartman,Mr. Garrison,4
+11,Kyle,Mayor McDaniels,6
+12,Jimbo,Kyle,2
+13,Jimmy,Kyle,4
+14,Kyle,Mr. Garrison,2
+15,Jimbo,Mayor McDaniels,3
+16,Jimmy,Mayor McDaniels,6
+17,Mayor McDaniels,Mr. Garrison,3
+18,Jimbo,Jimmy,2
+19,Jimbo,Mr. Garrison,1
+20,Jimmy,Mr. Garrison,2
+21,Cartman,Stan,60
+22,Kyle,Stan,42
+23,A Voice,Stan,4
+24,Mr. Hankey,Stan,58
+25,Stan,Whistle,8
+26,A Voice,Cartman,8
+27,Cartman,Mr. Hankey,122
+28,Cartman,Whistle,16
+29,A Voice,Kyle,7
+30,Kyle,Mr. Hankey,79
+31,Kyle,Whistle,14
+32,A Voice,Mr. Hankey,9
+33,A Voice,Whistle,2
+34,Mr. Hankey,Whistle,18
+35,Gnome 1,Stan,16
+36,Gnome 1,Kyle,5
+37,Cartman,Gnome 1,22
+38,Gnome 1,Mr. Hankey,17
+39,Gnome 1,Santa,19
+40,Mr. Hankey,Santa,48
+41,Cartman,Santa,59
+42,Iraqi man 1,Iraqi man 2,1
+43,Iraqi man 1,Santa,4
+44,Gnome 1,Iraqi man 1,3
+45,Gnome 2,Iraqi man 1,3
+46,Iraqi man 1,Stan,4
+47,Cartman,Iraqi man 1,5
+48,Iraqi man 1,Mr. Hankey,3
+49,Iraqi man 1,Kyle,1
+50,Iraqi man 2,Santa,4
+51,Gnome 1,Iraqi man 2,3
+52,Gnome 2,Iraqi man 2,3
+53,Iraqi man 2,Stan,4
+54,Cartman,Iraqi man 2,5
+55,Iraqi man 2,Mr. Hankey,3
+56,Iraqi man 2,Kyle,1
+57,Gnome 2,Santa,12
+58,Santa,Stan,26
+59,Kyle,Santa,16
+60,Gnome 1,Gnome 2,9
+61,Gnome 2,Stan,15
+62,Cartman,Gnome 2,21
+63,Gnome 2,Mr. Hankey,12
+64,Gnome 2,Kyle,6
+65,Iraqi general,Santa,40
+66,Elderly Man,Woman,2
+67,Elderly Man,Jesus,5
+68,Elderly Man,Mr. Hankey,2
+69,Cartman,Elderly Man,1
+70,Elderly Man,Stan,1
+71,Elderly Man,Kyle,1
+72,Jesus,Woman,10
+73,Mr. Hankey,Woman,4
+74,Cartman,Woman,2
+75,Stan,Woman,2
+76,Kyle,Woman,2
+77,Jesus,Mr. Hankey,17
+78,Cartman,Jesus,9
+79,Jesus,Stan,15
+80,Jesus,Kyle,11
+81,Gnome,Stan,2
+82,Gnome,Jesus,8
+83,Gnome,Mr. Hankey,2
+84,Gnome,Soldier 1,4
+85,Gnome,Soldier 2,4
+86,Cartman,Gnome,2
+87,Soldier 1,Stan,2
+88,Soldier 2,Stan,2
+89,Jesus,Soldier 1,8
+90,Jesus,Soldier 2,8
+91,Mr. Hankey,Soldier 1,2
+92,Mr. Hankey,Soldier 2,2
+93,Soldier 1,Soldier 2,4
+94,Cartman,Soldier 1,2
+95,Cartman,Soldier 2,2
+96,Jesus,Santa,24
+97,Iraqi general,Jesus,3
+98,Iraqi general,Mr. Hankey,1
+99,Soldier,Stan,1

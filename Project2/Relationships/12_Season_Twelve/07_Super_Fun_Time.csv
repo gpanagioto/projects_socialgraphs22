@@ -1,0 +1,301 @@
+,source,target,weight
+0,Pioneer Paul,Stan,102
+1,Kyle,Pioneer Paul,55
+2,Mr. Garrison,Pioneer Paul,28
+3,Cartman,Pioneer Paul,65
+4,Kenny,Pioneer Paul,13
+5,Butters,Pioneer Paul,55
+6,Kyle,Stan,39
+7,Mr. Garrison,Stan,28
+8,Cartman,Stan,72
+9,Kenny,Stan,10
+10,Butters,Stan,62
+11,Kyle,Mr. Garrison,14
+12,Cartman,Kyle,23
+13,Kenny,Kyle,3
+14,Butters,Kyle,13
+15,Cartman,Mr. Garrison,62
+16,Kenny,Mr. Garrison,10
+17,Butters,Mr. Garrison,32
+18,Cartman,Kenny,15
+19,Butters,Cartman,260
+20,Butters,Kenny,10
+21,Stan,Wendy,24
+22,Smithy,Stan,1
+23,Chad,Stan,1
+24,Pioneer Paul,Wendy,26
+25,Kyle,Wendy,15
+26,Smithy,Wendy,1
+27,Chad,Wendy,1
+28,Pioneer Paul,Smithy,6
+29,Chad,Pioneer Paul,2
+30,Kyle,Smithy,1
+31,Chad,Kyle,1
+32,Chad,Smithy,1
+33,Cartman,Gunsmith,14
+34,Butters,Gunsmith,14
+35,Clerk,Wendy,11
+36,Clerk,Kyle,24
+37,Clerk,Pioneer Paul,40
+38,Clerk,Stan,38
+39,Clerk,Leader,9
+40,Clerk,Injured Thief,3
+41,Clerk,Sheriff,3
+42,Leader,Wendy,6
+43,Injured Thief,Wendy,2
+44,Sheriff,Wendy,2
+45,Kyle,Leader,9
+46,Injured Thief,Kyle,3
+47,Kyle,Sheriff,3
+48,Leader,Pioneer Paul,15
+49,Injured Thief,Pioneer Paul,5
+50,Pioneer Paul,Sheriff,5
+51,Leader,Stan,18
+52,Injured Thief,Stan,6
+53,Sheriff,Stan,6
+54,Injured Thief,Leader,3
+55,Leader,Sheriff,3
+56,Injured Thief,Sheriff,1
+57,Butters,Cashier,2
+58,Cartman,Cashier,1
+59,911 Operator,Kyle,18
+60,911 Operator,Pioneer Paul,12
+61,911 Operator,Wendy,3
+62,911 Operator,Stan,3
+63,911 Operator,Clerk,6
+64,Blond,Mr. Garrison,1
+65,Leader,Mr. Garrison,1
+66,Mr. Garrison,Police Chief,5
+67,Lieutenant,Mr. Garrison,1
+68,Mr. Garrison,Officer 1,1
+69,Blond,Leader,1
+70,Blond,Police Chief,3
+71,Blond,Lieutenant,1
+72,Blond,Officer 1,1
+73,Leader,Police Chief,3
+74,Leader,Lieutenant,1
+75,Leader,Officer 1,1
+76,Lieutenant,Police Chief,3
+77,Officer 1,Police Chief,3
+78,Lieutenant,Officer 1,1
+79,Balding Man,Leader,1
+80,Leader,Orlich,8
+81,Franz,Orlich,8
+82,Franz,Leader,4
+83,Franz,Smithy,24
+84,Craig,Smithy,4
+85,Smithy,Worker,12
+86,Craig,Franz,6
+87,Franz,Worker,18
+88,Franz,Pioneer Paul,49
+89,Craig,Worker,3
+90,Craig,Pioneer Paul,1
+91,Pioneer Paul,Worker,3
+92,Franz,Wendy,6
+93,Franz,Jimmy,1
+94,Jimmy,Wendy,1
+95,Domino,Vosky,1
+96,Domino,Pioneer Paul,2
+97,Domino,Murderin' Murphy,1
+98,Domino,Franz,4
+99,Domino,Woman,1
+100,Domino,Mr. Garrison,1
+101,Domino,Kenny,2
+102,Pioneer Paul,Vosky,44
+103,Murderin' Murphy,Vosky,43
+104,Franz,Vosky,34
+105,Vosky,Woman,7
+106,Mr. Garrison,Vosky,13
+107,Kenny,Vosky,8
+108,Murderin' Murphy,Pioneer Paul,51
+109,Pioneer Paul,Woman,9
+110,Franz,Murderin' Murphy,39
+111,Murderin' Murphy,Woman,8
+112,Mr. Garrison,Murderin' Murphy,15
+113,Kenny,Murderin' Murphy,9
+114,Franz,Woman,10
+115,Franz,Mr. Garrison,14
+116,Franz,Kenny,13
+117,Mr. Garrison,Woman,3
+118,Kenny,Woman,3
+119,Franz,Stan,40
+120,Murderin' Murphy,Stan,56
+121,Stan,Vosky,48
+122,Officer 2,Stan,24
+123,Officer 3,Stan,8
+124,Police Chief,Stan,8
+125,Stan,Woman,8
+126,PA System,Stan,8
+127,Stan,Woman 2,8
+128,Gunsmith,Stan,8
+129,Man 1,Stan,8
+130,Man 2,Stan,8
+131,Man 3,Stan,8
+132,Franz,Kyle,5
+133,Kyle,Murderin' Murphy,7
+134,Kyle,Vosky,6
+135,Kyle,Officer 2,3
+136,Kyle,Officer 3,1
+137,Kyle,Police Chief,1
+138,Kyle,Woman,1
+139,Kyle,PA System,1
+140,Kyle,Woman 2,1
+141,Gunsmith,Kyle,1
+142,Kyle,Man 1,1
+143,Kyle,Man 2,1
+144,Kyle,Man 3,1
+145,Kenny,Wendy,1
+146,Murderin' Murphy,Wendy,7
+147,Mr. Garrison,Wendy,2
+148,Vosky,Wendy,6
+149,Cartman,Wendy,7
+150,Butters,Wendy,7
+151,Officer 2,Wendy,3
+152,Officer 3,Wendy,1
+153,Police Chief,Wendy,1
+154,Wendy,Woman,1
+155,PA System,Wendy,1
+156,Wendy,Woman 2,1
+157,Gunsmith,Wendy,1
+158,Man 1,Wendy,1
+159,Man 2,Wendy,1
+160,Man 3,Wendy,1
+161,Clerk,Franz,10
+162,Cartman,Franz,35
+163,Butters,Franz,35
+164,Franz,Officer 2,15
+165,Franz,Officer 3,5
+166,Franz,Police Chief,5
+167,Franz,PA System,5
+168,Franz,Woman 2,5
+169,Franz,Gunsmith,5
+170,Franz,Man 1,5
+171,Franz,Man 2,5
+172,Franz,Man 3,5
+173,Clerk,Kenny,2
+174,Kenny,Officer 2,3
+175,Kenny,Officer 3,1
+176,Kenny,Police Chief,1
+177,Kenny,PA System,1
+178,Kenny,Woman 2,1
+179,Gunsmith,Kenny,1
+180,Kenny,Man 1,1
+181,Kenny,Man 2,1
+182,Kenny,Man 3,1
+183,Officer 2,Pioneer Paul,21
+184,Officer 3,Pioneer Paul,7
+185,Pioneer Paul,Police Chief,7
+186,PA System,Pioneer Paul,7
+187,Pioneer Paul,Woman 2,7
+188,Gunsmith,Pioneer Paul,7
+189,Man 1,Pioneer Paul,7
+190,Man 2,Pioneer Paul,7
+191,Man 3,Pioneer Paul,7
+192,Clerk,Murderin' Murphy,14
+193,Cartman,Murderin' Murphy,49
+194,Butters,Murderin' Murphy,49
+195,Murderin' Murphy,Officer 2,21
+196,Murderin' Murphy,Officer 3,7
+197,Murderin' Murphy,Police Chief,7
+198,Murderin' Murphy,PA System,7
+199,Murderin' Murphy,Woman 2,7
+200,Gunsmith,Murderin' Murphy,7
+201,Man 1,Murderin' Murphy,7
+202,Man 2,Murderin' Murphy,7
+203,Man 3,Murderin' Murphy,7
+204,Clerk,Mr. Garrison,4
+205,Clerk,Vosky,12
+206,Cartman,Clerk,14
+207,Butters,Clerk,14
+208,Clerk,Officer 2,6
+209,Clerk,Officer 3,2
+210,Clerk,Police Chief,2
+211,Clerk,Woman,2
+212,Clerk,PA System,2
+213,Clerk,Woman 2,2
+214,Clerk,Gunsmith,2
+215,Clerk,Man 1,2
+216,Clerk,Man 2,2
+217,Clerk,Man 3,2
+218,Mr. Garrison,Officer 2,6
+219,Mr. Garrison,Officer 3,2
+220,Mr. Garrison,PA System,2
+221,Mr. Garrison,Woman 2,2
+222,Gunsmith,Mr. Garrison,2
+223,Man 1,Mr. Garrison,2
+224,Man 2,Mr. Garrison,2
+225,Man 3,Mr. Garrison,2
+226,Cartman,Vosky,42
+227,Butters,Vosky,42
+228,Officer 2,Vosky,18
+229,Officer 3,Vosky,6
+230,Police Chief,Vosky,6
+231,PA System,Vosky,6
+232,Vosky,Woman 2,6
+233,Gunsmith,Vosky,6
+234,Man 1,Vosky,6
+235,Man 2,Vosky,6
+236,Man 3,Vosky,6
+237,Cartman,Officer 2,21
+238,Cartman,Officer 3,7
+239,Cartman,Police Chief,7
+240,Cartman,Woman,7
+241,Cartman,PA System,7
+242,Cartman,Woman 2,7
+243,Cartman,Man 1,7
+244,Cartman,Man 2,7
+245,Cartman,Man 3,7
+246,Butters,Officer 2,21
+247,Butters,Officer 3,7
+248,Butters,Police Chief,7
+249,Butters,Woman,7
+250,Butters,PA System,7
+251,Butters,Woman 2,7
+252,Butters,Man 1,7
+253,Butters,Man 2,7
+254,Butters,Man 3,7
+255,Officer 2,Officer 3,3
+256,Officer 2,Police Chief,3
+257,Officer 2,Woman,3
+258,Officer 2,PA System,3
+259,Officer 2,Woman 2,3
+260,Gunsmith,Officer 2,3
+261,Man 1,Officer 2,3
+262,Man 2,Officer 2,3
+263,Man 3,Officer 2,3
+264,Officer 3,Police Chief,1
+265,Officer 3,Woman,1
+266,Officer 3,PA System,1
+267,Officer 3,Woman 2,1
+268,Gunsmith,Officer 3,1
+269,Man 1,Officer 3,1
+270,Man 2,Officer 3,1
+271,Man 3,Officer 3,1
+272,Police Chief,Woman,1
+273,PA System,Police Chief,1
+274,Police Chief,Woman 2,1
+275,Gunsmith,Police Chief,1
+276,Man 1,Police Chief,1
+277,Man 2,Police Chief,1
+278,Man 3,Police Chief,1
+279,PA System,Woman,1
+280,Woman,Woman 2,1
+281,Gunsmith,Woman,1
+282,Man 1,Woman,1
+283,Man 2,Woman,1
+284,Man 3,Woman,1
+285,PA System,Woman 2,1
+286,Gunsmith,PA System,1
+287,Man 1,PA System,1
+288,Man 2,PA System,1
+289,Man 3,PA System,1
+290,Gunsmith,Woman 2,1
+291,Man 1,Woman 2,1
+292,Man 2,Woman 2,1
+293,Man 3,Woman 2,1
+294,Gunsmith,Man 1,1
+295,Gunsmith,Man 2,1
+296,Gunsmith,Man 3,1
+297,Man 1,Man 2,1
+298,Man 1,Man 3,1
+299,Man 2,Man 3,1

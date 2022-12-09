@@ -1,0 +1,110 @@
+,source,target,weight
+0,Clyde,Stan,27
+1,Cartman,Clyde,46
+2,Clyde,Craig,13
+3,Butters,Clyde,18
+4,Clyde,Kyle,16
+5,Cartman,Stan,75
+6,Craig,Stan,21
+7,Butters,Stan,16
+8,Kyle,Stan,26
+9,Cartman,Craig,30
+10,Butters,Cartman,56
+11,Cartman,Kyle,43
+12,Butters,Craig,2
+13,Craig,Kyle,12
+14,Butters,Kyle,9
+15,Bebe,Isla,30
+16,Bebe,Girls,10
+17,Bebe,Boys,6
+18,Bebe,Red,30
+19,Bebe,Heidi,36
+20,Bebe,Clyde,7
+21,Bebe,Stan,6
+22,Bebe,Craig,6
+23,Bebe,Cartman,9
+24,Girls,Isla,5
+25,Boys,Isla,5
+26,Isla,Red,20
+27,Heidi,Isla,20
+28,Clyde,Isla,5
+29,Isla,Stan,5
+30,Craig,Isla,5
+31,Cartman,Isla,5
+32,Boys,Girls,1
+33,Girls,Red,6
+34,Girls,Heidi,8
+35,Clyde,Girls,1
+36,Girls,Stan,1
+37,Craig,Girls,1
+38,Cartman,Girls,1
+39,Boys,Red,4
+40,Boys,Heidi,4
+41,Boys,Clyde,1
+42,Boys,Stan,1
+43,Boys,Craig,1
+44,Boys,Cartman,1
+45,Heidi,Red,22
+46,Clyde,Red,6
+47,Red,Stan,4
+48,Craig,Red,4
+49,Cartman,Red,10
+50,Clyde,Heidi,4
+51,Heidi,Stan,6
+52,Craig,Heidi,4
+53,Cartman,Heidi,8
+54,Clyde,Kevin,1
+55,Cartman,Kevin,7
+56,Kevin,Kyle,2
+57,Craig,Kevin,1
+58,Kevin,Stan,3
+59,Officer 1,Stephen,2
+60,Officer 2,Stephen,1
+61,Linda,Stephen,39
+62,Officer 1,Officer 2,1
+63,Linda,Officer 1,5
+64,Linda,Officer 2,1
+65,Butters,Linda,34
+66,Cartman,Linda,16
+67,Linda,Officer 3,4
+68,Butters,Stephen,28
+69,Butters,Officer 1,2
+70,Butters,Officer 3,2
+71,Cartman,Stephen,4
+72,Cartman,Officer 1,4
+73,Cartman,Officer 3,4
+74,Officer 3,Stephen,1
+75,Officer 1,Officer 3,1
+76,Ms. Garrison,Red,8
+77,Butters,Red,14
+78,Butters,Ms. Garrison,16
+79,Cartman,Ms. Garrison,12
+80,Clyde,Ms. Garrison,4
+81,Bebe,Ms. Garrison,4
+82,Bebe,Butters,22
+83,Heidi,Mrs. Turner,16
+84,An Old Farmer,Linda,5
+85,An Old Farmer,Stephen,25
+86,Butters,Heidi,25
+87,Heidi,Wendy,11
+88,Bebe,Wendy,11
+89,Red,Wendy,4
+90,Butters,Wendy,19
+91,Butters,Girls,7
+92,Girls,Wendy,5
+93,Clyde,Mrs. Turner,1
+94,Mrs. Turner,Stan,2
+95,Kyle,Mrs. Turner,1
+96,Cartman,Mrs. Turner,5
+97,Butters,Mrs. Turner,4
+98,Jason,Stan,10
+99,Bradley,Stan,5
+100,Cartman,Jason,12
+101,Bradley,Cartman,6
+102,Clyde,Jason,6
+103,Bradley,Clyde,3
+104,Craig,Jason,6
+105,Bradley,Craig,3
+106,Jason,Kyle,6
+107,Bradley,Kyle,3
+108,Bradley,Jason,2

@@ -1,0 +1,123 @@
+,source,target,weight
+0,Mr. Mackey,Stephen,24
+1,Cartman,Clerk 1,1
+2,Cartman,Stephen,8
+3,Agent 1,Stephen,6
+4,Agent 2,Stephen,2
+5,Esposa,Stephen,2
+6,Girl,Stephen,2
+7,Agent 3,Stephen,2
+8,Agent 4,Stephen,2
+9,Agent 1,Cartman,16
+10,Agent 2,Cartman,12
+11,Cartman,Esposa,4
+12,Cartman,Girl,4
+13,Agent 3,Cartman,12
+14,Agent 4,Cartman,4
+15,Agent 1,Agent 2,5
+16,Agent 1,Esposa,3
+17,Agent 1,Girl,3
+18,Agent 1,Agent 3,5
+19,Agent 1,Agent 4,3
+20,Agent 2,Esposa,1
+21,Agent 2,Girl,1
+22,Agent 2,Agent 3,5
+23,Agent 2,Agent 4,1
+24,Esposa,Girl,1
+25,Agent 3,Esposa,1
+26,Agent 4,Esposa,1
+27,Agent 3,Girl,1
+28,Agent 4,Girl,1
+29,Agent 3,Agent 4,1
+30,Cartman,Kyle,37
+31,Agent 2,Kyle,12
+32,Ike,Kyle,6
+33,Gerald,Kyle,30
+34,Agent 5,Kyle,12
+35,Kyle,Sheila,24
+36,Agent 3,Kyle,12
+37,Agent 1,Kyle,6
+38,Cartman,Ike,4
+39,Cartman,Gerald,20
+40,Agent 5,Cartman,8
+41,Cartman,Sheila,16
+42,Agent 2,Ike,2
+43,Agent 2,Gerald,10
+44,Agent 2,Agent 5,4
+45,Agent 2,Sheila,8
+46,Gerald,Ike,5
+47,Agent 5,Ike,2
+48,Ike,Sheila,4
+49,Agent 3,Ike,2
+50,Agent 1,Ike,1
+51,Agent 5,Gerald,10
+52,Gerald,Sheila,20
+53,Agent 3,Gerald,10
+54,Agent 1,Gerald,5
+55,Agent 5,Sheila,8
+56,Agent 3,Agent 5,4
+57,Agent 1,Agent 5,2
+58,Agent 3,Sheila,8
+59,Agent 1,Sheila,4
+60,Stan,Towelie,3
+61,David,Jeff,83
+62,David,Rodgers,6
+63,David,Martinez,2
+64,Aguilar,David,2
+65,David,Kyle,54
+66,Boy,David,2
+67,David,Girl,2
+68,Martinez,Rodgers,3
+69,Aguilar,Rodgers,3
+70,Kyle,Rodgers,9
+71,Jeff,Rodgers,6
+72,Boy,Rodgers,3
+73,Girl,Rodgers,3
+74,Aguilar,Martinez,1
+75,Kyle,Martinez,3
+76,Jeff,Martinez,2
+77,Boy,Martinez,1
+78,Girl,Martinez,1
+79,Aguilar,Kyle,3
+80,Aguilar,Jeff,2
+81,Aguilar,Boy,1
+82,Aguilar,Girl,1
+83,Jeff,Kyle,94
+84,Boy,Kyle,3
+85,Girl,Kyle,3
+86,Boy,Jeff,2
+87,Girl,Jeff,2
+88,Boy,Girl,1
+89,Bigwig 1,Bigwig 2,4
+90,Jeff,Mexican Joker,20
+91,Jeff,Princess Star,12
+92,Agent 6,Jeff,4
+93,David,Mexican Joker,10
+94,David,Princess Star,6
+95,Agent 6,David,2
+96,Mexican Joker,Princess Star,15
+97,Agent 6,Mexican Joker,5
+98,Agent 6,Princess Star,3
+99,Cartman,David,5
+100,Clerk 2,Mr. Mackey,4
+101,Clerk 2,Stephen,12
+102,Clerk 2,Jimbo,10
+103,Jimbo,Mr. Mackey,10
+104,Jimbo,Stephen,30
+105,Jack,Wife,4
+106,Cmdr Miller,News Anchor,20
+107,Cmdr Miller,Jeff,40
+108,Cmdr Miller,David,10
+109,Cmdr Miller,Kyle,15
+110,Cmdr Miller,Kids,5
+111,Cartman,Cmdr Miller,5
+112,Jeff,News Anchor,32
+113,David,News Anchor,8
+114,Kyle,News Anchor,12
+115,Kids,News Anchor,4
+116,Cartman,News Anchor,4
+117,Jeff,Kids,8
+118,Cartman,Jeff,8
+119,David,Kids,2
+120,Kids,Kyle,3
+121,Cartman,Kids,1

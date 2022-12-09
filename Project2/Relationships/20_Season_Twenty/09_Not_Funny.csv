@@ -1,0 +1,72 @@
+,source,target,weight
+0,Harrison,Unknown person,5
+1,Stephen,Unknown person,1
+2,Laura,Unknown person,1
+3,Harrison,Stephen,6
+4,Harrison,Laura,5
+5,Laura,Stephen,1
+6,Kyle,Sheila,31
+7,Gerald,Kyle,36
+8,Ike,Kyle,50
+9,Gerald,Sheila,6
+10,Gerald,Ike,6
+11,Ike,Sheila,13
+12,Cartman,Heidi,53
+13,Elon Musk,Heidi,9
+14,Butters,Heidi,3
+15,Cartman,Elon Musk,18
+16,Butters,Cartman,35
+17,Butters,Elon Musk,3
+18,Dane 2,Gerald,1
+19,Bedrager,Gerald,59
+20,Anonymous821,Gerald,5
+21,Bedrager,Dane 2,2
+22,Anonymous821,Dane 2,1
+23,Anonymous821,Bedrager,2
+24,Everyone,Harrison,1
+25,Everyone,Men,1
+26,Everyone,Kyle,4
+27,Everyone,Ike,1
+28,Everyone,Prayers,2
+29,Everyone,Stephen,1
+30,Harrison,Men,1
+31,Harrison,Kyle,4
+32,Harrison,Ike,1
+33,Harrison,Prayers,2
+34,Kyle,Men,4
+35,Ike,Men,1
+36,Men,Prayers,2
+37,Men,Stephen,1
+38,Kyle,Prayers,8
+39,Kyle,Stephen,4
+40,Ike,Prayers,2
+41,Ike,Stephen,1
+42,Prayers,Stephen,2
+43,Garrison,Second General,13
+44,Army Soldier,Garrison,13
+45,Garrison,Mr. Slave,52
+46,Army Soldier,Second General,2
+47,Mr. Slave,Second General,1
+48,Army Soldier,Mr. Slave,1
+49,Garrison,Ike,37
+50,First General,Garrison,7
+51,Garrison,Kyle,97
+52,Ike,Mr. Slave,7
+53,First General,Mr. Slave,7
+54,Kyle,Mr. Slave,7
+55,First General,Ike,1
+56,First General,Kyle,1
+57,Anonymous821,Dick,3
+58,Anonymous821,Trolls,1
+59,Dick,Gerald,12
+60,Dick,Trolls,3
+61,Gerald,Trolls,4
+62,Kyle,Second General,9
+63,Ike,Second General,3
+64,Army Soldier,Kyle,9
+65,Army Soldier,Ike,3
+66,Heidi,SpaceX Employee,7
+67,Cartman,SpaceX Employee,5
+68,Music video,TrollTrace Employee,1
+69,Dick,Music video,1
+70,Dick,TrollTrace Employee,1

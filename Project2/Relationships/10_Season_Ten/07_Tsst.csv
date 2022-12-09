@@ -1,0 +1,42 @@
+,source,target,weight
+0,Cartman,Liane,387
+1,Liane,Mr. Mackey,12
+2,Cartman,Mr. Mackey,15
+3,Announcer,Girl,4
+4,Boy,Girl,1
+5,Cartman,Girl,24
+6,Girl,Stella,26
+7,Girl,Liane,6
+8,Announcer,Boy,4
+9,Announcer,Cartman,96
+10,Announcer,Stella,104
+11,Announcer,Liane,24
+12,Boy,Cartman,24
+13,Boy,Stella,26
+14,Boy,Liane,6
+15,Cartman,Stella,624
+16,Liane,Stella,156
+17,Doctor,Liane,4
+18,Jo,Liane,2
+19,Doctor,Jo,2
+20,Cesar,Liane,232
+21,Cartman,Cesar,413
+22,Cartman,Stan,33
+23,Cartman,Kyle,19
+24,Butters,Cartman,17
+25,Cartman,Kenny,5
+26,Kyle,Stan,9
+27,Butters,Stan,6
+28,Kenny,Stan,1
+29,Butters,Kyle,4
+30,Kenny,Kyle,1
+31,Butters,Kenny,2
+32,Cartman,Jimmy,6
+33,Craig,Jimmy,2
+34,Cartman,Craig,3
+35,Cartman,Cartman's conscience,4
+36,Cartman's conscience,Cartman's good side,3
+37,Cartman's bad side,Cartman's conscience,2
+38,Cartman,Cartman's good side,12
+39,Cartman,Cartman's bad side,8
+40,Cartman's bad side,Cartman's good side,6

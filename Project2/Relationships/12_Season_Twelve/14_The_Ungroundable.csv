@@ -1,0 +1,112 @@
+,source,target,weight
+0,Spiky Vampire,Vampir,22
+1,Midnight Vampire,Spiky Vampire,4
+2,Butters,Spiky Vampire,15
+3,Sparkly Vampire,Spiky Vampire,4
+4,Bloodrayne,Spiky Vampire,4
+5,Other Vampires,Spiky Vampire,3
+6,Spiky Vampire,Tape,3
+7,Midnight Vampire,Vampir,15
+8,Butters,Vampir,63
+9,Sparkly Vampire,Vampir,12
+10,Bloodrayne,Vampir,12
+11,Other Vampires,Vampir,5
+12,Tape,Vampir,5
+13,Butters,Midnight Vampire,11
+14,Midnight Vampire,Sparkly Vampire,2
+15,Bloodrayne,Midnight Vampire,2
+16,Midnight Vampire,Other Vampires,1
+17,Midnight Vampire,Tape,1
+18,Butters,Sparkly Vampire,5
+19,Bloodrayne,Butters,5
+20,Butters,Other Vampires,5
+21,Butters,Tape,5
+22,Bloodrayne,Sparkly Vampire,2
+23,Other Vampires,Sparkly Vampire,1
+24,Sparkly Vampire,Tape,1
+25,Bloodrayne,Other Vampires,1
+26,Bloodrayne,Tape,1
+27,Other Vampires,Tape,1
+28,Pete,Vampir,58
+29,Henrietta,Vampir,27
+30,Michael,Vampir,33
+31,Other Vamps,Vampir,7
+32,Pete,Spiky Vampire,6
+33,Henrietta,Spiky Vampire,3
+34,Michael,Spiky Vampire,2
+35,Other Vamps,Spiky Vampire,1
+36,Henrietta,Pete,52
+37,Michael,Pete,47
+38,Midnight Vampire,Pete,6
+39,Bloodrayne,Pete,6
+40,Pete,Sparkly Vampire,6
+41,Other Vamps,Pete,6
+42,Henrietta,Michael,24
+43,Henrietta,Midnight Vampire,3
+44,Bloodrayne,Henrietta,3
+45,Henrietta,Sparkly Vampire,3
+46,Henrietta,Other Vamps,3
+47,Michael,Midnight Vampire,2
+48,Bloodrayne,Michael,2
+49,Michael,Sparkly Vampire,2
+50,Michael,Other Vamps,2
+51,Midnight Vampire,Other Vamps,1
+52,Bloodrayne,Other Vamps,1
+53,Other Vamps,Sparkly Vampire,1
+54,Butters,Linda,21
+55,Butters,Stephen,69
+56,Butters,Cowlick Vampire,6
+57,Cowlick Vampire,Vampir,3
+58,Cowlick Vampire,Midnight Vampire,1
+59,Boy 1,Boy 2,2
+60,Boy 1,Pete,5
+61,Boy 1,Michael,5
+62,Boy 1,Henrietta,4
+63,Boy 1,Little Vamp,2
+64,Boy 1,Shades Vamp,2
+65,Boy 2,Pete,2
+66,Boy 2,Michael,2
+67,Boy 2,Henrietta,2
+68,Boy 2,Little Vamp,1
+69,Boy 2,Shades Vamp,1
+70,Little Vamp,Pete,2
+71,Pete,Shades Vamp,2
+72,Little Vamp,Michael,2
+73,Michael,Shades Vamp,2
+74,Henrietta,Little Vamp,2
+75,Henrietta,Shades Vamp,2
+76,Little Vamp,Shades Vamp,1
+77,Linda,Stephen,19
+78,Pete,Principal Victoria,6
+79,Mr. Mackey,Pete,2
+80,Michael,Principal Victoria,6
+81,Michael,Mr. Mackey,2
+82,Mr. Mackey,Principal Victoria,3
+83,Principal Victoria,Vampir,6
+84,Mr. Mackey,Vampir,2
+85,Boy 1,Boy 3,1
+86,Boy 1,Firkle,1
+87,Boy 3,Michael,1
+88,Boy 3,Firkle,1
+89,Boy 3,Pete,1
+90,Firkle,Michael,2
+91,Firkle,Pete,3
+92,Butters,Cartman,15
+93,Cartman,Liane,15
+94,Butters,Liane,9
+95,Firkle,Henrietta,2
+96,Goths,Henrietta,2
+97,Goths,Michael,5
+98,Goths,Pete,4
+99,Goths,Vampir,3
+100,Henrietta,Waitress,16
+101,Butters,Henrietta,13
+102,Pete,Waitress,16
+103,Butters,Waitress,12
+104,Butters,Pete,15
+105,Butters,Michael,2
+106,Pete,Spiky Vamp,1
+107,Clerk,Pete,1
+108,Butters,Spiky Vamp,1
+109,Clerk,Spiky Vamp,1
+110,Butters,Clerk,1

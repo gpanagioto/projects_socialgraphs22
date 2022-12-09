@@ -1,0 +1,69 @@
+,source,target,weight
+0,Marcus,Marcus' Mom,1
+1,Marcus,Marcus' Dad,1
+2,Chuck,Marcus,1
+3,Marcus' Dad,Marcus' Mom,1
+4,Chuck,Marcus' Mom,1
+5,Chuck,Marcus' Dad,1
+6,Marcus,Officer Stevens,3
+7,Johnson,Marcus,2
+8,Marcus,Vicky,3
+9,Marcus,Stan,68
+10,Marcus,Marvin,4
+11,Elderly Man 1,Marcus,1
+12,Johnson,Officer Stevens,6
+13,Officer Stevens,Vicky,9
+14,Officer Stevens,Stan,18
+15,Marvin,Officer Stevens,12
+16,Elderly Man 1,Officer Stevens,3
+17,Johnson,Vicky,6
+18,Johnson,Stan,12
+19,Johnson,Marvin,8
+20,Elderly Man 1,Johnson,2
+21,Stan,Vicky,25
+22,Marvin,Vicky,12
+23,Elderly Man 1,Vicky,3
+24,Marvin,Stan,48
+25,Elderly Man 1,Stan,6
+26,Elderly Man 1,Marvin,4
+27,Cartman,Stan,38
+28,Stan,Swiper,18
+29,Kyle,Stan,42
+30,Cartman,Swiper,6
+31,Cartman,Kyle,13
+32,Kyle,Swiper,3
+33,Butters,Stan,23
+34,Butters,Kyle,9
+35,Butters,Cartman,10
+36,Marvin,Ms. McGullicutty,30
+37,Ms. McGullicutty,Stan,15
+38,Marcus,Receptionist,4
+39,Coroner,Marcus,12
+40,Delivery man,Stan,7
+41,Delivery man,Kyle,2
+42,Kyle,Vicky,2
+43,Butters,Delivery man,1
+44,Butters,Vicky,1
+45,Delivery man,Vicky,1
+46,Marvin,Mrs. McGullicutty,25
+47,Annie,Marcus,4
+48,Annie,Peppa,2
+49,Ambulance lady,Annie,1
+50,Marcus,Peppa,8
+51,Ambulance lady,Marcus,4
+52,Ambulance lady,Peppa,2
+53,Cartman,Vicky,4
+54,Residents,Toby,1
+55,Elderly Man 2,Residents,1
+56,Elderly Man 2,Toby,1
+57,Cartman,The Boys,28
+58,Butters,The Boys,2
+59,Elderly Man 3,The Boys,8
+60,Cartman,Elderly Man 3,12
+61,Butters,Mrs. McGullicutty,1
+62,Cartman,Marvin,4
+63,Cartman,Mrs. McGullicutty,3
+64,Mrs. McGullicutty,Tony,1
+65,Stan,Tony,2
+66,Marvin,Tony,1
+67,Mrs. McGullicutty,Stan,2

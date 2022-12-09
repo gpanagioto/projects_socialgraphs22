@@ -1,0 +1,132 @@
+,source,target,weight
+0,Cartman,Stan,14
+1,Kyle,Stan,9
+2,Cartman,Kyle,14
+3,Butters,Stan,5
+4,Butters,Kyle,5
+5,Butters,Cartman,10
+6,Butters,Stephen,72
+7,Linda,Stephen,22
+8,Principal Victoria,Stephen,16
+9,Butters,Linda,16
+10,Butters,Principal Victoria,12
+11,Linda,Principal Victoria,4
+12,Kenny,Kyle,3
+13,Cartman,Kenny,3
+14,Kenny,Stan,2
+15,Butters,Kenny,18
+16,Butters,Teller,6
+17,Kenny,Teller,8
+18,Butters,Officer,10
+19,Blond man,Officer,6
+20,Officer,Older woman,2
+21,Blond man,Butters,23
+22,Butters,Older woman,5
+23,Blond man,Older woman,3
+24,Donna,Older man,4
+25,Blond man,Older man,8
+26,Butters,Older man,4
+27,Older man,Patty,4
+28,Brunet man,Older man,4
+29,Chief,Older man,4
+30,Blond man,Donna,2
+31,Butters,Donna,1
+32,Donna,Patty,1
+33,Brunet man,Donna,1
+34,Chief,Donna,1
+35,Blond man,Patty,5
+36,Blond man,Brunet man,2
+37,Blond man,Chief,23
+38,Butters,Patty,3
+39,Brunet man,Butters,1
+40,Butters,Chief,21
+41,Brunet man,Patty,1
+42,Chief,Patty,8
+43,Brunet man,Chief,1
+44,Butters,Resident 1,4
+45,Butters,Resident 2,2
+46,Chief,Resident 1,7
+47,Chief,Resident 2,7
+48,Blond man,Resident 1,3
+49,Blond man,Resident 2,3
+50,Patty,Resident 1,1
+51,Patty,Resident 2,1
+52,Resident 1,Resident 2,1
+53,Chief,First Mate,2
+54,Butters,First Mate,2
+55,First Mate,Man,2
+56,First Mate,Woman,2
+57,Chief,Man,4
+58,Chief,Woman,4
+59,Butters,Man,4
+60,Butters,Woman,4
+61,Man,Woman,4
+62,Anchor,Man 1,2
+63,Anchor,Woman 1,2
+64,Man 1,Woman 1,1
+65,Resident 3,Resident 4,4
+66,Kenny,Resident 3,2
+67,Butters,Resident 3,2
+68,Chief,Resident 3,1
+69,Resident 3,Resident 5,1
+70,Resident 3,Resident 6,1
+71,Kenny,Resident 4,10
+72,Butters,Resident 4,16
+73,Chief,Resident 4,4
+74,Resident 4,Resident 5,4
+75,Resident 4,Resident 6,4
+76,Chief,Kenny,2
+77,Kenny,Resident 5,2
+78,Kenny,Resident 6,2
+79,Butters,Resident 5,2
+80,Butters,Resident 6,2
+81,Chief,Resident 5,1
+82,Chief,Resident 6,1
+83,Resident 5,Resident 6,1
+84,Butters,Residents,4
+85,Butters,Resident 7,2
+86,Butters,Resident 8,2
+87,Resident 1,Resident 4,2
+88,Resident 1,Residents,2
+89,Resident 1,Resident 7,1
+90,Kenny,Resident 1,1
+91,Resident 1,Resident 8,1
+92,Resident 4,Residents,4
+93,Resident 4,Resident 7,2
+94,Resident 4,Resident 8,2
+95,Resident 7,Residents,2
+96,Kenny,Residents,2
+97,Resident 8,Residents,2
+98,Kenny,Resident 7,1
+99,Resident 7,Resident 8,1
+100,Kenny,Resident 8,1
+101,Resident 9,Vacationer 1,4
+102,Canyoner,Resident 9,2
+103,Butters,Resident 9,4
+104,Resident 10,Resident 9,2
+105,Resident 11,Resident 9,2
+106,Resident 12,Resident 9,2
+107,Canyoner,Vacationer 1,2
+108,Butters,Vacationer 1,4
+109,Resident 10,Vacationer 1,2
+110,Resident 11,Vacationer 1,2
+111,Resident 12,Vacationer 1,2
+112,Butters,Canyoner,2
+113,Canyoner,Resident 10,1
+114,Canyoner,Resident 11,1
+115,Canyoner,Resident 12,1
+116,Butters,Resident 10,2
+117,Butters,Resident 11,2
+118,Butters,Resident 12,2
+119,Resident 10,Resident 11,1
+120,Resident 10,Resident 12,1
+121,Resident 11,Resident 12,1
+122,Captain,Resident 4,3
+123,Butters,Captain,5
+124,Butters,Resident 13,3
+125,Butters,Resident 14,3
+126,Resident 13,Resident 4,1
+127,Resident 14,Resident 4,1
+128,Resident 13,Resident 14,1
+129,Captain,Resident 13,1
+130,Captain,Resident 14,1

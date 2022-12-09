@@ -1,0 +1,162 @@
+,source,target,weight
+0,Mr. Garrison,Richard Adler,2
+1,Canadian 1,Richard Adler,1
+2,Canadian 2,Richard Adler,1
+3,Canadian 3,Richard Adler,1
+4,Canadian 4,Richard Adler,1
+5,Canadian 5,Richard Adler,1
+6,President Obama,Richard Adler,2
+7,Caitlyn Jenner,Richard Adler,1
+8,Canadian 1,Mr. Garrison,2
+9,Canadian 2,Mr. Garrison,2
+10,Canadian 3,Mr. Garrison,2
+11,Canadian 4,Mr. Garrison,2
+12,Canadian 5,Mr. Garrison,2
+13,Mr. Garrison,President Obama,4
+14,Caitlyn Jenner,Mr. Garrison,2
+15,Canadian 1,Canadian 2,1
+16,Canadian 1,Canadian 3,1
+17,Canadian 1,Canadian 4,1
+18,Canadian 1,Canadian 5,1
+19,Canadian 1,President Obama,2
+20,Caitlyn Jenner,Canadian 1,1
+21,Canadian 2,Canadian 3,1
+22,Canadian 2,Canadian 4,1
+23,Canadian 2,Canadian 5,1
+24,Canadian 2,President Obama,2
+25,Caitlyn Jenner,Canadian 2,1
+26,Canadian 3,Canadian 4,1
+27,Canadian 3,Canadian 5,1
+28,Canadian 3,President Obama,2
+29,Caitlyn Jenner,Canadian 3,1
+30,Canadian 4,Canadian 5,1
+31,Canadian 4,President Obama,2
+32,Caitlyn Jenner,Canadian 4,1
+33,Canadian 5,President Obama,2
+34,Caitlyn Jenner,Canadian 5,1
+35,Caitlyn Jenner,President Obama,2
+36,Canadian kid 1,Mr. Garrison,2
+37,Canadian kid 1,Canadian kid 2,1
+38,Canadian kid 2,Mr. Garrison,2
+39,Mr. Garrsion,PC Principal,9
+40,Mr. Garrsion,Mr. Mackey,3
+41,Mr. Mackey,PC Principal,3
+42,Butters,Clyde,6
+43,Butters,Tolkien,14
+44,Butters,Cartman,89
+45,Butters,Kyle,22
+46,Butters,Stan,17
+47,Clyde,Tolkien,4
+48,Cartman,Clyde,14
+49,Clyde,Kyle,12
+50,Clyde,Stan,6
+51,Cartman,Tolkien,24
+52,Kyle,Tolkien,14
+53,Stan,Tolkien,10
+54,Cartman,Kyle,47
+55,Cartman,Stan,31
+56,Kyle,Stan,20
+57,Kindergartner,Three students dressed in Native American garb,1
+58,Five students dressed in European clothing,Three students dressed in Native American garb,1
+59,Mr. Garrison,Three students dressed in Native American garb,3
+60,PC Principal,Three students dressed in Native American garb,2
+61,Stan,Three students dressed in Native American garb,2
+62,Three students dressed in Native American garb,Tolkien,2
+63,Butters,Three students dressed in Native American garb,4
+64,Cartman,Three students dressed in Native American garb,5
+65,Craig,Three students dressed in Native American garb,1
+66,Kyle,Three students dressed in Native American garb,1
+67,Five students dressed in European clothing,Kindergartner,1
+68,Kindergartner,Mr. Garrison,3
+69,Kindergartner,PC Principal,2
+70,Kindergartner,Stan,2
+71,Kindergartner,Tolkien,2
+72,Butters,Kindergartner,4
+73,Cartman,Kindergartner,5
+74,Craig,Kindergartner,1
+75,Kindergartner,Kyle,1
+76,Five students dressed in European clothing,Mr. Garrison,3
+77,Five students dressed in European clothing,PC Principal,2
+78,Five students dressed in European clothing,Stan,2
+79,Five students dressed in European clothing,Tolkien,2
+80,Butters,Five students dressed in European clothing,4
+81,Cartman,Five students dressed in European clothing,5
+82,Craig,Five students dressed in European clothing,1
+83,Five students dressed in European clothing,Kyle,1
+84,Mr. Garrison,PC Principal,6
+85,Mr. Garrison,Stan,6
+86,Mr. Garrison,Tolkien,6
+87,Butters,Mr. Garrison,12
+88,Cartman,Mr. Garrison,15
+89,Craig,Mr. Garrison,3
+90,Kyle,Mr. Garrison,3
+91,PC Principal,Stan,4
+92,PC Principal,Tolkien,4
+93,Butters,PC Principal,8
+94,Cartman,PC Principal,10
+95,Craig,PC Principal,2
+96,Kyle,PC Principal,2
+97,Craig,Stan,2
+98,Craig,Tolkien,2
+99,Butters,Craig,4
+100,Cartman,Craig,5
+101,Craig,Kyle,1
+102,Field reporter,Mr. Garrison,11
+103,Mr. Garrison,Supporter 1,11
+104,Mr. Garrison,Tom,11
+105,Guard,Mr. Garrison,69
+106,Jimbo,Mr. Garrison,23
+107,Mr. Garrison,Supporter 2,11
+108,Field reporter,Supporter 1,1
+109,Field reporter,Tom,1
+110,Field reporter,Guard,6
+111,Field reporter,Jimbo,2
+112,Field reporter,Supporter 2,1
+113,Supporter 1,Tom,1
+114,Guard,Supporter 1,6
+115,Jimbo,Supporter 1,2
+116,Supporter 1,Supporter 2,1
+117,Guard,Tom,6
+118,Jimbo,Tom,2
+119,Supporter 2,Tom,1
+120,Guard,Jimbo,12
+121,Guard,Supporter 2,6
+122,Jimbo,Supporter 2,2
+123,Butters,Charlotte,54
+124,Cartman,Charlotte,17
+125,Female politician,Male politician,2
+126,Male politician,Mr. Garrison,3
+127,Guard,Male politician,1
+128,Female politician,Mr. Garrison,6
+129,Female politician,Guard,2
+130,Mr. Garrison,Supporters,2
+131,Jimbo,Supporters,2
+132,Butters,Dad,10
+133,Butters,Mom,9
+134,Butters,Thomas,18
+135,Charlotte,Dad,4
+136,Dad,Mom,2
+137,Dad,Thomas,4
+138,Charlotte,Mom,4
+139,Charlotte,Thomas,8
+140,Mom,Thomas,10
+141,Johnson,Mr. President,4
+142,Man,Mr. Garrison,1
+143,Mr. Garrison,Mr. President,30
+144,Aide,Mr. Garrison,5
+145,Aide,Mr. President,6
+146,Canadian 6,Thomas,4
+147,Canadian 7,Thomas,4
+148,Canadians,Thomas,4
+149,Canadian 6,Canadian 7,1
+150,Canadian 6,Mom,2
+151,Canadian 6,Canadians,1
+152,Butters,Canadian 6,2
+153,Canadian 6,Charlotte,1
+154,Canadian 7,Mom,2
+155,Canadian 7,Canadians,1
+156,Butters,Canadian 7,2
+157,Canadian 7,Charlotte,1
+158,Canadians,Mom,2
+159,Butters,Canadians,2
+160,Canadians,Charlotte,1

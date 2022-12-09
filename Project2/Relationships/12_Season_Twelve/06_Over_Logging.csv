@@ -1,0 +1,127 @@
+,source,target,weight
+0,Sharon,Stan,18
+1,Shelly,Stan,16
+2,Sharon,Shelly,17
+3,Gerald,Sheila,5
+4,Gerald,Stan,15
+5,Gerald,Kyle,19
+6,Sheila,Stan,3
+7,Kyle,Sheila,3
+8,Kyle,Stan,9
+9,Gerald,Man 1,1
+10,Kyle,Man 2,2
+11,Kyle,Stephen,1
+12,Kyle,Mr. Garrison,1
+13,Kyle,Man 3,1
+14,Gerald,Man 2,4
+15,Man 2,Stephen,2
+16,Man 2,Mr. Garrison,2
+17,Man 2,Man 3,2
+18,Gerald,Stephen,4
+19,Gerald,Mr. Garrison,2
+20,Gerald,Man 3,2
+21,Mr. Garrison,Stephen,1
+22,Man 3,Stephen,1
+23,Man 3,Mr. Garrison,1
+24,Anchorman,Gerald,2
+25,Old-Timer,Transient Man 2,1
+26,Old-Timer,Transient Man 3,1
+27,Old-Timer,Transient Man 4,1
+28,Old-Timer,Transient Man 1,1
+29,Old-Timer,Transient Man 5,3
+30,Old-Timer,Stan,1
+31,Transient Man 2,Transient Man 3,1
+32,Transient Man 2,Transient Man 4,1
+33,Transient Man 1,Transient Man 2,1
+34,Transient Man 2,Transient Man 5,3
+35,Stan,Transient Man 2,1
+36,Transient Man 3,Transient Man 4,1
+37,Transient Man 1,Transient Man 3,1
+38,Transient Man 3,Transient Man 5,3
+39,Stan,Transient Man 3,1
+40,Transient Man 1,Transient Man 4,1
+41,Transient Man 4,Transient Man 5,3
+42,Stan,Transient Man 4,1
+43,Transient Man 1,Transient Man 5,3
+44,Stan,Transient Man 1,1
+45,Stan,Transient Man 5,3
+46,Worker,Worker 2,3
+47,Refugee Man 1,Stan,1
+48,Refugee Man 1,Refugee Man 2,1
+49,Refugee Man 1,Refugee Man 3,1
+50,Refugee Man 1,Volunteer 1,1
+51,Refugee Man 1,Refugee Man 4,2
+52,Refugee Man 1,Volunteer 2,2
+53,Refugee Man 1,Sharon,1
+54,Refugee Man 2,Stan,2
+55,Refugee Man 3,Stan,1
+56,Stan,Volunteer 1,1
+57,Refugee Man 4,Stan,3
+58,Stan,Volunteer 2,6
+59,Refugee Man 2,Refugee Man 3,1
+60,Refugee Man 2,Volunteer 1,1
+61,Refugee Man 2,Refugee Man 4,3
+62,Refugee Man 2,Volunteer 2,4
+63,Refugee Man 2,Sharon,2
+64,Refugee Man 3,Volunteer 1,1
+65,Refugee Man 3,Refugee Man 4,2
+66,Refugee Man 3,Volunteer 2,2
+67,Refugee Man 3,Sharon,1
+68,Refugee Man 4,Volunteer 1,2
+69,Volunteer 1,Volunteer 2,2
+70,Sharon,Volunteer 1,1
+71,Refugee Man 4,Volunteer 2,6
+72,Refugee Man 4,Sharon,3
+73,Sharon,Volunteer 2,4
+74,Anchorman,Kyle,3
+75,General,Scientist 1,3
+76,General,Scientist 2,3
+77,Refugee Man 5,Volunteer 2,2
+78,Volunteer 2,Volunteer 3,8
+79,Refugee Man 5,Volunteer 3,4
+80,Field Reporter,General,1
+81,Field Reporter,Kyle,2
+82,Field Reporter,Gerald,1
+83,General,Kyle,2
+84,General,Gerald,1
+85,Refugees,Stan,2
+86,Stan,Woman,2
+87,Refugees,Volunteer 2,4
+88,Volunteer 2,Woman,4
+89,Shelly,Volunteer 2,2
+90,Refugees,Woman,4
+91,Refugees,Shelly,2
+92,Shelly,Woman,2
+93,Girl 1,Girl 2,2
+94,Girl 1,Refugee Man 2,2
+95,Girl 1,Refugee Man 4,2
+96,Girl 1,Volunteer 4,2
+97,Girl 1,Volunteer 2,4
+98,Girl 1,Stan,2
+99,Girl 1,Sharon,2
+100,Girl 2,Refugee Man 2,1
+101,Girl 2,Refugee Man 4,1
+102,Girl 2,Volunteer 4,1
+103,Girl 2,Volunteer 2,2
+104,Girl 2,Stan,1
+105,Girl 2,Sharon,1
+106,Refugee Man 2,Volunteer 4,1
+107,Refugee Man 4,Volunteer 4,1
+108,Volunteer 2,Volunteer 4,2
+109,Stan,Volunteer 4,1
+110,Sharon,Volunteer 4,1
+111,Scientist 1,Scientist 2,2
+112,Scientist 1,Scientist 3,2
+113,Scientist 1,Scientist 4,2
+114,Scientist 1,Scientist 5,2
+115,General,Scientist 3,1
+116,General,Scientist 4,1
+117,General,Scientist 5,1
+118,Scientist 2,Scientist 3,1
+119,Scientist 2,Scientist 4,1
+120,Scientist 2,Scientist 5,1
+121,Scientist 3,Scientist 4,1
+122,Scientist 3,Scientist 5,1
+123,Scientist 4,Scientist 5,1
+124,Transient Man 3,Transient Man 6,1
+125,Amir,Shelly,25

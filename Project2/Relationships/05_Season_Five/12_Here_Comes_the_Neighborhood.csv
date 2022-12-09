@@ -1,0 +1,240 @@
+,source,target,weight
+0,Butters,Ms. Choksondik,18
+1,Cartman,Ms. Choksondik,99
+2,Kyle,Ms. Choksondik,18
+3,Ms. Choksondik,Tolkien,45
+4,Clyde,Ms. Choksondik,9
+5,Ms. Choksondik,Stan,18
+6,Butters,Cartman,32
+7,Butters,Kyle,22
+8,Butters,Tolkien,24
+9,Butters,Clyde,2
+10,Butters,Stan,18
+11,Cartman,Kyle,87
+12,Cartman,Tolkien,130
+13,Cartman,Clyde,11
+14,Cartman,Stan,85
+15,Kyle,Tolkien,96
+16,Clyde,Kyle,2
+17,Kyle,Stan,83
+18,Clyde,Tolkien,5
+19,Stan,Tolkien,100
+20,Clyde,Stan,2
+21,Bob,Tolkien,40
+22,Linda,Tolkien,26
+23,Bob,Linda,28
+24,Obese Woman,Tolkien,4
+25,Sharon,Tolkien,4
+26,Liane,Tolkien,4
+27,Sheila,Tolkien,4
+28,Linda,Obese Woman,4
+29,Linda,Sharon,4
+30,Liane,Linda,4
+31,Linda,Sheila,4
+32,Bob,Obese Woman,5
+33,Bob,Sharon,5
+34,Bob,Liane,5
+35,Bob,Sheila,5
+36,Obese Woman,Sharon,1
+37,Liane,Obese Woman,1
+38,Obese Woman,Sheila,1
+39,Liane,Sharon,1
+40,Sharon,Sheila,1
+41,Liane,Sheila,1
+42,Craig,Tolkien,14
+43,Craig,Stan,12
+44,Cartman,Craig,9
+45,Craig,Kyle,11
+46,Jada Pinkett Smith,Will Smith,10
+47,Jada Pinkett Smith,Older Boy,7
+48,Girl,Jada Pinkett Smith,2
+49,Jada Pinkett Smith,Kids,2
+50,Older Boy,Will Smith,14
+51,Girl,Will Smith,4
+52,Kids,Will Smith,4
+53,Girl,Older Boy,3
+54,Kids,Older Boy,3
+55,Girl,Kids,1
+56,Jada Pinkett Smith,Tolkien,4
+57,Jada Pinkett Smith,Lisa,1
+58,Frederick,Jada Pinkett Smith,1
+59,Tolkien,Will Smith,8
+60,Older Boy,Tolkien,4
+61,Lisa,Tolkien,50
+62,Frederick,Tolkien,57
+63,Lisa,Will Smith,2
+64,Frederick,Will Smith,2
+65,Lisa,Older Boy,1
+66,Frederick,Older Boy,1
+67,Frederick,Lisa,63
+68,Daniel,Frederick,21
+69,Daniel,Tolkien,15
+70,Daniel,Lisa,24
+71,Engineer,Snoop Dogg,7
+72,Engineer,Will Smith,6
+73,Snoop Dogg,Will Smith,45
+74,Jimbo,Mr. Garrison,39
+75,Gerald,Jimbo,5
+76,Jimbo,Ned,6
+77,Jimbo,Skeeter,16
+78,Gerald,Mr. Garrison,5
+79,Mr. Garrison,Ned,10
+80,Mr. Garrison,Skeeter,24
+81,Gerald,Ned,1
+82,Gerald,Skeeter,3
+83,Ned,Skeeter,3
+84,A Boy,Frederick,3
+85,Frederick,The kids,3
+86,A Boy,Tolkien,3
+87,The kids,Tolkien,3
+88,A Boy,Lisa,1
+89,A Boy,The kids,1
+90,Lisa,The kids,1
+91,Kobe Bryant,Skeeter,4
+92,Barkeep,Skeeter,1
+93,Men,Skeeter,6
+94,Man 1,Skeeter,1
+95,Bar Patrons,Skeeter,1
+96,Barkeep,Kobe Bryant,3
+97,Kobe Bryant,Men,4
+98,Kobe Bryant,Man 1,3
+99,Kobe Bryant,Mr. Garrison,16
+100,Kobe Bryant,Ned,3
+101,Jimbo,Kobe Bryant,4
+102,Bar Patrons,Kobe Bryant,3
+103,Barkeep,Men,1
+104,Barkeep,Man 1,1
+105,Barkeep,Mr. Garrison,5
+106,Barkeep,Ned,1
+107,Barkeep,Jimbo,1
+108,Bar Patrons,Barkeep,1
+109,Man 1,Men,1
+110,Men,Mr. Garrison,14
+111,Men,Ned,1
+112,Jimbo,Men,6
+113,Bar Patrons,Men,1
+114,Man 1,Mr. Garrison,5
+115,Man 1,Ned,1
+116,Jimbo,Man 1,1
+117,Bar Patrons,Man 1,1
+118,Bar Patrons,Mr. Garrison,5
+119,Bar Patrons,Ned,1
+120,Bar Patrons,Jimbo,1
+121,Players,Tolkien,3
+122,Player 1,Tolkien,3
+123,Player 2,Tolkien,3
+124,Player 3,Tolkien,3
+125,Kenny,Tolkien,3
+126,Player,Tolkien,3
+127,Frederick,Players,3
+128,Frederick,Player 1,3
+129,Frederick,Player 2,3
+130,Frederick,Player 3,3
+131,Cartman,Frederick,12
+132,Frederick,Kyle,9
+133,Frederick,Stan,6
+134,Frederick,Kenny,3
+135,Frederick,Player,3
+136,Player 1,Players,1
+137,Player 2,Players,1
+138,Player 3,Players,1
+139,Cartman,Players,4
+140,Kyle,Players,3
+141,Players,Stan,2
+142,Kenny,Players,1
+143,Player,Players,1
+144,Lisa,Players,1
+145,Player 1,Player 2,1
+146,Player 1,Player 3,1
+147,Cartman,Player 1,4
+148,Kyle,Player 1,3
+149,Player 1,Stan,2
+150,Kenny,Player 1,1
+151,Player,Player 1,1
+152,Lisa,Player 1,1
+153,Player 2,Player 3,1
+154,Cartman,Player 2,4
+155,Kyle,Player 2,3
+156,Player 2,Stan,2
+157,Kenny,Player 2,1
+158,Player,Player 2,1
+159,Lisa,Player 2,1
+160,Cartman,Player 3,4
+161,Kyle,Player 3,3
+162,Player 3,Stan,2
+163,Kenny,Player 3,1
+164,Player,Player 3,1
+165,Lisa,Player 3,1
+166,Cartman,Kenny,4
+167,Cartman,Player,4
+168,Cartman,Lisa,4
+169,Kenny,Kyle,3
+170,Kyle,Player,3
+171,Kyle,Lisa,3
+172,Kenny,Stan,2
+173,Player,Stan,2
+174,Lisa,Stan,2
+175,Kenny,Player,1
+176,Kenny,Lisa,1
+177,Lisa,Player,1
+178,Passengers,Thomas,4
+179,Passenger 1,Thomas,4
+180,Bill Cosby,Thomas,8
+181,Passenger 1,Passengers,1
+182,Bill Cosby,Passengers,2
+183,Bill Cosby,Passenger 1,2
+184,Chef,Oprah Winfrey,15
+185,Oprah Winfrey,Will Smith,12
+186,Kobe Bryant,Oprah Winfrey,3
+187,Chef,Will Smith,15
+188,Chef,Kobe Bryant,5
+189,Kobe Bryant,Will Smith,3
+190,Milly Larsen,Mrs. Larsen,1
+191,Milly Larsen,Tolkien,10
+192,Lion 1,Milly Larsen,2
+193,Lion 2,Milly Larsen,2
+194,Aslan,Milly Larsen,8
+195,Mrs. Larsen,Tolkien,10
+196,Lion 1,Mrs. Larsen,2
+197,Lion 2,Mrs. Larsen,2
+198,Aslan,Mrs. Larsen,8
+199,Lion 1,Tolkien,20
+200,Lion 2,Tolkien,20
+201,Aslan,Tolkien,116
+202,Lion 1,Lion 2,4
+203,Aslan,Lion 1,16
+204,Aslan,Lion 2,16
+205,Mayor McDaniels,Millionaires,6
+206,Millionaires,Voices,2
+207,Millionaires,Oprah Winfrey,2
+208,Millionaires,Will Smith,6
+209,Carl,Millionaires,2
+210,Millionaires,Snoop Dogg,2
+211,Millionaires,Skeeter,2
+212,Gerald,Millionaires,2
+213,Mayor McDaniels,Voices,3
+214,Mayor McDaniels,Oprah Winfrey,3
+215,Mayor McDaniels,Will Smith,9
+216,Carl,Mayor McDaniels,3
+217,Mayor McDaniels,Snoop Dogg,3
+218,Mayor McDaniels,Skeeter,3
+219,Gerald,Mayor McDaniels,3
+220,Oprah Winfrey,Voices,1
+221,Voices,Will Smith,3
+222,Carl,Voices,1
+223,Snoop Dogg,Voices,1
+224,Skeeter,Voices,1
+225,Gerald,Voices,1
+226,Carl,Oprah Winfrey,1
+227,Oprah Winfrey,Snoop Dogg,1
+228,Oprah Winfrey,Skeeter,1
+229,Gerald,Oprah Winfrey,1
+230,Carl,Will Smith,3
+231,Skeeter,Will Smith,3
+232,Gerald,Will Smith,3
+233,Carl,Snoop Dogg,1
+234,Carl,Skeeter,1
+235,Carl,Gerald,1
+236,Skeeter,Snoop Dogg,1
+237,Gerald,Snoop Dogg,1
+238,Butters,Craig,2

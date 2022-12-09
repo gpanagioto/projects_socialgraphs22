@@ -1,0 +1,87 @@
+,source,target,weight
+0,Mayor McDaniels,Ryan,5
+1,Councilwoman,Mayor McDaniels,10
+2,Mayor McDaniels,Mayor's aide,5
+3,Mayor McDaniels,Mrs. Testaburger,5
+4,Mayor McDaniels,Mr. Hankey,33
+5,Councilwoman,Ryan,2
+6,Mayor's aide,Ryan,1
+7,Mrs. Testaburger,Ryan,1
+8,Mr. Hankey,Ryan,4
+9,Councilwoman,Mayor's aide,2
+10,Councilwoman,Mrs. Testaburger,2
+11,Councilwoman,Mr. Hankey,8
+12,Mayor's aide,Mrs. Testaburger,1
+13,Mayor's aide,Mr. Hankey,4
+14,Mr. Hankey,Mrs. Testaburger,4
+15,Cartman,Craig,1
+16,Craig,Mr. Hankey,1
+17,Cartman,Mr. Hankey,1
+18,PC Principal,Strong Woman,97
+19,Cartman,Kyle,18
+20,Cartman,Stan,13
+21,Kyle,Stan,18
+22,Kyle,Mr. Hankey,86
+23,Male Lawyer,Mr. Hankey,2
+24,Female lawyer,Male Lawyer,1
+25,Female lawyer,Mr. Hankey,2
+26,Mr. Hankey,Mr. Prewitt,1
+27,Gerald,Kyle,3
+28,Gerald,Mr. Hankey,3
+29,Dr. Bender,PC Principal,30
+30,Kenny,Kyle,4
+31,Kenny,Stan,3
+32,Cartman,Kenny,3
+33,Female Nurse,Strong Woman,10
+34,Male Nurse,Strong Woman,5
+35,Female Nurse,PC Principal,12
+36,Male Nurse,PC Principal,6
+37,Female Nurse,Male Nurse,2
+38,Mr. Hankey,Mr. Waithouse,36
+39,Elderly Woman,Strong Woman,10
+40,Elderly Woman,Man with Orange Shirt,8
+41,Elderly Woman,PC Principal,2
+42,Elderly Woman,Woman 1,2
+43,Elderly Woman,Man 2,2
+44,Man with Orange Shirt,Strong Woman,20
+45,Strong Woman,Woman 1,5
+46,Man 2,Strong Woman,5
+47,Man with Orange Shirt,PC Principal,4
+48,Man with Orange Shirt,Woman 1,4
+49,Man 2,Man with Orange Shirt,4
+50,PC Principal,Woman 1,1
+51,Man 2,PC Principal,1
+52,Man 2,Woman 1,1
+53,Jogger,PC Principal,2
+54,PC Principal,Woman 2,2
+55,Mr. Hankey,PC Principal,8
+56,All,PC Principal,2
+57,Man 3,PC Principal,2
+58,Man 4,PC Principal,2
+59,Kyle,PC Principal,2
+60,Jogger,Woman 2,1
+61,Jogger,Mr. Hankey,4
+62,All,Jogger,1
+63,Jogger,Man 3,1
+64,Jogger,Man 4,1
+65,Jogger,Kyle,1
+66,Mr. Hankey,Woman 2,4
+67,All,Woman 2,1
+68,Man 3,Woman 2,1
+69,Man 4,Woman 2,1
+70,Kyle,Woman 2,1
+71,All,Mr. Hankey,4
+72,Man 3,Mr. Hankey,4
+73,Man 4,Mr. Hankey,4
+74,All,Man 3,1
+75,All,Man 4,1
+76,All,Kyle,1
+77,Man 3,Man 4,1
+78,Kyle,Man 3,1
+79,Kyle,Man 4,1
+80,Man 5,Mother,1
+81,Mr. Hankey,Stan,2
+82,Mayor McDaniels,Stan,2
+83,Apu,Bart,1
+84,All,Bart,1
+85,All,Apu,1

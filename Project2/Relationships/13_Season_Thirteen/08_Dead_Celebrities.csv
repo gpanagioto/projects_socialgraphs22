@@ -1,0 +1,161 @@
+,source,target,weight
+0,Gerald,Sheila,8
+1,Ike,Sheila,4
+2,Gerald,Ike,8
+3,Billy Mays,Ike,23
+4,Ike,Kyle,40
+5,Billy Mays,Kyle,23
+6,Cartman,Kyle,101
+7,Kenny,Kyle,19
+8,Kyle,Stan,60
+9,Cartman,Kenny,17
+10,Cartman,Stan,47
+11,Kenny,Stan,10
+12,Billy Mays,Man 1,2
+13,Man 1,Man 2,1
+14,Billy Mays,Man 2,2
+15,Jason,Kris,5
+16,Grant,Jason,40
+17,Grant,Kris,2
+18,Jason,Kyle,7
+19,Grant,Kyle,5
+20,Jason,Stan,7
+21,Grant,Stan,5
+22,Dr. Carroll,Stan,6
+23,Dr. Phillips,Stan,21
+24,Dr. Carroll,Kyle,6
+25,Dr. Phillips,Kyle,36
+26,Cartman,Dr. Carroll,6
+27,Cartman,Dr. Phillips,16
+28,Dr. Carroll,Dr. Phillips,4
+29,Billy Mays,Cartman,6
+30,Billy Mays,Walter Cronkite,15
+31,Billy Mays,Dr. Phillips,15
+32,Billy Mays,Farrah Fawcett,4
+33,Billy Mays,DJ AM,4
+34,Billy Mays,Patrick Swayze,4
+35,Billy Mays,Michael Jackson,16
+36,Billy Mays,Stan,9
+37,Billy Mays,Kenny,3
+38,Cartman,Walter Cronkite,8
+39,Cartman,Farrah Fawcett,2
+40,Cartman,DJ AM,2
+41,Cartman,Patrick Swayze,2
+42,Cartman,Michael Jackson,10
+43,Cartman,Ike,22
+44,Dr. Phillips,Walter Cronkite,20
+45,Farrah Fawcett,Walter Cronkite,4
+46,DJ AM,Walter Cronkite,9
+47,Patrick Swayze,Walter Cronkite,7
+48,Michael Jackson,Walter Cronkite,20
+49,Stan,Walter Cronkite,12
+50,Kyle,Walter Cronkite,24
+51,Ike,Walter Cronkite,8
+52,Kenny,Walter Cronkite,4
+53,Dr. Phillips,Farrah Fawcett,5
+54,DJ AM,Dr. Phillips,5
+55,Dr. Phillips,Patrick Swayze,5
+56,Dr. Phillips,Michael Jackson,25
+57,Dr. Phillips,Ike,10
+58,Dr. Phillips,Kenny,5
+59,DJ AM,Farrah Fawcett,1
+60,Farrah Fawcett,Patrick Swayze,1
+61,Farrah Fawcett,Michael Jackson,6
+62,Farrah Fawcett,Stan,3
+63,Farrah Fawcett,Kyle,6
+64,Farrah Fawcett,Ike,2
+65,Farrah Fawcett,Kenny,1
+66,DJ AM,Patrick Swayze,2
+67,DJ AM,Michael Jackson,5
+68,DJ AM,Stan,3
+69,DJ AM,Kyle,6
+70,DJ AM,Ike,2
+71,DJ AM,Kenny,1
+72,Michael Jackson,Patrick Swayze,5
+73,Patrick Swayze,Stan,3
+74,Kyle,Patrick Swayze,6
+75,Ike,Patrick Swayze,2
+76,Kenny,Patrick Swayze,1
+77,Michael Jackson,Stan,15
+78,Kyle,Michael Jackson,30
+79,Ike,Michael Jackson,10
+80,Kenny,Michael Jackson,5
+81,Ike,Stan,18
+82,Ike,Kenny,4
+83,Flight Attendant,Passengers,7
+84,DJ AM,Passengers,3
+85,Passengers,Walter Cronkite,7
+86,DJ AM,Flight Attendant,4
+87,Flight Attendant,Walter Cronkite,9
+88,Jessica's Mom,MC,4
+89,Jessica's Mom,Kyle,1
+90,Cartman,Jessica's Mom,2
+91,Jessica's Mom,Stan,1
+92,Ike,Jessica's Mom,1
+93,Kyle,MC,5
+94,Cartman,MC,9
+95,MC,Stan,6
+96,Ike,MC,5
+97,David Carradine,Walter Cronkite,3
+98,Pilot,Walter Cronkite,6
+99,David Carradine,Patrick Swayze,1
+100,Patrick Swayze,Pilot,2
+101,Flight Attendant,Patrick Swayze,1
+102,Passengers,Patrick Swayze,1
+103,Billy Mays,David Carradine,1
+104,Billy Mays,Pilot,2
+105,Billy Mays,Flight Attendant,2
+106,Billy Mays,Passengers,1
+107,David Carradine,Pilot,2
+108,DJ AM,David Carradine,1
+109,David Carradine,Flight Attendant,1
+110,David Carradine,Passengers,1
+111,DJ AM,Pilot,2
+112,Flight Attendant,Pilot,2
+113,Passengers,Pilot,2
+114,Kylie's Mom,Stan,2
+115,Kylie,Stan,2
+116,An Officer,Stan,2
+117,Kylie,Kylie's Mom,1
+118,Kylie's Mom,MC,1
+119,Ike,Kylie's Mom,1
+120,Kenny,Kylie's Mom,1
+121,An Officer,Kylie's Mom,1
+122,Kyle,Kylie's Mom,1
+123,Cartman,Kylie's Mom,1
+124,Kylie,MC,1
+125,Ike,Kylie,1
+126,Kenny,Kylie,1
+127,An Officer,Kylie,1
+128,Kyle,Kylie,1
+129,Cartman,Kylie,1
+130,Kenny,MC,1
+131,An Officer,MC,1
+132,An Officer,Ike,1
+133,An Officer,Kenny,1
+134,An Officer,Kyle,1
+135,An Officer,Cartman,1
+136,Heidi's Mom,Kyle,3
+137,Kyle,Lady Judge,9
+138,Heidi's Mom,Stan,1
+139,Lady Judge,Stan,3
+140,Heidi's Mom,Kenny,1
+141,Cartman,Heidi's Mom,5
+142,Heidi's Mom,Lady Judge,3
+143,Kenny,Lady Judge,3
+144,Cartman,Lady Judge,15
+145,Heidi,Kyle,3
+146,Cartman,Heidi,3
+147,Heidi,Stan,1
+148,Heidi,Ike,2
+149,Bea Arthur,Farrah Fawcett,1
+150,Farrah Fawcett,Others,1
+151,Farrah Fawcett,Flight Attendant,1
+152,Bea Arthur,Others,1
+153,Bea Arthur,Flight Attendant,1
+154,Bea Arthur,Michael Jackson,1
+155,Bea Arthur,Billy Mays,1
+156,Flight Attendant,Others,1
+157,Michael Jackson,Others,1
+158,Billy Mays,Others,1
+159,Flight Attendant,Michael Jackson,1

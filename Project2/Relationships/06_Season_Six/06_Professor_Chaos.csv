@@ -1,0 +1,138 @@
+,source,target,weight
+0,Cartman,Kyle,133
+1,Butters,Kyle,50
+2,Kyle,Stan,47
+3,Butters,Cartman,122
+4,Cartman,Stan,65
+5,Butters,Stan,18
+6,Butters,Linda,7
+7,Cartman,Clyde,4
+8,Butters,Man 2,1
+9,Cartman,Jimmy,37
+10,Cartman,Tweek,11
+11,Cartman,Towelie,10
+12,Cartman,Ride operator,4
+13,Jimmy,Kyle,31
+14,Jimmy,Tweek,4
+15,Jimmy,Towelie,5
+16,Jimmy,Ride operator,3
+17,Jimmy,Stan,19
+18,Kyle,Tweek,14
+19,Kyle,Towelie,10
+20,Kyle,Ride operator,3
+21,Towelie,Tweek,2
+22,Ride operator,Tweek,1
+23,Stan,Tweek,3
+24,Ride operator,Towelie,1
+25,Stan,Towelie,2
+26,Ride operator,Stan,1
+27,Kyle,Timmy,9
+28,DogPoo,Kyle,3
+29,Dougie,Kyle,3
+30,Timmy,Tweek,3
+31,Cartman,Timmy,6
+32,DogPoo,Timmy,1
+33,Dougie,Timmy,1
+34,Stan,Timmy,2
+35,DogPoo,Tweek,2
+36,Dougie,Tweek,2
+37,Cartman,DogPoo,2
+38,Cartman,Dougie,2
+39,DogPoo,Dougie,1
+40,DogPoo,Stan,1
+41,Dougie,Stan,1
+42,Butters,Stephen,1
+43,Cartman,Ms. Choksondik,48
+44,Butters,Ms. Choksondik,108
+45,Ms. Choksondik,The class,12
+46,Cartman,The class,4
+47,Butters,The class,9
+48,Cartman,Craig,2
+49,Craig,Stan,1
+50,Pip,Tweek,2
+51,Kyle,Pip,12
+52,Pip,Tolkien,2
+53,Pip,Timmy,2
+54,Pip,Towelie,2
+55,Cartman,Pip,12
+56,Jimmy,Pip,2
+57,Clyde,Pip,2
+58,Tolkien,Tweek,1
+59,Clyde,Tweek,1
+60,Kyle,Tolkien,9
+61,Clyde,Kyle,5
+62,Timmy,Tolkien,1
+63,Tolkien,Towelie,3
+64,Cartman,Tolkien,9
+65,Jimmy,Tolkien,3
+66,Clyde,Tolkien,1
+67,Timmy,Towelie,1
+68,Jimmy,Timmy,1
+69,Clyde,Timmy,1
+70,Clyde,Towelie,1
+71,Clyde,Jimmy,1
+72,Butters,Dougie,49
+73,Stan,Tolkien,2
+74,Kyle,Vendor,1
+75,Kyle,Man 3,1
+76,Kyle,Man 4,1
+77,Kyle,Woman,1
+78,Kyle,Man 5,1
+79,Kyle,Man 6,1
+80,Fans,Kyle,1
+81,Pip,Vendor,2
+82,Cartman,Vendor,3
+83,Stan,Vendor,1
+84,Butters,Vendor,2
+85,Man 3,Vendor,1
+86,Man 4,Vendor,1
+87,Vendor,Woman,1
+88,Man 5,Vendor,1
+89,Man 6,Vendor,1
+90,Fans,Vendor,1
+91,Pip,Stan,2
+92,Butters,Pip,4
+93,Man 3,Pip,2
+94,Man 4,Pip,2
+95,Pip,Woman,2
+96,Man 5,Pip,2
+97,Man 6,Pip,2
+98,Fans,Pip,2
+99,Cartman,Man 3,3
+100,Cartman,Man 4,3
+101,Cartman,Woman,3
+102,Cartman,Man 5,3
+103,Cartman,Man 6,3
+104,Cartman,Fans,3
+105,Man 3,Stan,1
+106,Man 4,Stan,1
+107,Stan,Woman,1
+108,Man 5,Stan,1
+109,Man 6,Stan,1
+110,Fans,Stan,1
+111,Butters,Man 3,2
+112,Butters,Man 4,2
+113,Butters,Woman,2
+114,Butters,Man 5,2
+115,Butters,Man 6,2
+116,Butters,Fans,2
+117,Man 3,Man 4,1
+118,Man 3,Woman,1
+119,Man 3,Man 5,1
+120,Man 3,Man 6,1
+121,Fans,Man 3,1
+122,Man 4,Woman,1
+123,Man 4,Man 5,1
+124,Man 4,Man 6,1
+125,Fans,Man 4,1
+126,Man 5,Woman,1
+127,Man 6,Woman,1
+128,Fans,Woman,1
+129,Man 5,Man 6,1
+130,Fans,Man 5,1
+131,Fans,Man 6,1
+132,Dougie,Worker 1,2
+133,Dougie,Worker 2,2
+134,Butters,Worker 1,3
+135,Butters,Worker 2,3
+136,Worker 1,Worker 2,1

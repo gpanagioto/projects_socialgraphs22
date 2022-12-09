@@ -1,0 +1,84 @@
+,source,target,weight
+0,Cartman,Liane,36
+1,Cartman,Priest,10
+2,Assistant,Cartman,5
+3,Liane,Priest,4
+4,Assistant,Liane,2
+5,Assistant,Priest,2
+6,Cartman,Executor,42
+7,Cartman,Uncle Stinky,7
+8,Executor,Liane,18
+9,Liane,Uncle Stinky,3
+10,Executor,Uncle Stinky,6
+11,Kyle,Stan,100
+12,Kenny,Kyle,9
+13,Kenny,Stan,12
+14,Jimbo,Ned,2
+15,Banker,Jimbo,2
+16,Cartman,Jimbo,6
+17,Jimbo,Mr. Garrison,2
+18,Banker,Ned,1
+19,Cartman,Ned,3
+20,Mr. Garrison,Ned,1
+21,Banker,Cartman,3
+22,Banker,Mr. Garrison,1
+23,Cartman,Mr. Garrison,3
+24,Cartman,Priest Maxi,6
+25,Cartman,Kyle,53
+26,Cartman,Stan,54
+27,Kyle,Priest Maxi,6
+28,Priest Maxi,Stan,4
+29,Broker,Liane,3
+30,Liane,Mr. Fun,5
+31,Chris,Liane,1
+32,Broker,Cartman,15
+33,Cartman,Mr. Fun,64
+34,Cartman,Chris,10
+35,Broker,Mr. Fun,15
+36,Broker,Chris,3
+37,Chris,Mr. Fun,10
+38,Cartman,Security guard,81
+39,Gerald,Kyle,64
+40,Kyle,Sheila,64
+41,Gerald,Stan,6
+42,Gerald,Sheila,85
+43,Sheila,Stan,8
+44,Boy,Kids,2
+45,Cartman,Kids,18
+46,Butters,Kids,8
+47,Clyde,Kids,4
+48,Kids,Security guard,6
+49,Boy,Cartman,19
+50,Boy,Butters,4
+51,Boy,Clyde,2
+52,Boy,Security guard,4
+53,Butters,Cartman,36
+54,Cartman,Clyde,18
+55,Butters,Clyde,8
+56,Butters,Security guard,12
+57,Clyde,Security guard,6
+58,Cartman,Timmy,5
+59,Boy,Timmy,1
+60,Stan,Timmy,3
+61,Security guard,Timmy,1
+62,Boy,Stan,3
+63,Security guard,Stan,3
+64,Gerald,Nurse,9
+65,Kyle,Nurse,6
+66,Nurse,Sheila,9
+67,Announcer,Doctor,1
+68,Doctor,Host 1,2
+69,Doctor,Host 2,1
+70,Announcer,Host 1,2
+71,Announcer,Host 2,1
+72,Host 1,Host 2,2
+73,Cartman,Kenny,1
+74,Boy,Chris,1
+75,Boy,Mr. Fun,5
+76,Doctor,Sheila,5
+77,Agent,Cartman,14
+78,Agent,Mr. Garrett,6
+79,Agent,Mr. Fun,4
+80,Cartman,Mr. Garrett,21
+81,Mr. Fun,Mr. Garrett,6
+82,Doctor,Stan,2

@@ -1,0 +1,117 @@
+,source,target,weight
+0,Kyle,Stan,41
+1,Kenny,Stan,17
+2,Cartman,Stan,77
+3,Kenny,Kyle,3
+4,Cartman,Kyle,27
+5,Cartman,Kenny,6
+6,Biker 2,Lead Biker,20
+7,Biker 2,Biker 3,3
+8,Biker 3,Biker 4,2
+9,Biker 3,Biker 5,2
+10,Biker 3,Lead Biker,8
+11,Biker 2,Biker 4,1
+12,Biker 2,Biker 5,1
+13,Biker 4,Biker 5,1
+14,Biker 4,Lead Biker,1
+15,Biker 5,Lead Biker,1
+16,Cartman,Lead Biker,7
+17,Biker 6,Cartman,7
+18,Biker 2,Cartman,7
+19,Biker 7,Cartman,3
+20,Cartman,Other Bikers,3
+21,Biker 6,Lead Biker,17
+22,Biker 7,Lead Biker,5
+23,Lead Biker,Other Bikers,2
+24,Biker 2,Biker 6,10
+25,Biker 6,Biker 7,4
+26,Biker 6,Other Bikers,2
+27,Biker 2,Biker 7,3
+28,Biker 2,Other Bikers,2
+29,Biker 7,Other Bikers,1
+30,Biker 2,Biker 8,1
+31,Biker 8,Lead Biker,1
+32,Biker 3,Biker 6,3
+33,Biker 6,Biker 9,1
+34,Biker 10,Biker 6,2
+35,Biker 9,Lead Biker,3
+36,Biker 10,Lead Biker,6
+37,Biker 3,Biker 9,1
+38,Biker 10,Biker 3,1
+39,Biker 10,Biker 9,1
+40,Biker 6,Kyle,1
+41,Kyle,Lead Biker,1
+42,Biker 2,Kyle,1
+43,Biker 6,Stan,1
+44,Lead Biker,Stan,1
+45,Biker 2,Stan,1
+46,Jimmy,Kyle,4
+47,Butters,Kyle,8
+48,All,Kyle,2
+49,Cartman,Jimmy,12
+50,Butters,Cartman,24
+51,All,Cartman,6
+52,Jimmy,Stan,14
+53,Butters,Jimmy,8
+54,All,Jimmy,2
+55,Butters,Stan,28
+56,All,Stan,7
+57,All,Butters,4
+58,Biker 11,Biker 6,2
+59,Biker 12,Biker 6,2
+60,Biker 11,Lead Biker,3
+61,Biker 12,Lead Biker,3
+62,Biker 3,Biker 7,1
+63,Biker 11,Biker 3,1
+64,Biker 12,Biker 3,1
+65,Biker 11,Biker 2,1
+66,Biker 12,Biker 2,1
+67,Biker 11,Biker 7,1
+68,Biker 12,Biker 7,1
+69,Biker 11,Biker 12,1
+70,Big Gay Al,Mr. Slave,3
+71,Cartman,Mayor McDaniels,12
+72,Cartman,Other Kids,3
+73,Cartman,Mr. Mackey,6
+74,Mayor McDaniels,Stan,20
+75,Kyle,Mayor McDaniels,13
+76,Mayor McDaniels,Other Kids,3
+77,Mayor McDaniels,Mr. Mackey,6
+78,Other Kids,Stan,4
+79,Mr. Mackey,Stan,8
+80,Kyle,Other Kids,3
+81,Kyle,Mr. Mackey,6
+82,Mr. Mackey,Other Kids,2
+83,Biker 10,Biker 2,3
+84,Judge 2,Kyle,2
+85,Judge 1,Kyle,3
+86,Judge 3,Kyle,1
+87,Judge 4,Kyle,1
+88,Judge 2,Stan,14
+89,Judge 1,Stan,21
+90,Judge 3,Stan,7
+91,Judge 4,Stan,7
+92,Judge 1,Judge 2,6
+93,Cartman,Judge 2,4
+94,Judge 2,Kenny,4
+95,Judge 2,Judge 3,2
+96,Judge 2,Judge 4,2
+97,Cartman,Judge 1,6
+98,Judge 1,Kenny,6
+99,Judge 1,Judge 3,3
+100,Judge 1,Judge 4,3
+101,Cartman,Judge 3,2
+102,Cartman,Judge 4,2
+103,Judge 3,Kenny,2
+104,Judge 4,Kenny,2
+105,Judge 3,Judge 4,1
+106,Field Reporter,News Anchor,28
+107,Martin,News Anchor,4
+108,Lead Biker,News Anchor,16
+109,Field Reporter,Martin,7
+110,Field Reporter,Lead Biker,28
+111,Lead Biker,Martin,4
+112,Another Mayor,Mayor McDaniels,3
+113,Another Mayor,Kyle,1
+114,Another Mayor,Stan,2
+115,Another Mayor,Cartman,1

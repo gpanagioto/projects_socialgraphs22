@@ -1,0 +1,324 @@
+,source,target,weight
+0,Sharon,Sheila,4
+1,Liane,Sheila,1
+2,Sheila,Stan,1
+3,Kyle,Sheila,1
+4,Liane,Sharon,5
+5,Sharon,Stan,27
+6,Kyle,Sharon,21
+7,Liane,Stan,3
+8,Kyle,Liane,2
+9,Kyle,Stan,52
+10,Cartman,Sharon,19
+11,Announcer,Sharon,1
+12,Cartman,Stan,61
+13,Announcer,Stan,2
+14,Announcer,Cartman,3
+15,Cartman,Liane,3
+16,Cartman,Kyle,45
+17,Announcer,Liane,1
+18,Announcer,Kyle,1
+19,Cartman,Kenny,10
+20,Kenny,Kyle,12
+21,Kenny,Stan,10
+22,Clown,Sharon,1
+23,Kenny,Sharon,1
+24,Clown,Kyle,4
+25,Cartman,Clown,3
+26,Clown,Stan,2
+27,Clown,Kenny,1
+28,A Quint,Romanian official,4
+29,A Quint,Attendant,2
+30,Attendant,Romanian official,8
+31,Native paddler in vest,Romanian official,2
+32,Romanian official,Top girl,1
+33,Kenny,Narrator,9
+34,Cartman,Quint 1,23
+35,Cartman,Quint 2,21
+36,Cartman,Quint 3,26
+37,Cartman,Quint 4,6
+38,Cartman,Nadia,3
+39,All five quints in unison,Cartman,3
+40,A Quint,Cartman,3
+41,Cartman,Quint 5,10
+42,Cartman,The boys,6
+43,Quint 1,Stan,23
+44,Quint 2,Stan,26
+45,Quint 3,Stan,23
+46,Quint 4,Stan,8
+47,Nadia,Stan,4
+48,All five quints in unison,Stan,4
+49,A Quint,Stan,4
+50,Quint 5,Stan,10
+51,Stan,The boys,7
+52,Kyle,Quint 1,15
+53,Kyle,Quint 2,21
+54,Kyle,Quint 3,13
+55,Kyle,Quint 4,8
+56,Kyle,Nadia,4
+57,All five quints in unison,Kyle,4
+58,A Quint,Kyle,4
+59,Kyle,Quint 5,7
+60,Kyle,The boys,6
+61,Quint 1,Quint 2,13
+62,Quint 1,Quint 3,19
+63,Quint 1,Quint 4,4
+64,Nadia,Quint 1,3
+65,All five quints in unison,Quint 1,2
+66,A Quint,Quint 1,2
+67,Kenny,Quint 1,2
+68,Quint 1,Quint 5,6
+69,Quint 1,The boys,3
+70,Quint 2,Quint 3,13
+71,Quint 2,Quint 4,8
+72,Nadia,Quint 2,4
+73,All five quints in unison,Quint 2,4
+74,A Quint,Quint 2,4
+75,Kenny,Quint 2,4
+76,Quint 2,Quint 5,6
+77,Quint 2,The boys,5
+78,Quint 3,Quint 4,4
+79,Nadia,Quint 3,2
+80,All five quints in unison,Quint 3,2
+81,A Quint,Quint 3,2
+82,Kenny,Quint 3,2
+83,Quint 3,Quint 5,7
+84,Quint 3,The boys,2
+85,Nadia,Quint 4,2
+86,All five quints in unison,Quint 4,2
+87,A Quint,Quint 4,2
+88,Kenny,Quint 4,2
+89,Quint 4,Quint 5,2
+90,Quint 4,The boys,2
+91,All five quints in unison,Nadia,1
+92,A Quint,Nadia,1
+93,Kenny,Nadia,1
+94,Nadia,Quint 5,1
+95,Nadia,The boys,1
+96,A Quint,All five quints in unison,1
+97,All five quints in unison,Kenny,1
+98,All five quints in unison,Quint 5,1
+99,All five quints in unison,The boys,1
+100,A Quint,Kenny,1
+101,A Quint,Quint 5,1
+102,A Quint,The boys,1
+103,Kenny,Quint 5,1
+104,Kenny,The boys,1
+105,Quint 5,The boys,2
+106,Sharon,The boys,3
+107,Quint 5,Sharon,3
+108,Quint 2,Sharon,5
+109,Quint 1,Sharon,6
+110,A Quint,Reporter,1
+111,President,Romanian official,2
+112,Kenny,Mrs. McCormick,15
+113,Instructor,Kenny,15
+114,Instructor,Mrs. McCormick,9
+115,Anchor Tom,Man,4
+116,Anchor Tom,Stan,3
+117,Anchor Tom,Quint 2,1
+118,Anchor Tom,Quint 1,1
+119,Anchor Tom,Voice,2
+120,Anchor Tom,Kyle,2
+121,Anchor Tom,Sharon,2
+122,Anchor Tom,Cartman,2
+123,Man,Stan,12
+124,Man,Quint 2,4
+125,Man,Quint 1,4
+126,Man,Voice,8
+127,Kyle,Man,8
+128,Man,Sharon,8
+129,Cartman,Man,8
+130,Stan,Voice,6
+131,Quint 2,Voice,2
+132,Quint 1,Voice,2
+133,Kyle,Voice,4
+134,Sharon,Voice,4
+135,Cartman,Voice,4
+136,Janet Reno,Mr. Vladchick,8
+137,Janet Reno,Romanian official,12
+138,All three men,Janet Reno,4
+139,Mr. Vladchick,Romanian official,6
+140,All three men,Mr. Vladchick,2
+141,All three men,Romanian official,3
+142,A Protester,Stephen Stotch,2
+143,Protesters,Stephen Stotch,4
+144,Sharon,Stephen Stotch,2
+145,Protester,Stephen Stotch,2
+146,Collins,Stephen Stotch,2
+147,A Protester,Protesters,2
+148,A Protester,Sharon,1
+149,A Protester,Protester,1
+150,A Protester,Collins,1
+151,Protesters,Sharon,2
+152,Protester,Protesters,2
+153,Collins,Protesters,2
+154,Protester,Sharon,2
+155,Collins,Sharon,1
+156,Collins,Protester,1
+157,A quint,Kyle,2
+158,A quint,Sharon,1
+159,A quint,Stan,2
+160,Janet Reno,Soldier,16
+161,Carol,Kenny,6
+162,Kenny,Music instructor,4
+163,Assistant,Kenny,2
+164,Carol,Music instructor,6
+165,Assistant,Carol,2
+166,Assistant,Music instructor,1
+167,Phillip,Terrance,1
+168,Phillip,Quint 2,1
+169,Lead soldier,Phillip,1
+170,Officer 1,Phillip,1
+171,Officer 2,Phillip,1
+172,Janet Reno,Phillip,2
+173,Officer 3,Phillip,3
+174,Officer 4,Phillip,1
+175,Phillip,Protester,1
+176,Officer 5,Phillip,1
+177,Officer 6,Phillip,1
+178,Phillip,Stan,1
+179,Quint 2,Terrance,1
+180,Lead soldier,Terrance,1
+181,Officer 1,Terrance,1
+182,Officer 2,Terrance,1
+183,Janet Reno,Terrance,2
+184,Officer 3,Terrance,3
+185,Officer 4,Terrance,1
+186,Protester,Terrance,1
+187,Officer 5,Terrance,1
+188,Officer 6,Terrance,1
+189,Stan,Terrance,1
+190,Lead soldier,Quint 2,1
+191,Officer 1,Quint 2,1
+192,Officer 2,Quint 2,1
+193,Janet Reno,Quint 2,3
+194,Officer 3,Quint 2,3
+195,Officer 4,Quint 2,1
+196,Protester,Quint 2,1
+197,Officer 5,Quint 2,1
+198,Officer 6,Quint 2,1
+199,Lead soldier,Officer 1,1
+200,Lead soldier,Officer 2,1
+201,Janet Reno,Lead soldier,2
+202,Lead soldier,Officer 3,3
+203,Lead soldier,Officer 4,1
+204,Lead soldier,Protester,1
+205,Lead soldier,Officer 5,1
+206,Lead soldier,Officer 6,1
+207,Lead soldier,Stan,1
+208,Officer 1,Officer 2,1
+209,Janet Reno,Officer 1,2
+210,Officer 1,Officer 3,3
+211,Officer 1,Officer 4,1
+212,Officer 1,Protester,1
+213,Officer 1,Officer 5,1
+214,Officer 1,Officer 6,1
+215,Officer 1,Stan,1
+216,Janet Reno,Officer 2,2
+217,Officer 2,Officer 3,3
+218,Officer 2,Officer 4,1
+219,Officer 2,Protester,1
+220,Officer 2,Officer 5,1
+221,Officer 2,Officer 6,1
+222,Officer 2,Stan,1
+223,Janet Reno,Officer 3,6
+224,Janet Reno,Officer 4,2
+225,Janet Reno,Protester,4
+226,Janet Reno,Officer 5,2
+227,Janet Reno,Officer 6,2
+228,Janet Reno,Stan,5
+229,Officer 3,Officer 4,3
+230,Officer 3,Protester,3
+231,Officer 3,Officer 5,3
+232,Officer 3,Officer 6,3
+233,Officer 3,Stan,3
+234,Officer 4,Protester,1
+235,Officer 4,Officer 5,1
+236,Officer 4,Officer 6,1
+237,Officer 4,Stan,1
+238,Officer 5,Protester,1
+239,Officer 6,Protester,1
+240,Protester,Stan,1
+241,Officer 5,Officer 6,1
+242,Officer 5,Stan,1
+243,Officer 6,Stan,1
+244,Cartman,Protester 1,2
+245,Cartman,Protester 2,2
+246,Cartman,Protester 3,2
+247,Cartman,Protester 4,2
+248,Cartman,Protester 5,2
+249,Cartman,Protester 6,2
+250,Cartman,Protester 7,2
+251,Protester 1,Stan,4
+252,Protester 2,Stan,4
+253,Protester 3,Stan,4
+254,Protester 4,Stan,4
+255,Protester 5,Stan,4
+256,Protester 6,Stan,4
+257,Protester 7,Stan,4
+258,Kyle,Protester 1,1
+259,Kyle,Protester 2,1
+260,Kyle,Protester 3,1
+261,Kyle,Protester 4,1
+262,Kyle,Protester 5,1
+263,Kyle,Protester 6,1
+264,Kyle,Protester 7,1
+265,Protester 1,Protester 2,1
+266,Protester 1,Protester 3,1
+267,Protester 1,Protester 4,1
+268,Protester 1,Protester 5,1
+269,Protester 1,Protester 6,1
+270,Protester 1,Protester 7,1
+271,Protester 2,Protester 3,1
+272,Protester 2,Protester 4,1
+273,Protester 2,Protester 5,1
+274,Protester 2,Protester 6,1
+275,Protester 2,Protester 7,1
+276,Protester 3,Protester 4,1
+277,Protester 3,Protester 5,1
+278,Protester 3,Protester 6,1
+279,Protester 3,Protester 7,1
+280,Protester 4,Protester 5,1
+281,Protester 4,Protester 6,1
+282,Protester 4,Protester 7,1
+283,Protester 5,Protester 6,1
+284,Protester 5,Protester 7,1
+285,Protester 6,Protester 7,1
+286,Soldier,Stan,2
+287,Janet Reno,Officer 7,4
+288,Janet Reno,Officer 8,2
+289,Janet Reno,Officer 9,2
+290,Janet Reno,Officer 10,2
+291,Janet Reno,Sharon,2
+292,Janet Reno,Quint 1,5
+293,Janet Reno,Nadia,2
+294,Officer 7,Officer 8,2
+295,Officer 7,Officer 9,2
+296,Officer 10,Officer 7,2
+297,Officer 7,Protester,2
+298,Officer 7,Sharon,2
+299,Officer 7,Quint 1,2
+300,Nadia,Officer 7,2
+301,Officer 8,Officer 9,1
+302,Officer 10,Officer 8,1
+303,Officer 8,Protester,1
+304,Officer 8,Sharon,1
+305,Officer 8,Quint 1,1
+306,Nadia,Officer 8,1
+307,Officer 10,Officer 9,1
+308,Officer 9,Protester,1
+309,Officer 9,Sharon,1
+310,Officer 9,Quint 1,1
+311,Nadia,Officer 9,1
+312,Officer 10,Protester,1
+313,Officer 10,Sharon,1
+314,Officer 10,Quint 1,1
+315,Nadia,Officer 10,1
+316,Protester,Quint 1,1
+317,Nadia,Protester,1
+318,Nadia,Sharon,1
+319,Janet Reno,Quint 3,5
+320,Cartman,Janet Reno,4
+321,Janet Reno,Quint 5,1
+322,Janet Reno,Kyle,1

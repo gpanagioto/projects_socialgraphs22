@@ -1,0 +1,84 @@
+,source,target,weight
+0,Bob White,Crystal,20
+1,Bob White,Garrison,12
+2,Crystal,Garrison,4
+3,Ike,Kyle,1
+4,Bob White,PC Principal,3
+5,PC Principal,Strong Woman,17
+6,Mrs.White,PC Principal,1
+7,Bob White,Strong Woman,6
+8,Bob White,Mrs.White,3
+9,Mrs.White,Strong Woman,2
+10,Garrison,Tweek,4
+11,Kyle,Tweek,13
+12,Craig,Tweek,12
+13,Stan,Tweek,14
+14,Heidi,Tweek,6
+15,Tolkien,Tweek,6
+16,Cartman,Tweek,8
+17,Craig,Kyle,16
+18,Kyle,Stan,20
+19,Heidi,Kyle,21
+20,Kyle,Tolkien,6
+21,Cartman,Kyle,20
+22,Craig,Stan,17
+23,Craig,Heidi,9
+24,Craig,Tolkien,6
+25,Cartman,Craig,11
+26,Heidi,Stan,22
+27,Stan,Tolkien,6
+28,Cartman,Stan,22
+29,Heidi,Tolkien,2
+30,Cartman,Heidi,75
+31,Cartman,Tolkien,4
+32,Mayor McDaniels,Townsman 1,2
+33,Bob White,Townsman 1,3
+34,Townsfolk,Townsman 1,1
+35,Officer Bright,Townsman 1,3
+36,Townsman 1,Townsman 2,1
+37,Bob White,Mayor McDaniels,6
+38,Mayor McDaniels,Townsfolk,2
+39,Mayor McDaniels,Officer Bright,15
+40,Mayor McDaniels,Townsman 2,2
+41,Bob White,Townsfolk,3
+42,Bob White,Officer Bright,12
+43,Bob White,Townsman 2,3
+44,Officer Bright,Townsfolk,3
+45,Townsfolk,Townsman 2,1
+46,Officer Bright,Townsman 2,3
+47,PC Principal,Waiter,9
+48,Butters,PC Principal,3
+49,Strong Woman,Waiter,15
+50,Butters,Strong Woman,5
+51,Butters,Waiter,3
+52,Jimbo,Officer Bright,2
+53,Officer Bright,Strong Woman,1
+54,Linda Black,Strong Woman,1
+55,Steven,Strong Woman,1
+56,Linda Black,Officer Bright,1
+57,Officer Bright,Steven,1
+58,Linda Black,Steven,1
+59,Garrison,Heidi,10
+60,Cartman,Garrison,10
+61,Garrison,Stan,2
+62,Laura,Mrs. Turner,1
+63,Sharon,Sheila,1
+64,Sheila,Stan,1
+65,Officer Bright,Sheila,1
+66,Bob White,Sheila,3
+67,Garrison,Sheila,1
+68,Heidi,Sheila,6
+69,Cartman,Sheila,6
+70,Sharon,Stan,1
+71,Officer Bright,Sharon,1
+72,Bob White,Sharon,3
+73,Garrison,Sharon,1
+74,Heidi,Sharon,6
+75,Cartman,Sharon,6
+76,Officer Bright,Stan,1
+77,Bob White,Stan,3
+78,Garrison,Officer Bright,1
+79,Heidi,Officer Bright,6
+80,Cartman,Officer Bright,6
+81,Bob White,Heidi,18
+82,Bob White,Cartman,18

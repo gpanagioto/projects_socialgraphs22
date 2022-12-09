@@ -1,0 +1,168 @@
+,source,target,weight
+0,Cartman,Kyle,150
+1,Brian,Cartman,31
+2,Cartman,Stan,29
+3,Cartman,Jambu,85
+4,Brian,Kyle,99
+5,Kyle,Stan,75
+6,Jambu,Kyle,138
+7,Brian,Stan,6
+8,Brian,Jambu,24
+9,Jambu,Stan,30
+10,Cartman,Kenny,1
+11,Kenny,Kyle,3
+12,Kenny,Stan,1
+13,Cartman,Mike,12
+14,Kyle,Mike,45
+15,Jambu,Mike,21
+16,Mike,Stan,6
+17,Butters,Kyle,31
+18,Butters,Clyde,6
+19,Butters,Stan,3
+20,Butters,Craig,3
+21,Butters,Tolkien,1
+22,Clyde,Kyle,35
+23,Craig,Kyle,22
+24,Kyle,Tolkien,5
+25,Clyde,Stan,5
+26,Clyde,Craig,4
+27,Clyde,Tolkien,1
+28,Craig,Stan,8
+29,Stan,Tolkien,2
+30,Craig,Tolkien,3
+31,Guard,Owner,9
+32,Brian,Owner,3
+33,Kelly,Owner,3
+34,Mike,Owner,3
+35,Owner,Sergeant,8
+36,Nelson,Owner,3
+37,Brian,Guard,3
+38,Guard,Kelly,3
+39,Guard,Mike,3
+40,Guard,Sergeant,6
+41,Guard,Nelson,3
+42,Brian,Kelly,1
+43,Brian,Mike,84
+44,Brian,Sergeant,2
+45,Brian,Nelson,1
+46,Kelly,Mike,1
+47,Kelly,Sergeant,2
+48,Kelly,Nelson,1
+49,Mike,Sergeant,2
+50,Mike,Nelson,1
+51,Nelson,Sergeant,2
+52,Aide,Putin,6
+53,Aide,Kyle,7
+54,Aide,Stan,2
+55,Aide,Cartman,1
+56,Aide,Craig,1
+57,Aide,Tweek,1
+58,Aide,Clyde,1
+59,Kyle,Putin,42
+60,Putin,Stan,12
+61,Cartman,Putin,6
+62,Craig,Putin,6
+63,Putin,Tweek,6
+64,Clyde,Putin,6
+65,Kyle,Tweek,7
+66,Stan,Tweek,2
+67,Cartman,Craig,1
+68,Cartman,Tweek,1
+69,Cartman,Clyde,7
+70,Craig,Tweek,1
+71,Clyde,Tweek,1
+72,ALF leader,Field reporter,2
+73,Field reporter,Protesters,2
+74,Anchor Tom,Field reporter,2
+75,ALF leader,Protesters,1
+76,ALF leader,Anchor Tom,1
+77,Anchor Tom,Protesters,1
+78,Brian,Mrs. Donovan,32
+79,Mike,Mrs. Donovan,24
+80,Kyle,Sheila,6
+81,Jimmy,Kyle,12
+82,Butters,Sheila,1
+83,Clyde,Sheila,2
+84,Cartman,Sheila,2
+85,Jimmy,Sheila,2
+86,Butters,Cartman,5
+87,Butters,Jimmy,2
+88,Clyde,Jimmy,4
+89,Cartman,Jimmy,4
+90,Man,Stan,1
+91,Mannuel,Stan,12
+92,Man 2,Stan,10
+93,Man 2,Mannuel,4
+94,Brian,Sheila,6
+95,Both men,Sheila,3
+96,Mike,Sheila,3
+97,Both men,Brian,2
+98,Both men,Mike,1
+99,Driver,Kyle,36
+100,Butters,Driver,8
+101,Brian,Driver,28
+102,Cartman,Driver,4
+103,Clyde,Driver,4
+104,Driver,Mike,12
+105,Cop 1,Driver,24
+106,Cop 2,Driver,12
+107,ALF leader,Driver,20
+108,Driver,The Other Boys,4
+109,ALF member,Driver,8
+110,Cop 1,Kyle,54
+111,Cop 2,Kyle,27
+112,ALF leader,Kyle,60
+113,Kyle,The Other Boys,9
+114,ALF member,Kyle,18
+115,Brian,Butters,14
+116,Butters,Mike,6
+117,Butters,Cop 1,12
+118,Butters,Cop 2,6
+119,ALF leader,Butters,10
+120,Butters,The Other Boys,2
+121,ALF member,Butters,4
+122,Brian,Clyde,7
+123,Brian,Cop 1,42
+124,Brian,Cop 2,21
+125,ALF leader,Brian,35
+126,Brian,The Other Boys,7
+127,ALF member,Brian,14
+128,Cartman,Cop 1,6
+129,Cartman,Cop 2,3
+130,ALF leader,Cartman,10
+131,Cartman,The Other Boys,1
+132,ALF member,Cartman,2
+133,Clyde,Mike,3
+134,Clyde,Cop 1,6
+135,Clyde,Cop 2,3
+136,ALF leader,Clyde,5
+137,Clyde,The Other Boys,1
+138,ALF member,Clyde,2
+139,Cop 1,Mike,18
+140,Cop 2,Mike,9
+141,ALF leader,Mike,15
+142,Mike,The Other Boys,3
+143,ALF member,Mike,6
+144,Cop 1,Cop 2,18
+145,ALF leader,Cop 1,30
+146,Cop 1,The Other Boys,6
+147,ALF member,Cop 1,12
+148,ALF leader,Cop 2,15
+149,Cop 2,The Other Boys,3
+150,ALF member,Cop 2,6
+151,ALF leader,The Other Boys,5
+152,ALF leader,ALF member,10
+153,ALF member,The Other Boys,2
+154,Stan,Worker 2,1
+155,Manuel,Worker 2,1
+156,Manuel,Stan,2
+157,ALF leader,Owner,22
+158,ALF leader,Sergeant,1
+159,ALF leader,Stan,15
+160,Owner,Stan,12
+161,Kyle,Owner,12
+162,Cartman,Owner,4
+163,Butters,Manuel,1
+164,Clyde,Manuel,1
+165,Kyle,Manuel,2
+166,Cartman,Manuel,1

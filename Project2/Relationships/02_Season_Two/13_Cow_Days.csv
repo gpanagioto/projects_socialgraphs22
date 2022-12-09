@@ -1,0 +1,53 @@
+,source,target,weight
+0,Bob,Mary,2
+1,Bob,Tom,4
+2,Mary,Tom,7
+3,Mayor McDaniels,Tom,1
+4,Mary,Mayor McDaniels,1
+5,Kyle,Operator,53
+6,Kyle,Stan,60
+7,Cartman,Kyle,81
+8,Operator,Stan,11
+9,Cartman,Operator,39
+10,Cartman,Stan,39
+11,Kyle,Sheila,6
+12,Cartman,Chamber of Farts Ride,5
+13,Chamber of Farts Ride,Operator,4
+14,Chamber of Farts Ride,Stan,1
+15,Chamber of Farts Ride,Kyle,3
+16,Line ride operator,Stan,9
+17,Cartman,Line ride operator,3
+18,Kyle,Line ride operator,12
+19,Photo seller,Stan,2
+20,Kyle,Photo seller,1
+21,Cartman,Photo seller,1
+22,Cartman,Kenny,11
+23,Kenny,Kyle,13
+24,Kenny,Stan,11
+25,Kenny,Operator,3
+26,Officer Barbrady,Operator,6
+27,Kyle,Officer Barbrady,12
+28,Officer Barbrady,Stan,6
+29,Kyle,Rancher,3
+30,Cartman,Rancher,1
+31,Dr. Doctor,Stan,6
+32,Dr. Doctor,Kyle,6
+33,Cartman,Soldier,6
+34,Grey Hat,Mitchell,3
+35,Grey Hat,Jimbo,1
+36,Jimbo,Mitchell,1
+37,Announcer,Stan,5
+38,Announcer,Cartman,3
+39,Announcer,Kyle,3
+40,Kyle,Mr. Garrison,1
+41,Father Maxi,Kyle,1
+42,Chamber of Farts operator,Kyle,1
+43,Father Maxi,Mr. Garrison,1
+44,Chamber of Farts operator,Mr. Garrison,1
+45,Chamber of Farts operator,Father Maxi,1
+46,Officer Barbrady,Townspeople,2
+47,Line ride operator,Townspeople,1
+48,Line ride operator,Officer Barbrady,2
+49,Jimbo,Mayor McDaniels,15
+50,Mayor McDaniels,Officer Barbrady,12
+51,Jimbo,Officer Barbrady,4

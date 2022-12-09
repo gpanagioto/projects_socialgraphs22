@@ -1,0 +1,67 @@
+,source,target,weight
+0,Sharon,Stan,29
+1,Sharon,Shelly,7
+2,Shelly,Stan,2
+3,Gerald,Stephen,19
+4,Gerald,Stuart,14
+5,Gerald,Jimbo,11
+6,Stephen,Stuart,10
+7,Jimbo,Stephen,8
+8,Jimbo,Stuart,6
+9,Gerald,Skeeter,5
+10,Skeeter,Stephen,4
+11,Sharon,Skeeter,3
+12,Gerald,Sharon,6
+13,Sharon,Stephen,3
+14,Chubby official,EFSM President,17
+15,Chubby official,Sharon,9
+16,Chubby official,Third official,9
+17,EFSM President,Sharon,10
+18,EFSM President,Third official,5
+19,Sharon,Third official,4
+20,Bono,EFSM President,2
+21,Broloff,Senator,3
+22,Chubby official,Senator,1
+23,People in Crowd,Senator,1
+24,Broloff,Chubby official,30
+25,Broloff,People in Crowd,3
+26,Chubby official,People in Crowd,1
+27,Crowd,Sharon,1
+28,Bono,Crowd,1
+29,Broloff,Crowd,1
+30,Crowd,Man,1
+31,Bono,Sharon,8
+32,Broloff,Sharon,10
+33,Man,Sharon,1
+34,Bono,Broloff,73
+35,Bono,Man,1
+36,Broloff,Man,1
+37,Skeeter,Stuart,2
+38,Jimbo,Skeeter,1
+39,Anchorman,Sharon,8
+40,Female anchor,Sharon,4
+41,Anchorman,Female anchor,8
+42,Assistant,Jimbo,3
+43,Assistant,Stephen,2
+44,Assistant,Gerald,1
+45,Bono,Butler,18
+46,Butler,Stan,30
+47,Bono,Stan,116
+48,Assistant,Bono,7
+49,Assistant,Broloff,9
+50,Assistant,Sharon,1
+51,Assistant,Stan,5
+52,Assistant,Third official,2
+53,Assistant,Chubby official,3
+54,Bono,Jimbo,7
+55,Bono,Third official,14
+56,Bono,Chubby official,21
+57,Broloff,Jimbo,9
+58,Broloff,Stan,45
+59,Broloff,Third official,18
+60,Jimbo,Sharon,1
+61,Jimbo,Stan,5
+62,Jimbo,Third official,2
+63,Chubby official,Jimbo,3
+64,Stan,Third official,10
+65,Chubby official,Stan,15

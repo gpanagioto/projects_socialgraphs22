@@ -1,0 +1,103 @@
+,source,target,weight
+0,Mrs. Testaburger,Sheila,1
+1,Dr. Gauche,Kyle,29
+2,Laura,Sheila,69
+3,Ike,Sheila,21
+4,Mrs. Biggle,Sheila,27
+5,Linda S.,Sheila,51
+6,Janice,Sheila,7
+7,Ike,Laura,6
+8,Laura,Mrs. Biggle,14
+9,Laura,Linda S.,32
+10,Janice,Laura,2
+11,Ike,Mrs. Biggle,3
+12,Ike,Linda S.,3
+13,Ike,Janice,3
+14,Linda S.,Mrs. Biggle,9
+15,Janice,Mrs. Biggle,1
+16,Janice,Linda S.,1
+17,Kyle,Narrator,20
+18,Sheila,The other ladies,11
+19,Linda S.,The other ladies,6
+20,Mrs. Biggle,The other ladies,4
+21,Laura,The other ladies,8
+22,Cartman,Kyle,56
+23,Cartman,Stan,41
+24,Cartman,Mrs. Biggle,6
+25,Cartman,Harriet,30
+26,Cartman,Kenny,25
+27,Kyle,Stan,24
+28,Kyle,Mrs. Biggle,7
+29,Harriet,Kyle,35
+30,Kenny,Kyle,18
+31,Mrs. Biggle,Stan,3
+32,Harriet,Stan,15
+33,Kenny,Stan,9
+34,Harriet,Mrs. Biggle,5
+35,Kenny,Mrs. Biggle,2
+36,Harriet,Kenny,10
+37,Harriet,Laura,49
+38,A driver,Laura,5
+39,Harriet,Linda S.,42
+40,A driver,Linda S.,4
+41,A driver,Harriet,7
+42,Harriet,Sheila,77
+43,Harriet,The other ladies,7
+44,A driver,Sheila,6
+45,A driver,The other ladies,1
+46,Cartman,Mr. Mackey,20
+47,Mr. Mackey,Stan,10
+48,Reporter 1,Tom,6
+49,Reporter 1,Sportwriter,2
+50,Reporter 1,Reporter 2,2
+51,Sportwriter,Tom,3
+52,Reporter 2,Tom,3
+53,Reporter 2,Sportwriter,1
+54,Publicist,Stan,7
+55,Cartman,Publicist,11
+56,Laura,Male Diner,2
+57,Male Diner,Sheila,5
+58,Harriet,Male Diner,7
+59,Linda S.,Male Diner,2
+60,Cartman,Mabel,6
+61,Mabel,Stan,4
+62,Kenny,Mabel,2
+63,Dr. Gauche,Yates,20
+64,Mom,Sportswriter,9
+65,Sportswriter,Theresa,3
+66,Mabel,Sportswriter,6
+67,Sportswriter,Tom,18
+68,Cartman,Sportswriter,6
+69,Sportswriter,Stan,3
+70,Kyle,Sportswriter,3
+71,All,Sportswriter,3
+72,Publicist,Sportswriter,3
+73,Mom,Theresa,3
+74,Mabel,Mom,6
+75,Mom,Tom,18
+76,Cartman,Mom,6
+77,Mom,Stan,3
+78,Kyle,Mom,3
+79,All,Mom,3
+80,Mom,Publicist,3
+81,Mabel,Theresa,2
+82,Theresa,Tom,6
+83,Cartman,Theresa,2
+84,Stan,Theresa,1
+85,Kyle,Theresa,1
+86,All,Theresa,1
+87,Publicist,Theresa,1
+88,Mabel,Tom,12
+89,Kyle,Mabel,2
+90,All,Mabel,2
+91,Mabel,Publicist,2
+92,Cartman,Tom,12
+93,Stan,Tom,6
+94,Kyle,Tom,6
+95,All,Tom,6
+96,Publicist,Tom,6
+97,All,Cartman,2
+98,All,Stan,1
+99,All,Kyle,1
+100,Kyle,Publicist,1
+101,All,Publicist,1

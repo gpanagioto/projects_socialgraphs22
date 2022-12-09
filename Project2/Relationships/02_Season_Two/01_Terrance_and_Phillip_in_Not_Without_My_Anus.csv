@@ -1,0 +1,34 @@
+,source,target,weight
+0,Scott,Terrance,84
+1,Phillip,Terrance,105
+2,Judge,Phillip,9
+3,Judge,Terrance,2
+4,Judge,Madame Foreperson,1
+5,Phillip,Scott,40
+6,Scott,Voice,8
+7,Saddam,Scott,25
+8,Terrance,Ugly Bob,22
+9,Phillip,Ugly Bob,9
+10,Barky,Purry,1
+11,Barky,Phillip,1
+12,Barky,Terrance,1
+13,Phillip,Purry,1
+14,Purry,Terrance,1
+15,Delivery man,Phillip,5
+16,Delivery man,Terrance,5
+17,Crowd,Phillip,2
+18,Crowd,Terrance,2
+19,Phillip,Sally,1
+20,Saddam,U.S. Army official,16
+21,Terrance,Woman 1,2
+22,Terrance,Woman 2,2
+23,Springer,Terrance,2
+24,Phillip,Woman 1,2
+25,Phillip,Woman 2,2
+26,Phillip,Springer,2
+27,Woman 1,Woman 2,1
+28,Springer,Woman 1,1
+29,Springer,Woman 2,1
+30,Cartman,Terrance,1
+31,Saddam,Ugly Bob,9
+32,Phlllip,Terrance,1

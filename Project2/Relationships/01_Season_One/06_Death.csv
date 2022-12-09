@@ -1,0 +1,76 @@
+,source,target,weight
+0,Marsh Family,Sharon,1
+1,Sharon,Shelly,8
+2,Sharon,Stan,22
+3,Shelly,Stan,7
+4,Phillip,Terrance,10
+5,Sheila,Terrance,2
+6,Cartman,Liane,2
+7,Cartman,Clyde,4
+8,Cartman,Kyle,20
+9,Cartman,Mr. Garrison,10
+10,Cartman,Class,3
+11,Cartman,Mr. Hat,3
+12,Clyde,Kyle,1
+13,Clyde,Mr. Garrison,3
+14,Class,Clyde,1
+15,Clyde,Mr. Hat,1
+16,Kyle,Mr. Garrison,5
+17,Class,Kyle,1
+18,Kyle,Mr. Hat,1
+19,Class,Mr. Garrison,3
+20,Mr. Garrison,Mr. Hat,3
+21,Class,Mr. Hat,1
+22,Kenny,Mr. Garrison,5
+23,Kyle,Stan,38
+24,Cartman,Stan,45
+25,Mr. Garrison,Stan,4
+26,Kenny,Stan,7
+27,Kenny,Kyle,4
+28,Cartman,Kenny,3
+29,Chef,Kyle,10
+30,Chef,Stan,30
+31,Cartman,Chef,10
+32,Caller,Jesus,1
+33,Jesus,Martin,9
+34,Jesus,Stan,12
+35,Cartman,Jesus,3
+36,Jesus,Kyle,2
+37,TV Announcer,Terrance,2
+38,Phillip,TV Announcer,2
+39,Cartman,TV Announcer,2
+40,Stan,TV Announcer,1
+41,Kenny,TV Announcer,1
+42,Cartman,Terrance,5
+43,Stan,Terrance,2
+44,Kenny,Terrance,2
+45,Cartman,Phillip,6
+46,Phillip,Stan,2
+47,Kenny,Phillip,2
+48,Stan,Talk Show Host,2
+49,Crowd,Townsman,1
+50,All,Stan,1
+51,Sheila,Townsman,1
+52,John Warsog,Sheila,1
+53,John Warsog,Townsman,1
+54,Liane,Sheila,2
+55,Cow,Stan,1
+56,Cow,Kyle,1
+57,Cow,Officer Barbrady,1
+58,All,Kyle,1
+59,Death,Kyle,4
+60,All,Death,1
+61,Death,Stan,4
+62,Kids,Stan,1
+63,Kids,Kyle,1
+64,Death,Kids,1
+65,Sharon,Sheila,4
+66,Sheila,Stan,4
+67,Death,Kenny,1
+68,Cartman,Sharon,1
+69,Cartman,Sheila,3
+70,Cartman,Dude,1
+71,Cartman,Suzanne,1
+72,Dude,Sheila,2
+73,Dude,Suzanne,1
+74,Sheila,Suzanne,2

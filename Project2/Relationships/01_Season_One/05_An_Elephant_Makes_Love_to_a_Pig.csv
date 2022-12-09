@@ -1,0 +1,84 @@
+,source,target,weight
+0,Cartman,Stan,63
+1,Kyle,Stan,61
+2,Cartman,Kyle,69
+3,Kenny,Stan,12
+4,Kenny,Kyle,10
+5,Cartman,Kenny,6
+6,Kyle,Ms. Crabtree,1
+7,Cartman,Ms. Crabtree,1
+8,Kyle,Mr. Hat,3
+9,Mr. Garrison,Mr. Hat,2
+10,Kyle,Mr. Garrison,10
+11,Mr. Garrison,Stan,7
+12,Jesus,Robert,1
+13,Robert,Stan,3
+14,Robert,Shelly,2
+15,Jesus,Stan,3
+16,Jesus,Shelly,2
+17,Shelly,Stan,11
+18,Dr. Alphonse Mephesto,Kyle,4
+19,Cartman,Dr. Alphonse Mephesto,5
+20,Dr. Alphonse Mephesto,Stan,2
+21,Kyle,Mephesto,29
+22,Cartman,Mephesto,18
+23,Cartman,Monkey,3
+24,Mephesto,Monkey,6
+25,Mephesto,Stan,12
+26,Kyle,Monkey,3
+27,Monkey,Stan,1
+28,Cartman,Jason,1
+29,Jason,Pip,1
+30,Cartman,Pip,5
+31,Pip,Stan,4
+32,Kyle,Terrance,5
+33,Bill,Kyle,2
+34,Fosse,Kyle,2
+35,Bill,Terrance,3
+36,Fosse,Terrance,2
+37,Bill,Fosse,5
+38,Chef,Kyle,34
+39,Boys,Kyle,4
+40,Boys,Chef,7
+41,Cartman,Chef,16
+42,Chef,Stan,19
+43,Boys,Cartman,2
+44,Boys,Stan,2
+45,Mephesto,Terrance,7
+46,Chef,Mephesto,3
+47,Kenny,Mephesto,3
+48,Chef,Kenny,1
+49,Mr. Garrison,Woman,1
+50,Stan,Townsman,2
+51,Kyle,Townsman,1
+52,Kenny,Townsman,1
+53,TV Newscaster,TV Voice,1
+54,Jesus,TV Newscaster,1
+55,Jesus,TV Voice,1
+56,Jimbo,Mr. Garrison,1
+57,Jimbo,Kyle,2
+58,Jimbo,Stan,2
+59,Cartman,Shelly,2
+60,Kyle,Shelly,1
+61,Sharon,Shelly,2
+62,Sharon,Stan,1
+63,Mr. Garrison,Terrance,1
+64,Kid 1,Kid 2,1
+65,Clyde,Kid 1,1
+66,Kid 1,Kyle,1
+67,Cartman,Kid 1,1
+68,Kid 1,Mr. Garrison,1
+69,Hat,Kid 1,1
+70,Clyde,Kid 2,1
+71,Kid 2,Kyle,1
+72,Cartman,Kid 2,1
+73,Kid 2,Mr. Garrison,1
+74,Hat,Kid 2,1
+75,Clyde,Kyle,1
+76,Cartman,Clyde,1
+77,Clyde,Mr. Garrison,1
+78,Clyde,Hat,1
+79,Hat,Kyle,1
+80,Cartman,Mr. Garrison,1
+81,Cartman,Hat,1
+82,Hat,Mr. Garrison,1

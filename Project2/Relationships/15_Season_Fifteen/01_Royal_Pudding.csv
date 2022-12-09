@@ -1,0 +1,108 @@
+,source,target,weight
+0,Tooth,Toothbrush,4
+1,Cast,Tooth,3
+2,Mr. Mackey,Tooth,9
+3,Dental Floss,Tooth,3
+4,Cast,Toothbrush,4
+5,Mr. Mackey,Toothbrush,16
+6,Dental Floss,Toothbrush,5
+7,Cast,Mr. Mackey,9
+8,Cast,Dental Floss,3
+9,Dental Floss,Mr. Mackey,12
+10,Ike,Narrator,4
+11,Suicide 1,Suicide 2,1
+12,Suicide 1,Suicide 3,1
+13,Suicide 1,Suicide 4,1
+14,Suicide 1,Suicide 5,1
+15,Suicide 1,Suicide 6,1
+16,Suicide 2,Suicide 3,1
+17,Suicide 2,Suicide 4,1
+18,Suicide 2,Suicide 5,1
+19,Suicide 2,Suicide 6,1
+20,Suicide 3,Suicide 4,1
+21,Suicide 3,Suicide 5,1
+22,Suicide 3,Suicide 6,1
+23,Suicide 4,Suicide 5,1
+24,Suicide 4,Suicide 6,1
+25,Suicide 5,Suicide 6,1
+26,Anchor,Geddy Lee,1
+27,Canadian PM,Geddy Lee,1
+28,Geddy Lee,Kyle,1
+29,Geddy Lee,Ike,1
+30,Anchor,Canadian PM,1
+31,Anchor,Kyle,1
+32,Anchor,Ike,1
+33,Canadian PM,Kyle,1
+34,Canadian PM,Ike,1
+35,Ike,Kyle,1
+36,Kyle,Tooth,3
+37,Kyle,Toothbrush,3
+38,Cast,Kyle,3
+39,Kyle,Mr. Mackey,10
+40,Canadian 1,Ugly Bob,4
+41,Leader,Ugly Bob,20
+42,The Giant,Ugly Bob,4
+43,Canadian 2,Ugly Bob,4
+44,Canadian 3,Ugly Bob,4
+45,Scott,Ugly Bob,45
+46,Ike,Ugly Bob,12
+47,Canadian 1,Leader,5
+48,Canadian 1,The Giant,1
+49,Canadian 1,Canadian 2,1
+50,Canadian 1,Canadian 3,1
+51,Canadian 1,Scott,6
+52,Canadian 1,Ike,1
+53,Leader,The Giant,5
+54,Canadian 2,Leader,5
+55,Canadian 3,Leader,5
+56,Leader,Scott,30
+57,Ike,Leader,5
+58,Canadian 2,The Giant,1
+59,Canadian 3,The Giant,1
+60,Scott,The Giant,6
+61,Ike,The Giant,1
+62,Canadian 2,Canadian 3,1
+63,Canadian 2,Scott,6
+64,Canadian 2,Ike,1
+65,Canadian 3,Scott,6
+66,Canadian 3,Ike,1
+67,Ike,Scott,19
+68,Female,Male,4
+69,Male,Scott,4
+70,Female,Scott,15
+71,Dental Floss,Dentist,2
+72,Dental Floss,Toothpaste,1
+73,Another kindergartner,Dental Floss,1
+74,Dentist,Toothpaste,1
+75,Another kindergartner,Dentist,1
+76,Dentist,Mr. Mackey,2
+77,Another kindergartner,Toothpaste,1
+78,Mr. Mackey,Toothpaste,1
+79,Another kindergartner,Mr. Mackey,1
+80,Group,Male,3
+81,Male,Ugly Bob,9
+82,Group,Ugly Bob,3
+83,Baby,Scott,8
+84,Princess,Scott,23
+85,Female,Ugly Bob,7
+86,Baby,Ugly Bob,5
+87,Princess,Ugly Bob,15
+88,Baby,Female,3
+89,Female,Ike,4
+90,Female,Princess,13
+91,Baby,Ike,3
+92,Baby,Princess,7
+93,Ike,Princess,8
+94,Dentist,Kyle,1
+95,Dental Floss,Kyle,1
+96,Mr. Mackey,Sgt. Yates,9
+97,Officer,Sgt. Yates,3
+98,Sgt. Yates,Toothbrush,3
+99,Mr. Mackey,Officer,3
+100,Officer,Toothbrush,1
+101,Cartman,Stan,1
+102,Kyle,Stan,1
+103,Narrator,Stan,1
+104,Cartman,Kyle,1
+105,Cartman,Narrator,1
+106,Kyle,Narrator,1

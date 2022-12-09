@@ -1,0 +1,94 @@
+,source,target,weight
+0,Gerald,Richard,5
+1,Richard,Stephen,2
+2,Mrs. Garrison,Richard,2
+3,Gerald,Stephen,2
+4,Gerald,Mrs. Garrison,2
+5,Mrs. Garrison,Stephen,1
+6,Driver,Kyle,6
+7,Gerald,Kyle,104
+8,Driver,Gerald,6
+9,Kyle,Stan,14
+10,Jimbo,Kyle,10
+11,Darryl,Kyle,5
+12,Gerald,Stan,36
+13,Gerald,Jimbo,21
+14,Darryl,Gerald,10
+15,Jimbo,Stan,10
+16,Darryl,Stan,2
+17,Darryl,Jimbo,2
+18,Ike,Kyle,18
+19,Gerald,Ike,13
+20,Butters,Stan,18
+21,Cartman,Tolkien,3
+22,Clyde,Tolkien,2
+23,Craig,Tolkien,1
+24,Stan,Tolkien,2
+25,Cartman,Clyde,6
+26,Cartman,Craig,3
+27,Cartman,Stan,29
+28,Clyde,Craig,2
+29,Clyde,Stan,8
+30,Craig,Stan,2
+31,Gerald,Sheila,13
+32,Man,Sheila,4
+33,Peter,Sheila,8
+34,Man 2,Sheila,2
+35,Paul,Sheila,6
+36,Gerald,Man,10
+37,Gerald,Peter,20
+38,Gerald,Man 2,5
+39,Gerald,Paul,15
+40,Man,Peter,8
+41,Man,Man 2,2
+42,Man,Paul,6
+43,Man 2,Peter,4
+44,Paul,Peter,12
+45,Man 2,Paul,3
+46,Butters,Cartman,30
+47,Jimbo,Laura Tucker,2
+48,Driver 2,Driver 3,1
+49,Driver 2,Stan,1
+50,Driver 3,Stan,1
+51,Richard,Stan,4
+52,Jimbo,Richard,1
+53,An officer,Richard,1
+54,Ranger McFriendly,Richard,3
+55,An officer,Stan,4
+56,Ranger McFriendly,Stan,25
+57,An officer,Jimbo,1
+58,Jimbo,Ranger McFriendly,9
+59,An officer,Gerald,1
+60,Gerald,Ranger McFriendly,3
+61,An officer,Ranger McFriendly,3
+62,Anchor Tom,Keenan,1
+63,Gail,Sheila,1
+64,Alan,Sheila,3
+65,Gail,Gerald,3
+66,Alan,Gail,3
+67,Alan,Gerald,9
+68,Boy 1,Brian,2
+69,Brian,Kyle,6
+70,Boy 2,Brian,2
+71,Brian,Gerald,4
+72,Brian,Ike,2
+73,Boy 1,Kyle,3
+74,Boy 1,Boy 2,1
+75,Boy 1,Gerald,2
+76,Boy 1,Ike,1
+77,Boy 2,Kyle,3
+78,Boy 2,Gerald,2
+79,Boy 2,Ike,1
+80,Cartman,Ranger McFriendly,9
+81,Butters,Ranger McFriendly,4
+82,Cartman,Keenan,4
+83,Keenan,Stan,14
+84,Keenan,Ranger McFriendly,9
+85,Ranger McFriendly,Stephen,3
+86,Jimbo,Stephen,2
+87,Jimbo,Keenan,2
+88,Stan,Stephen,1
+89,Keenan,Stephen,1
+90,Cartman,Gerald,2
+91,Cartman,Kyle,2
+92,Cartman,Ike,2

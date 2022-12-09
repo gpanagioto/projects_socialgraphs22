@@ -1,0 +1,61 @@
+,source,target,weight
+0,Cartman,Coach,6
+1,Cartman,Kyle,4
+2,Customer,Stan,1
+3,Cartman,Customer,1
+4,Customer,Kyle,1
+5,Cartman,Stan,3
+6,Kyle,Stan,2
+7,Cartman,Liane,9
+8,Cartman,Worker 1,6
+9,Worker 1,Worker 2,2
+10,Cartman,Worker 2,3
+11,Cartman,Tough Boy 1,2
+12,Billy,Cartman,85
+13,Cartman,Teabag,49
+14,Barbrady,Teabag,7
+15,Barbrady,Cartman,16
+16,Peter Nelson,Player 1,2
+17,Peter Nelson,Player 2,2
+18,Peter Nelson,Woman 1,2
+19,Player 1,Player 2,1
+20,Player 1,Woman 1,1
+21,Player 2,Woman 1,1
+22,Dr. Doctor,Nurse,2
+23,Woman 2,Woman 3,2
+24,Cartman,Tommy,5
+25,The Colonel,Tommy,5
+26,Cartman,The Colonel,88
+27,Billy's Mom,Cartman,15
+28,Billy,Billy's Mom,5
+29,Clerk,Men,8
+30,Man 1,Men,4
+31,Man 2,Men,4
+32,Man 3,Men,4
+33,Dr. Doctor,Men,4
+34,Clerk,Man 1,2
+35,Clerk,Man 2,2
+36,Clerk,Man 3,2
+37,Clerk,Dr. Doctor,2
+38,Man 1,Man 2,1
+39,Man 1,Man 3,1
+40,Dr. Doctor,Man 1,1
+41,Man 2,Man 3,1
+42,Dr. Doctor,Man 2,1
+43,Dr. Doctor,Man 3,1
+44,Cartman,Tough Boy 3,9
+45,Cartman,Henchman,9
+46,The Colonel,Tough Boy 3,7
+47,Barbrady,Tough Boy 3,1
+48,Henchman,Tough Boy 3,1
+49,Billy's Mom,Tough Boy 3,1
+50,Billy,Tough Boy 3,1
+51,Barbrady,The Colonel,7
+52,Henchman,The Colonel,7
+53,Billy's Mom,The Colonel,7
+54,Billy,The Colonel,7
+55,Barbrady,Henchman,1
+56,Barbrady,Billy's Mom,1
+57,Barbrady,Billy,1
+58,Billy's Mom,Henchman,1
+59,Billy,Henchman,1

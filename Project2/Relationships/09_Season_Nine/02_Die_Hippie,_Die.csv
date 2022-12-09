@@ -1,0 +1,165 @@
+,source,target,weight
+0,Cartman,Elderly woman,9
+1,Cartman,Hippie 1,15
+2,Elderly woman,Hippie 1,3
+3,Kyle,Woman 1,3
+4,Stan,Woman 1,4
+5,Driver,Woman 1,3
+6,Man 1,Woman 1,1
+7,Woman 1,Woman 2,1
+8,Kenny,Woman 1,1
+9,Man 2,Woman 1,1
+10,Kyle,Stan,22
+11,Driver,Kyle,15
+12,Kyle,Man 1,12
+13,Kyle,Woman 2,5
+14,Kenny,Kyle,3
+15,Kyle,Man 2,11
+16,Driver,Stan,18
+17,Man 1,Stan,13
+18,Stan,Woman 2,6
+19,Kenny,Stan,4
+20,Man 2,Stan,12
+21,Driver,Man 1,7
+22,Driver,Woman 2,5
+23,Driver,Kenny,3
+24,Driver,Man 2,7
+25,Man 1,Woman 2,2
+26,Kenny,Man 1,1
+27,Man 1,Man 2,10
+28,Kenny,Woman 2,1
+29,Man 2,Woman 2,2
+30,Kenny,Man 2,1
+31,Cartman,Hippie 2,10
+32,Cartman,Hippie 3,13
+33,Cartman,Hippie 4,5
+34,Cartman,Hippie 5,5
+35,Cartman,Hippie 6,5
+36,Cartman,Singer,5
+37,Hippie 2,Hippie 3,4
+38,Hippie 2,Hippie 4,2
+39,Hippie 2,Hippie 5,2
+40,Hippie 2,Hippie 6,2
+41,Hippie 2,Singer,2
+42,Hippie 3,Hippie 4,2
+43,Hippie 3,Hippie 5,2
+44,Hippie 3,Hippie 6,2
+45,Hippie 3,Singer,2
+46,Hippie 4,Hippie 5,1
+47,Hippie 4,Hippie 6,1
+48,Hippie 4,Singer,1
+49,Hippie 5,Hippie 6,1
+50,Hippie 5,Singer,1
+51,Hippie 6,Singer,1
+52,Sharon,Stan,2
+53,Chef,Linda Stotch,2
+54,Chef,Gerald,2
+55,Chef,Guard,2
+56,Cartman,Chef,34
+57,Chef,Mayor McDaniels,6
+58,Chef,Linda,7
+59,Chef,Mr. Mackey,3
+60,Gerald,Linda Stotch,1
+61,Guard,Linda Stotch,1
+62,Cartman,Linda Stotch,7
+63,Linda Stotch,Mayor McDaniels,3
+64,Linda,Linda Stotch,1
+65,Linda Stotch,Mr. Mackey,1
+66,Gerald,Guard,1
+67,Cartman,Gerald,7
+68,Gerald,Mayor McDaniels,3
+69,Gerald,Linda,1
+70,Gerald,Mr. Mackey,1
+71,Cartman,Guard,7
+72,Guard,Mayor McDaniels,3
+73,Guard,Linda,1
+74,Guard,Mr. Mackey,1
+75,Cartman,Mayor McDaniels,51
+76,Cartman,Linda,31
+77,Cartman,Mr. Mackey,15
+78,Linda,Mayor McDaniels,3
+79,Mayor McDaniels,Mr. Mackey,3
+80,Linda,Mr. Mackey,1
+81,Cartman,Stan,19
+82,Officer Barbrady,Stan,8
+83,Cartman,Kyle,21
+84,Kyle,Officer Barbrady,8
+85,Cartman,Driver,16
+86,Driver,Officer Barbrady,8
+87,Cartman,Man 1,14
+88,Cartman,Woman 2,8
+89,Cartman,Man 2,14
+90,Cartman,Officer Barbrady,50
+91,Man 1,Officer Barbrady,4
+92,Officer Barbrady,Woman 2,4
+93,Man 2,Officer Barbrady,4
+94,Mayor McDaniels.,Officer Barbrady,3
+95,Mayor McDaniels,Officer Barbrady,15
+96,Cartman,Mayor McDaniels.,6
+97,Mayor McDaniels,Mayor McDaniels.,5
+98,Anchorman,MC,2
+99,Anchorman,Stan,1
+100,Anchorman,Kyle,1
+101,Anchorman,Man 1,1
+102,MC,Stan,2
+103,Kyle,MC,2
+104,MC,Man 1,2
+105,Anchorman,Reporter,1
+106,Jimbo,Male hippie,1
+107,Female hippie,Jimbo,1
+108,Female hippie,Male hippie,1
+109,Cartman,Sheila,17
+110,Cartman,Jimbo,21
+111,Cartman,Principal Victoria,8
+112,Chef,Sheila,3
+113,Jimbo,Sheila,4
+114,Mr. Mackey,Sheila,2
+115,Principal Victoria,Sheila,2
+116,Chef,Jimbo,3
+117,Chef,Principal Victoria,1
+118,Jimbo,Mr. Mackey,2
+119,Jimbo,Principal Victoria,2
+120,Mr. Mackey,Principal Victoria,1
+121,Cartman,Steven,15
+122,Jimbo,Steven,3
+123,Jimbo,Linda,2
+124,Linda,Steven,6
+125,Chef,Steven,3
+126,Linda,Sharon,1
+127,Butters,Sharon,1
+128,Chef,Sharon,1
+129,Cartman,Sharon,1
+130,Sharon,Sheila,1
+131,Mrs. Garrison,Sharon,1
+132,Butters,Linda,1
+133,Linda,Sheila,1
+134,Linda,Mrs. Garrison,1
+135,Butters,Chef,1
+136,Butters,Cartman,1
+137,Butters,Sheila,1
+138,Butters,Mrs. Garrison,1
+139,Chef,Mrs. Garrison,1
+140,Cartman,Mrs. Garrison,1
+141,Mrs. Garrison,Sheila,1
+142,Mayor McDaniels,Townsfolk,1
+143,Guard,Kyle,1
+144,Mr. Mackey,Steven,1
+145,A hippie,Stan,2
+146,A hippie,Singer,1
+147,Singer,Stan,1
+148,Kyle,Linda,3
+149,A hippie,Kyle,1
+150,Hippie 3,Kyle,1
+151,Linda,Stan,3
+152,Hippie 3,Stan,1
+153,Linda,Man 2,6
+154,A hippie,Man 2,2
+155,Hippie 3,Man 2,2
+156,Linda,Man 1,6
+157,A hippie,Man 1,2
+158,Hippie 3,Man 1,2
+159,A hippie,Linda,3
+160,Hippie 3,Linda,3
+161,A hippie,Cartman,3
+162,A hippie,Hippie 3,1
+163,Chef,Kyle,1

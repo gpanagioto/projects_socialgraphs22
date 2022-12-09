@@ -1,0 +1,308 @@
+,source,target,weight
+0,Cartman,Stan,89
+1,Kyle,Stan,53
+2,Cartman,Kyle,102
+3,Cartman,Creature,17
+4,Creature,Stan,7
+5,Creature,Kyle,12
+6,Jimbo,Ned,27
+7,Jimbo,Stan,12
+8,Jimbo,Kyle,23
+9,Cartman,Jimbo,45
+10,Ned,Stan,4
+11,Kyle,Ned,3
+12,Cartman,Ned,14
+13,Creature,Jimbo,13
+14,FED,Sheila,1
+15,Mayor,Sheila,8
+16,DOI 1,Sheila,10
+17,DOI 2,Sheila,9
+18,DOI 3,Sheila,4
+19,Creature,Sheila,1
+20,Cartman,Sheila,4
+21,Ned,Sheila,1
+22,Jimbo,Sheila,1
+23,Sheila,Woman,1
+24,Sheila,Woman 2,1
+25,Man,Sheila,1
+26,Hope,Sheila,1
+27,Sheila,Stan,2
+28,Mr. Garrison,Sheila,4
+29,Junjun,Sheila,7
+30,Rancher,Sheila,1
+31,FED,Mayor,7
+32,DOI 1,FED,6
+33,DOI 2,FED,5
+34,DOI 3,FED,2
+35,Creature,FED,1
+36,Cartman,FED,1
+37,FED,Ned,1
+38,FED,Jimbo,1
+39,FED,Woman,1
+40,FED,Woman 2,1
+41,FED,Man,1
+42,FED,Hope,1
+43,FED,Stan,1
+44,FED,Mr. Garrison,4
+45,FED,Junjun,1
+46,FED,Rancher,1
+47,DOI 1,Mayor,55
+48,DOI 2,Mayor,48
+49,DOI 3,Mayor,17
+50,Creature,Mayor,7
+51,Cartman,Mayor,46
+52,Mayor,Ned,22
+53,Jimbo,Mayor,17
+54,Mayor,Woman,7
+55,Mayor,Woman 2,7
+56,Man,Mayor,14
+57,Hope,Mayor,7
+58,Mayor,Stan,12
+59,Mayor,Mr. Garrison,30
+60,Junjun,Mayor,15
+61,Mayor,Rancher,7
+62,DOI 1,DOI 2,60
+63,DOI 1,DOI 3,21
+64,Creature,DOI 1,6
+65,Cartman,DOI 1,38
+66,DOI 1,Ned,6
+67,DOI 1,Jimbo,6
+68,DOI 1,Woman,6
+69,DOI 1,Woman 2,6
+70,DOI 1,Man,8
+71,DOI 1,Hope,6
+72,DOI 1,Stan,13
+73,DOI 1,Mr. Garrison,24
+74,DOI 1,Junjun,30
+75,DOI 1,Rancher,6
+76,DOI 2,DOI 3,20
+77,Creature,DOI 2,5
+78,Cartman,DOI 2,33
+79,DOI 2,Ned,5
+80,DOI 2,Jimbo,5
+81,DOI 2,Woman,5
+82,DOI 2,Woman 2,5
+83,DOI 2,Man,5
+84,DOI 2,Hope,5
+85,DOI 2,Stan,15
+86,DOI 2,Mr. Garrison,20
+87,DOI 2,Junjun,30
+88,DOI 2,Rancher,5
+89,Creature,DOI 3,2
+90,Cartman,DOI 3,8
+91,DOI 3,Ned,2
+92,DOI 3,Jimbo,2
+93,DOI 3,Woman,2
+94,DOI 3,Woman 2,2
+95,DOI 3,Man,2
+96,DOI 3,Hope,2
+97,DOI 3,Stan,6
+98,DOI 3,Mr. Garrison,8
+99,DOI 3,Junjun,15
+100,DOI 3,Rancher,2
+101,Creature,Ned,1
+102,Creature,Woman,1
+103,Creature,Woman 2,1
+104,Creature,Man,1
+105,Creature,Hope,1
+106,Creature,Mr. Garrison,4
+107,Creature,Junjun,1
+108,Creature,Rancher,1
+109,Cartman,Woman,1
+110,Cartman,Woman 2,1
+111,Cartman,Man,5
+112,Cartman,Hope,1
+113,Cartman,Mr. Garrison,8
+114,Cartman,Junjun,28
+115,Cartman,Rancher,1
+116,Ned,Woman,1
+117,Ned,Woman 2,1
+118,Man,Ned,13
+119,Hope,Ned,1
+120,Mr. Garrison,Ned,4
+121,Junjun,Ned,1
+122,Ned,Rancher,1
+123,Jimbo,Woman,1
+124,Jimbo,Woman 2,1
+125,Jimbo,Man,10
+126,Hope,Jimbo,1
+127,Jimbo,Mr. Garrison,5
+128,Jimbo,Junjun,2
+129,Jimbo,Rancher,1
+130,Woman,Woman 2,1
+131,Man,Woman,1
+132,Hope,Woman,1
+133,Stan,Woman,1
+134,Mr. Garrison,Woman,4
+135,Junjun,Woman,1
+136,Rancher,Woman,1
+137,Man,Woman 2,1
+138,Hope,Woman 2,1
+139,Stan,Woman 2,1
+140,Mr. Garrison,Woman 2,4
+141,Junjun,Woman 2,1
+142,Rancher,Woman 2,1
+143,Hope,Man,1
+144,Man,Stan,1
+145,Man,Mr. Garrison,7
+146,Junjun,Man,1
+147,Man,Rancher,1
+148,Hope,Stan,1
+149,Hope,Mr. Garrison,4
+150,Hope,Junjun,1
+151,Hope,Rancher,1
+152,Mr. Garrison,Stan,8
+153,Junjun,Stan,11
+154,Rancher,Stan,1
+155,Junjun,Mr. Garrison,4
+156,Mr. Garrison,Rancher,4
+157,Junjun,Rancher,1
+158,Cartman,Liane,34
+159,Jakovasaur,Liane,5
+160,Cartman,Jakovasaur,26
+161,Jakovasaur,Kyle,2
+162,Jakov,Kyle,20
+163,Cartman,Jakov,92
+164,Jakovasaur,Stan,4
+165,Jakov,Jakovasaur,1
+166,Jakov,Stan,25
+167,Jakov,Junjun,24
+168,Junjun,Kyle,20
+169,DOI 1,Kyle,15
+170,DOI 1,Jakov,8
+171,DOI 1,Man 2,2
+172,DOI 1,Man 3,2
+173,Cartman,Man 2,4
+174,Cartman,Man 3,4
+175,Kyle,Man,1
+176,Kyle,Mayor,7
+177,Kyle,Man 2,1
+178,Kyle,Man 3,1
+179,Jakov,Man,1
+180,Man,Man 2,4
+181,Man,Man 3,1
+182,Jakov,Mayor,132
+183,Jakov,Man 2,1
+184,Jakov,Man 3,1
+185,Man 2,Mayor,3
+186,Man 3,Mayor,1
+187,Man 2,Man 3,1
+188,DOI 2,Jakov,9
+189,DOI 3,Jakov,8
+190,DOI 2,Kyle,14
+191,DOI 3,Kyle,8
+192,Jakov,Mephesto,6
+193,Junjun,Mephesto,2
+194,Mephesto,Stan,4
+195,Kyle,Mephesto,2
+196,DOI 3,Mephesto,2
+197,DOI 2,Mephesto,2
+198,Commentator,Jakov,21
+199,Jakov,Men,14
+200,Gerald,Jakov,14
+201,Jakov,Mr. Mackey,7
+202,Jakov,The Others,7
+203,Commentator,Men,3
+204,Commentator,Gerald,6
+205,Commentator,Mr. Mackey,3
+206,Commentator,The Others,3
+207,Gerald,Men,2
+208,Men,Mr. Mackey,1
+209,Men,The Others,1
+210,Gerald,Mr. Mackey,2
+211,Gerald,The Others,2
+212,Mr. Mackey,The Others,1
+213,All,DOI 2,12
+214,All,Junjun,12
+215,All,DOI 1,11
+216,All,DOI 3,4
+217,Kyle,Sheila,3
+218,All,Kyle,6
+219,All,Cartman,10
+220,All,Sheila,2
+221,All,Mayor,12
+222,All,Stan,3
+223,Jakovasaur boy,Stan,2
+224,Jakovasaur kid 1,Stan,1
+225,Jakovasaur kid 4,Stan,1
+226,Mr. Hat,Stan,1
+227,Jakovasaur boy,Mr. Garrison,8
+228,Jakovasaur boy,Jakovasaur kid 1,2
+229,Jakovasaur boy,Jakovasaur kid 4,2
+230,Jakovasaur boy,Kyle,2
+231,Cartman,Jakovasaur boy,2
+232,Jakovasaur boy,Mr. Hat,2
+233,Jakovasaur kid 1,Mr. Garrison,4
+234,Jakovasaur kid 4,Mr. Garrison,4
+235,Kyle,Mr. Garrison,4
+236,Mr. Garrison,Mr. Hat,4
+237,Jakovasaur kid 1,Jakovasaur kid 4,1
+238,Jakovasaur kid 1,Kyle,1
+239,Cartman,Jakovasaur kid 1,1
+240,Jakovasaur kid 1,Mr. Hat,1
+241,Jakovasaur kid 4,Kyle,1
+242,Cartman,Jakovasaur kid 4,1
+243,Jakovasaur kid 4,Mr. Hat,1
+244,Kyle,Mr. Hat,1
+245,Cartman,Mr. Hat,1
+246,All,Mr. Garrison,3
+247,Chef,Mr. Garrison,1
+248,Mr. Garrison,Trashman,1
+249,Man 2,Mr. Garrison,1
+250,All,Chef,3
+251,All,Man,9
+252,All,Trashman,3
+253,All,Man 2,3
+254,All,Jimbo,3
+255,Chef,Man,3
+256,Chef,Trashman,1
+257,Chef,Man 2,1
+258,Chef,Mayor,2
+259,Chef,Jimbo,1
+260,Man,Trashman,3
+261,Man 2,Trashman,1
+262,Mayor,Trashman,2
+263,Jimbo,Trashman,1
+264,Jimbo,Man 2,1
+265,Mayor,Men,2
+266,Mayor,Others,2
+267,Liane,Mayor,6
+268,Jakov,Others,7
+269,Jakov,Liane,13
+270,Jakov,Jimbo,16
+271,Junjun,Men,1
+272,Junjun,Others,1
+273,Junjun,Liane,1
+274,Men,Others,1
+275,Cartman,Men,6
+276,Liane,Men,1
+277,Jimbo,Men,1
+278,Cartman,Others,6
+279,Liane,Others,1
+280,Jimbo,Others,1
+281,Jimbo,Liane,7
+282,Boy,Jakov,32
+283,Boy,Junjun,4
+284,Boy,Cartman,8
+285,Jakov,Mayo,3
+286,All,Jakov,3
+287,Mayo,Mayor,2
+288,All,Mayo,1
+289,Barbrady,Ned,10
+290,Jakov,Ned,14
+291,Barbrady,Mayor,118
+292,Barbrady,Jakov,86
+293,Kenny,Stan,2
+294,Kenny,Kyle,3
+295,Cartman,Kenny,3
+296,Crowd,Jakov,6
+297,Cartman,Crowd,12
+298,Crowd,Jimbo,6
+299,Crowd,Liane,4
+300,Crowd,Mayor,4
+301,Crowd,Ned,4
+302,Crowd,Kyle,2
+303,Crowd,Stan,2
+304,Liane,Ned,4
+305,Kyle,Liane,2
+306,Liane,Stan,2

@@ -1,0 +1,51 @@
+,source,target,weight
+0,Mr. Mackey,Stan,17
+1,Kyle,Stan,51
+2,Kyle,Mr. Mackey,10
+3,Cartman,Mr. Mackey,11
+4,Cartman,Kyle,43
+5,Cartman,Stan,27
+6,Mr. Mackey,Principal Victoria,34
+7,Boys,Kyle,10
+8,Boys,Chef,20
+9,Boys,Stan,6
+10,Boys,Cartman,4
+11,Chef,Kyle,52
+12,Chef,Stan,32
+13,Cartman,Chef,28
+14,Driver 3,Driver 3's Passenger,1
+15,Bartender,Mr. Mackey,5
+16,Angel,Devil,1
+17,Mr. Freely,Mr. Mackey,10
+18,Gerald,Sheila,14
+19,Cartman,Sheila,7
+20,Kyle,Sheila,19
+21,Cartman,Gerald,6
+22,Gerald,Kyle,18
+23,Hobo,Mr. Mackey,16
+24,Clerk,Kyle,30
+25,Clerk,Ike,5
+26,Ike,Kyle,7
+27,Teen 1,Teen 2,9
+28,Mr. Mackey,Teen 1,16
+29,Mr. Mackey,Teen 2,8
+30,Boys,Mr. Mackey,4
+31,Jimbo,Mr. Mackey,12
+32,Blonde,Mr. Mackey,10
+33,Blonde,Jimbo,4
+34,Clerk,Sheila,1
+35,Barkeep,Ike,1
+36,Blonde,Mackey,3
+37,Jimbo,Principal Victoria,2
+38,Jimbo,Mr. Garrison,1
+39,Mr. Garrison,Mr. Mackey,2
+40,Mr. Garrison,Principal Victoria,2
+41,Ike,Sheila,2
+42,Ike,Uncle Murray,1
+43,Sheila,Uncle Murray,2
+44,Guest,Sheila,2
+45,Mr. Mackey,Social Worker,12
+46,Dr. Schwartz,Kyle,4
+47,Dr. Schwartz,Sheila,2
+48,Cartman,Dr. Schwartz,2
+49,Dr. Schwartz,Ike,1

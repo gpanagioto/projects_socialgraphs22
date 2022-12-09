@@ -1,0 +1,106 @@
+,source,target,weight
+0,Butters,Stan,6
+1,Butters,Cartman,13
+2,Butters,Kyle,12
+3,Butters,Craig,1
+4,Butters,Tolkien,2
+5,Cartman,Stan,24
+6,Kyle,Stan,20
+7,Craig,Stan,4
+8,Stan,Tolkien,6
+9,Cartman,Kyle,75
+10,Cartman,Craig,6
+11,Cartman,Tolkien,6
+12,Craig,Kyle,4
+13,Kyle,Tolkien,6
+14,Craig,Tolkien,1
+15,Dr. Doctor,Liane,27
+16,Cartman,Liane,47
+17,Liane,Nurse,5
+18,Liane,Yates,37
+19,Liane,Murphy,22
+20,Liane,Nurse 2,10
+21,Cartman,Dr. Doctor,35
+22,Cartman,Nurse,7
+23,Cartman,Yates,116
+24,Cartman,Murphy,71
+25,Cartman,Nurse 2,14
+26,Dr. Doctor,Nurse,5
+27,Dr. Doctor,Yates,41
+28,Dr. Doctor,Murphy,23
+29,Dr. Doctor,Nurse 2,10
+30,Nurse,Yates,7
+31,Murphy,Nurse,4
+32,Nurse,Nurse 2,2
+33,Murphy,Yates,135
+34,Nurse 2,Yates,14
+35,Murphy,Nurse 2,8
+36,Officer 1,Officer 2,2
+37,Officer 1,Yates,4
+38,Cartman,Officer 1,2
+39,Murphy,Officer 1,2
+40,Officer 2,Yates,2
+41,Cartman,Officer 2,1
+42,Murphy,Officer 2,1
+43,Tom Johansen,Yates,4
+44,Officer 3,Yates,2
+45,Officer 4,Yates,2
+46,Officer 3,Tom Johansen,1
+47,Officer 4,Tom Johansen,1
+48,Officer 3,Officer 4,1
+49,Murphy,Tom Johansen,2
+50,Cartman,Tom Johansen,2
+51,Liane,Tom Johansen,1
+52,Kyle,Yates,38
+53,Kyle,Murphy,22
+54,Butters,Yates,4
+55,Butters,Murphy,2
+56,Cartman,Lou,6
+57,Lou,Officer 5,2
+58,Lou,Officer 6,2
+59,Kyle,Lou,14
+60,Lou,Michael Deets,2
+61,Lou,Murphy,4
+62,Lou,Weird Man,2
+63,Cartman,Officer 5,3
+64,Cartman,Officer 6,3
+65,Cartman,Michael Deets,49
+66,Cartman,Weird Man,3
+67,Officer 5,Officer 6,1
+68,Kyle,Officer 5,3
+69,Michael Deets,Officer 5,1
+70,Murphy,Officer 5,1
+71,Officer 5,Weird Man,1
+72,Kyle,Officer 6,3
+73,Michael Deets,Officer 6,1
+74,Murphy,Officer 6,1
+75,Officer 6,Weird Man,1
+76,Kyle,Michael Deets,3
+77,Kyle,Weird Man,3
+78,Michael Deets,Murphy,8
+79,Michael Deets,Weird Man,1
+80,Murphy,Weird Man,1
+81,Liane,Male Psychic 1,2
+82,Liane,Other psychics,1
+83,Liane,Male Psychic 2,1
+84,Female psychic,Liane,8
+85,Male Psychic 1,Other psychics,2
+86,Cartman,Male Psychic 1,6
+87,Male Psychic 1,Male Psychic 2,2
+88,Female psychic,Male Psychic 1,4
+89,Cartman,Other psychics,3
+90,Male Psychic 2,Other psychics,1
+91,Female psychic,Other psychics,2
+92,Cartman,Male Psychic 2,3
+93,Cartman,Female psychic,10
+94,Female psychic,Male Psychic 2,2
+95,Lou,Yates,4
+96,Kenny,Yates,2
+97,Kenny,Murphy,1
+98,Kenny,Kyle,4
+99,Kenny,Lou,2
+100,Female Detective,Officer 7,1
+101,Female Detective,Yates,1
+102,Officer 7,Yates,1
+103,Dr. Doctor,Kyle,1
+104,Michael Deets,Yates,11

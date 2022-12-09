@@ -1,0 +1,111 @@
+,source,target,weight
+0,Kyle,Stan,81
+1,Butters,Stan,34
+2,Photographer,Stan,18
+3,Cartman,Stan,80
+4,Ms. Choksondik,Stan,4
+5,Butters,Kyle,42
+6,Kyle,Photographer,61
+7,Cartman,Kyle,129
+8,Kyle,Ms. Choksondik,16
+9,Butters,Photographer,7
+10,Butters,Cartman,42
+11,Butters,Ms. Choksondik,37
+12,Cartman,Photographer,55
+13,Ms. Choksondik,Photographer,14
+14,Cartman,Ms. Choksondik,63
+15,Kenny,Ms. Choksondik,14
+16,Cartman,Kenny,14
+17,Butters,Kenny,10
+18,Cartman,Receptionist,35
+19,Martha,Steven,110
+20,Receptionist,Steven,83
+21,Martha,Receptionist,65
+22,Cartman,Martha,32
+23,Cartman,Steven,28
+24,Martha,Stan,28
+25,Stan,Steven,22
+26,Receptionist,Stan,5
+27,Kyle,Martha,26
+28,Kyle,Steven,23
+29,Kyle,Receptionist,4
+30,Stan,Tolkien,4
+31,Linda,Stan,20
+32,Craig,Stan,4
+33,Kyle,Tolkien,3
+34,Butters,Tolkien,6
+35,Linda,Tolkien,5
+36,Craig,Tolkien,1
+37,Kyle,Linda,15
+38,Craig,Kyle,3
+39,Butters,Linda,30
+40,Butters,Craig,6
+41,Craig,Linda,5
+42,Cartman,Mr. Mackey,20
+43,Carol,Martha,24
+44,Carol,Steven,15
+45,Carol,Receptionist,15
+46,Male 1,Male 2,6
+47,Audience,Male 2,2
+48,Cartman,Male 2,4
+49,Jonesy,Male 2,2
+50,Audience,Male 1,3
+51,Cartman,Male 1,6
+52,Jonesy,Male 1,3
+53,Audience,Cartman,2
+54,Audience,Jonesy,1
+55,Cartman,Jonesy,2
+56,President,Steven,42
+57,Mrs. Garthunk,Steven,33
+58,Computer,Steven,12
+59,Martha,President,34
+60,Mrs. Garthunk,President,32
+61,Computer,President,12
+62,Martha,Mrs. Garthunk,27
+63,Computer,Martha,10
+64,Computer,Mrs. Garthunk,74
+65,Cartman,Jimmy,121
+66,Butters,Stephen,40
+67,Butters,Clyde,8
+68,Kyle,Stephen,10
+69,Clyde,Kyle,2
+70,Stan,Stephen,5
+71,Clyde,Stan,1
+72,Clyde,Stephen,5
+73,Ben Affleck,Mrs. Garthunk,1
+74,Cartman,Mrs. Garthunk,6
+75,Mrs. Garthunk,Stan,4
+76,Mr. Garrison,Mrs. Garthunk,1
+77,Mrs. Garthunk,Photographer,1
+78,Kyle,Mrs. Garthunk,5
+79,Motorcycle Driver,Mrs. Garthunk,1
+80,Ben Affleck,President,2
+81,Cartman,President,12
+82,President,Stan,8
+83,Mr. Garrison,President,2
+84,Photographer,President,2
+85,Kyle,President,10
+86,Motorcycle Driver,President,2
+87,Ben Affleck,Steven,3
+88,Ben Affleck,Martha,2
+89,Ben Affleck,Cartman,6
+90,Ben Affleck,Stan,4
+91,Ben Affleck,Mr. Garrison,1
+92,Ben Affleck,Photographer,1
+93,Ben Affleck,Kyle,5
+94,Ben Affleck,Motorcycle Driver,1
+95,Mr. Garrison,Steven,3
+96,Photographer,Steven,3
+97,Motorcycle Driver,Steven,3
+98,Martha,Mr. Garrison,2
+99,Martha,Photographer,2
+100,Martha,Motorcycle Driver,2
+101,Cartman,Mr. Garrison,6
+102,Cartman,Motorcycle Driver,6
+103,Mr. Garrison,Stan,4
+104,Motorcycle Driver,Stan,4
+105,Mr. Garrison,Photographer,1
+106,Kyle,Mr. Garrison,5
+107,Motorcycle Driver,Mr. Garrison,1
+108,Motorcycle Driver,Photographer,1
+109,Kyle,Motorcycle Driver,5

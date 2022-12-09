@@ -1,0 +1,215 @@
+,source,target,weight
+0,Kyle,Stan,94
+1,Cartman,Stan,92
+2,Cartman,Kyle,119
+3,Kenny,Stan,7
+4,Cartman,Kenny,7
+5,Kenny,Kyle,6
+6,Colleague 1,Sam,3
+7,Colleague 2,Sam,6
+8,Colleague 1,Colleague 2,2
+9,Butters,Kyle,4
+10,Butters,Mr. Garrison,1
+11,Kyle,Mr. Garrison,9
+12,Mitchell,Mr. Garrison,1
+13,Jimbo,Mr. Garrison,9
+14,Frank,Mr. Garrison,1
+15,Jimbo,Mitchell,1
+16,Frank,Mitchell,5
+17,Frank,Jimbo,1
+18,Cartman,Mitchell,1
+19,Mitchell,Stan,1
+20,Announcer,Stan,4
+21,Announcer,Cartman,1
+22,Announcer,Kyle,2
+23,Bar Patrons,Frank,2
+24,Bar Patrons,Mitchell,2
+25,Rick Watts,Tom,1
+26,Ms. Choksondik,Stan,12
+27,Stan,Timmy,2
+28,Butters,Stan,2
+29,Kyle,Ms. Choksondik,18
+30,Kyle,Timmy,3
+31,Cartman,Ms. Choksondik,24
+32,Ms. Choksondik,Timmy,6
+33,Butters,Ms. Choksondik,6
+34,Cartman,Timmy,4
+35,Butters,Cartman,4
+36,Butters,Timmy,1
+37,Filmore,Mr. Garrison,1
+38,Filmore,Kindergartners,1
+39,Kindergartners,Mr. Garrison,1
+40,Elderly Man,Principal Victoria,1
+41,Elderly Man,Mr. Mackey,1
+42,Elderly Man,Man,1
+43,Elderly Man,Peter,1
+44,Elderly Man,Woman 1,1
+45,Elderly Man,Woman 2,1
+46,Barbrady,Elderly Man,1
+47,Elderly Man,Man 1,1
+48,Elderly Man,Woman 3,1
+49,Elderly Man,Man 2,1
+50,Elderly Man,Man 3,1
+51,Elderly Man,Woman 4,1
+52,Mr. Mackey,Principal Victoria,1
+53,Man,Principal Victoria,1
+54,Peter,Principal Victoria,1
+55,Principal Victoria,Woman 1,1
+56,Principal Victoria,Woman 2,1
+57,Barbrady,Principal Victoria,1
+58,Man 1,Principal Victoria,1
+59,Principal Victoria,Woman 3,1
+60,Man 2,Principal Victoria,1
+61,Man 3,Principal Victoria,1
+62,Principal Victoria,Woman 4,1
+63,Man,Mr. Mackey,1
+64,Mr. Mackey,Peter,1
+65,Mr. Mackey,Woman 1,1
+66,Mr. Mackey,Woman 2,1
+67,Barbrady,Mr. Mackey,1
+68,Man 1,Mr. Mackey,1
+69,Mr. Mackey,Woman 3,1
+70,Man 2,Mr. Mackey,1
+71,Man 3,Mr. Mackey,1
+72,Mr. Mackey,Woman 4,1
+73,Man,Peter,1
+74,Man,Woman 1,1
+75,Man,Woman 2,1
+76,Barbrady,Man,1
+77,Man,Man 1,1
+78,Man,Woman 3,1
+79,Man,Man 2,1
+80,Man,Man 3,1
+81,Man,Woman 4,1
+82,Peter,Woman 1,1
+83,Peter,Woman 2,1
+84,Barbrady,Peter,1
+85,Man 1,Peter,1
+86,Peter,Woman 3,1
+87,Man 2,Peter,1
+88,Man 3,Peter,1
+89,Peter,Woman 4,1
+90,Woman 1,Woman 2,1
+91,Barbrady,Woman 1,1
+92,Man 1,Woman 1,1
+93,Woman 1,Woman 3,1
+94,Man 2,Woman 1,1
+95,Man 3,Woman 1,1
+96,Woman 1,Woman 4,1
+97,Barbrady,Woman 2,1
+98,Man 1,Woman 2,1
+99,Woman 2,Woman 3,1
+100,Man 2,Woman 2,1
+101,Man 3,Woman 2,1
+102,Woman 2,Woman 4,1
+103,Barbrady,Man 1,1
+104,Barbrady,Woman 3,1
+105,Barbrady,Man 2,1
+106,Barbrady,Man 3,1
+107,Barbrady,Woman 4,1
+108,Man 1,Woman 3,1
+109,Man 1,Man 2,1
+110,Man 1,Man 3,1
+111,Man 1,Woman 4,1
+112,Man 2,Woman 3,1
+113,Man 3,Woman 3,1
+114,Woman 3,Woman 4,1
+115,Man 2,Man 3,1
+116,Man 2,Woman 4,1
+117,Man 3,Woman 4,1
+118,Man 6,Mr. Garrison,4
+119,Man 6,Stan,8
+120,Cartman,Man 6,8
+121,Kyle,Man 6,8
+122,Mr. Garrison,Stan,8
+123,Cartman,Mr. Garrison,8
+124,Director 1,Director 2,8
+125,Director 1,HBC President,31
+126,Director 1,Director 3,8
+127,Director 1,Director 4,7
+128,Director 1,Director 5,2
+129,Director 1,Director 6,2
+130,All,Director 1,2
+131,Director 2,HBC President,19
+132,Director 2,Director 3,4
+133,Director 2,Director 4,4
+134,Director 2,Director 5,1
+135,Director 2,Director 6,1
+136,All,Director 2,1
+137,Director 3,HBC President,12
+138,Director 4,HBC President,14
+139,Director 5,HBC President,3
+140,Director 6,HBC President,3
+141,All,HBC President,3
+142,Director 3,Director 4,8
+143,Director 3,Director 5,4
+144,Director 3,Director 6,4
+145,All,Director 3,4
+146,Director 4,Director 5,2
+147,Director 4,Director 6,2
+148,All,Director 4,2
+149,Director 5,Director 6,1
+150,All,Director 5,1
+151,All,Director 6,1
+152,Kyle,The Boys,6
+153,Chef,The Boys,10
+154,Cartman,The Boys,2
+155,Stan,The Boys,2
+156,Chef,Kyle,52
+157,Cartman,Chef,29
+158,Chef,Stan,39
+159,Kyle,Librarian,10
+160,Chef,Librarian,8
+161,Librarian,Stan,10
+162,Cartman,Librarian,8
+163,Kenny,Librarian,2
+164,Chef,Kenny,4
+165,Chef,Director 1,12
+166,Director 1,Kyle,9
+167,Cartman,Director 1,3
+168,Chef,HBC President,32
+169,HBC President,Kyle,24
+170,Cartman,HBC President,8
+171,Chef,Director 2,8
+172,Director 2,Kyle,6
+173,Cartman,Director 2,2
+174,Chef,Director 4,4
+175,Director 4,Kyle,3
+176,Cartman,Director 4,1
+177,Lead Knight,Stan,7
+178,Chef,Lead Knight,4
+179,Executives,Lead Knight,5
+180,HBC President,Lead Knight,16
+181,Executives,HBC President,3
+182,Kyle,Lead Knight,4
+183,Barker,Chef,18
+184,Barker,Kyle,7
+185,Barker,Stan,23
+186,HBC President,Mimi,2
+187,Barker,Waitress,1
+188,Chef,Sorcerer,10
+189,Barker,Sorcerer,2
+190,Drew,Man 7,4
+191,Drew,Mr. Garrison,8
+192,Drew,Jimbo,4
+193,Man 7,Mr. Garrison,8
+194,Jimbo,Man 7,4
+195,Drew,Lead Knight,1
+196,Drew,HBC President,1
+197,Drew,Mimi,1
+198,Lead Knight,Mimi,1
+199,Sorcerer,Stan,6
+200,Kyle,Sorcerer,3
+201,Cartman,Sorcerer,6
+202,Blond Knight,HBC President,2
+203,Bald Knight,HBC President,2
+204,Bald Knight,Blond Knight,1
+205,Cartman,Lead Knight,2
+206,Cartman,Geldon,2
+207,Geldon,Lead Knight,1
+208,Geldon,Kyle,2
+209,Geldon,Stan,1
+210,Ike,Sheila,1
+211,Gerald,Ike,1
+212,Gerald,Sheila,1
+213,Colleague 1,Mr. Garrison,1

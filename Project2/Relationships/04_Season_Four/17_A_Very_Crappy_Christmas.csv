@@ -1,0 +1,158 @@
+,source,target,weight
+0,Ike,Kyle,3
+1,Ike,Sheila,2
+2,Kyle,Sheila,6
+3,Kyle,Stan,238
+4,Cartman,Stan,82
+5,Cartman,Kyle,113
+6,Kyle,Mr. Hankey,108
+7,Autumn,Kyle,29
+8,Cornwallis,Kyle,6
+9,Amber,Kyle,9
+10,Kyle,Simon,6
+11,Kyle,Siimon,6
+12,Cartman,Mr. Hankey,62
+13,Autumn,Cartman,18
+14,Cartman,Cornwallis,4
+15,Amber,Cartman,4
+16,Cartman,Simon,4
+17,Cartman,Siimon,4
+18,Autumn,Mr. Hankey,109
+19,Cornwallis,Mr. Hankey,102
+20,Amber,Mr. Hankey,25
+21,Mr. Hankey,Simon,14
+22,Mr. Hankey,Siimon,14
+23,Mr. Hankey,Stan,18
+24,Autumn,Cornwallis,31
+25,Amber,Autumn,8
+26,Autumn,Simon,4
+27,Autumn,Siimon,4
+28,Autumn,Stan,6
+29,Amber,Cornwallis,2
+30,Cornwallis,Simon,1
+31,Cornwallis,Siimon,1
+32,Cornwallis,Stan,1
+33,Amber,Simon,1
+34,Amber,Siimon,1
+35,Amber,Stan,1
+36,Siimon,Simon,1
+37,Simon,Stan,1
+38,Siimon,Stan,1
+39,Stan,Woman,2
+40,Stan,Tele's Owner,2
+41,Red,Stan,2
+42,Tele's Owner,Woman,1
+43,Red,Woman,1
+44,Red,Tele's Owner,1
+45,Man,Ms. Choksondik,1
+46,Man 2,Ms. Choksondik,1
+47,Ms. Choksondik,News anchor,2
+48,Assistant,Ms. Choksondik,1
+49,Man,Man 2,2
+50,Man,News anchor,2
+51,Assistant,Man,1
+52,Man 2,News anchor,2
+53,Assistant,Man 2,1
+54,Assistant,News anchor,2
+55,Cartman,Charlie Brown,4
+56,Charlie Brown,Stan,5
+57,Charlie,Charlie Brown,1
+58,Charlie Brown,Kyle,4
+59,Charlie Brown,Kenny,1
+60,Cartman,Charlie,4
+61,Cartman,Kenny,4
+62,Charlie,Stan,5
+63,Kenny,Stan,5
+64,Charlie,Kyle,4
+65,Charlie,Kenny,1
+66,Kenny,Kyle,4
+67,Aide 2,Mayor,4
+68,Aide 2,Kyle,3
+69,Aide 2,Stan,1
+70,Aide 2,The Boys,2
+71,Kyle,Mayor,32
+72,Mayor,Stan,13
+73,Mayor,The Boys,8
+74,Kyle,The Boys,6
+75,Stan,The Boys,2
+76,Kyle,The Nuggets,3
+77,Mr. Hankey,The Nuggets,4
+78,Autumn,The Nuggets,1
+79,Amber,The Nuggets,1
+80,Butters,Stan,12
+81,Butters,The boys,4
+82,Butters,Cartman,12
+83,Butters,Kyle,12
+84,Stan,The boys,15
+85,Cartman,The boys,11
+86,Kyle,The boys,19
+87,Kyle,Sound man,56
+88,Cartman,Sound man,28
+89,Sound man,The boys,14
+90,Sound man,Stan,42
+91,Johnson,Mayor,6
+92,Johnson,Mr. Hankey,21
+93,Autumn,Johnson,9
+94,Cornwallis,Johnson,3
+95,Amber,Johnson,3
+96,Mayor,Mr. Hankey,24
+97,Autumn,Mayor,9
+98,Cornwallis,Mayor,2
+99,Amber,Mayor,2
+100,Cartman,Mayor,11
+101,Man,Mayor,3
+102,Man,Man 3,1
+103,Man,Man 4,1
+104,Man,Mr. Hankey,2
+105,Kyle,Man,4
+106,Aide,Man,1
+107,Man,Stan,1
+108,Cartman,Man,1
+109,Man 2,Mayor,3
+110,Man 3,Mayor,3
+111,Man 4,Mayor,3
+112,Aide,Mayor,3
+113,Man 2,Man 3,1
+114,Man 2,Man 4,1
+115,Man 2,Mr. Hankey,2
+116,Kyle,Man 2,4
+117,Aide,Man 2,1
+118,Man 2,Stan,1
+119,Cartman,Man 2,1
+120,Man 3,Man 4,1
+121,Man 3,Mr. Hankey,2
+122,Kyle,Man 3,4
+123,Aide,Man 3,1
+124,Man 3,Stan,1
+125,Cartman,Man 3,1
+126,Man 4,Mr. Hankey,2
+127,Kyle,Man 4,4
+128,Aide,Man 4,1
+129,Man 4,Stan,1
+130,Cartman,Man 4,1
+131,Aide,Mr. Hankey,2
+132,Aide,Kyle,4
+133,Aide,Stan,1
+134,Aide,Cartman,1
+135,Jesus,Santa,2
+136,Man 5,Mr. Mackey,1
+137,Man 5,Mayor,3
+138,Man 5,Ms. Choksondik,1
+139,Kyle,Man 5,2
+140,Man 5,Mr. Hankey,1
+141,Autumn,Man 5,1
+142,Man 5,Stan,2
+143,Cartman,Man 5,2
+144,Mayor,Mr. Mackey,3
+145,Mr. Mackey,Ms. Choksondik,1
+146,Kyle,Mr. Mackey,2
+147,Mr. Hankey,Mr. Mackey,1
+148,Autumn,Mr. Mackey,1
+149,Mr. Mackey,Stan,2
+150,Cartman,Mr. Mackey,2
+151,Mayor,Ms. Choksondik,3
+152,Kyle,Ms. Choksondik,2
+153,Mr. Hankey,Ms. Choksondik,1
+154,Autumn,Ms. Choksondik,1
+155,Ms. Choksondik,Stan,2
+156,Cartman,Ms. Choksondik,2

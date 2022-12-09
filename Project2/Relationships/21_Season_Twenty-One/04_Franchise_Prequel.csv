@@ -1,0 +1,119 @@
+,source,target,weight
+0,Doctor,Jimmy,1
+1,Jimmy,Woman 1,4
+2,Cartman,Jimmy,42
+3,Jimmy,Stan,8
+4,Jimmy,Tolkien,6
+5,Cartman,Woman 1,2
+6,Stan,Woman 1,1
+7,Tolkien,Woman 1,1
+8,Cartman,Stan,44
+9,Cartman,Tolkien,6
+10,Stan,Tolkien,1
+11,Cartman,Clyde,7
+12,Clyde,Stan,4
+13,Clyde,Kyle,2
+14,Clyde,Craig,3
+15,Cartman,Kyle,38
+16,Cartman,Craig,15
+17,Kyle,Stan,12
+18,Craig,Stan,9
+19,Craig,Kyle,3
+20,Butters,Cartman,24
+21,Butters,Stan,26
+22,Butters,Kyle,16
+23,Steve,Thomas,4
+24,Stephen,Thomas,10
+25,Linda,Thomas,2
+26,Stephen,Steve,5
+27,Linda,Steve,1
+28,Linda,Stephen,3
+29,Adam,Butters,9
+30,Mark,Mr. Mackey,10
+31,Man 2,Mark,10
+32,Mark,Woman 2,5
+33,Man 2,Mr. Mackey,4
+34,Mr. Mackey,Woman 2,2
+35,Man 2,Woman 2,2
+36,Cartman,Wilson,55
+37,Kyle,Wilson,10
+38,Jimmy,Wilson,10
+39,Stan,Wilson,5
+40,Heidi,Wilson,15
+41,Cartman,Heidi,33
+42,Jimmy,Kyle,8
+43,Heidi,Kyle,6
+44,Heidi,Jimmy,6
+45,Heidi,Stan,3
+46,Mrs. Tweak,Richard,5
+47,Mark,Mrs. Tweak,3
+48,Mark,Richard,12
+49,Mark,Stephen,4
+50,Cartman,Operator 1,49
+51,Cartman,Operator 2,7
+52,Operator 1,Operator 2,7
+53,Operator 1,Stan,7
+54,Operator 2,Stan,1
+55,Elderly Man,Elderly Woman,2
+56,Elderly Woman,Mark,1
+57,Elderly Man,Mark,2
+58,Mark,Ryan,2
+59,Adam,Cartman,3
+60,Cartman,Mark,56
+61,Adam,Kyle,1
+62,Adam,Jimmy,2
+63,Adam,Mark,4
+64,Adam,Clyde,1
+65,Adam,Stan,2
+66,Butters,Jimmy,8
+67,Butters,Mark,16
+68,Butters,Clyde,4
+69,Kyle,Mark,16
+70,Jimmy,Mark,32
+71,Clyde,Jimmy,2
+72,Clyde,Mark,4
+73,Mark,Stan,4
+74,Sgt. Yates,Stephen,10
+75,Stephen,The crowd,2
+76,Sgt. Yates,Thomas,10
+77,The crowd,Thomas,2
+78,Sgt. Yates,Steve,5
+79,Steve,The crowd,1
+80,Sgt. Yates,The crowd,5
+81,Kenny,Kyle,1
+82,Cartman,Kenny,1
+83,Barkley,Mark,48
+84,Barkley,Jimmy,8
+85,Barkley,Tolkien,4
+86,Barkley,Kyle,4
+87,Barkley,Thomas,4
+88,Barkley,Coon Friends,4
+89,Barkley,Cartman,16
+90,Mark,Tolkien,12
+91,Mark,Thomas,12
+92,Coon Friends,Mark,12
+93,Jimmy,Thomas,2
+94,Coon Friends,Jimmy,2
+95,Kyle,Tolkien,1
+96,Thomas,Tolkien,1
+97,Coon Friends,Tolkien,1
+98,Kyle,Thomas,1
+99,Coon Friends,Kyle,1
+100,Coon Friends,Thomas,1
+101,Cartman,Thomas,4
+102,Cartman,Coon Friends,4
+103,Butters,Worker 1,4
+104,Butters,Worker 2,4
+105,Butters,Stephen,4
+106,Worker 1,Worker 2,1
+107,Adam,Worker 1,1
+108,Cartman,Worker 1,1
+109,Stan,Worker 1,1
+110,Stephen,Worker 1,1
+111,Adam,Worker 2,1
+112,Cartman,Worker 2,1
+113,Stan,Worker 2,1
+114,Stephen,Worker 2,1
+115,Adam,Stephen,1
+116,Cartman,Stephen,1
+117,Stan,Stephen,1

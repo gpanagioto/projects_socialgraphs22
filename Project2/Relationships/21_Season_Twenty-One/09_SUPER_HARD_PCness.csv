@@ -1,0 +1,88 @@
+,source,target,weight
+0,President,Terrance,8
+1,Phillip,Terrance,10
+2,Phillip,President,12
+3,Stan,Tweek,3
+4,Cartman,Stan,11
+5,Heidi,Stan,15
+6,Kyle,Stan,11
+7,Stan,Wendy,1
+8,Craig,Stan,2
+9,Kids,Stan,1
+10,Butters,Stan,1
+11,Cartman,Tweek,5
+12,Heidi,Tweek,6
+13,Kyle,Tweek,5
+14,Tweek,Wendy,1
+15,Craig,Tweek,2
+16,Kids,Tweek,1
+17,Butters,Tweek,1
+18,Cartman,Heidi,36
+19,Cartman,Kyle,12
+20,Cartman,Wendy,5
+21,Cartman,Craig,10
+22,Cartman,Kids,5
+23,Butters,Cartman,5
+24,Heidi,Kyle,16
+25,Heidi,Wendy,6
+26,Craig,Heidi,12
+27,Heidi,Kids,6
+28,Butters,Heidi,6
+29,Kyle,Wendy,2
+30,Craig,Kyle,4
+31,Kids,Kyle,2
+32,Butters,Kyle,2
+33,Craig,Wendy,2
+34,Kids,Wendy,1
+35,Butters,Wendy,1
+36,Craig,Kids,2
+37,Butters,Craig,2
+38,Butters,Kids,1
+39,PC Principal,Strong Woman,117
+40,Announcer 2,Phillip,1
+41,Announcer 2,Terrance,2
+42,Announcer 2,Stan,3
+43,Announcer 2,Cartman,2
+44,Announcer 2,Heidi,3
+45,Announcer 2,Canadian Mexican,1
+46,Announcer 2,Kyle,1
+47,Phillip,Stan,3
+48,Cartman,Phillip,2
+49,Heidi,Phillip,3
+50,Canadian Mexican,Phillip,1
+51,Kyle,Phillip,2
+52,Stan,Terrance,6
+53,Cartman,Terrance,4
+54,Heidi,Terrance,6
+55,Canadian Mexican,Terrance,2
+56,Kyle,Terrance,4
+57,Canadian Mexican,Stan,3
+58,Canadian Mexican,Cartman,2
+59,Canadian Mexican,Heidi,3
+60,Canadian Mexican,Kyle,1
+61,Mr. Mackey,Strong Woman,8
+62,Strong Woman,Substitute Teacher,3
+63,Mr. Mackey,Substitute Teacher,2
+64,Mr. Mackey,PC Principal,40
+65,PC Principal,Substitute Teacher,1
+66,Doctor,PC Principal,30
+67,Kyle,Strong Woman,30
+68,Anchor Tom,Kyle,36
+69,Kyle,Minister of Streaming,144
+70,Anchor Tom,Minister of Streaming,36
+71,Miss Conduct,Mr. Mackey,108
+72,Girl,Terrance,2
+73,Girl,Phillip,1
+74,Girl,Kyle,1
+75,Kyle,M.A.C. Protester 1,7
+76,M.A.C. Protester 1,Stan,2
+77,M.A.C. Protester 1,Tweek,1
+78,Garrison,Minister of Streaming,9
+79,Miss Conduct,Strong Woman,3
+80,Miss Conduct,Mr. Adler,3
+81,Miss Conduct,PC Principal,3
+82,Mr. Adler,Mr. Mackey,2
+83,Mr. Adler,Strong Woman,1
+84,Mr. Adler,PC Principal,1
+85,Garrison,Kyle,12
+86,Garrison,M.A.C. Protester 1,3

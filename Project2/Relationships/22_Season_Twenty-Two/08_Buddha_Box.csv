@@ -1,0 +1,43 @@
+,source,target,weight
+0,Cartman,Doctor,17
+1,Ms. Blaze,PC Principal,2
+2,Mr. Mackey,PC Principal,9
+3,PC Principal,Strong Woman,93
+4,Cartman,Diner,2
+5,Cartman,Pedestrian,6
+6,Kyle,Stan,4
+7,Cartman,Craig,16
+8,Cartman,Mrs. Nelson,2
+9,Mrs. Nelson,Ms. Nelson,1
+10,Cartman,Ms. Nelson,2
+11,Cartman,PC Principal,20
+12,All,Lead Singer,1
+13,Mike,Patron 2,2
+14,Barkeep,Mike,4
+15,Mike,Patron 1,4
+16,Barkeep,Patron 2,2
+17,Patron 1,Patron 2,2
+18,Barkeep,Patron 1,4
+19,Cartman,Tolkien,10
+20,Kyle,Tolkien,4
+21,Cartman,Kyle,21
+22,Doctor,Tweek,3
+23,Liane,Tweek,1
+24,Cartman,Tweek,4
+25,Tolkien,Tweek,1
+26,Doctor,Liane,3
+27,Doctor,Tolkien,3
+28,Cartman,Liane,4
+29,Liane,Tolkien,1
+30,Foreman,Laborer 1,16
+31,Desk Officer,Strong Woman,41
+32,Both,Strong Woman,8
+33,Both,Desk Officer,5
+34,Desk Officer,PC Principal,17
+35,Both,PC Principal,3
+36,Cartman,Stan,3
+37,Cartman,Mayor McDaniels,2
+38,Johnson,Mayor McDaniels,1
+39,Cartman,Johnson,2
+40,PC Principal,Record Producer,8
+41,Record Producer,Strong Woman,10

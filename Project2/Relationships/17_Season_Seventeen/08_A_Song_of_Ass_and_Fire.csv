@@ -1,0 +1,70 @@
+,source,target,weight
+0,Narrator,Stuart,1
+1,Cartman,Scott,10
+2,Butters,Cartman,53
+3,Cartman,Kyle,53
+4,Butters,Scott,75
+5,Kyle,Scott,6
+6,Butters,Kyle,3
+7,Ballmer,John,12
+8,Ballmer,Dave,16
+9,Dave,John,12
+10,Niles,Tom,7
+11,Guard 3,Guard 4,1
+12,Guard 3,Guard 5,1
+13,Guard 3,Guard 6,1
+14,Guard 3,Guard 7,1
+15,Guard 3,Guard 8,1
+16,Guard 4,Guard 5,1
+17,Guard 4,Guard 6,1
+18,Guard 4,Guard 7,1
+19,Guard 4,Guard 8,1
+20,Guard 5,Guard 6,1
+21,Guard 5,Guard 7,1
+22,Guard 5,Guard 8,1
+23,Guard 6,Guard 7,1
+24,Guard 6,Guard 8,1
+25,Guard 7,Guard 8,1
+26,Shopper 6,Shopper 7,2
+27,Butters,Thompson,12
+28,Cartman,Thompson,45
+29,Ballmer,Secretary,5
+30,Gates,Secretary,5
+31,Ballmer,Gates,25
+32,Butler,Scott,16
+33,George R. R. Martin,Scott,48
+34,Butler,Butters,52
+35,Butters,George R. R. Martin,112
+36,Butler,George R. R. Martin,24
+37,Kyle,Thompson,12
+38,Niles,Tammy,10
+39,Tammy,Tom,3
+40,Gates,Tom,2
+41,Gates,Tammy,2
+42,Gates,Niles,4
+43,Cartman,Mrs. McCormick,2
+44,Cartman,Other kids,5
+45,Other kids,Stan,7
+46,Kenny,Other kids,3
+47,Kyle,Other kids,2
+48,Cartman,Stan,35
+49,Cartman,Kenny,15
+50,Kenny,Stan,21
+51,Kyle,Stan,14
+52,Kenny,Kyle,6
+53,Cartman,Gates,12
+54,Gates,Thompson,6
+55,Niles,President,12
+56,Chorus,Soloist,9
+57,Chorus,Scott,9
+58,Chorus,George R. R. Martin,18
+59,Butters,Chorus,15
+60,Scott,Soloist,9
+61,George R. R. Martin,Soloist,18
+62,Butters,Soloist,15
+63,Aide,President,4
+64,Aide,Craig,2
+65,Aide,Kenny,2
+66,Craig,President,2
+67,Kenny,President,2
+68,Craig,Kenny,1

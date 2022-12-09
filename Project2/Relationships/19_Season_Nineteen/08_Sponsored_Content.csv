@@ -1,0 +1,108 @@
+,source,target,weight
+0,Butters,Stan,2
+1,Butters,Kyle,2
+2,Butters,PC Principal,2
+3,Kyle,Stan,4
+4,PC Principal,Stan,4
+5,Kyle,PC Principal,4
+6,Jimmy,PC Principal,81
+7,PC Principal,PC bro 10,1
+8,Jimmy,PC bro 10,1
+9,PC Principal,PC bro 4,2
+10,PC bro 4,PC bro 9,1
+11,PC bro 11,PC bro 4,1
+12,PC bro 4,PC bros,1
+13,PC Principal,PC bro 9,6
+14,PC Principal,PC bro 11,36
+15,PC Principal,PC bros,2
+16,PC bro 11,PC bro 9,1
+17,PC bro 9,PC bros,1
+18,PC bro 11,PC bros,1
+19,Jimmy,Nathan,24
+20,Jimmy,Topher,4
+21,Nathan,PC Principal,34
+22,PC Principal,Topher,10
+23,Nathan,Topher,4
+24,Mr. Mackey,Nathan,4
+25,Jimmy,Mr. Mackey,2
+26,Gerald,Rancher,1
+27,Rancher,Stephen,1
+28,Anchor Tom,Rancher,1
+29,Gerald,Stephen,1
+30,Anchor Tom,Gerald,1
+31,Anchor Tom,Stephen,1
+32,Hillary,Moderator,2
+33,Garrison,Moderator,6
+34,Caitlyn,Moderator,2
+35,Everyone,Moderator,1
+36,Moderator,Principal Victoria,2
+37,Garrison,Hillary,12
+38,Caitlyn,Hillary,4
+39,Everyone,Hillary,2
+40,Hillary,Principal Victoria,4
+41,Caitlyn,Garrison,12
+42,Everyone,Garrison,6
+43,Garrison,Principal Victoria,12
+44,Caitlyn,Everyone,2
+45,Caitlyn,Principal Victoria,6
+46,Everyone,Principal Victoria,2
+47,Jimmy,PC bro 7,1
+48,Brad,PC bro 7,2
+49,Ladies,PC bro 7,1
+50,PC bro 14,PC bro 7,4
+51,Blonde,PC bro 7,3
+52,PC bro 7,PC bros,1
+53,Brad,Jimmy,2
+54,Jimmy,Ladies,1
+55,Jimmy,PC bro 14,4
+56,Blonde,Jimmy,3
+57,Jimmy,PC bros,1
+58,Brad,Ladies,2
+59,Brad,PC bro 14,8
+60,Blonde,Brad,6
+61,Brad,PC bros,2
+62,Ladies,PC bro 14,4
+63,Blonde,Ladies,3
+64,Ladies,PC bros,1
+65,Blonde,PC bro 14,12
+66,PC bro 14,PC bros,4
+67,Blonde,PC bros,3
+68,McKinsey,PC Principal,5
+69,McKinsey,PC bro 15,1
+70,McKinsey,PC bro 11,4
+71,PC Principal,PC bro 15,5
+72,PC bro 11,PC bro 15,4
+73,Jimmy,Representative,42
+74,Barbrady,Jimmy,7
+75,Barbrady,Representative,6
+76,Agent,Jimmy,31
+77,Agent 2,Jimmy,3
+78,Agent,Agent 2,3
+79,PC bro 16,PC bro 17,2
+80,PC Principal,PC bro 16,8
+81,PC bro 16,PC bro 18,2
+82,PC bro 16,Topher,2
+83,PC bro 16,PC bro 9,2
+84,Other Bros,PC bro 16,2
+85,PC Principal,PC bro 17,4
+86,PC bro 17,PC bro 18,1
+87,PC bro 17,Topher,1
+88,PC bro 17,PC bro 9,1
+89,Other Bros,PC bro 17,1
+90,PC Principal,PC bro 18,4
+91,Other Bros,PC Principal,4
+92,PC bro 18,Topher,1
+93,PC bro 18,PC bro 9,1
+94,Other Bros,PC bro 18,1
+95,PC bro 9,Topher,1
+96,Other Bros,Topher,1
+97,Other Bros,PC bro 9,1
+98,Jimmy,Leslie,35
+99,Mr. Garrison,Principal Victoria,2
+100,Caitlyn,Mr. Garrison,1
+101,Nathan,PC bro 11,4
+102,Agent 3,Jimmy,6
+103,Agent,Leslie,4
+104,Agent 3,Leslie,4
+105,Agent,Agent 3,1
+106,PC Principal,PC bro 19,1

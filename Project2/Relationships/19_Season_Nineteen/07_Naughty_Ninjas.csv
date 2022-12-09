@@ -1,0 +1,115 @@
+,source,target,weight
+0,Officer Barbrady,Sgt. Yates,1
+1,Officer 1,Officer Barbrady,1
+2,Officer Barbrady,PC Principal,3
+3,Barbrady,Officer Barbrady,2
+4,Boy,Officer Barbrady,1
+5,Officer 1,Sgt. Yates,1
+6,PC Principal,Sgt. Yates,3
+7,Barbrady,Sgt. Yates,2
+8,Boy,Sgt. Yates,1
+9,Officer 1,PC Principal,3
+10,Barbrady,Officer 1,2
+11,Boy,Officer 1,1
+12,Barbrady,PC Principal,6
+13,Boy,PC Principal,3
+14,Barbrady,Boy,2
+15,Barbrady,Mayor McDaniels,36
+16,Barbrady,Johnson,24
+17,Johnson,Mayor McDaniels,18
+18,Homeless man 2,Stuart,2
+19,Homeless man 3,Stuart,2
+20,Homeless man 2,Homeless man 3,1
+21,Sgt. Yates,Stuart,20
+22,Mitch,Sgt. Yates,4
+23,Carol,Sgt. Yates,8
+24,Mitch,Stuart,5
+25,Carol,Stuart,10
+26,Carol,Mitch,2
+27,Cartman,Stan,31
+28,Kyle,Stan,8
+29,Butters,Stan,8
+30,Cartman,Kyle,26
+31,Butters,Cartman,29
+32,Butters,Kyle,7
+33,Cartman,Tolkien,26
+34,Cartman,Clyde,17
+35,Cartman,Driver,4
+36,Cartman,Passenger,4
+37,Stan,Tolkien,11
+38,Clyde,Stan,4
+39,Driver,Stan,1
+40,Passenger,Stan,1
+41,Clyde,Tolkien,6
+42,Driver,Tolkien,1
+43,Passenger,Tolkien,1
+44,Clyde,Driver,2
+45,Clyde,Passenger,2
+46,Driver,Passenger,1
+47,Barkley,Skeeter,4
+48,Patron,Skeeter,2
+49,Barkley,Patron,2
+50,Cartman,Homeless man 4,5
+51,Kyle,Tolkien,4
+52,Butters,Tolkien,9
+53,Homeless man 4,Tolkien,1
+54,Clyde,Kyle,2
+55,Homeless man 4,Kyle,2
+56,Butters,Clyde,4
+57,Butters,Homeless man 4,2
+58,Clyde,Homeless man 4,1
+59,Cartman,Reporter,4
+60,Anchor,Cartman,4
+61,Butters,Reporter,1
+62,Reporter,Stan,2
+63,Reporter,Tolkien,1
+64,Anchor,Reporter,1
+65,Anchor,Butters,1
+66,Anchor,Stan,2
+67,Anchor,Tolkien,1
+68,Homeless man 5,Mayor McDaniels,2
+69,Gerald,Homeless man 5,2
+70,Homeless man 5,Stephen,3
+71,Gerald,Mayor McDaniels,5
+72,Mayor McDaniels,Stephen,8
+73,Gerald,Stephen,7
+74,Jimmy,Ryan,2
+75,Mayor McDaniels,Sgt. Yates,6
+76,ISIS leader,Stan,3
+77,Butters,ISIS leader,3
+78,Cartman,ISIS leader,9
+79,Barbrady,Stephen,7
+80,Aide,Barbrady,9
+81,Johnson,Stephen,1
+82,Aide,Johnson,2
+83,Aide,Stephen,1
+84,Aide,Mayor McDaniels,3
+85,Kyle,Ninjas,4
+86,Barbrady,Kyle,10
+87,David,Kyle,2
+88,Ninjas,Tolkien,2
+89,Barbrady,Tolkien,5
+90,David,Tolkien,1
+91,Cartman,Ninjas,2
+92,Ninjas,Stan,4
+93,Barbrady,Ninjas,10
+94,David,Ninjas,2
+95,Barbrady,Cartman,5
+96,Cartman,David,1
+97,Barbrady,Stan,10
+98,David,Stan,2
+99,Barbrady,David,5
+100,Homeless man 6,Sgt. Yates,6
+101,Homeless man 6,Mayor McDaniels,2
+102,Homeless man 6,Homeless man 7,4
+103,Homeless man 6,Officer 2,2
+104,Cartman,Homeless man 6,2
+105,Homeless man 7,Sgt. Yates,6
+106,Officer 2,Sgt. Yates,3
+107,Cartman,Sgt. Yates,3
+108,Homeless man 7,Mayor McDaniels,2
+109,Mayor McDaniels,Officer 2,1
+110,Cartman,Mayor McDaniels,1
+111,Homeless man 7,Officer 2,2
+112,Cartman,Homeless man 7,2
+113,Cartman,Officer 2,1

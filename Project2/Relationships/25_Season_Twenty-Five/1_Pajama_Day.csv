@@ -1,0 +1,64 @@
+,source,target,weight
+0,Mr. Garrison,Rick,18
+1,PC Principal,Rick,12
+2,Mr. Garrison,PC Principal,29
+3,Kyle,Stan,2
+4,Cartman,Stan,13
+5,Butters,Stan,3
+6,Stan,Tolkien,2
+7,Clyde,Stan,2
+8,Cartman,Kyle,6
+9,Butters,Kyle,4
+10,Kyle,Tolkien,1
+11,Clyde,Kyle,1
+12,Butters,Cartman,15
+13,Cartman,Tolkien,4
+14,Cartman,Clyde,4
+15,Butters,Tolkien,1
+16,Butters,Clyde,1
+17,Clyde,Tolkien,1
+18,PC Principal,Woman,8
+19,Wendy,Woman,2
+20,Heather,Woman,3
+21,Mr. Mackey,Woman,3
+22,PC Principal,Wendy,58
+23,Heather,PC Principal,24
+24,Mr. Mackey,PC Principal,24
+25,Heather,Wendy,10
+26,Mr. Mackey,Wendy,6
+27,Heather,Mr. Mackey,9
+28,Cartman,Liane,22
+29,Liane,PC Principal,28
+30,Cartman,PC Principal,14
+31,All,Mike,6
+32,All,Frank,4
+33,Frank,Mike,24
+34,Cartman,Heather,5
+35,Butters,Heather,1
+36,Craig,Heather,3
+37,Heather,Jimmy,1
+38,Heather,Stan,1
+39,Cartman,Wendy,22
+40,Cartman,Craig,15
+41,Cartman,Jimmy,5
+42,Butters,Wendy,7
+43,Craig,Wendy,12
+44,Jimmy,Wendy,4
+45,Stan,Wendy,4
+46,Butters,Craig,3
+47,Butters,Jimmy,1
+48,Craig,Jimmy,3
+49,Craig,Stan,3
+50,Jimmy,Stan,1
+51,IHOP Customer,Sarah,8
+52,Kyle,Mr. Garrison,5
+53,Butters,Mr. Garrison,15
+54,Mr. Garrison,Wendy,5
+55,Cartman,Mr. Garrison,10
+56,Kyle,Wendy,1
+57,Kyle,PC Principal,1
+58,Butters,PC Principal,3
+59,IHOP Customer,Yates,4
+60,Mr. Billings,Mrs. Billings,24
+61,Mrs. Billings,Yates,24
+62,Mr. Billings,Yates,36

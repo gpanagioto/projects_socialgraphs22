@@ -1,0 +1,92 @@
+,source,target,weight
+0,Cartman,Mr. Mackey,1
+1,Cartman,Scott,49
+2,Cartman,Sophie,26
+3,Mr. Mackey,Scott,1
+4,Mr. Mackey,Sophie,1
+5,Scott,Sophie,91
+6,Scott,Stan,31
+7,Cartman,Stan,25
+8,Jimmy,Stan,16
+9,Jimmy,Scott,26
+10,Cartman,Jimmy,21
+11,Dispatcher,Scott's Dad,2
+12,Clark,Scott's Dad,2
+13,Clark,Dispatcher,4
+14,Clark,Stephen,5
+15,Pete,Sophie,42
+16,Pete,Scott,36
+17,Clark,Repairman 2,10
+18,Clark,The other workers,10
+19,Repairman 2,The other workers,4
+20,Clark,Dave,7
+21,Dave,Kurt,2
+22,Clark,Kurt,3
+23,Kyle,Stan,6
+24,Dean,Stan,3
+25,Announcer,Stan,3
+26,Sophie,Stan,21
+27,Stan,The Boys,3
+28,Jimmy,Kyle,6
+29,Dean,Kyle,2
+30,Cartman,Kyle,6
+31,Announcer,Kyle,2
+32,Kyle,Scott,8
+33,Kyle,Sophie,6
+34,Kyle,The Boys,2
+35,Dean,Jimmy,3
+36,Announcer,Jimmy,3
+37,Jimmy,Sophie,17
+38,Jimmy,The Boys,3
+39,Cartman,Dean,3
+40,Announcer,Dean,1
+41,Dean,Scott,4
+42,Dean,Sophie,3
+43,Dean,The Boys,1
+44,Announcer,Cartman,3
+45,Cartman,The Boys,3
+46,Announcer,Scott,4
+47,Announcer,Sophie,3
+48,Announcer,The Boys,1
+49,Scott,The Boys,4
+50,Sophie,The Boys,3
+51,Bob White,Both men,1
+52,Bob White,Linda S.,1
+53,Bob White,Stephen,1
+54,Bob White,Clark,1
+55,Bob White,The repairmen,1
+56,Both men,Linda S.,1
+57,Both men,Stephen,1
+58,Both men,Clark,1
+59,Both men,The repairmen,1
+60,Linda S.,Stephen,1
+61,Clark,Linda S.,1
+62,Linda S.,The repairmen,1
+63,Stephen,The repairmen,1
+64,Clark,The repairmen,1
+65,Sheriff,Woman,2
+66,Sheriff,Sophie,8
+67,Sheriff,Sophie's Mom,2
+68,Cartman,Sheriff,8
+69,Jimmy,Sheriff,4
+70,Sheriff,Stan,6
+71,Clyde,Sheriff,2
+72,Scott,Sheriff,10
+73,Sophie,Woman,4
+74,Sophie's Mom,Woman,1
+75,Cartman,Woman,4
+76,Jimmy,Woman,2
+77,Stan,Woman,3
+78,Clyde,Woman,1
+79,Scott,Woman,5
+80,Sophie,Sophie's Mom,4
+81,Clyde,Sophie,4
+82,Cartman,Sophie's Mom,4
+83,Jimmy,Sophie's Mom,2
+84,Sophie's Mom,Stan,3
+85,Clyde,Sophie's Mom,1
+86,Scott,Sophie's Mom,5
+87,Cartman,Clyde,4
+88,Clyde,Jimmy,2
+89,Clyde,Stan,3
+90,Clyde,Scott,5

@@ -1,0 +1,124 @@
+,source,target,weight
+0,PC Principal,Tweek,1
+1,Hannah Williams,Tweek,1
+2,Hannah Williams,PC Principal,1
+3,Craig,Stan,2
+4,Cartman,Craig,22
+5,Craig,Heidi,14
+6,Butters,Craig,4
+7,Craig,Tolkien,2
+8,Cartman,Stan,9
+9,Heidi,Stan,33
+10,Butters,Stan,2
+11,Stan,Tolkien,1
+12,Cartman,Heidi,73
+13,Butters,Cartman,12
+14,Cartman,Tolkien,6
+15,Butters,Heidi,6
+16,Heidi,Tolkien,3
+17,Butters,Tolkien,2
+18,Craig,Tweek,259
+19,Cartman,Kyle,6
+20,Cartman,PC Principal,36
+21,Anchor 1,Tweek,6
+22,Anchor 1,Anchor 2,1
+23,Anchor 1,Craig,3
+24,Anchor 1,Anchor 3,1
+25,Anchor 2,Tweek,6
+26,Anchor 3,Tweek,6
+27,Anchor 2,Craig,3
+28,Anchor 2,Anchor 3,1
+29,Anchor 3,Craig,3
+30,Gary,Lola,2
+31,Richard,Tweek,60
+32,Anchor 4,Tweek,46
+33,Translator,Tweek,10
+34,Anchor 4,Richard,24
+35,Richard,Translator,6
+36,Anchor 4,Translator,4
+37,Driver 1,Wife,9
+38,Gary,Wife,3
+39,Driver 1,Gary,3
+40,Kyle,Stan,1
+41,Anchor 4,Craig,6
+42,Cartman,Shopper,7
+43,Heidi,Shopper,5
+44,Driver 2,Shopper,1
+45,Cartman,Driver 2,7
+46,Driver 2,Heidi,5
+47,Father,Son,1
+48,Attendant,Son,1
+49,Daughter,Son,1
+50,Son,Tweek,6
+51,Craig,Son,6
+52,Attendant,Father,1
+53,Daughter,Father,1
+54,Father,Tweek,6
+55,Craig,Father,6
+56,Attendant,Daughter,1
+57,Attendant,Tweek,6
+58,Attendant,Craig,6
+59,Daughter,Tweek,6
+60,Craig,Daughter,6
+61,Craig,Jimmy,2
+62,Craig,Henry,2
+63,Cartman,Jimmy,5
+64,Henry,Jimmy,1
+65,Heidi,Jimmy,4
+66,Cartman,Henry,5
+67,Heidi,Henry,4
+68,The parents,Townsfolk,2
+69,The Governor,Townsfolk,1
+70,Fourth grade choir,Townsfolk,6
+71,Townsfolk,Townsman,1
+72,McDonald's worker,Townsfolk,1
+73,Doctor,Townsfolk,1
+74,Hillary Clinton,Townsfolk,1
+75,Diner,Townsfolk,1
+76,Nancy,Townsfolk,2
+77,Brian,Townsfolk,1
+78,The Governor,The parents,2
+79,Fourth grade choir,The parents,12
+80,The parents,Townsman,2
+81,McDonald's worker,The parents,2
+82,Doctor,The parents,2
+83,Hillary Clinton,The parents,2
+84,Diner,The parents,2
+85,Nancy,The parents,4
+86,Brian,The parents,2
+87,Fourth grade choir,The Governor,6
+88,The Governor,Townsman,1
+89,McDonald's worker,The Governor,1
+90,Doctor,The Governor,1
+91,Hillary Clinton,The Governor,1
+92,Diner,The Governor,1
+93,Nancy,The Governor,2
+94,Brian,The Governor,1
+95,Fourth grade choir,Townsman,6
+96,Fourth grade choir,McDonald's worker,6
+97,Doctor,Fourth grade choir,6
+98,Fourth grade choir,Hillary Clinton,6
+99,Diner,Fourth grade choir,6
+100,Fourth grade choir,Nancy,12
+101,Brian,Fourth grade choir,6
+102,McDonald's worker,Townsman,1
+103,Doctor,Townsman,1
+104,Hillary Clinton,Townsman,1
+105,Diner,Townsman,1
+106,Nancy,Townsman,2
+107,Brian,Townsman,1
+108,Doctor,McDonald's worker,1
+109,Hillary Clinton,McDonald's worker,1
+110,Diner,McDonald's worker,1
+111,McDonald's worker,Nancy,2
+112,Brian,McDonald's worker,1
+113,Doctor,Hillary Clinton,1
+114,Diner,Doctor,1
+115,Doctor,Nancy,2
+116,Brian,Doctor,1
+117,Diner,Hillary Clinton,1
+118,Hillary Clinton,Nancy,2
+119,Brian,Hillary Clinton,1
+120,Diner,Nancy,2
+121,Brian,Diner,1
+122,Brian,Nancy,2

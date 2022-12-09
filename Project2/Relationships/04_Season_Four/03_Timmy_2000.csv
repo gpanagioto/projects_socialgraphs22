@@ -1,0 +1,294 @@
+,source,target,weight
+0,Kyle,Stan,77
+1,Kyle,Mr. Garrison,28
+2,Cartman,Kyle,46
+3,Kyle,Wendy,2
+4,Kyle,Timmy,30
+5,Mr. Garrison,Stan,42
+6,Cartman,Stan,58
+7,Stan,Wendy,3
+8,Stan,Timmy,46
+9,Cartman,Mr. Garrison,54
+10,Mr. Garrison,Wendy,12
+11,Mr. Garrison,Timmy,78
+12,Cartman,Wendy,4
+13,Cartman,Timmy,34
+14,Timmy,Wendy,6
+15,Mr. Mackey,Timmy,40
+16,Principal Victoria,Timmy,34
+17,Mr. Mackey,Principal Victoria,24
+18,Clinic doctor,Principal Victoria,12
+19,Clinic doctor,Mr. Mackey,12
+20,Clinic doctor,Timmy,30
+21,Kenny,Timmy,2
+22,Other classmates,Timmy,2
+23,Fosse,Timmy,2
+24,Kenny,Mr. Garrison,3
+25,Mr. Garrison,Other classmates,3
+26,Fosse,Mr. Garrison,3
+27,Kenny,Stan,16
+28,Other classmates,Stan,2
+29,Fosse,Stan,2
+30,Kenny,Kyle,13
+31,Kyle,Other classmates,1
+32,Fosse,Kyle,1
+33,Cartman,Kenny,9
+34,Cartman,Other classmates,1
+35,Cartman,Fosse,1
+36,Kenny,Other classmates,1
+37,Fosse,Kenny,1
+38,Fosse,Other classmates,1
+39,Cartman,Clinic doctor,22
+40,Jonesy,Skyler,57
+41,Mark,Skyler,32
+42,Skyler,Timmy,89
+43,Jonesy,Mark,16
+44,Jonesy,Timmy,35
+45,Mark,Timmy,17
+46,Carol,Pharmacist,4
+47,Carol,Sharon,2
+48,Carol,Sheila,2
+49,Carol,Kyle,1
+50,Carol,Liane,4
+51,Carol,Cartman,1
+52,Pharmacist,Sharon,8
+53,Pharmacist,Sheila,8
+54,Kyle,Pharmacist,24
+55,Liane,Pharmacist,16
+56,Cartman,Pharmacist,19
+57,Sharon,Sheila,4
+58,Kyle,Sharon,5
+59,Liane,Sharon,8
+60,Cartman,Sharon,3
+61,Kyle,Sheila,2
+62,Liane,Sheila,8
+63,Cartman,Sheila,2
+64,Kyle,Liane,4
+65,Cartman,Liane,4
+66,Guy in flat top,People in Audience,1
+67,M.C.,People in Audience,4
+68,People in Audience,Singer,1
+69,People in Audience,Skyler,3
+70,People in Audience,Timmy,8
+71,Man 1,People in Audience,1
+72,Man 2,People in Audience,1
+73,Man 3,People in Audience,2
+74,People in Audience,The Lords,3
+75,People in Audience,Stan,3
+76,Kyle,People in Audience,2
+77,Cartman,People in Audience,1
+78,People in Audience,Woman,3
+79,Crowd,People in Audience,2
+80,Jonesy,People in Audience,1
+81,Guy in flat top,M.C.,4
+82,Guy in flat top,Singer,1
+83,Guy in flat top,Skyler,3
+84,Guy in flat top,Timmy,8
+85,Guy in flat top,Man 1,1
+86,Guy in flat top,Man 2,1
+87,Guy in flat top,Man 3,2
+88,Guy in flat top,The Lords,3
+89,Guy in flat top,Stan,3
+90,Guy in flat top,Kyle,2
+91,Cartman,Guy in flat top,1
+92,Guy in flat top,Woman,3
+93,Crowd,Guy in flat top,2
+94,Guy in flat top,Jonesy,1
+95,M.C.,Singer,4
+96,M.C.,Skyler,12
+97,M.C.,Timmy,32
+98,M.C.,Man 1,4
+99,M.C.,Man 2,4
+100,M.C.,Man 3,8
+101,M.C.,The Lords,12
+102,M.C.,Stan,12
+103,Kyle,M.C.,8
+104,Cartman,M.C.,4
+105,M.C.,Woman,12
+106,Crowd,M.C.,8
+107,Jonesy,M.C.,4
+108,Singer,Skyler,3
+109,Singer,Timmy,8
+110,Man 1,Singer,1
+111,Man 2,Singer,1
+112,Man 3,Singer,2
+113,Singer,The Lords,3
+114,Singer,Stan,3
+115,Kyle,Singer,2
+116,Cartman,Singer,1
+117,Singer,Woman,3
+118,Crowd,Singer,2
+119,Jonesy,Singer,1
+120,Man 1,Skyler,3
+121,Man 2,Skyler,3
+122,Man 3,Skyler,6
+123,Skyler,The Lords,13
+124,Skyler,Stan,9
+125,Kyle,Skyler,6
+126,Cartman,Skyler,3
+127,Skyler,Woman,9
+128,Crowd,Skyler,6
+129,Man 1,Timmy,8
+130,Man 2,Timmy,8
+131,Man 3,Timmy,16
+132,The Lords,Timmy,28
+133,Timmy,Woman,24
+134,Crowd,Timmy,16
+135,Man 1,Man 2,1
+136,Man 1,Man 3,2
+137,Man 1,The Lords,3
+138,Man 1,Stan,3
+139,Kyle,Man 1,2
+140,Cartman,Man 1,1
+141,Man 1,Woman,3
+142,Crowd,Man 1,2
+143,Jonesy,Man 1,1
+144,Man 2,Man 3,2
+145,Man 2,The Lords,3
+146,Man 2,Stan,3
+147,Kyle,Man 2,2
+148,Cartman,Man 2,1
+149,Man 2,Woman,3
+150,Crowd,Man 2,2
+151,Jonesy,Man 2,1
+152,Man 3,The Lords,6
+153,Man 3,Stan,6
+154,Kyle,Man 3,4
+155,Cartman,Man 3,2
+156,Man 3,Woman,6
+157,Crowd,Man 3,4
+158,Jonesy,Man 3,2
+159,Stan,The Lords,9
+160,Kyle,The Lords,6
+161,Cartman,The Lords,3
+162,The Lords,Woman,9
+163,Crowd,The Lords,6
+164,Jonesy,The Lords,5
+165,Stan,Woman,9
+166,Crowd,Stan,6
+167,Jonesy,Stan,3
+168,Kyle,Woman,6
+169,Crowd,Kyle,4
+170,Jonesy,Kyle,2
+171,Cartman,Woman,3
+172,Cartman,Crowd,2
+173,Cartman,Jonesy,1
+174,Crowd,Woman,6
+175,Jonesy,Woman,3
+176,Crowd,Jonesy,2
+177,Man,Phil Collins,2
+178,Chef,Kenny,18
+179,Christina Aguilera monster,Kenny,3
+180,Chef,Stan,116
+181,Chef,Kyle,104
+182,Cartman,Chef,62
+183,Chef,Christina Aguilera monster,20
+184,Christina Aguilera monster,Stan,10
+185,Christina Aguilera monster,Kyle,9
+186,Cartman,Christina Aguilera monster,8
+187,Announcer,Kurt Loder,4
+188,Kurt Loder,Phil Collins,8
+189,Kurt Loder,Richard,8
+190,Helen,Kurt Loder,4
+191,Announcer,Phil Collins,2
+192,Announcer,Richard,2
+193,Announcer,Helen,1
+194,Phil Collins,Richard,4
+195,Helen,Phil Collins,2
+196,Helen,Richard,2
+197,Christina Aguilera monster,Mr. Garrison,1
+198,Jonesy,Phil Collins,7
+199,Phil Collins,Timmy,9
+200,Phil Collins,Skyler,42
+201,Phillip,Terrance,1
+202,Stan,Terrance,5
+203,Kyle,Terrance,4
+204,Announcer,Terrance,1
+205,Terrance,The Boys,1
+206,Anchor,Terrance,2
+207,Cartman,Terrance,2
+208,Phillip,Stan,5
+209,Kyle,Phillip,4
+210,Announcer,Phillip,1
+211,Phillip,The Boys,1
+212,Anchor,Phillip,2
+213,Cartman,Phillip,2
+214,Announcer,Stan,5
+215,Stan,The Boys,5
+216,Anchor,Stan,10
+217,Announcer,Kyle,4
+218,Kyle,The Boys,4
+219,Anchor,Kyle,8
+220,Announcer,The Boys,1
+221,Anchor,Announcer,2
+222,Announcer,Cartman,2
+223,Anchor,The Boys,2
+224,Cartman,The Boys,2
+225,Anchor,Cartman,4
+226,Chef,Dr. Shay,32
+227,Chef,Girl,8
+228,Boy 1,Chef,16
+229,Chef,Sharon,8
+230,Chef,Gerald,22
+231,Chef,Parents,16
+232,Dr. Shay,Girl,4
+233,Boy 1,Dr. Shay,8
+234,Dr. Shay,Sharon,4
+235,Dr. Shay,Gerald,4
+236,Dr. Shay,Parents,8
+237,Dr. Shay,Stan,4
+238,Dr. Shay,Kyle,12
+239,Cartman,Dr. Shay,4
+240,Boy 1,Girl,2
+241,Girl,Sharon,1
+242,Gerald,Girl,1
+243,Girl,Parents,2
+244,Girl,Stan,1
+245,Girl,Kyle,3
+246,Cartman,Girl,1
+247,Boy 1,Sharon,2
+248,Boy 1,Gerald,2
+249,Boy 1,Parents,4
+250,Boy 1,Stan,2
+251,Boy 1,Kyle,6
+252,Boy 1,Cartman,2
+253,Gerald,Sharon,1
+254,Parents,Sharon,2
+255,Sharon,Stan,1
+256,Gerald,Parents,2
+257,Gerald,Stan,7
+258,Gerald,Kyle,7
+259,Cartman,Gerald,4
+260,Parents,Stan,2
+261,Kyle,Parents,6
+262,Cartman,Parents,2
+263,Chef,Clinic doctor,98
+264,Clinic doctor,Pharmacist,35
+265,Clinic doctor,Phil Collins,42
+266,Clinic doctor,Stan,42
+267,Clinic doctor,Gerald,7
+268,Christina Aguilera monster,Clinic doctor,7
+269,Clinic doctor,Kyle,28
+270,Audience,Clinic doctor,14
+271,Chef,Pharmacist,70
+272,Chef,Phil Collins,84
+273,Audience,Chef,28
+274,Pharmacist,Phil Collins,30
+275,Pharmacist,Stan,30
+276,Gerald,Pharmacist,5
+277,Christina Aguilera monster,Pharmacist,5
+278,Audience,Pharmacist,10
+279,Phil Collins,Stan,36
+280,Gerald,Phil Collins,6
+281,Cartman,Phil Collins,18
+282,Christina Aguilera monster,Phil Collins,6
+283,Kyle,Phil Collins,24
+284,Audience,Phil Collins,12
+285,Audience,Stan,12
+286,Christina Aguilera monster,Gerald,1
+287,Audience,Gerald,2
+288,Audience,Cartman,6
+289,Audience,Christina Aguilera monster,2
+290,Audience,Kyle,8
+291,Mark,The Lords,3
+292,Phil Collins,The Lords,1

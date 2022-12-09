@@ -1,0 +1,80 @@
+,source,target,weight
+0,Butters,Cartman,16
+1,Cartman,Liane,24
+2,Cartman,Kyle,82
+3,Cartman,Stan,80
+4,Cartman,Sharon,24
+5,Butters,Liane,6
+6,Butters,Kyle,10
+7,Butters,Stan,8
+8,Butters,Sharon,6
+9,Kyle,Liane,15
+10,Liane,Stan,12
+11,Liane,Sharon,9
+12,Kyle,Stan,197
+13,Kyle,Sharon,15
+14,Sharon,Stan,18
+15,Man 1,Woman 1,1
+16,Man 1,Man 2,1
+17,Anchorman,Man 1,1
+18,Kid 1,Man 1,2
+19,Kid 2,Man 1,1
+20,Kid 3,Man 1,1
+21,Kid 4,Man 1,1
+22,Kid 5,Man 1,1
+23,Man 2,Woman 1,1
+24,Anchorman,Woman 1,1
+25,Kid 1,Woman 1,2
+26,Kid 2,Woman 1,1
+27,Kid 3,Woman 1,1
+28,Kid 4,Woman 1,1
+29,Kid 5,Woman 1,1
+30,Anchorman,Man 2,1
+31,Kid 1,Man 2,2
+32,Kid 2,Man 2,1
+33,Kid 3,Man 2,1
+34,Kid 4,Man 2,1
+35,Kid 5,Man 2,1
+36,Anchorman,Kid 1,2
+37,Anchorman,Kid 2,1
+38,Anchorman,Kid 3,1
+39,Anchorman,Kid 4,1
+40,Anchorman,Kid 5,1
+41,Kid 1,Kid 2,2
+42,Kid 1,Kid 3,2
+43,Kid 1,Kid 4,2
+44,Kid 1,Kid 5,2
+45,Kid 2,Kid 3,1
+46,Kid 2,Kid 4,1
+47,Kid 2,Kid 5,1
+48,Kid 3,Kid 4,1
+49,Kid 3,Kid 5,1
+50,Kid 4,Kid 5,1
+51,Kyle,Sheila,2
+52,Gerald,Kyle,4
+53,Kyle,The boys,2
+54,Sheila,Stan,2
+55,Gerald,Sheila,2
+56,Sheila,The boys,1
+57,Cartman,Sheila,1
+58,Gerald,Stan,4
+59,Stan,The boys,2
+60,Gerald,The boys,2
+61,Cartman,Gerald,2
+62,Cartman,The boys,1
+63,Doctor Caroll,Stan,100
+64,Doctor  Caroll,Doctor Caroll,10
+65,Doctor  Caroll,Stan,10
+66,Farmer 2,Farmer friend 2,2
+67,Kenny,Kyle,18
+68,Cartman,Kenny,9
+69,Kenny,Stan,18
+70,Farmer friend 2,Steamy Nicks,4
+71,Farmer friend 2,Sharon,4
+72,Sharon,Steamy Nicks,1
+73,Stan,Waitress,20
+74,Kyle,Waitress,12
+75,Cartman,Waitress,2
+76,Announcer,Stan,2
+77,Announcer,Cartman,1
+78,Announcer,Kyle,1

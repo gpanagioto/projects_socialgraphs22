@@ -1,0 +1,57 @@
+,source,target,weight
+0,Kids,Mr. Garrison,2
+1,Pip,Stan,2
+2,Kyle,Stan,42
+3,Cartman,Stan,33
+4,Kyle,Pip,2
+5,Cartman,Pip,2
+6,Cartman,Kyle,34
+7,Boys,Stu,1
+8,Boys,Kyle,1
+9,Boys,Stan,1
+10,Boys,Cartman,1
+11,Kyle,Stu,5
+12,Stan,Stu,8
+13,Cartman,Stu,1
+14,Mayor McDaniels,Officer Barbrady,12
+15,Jimbo,Stan,16
+16,Ned,Stan,6
+17,Jimbo,Kyle,9
+18,Jimbo,Ned,37
+19,Kyle,Ned,3
+20,Charlie,Mayor McDaniels,14
+21,Aide 2,Mayor McDaniels,10
+22,Aide 1,Aide 2,3
+23,Aide 1,Mayor McDaniels,3
+24,Mr. Garrison,Stan,7
+25,Kyle,Mr. Garrison,5
+26,Cartman,Instructor,15
+27,Mr. Romero,Stan,1
+28,Jimbo,Proprietor,2
+29,Ned,Proprietor,2
+30,Lamb Chop,Shari,1
+31,Guard,Jimbo,12
+32,Kyle,Mayor McDaniels,4
+33,Mayor McDaniels,Stan,1
+34,Cartman,Mayor McDaniels,1
+35,Charlie,Kyle,2
+36,Dr. Katz,Mr. Garrison,48
+37,Mr. Garrison,Mr. Katz,7
+38,Dr. Katz,Mr. Katz,6
+39,Aide 1,Reporter 2,1
+40,Aide 1,Print reporter,1
+41,Aide 1,Reporter 3,1
+42,Aide 1,Reporter 4,1
+43,Print reporter,Reporter 2,1
+44,Reporter 2,Reporter 3,1
+45,Reporter 2,Reporter 4,1
+46,Aide 2,Reporter 2,1
+47,Print reporter,Reporter 3,1
+48,Print reporter,Reporter 4,1
+49,Aide 2,Print reporter,1
+50,Reporter 3,Reporter 4,1
+51,Aide 2,Reporter 3,1
+52,Aide 2,Reporter 4,1
+53,Kyle,Mr. Twig,1
+54,Mr. Garrison,Mr. Twig,1
+55,Mr. Twig,Stan,1

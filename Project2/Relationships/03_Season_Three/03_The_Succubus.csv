@@ -1,0 +1,103 @@
+,source,target,weight
+0,Cartman,Liane,20
+1,Doctor's assistant,Liane,2
+2,Cartman,Doctor's assistant,3
+3,Cartman,Doctor Lout,178
+4,Kenny,Stan,26
+5,Kyle,Stan,162
+6,Cartman,Stan,120
+7,Kenny,Kyle,17
+8,Cartman,Kenny,16
+9,Cartman,Kyle,77
+10,Cartman,Mr. Derp,14
+11,Mr. Derp,Stan,21
+12,Mr. Derp,The Boys,7
+13,Kyle,Mr. Derp,7
+14,Cartman,The Boys,2
+15,Stan,The Boys,3
+16,Kyle,The Boys,1
+17,Chef,Stan,137
+18,Chef,Kyle,107
+19,Chef,Woman,12
+20,Boys,Chef,12
+21,Chef,Veronica,63
+22,Cartman,Chef,50
+23,Stan,Woman,6
+24,Boys,Stan,6
+25,Stan,Veronica,83
+26,Kyle,Woman,4
+27,Boys,Kyle,4
+28,Kyle,Veronica,48
+29,Boys,Woman,1
+30,Veronica,Woman,3
+31,Cartman,Woman,1
+32,Boys,Veronica,3
+33,Boys,Cartman,1
+34,Cartman,Veronica,49
+35,Receptionist,Stan,12
+36,Kyle,Receptionist,4
+37,Kenny,Receptionist,4
+38,Cartman,Receptionist,8
+39,Chef,Kids,16
+40,Kids,Stan,6
+41,Kids,Kyle,6
+42,Kids,Man,2
+43,Cartman,Kids,4
+44,Chef,Man,12
+45,Man,Stan,8
+46,Kyle,Man,7
+47,Cartman,Man,5
+48,Kyle,Mr. Garrison,43
+49,Kyle,Mr. Hat,5
+50,Mr. Garrison,Stan,37
+51,Mr. Garrison,Mr. Hat,8
+52,Mr. Hat,Stan,4
+53,Liane,Stan,9
+54,Chef's dad,Stan,11
+55,Chef's dad,Kyle,8
+56,Chef's mom,Stan,21
+57,Stan,Thomas,45
+58,Chef's mom,Kyle,14
+59,Chef's dad,Chef's mom,21
+60,Chef's mom,Thomas,42
+61,Kyle,Thomas,24
+62,Chef's dad,Thomas,18
+63,Nellie,Thomas,89
+64,Nellie,Stan,29
+65,Liane,Veronica,6
+66,Kyle,Liane,2
+67,Chef,Nellie,15
+68,Chef,Thomas,12
+69,Thomas,Veronica,6
+70,Kyle,Nellie,14
+71,Cartman,Thomas,16
+72,Cartman,Nellie,20
+73,Priest Maxi,Stan,15
+74,Stan,Women,5
+75,Kyle,Priest Maxi,12
+76,Kyle,Women,4
+77,Cartman,Priest Maxi,9
+78,Cartman,Women,3
+79,Chef,Priest Maxi,12
+80,Nellie,Priest Maxi,6
+81,Priest Maxi,Veronica,15
+82,Man,Priest Maxi,3
+83,Priest Maxi,Women,3
+84,Priest Maxi,Thomas,3
+85,Chef,Women,4
+86,Nellie,Veronica,10
+87,Man,Nellie,2
+88,Nellie,Women,2
+89,Man,Veronica,5
+90,Veronica,Women,5
+91,Man,Women,1
+92,Man,Thomas,1
+93,Thomas,Women,1
+94,Cartman,Mr. Garrison,6
+95,Kenny,Nellie,2
+96,Kenny,Thomas,1
+97,Kenny,Mr. Garrison,2
+98,Chef,Kenny,2
+99,Mr. Garrison,Nellie,4
+100,Mr. Garrison,Thomas,2
+101,Chef,Mr. Garrison,7

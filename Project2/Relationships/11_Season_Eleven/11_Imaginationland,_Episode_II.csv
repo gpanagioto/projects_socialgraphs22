@@ -1,0 +1,243 @@
+,source,target,weight
+0,Fanciful Mayor,Stan,2
+1,A Terrorist,Stan,1
+2,Kyle,Stan,36
+3,Butters,Stan,1
+4,Stan,The Boys,1
+5,General Deckter,Stan,84
+6,Stan,Terrorists,1
+7,Rockety Rocket,Stan,1
+8,A Terrorist,Fanciful Mayor,2
+9,Fanciful Mayor,Kyle,2
+10,Butters,Fanciful Mayor,28
+11,Fanciful Mayor,The Boys,2
+12,Fanciful Mayor,General Deckter,2
+13,Fanciful Mayor,Terrorists,2
+14,Fanciful Mayor,Rockety Rocket,2
+15,A Terrorist,Kyle,1
+16,A Terrorist,Butters,1
+17,A Terrorist,The Boys,1
+18,A Terrorist,General Deckter,1
+19,A Terrorist,Terrorists,1
+20,A Terrorist,Rockety Rocket,1
+21,Butters,Kyle,1
+22,Kyle,The Boys,1
+23,General Deckter,Kyle,79
+24,Kyle,Terrorists,1
+25,Kyle,Rockety Rocket,1
+26,Butters,The Boys,1
+27,Butters,General Deckter,1
+28,Butters,Terrorists,1
+29,Butters,Rockety Rocket,1
+30,General Deckter,The Boys,1
+31,Terrorists,The Boys,1
+32,Rockety Rocket,The Boys,1
+33,General Deckter,Terrorists,1
+34,General Deckter,Rockety Rocket,1
+35,Rockety Rocket,Terrorists,1
+36,Butters,Stephen,12
+37,Butters,Cinderella,6
+38,Fanciful Mayor,Stephen,6
+39,Cinderella,Stephen,2
+40,Cinderella,Fanciful Mayor,3
+41,General Deckter,Specialist,35
+42,General Deckter,Tom,21
+43,Kyle,Specialist,15
+44,Kyle,Tom,9
+45,Specialist,Stan,20
+46,Specialist,Tom,15
+47,Stan,Tom,12
+48,Lead tech,Stan,31
+49,Operator,Stan,6
+50,General Deckter,Lead tech,45
+51,General Deckter,Operator,8
+52,Kyle,Lead tech,31
+53,Lead tech,Operator,10
+54,Kyle,Operator,7
+55,Butters,Snarf,16
+56,Butters,Lollipop King,12
+57,Fanciful Mayor,Snarf,4
+58,Fanciful Mayor,Lollipop King,4
+59,Lollipop King,Snarf,11
+60,Freddy Krueger,The Minotaur,5
+61,ManBearPig,The Minotaur,3
+62,Headless Horseman,The Minotaur,3
+63,Squirrelly Squirrel,The Minotaur,15
+64,Critter,The Minotaur,3
+65,Creature from the Black Lagoon,The Minotaur,3
+66,Rabbity Rabbit,The Minotaur,3
+67,Beavery Beaver,The Minotaur,5
+68,Beary Bear,The Minotaur,7
+69,Jason Voorhees,The Minotaur,5
+70,Freddy Krueger,ManBearPig,1
+71,Freddy Krueger,Headless Horseman,1
+72,Freddy Krueger,Squirrelly Squirrel,6
+73,Critter,Freddy Krueger,1
+74,Creature from the Black Lagoon,Freddy Krueger,1
+75,Freddy Krueger,Rabbity Rabbit,1
+76,Beavery Beaver,Freddy Krueger,2
+77,Beary Bear,Freddy Krueger,3
+78,Freddy Krueger,Jason Voorhees,2
+79,Headless Horseman,ManBearPig,1
+80,ManBearPig,Squirrelly Squirrel,3
+81,Critter,ManBearPig,1
+82,Creature from the Black Lagoon,ManBearPig,1
+83,ManBearPig,Rabbity Rabbit,1
+84,Beavery Beaver,ManBearPig,1
+85,Beary Bear,ManBearPig,1
+86,Jason Voorhees,ManBearPig,1
+87,Headless Horseman,Squirrelly Squirrel,3
+88,Critter,Headless Horseman,1
+89,Creature from the Black Lagoon,Headless Horseman,1
+90,Headless Horseman,Rabbity Rabbit,1
+91,Beavery Beaver,Headless Horseman,1
+92,Beary Bear,Headless Horseman,1
+93,Headless Horseman,Jason Voorhees,1
+94,Critter,Squirrelly Squirrel,3
+95,Creature from the Black Lagoon,Squirrelly Squirrel,3
+96,Rabbity Rabbit,Squirrelly Squirrel,3
+97,Beavery Beaver,Squirrelly Squirrel,6
+98,Beary Bear,Squirrelly Squirrel,9
+99,Jason Voorhees,Squirrelly Squirrel,6
+100,Creature from the Black Lagoon,Critter,1
+101,Critter,Rabbity Rabbit,1
+102,Beavery Beaver,Critter,1
+103,Beary Bear,Critter,1
+104,Critter,Jason Voorhees,1
+105,Creature from the Black Lagoon,Rabbity Rabbit,1
+106,Beavery Beaver,Creature from the Black Lagoon,1
+107,Beary Bear,Creature from the Black Lagoon,1
+108,Creature from the Black Lagoon,Jason Voorhees,1
+109,Beavery Beaver,Rabbity Rabbit,1
+110,Beary Bear,Rabbity Rabbit,1
+111,Jason Voorhees,Rabbity Rabbit,1
+112,Beary Bear,Beavery Beaver,3
+113,Beavery Beaver,Jason Voorhees,2
+114,Beary Bear,Jason Voorhees,3
+115,Cartman,Secretary,2
+116,Secretary,Tom,2
+117,Cartman,Tom,1
+118,Snarf,Strawberry Shortcake,4
+119,Snarf,The Minotaur,4
+120,Snarf,Squirrelly Squirrel,6
+121,Freddy Krueger,Snarf,2
+122,Jason Voorhees,Snarf,2
+123,Beavery Beaver,Snarf,2
+124,Deery Deer,Snarf,2
+125,Beary Bear,Snarf,4
+126,Butters,Strawberry Shortcake,2
+127,Butters,The Minotaur,2
+128,Butters,Squirrelly Squirrel,3
+129,Butters,Freddy Krueger,1
+130,Butters,Jason Voorhees,1
+131,Beavery Beaver,Butters,1
+132,Butters,Deery Deer,1
+133,Beary Bear,Butters,2
+134,Lollipop King,Strawberry Shortcake,4
+135,Lollipop King,The Minotaur,4
+136,Lollipop King,Squirrelly Squirrel,6
+137,Freddy Krueger,Lollipop King,2
+138,Jason Voorhees,Lollipop King,2
+139,Beavery Beaver,Lollipop King,2
+140,Deery Deer,Lollipop King,2
+141,Beary Bear,Lollipop King,4
+142,Strawberry Shortcake,The Minotaur,4
+143,Squirrelly Squirrel,Strawberry Shortcake,6
+144,Freddy Krueger,Strawberry Shortcake,2
+145,Jason Voorhees,Strawberry Shortcake,2
+146,Beavery Beaver,Strawberry Shortcake,2
+147,Deery Deer,Strawberry Shortcake,2
+148,Beary Bear,Strawberry Shortcake,4
+149,Deery Deer,The Minotaur,2
+150,Deery Deer,Squirrelly Squirrel,3
+151,Deery Deer,Freddy Krueger,1
+152,Deery Deer,Jason Voorhees,1
+153,Beavery Beaver,Deery Deer,1
+154,Beary Bear,Deery Deer,2
+155,General Deckter,Soldiers,8
+156,Kurt Russell,Soldiers,1
+157,Soldiers,Tech 1,1
+158,Soldiers,Tech,1
+159,Kyle,Soldiers,4
+160,Cartman,Soldiers,4
+161,Deckter,Soldiers,1
+162,Soldiers,Stan,1
+163,General Deckter,Kurt Russell,72
+164,General Deckter,Tech 1,8
+165,General Deckter,Tech,8
+166,Cartman,General Deckter,38
+167,Deckter,General Deckter,8
+168,Kurt Russell,Tech 1,1
+169,Kurt Russell,Tech,1
+170,Kurt Russell,Kyle,4
+171,Cartman,Kurt Russell,4
+172,Deckter,Kurt Russell,1
+173,Kurt Russell,Stan,25
+174,Tech,Tech 1,1
+175,Kyle,Tech 1,4
+176,Cartman,Tech 1,4
+177,Deckter,Tech 1,1
+178,Stan,Tech 1,1
+179,Kyle,Tech,4
+180,Cartman,Tech,4
+181,Deckter,Tech,1
+182,Stan,Tech,1
+183,Cartman,Kyle,44
+184,Deckter,Kyle,4
+185,Cartman,Deckter,4
+186,Cartman,Stan,4
+187,Deckter,Stan,1
+188,General Deckter,Tech 3,8
+189,General Deckter,Techs,8
+190,Kurt Russell,Tech 3,8
+191,Kurt Russell,Lead tech,8
+192,Kurt Russell,Techs,8
+193,Lead tech,Tech 3,1
+194,Tech 3,Techs,1
+195,Stan,Tech 3,3
+196,Lead tech,Techs,1
+197,Stan,Techs,3
+198,Guard,Kyle,4
+199,Cartman,Guard,8
+200,Butters,Perseus,24
+201,Lollipop King,Perseus,13
+202,Perseus,Snarf,18
+203,Lead tech,Tech 4,3
+204,Operator,Tech 4,1
+205,General Deckter,Tech 4,2
+206,Kyle,Tech 4,2
+207,Stan,Tech 4,1
+208,Aslan,Zeus,3
+209,Morpheus,Zeus,2
+210,Glinda,Zeus,1
+211,Jesus,Zeus,2
+212,Luke Skywalker,Zeus,2
+213,Popeye,Zeus,1
+214,Perseus,Zeus,1
+215,Aslan,Morpheus,3
+216,Aslan,Glinda,2
+217,Aslan,Jesus,4
+218,Aslan,Luke Skywalker,3
+219,Aslan,Popeye,2
+220,Aslan,Perseus,2
+221,Glinda,Morpheus,1
+222,Jesus,Morpheus,2
+223,Luke Skywalker,Morpheus,2
+224,Morpheus,Popeye,1
+225,Morpheus,Perseus,1
+226,Glinda,Jesus,2
+227,Glinda,Luke Skywalker,1
+228,Glinda,Popeye,1
+229,Glinda,Perseus,1
+230,Jesus,Luke Skywalker,2
+231,Jesus,Popeye,2
+232,Jesus,Perseus,2
+233,Luke Skywalker,Popeye,1
+234,Luke Skywalker,Perseus,1
+235,Perseus,Popeye,1
+236,Cartman,Paramedic,24
+237,General Deckter,Paramedic,4
+238,Butters,Zeus,2
+239,Butters,Morpheus,2
+240,Butters,Luke Skywalker,2
+241,Aslan,Butters,2

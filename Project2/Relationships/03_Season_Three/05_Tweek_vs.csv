@@ -1,0 +1,121 @@
+,source,target,weight
+0,Mr. Adler,Stan,93
+1,Cartman,Stan,165
+2,Kyle,Stan,137
+3,Stan,Tweek,143
+4,Craig,Stan,59
+5,Cartman,Mr. Adler,46
+6,Kyle,Mr. Adler,42
+7,Mr. Adler,Tweek,20
+8,Craig,Mr. Adler,16
+9,Cartman,Kyle,129
+10,Cartman,Tweek,102
+11,Cartman,Craig,117
+12,Kyle,Tweek,105
+13,Craig,Kyle,40
+14,Craig,Tweek,46
+15,Kenny,Wendy,8
+16,Kenny,Woman,6
+17,Wendy,Woman,1
+18,Cartman,Kenny,12
+19,Bebe,Cartman,4
+20,Annie,Cartman,4
+21,Cartman,Clyde,32
+22,Cartman,Tolkien,4
+23,Kenny,Kyle,14
+24,Bebe,Kyle,5
+25,Annie,Kyle,5
+26,Clyde,Kyle,31
+27,Kyle,Tolkien,5
+28,Kenny,Stan,22
+29,Bebe,Stan,3
+30,Annie,Stan,3
+31,Clyde,Stan,17
+32,Stan,Tolkien,3
+33,Bebe,Kenny,14
+34,Annie,Kenny,2
+35,Clyde,Kenny,6
+36,Kenny,Tolkien,2
+37,Annie,Bebe,1
+38,Bebe,Clyde,3
+39,Bebe,Tolkien,1
+40,Annie,Clyde,3
+41,Annie,Tolkien,1
+42,Clyde,Tolkien,3
+43,Mrs. Tweak,Tweek,15
+44,Richard,Tweek,5
+45,Mrs. Tweak,Richard,3
+46,Craig,Thomas,4
+47,Craig,Laura Tucker,2
+48,Laura Tucker,Thomas,2
+49,Mr. Adler,Pearl,20
+50,Fiancée,Pearl,4
+51,Fiancée,Mr. Adler,101
+52,Clyde,Craig,6
+53,Bebe,Pearl,19
+54,Fiancée,Kyle,7
+55,Cartman,Fiancée,7
+56,Clyde,Mr. Adler,20
+57,Clyde,Fiancée,4
+58,Kyle,Wendy,24
+59,Stan,Wendy,32
+60,Cartman,Wendy,32
+61,Craig,Wendy,8
+62,Tweek,Wendy,12
+63,Crowd,Wendy,8
+64,Clyde,Wendy,4
+65,Crowd,Kyle,12
+66,Crowd,Stan,16
+67,Cartman,Crowd,16
+68,Craig,Crowd,4
+69,Crowd,Tweek,6
+70,Clyde,Tweek,5
+71,Clyde,Crowd,2
+72,Jimbo,Tweek,45
+73,Ned,Tweek,25
+74,Jimbo,Ned,45
+75,Jimbo,Stan,9
+76,Jimbo,Kyle,9
+77,Ned,Stan,5
+78,Kyle,Ned,5
+79,Craig,Master,24
+80,Cartman,Master,30
+81,Class,Pearl,18
+82,Bebe,Class,4
+83,Class,Kenny,12
+84,Class,Wendy,2
+85,Kenny,Pearl,54
+86,Pearl,Wendy,9
+87,Bebe,Wendy,2
+88,Fiancée,Stan,24
+89,Stan,Woman,4
+90,Gram'ma,Stan,4
+91,Man,Stan,4
+92,Stan,Uncle Corey,4
+93,Kenny,Mr. Adler,60
+94,Mr. Adler,Woman,15
+95,Gram'ma,Mr. Adler,15
+96,Man,Mr. Adler,15
+97,Mr. Adler,Uncle Corey,15
+98,Cartman,Woman,1
+99,Cartman,Gram'ma,1
+100,Cartman,Man,1
+101,Cartman,Uncle Corey,1
+102,Fiancée,Kenny,24
+103,Gram'ma,Kenny,4
+104,Kenny,Man,4
+105,Kenny,Uncle Corey,4
+106,Kyle,Woman,1
+107,Gram'ma,Kyle,1
+108,Kyle,Man,1
+109,Kyle,Uncle Corey,1
+110,Fiancée,Woman,6
+111,Fiancée,Gram'ma,6
+112,Fiancée,Man,6
+113,Fiancée,Uncle Corey,6
+114,Gram'ma,Woman,1
+115,Man,Woman,1
+116,Uncle Corey,Woman,1
+117,Gram'ma,Man,1
+118,Gram'ma,Uncle Corey,1
+119,Man,Uncle Corey,1

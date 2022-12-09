@@ -1,0 +1,105 @@
+,source,target,weight
+0,Chris,Head waiter,20
+1,Head waiter,Towelie,60
+2,Head waiter,Male diner,30
+3,Chris,Towelie,24
+4,Chris,Male diner,12
+5,Male diner,Towelie,36
+6,Publisher 1,Towelie,25
+7,Joint,Towelie,15
+8,Publisher 2,Towelie,6
+9,Oprah,Towelie,123
+10,Her crotch,Towelie,4
+11,Mingie,Towelie,40
+12,Her crotch,Oprah,8
+13,Mingie,Oprah,85
+14,Her crotch,Mingie,2
+15,A voice,Mingie,8
+16,Gary,Mingie,240
+17,A voice,Gary,6
+18,Dimitri,Geraldo,10
+19,Geraldo,Mingie,100
+20,Gary,Geraldo,110
+21,Dimitri,Mingie,10
+22,Dimitri,Gary,11
+23,Larry King,Towelie,16
+24,Geraldo,Larry King,16
+25,Geraldo,Towelie,16
+26,Aide 1,Aide 2,2
+27,Aide 1,Mingie,3
+28,Aide 1,Gary,2
+29,Aide 1,Oprah,1
+30,Aide 2,Mingie,6
+31,Aide 2,Gary,4
+32,Aide 2,Oprah,2
+33,Gary,Oprah,68
+34,Latino Protesters,Protester 2,1
+35,Protester 2,Towelie,7
+36,Oprah,Protester 2,4
+37,Joint,Protester 2,2
+38,Latino Protesters,Towelie,7
+39,Latino Protesters,Oprah,4
+40,Joint,Latino Protesters,2
+41,Joint,Oprah,8
+42,Man 1,Mingie,4
+43,Man 2,Mingie,4
+44,Man 3,Mingie,4
+45,Audience,Mingie,12
+46,Mingie,Woman,4
+47,Man 4,Mingie,4
+48,Gary,Towelie,34
+49,Gary,Man 1,4
+50,Gary,Man 2,4
+51,Gary,Man 3,4
+52,Audience,Gary,12
+53,Gary,Woman,4
+54,Gary,Man 4,4
+55,Man 1,Oprah,12
+56,Man 2,Oprah,12
+57,Man 3,Oprah,12
+58,Audience,Oprah,36
+59,Oprah,Woman,12
+60,Man 4,Oprah,12
+61,Man 1,Towelie,7
+62,Man 2,Towelie,7
+63,Man 3,Towelie,7
+64,Audience,Towelie,21
+65,Towelie,Woman,7
+66,Man 4,Towelie,7
+67,Man 1,Man 2,1
+68,Man 1,Man 3,1
+69,Audience,Man 1,3
+70,Man 1,Woman,1
+71,Man 1,Man 4,1
+72,Man 2,Man 3,1
+73,Audience,Man 2,3
+74,Man 2,Woman,1
+75,Man 2,Man 4,1
+76,Audience,Man 3,3
+77,Man 3,Woman,1
+78,Man 3,Man 4,1
+79,Audience,Woman,3
+80,Audience,Man 4,3
+81,Man 4,Woman,1
+82,Man 5,Oprah,3
+83,Man 5,Mingie,10
+84,Gary,Man 5,6
+85,Man 5,Officer,3
+86,Man 5,Man 6,1
+87,Man 5,Man 7,1
+88,Man 5,Towelie,1
+89,Officer,Oprah,9
+90,Man 6,Oprah,3
+91,Man 7,Oprah,3
+92,Mingie,Officer,30
+93,Man 6,Mingie,10
+94,Man 7,Mingie,10
+95,Gary,Officer,18
+96,Gary,Man 6,6
+97,Gary,Man 7,6
+98,Man 6,Officer,3
+99,Man 7,Officer,3
+100,Officer,Towelie,3
+101,Man 6,Man 7,1
+102,Man 6,Towelie,1
+103,Man 7,Towelie,1

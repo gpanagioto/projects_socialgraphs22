@@ -1,0 +1,92 @@
+,source,target,weight
+0,Commentator,Dan,18
+1,Dan,Goodell,6
+2,Butters,Dan,12
+3,Dan,Stan,12
+4,Cartman,Dan,6
+5,Dan,Kyle,6
+6,Commentator,Goodell,3
+7,Butters,Commentator,6
+8,Commentator,Stan,6
+9,Cartman,Commentator,3
+10,Commentator,Kyle,3
+11,Butters,Goodell,2
+12,Goodell,Stan,2
+13,Cartman,Goodell,1
+14,Goodell,Kyle,1
+15,Butters,Stan,33
+16,Butters,Cartman,50
+17,Butters,Kyle,19
+18,Cartman,Stan,20
+19,Kyle,Stan,15
+20,Cartman,Kyle,10
+21,Mr. Adler,Mr. Mackey,3
+22,Linda,Mr. Mackey,3
+23,Linda,Mr. Adler,1
+24,Butters,Principal Victoria,6
+25,Clyde,Stan,10
+26,Cartman,Clyde,8
+27,Butters,Clyde,15
+28,Clyde,Kyle,7
+29,Boys,Clyde,2
+30,Boys,Stan,2
+31,Boys,Cartman,6
+32,Boys,Butters,10
+33,Boys,Kyle,2
+34,Goodell,Photographer,1
+35,Announcer,Cheerleaders,2
+36,Announcer,Cheerleader 1,2
+37,Announcer,Cheerleader 2,2
+38,Announcer,Fan 1,2
+39,Announcer,Fan 2,2
+40,Cheerleader 1,Cheerleaders,1
+41,Cheerleader 2,Cheerleaders,1
+42,Cheerleaders,Fan 1,1
+43,Cheerleaders,Fan 2,1
+44,Cheerleader 1,Cheerleader 2,1
+45,Cheerleader 1,Fan 1,1
+46,Cheerleader 1,Fan 2,1
+47,Cheerleader 2,Fan 1,1
+48,Cheerleader 2,Fan 2,1
+49,Fan 1,Fan 2,1
+50,Craig,Stan,4
+51,Craig,Kyle,3
+52,Clyde,Craig,2
+53,Cartman,Craig,2
+54,Butters,Craig,4
+55,A Fangirl,Butters,1
+56,Butters,Red,1
+57,Butters,Stephen,4
+58,Cheerleader 1,Dan,2
+59,Cheerleader 1,Side Judge,1
+60,Dan,Side Judge,2
+61,Reporter 1,Reporter 2,1
+62,Broncos,Manning,2
+63,Jim Rome,Sharon,8
+64,Spectators,Stan,1
+65,Butters,Spectators,2
+66,Cartman,Spectators,1
+67,Clyde,Spectators,1
+68,Doctor,Sharon,4
+69,Butters,Voice-over,2
+70,Jim Rome,Voice-over,2
+71,Tom Brady,Voice-over,2
+72,Singer,Voice-over,2
+73,Voice-Over,Voice-over,2
+74,Butters,Jim Rome,1
+75,Butters,Tom Brady,1
+76,Butters,Singer,1
+77,Butters,Voice-Over,1
+78,Jim Rome,Tom Brady,1
+79,Jim Rome,Singer,1
+80,Jim Rome,Voice-Over,1
+81,Singer,Tom Brady,1
+82,Tom Brady,Voice-Over,1
+83,Singer,Voice-Over,1
+84,Sharon,Stan,24
+85,Mr. Mackey,Stan,6
+86,Mr. Mackey,Sharon,4
+87,Butters,Sharon,4
+88,Cartman,Sharon,4
+89,Butters,Mr. Mackey,1
+90,Cartman,Mr. Mackey,1

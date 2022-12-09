@@ -1,0 +1,191 @@
+,source,target,weight
+0,Mr. Garrison,Principal Victoria,111
+1,Kyle,Mr. Mackey,6
+2,Kids,Kyle,3
+3,Kyle,Mr. Garrison,39
+4,Butters,Kyle,6
+5,Kyle,Mr. Slave,15
+6,Cartman,Kyle,27
+7,Kyle,Stan,37
+8,Kids,Mr. Mackey,2
+9,Mr. Garrison,Mr. Mackey,26
+10,Butters,Mr. Mackey,4
+11,Mr. Mackey,Mr. Slave,10
+12,Cartman,Mr. Mackey,8
+13,Mr. Mackey,Stan,4
+14,Kids,Mr. Garrison,13
+15,Butters,Kids,1
+16,Kids,Mr. Slave,5
+17,Cartman,Kids,4
+18,Kids,Stan,1
+19,Butters,Mr. Garrison,22
+20,Mr. Garrison,Mr. Slave,125
+21,Cartman,Mr. Garrison,52
+22,Mr. Garrison,Stan,16
+23,Butters,Mr. Slave,11
+24,Butters,Cartman,11
+25,Butters,Stan,13
+26,Cartman,Mr. Slave,20
+27,Mr. Slave,Stan,7
+28,Cartman,Stan,19
+29,Gerald,Linda,2
+30,Kyle,Linda,6
+31,Linda,Sheila,8
+32,Linda,Sharon,2
+33,Linda,Stan,6
+34,Linda,Stephen,2
+35,Gerald,Kyle,3
+36,Gerald,Sheila,4
+37,Gerald,Sharon,3
+38,Gerald,Stan,4
+39,Gerald,Stephen,3
+40,Kyle,Sheila,12
+41,Kyle,Sharon,3
+42,Kyle,Stephen,3
+43,Sharon,Sheila,5
+44,Sheila,Stan,14
+45,Sheila,Stephen,6
+46,Sharon,Stan,6
+47,Sharon,Stephen,5
+48,Stan,Stephen,9
+49,Cartman,Tour guide,70
+50,Cartman,Voice,7
+51,Cartman,Janitor,14
+52,Tour guide,Voice,10
+53,Butters,Tour guide,10
+54,Janitor,Tour guide,20
+55,Kyle,Tour guide,10
+56,Stan,Tour guide,14
+57,Butters,Voice,1
+58,Janitor,Voice,2
+59,Kyle,Voice,1
+60,Stan,Voice,1
+61,Butters,Janitor,2
+62,Janitor,Kyle,2
+63,Janitor,Stan,2
+64,Smoker,Stan,2
+65,Richard,Stan,1
+66,Stan,The boys,5
+67,Smoker,Tour guide,8
+68,Gerald,Tour guide,5
+69,Sharon,Tour guide,5
+70,Stephen,Tour guide,8
+71,Richard,Tour guide,4
+72,The boys,Tour guide,4
+73,Gerald,Smoker,2
+74,Sharon,Smoker,2
+75,Smoker,Stephen,4
+76,Richard,Smoker,2
+77,Smoker,The boys,2
+78,Gerald,Richard,1
+79,Gerald,The boys,1
+80,Richard,Sharon,1
+81,Sharon,The boys,1
+82,Richard,Stephen,2
+83,Stephen,The boys,2
+84,Richard,The boys,1
+85,Chef,The boys,9
+86,Kyle,The boys,4
+87,Cartman,The boys,2
+88,Chef,Kyle,36
+89,Chef,Stan,36
+90,Cartman,Chef,18
+91,Mr. Slave,Principal Victoria,3
+92,Frog King,Mr. Slave,7
+93,Frog King,Principal Victoria,1
+94,Frog King,Mr. Garrison,5
+95,Chef,Principal Victoria,18
+96,Chef,Mr. Garrison,12
+97,Liane,Stan,2
+98,Butters,Stephen,4
+99,Butters,Sharon,2
+100,Butters,Liane,2
+101,Butters,Sheila,2
+102,Mr. Mackey,Stephen,2
+103,Liane,Stephen,2
+104,Mr. Mackey,Sharon,1
+105,Liane,Mr. Mackey,1
+106,Mr. Mackey,Sheila,1
+107,Liane,Sharon,1
+108,Liane,Sheila,1
+109,Mr. Slave,Sparrow Prince,5
+110,Mr. Garrison,Sparrow Prince,4
+111,Frog King,Sparrow Prince,1
+112,Camp warden,Kyle,20
+113,Catatafish,Mr. Slave,6
+114,Mr. Slave,Singers,6
+115,Catatafish,Mr. Garrison,4
+116,Mr. Garrison,Singers,4
+117,Catatafish,Singers,4
+118,Camp Soldier,Camp warden,2
+119,Camp Soldier,Kyle,2
+120,Camp Soldier,Stan,4
+121,Butters,Camp Soldier,1
+122,Camp warden,Stan,8
+123,Butters,Camp warden,2
+124,Camp Soldier,Girl 2,3
+125,Cartman,Girl 2,4
+126,Girl 2,The Girls,1
+127,Camp Soldier,Cartman,12
+128,Camp Soldier,The Girls,3
+129,Cartman,The Girls,4
+130,Mr. Garrison,Sharon,7
+131,Man 1,Sharon,1
+132,Mr. Slave,Sharon,3
+133,Man 2,Sharon,1
+134,Man 3,Sharon,1
+135,Audience,Sharon,1
+136,Mr. Garrison,Tour guide,7
+137,Man 1,Tour guide,1
+138,Mr. Slave,Tour guide,3
+139,Man 2,Tour guide,1
+140,Man 3,Tour guide,1
+141,Audience,Tour guide,1
+142,Gerald,Mr. Garrison,12
+143,Man 1,Mr. Garrison,7
+144,Man 2,Mr. Garrison,7
+145,Man 3,Mr. Garrison,17
+146,Audience,Mr. Garrison,7
+147,Gerald,Man 1,1
+148,Gerald,Mr. Slave,4
+149,Gerald,Man 2,1
+150,Gerald,Man 3,3
+151,Audience,Gerald,1
+152,Man 1,Mr. Slave,3
+153,Man 1,Man 2,1
+154,Man 1,Man 3,1
+155,Audience,Man 1,1
+156,Man 2,Mr. Slave,3
+157,Man 3,Mr. Slave,5
+158,Audience,Mr. Slave,3
+159,Man 2,Man 3,1
+160,Audience,Man 2,1
+161,Audience,Man 3,1
+162,Man 4,Mr. Garrison,5
+163,Man 5,Mr. Garrison,5
+164,Man 6,Mr. Garrison,5
+165,Man 7,Mr. Garrison,5
+166,Man 4,Man 5,1
+167,Man 3,Man 4,2
+168,Man 4,Mr. Slave,1
+169,Man 4,Man 6,1
+170,Man 4,Man 7,1
+171,Gerald,Man 4,1
+172,Man 4,Principal Victoria,1
+173,Man 3,Man 5,2
+174,Man 5,Mr. Slave,1
+175,Man 5,Man 6,1
+176,Man 5,Man 7,1
+177,Gerald,Man 5,1
+178,Man 5,Principal Victoria,1
+179,Man 3,Man 6,2
+180,Man 3,Man 7,2
+181,Man 3,Principal Victoria,2
+182,Man 6,Mr. Slave,1
+183,Man 7,Mr. Slave,1
+184,Man 6,Man 7,1
+185,Gerald,Man 6,1
+186,Man 6,Principal Victoria,1
+187,Gerald,Man 7,1
+188,Man 7,Principal Victoria,1
+189,Gerald,Principal Victoria,1
