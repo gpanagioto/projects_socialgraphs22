@@ -1,0 +1,942 @@
+,source,target,weight
+0,Kyle,Stan,523
+1,Cartman,Stan,771
+2,Craig,Stan,5
+3,Jimmy,Stan,55
+4,Butters,Stan,258
+5,Cartman,Kyle,566
+6,Craig,Kyle,33
+7,Jimmy,Kyle,80
+8,Butters,Kyle,245
+9,Cartman,Craig,23
+10,Cartman,Jimmy,363
+11,Butters,Cartman,428
+12,Craig,Jimmy,22
+13,Butters,Craig,20
+14,Butters,Jimmy,80
+15,Kenny,Stan,185
+16,Kenny,Kyle,100
+17,Cartman,Kenny,157
+18,Kenny,Tammy,61
+19,Joe,Jonas Brothers,10
+20,Jonas Brothers,Nick,6
+21,Joe,Nick,34
+22,Kevin,Nick,26
+23,Jonas Brothers,Mr. Slave,1
+24,Kenny,Usher,12
+25,Kenny,Roadie,4
+26,Girl in Puppy T-shirt,Kenny,8
+27,Fat Girl,Kenny,12
+28,Girl in O T-shirt,Kenny,4
+29,Jonas Brothers,Kenny,4
+30,Joe,Kenny,16
+31,Kenny,Nick,16
+32,Kenny,Kevin,16
+33,Kenny,The Girls,4
+34,Tammy,Usher,18
+35,Roadie,Usher,3
+36,Girl in Puppy T-shirt,Usher,6
+37,Fat Girl,Usher,9
+38,Girl in O T-shirt,Usher,3
+39,Jonas Brothers,Usher,3
+40,Joe,Usher,12
+41,Nick,Usher,12
+42,Kevin,Usher,12
+43,The Girls,Usher,3
+44,Roadie,Tammy,6
+45,Girl in Puppy T-shirt,Tammy,12
+46,Fat Girl,Tammy,18
+47,Girl in O T-shirt,Tammy,6
+48,Jonas Brothers,Tammy,6
+49,Joe,Tammy,24
+50,Nick,Tammy,24
+51,Kevin,Tammy,24
+52,Tammy,The Girls,6
+53,Girl in Puppy T-shirt,Roadie,2
+54,Fat Girl,Roadie,3
+55,Girl in O T-shirt,Roadie,1
+56,Jonas Brothers,Roadie,1
+57,Joe,Roadie,6
+58,Nick,Roadie,4
+59,Kevin,Roadie,5
+60,Roadie,The Girls,1
+61,Fat Girl,Girl in Puppy T-shirt,6
+62,Girl in O T-shirt,Girl in Puppy T-shirt,2
+63,Girl in Puppy T-shirt,Jonas Brothers,2
+64,Girl in Puppy T-shirt,Joe,8
+65,Girl in Puppy T-shirt,Nick,8
+66,Girl in Puppy T-shirt,Kevin,8
+67,Girl in Puppy T-shirt,The Girls,2
+68,Fat Girl,Girl in O T-shirt,3
+69,Fat Girl,Jonas Brothers,3
+70,Fat Girl,Joe,12
+71,Fat Girl,Nick,12
+72,Fat Girl,Kevin,12
+73,Fat Girl,The Girls,3
+74,Girl in O T-shirt,Jonas Brothers,1
+75,Girl in O T-shirt,Joe,4
+76,Girl in O T-shirt,Nick,4
+77,Girl in O T-shirt,Kevin,4
+78,Girl in O T-shirt,The Girls,1
+79,Jonas Brothers,Kevin,4
+80,Jonas Brothers,The Girls,1
+81,Joe,Kevin,54
+82,Joe,The Girls,4
+83,Nick,The Girls,4
+84,Kevin,The Girls,4
+85,Director,Joe,11
+86,Director,Kevin,11
+87,Kevin,Mickey,50
+88,Joe,Mickey,70
+89,Director,Mickey,14
+90,Director,Nick,2
+91,Mickey,Nick,17
+92,Host,Joe,30
+93,Host,Mickey,30
+94,Host,Kevin,12
+95,Host,Nick,12
+96,Host,Stan,18
+97,Cartman,Host,12
+98,Host,Kyle,18
+99,Joe,Stan,17
+100,Cartman,Joe,10
+101,Joe,Kyle,17
+102,Mickey,Stan,23
+103,Cartman,Mickey,13
+104,Kyle,Mickey,20
+105,Kevin,Stan,7
+106,Cartman,Kevin,20
+107,Kevin,Kyle,7
+108,Nick,Stan,6
+109,Cartman,Nick,4
+110,Kyle,Nick,6
+111,Audience,Stan,1
+112,Roadie,Stan,1
+113,Father,Stan,1
+114,Audience,Kyle,1
+115,Kyle,Roadie,1
+116,Father,Kyle,1
+117,Audience,Mickey,5
+118,Mickey,Roadie,5
+119,Father,Mickey,5
+120,Audience,Joe,2
+121,Father,Joe,2
+122,Audience,Kevin,1
+123,Father,Kevin,1
+124,Audience,Roadie,1
+125,Audience,Father,1
+126,Father,Roadie,1
+127,Mickey,Reporter,1
+128,Mickey,Tammy,5
+129,Kenny,Mickey,5
+130,Reporter,Tammy,5
+131,Kenny,Reporter,5
+132,Josh,Lisa,24
+133,Lisa,The Coon,20
+134,Josh,The Coon,30
+135,Sgt. Yates,The Coon,70
+136,M,The Coon,24
+137,M,Mysterion,15
+138,Mysterion,The Coon,56
+139,Maitre D,The Coon,16
+140,Cartman,Liane,4
+141,Anchor,Cartman,15
+142,Cartman,Crowd,10
+143,Cartman,Reporter,11
+144,Anchor,Crowd,3
+145,Anchor,Reporter,6
+146,Crowd,Reporter,2
+147,Mysterion,Sgt. Yates,4
+148,Clyde,Stan,18
+149,Stan,Wendy,27
+150,Cartman,Clyde,101
+151,Cartman,Wendy,103
+152,Clyde,Wendy,11
+153,A Voice,The Coon,36
+154,A Voice,Professor Chaos,27
+155,Professor Chaos,The Coon,152
+156,Kyle,Mysterion,16
+157,Anchor,Professor Chaos,1
+158,General Disarray,The Coon,6
+159,General Disarray,Professor Chaos,8
+160,Mysterion,Professor Chaos,7
+161,General Disarray,Mysterion,2
+162,Professor Chaos,Sgt. Yates,3
+163,Reporter,Sgt. Yates,1
+164,Cartman,Sgt. Yates,1
+165,Professor Chaos,Reporter,3
+166,Cartman,Professor Chaos,3
+167,Reporter,The Coon,4
+168,Mysterion,Reporter,1
+169,Cartman,The Coon,4
+170,Cartman,Mysterion,1
+171,Randy,Stan,234
+172,Benny,Randy,36
+173,Mrs. Farnickle,Randy,3
+174,Benny,Stan,120
+175,Mrs. Farnickle,Stan,10
+176,Benny,Mrs. Farnickle,12
+177,Anchor,Mr. Garrison,2
+178,Anchor,Stephen,2
+179,Anchor,Butters,2
+180,Anchor,Darryl Weathers,2
+181,Mr. Garrison,Stephen,2
+182,Butters,Mr. Garrison,11
+183,Darryl Weathers,Mr. Garrison,1
+184,Butters,Stephen,5
+185,Darryl Weathers,Stephen,1
+186,Butters,Darryl Weathers,1
+187,Randy,Sharon,154
+188,Sharon,Stan,62
+189,Cartman,Randy,11
+190,Clerk,Stan,16
+191,Gerald,Randy,4
+192,Clyde,Kyle,14
+193,Butters,Clyde,54
+194,Receptionist,Stan,5
+195,Josh,Stan,25
+196,Josh,Receptionist,5
+197,Father Maxi,Randy,12
+198,Father Maxi,Skeeter,4
+199,Randy,Skeeter,6
+200,Kyle,Mr. Garrison,21
+201,Stan,Stockbroker,25
+202,Randy,Stephen,27
+203,Father Maxi,Stephen,2
+204,Skeeter,Stephen,1
+205,Cartman,Stephen,2
+206,Cartman,Father Maxi,2
+207,Cartman,Skeeter,1
+208,Darryl,Randy,4
+209,Randy,Sheila,8
+210,Kyle,Randy,12
+211,Dr. Doctor,Randy,4
+212,Darryl,Stephen,2
+213,Sheila,Stephen,4
+214,Kyle,Stephen,5
+215,Dr. Doctor,Stephen,2
+216,Darryl,Sheila,2
+217,Darryl,Kyle,2
+218,Darryl,Dr. Doctor,1
+219,Kyle,Sheila,28
+220,Dr. Doctor,Sheila,2
+221,Dr. Doctor,Kyle,2
+222,Butters,Wendy,54
+223,Red,Wendy,12
+224,Tweek,Wendy,3
+225,Bebe,Wendy,18
+226,Little Girl,Wendy,3
+227,Kyle,Wendy,7
+228,Jimmy,Wendy,13
+229,Jason,Wendy,3
+230,Red,Stan,7
+231,Stan,Tweek,1
+232,Bebe,Stan,16
+233,Little Girl,Stan,1
+234,Jason,Stan,8
+235,Butters,Red,4
+236,Butters,Tweek,6
+237,Bebe,Butters,34
+238,Butters,Little Girl,1
+239,Butters,Jason,4
+240,Clyde,Red,4
+241,Clyde,Tweek,1
+242,Bebe,Clyde,7
+243,Clyde,Little Girl,1
+244,Clyde,Jimmy,9
+245,Clyde,Jason,1
+246,Cartman,Red,12
+247,Red,Tweek,1
+248,Bebe,Red,10
+249,Little Girl,Red,1
+250,Kyle,Red,4
+251,Jimmy,Red,1
+252,Jason,Red,1
+253,Cartman,Tweek,4
+254,Bebe,Cartman,15
+255,Cartman,Little Girl,3
+256,Cartman,Jason,5
+257,Bebe,Tweek,1
+258,Little Girl,Tweek,1
+259,Kyle,Tweek,1
+260,Jimmy,Tweek,3
+261,Jason,Tweek,1
+262,Bebe,Little Girl,1
+263,Bebe,Kyle,4
+264,Bebe,Jimmy,1
+265,Bebe,Jason,1
+266,Kyle,Little Girl,1
+267,Jimmy,Little Girl,1
+268,Jason,Little Girl,1
+269,Jason,Kyle,8
+270,Jason,Jimmy,1
+271,Craig,Jason,2
+272,Announcer,Phillip,1
+273,Katherine,Katie,51
+274,Doctor,Katie,20
+275,Cartman,Katie,8
+276,Butters,Katie,4
+277,Doctor,Katherine,20
+278,Cartman,Katherine,8
+279,Butters,Katherine,4
+280,Cartman,Doctor,10
+281,Butters,Doctor,5
+282,Network President,Terrance,10
+283,Phillip,Terrance,42
+284,Network President,Phillip,4
+285,Annie,Wendy,6
+286,Annie,Stan,4
+287,Annie,Cartman,6
+288,Annie,Clyde,2
+289,Annie,Red,6
+290,Annie,Butters,4
+291,Annie,Kyle,2
+292,Annie,Bebe,6
+293,Stephen,Wendy,1
+294,Stan,Stephen,5
+295,Gerald,Stuart,1
+296,Gerald,Mrs. Testaburger,1
+297,Gerald,Thomas,1
+298,Gerald,Principal Victoria,1
+299,Mrs. Testaburger,Stuart,1
+300,Stuart,Thomas,1
+301,Randy,Stuart,2
+302,Principal Victoria,Stuart,1
+303,Mrs. Testaburger,Thomas,1
+304,Mrs. Testaburger,Randy,2
+305,Mrs. Testaburger,Principal Victoria,1
+306,Randy,Thomas,2
+307,Principal Victoria,Thomas,1
+308,Principal Victoria,Randy,2
+309,Katherine,Regis,9
+310,Katherine,Kelly,3
+311,Katie,Regis,6
+312,Katie,Kelly,2
+313,Kelly,Regis,3
+314,Brian,Network President,1
+315,Brian,Terrance,1
+316,Brian,Phillip,1
+317,Sharon,Shelly,10
+318,Randy,Shelly,11
+319,Shelly,Stan,4
+320,Katherine,Phillip,33
+321,Katherine,Terrance,46
+322,Katie,Phillip,24
+323,Katie,Terrance,34
+324,Cartman,Other Women,2
+325,Cartman,Road Warrior Queef,2
+326,Cartman,Males,2
+327,Other Women,Stan,1
+328,Road Warrior Queef,Stan,1
+329,Males,Stan,1
+330,Other Women,Randy,3
+331,Randy,Road Warrior Queef,3
+332,Males,Randy,3
+333,Other Women,Road Warrior Queef,1
+334,Males,Other Women,1
+335,Males,Road Warrior Queef,1
+336,Mr. Mackey,Randy,1
+337,Cartman,Mr. Mackey,30
+338,Mr. Garrison,Mr. Mackey,1
+339,Mr. Garrison,Randy,4
+340,Cartman,Mr. Garrison,2
+341,Jimmy,Sarah,28
+342,Cartman,Sarah,31
+343,Jimmy,Tolkien,7
+344,Cartman,Tolkien,29
+345,Clyde,Tolkien,6
+346,Stan,Tolkien,12
+347,Butters,Tolkien,14
+348,Peterson,Stephen,1
+349,David Letterman,Paul Shaffer,1
+350,Kanye,Tom Snyder,110
+351,Doctor,Kanye,3
+352,Conan O'Brien,Mencia,1
+353,Cartman,Conan O'Brien,1
+354,Cartman,Mencia,1
+355,Audience,Kanye,2
+356,House,Kanye,6
+357,Butters,Sarah,3
+358,Clyde,Sarah,2
+359,Sarah,Wendy,3
+360,Kanye,Mencia,36
+361,Cartman,Ellen,20
+362,Ellen,Jimmy,12
+363,Jimmy,Kanye,22
+364,Cartman,Kanye,20
+365,Reporter,Stan,1
+366,Official,Stan,12
+367,Mr. Hollis,Stan,8
+368,Official,Randy,18
+369,Mr. Hollis,Randy,16
+370,Mr. Hollis,Official,6
+371,Judge,Mr. Hollis,2
+372,Judge,Randy,13
+373,Anchorman,Emmett,1
+374,Agent Clark,Stan,20
+375,Agent Marx,Stan,10
+376,Agent Clark,Agent Marx,8
+377,Agent Clark,Randy,20
+378,Agent Clark,Sharon,4
+379,Agent Marx,Randy,10
+380,Agent Marx,Sharon,2
+381,General,Randy,14
+382,General,Gordon Brown,1
+383,General,Nicolas Sarkozy,1
+384,General,Taro Aso,1
+385,General,Hu Jintao,1
+386,General,Reporter,1
+387,Alien,General,3
+388,General,Townsman,1
+389,General,McGee-zax,3
+390,General,New Yorker,1
+391,General,Judge,1
+392,Gordon Brown,Randy,32
+393,Nicolas Sarkozy,Randy,20
+394,Randy,Taro Aso,20
+395,Hu Jintao,Randy,25
+396,Randy,Reporter,6
+397,Alien,Randy,18
+398,Randy,Townsman,6
+399,McGee-zax,Randy,89
+400,New Yorker,Randy,6
+401,Gordon Brown,Nicolas Sarkozy,2
+402,Gordon Brown,Taro Aso,3
+403,Gordon Brown,Hu Jintao,3
+404,Gordon Brown,Reporter,1
+405,Alien,Gordon Brown,3
+406,Gordon Brown,Townsman,1
+407,Gordon Brown,McGee-zax,7
+408,Gordon Brown,New Yorker,1
+409,Gordon Brown,Judge,1
+410,Nicolas Sarkozy,Taro Aso,1
+411,Hu Jintao,Nicolas Sarkozy,2
+412,Nicolas Sarkozy,Reporter,1
+413,Alien,Nicolas Sarkozy,3
+414,Nicolas Sarkozy,Townsman,1
+415,McGee-zax,Nicolas Sarkozy,7
+416,New Yorker,Nicolas Sarkozy,1
+417,Judge,Nicolas Sarkozy,1
+418,Hu Jintao,Taro Aso,2
+419,Reporter,Taro Aso,1
+420,Alien,Taro Aso,3
+421,Taro Aso,Townsman,1
+422,McGee-zax,Taro Aso,3
+423,New Yorker,Taro Aso,1
+424,Judge,Taro Aso,1
+425,Hu Jintao,Reporter,1
+426,Alien,Hu Jintao,3
+427,Hu Jintao,Townsman,1
+428,Hu Jintao,McGee-zax,7
+429,Hu Jintao,New Yorker,1
+430,Hu Jintao,Judge,1
+431,Alien,Reporter,3
+432,Reporter,Townsman,1
+433,McGee-zax,Reporter,3
+434,New Yorker,Reporter,1
+435,Judge,Reporter,1
+436,Alien,Townsman,3
+437,Alien,McGee-zax,9
+438,Alien,New Yorker,3
+439,Alien,Judge,3
+440,McGee-zax,Townsman,3
+441,New Yorker,Townsman,1
+442,Judge,Townsman,1
+443,McGee-zax,New Yorker,3
+444,Judge,McGee-zax,6
+445,Judge,New Yorker,1
+446,McGee-zax,Stephen,4
+447,McGee-zax,Stan,24
+448,McGee-zax,Silvio Berlusconi,4
+449,Silvio Berlusconi,Stephen,1
+450,Gordon Brown,Stephen,1
+451,Hu Jintao,Stephen,1
+452,Nicolas Sarkozy,Stephen,1
+453,Randy,Silvio Berlusconi,14
+454,Silvio Berlusconi,Stan,3
+455,Gordon Brown,Stan,3
+456,Hu Jintao,Stan,3
+457,Nicolas Sarkozy,Stan,3
+458,Gordon Brown,Silvio Berlusconi,1
+459,Hu Jintao,Silvio Berlusconi,1
+460,Nicolas Sarkozy,Silvio Berlusconi,1
+461,Judge,Stan,4
+462,General,Stan,3
+463,General,Stephen,2
+464,General,Mr. Garrison,2
+465,Mr. Garrison,Stan,4
+466,Angela Merkel,Randy,2
+467,John Howard,Randy,7
+468,Angela Merkel,Taro Aso,1
+469,John Howard,Taro Aso,2
+470,Angela Merkel,John Howard,1
+471,Randy,Vladimir Putin,7
+472,Luiz Inácio Lula da Silva,Randy,7
+473,Taro Aso,Vladimir Putin,1
+474,Gordon Brown,Vladimir Putin,1
+475,Luiz Inácio Lula da Silva,Vladimir Putin,1
+476,Luiz Inácio Lula da Silva,Taro Aso,1
+477,Gordon Brown,Luiz Inácio Lula da Silva,1
+478,Matti Vanhanen,Taro Aso,3
+479,Matti Vanhanen,Randy,15
+480,Gordon Brown,Matti Vanhanen,3
+481,Gordon Brown,John Howard,1
+482,Hu Jintao,Matti Vanhanen,3
+483,John Howard,Matti Vanhanen,3
+484,Hu Jintao,John Howard,1
+485,Cartman,Gordon,9
+486,Gordon,Kevin,2
+487,Clyde,Gordon,2
+488,Clyde,Kevin,4
+489,Butters,Gordon,3
+490,Butters,Kevin,8
+491,Cartman,Clerk,6
+492,Butters,Clerk,5
+493,Clerk,Clyde,1
+494,Deck Hand,Mr. Leon,1
+495,French Captain,Mr. Leon,3
+496,Cruise Attendant,Mr. Leon,1
+497,Cartman,Mr. Leon,2
+498,Butters,Mr. Leon,1
+499,Deck Hand,French Captain,4
+500,Cruise Attendant,Deck Hand,2
+501,Cartman,Deck Hand,2
+502,Butters,Deck Hand,1
+503,Cruise Attendant,French Captain,14
+504,Cartman,French Captain,46
+505,Butters,French Captain,18
+506,Cartman,Cruise Attendant,18
+507,Butters,Cruise Attendant,7
+508,Sheila,Stan,8
+509,Gerald,Stan,4
+510,Gerald,Kyle,12
+511,Gerald,Sheila,16
+512,Clyde,French Captain,5
+513,Clyde,Cruise Attendant,2
+514,Cartman,Pirates,3
+515,Cartman,Choir,1
+516,Cartman,Ike,25
+517,Choir,Ike,1
+518,Paolo Captain,U.N. Leader,4
+519,French Captain,U.N. Leader,2
+520,Cruise Attendant,U.N. Leader,2
+521,Deck Hand,U.N. Leader,2
+522,French Captain,Paolo Captain,2
+523,Cruise Attendant,Paolo Captain,2
+524,Deck Hand,Paolo Captain,2
+525,Butters,Galeed,21
+526,Butters,Ike,35
+527,Galeed,Ike,15
+528,Ike,Sheila,4
+529,Gerald,Ike,8
+530,Billy Mays,Ike,23
+531,Ike,Kyle,41
+532,Billy Mays,Kyle,23
+533,Dr. Land,Ike,20
+534,Jason,Kris,5
+535,Grant,Jason,40
+536,Grant,Kris,2
+537,Grant,Kyle,5
+538,Grant,Stan,5
+539,Dr. Carroll,Stan,6
+540,Dr. Phillips,Stan,21
+541,Dr. Carroll,Kyle,6
+542,Dr. Phillips,Kyle,36
+543,Cartman,Dr. Carroll,6
+544,Cartman,Dr. Phillips,16
+545,Dr. Carroll,Dr. Phillips,4
+546,Billy Mays,Cartman,6
+547,Billy Mays,Walter Cronkite,15
+548,Billy Mays,Dr. Phillips,15
+549,Billy Mays,Farrah Fawcett,4
+550,Billy Mays,DJ AM,4
+551,Billy Mays,Patrick Swayze,4
+552,Billy Mays,Michael Jackson,16
+553,Billy Mays,Stan,9
+554,Billy Mays,Kenny,3
+555,Cartman,Walter Cronkite,8
+556,Cartman,Farrah Fawcett,2
+557,Cartman,DJ AM,2
+558,Cartman,Patrick Swayze,2
+559,Cartman,Michael Jackson,10
+560,Dr. Phillips,Walter Cronkite,20
+561,Farrah Fawcett,Walter Cronkite,4
+562,DJ AM,Walter Cronkite,9
+563,Patrick Swayze,Walter Cronkite,7
+564,Michael Jackson,Walter Cronkite,20
+565,Stan,Walter Cronkite,12
+566,Kyle,Walter Cronkite,24
+567,Ike,Walter Cronkite,8
+568,Kenny,Walter Cronkite,4
+569,Dr. Phillips,Farrah Fawcett,5
+570,DJ AM,Dr. Phillips,5
+571,Dr. Phillips,Patrick Swayze,5
+572,Dr. Phillips,Michael Jackson,25
+573,Dr. Phillips,Ike,10
+574,Dr. Phillips,Kenny,5
+575,DJ AM,Farrah Fawcett,1
+576,Farrah Fawcett,Patrick Swayze,1
+577,Farrah Fawcett,Michael Jackson,6
+578,Farrah Fawcett,Stan,3
+579,Farrah Fawcett,Kyle,6
+580,Farrah Fawcett,Ike,2
+581,Farrah Fawcett,Kenny,1
+582,DJ AM,Patrick Swayze,2
+583,DJ AM,Michael Jackson,5
+584,DJ AM,Stan,3
+585,DJ AM,Kyle,6
+586,DJ AM,Ike,2
+587,DJ AM,Kenny,1
+588,Michael Jackson,Patrick Swayze,5
+589,Patrick Swayze,Stan,3
+590,Kyle,Patrick Swayze,6
+591,Ike,Patrick Swayze,2
+592,Kenny,Patrick Swayze,1
+593,Michael Jackson,Stan,15
+594,Kyle,Michael Jackson,30
+595,Ike,Michael Jackson,10
+596,Kenny,Michael Jackson,5
+597,Ike,Stan,18
+598,Ike,Kenny,4
+599,Flight Attendant,Passengers,7
+600,DJ AM,Passengers,3
+601,Passengers,Walter Cronkite,7
+602,DJ AM,Flight Attendant,4
+603,Flight Attendant,Walter Cronkite,9
+604,Jessica's Mom,MC,4
+605,Brandy's Mom,Jessica's Mom,2
+606,Jessica's Mom,Kyle,1
+607,Cartman,Jessica's Mom,2
+608,Jessica's Mom,Stan,1
+609,Ike,Jessica's Mom,1
+610,Brandy's Mom,MC,8
+611,Kyle,MC,5
+612,Cartman,MC,9
+613,MC,Stan,6
+614,Ike,MC,5
+615,Brandy's Mom,Kyle,2
+616,Brandy's Mom,Cartman,4
+617,Brandy's Mom,Stan,2
+618,Brandy's Mom,Ike,2
+619,David Carradine,Walter Cronkite,3
+620,Pilot,Walter Cronkite,6
+621,David Carradine,Patrick Swayze,1
+622,Patrick Swayze,Pilot,2
+623,Flight Attendant,Patrick Swayze,1
+624,Passengers,Patrick Swayze,1
+625,Billy Mays,David Carradine,1
+626,Billy Mays,Pilot,2
+627,Billy Mays,Flight Attendant,2
+628,Billy Mays,Passengers,1
+629,David Carradine,Pilot,2
+630,DJ AM,David Carradine,1
+631,David Carradine,Flight Attendant,1
+632,David Carradine,Passengers,1
+633,DJ AM,Pilot,2
+634,Flight Attendant,Pilot,2
+635,Passengers,Pilot,2
+636,Kylie's Mom,Stan,2
+637,Kylie,Stan,2
+638,An Officer,Stan,2
+639,Kylie,Kylie's Mom,1
+640,Kylie's Mom,MC,1
+641,Ike,Kylie's Mom,1
+642,Kenny,Kylie's Mom,1
+643,An Officer,Kylie's Mom,1
+644,Kyle,Kylie's Mom,1
+645,Cartman,Kylie's Mom,1
+646,Kylie,MC,1
+647,Ike,Kylie,1
+648,Kenny,Kylie,1
+649,An Officer,Kylie,1
+650,Kyle,Kylie,1
+651,Cartman,Kylie,1
+652,Kenny,MC,1
+653,An Officer,MC,1
+654,An Officer,Ike,1
+655,An Officer,Kenny,1
+656,An Officer,Kyle,1
+657,An Officer,Cartman,1
+658,Heidi's Mom,Kyle,3
+659,Kyle,Lady Judge,9
+660,Heidi's Mom,Stan,1
+661,Lady Judge,Stan,3
+662,Heidi's Mom,Kenny,1
+663,Cartman,Heidi's Mom,5
+664,Heidi's Mom,Lady Judge,3
+665,Kenny,Lady Judge,3
+666,Cartman,Lady Judge,15
+667,Heidi,Kyle,3
+668,Cartman,Heidi,3
+669,Heidi,Stan,1
+670,Heidi,Ike,2
+671,Bea Arthur,Farrah Fawcett,1
+672,Farrah Fawcett,Others,1
+673,Farrah Fawcett,Flight Attendant,1
+674,Bea Arthur,Others,1
+675,Bea Arthur,Flight Attendant,1
+676,Bea Arthur,Michael Jackson,1
+677,Bea Arthur,Billy Mays,1
+678,Flight Attendant,Others,1
+679,Michael Jackson,Others,1
+680,Billy Mays,Others,1
+681,Flight Attendant,Michael Jackson,1
+682,Clyde,Craig,2
+683,Francis,Jimmy,2
+684,Butters,Francis,5
+685,Francis,Sally,4
+686,Cartman,Francis,1
+687,Francis,Tweek,1
+688,Francis,Kevin,1
+689,Jimmy,Sally,8
+690,Jimmy,Kevin,2
+691,Butters,Sally,50
+692,Cartman,Sally,4
+693,Sally,Tweek,4
+694,Kevin,Sally,4
+695,Kevin,Tweek,1
+696,Butters,Scott,1
+697,Megan,Sally,2
+698,Butters,Megan,2
+699,Murphy,Yates,9
+700,Driver,Yates,11
+701,Butters,Kenny,5
+702,Bishop,Butters,8
+703,Butters,Kids,2
+704,Annie,Kids,1
+705,Bebe,Mr. Garrison,3
+706,Mr. Garrison,Wendy,2
+707,Clyde,Mr. Garrison,1
+708,Bishop,Murphy,2
+709,Bishop,Yates,8
+710,Black bitch,White bitch,2
+711,Butters,Charise,13
+712,Butters,Receptionist,72
+713,Boss,Receptionist,9
+714,Boss,Butters,8
+715,Charise,Sally,9
+716,Sally,Yates,6
+717,Bishop,Sally,3
+718,Charise,Yates,6
+719,Bishop,Charise,3
+720,Butters,Yates,21
+721,Keshawn,Yates,25
+722,Butters,Keshawn,15
+723,Edge,Spectators,3
+724,Darryl,Edge,6
+725,Edge,Obese woman,3
+726,Edge,John Cena,3
+727,Cartman,Edge,9
+728,Edge,Stan,3
+729,Butters,Edge,3
+730,Darryl,Spectators,2
+731,Obese woman,Spectators,1
+732,John Cena,Spectators,1
+733,Cartman,Spectators,7
+734,Spectators,Stan,5
+735,Butters,Spectators,1
+736,Darryl,Obese woman,2
+737,Darryl,John Cena,2
+738,Cartman,Darryl,6
+739,Darryl,Stan,2
+740,Butters,Darryl,2
+741,John Cena,Obese woman,1
+742,Cartman,Obese woman,3
+743,Obese woman,Stan,1
+744,Butters,Obese woman,1
+745,Cartman,John Cena,3
+746,John Cena,Stan,1
+747,Butters,John Cena,1
+748,Coach,Stan,48
+749,Stan,The boys,4
+750,Coach,Kyle,48
+751,Kyle,The boys,4
+752,Butters,Coach,48
+753,Butters,The boys,4
+754,Cartman,Coach,120
+755,Cartman,The boys,10
+756,Coach,The boys,12
+757,Jimmy,Kenny,2
+758,Announcer,Stan,120
+759,Announcer,Kyle,3
+760,Kyle,Spectators,2
+761,Announcer,Cartman,76
+762,Announcer,Spectators,1
+763,Coach,Darryl,12
+764,Boys,Kyle,2
+765,Boys,Cartman,1
+766,Boys,Butters,1
+767,Coach,Principal Victoria,16
+768,Kyle,Tolkien,8
+769,Crowd,Stan,6
+770,Butters,Crowd,2
+771,Announcer,Butters,1
+772,Crowd,Kyle,5
+773,Announcer,Crowd,1
+774,Mr. Conners,Stan,8
+775,Kyle,Mr. Conners,8
+776,Cartman,Mr. Conners,10
+777,Butters,Mr. Conners,4
+778,Crowd,Mr. Conners,2
+779,Stan,Vince,1
+780,Butters,Guard,4
+781,Guard,Mr. Conners,2
+782,Chet,Stan,6
+783,Girl,Stan,3
+784,Chet,Randy,4
+785,Girl,Randy,2
+786,Chet,Girl,2
+787,First Mate,Japanese Sailor,1
+788,Captain,Japanese Sailor,11
+789,Japanese Sailor,Stan,8
+790,Crew,Japanese Sailor,1
+791,Crewman,Japanese Sailor,3
+792,Japanese Sailor,Luke,2
+793,Captain,First Mate,11
+794,First Mate,Stan,8
+795,Crew,First Mate,1
+796,Crewman,First Mate,3
+797,First Mate,Luke,2
+798,Captain,Stan,88
+799,Captain,Crew,11
+800,Captain,Crewman,33
+801,Captain,Luke,22
+802,Crew,Stan,8
+803,Crewman,Stan,24
+804,Luke,Stan,60
+805,Crew,Crewman,3
+806,Crew,Luke,2
+807,Crewman,Luke,6
+808,Larry King,Luke,6
+809,Larry King,Stan,30
+810,Larry King,Sid,18
+811,Luke,Sid,3
+812,Sid,Stan,15
+813,Benjamin,Stan,19
+814,DC Crewmen,Stan,19
+815,Japanese Pilot,Stan,19
+816,Cartman,Luke,24
+817,Kenny,Luke,8
+818,Announcer,Luke,12
+819,Benjamin,Luke,2
+820,DC Crewmen,Luke,2
+821,Japanese Pilot,Luke,2
+822,Benjamin,Cartman,12
+823,Cartman,DC Crewmen,12
+824,Cartman,Japanese Pilot,12
+825,Announcer,Kenny,24
+826,Benjamin,Kenny,4
+827,DC Crewmen,Kenny,4
+828,Japanese Pilot,Kenny,4
+829,Announcer,Benjamin,6
+830,Announcer,DC Crewmen,6
+831,Announcer,Japanese Pilot,6
+832,Benjamin,DC Crewmen,1
+833,Benjamin,Japanese Pilot,1
+834,DC Crewmen,Japanese Pilot,1
+835,Cartman,Guard,2
+836,Cartman,Emperor Akihito,14
+837,Guard,Stan,3
+838,Emperor Akihito,Stan,18
+839,Emperor Akihito,Guard,4
+840,Guard,Kenny,1
+841,Emperor Akihito,Kenny,4
+842,Emperor Akihito,Hatoyama,1
+843,Cartman,Lead Biker,7
+844,Cartman,Other Bikers,3
+845,Lead Biker,Other Bikers,2
+846,Kyle,Lead Biker,1
+847,Lead Biker,Stan,1
+848,Big Gay Al,Mr. Slave,3
+849,Cartman,Mayor McDaniels,12
+850,Cartman,Other Kids,3
+851,Mayor McDaniels,Stan,20
+852,Kyle,Mayor McDaniels,13
+853,Mayor McDaniels,Other Kids,3
+854,Mayor McDaniels,Mr. Mackey,6
+855,Other Kids,Stan,4
+856,Mr. Mackey,Stan,8
+857,Kyle,Other Kids,3
+858,Kyle,Mr. Mackey,6
+859,Mr. Mackey,Other Kids,2
+860,Field Reporter,News Anchor,28
+861,Martin,News Anchor,4
+862,Lead Biker,News Anchor,16
+863,News Anchor,Randy,4
+864,Field Reporter,Martin,7
+865,Field Reporter,Lead Biker,28
+866,Field Reporter,Randy,7
+867,Lead Biker,Martin,4
+868,Martin,Randy,1
+869,Lead Biker,Randy,4
+870,Another Mayor,Mayor McDaniels,3
+871,Another Mayor,Kyle,1
+872,Another Mayor,Stan,2
+873,Another Mayor,Cartman,1
+874,Gordon Stoltski,Intruder,132
+875,Mike,Mr. Mackey,3
+876,Cartman,Mike,1
+877,Casey,Mike,1
+878,Casey,Mr. Mackey,11
+879,Cartman,Casey,5
+880,Cartman,Principal Victoria,20
+881,Mr. Mackey,Principal Victoria,7
+882,Cartman,Kindergartners,1
+883,Melvins,Wendy,4
+884,Casey,Wendy,6
+885,Butters,Melvins,5
+886,Butters,Casey,5
+887,Casey,Melvins,2
+888,Cartman,Douglas,8
+889,Butters,Douglas,5
+890,Douglas,Stan,4
+891,Casey,Stan,4
+892,A Melvin,Butters,5
+893,A Melvin,Casey,1
+894,A Melvin,Melvins,1
+895,A Melvin,Wendy,2
+896,A Melvin,Mr. Testaburger,2
+897,Butters,Mr. Testaburger,8
+898,Mr. Testaburger,Wendy,4
+899,A Boy,Wendy,5
+900,A Boy,Cartman,6
+901,Butters,Eugene,3
+902,Butters,Water Tester,3
+903,Eugene,Kyle,11
+904,Kyle,Water Tester,11
+905,Eugene,Stan,7
+906,Stan,Water Tester,7
+907,Cartman,Eugene,9
+908,Cartman,Water Tester,9
+909,Eugene,Water Tester,1
+910,Assistant,Water Tester,10
+911,Assistant,Pi-Pi,6
+912,Assistant,Lawyer,4
+913,Pi-Pi,Water Tester,15
+914,Lawyer,Water Tester,10
+915,Lawyer,Pi-Pi,6
+916,Pi-Pi,Stan,37
+917,Jimmy,Pi-Pi,10
+918,Kyle,Pi-Pi,99
+919,Fire Marshal,Randy,48
+920,Randy,Water Tester,38
+921,Fire Marshal,Water Tester,55
+922,Fire Marshal,Sharon,8
+923,Sharon,Water Tester,2
+924,Butters,Pi-Pi,25
+925,Cartman,Teacher,21
+926,Señor Lopez,Teacher,6
+927,Councilman,Teacher,9
+928,Audience,Teacher,3
+929,Cartman,Señor Lopez,14
+930,Cartman,Councilman,21
+931,Audience,Cartman,7
+932,Councilman,Señor Lopez,6
+933,Audience,Señor Lopez,2
+934,Audience,Councilman,3
+935,Police Captain,Water Tester,3
+936,Fire Marshal,Police Captain,3
+937,Police Captain,Randy,4
+938,Jimmy,Randy,1
+939,Pi-Pi,Randy,3
+940,Butters,Randy,2

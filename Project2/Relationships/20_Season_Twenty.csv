@@ -1,0 +1,474 @@
+,source,target,weight
+0,Jim,Mike,26
+1,Jimbo,Mike,6
+2,Mike,Randy,18
+3,Mike,Sports Commentator,6
+4,Crowd,Mike,6
+5,Dave,Mike,6
+6,Mike,Stephen,6
+7,Mike,Referee,6
+8,Jim,Jimbo,3
+9,Jim,Randy,9
+10,Jim,Sports Commentator,3
+11,Crowd,Jim,3
+12,Dave,Jim,3
+13,Jim,Stephen,3
+14,Jim,Referee,3
+15,Jimbo,Randy,3
+16,Jimbo,Sports Commentator,1
+17,Crowd,Jimbo,1
+18,Dave,Jimbo,1
+19,Jimbo,Stephen,1
+20,Jimbo,Referee,1
+21,Randy,Sports Commentator,3
+22,Crowd,Randy,3
+23,Dave,Randy,3
+24,Randy,Stephen,88
+25,Randy,Referee,3
+26,Crowd,Sports Commentator,1
+27,Dave,Sports Commentator,1
+28,Sports Commentator,Stephen,1
+29,Referee,Sports Commentator,2
+30,Crowd,Dave,1
+31,Crowd,Stephen,1
+32,Crowd,Referee,1
+33,Dave,Stephen,1
+34,Dave,Referee,1
+35,Referee,Stephen,1
+36,Heidi,PC Principal,14
+37,Heidi,Wendy,6
+38,Cartman,Heidi,441
+39,PC Principal,Wendy,9
+40,Cartman,PC Principal,17
+41,Cartman,Wendy,26
+42,Joe Biden,Senators,1
+43,Lady Senator,Male Senator,4
+44,Bebe,Wendy,6
+45,Nelly,Wendy,10
+46,Bebe,Cartman,14
+47,Cartman,Nelly,27
+48,Bebe,Nelly,6
+49,Pollster,Randy,20
+50,Randy,Sharon,11
+51,Sharon,Stan,5
+52,Randy,Stan,22
+53,Arthur,Hillary,2
+54,Caitlyn,Garrison,24
+55,Caitlyn,Caityln,3
+56,Caityln,Garrison,4
+57,Kyle,Mr. Mackey,12
+58,Berries,Mr. Mackey,4
+59,Berries,Kyle,3
+60,Garrison,Moderator,7
+61,Matt,Moderator,5
+62,Crowd,Moderator,1
+63,Garrison,Matt,35
+64,Crowd,Garrison,7
+65,Crowd,Matt,5
+66,Cartman,Preschoolers,2
+67,Cartman,Kyle,271
+68,Berries,Stephen,3
+69,Berries,Randy,25
+70,Butters,Craig,8
+71,Craig,Kyle,16
+72,Cartman,Craig,17
+73,Clyde,Craig,7
+74,Butters,Kyle,44
+75,Butters,Cartman,156
+76,Butters,Clyde,16
+77,Clyde,Kyle,16
+78,Cartman,Clyde,28
+79,Berry,Randy,4
+80,Berries,Berry,3
+81,Garrison,Jim,16
+82,Announcer,Jim,8
+83,Garrison,Mike,8
+84,Announcer,Mike,4
+85,Announcer,Garrison,8
+86,Gerald,Kyle,84
+87,Clyde,Stan,7
+88,Kyle,Stan,37
+89,Cartman,Stan,15
+90,Gerald,Sheila,286
+91,Annie,Wendy,9
+92,Craig,Jimmy,2
+93,Butters,Jimmy,5
+94,Clyde,Jimmy,4
+95,Kyle,Tolkien,18
+96,Stan,Tolkien,7
+97,Butters,Stan,21
+98,Craig,Stan,4
+99,Butters,Tolkien,9
+100,Craig,Tolkien,3
+101,Mr. Mackey,Scott,75
+102,Cartman,Tolkien,11
+103,Clyde,Tolkien,5
+104,CNN reporter,Gerald,6
+105,Freja Ollegard,Gerald,15
+106,CNN reporter,Freja Ollegard,4
+107,Nichole,Wendy,1
+108,Annie,Nichole,1
+109,Audience Member,Freja Ollegard,3
+110,Audience Member,Gerald,3
+111,Gerald,Officer,6
+112,Barkley,Officer,7
+113,Kyle,Officer,2
+114,Barkley,Gerald,42
+115,Barkley,Kyle,14
+116,Jimmy,Tolkien,1
+117,Jimmy,Kyle,1
+118,Garrison,Lester Holt,6
+119,Clinton,Lester Holt,6
+120,Clinton,Garrison,36
+121,Butters,PC Principal,2
+122,Cartman,Driver,7
+123,Cartman,Martha,4
+124,Driver,Heidi,6
+125,Heidi,Martha,4
+126,Driver,Martha,4
+127,Ryan Valmer,Stephen,3
+128,Randy,Ryan Valmer,2
+129,Garrison,Random Person,6
+130,Garrison,Randy,111
+131,Random Person,Randy,2
+132,CNN Anchor,Patron,2
+133,Gerald,Patron,2
+134,Field Reporter,Patron,1
+135,Patron,Paul,1
+136,CNN Anchor,Gerald,10
+137,CNN Anchor,Field Reporter,2
+138,CNN Anchor,Paul,2
+139,Field Reporter,Gerald,2
+140,Gerald,Paul,2
+141,Field Reporter,Paul,1
+142,Jud,Randy,2
+143,Berries,Jud,1
+144,Gerald,Shelia,28
+145,Gerald,Ike,100
+146,Butters,Charlotte,25
+147,Dick,Gerald,377
+148,Dick,Sheila,7
+149,Kyle,Wendy,3
+150,Kyle,Referee,2
+151,Kyle,Sports Commentator,2
+152,Stan,Wendy,2
+153,Referee,Stan,1
+154,Sports Commentator,Stan,1
+155,Referee,Wendy,1
+156,Sports Commentator,Wendy,1
+157,Gerald,Richard,10
+158,Gerald,Randy,25
+159,Berries,Gerald,10
+160,Gerald,Michael,5
+161,Gerald,Stephen,5
+162,Randy,Richard,10
+163,Berries,Richard,4
+164,Michael,Richard,2
+165,Richard,Stephen,2
+166,Michael,Randy,5
+167,Berries,Michael,2
+168,Michael,Stephen,1
+169,Bebe,PC Principal,3
+170,Butters,Wendy,10
+171,Sheila,Shiela,2
+172,Gerald,Shiela,3
+173,Ike,Kyle,57
+174,Heidi,Kyle,85
+175,Bedrager,Gerald,82
+176,Bedrager,Dick,16
+177,BBC reporter,Bedrager,2
+178,Daniel,Douglas,1
+179,Annie,Douglas,3
+180,Douglas,Red,2
+181,Douglas,Lola,1
+182,Douglas,Nelly,2
+183,Butters,Douglas,2
+184,Clyde,Douglas,1
+185,Douglas,Wendy,2
+186,Douglas,Jimmy,1
+187,Cartman,Douglas,3
+188,Douglas,Heidi,1
+189,Annie,Daniel,3
+190,Daniel,Red,2
+191,Daniel,Lola,1
+192,Daniel,Nelly,2
+193,Butters,Daniel,2
+194,Clyde,Daniel,1
+195,Daniel,Wendy,2
+196,Daniel,Jimmy,1
+197,Cartman,Daniel,3
+198,Daniel,Heidi,1
+199,Annie,Red,6
+200,Annie,Lola,3
+201,Annie,Nelly,6
+202,Annie,Butters,8
+203,Annie,Clyde,4
+204,Annie,Jimmy,3
+205,Annie,Cartman,12
+206,Annie,Heidi,5
+207,Lola,Red,2
+208,Nelly,Red,4
+209,Butters,Red,4
+210,Clyde,Red,2
+211,Red,Wendy,4
+212,Jimmy,Red,2
+213,Cartman,Red,6
+214,Heidi,Red,2
+215,Lola,Nelly,2
+216,Butters,Lola,2
+217,Clyde,Lola,1
+218,Lola,Wendy,2
+219,Jimmy,Lola,1
+220,Cartman,Lola,3
+221,Heidi,Lola,1
+222,Butters,Nelly,4
+223,Clyde,Nelly,2
+224,Jimmy,Nelly,2
+225,Heidi,Nelly,2
+226,Butters,Heidi,46
+227,Clyde,Wendy,3
+228,Clyde,Heidi,3
+229,Jimmy,Wendy,2
+230,Cartman,Jimmy,3
+231,Heidi,Jimmy,1
+232,Crowd Members,Garrison,2
+233,Crowd Members,Supporter,1
+234,Garrison,Supporter,2
+235,Bedrager,Danes,12
+236,Chris Christie,Garrison,44
+237,Garrison,Supporters,3
+238,Andrew,Anonymous821,8
+239,Anonymous821,Anyomous821,4
+240,A Troll,Anonymous821,4
+241,Anonymous821,Dick,20
+242,Anonymous821,Gerald,32
+243,Andrew,Anyomous821,2
+244,A Troll,Andrew,2
+245,Andrew,Dick,4
+246,Andrew,Gerald,8
+247,A Troll,Anyomous821,1
+248,Anyomous821,Dick,2
+249,Anyomous821,Gerald,4
+250,A Troll,Dick,2
+251,A Troll,Gerald,4
+252,Cartman,Garrison,8
+253,Cartman,Chris Christie,4
+254,Garrison,Heidi,8
+255,Heidi,Stan,1
+256,Heidi,Tolkien,1
+257,Chris Christie,Heidi,4
+258,Garrison,Stan,8
+259,Garrison,Tolkien,8
+260,Butters,Garrison,8
+261,Chris Christie,Stan,4
+262,Chris Christie,Tolkien,4
+263,Butters,Chris Christie,4
+264,Adviser,Chris Christie,1
+265,Adviser,Supporters,1
+266,Chris Christie,Supporters,1
+267,Che Gamorrah,PurpleheadedQueeflicker,1
+268,MLKKK,PurpleheadedQueeflicker,1
+269,Anonymous821,PurpleheadedQueeflicker,2
+270,PurpleheadedQueeflicker,URFATANDDUM,1
+271,PurpleheadedQueeflicker,SuperSexyLisa18,1
+272,PurpleheadedQueeflicker,YourMomsTits,1
+273,Gerald,PurpleheadedQueeflicker,3
+274,Dick,PurpleheadedQueeflicker,2
+275,Che Gamorrah,MLKKK,1
+276,Anonymous821,Che Gamorrah,1
+277,Che Gamorrah,URFATANDDUM,1
+278,Che Gamorrah,SuperSexyLisa18,1
+279,Che Gamorrah,YourMomsTits,1
+280,Che Gamorrah,Gerald,2
+281,Che Gamorrah,Dick,1
+282,Anonymous821,MLKKK,1
+283,MLKKK,URFATANDDUM,1
+284,MLKKK,SuperSexyLisa18,1
+285,MLKKK,YourMomsTits,1
+286,Gerald,MLKKK,2
+287,Dick,MLKKK,1
+288,Anonymous821,URFATANDDUM,1
+289,Anonymous821,SuperSexyLisa18,1
+290,Anonymous821,YourMomsTits,1
+291,SuperSexyLisa18,URFATANDDUM,1
+292,URFATANDDUM,YourMomsTits,1
+293,Gerald,URFATANDDUM,2
+294,Dick,URFATANDDUM,1
+295,SuperSexyLisa18,YourMomsTits,1
+296,Gerald,SuperSexyLisa18,2
+297,Dick,SuperSexyLisa18,1
+298,Gerald,YourMomsTits,2
+299,Dick,YourMomsTits,1
+300,Garrison,Member Berry,6
+301,Member Berry,Randy,6
+302,Bill Keegan,Dick,6
+303,CNN Anchor,Dick,3
+304,Dick,Kyle,6
+305,Bill Keegan,Gerald,12
+306,Bill Keegan,CNN Anchor,2
+307,Bill Keegan,Kyle,4
+308,CNN Anchor,Kyle,2
+309,Butters,Driver,2
+310,Driver,Kyle,1
+311,Driver,Wendy,1
+312,Clyde,Driver,1
+313,Annie,Driver,1
+314,Annie,Kyle,1
+315,Garrison,Member Berries,4
+316,Member Berries,Randy,4
+317,Gerald,Trolls,7
+318,Dick,Trolls,7
+319,PurpleheadedQueeflicker,Trolls,1
+320,Anonymous821,Trolls,3
+321,Dick,SupersexyLisa18,3
+322,SupersexyLisa18,Trolls,1
+323,Gerald,SupersexyLisa18,2
+324,Anonymous821,SupersexyLisa18,1
+325,Jar Berries,Randy,9
+326,Experiment Berry,Jar Berries,12
+327,Garrison,Jar Berries,3
+328,Experiment Berry,Randy,12
+329,Experiment Berry,Garrison,4
+330,MLKKK,Unknown Caller,5
+331,MLKKK,Unknown Caller's Daughter,2
+332,Unknown Caller,Unknown Caller's Daughter,1
+333,Mickey,Tubbs,1
+334,Gerald,News reporter,8
+335,Dick,News reporter,2
+336,Bill Keegan,Randy,2
+337,President Elect Douche,Randy,4
+338,Bill Keegan,President Elect Douche,2
+339,Eye in the sky,Tom,2
+340,Dangling Man,Eye in the sky,1
+341,Dangling Man,Tom,2
+342,Ike,Sheila,70
+343,Ike,Lead agent,1
+344,Gerald,Lead agent,7
+345,Lead agent,Sheila,4
+346,Gerald,Hillary Clinton,30
+347,Caitlyn,Randy,8
+348,Bill Clinton,Bill Cosby,31
+349,Gerald,Ticket agent,4
+350,Bill Clinton,Stan,12
+351,Bill Clinton,Butters,19
+352,Bill Cosby,Stan,8
+353,Bill Cosby,Butters,4
+354,Gerald,Lennart,36
+355,Bill Clinton,Stephen,20
+356,Linda,Stephen,10
+357,Butters,Stephen,5
+358,Bill Clinton,Linda,8
+359,Butters,Linda,2
+360,Randy,Shelly,4
+361,Sharon,Shelly,4
+362,Bannon,Surgeon,1
+363,Bannon,Caitlyn,1
+364,Caitlyn,Surgeon,1
+365,Cartman,Secretary,24
+366,Cartman,Cher,12
+367,Cher,Secretary,8
+368,Mackey,PC Principal,14
+369,Garrison,Mackey,12
+370,Garrison,PC Principal,42
+371,Guard Berry,Tubbs,2
+372,Don,Tubbs,8
+373,Don,Waiter Berry,4
+374,Tubbs,Waiter Berry,2
+375,Garrison,Stephen,3
+376,First general,Stephen,2
+377,First general,Garrison,64
+378,Ike,Shelia,7
+379,Sheila,Shelia,7
+380,Garrison,Second general,12
+381,Garrison,Third general,4
+382,First general,Second general,12
+383,First general,Third general,4
+384,Second general,Third general,3
+385,Putin,Tubbs,8
+386,Cartman,Tour assistant,4
+387,Cartman,Elon Musk,55
+388,Cartman,PA door voice,4
+389,Butters,Tour assistant,1
+390,Butters,Elon Musk,13
+391,Butters,PA door voice,1
+392,Elon Musk,Tour assistant,4
+393,PA door voice,Tour assistant,1
+394,Elon Musk,PA door voice,4
+395,Boris Johnson,Garrison,24
+396,Garrison,UK aide,24
+397,Boris Johnson,First general,4
+398,First general,UK aide,4
+399,Boris Johnson,UK aide,16
+400,Cartman,Groups,4
+401,Elon Musk,Groups,6
+402,Butters,Groups,2
+403,Berry Henchmen,Memberberries,1
+404,Berry Henchmen,Don,4
+405,Don,Memberberries,4
+406,Kyle,Sheila,46
+407,Harrison,Unknown person,5
+408,Stephen,Unknown person,1
+409,Laura,Unknown person,1
+410,Harrison,Stephen,6
+411,Harrison,Laura,5
+412,Laura,Stephen,1
+413,Elon Musk,Heidi,10
+414,Anonymous821,Bedrager,2
+415,Harrison,Men,1
+416,Harrison,Kyle,4
+417,Harrison,Ike,1
+418,Harrison,Randy,3
+419,Harrison,Prayers,2
+420,Kyle,Men,4
+421,Ike,Men,1
+422,Men,Randy,3
+423,Men,Prayers,2
+424,Men,Stephen,1
+425,Kyle,Randy,12
+426,Kyle,Prayers,8
+427,Kyle,Stephen,4
+428,Ike,Randy,3
+429,Ike,Prayers,2
+430,Ike,Stephen,1
+431,Prayers,Randy,6
+432,Prayers,Stephen,2
+433,Garrison,Second General,13
+434,Army Soldier,Garrison,13
+435,Garrison,Mr. Slave,52
+436,Army Soldier,Second General,2
+437,Mr. Slave,Second General,1
+438,Army Soldier,Mr. Slave,1
+439,Garrison,Ike,37
+440,First General,Garrison,7
+441,Garrison,Kyle,97
+442,Ike,Mr. Slave,7
+443,First General,Mr. Slave,7
+444,Kyle,Mr. Slave,7
+445,First General,Ike,1
+446,First General,Kyle,1
+447,Kyle,Second General,9
+448,Ike,Second General,3
+449,Army Soldier,Kyle,9
+450,Army Soldier,Ike,3
+451,Heidi,SpaceX Employee,7
+452,Cartman,SpaceX Employee,5
+453,Music video,TrollTrace Employee,1
+454,Dick,Music video,1
+455,Dick,TrollTrace Employee,1
+456,Military Officer,Mr. Garrison,2
+457,Mr. Garrison,NSA Agent,8
+458,Military Officer,NSA Agent,2
+459,Dildo Shwaggins,Gerald,28
+460,Danish Worker,Gerald,5
+461,Danish Worker,Dildo Shwaggins,5
+462,Kenny,Kevin,1
+463,Dildo Shwaggins,Kyle,6
+464,General Revaur,NSA Agent,2
+465,General Revaur,Mr. Garrison,2
+466,Gerald,TrollTrace employee,7
+467,Kyle,Mr. Garrison,21
+468,Laura,Sheila,14
+469,Mr. Garrison,Soldier,4
+470,Kyle,Soldier,2
+471,Kyle,Pentagon Employee,1
+472,Mr. Garrison,Pentagon Employee,1

@@ -1,0 +1,666 @@
+,source,target,weight
+0,Cartman,Various adults,1
+1,Mr. Mackey,Various adults,3
+2,PC Principal,Various adults,7
+3,Mr. Garrison,Various adults,1
+4,Butters,Various adults,2
+5,Tuong Lu Kim,Various adults,1
+6,Cartman,Mr. Mackey,27
+7,Cartman,PC Principal,152
+8,Cartman,Mr. Garrison,24
+9,Butters,Cartman,330
+10,Cartman,Tuong Lu Kim,19
+11,Mr. Mackey,PC Principal,35
+12,Mr. Garrison,Mr. Mackey,23
+13,Butters,Mr. Mackey,8
+14,Mr. Mackey,Tuong Lu Kim,3
+15,Mr. Garrison,PC Principal,17
+16,Butters,PC Principal,57
+17,PC Principal,Tuong Lu Kim,7
+18,Butters,Mr. Garrison,14
+19,Mr. Garrison,Tuong Lu Kim,1
+20,Butters,Tuong Lu Kim,8
+21,Butters,Kyle,199
+22,Kenny,Kyle,23
+23,Kyle,Mr. Mackey,31
+24,Butters,Kenny,11
+25,Kenny,Mr. Mackey,1
+26,Gerald,PC Principal,43
+27,Gerald,Stuart,9
+28,Stephen,Stuart,9
+29,Ryan,Stuart,9
+30,Randy,Stuart,13
+31,PC Principal,Stuart,12
+32,Gerald,Stephen,18
+33,Gerald,Ryan,9
+34,Gerald,Randy,30
+35,Ryan,Stephen,9
+36,Randy,Stephen,42
+37,PC Principal,Stephen,13
+38,Randy,Ryan,3
+39,PC Principal,Ryan,12
+40,PC Principal,Randy,32
+41,Friend,Janitor,1
+42,Cartman,Stan,183
+43,Cartman,Kyle,415
+44,Boys,Cartman,27
+45,Kyle,Stan,233
+46,Butters,Stan,107
+47,Boys,Stan,9
+48,Boys,Kyle,9
+49,Boys,Butters,9
+50,PC bros,Randy,14
+51,PC Principal,PC bros,10
+52,Randy,Sharon,110
+53,PC Principal,Pledges,4
+54,Pledges,Randy,2
+55,Pledges,Topher,1
+56,PC Principal,Topher,14
+57,Randy,Topher,2
+58,Cartman,Coach Cartman,3
+59,Butters,Coach Cartman,2
+60,Randy,Stan,165
+61,A passing bro,Stan,5
+62,Kyle,Randy,36
+63,A passing bro,Kyle,3
+64,A passing bro,Randy,2
+65,Cartman,PC bros,10
+66,PC bros,Pregnant Mexican Women,2
+67,PC bros,Stephen,2
+68,A PC Bro,PC bros,2
+69,Kyle,PC bros,2
+70,PC bros,Townsman,2
+71,Cartman,Randy,47
+72,Pregnant Mexican Women,Randy,1
+73,A PC Bro,Randy,1
+74,Randy,Townsman,1
+75,Cartman,Pregnant Mexican Women,5
+76,Cartman,Stephen,7
+77,A PC Bro,Cartman,5
+78,Cartman,Townsman,5
+79,Pregnant Mexican Women,Stephen,1
+80,A PC Bro,Pregnant Mexican Women,1
+81,Kyle,Pregnant Mexican Women,1
+82,Pregnant Mexican Women,Townsman,1
+83,A PC Bro,Stephen,1
+84,Kyle,Stephen,4
+85,Stephen,Townsman,1
+86,A PC Bro,Kyle,1
+87,A PC Bro,Townsman,1
+88,Kyle,Townsman,1
+89,Randy,Richard Adler,1
+90,Mr. Garrison,Richard Adler,2
+91,President Obama,Richard Adler,2
+92,Caitlyn Jenner,Richard Adler,1
+93,Mr. Garrison,Randy,62
+94,President Obama,Randy,2
+95,Caitlyn Jenner,Randy,7
+96,Mr. Garrison,President Obama,4
+97,Caitlyn Jenner,Mr. Garrison,5
+98,Caitlyn Jenner,President Obama,2
+99,Mr. Garrsion,PC Principal,9
+100,Mr. Garrsion,Mr. Mackey,3
+101,Butters,Clyde,10
+102,Butters,Tolkien,23
+103,Clyde,Tolkien,10
+104,Cartman,Clyde,31
+105,Clyde,Kyle,14
+106,Clyde,Stan,10
+107,Cartman,Tolkien,54
+108,Kyle,Tolkien,20
+109,Stan,Tolkien,21
+110,Kindergartner,Three students dressed in Native American garb,1
+111,Five students dressed in European clothing,Three students dressed in Native American garb,1
+112,Mr. Garrison,Three students dressed in Native American garb,3
+113,PC Principal,Three students dressed in Native American garb,2
+114,Stan,Three students dressed in Native American garb,2
+115,Three students dressed in Native American garb,Tolkien,2
+116,Butters,Three students dressed in Native American garb,4
+117,Cartman,Three students dressed in Native American garb,5
+118,Craig,Three students dressed in Native American garb,1
+119,Kyle,Three students dressed in Native American garb,1
+120,Five students dressed in European clothing,Kindergartner,1
+121,Kindergartner,Mr. Garrison,3
+122,Kindergartner,PC Principal,2
+123,Kindergartner,Stan,2
+124,Kindergartner,Tolkien,2
+125,Butters,Kindergartner,4
+126,Cartman,Kindergartner,5
+127,Craig,Kindergartner,1
+128,Kindergartner,Kyle,1
+129,Five students dressed in European clothing,Mr. Garrison,3
+130,Five students dressed in European clothing,PC Principal,2
+131,Five students dressed in European clothing,Stan,2
+132,Five students dressed in European clothing,Tolkien,2
+133,Butters,Five students dressed in European clothing,4
+134,Cartman,Five students dressed in European clothing,5
+135,Craig,Five students dressed in European clothing,1
+136,Five students dressed in European clothing,Kyle,1
+137,Mr. Garrison,Stan,23
+138,Mr. Garrison,Tolkien,6
+139,Craig,Mr. Garrison,3
+140,Kyle,Mr. Garrison,15
+141,PC Principal,Stan,10
+142,PC Principal,Tolkien,4
+143,Craig,PC Principal,37
+144,Kyle,PC Principal,106
+145,Craig,Stan,2
+146,Craig,Tolkien,2
+147,Butters,Craig,13
+148,Cartman,Craig,7
+149,Craig,Kyle,1
+150,Field reporter,Mr. Garrison,11
+151,Mr. Garrison,Tom,11
+152,Guard,Mr. Garrison,69
+153,Jimbo,Mr. Garrison,23
+154,Field reporter,Tom,1
+155,Field reporter,Guard,6
+156,Field reporter,Jimbo,2
+157,Guard,Tom,6
+158,Jimbo,Tom,2
+159,Guard,Jimbo,12
+160,Butters,Charlotte,55
+161,Cartman,Charlotte,17
+162,Female politician,Male politician,2
+163,Male politician,Mr. Garrison,3
+164,Guard,Male politician,1
+165,Female politician,Mr. Garrison,6
+166,Female politician,Guard,2
+167,Mr. Garrison,Supporters,2
+168,Jimbo,Supporters,2
+169,Butters,Dad,10
+170,Butters,Mom,9
+171,Butters,Thomas,18
+172,Charlotte,Dad,4
+173,Dad,Mom,2
+174,Dad,Thomas,4
+175,Charlotte,Mom,4
+176,Charlotte,Thomas,8
+177,Mom,Thomas,10
+178,Johnson,Mr. President,4
+179,Mr. Garrison,Mr. President,30
+180,Aide,Mr. Garrison,5
+181,Aide,Mr. President,6
+182,Canadians,Thomas,4
+183,Canadians,Mom,2
+184,Butters,Canadians,2
+185,Canadians,Charlotte,1
+186,Cartman,Kenny,11
+187,Kenny,Stan,10
+188,Fr. Maxi,Randy,9
+189,Mayor McDaniels,Randy,28
+190,Fr. Maxi,Stephen,1
+191,Mayor McDaniels,Stephen,9
+192,Fr. Maxi,Mayor McDaniels,3
+193,Kenny,Randy,6
+194,Architect,Randy,2
+195,Kenny,Stuart,3
+196,Kenny,Mayor McDaniels,1
+197,Architect,Kenny,1
+198,Mayor McDaniels,Stuart,5
+199,Architect,Stuart,2
+200,Architect,Mayor McDaniels,1
+201,Johnson,Stuart,6
+202,Aide,Stuart,3
+203,Johnson,Randy,9
+204,Aide,Johnson,4
+205,Johnson,Mayor McDaniels,22
+206,Aide,Randy,7
+207,Aide,Mayor McDaniels,4
+208,Det. Harris,Stephen,1
+209,Officer Barbrady,Stephen,2
+210,Det. Harris,Officer Barbrady,1
+211,Det. Harris,Randy,1
+212,Officer Barbrady,Randy,10
+213,Diner,Tuong Lu Kim,2
+214,Diner,Mike,2
+215,Mike,Tuong Lu Kim,4
+216,Carol,Karen,1
+217,Carol,Stuart,12
+218,Karen,Stuart,1
+219,Johnson,Townsman,1
+220,Johnson,Whole Foods rep,1
+221,Mayor McDaniels,Townsman,2
+222,Mayor McDaniels,Whole Foods rep,17
+223,Townsman,Whole Foods rep,1
+224,PC Principal,Whole Foods rep,9
+225,Mayor McDaniels,Teacher,3
+226,Teacher,Whole Foods rep,3
+227,Randy,Whole Foods rep,10
+228,Stuart,Voice,1
+229,Carol,Voice,1
+230,Kenny,Tuong Lu Kim,22
+231,Rancher,Whole Foods rep,4
+232,Mayor McDaniels,Rancher,2
+233,Fr. Maxi,Rancher,4
+234,Rancher,Richard,2
+235,Rancher,Randy,9
+236,Bob,Rancher,2
+237,Fr. Maxi,Whole Foods rep,4
+238,Richard,Whole Foods rep,2
+239,Bob,Whole Foods rep,2
+240,Mayor McDaniels,Richard,1
+241,Bob,Mayor McDaniels,1
+242,Fr. Maxi,Richard,2
+243,Bob,Fr. Maxi,2
+244,Randy,Richard,2
+245,Bob,Richard,1
+246,Bob,Randy,2
+247,Townfolk,Tuong Lu Kim,3
+248,Kenny,Townfolk,2
+249,Randy,Townfolk,2
+250,Girl,Townfolk,1
+251,Townfolk,Whole Foods rep,1
+252,Randy,Tuong Lu Kim,6
+253,Girl,Tuong Lu Kim,3
+254,Tuong Lu Kim,Whole Foods rep,3
+255,Girl,Kenny,2
+256,Kenny,Whole Foods rep,2
+257,Girl,Randy,2
+258,Girl,Whole Foods rep,1
+259,Karen,Kenny,1
+260,Gerald,Greeter,15
+261,Greeter,Randy,6
+262,Greeter,Waiter,6
+263,Greeter,Mr. Rodriguez,12
+264,Greeter,Mrs. Rodriguez,9
+265,Gerald,Waiter,10
+266,Gerald,Mr. Rodriguez,20
+267,Gerald,Mrs. Rodriguez,15
+268,Randy,Waiter,4
+269,Mr. Rodriguez,Randy,8
+270,Mrs. Rodriguez,Randy,6
+271,Mr. Rodriguez,Waiter,8
+272,Mrs. Rodriguez,Waiter,6
+273,Mr. Rodriguez,Mrs. Rodriguez,12
+274,Cartman,Mr. Rodriguez,88
+275,Cartman,Davíd,95
+276,Cartman,Male food critic,46
+277,Cartman,Female food critic,11
+278,Davíd,Mr. Rodriguez,24
+279,Male food critic,Mr. Rodriguez,32
+280,Female food critic,Mr. Rodriguez,8
+281,Davíd,Male food critic,12
+282,Davíd,Female food critic,3
+283,Female food critic,Male food critic,7
+284,Butters,Davíd,14
+285,Davíd,Kyle,23
+286,Gerald,Sheila,21
+287,Gerald's review,Sheila,4
+288,Gerald,Gerald's review,5
+289,Kyle,Tuong Lu Kim,9
+290,Stan,Tuong Lu Kim,3
+291,Davíd,Tuong Lu Kim,3
+292,Davíd,Stan,1
+293,Barkley,Sgt. Yates,21
+294,Male food critic,Son,3
+295,Male food critic,Whistlin' Willy,12
+296,Gerald,Male food critic,8
+297,Female food critic,Son,1
+298,Female food critic,Whistlin' Willy,4
+299,Female food critic,Gerald,2
+300,Son,Whistlin' Willy,4
+301,Gerald,Son,2
+302,Gerald,Whistlin' Willy,8
+303,Maggie,Yates,12
+304,Cartman,Liane,165
+305,Cartman,Yelpers,10
+306,A reviewer,Cartman,10
+307,A Yelper,Cartman,20
+308,Cartman,Gerald,26
+309,Cartman,Sgt. Yates,15
+310,Liane,Yelpers,4
+311,A reviewer,Liane,4
+312,A Yelper,Liane,8
+313,Gerald,Liane,8
+314,Liane,Sgt. Yates,4
+315,A reviewer,Yelpers,1
+316,A Yelper,Yelpers,2
+317,Gerald,Yelpers,2
+318,Sgt. Yates,Yelpers,1
+319,A Yelper,A reviewer,2
+320,A reviewer,Gerald,2
+321,A reviewer,Sgt. Yates,1
+322,A Yelper,Gerald,4
+323,A Yelper,Sgt. Yates,2
+324,Gerald,Sgt. Yates,4
+325,Davíd,Tolkien,1
+326,David,Reporter,1
+327,Barkley,Reporter,3
+328,Reporter,Sgt. Yates,3
+329,Barkley,David,3
+330,David,Sgt. Yates,6
+331,David,Kyle,32
+332,Cartman,David,19
+333,David,Gerald,12
+334,David,Male food critic,3
+335,Gerald,Kyle,12
+336,Kyle,Sgt. Yates,4
+337,Kyle,Male food critic,4
+338,Male food critic,Sgt. Yates,1
+339,Gerald,Mayor McDaniels,8
+340,Gerald,Mr. Davis,1
+341,Kyle,Mayor McDaniels,3
+342,Mayor McDaniels,Mr. Davis,3
+343,Kyle,Mr. Davis,1
+344,Chef,Waiter,1
+345,Backup singers,Lead singer,21
+346,All Singers,Backup singers,3
+347,All Singers,Lead singer,3
+348,Backup singers,Cartman,3
+349,Backup singers,Davíd,2
+350,Cashier,Randy,195
+351,Kyle,Wendy,16
+352,PC Principal,Wendy,22
+353,Cartman,Wendy,11
+354,Butters,Wendy,5
+355,Female shopper,Randy,9
+356,Cashier,Female shopper,7
+357,Butters,Demi Lovato,15
+358,Cartman,Demi Lovato,37
+359,Cartman,Seagal,22
+360,PC Principal,Seagal,5
+361,Randy,Seagal,10
+362,Demi Lovato,Seagal,4
+363,Plus-sized models,Seagal,2
+364,Reality,Seagal,11
+365,Cartman,Plus-sized models,11
+366,Cartman,Reality,44
+367,Demi Lovato,PC Principal,4
+368,PC Principal,Plus-sized models,2
+369,PC Principal,Reality,8
+370,Demi Lovato,Randy,6
+371,Plus-sized models,Randy,2
+372,Randy,Reality,23
+373,Demi Lovato,Plus-sized models,2
+374,Demi Lovato,Reality,8
+375,Plus-sized models,Reality,4
+376,Fat woman,Randy,2
+377,Man with cap,Randy,2
+378,Boy,Randy,2
+379,Demi Lovato,Fat woman,1
+380,Demi Lovato,Man with cap,1
+381,Boy,Demi Lovato,1
+382,Fat woman,Man with cap,1
+383,Boy,Fat woman,1
+384,Boy,Man with cap,1
+385,Butters,Reality,16
+386,Reality,Stephen,10
+387,Butters,Stephen,4
+388,Guest,Randy,5
+389,Gigi,Guest,1
+390,Guest,Stephen,2
+391,Guest,Reality,3
+392,Guest,Seagal,1
+393,Gigi,Randy,5
+394,Gigi,Stephen,2
+395,Gigi,Reality,3
+396,Gigi,Seagal,1
+397,Seagal,Stephen,2
+398,Girls,Wendy,15
+399,Tweek,Wendy,15
+400,Craig,Wendy,14
+401,Girls,Tweek,3
+402,Craig,Girls,3
+403,Cartman,Girls,3
+404,Craig,Tweek,187
+405,Cartman,Tweek,3
+406,Jimmy,Kyle,7
+407,Butters,Jimmy,1
+408,Jimmy,Stan,5
+409,PC Principal,Tweek,40
+410,Stephen,Thomas,1
+411,Mrs. Tweek,Richard,4
+412,Mrs. Tweek,Tweek,3
+413,Mom,Mrs. Tweek,1
+414,Richard,Tweek,12
+415,Mom,Richard,8
+416,Mom,Tweek,3
+417,Cartman,Cupid Me,62
+418,PC Principal,Thomas,9
+419,Craig,Thomas,13
+420,Randy,Xi Jinping,12
+421,Craig,Mom,4
+422,Craig,Richard,4
+423,Randy,Thomas,8
+424,Randy,Skeeter,12
+425,Skeeter,Thomas,2
+426,Butters,Tweek,10
+427,Bartender,Cupid Me,5
+428,Bartender,Cartman,6
+429,Laura,Thomas,2
+430,Thomas,Tweek,12
+431,Laura,Tweek,6
+432,Craig,Laura,5
+433,Cupid Me,Thomas,4
+434,Officer Barbrady,Sgt. Yates,1
+435,Officer Barbrady,PC Principal,4
+436,Barbrady,Officer Barbrady,2
+437,Boy,Officer Barbrady,1
+438,PC Principal,Sgt. Yates,3
+439,Barbrady,Sgt. Yates,2
+440,Boy,Sgt. Yates,1
+441,Barbrady,PC Principal,6
+442,Boy,PC Principal,3
+443,Barbrady,Boy,2
+444,Barbrady,Mayor McDaniels,36
+445,Barbrady,Johnson,24
+446,Sgt. Yates,Stuart,20
+447,Mitch,Sgt. Yates,4
+448,Carol,Sgt. Yates,8
+449,Mitch,Stuart,5
+450,Carol,Mitch,2
+451,Cartman,Driver,4
+452,Cartman,Passenger,4
+453,Driver,Stan,1
+454,Passenger,Stan,1
+455,Driver,Tolkien,1
+456,Passenger,Tolkien,1
+457,Clyde,Driver,2
+458,Clyde,Passenger,2
+459,Driver,Passenger,1
+460,Barkley,Skeeter,4
+461,Patron,Skeeter,2
+462,Barkley,Patron,2
+463,Barkley,Randy,4
+464,Patron,Randy,2
+465,Cartman,Reporter,4
+466,Anchor,Cartman,4
+467,Butters,Reporter,1
+468,Reporter,Stan,2
+469,Reporter,Tolkien,1
+470,Anchor,Reporter,1
+471,Anchor,Butters,1
+472,Anchor,Stan,2
+473,Anchor,Tolkien,1
+474,Jimmy,Ryan,2
+475,Mayor McDaniels,Sgt. Yates,6
+476,Randy,Sgt. Yates,6
+477,ISIS leader,Stan,3
+478,Butters,ISIS leader,3
+479,Cartman,ISIS leader,9
+480,Barbrady,Randy,35
+481,Barbrady,Stephen,7
+482,Aide,Barbrady,9
+483,Johnson,Stephen,1
+484,Aide,Stephen,1
+485,Kyle,Ninjas,4
+486,Barbrady,Kyle,10
+487,Ninjas,Tolkien,2
+488,Barbrady,Tolkien,5
+489,Randy,Tolkien,1
+490,David,Tolkien,1
+491,Cartman,Ninjas,2
+492,Ninjas,Stan,4
+493,Barbrady,Ninjas,10
+494,Ninjas,Randy,2
+495,David,Ninjas,2
+496,Barbrady,Cartman,5
+497,Barbrady,Stan,10
+498,David,Stan,14
+499,Barbrady,David,5
+500,David,Randy,55
+501,Cartman,Mayor McDaniels,1
+502,Jimmy,PC Principal,83
+503,Jimmy,Nathan,90
+504,Jimmy,Topher,4
+505,Nathan,PC Principal,34
+506,Nathan,Topher,4
+507,Mr. Mackey,Nathan,4
+508,Jimmy,Mr. Mackey,12
+509,Gerald,Rancher,1
+510,Rancher,Stephen,1
+511,Anchor Tom,Rancher,1
+512,Anchor Tom,Gerald,1
+513,Anchor Tom,Stephen,1
+514,Anchor Tom,Randy,1
+515,Hillary,Moderator,2
+516,Garrison,Moderator,6
+517,Caitlyn,Moderator,2
+518,Moderator,Principal Victoria,2
+519,Garrison,Hillary,12
+520,Caitlyn,Hillary,4
+521,Hillary,Principal Victoria,4
+522,Caitlyn,Garrison,17
+523,Garrison,Principal Victoria,12
+524,Caitlyn,Principal Victoria,7
+525,Brad,Jimmy,2
+526,Jimmy,Ladies,1
+527,Blonde,Jimmy,3
+528,Jimmy,PC bros,1
+529,Brad,Ladies,2
+530,Blonde,Brad,6
+531,Brad,PC bros,2
+532,Blonde,Ladies,3
+533,Ladies,PC bros,1
+534,Blonde,PC bros,3
+535,McKinsey,PC Principal,5
+536,Jimmy,Representative,42
+537,Barbrady,Jimmy,22
+538,Barbrady,Representative,6
+539,Agent,Jimmy,31
+540,Other Bros,PC Principal,4
+541,Other Bros,Topher,1
+542,Jimmy,Leslie,70
+543,Mr. Garrison,Principal Victoria,20
+544,Caitlyn,Mr. Garrison,16
+545,Agent,Leslie,4
+546,Cartman,Mrs. Nelson,15
+547,Kyle,Mrs. Nelson,15
+548,Mr. Mackey,Mrs. Nelson,6
+549,Sharon,Shelly,16
+550,Sharon,Stan,21
+551,Randy,Shelly,47
+552,Shelly,Stan,24
+553,Jimmy,Tom,44
+554,Kevin,Tom,15
+555,Jimmy,Kevin,4
+556,Kyle,Nathan,3
+557,Nathan,Stan,6
+558,Principal Victoria,Survey worker,2
+559,Mr. Garrison,Survey worker,2
+560,Mr. Garrison,Stephen,5
+561,Rancher,Skeeter,4
+562,Caitlyn,Randy,11
+563,Garrison,Randy,53
+564,Randy,Victoria,29
+565,Caitlyn,Victoria,1
+566,Garrison,Victoria,22
+567,David,Tom,2
+568,David,Kevin,1
+569,David,Leslie,7
+570,Newsman,Tom,3
+571,Kevin,Newsman,1
+572,Barbrady,Tom,35
+573,Barbrady,Kevin,5
+574,Leslie,Nathan,4
+575,Charlotte,Kyle,1
+576,Principal Victoria,Randy,42
+577,Classi,Jimmy,36
+578,Classi,Nathan,35
+579,Principal Victoria,Stan,21
+580,PC Principal,Weathers,18
+581,Johnson,PC Principal,3
+582,Leslie,PC Principal,16
+583,Johnson,Weathers,6
+584,Leslie,Weathers,30
+585,Kyle,Weathers,18
+586,Johnson,Leslie,5
+587,Johnson,Kyle,3
+588,Kyle,Leslie,48
+589,Jimbo,Officer Barbrady,6
+590,Mr. Garrison,Shelly,3
+591,Caitlyn Jenner,Stan,3
+592,Principal Victoria,Shelly,1
+593,Caitlyn Jenner,Principal Victoria,1
+594,Caitlyn Jenner,Shelly,1
+595,Announcer,David,24
+596,David,Mr. Garrison,24
+597,David,Jimmy,12
+598,David,Sharon,6
+599,David,Officer Barbrady,6
+600,David,Mr. Mackey,30
+601,David,Principal Victoria,12
+602,David,Stephen,6
+603,David,PC Principal,6
+604,Announcer,Cartman,8
+605,Announcer,Randy,36
+606,Announcer,Mr. Garrison,16
+607,Announcer,Kyle,12
+608,Announcer,Stan,8
+609,Announcer,Jimmy,8
+610,Announcer,Sharon,4
+611,Announcer,Officer Barbrady,4
+612,Announcer,Mr. Mackey,20
+613,Announcer,Principal Victoria,8
+614,Announcer,Gerald,4
+615,Announcer,Stephen,4
+616,Announcer,Leslie,4
+617,Announcer,PC Principal,4
+618,Cartman,Jimmy,4
+619,Cartman,Sharon,2
+620,Cartman,Officer Barbrady,2
+621,Cartman,Principal Victoria,4
+622,Cartman,Leslie,2
+623,Jimmy,Randy,18
+624,Mr. Mackey,Randy,45
+625,Leslie,Randy,9
+626,Jimmy,Mr. Garrison,8
+627,Mr. Garrison,Sharon,4
+628,Mr. Garrison,Officer Barbrady,4
+629,Gerald,Mr. Garrison,4
+630,Leslie,Mr. Garrison,4
+631,Kyle,Sharon,3
+632,Kyle,Officer Barbrady,3
+633,Kyle,Principal Victoria,6
+634,Officer Barbrady,Stan,2
+635,Mr. Mackey,Stan,10
+636,Gerald,Stan,2
+637,Stan,Stephen,2
+638,Leslie,Stan,2
+639,Jimmy,Sharon,2
+640,Jimmy,Officer Barbrady,2
+641,Jimmy,Principal Victoria,4
+642,Gerald,Jimmy,2
+643,Jimmy,Stephen,2
+644,Officer Barbrady,Sharon,1
+645,Mr. Mackey,Sharon,5
+646,Principal Victoria,Sharon,2
+647,Gerald,Sharon,1
+648,Sharon,Stephen,1
+649,Leslie,Sharon,1
+650,PC Principal,Sharon,1
+651,Mr. Mackey,Officer Barbrady,5
+652,Officer Barbrady,Principal Victoria,2
+653,Gerald,Officer Barbrady,1
+654,Leslie,Officer Barbrady,1
+655,Mr. Mackey,Principal Victoria,10
+656,Gerald,Mr. Mackey,5
+657,Mr. Mackey,Stephen,5
+658,Leslie,Mr. Mackey,5
+659,Gerald,Principal Victoria,2
+660,Principal Victoria,Stephen,2
+661,Leslie,Principal Victoria,2
+662,PC Principal,Principal Victoria,2
+663,Gerald,Leslie,1
+664,Leslie,Stephen,1

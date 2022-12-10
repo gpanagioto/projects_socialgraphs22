@@ -1,0 +1,672 @@
+,source,target,weight
+0,Tooth,Toothbrush,4
+1,Cast,Tooth,3
+2,Mr. Mackey,Tooth,9
+3,Dental Floss,Tooth,3
+4,Hard Candy,Tooth,1
+5,Cast,Toothbrush,4
+6,Mr. Mackey,Toothbrush,16
+7,Dental Floss,Toothbrush,5
+8,Hard Candy,Toothbrush,2
+9,Cast,Mr. Mackey,9
+10,Cast,Dental Floss,3
+11,Cast,Hard Candy,1
+12,Dental Floss,Mr. Mackey,12
+13,Hard Candy,Mr. Mackey,4
+14,Dental Floss,Hard Candy,2
+15,Ike,Narrator,4
+16,Anchor,Geddy Lee,1
+17,Canadian PM,Geddy Lee,1
+18,Geddy Lee,Kyle,1
+19,Geddy Lee,Ike,1
+20,Anchor,Canadian PM,1
+21,Anchor,Kyle,1
+22,Anchor,Ike,1
+23,Canadian PM,Kyle,1
+24,Canadian PM,Ike,1
+25,Ike,Kyle,1
+26,Kyle,Tooth,3
+27,Kyle,Toothbrush,3
+28,Cast,Kyle,3
+29,Kyle,Mr. Mackey,16
+30,Leader,Ugly Bob,20
+31,The Giant,Ugly Bob,4
+32,Scott,Ugly Bob,45
+33,Ike,Ugly Bob,12
+34,Leader,The Giant,5
+35,Leader,Scott,30
+36,Ike,Leader,5
+37,Scott,The Giant,6
+38,Ike,The Giant,1
+39,Ike,Scott,19
+40,Female,Male,4
+41,Male,Scott,4
+42,Female,Scott,15
+43,Dental Floss,Dentist,2
+44,Dental Floss,Toothpaste,1
+45,Another kindergartner,Dental Floss,1
+46,Dentist,Toothpaste,1
+47,Another kindergartner,Dentist,1
+48,Dentist,Mr. Mackey,2
+49,Another kindergartner,Toothpaste,1
+50,Mr. Mackey,Toothpaste,1
+51,Another kindergartner,Mr. Mackey,1
+52,Group,Male,3
+53,Male,Ugly Bob,9
+54,Group,Ugly Bob,3
+55,Baby,Scott,8
+56,Princess,Scott,23
+57,Female,Ugly Bob,7
+58,Baby,Ugly Bob,5
+59,Princess,Ugly Bob,15
+60,Baby,Female,3
+61,Female,Ike,4
+62,Female,Princess,13
+63,Baby,Ike,3
+64,Baby,Princess,7
+65,Ike,Princess,8
+66,Dentist,Kyle,1
+67,Dental Floss,Kyle,1
+68,Mr. Mackey,Sgt. Yates,9
+69,Officer,Sgt. Yates,3
+70,Sgt. Yates,Toothbrush,3
+71,Mr. Mackey,Officer,3
+72,Officer,Toothbrush,1
+73,Cartman,Stan,300
+74,Kyle,Stan,604
+75,Narrator,Stan,4
+76,Cartman,Kyle,665
+77,Cartman,Narrator,16
+78,Kyle,Narrator,19
+79,Butters,Kyle,71
+80,Butters,Stan,55
+81,Butters,Cartman,190
+82,Butters,Craig,10
+83,Butters,Principal Victoria,3
+84,Butters,Mr. Mackey,6
+85,Cartman,Craig,71
+86,Cartman,Principal Victoria,175
+87,Cartman,Mr. Mackey,88
+88,Craig,Kyle,69
+89,Craig,Principal Victoria,1
+90,Craig,Mr. Mackey,2
+91,Craig,Stan,83
+92,Kyle,Principal Victoria,2
+93,Mr. Mackey,Principal Victoria,50
+94,Principal Victoria,Stan,1
+95,Mr. Mackey,Stan,10
+96,Cartman,Clyde,86
+97,Butters,Clyde,15
+98,Clyde,Kyle,39
+99,Clyde,Stan,18
+100,Millie,Nelly,1
+101,Cartman,Millie,2
+102,Millie,Principal Victoria,1
+103,Cartman,Nelly,2
+104,Nelly,Principal Victoria,1
+105,Doctor,Liane,3
+106,Cartman,Liane,121
+107,Liane,Receptionist,1
+108,Cartman,Doctor,29
+109,Doctor,Receptionist,3
+110,Cartman,Receptionist,2
+111,Principal Victoria,Randy,6
+112,Mrs. Stevens,Randy,3
+113,Mrs. Stevens,Principal Victoria,2
+114,Bodybuilder,Tea Bag Participant,2
+115,Bodybuilder,Doctor,4
+116,Bodybuilder,Michael,1
+117,Bodybuilder,Tuong Lu Kim,1
+118,Bodybuilder,Wigger,1
+119,Bodybuilder,Cartman,3
+120,Doctor,Tea Bag Participant,8
+121,Michael,Tea Bag Participant,2
+122,Tea Bag Participant,Tuong Lu Kim,2
+123,Tea Bag Participant,Wigger,2
+124,Cartman,Tea Bag Participant,6
+125,Doctor,Michael,4
+126,Doctor,Tuong Lu Kim,14
+127,Doctor,Wigger,4
+128,Michael,Tuong Lu Kim,1
+129,Michael,Wigger,1
+130,Cartman,Michael,5
+131,Tuong Lu Kim,Wigger,1
+132,Cartman,Tuong Lu Kim,5
+133,Cartman,Wigger,3
+134,Randy,Theresa,4
+135,Riley,Theresa,3
+136,Randy,Riley,12
+137,Daniel,Doctor,23
+138,Chase,Daniel,13
+139,Daniel,Wayne D,15
+140,Daniel,Gretchen,9
+141,Daniel,Tuong Lu Kim,8
+142,Cartman,Daniel,10
+143,Chase,Doctor,15
+144,Doctor,Wayne D,18
+145,Doctor,Gretchen,13
+146,Chase,Wayne D,10
+147,Chase,Gretchen,6
+148,Chase,Tuong Lu Kim,6
+149,Cartman,Chase,5
+150,Gretchen,Wayne D,7
+151,Tuong Lu Kim,Wayne D,6
+152,Cartman,Wayne D,9
+153,Gretchen,Tuong Lu Kim,4
+154,Cartman,Gretchen,4
+155,Ms. Turnod,Wendy,1
+156,Randy,Wendy,1
+157,Ms. Turnod,Randy,1
+158,Doctor,Randy,15
+159,Daniel,Randy,14
+160,Cartman,Randy,36
+161,Randy,Wayne D,14
+162,Gretchen,Randy,5
+163,Clerk,Customer,1
+164,Customer,Randy,2
+165,Cartman,Customer,1
+166,Clerk,Randy,2
+167,Cartman,Clerk,1
+168,Field Reporter,Randy,24
+169,Cartman,Field Reporter,6
+170,Chase,Field Reporter,3
+171,Daniel,Field Reporter,3
+172,Field Reporter,Wayne D,3
+173,Chase,Randy,8
+174,Butters,Linda,13
+175,Announcer,Cartman,3
+176,Cartman,Rebecca Turnod,4
+177,Michael,Wayne D,1
+178,Announcer,Wayne D,1
+179,Rebecca Turnod,Wayne D,2
+180,Announcer,Michael,1
+181,Michael,Rebecca Turnod,2
+182,Michael,Randy,1
+183,Daniel,Michael,1
+184,Announcer,Rebecca Turnod,2
+185,Announcer,Randy,1
+186,Announcer,Daniel,1
+187,Randy,Rebecca Turnod,2
+188,Daniel,Rebecca Turnod,2
+189,Announcer,Kyle,9
+190,Kyle,Singer,7
+191,Kyle,Sarah McLachlan,21
+192,Announcer,Stan,6
+193,Singer,Stan,4
+194,Sarah McLachlan,Stan,12
+195,Announcer,Singer,1
+196,Announcer,Sarah McLachlan,3
+197,Sarah McLachlan,Singer,3
+198,Kyle,Nurse,21
+199,Kyle,Ms. Williams,14
+200,Cartman,Nurse,12
+201,Ms. Williams,Nurse,6
+202,Cartman,Ms. Williams,8
+203,Kyle,Waiter,1
+204,Cartman,Waiter,1
+205,Cartman,Dean Howland,49
+206,Clyde,Craig,14
+207,Craig,Postmaster,2
+208,Craig,Postman,1
+209,Clyde,Postmaster,2
+210,Postman,Postmaster,2
+211,Clyde,Postman,1
+212,Clyde,Roger,12
+213,Betsy,Clyde,9
+214,Both Parents,Clyde,3
+215,Betsy,Roger,12
+216,Craig,Roger,4
+217,Both Parents,Roger,4
+218,Betsy,Craig,3
+219,Betsy,Both Parents,3
+220,Both Parents,Craig,1
+221,Kyle,Mr. Peters,9
+222,Cartman,Mr. Peters,6
+223,Butters,Mr. Peters,3
+224,Butters,Cashier,12
+225,Cashier,Tuong Lu Kim,10
+226,Butters,Tuong Lu Kim,37
+227,Mr. Takiyama,Tuong Lu Kim,114
+228,Sgt. Yates,Stephen,9
+229,Butters,Sgt. Yates,3
+230,Butters,Stephen,19
+231,Linda,Stephen,11
+232,Dr. Janus,Linda,12
+233,Dr. Janus,Stephen,4
+234,Matt,Tuong Lu Kim,8
+235,Matt,Mr. Takiyama,6
+236,Butters,Dr. Janus,260
+237,Butters,Psycho Janus,24
+238,Billy,Butters,12
+239,Dr. Janus,Psycho Janus,26
+240,Billy,Dr. Janus,13
+241,Billy,Psycho Janus,2
+242,Sgt. Yates,Steven,4
+243,A woman,Tuong Lu Kim,1
+244,Dr. Janus,Tuong Lu Kim,6
+245,Sgt. Yates,Tuong Lu Kim,20
+246,Mr. Takiyama,Sgt. Yates,12
+247,Cartman,Sharon,24
+248,Butters,Liane,6
+249,Butters,Sharon,6
+250,Kyle,Liane,15
+251,Liane,Stan,12
+252,Liane,Sharon,9
+253,Kyle,Sharon,15
+254,Sharon,Stan,26
+255,Randy,Sharon,251
+256,Kyle,Randy,22
+257,Randy,Sheila,4
+258,Randy,Stan,36
+259,Gerald,Randy,8
+260,Randy,The boys,4
+261,Kyle,Sheila,2
+262,Gerald,Kyle,4
+263,Kyle,The boys,2
+264,Sheila,Stan,2
+265,Gerald,Sheila,2
+266,Sheila,The boys,1
+267,Cartman,Sheila,1
+268,Gerald,Stan,4
+269,Stan,The boys,2
+270,Gerald,The boys,2
+271,Cartman,Gerald,2
+272,Cartman,The boys,1
+273,Doctor Caroll,Stan,100
+274,Doctor  Caroll,Doctor Caroll,10
+275,Doctor  Caroll,Stan,10
+276,Bar Patron,Randy,1
+277,Kenny,Kyle,47
+278,Cartman,Kenny,40
+279,Kenny,Stan,72
+280,Randy,Steamy Nicks,2
+281,Sharon,Steamy Nicks,1
+282,Stan,Waitress,20
+283,Kyle,Waitress,12
+284,Cartman,Waitress,2
+285,Big Harry,Mike,2
+286,Butters,Mr. Garrison,6
+287,Butters,Officer Barbrady,3
+288,Butters,Wendy,3
+289,Mr. Garrison,Officer Barbrady,2
+290,Cartman,Mr. Garrison,22
+291,Mr. Garrison,Wendy,2
+292,Mr. Garrison,Stan,2
+293,Cartman,Officer Barbrady,2
+294,Officer Barbrady,Wendy,1
+295,Officer Barbrady,Stan,1
+296,Cartman,Wendy,17
+297,Stan,Wendy,46
+298,Anchor,Randy,2
+299,Cartman,Nurse Bronski,67
+300,Kyle,Wendy,38
+301,Kyle,Riley,7
+302,Riley,Wendy,2
+303,Cartman,Riley,4
+304,Mr. Mathers,Researcher,3
+305,Martin,Mr. Mathers,1
+306,Mr. Mathers,Sharon,1
+307,Mr. Mathers,Neo,3
+308,Morpheus,Mr. Mathers,7
+309,Mr. Mathers,Stan,15
+310,Martin,Researcher,3
+311,Researcher,Sharon,3
+312,Neo,Researcher,6
+313,Morpheus,Researcher,12
+314,Researcher,Stan,9
+315,Martin,Sharon,1
+316,Martin,Neo,2
+317,Martin,Morpheus,4
+318,Martin,Stan,3
+319,Neo,Sharon,2
+320,Morpheus,Sharon,4
+321,Morpheus,Neo,28
+322,Neo,Stan,36
+323,Morpheus,Stan,94
+324,Clyde,Molly,1
+325,Cartman,Molly,5
+326,Kyle,Molly,2
+327,Butters,Molly,1
+328,Bald guy,Stan,6
+329,Bald guy,Morpheus,5
+330,Bald guy,Neo,1
+331,Jill,Stan,1
+332,Bald Guy,Neo,3
+333,Bald Guy,Stan,4
+334,Bald Guy,Morpheus,4
+335,KFC exec,Other execs,2
+336,Other execs,Pizza Hut exec,2
+337,McDonald's exec,Other execs,1
+338,Other execs,Taco Bell exec,1
+339,Burger King exec,Other execs,1
+340,Other execs,Stan,1
+341,KFC exec,Pizza Hut exec,4
+342,KFC exec,McDonald's exec,2
+343,KFC exec,Taco Bell exec,2
+344,Burger King exec,KFC exec,2
+345,KFC exec,Stan,2
+346,McDonald's exec,Pizza Hut exec,2
+347,Pizza Hut exec,Taco Bell exec,2
+348,Burger King exec,Pizza Hut exec,2
+349,Pizza Hut exec,Stan,2
+350,McDonald's exec,Taco Bell exec,13
+351,Burger King exec,McDonald's exec,1
+352,McDonald's exec,Stan,91
+353,Burger King exec,Taco Bell exec,1
+354,Stan,Taco Bell exec,15
+355,Burger King exec,Stan,1
+356,Cartman,McDonald's exec,4
+357,Cartman,Morpheus,3
+358,Cartman,Neo,1
+359,Cartman,Mr. Mathers,1
+360,Cartman,Douglas,1
+361,Kyle,McDonald's exec,28
+362,Kyle,Morpheus,21
+363,Kyle,Neo,7
+364,Kyle,Mr. Mathers,7
+365,Douglas,Kyle,7
+366,Douglas,Stan,12
+367,McDonald's exec,Morpheus,12
+368,McDonald's exec,Neo,4
+369,McDonald's exec,Mr. Mathers,4
+370,Douglas,McDonald's exec,4
+371,McDonald's exec,Randy,8
+372,Douglas,Morpheus,3
+373,Morpheus,Randy,6
+374,Douglas,Neo,1
+375,Neo,Randy,2
+376,Douglas,Mr. Mathers,1
+377,Mr. Mathers,Randy,2
+378,Douglas,Randy,2
+379,Kyle,Tolkien,12
+380,Jimmy,Kyle,3
+381,Cartman,Tolkien,36
+382,Cartman,Jimmy,10
+383,Stan,Tolkien,11
+384,Jimmy,Stan,3
+385,Clyde,Tolkien,1
+386,Clyde,Jimmy,1
+387,Craig,Tolkien,7
+388,Jimmy,Tolkien,1
+389,Craig,Jimmy,1
+390,Both,Butters,20
+391,Butters,Singers,15
+392,Both,Singers,8
+393,Elderly man,Yimenez,2
+394,Butters,Elderly man,2
+395,Butters,Yimenez,4
+396,Kyle,Mr. Geiger,3
+397,Cartman,Mr. Geiger,4
+398,Chris,Mr. Geiger,1
+399,Chris,Kyle,3
+400,Cartman,Chris,4
+401,Butters,Crowd,2
+402,Cartman,Marcus,10
+403,Butters,President Calderón,2
+404,Marcus,Other Officers,1
+405,Butters,Marcus,4
+406,Cartman,Other Officers,4
+407,Butters,Other Officers,4
+408,Butters,Mexicans,2
+409,Butters,Commentator,2
+410,Cartman,Mexicans,1
+411,Cartman,Commentator,1
+412,Commentator,Mexicans,1
+413,Nurse Bronski,Stan,6
+414,Mrs. Melman,Stan,3
+415,Cartman,Mrs. Melman,9
+416,Kyle,Nurse Bronski,8
+417,Kyle,Mrs. Melman,4
+418,Butters,Nurse Bronski,4
+419,Butters,Mrs. Melman,2
+420,Clyde,Nurse Bronski,2
+421,Clyde,Mrs. Melman,1
+422,Clyde,Mr. Mackey,1
+423,Mrs. Melman,Nurse Bronski,2
+424,Craig,Nurse Bronski,2
+425,Mr. Mackey,Nurse Bronski,2
+426,Craig,Mrs. Melman,1
+427,Mr. Mackey,Mrs. Melman,1
+428,Cartman,Mr. Adler,9
+429,Mr. Adler,Principal Victoria,17
+430,Mr. Adler,Mr. Mackey,27
+431,Jenny,Kyle,15
+432,Jenny,Stan,15
+433,Butters,Jenny,5
+434,Cartman,Jenny,55
+435,Jenny,Mr. Garrison,15
+436,Class,Jenny,5
+437,Jenny,Kids,5
+438,Jenny,Timmy,5
+439,Class,Mr. Garrison,3
+440,Kids,Mr. Garrison,3
+441,Mr. Garrison,Timmy,3
+442,Cartman,Class,12
+443,Cartman,Kids,6
+444,Cartman,Timmy,6
+445,Class,Kids,1
+446,Class,Timmy,1
+447,Kids,Timmy,1
+448,Cartman,The three adults,6
+449,Mr. Mackey,The three adults,3
+450,Principal Victoria,The three adults,2
+451,Craig,Kenny,12
+452,Craig,Wendy,19
+453,Kenny,Wendy,12
+454,Tolkien,Wendy,2
+455,Frog King,Singer,2
+456,Emily,Tammy Nelson,4
+457,Stan,Tammy Nelson,2
+458,Emily,Stan,2
+459,Mr. Mackey,Selena Gomez,5
+460,Cartman,Selena Gomez,6
+461,Principal Victoria,Selena Gomez,2
+462,Frog King,Sparrow Prince,4
+463,Butters,Catatafish,6
+464,Catatafish,Craig,6
+465,Craig,Singers,5
+466,Catatafish,Singers,18
+467,Catatafish,Kyle,18
+468,Catatafish,Stan,14
+469,Kyle,Singers,11
+470,Singers,Stan,14
+471,Mrs. Trumski,Stan,2
+472,Catatafish,Mrs. Trumski,1
+473,Stan,Vernon,16
+474,Frog King,Stan,11
+475,Kyle,Vernon,8
+476,Frog King,Kyle,4
+477,Frog King,Vernon,8
+478,Singers,Vernon,4
+479,Frog King,Singers,5
+480,Butters,Frog King,2
+481,Craig,Frog King,1
+482,Frog King,Mr. Mackey,3
+483,Peter Nelson,Randy,45
+484,Male,Witches,2
+485,Cartman,Shelly,1
+486,Randy,Stephen,6
+487,Sharon,Shelly,2
+488,Randy,Shelly,5
+489,Shelly,Stan,5
+490,Mr. Feegan,Shelly,9
+491,Mr. Feegan,Stan,3
+492,Females,Males,2
+493,Bob,Randy,3
+494,Peter Nelson,Stephen,1
+495,Bob,Peter Nelson,1
+496,Bob,Stephen,1
+497,Both,Men,1
+498,Both,Reginald,1
+499,Reginald,Representative,2
+500,Randy,Reginald,2
+501,Both,Representative,2
+502,Both,Randy,2
+503,Randy,Representative,16
+504,Representative,Webber,6
+505,Schwartz,Webber,12
+506,Sondheim,Webber,29
+507,Randy,Webber,33
+508,Elton John,Webber,5
+509,Representative,Schwartz,6
+510,Representative,Sondheim,10
+511,Elton John,Representative,2
+512,Schwartz,Sondheim,26
+513,Randy,Schwartz,30
+514,Elton John,Schwartz,4
+515,Randy,Sondheim,111
+516,Elton John,Sondheim,8
+517,Elton John,Randy,9
+518,Larry,Shelly,1
+519,Mrs. Feegan,Sharon,6
+520,Sondheim,Spectator,8
+521,Randy,Spectator,9
+522,Spectator,Webber,1
+523,Schwartz,Spectator,1
+524,Bros,Schwartz,1
+525,Bros,Sondheim,3
+526,Bros,Randy,3
+527,Bros,Elton John,1
+528,Bros,Webber,2
+529,Elderly Man,Shelly,1
+530,Shelly,Usher,1
+531,Elderly Man,Randy,3
+532,Randy,Usher,3
+533,Elderly Man,Usher,1
+534,Announcer,Audience,1
+535,Board rep,Principal Victoria,1
+536,Assembly,Principal Victoria,1
+537,Assembly,Board rep,1
+538,Coach,Stan,8
+539,Coach,Kyle,2
+540,Cartman,Coach,14
+541,Coach,Craig,4
+542,Coach,Wendy,2
+543,Clyde,Coach,2
+544,Clyde,Wendy,1
+545,Cartman,Peter Panda,22
+546,Cartman,Polly Prissypants,54
+547,Peter Panda,Polly Prissypants,8
+548,Fifth Grader,Stan,1
+549,Butters,Jimmy,12
+550,Butters,Fifth Grader,2
+551,Cartman,Fifth Grader,1
+552,Fifth Grader,Jimmy,2
+553,Board rep,Butters,8
+554,Board rep,Jimmy,12
+555,Class,Kyle,2
+556,Class,Craig,2
+557,Class,Stan,1
+558,Board rep,Receptionist,2
+559,Peter Panda,Rumpertumskin,6
+560,Liane,Peter Panda,10
+561,Muscleman Marc,Peter Panda,6
+562,Polly Prissypants,Rumpertumskin,21
+563,Liane,Polly Prissypants,15
+564,Muscleman Marc,Polly Prissypants,9
+565,Cartman,Rumpertumskin,33
+566,Cartman,Muscleman Marc,15
+567,Liane,Rumpertumskin,15
+568,Muscleman Marc,Rumpertumskin,9
+569,Liane,Muscleman Marc,15
+570,Female reporter,Patron,1
+571,Fifth grader,Stan,3
+572,Fifth grader,Kyle,3
+573,Bob,Linda,1
+574,Bob,Liane,1
+575,Liane,Linda,1
+576,Kenny,Tolkien,1
+577,Classmates,Stephen Tamill,1
+578,Jimmy,Stephen Tamill,4
+579,Butters,Stephen Tamill,2
+580,Polly Prissypants,Stan,4
+581,Kyle,Polly Prissypants,4
+582,Butters,Guest,2
+583,Butters,Sawitsky,2
+584,Cartman,Guest,1
+585,Guest,Sawitsky,1
+586,Cartman,Sawitsky,1
+587,Duncan Everton,Narrator,3
+588,Kenny,Narrator,5
+589,Charles Biggens,Narrator,3
+590,Cartman,Duncan Everton,4
+591,Duncan Everton,Kyle,5
+592,Duncan Everton,Stan,1
+593,Duncan Everton,Kenny,1
+594,Charles Biggens,Duncan Everton,1
+595,Cartman,Charles Biggens,4
+596,Charles Biggens,Kyle,5
+597,Charles Biggens,Stan,1
+598,Charles Biggens,Kenny,1
+599,THC President,Wife,1
+600,Stan,THC President,11
+601,Kyle,THC President,36
+602,Announcer,Butters,1
+603,Butters,Narrator,3
+604,Announcer,Narrator,3
+605,Kyle,Sawitsky,20
+606,Narrator,THC President,2
+607,Cartman,Chet,12
+608,Sawitsky,Stan,10
+609,Miles,Stan,36
+610,Sawitzky,Stan,5
+611,Kyle,Miles,53
+612,Kyle,Sawitzky,2
+613,Kenny,Sawitsky,6
+614,Kenny,Miles,15
+615,Kenny,Sawitzky,3
+616,Miles,Sawitsky,10
+617,Sawitsky,Sawitzky,2
+618,Miles,Sawitzky,5
+619,Natalie,Stan,6
+620,Miles,Natalie,22
+621,A pilot,Stan,1
+622,A pilot,Miles,7
+623,Miles,THC President,33
+624,A pilot,Kyle,3
+625,A pilot,THC President,2
+626,Natalie,THC President,29
+627,Kyle,Natalie,45
+628,Narrator,Pilgrim,2
+629,Miles,Pilgrim,1
+630,Miles,Narrator,2
+631,Carol,Kevin,3
+632,Cops,Kenny,2
+633,Cops,Narrator,1
+634,Carol,Stuart,3
+635,Cartman,Stuart,3
+636,Kevin,Stuart,3
+637,Carol,Cartman,1
+638,Cartman,Kevin,1
+639,Karen,Mr. Adams,5
+640,David,Mr. Weatherhead,27
+641,Melissa,Mr. Weatherhead,6
+642,David,Melissa,2
+643,Karen,Mysterion,12
+644,Mr. Weatherhead,Mysterion,4
+645,Karen,Mr. Weatherhead,13
+646,Cartman,Mr. Adams,60
+647,Cartman,Mrs. Weatherhead,16
+648,Kenny,Mrs. Weatherhead,2
+649,Cartman,Mr. Weatherhead,15
+650,Mr. Weatherhead,Mrs. Weatherhead,30
+651,Karen,Kenny,3
+652,Cartman,Karen,5
+653,Cartman,Principal,12
+654,Cartman,Mr. Adam,4
+655,Mr. Adam,Principal,3
+656,Mr. Adams,Principal,3
+657,Mr. Adam,Mr. Adams,1
+658,Jessica,Mysterion,4
+659,Karen,Melissa,1
+660,Melissa,Mrs. Weatherhead,1
+661,David,Karen,4
+662,Karen,Mrs. Weatherhead,3
+663,David,Mrs. Weatherhead,7
+664,Mr. Adams,Mr. Weatherhead,30
+665,David,Mr. Adams,13
+666,Cartman,David,3
+667,Mr. Adams,Mrs. Weatherhead,10
+668,Mrs. Weatherhead,Narrator,2
+669,Mr. Weatherhead,Narrator,2
+670,Mr. Adams,Narrator,1

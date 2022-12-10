@@ -1,0 +1,536 @@
+,source,target,weight
+0,Cartman,Mrs. Nelson,38
+1,Butters,Cartman,147
+2,Cartman,Tolkien,72
+3,Cartman,Craig,25
+4,Cartman,Kyle,656
+5,Cartman,Class,4
+6,Cartman,SWAT officer,4
+7,Butters,Mrs. Nelson,9
+8,Mrs. Nelson,Tolkien,9
+9,Craig,Mrs. Nelson,9
+10,Kyle,Mrs. Nelson,9
+11,Class,Mrs. Nelson,9
+12,Mrs. Nelson,SWAT officer,9
+13,Butters,Tolkien,2
+14,Butters,Craig,2
+15,Butters,Kyle,108
+16,Butters,Class,1
+17,Butters,SWAT officer,1
+18,Craig,Tolkien,2
+19,Kyle,Tolkien,6
+20,Class,Tolkien,1
+21,SWAT officer,Tolkien,1
+22,Craig,Kyle,2
+23,Class,Craig,1
+24,Craig,SWAT officer,1
+25,Class,Kyle,1
+26,Kyle,SWAT officer,1
+27,Class,SWAT officer,1
+28,Cartman,Stan,341
+29,Bill Keegan,Stan,2
+30,Kyle,Stan,273
+31,Sharon,Stan,28
+32,Bill Keegan,Cartman,3
+33,Cartman,Sharon,6
+34,Bill Keegan,Kyle,1
+35,Bill Keegan,Sharon,2
+36,Kyle,Sharon,2
+37,Randy,Stan,222
+38,Randy,Sharon,174
+39,Cartman,Mr. Mackey,42
+40,Cartman,PC Principal,34
+41,An officer,Cartman,7
+42,Mr. Mackey,Tolkien,12
+43,PC Principal,Tolkien,6
+44,An officer,Tolkien,3
+45,Mr. Mackey,PC Principal,17
+46,An officer,Mr. Mackey,4
+47,An officer,PC Principal,2
+48,Sharon,Stephen,39
+49,Randy,Stephen,84
+50,Laura,Stephen,3
+51,Ryan,Stephen,3
+52,Laura,Sharon,3
+53,Ryan,Sharon,3
+54,Laura,Randy,2
+55,Randy,Ryan,8
+56,Laura,Ryan,1
+57,Paramedic,Randy,6
+58,Cartman,Nichole,42
+59,Doctor,Sharon,16
+60,Cartman,Steve,12
+61,Linda Black,Steve,2
+62,Steve,Tolkien,4
+63,Linda,Steve,2
+64,Cartman,Linda Black,6
+65,Cartman,Linda,6
+66,Linda Black,Tolkien,2
+67,Linda,Linda Black,1
+68,Linda,Tolkien,2
+69,Linda Stotch,Sharon,2
+70,Harriet,Sharon,18
+71,Harriet,Linda Stotch,1
+72,Linda,Sharon,2
+73,Harriet,Linda,1
+74,Sharon,Townsman,7
+75,Harriet,Stephen,6
+76,Stephen,Townsman,5
+77,Harriet,Randy,8
+78,Randy,Townsman,6
+79,Harriet,Townsman,2
+80,Congregants,Fr. Maxi,4
+81,Congregants,Randy,1
+82,Congregants,Stephen,1
+83,Fr. Maxi,Randy,66
+84,Fr. Maxi,Stephen,14
+85,Jimbo,Stephen,14
+86,Others,Stephen,1
+87,Jimbo,Others,2
+88,Butters,Fr. Maxi,102
+89,Kenny,Stan,99
+90,Butters,Stan,42
+91,Fr. Maxi,Stan,12
+92,Kenny,Kyle,95
+93,Butters,Kenny,4
+94,Fr. Maxi,Kenny,4
+95,Cartman,Kenny,124
+96,Kenny,Randy,4
+97,Fr. Maxi,Kyle,20
+98,Kyle,Randy,63
+99,Butters,Randy,26
+100,Cartman,Fr. Maxi,19
+101,Cartman,Randy,52
+102,Mr. Mackey,Ted,1
+103,Hazel,Mr. Mackey,1
+104,Mr. Mackey,Others,1
+105,Mr. Mackey,Randy,14
+106,Josie,Mr. Mackey,1
+107,Mr. Mackey,Ryan,1
+108,Butters,Mr. Mackey,3
+109,Hazel,Ted,1
+110,Others,Ted,1
+111,Randy,Ted,5
+112,Josie,Ted,1
+113,Ryan,Ted,1
+114,Butters,Ted,1
+115,Hazel,Others,1
+116,Hazel,Randy,5
+117,Hazel,Josie,1
+118,Hazel,Ryan,1
+119,Butters,Hazel,1
+120,Others,Randy,6
+121,Josie,Others,1
+122,Others,Ryan,1
+123,Butters,Others,1
+124,Josie,Randy,5
+125,Josie,Ryan,1
+126,Butters,Josie,1
+127,Butters,Ryan,1
+128,Sharon,Shelley,1
+129,Randy,Shelley,1
+130,Archbishop,Mr. Mackey,4
+131,Auxiliary,Mr. Mackey,2
+132,Archbishop,Auxiliary,2
+133,Clyde,Fr. Maxi,9
+134,Clyde,Kyle,5
+135,Cartman,Clyde,8
+136,Jimbo,Stuart,1
+137,Randy,Stuart,5
+138,Others,Stuart,1
+139,Jimbo,Randy,5
+140,Auxiliary,Randy,9
+141,Randy,Townsmen,6
+142,Auxiliary,Townsmen,6
+143,Auxiliary,Priest,31
+144,Priest,Stan,10
+145,Auxiliary,Stan,33
+146,Boys,Fr. Maxi,5
+147,Boys,Clyde,1
+148,Boys,Kyle,2
+149,Boys,Cartman,1
+150,Boys,Butters,1
+151,Butters,Clyde,6
+152,Assistant,Auxiliary,19
+153,Assistant,Priest,6
+154,Assistant,Cartman,1
+155,Assistant,Clyde,1
+156,Auxiliary,Cartman,3
+157,Auxiliary,Clyde,6
+158,Cartman,Priest,1
+159,Clyde,Priest,1
+160,Auxiliary,Butters,47
+161,Clyde,Stan,3
+162,Linda,Randy,9
+163,Linda,Stephen,27
+164,Fr. Maxi,Linda,2
+165,Auxiliary,Kid's voice,7
+166,Auxiliary,Fr. Maxi,49
+167,Assistant,Kid's voice,2
+168,Kid's voice,Priest,2
+169,Fr. Maxi,Kid's voice,7
+170,Butters,Kid's voice,5
+171,Assistant,Fr. Maxi,14
+172,Assistant,Butters,10
+173,Fr. Maxi,Priest,14
+174,Butters,Priest,10
+175,Mayor McDaniels,Randy,7
+176,Councilwoman,Randy,2
+177,Mayor's aide,Randy,1
+178,Mrs. Testaburger,Randy,1
+179,Mr. Hankey,Randy,6
+180,Mayor McDaniels,Ryan,5
+181,Councilwoman,Mayor McDaniels,10
+182,Mayor McDaniels,Mayor's aide,5
+183,Mayor McDaniels,Mrs. Testaburger,5
+184,Mayor McDaniels,Mr. Hankey,33
+185,Councilwoman,Ryan,2
+186,Mayor's aide,Ryan,1
+187,Mrs. Testaburger,Ryan,1
+188,Mr. Hankey,Ryan,4
+189,Councilwoman,Mayor's aide,2
+190,Councilwoman,Mrs. Testaburger,2
+191,Councilwoman,Mr. Hankey,8
+192,Mayor's aide,Mrs. Testaburger,1
+193,Mayor's aide,Mr. Hankey,4
+194,Mr. Hankey,Mrs. Testaburger,4
+195,Craig,Mr. Hankey,1
+196,Cartman,Mr. Hankey,1
+197,PC Principal,Strong Woman,190
+198,Kyle,Mr. Hankey,86
+199,Male Lawyer,Mr. Hankey,2
+200,Female lawyer,Male Lawyer,1
+201,Female lawyer,Mr. Hankey,2
+202,Mr. Hankey,Mr. Prewitt,1
+203,Gerald,Kyle,5
+204,Gerald,Mr. Hankey,3
+205,Dr. Bender,PC Principal,30
+206,Female Nurse,Strong Woman,10
+207,Male Nurse,Strong Woman,5
+208,Female Nurse,PC Principal,12
+209,Male Nurse,PC Principal,6
+210,Female Nurse,Male Nurse,2
+211,Mr. Hankey,Mr. Waithouse,36
+212,Elderly Woman,Strong Woman,10
+213,Elderly Woman,Man with Orange Shirt,8
+214,Elderly Woman,PC Principal,2
+215,Man with Orange Shirt,Strong Woman,20
+216,Man with Orange Shirt,PC Principal,4
+217,Jogger,PC Principal,2
+218,Mr. Hankey,PC Principal,8
+219,Kyle,PC Principal,2
+220,Jogger,Mr. Hankey,4
+221,Jogger,Kyle,1
+222,Mr. Hankey,Stan,2
+223,Mayor McDaniels,Stan,2
+224,Apu,Bart,1
+225,Nelson,Sharon,3
+226,Nelson,Randy,4
+227,Jenny,Kyle,15
+228,Ike,Jenny,9
+229,Boy,Jenny,3
+230,Jenny,Quaid,3
+231,Jenny,Stan,3
+232,Ike,Kyle,15
+233,Boy,Kyle,5
+234,Kyle,Quaid,5
+235,Boy,Ike,3
+236,Ike,Quaid,3
+237,Ike,Stan,3
+238,Boy,Quaid,1
+239,Boy,Stan,1
+240,Quaid,Stan,1
+241,Joe,Randy,10
+242,Randy,Towelie,33
+243,Randy,Vape Rep,71
+244,Kyle,Ms. Blaze,18
+245,Cartman,Ms. Blaze,20
+246,Butters,Ms. Blaze,4
+247,Joe,Towelie,2
+248,Butters,Vaping Man,5
+249,Kyle,Vaping Man,19
+250,Cartman,Vaping Man,20
+251,Cartman,Vape Dealer,56
+252,Kyle,Vape Dealer,56
+253,Butters,Vape Dealer,7
+254,Kyle,Mr. Mackey,12
+255,Patron,Randy,2
+256,Bodybuilder,Patron,2
+257,Bodybuilder,Randy,4
+258,Kyle,Vape Rep,27
+259,Kyle,Towelie,9
+260,Cartman,Vape Rep,18
+261,Towelie,Vape Rep,3
+262,Butters,Vape Rep,3
+263,Cartman,Towelie,6
+264,Butters,Towelie,5
+265,Stan,Towelie,1
+266,Mr. Mackey,Neighbor,3
+267,Mackey,Mr. Mackey,2
+268,Mackey,Neighbor,6
+269,Lolly,Mackey,42
+270,Clyde,Jimmy,5
+271,Jimmy,Kenny,3
+272,Clyde,Kenny,12
+273,Kenny,Wendy,1
+274,Butters,Jimmy,1
+275,Butters,Wendy,1
+276,Stan,Tolkien,2
+277,Clyde,Tolkien,1
+278,Jimmy,Tolkien,1
+279,Tolkien,Wendy,1
+280,Cartman,Jimmy,4
+281,Cartman,Wendy,4
+282,Jimmy,Stan,2
+283,Craig,Stan,2
+284,Stan,Wendy,2
+285,Clyde,Craig,1
+286,Clyde,Wendy,1
+287,Jimmy,Kyle,1
+288,Kyle,Wendy,1
+289,Craig,Jimmy,1
+290,Jimmy,Wendy,1
+291,Craig,Wendy,1
+292,Jimbo,Sgt. Yates,1
+293,Sgt. Yates,Stephen,1
+294,Sgt. Yates,Townsfolk,1
+295,Mackey,Sgt. Yates,1
+296,Sgt. Yates,Townsman,1
+297,Jimbo,Townsfolk,1
+298,Jimbo,Mackey,1
+299,Jimbo,Townsman,1
+300,Stephen,Townsfolk,1
+301,Mackey,Stephen,1
+302,Mackey,Townsfolk,1
+303,Townsfolk,Townsman,1
+304,Mackey,Townsman,1
+305,Associate,Mackey,1
+306,Kenny,Mackey,49
+307,Kyle,Richard,3
+308,Cartman,Richard,7
+309,Guard,Mackey,12
+310,Guard,Kenny,6
+311,Jimbo,Ned,17
+312,Jimbo,Stan,4
+313,Ned,Randy,2
+314,Ned,Stan,2
+315,Strong Woman,Yates,8
+316,Brown,Yates,4
+317,Brown,Strong Woman,2
+318,Cartman,Mackey,6
+319,Kyle,Mackey,4
+320,Mackey,Stan,5
+321,Cartman,Yates,9
+322,Yates,Yatess,2
+323,Kyle,Receptionist,3
+324,Kenny,Receptionist,3
+325,Gore,Stan,80
+326,Gore,Kyle,150
+327,Cartman,Gore,43
+328,Husband,Susan,16
+329,Gore,Kenny,5
+330,Maggie,Yates,78
+331,Kyle,The Boys,6
+332,Cartman,The Boys,3
+333,Stan,The Boys,9
+334,Gore,The Boys,15
+335,Kyle,Satan,49
+336,Gore,Satan,33
+337,Kenny,Satan,12
+338,Satan,Stan,4
+339,Female officer,Stan,2
+340,Female officer,Yates,2
+341,Female officer,Kyle,1
+342,Stan,Yates,6
+343,Kyle,Yates,2
+344,Jenkins,Stan,12
+345,Jenkins,Kyle,12
+346,Cartman,Jenkins,24
+347,Hugh,Mr. Clarkson,3
+348,Mr. Clarkson,Townsman,1
+349,Mr. Clarkson,Stephen,1
+350,Hugh,Townsman,3
+351,Hugh,Stephen,3
+352,Marvin,Stan,90
+353,Margaret,Stan,7
+354,Margaret,Marvin,6
+355,Cartman,Satan,19
+356,Alec,Jim,2
+357,Guest,Jim,2
+358,Gore,Jim,4
+359,Alec,Guest,1
+360,Alec,Gore,2
+361,Gore,Guest,2
+362,Cartman,Marvin,5
+363,Kyle,Marvin,4
+364,Kenny,Marvin,4
+365,Lawyer,Stan,16
+366,Kyle,Lawyer,2
+367,Lawyer,Marvin,4
+368,Cartman,Doctor,17
+369,Ms. Blaze,PC Principal,2
+370,Cartman,Diner,2
+371,Cartman,Pedestrian,6
+372,Mrs. Nelson,Ms. Nelson,1
+373,Cartman,Ms. Nelson,2
+374,Barkeep,Mike,4
+375,Doctor,Tweek,3
+376,Liane,Tweek,1
+377,Cartman,Tweek,4
+378,Tolkien,Tweek,1
+379,Doctor,Liane,3
+380,Doctor,Tolkien,3
+381,Cartman,Liane,6
+382,Liane,Tolkien,1
+383,Desk Officer,Strong Woman,41
+384,Both,Strong Woman,8
+385,Both,Desk Officer,5
+386,Desk Officer,PC Principal,17
+387,Both,PC Principal,3
+388,Cartman,Mayor McDaniels,2
+389,Johnson,Mayor McDaniels,1
+390,Cartman,Johnson,2
+391,PC Principal,Record Producer,8
+392,Record Producer,Strong Woman,10
+393,Gruff Worker,Stephen,30
+394,Gruff Worker,Linda,2
+395,Larry,Stan,4
+396,Porsche,Stan,2
+397,Mercedes,Stan,2
+398,Butters,Larry,10
+399,Butters,Porsche,3
+400,Butters,Mercedes,3
+401,Cartman,Larry,2
+402,Cartman,Porsche,1
+403,Cartman,Mercedes,1
+404,Larry,Porsche,2
+405,Larry,Mercedes,2
+406,Mercedes,Porsche,1
+407,Richard,Stephen,4
+408,Josh,Richard,2
+409,Bearded Worker,Richard,1
+410,Beefy Worker,Richard,1
+411,Josh,Stephen,14
+412,Bearded Worker,Stephen,9
+413,Beefy Worker,Stephen,4
+414,Bearded Worker,Josh,2
+415,Beefy Worker,Josh,2
+416,Bearded Worker,Beefy Worker,1
+417,Barkeep,Stephen,5
+418,Barkeep,Gruff Worker,3
+419,Barkeep,Stuart,4
+420,Barkeep,Bearded Worker,1
+421,Barkeep,Skeeter,1
+422,Stephen,Stuart,35
+423,Skeeter,Stephen,5
+424,Gruff Worker,Stuart,20
+425,Bearded Worker,Gruff Worker,3
+426,Gruff Worker,Skeeter,3
+427,Bearded Worker,Stuart,4
+428,Skeeter,Stuart,4
+429,Bearded Worker,Skeeter,1
+430,Liane,Tom,6
+431,Josh,Liane,4
+432,Cartman,Tom,3
+433,Cartman,Josh,2
+434,Josh,Tom,11
+435,Janson,Mayor,32
+436,Bezos,Janson,16
+437,Bezos,Mayor,38
+438,Butters,Linda,8
+439,Butters,Stephen,14
+440,Bezos,Stephen,1
+441,Gamestop employee,Hobby employee,1
+442,Build-A-Bear Workshop employee,Kyle,1
+443,Build-A-Bear Workshop employee,Cartman,2
+444,Build-A-Bear Workshop employee,Stan,4
+445,Build-A-Bear Workshop employee,Mall Workers,2
+446,Build-A-Bear Workshop employee,Kenny,1
+447,Kyle,Mall Workers,2
+448,Cartman,Mall Workers,4
+449,Mall Workers,Stan,8
+450,Kenny,Mall Workers,2
+451,Customers,Tom,2
+452,Customers,Randy,2
+453,Customers,Josh,2
+454,Customers,Stuart,2
+455,Customers,Strikers,1
+456,Customers,Gruff Worker,4
+457,Customers,Stephen,3
+458,Randy,Tom,4
+459,Stuart,Tom,4
+460,Strikers,Tom,2
+461,Gruff Worker,Tom,8
+462,Stephen,Tom,6
+463,Josh,Randy,4
+464,Randy,Strikers,2
+465,Gruff Worker,Randy,8
+466,Josh,Stuart,4
+467,Josh,Strikers,2
+468,Gruff Worker,Josh,8
+469,Strikers,Stuart,5
+470,Gruff Worker,Strikers,4
+471,Stephen,Strikers,6
+472,Bezos,Stan,31
+473,Mayor,Stan,9
+474,Gerald,Stuart,4
+475,Kenny,Stuart,1
+476,Driver,Randy,10
+477,Butters,Girl,4
+478,Butters,Sally,4
+479,Girl,Larry,1
+480,Girl,Sally,1
+481,Larry,Sally,1
+482,Ryan,Sarah,12
+483,Sarah,Towelie,9
+484,Ryan,Towelie,12
+485,Gerald,Strikers,1
+486,Gerald,Stephen,3
+487,All four,Kyle,5
+488,All four,Stan,6
+489,All four,Cartman,7
+490,Bezos,Josh,42
+491,Alexa,Josh,6
+492,Josh,Kids,6
+493,Boy,Josh,6
+494,Alexa,Bezos,15
+495,Bezos,Kids,7
+496,Bezos,Boy,7
+497,Alexa,Kids,1
+498,Alexa,Boy,1
+499,Boy,Kids,1
+500,Larry,Mr. Zewiski,3
+501,Mr. Zewiski,Mrs. Zewiski,3
+502,Mr. Zewiski,Towelie,3
+503,Mr. Zewiski,Randy,3
+504,Larry,Mrs. Zewiski,1
+505,Larry,Towelie,1
+506,Larry,Randy,1
+507,Mrs. Zewiski,Towelie,1
+508,Mrs. Zewiski,Randy,1
+509,Cartman,Mayor,9
+510,Cartman,Santa,21
+511,Kyle,Mayor,3
+512,Kyle,Santa,7
+513,Mayor,Richard,6
+514,Richard,Santa,14
+515,Richard,Stan,4
+516,Mackey,Richard,2
+517,Mayor,Santa,21
+518,Mackey,Mayor,3
+519,Santa,Stan,14
+520,Mackey,Santa,7
+521,Stephen,Towelie,6
+522,Bezos,Cartman,16
+523,Alexa,Cartman,2
+524,Cartman,Crowd,4
+525,Bezos,Kyle,16
+526,Bezos,Randy,40
+527,Bezos,Crowd,16
+528,Alexa,Stan,2
+529,Crowd,Stan,4
+530,Alexa,Kyle,2
+531,Crowd,Kyle,4
+532,Alexa,Randy,5
+533,Alexa,Crowd,2
+534,Crowd,Randy,10

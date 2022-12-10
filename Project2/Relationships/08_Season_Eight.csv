@@ -1,0 +1,1097 @@
+,source,target,weight
+0,Cartman,Kyle,1229
+1,Cartman,Roger,36
+2,Cartman,Stan,875
+3,Cartman,Kenny,128
+4,Kyle,Roger,38
+5,Kyle,Stan,887
+6,Kenny,Kyle,143
+7,Roger,Stan,48
+8,Kenny,Roger,5
+9,Kenny,Stan,133
+10,Cartman,Craig,99
+11,Cartman,Tolkien,91
+12,Cartman,Clyde,59
+13,Craig,Stan,96
+14,Craig,Kyle,87
+15,Craig,Tolkien,13
+16,Clyde,Craig,16
+17,Stan,Tolkien,70
+18,Clyde,Stan,29
+19,Kyle,Tolkien,58
+20,Clyde,Kyle,30
+21,Clyde,Tolkien,8
+22,Butters,Stan,340
+23,Butters,Cartman,660
+24,Butters,Linda,86
+25,Butters,Kyle,316
+26,Butters,Kenny,39
+27,Cartman,Jimmy,233
+28,Cartman,Singer,6
+29,Butters,Craig,20
+30,Butters,Jimmy,59
+31,Butters,Clyde,17
+32,Butters,Tolkien,36
+33,Butters,Singer,2
+34,Jimmy,Kyle,162
+35,Kyle,Singer,4
+36,Jimmy,Stan,89
+37,Singer,Stan,6
+38,Craig,Jimmy,16
+39,Craig,Singer,5
+40,Clyde,Jimmy,5
+41,Jimmy,Tolkien,26
+42,Jimmy,Singer,2
+43,Clyde,Singer,2
+44,Singer,Tolkien,1
+45,Chef,Stan,51
+46,Stan,The Boys,6
+47,Chef,Kyle,51
+48,Kyle,The Boys,6
+49,Cartman,Chef,26
+50,Cartman,The Boys,2
+51,Craig,Kenny,5
+52,Clyde,Kenny,4
+53,Kenny,Tolkien,4
+54,Jimmy,Kenny,15
+55,Chef,Kenny,10
+56,Kenny,The Boys,1
+57,Chef,Craig,6
+58,Craig,The Boys,1
+59,Chef,Clyde,6
+60,Clyde,The Boys,1
+61,Chef,Tolkien,6
+62,The Boys,Tolkien,1
+63,Chef,Jimmy,7
+64,Jimmy,The Boys,1
+65,Chef,The Boys,6
+66,Butters,Dr. Doctor,2
+67,Dr. Doctor,Nurse,11
+68,Announcer,Dr. Doctor,2
+69,Dr. Doctor,Stan,28
+70,Dr. Doctor,Kyle,19
+71,Cartman,Dr. Doctor,49
+72,Dr. Doctor,Kenny,2
+73,Craig,Dr. Doctor,4
+74,Clyde,Dr. Doctor,2
+75,Dr. Doctor,Tolkien,2
+76,Butters,Nurse,2
+77,Announcer,Butters,8
+78,Announcer,Nurse,2
+79,Nurse,Stan,12
+80,Kyle,Nurse,12
+81,Cartman,Nurse,15
+82,Kenny,Nurse,2
+83,Craig,Nurse,4
+84,Clyde,Nurse,2
+85,Nurse,Tolkien,2
+86,Announcer,Stan,16
+87,Announcer,Kyle,14
+88,Announcer,Cartman,15
+89,Announcer,Kenny,1
+90,Announcer,Craig,2
+91,Announcer,Clyde,1
+92,Announcer,Tolkien,6
+93,Butters,Vet,4
+94,Assistant,Butters,2
+95,Assistant,Vet,2
+96,Craig,Roger,12
+97,Barker,Roger,6
+98,Butters,Roger,3
+99,Linda,Roger,3
+100,Randy,Roger,3
+101,Roger,Sheila,3
+102,Barker,Stan,12
+103,Linda,Stan,26
+104,Randy,Stan,282
+105,Sheila,Stan,8
+106,Barker,Kyle,12
+107,Kyle,Linda,8
+108,Kyle,Randy,57
+109,Kyle,Sheila,15
+110,Barker,Craig,8
+111,Craig,Linda,4
+112,Craig,Randy,4
+113,Craig,Sheila,4
+114,Barker,Cartman,4
+115,Barker,Butters,2
+116,Barker,Linda,2
+117,Barker,Randy,2
+118,Barker,Sheila,2
+119,Cartman,Linda,14
+120,Cartman,Randy,23
+121,Cartman,Sheila,13
+122,Butters,Randy,1
+123,Butters,Sheila,1
+124,Linda,Randy,1
+125,Linda,Sheila,1
+126,Randy,Sheila,5
+127,Gerald,Townsfolk,1
+128,Stan,Townsfolk,4
+129,Cartman,Townsfolk,35
+130,Skeeter,Townsfolk,1
+131,Sheila,Townsfolk,1
+132,Mr. Garrison,Townsfolk,1
+133,Kyle,Townsfolk,3
+134,Gerald,Stan,6
+135,Cartman,Gerald,9
+136,Gerald,Skeeter,1
+137,Gerald,Sheila,2
+138,Gerald,Mr. Garrison,1
+139,Gerald,Kyle,16
+140,Skeeter,Stan,11
+141,Mr. Garrison,Stan,10
+142,Cartman,Skeeter,4
+143,Cartman,Mr. Garrison,10
+144,Sheila,Skeeter,1
+145,Mr. Garrison,Skeeter,4
+146,Kyle,Skeeter,2
+147,Mr. Garrison,Sheila,1
+148,Kyle,Mr. Garrison,6
+149,Stan,Timmy,5
+150,Jimmy,Timmy,130
+151,Cartman,Timmy,14
+152,Kyle,Timmy,10
+153,Francis,Timmy,4
+154,Nathan,Timmy,32
+155,Francis,Jimmy,11
+156,Jimmy,Nathan,88
+157,Francis,Nathan,8
+158,Jimmy,Ryan,49
+159,Girl,Ryan,7
+160,Nancy,Ryan,7
+161,Girl,Jimmy,7
+162,Jimmy,Nancy,37
+163,Girl,Nancy,1
+164,Cartman,Liane,109
+165,Coach,Timmy,1
+166,Coach,Jimmy,2
+167,Michael,Volunteer,9
+168,Cartman,Volunteer,36
+169,Liane,Volunteer,45
+170,Cartman,Michael,16
+171,Liane,Michael,5
+172,Mr. Mackey,Timmy,56
+173,Nancy,Sarah,5
+174,Jimmy,Sarah,6
+175,Host,Jimmy,15
+176,Cartman,Host,7
+177,Cartman,Winner,3
+178,Blond Boy,Cartman,3
+179,Blonde Girl,Cartman,3
+180,Blond Boy,Winner,1
+181,Blonde Girl,Winner,1
+182,Blond Boy,Blonde Girl,1
+183,Bonds,Jimmy,7
+184,Bonds,Host,2
+185,Bonds,Cartman,3
+186,Bonds,Timmy,2
+187,Bonds,McGuire,1
+188,Jimmy,McGuire,7
+189,Host,Timmy,4
+190,Host,McGuire,2
+191,Cartman,McGuire,3
+192,McGuire,Timmy,2
+193,Kyle,Ticket Salesman,4
+194,Jesus,Kyle,2
+195,Cartman,Phillip,10
+196,Phillip,Terrance,6
+197,Kyle,Phillip,6
+198,Cartman,Terrance,15
+199,Kyle,Terrance,9
+200,Elise,Stan,7
+201,Elise,Ticket Salesman,15
+202,Elise,Kenny,1
+203,Stan,Ticket Salesman,35
+204,Kenny,Ticket Salesman,5
+205,Elise,Jack,13
+206,Jack,Ticket Salesman,10
+207,Cartman,Jack,24
+208,Guests,Jack,6
+209,Cartman,Elise,24
+210,Elise,Guests,6
+211,Cartman,Ticket Salesman,20
+212,Guests,Ticket Salesman,4
+213,Cartman,Guests,8
+214,Mel,Stan,48
+215,Kenny,Mel,4
+216,Father Maxi,Kyle,20
+217,Ticket Salesman,Townsfolk,10
+218,Elise,Townsfolk,10
+219,Jack,Townsfolk,10
+220,Kyle,Rabbi,3
+221,Kyle,Mob,9
+222,Rabbi,Sheila,1
+223,Mob,Sheila,3
+224,Gerald,Rabbi,1
+225,Gerald,Mob,3
+226,Mob,Rabbi,3
+227,Cartman,Rabbi,3
+228,Cartman,Mob,9
+229,Driver,Kenny,6
+230,Driver,Stan,39
+231,Driver,Mel,12
+232,Kyle,OC Leader,6
+233,Randy,Sharon,116
+234,Sharon,Stan,109
+235,OC Leader,Stan,3
+236,Cartman,OC Leader,6
+237,Cartman,Townsman,3
+238,Kenny,OC Leader,4
+239,Chef,OC Leader,5
+240,OC Leader,Townsman,2
+241,Kyle,Townsman,2
+242,Kenny,Townsman,2
+243,Chef,Townsman,2
+244,Stan,Townsman,1
+245,Coach,OC Leader,24
+246,OC Leader,Randy,18
+247,Coach,Randy,48
+248,Sharon,Skeeter,2
+249,Dr. Doctor,Sharon,2
+250,Jimbo,Sharon,2
+251,Chef,Sharon,3
+252,Nurse,Sharon,1
+253,Mr. Garrison,Sharon,1
+254,Dr. Doctor,Skeeter,4
+255,Jimbo,Skeeter,5
+256,Chef,Skeeter,3
+257,Randy,Skeeter,9
+258,Nurse,Skeeter,2
+259,Dr. Doctor,Jimbo,4
+260,Chef,Dr. Doctor,2
+261,Dr. Doctor,Randy,8
+262,Dr. Doctor,Mr. Garrison,2
+263,Chef,Jimbo,4
+264,Jimbo,Randy,13
+265,Jimbo,Nurse,2
+266,Jimbo,Stan,11
+267,Jimbo,Mr. Garrison,4
+268,Chef,Randy,18
+269,Chef,Nurse,1
+270,Chef,Mr. Garrison,2
+271,Nurse,Randy,4
+272,Mr. Garrison,Randy,5
+273,Mr. Garrison,Nurse,1
+274,Michael,Stan,51
+275,Michael,Pete,5
+276,Pete,Stan,14
+277,Henrietta,Pete,6
+278,Firkle,Pete,3
+279,Henrietta,Stan,4
+280,Firkle,Stan,2
+281,Firkle,Henrietta,2
+282,Henrietta,Michael,2
+283,Firkle,Michael,1
+284,Michael,Yao,12
+285,Stan,Yao,32
+286,Maury,Stan,6
+287,Mercedes,Stan,32
+288,Maury,Mercedes,4
+289,Linda,Mercedes,4
+290,Butters,Mercedes,5
+291,Rancher,Yao,2
+292,Mercedes,Yao,2
+293,Chef,Yao,2
+294,Chef,Mercedes,1
+295,Jimbo,MC,2
+296,MC,Mr. Garrison,2
+297,Announcer,MC,2
+298,MC,Mercedes,4
+299,MC,Stan,3
+300,Announcer,Jimbo,1
+301,Jimbo,Mercedes,2
+302,Announcer,Mr. Garrison,1
+303,Mercedes,Mr. Garrison,2
+304,Announcer,Mercedes,2
+305,Chef,MC,1
+306,Skeeter,Yao,1
+307,Mr. Garrison,Yao,1
+308,Jimbo,Yao,1
+309,Cartman,Jimbo,1
+310,Randy,Yao,1
+311,Cartman,Yao,1
+312,Butters,Stephen,31
+313,Linda,Stephen,20
+314,Cartman,Stephen,8
+315,Liane,Linda,9
+316,Aunt Nellie,Butters,13
+317,Butters,Uncle Budd,4
+318,Aunt Nellie,Uncle Budd,7
+319,Aunt Nellie,Cartman,8
+320,Cartman,Uncle Budd,2
+321,Mitch,Producer,18
+322,Millie,Mitch,2
+323,Butters,Mitch,2
+324,Cartman,Mitch,12
+325,Boy,Mitch,2
+326,Millie,Producer,3
+327,Butters,Producer,3
+328,Cartman,Producer,16
+329,Boy,Producer,3
+330,Butters,Millie,1
+331,Cartman,Millie,6
+332,Boy,Millie,1
+333,Boy,Butters,5
+334,Boy,Cartman,12
+335,Black official,White official,9
+336,Black official,General,11
+337,Black official,Scientist,6
+338,General,White official,16
+339,Scientist,White official,15
+340,General,Scientist,76
+341,General,Soldier,3
+342,Cartman,Soldier,1
+343,Scientist,Soldier,2
+344,Cartman,General,50
+345,Cartman,Scientist,57
+346,Cartman,White official,6
+347,Butters,Scientist,1
+348,Butters,General,5
+349,Black official,Butters,2
+350,Black official,Cartman,2
+351,Blanket,Cartman,11
+352,Blanket,Stan,22
+353,Blanket,Kyle,36
+354,Blanket,Michael,19
+355,Kyle,Michael,25
+356,Cartman,Red,36
+357,Kyle,Red,1
+358,Craig,Red,2
+359,Michael,Randy,12
+360,Michael,Stephen,7
+361,Michael,Sheila,4
+362,Michael,Sharon,5
+363,Randy,Stephen,7
+364,Sheila,Stephen,1
+365,Sharon,Stephen,1
+366,Sharon,Sheila,3
+367,Gerald,Randy,18
+368,Gerald,Michael,3
+369,Gerald,Stephen,3
+370,Harris,Yates,21
+371,Blanket,Mr. Jefferson,3
+372,Kyle,Mr. Jefferson,3
+373,Mr. Jefferson,Stan,4
+374,Michael,Mr. Jefferson,3
+375,Johnson,Yates,4
+376,Frakes,Johnson,1
+377,Harris,Johnson,2
+378,Frakes,Yates,4
+379,Frakes,Harris,2
+380,Cartman,Sharon,11
+381,Maggie,Yates,6
+382,Snetzl,Yates,36
+383,Kenny,Michael,9
+384,Cartman,Yates,117
+385,Michael,Yates,2
+386,Kyle,Yates,39
+387,Aaron Brown,Cartman,10
+388,Cartman,Christina Nylon,2
+389,Brad Morgan,Cartman,4
+390,Cartman,Harrison Moore,2
+391,Aaron Brown,Stan,12
+392,Christina Nylon,Stan,2
+393,Brad Morgan,Stan,4
+394,Harrison Moore,Stan,8
+395,Aaron Brown,Christina Nylon,5
+396,Aaron Brown,Brad Morgan,10
+397,Aaron Brown,Harrison Moore,9
+398,Brad Morgan,Christina Nylon,2
+399,Christina Nylon,Harrison Moore,1
+400,Brad Morgan,Harrison Moore,2
+401,Aaron Brown,Randy,4
+402,Harrison Moore,Randy,10
+403,Mrs. Landis,Stan,6
+404,Cartman,Mrs. Landis,2
+405,Kyle,Mrs. Landis,4
+406,Aaron Brown,Chris Holt,1
+407,Darryl Weathers,Other men,2
+408,Darryl Weathers,Stan,4
+409,Other men,Stan,2
+410,Bill O'Reilly,Darryl Weathers,20
+411,Bill O'Reilly,Douche,10
+412,Bill O'Reilly,Skynard Man,5
+413,Bill O'Reilly,Skynard man,5
+414,Bill O'Reilly,Stout man,5
+415,Darryl Weathers,Douche,8
+416,Darryl Weathers,Skynard Man,4
+417,Darryl Weathers,Skynard man,4
+418,Darryl Weathers,Stout man,4
+419,Douche,Skynard Man,2
+420,Douche,Skynard man,2
+421,Douche,Stout man,2
+422,Skynard Man,Skynard man,1
+423,Skynard Man,Stout man,1
+424,Skynard man,Stout man,1
+425,Herbert Garrison,Kyle,24
+426,Kyle,The kids,2
+427,Aging hippie liberal douche,Kyle,4
+428,Herbert Garrison,The kids,3
+429,Craig,Herbert Garrison,3
+430,Herbert Garrison,Stan,29
+431,Aging hippie liberal douche,Herbert Garrison,6
+432,Herbert Garrison,Timmy,3
+433,Craig,The kids,1
+434,Stan,The kids,1
+435,Aging hippie liberal douche,The kids,2
+436,The kids,Timmy,1
+437,Aging hippie liberal douche,Craig,2
+438,Craig,Timmy,1
+439,Aging hippie liberal douche,Stan,4
+440,Aging hippie liberal douche,Timmy,2
+441,Chet,Darryl Weathers,28
+442,Darryl Weathers,Many men,6
+443,Chet,Many men,4
+444,Cashier,Stan,28
+445,Manager,Stan,14
+446,Cartman,Cashier,4
+447,Cashier,Manager,8
+448,Cashier,Randy,4
+449,Cartman,Manager,16
+450,Manager,Randy,14
+451,Chet,Jimbo Kern,1
+452,Darryl Weathers,Jimbo Kern,4
+453,Boss,Randy,6
+454,Mr. Nelson,Randy,24
+455,Mr. Glughgogawk,Randy,6
+456,Boss,Mr. Nelson,4
+457,Boss,Mr. Glughgogawk,1
+458,Boss,Stan,1
+459,Mr. Glughgogawk,Mr. Nelson,4
+460,Mr. Nelson,Stan,4
+461,Mr. Glughgogawk,Stan,1
+462,Aaron Brown,Darryl Weathers,1
+463,Aaron Brown,Aging hippie liberal douche,1
+464,Darryl Weathers,Harrison Moore,3
+465,Aging hippie liberal douche,Harrison Moore,3
+466,Darryl Weathers,Randy,3
+467,Aging hippie liberal douche,Randy,3
+468,Aging hippie liberal douche,Darryl Weathers,1
+469,Darryl Weathers,Singer,1
+470,Red,Students,2
+471,Bebe,Red,65
+472,Mandy,Red,1
+473,Butters,Red,4
+474,Blonde PETA woman,Red,2
+475,Herbert Garrison,Red,9
+476,Dreadlocked PETA Man,Red,1
+477,Gas Mask PETA Member,Red,1
+478,Class,Red,1
+479,Red,Stan,3
+480,Clyde,Red,6
+481,Dreadlocked PETA man,Red,2
+482,Red,Wendy,38
+483,Bebe,Students,4
+484,Mandy,Students,2
+485,Butters,Students,2
+486,Cartman,Students,2
+487,Blonde PETA woman,Students,4
+488,Herbert Garrison,Students,14
+489,Dreadlocked PETA Man,Students,2
+490,Gas Mask PETA Member,Students,2
+491,Class,Students,2
+492,Stan,Students,4
+493,Clyde,Students,2
+494,Dreadlocked PETA man,Students,4
+495,Students,Wendy,2
+496,Bebe,Mandy,2
+497,Bebe,Butters,13
+498,Bebe,Cartman,12
+499,Bebe,Blonde PETA woman,4
+500,Bebe,Herbert Garrison,17
+501,Bebe,Dreadlocked PETA Man,2
+502,Bebe,Gas Mask PETA Member,2
+503,Bebe,Class,2
+504,Bebe,Stan,14
+505,Bebe,Clyde,2
+506,Bebe,Dreadlocked PETA man,4
+507,Bebe,Wendy,40
+508,Butters,Mandy,1
+509,Cartman,Mandy,1
+510,Blonde PETA woman,Mandy,2
+511,Herbert Garrison,Mandy,7
+512,Dreadlocked PETA Man,Mandy,1
+513,Gas Mask PETA Member,Mandy,1
+514,Class,Mandy,1
+515,Mandy,Stan,2
+516,Clyde,Mandy,1
+517,Dreadlocked PETA man,Mandy,2
+518,Mandy,Wendy,1
+519,Blonde PETA woman,Butters,2
+520,Butters,Herbert Garrison,14
+521,Butters,Dreadlocked PETA Man,1
+522,Butters,Gas Mask PETA Member,1
+523,Butters,Class,1
+524,Butters,Dreadlocked PETA man,2
+525,Butters,Wendy,2
+526,Blonde PETA woman,Cartman,2
+527,Cartman,Herbert Garrison,24
+528,Cartman,Dreadlocked PETA Man,1
+529,Cartman,Gas Mask PETA Member,1
+530,Cartman,Class,1
+531,Cartman,Dreadlocked PETA man,2
+532,Cartman,Wendy,4
+533,Blonde PETA woman,Herbert Garrison,14
+534,Blonde PETA woman,Dreadlocked PETA Man,2
+535,Blonde PETA woman,Gas Mask PETA Member,2
+536,Blonde PETA woman,Class,2
+537,Blonde PETA woman,Stan,4
+538,Blonde PETA woman,Clyde,2
+539,Blonde PETA woman,Dreadlocked PETA man,4
+540,Blonde PETA woman,Wendy,2
+541,Dreadlocked PETA Man,Herbert Garrison,7
+542,Gas Mask PETA Member,Herbert Garrison,7
+543,Class,Herbert Garrison,7
+544,Clyde,Herbert Garrison,7
+545,Dreadlocked PETA man,Herbert Garrison,14
+546,Herbert Garrison,Wendy,21
+547,Dreadlocked PETA Man,Gas Mask PETA Member,1
+548,Class,Dreadlocked PETA Man,1
+549,Dreadlocked PETA Man,Stan,2
+550,Clyde,Dreadlocked PETA Man,1
+551,Dreadlocked PETA Man,Dreadlocked PETA man,2
+552,Dreadlocked PETA Man,Wendy,1
+553,Class,Gas Mask PETA Member,1
+554,Gas Mask PETA Member,Stan,2
+555,Clyde,Gas Mask PETA Member,1
+556,Dreadlocked PETA man,Gas Mask PETA Member,2
+557,Gas Mask PETA Member,Wendy,1
+558,Class,Stan,2
+559,Class,Clyde,1
+560,Class,Dreadlocked PETA man,2
+561,Class,Wendy,1
+562,Dreadlocked PETA man,Stan,4
+563,Stan,Wendy,2
+564,Clyde,Dreadlocked PETA man,2
+565,Clyde,Wendy,1
+566,Dreadlocked PETA man,Wendy,2
+567,Giant Douche,Herbert Garrison,2
+568,Cartman,Giant Douche,8
+569,Butters,Giant Douche,2
+570,Giant Douche,Kyle,2
+571,Giant Douche,Turd Sandwich,31
+572,Herbert Garrison,Turd Sandwich,2
+573,Cartman,Turd Sandwich,9
+574,Butters,Turd Sandwich,2
+575,Kyle,Turd Sandwich,2
+576,Shelly,Stan,50
+577,Puff Daddy,Stan,38
+578,Sharon,Shelly,7
+579,Puff Daddy,Sharon,18
+580,Randy,Shelly,11
+581,Puff Daddy,Randy,20
+582,Puff Daddy,Shelly,3
+583,Posse,Puff Daddy,1
+584,Principal Victoria,Randy,16
+585,Principal Victoria,Stan,26
+586,Principal Victoria,Sharon,8
+587,A bodyguard,Kyle,1
+588,Kyle,Puff Daddy,1
+589,A bodyguard,Stan,2
+590,A bodyguard,Puff Daddy,1
+591,A bodyguard,Randy,2
+592,Bearded PETA member,Stan,48
+593,Blonde PETA member,Stan,8
+594,Balding man,Stan,83
+595,Ostrich-baby,Stan,15
+596,Bearded PETA member,Blonde PETA member,6
+597,Balding man,Bearded PETA member,36
+598,Bearded PETA member,Ostrich-baby,6
+599,Balding man,Blonde PETA member,6
+600,Blonde PETA member,Ostrich-baby,1
+601,Balding man,Ostrich-baby,11
+602,Giant Douche,Jim Lehrer,20
+603,Cartman,Jim Lehrer,4
+604,Jim Lehrer,Turd Sandwich,24
+605,Man in shorts,Stan,7
+606,Bodyguard,Stan,7
+607,PETA man,Stan,7
+608,Balding man,Puff Daddy,10
+609,Balding man,Man in shorts,5
+610,Balding man,Bodyguard,5
+611,Balding man,PETA man,5
+612,Man in shorts,Puff Daddy,2
+613,Bodyguard,Puff Daddy,2
+614,PETA man,Puff Daddy,2
+615,Ostrich-baby,Puff Daddy,2
+616,Bodyguard,Man in shorts,1
+617,Man in shorts,PETA man,1
+618,Man in shorts,Ostrich-baby,1
+619,Bodyguard,PETA man,1
+620,Bodyguard,Ostrich-baby,1
+621,Ostrich-baby,PETA man,1
+622,Herbert Garrison,Townsfolk,2
+623,Herbert Garrison,Randy,11
+624,Marvin Marsh,Randy,2
+625,Jimmy,Randy,2
+626,Herbert Garrison,Manager,2
+627,Herbert Garrison,Marvin Marsh,1
+628,Herbert Garrison,Sheila,1
+629,Herbert Garrison,Sharon,2
+630,Herbert Garrison,Jimmy,5
+631,Chef,Herbert Garrison,3
+632,Cartman,Marvin Marsh,5
+633,Kyle,Manager,16
+634,Kyle,Marvin Marsh,4
+635,Kyle,Sharon,8
+636,Manager,Marvin Marsh,2
+637,Manager,Sheila,2
+638,Manager,Sharon,4
+639,Jimmy,Manager,2
+640,Chef,Manager,10
+641,Marvin Marsh,Sheila,1
+642,Marvin Marsh,Sharon,2
+643,Jimmy,Marvin Marsh,1
+644,Chef,Marvin Marsh,1
+645,Jimmy,Sheila,1
+646,Chef,Sheila,1
+647,Jimmy,Sharon,2
+648,Kyle,Mr. Farkle,15
+649,Cartman,Mr. Farkle,9
+650,Mr. Farkle,Stan,3
+651,Chef,Gerald,6
+652,Gerald,Manager,4
+653,Gerald,Herbert Garrison,4
+654,Gerald,Jimbo,2
+655,Herbert Garrison,Jimbo,2
+656,Herbert Garrison,Stephen,2
+657,Stan,Stephen,5
+658,Jimbo,Stephen,1
+659,Jimbo,Kyle,1
+660,Chef,Stephen,1
+661,Kyle,Stephen,3
+662,Driver,Kyle,6
+663,Cartman,Driver,3
+664,Kyle,Receptionist,4
+665,Receptionist,Stan,2
+666,Harvey Brown,Kyle,15
+667,Harvey Brown,Stan,15
+668,Cartman,Harvey Brown,15
+669,Kyle,Wall-Mart,32
+670,Stan,Wall-Mart,64
+671,Chef,Wall-Mart,8
+672,Randy,Wall-Mart,8
+673,Kyle,Trent,75
+674,Boy,Kyle,14
+675,Kyle,Ms. Claridge,14
+676,Cartman,Trent,79
+677,Cartman,Ms. Claridge,10
+678,Kenny,Trent,13
+679,Boy,Kenny,2
+680,Kenny,Ms. Claridge,2
+681,Stan,Trent,88
+682,Boy,Stan,14
+683,Ms. Claridge,Stan,14
+684,Boy,Trent,16
+685,Butters,Trent,59
+686,Ms. Claridge,Trent,16
+687,Boy,Ms. Claridge,4
+688,Butters,Ms. Claridge,4
+689,Officer,Stan,8
+690,Stan,The boys,10
+691,Kyle,Officer,6
+692,Kyle,The boys,7
+693,Cartman,Officer,6
+694,Cartman,The boys,6
+695,Officer,Trent,6
+696,Butters,Officer,2
+697,Officer,The boys,2
+698,The boys,Trent,3
+699,Butters,The boys,2
+700,Linda,Trent,10
+701,Stephen,Trent,5
+702,Dr. Doctor,Stephen,4
+703,Dr. Doctor,Linda,4
+704,Kyle,Sixth grade leader,49
+705,Sixth grade leader,Stan,70
+706,Cartman,Sixth grade leader,28
+707,Sixth grade leader,Sixth graders,24
+708,Kyle,Sixth graders,10
+709,Sixth graders,Stan,14
+710,Cartman,Sixth graders,6
+711,Sheila,Trent,1
+712,Kenny,Sixth grade leader,8
+713,Kenny,Sixth graders,2
+714,Dr. Doctor,Sixth grader,4
+715,Dr. Doctor,Sixth grade leader,4
+716,Sixth grader,Stan,2
+717,Sixth grade leader,Sixth grader,1
+718,Kyle,Sixth grader,1
+719,Kyle,Shelly,8
+720,Cartman,Shelly,8
+721,Cartman,Mr. Meryl,63
+722,Butters,Mr. Meryl,18
+723,Jimmy,Mr. Meryl,31
+724,Mr. Meryl,Tolkien,7
+725,Kyle,Mr. Meryl,21
+726,Mr. Meryl,Stan,43
+727,Craig,Mr. Meryl,10
+728,Stan,Whistlin' Willy,6
+729,Bradley,Stan,3
+730,Kevin,Stan,3
+731,Cartman,Whistlin' Willy,6
+732,Bradley,Whistlin' Willy,2
+733,Kevin,Whistlin' Willy,2
+734,Kyle,Whistlin' Willy,2
+735,Craig,Whistlin' Willy,6
+736,Bradley,Cartman,3
+737,Cartman,Kevin,3
+738,Bradley,Kevin,1
+739,Bradley,Kyle,1
+740,Bradley,Craig,3
+741,Kevin,Kyle,1
+742,Craig,Kevin,3
+743,Kenny,Kids,2
+744,Cartman,Kids,1
+745,Craig,Kids,1
+746,Clyde,Kids,1
+747,Kids,Kyle,2
+748,Kids,Tolkien,1
+749,Kids,Stan,2
+750,Butters,Kids,1
+751,Announcer,Jimmy,3
+752,Raisins Girls,Stan,1
+753,Cartman,Raisins Girls,4
+754,Raisins Girls,Tolkien,2
+755,Jimmy,Raisins Girls,2
+756,Kyle,Raisins Girls,1
+757,Mr. Meryl,The boys,4
+758,Kyle,Pharmacist,15
+759,Kyle,Mr. Slave,6
+760,Pharmacist,Stan,15
+761,Mr. Slave,Stan,13
+762,Cartman,Pharmacist,5
+763,Cartman,Mr. Slave,2
+764,Jimmy,Pharmacist,10
+765,Jimmy,Mr. Slave,4
+766,Herbert Garrison,Pharmacist,10
+767,Mr. Slave,Pharmacist,10
+768,Butters,Pharmacist,5
+769,Herbert Garrison,Mr. Slave,13
+770,Butters,Mr. Slave,17
+771,Kyle,Pete,5
+772,Bebe,Kyle,5
+773,Kyle,Principal Victoria,10
+774,Butters,Pete,3
+775,Butters,Principal Victoria,6
+776,Cartman,Pete,3
+777,Cartman,Principal Victoria,6
+778,Pete,Tolkien,2
+779,Bebe,Tolkien,2
+780,Principal Victoria,Tolkien,4
+781,Jimmy,Pete,2
+782,Bebe,Jimmy,2
+783,Jimmy,Principal Victoria,4
+784,Announcer,Pete,1
+785,Announcer,Bebe,3
+786,Announcer,Principal Victoria,2
+787,Bebe,Pete,1
+788,Pete,Principal Victoria,2
+789,Bebe,Principal Victoria,2
+790,Annie,Wendy,32
+791,Store owner,Wendy,5
+792,Paris,Wendy,7
+793,Annie,Bebe,56
+794,Bebe,Store owner,2
+795,Bebe,Paris,22
+796,Annie,Red,52
+797,Red,Store owner,2
+798,Paris,Red,10
+799,Annie,Store owner,2
+800,Annie,Paris,14
+801,Paris,Store owner,1
+802,Announcer,Red,2
+803,Annie,Announcer,2
+804,Announcer,Wendy,4
+805,Chauffeur,Paris,46
+806,Jessie,Wendy,8
+807,Jessie,Kal,16
+808,Jessie,Singers,12
+809,Announcer,Jessie,4
+810,Kal,Wendy,8
+811,Singers,Wendy,6
+812,Kal,Singers,12
+813,Announcer,Kal,4
+814,Announcer,Singers,3
+815,Butters,Chauffeur,25
+816,Chauffeur,Chris,5
+817,Butters,Paris,73
+818,Chris,Paris,42
+819,Butters,Chris,41
+820,Mr. Testaburger,Wendy,23
+821,Mr. Testaburger,Mrs. Faulk,3
+822,Mrs. Faulk,Mrs. Stevens,1
+823,Females,Mrs. Faulk,3
+824,Mrs. Faulk,Wendy,1
+825,Mr. Testaburger,Mrs. Stevens,3
+826,Females,Mr. Testaburger,9
+827,Females,Mrs. Stevens,3
+828,Mrs. Stevens,Wendy,1
+829,Females,Wendy,3
+830,Chris,Linda,29
+831,Linda,Paris,18
+832,Bebe,Girls,13
+833,Bebe,Millie,28
+834,Bebe,Sally,28
+835,Girls,Wendy,3
+836,Millie,Wendy,12
+837,Sally,Wendy,12
+838,Annie,Girls,10
+839,Annie,Millie,24
+840,Annie,Sally,24
+841,Annie,Cartman,6
+842,Girls,Red,9
+843,Millie,Red,28
+844,Red,Sally,28
+845,Girls,Millie,4
+846,Girls,Sally,4
+847,Cartman,Girls,1
+848,Millie,Sally,16
+849,Cartman,Sally,4
+850,Bab,Clyde,1
+851,Bab,Cartman,5
+852,Bab,Red,5
+853,Bab,Kelly Rutherford-Menskin,2
+854,Bab,Kelly Pinkertonstinfurter,1
+855,Clyde,Kelly Rutherford-Menskin,2
+856,Clyde,Kelly Pinkertonstinfurter,1
+857,Cartman,Kelly Rutherford-Menskin,10
+858,Cartman,Kelly Pinkertonstinfurter,5
+859,Kelly Rutherford-Menskin,Red,10
+860,Kelly Pinkertonstinfurter,Red,5
+861,Kelly Pinkertonstinfurter,Kelly Rutherford-Menskin,2
+862,Mr. Slave,Wendy,17
+863,Little Slave,Mr. Slave,5
+864,Boy slave,Mr. Slave,10
+865,Kid,Mr. Slave,5
+866,Little Slave,Wendy,2
+867,Boy slave,Wendy,4
+868,Kid,Wendy,2
+869,Boy slave,Little Slave,2
+870,Kid,Little Slave,1
+871,Boy slave,Kid,2
+872,Annie,Stan,2
+873,Annie,Mr. Slave,14
+874,Annie,Butters,4
+875,Annie,Men,2
+876,Mr. Slave,Red,8
+877,Men,Red,1
+878,Paris,Stan,6
+879,Girls,Stan,2
+880,Men,Stan,1
+881,Bebe,Mr. Slave,23
+882,Mr. Slave,Paris,42
+883,Girls,Mr. Slave,14
+884,Men,Mr. Slave,7
+885,Bebe,Men,3
+886,Butters,Girls,4
+887,Butters,Men,2
+888,Girls,Paris,12
+889,Men,Paris,6
+890,Girls,Men,2
+891,Bebe,Official,1
+892,Bebe,Crowd,1
+893,Bebe,Randy,1
+894,Official,Red,1
+895,Crowd,Red,1
+896,Randy,Red,1
+897,Official,Paris,2
+898,Crowd,Official,1
+899,Official,Wendy,1
+900,Herbert Garrison,Official,1
+901,Official,Randy,1
+902,Crowd,Paris,2
+903,Herbert Garrison,Paris,2
+904,Paris,Randy,2
+905,Crowd,Wendy,1
+906,Crowd,Herbert Garrison,1
+907,Crowd,Randy,1
+908,Randy,Wendy,1
+909,Herbert Garrison,Mr. Stevens,1
+910,Chris,Herbert Garrison,2
+911,Bebe,Mr. Stevens,2
+912,Bebe,Chris,4
+913,Mr. Slave,Mr. Stevens,1
+914,Chris,Mr. Slave,2
+915,Mr. Stevens,Red,1
+916,Mr. Stevens,Wendy,1
+917,Chris,Mr. Stevens,2
+918,Butters,Mr. Stevens,1
+919,Chris,Red,2
+920,Chris,Wendy,2
+921,Dr. Doctor,Liane,27
+922,Liane,Nurse,5
+923,Liane,Yates,37
+924,Liane,Murphy,22
+925,Cartman,Murphy,71
+926,Dr. Doctor,Yates,41
+927,Dr. Doctor,Murphy,23
+928,Nurse,Yates,7
+929,Murphy,Nurse,4
+930,Murphy,Yates,135
+931,Tom Johansen,Yates,4
+932,Murphy,Tom Johansen,2
+933,Cartman,Tom Johansen,2
+934,Liane,Tom Johansen,1
+935,Kyle,Murphy,22
+936,Butters,Yates,4
+937,Butters,Murphy,2
+938,Cartman,Lou,6
+939,Kyle,Lou,14
+940,Lou,Michael Deets,2
+941,Lou,Murphy,4
+942,Lou,Weird Man,2
+943,Cartman,Michael Deets,49
+944,Cartman,Weird Man,3
+945,Kyle,Michael Deets,3
+946,Kyle,Weird Man,3
+947,Michael Deets,Murphy,8
+948,Michael Deets,Weird Man,1
+949,Murphy,Weird Man,1
+950,Liane,Other psychics,1
+951,Female psychic,Liane,8
+952,Cartman,Other psychics,3
+953,Female psychic,Other psychics,2
+954,Cartman,Female psychic,10
+955,Lou,Yates,4
+956,Kenny,Yates,2
+957,Kenny,Murphy,1
+958,Kenny,Lou,2
+959,Female Detective,Yates,1
+960,Michael Deets,Yates,11
+961,Skunky,Stan,29
+962,Beavery,Skunky,12
+963,Mousey,Skunky,9
+964,Deery,Skunky,6
+965,Critters,Skunky,24
+966,Beary,Skunky,8
+967,Rabbity,Skunky,3
+968,Skunky,Squirrely,15
+969,Narrator,Skunky,2
+970,Beavery,Stan,48
+971,Mousey,Stan,31
+972,Deery,Stan,26
+973,Critters,Stan,81
+974,Beary,Stan,36
+975,Rabbity,Stan,18
+976,Squirrely,Stan,51
+977,Narrator,Stan,67
+978,Beavery,Mousey,13
+979,Beavery,Deery,15
+980,Beavery,Critters,49
+981,Beary,Beavery,20
+982,Beavery,Rabbity,9
+983,Beavery,Squirrely,23
+984,Beavery,Narrator,6
+985,Deery,Mousey,8
+986,Critters,Mousey,25
+987,Beary,Mousey,11
+988,Mousey,Rabbity,6
+989,Mousey,Squirrely,19
+990,Mousey,Narrator,4
+991,Critters,Deery,25
+992,Beary,Deery,14
+993,Deery,Rabbity,6
+994,Deery,Squirrely,14
+995,Deery,Narrator,2
+996,Beary,Critters,33
+997,Critters,Rabbity,15
+998,Critters,Squirrely,42
+999,Critters,Narrator,10
+1000,Beary,Rabbity,7
+1001,Beary,Squirrely,18
+1002,Beary,Narrator,4
+1003,Rabbity,Squirrely,7
+1004,Narrator,Rabbity,2
+1005,Narrator,Squirrely,2
+1006,Foxy,Stan,17
+1007,Porcupiney,Stan,18
+1008,Stan,Woodpeckery,11
+1009,Chickadee-y,Stan,26
+1010,Foxy,Squirrely,10
+1011,Porcupiney,Squirrely,16
+1012,Squirrely,Woodpeckery,9
+1013,Chickadee-y,Squirrely,15
+1014,Foxy,Skunky,3
+1015,Porcupiney,Skunky,5
+1016,Skunky,Woodpeckery,4
+1017,Chickadee-y,Skunky,5
+1018,Foxy,Mousey,6
+1019,Mousey,Porcupiney,9
+1020,Mousey,Woodpeckery,5
+1021,Chickadee-y,Mousey,7
+1022,Deery,Foxy,5
+1023,Deery,Porcupiney,3
+1024,Deery,Woodpeckery,3
+1025,Chickadee-y,Deery,11
+1026,Foxy,Porcupiney,6
+1027,Foxy,Woodpeckery,2
+1028,Chickadee-y,Foxy,5
+1029,Critters,Foxy,12
+1030,Beary,Foxy,5
+1031,Foxy,Rabbity,5
+1032,Porcupiney,Woodpeckery,4
+1033,Chickadee-y,Porcupiney,3
+1034,Critters,Porcupiney,12
+1035,Beary,Porcupiney,3
+1036,Porcupiney,Rabbity,3
+1037,Chickadee-y,Woodpeckery,4
+1038,Critters,Woodpeckery,7
+1039,Beary,Woodpeckery,4
+1040,Rabbity,Woodpeckery,1
+1041,Chickadee-y,Critters,19
+1042,Beary,Chickadee-y,14
+1043,Chickadee-y,Rabbity,5
+1044,Mousey,Raccoony,4
+1045,Porcupiney,Raccoony,6
+1046,Raccoony,Woodpeckery,2
+1047,Raccoony,Squirrely,11
+1048,Raccoony,Stan,16
+1049,Critters,Raccoony,14
+1050,Raccoony,Skunky,7
+1051,Foxy,Raccoony,2
+1052,Beavery,Raccoony,8
+1053,Beavery,Porcupiney,6
+1054,Beavery,Woodpeckery,3
+1055,Beavery,Foxy,7
+1056,Beavery,Chickadee-y,12
+1057,Doctor,Stan,20
+1058,Doctor,Narrator,10
+1059,Kyle,Skunky,7
+1060,Critters,Kyle,23
+1061,Beavery,Kyle,12
+1062,Kyle,Raccoony,7
+1063,Beary,Kyle,9
+1064,Deery,Kyle,5
+1065,Kyle,Squirrely,6
+1066,Beary,Raccoony,1
+1067,Deery,Raccoony,1
+1068,Santa,Squirrely,3
+1069,Singers,Squirrely,1
+1070,Santa,Stan,32
+1071,Singers,Stan,5
+1072,Beavery,Santa,6
+1073,Beavery,Singers,2
+1074,Kyle,Santa,14
+1075,Kyle,Singers,1
+1076,Santa,Skunky,6
+1077,Singers,Skunky,2
+1078,Critters,Santa,9
+1079,Critters,Singers,3
+1080,Raccoony,Santa,6
+1081,Raccoony,Singers,2
+1082,Santa,Singers,3
+1083,Beary,Lion Cub,1
+1084,Beary,Santa,2
+1085,Lion Cub,Santa,2
+1086,Kyle,Lion Cub,4
+1087,Lion Cub,Stan,2
+1088,Butters,Mr. Garrison,2
+1089,Mr. Garrison,Tolkien,1
+1090,Clyde,Mr. Garrison,2
+1091,Kyle,Narrator,1
+1092,Narrator,Santa,3
+1093,One of the cubs,The cubs,1
+1094,One of the cubs,Stan,1
+1095,Stan,The cubs,1
