@@ -2,198 +2,185 @@
 0,Butters,Stephen,6
 1,Roger,Stephen,8
 2,Butters,Roger,1
-3,Clyde,Wendy,1
-4,Clyde,Kyle,1
-5,Clyde,Sef Furman,1
-6,Clyde,Stan,1
-7,Clyde,Mrs. Nelson,3
-8,Cartman,Clyde,12
-9,Clyde,Liane,9
-10,Kyle,Wendy,1
-11,Sef Furman,Wendy,1
-12,Stan,Wendy,1
-13,Mrs. Nelson,Wendy,3
-14,Cartman,Wendy,12
-15,Liane,Wendy,9
-16,Kyle,Sef Furman,1
-17,Kyle,Stan,129
-18,Kyle,Mrs. Nelson,3
-19,Cartman,Kyle,84
-20,Kyle,Liane,9
-21,Sef Furman,Stan,1
-22,Mrs. Nelson,Sef Furman,3
-23,Cartman,Sef Furman,12
-24,Liane,Sef Furman,9
-25,Mrs. Nelson,Stan,3
-26,Cartman,Stan,99
-27,Liane,Stan,9
-28,Cartman,Mrs. Nelson,36
-29,Liane,Mrs. Nelson,27
-30,Cartman,Liane,108
-31,Sharon,Stan,27
-32,Shelly,Stan,6
-33,Sharon,Shelly,12
-34,Anchor Tom,Stan,1
-35,Chief Scientist,Stan,27
-36,Anchor Tom,Sharon,1
-37,Chief Scientist,Sharon,13
-38,Anchor Tom,Chief Scientist,3
-39,Mickey,Stan,2
-40,Sheila,Stephen,4
-41,Sheila,Thomas,2
-42,Carol McCormick,Sheila,1
-43,Mr. Mackey,Sheila,4
-44,Mrs. Tweek,Sheila,1
-45,Mrs. Testaburger,Sheila,1
-46,Roger,Sheila,1
-47,Sharon,Sheila,1
-48,Stephen,Thomas,13
-49,Carol McCormick,Stephen,4
-50,Mr. Mackey,Stephen,16
-51,Mrs. Tweek,Stephen,4
-52,Mrs. Testaburger,Stephen,7
-53,Sharon,Stephen,4
-54,Carol McCormick,Thomas,2
-55,Mr. Mackey,Thomas,8
-56,Mrs. Tweek,Thomas,2
-57,Mrs. Testaburger,Thomas,3
-58,Roger,Thomas,2
-59,Sharon,Thomas,2
-60,Carol McCormick,Mr. Mackey,4
-61,Carol McCormick,Mrs. Tweek,1
-62,Carol McCormick,Mrs. Testaburger,1
-63,Carol McCormick,Roger,1
-64,Carol McCormick,Sharon,1
-65,Mr. Mackey,Mrs. Tweek,4
-66,Mr. Mackey,Mrs. Testaburger,4
-67,Mr. Mackey,Roger,4
-68,Mr. Mackey,Sharon,4
-69,Mrs. Testaburger,Mrs. Tweek,1
-70,Mrs. Tweek,Roger,1
-71,Mrs. Tweek,Sharon,1
-72,Mrs. Testaburger,Roger,1
-73,Mrs. Testaburger,Sharon,1
-74,Roger,Sharon,1
-75,Bill Keegan,Stan,12
-76,Bill Keegan,Chief Scientist,15
-77,Bill Keegan,Sharon,6
-78,Cartman,Yates,14
-79,Cartman,Mitch,9
-80,Cartman,Tolkien,3
-81,Mitch,Yates,6
-82,Kyle,Yates,14
-83,Tolkien,Yates,2
-84,Kyle,Mitch,3
-85,Mitch,Tolkien,3
-86,Kyle,Tolkien,1
-87,Chief Scientist,Scientist 1,10
-88,Scientist 1,Scientist 2,4
-89,Scientist 1,Scientist 3,2
-90,Scientist 1,Scientists,2
-91,Chief Scientist,Scientist 2,10
-92,Chief Scientist,Scientist 3,5
-93,Chief Scientist,Scientists,5
-94,Scientist 2,Scientist 3,2
-95,Scientist 2,Scientists,2
-96,Scientist 3,Scientists,1
-97,Cartman,Officer 1,1
+3,Randy,Sharon,152
+4,Clyde,Wendy,1
+5,Clyde,Kyle,1
+6,Clyde,Sef Furman,1
+7,Clyde,Stan,1
+8,Clyde,Mrs. Nelson,3
+9,Cartman,Clyde,12
+10,Clyde,Liane,9
+11,Kyle,Wendy,1
+12,Sef Furman,Wendy,1
+13,Stan,Wendy,1
+14,Mrs. Nelson,Wendy,3
+15,Cartman,Wendy,12
+16,Liane,Wendy,9
+17,Kyle,Sef Furman,1
+18,Kyle,Stan,129
+19,Kyle,Mrs. Nelson,3
+20,Cartman,Kyle,84
+21,Kyle,Liane,9
+22,Sef Furman,Stan,1
+23,Mrs. Nelson,Sef Furman,3
+24,Cartman,Sef Furman,12
+25,Liane,Sef Furman,9
+26,Mrs. Nelson,Stan,3
+27,Cartman,Stan,99
+28,Liane,Stan,9
+29,Cartman,Mrs. Nelson,36
+30,Liane,Mrs. Nelson,27
+31,Cartman,Liane,108
+32,Sharon,Stan,27
+33,Randy,Stan,49
+34,Shelly,Stan,6
+35,Sharon,Shelly,12
+36,Randy,Shelly,8
+37,Anchor Tom,Stan,1
+38,Chief Scientist,Stan,27
+39,Anchor Tom,Sharon,1
+40,Chief Scientist,Sharon,13
+41,Anchor Tom,Chief Scientist,3
+42,Anchor Tom,Randy,2
+43,Chief Scientist,Randy,52
+44,Mickey Mouse,Randy,1
+45,Mickey,Randy,56
+46,Mickey,Stan,2
+47,Man with Orange Shirt,Randy,20
+48,Sheila,Stephen,4
+49,Sheila,Thomas,2
+50,Carol McCormick,Sheila,1
+51,Mr. Mackey,Sheila,4
+52,Mrs. Tweek,Sheila,1
+53,Mrs. Testaburger,Sheila,1
+54,Roger,Sheila,1
+55,Sharon,Sheila,1
+56,Stephen,Thomas,13
+57,Carol McCormick,Stephen,4
+58,Mr. Mackey,Stephen,16
+59,Mrs. Tweek,Stephen,4
+60,Mrs. Testaburger,Stephen,7
+61,Sharon,Stephen,4
+62,Carol McCormick,Thomas,2
+63,Mr. Mackey,Thomas,8
+64,Mrs. Tweek,Thomas,2
+65,Mrs. Testaburger,Thomas,3
+66,Roger,Thomas,2
+67,Sharon,Thomas,2
+68,Carol McCormick,Mr. Mackey,4
+69,Carol McCormick,Mrs. Tweek,1
+70,Carol McCormick,Mrs. Testaburger,1
+71,Carol McCormick,Roger,1
+72,Carol McCormick,Sharon,1
+73,Mr. Mackey,Mrs. Tweek,4
+74,Mr. Mackey,Mrs. Testaburger,4
+75,Mr. Mackey,Roger,4
+76,Mr. Mackey,Sharon,4
+77,Mrs. Testaburger,Mrs. Tweek,1
+78,Mrs. Tweek,Roger,1
+79,Mrs. Tweek,Sharon,1
+80,Mrs. Testaburger,Roger,1
+81,Mrs. Testaburger,Sharon,1
+82,Roger,Sharon,1
+83,Bill Keegan,Stan,12
+84,Bill Keegan,Randy,15
+85,Bill Keegan,Chief Scientist,15
+86,Bill Keegan,Sharon,6
+87,Cartman,Yates,14
+88,Cartman,Mitch,9
+89,Cartman,Tolkien,3
+90,Mitch,Yates,6
+91,Kyle,Yates,14
+92,Tolkien,Yates,2
+93,Kyle,Mitch,3
+94,Mitch,Tolkien,3
+95,Kyle,Tolkien,1
+96,Chief Scientist,Scientists,5
+97,Randy,Scientists,3
 98,Stan,Yates,16
-99,Officer 1,Yates,6
-100,Officer 1,Stan,2
-101,Chief Scientist,Delivery Express Man,3
-102,Butters,Officer 3,2
-103,Officer 3,Stan,1
-104,Butters,Stan,86
-105,Female Aide,Garrison,9
-106,Garrison,Male Aide 2,9
-107,Garrison,Stan,67
-108,Female Aide,Male Aide 2,1
-109,Female Aide,Stan,7
-110,Male Aide 2,Stan,7
-111,Jimbo,Sharon,18
-112,Gerald,Sheila,2
-113,Dr. Doctor,Gerald,6
-114,Gerald,Nurse,2
-115,Dr. Doctor,Sheila,3
-116,Nurse,Sheila,1
-117,Dr. Doctor,Nurse,3
-118,Dr. Fauci,Man 1,1
-119,Man 1,Stephen,1
-120,Dr. Fauci,Stephen,1
-121,Stan,Students,12
-122,Craig,Stan,12
-123,Jimmy,Stan,12
-124,Butters,Students,2
-125,Butters,Kyle,27
-126,Butters,Craig,2
-127,Butters,Jimmy,2
-128,Butters,Cartman,19
-129,Kyle,Students,1
-130,Craig,Students,1
-131,Jimmy,Students,1
-132,Cartman,Students,5
-133,Craig,Kyle,1
-134,Jimmy,Kyle,1
-135,Craig,Jimmy,1
-136,Cartman,Craig,5
-137,Cartman,Jimmy,5
-138,Bill Keegan,Woman,1
-139,Bill Keegan,Man 2,1
-140,Bill Keegan,Stocker,1
-141,Bill Keegan,Stephen,3
-142,Bill Keegan,Thomas,1
-143,Bill Keegan,Mrs. Testaburger,1
-144,Man 2,Woman,1
-145,Stocker,Woman,1
-146,Stephen,Woman,3
-147,Thomas,Woman,1
-148,Mrs. Testaburger,Woman,1
-149,Man 2,Stocker,1
-150,Man 2,Stephen,3
-151,Man 2,Thomas,1
-152,Man 2,Mrs. Testaburger,1
-153,Stephen,Stocker,3
-154,Stocker,Thomas,1
-155,Mrs. Testaburger,Stocker,1
-156,Mayor McDaniels,Yates,8
-157,Officers,Yates,4
-158,Mayor McDaniels,Officer 1,2
-159,Mayor McDaniels,Officers,2
-160,Officer 1,Officers,1
-161,James,Stan,36
-162,Butters,James,9
-163,James,Kyle,21
-164,Cartman,James,3
-165,Man 3,Sharon,2
-166,Kyle,Stephen,8
-167,Kyle,Thomas,4
-168,Kyle,Other townsfolk,4
-169,Chief Scientist,Kyle,4
-170,Garrison,Kyle,4
-171,Stan,Stephen,8
-172,Stan,Thomas,4
-173,Other townsfolk,Stan,4
-174,Butters,Yates,3
-175,Stephen,Yates,6
-176,Thomas,Yates,3
-177,Other townsfolk,Yates,3
-178,Chief Scientist,Yates,3
-179,Garrison,Yates,3
-180,Butters,Thomas,1
-181,Butters,Other townsfolk,1
-182,Butters,Chief Scientist,1
-183,Butters,Garrison,1
-184,Other townsfolk,Stephen,2
-185,Cartman,Stephen,4
-186,Chief Scientist,Stephen,2
-187,Garrison,Stephen,2
-188,Other townsfolk,Thomas,1
-189,Cartman,Thomas,2
-190,Chief Scientist,Thomas,1
-191,Garrison,Thomas,1
-192,Cartman,Other townsfolk,2
-193,Chief Scientist,Other townsfolk,1
-194,Garrison,Other townsfolk,1
-195,Cartman,Chief Scientist,2
-196,Cartman,Garrison,2
-197,Chief Scientist,Garrison,1
+99,Chief Scientist,Delivery Express Man,3
+100,Delivery Express Man,Randy,9
+101,Jimbo,Randy,28
+102,Butters,Stan,86
+103,Female Aide,Garrison,9
+104,Garrison,Stan,67
+105,Female Aide,Stan,7
+106,Jimbo,Sharon,18
+107,Gerald,Sheila,2
+108,Dr. Doctor,Gerald,6
+109,Gerald,Nurse,2
+110,Dr. Doctor,Sheila,3
+111,Nurse,Sheila,1
+112,Dr. Doctor,Nurse,3
+113,Dr. Fauci,Stephen,1
+114,Stan,Students,12
+115,Craig,Stan,12
+116,Jimmy,Stan,12
+117,Butters,Students,2
+118,Butters,Kyle,27
+119,Butters,Craig,2
+120,Butters,Jimmy,2
+121,Butters,Cartman,19
+122,Kyle,Students,1
+123,Craig,Students,1
+124,Jimmy,Students,1
+125,Cartman,Students,5
+126,Craig,Kyle,1
+127,Jimmy,Kyle,1
+128,Craig,Jimmy,1
+129,Cartman,Craig,5
+130,Cartman,Jimmy,5
+131,Bill Keegan,Stocker,1
+132,Bill Keegan,Stephen,3
+133,Bill Keegan,Thomas,1
+134,Bill Keegan,Mrs. Testaburger,1
+135,Stephen,Stocker,3
+136,Stocker,Thomas,1
+137,Mrs. Testaburger,Stocker,1
+138,Mayor McDaniels,Yates,8
+139,Officers,Yates,4
+140,Mayor McDaniels,Officers,2
+141,James,Stan,36
+142,Butters,James,9
+143,James,Kyle,21
+144,Cartman,James,3
+145,Kyle,Randy,12
+146,Kyle,Stephen,8
+147,Kyle,Thomas,4
+148,Kyle,Other townsfolk,4
+149,Chief Scientist,Kyle,4
+150,Garrison,Kyle,4
+151,Stan,Stephen,8
+152,Stan,Thomas,4
+153,Other townsfolk,Stan,4
+154,Butters,Yates,3
+155,Randy,Yates,9
+156,Stephen,Yates,6
+157,Thomas,Yates,3
+158,Other townsfolk,Yates,3
+159,Chief Scientist,Yates,3
+160,Garrison,Yates,3
+161,Butters,Randy,3
+162,Butters,Thomas,1
+163,Butters,Other townsfolk,1
+164,Butters,Chief Scientist,1
+165,Butters,Garrison,1
+166,Randy,Stephen,6
+167,Randy,Thomas,3
+168,Other townsfolk,Randy,3
+169,Cartman,Randy,6
+170,Garrison,Randy,3
+171,Other townsfolk,Stephen,2
+172,Cartman,Stephen,4
+173,Chief Scientist,Stephen,2
+174,Garrison,Stephen,2
+175,Other townsfolk,Thomas,1
+176,Cartman,Thomas,2
+177,Chief Scientist,Thomas,1
+178,Garrison,Thomas,1
+179,Cartman,Other townsfolk,2
+180,Chief Scientist,Other townsfolk,1
+181,Garrison,Other townsfolk,1
+182,Cartman,Chief Scientist,2
+183,Cartman,Garrison,2
+184,Chief Scientist,Garrison,1

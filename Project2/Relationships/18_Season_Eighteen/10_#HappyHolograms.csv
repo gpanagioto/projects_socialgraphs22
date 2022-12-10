@@ -6,162 +6,97 @@
 4,Kyle,Sheila,23
 5,Butters,Sheila,9
 6,Bill Cosby,Kyle,36
-7,Det. Harris,Officer 1,15
-8,Officer 1,Sharon,2
-9,Officer 1,Officer 2,2
-10,Officer 1,Officer 3,2
-11,Adams,Officer 1,8
-12,MJ's Hologram,Officer 1,2
-13,Det. Harris,Sharon,6
-14,Det. Harris,Officer 2,6
-15,Det. Harris,Officer 3,6
-16,Adams,Det. Harris,24
-17,Det. Harris,MJ's Hologram,6
-18,Officer 2,Sharon,1
-19,Officer 3,Sharon,1
-20,Adams,Sharon,4
-21,MJ's Hologram,Sharon,1
-22,Officer 2,Officer 3,1
-23,Adams,Officer 2,4
-24,MJ's Hologram,Officer 2,1
-25,Adams,Officer 3,4
-26,MJ's Hologram,Officer 3,1
-27,Adams,MJ's Hologram,4
-28,Kyle,Stan,51
-29,Announcer,MJ's hologram,3
-30,Cartman,MJ's hologram,25
-31,Kyle,MJ's hologram,18
-32,MJ's hologram,Stan,3
-33,Announcer,Cartman,9
-34,Announcer,Kyle,12
-35,Announcer,Stan,9
-36,Cartman,Kyle,131
-37,Cartman,Stan,37
-38,Exec. 1,Record producer,5
-39,Exec. 1,Ron,3
-40,Cartman,Exec. 1,5
-41,Exec. 1,Exec. 2,1
-42,Record producer,Ron,18
-43,Cartman,Record producer,58
-44,Exec. 2,Record producer,5
-45,Cartman,Ron,26
-46,Exec. 2,Ron,3
-47,Cartman,Exec. 2,5
-48,Det. Harris,MJ's hologram,19
-49,Det. Harris,Officer 4,11
-50,MJ's hologram,Officer 1,5
-51,Officer 1,Officer 4,1
-52,MJ's hologram,Officer 4,7
-53,Kid 2,Kyle,16
-54,Conner,Kyle,23
-55,Kid 3,Kyle,9
-56,Kid 4,Kyle,9
-57,Kyle,PewDiePie,58
-58,Conner,Kid 2,7
-59,Kid 2,Kid 3,3
-60,Kid 2,Stan,2
-61,Kid 2,Kid 4,3
-62,Kid 2,PewDiePie,17
-63,Conner,Kid 3,4
-64,Conner,Stan,2
-65,Conner,Kid 4,4
-66,Conner,PewDiePie,25
-67,Kid 3,Stan,2
-68,Kid 3,Kid 4,2
-69,Kid 3,PewDiePie,9
-70,Kid 4,Stan,2
-71,PewDiePie,Stan,2
-72,Kid 4,PewDiePie,9
-73,Det. Harris,Front Desk Officer,16
-74,Det. Harris,Mitchell,8
-75,Front Desk Officer,Mitchell,8
-76,Front Desk Officer,Officer 4,8
-77,Front Desk Officer,MJ's hologram,4
-78,Mitchell,Officer 4,4
-79,MJ's hologram,Mitchell,2
-80,MJ's hologram,Sharon,2
-81,Controller 1,Ron,3
-82,Kyle,Record producer,24
-83,Record producer,Stan,8
-84,Det. Harris,Officer 5,4
-85,Officer 5,Officer 6,1
-86,Officer 5,Peterson,2
-87,Det. Harris,Officer 6,4
-88,Det. Harris,Peterson,12
-89,Officer 6,Peterson,2
-90,Cartman,Elvis' Hologram,2
-91,Cartman,Iggy's Ass,4
-92,Elvis' Hologram,Iggy's Ass,2
-93,Controller 2,Ron,2
-94,Controller 1,Controller 2,1
-95,Bill's hologram,Taylor,16
-96,Bill's hologram,Dad,12
-97,Bill's hologram,Mom,8
-98,Bill's hologram,Cartman,8
-99,Dad,Taylor,12
-100,Mom,Taylor,8
-101,Cartman,Taylor,8
-102,Dad,Mom,6
-103,Cartman,Dad,7
-104,Cartman,Mom,4
-105,Dad,Steve,1
-106,Cartman,Steve,1
-107,Cartman,Controller 2,1
-108,Cartman,Peterson,2
-109,Cartman,Det. Harris,2
-110,Cartman,Stephen,11
-111,Cartman,Kid 4,11
-112,Cartman,Conner,33
-113,Cartman,Kid 3,11
-114,Cartman,Ike,11
-115,Cartman,Kid 2,22
-116,Cartman,PewDiePie,88
-117,Cartman,Kids,11
-118,Kyle,Ron,7
-119,Kyle,Stephen,7
-120,Ike,Kyle,7
-121,Kids,Kyle,7
-122,Record producer,Stephen,3
-123,MJ's hologram,Record producer,6
-124,Kid 4,Record producer,3
-125,Conner,Record producer,9
-126,Kid 3,Record producer,3
-127,Ike,Record producer,3
-128,Kid 2,Record producer,6
-129,PewDiePie,Record producer,24
-130,Kids,Record producer,3
-131,Ron,Stephen,1
-132,MJ's hologram,Ron,2
-133,Kid 4,Ron,1
-134,Conner,Ron,3
-135,Kid 3,Ron,1
-136,Ike,Ron,1
-137,Kid 2,Ron,2
-138,PewDiePie,Ron,8
-139,Kids,Ron,1
-140,MJ's hologram,Stephen,2
-141,Kid 4,Stephen,1
-142,Conner,Stephen,3
-143,Kid 3,Stephen,1
-144,Ike,Stephen,1
-145,Kid 2,Stephen,2
-146,PewDiePie,Stephen,8
-147,Kids,Stephen,1
-148,Kid 4,MJ's hologram,2
-149,Conner,MJ's hologram,6
-150,Kid 3,MJ's hologram,2
-151,Ike,MJ's hologram,2
-152,Kid 2,MJ's hologram,4
-153,MJ's hologram,PewDiePie,16
-154,Kids,MJ's hologram,2
-155,Ike,Kid 4,1
-156,Kid 4,Kids,1
-157,Conner,Ike,3
-158,Conner,Kids,3
-159,Ike,Kid 3,1
-160,Kid 3,Kids,1
-161,Ike,Kid 2,2
-162,Ike,PewDiePie,8
-163,Ike,Kids,1
-164,Kid 2,Kids,2
-165,Kids,PewDiePie,8
+7,Det. Harris,Randy,39
+8,Randy,Sharon,12
+9,Adams,Randy,16
+10,MJ's Hologram,Randy,4
+11,Det. Harris,Sharon,6
+12,Adams,Det. Harris,24
+13,Det. Harris,MJ's Hologram,6
+14,Adams,Sharon,4
+15,MJ's Hologram,Sharon,1
+16,Adams,MJ's Hologram,4
+17,Kyle,Stan,51
+18,Announcer,MJ's hologram,3
+19,Cartman,MJ's hologram,25
+20,Kyle,MJ's hologram,18
+21,MJ's hologram,Stan,3
+22,Announcer,Cartman,9
+23,Announcer,Kyle,12
+24,Announcer,Stan,9
+25,Cartman,Kyle,131
+26,Cartman,Stan,37
+27,Record producer,Ron,18
+28,Cartman,Record producer,58
+29,Cartman,Ron,26
+30,Det. Harris,MJ's hologram,19
+31,MJ's hologram,Randy,29
+32,Conner,Kyle,23
+33,Kyle,PewDiePie,58
+34,Conner,Stan,2
+35,Conner,PewDiePie,25
+36,PewDiePie,Stan,2
+37,Det. Harris,Front Desk Officer,16
+38,Det. Harris,Mitchell,8
+39,Front Desk Officer,Mitchell,8
+40,Front Desk Officer,MJ's hologram,4
+41,MJ's hologram,Mitchell,2
+42,MJ's hologram,Sharon,2
+43,Kyle,Record producer,24
+44,Kyle,Randy,2
+45,Record producer,Stan,8
+46,Randy,Record producer,6
+47,Randy,Stan,4
+48,Det. Harris,Peterson,12
+49,Cartman,Elvis' Hologram,2
+50,Cartman,Iggy's Ass,4
+51,Elvis' Hologram,Iggy's Ass,2
+52,Bill's hologram,Taylor,16
+53,Bill's hologram,Dad,12
+54,Bill's hologram,Mom,8
+55,Bill's hologram,Cartman,8
+56,Dad,Taylor,12
+57,Mom,Taylor,8
+58,Cartman,Taylor,8
+59,Dad,Mom,6
+60,Cartman,Dad,7
+61,Cartman,Mom,4
+62,Dad,Steve,1
+63,Cartman,Steve,1
+64,Cartman,Peterson,2
+65,Cartman,Det. Harris,2
+66,Cartman,Stephen,11
+67,Cartman,Conner,33
+68,Cartman,Ike,11
+69,Cartman,PewDiePie,88
+70,Cartman,Kids,11
+71,Kyle,Ron,7
+72,Kyle,Stephen,7
+73,Ike,Kyle,7
+74,Kids,Kyle,7
+75,Record producer,Stephen,3
+76,MJ's hologram,Record producer,6
+77,Conner,Record producer,9
+78,Ike,Record producer,3
+79,PewDiePie,Record producer,24
+80,Kids,Record producer,3
+81,Ron,Stephen,1
+82,MJ's hologram,Ron,2
+83,Conner,Ron,3
+84,Ike,Ron,1
+85,PewDiePie,Ron,8
+86,Kids,Ron,1
+87,MJ's hologram,Stephen,2
+88,Conner,Stephen,3
+89,Ike,Stephen,1
+90,PewDiePie,Stephen,8
+91,Kids,Stephen,1
+92,Conner,MJ's hologram,6
+93,Ike,MJ's hologram,2
+94,MJ's hologram,PewDiePie,16
+95,Kids,MJ's hologram,2
+96,Conner,Ike,3
+97,Conner,Kids,3
+98,Ike,PewDiePie,8
+99,Ike,Kids,1
+100,Kids,PewDiePie,8

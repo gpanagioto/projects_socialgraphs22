@@ -15,107 +15,89 @@
 13,Craig,Kyle,40
 14,Craig,Tweek,46
 15,Kenny,Wendy,8
-16,Kenny,Woman,6
-17,Wendy,Woman,1
-18,Cartman,Kenny,12
-19,Bebe,Cartman,4
-20,Annie,Cartman,4
-21,Cartman,Clyde,32
-22,Cartman,Tolkien,4
-23,Kenny,Kyle,14
-24,Bebe,Kyle,5
-25,Annie,Kyle,5
-26,Clyde,Kyle,31
-27,Kyle,Tolkien,5
-28,Kenny,Stan,22
-29,Bebe,Stan,3
-30,Annie,Stan,3
-31,Clyde,Stan,17
-32,Stan,Tolkien,3
-33,Bebe,Kenny,14
-34,Annie,Kenny,2
-35,Clyde,Kenny,6
-36,Kenny,Tolkien,2
-37,Annie,Bebe,1
-38,Bebe,Clyde,3
-39,Bebe,Tolkien,1
-40,Annie,Clyde,3
-41,Annie,Tolkien,1
-42,Clyde,Tolkien,3
-43,Mrs. Tweak,Tweek,15
-44,Richard,Tweek,5
-45,Mrs. Tweak,Richard,3
-46,Craig,Thomas,4
-47,Craig,Laura Tucker,2
-48,Laura Tucker,Thomas,2
-49,Mr. Adler,Pearl,20
-50,Fiancée,Pearl,4
-51,Fiancée,Mr. Adler,101
-52,Clyde,Craig,6
-53,Bebe,Pearl,19
-54,Fiancée,Kyle,7
-55,Cartman,Fiancée,7
-56,Clyde,Mr. Adler,20
-57,Clyde,Fiancée,4
-58,Kyle,Wendy,24
-59,Stan,Wendy,32
-60,Cartman,Wendy,32
-61,Craig,Wendy,8
-62,Tweek,Wendy,12
-63,Crowd,Wendy,8
-64,Clyde,Wendy,4
-65,Crowd,Kyle,12
-66,Crowd,Stan,16
-67,Cartman,Crowd,16
-68,Craig,Crowd,4
-69,Crowd,Tweek,6
-70,Clyde,Tweek,5
-71,Clyde,Crowd,2
-72,Jimbo,Tweek,45
-73,Ned,Tweek,25
-74,Jimbo,Ned,45
-75,Jimbo,Stan,9
-76,Jimbo,Kyle,9
-77,Ned,Stan,5
-78,Kyle,Ned,5
-79,Craig,Master,24
-80,Cartman,Master,30
-81,Class,Pearl,18
-82,Bebe,Class,4
-83,Class,Kenny,12
-84,Class,Wendy,2
-85,Kenny,Pearl,54
-86,Pearl,Wendy,9
-87,Bebe,Wendy,2
-88,Fiancée,Stan,24
-89,Stan,Woman,4
-90,Gram'ma,Stan,4
-91,Man,Stan,4
-92,Stan,Uncle Corey,4
-93,Kenny,Mr. Adler,60
-94,Mr. Adler,Woman,15
-95,Gram'ma,Mr. Adler,15
-96,Man,Mr. Adler,15
-97,Mr. Adler,Uncle Corey,15
-98,Cartman,Woman,1
-99,Cartman,Gram'ma,1
-100,Cartman,Man,1
-101,Cartman,Uncle Corey,1
-102,Fiancée,Kenny,24
-103,Gram'ma,Kenny,4
-104,Kenny,Man,4
-105,Kenny,Uncle Corey,4
-106,Kyle,Woman,1
-107,Gram'ma,Kyle,1
-108,Kyle,Man,1
-109,Kyle,Uncle Corey,1
-110,Fiancée,Woman,6
-111,Fiancée,Gram'ma,6
-112,Fiancée,Man,6
-113,Fiancée,Uncle Corey,6
-114,Gram'ma,Woman,1
-115,Man,Woman,1
-116,Uncle Corey,Woman,1
-117,Gram'ma,Man,1
-118,Gram'ma,Uncle Corey,1
-119,Man,Uncle Corey,1
+16,Cartman,Kenny,12
+17,Bebe,Cartman,4
+18,Annie,Cartman,4
+19,Cartman,Clyde,32
+20,Cartman,Tolkien,4
+21,Kenny,Kyle,14
+22,Bebe,Kyle,5
+23,Annie,Kyle,5
+24,Clyde,Kyle,31
+25,Kyle,Tolkien,5
+26,Kenny,Stan,22
+27,Bebe,Stan,3
+28,Annie,Stan,3
+29,Clyde,Stan,17
+30,Stan,Tolkien,3
+31,Bebe,Kenny,14
+32,Annie,Kenny,2
+33,Clyde,Kenny,6
+34,Kenny,Tolkien,2
+35,Annie,Bebe,1
+36,Bebe,Clyde,3
+37,Bebe,Tolkien,1
+38,Annie,Clyde,3
+39,Annie,Tolkien,1
+40,Clyde,Tolkien,3
+41,Mrs. Tweak,Tweek,15
+42,Richard,Tweek,5
+43,Mrs. Tweak,Richard,3
+44,Craig,Thomas,4
+45,Craig,Laura Tucker,2
+46,Laura Tucker,Thomas,2
+47,Mr. Adler,Pearl,20
+48,Fiancée,Pearl,4
+49,Fiancée,Mr. Adler,101
+50,Clyde,Craig,6
+51,Bebe,Pearl,19
+52,Fiancée,Kyle,7
+53,Cartman,Fiancée,7
+54,Clyde,Mr. Adler,20
+55,Clyde,Fiancée,4
+56,Kyle,Wendy,24
+57,Stan,Wendy,32
+58,Cartman,Wendy,32
+59,Craig,Wendy,8
+60,Tweek,Wendy,12
+61,Crowd,Wendy,8
+62,Clyde,Wendy,4
+63,Crowd,Kyle,12
+64,Crowd,Stan,16
+65,Cartman,Crowd,16
+66,Craig,Crowd,4
+67,Crowd,Tweek,6
+68,Clyde,Tweek,5
+69,Clyde,Crowd,2
+70,Jimbo,Tweek,45
+71,Ned,Tweek,25
+72,Jimbo,Ned,45
+73,Jimbo,Stan,9
+74,Jimbo,Kyle,9
+75,Ned,Stan,5
+76,Kyle,Ned,5
+77,Craig,Master,24
+78,Cartman,Master,30
+79,Class,Pearl,18
+80,Bebe,Class,4
+81,Class,Kenny,12
+82,Class,Wendy,2
+83,Kenny,Pearl,54
+84,Pearl,Wendy,9
+85,Bebe,Wendy,2
+86,Fiancée,Stan,24
+87,Gram'ma,Stan,4
+88,Stan,Uncle Corey,4
+89,Kenny,Mr. Adler,60
+90,Gram'ma,Mr. Adler,15
+91,Mr. Adler,Uncle Corey,15
+92,Cartman,Gram'ma,1
+93,Cartman,Uncle Corey,1
+94,Fiancée,Kenny,24
+95,Gram'ma,Kenny,4
+96,Kenny,Uncle Corey,4
+97,Gram'ma,Kyle,1
+98,Kyle,Uncle Corey,1
+99,Fiancée,Gram'ma,6
+100,Fiancée,Uncle Corey,6
+101,Gram'ma,Uncle Corey,1

@@ -54,73 +54,41 @@
 52,Janson,Mayor,32
 53,Bezos,Janson,16
 54,Bezos,Mayor,38
-55,Kyle,Mall Worker 1,5
-56,Mall Worker 1,Stan,8
-57,Cartman,Mall Worker 1,4
-58,Butters,Linda,6
-59,Butters,Stephen,6
-60,Bezos,Stephen,1
-61,Mall Worker 2,Stan,3
-62,Mall Worker 2,Mall Worker 3,1
-63,Mall Worker 2,Mall Worker 4,1
-64,Mall Worker 2,Mall Worker 5,2
-65,Mall Worker 3,Stan,3
-66,Mall Worker 4,Stan,7
-67,Mall Worker 5,Stan,6
-68,Mall Worker 3,Mall Worker 4,1
-69,Mall Worker 3,Mall Worker 5,2
-70,Mall Worker 4,Mall Worker 5,2
-71,Gamestop employee,Hobby employee,1
-72,Build-A-Bear Workshop employee,Kyle,1
-73,Build-A-Bear Workshop employee,Cartman,2
-74,Build-A-Bear Workshop employee,Mall Worker 6,2
-75,Build-A-Bear Workshop employee,Stan,4
-76,Build-A-Bear Workshop employee,Mall Workers,2
-77,Build-A-Bear Workshop employee,Mall Worker 1,1
-78,Build-A-Bear Workshop employee,Kenny,1
-79,Build-A-Bear Workshop employee,Mall Worker 7,1
-80,Build-A-Bear Workshop employee,Mall Worker 4,1
-81,Kyle,Mall Worker 6,2
-82,Kyle,Mall Workers,2
-83,Kyle,Mall Worker 7,1
-84,Kyle,Mall Worker 4,1
-85,Cartman,Mall Worker 6,4
-86,Cartman,Mall Workers,4
-87,Cartman,Mall Worker 7,2
-88,Cartman,Mall Worker 4,2
-89,Mall Worker 6,Stan,8
-90,Mall Worker 6,Mall Workers,4
-91,Mall Worker 1,Mall Worker 6,2
-92,Kenny,Mall Worker 6,2
-93,Mall Worker 6,Mall Worker 7,2
-94,Mall Worker 4,Mall Worker 6,2
-95,Mall Workers,Stan,8
-96,Mall Worker 7,Stan,4
-97,Mall Worker 1,Mall Workers,2
-98,Kenny,Mall Workers,2
-99,Mall Worker 7,Mall Workers,2
-100,Mall Worker 4,Mall Workers,2
-101,Kenny,Mall Worker 1,1
-102,Mall Worker 1,Mall Worker 7,1
-103,Mall Worker 1,Mall Worker 4,1
-104,Kenny,Mall Worker 7,1
-105,Kenny,Mall Worker 4,1
-106,Mall Worker 4,Mall Worker 7,1
-107,Customers,Tom,2
-108,Customers,Josh,2
-109,Customers,Stuart,2
-110,Customers,Strikers,1
-111,Customers,Gruff Worker,4
-112,Customers,Stephen,3
-113,Stuart,Tom,4
-114,Strikers,Tom,2
-115,Gruff Worker,Tom,8
-116,Stephen,Tom,6
-117,Josh,Stuart,4
-118,Josh,Strikers,2
-119,Gruff Worker,Josh,8
-120,Strikers,Stuart,2
-121,Gruff Worker,Strikers,4
-122,Stephen,Strikers,3
-123,Bezos,Stan,15
-124,Mayor,Stan,3
+55,Butters,Linda,6
+56,Butters,Stephen,6
+57,Bezos,Stephen,1
+58,Gamestop employee,Hobby employee,1
+59,Build-A-Bear Workshop employee,Kyle,1
+60,Build-A-Bear Workshop employee,Cartman,2
+61,Build-A-Bear Workshop employee,Stan,4
+62,Build-A-Bear Workshop employee,Mall Workers,2
+63,Build-A-Bear Workshop employee,Kenny,1
+64,Kyle,Mall Workers,2
+65,Cartman,Mall Workers,4
+66,Mall Workers,Stan,8
+67,Kenny,Mall Workers,2
+68,Customers,Tom,2
+69,Customers,Randy,2
+70,Customers,Josh,2
+71,Customers,Stuart,2
+72,Customers,Strikers,1
+73,Customers,Gruff Worker,4
+74,Customers,Stephen,3
+75,Randy,Tom,4
+76,Stuart,Tom,4
+77,Strikers,Tom,2
+78,Gruff Worker,Tom,8
+79,Stephen,Tom,6
+80,Josh,Randy,4
+81,Randy,Stuart,4
+82,Randy,Strikers,2
+83,Gruff Worker,Randy,8
+84,Randy,Stephen,6
+85,Josh,Stuart,4
+86,Josh,Strikers,2
+87,Gruff Worker,Josh,8
+88,Strikers,Stuart,2
+89,Gruff Worker,Strikers,4
+90,Stephen,Strikers,3
+91,Bezos,Stan,15
+92,Mayor,Stan,3

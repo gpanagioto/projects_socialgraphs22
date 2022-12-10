@@ -28,10 +28,12 @@
 26,Talent Scout,Truck Driver,8
 27,Marty,Truck Driver,9
 28,Mr. Mackey,Sharon,2
-29,Mr. Mackey,Sheila,2
-30,Sharon,Sheila,2
-31,Man 1,Man 2,2
-32,Cartman,Clyde,1
-33,Clyde,Stan,1
-34,Kids,Stan,1
-35,Cartman,Liane,2
+29,Randy,Sheila,2
+30,Mr. Mackey,Sheila,2
+31,Sharon,Sheila,2
+32,Mr. Mackey,Randy,1
+33,Randy,Sharon,1
+34,Cartman,Clyde,1
+35,Clyde,Stan,1
+36,Kids,Stan,1
+37,Cartman,Liane,2

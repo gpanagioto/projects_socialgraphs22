@@ -11,228 +11,214 @@
 9,Men,Mr. Garrison,5
 10,Men,Stuart,4
 11,Cartman,Men,43
-12,Jimbo,Stan,72
-13,Mr. Garrison,Stan,16
-14,Stan,Stuart,10
-15,Jimbo,Kyle,83
-16,Kyle,Mr. Garrison,22
-17,Kyle,Stuart,14
-18,Jimbo,Mr. Garrison,46
-19,Jimbo,Stuart,24
-20,Cartman,Jimbo,189
-21,Mr. Garrison,Stuart,6
-22,Cartman,Mr. Garrison,44
-23,Cartman,Stuart,27
-24,Jimbo,Ned,5
-25,Jimbo,Man 1,2
-26,Jimbo,Man 2,2
-27,Jimbo,Reenactors,11
-28,Gerald,Jimbo,24
-29,Man 1,Ned,1
-30,Man 2,Ned,1
-31,Cartman,Ned,7
-32,Ned,Reenactors,1
-33,Gerald,Ned,2
-34,Ned,Stan,3
-35,Man 1,Man 2,1
-36,Cartman,Man 1,2
-37,Man 1,Reenactors,1
-38,Gerald,Man 1,1
-39,Man 1,Stan,1
-40,Cartman,Man 2,2
-41,Man 2,Reenactors,1
-42,Gerald,Man 2,1
-43,Man 2,Stan,1
-44,Cartman,Reenactors,7
-45,Cartman,Gerald,19
-46,Gerald,Reenactors,2
-47,Reenactors,Stan,2
-48,Gerald,Stan,12
-49,Cartman,Reenactor,13
-50,Jimbo,Reenactor,17
-51,Mr. Garrison,Reenactors,3
-52,Mr. Garrison,Reenactor,5
-53,Reenactors,Stuart,2
-54,Reenactor,Stuart,2
-55,Reenactor,Reenactors,2
-56,Confederate 1,Confederate 2,1
-57,Confederate 1,Gerald,1
-58,Confederate 1,Mr. Garrison,1
-59,Confederate 1,Kyle,1
-60,Confederate 1,Stan,1
-61,Cartman,Confederate 1,1
-62,Confederate 1,Reenactor,1
-63,Confederate 1,Jimbo,3
-64,Barbrady,Confederate 1,1
-65,Confederate 1,Reenactors,1
-66,Confederate 2,Gerald,1
-67,Confederate 2,Mr. Garrison,1
-68,Confederate 2,Kyle,1
-69,Confederate 2,Stan,1
-70,Cartman,Confederate 2,1
-71,Confederate 2,Reenactor,1
-72,Confederate 2,Jimbo,3
-73,Barbrady,Confederate 2,1
-74,Confederate 2,Reenactors,1
-75,Gerald,Mr. Garrison,7
-76,Gerald,Kyle,10
-77,Gerald,Reenactor,2
-78,Barbrady,Gerald,1
-79,Barbrady,Mr. Garrison,1
-80,Kyle,Reenactor,4
-81,Barbrady,Kyle,1
-82,Kyle,Reenactors,1
-83,Reenactor,Stan,2
-84,Barbrady,Stan,1
-85,Barbrady,Cartman,1
-86,Barbrady,Reenactor,1
-87,Barbrady,Jimbo,3
-88,Barbrady,Reenactors,1
-89,Bartender,Jimbo,9
-90,Jimbo,Reenactor 3,9
-91,Jimbo,Kenny,9
-92,Bartender,Cartman,9
-93,Cartman,Reenactor 3,9
-94,Bartender,Kyle,3
-95,Kyle,Reenactor 3,3
-96,Bartender,Stan,1
-97,Reenactor 3,Stan,1
-98,Bartender,Mr. Garrison,2
-99,Mr. Garrison,Reenactor 3,2
-100,Kenny,Mr. Garrison,2
-101,Bartender,Reenactor,1
-102,Bartender,Gerald,1
-103,Bartender,Stuart,1
-104,Bartender,Reenactor 3,1
-105,Bartender,Men,1
-106,Bartender,Kenny,1
-107,Reenactor,Reenactor 3,1
-108,Men,Reenactor,1
-109,Kenny,Reenactor,1
-110,Gerald,Stuart,3
-111,Gerald,Reenactor 3,1
-112,Gerald,Men,1
-113,Gerald,Kenny,1
-114,Reenactor 3,Stuart,1
-115,Kenny,Stuart,1
-116,Men,Reenactor 3,1
-117,Kenny,Reenactor 3,1
-118,Kenny,Men,1
-119,Mrs. Hollis,Ralph,4
-120,Driver,Mrs. Hollis,2
-121,Jimbo,Mrs. Hollis,3
-122,Driver,Ralph,1
-123,Jimbo,Ralph,3
-124,Driver,Jimbo,1
-125,Ralph,Stuart,2
-126,Mrs. Hollis,Stuart,1
-127,Ralph,Reenactors,2
-128,Mrs. Hollis,Reenactors,1
-129,Cartman,Ralph,2
-130,Cartman,Mrs. Hollis,1
-131,Butters,Kyle,12
-132,Butters,Stan,15
-133,Brunet,Man,1
-134,Blond,Man,1
-135,Man,Stan,3
-136,Kyle,Man,2
-137,Gerald,Man,2
-138,Jimbo,Man,2
-139,Larsen,Man,4
-140,Dawkins,Man,2
-141,Man,Soldier,1
-142,Blond,Brunet,1
-143,Brunet,Stan,3
-144,Brunet,Kyle,2
-145,Brunet,Gerald,2
-146,Brunet,Jimbo,2
-147,Brunet,Larsen,4
-148,Brunet,Dawkins,2
-149,Brunet,Soldier,1
-150,Blond,Stan,3
-151,Blond,Kyle,2
-152,Blond,Gerald,2
-153,Blond,Jimbo,2
-154,Blond,Larsen,4
-155,Blond,Dawkins,2
-156,Blond,Soldier,1
-157,Larsen,Stan,22
-158,Dawkins,Stan,7
-159,Soldier,Stan,3
-160,Kyle,Larsen,9
-161,Dawkins,Kyle,5
-162,Kyle,Soldier,2
-163,Gerald,Larsen,8
-164,Dawkins,Gerald,4
-165,Gerald,Soldier,2
-166,Jimbo,Larsen,25
-167,Dawkins,Jimbo,9
-168,Jimbo,Soldier,2
-169,Dawkins,Larsen,9
-170,Larsen,Soldier,4
-171,Dawkins,Soldier,2
-172,Cartman,Larsen,18
-173,Larsen,Mr. Garrison,1
-174,Cartman,Dawkins,3
-175,Dawkins,Mr. Garrison,1
-176,Gerald,Soldier 2,1
-177,Jimbo,Soldier 2,3
-178,Ned,Soldier 2,1
-179,Mr. Garrison,Soldier 2,1
-180,Soldier 2,Stuart,1
-181,Cartman,Soldier 2,5
-182,Soldier 2,Stan,2
-183,Kyle,Soldier 2,1
-184,Mr. Garrison,Ned,1
-185,Ned,Stuart,1
-186,Kyle,Ned,1
-187,Jimbo,Suzette,4
-188,Stuart,Suzette,2
-189,Gerald,Suzette,2
-190,Cartman,Suzette,2
-191,Mr. Garrison,Solders,3
-192,Mr. Garrison,Soldiers,3
-193,Gerald,Solders,1
-194,Gerald,Soldiers,1
-195,Cartman,Solders,1
-196,Jimbo,Solders,1
-197,Solders,Soldiers,1
-198,Solders,Stan,1
-199,Kyle,Solders,1
-200,Cartman,Soldiers,1
-201,Jimbo,Soldiers,1
-202,Soldiers,Stan,1
-203,Kyle,Soldiers,1
-204,Guide,Tourist,1
-205,Cartman,Tourist,5
-206,Jimbo,Tourist,4
-207,Men,Tourist,2
-208,Larsen,Tourist,3
-209,Stan,Tourist,3
-210,Elderly Voice,Tourist,1
-211,Leader,Tourist,1
-212,Cartman,Guide,5
-213,Guide,Jimbo,4
-214,Guide,Men,2
-215,Guide,Larsen,3
-216,Guide,Stan,3
-217,Elderly Voice,Guide,1
-218,Guide,Leader,1
-219,Cartman,Elderly Voice,5
-220,Cartman,Leader,5
-221,Elderly Voice,Jimbo,4
-222,Jimbo,Leader,4
-223,Larsen,Men,6
-224,Elderly Voice,Men,2
-225,Leader,Men,2
-226,Elderly Voice,Larsen,3
-227,Larsen,Leader,3
-228,Elderly Voice,Stan,3
-229,Leader,Stan,3
-230,Elderly Voice,Leader,1
-231,Aide,Clinton,4
-232,Advisor,Aide,2
-233,Aide,Al Gore,4
-234,Advisor,Clinton,2
-235,Al Gore,Clinton,4
-236,Advisor,Al Gore,2
+12,Grandpa,Men,3
+13,Jimbo,Stan,72
+14,Mr. Garrison,Stan,16
+15,Stan,Stuart,10
+16,Grandpa,Stan,25
+17,Jimbo,Kyle,83
+18,Kyle,Mr. Garrison,22
+19,Kyle,Stuart,14
+20,Grandpa,Kyle,19
+21,Jimbo,Mr. Garrison,46
+22,Jimbo,Stuart,24
+23,Cartman,Jimbo,189
+24,Grandpa,Jimbo,29
+25,Mr. Garrison,Stuart,6
+26,Cartman,Mr. Garrison,44
+27,Grandpa,Mr. Garrison,4
+28,Cartman,Stuart,27
+29,Grandpa,Stuart,1
+30,Cartman,Grandpa,21
+31,Grandpa,Randy,32
+32,Grandpa,Ned,4
+33,Grandpa,Reenactors,6
+34,Gerald,Grandpa,12
+35,Jimbo,Randy,81
+36,Jimbo,Ned,5
+37,Jimbo,Reenactors,11
+38,Gerald,Jimbo,24
+39,Ned,Randy,7
+40,Cartman,Randy,73
+41,Randy,Reenactors,12
+42,Gerald,Randy,19
+43,Randy,Stan,25
+44,Cartman,Ned,7
+45,Ned,Reenactors,1
+46,Gerald,Ned,2
+47,Ned,Stan,3
+48,Cartman,Reenactors,7
+49,Cartman,Gerald,19
+50,Gerald,Reenactors,2
+51,Reenactors,Stan,2
+52,Gerald,Stan,12
+53,Cartman,Reenactor,13
+54,Jimbo,Reenactor,17
+55,Mr. Garrison,Reenactors,3
+56,Mr. Garrison,Reenactor,5
+57,Reenactors,Stuart,2
+58,Reenactor,Stuart,2
+59,Reenactor,Reenactors,2
+60,Gerald,Mr. Garrison,7
+61,Gerald,Kyle,10
+62,Gerald,Reenactor,2
+63,Barbrady,Gerald,1
+64,Mr. Garrison,Randy,18
+65,Barbrady,Mr. Garrison,1
+66,Kyle,Randy,22
+67,Randy,Reenactor,8
+68,Barbrady,Randy,4
+69,Grandpa,Reenactor,2
+70,Barbrady,Grandpa,2
+71,Kyle,Reenactor,4
+72,Barbrady,Kyle,1
+73,Kyle,Reenactors,1
+74,Reenactor,Stan,2
+75,Barbrady,Stan,1
+76,Barbrady,Cartman,1
+77,Barbrady,Reenactor,1
+78,Barbrady,Jimbo,3
+79,Barbrady,Reenactors,1
+80,Bartender,Randy,4
+81,Randy,Stuart,10
+82,Men,Randy,6
+83,Kenny,Randy,4
+84,Bartender,Jimbo,9
+85,Jimbo,Kenny,9
+86,Bartender,Cartman,9
+87,Bartender,Kyle,3
+88,Bartender,Stan,1
+89,Bartender,Mr. Garrison,2
+90,Kenny,Mr. Garrison,2
+91,Bartender,Reenactor,1
+92,Bartender,Gerald,1
+93,Bartender,Stuart,1
+94,Bartender,Men,1
+95,Bartender,Kenny,1
+96,Men,Reenactor,1
+97,Kenny,Reenactor,1
+98,Gerald,Stuart,3
+99,Gerald,Men,1
+100,Gerald,Kenny,1
+101,Kenny,Stuart,1
+102,Kenny,Men,1
+103,Mrs. Hollis,Ralph,4
+104,Driver,Mrs. Hollis,2
+105,Jimbo,Mrs. Hollis,3
+106,Driver,Ralph,1
+107,Jimbo,Ralph,3
+108,Driver,Jimbo,1
+109,Ralph,Stuart,2
+110,Mrs. Hollis,Stuart,1
+111,Ralph,Reenactors,2
+112,Mrs. Hollis,Reenactors,1
+113,Ralph,Randy,6
+114,Mrs. Hollis,Randy,3
+115,Cartman,Ralph,2
+116,Cartman,Mrs. Hollis,1
+117,Butters,Kyle,12
+118,Butters,Stan,15
+119,Brunet,Grandpa,3
+120,Blond,Grandpa,3
+121,Grandpa,Larsen,13
+122,Dawkins,Grandpa,7
+123,Grandpa,Soldier,3
+124,Blond,Brunet,1
+125,Brunet,Stan,3
+126,Brunet,Randy,1
+127,Brunet,Kyle,2
+128,Brunet,Gerald,2
+129,Brunet,Jimbo,2
+130,Brunet,Larsen,4
+131,Brunet,Dawkins,2
+132,Brunet,Soldier,1
+133,Blond,Stan,3
+134,Blond,Randy,1
+135,Blond,Kyle,2
+136,Blond,Gerald,2
+137,Blond,Jimbo,2
+138,Blond,Larsen,4
+139,Blond,Dawkins,2
+140,Blond,Soldier,1
+141,Larsen,Stan,22
+142,Dawkins,Stan,7
+143,Soldier,Stan,3
+144,Larsen,Randy,8
+145,Dawkins,Randy,3
+146,Randy,Soldier,1
+147,Kyle,Larsen,9
+148,Dawkins,Kyle,5
+149,Kyle,Soldier,2
+150,Gerald,Larsen,8
+151,Dawkins,Gerald,4
+152,Gerald,Soldier,2
+153,Jimbo,Larsen,25
+154,Dawkins,Jimbo,9
+155,Jimbo,Soldier,2
+156,Dawkins,Larsen,9
+157,Larsen,Soldier,4
+158,Dawkins,Soldier,2
+159,Cartman,Larsen,18
+160,Larsen,Mr. Garrison,1
+161,Cartman,Dawkins,3
+162,Dawkins,Mr. Garrison,1
+163,Mr. Garrison,Ned,1
+164,Ned,Stuart,1
+165,Kyle,Ned,1
+166,Jimbo,Suzette,4
+167,Stuart,Suzette,2
+168,Randy,Suzette,2
+169,Gerald,Suzette,2
+170,Cartman,Suzette,2
+171,Mr. Garrison,Solders,3
+172,Mr. Garrison,Soldiers,3
+173,Gerald,Solders,1
+174,Gerald,Soldiers,1
+175,Randy,Solders,1
+176,Randy,Soldiers,1
+177,Cartman,Solders,1
+178,Jimbo,Solders,1
+179,Solders,Soldiers,1
+180,Solders,Stan,1
+181,Kyle,Solders,1
+182,Cartman,Soldiers,1
+183,Jimbo,Soldiers,1
+184,Soldiers,Stan,1
+185,Kyle,Soldiers,1
+186,Guide,Tourist,1
+187,Cartman,Tourist,5
+188,Jimbo,Tourist,4
+189,Men,Tourist,2
+190,Randy,Tourist,1
+191,Larsen,Tourist,3
+192,Stan,Tourist,3
+193,Elderly Voice,Tourist,1
+194,Leader,Tourist,1
+195,Cartman,Guide,5
+196,Guide,Jimbo,4
+197,Guide,Men,2
+198,Guide,Randy,1
+199,Guide,Larsen,3
+200,Guide,Stan,3
+201,Elderly Voice,Guide,1
+202,Guide,Leader,1
+203,Cartman,Elderly Voice,5
+204,Cartman,Leader,5
+205,Elderly Voice,Jimbo,4
+206,Jimbo,Leader,4
+207,Larsen,Men,6
+208,Elderly Voice,Men,2
+209,Leader,Men,2
+210,Elderly Voice,Randy,1
+211,Leader,Randy,1
+212,Elderly Voice,Larsen,3
+213,Larsen,Leader,3
+214,Elderly Voice,Stan,3
+215,Leader,Stan,3
+216,Elderly Voice,Leader,1
+217,Aide,Clinton,4
+218,Advisor,Aide,2
+219,Aide,Al Gore,4
+220,Advisor,Clinton,2
+221,Al Gore,Clinton,4
+222,Advisor,Al Gore,2

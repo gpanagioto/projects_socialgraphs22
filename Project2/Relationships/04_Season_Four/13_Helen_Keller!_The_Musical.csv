@@ -84,69 +84,57 @@
 82,Father,Timmy,1
 83,Elderly man,Timmy,1
 84,Heidi,Timmy,1
-85,Timmy,Woman,1
-86,Man,Timmy,2
-87,Kelly,Timmy,1
-88,Lady,Timmy,1
-89,Boy,Father,2
-90,Boy,Elderly man,2
-91,Boy,Heidi,2
-92,Boy,Woman,2
-93,Boy,Man,4
-94,Boy,Kelly,2
-95,Boy,Lady,2
-96,Elderly man,Father,1
-97,Father,Heidi,1
-98,Father,Woman,1
-99,Father,Man,2
-100,Father,Kelly,1
-101,Father,Lady,1
-102,Elderly man,Heidi,1
-103,Elderly man,Woman,1
-104,Elderly man,Man,2
-105,Elderly man,Kelly,1
-106,Elderly man,Lady,1
-107,Heidi,Woman,1
-108,Heidi,Man,2
-109,Heidi,Kelly,1
-110,Heidi,Lady,1
-111,Man,Woman,2
-112,Kelly,Woman,1
-113,Lady,Woman,1
-114,Kelly,Man,2
-115,Lady,Man,2
-116,Kelly,Lady,1
-117,Sharon,Sheila,3
-118,Gerald,Sheila,4
-119,Gerald,Sharon,2
-120,Lamond,Stan,2
-121,Mr. Mackey,Principal Victoria,2
-122,Mr. Garrison,Mr. Mackey,1
-123,Kids,Mr. Mackey,1
-124,Mr. Mackey,Sheila,1
-125,Mr. Mackey,Sharon,1
-126,Mr. Garrison,Principal Victoria,2
-127,Kids,Principal Victoria,3
-128,Principal Victoria,Sheila,2
-129,Principal Victoria,Sharon,2
-130,Kids,Mr. Garrison,1
-131,Mr. Garrison,Sheila,1
-132,Mr. Garrison,Sharon,1
-133,Kids,Sheila,1
-134,Kids,Sharon,1
-135,Cartman,Installer,2
-136,Jeffrey,Principal Victoria,3
-137,Cartman,Principal Victoria,3
-138,Jimbo,Timmy,9
-139,Jeffrey,Jimbo,2
-140,Bebe,Jimbo,1
-141,Bebe,Principal Victoria,1
-142,Kids,Lamond,2
-143,Jimbo,Kids,1
-144,Jimbo,Lamond,2
-145,Lamond,Principal Victoria,2
-146,Principal Victoria,Timmy,3
-147,Cartman,Jimbo,2
-148,Jimbo,Kyle,1
-149,Jimbo,Principal Victoria,1
-150,Kyle,Principal Victoria,1
+85,Kelly,Timmy,1
+86,Lady,Timmy,1
+87,Boy,Father,2
+88,Boy,Elderly man,2
+89,Boy,Heidi,2
+90,Boy,Kelly,2
+91,Boy,Lady,2
+92,Elderly man,Father,1
+93,Father,Heidi,1
+94,Father,Kelly,1
+95,Father,Lady,1
+96,Elderly man,Heidi,1
+97,Elderly man,Kelly,1
+98,Elderly man,Lady,1
+99,Heidi,Kelly,1
+100,Heidi,Lady,1
+101,Kelly,Lady,1
+102,Sharon,Sheila,3
+103,Gerald,Sheila,4
+104,Randy,Sheila,2
+105,Gerald,Sharon,2
+106,Randy,Sharon,1
+107,Gerald,Randy,2
+108,Lamond,Stan,2
+109,Mr. Mackey,Principal Victoria,2
+110,Mr. Garrison,Mr. Mackey,1
+111,Kids,Mr. Mackey,1
+112,Mr. Mackey,Sheila,1
+113,Mr. Mackey,Sharon,1
+114,Mr. Garrison,Principal Victoria,2
+115,Kids,Principal Victoria,3
+116,Principal Victoria,Sheila,2
+117,Principal Victoria,Sharon,2
+118,Kids,Mr. Garrison,1
+119,Mr. Garrison,Sheila,1
+120,Mr. Garrison,Sharon,1
+121,Kids,Sheila,1
+122,Kids,Sharon,1
+123,Cartman,Installer,2
+124,Jeffrey,Principal Victoria,3
+125,Cartman,Principal Victoria,3
+126,Jimbo,Timmy,9
+127,Jeffrey,Jimbo,2
+128,Bebe,Jimbo,1
+129,Bebe,Principal Victoria,1
+130,Kids,Lamond,2
+131,Jimbo,Kids,1
+132,Jimbo,Lamond,2
+133,Lamond,Principal Victoria,2
+134,Principal Victoria,Timmy,3
+135,Cartman,Jimbo,2
+136,Jimbo,Kyle,1
+137,Jimbo,Principal Victoria,1
+138,Kyle,Principal Victoria,1

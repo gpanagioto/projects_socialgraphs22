@@ -155,28 +155,21 @@
 153,Francis,Polly Prissy Pants,3
 154,Polly Prissy Pants,Stan,3
 155,Butters,Francis,1
-156,Astronaut 1,Bebe,15
-157,Astronaut 2,Bebe,15
-158,Astronaut 1,Stan,9
-159,Astronaut 2,Stan,9
-160,Craig,Mrs. Stevens,4
-161,Astronaut 1,Craig,3
-162,Astronaut 2,Craig,3
-163,Astronaut 1,Mrs. Stevens,12
-164,Astronaut 2,Mrs. Stevens,12
-165,Astronaut 1,Astronaut 2,9
-166,Bebe,Dr. Hallis,90
-167,Bebe,Blonde nurse,9
-168,Bebe,Brunette nurse,9
-169,Blonde nurse,Dr. Hallis,10
-170,Brunette nurse,Dr. Hallis,10
-171,Blonde nurse,Brunette nurse,1
-172,Sharon,Stan,28
-173,Left breast,Right breast,9
-174,Bebe,Left breast,12
-175,Left breast,Mrs. Stevens,9
-176,Bebe,Right breast,12
-177,Mrs. Stevens,Right breast,9
-178,Mrs. Testaburger,Wendy,12
-179,Dr. Hallis,Wendy,18
-180,Dr. Hallis,Mrs. Testaburger,24
+156,Craig,Mrs. Stevens,4
+157,Bebe,Dr. Hallis,90
+158,Bebe,Blonde nurse,9
+159,Bebe,Brunette nurse,9
+160,Blonde nurse,Dr. Hallis,10
+161,Brunette nurse,Dr. Hallis,10
+162,Blonde nurse,Brunette nurse,1
+163,Randy,Sharon,32
+164,Randy,Stan,56
+165,Sharon,Stan,28
+166,Left breast,Right breast,9
+167,Bebe,Left breast,12
+168,Left breast,Mrs. Stevens,9
+169,Bebe,Right breast,12
+170,Mrs. Stevens,Right breast,9
+171,Mrs. Testaburger,Wendy,12
+172,Dr. Hallis,Wendy,18
+173,Dr. Hallis,Mrs. Testaburger,24

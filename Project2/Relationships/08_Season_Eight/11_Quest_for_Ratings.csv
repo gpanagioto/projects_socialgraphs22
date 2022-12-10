@@ -29,102 +29,95 @@
 27,Craig,Mr. Meryl,10
 28,Stan,Whistlin' Willy,6
 29,Bradley,Stan,3
-30,Kid 1,Stan,3
-31,Kevin,Stan,3
-32,Cartman,Whistlin' Willy,6
-33,Bradley,Whistlin' Willy,2
-34,Kid 1,Whistlin' Willy,2
-35,Kevin,Whistlin' Willy,2
-36,Kyle,Whistlin' Willy,2
-37,Craig,Whistlin' Willy,6
-38,Bradley,Cartman,3
-39,Cartman,Kid 1,3
-40,Cartman,Kevin,3
-41,Bradley,Kid 1,1
-42,Bradley,Kevin,1
-43,Bradley,Kyle,1
-44,Bradley,Craig,3
-45,Kevin,Kid 1,1
-46,Kid 1,Kyle,1
-47,Craig,Kid 1,3
-48,Kevin,Kyle,1
-49,Craig,Kevin,3
-50,Cartman,Kenny,2
-51,Craig,Kenny,2
-52,Clyde,Kenny,2
-53,Kenny,Kids,2
-54,Kenny,Kyle,4
-55,Kenny,Tolkien,2
-56,Kenny,Stan,4
-57,Butters,Kenny,2
-58,Cartman,Clyde,1
-59,Cartman,Kids,1
-60,Clyde,Craig,1
-61,Craig,Kids,1
-62,Clyde,Kids,1
-63,Clyde,Kyle,2
-64,Clyde,Tolkien,1
-65,Clyde,Stan,2
-66,Butters,Clyde,1
-67,Kids,Kyle,2
-68,Kids,Tolkien,1
-69,Kids,Stan,2
-70,Butters,Kids,1
-71,Announcer,Kyle,8
-72,Announcer,Cartman,11
-73,Announcer,Tolkien,5
-74,Announcer,Stan,11
-75,Announcer,Butters,7
-76,Announcer,Jimmy,3
-77,Raisins Girls,Stan,1
-78,Cartman,Raisins Girls,4
-79,Raisins Girls,Tolkien,2
-80,Jimmy,Raisins Girls,2
-81,Kyle,Raisins Girls,1
-82,Stan,The boys,4
-83,Kyle,The boys,2
-84,Cartman,The boys,1
-85,Mr. Meryl,The boys,4
-86,Butters,The boys,1
-87,Kyle,Pharmacist,15
-88,Herbert Garrison,Kyle,6
-89,Kyle,Mr. Slave,6
-90,Pharmacist,Stan,15
-91,Herbert Garrison,Stan,6
-92,Mr. Slave,Stan,6
-93,Cartman,Pharmacist,5
-94,Cartman,Herbert Garrison,2
-95,Cartman,Mr. Slave,2
-96,Jimmy,Pharmacist,10
-97,Herbert Garrison,Jimmy,4
-98,Jimmy,Mr. Slave,4
-99,Herbert Garrison,Pharmacist,10
-100,Mr. Slave,Pharmacist,10
-101,Butters,Pharmacist,5
-102,Herbert Garrison,Mr. Slave,4
-103,Butters,Herbert Garrison,2
-104,Butters,Mr. Slave,2
-105,Kyle,Pete,5
-106,Bebe,Kyle,5
-107,Kyle,Principal Victoria,10
-108,Butters,Pete,3
-109,Bebe,Butters,3
-110,Butters,Principal Victoria,6
-111,Pete,Stan,7
-112,Bebe,Stan,7
-113,Principal Victoria,Stan,14
-114,Cartman,Pete,3
-115,Bebe,Cartman,3
-116,Cartman,Principal Victoria,6
-117,Pete,Tolkien,2
-118,Bebe,Tolkien,2
-119,Principal Victoria,Tolkien,4
-120,Jimmy,Pete,2
-121,Bebe,Jimmy,2
-122,Jimmy,Principal Victoria,4
-123,Announcer,Pete,1
-124,Announcer,Bebe,1
-125,Announcer,Principal Victoria,2
-126,Bebe,Pete,1
-127,Pete,Principal Victoria,2
-128,Bebe,Principal Victoria,2
+30,Kevin,Stan,3
+31,Cartman,Whistlin' Willy,6
+32,Bradley,Whistlin' Willy,2
+33,Kevin,Whistlin' Willy,2
+34,Kyle,Whistlin' Willy,2
+35,Craig,Whistlin' Willy,6
+36,Bradley,Cartman,3
+37,Cartman,Kevin,3
+38,Bradley,Kevin,1
+39,Bradley,Kyle,1
+40,Bradley,Craig,3
+41,Kevin,Kyle,1
+42,Craig,Kevin,3
+43,Cartman,Kenny,2
+44,Craig,Kenny,2
+45,Clyde,Kenny,2
+46,Kenny,Kids,2
+47,Kenny,Kyle,4
+48,Kenny,Tolkien,2
+49,Kenny,Stan,4
+50,Butters,Kenny,2
+51,Cartman,Clyde,1
+52,Cartman,Kids,1
+53,Clyde,Craig,1
+54,Craig,Kids,1
+55,Clyde,Kids,1
+56,Clyde,Kyle,2
+57,Clyde,Tolkien,1
+58,Clyde,Stan,2
+59,Butters,Clyde,1
+60,Kids,Kyle,2
+61,Kids,Tolkien,1
+62,Kids,Stan,2
+63,Butters,Kids,1
+64,Announcer,Kyle,8
+65,Announcer,Cartman,11
+66,Announcer,Tolkien,5
+67,Announcer,Stan,11
+68,Announcer,Butters,7
+69,Announcer,Jimmy,3
+70,Raisins Girls,Stan,1
+71,Cartman,Raisins Girls,4
+72,Raisins Girls,Tolkien,2
+73,Jimmy,Raisins Girls,2
+74,Kyle,Raisins Girls,1
+75,Stan,The boys,4
+76,Kyle,The boys,2
+77,Cartman,The boys,1
+78,Mr. Meryl,The boys,4
+79,Butters,The boys,1
+80,Kyle,Pharmacist,15
+81,Herbert Garrison,Kyle,6
+82,Kyle,Mr. Slave,6
+83,Pharmacist,Stan,15
+84,Herbert Garrison,Stan,6
+85,Mr. Slave,Stan,6
+86,Cartman,Pharmacist,5
+87,Cartman,Herbert Garrison,2
+88,Cartman,Mr. Slave,2
+89,Jimmy,Pharmacist,10
+90,Herbert Garrison,Jimmy,4
+91,Jimmy,Mr. Slave,4
+92,Herbert Garrison,Pharmacist,10
+93,Mr. Slave,Pharmacist,10
+94,Butters,Pharmacist,5
+95,Herbert Garrison,Mr. Slave,4
+96,Butters,Herbert Garrison,2
+97,Butters,Mr. Slave,2
+98,Kyle,Pete,5
+99,Bebe,Kyle,5
+100,Kyle,Principal Victoria,10
+101,Butters,Pete,3
+102,Bebe,Butters,3
+103,Butters,Principal Victoria,6
+104,Pete,Stan,7
+105,Bebe,Stan,7
+106,Principal Victoria,Stan,14
+107,Cartman,Pete,3
+108,Bebe,Cartman,3
+109,Cartman,Principal Victoria,6
+110,Pete,Tolkien,2
+111,Bebe,Tolkien,2
+112,Principal Victoria,Tolkien,4
+113,Jimmy,Pete,2
+114,Bebe,Jimmy,2
+115,Jimmy,Principal Victoria,4
+116,Announcer,Pete,1
+117,Announcer,Bebe,1
+118,Announcer,Principal Victoria,2
+119,Bebe,Pete,1
+120,Pete,Principal Victoria,2
+121,Bebe,Principal Victoria,2

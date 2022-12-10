@@ -16,49 +16,44 @@
 14,Sally Struthers,Stan,20
 15,Kenny,Sally Struthers,4
 16,Kenny,Stan,11
-17,All,Cartman,1
-18,Cartman,Mr. Garrison,9
-19,Mr. Garrison,Stan,6
-20,Cartman,Wendy,12
-21,Cartman,Mr. Hat,4
-22,Mr. Garrison,Wendy,3
-23,Mr. Hat,Wendy,3
-24,Mr. Garrison,Mr. Hat,1
-25,Mayor McDaniels,Mephesto,8
-26,Liane,Stan,1
-27,Liane,TV announcer,1
-28,Phillip,Terrance,1
-29,Man,Woman,5
-30,Cartman,Marvin,3
-31,Kyle,Mr. Garrison,7
-32,Bebe,Mr. Garrison,3
-33,Clyde,Mr. Garrison,3
-34,Mr. Garrison,Pip,3
-35,Class,Mr. Garrison,3
-36,Bebe,Stan,1
-37,Clyde,Stan,1
-38,Pip,Stan,1
-39,Class,Stan,1
-40,Bebe,Kyle,2
-41,Clyde,Kyle,2
-42,Kyle,Pip,2
-43,Class,Kyle,2
-44,Bebe,Clyde,1
-45,Bebe,Pip,1
-46,Bebe,Class,1
-47,Clyde,Pip,1
-48,Class,Clyde,1
-49,Class,Pip,1
-50,Principal Victoria,Stan,10
-51,Kyle,Principal Victoria,15
-52,Chef,Mephesto,18
-53,Aide,Mayor McDaniels,4
-54,Liane,Sally Struthers,2
-55,Marvin,Sally Struthers,2
-56,Liane,Marvin,4
-57,Chef,Mayor McDaniels,2
-58,Cartman,Red Cross dude,1
-59,Mayor McDaniels,Townsperson 1,1
-60,Townsperson 1,Townsperson 2,1
-61,Mayor McDaniels,Townsperson 2,1
-62,Jimbo,Kyle,1
+17,Cartman,Mr. Garrison,9
+18,Mr. Garrison,Stan,6
+19,Cartman,Wendy,12
+20,Cartman,Mr. Hat,4
+21,Mr. Garrison,Wendy,3
+22,Mr. Hat,Wendy,3
+23,Mr. Garrison,Mr. Hat,1
+24,Mayor McDaniels,Mephesto,8
+25,Liane,Stan,1
+26,Liane,TV announcer,1
+27,Phillip,Terrance,1
+28,Cartman,Marvin,3
+29,Kyle,Mr. Garrison,7
+30,Bebe,Mr. Garrison,3
+31,Clyde,Mr. Garrison,3
+32,Mr. Garrison,Pip,3
+33,Class,Mr. Garrison,3
+34,Bebe,Stan,1
+35,Clyde,Stan,1
+36,Pip,Stan,1
+37,Class,Stan,1
+38,Bebe,Kyle,2
+39,Clyde,Kyle,2
+40,Kyle,Pip,2
+41,Class,Kyle,2
+42,Bebe,Clyde,1
+43,Bebe,Pip,1
+44,Bebe,Class,1
+45,Clyde,Pip,1
+46,Class,Clyde,1
+47,Class,Pip,1
+48,Principal Victoria,Stan,10
+49,Kyle,Principal Victoria,15
+50,Chef,Mephesto,18
+51,Aide,Mayor McDaniels,4
+52,Liane,Sally Struthers,2
+53,Marvin,Sally Struthers,2
+54,Liane,Marvin,4
+55,Chef,Mayor McDaniels,2
+56,Cartman,Red Cross dude,1
+57,Jimbo,Kyle,1

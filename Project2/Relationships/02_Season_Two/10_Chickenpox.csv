@@ -27,39 +27,43 @@
 25,Kenny,Stuart,8
 26,Kyle,Stan,69
 27,Kyle,Stuart,2
-28,All,Cartman,1
-29,All,Carol,1
-30,Cartman,Kevin,4
-31,Carol,Kevin,4
-32,Kevin,Stuart,3
-33,Kenny,Kevin,2
-34,Kevin,Stan,1
-35,Cartman,Liane,8
-36,Gerald,Kyle,29
-37,Gerald,Sheila,24
-38,Dr. Doctor,TV Voice,1
-39,Dr. Doctor,Phillip,1
-40,Sharon,TV Voice,1
-41,Phillip,Sharon,1
-42,Stan,TV Voice,4
-43,Phillip,Stan,4
-44,Shelly,TV Voice,3
-45,Phillip,Shelly,3
-46,Phillip,TV Voice,1
+28,Cartman,Kevin,4
+29,Carol,Kevin,4
+30,Kevin,Stuart,3
+31,Kenny,Kevin,2
+32,Kevin,Stan,1
+33,Cartman,Liane,8
+34,Gerald,Kyle,29
+35,Gerald,Sheila,24
+36,Dr. Doctor,TV Voice,1
+37,Dr. Doctor,Phillip,1
+38,Sharon,TV Voice,1
+39,Phillip,Sharon,1
+40,Stan,TV Voice,4
+41,Phillip,Stan,4
+42,Shelly,TV Voice,3
+43,Phillip,Shelly,3
+44,Phillip,TV Voice,1
+45,Randy,Sharon,40
+46,Dr. Doctor,Randy,42
 47,Carol,Sheila,32
 48,Phillip,Terrance,18
 49,Gerald,Stuart,22
 50,Kyle,Mr. Garrison,9
-51,Chef,Kyle,20
-52,Chef,Stan,10
-53,Frida,Kyle,9
-54,Cartman,Frida,3
-55,Frida,Stan,6
-56,Sheila,Stan,5
-57,Dr. Doctor,Kyle,2
-58,Cartman,Dr. Doctor,1
-59,Gerald,Stan,2
-60,Gerald,Sharon,1
-61,Gerald,Liane,1
-62,Liane,Stuart,1
-63,Cartman,Gerald,1
+51,Randy,Stan,20
+52,Chef,Kyle,20
+53,Chef,Stan,10
+54,Frida,Kyle,9
+55,Cartman,Frida,3
+56,Frida,Stan,6
+57,Kyle,Randy,4
+58,Randy,Sheila,4
+59,Sheila,Stan,5
+60,Dr. Doctor,Kyle,2
+61,Cartman,Dr. Doctor,1
+62,Gerald,Stan,2
+63,Gerald,Sharon,1
+64,Gerald,Randy,1
+65,Gerald,Liane,1
+66,Liane,Stuart,1
+67,Cartman,Gerald,1

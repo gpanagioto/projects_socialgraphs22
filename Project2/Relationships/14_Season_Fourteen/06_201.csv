@@ -1,171 +1,136 @@
 ,source,target,weight
-0,Mitch Conner,Soldier 1,3
-1,Soldier 1,Soldier 2,1
-2,Army Doctor,Soldier 1,1
-3,Mr. Garrison,Soldier 1,2
-4,Cartman,Soldier 1,1
-5,Mitch Conner,Soldier 2,3
-6,Army Doctor,Mitch Conner,3
-7,Mitch Conner,Mr. Garrison,6
-8,Cartman,Mitch Conner,60
-9,Army Doctor,Soldier 2,1
-10,Mr. Garrison,Soldier 2,2
-11,Cartman,Soldier 2,1
-12,Army Doctor,Mr. Garrison,2
-13,Army Doctor,Cartman,1
-14,Cartman,Mr. Garrison,7
-15,Ginger 1,Stan,25
-16,Ginger 1,Jimbo,5
-17,Ginger 1,Sgt. Yates,5
-18,Ginger 1,Ginger 2,6
-19,Ginger 1,Santa,5
-20,Ginger 1,Kyle,10
-21,Ginger 1,Mr. Hankey,5
-22,Jimbo,Stan,4
-23,Sgt. Yates,Stan,4
-24,Ginger 2,Stan,5
-25,Santa,Stan,6
-26,Kyle,Stan,71
-27,Mr. Hankey,Stan,4
-28,Jimbo,Sgt. Yates,1
-29,Ginger 2,Jimbo,1
-30,Jimbo,Santa,1
-31,Jimbo,Kyle,1
-32,Jimbo,Mr. Hankey,1
-33,Ginger 2,Sgt. Yates,1
-34,Santa,Sgt. Yates,1
-35,Kyle,Sgt. Yates,1
-36,Mr. Hankey,Sgt. Yates,1
-37,Ginger 2,Santa,1
-38,Ginger 2,Kyle,1
-39,Ginger 2,Mr. Hankey,1
-40,Kyle,Santa,3
-41,Mr. Hankey,Santa,1
-42,Kyle,Mr. Hankey,1
-43,Buddha,Jesus,6
-44,Buddha,Joseph Smith,2
-45,Buddha,Police Officer,2
-46,Buddha,Lao Tse,1
-47,Buddha,Seaman,2
-48,Jesus,Joseph Smith,23
-49,Jesus,Police Officer,12
-50,Jesus,Lao Tse,6
-51,Jesus,Seaman,28
-52,Joseph Smith,Police Officer,4
-53,Joseph Smith,Lao Tse,2
-54,Joseph Smith,Seaman,8
-55,Lao Tse,Police Officer,2
-56,Police Officer,Seaman,4
-57,Lao Tse,Seaman,2
-58,Dr. Mephesto,Person,24
-59,Cartman,Person,12
-60,Kevin,Person,4
-61,Mitch Conner,Person,4
-62,Cartman,Dr. Mephesto,53
-63,Dr. Mephesto,Kevin,6
-64,Dr. Mephesto,Mitch Conner,18
-65,Cartman,Kevin,3
-66,Kevin,Mitch Conner,1
-67,Mickey Mouse,Tom Cruise,4
-68,Kenny,Stan,6
-69,Kenny,Kyle,8
-70,Jesus,Mr. Slave,1
-71,Joseph Smith,Mr. Slave,1
-72,Mr. Slave,Seaman,1
-73,Cartman,Kyle,71
-74,Cartman,Stan,64
-75,Dr. Mephesto,Kyle,44
-76,Dr. Mephesto,Stan,34
-77,Moses,Seaman,9
-78,Joseph Smith,Moses,3
-79,Jesus,Moses,12
-80,Dr. Mephesto,Man,12
-81,Dr. Mephesto,Ginger 1,6
-82,Kyle,Mitch Conner,35
-83,Kyle,Man,10
-84,Mitch Conner,Stan,33
-85,Man,Mitch Conner,4
-86,Ginger 1,Mitch Conner,2
-87,Cartman,Man,4
-88,Cartman,Ginger 1,2
-89,Man,Stan,8
-90,Ginger 1,Man,2
-91,Benedict XVI,Tom Cruise,9
-92,Benedict XVI,Ginger 1,4
-93,Benedict XVI,Rob Reiner,3
-94,Benedict XVI,Ginger 3,2
-95,Ginger 1,Tom Cruise,6
-96,Rob Reiner,Tom Cruise,4
-97,Ginger 3,Tom Cruise,3
-98,Ginger 1,Rob Reiner,2
-99,Ginger 1,Ginger 3,2
-100,Ginger 3,Rob Reiner,1
-101,A Voice,Mitch Conner,6
-102,A Voice,Cartman,15
-103,Joseph Smith,Krishna,2
-104,Jesus,Krishna,3
-105,Cartman,Scott Tenorman,23
-106,Russell Crowe,Tom Cruise,2
-107,Paris Hilton,Russell Crowe,1
-108,Benedict XVI,Russell Crowe,1
-109,Paris Hilton,Tom Cruise,2
-110,Benedict XVI,Paris Hilton,1
-111,Cartman,Liane,5
-112,Liane,Scott Tenorman,8
-113,Liane,Mr. Garrison,2
-114,Jimbo,Liane,1
-115,Cartman,Jimbo,2
-116,Mr. Garrison,Scott Tenorman,8
-117,Jimbo,Scott Tenorman,2
-118,Jimbo,Mr. Garrison,1
-119,Ginger 4,Tom Cruise,2
-120,Jesus,Tom Cruise,10
-121,Benedict XVI,Ginger 4,2
-122,Benedict XVI,Mickey Mouse,1
-123,Benedict XVI,Jesus,1
-124,Ginger 4,Mickey Mouse,2
-125,Ginger 4,Rob Reiner,2
-126,Ginger 4,Jesus,2
-127,Mickey Mouse,Rob Reiner,1
-128,Jesus,Mickey Mouse,1
-129,Jesus,Rob Reiner,1
-130,Dr. Mephesto,Mr. Garrison,1
-131,Mr. Garrison,Seaman,1
-132,Mr. Garrison,Stan,2
-133,Mr. Garrison,Tom Cruise,3
-134,Kyle,Mr. Garrison,2
-135,Jesus,Mr. Garrison,3
-136,Mr. Garrison,Santa,1
-137,Cartman,Seaman,3
-138,Cartman,Tom Cruise,25
-139,Cartman,Jesus,9
-140,Cartman,Santa,3
-141,Dr. Mephesto,Scott Tenorman,6
-142,Scott Tenorman,Seaman,6
-143,Scott Tenorman,Stan,12
-144,Scott Tenorman,Tom Cruise,18
-145,Kyle,Scott Tenorman,12
-146,Jesus,Scott Tenorman,18
-147,Santa,Scott Tenorman,6
-148,Dr. Mephesto,Liane,1
-149,Liane,Seaman,1
-150,Liane,Stan,2
-151,Liane,Tom Cruise,3
-152,Kyle,Liane,2
-153,Jesus,Liane,3
-154,Liane,Santa,1
-155,Dr. Mephesto,Seaman,1
-156,Dr. Mephesto,Tom Cruise,3
-157,Dr. Mephesto,Jesus,3
-158,Dr. Mephesto,Santa,1
-159,Seaman,Stan,2
-160,Seaman,Tom Cruise,3
-161,Kyle,Seaman,2
-162,Santa,Seaman,1
-163,Stan,Tom Cruise,16
-164,Jesus,Stan,6
-165,Kyle,Tom Cruise,16
-166,Santa,Tom Cruise,3
-167,Jesus,Kyle,6
-168,Jesus,Santa,3
-169,Mitch Conner,Tom Cruise,10
+0,Army Doctor,Mitch Conner,3
+1,Mitch Conner,Mr. Garrison,6
+2,Cartman,Mitch Conner,60
+3,Army Doctor,Mr. Garrison,2
+4,Army Doctor,Cartman,1
+5,Cartman,Mr. Garrison,7
+6,Jimbo,Stan,4
+7,Sgt. Yates,Stan,4
+8,Randy,Stan,8
+9,Santa,Stan,6
+10,Kyle,Stan,71
+11,Mr. Hankey,Stan,4
+12,Jimbo,Sgt. Yates,1
+13,Jimbo,Randy,2
+14,Jimbo,Santa,1
+15,Jimbo,Kyle,1
+16,Jimbo,Mr. Hankey,1
+17,Randy,Sgt. Yates,2
+18,Santa,Sgt. Yates,1
+19,Kyle,Sgt. Yates,1
+20,Mr. Hankey,Sgt. Yates,1
+21,Randy,Santa,2
+22,Kyle,Randy,2
+23,Mr. Hankey,Randy,2
+24,Kyle,Santa,3
+25,Mr. Hankey,Santa,1
+26,Kyle,Mr. Hankey,1
+27,Buddha,Jesus,6
+28,Buddha,Joseph Smith,2
+29,Buddha,Police Officer,2
+30,Buddha,Lao Tse,1
+31,Buddha,Seaman,2
+32,Jesus,Joseph Smith,23
+33,Jesus,Police Officer,12
+34,Jesus,Lao Tse,6
+35,Jesus,Seaman,28
+36,Joseph Smith,Police Officer,4
+37,Joseph Smith,Lao Tse,2
+38,Joseph Smith,Seaman,8
+39,Lao Tse,Police Officer,2
+40,Police Officer,Seaman,4
+41,Lao Tse,Seaman,2
+42,Dr. Mephesto,Person,24
+43,Cartman,Person,12
+44,Kevin,Person,4
+45,Mitch Conner,Person,4
+46,Cartman,Dr. Mephesto,53
+47,Dr. Mephesto,Kevin,6
+48,Dr. Mephesto,Mitch Conner,18
+49,Cartman,Kevin,3
+50,Kevin,Mitch Conner,1
+51,Randy,Tom Cruise,6
+52,Mickey Mouse,Tom Cruise,4
+53,Mickey Mouse,Randy,2
+54,Kenny,Stan,6
+55,Kenny,Kyle,8
+56,Jesus,Mr. Slave,1
+57,Joseph Smith,Mr. Slave,1
+58,Mr. Slave,Seaman,1
+59,Cartman,Kyle,71
+60,Cartman,Stan,64
+61,Dr. Mephesto,Kyle,44
+62,Dr. Mephesto,Stan,34
+63,Moses,Seaman,9
+64,Joseph Smith,Moses,3
+65,Jesus,Moses,12
+66,Kyle,Mitch Conner,35
+67,Mitch Conner,Stan,33
+68,Benedict XVI,Tom Cruise,9
+69,Benedict XVI,Rob Reiner,3
+70,Rob Reiner,Tom Cruise,4
+71,A Voice,Mitch Conner,6
+72,A Voice,Cartman,15
+73,Joseph Smith,Krishna,2
+74,Jesus,Krishna,3
+75,Cartman,Scott Tenorman,23
+76,Russell Crowe,Tom Cruise,2
+77,Paris Hilton,Russell Crowe,1
+78,Benedict XVI,Russell Crowe,1
+79,Paris Hilton,Tom Cruise,2
+80,Benedict XVI,Paris Hilton,1
+81,Cartman,Liane,5
+82,Liane,Scott Tenorman,8
+83,Liane,Mr. Garrison,2
+84,Jimbo,Liane,1
+85,Cartman,Jimbo,2
+86,Mr. Garrison,Scott Tenorman,8
+87,Jimbo,Scott Tenorman,2
+88,Jimbo,Mr. Garrison,1
+89,Jesus,Tom Cruise,10
+90,Benedict XVI,Mickey Mouse,1
+91,Benedict XVI,Jesus,1
+92,Mickey Mouse,Rob Reiner,1
+93,Jesus,Mickey Mouse,1
+94,Jesus,Rob Reiner,1
+95,Dr. Mephesto,Mr. Garrison,1
+96,Mr. Garrison,Seaman,1
+97,Mr. Garrison,Stan,2
+98,Mr. Garrison,Tom Cruise,3
+99,Kyle,Mr. Garrison,2
+100,Jesus,Mr. Garrison,3
+101,Mr. Garrison,Santa,1
+102,Cartman,Seaman,3
+103,Cartman,Tom Cruise,25
+104,Cartman,Jesus,9
+105,Cartman,Santa,3
+106,Dr. Mephesto,Scott Tenorman,6
+107,Scott Tenorman,Seaman,6
+108,Scott Tenorman,Stan,12
+109,Scott Tenorman,Tom Cruise,18
+110,Kyle,Scott Tenorman,12
+111,Jesus,Scott Tenorman,18
+112,Santa,Scott Tenorman,6
+113,Dr. Mephesto,Liane,1
+114,Liane,Seaman,1
+115,Liane,Stan,2
+116,Liane,Tom Cruise,3
+117,Kyle,Liane,2
+118,Jesus,Liane,3
+119,Liane,Santa,1
+120,Dr. Mephesto,Seaman,1
+121,Dr. Mephesto,Tom Cruise,3
+122,Dr. Mephesto,Jesus,3
+123,Dr. Mephesto,Santa,1
+124,Seaman,Stan,2
+125,Seaman,Tom Cruise,3
+126,Kyle,Seaman,2
+127,Santa,Seaman,1
+128,Stan,Tom Cruise,16
+129,Jesus,Stan,6
+130,Kyle,Tom Cruise,16
+131,Santa,Tom Cruise,3
+132,Jesus,Kyle,6
+133,Jesus,Santa,3
+134,Mitch Conner,Tom Cruise,10

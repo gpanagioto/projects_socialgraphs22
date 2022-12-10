@@ -11,45 +11,30 @@
 9,Hugh,Townsman,3
 10,Hugh,Stephen,3
 11,Stephen,Townsman,1
-12,Gore,Kyle,93
-13,Officer 7,Yates,10
-14,Officer 1,Yates,10
-15,Officer 1,Officer 7,4
-16,Marvin,Stan,90
-17,Margaret,Stan,7
-18,Margaret,Marvin,6
-19,Kenny,Kyle,27
-20,Cartman,Kenny,31
-21,Cartman,Satan,19
-22,Kenny,Satan,8
-23,Kyle,Satan,35
-24,Maggie,Yates,36
-25,Cartman,Gore,9
-26,Gore,Satan,9
-27,Satan,Townsman 3,6
-28,Kyle,Townsman 3,5
-29,Cartman,Townsman 3,1
-30,Kenny,Townsman 3,1
-31,Alec,Jim,2
-32,Guest,Jim,2
-33,Gore,Jim,4
-34,Alec,Guest,1
-35,Alec,Gore,2
-36,Gore,Guest,2
-37,Cartman,Marvin,5
-38,Cartman,Officer 8,5
-39,Kyle,Marvin,4
-40,Kyle,Officer 8,4
-41,Kenny,Stan,24
-42,Kenny,Marvin,4
-43,Kenny,Officer 8,4
-44,Officer 8,Stan,10
-45,Marvin,Officer 8,1
-46,Officer 8,Yates,2
-47,Stan,Yates,2
-48,Lawyer,Stan,16
-49,Kyle,Lawyer,2
-50,All,Stan,6
-51,All,Marvin,2
-52,All,Lawyer,2
-53,Lawyer,Marvin,4
+12,Randy,Stan,144
+13,Gore,Kyle,93
+14,Marvin,Stan,90
+15,Margaret,Stan,7
+16,Margaret,Marvin,6
+17,Kenny,Kyle,27
+18,Cartman,Kenny,31
+19,Cartman,Satan,19
+20,Kenny,Satan,8
+21,Kyle,Satan,35
+22,Maggie,Yates,36
+23,Cartman,Gore,9
+24,Gore,Satan,9
+25,Alec,Jim,2
+26,Guest,Jim,2
+27,Gore,Jim,4
+28,Alec,Guest,1
+29,Alec,Gore,2
+30,Gore,Guest,2
+31,Cartman,Marvin,5
+32,Kyle,Marvin,4
+33,Kenny,Stan,24
+34,Kenny,Marvin,4
+35,Stan,Yates,2
+36,Lawyer,Stan,16
+37,Kyle,Lawyer,2
+38,Lawyer,Marvin,4

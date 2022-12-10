@@ -14,71 +14,40 @@
 12,Cartman,Charlie,3
 13,Cartman,Jake,3
 14,Charlie,Jake,1
-15,Cartman,Woman 1,6
-16,Cartman,Woman 2,3
-17,Butters,Woman 1,2
-18,Woman 1,Woman 2,2
-19,Butters,Woman 2,1
-20,Butters,Woman 3,6
-21,Cartman,Woman 3,7
-22,Butters,Dale,12
-23,Announcer,Butters,14
-24,Cartman,Dale,14
-25,Announcer,Dale,4
-26,Announcer,Cartman,17
-27,Butters,Doctor,30
-28,Cartman,Doctor,35
-29,Kenny,Reporter,4
-30,Kenny,Man,12
-31,Cartman,Man,20
-32,Jimmie Johnson,Reporter 1,1
-33,Cartman,Reporter 1,4
-34,Reporter 1,Reporter 2,1
-35,Jeff Gordon,Reporter 1,1
-36,Danica Patrick,Reporter 1,1
-37,Cartman,Jimmie Johnson,4
-38,Jimmie Johnson,Reporter 2,1
-39,Jeff Gordon,Jimmie Johnson,1
-40,Danica Patrick,Jimmie Johnson,1
-41,Cartman,Reporter 2,4
-42,Cartman,Jeff Gordon,4
-43,Cartman,Danica Patrick,19
-44,Jeff Gordon,Reporter 2,1
-45,Danica Patrick,Reporter 2,1
-46,Danica Patrick,Jeff Gordon,1
-47,Butters,Tony Kornheiser,2
-48,Cartman,Tony Kornheiser,2
-49,Kenny,Tony Kornheiser,1
-50,Commentator 2,Geoff,2
-51,Chris,Commentator 2,1
-52,Commentator 1,Commentator 2,1
-53,Announcer,Commentator 2,1
-54,Cartman,Commentator 2,1
-55,Commentator 2,Pit crewman,1
-56,Butters,Commentator 2,1
-57,Chris,Geoff,2
-58,Commentator 1,Geoff,2
-59,Announcer,Geoff,2
-60,Cartman,Geoff,2
-61,Geoff,Pit crewman,2
-62,Butters,Geoff,2
-63,Chris,Commentator 1,1
-64,Announcer,Chris,1
-65,Cartman,Chris,1
-66,Chris,Pit crewman,1
-67,Butters,Chris,1
-68,Announcer,Commentator 1,1
-69,Cartman,Commentator 1,1
-70,Commentator 1,Pit crewman,1
-71,Butters,Commentator 1,1
-72,Announcer,Pit crewman,1
-73,Cartman,Pit crewman,5
-74,Butters,Pit crewman,1
-75,Kenny,Security guard,4
-76,Danica Patrick,Pit crewman,2
-77,Cartman,Driver,7
-78,Butters,Danica Patrick,3
-79,Danica Patrick,Kenny,4
-80,Danica Patrick,Driver,1
-81,Butters,Driver,3
-82,Driver,Kenny,4
+15,Butters,Dale,12
+16,Announcer,Butters,14
+17,Cartman,Dale,14
+18,Announcer,Dale,4
+19,Announcer,Cartman,17
+20,Butters,Doctor,30
+21,Cartman,Doctor,35
+22,Kenny,Reporter,4
+23,Cartman,Jimmie Johnson,4
+24,Jeff Gordon,Jimmie Johnson,1
+25,Danica Patrick,Jimmie Johnson,1
+26,Cartman,Jeff Gordon,4
+27,Cartman,Danica Patrick,19
+28,Danica Patrick,Jeff Gordon,1
+29,Butters,Tony Kornheiser,2
+30,Cartman,Tony Kornheiser,2
+31,Kenny,Tony Kornheiser,1
+32,Chris,Geoff,2
+33,Announcer,Geoff,2
+34,Cartman,Geoff,2
+35,Geoff,Pit crewman,2
+36,Butters,Geoff,2
+37,Announcer,Chris,1
+38,Cartman,Chris,1
+39,Chris,Pit crewman,1
+40,Butters,Chris,1
+41,Announcer,Pit crewman,1
+42,Cartman,Pit crewman,5
+43,Butters,Pit crewman,1
+44,Kenny,Security guard,4
+45,Danica Patrick,Pit crewman,2
+46,Cartman,Driver,7
+47,Butters,Danica Patrick,3
+48,Danica Patrick,Kenny,4
+49,Danica Patrick,Driver,1
+50,Butters,Driver,3
+51,Driver,Kenny,4

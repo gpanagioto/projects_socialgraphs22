@@ -1,78 +1,59 @@
 ,source,target,weight
-0,Jimbo,Stephen,2
-1,Jimbo,Man 1,2
-2,Man 1,Stephen,1
+0,Pat Sajak,Randy,46
+1,Jimbo,Stephen,2
+2,Randy,Stan,7
 3,Pat Sajak,Stan,6
-4,Cartman,Stan,42
-5,Cartman,Kyle,9
-6,Cartman,Tolkien,42
-7,Kyle,Stan,6
-8,Stan,Tolkien,58
-9,Kyle,Tolkien,6
-10,Brian,Jesse Jackson,9
-11,Butters,Woman,1
-12,Butters,Mr. Nelson,3
-13,Butters,Cartman,3
-14,Butters,Mr. Mackey,1
-15,Mr. Nelson,Woman,3
-16,Cartman,Woman,3
-17,Mr. Mackey,Woman,1
-18,Cartman,Mr. Nelson,55
-19,Mr. Mackey,Mr. Nelson,19
-20,Cartman,Mr. Mackey,13
-21,Comedian,Man 2,3
-22,Audience,Man 2,1
-23,Audience,Comedian,3
-24,Clerk,Three kids,2
-25,Mr. Nelson,Principal Victoria,24
-26,Mr. Mackey,Principal Victoria,6
-27,Cartman,Principal Victoria,15
-28,Mr. Nelson,Tolkien,1
-29,Mr. Nelson,Stan,1
-30,Craig,Mr. Nelson,2
-31,Craig,Kids,1
-32,Cartman,Craig,2
-33,Kids,Mr. Nelson,2
-34,Cartman,Kids,2
-35,Passenger,Skeeter,54
-36,Driver,Skeeter,36
-37,Man 4,Skeeter,9
-38,Man 5,Skeeter,9
-39,Richards,Skeeter,19
-40,Driver,Passenger,24
-41,Man 4,Passenger,6
-42,Man 5,Passenger,6
-43,Passenger,Richards,12
-44,Driver,Man 4,4
-45,Driver,Man 5,4
+4,Randy,Sharon,1
+5,Cartman,Stan,42
+6,Cartman,Kyle,9
+7,Cartman,Tolkien,42
+8,Kyle,Stan,6
+9,Stan,Tolkien,58
+10,Kyle,Tolkien,6
+11,Jesse Jackson,Randy,63
+12,Brian,Jesse Jackson,9
+13,Brian,Randy,7
+14,Butters,Mr. Nelson,3
+15,Butters,Cartman,3
+16,Butters,Mr. Mackey,1
+17,Cartman,Mr. Nelson,55
+18,Mr. Mackey,Mr. Nelson,19
+19,Cartman,Mr. Mackey,13
+20,Audience,Comedian,3
+21,Comedian,Randy,3
+22,Audience,Randy,1
+23,Clerk,Three kids,2
+24,Randy,Three kids,2
+25,Clerk,Randy,4
+26,Mr. Nelson,Principal Victoria,24
+27,Mr. Mackey,Principal Victoria,6
+28,Cartman,Principal Victoria,15
+29,Mr. Nelson,Tolkien,1
+30,Mr. Nelson,Stan,1
+31,Craig,Mr. Nelson,2
+32,Craig,Kids,1
+33,Cartman,Craig,2
+34,Kids,Mr. Nelson,2
+35,Cartman,Kids,2
+36,Black Man,Randy,1
+37,Randy,Skeeter,39
+38,Passenger,Skeeter,54
+39,Driver,Skeeter,36
+40,Richards,Skeeter,19
+41,Passenger,Randy,24
+42,Driver,Randy,16
+43,Randy,Richards,23
+44,Driver,Passenger,24
+45,Passenger,Richards,12
 46,Driver,Richards,8
-47,Man 4,Man 5,1
-48,Man 4,Richards,2
-49,Man 5,Richards,2
-50,Fuhrman,Scott,2
-51,Fuhrman,Richards,6
-52,Richards,Scott,3
-53,Butters,Tolkien,4
-54,Butters,Stan,3
-55,Kyle,Mr. Nelson,1
-56,Richards,Senator 1,4
-57,Senator 1,Skeeter,4
-58,Senator 1,Senator 2,4
-59,Senator 1,Senator 3,4
-60,Senator 1,Senator 4,8
-61,Most Senators,Senator 1,4
-62,Richards,Senator 2,1
-63,Richards,Senator 3,1
-64,Richards,Senator 4,2
-65,Most Senators,Richards,1
-66,Senator 2,Skeeter,1
-67,Senator 3,Skeeter,1
-68,Senator 4,Skeeter,2
-69,Most Senators,Skeeter,1
-70,Senator 2,Senator 3,1
-71,Senator 2,Senator 4,2
-72,Most Senators,Senator 2,1
-73,Senator 3,Senator 4,2
-74,Most Senators,Senator 3,1
-75,Most Senators,Senator 4,2
-76,Field reporter,Senator 3,2
+47,Fuhrman,Randy,8
+48,Randy,Scott,4
+49,Fuhrman,Scott,2
+50,Fuhrman,Richards,6
+51,Richards,Scott,3
+52,Butters,Tolkien,4
+53,Butters,Stan,3
+54,Kyle,Mr. Nelson,1
+55,Most Senators,Randy,3
+56,Most Senators,Richards,1
+57,Most Senators,Skeeter,1

@@ -36,81 +36,46 @@
 34,Clyde,Nurse,3
 35,Clyde,Doctor,9
 36,Doctor,Nurse,3
-37,Louse 1,Travis,2
-38,Kelly,Louse 1,1
-39,Louse 3,Travis,5
-40,Lice,Travis,5
-41,Louse 4,Travis,10
-42,Louse 5,Travis,5
-43,Kelly,Louse 3,2
-44,Kelly,Lice,2
-45,Kelly,Louse 4,4
-46,Kelly,Louse 5,2
-47,Lice,Louse 3,1
-48,Louse 3,Louse 4,2
-49,Louse 3,Louse 5,1
-50,Lice,Louse 4,2
-51,Lice,Louse 5,1
-52,Louse 4,Louse 5,2
-53,Cartman,Red,4
-54,Craig,Mrs. Garrison,15
-55,Mrs. Garrison,Stan,8
-56,Mrs. Garrison,Red,6
-57,Butters,Mrs. Garrison,7
-58,Class,Craig,4
-59,Craig,Red,2
-60,Bebe,Craig,3
-61,Class,Stan,2
-62,Red,Stan,1
-63,Bebe,Stan,3
-64,Class,Red,2
-65,Butters,Class,2
-66,Bebe,Red,1
-67,Butters,Red,1
-68,Bebe,Butters,2
-69,Louse 6,Louse 7,2
-70,Louse 6,Travis,4
-71,Louse 6,Louse 8,1
-72,Louse 7,Travis,8
-73,Louse 7,Louse 8,2
-74,Louse 8,Travis,11
-75,Craig,Kyle,21
-76,Clyde,Craig,14
-77,Cartman,Kyle,78
-78,Cartman,Clyde,39
-79,Kyle,Stan,16
-80,Butters,Kyle,10
-81,Bebe,Kyle,5
-82,Clyde,Kyle,19
-83,Clyde,Stan,10
-84,Butters,Clyde,6
-85,Bebe,Clyde,1
-86,Louse 9,Travis,14
-87,Louse 10,Travis,7
-88,Louse 11,Travis,7
-89,Louse 12,Travis,19
-90,Louse 8,Louse 9,2
-91,Louse 10,Louse 8,1
-92,Louse 11,Louse 8,1
-93,Louse 12,Louse 8,1
-94,Louse 10,Louse 9,2
-95,Louse 11,Louse 9,2
-96,Louse 12,Louse 9,2
-97,Louse 10,Louse 11,1
-98,Louse 10,Louse 12,1
-99,Louse 11,Louse 12,1
-100,Jimmy,Kyle,10
-101,Kyle,Tolkien,7
-102,Cartman,Jimmy,13
-103,Cartman,Tolkien,9
-104,Craig,Jimmy,2
-105,Jimmy,Tolkien,2
-106,Craig,Tolkien,2
-107,Butters,Tolkien,1
-108,Clyde,Tolkien,1
-109,Clyde,Jimmy,3
-110,Clyde,Mrs. Garrison,6
-111,Clyde,Kenny,8
-112,Kenny,Kyle,6
-113,Kyle,Mrs. Garrison,3
-114,Louse 13,Travis,1
+37,Lice,Travis,5
+38,Kelly,Lice,2
+39,Cartman,Red,4
+40,Craig,Mrs. Garrison,15
+41,Mrs. Garrison,Stan,8
+42,Mrs. Garrison,Red,6
+43,Butters,Mrs. Garrison,7
+44,Class,Craig,4
+45,Craig,Red,2
+46,Bebe,Craig,3
+47,Class,Stan,2
+48,Red,Stan,1
+49,Bebe,Stan,3
+50,Class,Red,2
+51,Butters,Class,2
+52,Bebe,Red,1
+53,Butters,Red,1
+54,Bebe,Butters,2
+55,Craig,Kyle,21
+56,Clyde,Craig,14
+57,Cartman,Kyle,78
+58,Cartman,Clyde,39
+59,Kyle,Stan,16
+60,Butters,Kyle,10
+61,Bebe,Kyle,5
+62,Clyde,Kyle,19
+63,Clyde,Stan,10
+64,Butters,Clyde,6
+65,Bebe,Clyde,1
+66,Jimmy,Kyle,10
+67,Kyle,Tolkien,7
+68,Cartman,Jimmy,13
+69,Cartman,Tolkien,9
+70,Craig,Jimmy,2
+71,Jimmy,Tolkien,2
+72,Craig,Tolkien,2
+73,Butters,Tolkien,1
+74,Clyde,Tolkien,1
+75,Clyde,Jimmy,3
+76,Clyde,Mrs. Garrison,6
+77,Clyde,Kenny,8
+78,Kenny,Kyle,6
+79,Kyle,Mrs. Garrison,3

@@ -19,84 +19,98 @@
 17,Cartman,Principal Victoria,9
 18,Cartman,Sharon,6
 19,Cartman,Sheila,16
-20,Cartman,Liane,8
-21,Cartman,Gerald,3
-22,Kyle,Principal Victoria,9
-23,Principal Victoria,Sharon,6
-24,Principal Victoria,Sheila,12
-25,Principal Victoria,Stan,3
-26,Liane,Principal Victoria,6
-27,Gerald,Principal Victoria,3
-28,Kyle,Sharon,6
-29,Kyle,Sheila,18
-30,Kyle,Liane,9
-31,Gerald,Kyle,3
-32,Sharon,Sheila,8
-33,Sharon,Stan,2
-34,Liane,Sharon,4
-35,Gerald,Sharon,2
-36,Sheila,Stan,8
-37,Liane,Sheila,10
-38,Gerald,Sheila,4
-39,Liane,Stan,4
-40,Gerald,Stan,1
-41,Gerald,Liane,2
-42,Executive 1,Rob Reiner,1
-43,Mr. Garrison,Stan,8
-44,Rob Reiner,Stan,21
-45,Cartman,Mr. Garrison,6
-46,Cartman,Rob Reiner,75
-47,Kyle,Mr. Garrison,7
-48,Kyle,Rob Reiner,48
-49,Mr. Garrison,Rob Reiner,11
-50,BUDS man,Cartman,6
-51,Bartender,Cartman,1
-52,BUDS man,Kyle,7
-53,Bartender,Kyle,1
-54,BUDS man,Rob Reiner,31
-55,Bartender,Rob Reiner,6
-56,BUDS man,Bartender,4
-57,Executive,Rob Reiner,6
-58,Kevin Harris,Rob Reiner,61
-59,Executive,Kevin Harris,9
-60,Executive,Kyle,2
-61,Cartman,Executive,1
-62,Kevin Harris,Kyle,21
-63,Cartman,Kevin Harris,11
-64,Cartman,worker,8
-65,Rob Reiner,worker,10
-66,Kyle,worker,2
-67,Kenny,Stan,10
-68,Kenny,Kyle,10
-69,Cartman,Kenny,11
-70,Cartman,Scary Assistant,12
-71,Rob Reiner,Scary Assistant,8
-72,Rob Reiner,Townspeople,14
-73,Mr. Mackey,Rob Reiner,14
-74,Rob Reiner,Sheila,14
-75,Liane,Rob Reiner,7
-76,Kevin Harris,Townspeople,2
-77,Kevin Harris,Mr. Mackey,2
-78,Kevin Harris,Stan,2
-79,BUDS man,Kevin Harris,1
-80,Kevin Harris,Mr. Garrison,1
-81,Kevin Harris,Sheila,2
-82,Kevin Harris,Liane,1
-83,Mr. Mackey,Townspeople,4
-84,Kyle,Townspeople,6
-85,Stan,Townspeople,4
-86,BUDS man,Townspeople,2
-87,Mr. Garrison,Townspeople,2
-88,Cartman,Townspeople,4
-89,Sheila,Townspeople,4
-90,Liane,Townspeople,2
-91,BUDS man,Mr. Mackey,2
-92,Mr. Garrison,Mr. Mackey,2
-93,Mr. Mackey,Sheila,4
-94,Liane,Mr. Mackey,2
-95,BUDS man,Stan,2
-96,BUDS man,Mr. Garrison,1
-97,BUDS man,Sheila,2
-98,BUDS man,Liane,1
-99,Mr. Garrison,Sheila,2
-100,Liane,Mr. Garrison,1
+20,Cartman,Randy,24
+21,Cartman,Liane,8
+22,Cartman,Gerald,3
+23,Kyle,Principal Victoria,9
+24,Principal Victoria,Sharon,6
+25,Principal Victoria,Sheila,12
+26,Principal Victoria,Stan,3
+27,Principal Victoria,Randy,6
+28,Liane,Principal Victoria,6
+29,Gerald,Principal Victoria,3
+30,Kyle,Sharon,6
+31,Kyle,Sheila,18
+32,Kyle,Randy,23
+33,Kyle,Liane,9
+34,Gerald,Kyle,3
+35,Sharon,Sheila,8
+36,Sharon,Stan,2
+37,Randy,Sharon,4
+38,Liane,Sharon,4
+39,Gerald,Sharon,2
+40,Sheila,Stan,8
+41,Randy,Sheila,10
+42,Liane,Sheila,10
+43,Gerald,Sheila,4
+44,Randy,Stan,20
+45,Liane,Stan,4
+46,Gerald,Stan,1
+47,Liane,Randy,5
+48,Gerald,Randy,2
+49,Gerald,Liane,2
+50,Mr. Garrison,Stan,8
+51,Rob Reiner,Stan,21
+52,Cartman,Mr. Garrison,6
+53,Cartman,Rob Reiner,75
+54,Kyle,Mr. Garrison,7
+55,Kyle,Rob Reiner,48
+56,Mr. Garrison,Rob Reiner,11
+57,BUDS man,Cartman,6
+58,Bartender,Cartman,1
+59,BUDS man,Kyle,7
+60,Bartender,Kyle,1
+61,BUDS man,Rob Reiner,31
+62,Bartender,Rob Reiner,6
+63,BUDS man,Bartender,4
+64,Executive,Rob Reiner,6
+65,Kevin Harris,Rob Reiner,61
+66,Executive,Kevin Harris,9
+67,Executive,Kyle,2
+68,Cartman,Executive,1
+69,Kevin Harris,Kyle,21
+70,Cartman,Kevin Harris,11
+71,Cartman,worker,8
+72,Rob Reiner,worker,10
+73,Kyle,worker,2
+74,Kenny,Stan,10
+75,Kenny,Kyle,10
+76,Cartman,Kenny,11
+77,Cartman,Scary Assistant,12
+78,Rob Reiner,Scary Assistant,8
+79,Kenny,Randy,2
+80,Rob Reiner,Townspeople,14
+81,Mr. Mackey,Rob Reiner,14
+82,Randy,Rob Reiner,7
+83,Rob Reiner,Sheila,14
+84,Liane,Rob Reiner,7
+85,Kevin Harris,Townspeople,2
+86,Kevin Harris,Mr. Mackey,2
+87,Kevin Harris,Randy,1
+88,Kevin Harris,Stan,2
+89,BUDS man,Kevin Harris,1
+90,Kevin Harris,Mr. Garrison,1
+91,Kevin Harris,Sheila,2
+92,Kevin Harris,Liane,1
+93,Mr. Mackey,Townspeople,4
+94,Randy,Townspeople,2
+95,Kyle,Townspeople,6
+96,Stan,Townspeople,4
+97,BUDS man,Townspeople,2
+98,Mr. Garrison,Townspeople,2
+99,Cartman,Townspeople,4
+100,Sheila,Townspeople,4
+101,Liane,Townspeople,2
+102,Mr. Mackey,Randy,2
+103,BUDS man,Mr. Mackey,2
+104,Mr. Garrison,Mr. Mackey,2
+105,Mr. Mackey,Sheila,4
+106,Liane,Mr. Mackey,2
+107,BUDS man,Randy,1
+108,Mr. Garrison,Randy,1
+109,BUDS man,Stan,2
+110,BUDS man,Mr. Garrison,1
+111,BUDS man,Sheila,2
+112,BUDS man,Liane,1
+113,Mr. Garrison,Sheila,2
+114,Liane,Mr. Garrison,1

@@ -15,81 +15,43 @@
 13,Mr. Garrison,Stan,2
 14,Cartman,Mr. Garrison,11
 15,Cartman,Stan,23
-16,Director 2,Mayor McDaniels,1
-17,Kenny,Stan,1
-18,Director 3,Stan,3
-19,Chef,Stan,13
-20,Stan,The boys,3
-21,Director 3,Kyle,4
-22,Chef,Director 3,18
-23,Director 3,The boys,1
-24,Cartman,Director 3,10
-25,Chef,Kyle,17
-26,Kyle,The boys,5
-27,Chef,The boys,3
-28,Cartman,Chef,9
-29,Cartman,The boys,8
-30,Chef,Woman,15
-31,Kyle,Woman,3
-32,Director 3,Woman,9
-33,Kyle,Sheila,2
-34,Kyle,Mr. Hankey,30
-35,Mr. Hankey,Sheila,1
-36,Cartman,Man,2
-37,Kyle,Man,1
-38,Cartman,Robert Redford,9
-39,Cartman,Phyllis,2
-40,Mr. Garrison,The boys,4
-41,Cartman,Mr. Hankey,16
-42,Mr. Hankey,The boys,15
-43,Mr. Hankey,Stan,10
-44,Director 4,Kyle,1
-45,Female director,Kyle,2
-46,Director 5,Female director,1
-47,Director 6,Female director,1
-48,Director 5,Kyle,1
-49,Director 5,Director 6,1
-50,Director 6,Kyle,1
-51,Director 4,Female director 2,1
-52,Director 4,Director 8,1
-53,Director 4,Director 9,1
-54,Director 10,Director 4,1
-55,Director 4,Fred Savage,1
-56,Director 8,Female director 2,1
-57,Director 9,Female director 2,1
-58,Director 10,Female director 2,1
-59,Female director 2,Fred Savage,1
-60,Director 8,Director 9,1
-61,Director 10,Director 8,1
-62,Director 8,Fred Savage,1
-63,Director 10,Director 9,1
-64,Director 9,Fred Savage,1
-65,Director 10,Fred Savage,1
-66,Aide 2,Mayor McDaniels,1
-67,Mayor McDaniels,Robert Redford,6
-68,Marty,Robert Redford,3
-69,Robert Redford,Stan,6
-70,Chef,Robert Redford,3
-71,Cartman,Mayor McDaniels,4
-72,Marty,Mayor McDaniels,2
-73,Mayor McDaniels,Stan,4
-74,Chef,Mayor McDaniels,2
-75,Cartman,Marty,2
-76,Marty,Stan,2
-77,Chef,Marty,1
-78,Kyle,Robert Redford,1
-79,Cowboy,Tom,2
-80,Man,Wendy,1
-81,Cowboy,Wendy,1
-82,Tom,Wendy,1
-83,Man,Stan,1
-84,Cowboy,Man,1
-85,Man,Tom,1
-86,Cowboy,Stan,1
-87,Stan,Tom,1
-88,Chef,Mr. Hankey,4
-89,Man,Woman,1
-90,Cartman,Woman,1
-91,Mayor McDaniels,Townsfolk,1
-92,Mr. Hankey,Townsfolk,1
-93,Mayor McDaniels,Mr. Hankey,1
+16,Kenny,Stan,1
+17,Chef,Stan,13
+18,Stan,The boys,3
+19,Chef,Kyle,17
+20,Kyle,The boys,5
+21,Chef,The boys,3
+22,Cartman,Chef,9
+23,Cartman,The boys,8
+24,Candice,Stan,1
+25,Kyle,Sheila,2
+26,Kyle,Mr. Hankey,30
+27,Mr. Hankey,Sheila,1
+28,Cartman,Robert Redford,9
+29,Cartman,Phyllis,2
+30,Mr. Garrison,The boys,4
+31,Cartman,Mr. Hankey,16
+32,Mr. Hankey,The boys,15
+33,Mr. Hankey,Stan,10
+34,Female director,Kyle,2
+35,Mayor McDaniels,Robert Redford,6
+36,Marty,Robert Redford,3
+37,Robert Redford,Stan,6
+38,Chef,Robert Redford,3
+39,Cartman,Mayor McDaniels,4
+40,Marty,Mayor McDaniels,2
+41,Mayor McDaniels,Stan,4
+42,Chef,Mayor McDaniels,2
+43,Cartman,Marty,2
+44,Marty,Stan,2
+45,Chef,Marty,1
+46,Kyle,Robert Redford,1
+47,Cowboy,Tom,2
+48,Cowboy,Wendy,1
+49,Tom,Wendy,1
+50,Cowboy,Stan,1
+51,Stan,Tom,1
+52,Chef,Mr. Hankey,4
+53,Mayor McDaniels,Townsfolk,1
+54,Mr. Hankey,Townsfolk,1
+55,Mayor McDaniels,Mr. Hankey,1

@@ -21,99 +21,34 @@
 19,Kyle,Mr. Mackey,1
 20,Cartman,Kyle,22
 21,Mrs. Garrison,News Anchor,2
-22,Mrs. Garrison,Researcher 1,33
-23,Board Rep 1,Cartman,3
-24,Board Rep 2,Cartman,3
-25,Board Rep 1,Mr. Mackey,1
-26,Board Rep 2,Mr. Mackey,1
-27,Board Rep 1,Principal Victoria,2
-28,Board Rep 2,Principal Victoria,2
-29,Board Rep 1,Board Rep 2,1
-30,Kenny,Kyle,4
-31,Cartman,Kenny,4
-32,Mrs. Miller,Teen boy 1,2
-33,Class,Teen boy 1,1
-34,Cartman,Teen boy 1,2
-35,Teen boy 1,Teen boy 2,1
-36,Class,Mrs. Miller,2
-37,Cartman,Mrs. Miller,9
-38,Mrs. Miller,Teen boy 2,3
-39,Cartman,Class,30
-40,Class,Teen boy 2,1
-41,Cartman,Teen boy 2,6
-42,Mrs. Garrison,Researcher 2,6
-43,Researcher 1,Researcher 2,4
-44,Teen boy 3,Teen boy 4,1
-45,Cartman,Teen boy 3,8
-46,Teen boy 3,Teen boy 5,1
-47,Marija,Teen boy 3,2
-48,Teen boy 3,Teen boy 6,1
-49,Cartman,Teen boy 4,4
-50,Teen boy 4,Teen boy 5,1
-51,Marija,Teen boy 4,1
-52,Teen boy 4,Teen boy 6,1
-53,Cartman,Teen boy 5,4
-54,Cartman,Marija,8
-55,Cartman,Teen boy 6,40
-56,Marija,Teen boy 5,1
-57,Teen boy 5,Teen boy 6,1
-58,Marija,Teen boy 6,1
-59,Teen boy 6,Teen boy 7,5
-60,Cartman,Teen boy 7,6
-61,Linda,Stephen,35
-62,Butters,Stephen,21
-63,Butters,Linda,15
-64,Class,Teen boy 6,4
-65,Mrs. Garrison,Stephen,2
-66,A woman,Stephen,1
-67,A woman,Mrs. Garrison,2
-68,Mrs. Garrison,Woman,1
-69,Woman,Woman 2,1
-70,Mrs. Garrison,Woman 2,4
-71,Class,Teen Girl 2,2
-72,Class,Melita,8
-73,Cartman,Teen Girl 2,6
-74,Cartman,Melita,24
-75,Melita,Teen Girl 2,4
-76,Mitch Harris,Mrs. Garrison,10
-77,Mrs. Garrison,Officer,10
-78,Mrs. Garrison,Sgt. Yates,7
-79,Mitch Harris,Officer,2
-80,Mitch Harris,Sgt. Yates,2
-81,Officer,Sgt. Yates,2
-82,Man 2,Woman 2,1
-83,Man 2,Woman 3,1
-84,Man 2,Woman 4,1
-85,Man 2,Mrs. Garrison,3
-86,Man 2,Mitch Harris,1
-87,Chef,Man 2,1
-88,Woman 2,Woman 3,1
-89,Woman 2,Woman 4,1
-90,Mitch Harris,Woman 2,1
-91,Chef,Woman 2,1
-92,Woman 3,Woman 4,1
-93,Mrs. Garrison,Woman 3,3
-94,Mitch Harris,Woman 3,1
-95,Chef,Woman 3,1
-96,Mrs. Garrison,Woman 4,3
-97,Mitch Harris,Woman 4,1
-98,Chef,Woman 4,1
-99,Chef,Mrs. Garrison,3
-100,Chef,Mitch Harris,1
-101,Mouse,Penis,2
-102,Mrs. Garrison,Penis,4
-103,Mitch Harris,Penis,2
-104,Penis,Sgt. Yates,2
-105,Mouse,Mrs. Garrison,2
-106,Mitch Harris,Mouse,1
-107,Mouse,Sgt. Yates,1
-108,Cartman,Teen boy 8,8
-109,Mrs. Miller,Teen boy 8,2
-110,Mrs. Miller,Teen boy 3,1
-111,Marija,Mrs. Miller,1
-112,Teen boy 3,Teen boy 8,2
-113,Teen boy 2,Teen boy 8,2
-114,Marija,Teen boy 8,2
-115,Teen boy 2,Teen boy 3,1
-116,Marija,Teen boy 2,1
-117,Mrs. Miller,Teen boy 6,2
+22,Kenny,Kyle,4
+23,Cartman,Kenny,4
+24,Class,Mrs. Miller,2
+25,Cartman,Mrs. Miller,9
+26,Cartman,Class,30
+27,Cartman,Marija,8
+28,Linda,Stephen,35
+29,Butters,Stephen,21
+30,Butters,Linda,15
+31,Mrs. Garrison,Stephen,2
+32,A woman,Stephen,1
+33,A woman,Mrs. Garrison,2
+34,Husband,Mrs. Garrison,2
+35,Class,Melita,8
+36,Cartman,Melita,24
+37,Mitch Harris,Mrs. Garrison,10
+38,Mrs. Garrison,Officer,10
+39,Mrs. Garrison,Sgt. Yates,7
+40,Mitch Harris,Officer,2
+41,Mitch Harris,Sgt. Yates,2
+42,Officer,Sgt. Yates,2
+43,Chef,Mrs. Garrison,3
+44,Chef,Mitch Harris,1
+45,Mouse,Penis,2
+46,Mrs. Garrison,Penis,4
+47,Mitch Harris,Penis,2
+48,Penis,Sgt. Yates,2
+49,Mouse,Mrs. Garrison,2
+50,Mitch Harris,Mouse,1
+51,Mouse,Sgt. Yates,1
+52,Marija,Mrs. Miller,1

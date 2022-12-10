@@ -14,125 +14,91 @@
 12,Mr. Mackey,Stan,18
 13,Principal Victoria,Sharon,2
 14,Dr. Chinstrap,Principal Victoria,3
-15,Dr. Chinstrap,Sharon,108
-16,Dr. Chinstrap,Mr. Yelman,29
-17,Dr. Chinstrap,Mr. Mackey,32
-18,Mr. Mackey,Mr. Yelman,16
-19,Billy,Mackey,59
-20,Mackey,Stan,152
-21,Mackey,Mr. Yelman,22
-22,Billy,Stan,47
-23,Billy,Mr. Yelman,8
-24,Mr. Yelman,Stan,31
-25,Dr. Chinstrap,Partner,6
-26,Partner,Pinkerton,2
-27,Dr. Chinstrap,Pinkerton,38
-28,Bus Driver,Stan,9
-29,Driver,Stan,9
-30,Bus Driver,Mackey,2
-31,Driver,Mackey,2
-32,Billy,Bus Driver,1
-33,Billy,Driver,1
-34,Bus Driver,Mr. Yelman,2
-35,Bus Driver,Driver,1
-36,Driver,Mr. Yelman,2
-37,Dr. Chinstrap,Leonardo DiCaprio,6
-38,DiCaprio,Dr. Chinstrap,38
-39,Dr. Chinstrap,Expert 1,42
-40,Dr. Chinstrap,Expert 2,6
-41,Dr. Chinstrap,Expert 3,6
-42,Dr. Chinstrap,Expert 4,6
-43,Dr. Chinstrap,Hasselbeck,6
-44,Pinkerton,Sharon,34
-45,Leonardo DiCaprio,Pinkerton,2
-46,DiCaprio,Pinkerton,13
-47,Expert 1,Pinkerton,14
-48,Expert 2,Pinkerton,2
-49,Expert 3,Pinkerton,2
-50,Expert 4,Pinkerton,2
-51,Hasselbeck,Pinkerton,2
-52,Leonardo DiCaprio,Sharon,17
-53,DiCaprio,Sharon,102
-54,Expert 1,Sharon,119
-55,Expert 2,Sharon,17
-56,Expert 3,Sharon,17
-57,Expert 4,Sharon,17
-58,Hasselbeck,Sharon,17
-59,DiCaprio,Leonardo DiCaprio,6
-60,Expert 1,Leonardo DiCaprio,7
-61,Expert 2,Leonardo DiCaprio,1
-62,Expert 3,Leonardo DiCaprio,1
-63,Expert 4,Leonardo DiCaprio,1
-64,Hasselbeck,Leonardo DiCaprio,1
-65,DiCaprio,Expert 1,48
-66,DiCaprio,Expert 2,23
-67,DiCaprio,Expert 3,6
-68,DiCaprio,Expert 4,6
-69,DiCaprio,Hasselbeck,6
-70,Expert 1,Expert 2,17
-71,Expert 1,Expert 3,7
-72,Expert 1,Expert 4,7
-73,Expert 1,Hasselbeck,7
-74,Expert 2,Expert 3,1
-75,Expert 2,Expert 4,1
-76,Expert 2,Hasselbeck,1
-77,Expert 3,Expert 4,1
-78,Expert 3,Hasselbeck,1
-79,Expert 4,Hasselbeck,1
-80,Class,Mackey,7
-81,Class,Ranger Pete,4
-82,Class,Woodsy Owl,1
-83,Billy,Class,1
-84,Class,DiCaprio,2
-85,Class,Expert 2,1
-86,Mackey,Ranger Pete,28
-87,Mackey,Woodsy Owl,7
-88,DiCaprio,Mackey,32
-89,Expert 2,Mackey,37
-90,Ranger Pete,Stan,8
-91,Ranger Pete,Woodsy Owl,4
-92,Billy,Ranger Pete,4
-93,DiCaprio,Ranger Pete,8
-94,Expert 2,Ranger Pete,4
-95,Stan,Woodsy Owl,2
-96,DiCaprio,Stan,23
-97,Expert 2,Stan,32
-98,Billy,Woodsy Owl,1
-99,DiCaprio,Woodsy Owl,2
-100,Expert 2,Woodsy Owl,1
-101,Billy,DiCaprio,8
-102,Billy,Expert 2,11
-103,Dr. Chinstrap,Fireman 1,6
-104,Dr. Chinstrap,Fire Captain,10
-105,Dr. Chinstrap,Pizza Man,6
-106,Fireman 1,Pinkerton,10
-107,Fire Captain,Fireman 1,4
-108,Fireman 1,Pizza Man,4
-109,Fire Captain,Pinkerton,12
-110,Pinkerton,Pizza Man,10
-111,Fire Captain,Pizza Man,4
-112,Dr. Chinstrap,Freddy Krueger,65
-113,Freddy Krueger,Woman,9
-114,Dr. Chinstrap,Woman,7
-115,Billy,Fire Captain,6
-116,Billy,Expert 1,4
-117,Billy,Freddy Krueger,2
-118,Fire Captain,Stan,20
-119,Expert 1,Stan,12
-120,Freddy Krueger,Stan,7
-121,Fire Captain,Mackey,18
-122,Expert 1,Mackey,12
-123,Freddy Krueger,Mackey,6
-124,DiCaprio,Fire Captain,11
-125,DiCaprio,Freddy Krueger,4
-126,Expert 2,Fire Captain,15
-127,Expert 2,Freddy Krueger,5
-128,Expert 1,Fire Captain,6
-129,Fire Captain,Freddy Krueger,5
-130,Expert 1,Freddy Krueger,2
-131,Fire Captain,Mr. Mackey,4
-132,Freddy Krueger,Mr. Mackey,2
-133,Freddy Krueger,Pinkerton,1
-134,DiCaprio,Mr. Mackey,2
-135,Mr. Mackey,Pinkerton,2
-136,Pinkerton,Stan,1
+15,Principal Victoria,Randy,1
+16,Dr. Chinstrap,Sharon,108
+17,Randy,Sharon,2
+18,Dr. Chinstrap,Randy,39
+19,Dr. Chinstrap,Mr. Yelman,29
+20,Dr. Chinstrap,Mr. Mackey,32
+21,Mr. Mackey,Mr. Yelman,16
+22,Billy,Mackey,59
+23,Mackey,Stan,152
+24,Mackey,Mr. Yelman,22
+25,Billy,Stan,47
+26,Billy,Mr. Yelman,8
+27,Mr. Yelman,Stan,31
+28,Dr. Chinstrap,Partner,6
+29,Partner,Randy,6
+30,Partner,Pinkerton,2
+31,Dr. Chinstrap,Pinkerton,38
+32,Pinkerton,Randy,4
+33,Bus Driver,Stan,9
+34,Driver,Stan,9
+35,Randy,Stan,55
+36,Bus Driver,Mackey,2
+37,Driver,Mackey,2
+38,Mackey,Randy,12
+39,Billy,Bus Driver,1
+40,Billy,Driver,1
+41,Billy,Randy,6
+42,Bus Driver,Mr. Yelman,2
+43,Bus Driver,Driver,1
+44,Bus Driver,Randy,6
+45,Driver,Mr. Yelman,2
+46,Mr. Yelman,Randy,12
+47,Driver,Randy,6
+48,Dr. Chinstrap,Leonardo DiCaprio,6
+49,DiCaprio,Dr. Chinstrap,38
+50,Dr. Chinstrap,Hasselbeck,6
+51,Pinkerton,Sharon,34
+52,Leonardo DiCaprio,Pinkerton,2
+53,DiCaprio,Pinkerton,13
+54,Hasselbeck,Pinkerton,2
+55,Leonardo DiCaprio,Sharon,17
+56,DiCaprio,Sharon,102
+57,Hasselbeck,Sharon,17
+58,DiCaprio,Leonardo DiCaprio,6
+59,Hasselbeck,Leonardo DiCaprio,1
+60,DiCaprio,Hasselbeck,6
+61,Class,Mackey,7
+62,Class,Ranger Pete,4
+63,Class,Woodsy Owl,1
+64,Billy,Class,1
+65,Class,DiCaprio,2
+66,Mackey,Ranger Pete,28
+67,Mackey,Woodsy Owl,7
+68,DiCaprio,Mackey,32
+69,Ranger Pete,Stan,8
+70,Ranger Pete,Woodsy Owl,4
+71,Billy,Ranger Pete,4
+72,DiCaprio,Ranger Pete,8
+73,Stan,Woodsy Owl,2
+74,DiCaprio,Stan,23
+75,Billy,Woodsy Owl,1
+76,DiCaprio,Woodsy Owl,2
+77,Billy,DiCaprio,8
+78,Dr. Chinstrap,Fire Captain,10
+79,Dr. Chinstrap,Pizza Man,6
+80,Fire Captain,Pinkerton,12
+81,Pinkerton,Pizza Man,10
+82,Fire Captain,Pizza Man,4
+83,Dr. Chinstrap,Freddy Krueger,65
+84,Billy,Fire Captain,6
+85,Billy,Freddy Krueger,2
+86,Fire Captain,Stan,20
+87,Freddy Krueger,Stan,7
+88,Fire Captain,Mackey,18
+89,Freddy Krueger,Mackey,6
+90,DiCaprio,Fire Captain,11
+91,DiCaprio,Freddy Krueger,4
+92,Fire Captain,Freddy Krueger,5
+93,Fire Captain,Randy,2
+94,Freddy Krueger,Randy,1
+95,Mr. Mackey,Randy,2
+96,DiCaprio,Randy,1
+97,Fire Captain,Mr. Mackey,4
+98,Freddy Krueger,Mr. Mackey,2
+99,Freddy Krueger,Pinkerton,1
+100,DiCaprio,Mr. Mackey,2
+101,Mr. Mackey,Pinkerton,2
+102,Pinkerton,Stan,1

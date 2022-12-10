@@ -15,47 +15,36 @@
 13,Butters,Jimmy,1
 14,Butters,Stan,1
 15,Jimmy,Stan,1
-16,Girl 1,Girl 2,2
-17,Craig,Girl 1,2
-18,Girl 1,Girl 3,2
-19,Girl 1,Tweek,4
-20,Craig,Girl 2,1
-21,Girl 2,Girl 3,1
-22,Girl 2,Tweek,2
-23,Craig,Girl 3,1
-24,Girl 3,Tweek,2
-25,Craig,PC Principal,35
-26,PC Principal,Tweek,40
-27,Stephen,Thomas,1
-28,Mrs. Tweek,Richard,4
-29,Mrs. Tweek,Tweek,3
-30,Mom,Mrs. Tweek,1
-31,Richard,Tweek,12
-32,Mom,Richard,8
-33,Mom,Tweek,3
-34,Cartman,Cupid Me,62
-35,Cartman,Kyle,4
-36,Cartman,Stan,2
-37,PC Principal,Thomas,9
-38,Craig,Thomas,13
-39,Cartman,Liane,4
-40,Craig,Mom,4
-41,Craig,Richard,4
-42,Skeeter,Thomas,2
-43,Butters,Tweek,10
-44,Butters,Craig,9
-45,Butters,Wendy,1
-46,Cupid Me,Man 1,5
-47,Cupid Me,Man 2,5
-48,Bartender,Cupid Me,5
-49,Cartman,Man 1,6
-50,Cartman,Man 2,6
-51,Bartender,Cartman,6
-52,Man 1,Man 2,1
-53,Bartender,Man 1,1
-54,Bartender,Man 2,1
-55,Laura,Thomas,2
-56,Thomas,Tweek,12
-57,Laura,Tweek,6
-58,Craig,Laura,5
-59,Cupid Me,Thomas,4
+16,Craig,PC Principal,35
+17,PC Principal,Tweek,40
+18,Randy,Sharon,9
+19,Randy,Stan,16
+20,Stephen,Thomas,1
+21,Mrs. Tweek,Richard,4
+22,Mrs. Tweek,Tweek,3
+23,Mom,Mrs. Tweek,1
+24,Richard,Tweek,12
+25,Mom,Richard,8
+26,Mom,Tweek,3
+27,Cartman,Cupid Me,62
+28,Cartman,Kyle,4
+29,Cartman,Stan,2
+30,PC Principal,Thomas,9
+31,Craig,Thomas,13
+32,Randy,Xi Jinping,12
+33,Cartman,Liane,4
+34,Craig,Mom,4
+35,Craig,Richard,4
+36,Randy,Thomas,8
+37,Randy,Skeeter,4
+38,Skeeter,Thomas,2
+39,Butters,Tweek,10
+40,Butters,Craig,9
+41,Butters,Wendy,1
+42,Bartender,Cupid Me,5
+43,Bartender,Cartman,6
+44,Laura,Thomas,2
+45,Thomas,Tweek,12
+46,Laura,Tweek,6
+47,Craig,Laura,5
+48,Cupid Me,Thomas,4

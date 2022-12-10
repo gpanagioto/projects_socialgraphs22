@@ -8,71 +8,63 @@
 6,Kip's dad,Kip's mom,16
 7,Kip,Kip's mom,23
 8,Kip,Kip's dad,16
-9,Stan,Wendy,52
-10,Man 1,Stan,5
-11,Man 2,Stan,10
-12,Man 1,Wendy,2
-13,Man 2,Wendy,4
-14,Man 1,Man 2,2
-15,Computer voice,Stan,8
-16,Guard 1,Stan,5
-17,Profile 1,Stan,5
-18,Profile 2,Stan,5
-19,Profile 3,Stan,5
-20,Profile 4,Stan,5
-21,Guard 1,Profile 1,1
-22,Guard 1,Profile 2,1
-23,Guard 1,Profile 3,1
-24,Guard 1,Profile 4,1
-25,Profile 1,Profile 2,1
-26,Profile 1,Profile 3,1
-27,Profile 1,Profile 4,1
-28,Profile 2,Profile 3,1
-29,Profile 2,Profile 4,1
-30,Profile 3,Profile 4,1
-31,Dude,Kyle,10
-32,Cartman,Dude,14
-33,Stan,Tom Davis,35
-34,Guard,Tom Davis,10
-35,Profile 5,Tom Davis,5
-36,Referee,Tom Davis,10
-37,Profile 6,Tom Davis,5
-38,Guard,Stan,14
-39,Profile 5,Stan,7
-40,Referee,Stan,28
-41,Profile 6,Stan,7
-42,Guard,Profile 5,2
-43,Guard,Referee,4
-44,Guard,Profile 6,2
-45,Profile 5,Referee,2
-46,Profile 5,Profile 6,1
-47,Profile 6,Referee,2
-48,Boy,Kyle,9
-49,Boy,Cartman,6
-50,Butters' profile,Garrison's profile,1
-51,Butters' profile,Kevin Donahue's profile,1
-52,Butters' profile,Stan,3
-53,Butters' profile,Susan92's profile,1
-54,Butters' profile,Gary Johnson's profile,1
-55,Butters' profile,Kyle,4
-56,Butters' profile,Isiah,3
-57,Garrison's profile,Kevin Donahue's profile,1
-58,Garrison's profile,Stan,3
-59,Garrison's profile,Susan92's profile,1
-60,Garrison's profile,Gary Johnson's profile,1
-61,Garrison's profile,Kyle,4
-62,Garrison's profile,Isiah,3
-63,Kevin Donahue's profile,Stan,3
-64,Kevin Donahue's profile,Susan92's profile,1
-65,Gary Johnson's profile,Kevin Donahue's profile,1
-66,Kevin Donahue's profile,Kyle,4
-67,Isiah,Kevin Donahue's profile,3
-68,Stan,Susan92's profile,3
-69,Gary Johnson's profile,Stan,3
-70,Isiah,Stan,9
-71,Gary Johnson's profile,Susan92's profile,1
-72,Kyle,Susan92's profile,4
-73,Isiah,Susan92's profile,3
-74,Gary Johnson's profile,Kyle,4
-75,Gary Johnson's profile,Isiah,3
-76,Isiah,Kyle,12
+9,Randy,Stan,58
+10,Stan,Wendy,52
+11,Cartman,Randy,3
+12,Computer voice,Stan,8
+13,Computer voice,Randy,2
+14,Dude,Kyle,10
+15,Cartman,Dude,14
+16,Stan,Tom Davis,35
+17,Guard,Tom Davis,10
+18,Referee,Tom Davis,10
+19,Guard,Stan,14
+20,Referee,Stan,28
+21,Guard,Referee,4
+22,Boy,Kyle,9
+23,Boy,Cartman,6
+24,Butters' profile,Randy's profile,1
+25,Garrison's profile,Randy's profile,1
+26,Grandma Marsh's profile,Randy's profile,1
+27,Kevin Donahue's profile,Randy's profile,1
+28,Randy's profile,Stan,3
+29,Randy's profile,Susan92's profile,1
+30,Gary Johnson's profile,Randy's profile,1
+31,Kyle,Randy's profile,4
+32,Isiah,Randy's profile,3
+33,Butters' profile,Garrison's profile,1
+34,Butters' profile,Grandma Marsh's profile,1
+35,Butters' profile,Kevin Donahue's profile,1
+36,Butters' profile,Stan,3
+37,Butters' profile,Susan92's profile,1
+38,Butters' profile,Gary Johnson's profile,1
+39,Butters' profile,Kyle,4
+40,Butters' profile,Isiah,3
+41,Garrison's profile,Grandma Marsh's profile,1
+42,Garrison's profile,Kevin Donahue's profile,1
+43,Garrison's profile,Stan,3
+44,Garrison's profile,Susan92's profile,1
+45,Garrison's profile,Gary Johnson's profile,1
+46,Garrison's profile,Kyle,4
+47,Garrison's profile,Isiah,3
+48,Grandma Marsh's profile,Kevin Donahue's profile,1
+49,Grandma Marsh's profile,Stan,3
+50,Grandma Marsh's profile,Susan92's profile,1
+51,Gary Johnson's profile,Grandma Marsh's profile,1
+52,Grandma Marsh's profile,Kyle,4
+53,Grandma Marsh's profile,Isiah,3
+54,Kevin Donahue's profile,Stan,3
+55,Kevin Donahue's profile,Susan92's profile,1
+56,Gary Johnson's profile,Kevin Donahue's profile,1
+57,Kevin Donahue's profile,Kyle,4
+58,Isiah,Kevin Donahue's profile,3
+59,Stan,Susan92's profile,3
+60,Gary Johnson's profile,Stan,3
+61,Isiah,Stan,9
+62,Gary Johnson's profile,Susan92's profile,1
+63,Kyle,Susan92's profile,4
+64,Isiah,Susan92's profile,3
+65,Gary Johnson's profile,Kyle,4
+66,Gary Johnson's profile,Isiah,3
+67,Isiah,Kyle,12
+68,Randy,Referee,1

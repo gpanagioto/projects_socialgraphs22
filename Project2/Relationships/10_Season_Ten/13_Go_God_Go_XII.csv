@@ -1,118 +1,60 @@
 ,source,target,weight
-0,Cartman,Otter 1,6
-1,Otter 1,Otter Leader,5
-2,Blavius,Otter 1,4
-3,Cartman,Otter Leader,7
-4,Blavius,Cartman,30
-5,Blavius,Otter Leader,7
-6,UAA 1,UAA Leader,8
-7,Cartman,UAA Leader,46
-8,Cartman,UAA 1,8
-9,Cartman,Maintenance Guy,8
-10,K-10,Maintenance Guy,2
-11,Cartman,K-10,54
-12,UAA 2,UAA Leader,2
-13,UAA 2,UAA 3,1
-14,UAA 3,UAA Leader,2
-15,UAL 2,UAL 3,1
-16,Shvek,UAL 2,1
-17,Shvek,UAL 3,1
-18,Cartman,Woman,6
-19,Boy 1,Woman,3
-20,Boy 2,Woman,2
-21,Boy 3,Woman,2
-22,Singers,Woman,2
-23,Announcer,Woman,2
-24,K-10,Woman,3
-25,Boy 1,Cartman,18
-26,Boy 2,Cartman,12
-27,Boy 3,Cartman,12
-28,Cartman,Singers,12
-29,Announcer,Cartman,12
-30,Boy 1,Boy 2,6
-31,Boy 1,Boy 3,6
-32,Boy 1,Singers,6
-33,Announcer,Boy 1,6
-34,Boy 1,K-10,9
-35,Boy 2,Boy 3,4
-36,Boy 2,Singers,4
-37,Announcer,Boy 2,4
-38,Boy 2,K-10,6
-39,Boy 3,Singers,4
-40,Announcer,Boy 3,4
-41,Boy 3,K-10,6
-42,Announcer,Singers,4
-43,K-10,Singers,6
-44,Announcer,K-10,6
-45,Cartman,Voice,8
-46,Clerk,Voice,6
-47,K-10,Voice,4
-48,Cartman,Clerk,53
-49,Clerk,K-10,24
-50,Blavius,Otters,1
-51,Boy 4,Man,35
-52,Boy 4,Boy 5,21
-53,Boy 4,Cartman,21
-54,Boy 5,Man,15
-55,Cartman,Man,15
-56,Boy 5,Cartman,9
-57,Otter 1,Otter 2,1
-58,Otter 1,The Wise One,4
-59,Otter 1,Otter Soldier,1
-60,Otter 1,Otter 3,1
-61,Otter 2,The Wise One,4
-62,Blavius,Otter 2,2
-63,Otter 2,Otter Leader,1
-64,Otter 2,Otter Soldier,1
-65,Otter 2,Otter 3,1
-66,Blavius,The Wise One,8
-67,Otter Leader,The Wise One,4
-68,Otter Soldier,The Wise One,4
-69,Otter 3,The Wise One,4
-70,Blavius,Otter Soldier,2
-71,Blavius,Otter 3,2
-72,Otter Leader,Otter Soldier,1
-73,Otter 3,Otter Leader,1
-74,Otter 3,Otter Soldier,1
-75,Cartman,Time Child,119
-76,Butters,Time Child,54
-77,Butters,Cartman,42
-78,Kyle,Time Child,84
-79,K-10,Time Child,12
-80,KIT-9,Time Child,48
-81,K-10,Kyle,7
-82,KIT-9,Kyle,28
-83,K-10,KIT-9,4
-84,Cartman,Tactical Officer,5
-85,Blavius,Shvek,17
-86,Shvek,UAA Leader,21
-87,Cartman,Shvek,36
-88,KIT-9,Shvek,9
-89,Shvek,Tactical Officer,3
-90,Blavius,UAA Leader,15
-91,Blavius,KIT-9,9
-92,Blavius,Tactical Officer,3
-93,KIT-9,UAA Leader,9
-94,Tactical Officer,UAA Leader,3
-95,Cartman,KIT-9,12
-96,KIT-9,Tactical Officer,3
-97,Mr. Dawkins,Mrs. Garrison,28
-98,Cartman,Mr. Dawkins,21
-99,Cartman,Mrs. Garrison,12
-100,Medic,Shvek,4
-101,All,Shvek,4
-102,KOK-A-3,Shvek,4
-103,Cartman,Medic,6
-104,All,Cartman,6
-105,Cartman,KOK-A-3,6
-106,Medic,UAA Leader,3
-107,All,UAA Leader,3
-108,KOK-A-3,UAA Leader,3
-109,Blavius,Medic,2
-110,All,Blavius,2
-111,Blavius,KOK-A-3,2
-112,All,Medic,1
-113,KOK-A-3,Medic,1
-114,All,KOK-A-3,1
-115,Cartman,Liane,20
-116,Clerk,Liane,4
+0,Cartman,Otter Leader,7
+1,Blavius,Cartman,30
+2,Blavius,Otter Leader,7
+3,Cartman,UAA Leader,46
+4,Cartman,Maintenance Guy,8
+5,K-10,Maintenance Guy,2
+6,Cartman,K-10,54
+7,Cartman,Singers,12
+8,Announcer,Cartman,12
+9,Announcer,Singers,4
+10,K-10,Singers,6
+11,Announcer,K-10,6
+12,Cartman,Voice,8
+13,Clerk,Voice,6
+14,K-10,Voice,4
+15,Cartman,Clerk,53
+16,Clerk,K-10,24
+17,Blavius,Otters,1
+18,Blavius,The Wise One,8
+19,Otter Leader,The Wise One,4
+20,Otter Soldier,The Wise One,4
+21,Blavius,Otter Soldier,2
+22,Otter Leader,Otter Soldier,1
+23,Cartman,Time Child,119
+24,Butters,Time Child,54
+25,Butters,Cartman,42
+26,Kyle,Time Child,84
+27,K-10,Time Child,12
+28,KIT-9,Time Child,48
+29,K-10,Kyle,7
+30,KIT-9,Kyle,28
+31,K-10,KIT-9,4
+32,Cartman,Tactical Officer,5
+33,Blavius,Shvek,17
+34,Shvek,UAA Leader,21
+35,Cartman,Shvek,36
+36,KIT-9,Shvek,9
+37,Shvek,Tactical Officer,3
+38,Blavius,UAA Leader,15
+39,Blavius,KIT-9,9
+40,Blavius,Tactical Officer,3
+41,KIT-9,UAA Leader,9
+42,Tactical Officer,UAA Leader,3
+43,Cartman,KIT-9,12
+44,KIT-9,Tactical Officer,3
+45,Mr. Dawkins,Mrs. Garrison,28
+46,Cartman,Mr. Dawkins,21
+47,Cartman,Mrs. Garrison,12
+48,Medic,Shvek,4
+49,KOK-A-3,Shvek,4
+50,Cartman,Medic,6
+51,Cartman,KOK-A-3,6
+52,Medic,UAA Leader,3
+53,KOK-A-3,UAA Leader,3
+54,Blavius,Medic,2
+55,Blavius,KOK-A-3,2
+56,KOK-A-3,Medic,1
+57,Cartman,Liane,20
+58,Clerk,Liane,4

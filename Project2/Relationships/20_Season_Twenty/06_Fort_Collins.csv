@@ -1,73 +1,30 @@
 ,source,target,weight
-0,Cartman,Unnamed character 3,2
-1,Cartman,Heidi,52
-2,Gerald,Trolls,3
-3,Dick,Trolls,4
-4,PurpleheadedQueeflicker,Trolls,1
-5,Anonymous821,Trolls,2
-6,Dick,Gerald,137
-7,Gerald,PurpleheadedQueeflicker,1
-8,Anonymous821,Gerald,3
-9,Dick,PurpleheadedQueeflicker,1
-10,Anonymous821,Dick,4
-11,Anonymous821,PurpleheadedQueeflicker,1
-12,Dick,Troll 7,3
-13,Dick,SupersexyLisa18,3
-14,Dick,Troll 4,3
-15,Troll 7,Trolls,1
-16,SupersexyLisa18,Trolls,1
-17,Troll 4,Trolls,1
-18,SupersexyLisa18,Troll 7,1
-19,Troll 4,Troll 7,1
-20,Gerald,Troll 7,2
-21,Anonymous821,Troll 7,1
-22,SupersexyLisa18,Troll 4,1
-23,Gerald,SupersexyLisa18,2
-24,Anonymous821,SupersexyLisa18,1
-25,Gerald,Troll 4,2
-26,Anonymous821,Troll 4,1
-27,Experiment Berry,Jar Berries,12
-28,Garrison,Jar Berries,3
-29,Experiment Berry,Garrison,4
-30,Cartman,Kyle,71
-31,Heidi,Kyle,24
-32,Bedrager,Dane 9,3
-33,Bedrager,Dane 5,6
-34,Dane 5,Dane 9,2
-35,Memberberry 1,Memberberry 2,18
-36,Memberberry 1,Memberberry 3,10
-37,Memberberry 1,Memberberry 4,19
-38,Memberberry 1,Tubbs,10
-39,Memberberry 2,Memberberry 3,9
-40,Memberberry 2,Memberberry 4,15
-41,Memberberry 2,Tubbs,9
-42,Memberberry 3,Memberberry 4,9
-43,Memberberry 3,Tubbs,5
-44,Memberberry 4,Tubbs,9
-45,Fort Collins Citizen 1,MLKKK,3
-46,MLKKK,Unknown Caller,5
-47,Fort Collins Citizen 2,MLKKK,3
-48,Fort Collins Citizen 1,Unknown Caller,1
-49,Fort Collins Citizen 1,Fort Collins Citizen 2,1
-50,Fort Collins Citizen 2,Unknown Caller,1
-51,Fort Collins Citizen 4,MLKKK,2
-52,MLKKK,Unknown Caller's Daughter,2
-53,Unknown Caller,Unknown Caller's Daughter,1
-54,Memberberry 2,Memberry 2,3
-55,Memberberry 2,Mickey,3
-56,Memberry 2,Tubbs,1
-57,Mickey,Tubbs,1
-58,Memberberry 3,Memberry 2,1
-59,Memberberry 3,Mickey,1
-60,Memberberry 1,Memberry 2,2
-61,Memberberry 1,Mickey,2
-62,Memberberry 4,Memberry 2,1
-63,Memberberry 4,Mickey,1
-64,Memberry 2,Mickey,1
-65,Memberberry 4,Unknown Memberberries,1
-66,Memberberry 1,Unknown Memberberries,1
-67,Gerald,News reporter,8
-68,Dick,News reporter,2
-69,Unnamed character 1,Unnamed character 3,1
-70,Cartman,Unnamed character 1,1
-71,Clinton,FBI agent 1,4
+0,Cartman,Heidi,52
+1,Gerald,Trolls,3
+2,Dick,Trolls,4
+3,PurpleheadedQueeflicker,Trolls,1
+4,Anonymous821,Trolls,2
+5,Dick,Gerald,137
+6,Gerald,PurpleheadedQueeflicker,1
+7,Anonymous821,Gerald,3
+8,Dick,PurpleheadedQueeflicker,1
+9,Anonymous821,Dick,4
+10,Anonymous821,PurpleheadedQueeflicker,1
+11,Dick,SupersexyLisa18,3
+12,SupersexyLisa18,Trolls,1
+13,Gerald,SupersexyLisa18,2
+14,Anonymous821,SupersexyLisa18,1
+15,Jar Berries,Randy,9
+16,Experiment Berry,Jar Berries,12
+17,Garrison,Jar Berries,3
+18,Experiment Berry,Randy,12
+19,Garrison,Randy,45
+20,Experiment Berry,Garrison,4
+21,Cartman,Kyle,71
+22,Heidi,Kyle,24
+23,MLKKK,Unknown Caller,5
+24,MLKKK,Unknown Caller's Daughter,2
+25,Unknown Caller,Unknown Caller's Daughter,1
+26,Mickey,Tubbs,1
+27,Gerald,News reporter,8
+28,Dick,News reporter,2

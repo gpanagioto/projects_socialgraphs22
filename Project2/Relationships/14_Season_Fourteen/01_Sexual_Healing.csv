@@ -1,218 +1,114 @@
 ,source,target,weight
-0,Tiger,Woman,4
-1,Elin,Woman,3
-2,Elin,Tiger,23
-3,Cartman,Stan,22
-4,Stan,Tiger,8
-5,Elin,Stan,12
-6,Kenny,Stan,1
-7,Kyle,Stan,1
-8,Cartman,Tiger,16
-9,Cartman,Elin,16
-10,Cartman,Kenny,5
-11,Cartman,Kyle,5
-12,Kenny,Tiger,2
-13,Kyle,Tiger,2
-14,Elin,Kenny,1
-15,Elin,Kyle,1
-16,Kenny,Kyle,14
-17,Expert 1,Expert 2,1
-18,Chairman,Expert 1,5
-19,Expert 1,Expert 3,1
-20,Expert 1,Expert 4,2
-21,Expert 1,Expert 5,1
-22,Expert 1,Expert 6,1
-23,Expert 1,Expert 7,2
-24,Expert 1,Expert 8,1
-25,Expert 1,Expert 9,1
-26,Chairman,Expert 2,5
-27,Expert 2,Expert 3,1
-28,Expert 2,Expert 4,2
-29,Expert 2,Expert 5,1
-30,Expert 2,Expert 6,1
-31,Expert 2,Expert 7,2
-32,Expert 2,Expert 8,1
-33,Expert 2,Expert 9,1
-34,Chairman,Expert 3,5
-35,Chairman,Expert 4,21
-36,Chairman,Expert 5,5
-37,Chairman,Expert 6,11
-38,Chairman,Expert 7,10
-39,Chairman,Expert 8,5
-40,Chairman,Expert 9,5
-41,Expert 3,Expert 4,2
-42,Expert 3,Expert 5,1
-43,Expert 3,Expert 6,1
-44,Expert 3,Expert 7,2
-45,Expert 3,Expert 8,1
-46,Expert 3,Expert 9,1
-47,Expert 4,Expert 5,2
-48,Expert 4,Expert 6,3
-49,Expert 4,Expert 7,4
-50,Expert 4,Expert 8,2
-51,Expert 4,Expert 9,2
-52,Expert 5,Expert 6,1
-53,Expert 5,Expert 7,2
-54,Expert 5,Expert 8,1
-55,Expert 5,Expert 9,1
-56,Expert 6,Expert 7,2
-57,Expert 6,Expert 8,1
-58,Expert 6,Expert 9,1
-59,Expert 7,Expert 8,2
-60,Expert 7,Expert 9,2
-61,Expert 8,Expert 9,1
-62,Kenny,The class,2
-63,Kyle,The class,2
-64,Butters,The class,4
-65,Expert 9,The class,4
-66,Butters,Kenny,17
-67,Expert 9,Kenny,20
-68,Butters,Kyle,43
-69,Expert 9,Kyle,20
-70,Butters,Expert 9,28
-71,Chairman,Dr. Tonton,10
-72,Dr. Tonton,Reporter 1,2
-73,Dr. Tonton,Reporter 2,1
-74,Dr. Tonton,Mrs. McCormick,1
-75,Chairman,Reporter 1,8
-76,Chairman,Reporter 2,4
-77,Chairman,Mrs. McCormick,4
-78,Reporter 1,Reporter 2,2
-79,Mrs. McCormick,Reporter 1,2
-80,Mrs. McCormick,Reporter 2,1
-81,Kyle,Priest,5
-82,Butters,Priest,4
-83,Announcer,Elin,4
-84,Announcer,Tiger,2
-85,Announcer,Stan,8
-86,Announcer,Cartman,8
-87,David Letterman,Therapist,11
-88,Bill Clinton,David Letterman,4
-89,Charlie Sheen,David Letterman,1
-90,David Letterman,Kyle,4
-91,David Letterman,The men,1
-92,Butters,David Letterman,2
-93,Ben Roethlisberger,David Letterman,1
-94,David Duchovny,David Letterman,1
-95,Bill Clinton,Therapist,23
-96,Charlie Sheen,Therapist,6
-97,Kyle,Therapist,28
-98,The men,Therapist,6
-99,Butters,Therapist,15
-100,Ben Roethlisberger,Therapist,6
-101,David Duchovny,Therapist,6
-102,Bill Clinton,Charlie Sheen,3
-103,Bill Clinton,Kyle,8
-104,Bill Clinton,The men,3
-105,Bill Clinton,Butters,6
-106,Ben Roethlisberger,Bill Clinton,3
-107,Bill Clinton,David Duchovny,3
-108,Charlie Sheen,Kyle,2
-109,Charlie Sheen,The men,1
-110,Butters,Charlie Sheen,2
-111,Ben Roethlisberger,Charlie Sheen,1
-112,Charlie Sheen,David Duchovny,1
-113,Kyle,The men,2
-114,Ben Roethlisberger,Kyle,2
-115,David Duchovny,Kyle,2
-116,Butters,The men,2
-117,Ben Roethlisberger,The men,1
-118,David Duchovny,The men,1
-119,Ben Roethlisberger,Butters,2
-120,Butters,David Duchovny,2
-121,Ben Roethlisberger,David Duchovny,1
-122,The other men,Tiger Woods,1
-123,Therapist,Tiger Woods,5
-124,Michael Douglas,Tiger Woods,1
-125,The Men,Tiger Woods,1
-126,Ben Rothlisberger,Tiger Woods,1
-127,David Letterman,Tiger Woods,1
-128,Kyle,Tiger Woods,2
-129,Bill Clinton,Tiger Woods,1
-130,The other men,Therapist,5
-131,Michael Douglas,The other men,1
-132,The Men,The other men,1
-133,Ben Rothlisberger,The other men,1
-134,David Letterman,The other men,1
-135,Kyle,The other men,2
-136,Bill Clinton,The other men,1
-137,Michael Douglas,Therapist,5
-138,The Men,Therapist,5
-139,Ben Rothlisberger,Therapist,5
-140,Michael Douglas,The Men,1
-141,Ben Rothlisberger,Michael Douglas,1
-142,David Letterman,Michael Douglas,1
-143,Kyle,Michael Douglas,2
-144,Bill Clinton,Michael Douglas,1
-145,Ben Rothlisberger,The Men,1
-146,David Letterman,The Men,1
-147,Kyle,The Men,2
-148,Bill Clinton,The Men,1
-149,Ben Rothlisberger,David Letterman,1
-150,Ben Rothlisberger,Kyle,2
-151,Ben Rothlisberger,Bill Clinton,1
-152,Chairman,Obama,53
-153,Chairman,SWAT Officer 2,3
-154,Chairman,Expert 10,1
-155,Chairman,Secret Service Agent,1
-156,Expert 4,SWAT Officer 2,3
-157,Obama,SWAT Officer 2,9
-158,Expert 10,SWAT Officer 2,3
-159,SWAT Officer 2,Secret Service Agent,3
-160,Expert 4,Obama,8
-161,Expert 10,Expert 4,1
-162,Expert 4,Secret Service Agent,1
-163,Expert 10,Obama,3
-164,Obama,Secret Service Agent,3
-165,Expert 10,Secret Service Agent,1
-166,SWAT Officer 3,Therapist,2
-167,Chairman,SWAT Officer 3,12
-168,Kyle,SWAT Officer 3,6
-169,Obama,SWAT Officer 3,10
-170,SWAT Officer 3,SWAT Officer 4,2
-171,Dr. Tonton,SWAT Officer 3,2
-172,Expert 6,SWAT Officer 3,2
-173,SWAT Officer 3,SWAT Officer 5,2
-174,Expert 4,SWAT Officer 3,2
-175,Expert 11,SWAT Officer 3,2
-176,Chairman,Therapist,6
-177,Obama,Therapist,5
-178,SWAT Officer 4,Therapist,1
-179,Dr. Tonton,Therapist,1
-180,Expert 6,Therapist,1
-181,SWAT Officer 5,Therapist,1
-182,Expert 4,Therapist,1
-183,Expert 11,Therapist,1
-184,Chairman,Kyle,18
-185,Chairman,SWAT Officer 4,6
-186,Chairman,SWAT Officer 5,6
-187,Chairman,Expert 11,6
-188,Kyle,Obama,15
-189,Kyle,SWAT Officer 4,3
-190,Dr. Tonton,Kyle,3
-191,Expert 6,Kyle,3
-192,Kyle,SWAT Officer 5,3
-193,Expert 4,Kyle,3
-194,Expert 11,Kyle,3
-195,Obama,SWAT Officer 4,5
-196,Dr. Tonton,Obama,5
-197,Expert 6,Obama,5
-198,Obama,SWAT Officer 5,5
-199,Expert 11,Obama,5
-200,Dr. Tonton,SWAT Officer 4,1
-201,Expert 6,SWAT Officer 4,1
-202,SWAT Officer 4,SWAT Officer 5,1
-203,Expert 4,SWAT Officer 4,1
-204,Expert 11,SWAT Officer 4,1
-205,Dr. Tonton,Expert 6,1
-206,Dr. Tonton,SWAT Officer 5,1
-207,Dr. Tonton,Expert 4,1
-208,Dr. Tonton,Expert 11,1
-209,Expert 6,SWAT Officer 5,1
-210,Expert 11,Expert 6,1
-211,Expert 4,SWAT Officer 5,1
-212,Expert 11,SWAT Officer 5,1
-213,Expert 11,Expert 4,1
-214,Another addict,David Letterman,1
-215,Kyle,News 4 Reporter,1
-216,Butters,News 4 Reporter,1
+0,Elin,Tiger,23
+1,Cartman,Stan,22
+2,Stan,Tiger,8
+3,Elin,Stan,12
+4,Kenny,Stan,1
+5,Kyle,Stan,1
+6,Cartman,Tiger,16
+7,Cartman,Elin,16
+8,Cartman,Kenny,5
+9,Cartman,Kyle,5
+10,Kenny,Tiger,2
+11,Kyle,Tiger,2
+12,Elin,Kenny,1
+13,Elin,Kyle,1
+14,Kenny,Kyle,14
+15,Kenny,The class,2
+16,Kyle,The class,2
+17,Butters,The class,4
+18,Butters,Kenny,17
+19,Butters,Kyle,43
+20,Chairman,Dr. Tonton,10
+21,Dr. Tonton,Randy,1
+22,Dr. Tonton,Mrs. McCormick,1
+23,Chairman,Randy,4
+24,Chairman,Mrs. McCormick,4
+25,Mrs. McCormick,Randy,1
+26,Kyle,Priest,5
+27,Butters,Priest,4
+28,Announcer,Elin,4
+29,Announcer,Tiger,2
+30,Announcer,Stan,8
+31,Announcer,Cartman,8
+32,David Letterman,Therapist,11
+33,Bill Clinton,David Letterman,4
+34,Charlie Sheen,David Letterman,1
+35,David Letterman,Kyle,4
+36,David Letterman,The men,1
+37,Butters,David Letterman,2
+38,Ben Roethlisberger,David Letterman,1
+39,David Duchovny,David Letterman,1
+40,Bill Clinton,Therapist,23
+41,Charlie Sheen,Therapist,6
+42,Kyle,Therapist,28
+43,The men,Therapist,6
+44,Butters,Therapist,15
+45,Ben Roethlisberger,Therapist,6
+46,David Duchovny,Therapist,6
+47,Bill Clinton,Charlie Sheen,3
+48,Bill Clinton,Kyle,8
+49,Bill Clinton,The men,3
+50,Bill Clinton,Butters,6
+51,Ben Roethlisberger,Bill Clinton,3
+52,Bill Clinton,David Duchovny,3
+53,Charlie Sheen,Kyle,2
+54,Charlie Sheen,The men,1
+55,Butters,Charlie Sheen,2
+56,Ben Roethlisberger,Charlie Sheen,1
+57,Charlie Sheen,David Duchovny,1
+58,Kyle,The men,2
+59,Ben Roethlisberger,Kyle,2
+60,David Duchovny,Kyle,2
+61,Butters,The men,2
+62,Ben Roethlisberger,The men,1
+63,David Duchovny,The men,1
+64,Ben Roethlisberger,Butters,2
+65,Butters,David Duchovny,2
+66,Ben Roethlisberger,David Duchovny,1
+67,The other men,Tiger Woods,1
+68,Therapist,Tiger Woods,5
+69,Michael Douglas,Tiger Woods,1
+70,The Men,Tiger Woods,1
+71,Ben Rothlisberger,Tiger Woods,1
+72,David Letterman,Tiger Woods,1
+73,Kyle,Tiger Woods,2
+74,Bill Clinton,Tiger Woods,1
+75,The other men,Therapist,5
+76,Michael Douglas,The other men,1
+77,The Men,The other men,1
+78,Ben Rothlisberger,The other men,1
+79,David Letterman,The other men,1
+80,Kyle,The other men,2
+81,Bill Clinton,The other men,1
+82,Michael Douglas,Therapist,5
+83,The Men,Therapist,5
+84,Ben Rothlisberger,Therapist,5
+85,Michael Douglas,The Men,1
+86,Ben Rothlisberger,Michael Douglas,1
+87,David Letterman,Michael Douglas,1
+88,Kyle,Michael Douglas,2
+89,Bill Clinton,Michael Douglas,1
+90,Ben Rothlisberger,The Men,1
+91,David Letterman,The Men,1
+92,Kyle,The Men,2
+93,Bill Clinton,The Men,1
+94,Ben Rothlisberger,David Letterman,1
+95,Ben Rothlisberger,Kyle,2
+96,Ben Rothlisberger,Bill Clinton,1
+97,Chairman,Obama,53
+98,Chairman,Secret Service Agent,1
+99,Obama,Secret Service Agent,3
+100,Chairman,Therapist,6
+101,Obama,Therapist,5
+102,Dr. Tonton,Therapist,1
+103,Chairman,Kyle,18
+104,Kyle,Obama,15
+105,Dr. Tonton,Kyle,3
+106,Dr. Tonton,Obama,5
+107,Another addict,David Letterman,1
+108,News 4 Reporter,Randy,1
+109,Kyle,Randy,1
+110,Butters,Randy,1
+111,Kyle,News 4 Reporter,1
+112,Butters,News 4 Reporter,1

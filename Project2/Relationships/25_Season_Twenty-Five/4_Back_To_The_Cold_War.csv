@@ -5,47 +5,35 @@
 3,Mr. Garrison,Mr. Mackey,6
 4,Clyde,Mr. Garrison,1
 5,Clyde,Mr. Mackey,6
-6,Girl 1,Katie,1
-7,Girl 2,Katie,1
-8,Butters,Katie,1
-9,Girls,Katie,1
-10,Dressage Instructor,Katie,1
-11,Girl 1,Girl 2,1
-12,Butters,Girl 1,1
-13,Girl 1,Girls,1
-14,Dressage Instructor,Girl 1,1
-15,Butters,Girl 2,1
-16,Girl 2,Girls,1
-17,Dressage Instructor,Girl 2,1
-18,Butters,Girls,8
-19,Butters,Dressage Instructor,1
-20,Dressage Instructor,Girls,1
-21,Dressage Instructor,Stephen,5
-22,Linda,Stephen,41
-23,Man,Stephen,5
-24,Dressage Instructor,Linda,2
-25,Dressage Instructor,Man,1
-26,Linda,Man,2
-27,Mr. Mackey,PC Principal,42
-28,Butters,Stephen,52
-29,Butters,Linda,7
-30,Girls,Stephen,7
-31,Girls,Linda,1
-32,Butters,Mr. Mackey,56
-33,Mr. Mackey,Stephen,72
-34,Linda,Mr. Mackey,27
-35,Mr. Mackey,Mr. Mackey's Mom,44
-36,Mr. Mackey,Norad Director,3
-37,Norad Director,Norad Employees,3
-38,Mr. Mackey,Norad Employees,1
-39,Dressage Announcer,Stephen,2
-40,Butters,Dressage Announcer,2
-41,Crowd,Stephen,2
-42,Davey Solokov,Stephen,2
-43,Referee,Stephen,4
-44,Butters,Crowd,1
-45,Crowd,Davey Solokov,1
-46,Crowd,Referee,2
-47,Butters,Davey Solokov,1
-48,Butters,Referee,2
-49,Davey Solokov,Referee,2
+6,Butters,Katie,1
+7,Girls,Katie,1
+8,Dressage Instructor,Katie,1
+9,Butters,Girls,8
+10,Butters,Dressage Instructor,1
+11,Dressage Instructor,Girls,1
+12,Dressage Instructor,Stephen,5
+13,Linda,Stephen,41
+14,Dressage Instructor,Linda,2
+15,Mr. Mackey,PC Principal,42
+16,Butters,Stephen,52
+17,Butters,Linda,7
+18,Girls,Stephen,7
+19,Girls,Linda,1
+20,Butters,Mr. Mackey,56
+21,Mr. Mackey,Stephen,72
+22,Linda,Mr. Mackey,27
+23,Mr. Mackey,Mr. Mackey's Mom,44
+24,Mr. Mackey,Norad Director,3
+25,Norad Director,Norad Employees,3
+26,Mr. Mackey,Norad Employees,1
+27,Dressage Announcer,Stephen,2
+28,Butters,Dressage Announcer,2
+29,Crowd,Stephen,2
+30,Davey Solokov,Stephen,2
+31,Referee,Stephen,4
+32,Butters,Crowd,1
+33,Crowd,Davey Solokov,1
+34,Crowd,Referee,2
+35,Butters,Davey Solokov,1
+36,Butters,Referee,2
+37,Davey Solokov,Referee,2

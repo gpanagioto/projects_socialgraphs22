@@ -1,142 +1,59 @@
 ,source,target,weight
-0,Benny,Stan,120
-1,Mrs. Farnickle,Stan,10
-2,Benny,Mrs. Farnickle,12
-3,Anchor,Mr. Garrison,2
-4,Anchor,Stephen,2
-5,Anchor,Butters,2
-6,Anchor,Darryl Weathers,2
-7,Anchor,Worker 1,2
-8,Anchor,Worker 2,2
-9,Anchor,Worker 3,2
-10,Anchor,Worker 4,2
-11,Mr. Garrison,Stephen,1
-12,Butters,Mr. Garrison,1
-13,Darryl Weathers,Mr. Garrison,1
-14,Mr. Garrison,Worker 1,1
-15,Mr. Garrison,Worker 2,1
-16,Mr. Garrison,Worker 3,1
-17,Mr. Garrison,Worker 4,1
-18,Butters,Stephen,1
-19,Darryl Weathers,Stephen,1
-20,Stephen,Worker 1,1
-21,Stephen,Worker 2,1
-22,Stephen,Worker 3,1
-23,Stephen,Worker 4,1
-24,Butters,Darryl Weathers,1
-25,Butters,Worker 1,1
-26,Butters,Worker 2,1
-27,Butters,Worker 3,1
-28,Butters,Worker 4,1
-29,Darryl Weathers,Worker 1,1
-30,Darryl Weathers,Worker 2,1
-31,Darryl Weathers,Worker 3,1
-32,Darryl Weathers,Worker 4,1
-33,Worker 1,Worker 2,1
-34,Worker 1,Worker 3,1
-35,Worker 1,Worker 4,1
-36,Worker 2,Worker 3,1
-37,Worker 2,Worker 4,1
-38,Worker 3,Worker 4,1
-39,Sharon,Stan,2
-40,Cartman,Orator 2,1
-41,Man 1,Orator 2,1
-42,Man 2,Orator 2,1
-43,Cartman,Man 1,1
-44,Cartman,Man 2,1
-45,Man 1,Man 2,1
-46,Clerk,Stan,16
-47,Gerald,Man 3,1
-48,Gerald,Man 4,1
-49,Gerald,Man 5,1
-50,Gerald,Man 6,1
-51,Gerald,Man 7,1
-52,Man 3,Man 4,1
-53,Man 3,Man 5,1
-54,Man 3,Man 6,1
-55,Man 3,Man 7,1
-56,Man 4,Man 5,1
-57,Man 4,Man 6,1
-58,Man 4,Man 7,1
-59,Man 5,Man 6,1
-60,Man 5,Man 7,1
-61,Man 6,Man 7,1
-62,Cartman,Clyde,4
-63,Clyde,Kyle,5
-64,Butters,Clyde,2
-65,Clyde,Man 8,1
-66,Cartman,Kyle,24
-67,Butters,Cartman,9
-68,Cartman,Man 8,4
-69,Butters,Kyle,14
-70,Kyle,Man 8,5
-71,Butters,Man 8,2
-72,Receptionist,Stan,5
-73,Josh,Stan,25
-74,Josh,Receptionist,5
-75,Father Maxi,Skeeter,4
-76,Father Maxi,Man 9,4
-77,Man 9,Skeeter,2
-78,Kyle,Man 10,42
-79,Kyle,Mr. Garrison,21
-80,Kyle,Man 11,7
-81,Man 10,Mr. Garrison,18
-82,Man 10,Man 11,6
-83,Man 11,Mr. Garrison,3
-84,Stan,Stockbroker,25
-85,Father Maxi,Stephen,2
-86,Man 12,Stephen,1
-87,Skeeter,Stephen,1
-88,Cartman,Stephen,1
-89,Father Maxi,Man 12,2
-90,Cartman,Father Maxi,2
-91,Man 12,Skeeter,1
-92,Cartman,Man 12,1
-93,Cartman,Skeeter,1
-94,Stan,Treasurer 1,14
-95,Stan,Treasurer 2,6
-96,Treasurer 1,Treasurer 2,7
-97,Jimmy,Kyle,4
-98,Butters,Jimmy,1
-99,Cartman,Jimmy,1
-100,Treasurer 1,Treasurer 3,5
-101,Stan,Treasurer 3,2
-102,Treasurer 2,Treasurer 3,4
-103,Sir 1,Treasurer 1,2
-104,Sir 1,Treasurer 3,2
-105,Man 14,Stephen,2
-106,Darryl,Man 14,1
-107,Man 14,Man 15,1
-108,Man 14,Sheila,2
-109,Kyle,Man 14,2
-110,Man 14,Man 16,1
-111,Man 14,Man 17,1
-112,Dr. Doctor,Man 14,1
-113,Darryl,Stephen,2
-114,Man 15,Stephen,2
-115,Sheila,Stephen,4
-116,Kyle,Stephen,4
-117,Man 16,Stephen,2
-118,Man 17,Stephen,2
-119,Dr. Doctor,Stephen,2
-120,Darryl,Man 15,1
-121,Darryl,Sheila,2
-122,Darryl,Kyle,2
-123,Darryl,Man 16,1
-124,Darryl,Man 17,1
-125,Darryl,Dr. Doctor,1
-126,Man 15,Sheila,2
-127,Kyle,Man 15,2
-128,Man 15,Man 16,1
-129,Man 15,Man 17,1
-130,Dr. Doctor,Man 15,1
-131,Kyle,Sheila,4
-132,Man 16,Sheila,2
-133,Man 17,Sheila,2
-134,Dr. Doctor,Sheila,2
-135,Kyle,Man 16,2
-136,Kyle,Man 17,2
-137,Dr. Doctor,Kyle,2
-138,Man 16,Man 17,1
-139,Dr. Doctor,Man 16,1
-140,Dr. Doctor,Man 17,1
+0,Randy,Stan,34
+1,Benny,Randy,36
+2,Mrs. Farnickle,Randy,3
+3,Benny,Stan,120
+4,Mrs. Farnickle,Stan,10
+5,Benny,Mrs. Farnickle,12
+6,Anchor,Mr. Garrison,2
+7,Anchor,Stephen,2
+8,Anchor,Butters,2
+9,Anchor,Darryl Weathers,2
+10,Mr. Garrison,Stephen,1
+11,Butters,Mr. Garrison,1
+12,Darryl Weathers,Mr. Garrison,1
+13,Butters,Stephen,1
+14,Darryl Weathers,Stephen,1
+15,Butters,Darryl Weathers,1
+16,Randy,Sharon,2
+17,Sharon,Stan,2
+18,Cartman,Randy,4
+19,Clerk,Stan,16
+20,Gerald,Randy,1
+21,Cartman,Clyde,4
+22,Clyde,Kyle,5
+23,Butters,Clyde,2
+24,Cartman,Kyle,24
+25,Butters,Cartman,9
+26,Butters,Kyle,14
+27,Receptionist,Stan,5
+28,Josh,Stan,25
+29,Josh,Receptionist,5
+30,Father Maxi,Randy,12
+31,Father Maxi,Skeeter,4
+32,Randy,Skeeter,6
+33,Kyle,Mr. Garrison,21
+34,Stan,Stockbroker,25
+35,Randy,Stephen,10
+36,Father Maxi,Stephen,2
+37,Skeeter,Stephen,1
+38,Cartman,Stephen,1
+39,Cartman,Father Maxi,2
+40,Cartman,Skeeter,1
+41,Jimmy,Kyle,4
+42,Butters,Jimmy,1
+43,Cartman,Jimmy,1
+44,Darryl,Randy,4
+45,Randy,Sheila,8
+46,Kyle,Randy,8
+47,Dr. Doctor,Randy,4
+48,Darryl,Stephen,2
+49,Sheila,Stephen,4
+50,Kyle,Stephen,4
+51,Dr. Doctor,Stephen,2
+52,Darryl,Sheila,2
+53,Darryl,Kyle,2
+54,Darryl,Dr. Doctor,1
+55,Kyle,Sheila,4
+56,Dr. Doctor,Sheila,2
+57,Dr. Doctor,Kyle,2

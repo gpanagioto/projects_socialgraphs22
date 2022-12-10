@@ -76,26 +76,13 @@
 74,Anchor Tom,Announcer,1
 75,Announcer,Reporter Chris,1
 76,Anchor Tom,Reporter Chris,1
-77,Det. Yates,Man,1
-78,Lead convict,Man,1
-79,Det. Yates,Lead convict,1
-80,Butters,Det. Yates,3
-81,Cartman,Det. Yates,2
-82,Bald convict,Convict 2,3
-83,Cartman,Convict 2,2
-84,Convict 2,Lead convict,2
-85,Bald convict,Cartman,1
-86,Bald convict,Lead convict,1
-87,Cartman,Lead convict,1
-88,Butters,Officer 2,1
-89,Butters,Convict 2,1
-90,Bald convict,Butters,1
-91,Det. Yates,Officer 2,1
-92,Convict 2,Officer 2,1
-93,Bald convict,Officer 2,1
-94,Officer 2,Reporter Chris,1
-95,Convict 2,Det. Yates,1
-96,Bald convict,Det. Yates,1
-97,Det. Yates,Reporter Chris,1
-98,Convict 2,Reporter Chris,1
-99,Bald convict,Reporter Chris,1
+77,Det. Yates,Lead convict,1
+78,Butters,Det. Yates,3
+79,Cartman,Det. Yates,2
+80,Bald convict,Cartman,1
+81,Bald convict,Lead convict,1
+82,Cartman,Lead convict,1
+83,Bald convict,Butters,1
+84,Bald convict,Det. Yates,1
+85,Det. Yates,Reporter Chris,1
+86,Bald convict,Reporter Chris,1

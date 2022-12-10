@@ -9,74 +9,79 @@
 7,Mr. Garrison,Peter,2
 8,Butters,Mr. Garrison,1
 9,Butters,Peter,2
-10,Sharon,Stan,2
-11,Cartman,Stan,18
-12,Mr. Hagen,Stan,1
-13,Clyde,Red,1
-14,Butters,Red,1
-15,Red,Wendy,1
-16,Cartman,Red,1
-17,Kyle,Red,1
-18,Butters,Clyde,2
-19,Clyde,Wendy,2
-20,Cartman,Clyde,5
-21,Clyde,Kyle,2
-22,Butters,Kyle,11
-23,Kyle,Wendy,2
-24,Cartman,Kyle,15
-25,Mrs. Tweak,Stuart,2
-26,Cable Guy,Mrs. Tweak,10
-27,Mrs. Tweak,Stephen,6
-28,Cable Guy,Stuart,5
-29,Stephen,Stuart,3
-30,Cable Guy,Stephen,15
-31,Corey,Gerald,10
-32,Kyle,Tweek,1
-33,Craig,Kyle,2
-34,Kyle,Stan,54
-35,Craig,Tweek,1
-36,Stan,Tweek,2
-37,Cartman,Tweek,2
-38,Craig,Stan,3
-39,Cartman,Craig,6
-40,Butters,Mr. Mackey,6
-41,Butters,Stan,7
-42,Kyle,Mr. Mackey,6
-43,Mr. Mackey,Stan,4
-44,Officer 1,Officer 2,5
-45,Cartman,Officer 3,4
-46,Cartman,Stephen,8
-47,Clyde,Craig,1
-48,Craig,Wendy,1
-49,Craig,Officer 3,1
-50,Butters,Craig,1
-51,Craig,Stephen,2
-52,Clyde,Stan,1
-53,Clyde,Officer 3,1
-54,Clyde,Stephen,2
-55,Kyle,Officer 3,1
-56,Kyle,Stephen,2
-57,Stan,Wendy,1
-58,Officer 3,Wendy,1
-59,Stephen,Wendy,2
-60,Officer 3,Stan,1
-61,Stan,Stephen,2
-62,Butters,Officer 3,1
-63,Officer 3,Stephen,2
-64,Butters,Stephen,2
-65,Corey,Kyle,22
-66,Corey,Stan,22
-67,Cartman,Corey,13
-68,Kenny,Stan,2
-69,Corey,Kenny,5
-70,Cartman,Kenny,1
-71,Kenny,Kyle,2
-72,Cable Guy,Kyle,24
-73,David,Kyle,36
-74,Kyle,Mitch,4
-75,Cable Guy,Stan,48
-76,Cable Guy,David,54
-77,Cable Guy,Mitch,6
-78,David,Stan,72
-79,Mitch,Stan,8
-80,David,Mitch,9
+10,Randy,Stan,12
+11,Sharon,Stan,2
+12,Randy,Sharon,22
+13,Cartman,Stan,18
+14,Mr. Hagen,Stan,1
+15,Clyde,Red,1
+16,Butters,Red,1
+17,Red,Wendy,1
+18,Cartman,Red,1
+19,Kyle,Red,1
+20,Butters,Clyde,2
+21,Clyde,Wendy,2
+22,Cartman,Clyde,5
+23,Clyde,Kyle,2
+24,Butters,Kyle,11
+25,Kyle,Wendy,2
+26,Cartman,Kyle,15
+27,Mrs. Tweak,Randy,16
+28,Mrs. Tweak,Stuart,2
+29,Cable Guy,Mrs. Tweak,10
+30,Mrs. Tweak,Stephen,6
+31,Randy,Stuart,8
+32,Cable Guy,Randy,40
+33,Randy,Stephen,26
+34,Cable Guy,Stuart,5
+35,Stephen,Stuart,3
+36,Cable Guy,Stephen,15
+37,Corey,Randy,51
+38,Gerald,Randy,14
+39,Corey,Gerald,10
+40,Kyle,Tweek,1
+41,Craig,Kyle,2
+42,Kyle,Stan,54
+43,Craig,Tweek,1
+44,Stan,Tweek,2
+45,Cartman,Tweek,2
+46,Craig,Stan,3
+47,Cartman,Craig,6
+48,Butters,Mr. Mackey,6
+49,Butters,Stan,7
+50,Kyle,Mr. Mackey,6
+51,Mr. Mackey,Stan,4
+52,Cartman,Stephen,8
+53,Cartman,Randy,4
+54,Clyde,Craig,1
+55,Craig,Wendy,1
+56,Butters,Craig,1
+57,Craig,Stephen,2
+58,Craig,Randy,1
+59,Clyde,Stan,1
+60,Clyde,Stephen,2
+61,Clyde,Randy,1
+62,Kyle,Stephen,2
+63,Kyle,Randy,1
+64,Stan,Wendy,1
+65,Stephen,Wendy,2
+66,Randy,Wendy,1
+67,Stan,Stephen,2
+68,Butters,Stephen,2
+69,Butters,Randy,1
+70,Corey,Kyle,22
+71,Corey,Stan,22
+72,Cartman,Corey,13
+73,Kenny,Stan,2
+74,Corey,Kenny,5
+75,Cartman,Kenny,1
+76,Kenny,Kyle,2
+77,Cable Guy,Kyle,24
+78,David,Kyle,36
+79,Kyle,Mitch,4
+80,Cable Guy,Stan,48
+81,Cable Guy,David,54
+82,Cable Guy,Mitch,6
+83,David,Stan,72
+84,Mitch,Stan,8
+85,David,Mitch,9

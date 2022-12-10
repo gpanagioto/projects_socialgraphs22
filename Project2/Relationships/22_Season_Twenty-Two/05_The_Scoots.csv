@@ -5,90 +5,67 @@
 3,Cartman,Kyle,97
 4,Cartman,Stan,116
 5,Cartman,Kenny,29
-6,All,Cartman,11
-7,Kyle,Stan,60
-8,Kenny,Kyle,15
-9,All,Kyle,6
-10,Kenny,Stan,14
-11,All,Stan,8
-12,All,Kenny,1
-13,Lolly,Mackey,42
-14,Mackey,Rider 2,4
-15,Mackey,Rider 3,4
-16,Mackey,Rider 4,4
-17,Mackey,Rider 5,4
-18,Mackey,Rider 6,4
-19,Rider 2,Rider 3,1
-20,Rider 2,Rider 4,1
-21,Rider 2,Rider 5,1
-22,Rider 2,Rider 6,1
-23,Rider 3,Rider 4,1
-24,Rider 3,Rider 5,1
-25,Rider 3,Rider 6,1
-26,Rider 4,Rider 5,1
-27,Rider 4,Rider 6,1
-28,Rider 5,Rider 6,1
-29,Clyde,Jimmy,5
-30,Jimmy,Kenny,3
-31,Clyde,Kenny,12
-32,Mackey,Rider 7,2
-33,Kenny,Wendy,1
-34,Butters,Tolkien,1
-35,Butters,Cartman,4
-36,Butters,Stan,2
-37,Butters,Clyde,1
-38,Butters,Kyle,1
-39,Butters,Jimmy,1
-40,Butters,Craig,1
-41,Butters,Wendy,1
-42,Cartman,Tolkien,4
-43,Stan,Tolkien,2
-44,Clyde,Tolkien,1
-45,Kyle,Tolkien,1
-46,Jimmy,Tolkien,1
-47,Craig,Tolkien,1
-48,Tolkien,Wendy,1
-49,Cartman,Clyde,4
-50,Cartman,Jimmy,4
-51,Cartman,Craig,4
-52,Cartman,Wendy,4
-53,Clyde,Stan,2
-54,Jimmy,Stan,2
-55,Craig,Stan,2
-56,Stan,Wendy,2
-57,Clyde,Kyle,1
-58,Clyde,Craig,1
-59,Clyde,Wendy,1
-60,Jimmy,Kyle,1
-61,Craig,Kyle,1
-62,Kyle,Wendy,1
-63,Craig,Jimmy,1
-64,Jimmy,Wendy,1
-65,Craig,Wendy,1
-66,Jimbo,Sgt. Yates,1
-67,Sgt. Yates,Stephen,1
-68,Sgt. Yates,Townsfolk,1
-69,Mackey,Sgt. Yates,1
-70,Sgt. Yates,Townsman,1
-71,Jimbo,Stephen,13
-72,Jimbo,Townsfolk,1
-73,Jimbo,Mackey,1
-74,Jimbo,Townsman,1
-75,Stephen,Townsfolk,1
-76,Mackey,Stephen,1
-77,Stephen,Townsman,1
-78,Mackey,Townsfolk,1
-79,Townsfolk,Townsman,1
-80,Mackey,Townsman,1
-81,Associate,Mackey,1
-82,Kenny,Mackey,48
-83,Linda,Stephen,6
-84,Kyle,Richard,1
-85,Cartman,Richard,1
-86,Kenny,Rider 8,2
-87,Kenny,Rider 9,2
-88,Mackey,Rider 8,2
-89,Rider 8,Rider 9,1
-90,Mackey,Rider 9,2
-91,Guard,Mackey,12
-92,Guard,Kenny,6
+6,Kyle,Stan,60
+7,Kenny,Kyle,15
+8,Kenny,Stan,14
+9,Lolly,Mackey,42
+10,Clyde,Jimmy,5
+11,Jimmy,Kenny,3
+12,Clyde,Kenny,12
+13,Kenny,Wendy,1
+14,Butters,Tolkien,1
+15,Butters,Cartman,4
+16,Butters,Stan,2
+17,Butters,Clyde,1
+18,Butters,Kyle,1
+19,Butters,Jimmy,1
+20,Butters,Craig,1
+21,Butters,Wendy,1
+22,Cartman,Tolkien,4
+23,Stan,Tolkien,2
+24,Clyde,Tolkien,1
+25,Kyle,Tolkien,1
+26,Jimmy,Tolkien,1
+27,Craig,Tolkien,1
+28,Tolkien,Wendy,1
+29,Cartman,Clyde,4
+30,Cartman,Jimmy,4
+31,Cartman,Craig,4
+32,Cartman,Wendy,4
+33,Clyde,Stan,2
+34,Jimmy,Stan,2
+35,Craig,Stan,2
+36,Stan,Wendy,2
+37,Clyde,Kyle,1
+38,Clyde,Craig,1
+39,Clyde,Wendy,1
+40,Jimmy,Kyle,1
+41,Craig,Kyle,1
+42,Kyle,Wendy,1
+43,Craig,Jimmy,1
+44,Jimmy,Wendy,1
+45,Craig,Wendy,1
+46,Jimbo,Sgt. Yates,1
+47,Sgt. Yates,Stephen,1
+48,Sgt. Yates,Townsfolk,1
+49,Mackey,Sgt. Yates,1
+50,Sgt. Yates,Townsman,1
+51,Jimbo,Stephen,13
+52,Jimbo,Townsfolk,1
+53,Jimbo,Mackey,1
+54,Jimbo,Townsman,1
+55,Stephen,Townsfolk,1
+56,Mackey,Stephen,1
+57,Stephen,Townsman,1
+58,Mackey,Townsfolk,1
+59,Townsfolk,Townsman,1
+60,Mackey,Townsman,1
+61,Associate,Mackey,1
+62,Kenny,Mackey,48
+63,Randy,Stephen,16
+64,Linda,Stephen,6
+65,Linda,Randy,4
+66,Kyle,Richard,1
+67,Cartman,Richard,1
+68,Guard,Mackey,12
+69,Guard,Kenny,6

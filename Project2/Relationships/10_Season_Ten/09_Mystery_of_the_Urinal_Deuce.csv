@@ -14,15 +14,15 @@
 12,Cartman,Jimmy,2
 13,Jimmy,Kyle,1
 14,Cartman,Kyle,92
-15,Mr. Mackey,Officer 1,1
-16,Frank,Joe,59
-17,Kyle,Sheila,4
-18,Principal Victoria,Skeeter,2
-19,Other men,Principal Victoria,2
-20,Mr. Adler,Principal Victoria,1
-21,Mr. Mackey,Principal Victoria,6
-22,Principal Victoria,Sheila,1
-23,Jimbo,Principal Victoria,1
+15,Frank,Joe,59
+16,Kyle,Sheila,4
+17,Principal Victoria,Skeeter,2
+18,Other men,Principal Victoria,2
+19,Mr. Adler,Principal Victoria,1
+20,Mr. Mackey,Principal Victoria,6
+21,Principal Victoria,Sheila,1
+22,Jimbo,Principal Victoria,1
+23,Principal Victoria,Randy,1
 24,Principal Victoria,Richard,1
 25,Det. Yates,Principal Victoria,1
 26,Other men,Skeeter,4
@@ -30,74 +30,76 @@
 28,Mr. Mackey,Skeeter,8
 29,Sheila,Skeeter,2
 30,Jimbo,Skeeter,2
-31,Richard,Skeeter,2
-32,Det. Yates,Skeeter,2
-33,Mr. Adler,Other men,2
-34,Mr. Mackey,Other men,8
-35,Other men,Sheila,2
-36,Jimbo,Other men,2
-37,Other men,Richard,2
-38,Det. Yates,Other men,2
-39,Mr. Adler,Mr. Mackey,4
-40,Mr. Adler,Sheila,1
-41,Jimbo,Mr. Adler,1
-42,Mr. Adler,Richard,1
-43,Det. Yates,Mr. Adler,1
-44,Mr. Mackey,Sheila,4
-45,Jimbo,Mr. Mackey,4
-46,Mr. Mackey,Richard,4
-47,Det. Yates,Mr. Mackey,4
-48,Jimbo,Sheila,1
-49,Richard,Sheila,1
-50,Det. Yates,Sheila,1
-51,Jimbo,Richard,1
-52,Det. Yates,Jimbo,1
-53,Det. Yates,Richard,1
-54,Det. Yates,Frank,5
-55,Det. Yates,Joe,5
-56,Mr. Mackey,Mrs. Garrison,2
-57,Kyle,Man,8
-58,911truth man,Man,8
-59,Man,Stan,1
-60,911truth man,Kyle,85
-61,911truth man,Stan,27
-62,Clyde,Mr. Mackey,2
-63,Clyde,Principal Victoria,1
-64,Clyde,Mr. Donovan,1
-65,Mr. Donovan,Mr. Mackey,2
-66,Mr. Donovan,Principal Victoria,1
-67,Bush,Kyle,80
-68,Kyle,Rumsfeld,10
-69,Cheney,Kyle,5
-70,911truth man,Bush,30
-71,Bush,Stan,77
-72,Bush,Rumsfeld,20
-73,Bush,Cheney,10
-74,911truth man,Rumsfeld,6
-75,911truth man,Cheney,3
-76,Rumsfeld,Stan,10
-77,Cheney,Stan,5
-78,Cheney,Rumsfeld,2
-79,Kyle,Man 1,3
-80,Kyle,Man 2,3
-81,Man 1,Stan,2
-82,Man 2,Stan,2
-83,Man 1,Man 2,1
-84,Bearded man,Kyle,26
-85,911truth man,Bearded man,4
-86,Bearded man,Stan,22
-87,Frank,Stan,36
-88,Mr. Hardly,Stan,63
-89,Joe,Stan,9
-90,Bearded man,Frank,8
-91,Bearded man,Mr. Hardly,14
-92,Bearded man,Joe,2
-93,Bearded man,Bush,6
-94,Frank,Kyle,40
-95,Kyle,Mr. Hardly,70
-96,Joe,Kyle,10
-97,Frank,Mr. Hardly,28
-98,Bush,Frank,12
-99,Joe,Mr. Hardly,7
-100,Bush,Mr. Hardly,21
-101,Bush,Joe,3
+31,Randy,Skeeter,2
+32,Richard,Skeeter,2
+33,Det. Yates,Skeeter,2
+34,Mr. Adler,Other men,2
+35,Mr. Mackey,Other men,8
+36,Other men,Sheila,2
+37,Jimbo,Other men,2
+38,Other men,Randy,2
+39,Other men,Richard,2
+40,Det. Yates,Other men,2
+41,Mr. Adler,Mr. Mackey,4
+42,Mr. Adler,Sheila,1
+43,Jimbo,Mr. Adler,1
+44,Mr. Adler,Randy,1
+45,Mr. Adler,Richard,1
+46,Det. Yates,Mr. Adler,1
+47,Mr. Mackey,Sheila,4
+48,Jimbo,Mr. Mackey,4
+49,Mr. Mackey,Randy,4
+50,Mr. Mackey,Richard,4
+51,Det. Yates,Mr. Mackey,4
+52,Jimbo,Sheila,1
+53,Randy,Sheila,1
+54,Richard,Sheila,1
+55,Det. Yates,Sheila,1
+56,Jimbo,Randy,1
+57,Jimbo,Richard,1
+58,Det. Yates,Jimbo,1
+59,Randy,Richard,1
+60,Det. Yates,Randy,2
+61,Det. Yates,Richard,1
+62,Det. Yates,Frank,5
+63,Frank,Randy,5
+64,Det. Yates,Joe,5
+65,Joe,Randy,5
+66,Mr. Mackey,Mrs. Garrison,2
+67,911truth man,Kyle,85
+68,911truth man,Stan,27
+69,Clyde,Mr. Mackey,2
+70,Clyde,Principal Victoria,1
+71,Clyde,Mr. Donovan,1
+72,Mr. Donovan,Mr. Mackey,2
+73,Mr. Donovan,Principal Victoria,1
+74,Bush,Kyle,80
+75,Kyle,Rumsfeld,10
+76,Cheney,Kyle,5
+77,911truth man,Bush,30
+78,Bush,Stan,77
+79,Bush,Rumsfeld,20
+80,Bush,Cheney,10
+81,911truth man,Rumsfeld,6
+82,911truth man,Cheney,3
+83,Rumsfeld,Stan,10
+84,Cheney,Stan,5
+85,Cheney,Rumsfeld,2
+86,Bearded man,Kyle,26
+87,911truth man,Bearded man,4
+88,Bearded man,Stan,22
+89,Frank,Stan,36
+90,Mr. Hardly,Stan,63
+91,Joe,Stan,9
+92,Bearded man,Frank,8
+93,Bearded man,Mr. Hardly,14
+94,Bearded man,Joe,2
+95,Bearded man,Bush,6
+96,Frank,Kyle,40
+97,Kyle,Mr. Hardly,70
+98,Joe,Kyle,10
+99,Frank,Mr. Hardly,28
+100,Bush,Frank,12
+101,Joe,Mr. Hardly,7
+102,Bush,Mr. Hardly,21
+103,Bush,Joe,3

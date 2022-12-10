@@ -1,88 +1,108 @@
 ,source,target,weight
-0,Mayor,Mayor McDaniels,6
-1,Cartman,Kyle,6
-2,Jason,Kyle,4
-3,Cartman,Jason,6
-4,Shelly,Stan,16
-5,Sharon,Shelly,20
-6,Sharon,Stan,16
-7,Garrison,Giuliani,18
-8,Sharon,Sheila,8
-9,Sheila,Shelly,2
-10,Linda Black,Sheila,2
-11,Bob,Sheila,4
-12,Mrs. White,Sheila,2
-13,Butters,Sheila,4
-14,Cartman,Sheila,4
-15,Linda Black,Sharon,4
-16,Bob,Sharon,8
-17,Mrs. White,Sharon,4
-18,Butters,Sharon,8
-19,Cartman,Sharon,8
-20,Linda Black,Shelly,1
-21,Bob,Shelly,2
-22,Mrs. White,Shelly,1
-23,Butters,Shelly,2
-24,Cartman,Shelly,2
-25,Bob,Linda Black,2
-26,Linda Black,Mrs. White,1
-27,Butters,Linda Black,2
-28,Cartman,Linda Black,2
-29,Bob,Mrs. White,64
-30,Bob,Butters,4
-31,Bob,Cartman,4
-32,Butters,Mrs. White,2
-33,Cartman,Mrs. White,3
-34,Butters,Cartman,4
-35,Bob,Jeff,32
-36,Baja Shepherd,Bob,4
-37,Bob,Mexican,4
-38,Jeff,Mrs. White,16
-39,Baja Shepherd,Jeff,6
-40,Jeff,Mexican,6
-41,Baja Shepherd,Mrs. White,2
-42,Mexican,Mrs. White,2
-43,Baja Shepherd,Mexican,1
-44,Crystal,Mrs. White,10
-45,Anchor,Mrs. White,5
-46,Giuliani,Mrs. White,5
-47,Mr. White,Mrs. White,5
-48,Bob,Crystal,18
-49,Anchor,Bob,6
-50,Bob,Giuliani,7
-51,Bob,Mr. White,6
-52,Anchor,Crystal,1
-53,Crystal,Giuliani,1
-54,Crystal,Mr. White,1
-55,Anchor,Giuliani,1
-56,Anchor,Mr. White,1
-57,Giuliani,Mr. White,1
-58,Bob,Panamanian,4
-59,Jeff,Panamanian,2
-60,Mrs. White,Panamanian,2
-61,Giuliani,Officer Peterson,3
-62,Crowd,Field reporter,1
-63,Crowd,The Whites,1
-64,Crowd,Mrs. White,1
-65,Bob,Crowd,5
-66,Crowd,Crystal,2
-67,Field reporter,The Whites,1
-68,Field reporter,Mrs. White,1
-69,Bob,Field reporter,4
-70,Crystal,Field reporter,2
-71,Mrs. White,The Whites,1
-72,Bob,The Whites,4
-73,Crystal,The Whites,2
-74,Crowd,Giuliani,1
-75,Giuliani,Man with orange shirt,1
-76,Giuliani,Townswoman,1
-77,Giuliani,Officer 2,1
-78,Crowd,Man with orange shirt,1
-79,Crowd,Townswoman,1
-80,Crowd,Officer 2,1
-81,Man with orange shirt,Townswoman,1
-82,Man with orange shirt,Officer 2,1
-83,Bob,Man with orange shirt,1
-84,Officer 2,Townswoman,1
-85,Bob,Townswoman,1
-86,Bob,Officer 2,1
+0,Mayor McDaniels,Randy,6
+1,Mayor,Mayor McDaniels,6
+2,Mayor,Randy,36
+3,Cartman,Kyle,6
+4,Jason,Kyle,4
+5,Cartman,Jason,6
+6,Shelly,Stan,16
+7,Sharon,Shelly,20
+8,Sharon,Stan,16
+9,Garrison,Randy,63
+10,Giuliani,Randy,29
+11,Garrison,Giuliani,18
+12,Sharon,Sheila,8
+13,Sheila,Shelly,2
+14,Linda Black,Sheila,2
+15,Bob,Sheila,4
+16,Mrs. White,Sheila,2
+17,Butters,Sheila,4
+18,Cartman,Sheila,4
+19,Linda Black,Sharon,4
+20,Bob,Sharon,8
+21,Mrs. White,Sharon,4
+22,Butters,Sharon,8
+23,Cartman,Sharon,8
+24,Linda Black,Shelly,1
+25,Bob,Shelly,2
+26,Mrs. White,Shelly,1
+27,Butters,Shelly,2
+28,Cartman,Shelly,2
+29,Bob,Linda Black,2
+30,Linda Black,Mrs. White,1
+31,Butters,Linda Black,2
+32,Cartman,Linda Black,2
+33,Bob,Mrs. White,64
+34,Bob,Butters,4
+35,Bob,Cartman,4
+36,Butters,Mrs. White,2
+37,Cartman,Mrs. White,3
+38,Butters,Cartman,4
+39,Bob,Jeff,32
+40,Baja Shepherd,Bob,4
+41,Bob,Mexican,4
+42,Jeff,Mrs. White,16
+43,Baja Shepherd,Jeff,6
+44,Jeff,Mexican,6
+45,Baja Shepherd,Mrs. White,2
+46,Mexican,Mrs. White,2
+47,Baja Shepherd,Mexican,1
+48,Doctor,Randy,16
+49,Alejandro,Mrs. White,17
+50,Alejandro,Bob,29
+51,Alejandro,Crystal,7
+52,Alejandro,Anchor,2
+53,Alejandro,Giuliani,3
+54,Alejandro,Mr. White,2
+55,Crystal,Mrs. White,10
+56,Anchor,Mrs. White,5
+57,Giuliani,Mrs. White,5
+58,Mr. White,Mrs. White,5
+59,Bob,Crystal,18
+60,Anchor,Bob,6
+61,Bob,Giuliani,7
+62,Bob,Mr. White,6
+63,Anchor,Crystal,1
+64,Crystal,Giuliani,1
+65,Crystal,Mr. White,1
+66,Anchor,Giuliani,1
+67,Anchor,Mr. White,1
+68,Giuliani,Mr. White,1
+69,Bob,Panamanian,4
+70,Jeff,Panamanian,2
+71,Alejandro,Jeff,2
+72,Alejandro,Panamanian,1
+73,Mrs. White,Panamanian,2
+74,Officer Peterson,Randy,4
+75,Giuliani,Officer Peterson,3
+76,Crowd,Field reporter,1
+77,Crowd,The Whites,1
+78,Crowd,Mrs. White,1
+79,Bob,Crowd,5
+80,Crowd,Crystal,2
+81,Alejandro,Crowd,3
+82,Field reporter,The Whites,1
+83,Field reporter,Mrs. White,1
+84,Bob,Field reporter,4
+85,Crystal,Field reporter,2
+86,Alejandro,Field reporter,2
+87,Mrs. White,The Whites,1
+88,Bob,The Whites,4
+89,Crystal,The Whites,2
+90,Alejandro,The Whites,2
+91,Crowd,Randy,3
+92,Man with orange shirt,Randy,3
+93,Randy,Townswoman,3
+94,Bob,Randy,3
+95,Alejandro,Randy,3
+96,Crowd,Giuliani,1
+97,Giuliani,Man with orange shirt,1
+98,Giuliani,Townswoman,1
+99,Crowd,Man with orange shirt,1
+100,Crowd,Townswoman,1
+101,Man with orange shirt,Townswoman,1
+102,Bob,Man with orange shirt,1
+103,Alejandro,Man with orange shirt,1
+104,Bob,Townswoman,1
+105,Alejandro,Townswoman,1
+106,Randy,Reporter,1

@@ -22,90 +22,85 @@
 20,Tolkien,Wendy,5
 21,Kenny,Kyle,14
 22,Cartman,Kenny,25
-23,Mr. Adler,Woman,2
-24,Mr. Garrison,Woman,5
-25,Principal Victoria,Woman,5
-26,Mr. Mackey,Woman,5
-27,Coach,Woman,1
-28,Mr. Adler,Mr. Garrison,10
-29,Mr. Adler,Principal Victoria,10
-30,Mr. Adler,Mr. Mackey,10
-31,Coach,Mr. Adler,2
-32,Mr. Garrison,Principal Victoria,27
-33,Mr. Garrison,Mr. Mackey,28
-34,Coach,Mr. Garrison,5
-35,Mr. Mackey,Principal Victoria,25
-36,Coach,Principal Victoria,5
-37,Coach,Mr. Mackey,5
-38,Kenny,Stan,9
-39,DJ,Kyle,26
-40,Kyle,Scott,5
-41,Kyle,Principal Victoria,4
-42,Kyle,Mark,2
-43,Kyle,Mr. Garrison,2
-44,Cartman,DJ,43
-45,Cartman,Scott,7
-46,Cartman,Principal Victoria,10
-47,Cartman,Mark,5
-48,Cartman,Mr. Garrison,5
-49,DJ,Stan,33
-50,DJ,Scott,11
-51,Craig,DJ,29
-52,DJ,Principal Victoria,14
-53,DJ,Mark,7
-54,DJ,Mr. Garrison,7
-55,Scott,Stan,6
-56,Principal Victoria,Stan,6
-57,Mark,Stan,3
-58,Mr. Garrison,Stan,3
-59,Craig,Scott,5
-60,Principal Victoria,Scott,2
-61,Mark,Scott,1
-62,Mr. Garrison,Scott,1
-63,Craig,Principal Victoria,6
-64,Craig,Mark,3
-65,Craig,Mr. Garrison,3
-66,Mark,Principal Victoria,2
-67,Mark,Mr. Garrison,1
-68,John Garner,Mr. Garrison,4
-69,John Garner,Mr. Mackey,12
-70,Mr. Garrison,Stephen,4
-71,Sharon,Stan,8
-72,Researcher,Tom Vilsack,13
-73,Worker 1,Worker 2,6
-74,Sharon,Worker 1,3
-75,Shelly,Worker 1,3
-76,Sharon,Worker 2,2
-77,Shelly,Worker 2,2
-78,Sharon,Shelly,1
-79,A Quarantine,Soldier,2
-80,Mr. Garrison,Soldier,2
-81,A Quarantine,Mr. Garrison,1
-82,Agent,Tom Vilsack,4
-83,FDA agent 1,Tom Vilsack,4
-84,Michael Taylor,Tom Vilsack,17
-85,Agent,Researcher,1
-86,FDA agent 1,Researcher,1
-87,Michael Taylor,Researcher,2
-88,Agent,FDA agent 1,1
-89,Agent,Michael Taylor,2
-90,FDA agent 1,Michael Taylor,2
-91,Soldier 2,Stan,10
-92,Aunt Jemima,Tolkien,6
-93,Aunt Jemima,Jimmy,6
-94,Aunt Jemima,Cartman,42
-95,Blond,Mr. Garrison,18
-96,DJ,Jamie,4
-97,DJ,Wendy,20
-98,Craig,Jamie,2
-99,Jamie,Kyle,3
-100,Jamie,Wendy,5
-101,Jamie,Stan,3
-102,Jamie,Scott,1
-103,Cartman,Jamie,2
-104,Scott,Wendy,5
-105,Cartman,Tom Vilsack,36
-106,Programmer,Tom Vilsack,9
-107,Cartman,Programmer,4
-108,Cartman,Michael Taylor,4
-109,Michael Taylor,Programmer,1
+23,Mr. Adler,Mr. Garrison,10
+24,Mr. Adler,Principal Victoria,10
+25,Mr. Adler,Mr. Mackey,10
+26,Coach,Mr. Adler,2
+27,Mr. Garrison,Principal Victoria,27
+28,Mr. Garrison,Mr. Mackey,28
+29,Coach,Mr. Garrison,5
+30,Mr. Mackey,Principal Victoria,25
+31,Coach,Principal Victoria,5
+32,Coach,Mr. Mackey,5
+33,Kenny,Stan,9
+34,DJ,Kyle,26
+35,Kyle,Scott,5
+36,Kyle,Principal Victoria,4
+37,Kyle,Mark,2
+38,Kyle,Mr. Garrison,2
+39,Cartman,DJ,43
+40,Cartman,Scott,7
+41,Cartman,Principal Victoria,10
+42,Cartman,Mark,5
+43,Cartman,Mr. Garrison,5
+44,DJ,Stan,33
+45,DJ,Scott,11
+46,Craig,DJ,29
+47,DJ,Principal Victoria,14
+48,DJ,Mark,7
+49,DJ,Mr. Garrison,7
+50,Scott,Stan,6
+51,Principal Victoria,Stan,6
+52,Mark,Stan,3
+53,Mr. Garrison,Stan,3
+54,Craig,Scott,5
+55,Principal Victoria,Scott,2
+56,Mark,Scott,1
+57,Mr. Garrison,Scott,1
+58,Craig,Principal Victoria,6
+59,Craig,Mark,3
+60,Craig,Mr. Garrison,3
+61,Mark,Principal Victoria,2
+62,Mark,Mr. Garrison,1
+63,John Garner,Randy,4
+64,Mr. Garrison,Randy,18
+65,Mr. Mackey,Randy,3
+66,John Garner,Mr. Garrison,4
+67,John Garner,Mr. Mackey,12
+68,Mr. Garrison,Stephen,4
+69,Randy,Sharon,70
+70,Sharon,Stan,8
+71,Randy,Stan,38
+72,Farmer,Randy,1
+73,Researcher,Tom Vilsack,13
+74,Randy,Shelly,6
+75,Sharon,Shelly,1
+76,Randy,Soldier,4
+77,A Quarantine,Soldier,2
+78,Mr. Garrison,Soldier,2
+79,A Quarantine,Randy,2
+80,A Quarantine,Mr. Garrison,1
+81,Agent,Tom Vilsack,4
+82,Michael Taylor,Tom Vilsack,17
+83,Agent,Researcher,1
+84,Michael Taylor,Researcher,2
+85,Agent,Michael Taylor,2
+86,Aunt Jemima,Tolkien,6
+87,Aunt Jemima,Jimmy,6
+88,Aunt Jemima,Cartman,42
+89,Blond,Mr. Garrison,18
+90,Blond,Randy,30
+91,DJ,Jamie,4
+92,DJ,Wendy,20
+93,Craig,Jamie,2
+94,Jamie,Kyle,3
+95,Jamie,Wendy,5
+96,Jamie,Stan,3
+97,Jamie,Scott,1
+98,Cartman,Jamie,2
+99,Scott,Wendy,5
+100,Cartman,Tom Vilsack,36
+101,Programmer,Tom Vilsack,9
+102,Cartman,Programmer,4
+103,Cartman,Michael Taylor,4
+104,Michael Taylor,Programmer,1

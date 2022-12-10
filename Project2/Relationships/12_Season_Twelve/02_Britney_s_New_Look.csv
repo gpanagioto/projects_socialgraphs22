@@ -1,213 +1,142 @@
 ,source,target,weight
-0,Cartman,Moderator,1
-1,Barack Obama,Cartman,1
-2,Barack Obama,Moderator,1
-3,Anchorman,Butters,4
-4,Butters,Robert Pooner,16
-5,Butters,Cartman,16
-6,Butters,Ron,12
-7,Butters,Kyle,25
-8,Butters,Hillary Clinton,4
-9,Butters,Stan,22
-10,Anchorman,Robert Pooner,4
-11,Anchorman,Cartman,3
-12,Anchorman,Ron,3
-13,Anchorman,Kyle,3
-14,Anchorman,Hillary Clinton,1
-15,Anchorman,Stan,2
-16,Cartman,Robert Pooner,12
-17,Robert Pooner,Ron,22
-18,Kyle,Robert Pooner,12
-19,Hillary Clinton,Robert Pooner,4
-20,Robert Pooner,Stan,8
-21,Cartman,Ron,9
-22,Cartman,Kyle,14
-23,Cartman,Hillary Clinton,3
-24,Cartman,Stan,11
-25,Kyle,Ron,9
-26,Hillary Clinton,Ron,3
-27,Ron,Stan,6
-28,Hillary Clinton,Kyle,3
-29,Kyle,Stan,74
-30,Hillary Clinton,Stan,2
-31,Photographer 1,Photographer 2,1
-32,Cartman,Photographer 1,1
-33,Guard,Photographer 1,2
-34,Kyle,Photographer 1,1
-35,Photographer 1,Stan,1
-36,Butters,Photographer 1,1
-37,Cartman,Photographer 2,1
-38,Guard,Photographer 2,2
-39,Kyle,Photographer 2,1
-40,Photographer 2,Stan,1
-41,Butters,Photographer 2,1
-42,Cartman,Guard,4
-43,Guard,Kyle,10
-44,Guard,Stan,10
-45,Butters,Guard,8
-46,Britney,Guard,10
-47,Guard,The Boys,2
-48,Britney,Kyle,27
-49,Britney,Stan,37
-50,Britney,The Boys,5
-51,Britney,Butters,15
-52,Britney,Cartman,5
-53,Kyle,The Boys,4
-54,Stan,The Boys,4
-55,Butters,The Boys,3
-56,Cartman,The Boys,1
-57,Doctor,Stan,24
-58,Doctor,Kyle,22
-59,Anchorman,Reporter,1
-60,Chris,Reporter,1
-61,Anchorman,Chris,1
-62,Doctor,Manager,5
-63,Britney,Doctor,5
-64,Doctor,Paparazzo,2
-65,Britney,Manager,11
-66,Manager,Paparazzo,2
-67,Manager,Stan,18
-68,Britney,Paparazzo,2
-69,Paparazzo,Stan,3
-70,Photographer 3,Photographer 4,1
-71,Kyle,Photographer 3,2
-72,Photographer 3,Stan,2
-73,Manager,Photographer 3,2
-74,Kyle,Photographer 4,2
-75,Photographer 4,Stan,2
-76,Manager,Photographer 4,2
-77,Kyle,Manager,16
-78,Bruce,Kyle,4
-79,Female aide,Kyle,1
-80,Kyle,Male aide,1
-81,Bruce,Female aide,4
-82,Bruce,Male aide,4
-83,Bruce,Stan,12
-84,Bruce,Manager,8
-85,Britney,Bruce,12
-86,Female aide,Male aide,1
-87,Female aide,Stan,3
-88,Female aide,Manager,2
-89,Britney,Female aide,3
-90,Male aide,Stan,3
-91,Male aide,Manager,2
-92,Britney,Male aide,3
-93,Kyle,VJ,1
-94,VJ,Woman,1
-95,Singers,VJ,2
-96,Man,VJ,1
-97,Stan,VJ,1
-98,Kyle,Woman,5
-99,Kyle,Singers,2
-100,Kyle,Man,5
-101,Singers,Woman,2
-102,Man,Woman,2
-103,Stan,Woman,1
-104,Man,Singers,2
-105,Singers,Stan,2
-106,Man,Stan,1
-107,Clerk,Stan,1
-108,Anchorwoman,Ron,5
-109,Leslie,Ron,5
-110,Ron,Tracy,5
-111,Anchorwoman,Robert Pooner,2
-112,Leslie,Robert Pooner,2
-113,Robert Pooner,Tracy,2
-114,Anchorwoman,Leslie,1
-115,Anchorwoman,Tracy,1
-116,Leslie,Tracy,1
-117,Kyle,Paparazzo,1
-118,Kyle,Reporter,3
-119,Manager,Reporter,2
-120,Paparazzo 6,Reporter,1
-121,Officer,Reporter,1
-122,Kyle,Paparazzo 6,3
-123,Kyle,Officer,3
-124,Manager,Paparazzo 6,2
-125,Manager,Officer,2
-126,Officer,Paparazzo 6,1
-127,Conductor,Stan,1
-128,Bob Summers,Kyle,16
-129,Kyle,Paparazzo 8,4
-130,Kyle,Paparazzo 10,4
-131,Canadian Paparazzo,Kyle,8
-132,Bob Summers,Paparazzo 8,2
-133,Bob Summers,Paparazzo 10,2
-134,Bob Summers,Canadian Paparazzo,4
-135,Bob Summers,Woman,2
-136,Bob Summers,Man,2
-137,Paparazzo 10,Paparazzo 8,1
-138,Canadian Paparazzo,Paparazzo 8,1
-139,Paparazzo 8,Woman,1
-140,Man,Paparazzo 8,1
-141,Canadian Paparazzo,Paparazzo 10,1
-142,Paparazzo 10,Woman,1
-143,Man,Paparazzo 10,1
-144,Canadian Paparazzo,Woman,1
-145,Canadian Paparazzo,Man,1
-146,Gerald,Stan,6
-147,Canadian Paparazzo,Stan,6
-148,Paparazzo 12,Stan,6
-149,Farmer,Stan,6
-150,Bob Summers,Stan,12
-151,Stan,Woman 2,6
-152,Stan,Woman 3,6
-153,Mother,Stan,6
-154,Britney,Gerald,1
-155,Britney,Canadian Paparazzo,1
-156,Britney,Paparazzo 12,1
-157,Britney,Farmer,1
-158,Bob Summers,Britney,2
-159,Britney,Woman 2,1
-160,Britney,Woman 3,1
-161,Britney,Mother,1
-162,Gerald,Kyle,4
-163,Kyle,Paparazzo 12,4
-164,Farmer,Kyle,4
-165,Kyle,Woman 2,4
-166,Kyle,Woman 3,4
-167,Kyle,Mother,4
-168,Canadian Paparazzo,Gerald,1
-169,Gerald,Manager,1
-170,Gerald,Paparazzo 12,1
-171,Farmer,Gerald,1
-172,Bob Summers,Gerald,2
-173,Gerald,Woman 2,1
-174,Gerald,Woman 3,1
-175,Gerald,Mother,1
-176,Doctor,Gerald,1
-177,Canadian Paparazzo,Manager,1
-178,Canadian Paparazzo,Paparazzo 12,1
-179,Canadian Paparazzo,Farmer,1
-180,Canadian Paparazzo,Woman 2,1
-181,Canadian Paparazzo,Woman 3,1
-182,Canadian Paparazzo,Mother,1
-183,Canadian Paparazzo,Doctor,1
-184,Manager,Paparazzo 12,1
-185,Farmer,Manager,1
-186,Bob Summers,Manager,2
-187,Manager,Woman 2,1
-188,Manager,Woman 3,1
-189,Manager,Mother,1
-190,Farmer,Paparazzo 12,1
-191,Bob Summers,Paparazzo 12,2
-192,Paparazzo 12,Woman 2,1
-193,Paparazzo 12,Woman 3,1
-194,Mother,Paparazzo 12,1
-195,Doctor,Paparazzo 12,1
-196,Bob Summers,Farmer,2
-197,Farmer,Woman 2,1
-198,Farmer,Woman 3,1
-199,Farmer,Mother,1
-200,Doctor,Farmer,1
-201,Bob Summers,Woman 2,2
-202,Bob Summers,Woman 3,2
-203,Bob Summers,Mother,2
-204,Bob Summers,Doctor,2
-205,Woman 2,Woman 3,1
-206,Mother,Woman 2,1
-207,Doctor,Woman 2,1
-208,Mother,Woman 3,1
-209,Doctor,Woman 3,1
-210,Doctor,Mother,1
-211,Bill,Gil,1
+0,Cartman,Randy,11
+1,Moderator,Randy,2
+2,Barack Obama,Randy,2
+3,Cartman,Moderator,1
+4,Barack Obama,Cartman,1
+5,Barack Obama,Moderator,1
+6,Butters,Randy,12
+7,Anchorman,Butters,4
+8,Butters,Robert Pooner,16
+9,Butters,Cartman,16
+10,Butters,Ron,12
+11,Butters,Kyle,25
+12,Butters,Hillary Clinton,4
+13,Butters,Stan,22
+14,Anchorman,Randy,3
+15,Randy,Robert Pooner,12
+16,Randy,Ron,9
+17,Kyle,Randy,21
+18,Hillary Clinton,Randy,3
+19,Randy,Stan,24
+20,Anchorman,Robert Pooner,4
+21,Anchorman,Cartman,3
+22,Anchorman,Ron,3
+23,Anchorman,Kyle,3
+24,Anchorman,Hillary Clinton,1
+25,Anchorman,Stan,2
+26,Cartman,Robert Pooner,12
+27,Robert Pooner,Ron,22
+28,Kyle,Robert Pooner,12
+29,Hillary Clinton,Robert Pooner,4
+30,Robert Pooner,Stan,8
+31,Cartman,Ron,9
+32,Cartman,Kyle,14
+33,Cartman,Hillary Clinton,3
+34,Cartman,Stan,11
+35,Kyle,Ron,9
+36,Hillary Clinton,Ron,3
+37,Ron,Stan,6
+38,Hillary Clinton,Kyle,3
+39,Kyle,Stan,74
+40,Hillary Clinton,Stan,2
+41,Cartman,Guard,4
+42,Guard,Kyle,10
+43,Guard,Stan,10
+44,Butters,Guard,8
+45,Britney,Guard,10
+46,Guard,The Boys,2
+47,Britney,Kyle,27
+48,Britney,Stan,37
+49,Britney,The Boys,5
+50,Britney,Butters,15
+51,Britney,Cartman,5
+52,Kyle,The Boys,4
+53,Stan,The Boys,4
+54,Butters,The Boys,3
+55,Cartman,The Boys,1
+56,Doctor,Stan,24
+57,Doctor,Kyle,22
+58,Anchorman,Reporter,1
+59,Chris,Reporter,1
+60,Anchorman,Chris,1
+61,Doctor,Manager,5
+62,Britney,Doctor,5
+63,Doctor,Paparazzo,2
+64,Britney,Manager,11
+65,Manager,Paparazzo,2
+66,Manager,Stan,18
+67,Britney,Paparazzo,2
+68,Paparazzo,Stan,3
+69,Kyle,Manager,16
+70,Bruce,Kyle,4
+71,Female aide,Kyle,1
+72,Kyle,Male aide,1
+73,Bruce,Female aide,4
+74,Bruce,Male aide,4
+75,Bruce,Stan,12
+76,Bruce,Manager,8
+77,Britney,Bruce,12
+78,Female aide,Male aide,1
+79,Female aide,Stan,3
+80,Female aide,Manager,2
+81,Britney,Female aide,3
+82,Male aide,Stan,3
+83,Male aide,Manager,2
+84,Britney,Male aide,3
+85,Kyle,VJ,1
+86,Singers,VJ,2
+87,Stan,VJ,1
+88,Kyle,Singers,2
+89,Singers,Stan,2
+90,Clerk,Stan,1
+91,Anchorwoman,Ron,5
+92,Leslie,Ron,5
+93,Ron,Tracy,5
+94,Anchorwoman,Robert Pooner,2
+95,Leslie,Robert Pooner,2
+96,Robert Pooner,Tracy,2
+97,Anchorwoman,Leslie,1
+98,Anchorwoman,Tracy,1
+99,Leslie,Tracy,1
+100,Kyle,Paparazzo,1
+101,Kyle,Reporter,3
+102,Manager,Reporter,2
+103,Officer,Reporter,1
+104,Kyle,Officer,3
+105,Manager,Officer,2
+106,Conductor,Stan,1
+107,Bob Summers,Kyle,16
+108,Gerald,Stan,6
+109,Farmer,Stan,6
+110,Bob Summers,Stan,12
+111,Mother,Stan,6
+112,Britney,Gerald,1
+113,Britney,Randy,3
+114,Britney,Farmer,1
+115,Bob Summers,Britney,2
+116,Britney,Mother,1
+117,Gerald,Kyle,4
+118,Farmer,Kyle,4
+119,Kyle,Mother,4
+120,Gerald,Randy,3
+121,Gerald,Manager,1
+122,Farmer,Gerald,1
+123,Bob Summers,Gerald,2
+124,Gerald,Mother,1
+125,Doctor,Gerald,1
+126,Manager,Randy,3
+127,Farmer,Randy,3
+128,Bob Summers,Randy,6
+129,Mother,Randy,3
+130,Doctor,Randy,3
+131,Farmer,Manager,1
+132,Bob Summers,Manager,2
+133,Manager,Mother,1
+134,Bob Summers,Farmer,2
+135,Farmer,Mother,1
+136,Doctor,Farmer,1
+137,Bob Summers,Mother,2
+138,Bob Summers,Doctor,2
+139,Doctor,Mother,1
+140,Bill,Gil,1

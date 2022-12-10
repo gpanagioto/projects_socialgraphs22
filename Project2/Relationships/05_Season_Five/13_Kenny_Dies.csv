@@ -1,91 +1,80 @@
 ,source,target,weight
-0,Kyle,Stan,100
-1,Kenny,Kyle,59
-2,Butters,Kyle,20
-3,Kenny,Stan,21
-4,Butters,Stan,20
-5,Butters,Kenny,10
-6,Cartman,Stan,62
-7,Cartman,Kyle,100
-8,Cartman,Kenny,29
-9,Cartman,Receptionist,15
-10,Cartman,Researcher,5
-11,Cartman,Larry,105
-12,Receptionist,Researcher,3
-13,Larry,Receptionist,9
-14,Larry,Researcher,3
-15,Kyle,Ms. Choksondik,6
-16,Ms. Choksondik,Stan,2
-17,Mr. Mackey,Stan,12
-18,Chef,Stan,26
-19,Sharon,Stan,12
-20,Gerald,Stan,6
-21,Kyle,Mr. Mackey,6
-22,Chef,Kyle,7
-23,Kyle,Sharon,6
-24,Gerald,Kyle,3
-25,Chef,Mr. Mackey,2
-26,Mr. Mackey,Sharon,4
-27,Gerald,Mr. Mackey,2
-28,Chef,Sharon,2
-29,Chef,Gerald,1
-30,Gerald,Sharon,2
-31,Cartman,Liane,5
-32,Butters,Cartman,20
-33,Butters,Liane,4
-34,Kyle,Sheila,2
-35,Cartman,Sheila,3
-36,Sheila,Stan,1
-37,Doctor,Kenny,6
-38,Kenny,Nurse,11
-39,Doctor,Nurse,2
-40,Doctor,Kyle,6
-41,Cartman,Doctor,4
-42,Doctor,Stan,2
-43,Kyle,Nurse,7
-44,Cartman,Nurse,3
-45,Nurse,Stan,1
-46,Chef,Kenny,7
-47,Chef,Nurse,1
-48,Chef,Woman,1
-49,Bob,Chef,5
-50,Chef,Ms. McCormick,1
-51,Chef,Laura,4
-52,Chef,Madonna,1
-53,Kenny,Woman,7
-54,Bob,Kenny,35
-55,Kenny,Ms. McCormick,7
-56,Kenny,Laura,28
-57,Kenny,Madonna,7
-58,Kyle,Woman,4
-59,Bob,Kyle,20
-60,Kyle,Ms. McCormick,4
-61,Kyle,Laura,16
-62,Kyle,Madonna,4
-63,Nurse,Woman,1
-64,Bob,Nurse,5
-65,Ms. McCormick,Nurse,1
-66,Laura,Nurse,4
-67,Madonna,Nurse,1
-68,Bob,Woman,5
-69,Ms. McCormick,Woman,1
-70,Laura,Woman,4
-71,Madonna,Woman,1
-72,Bob,Ms. McCormick,5
-73,Bob,Laura,20
-74,Bob,Madonna,5
-75,Laura,Ms. McCormick,4
-76,Madonna,Ms. McCormick,1
-77,Laura,Madonna,4
-78,A few Congressmen,Congressman 2,1
-79,Cartman,Woman,4
-80,Jill,Woman,1
-81,Woman,Woman 2,2
-82,Man,Woman,1
-83,Cartman,Jill,4
-84,Cartman,Woman 2,8
-85,Cartman,Man,4
-86,Jill,Woman 2,2
-87,Jill,Man,1
-88,Man,Woman 2,2
-89,Head nurse,Stan,1
+0,Doctor,Ms. Sanders,36
+1,Kyle,Stan,100
+2,Kenny,Kyle,59
+3,Butters,Kyle,20
+4,Kenny,Stan,21
+5,Butters,Stan,20
+6,Butters,Kenny,10
+7,Cartman,Stan,62
+8,Cartman,Kyle,100
+9,Cartman,Kenny,29
+10,Cartman,Receptionist,15
+11,Cartman,Researcher,5
+12,Cartman,Larry,105
+13,Receptionist,Researcher,3
+14,Larry,Receptionist,9
+15,Larry,Researcher,3
+16,Kyle,Ms. Choksondik,6
+17,Ms. Choksondik,Stan,2
+18,Mr. Mackey,Stan,12
+19,Chef,Stan,26
+20,Sharon,Stan,12
+21,Randy,Stan,6
+22,Gerald,Stan,6
+23,Kyle,Mr. Mackey,6
+24,Chef,Kyle,7
+25,Kyle,Sharon,6
+26,Kyle,Randy,3
+27,Gerald,Kyle,3
+28,Chef,Mr. Mackey,2
+29,Mr. Mackey,Sharon,4
+30,Mr. Mackey,Randy,2
+31,Gerald,Mr. Mackey,2
+32,Chef,Sharon,2
+33,Chef,Randy,1
+34,Chef,Gerald,1
+35,Randy,Sharon,2
+36,Gerald,Sharon,2
+37,Gerald,Randy,1
+38,Cartman,Liane,5
+39,Butters,Cartman,20
+40,Butters,Liane,4
+41,Kyle,Sheila,2
+42,Cartman,Sheila,3
+43,Sheila,Stan,1
+44,Doctor,Kenny,6
+45,Kenny,Nurse,11
+46,Doctor,Nurse,2
+47,Doctor,Kyle,6
+48,Cartman,Doctor,4
+49,Doctor,Stan,2
+50,Kyle,Nurse,7
+51,Cartman,Nurse,3
+52,Nurse,Stan,1
+53,Chef,Kenny,7
+54,Chef,Nurse,1
+55,Bob,Chef,5
+56,Chef,Ms. McCormick,1
+57,Chef,Laura,4
+58,Chef,Madonna,1
+59,Bob,Kenny,35
+60,Kenny,Ms. McCormick,7
+61,Kenny,Laura,28
+62,Kenny,Madonna,7
+63,Bob,Kyle,20
+64,Kyle,Ms. McCormick,4
+65,Kyle,Laura,16
+66,Kyle,Madonna,4
+67,Bob,Nurse,5
+68,Ms. McCormick,Nurse,1
+69,Laura,Nurse,4
+70,Madonna,Nurse,1
+71,Bob,Ms. McCormick,5
+72,Bob,Laura,20
+73,Bob,Madonna,5
+74,Laura,Ms. McCormick,4
+75,Madonna,Ms. McCormick,1
+76,Laura,Madonna,4
+77,Cartman,Jill,4
+78,Head nurse,Stan,1

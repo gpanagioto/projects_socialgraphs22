@@ -23,76 +23,52 @@
 21,Kenny,Stan,1
 22,Kenny,Michael,3
 23,Michael,Stan,3
-24,Aide 1,BHI President,12
-25,Aide 2,BHI President,11
-26,Aide 1,Aide 2,5
-27,Man 2,Man 3,1
-28,Man 2,Man 4,1
-29,Man 3,Man 4,1
-30,BHI President,Jennifer Lopez,20
-31,Aide 1,Jennifer Lopez,13
-32,Aide 2,Jennifer Lopez,7
-33,Ben,Jennifer Lopez,31
-34,Ben,Driver,2
-35,Driver,Jennifer Lopez,3
-36,Kyle,Mr. Garrison,8
-37,Butters,Kyle,6
-38,A boy,Kyle,2
-39,Kyle,Mr. Slave,2
-40,Cartman,Mr. Garrison,16
-41,Butters,Cartman,12
-42,A boy,Cartman,4
-43,Cartman,Mr. Slave,4
-44,Mr. Garrison,Stan,4
-45,Butters,Stan,3
-46,A boy,Stan,1
-47,Mr. Slave,Stan,1
-48,Butters,Mr. Garrison,12
-49,A boy,Mr. Garrison,4
-50,Mr. Garrison,Mr. Slave,4
-51,A boy,Butters,3
-52,Butters,Mr. Slave,3
-53,A boy,Mr. Slave,1
-54,Jennifer Lopez,Mr. Mackey,10
-55,Ben,Mr. Mackey,2
-56,Bebe,Mr. Mackey,1
-57,Jennifer Lopez,Principal Victoria,10
-58,Cartman,Jennifer Lopez,68
-59,Bebe,Jennifer Lopez,10
-60,Ben,Principal Victoria,2
-61,Bebe,Principal Victoria,1
-62,Ben,Cartman,92
-63,Bebe,Cartman,6
-64,Bebe,Ben,2
-65,Cartman,Liane,21
-66,Dr. Doctor,Liane,2
-67,Kyle,Liane,4
-68,Cartman,Dr. Doctor,2
-69,Dr. Doctor,Kyle,2
-70,Ben,Liane,8
-71,Aide 1,Ben,3
-72,Aide 1,Kyle,5
-73,Jennifer Lopez,Kyle,9
-74,BHI President,Ben,5
-75,Ben,Kyle,9
-76,BHI President,Kyle,9
-77,Aide 1,Police officer 2,4
-78,Aide 1,Mitch Conner,3
-79,Aide 1,Cartman,2
-80,Ben,Police officer 2,8
-81,Aide 2,Police officer 2,4
-82,Jennifer Lopez,Police officer 2,8
-83,BHI President,Police officer 2,8
-84,Mitch Conner,Police officer 2,12
-85,Kyle,Police officer 2,16
-86,Cartman,Police officer 2,8
-87,Aide 2,Ben,2
-88,Ben,Mitch Conner,6
-89,Aide 2,Mitch Conner,3
-90,Aide 2,Kyle,4
-91,Aide 2,Cartman,2
-92,Jennifer Lopez,Mitch Conner,6
-93,BHI President,Mitch Conner,6
-94,BHI President,Cartman,4
-95,Kyle,Mitch Conner,12
-96,Cartman,Mitch Conner,6
+24,BHI President,Jennifer Lopez,20
+25,Ben,Jennifer Lopez,31
+26,Ben,Driver,2
+27,Driver,Jennifer Lopez,3
+28,Kyle,Mr. Garrison,8
+29,Butters,Kyle,6
+30,A boy,Kyle,2
+31,Kyle,Mr. Slave,2
+32,Cartman,Mr. Garrison,16
+33,Butters,Cartman,12
+34,A boy,Cartman,4
+35,Cartman,Mr. Slave,4
+36,Mr. Garrison,Stan,4
+37,Butters,Stan,3
+38,A boy,Stan,1
+39,Mr. Slave,Stan,1
+40,Butters,Mr. Garrison,12
+41,A boy,Mr. Garrison,4
+42,Mr. Garrison,Mr. Slave,4
+43,A boy,Butters,3
+44,Butters,Mr. Slave,3
+45,A boy,Mr. Slave,1
+46,Jennifer Lopez,Mr. Mackey,10
+47,Ben,Mr. Mackey,2
+48,Bebe,Mr. Mackey,1
+49,Jennifer Lopez,Principal Victoria,10
+50,Cartman,Jennifer Lopez,68
+51,Bebe,Jennifer Lopez,10
+52,Ben,Principal Victoria,2
+53,Bebe,Principal Victoria,1
+54,Ben,Cartman,92
+55,Bebe,Cartman,6
+56,Bebe,Ben,2
+57,Cartman,Liane,21
+58,Dr. Doctor,Liane,2
+59,Kyle,Liane,4
+60,Cartman,Dr. Doctor,2
+61,Dr. Doctor,Kyle,2
+62,Ben,Liane,8
+63,Jennifer Lopez,Kyle,9
+64,BHI President,Ben,5
+65,Ben,Kyle,9
+66,BHI President,Kyle,9
+67,Ben,Mitch Conner,6
+68,Jennifer Lopez,Mitch Conner,6
+69,BHI President,Mitch Conner,6
+70,BHI President,Cartman,4
+71,Kyle,Mitch Conner,12
+72,Cartman,Mitch Conner,6

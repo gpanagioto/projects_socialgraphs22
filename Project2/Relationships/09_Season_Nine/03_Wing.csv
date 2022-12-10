@@ -14,67 +14,59 @@
 12,Cartman,Kenny,39
 13,Kenny,Tolkien,8
 14,Kenny,Kyle,24
-15,Man,Tolkien,3
-16,Mrs. Garrison,Tolkien,3
-17,Principal Victoria,Tolkien,3
-18,Man,Stan,1
-19,Cartman,Man,1
-20,Man,Mrs. Garrison,1
-21,Man,Principal Victoria,1
-22,Principal Victoria,Stan,1
-23,Cartman,Principal Victoria,1
-24,Mrs. Garrison,Principal Victoria,1
-25,Agent,Kyle,41
-26,Don,Kyle,12
-27,Agent,Cartman,44
-28,Cartman,Don,28
-29,Agent,Tolkien,10
-30,Don,Tolkien,20
-31,Agent,Kenny,2
-32,Don,Kenny,4
-33,Agent,Stan,39
-34,Don,Stan,8
-35,Agent,Don,8
-36,Kyle,Mr. Kim,14
-37,Cartman,Mr. Kim,21
-38,Mr. Kim,Stan,53
-39,Mr. Kim,Tong leader,63
-40,Stan,Tong leader,57
-41,Contestant,Kyle,14
-42,Attendant,Kyle,7
-43,Cartman,Contestant,12
-44,Attendant,Cartman,6
-45,Contestant,Stan,14
-46,Attendant,Contestant,2
-47,Agent,Contestant,10
-48,Attendant,Stan,7
-49,Agent,Attendant,5
-50,Announcer,Stallone,3
-51,Cartman,Stallone,28
-52,Kyle,Stallone,18
-53,Stallone,Stan,20
-54,Stallone,The Boys,8
-55,Announcer,Cartman,3
-56,Announcer,Kyle,2
-57,Announcer,Stan,1
-58,Announcer,The Boys,2
-59,Cartman,The Boys,28
-60,Kyle,The Boys,18
-61,Stan,The Boys,20
-62,Cartman,Producer,55
-63,Cartman,Tong leader,26
-64,Producer,Stallone,10
-65,Kenny,Stallone,4
-66,Stallone,Tong leader,2
-67,Producer,Stan,45
-68,Kyle,Producer,35
-69,Kenny,Producer,10
-70,Producer,The Boys,10
-71,Producer,Tong leader,5
-72,Kyle,Tong leader,42
-73,Kenny,The Boys,4
-74,Kenny,Tong leader,2
-75,The Boys,Tong leader,2
-76,Guard 1,Stan,1
-77,Guard 1,Kyle,1
-78,Cartman,Guard 1,2
+15,Mrs. Garrison,Tolkien,3
+16,Principal Victoria,Tolkien,3
+17,Principal Victoria,Stan,1
+18,Cartman,Principal Victoria,1
+19,Mrs. Garrison,Principal Victoria,1
+20,Agent,Kyle,41
+21,Don,Kyle,12
+22,Agent,Cartman,44
+23,Cartman,Don,28
+24,Agent,Tolkien,10
+25,Don,Tolkien,20
+26,Agent,Kenny,2
+27,Don,Kenny,4
+28,Agent,Stan,39
+29,Don,Stan,8
+30,Agent,Don,8
+31,Kyle,Mr. Kim,14
+32,Cartman,Mr. Kim,21
+33,Mr. Kim,Stan,53
+34,Mr. Kim,Tong leader,63
+35,Stan,Tong leader,57
+36,Contestant,Kyle,14
+37,Attendant,Kyle,7
+38,Cartman,Contestant,12
+39,Attendant,Cartman,6
+40,Contestant,Stan,14
+41,Attendant,Contestant,2
+42,Agent,Contestant,10
+43,Attendant,Stan,7
+44,Agent,Attendant,5
+45,Announcer,Stallone,3
+46,Cartman,Stallone,28
+47,Kyle,Stallone,18
+48,Stallone,Stan,20
+49,Stallone,The Boys,8
+50,Announcer,Cartman,3
+51,Announcer,Kyle,2
+52,Announcer,Stan,1
+53,Announcer,The Boys,2
+54,Cartman,The Boys,28
+55,Kyle,The Boys,18
+56,Stan,The Boys,20
+57,Cartman,Producer,55
+58,Cartman,Tong leader,26
+59,Producer,Stallone,10
+60,Kenny,Stallone,4
+61,Stallone,Tong leader,2
+62,Producer,Stan,45
+63,Kyle,Producer,35
+64,Kenny,Producer,10
+65,Producer,The Boys,10
+66,Producer,Tong leader,5
+67,Kyle,Tong leader,42
+68,Kenny,The Boys,4
+69,Kenny,Tong leader,2
+70,The Boys,Tong leader,2

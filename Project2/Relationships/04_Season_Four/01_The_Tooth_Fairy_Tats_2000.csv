@@ -17,100 +17,75 @@
 15,Butters,Stan,28
 16,Dr. Roberts,Liane,25
 17,Gerald,Kyle,42
-18,Boy 1,Stan,60
-19,Boy 2,Stan,27
-20,Blond,Stan,18
-21,Rich kid,Stan,18
-22,All,Stan,9
-23,Boy 1,Cartman,32
-24,Boy 2,Cartman,20
-25,Blond,Cartman,10
-26,Cartman,Rich kid,10
-27,All,Cartman,5
-28,Boy 1,Boy 2,14
-29,Boy 1,Kyle,7
-30,Blond,Boy 1,8
-31,Boy 1,Rich kid,8
-32,All,Boy 1,4
-33,Boy 2,Kyle,4
-34,Blond,Boy 2,6
-35,Boy 2,Rich kid,6
-36,All,Boy 2,3
-37,Blond,Kyle,2
-38,Kyle,Rich kid,2
-39,All,Kyle,1
-40,Blond,Rich kid,4
-41,All,Blond,2
-42,All,Rich kid,2
-43,Loogie,Stan,103
-44,Stan,The South Park boys,8
-45,Beat-up boy,Stan,8
-46,Boy 1,Loogie,31
-47,Boy 1,The South Park boys,3
-48,Beat-up boy,Boy 1,3
-49,Cartman,Loogie,62
-50,Cartman,The South Park boys,4
-51,Beat-up boy,Cartman,4
-52,Loogie,The South Park boys,10
-53,Beat-up boy,Loogie,10
-54,Kyle,Loogie,28
-55,Beat-up boy,The South Park boys,1
-56,Kyle,The South Park boys,1
-57,Beat-up boy,Kyle,1
-58,Dentist,Dr. Roberts,6
-59,Dentist,Mr. Foley,5
-60,Dr. Roberts,Mr. Foley,30
-61,Chef,The Boys,27
-62,Chef,Stan,54
-63,Cartman,Chef,18
-64,Chef,Kyle,9
-65,Stan,The Boys,18
-66,Cartman,The Boys,6
-67,Kyle,The Boys,3
-68,Loogie,Mr. Foley,31
-69,Cartman,Weasel,10
-70,Boy 2,Weasel,2
-71,Kyle,Weasel,2
-72,Boy 2,Kenny,4
-73,Kenny,Loogie,2
-74,Boy 1,Kenny,2
-75,Boy 2,Loogie,2
-76,Billy,Dan Akawa,30
-77,Dan Akawa,Mr. Circlovich,6
-78,Dan Akawa,Mr. Foley,6
-79,Cameraman,Dan Akawa,6
-80,Billy,Mr. Circlovich,8
-81,Billy,Mr. Foley,21
-82,Billy,Cameraman,5
-83,Mr. Circlovich,Mr. Foley,6
-84,Cameraman,Mr. Circlovich,1
-85,Cameraman,Mr. Foley,1
-86,Billy,Dentists,1
-87,Billy,Murphy,4
-88,Dentists,Mr. Foley,1
-89,Mr. Foley,Murphy,6
-90,Dentists,Murphy,1
-91,Cartman,Mr. Foley,17
-92,Kyle,Mr. Foley,12
-93,Mr. Foley,Stan,13
-94,A voice,Mr. Foley,5
-95,Billy,Cartman,9
-96,Billy,Kyle,6
-97,Billy,Stan,6
-98,Billy,Loogie,12
-99,A voice,Billy,3
-100,Cartman,Mr. Circlovich,3
-101,Kyle,Mr. Circlovich,2
-102,Mr. Circlovich,Stan,2
-103,Mr. Circlovich,Murphy,1
-104,Loogie,Mr. Circlovich,4
-105,A voice,Mr. Circlovich,1
-106,Cartman,Murphy,3
-107,A voice,Cartman,3
-108,Kyle,Murphy,2
-109,A voice,Kyle,2
-110,Murphy,Stan,2
-111,A voice,Stan,2
-112,Loogie,Murphy,4
-113,A voice,Murphy,1
-114,A voice,Loogie,4
+18,Blond,Stan,18
+19,Rich kid,Stan,18
+20,Blond,Cartman,10
+21,Cartman,Rich kid,10
+22,Blond,Kyle,2
+23,Kyle,Rich kid,2
+24,Blond,Rich kid,4
+25,Loogie,Stan,103
+26,Stan,The South Park boys,8
+27,Beat-up boy,Stan,8
+28,Cartman,Loogie,62
+29,Cartman,The South Park boys,4
+30,Beat-up boy,Cartman,4
+31,Loogie,The South Park boys,10
+32,Beat-up boy,Loogie,10
+33,Kyle,Loogie,28
+34,Beat-up boy,The South Park boys,1
+35,Kyle,The South Park boys,1
+36,Beat-up boy,Kyle,1
+37,Dentist,Dr. Roberts,6
+38,Dentist,Mr. Foley,5
+39,Dr. Roberts,Mr. Foley,30
+40,Chef,The Boys,27
+41,Chef,Stan,54
+42,Cartman,Chef,18
+43,Chef,Kyle,9
+44,Stan,The Boys,18
+45,Cartman,The Boys,6
+46,Kyle,The Boys,3
+47,Loogie,Mr. Foley,31
+48,Cartman,Weasel,10
+49,Kyle,Weasel,2
+50,Kenny,Loogie,2
+51,Billy,Dan Akawa,30
+52,Dan Akawa,Mr. Circlovich,6
+53,Dan Akawa,Mr. Foley,6
+54,Cameraman,Dan Akawa,6
+55,Billy,Mr. Circlovich,8
+56,Billy,Mr. Foley,21
+57,Billy,Cameraman,5
+58,Mr. Circlovich,Mr. Foley,6
+59,Cameraman,Mr. Circlovich,1
+60,Cameraman,Mr. Foley,1
+61,Billy,Dentists,1
+62,Billy,Murphy,4
+63,Dentists,Mr. Foley,1
+64,Mr. Foley,Murphy,6
+65,Dentists,Murphy,1
+66,Cartman,Mr. Foley,17
+67,Kyle,Mr. Foley,12
+68,Mr. Foley,Stan,13
+69,A voice,Mr. Foley,5
+70,Billy,Cartman,9
+71,Billy,Kyle,6
+72,Billy,Stan,6
+73,Billy,Loogie,12
+74,A voice,Billy,3
+75,Cartman,Mr. Circlovich,3
+76,Kyle,Mr. Circlovich,2
+77,Mr. Circlovich,Stan,2
+78,Mr. Circlovich,Murphy,1
+79,Loogie,Mr. Circlovich,4
+80,A voice,Mr. Circlovich,1
+81,Cartman,Murphy,3
+82,A voice,Cartman,3
+83,Kyle,Murphy,2
+84,A voice,Kyle,2
+85,Murphy,Stan,2
+86,A voice,Stan,2
+87,Loogie,Murphy,4
+88,A voice,Murphy,1
+89,A voice,Loogie,4

@@ -17,97 +17,40 @@
 15,Osama bin Laden,Trucker,2
 16,Kyle,Osama bin Laden,1
 17,Kyle,Trucker,4
-18,Reporter 1,Reporters,10
-19,President Bush,Reporters,25
-20,Reporters,TCO reporter,10
-21,LSX reporter,Reporters,5
-22,Reporter 2,Reporters,5
-23,Reporter 3,Reporters,5
-24,Reporter 4,Reporters,5
-25,Reporter 5,Reporters,5
-26,President Bush,Reporter 1,10
-27,Reporter 1,TCO reporter,4
-28,LSX reporter,Reporter 1,2
-29,Reporter 1,Reporter 2,2
-30,Reporter 1,Reporter 3,2
-31,Reporter 1,Reporter 4,2
-32,Reporter 1,Reporter 5,2
-33,President Bush,TCO reporter,10
-34,LSX reporter,President Bush,5
-35,President Bush,Reporter 2,5
-36,President Bush,Reporter 3,5
-37,President Bush,Reporter 4,5
-38,President Bush,Reporter 5,5
-39,LSX reporter,TCO reporter,2
-40,Reporter 2,TCO reporter,2
-41,Reporter 3,TCO reporter,2
-42,Reporter 4,TCO reporter,2
-43,Reporter 5,TCO reporter,2
-44,LSX reporter,Reporter 2,1
-45,LSX reporter,Reporter 3,1
-46,LSX reporter,Reporter 4,1
-47,LSX reporter,Reporter 5,1
-48,Reporter 2,Reporter 3,1
-49,Reporter 2,Reporter 4,1
-50,Reporter 2,Reporter 5,1
-51,Reporter 3,Reporter 4,1
-52,Reporter 3,Reporter 5,1
-53,Reporter 4,Reporter 5,1
-54,Cartman,FOX President,124
-55,FOX President,Staff,5
-56,FOX President,Staffer,5
-57,Cartman,Staff,5
-58,Cartman,Staffer,5
-59,Staff,Staffer,1
-60,Bart,Kyle,21
-61,Miss Travis,Mitchell,3
-62,Cartman,Mitchell,23
-63,Cartman,Miss Travis,2
-64,Cartman,Kyle,163
-65,FOX President,Mitchell,8
-66,Executive,Mitchell,2
-67,Executive,FOX President,4
-68,Cartman,Executive,2
-69,FOX President,Woman,104
-70,Computer Voice,Woman,8
-71,Programmer 1,Woman,8
-72,Kyle,Woman,112
-73,Cartman,Woman,56
-74,Computer Voice,FOX President,13
-75,FOX President,Programmer 1,13
-76,FOX President,Kyle,182
-77,Computer Voice,Programmer 1,1
-78,Computer Voice,Kyle,14
-79,Cartman,Computer Voice,7
-80,Kyle,Programmer 1,14
-81,Cartman,Programmer 1,7
-82,An Official,President Bush,2
-83,Peter,President Bush,2
-84,President Bush,SNN anchor,2
-85,Al-Zawahri,President Bush,2
-86,An Official,Peter,1
-87,An Official,SNN anchor,1
-88,Al-Zawahri,An Official,1
-89,Peter,SNN anchor,1
-90,Al-Zawahri,Peter,1
-91,American male 1,American male 2,2
-92,American male 2,President Bush,2
-93,American Female,American male 2,2
-94,American male 2,American male 3,2
-95,American male 2,Jesus,2
-96,All,American male 2,2
-97,American male 1,President Bush,1
-98,American Female,American male 1,1
-99,American male 1,American male 3,1
-100,American male 1,Jesus,1
-101,All,American male 1,1
-102,American Female,President Bush,1
-103,American male 3,President Bush,1
-104,Jesus,President Bush,1
-105,All,President Bush,1
-106,American Female,American male 3,1
-107,American Female,Jesus,1
-108,All,American Female,1
-109,American male 3,Jesus,1
-110,All,American male 3,1
-111,All,Jesus,1
+18,President Bush,Reporters,25
+19,Reporters,TCO reporter,10
+20,LSX reporter,Reporters,5
+21,President Bush,TCO reporter,10
+22,LSX reporter,President Bush,5
+23,LSX reporter,TCO reporter,2
+24,Cartman,FOX President,124
+25,FOX President,Staff,5
+26,FOX President,Staffer,5
+27,Cartman,Staff,5
+28,Cartman,Staffer,5
+29,Staff,Staffer,1
+30,Bart,Kyle,21
+31,Miss Travis,Mitchell,3
+32,Cartman,Mitchell,23
+33,Cartman,Miss Travis,2
+34,Cartman,Kyle,163
+35,FOX President,Mitchell,8
+36,Executive,Mitchell,2
+37,Executive,FOX President,4
+38,Cartman,Executive,2
+39,Computer Voice,FOX President,13
+40,FOX President,Kyle,182
+41,Computer Voice,Kyle,14
+42,Cartman,Computer Voice,7
+43,An Official,President Bush,2
+44,Peter,President Bush,2
+45,President Bush,SNN anchor,2
+46,Al-Zawahri,President Bush,2
+47,An Official,Peter,1
+48,An Official,SNN anchor,1
+49,Al-Zawahri,An Official,1
+50,Peter,SNN anchor,1
+51,Al-Zawahri,Peter,1
+52,American Female,President Bush,1
+53,Jesus,President Bush,1
+54,American Female,Jesus,1

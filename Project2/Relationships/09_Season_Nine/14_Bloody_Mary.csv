@@ -9,137 +9,59 @@
 7,Cartman,Kyle,16
 8,Cartman,Stan,28
 9,Kyle,Stan,11
-10,Male Voice,Stan,1
-11,Kyle,Male Voice,1
-12,Cartman,Officer,21
-13,Officer,Stan,33
-14,Kyle,Officer,14
-15,Cartman,Mrs. Garrison,9
-16,Mrs. Garrison,Stan,9
-17,Group,Michael,20
-18,Group,Man 1,2
-19,Bill,Group,2
-20,Group,Man 2,4
-21,Big woman,Group,2
-22,Man 1,Michael,6
-23,Bill,Michael,6
-24,Man 2,Michael,9
-25,Big woman,Michael,6
-26,Bill,Man 1,1
-27,Man 1,Man 2,1
-28,Big woman,Man 1,1
-29,Bill,Man 2,1
-30,Big woman,Bill,1
-31,Big woman,Man 2,1
-32,Chris,Woman 1,2
-33,Woman 1,Woman 2,1
-34,Chris,Woman 2,2
-35,Group,Harry,6
-36,Group,Woman 2,2
-37,Group,Man 4,2
-38,Group,Stan,14
-39,Harry,Woman 2,3
-40,Harry,Man 4,3
-41,Harry,Stan,18
-42,Harry,Michael,9
-43,Harry,Man 2,3
-44,Man 4,Woman 2,1
-45,Stan,Woman 2,6
-46,Michael,Woman 2,3
-47,Man 2,Woman 2,1
-48,Man 4,Stan,6
-49,Man 4,Michael,3
-50,Man 2,Man 4,1
-51,Michael,Stan,19
-52,Man 2,Stan,6
-53,Cardinal Mallory,Father Barnes,1
-54,Man 5,Stan,6
-55,Josh,Man 5,2
-56,Man 5,Man 6,1
-57,Man 5,Old woman,1
-58,Man 5,Man 7,1
-59,Man 5,Old woman 2,1
-60,Blind man,Man 5,1
-61,Man 5,Woman 3,1
-62,Man 5,Man 8,1
-63,Man 5,Officer,2
-64,Man 5,Man 9,1
-65,Josh,Stan,12
-66,Man 6,Stan,6
-67,Old woman,Stan,6
-68,Man 7,Stan,6
-69,Old woman 2,Stan,6
-70,Blind man,Stan,6
-71,Stan,Woman 3,6
-72,Man 8,Stan,6
-73,Man 9,Stan,6
-74,Josh,Man 6,2
-75,Josh,Old woman,2
-76,Josh,Man 7,2
-77,Josh,Old woman 2,2
-78,Blind man,Josh,2
-79,Josh,Woman 3,2
-80,Josh,Man 8,2
-81,Josh,Officer,4
-82,Josh,Man 9,2
-83,Man 6,Old woman,1
-84,Man 6,Man 7,1
-85,Man 6,Old woman 2,1
-86,Blind man,Man 6,1
-87,Man 6,Woman 3,1
-88,Man 6,Man 8,1
-89,Man 6,Officer,2
-90,Man 6,Man 9,1
-91,Man 7,Old woman,1
-92,Old woman,Old woman 2,1
-93,Blind man,Old woman,1
-94,Old woman,Woman 3,1
-95,Man 8,Old woman,1
-96,Officer,Old woman,2
-97,Man 9,Old woman,1
-98,Man 7,Old woman 2,1
-99,Blind man,Man 7,1
-100,Man 7,Woman 3,1
-101,Man 7,Man 8,1
-102,Man 7,Officer,2
-103,Man 7,Man 9,1
-104,Blind man,Old woman 2,1
-105,Old woman 2,Woman 3,1
-106,Man 8,Old woman 2,1
-107,Officer,Old woman 2,2
-108,Man 9,Old woman 2,1
-109,Blind man,Woman 3,1
-110,Blind man,Man 8,1
-111,Blind man,Officer,2
-112,Blind man,Man 9,1
-113,Man 8,Woman 3,1
-114,Officer,Woman 3,2
-115,Man 9,Woman 3,1
-116,Man 8,Officer,2
-117,Man 8,Man 9,1
-118,Man 9,Officer,2
-119,Shelly,Stan,2
-120,Boy,Group,4
-121,Boy,Stan,2
-122,Boy,Michael,2
-123,Cardinal Mallory,Chris,3
-124,Chris,Tom,3
-125,Chris,Michael,3
-126,Chris,Man 10,6
-127,Chris,Man 11,3
-128,Chris,Man 12,3
-129,Cardinal Mallory,Tom,1
-130,Cardinal Mallory,Michael,1
-131,Cardinal Mallory,Man 10,2
-132,Cardinal Mallory,Man 11,1
-133,Cardinal Mallory,Man 12,1
-134,Michael,Tom,1
-135,Man 10,Tom,2
-136,Man 11,Tom,1
-137,Man 12,Tom,1
-138,Man 10,Michael,2
-139,Man 11,Michael,1
-140,Man 12,Michael,1
-141,Man 10,Man 11,2
-142,Man 10,Man 12,2
-143,Man 11,Man 12,1
+10,Male Voice,Randy,4
+11,Randy,Stan,208
+12,Kyle,Randy,32
+13,Male Voice,Stan,1
+14,Kyle,Male Voice,1
+15,Cartman,Randy,48
+16,Officer,Randy,120
+17,Cartman,Officer,21
+18,Officer,Stan,33
+19,Kyle,Officer,14
+20,Cartman,Mrs. Garrison,9
+21,Mrs. Garrison,Stan,9
+22,Mrs. Garrison,Randy,6
+23,Group,Michael,20
+24,Group,Randy,24
+25,Bill,Group,2
+26,Big woman,Group,2
+27,Michael,Randy,56
+28,Bill,Michael,6
+29,Big woman,Michael,6
+30,Bill,Randy,8
+31,Big woman,Randy,8
+32,Big woman,Bill,1
+33,Group,Harry,6
+34,Group,Stan,14
+35,Harry,Stan,18
+36,Harry,Michael,9
+37,Michael,Stan,19
+38,Cardinal Mallory,Father Barnes,1
+39,Josh,Randy,22
+40,Old woman,Randy,11
+41,Blind man,Randy,11
+42,Josh,Stan,12
+43,Old woman,Stan,6
+44,Blind man,Stan,6
+45,Josh,Old woman,2
+46,Blind man,Josh,2
+47,Josh,Officer,4
+48,Blind man,Old woman,1
+49,Officer,Old woman,2
+50,Blind man,Officer,2
+51,Shelly,Stan,2
+52,Randy,Shelly,2
+53,Boy,Randy,8
+54,Boy,Group,4
+55,Boy,Stan,2
+56,Boy,Michael,2
+57,Chris,Randy,12
+58,Cardinal Mallory,Randy,4
+59,Randy,Tom,4
+60,Cardinal Mallory,Chris,3
+61,Chris,Tom,3
+62,Chris,Michael,3
+63,Cardinal Mallory,Tom,1
+64,Cardinal Mallory,Michael,1
+65,Michael,Tom,1

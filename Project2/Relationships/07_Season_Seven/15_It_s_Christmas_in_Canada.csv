@@ -2,277 +2,235 @@
 0,Ike,Kyle,15
 1,Ike,The Broflovskis,1
 2,Gerald,Ike,7
-3,Ike,Man,2
-4,Harry,Ike,12
-5,Elise,Ike,5
-6,Ike,Sheila,1
-7,Kyle,The Broflovskis,1
-8,Gerald,Kyle,7
-9,Kyle,Man,9
-10,Harry,Kyle,23
-11,Elise,Kyle,12
-12,Kyle,Sheila,3
-13,Gerald,The Broflovskis,4
-14,Man,The Broflovskis,2
-15,Harry,The Broflovskis,1
-16,Elise,The Broflovskis,1
-17,Sheila,The Broflovskis,1
-18,Gerald,Man,8
-19,Gerald,Harry,32
-20,Elise,Gerald,16
-21,Gerald,Sheila,26
-22,Harry,Man,2
-23,Elise,Man,2
-24,Man,Sheila,2
-25,Elise,Harry,16
-26,Harry,Sheila,21
-27,Elise,Sheila,11
-28,Elise,The Gintzes,1
-29,Sheila,The Gintzes,2
-30,Kyle,The Gintzes,1
-31,Gerald,The Gintzes,1
-32,Kyle,Stan,95
-33,Cartman,Stan,71
-34,Cartman,Kyle,120
-35,Mayor McDaniels,Mr. Garrison,6
-36,Chef,Mayor McDaniels,3
-37,Cartman,Mayor McDaniels,9
-38,Liane,Mayor McDaniels,3
-39,Mayor McDaniels,Stan,3
-40,Chef,Mr. Garrison,2
-41,Cartman,Mr. Garrison,6
-42,Liane,Mr. Garrison,2
-43,Mr. Garrison,Stan,2
-44,Cartman,Chef,3
-45,Chef,Liane,1
-46,Chef,Stan,1
-47,Cartman,Liane,3
-48,Liane,Stan,1
-49,Kyle,Mr. Kim,69
-50,Cartman,Mr. Kim,5
-51,Kenny,Mr. Kim,3
-52,Mr. Kim,Stan,3
-53,Cartman,Kenny,12
-54,Kenny,Kyle,19
-55,Kenny,Stan,7
-56,Canadian man,Kyle,14
-57,Canadian man,Doctor,10
-58,Canadian man,Canadians,10
-59,Canadian man,Sailor,2
-60,Businessman,Canadian man,2
-61,Canadian man,Cartman,4
-62,Canadian man,Scott,8
-63,Canadian man,Wrestler,2
-64,Canadian man,Firefighter,2
-65,Canadian man,Priest,2
-66,Canadian man,Man,2
-67,Canadian man,Road workers,2
-68,Canadian man,Stan,2
-69,Doctor,Kyle,35
-70,Canadians,Kyle,35
-71,Kyle,Sailor,7
-72,Businessman,Kyle,15
-73,Kyle,Scott,79
-74,Kyle,Wrestler,7
-75,Firefighter,Kyle,7
-76,Kyle,Priest,7
-77,Kyle,Road workers,7
-78,Canadians,Doctor,25
-79,Doctor,Sailor,5
-80,Businessman,Doctor,5
-81,Cartman,Doctor,10
-82,Doctor,Scott,20
-83,Doctor,Wrestler,5
-84,Doctor,Firefighter,5
-85,Doctor,Priest,5
-86,Doctor,Man,5
-87,Doctor,Road workers,5
-88,Doctor,Stan,5
-89,Canadians,Sailor,5
-90,Businessman,Canadians,5
-91,Canadians,Cartman,10
-92,Canadians,Scott,20
-93,Canadians,Wrestler,5
-94,Canadians,Firefighter,5
-95,Canadians,Priest,5
-96,Canadians,Man,5
-97,Canadians,Road workers,5
-98,Canadians,Stan,5
-99,Businessman,Sailor,1
-100,Cartman,Sailor,2
-101,Sailor,Scott,4
-102,Sailor,Wrestler,1
-103,Firefighter,Sailor,1
-104,Priest,Sailor,1
-105,Man,Sailor,1
-106,Road workers,Sailor,1
-107,Sailor,Stan,1
-108,Businessman,Cartman,5
-109,Businessman,Scott,7
-110,Businessman,Wrestler,1
-111,Businessman,Firefighter,1
-112,Businessman,Priest,1
-113,Businessman,Man,1
-114,Businessman,Road workers,1
-115,Businessman,Stan,3
-116,Cartman,Scott,38
-117,Cartman,Wrestler,2
-118,Cartman,Firefighter,2
-119,Cartman,Priest,2
-120,Cartman,Man,2
-121,Cartman,Road workers,2
-122,Scott,Wrestler,4
-123,Firefighter,Scott,4
-124,Priest,Scott,4
-125,Man,Scott,4
-126,Road workers,Scott,4
-127,Scott,Stan,26
-128,Firefighter,Wrestler,1
-129,Priest,Wrestler,1
-130,Man,Wrestler,1
-131,Road workers,Wrestler,1
-132,Stan,Wrestler,1
-133,Firefighter,Priest,1
-134,Firefighter,Man,1
-135,Firefighter,Road workers,1
-136,Firefighter,Stan,1
-137,Man,Priest,1
-138,Priest,Road workers,1
-139,Priest,Stan,1
-140,Man,Road workers,1
-141,Man,Stan,1
-142,Road workers,Stan,1
-143,Kyle,Mountie,4
-144,Mountie,Sheep,4
-145,Mountie,Stan,2
-146,Mountie,Rick,6
-147,Cartman,Mountie,2
-148,Mountie,Scott,2
-149,Kyle,Sheep,4
-150,Kyle,Rick,86
-151,Sheep,Stan,2
-152,Rick,Sheep,6
-153,Cartman,Sheep,2
-154,Scott,Sheep,2
-155,Rick,Stan,37
-156,Cartman,Rick,47
-157,Rick,Scott,55
-158,Mime,Rick,66
-159,Hockey player,Rick,2
-160,Artist,Rick,4
-161,Kyle,Mime,82
-162,Hockey player,Kyle,4
-163,Artist,Kyle,8
-164,Hockey player,Mime,7
-165,Artist,Mime,14
-166,Mime,Stan,29
-167,Artist,Hockey player,2
-168,Hockey player,Stan,1
-169,Artist,Stan,2
-170,Cartman,Mime,32
-171,Mime,Scott,34
-172,Fisherman,Mime,10
-173,Mime,Steve,37
-174,Cartman,Fisherman,8
-175,Cartman,Steve,32
-176,Fisherman,Rick,16
-177,Rick,Steve,56
-178,Fisherman,Scott,10
-179,Scott,Steve,36
-180,Fisherman,Kyle,10
-181,Fisherman,Steve,12
-182,Fisherman,Stan,6
-183,Kyle,Steve,51
-184,Stan,Steve,23
-185,Doorman,Kyle,30
-186,Doorman,Mime,6
-187,Doorman,Steve,6
-188,Cartman,Doorman,12
-189,Doorman,Stan,6
-190,Doorman,Kenny,6
-191,Kenny,Mime,4
-192,Kenny,Steve,3
-193,Kyle,Prime Minister,24
-194,Kyle,Saddam Hussein,16
-195,Kyle,Soldier 1,8
-196,Kyle,Soldier 2,8
-197,Ike,Scott,3
-198,Prime Minister,Scott,9
-199,Kenny,Scott,3
-200,Saddam Hussein,Scott,6
-201,Scott,Soldier 1,3
-202,Scott,Soldier 2,3
-203,Harry,Scott,6
-204,Elise,Scott,3
-205,Ike,Prime Minister,3
-206,Ike,Rick,4
-207,Ike,Mime,3
-208,Ike,Steve,2
-209,Ike,Kenny,1
-210,Ike,Stan,2
-211,Ike,Saddam Hussein,2
-212,Ike,Soldier 1,1
-213,Ike,Soldier 2,1
-214,Businessman,Ike,1
-215,Cartman,Ike,3
-216,Prime Minister,Rick,12
-217,Mime,Prime Minister,9
-218,Prime Minister,Steve,6
-219,Kenny,Prime Minister,3
-220,Prime Minister,Stan,6
-221,Prime Minister,Saddam Hussein,6
-222,Prime Minister,Soldier 1,3
-223,Prime Minister,Soldier 2,3
-224,Businessman,Prime Minister,3
-225,Harry,Prime Minister,6
-226,Elise,Prime Minister,3
-227,Cartman,Prime Minister,9
-228,Kenny,Rick,4
-229,Rick,Saddam Hussein,8
-230,Rick,Soldier 1,4
-231,Rick,Soldier 2,4
-232,Businessman,Rick,4
-233,Harry,Rick,8
-234,Elise,Rick,4
-235,Mime,Saddam Hussein,6
-236,Mime,Soldier 1,3
-237,Mime,Soldier 2,3
-238,Businessman,Mime,3
-239,Harry,Mime,6
-240,Elise,Mime,3
-241,Saddam Hussein,Steve,4
-242,Soldier 1,Steve,2
-243,Soldier 2,Steve,2
-244,Businessman,Steve,2
-245,Harry,Steve,4
-246,Elise,Steve,2
-247,Kenny,Saddam Hussein,2
-248,Kenny,Soldier 1,1
-249,Kenny,Soldier 2,1
-250,Businessman,Kenny,1
-251,Harry,Kenny,2
-252,Elise,Kenny,1
-253,Saddam Hussein,Stan,4
-254,Soldier 1,Stan,2
-255,Soldier 2,Stan,2
-256,Harry,Stan,4
-257,Elise,Stan,2
-258,Saddam Hussein,Soldier 1,2
-259,Saddam Hussein,Soldier 2,2
-260,Businessman,Saddam Hussein,2
-261,Harry,Saddam Hussein,4
-262,Elise,Saddam Hussein,2
-263,Cartman,Saddam Hussein,6
-264,Soldier 1,Soldier 2,1
-265,Businessman,Soldier 1,1
-266,Harry,Soldier 1,2
-267,Elise,Soldier 1,1
-268,Cartman,Soldier 1,3
-269,Businessman,Soldier 2,1
-270,Harry,Soldier 2,2
-271,Elise,Soldier 2,1
-272,Cartman,Soldier 2,3
-273,Businessman,Harry,2
-274,Businessman,Elise,1
-275,Cartman,Harry,6
-276,Cartman,Elise,3
+3,Harry,Ike,12
+4,Elise,Ike,5
+5,Ike,Sheila,1
+6,Kyle,The Broflovskis,1
+7,Gerald,Kyle,7
+8,Harry,Kyle,23
+9,Elise,Kyle,12
+10,Kyle,Sheila,3
+11,Gerald,The Broflovskis,4
+12,Harry,The Broflovskis,1
+13,Elise,The Broflovskis,1
+14,Sheila,The Broflovskis,1
+15,Gerald,Harry,32
+16,Elise,Gerald,16
+17,Gerald,Sheila,26
+18,Elise,Harry,16
+19,Harry,Sheila,21
+20,Elise,Sheila,11
+21,Elise,The Gintzes,1
+22,Sheila,The Gintzes,2
+23,Kyle,The Gintzes,1
+24,Gerald,The Gintzes,1
+25,Kyle,Stan,95
+26,Cartman,Stan,71
+27,Cartman,Kyle,120
+28,Mayor McDaniels,Mr. Garrison,6
+29,Chef,Mayor McDaniels,3
+30,Cartman,Mayor McDaniels,9
+31,Liane,Mayor McDaniels,3
+32,Mayor McDaniels,Randy,3
+33,Mayor McDaniels,Stan,3
+34,Chef,Mr. Garrison,2
+35,Cartman,Mr. Garrison,6
+36,Liane,Mr. Garrison,2
+37,Mr. Garrison,Randy,2
+38,Mr. Garrison,Stan,2
+39,Cartman,Chef,3
+40,Chef,Liane,1
+41,Chef,Randy,1
+42,Chef,Stan,1
+43,Cartman,Liane,3
+44,Cartman,Randy,3
+45,Liane,Randy,1
+46,Liane,Stan,1
+47,Randy,Stan,1
+48,Kyle,Mr. Kim,69
+49,Cartman,Mr. Kim,5
+50,Kenny,Mr. Kim,3
+51,Mr. Kim,Stan,3
+52,Cartman,Kenny,12
+53,Kenny,Kyle,19
+54,Kenny,Stan,7
+55,Canadian man,Kyle,14
+56,Canadian man,Doctor,10
+57,Canadian man,Canadians,10
+58,Canadian man,Sailor,2
+59,Businessman,Canadian man,2
+60,Canadian man,Cartman,4
+61,Canadian man,Scott,8
+62,Canadian man,Wrestler,2
+63,Canadian man,Firefighter,2
+64,Canadian man,Priest,2
+65,Canadian man,Road workers,2
+66,Canadian man,Stan,2
+67,Doctor,Kyle,35
+68,Canadians,Kyle,35
+69,Kyle,Sailor,7
+70,Businessman,Kyle,15
+71,Kyle,Scott,79
+72,Kyle,Wrestler,7
+73,Firefighter,Kyle,7
+74,Kyle,Priest,7
+75,Kyle,Road workers,7
+76,Canadians,Doctor,25
+77,Doctor,Sailor,5
+78,Businessman,Doctor,5
+79,Cartman,Doctor,10
+80,Doctor,Scott,20
+81,Doctor,Wrestler,5
+82,Doctor,Firefighter,5
+83,Doctor,Priest,5
+84,Doctor,Road workers,5
+85,Doctor,Stan,5
+86,Canadians,Sailor,5
+87,Businessman,Canadians,5
+88,Canadians,Cartman,10
+89,Canadians,Scott,20
+90,Canadians,Wrestler,5
+91,Canadians,Firefighter,5
+92,Canadians,Priest,5
+93,Canadians,Road workers,5
+94,Canadians,Stan,5
+95,Businessman,Sailor,1
+96,Cartman,Sailor,2
+97,Sailor,Scott,4
+98,Sailor,Wrestler,1
+99,Firefighter,Sailor,1
+100,Priest,Sailor,1
+101,Road workers,Sailor,1
+102,Sailor,Stan,1
+103,Businessman,Cartman,5
+104,Businessman,Scott,7
+105,Businessman,Wrestler,1
+106,Businessman,Firefighter,1
+107,Businessman,Priest,1
+108,Businessman,Road workers,1
+109,Businessman,Stan,3
+110,Cartman,Scott,38
+111,Cartman,Wrestler,2
+112,Cartman,Firefighter,2
+113,Cartman,Priest,2
+114,Cartman,Road workers,2
+115,Scott,Wrestler,4
+116,Firefighter,Scott,4
+117,Priest,Scott,4
+118,Road workers,Scott,4
+119,Scott,Stan,26
+120,Firefighter,Wrestler,1
+121,Priest,Wrestler,1
+122,Road workers,Wrestler,1
+123,Stan,Wrestler,1
+124,Firefighter,Priest,1
+125,Firefighter,Road workers,1
+126,Firefighter,Stan,1
+127,Priest,Road workers,1
+128,Priest,Stan,1
+129,Road workers,Stan,1
+130,Kyle,Mountie,4
+131,Mountie,Sheep,4
+132,Mountie,Stan,2
+133,Mountie,Rick,6
+134,Cartman,Mountie,2
+135,Mountie,Scott,2
+136,Kyle,Sheep,4
+137,Kyle,Rick,86
+138,Sheep,Stan,2
+139,Rick,Sheep,6
+140,Cartman,Sheep,2
+141,Scott,Sheep,2
+142,Rick,Stan,37
+143,Cartman,Rick,47
+144,Rick,Scott,55
+145,Mime,Rick,66
+146,Hockey player,Rick,2
+147,Artist,Rick,4
+148,Kyle,Mime,82
+149,Hockey player,Kyle,4
+150,Artist,Kyle,8
+151,Hockey player,Mime,7
+152,Artist,Mime,14
+153,Mime,Stan,29
+154,Artist,Hockey player,2
+155,Hockey player,Stan,1
+156,Artist,Stan,2
+157,Cartman,Mime,32
+158,Mime,Scott,34
+159,Fisherman,Mime,10
+160,Mime,Steve,37
+161,Cartman,Fisherman,8
+162,Cartman,Steve,32
+163,Fisherman,Rick,16
+164,Rick,Steve,56
+165,Fisherman,Scott,10
+166,Scott,Steve,36
+167,Fisherman,Kyle,10
+168,Fisherman,Steve,12
+169,Fisherman,Stan,6
+170,Kyle,Steve,51
+171,Stan,Steve,23
+172,Doorman,Kyle,30
+173,Doorman,Mime,6
+174,Doorman,Steve,6
+175,Cartman,Doorman,12
+176,Doorman,Stan,6
+177,Doorman,Kenny,6
+178,Kenny,Mime,4
+179,Kenny,Steve,3
+180,Kyle,Prime Minister,24
+181,Kyle,Saddam Hussein,16
+182,Ike,Scott,3
+183,Prime Minister,Scott,9
+184,Kenny,Scott,3
+185,Saddam Hussein,Scott,6
+186,Harry,Scott,6
+187,Elise,Scott,3
+188,Ike,Prime Minister,3
+189,Ike,Rick,4
+190,Ike,Mime,3
+191,Ike,Steve,2
+192,Ike,Kenny,1
+193,Ike,Stan,2
+194,Ike,Saddam Hussein,2
+195,Businessman,Ike,1
+196,Cartman,Ike,3
+197,Prime Minister,Rick,12
+198,Mime,Prime Minister,9
+199,Prime Minister,Steve,6
+200,Kenny,Prime Minister,3
+201,Prime Minister,Stan,6
+202,Prime Minister,Saddam Hussein,6
+203,Businessman,Prime Minister,3
+204,Harry,Prime Minister,6
+205,Elise,Prime Minister,3
+206,Cartman,Prime Minister,9
+207,Kenny,Rick,4
+208,Rick,Saddam Hussein,8
+209,Businessman,Rick,4
+210,Harry,Rick,8
+211,Elise,Rick,4
+212,Mime,Saddam Hussein,6
+213,Businessman,Mime,3
+214,Harry,Mime,6
+215,Elise,Mime,3
+216,Saddam Hussein,Steve,4
+217,Businessman,Steve,2
+218,Harry,Steve,4
+219,Elise,Steve,2
+220,Kenny,Saddam Hussein,2
+221,Businessman,Kenny,1
+222,Harry,Kenny,2
+223,Elise,Kenny,1
+224,Saddam Hussein,Stan,4
+225,Harry,Stan,4
+226,Elise,Stan,2
+227,Businessman,Saddam Hussein,2
+228,Harry,Saddam Hussein,4
+229,Elise,Saddam Hussein,2
+230,Cartman,Saddam Hussein,6
+231,Businessman,Harry,2
+232,Businessman,Elise,1
+233,Cartman,Harry,6
+234,Cartman,Elise,3

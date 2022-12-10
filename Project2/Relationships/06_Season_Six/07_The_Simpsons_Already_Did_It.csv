@@ -11,64 +11,39 @@
 9,Butters,Cartman,23
 10,Butters,Dougie,142
 11,Dougie,News anchor,16
-12,Dougie,Man 1,4
-13,Dougie,Woman,4
-14,Dougie,Man 2,4
-15,Butters,News anchor,32
-16,Butters,Man 1,8
-17,Butters,Woman,8
-18,Butters,Man 2,8
-19,Man 1,News anchor,4
-20,News anchor,Woman,4
-21,Man 2,News anchor,4
-22,Man 1,Woman,1
-23,Man 1,Man 2,1
-24,Man 2,Woman,1
-25,Kyle,Phillip,6
-26,Phillip,Tweek,10
-27,Phillip,Stan,10
-28,Phillip,Terrance,2
-29,News anchor,Phillip,4
-30,Cartman,Phillip,4
-31,Kyle,Terrance,3
-32,Kyle,News anchor,6
-33,Terrance,Tweek,5
-34,News anchor,Tweek,10
-35,Stan,Terrance,5
-36,News anchor,Stan,10
-37,News anchor,Terrance,2
-38,Cartman,Terrance,2
-39,Cartman,News anchor,4
-40,Chef,Stan,19
-41,Chef,Kyle,18
-42,Cartman,Chef,18
-43,Chef,Tweek,7
-44,Cartman,Voice,5
-45,Cartman,Doctor 1,10
-46,Cartman,Doctor 2,5
-47,Tweek,Voice,5
-48,Doctor 1,Tweek,10
-49,Doctor 2,Tweek,5
-50,Stan,Voice,7
-51,Doctor 1,Stan,14
-52,Doctor 2,Stan,7
-53,Kyle,Voice,5
-54,Doctor 1,Kyle,10
-55,Doctor 2,Kyle,5
-56,Doctor 1,Voice,2
-57,Doctor 2,Voice,1
-58,Doctor 1,Doctor 2,2
-59,Announcer,Dougie,4
-60,Announcer,Butters,5
-61,Cartman,Woman,24
-62,Cartman,Frances,32
-63,Frances,Woman,12
-64,Dougie,Ms. Crabtree,1
-65,Dougie,Mr. Garrison,2
-66,Chef,Dougie,1
-67,Butters,Ms. Crabtree,3
-68,Butters,Mr. Garrison,6
-69,Butters,Chef,3
-70,Mr. Garrison,Ms. Crabtree,2
-71,Chef,Ms. Crabtree,1
-72,Chef,Mr. Garrison,2
+12,Butters,News anchor,32
+13,Kyle,Phillip,6
+14,Phillip,Tweek,10
+15,Phillip,Stan,10
+16,Phillip,Terrance,2
+17,News anchor,Phillip,4
+18,Cartman,Phillip,4
+19,Kyle,Terrance,3
+20,Kyle,News anchor,6
+21,Terrance,Tweek,5
+22,News anchor,Tweek,10
+23,Stan,Terrance,5
+24,News anchor,Stan,10
+25,News anchor,Terrance,2
+26,Cartman,Terrance,2
+27,Cartman,News anchor,4
+28,Chef,Stan,19
+29,Chef,Kyle,18
+30,Cartman,Chef,18
+31,Chef,Tweek,7
+32,Cartman,Voice,5
+33,Tweek,Voice,5
+34,Stan,Voice,7
+35,Kyle,Voice,5
+36,Announcer,Dougie,4
+37,Announcer,Butters,5
+38,Cartman,Frances,32
+39,Dougie,Ms. Crabtree,1
+40,Dougie,Mr. Garrison,2
+41,Chef,Dougie,1
+42,Butters,Ms. Crabtree,3
+43,Butters,Mr. Garrison,6
+44,Butters,Chef,3
+45,Mr. Garrison,Ms. Crabtree,2
+46,Chef,Ms. Crabtree,1
+47,Chef,Mr. Garrison,2

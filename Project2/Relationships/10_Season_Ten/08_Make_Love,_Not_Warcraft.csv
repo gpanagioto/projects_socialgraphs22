@@ -2,98 +2,78 @@
 0,Cartman,Kyle,70
 1,Kyle,Stan,54
 2,Kenny,Kyle,3
-3,Cartman,Stan,85
-4,Cartman,Kenny,4
-5,Kenny,Stan,2
-6,Rep,Stan,6
-7,Co-Worker,Stan,2
-8,Cartman,Rep,3
-9,Co-Worker,Rep,3
-10,Cartman,Co-Worker,1
-11,Member 1,Member 2,4
-12,Member 1,President,21
-13,Member 1,Member 3,4
-14,Jim,Member 1,2
-15,Member 2,President,8
-16,Member 2,Member 3,5
-17,Jim,Member 2,4
-18,Member 3,President,10
-19,Jim,President,6
-20,Jim,Member 3,4
-21,Craig,Kyle,1
-22,Kyle,Tweek,3
-23,Kyle,Tolkien,1
-24,Jimmy,Kyle,4
-25,Clyde,Kyle,5
-26,All,Kyle,1
-27,Butters,Kyle,3
-28,Craig,Tweek,1
-29,Cartman,Craig,13
-30,Craig,Tolkien,2
-31,Craig,Jimmy,3
-32,Clyde,Craig,5
-33,Craig,Stan,2
-34,All,Craig,1
-35,Butters,Craig,7
-36,Cartman,Tweek,10
-37,Tolkien,Tweek,1
-38,Jimmy,Tweek,3
-39,Clyde,Tweek,5
-40,Stan,Tweek,1
-41,All,Tweek,1
-42,Butters,Tweek,3
-43,Cartman,Tolkien,14
-44,Cartman,Jimmy,23
-45,Cartman,Clyde,35
-46,All,Cartman,7
-47,Butters,Cartman,45
-48,Jimmy,Tolkien,3
-49,Clyde,Tolkien,5
-50,Stan,Tolkien,5
-51,All,Tolkien,1
-52,Butters,Tolkien,7
-53,Clyde,Jimmy,10
-54,Jimmy,Stan,3
-55,All,Jimmy,2
-56,Butters,Jimmy,10
-57,Clyde,Stan,5
-58,All,Clyde,5
-59,Butters,Clyde,15
-60,All,Stan,1
-61,Butters,Stan,7
-62,All,Butters,3
-63,Timmy,Tolkien,1
-64,Jason,Tolkien,1
-65,Craig,Timmy,1
-66,Craig,Jason,1
-67,Cartman,Timmy,6
-68,Cartman,Jason,6
-69,Jimmy,Timmy,1
-70,Jason,Jimmy,1
-71,Butters,Timmy,4
-72,Stan,Timmy,1
-73,Jason,Timmy,1
-74,Butters,Jason,4
-75,Jason,Stan,1
-76,Cartman,Ike,6
-77,Ike,Kyle,4
-78,Ike,Tweek,2
-79,Ike,Jimmy,2
-80,Member 5,President,2
-81,Member 3,Member 5,1
-82,Member 1,Member 5,2
-83,Member 2,Member 5,1
-84,Paul Stanley,President,2
-85,Member 3,Paul Stanley,1
-86,Member 1,Sharon,15
-87,Sharon,The three men,3
-88,President,Sharon,6
-89,Member 1,The three men,5
-90,President,The three men,2
-91,Liane,Stan,2
-92,Cartman,Liane,6
-93,Man 2,Woman,1
-94,Cartman,Man 2,2
-95,Man 2,Stan,1
-96,Cartman,Woman,2
-97,Stan,Woman,1
+3,Kyle,Randy,12
+4,Cartman,Stan,85
+5,Cartman,Kenny,4
+6,Cartman,Randy,27
+7,Kenny,Stan,2
+8,Randy,Stan,47
+9,Kenny,Randy,2
+10,Rep,Stan,6
+11,Co-Worker,Stan,2
+12,Cartman,Rep,3
+13,Co-Worker,Rep,3
+14,Cartman,Co-Worker,1
+15,Jim,President,6
+16,Nelson,Randy,6
+17,Craig,Kyle,1
+18,Kyle,Tweek,3
+19,Kyle,Tolkien,1
+20,Jimmy,Kyle,4
+21,Clyde,Kyle,5
+22,Butters,Kyle,3
+23,Craig,Tweek,1
+24,Cartman,Craig,13
+25,Craig,Tolkien,2
+26,Craig,Jimmy,3
+27,Clyde,Craig,5
+28,Craig,Stan,2
+29,Butters,Craig,7
+30,Cartman,Tweek,10
+31,Tolkien,Tweek,1
+32,Jimmy,Tweek,3
+33,Clyde,Tweek,5
+34,Stan,Tweek,1
+35,Butters,Tweek,3
+36,Cartman,Tolkien,14
+37,Cartman,Jimmy,23
+38,Cartman,Clyde,35
+39,Butters,Cartman,45
+40,Jimmy,Tolkien,3
+41,Clyde,Tolkien,5
+42,Stan,Tolkien,5
+43,Butters,Tolkien,7
+44,Clyde,Jimmy,10
+45,Jimmy,Stan,3
+46,Butters,Jimmy,10
+47,Clyde,Stan,5
+48,Butters,Clyde,15
+49,Butters,Stan,7
+50,Timmy,Tolkien,1
+51,Jason,Tolkien,1
+52,Craig,Timmy,1
+53,Craig,Jason,1
+54,Cartman,Timmy,6
+55,Cartman,Jason,6
+56,Jimmy,Timmy,1
+57,Jason,Jimmy,1
+58,Butters,Timmy,4
+59,Stan,Timmy,1
+60,Jason,Timmy,1
+61,Butters,Jason,4
+62,Jason,Stan,1
+63,Cartman,Ike,6
+64,Ike,Kyle,4
+65,Ike,Tweek,2
+66,Ike,Jimmy,2
+67,Randy,Tolkien,1
+68,Paul Stanley,President,2
+69,President,Randy,16
+70,Randy,Sharon,15
+71,Sharon,The three men,3
+72,President,Sharon,6
+73,Randy,The three men,5
+74,President,The three men,2
+75,Liane,Stan,2
+76,Cartman,Liane,6
+77,Greeter,Randy,1

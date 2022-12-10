@@ -58,55 +58,39 @@
 56,Butters,Cowlick Vampire,6
 57,Cowlick Vampire,Vampir,3
 58,Cowlick Vampire,Midnight Vampire,1
-59,Boy 1,Boy 2,2
-60,Boy 1,Pete,5
-61,Boy 1,Michael,5
-62,Boy 1,Henrietta,4
-63,Boy 1,Little Vamp,2
-64,Boy 1,Shades Vamp,2
-65,Boy 2,Pete,2
-66,Boy 2,Michael,2
-67,Boy 2,Henrietta,2
-68,Boy 2,Little Vamp,1
-69,Boy 2,Shades Vamp,1
-70,Little Vamp,Pete,2
-71,Pete,Shades Vamp,2
-72,Little Vamp,Michael,2
-73,Michael,Shades Vamp,2
-74,Henrietta,Little Vamp,2
-75,Henrietta,Shades Vamp,2
-76,Little Vamp,Shades Vamp,1
-77,Linda,Stephen,19
-78,Pete,Principal Victoria,6
-79,Mr. Mackey,Pete,2
-80,Michael,Principal Victoria,6
-81,Michael,Mr. Mackey,2
-82,Mr. Mackey,Principal Victoria,3
-83,Principal Victoria,Vampir,6
-84,Mr. Mackey,Vampir,2
-85,Boy 1,Boy 3,1
-86,Boy 1,Firkle,1
-87,Boy 3,Michael,1
-88,Boy 3,Firkle,1
-89,Boy 3,Pete,1
-90,Firkle,Michael,2
-91,Firkle,Pete,3
-92,Butters,Cartman,15
-93,Cartman,Liane,15
-94,Butters,Liane,9
-95,Firkle,Henrietta,2
-96,Goths,Henrietta,2
-97,Goths,Michael,5
-98,Goths,Pete,4
-99,Goths,Vampir,3
-100,Henrietta,Waitress,16
-101,Butters,Henrietta,13
-102,Pete,Waitress,16
-103,Butters,Waitress,12
-104,Butters,Pete,15
-105,Butters,Michael,2
-106,Pete,Spiky Vamp,1
-107,Clerk,Pete,1
-108,Butters,Spiky Vamp,1
-109,Clerk,Spiky Vamp,1
-110,Butters,Clerk,1
+59,Little Vamp,Pete,2
+60,Pete,Shades Vamp,2
+61,Little Vamp,Michael,2
+62,Michael,Shades Vamp,2
+63,Henrietta,Little Vamp,2
+64,Henrietta,Shades Vamp,2
+65,Little Vamp,Shades Vamp,1
+66,Linda,Stephen,19
+67,Pete,Principal Victoria,6
+68,Mr. Mackey,Pete,2
+69,Michael,Principal Victoria,6
+70,Michael,Mr. Mackey,2
+71,Mr. Mackey,Principal Victoria,3
+72,Principal Victoria,Vampir,6
+73,Mr. Mackey,Vampir,2
+74,Firkle,Michael,2
+75,Firkle,Pete,3
+76,Butters,Cartman,15
+77,Cartman,Liane,15
+78,Butters,Liane,9
+79,Firkle,Henrietta,2
+80,Goths,Henrietta,2
+81,Goths,Michael,5
+82,Goths,Pete,4
+83,Goths,Vampir,3
+84,Henrietta,Waitress,16
+85,Butters,Henrietta,13
+86,Pete,Waitress,16
+87,Butters,Waitress,12
+88,Butters,Pete,15
+89,Butters,Michael,2
+90,Pete,Spiky Vamp,1
+91,Clerk,Pete,1
+92,Butters,Spiky Vamp,1
+93,Clerk,Spiky Vamp,1
+94,Butters,Clerk,1

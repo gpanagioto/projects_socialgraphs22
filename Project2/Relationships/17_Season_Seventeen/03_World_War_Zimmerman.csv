@@ -37,106 +37,34 @@
 35,Principal Victoria,Tolkien,2
 36,Cartman,The kids,8
 37,The kids,Tolkien,4
-38,Man,Woman,4
-39,Cartman,Woman,6
-40,Nelly's mom,Woman,4
-41,Cartman,Man,6
-42,Man,Nelly's mom,4
-43,Cartman,Nelly's mom,74
-44,Cartman,Passenger 1,3
-45,Cartman,Passenger 2,3
-46,Cartman,Pilot,48
-47,Passenger 1,Passenger 2,1
-48,Passenger 1,Pilot,1
-49,Passenger 2,Pilot,1
-50,Cartman,Passenger 3,12
-51,Worker 1,Worker 2,1
-52,Worker 1,Worker 3,1
-53,Captain,Worker 1,3
-54,Worker 1,Worker 4,2
-55,Pilot,Worker 1,2
-56,Co-pilot,Worker 1,5
-57,Cartman,Worker 1,5
-58,Passenger 3,Worker 1,2
-59,Nelly's mom,Worker 1,2
-60,Occupant,Worker 1,2
-61,Passenger 4,Worker 1,1
-62,Worker 2,Worker 3,1
-63,Captain,Worker 2,3
-64,Worker 2,Worker 4,2
-65,Pilot,Worker 2,2
-66,Co-pilot,Worker 2,5
-67,Cartman,Worker 2,5
-68,Passenger 3,Worker 2,2
-69,Nelly's mom,Worker 2,2
-70,Occupant,Worker 2,2
-71,Passenger 4,Worker 2,1
-72,Captain,Worker 3,3
-73,Worker 3,Worker 4,2
-74,Pilot,Worker 3,2
-75,Co-pilot,Worker 3,5
-76,Cartman,Worker 3,5
-77,Passenger 3,Worker 3,2
-78,Nelly's mom,Worker 3,2
-79,Occupant,Worker 3,2
-80,Passenger 4,Worker 3,1
-81,Captain,Worker 4,6
-82,Captain,Pilot,6
-83,Captain,Co-pilot,15
-84,Captain,Cartman,15
-85,Captain,Passenger 3,6
-86,Captain,Nelly's mom,6
-87,Captain,Occupant,6
-88,Captain,Passenger 4,3
-89,Pilot,Worker 4,4
-90,Co-pilot,Worker 4,10
-91,Cartman,Worker 4,10
-92,Passenger 3,Worker 4,4
-93,Nelly's mom,Worker 4,4
-94,Occupant,Worker 4,4
-95,Passenger 4,Worker 4,2
-96,Co-pilot,Pilot,10
-97,Passenger 3,Pilot,4
-98,Nelly's mom,Pilot,24
-99,Occupant,Pilot,4
-100,Passenger 4,Pilot,2
-101,Cartman,Co-pilot,25
-102,Co-pilot,Passenger 3,10
-103,Co-pilot,Nelly's mom,10
-104,Co-pilot,Occupant,10
-105,Co-pilot,Passenger 4,5
-106,Cartman,Occupant,10
-107,Cartman,Passenger 4,5
-108,Nelly's mom,Passenger 3,4
-109,Occupant,Passenger 3,4
-110,Passenger 3,Passenger 4,2
-111,Nelly's mom,Occupant,4
-112,Nelly's mom,Passenger 4,2
-113,Occupant,Passenger 4,2
-114,Butters,Girls,1
-115,Cartman,Jimbo,56
-116,Jimbo,Nelly's mom,21
-117,Cartman,Flight Attendant,1
-118,Mrs. Zimmerman,Older daughter,12
-119,George Zimmerman,Older daughter,44
-120,Older daughter,Reporter,4
-121,Older daughter,Younger daughter,4
-122,Agent 1,Older daughter,20
-123,Agent 2,Older daughter,12
-124,George Zimmerman,Mrs. Zimmerman,33
-125,Mrs. Zimmerman,Reporter,3
-126,Mrs. Zimmerman,Younger daughter,3
-127,Agent 1,Mrs. Zimmerman,15
-128,Agent 2,Mrs. Zimmerman,9
-129,George Zimmerman,Reporter,11
-130,George Zimmerman,Younger daughter,11
-131,Agent 1,George Zimmerman,55
-132,Agent 2,George Zimmerman,33
-133,Reporter,Younger daughter,1
-134,Agent 1,Reporter,5
-135,Agent 2,Reporter,3
-136,Agent 1,Younger daughter,5
-137,Agent 2,Younger daughter,3
-138,Agent 1,Agent 2,15
-139,Butters,Kyle,1
-140,Kyle,Mr. Mackey,3
+38,Cartman,Nelly's mom,74
+39,Cartman,Pilot,48
+40,Captain,Pilot,6
+41,Captain,Co-pilot,15
+42,Captain,Cartman,15
+43,Captain,Nelly's mom,6
+44,Captain,Occupant,6
+45,Co-pilot,Pilot,10
+46,Nelly's mom,Pilot,24
+47,Occupant,Pilot,4
+48,Cartman,Co-pilot,25
+49,Co-pilot,Nelly's mom,10
+50,Co-pilot,Occupant,10
+51,Cartman,Occupant,10
+52,Nelly's mom,Occupant,4
+53,Butters,Girls,1
+54,Cartman,Jimbo,56
+55,Jimbo,Nelly's mom,21
+56,Cartman,Flight Attendant,1
+57,Mrs. Zimmerman,Older daughter,12
+58,George Zimmerman,Older daughter,44
+59,Older daughter,Reporter,4
+60,Older daughter,Younger daughter,4
+61,George Zimmerman,Mrs. Zimmerman,33
+62,Mrs. Zimmerman,Reporter,3
+63,Mrs. Zimmerman,Younger daughter,3
+64,George Zimmerman,Reporter,11
+65,George Zimmerman,Younger daughter,11
+66,Reporter,Younger daughter,1
+67,Butters,Kyle,1
+68,Kyle,Mr. Mackey,3

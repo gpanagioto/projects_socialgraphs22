@@ -24,13 +24,13 @@
 22,Girl,Sheila,1
 23,Gerald,Sharon,2
 24,Sharon,Stephen,2
-25,Gerald,Stephen,10
-26,Agent 1,Man,1
-27,Agent 1,Kenny,2
-28,Butters,Kenny,10
-29,Gerald,Kyle,54
-30,Kyle,Sheila,19
-31,Cartman,Woman,12
+25,Randy,Sharon,1
+26,Gerald,Stephen,10
+27,Gerald,Randy,8
+28,Randy,Stephen,3
+29,Butters,Kenny,10
+30,Gerald,Kyle,54
+31,Kyle,Sheila,19
 32,Father,Gerald,9
 33,Gerald,Kenny,10
 34,Gerald,Jimbo,1
@@ -39,7 +39,11 @@
 37,Kenny,Sheila,2
 38,Gerald,Stan,6
 39,Sheila,Stan,1
-40,Sheila,Stephen,1
-41,Stan,Stephen,1
-42,Kyle,Stephen,1
-43,Kenny,Stephen,1
+40,Randy,Sheila,1
+41,Sheila,Stephen,1
+42,Randy,Stan,1
+43,Stan,Stephen,1
+44,Kyle,Randy,1
+45,Kyle,Stephen,1
+46,Kenny,Randy,1
+47,Kenny,Stephen,1

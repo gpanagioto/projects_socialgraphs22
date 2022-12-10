@@ -16,35 +16,39 @@
 14,Butters,Jimmy,12
 15,Cartman,Jimmy,12
 16,Roger,Thomas,6
-17,Laura Tucker,Thomas,2
-18,Laura,Thomas,10
-19,Stuart,Thomas,2
-20,Mr. Garrison,Thomas,2
-21,Laura Tucker,Roger,3
-22,Laura,Roger,9
-23,Roger,Stuart,3
-24,Mr. Garrison,Roger,3
-25,Laura,Laura Tucker,3
-26,Laura Tucker,Stuart,1
-27,Laura Tucker,Mr. Garrison,1
-28,Laura,Stuart,3
-29,Laura,Mr. Garrison,3
-30,Mr. Garrison,Stuart,1
-31,Clerk,Stephen,42
-32,Officer 1,Thomas,6
-33,Officer 1,Sgt. Yates,6
-34,Laura,Officer 1,3
-35,Officer 1,Officer 2,3
-36,Sgt. Yates,Thomas,4
-37,Officer 2,Thomas,2
-38,Laura,Sgt. Yates,2
-39,Officer 2,Sgt. Yates,2
-40,Laura,Officer 2,1
-41,Farmer,Jimbo,1
-42,Anchor,Jimbo,1
-43,Anchor,Farmer,1
-44,Mr. Garrison,Steve,1
-45,Laura,Reporter,6
-46,Laura,Stephen,4
-47,Reporter,Thomas,3
-48,Reporter,Stephen,6
+17,Randy,Thomas,6
+18,Laura Tucker,Thomas,2
+19,Laura,Thomas,10
+20,Stuart,Thomas,2
+21,Mr. Garrison,Thomas,2
+22,Randy,Roger,9
+23,Laura Tucker,Roger,3
+24,Laura,Roger,9
+25,Roger,Stuart,3
+26,Mr. Garrison,Roger,3
+27,Laura Tucker,Randy,3
+28,Laura,Randy,9
+29,Randy,Stuart,3
+30,Mr. Garrison,Randy,3
+31,Laura,Laura Tucker,3
+32,Laura Tucker,Stuart,1
+33,Laura Tucker,Mr. Garrison,1
+34,Laura,Stuart,3
+35,Laura,Mr. Garrison,3
+36,Mr. Garrison,Stuart,1
+37,Clerk,Stephen,42
+38,Sgt. Yates,Thomas,4
+39,Laura,Sgt. Yates,2
+40,Randy,Sharon,1
+41,Jimbo,Randy,1
+42,Farmer,Jimbo,1
+43,Anchor,Jimbo,1
+44,Farmer,Randy,1
+45,Anchor,Randy,1
+46,Anchor,Farmer,1
+47,Mr. Garrison,Steve,1
+48,Randy,Stephen,16
+49,Laura,Reporter,6
+50,Laura,Stephen,4
+51,Reporter,Thomas,3
+52,Reporter,Stephen,6

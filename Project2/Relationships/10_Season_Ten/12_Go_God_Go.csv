@@ -29,24 +29,13 @@
 27,Mr. Dawkins,Mr. Triscotti,3
 28,Daughter,Mr. Dawkins,1
 29,Mr. Dawkins,Mrs. Garrison,169
-30,Alien 1,Cartman,8
-31,Alien 1,Shvek,4
-32,Alien 1,Medic,2
-33,Alien 1,Analyst,1
-34,Cartman,Shvek,66
-35,Cartman,Medic,36
-36,Analyst,Cartman,8
-37,Medic,Shvek,25
-38,Analyst,Shvek,4
-39,Analyst,Medic,2
-40,Mr. Dawkins,Stan,6
-41,Butters,Dougie,84
-42,Dougie,Linda,18
-43,Butters,Linda,24
-44,Medic,UAA member 1,3
-45,Medic,UAL Member 1,3
-46,Cartman,UAA member 1,6
-47,Cartman,UAL Member 1,6
-48,Shvek,UAA member 1,5
-49,Shvek,UAL Member 1,5
-50,UAA member 1,UAL Member 1,1
+30,Cartman,Shvek,66
+31,Cartman,Medic,36
+32,Analyst,Cartman,8
+33,Medic,Shvek,25
+34,Analyst,Shvek,4
+35,Analyst,Medic,2
+36,Mr. Dawkins,Stan,6
+37,Butters,Dougie,84
+38,Dougie,Linda,18
+39,Butters,Linda,24

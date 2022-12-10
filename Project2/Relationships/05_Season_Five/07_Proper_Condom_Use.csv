@@ -7,171 +7,169 @@
 5,Kenny,Kyle,8
 6,Sharon,Stan,69
 7,Stan,Stephen,6
-8,Sharon,Stephen,7
-9,Principal Victoria,Sharon,2
-10,Sharon,Stuart,1
-11,Chef,Sharon,8
-12,Ms. Choksondik,Sharon,3
-13,Sharon,Sheila,3
-14,Adults,Sharon,1
-15,Principal Victoria,Stuart,1
-16,Chef,Principal Victoria,12
-17,Ms. Choksondik,Principal Victoria,9
-18,Principal Victoria,Sheila,3
-19,Adults,Principal Victoria,1
-20,Chef,Stuart,2
-21,Ms. Choksondik,Stuart,1
-22,Sheila,Stuart,1
-23,Adults,Stuart,1
-24,Chef,Ms. Choksondik,20
-25,Chef,Sheila,14
-26,Adults,Chef,2
-27,Ms. Choksondik,Sheila,5
-28,Adults,Ms. Choksondik,1
-29,Adults,Sheila,1
-30,Mr. Mackey,Stan,22
-31,Bebe,Wendy,12
-32,Girls,Wendy,26
-33,Ms. Choksondik,Wendy,10
-34,Bebe,Girls,13
-35,Bebe,Ms. Choksondik,4
-36,Girls,Ms. Choksondik,14
-37,Boys,Chef,3
-38,Boys,Stan,11
-39,Boys,Kyle,9
-40,Chef,Stan,21
-41,Chef,Kyle,9
-42,Girls,Stan,35
-43,Stan,Wendy,33
-44,Bebe,Stan,18
-45,Butters,Stan,51
-46,Girls,Kyle,25
-47,Cartman,Girls,10
-48,Butters,Girls,10
-49,Boys,Girls,5
-50,Kyle,Wendy,23
-51,Bebe,Kyle,14
-52,Butters,Kyle,47
-53,Cartman,Wendy,12
-54,Butters,Wendy,10
-55,Boys,Wendy,4
-56,Bebe,Cartman,10
-57,Bebe,Butters,8
-58,Bebe,Boys,2
-59,Butters,Cartman,48
-60,Boys,Cartman,6
-61,Boys,Butters,2
-62,Pharmacist,Stan,12
-63,Assistant,Stan,15
-64,Mark,Stan,9
-65,Kyle,Pharmacist,12
-66,Butters,Pharmacist,8
-67,Assistant,Pharmacist,20
-68,Mark,Pharmacist,12
-69,Cartman,Pharmacist,4
-70,Assistant,Kyle,15
-71,Kyle,Mark,9
-72,Assistant,Butters,10
-73,Butters,Mark,6
-74,Assistant,Mark,15
-75,Assistant,Cartman,5
-76,Cartman,Mark,3
-77,Mr. Mackey,Ms. Choksondik,381
-78,Butters,Tweek,9
-79,Butters,Timmy,9
-80,Kyle,Tweek,3
-81,Kyle,Timmy,3
-82,Cartman,Tweek,4
-83,Cartman,Timmy,4
-84,Stan,Tweek,3
-85,Stan,Timmy,3
-86,Timmy,Tweek,1
-87,Mr. Adler,Ms. Choksondik,3
-88,Mr. Adler,Principal Victoria,2
-89,Chef,Mr. Adler,2
-90,Jenny,Mr. Garrison,2
-91,Filmore,Jenny,1
-92,Filmore,Mr. Garrison,7
-93,Girls,Narrator,8
-94,Girl,Narrator,4
-95,Ms. Choksondik,Narrator,4
-96,Girl,Girls,2
-97,Girl,Ms. Choksondik,1
-98,Kyle,Mr. Mackey,21
-99,Cartman,Mr. Mackey,28
-100,Boys,Mr. Mackey,7
-101,Filmore,Girl,1
-102,Boy,Filmore,1
-103,Filmore,Flora,1
-104,Boy 2,Filmore,1
-105,Girl,Mr. Garrison,5
-106,Boy,Mr. Garrison,5
-107,Flora,Mr. Garrison,5
-108,Boy 2,Mr. Garrison,5
-109,Boy,Girl,1
-110,Flora,Girl,1
-111,Boy 2,Girl,1
+8,Randy,Stan,30
+9,Sharon,Stephen,7
+10,Randy,Sharon,23
+11,Randy,Stephen,1
+12,Principal Victoria,Sharon,2
+13,Sharon,Stuart,1
+14,Chef,Sharon,8
+15,Ms. Choksondik,Sharon,3
+16,Sharon,Sheila,3
+17,Adults,Sharon,1
+18,Principal Victoria,Stuart,1
+19,Chef,Principal Victoria,12
+20,Ms. Choksondik,Principal Victoria,9
+21,Principal Victoria,Sheila,3
+22,Adults,Principal Victoria,1
+23,Chef,Stuart,2
+24,Ms. Choksondik,Stuart,1
+25,Sheila,Stuart,1
+26,Adults,Stuart,1
+27,Chef,Ms. Choksondik,20
+28,Chef,Sheila,14
+29,Adults,Chef,2
+30,Ms. Choksondik,Sheila,5
+31,Adults,Ms. Choksondik,1
+32,Adults,Sheila,1
+33,Mr. Mackey,Stan,22
+34,Bebe,Wendy,12
+35,Girls,Wendy,26
+36,Ms. Choksondik,Wendy,10
+37,Bebe,Girls,13
+38,Bebe,Ms. Choksondik,4
+39,Girls,Ms. Choksondik,14
+40,Boys,Chef,3
+41,Boys,Stan,11
+42,Boys,Kyle,9
+43,Chef,Stan,21
+44,Chef,Kyle,9
+45,Girls,Stan,35
+46,Stan,Wendy,33
+47,Bebe,Stan,18
+48,Butters,Stan,51
+49,Girls,Kyle,25
+50,Cartman,Girls,10
+51,Butters,Girls,10
+52,Boys,Girls,5
+53,Kyle,Wendy,23
+54,Bebe,Kyle,14
+55,Butters,Kyle,47
+56,Cartman,Wendy,12
+57,Butters,Wendy,10
+58,Boys,Wendy,4
+59,Bebe,Cartman,10
+60,Bebe,Butters,8
+61,Bebe,Boys,2
+62,Butters,Cartman,48
+63,Boys,Cartman,6
+64,Boys,Butters,2
+65,Pharmacist,Stan,12
+66,Assistant,Stan,15
+67,Mark,Stan,9
+68,Kyle,Pharmacist,12
+69,Butters,Pharmacist,8
+70,Assistant,Pharmacist,20
+71,Mark,Pharmacist,12
+72,Cartman,Pharmacist,4
+73,Assistant,Kyle,15
+74,Kyle,Mark,9
+75,Assistant,Butters,10
+76,Butters,Mark,6
+77,Assistant,Mark,15
+78,Assistant,Cartman,5
+79,Cartman,Mark,3
+80,Mr. Mackey,Ms. Choksondik,381
+81,Butters,Tweek,9
+82,Butters,Timmy,9
+83,Kyle,Tweek,3
+84,Kyle,Timmy,3
+85,Cartman,Tweek,4
+86,Cartman,Timmy,4
+87,Stan,Tweek,3
+88,Stan,Timmy,3
+89,Timmy,Tweek,1
+90,Mr. Adler,Ms. Choksondik,3
+91,Mr. Adler,Principal Victoria,2
+92,Chef,Mr. Adler,2
+93,Jenny,Mr. Garrison,2
+94,Filmore,Jenny,1
+95,Filmore,Mr. Garrison,7
+96,Girls,Narrator,8
+97,Girl,Narrator,4
+98,Ms. Choksondik,Narrator,4
+99,Girl,Girls,2
+100,Girl,Ms. Choksondik,1
+101,Kyle,Mr. Mackey,21
+102,Cartman,Mr. Mackey,28
+103,Boys,Mr. Mackey,7
+104,Filmore,Girl,1
+105,Boy,Filmore,1
+106,Filmore,Flora,1
+107,Girl,Mr. Garrison,5
+108,Boy,Mr. Garrison,5
+109,Flora,Mr. Garrison,5
+110,Boy,Girl,1
+111,Flora,Girl,1
 112,Boy,Flora,1
-113,Boy,Boy 2,1
-114,Boy 2,Flora,1
-115,Kenny,Wendy,1
-116,Bebe,Kenny,2
-117,Butters,Kenny,2
-118,Ms. Choksondik,Stan,6
-119,Kids,Stan,6
-120,Parents,Stan,3
-121,Mr. Garrison,Stan,3
-122,Sheila,Stan,6
-123,Principal Victoria,Stan,3
-124,Gerald,Stan,3
-125,Kids,Ms. Choksondik,4
-126,Ms. Choksondik,Parents,2
-127,Mr. Garrison,Ms. Choksondik,2
-128,Kyle,Ms. Choksondik,2
-129,Gerald,Ms. Choksondik,2
-130,Cartman,Ms. Choksondik,2
-131,Chef,Kids,12
-132,Kids,Parents,2
-133,Kids,Mr. Garrison,2
-134,Kids,Sharon,2
-135,Kids,Sheila,4
-136,Kids,Principal Victoria,2
-137,Kids,Kyle,2
-138,Gerald,Kids,2
-139,Kids,Wendy,2
-140,Cartman,Kids,2
-141,Chef,Parents,6
-142,Chef,Mr. Garrison,6
-143,Chef,Gerald,6
-144,Chef,Wendy,6
-145,Cartman,Chef,6
-146,Mr. Garrison,Parents,1
-147,Parents,Sharon,1
-148,Parents,Sheila,2
-149,Parents,Principal Victoria,1
-150,Kyle,Parents,1
-151,Gerald,Parents,1
-152,Parents,Wendy,1
-153,Cartman,Parents,1
-154,Mr. Garrison,Sharon,1
-155,Mr. Garrison,Sheila,2
-156,Mr. Garrison,Principal Victoria,1
-157,Kyle,Mr. Garrison,1
-158,Gerald,Mr. Garrison,1
-159,Mr. Garrison,Wendy,1
-160,Cartman,Mr. Garrison,1
-161,Kyle,Sharon,1
-162,Gerald,Sharon,1
-163,Sharon,Wendy,1
-164,Cartman,Sharon,1
-165,Kyle,Sheila,2
-166,Gerald,Sheila,2
-167,Sheila,Wendy,2
-168,Cartman,Sheila,2
-169,Kyle,Principal Victoria,1
-170,Gerald,Principal Victoria,1
-171,Principal Victoria,Wendy,1
-172,Cartman,Principal Victoria,1
-173,Gerald,Kyle,1
-174,Gerald,Wendy,1
-175,Cartman,Gerald,1
+113,Kenny,Wendy,1
+114,Bebe,Kenny,2
+115,Butters,Kenny,2
+116,Ms. Choksondik,Stan,6
+117,Kids,Stan,6
+118,Parents,Stan,3
+119,Mr. Garrison,Stan,3
+120,Sheila,Stan,6
+121,Principal Victoria,Stan,3
+122,Gerald,Stan,3
+123,Kids,Ms. Choksondik,4
+124,Ms. Choksondik,Parents,2
+125,Mr. Garrison,Ms. Choksondik,2
+126,Kyle,Ms. Choksondik,2
+127,Gerald,Ms. Choksondik,2
+128,Cartman,Ms. Choksondik,2
+129,Chef,Kids,12
+130,Kids,Parents,2
+131,Kids,Mr. Garrison,2
+132,Kids,Sharon,2
+133,Kids,Sheila,4
+134,Kids,Principal Victoria,2
+135,Kids,Kyle,2
+136,Gerald,Kids,2
+137,Kids,Wendy,2
+138,Cartman,Kids,2
+139,Chef,Parents,6
+140,Chef,Mr. Garrison,6
+141,Chef,Gerald,6
+142,Chef,Wendy,6
+143,Cartman,Chef,6
+144,Mr. Garrison,Parents,1
+145,Parents,Sharon,1
+146,Parents,Sheila,2
+147,Parents,Principal Victoria,1
+148,Kyle,Parents,1
+149,Gerald,Parents,1
+150,Parents,Wendy,1
+151,Cartman,Parents,1
+152,Mr. Garrison,Sharon,1
+153,Mr. Garrison,Sheila,2
+154,Mr. Garrison,Principal Victoria,1
+155,Kyle,Mr. Garrison,1
+156,Gerald,Mr. Garrison,1
+157,Mr. Garrison,Wendy,1
+158,Cartman,Mr. Garrison,1
+159,Kyle,Sharon,1
+160,Gerald,Sharon,1
+161,Sharon,Wendy,1
+162,Cartman,Sharon,1
+163,Kyle,Sheila,2
+164,Gerald,Sheila,2
+165,Sheila,Wendy,2
+166,Cartman,Sheila,2
+167,Kyle,Principal Victoria,1
+168,Gerald,Principal Victoria,1
+169,Principal Victoria,Wendy,1
+170,Cartman,Principal Victoria,1
+171,Gerald,Kyle,1
+172,Gerald,Wendy,1
+173,Cartman,Gerald,1

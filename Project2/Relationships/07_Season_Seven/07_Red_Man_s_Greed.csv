@@ -1,180 +1,176 @@
 ,source,target,weight
-0,Cartman,Native American chief,3
-1,Cartman,Runs With Premise,6
-2,Cartman,Gerald,17
-3,Blackjack dealer,Cartman,3
-4,Cartman,Sheila,9
-5,Cartman,Sharon,5
-6,Native American chief,Runs With Premise,2
-7,Gerald,Native American chief,4
-8,Blackjack dealer,Native American chief,1
-9,Native American chief,Sheila,2
-10,Native American chief,Sharon,1
-11,Gerald,Runs With Premise,18
-12,Blackjack dealer,Runs With Premise,2
-13,Runs With Premise,Sheila,4
-14,Runs With Premise,Sharon,2
-15,Blackjack dealer,Gerald,20
-16,Gerald,Sheila,23
-17,Gerald,Sharon,14
-18,Blackjack dealer,Sheila,2
-19,Blackjack dealer,Sharon,1
-20,Sharon,Sheila,8
-21,Kyle,Manymoons,2
-22,Audience,Kyle,2
-23,Audience,Manymoons,4
-24,Kyle,Sheila,10
-25,Gerald,Kyle,17
-26,Cartman,Kyle,15
-27,Kyle,Sharon,6
-28,Elder 1,Elder 2,4
-29,Elder 1,Runs with Premise,22
-30,Aide 1,Elder 1,1
-31,Elder 1,Elders,1
-32,Elder 2,Runs with Premise,6
-33,Aide 1,Elder 2,1
-34,Elder 2,Elders,1
-35,Aide 1,Runs with Premise,2
+0,Cartman,Randy,15
+1,Cartman,Native American chief,3
+2,Cartman,Runs With Premise,6
+3,Cartman,Gerald,17
+4,Blackjack dealer,Cartman,3
+5,Cartman,Sheila,9
+6,Cartman,Sharon,5
+7,Native American chief,Randy,3
+8,Randy,Runs With Premise,26
+9,Gerald,Randy,70
+10,Blackjack dealer,Randy,13
+11,Randy,Sheila,17
+12,Randy,Sharon,7
+13,Native American chief,Runs With Premise,2
+14,Gerald,Native American chief,4
+15,Blackjack dealer,Native American chief,1
+16,Native American chief,Sheila,2
+17,Native American chief,Sharon,1
+18,Gerald,Runs With Premise,18
+19,Blackjack dealer,Runs With Premise,2
+20,Runs With Premise,Sheila,4
+21,Runs With Premise,Sharon,2
+22,Blackjack dealer,Gerald,20
+23,Gerald,Sheila,23
+24,Gerald,Sharon,14
+25,Blackjack dealer,Sheila,2
+26,Blackjack dealer,Sharon,1
+27,Sharon,Sheila,8
+28,Kyle,Manymoons,2
+29,Audience,Kyle,2
+30,Audience,Manymoons,4
+31,Kyle,Sheila,10
+32,Gerald,Kyle,17
+33,Cartman,Kyle,15
+34,Kyle,Sharon,6
+35,Kyle,Randy,18
 36,Elders,Runs with Premise,6
-37,Aide 1,Elders,1
-38,Jimbo,Mayor McDaniels,4
-39,Mayor McDaniels,Mr. Garrison,4
-40,Chef,Mayor McDaniels,4
-41,Jimbo,Mr. Garrison,5
-42,Chef,Jimbo,2
-43,Chef,Mr. Garrison,3
-44,Cartman,Stan,32
-45,Cartman,The boys,4
-46,Alex,Cartman,10
-47,Butters,Cartman,20
-48,Kyle,Stan,29
-49,Kyle,The boys,3
-50,Alex,Kyle,9
-51,Butters,Kyle,15
-52,Stan,The boys,6
-53,Alex,Stan,23
-54,Butters,Stan,30
-55,Alex,The boys,2
-56,Butters,The boys,5
-57,Alex,Butters,10
-58,Chris,Runs with Premise,4
-59,Mr. Garrison,Runs with Premise,16
-60,Runs with Premise,Stan,17
-61,Kyle,Runs with Premise,5
-62,Runs with Premise,Sheila,2
-63,Chef,Runs with Premise,2
-64,Jimbo,Runs with Premise,5
-65,Chris,Mr. Garrison,2
-66,Chris,Stan,8
-67,Chris,Kyle,2
-68,Chris,Sheila,2
-69,Chef,Chris,2
-70,Chris,Jimbo,2
-71,Mr. Garrison,Stan,17
-72,Kyle,Mr. Garrison,4
-73,Mr. Garrison,Sheila,1
-74,Sheila,Stan,4
-75,Chef,Stan,8
-76,Jimbo,Stan,10
-77,Chef,Kyle,1
-78,Jimbo,Kyle,3
-79,Chef,Sheila,1
-80,Jimbo,Sheila,1
-81,Runs With Premise,Stan,15
-82,Stan,Townsfolk,9
-83,Mr. Mackey,Stan,10
-84,Gerald,Stan,6
-85,Roulette Dealer,Stan,3
-86,Runs With Premise,Townsfolk,15
-87,Alex,Runs With Premise,5
-88,Mr. Mackey,Runs With Premise,5
-89,Mr. Garrison,Runs With Premise,5
-90,Kyle,Runs With Premise,5
-91,Jimbo,Runs With Premise,5
-92,Roulette Dealer,Runs With Premise,5
-93,Alex,Townsfolk,3
-94,Mr. Mackey,Townsfolk,3
-95,Gerald,Townsfolk,6
-96,Mr. Garrison,Townsfolk,3
-97,Kyle,Townsfolk,3
-98,Jimbo,Townsfolk,3
-99,Roulette Dealer,Townsfolk,3
-100,Alex,Mr. Mackey,3
-101,Alex,Gerald,2
-102,Alex,Mr. Garrison,4
-103,Alex,Jimbo,2
-104,Alex,Roulette Dealer,1
-105,Gerald,Mr. Mackey,2
-106,Mr. Garrison,Mr. Mackey,4
-107,Kyle,Mr. Mackey,2
-108,Jimbo,Mr. Mackey,2
-109,Mr. Mackey,Roulette Dealer,1
-110,Gerald,Mr. Garrison,2
-111,Gerald,Jimbo,2
-112,Gerald,Roulette Dealer,2
-113,Mr. Garrison,Roulette Dealer,1
-114,Kyle,Roulette Dealer,1
-115,Jimbo,Roulette Dealer,1
-116,Mr. Garrison,Mr. Slave,1
-117,Elder 3,Mr. Garrison,1
-118,Cartman,Mr. Garrison,2
-119,Kenny,Mr. Garrison,1
-120,Mr. Slave,Stan,4
-121,Elder 3,Mr. Slave,1
-122,Mr. Mackey,Mr. Slave,1
-123,Cartman,Mr. Slave,2
-124,Kenny,Mr. Slave,1
-125,Alex,Mr. Slave,1
-126,Chef,Mr. Slave,1
-127,Elder 3,Stan,4
-128,Kenny,Stan,4
-129,Elder 3,Mr. Mackey,1
-130,Cartman,Elder 3,2
-131,Elder 3,Kenny,1
-132,Alex,Elder 3,1
-133,Chef,Elder 3,1
-134,Cartman,Mr. Mackey,2
-135,Kenny,Mr. Mackey,1
-136,Chef,Mr. Mackey,1
-137,Cartman,Kenny,2
-138,Cartman,Chef,2
-139,Alex,Kenny,1
-140,Chef,Kenny,1
-141,Alex,Chef,1
-142,Elder 1,Stan,6
-143,A Driver,Stan,3
-144,Principal Victoria,Stan,3
-145,A Driver,Runs with Premise,3
-146,Principal Victoria,Runs with Premise,3
-147,Alex,Runs with Premise,3
-148,Mr. Mackey,Runs with Premise,3
-149,Elder 1,Kyle,2
-150,A Driver,Elder 1,2
-151,Elder 1,Mr. Garrison,4
-152,Elder 1,Principal Victoria,2
-153,Elder 1,Jimbo,2
-154,Alex,Elder 1,2
-155,Elder 1,Mr. Mackey,2
-156,A Driver,Kyle,1
-157,Kyle,Principal Victoria,1
-158,A Driver,Mr. Garrison,2
-159,A Driver,Principal Victoria,1
-160,A Driver,Jimbo,1
-161,A Driver,Alex,1
-162,A Driver,Mr. Mackey,1
-163,Mr. Garrison,Principal Victoria,2
-164,Jimbo,Principal Victoria,1
-165,Alex,Principal Victoria,1
-166,Mr. Mackey,Principal Victoria,1
+37,Mayor McDaniels,Randy,16
+38,Jimbo,Randy,14
+39,Mr. Garrison,Randy,23
+40,Chef,Randy,11
+41,Jimbo,Mayor McDaniels,4
+42,Mayor McDaniels,Mr. Garrison,4
+43,Chef,Mayor McDaniels,4
+44,Jimbo,Mr. Garrison,5
+45,Chef,Jimbo,2
+46,Chef,Mr. Garrison,3
+47,Cartman,Stan,32
+48,Cartman,The boys,4
+49,Alex,Cartman,10
+50,Butters,Cartman,20
+51,Kyle,Stan,29
+52,Kyle,The boys,3
+53,Alex,Kyle,9
+54,Butters,Kyle,15
+55,Stan,The boys,6
+56,Alex,Stan,23
+57,Butters,Stan,30
+58,Alex,The boys,2
+59,Butters,The boys,5
+60,Alex,Butters,10
+61,Randy,Runs with Premise,26
+62,Chris,Randy,10
+63,Randy,Stan,87
+64,Chris,Runs with Premise,4
+65,Mr. Garrison,Runs with Premise,16
+66,Runs with Premise,Stan,17
+67,Kyle,Runs with Premise,5
+68,Runs with Premise,Sheila,2
+69,Chef,Runs with Premise,2
+70,Jimbo,Runs with Premise,5
+71,Chris,Mr. Garrison,2
+72,Chris,Stan,8
+73,Chris,Kyle,2
+74,Chris,Sheila,2
+75,Chef,Chris,2
+76,Chris,Jimbo,2
+77,Mr. Garrison,Stan,17
+78,Kyle,Mr. Garrison,4
+79,Mr. Garrison,Sheila,1
+80,Sheila,Stan,4
+81,Chef,Stan,8
+82,Jimbo,Stan,10
+83,Chef,Kyle,1
+84,Jimbo,Kyle,3
+85,Chef,Sheila,1
+86,Jimbo,Sheila,1
+87,Runs With Premise,Stan,15
+88,Stan,Townsfolk,9
+89,Mr. Mackey,Stan,10
+90,Gerald,Stan,6
+91,Roulette Dealer,Stan,3
+92,Randy,Townsfolk,12
+93,Alex,Randy,9
+94,Mr. Mackey,Randy,7
+95,Randy,Roulette Dealer,4
+96,Runs With Premise,Townsfolk,15
+97,Alex,Runs With Premise,5
+98,Mr. Mackey,Runs With Premise,5
+99,Mr. Garrison,Runs With Premise,5
+100,Kyle,Runs With Premise,5
+101,Jimbo,Runs With Premise,5
+102,Roulette Dealer,Runs With Premise,5
+103,Alex,Townsfolk,3
+104,Mr. Mackey,Townsfolk,3
+105,Gerald,Townsfolk,6
+106,Mr. Garrison,Townsfolk,3
+107,Kyle,Townsfolk,3
+108,Jimbo,Townsfolk,3
+109,Roulette Dealer,Townsfolk,3
+110,Alex,Mr. Mackey,3
+111,Alex,Gerald,2
+112,Alex,Mr. Garrison,4
+113,Alex,Jimbo,2
+114,Alex,Roulette Dealer,1
+115,Gerald,Mr. Mackey,2
+116,Mr. Garrison,Mr. Mackey,4
+117,Kyle,Mr. Mackey,2
+118,Jimbo,Mr. Mackey,2
+119,Mr. Mackey,Roulette Dealer,1
+120,Gerald,Mr. Garrison,2
+121,Gerald,Jimbo,2
+122,Gerald,Roulette Dealer,2
+123,Mr. Garrison,Roulette Dealer,1
+124,Kyle,Roulette Dealer,1
+125,Jimbo,Roulette Dealer,1
+126,Mr. Garrison,Mr. Slave,1
+127,Cartman,Mr. Garrison,2
+128,Kenny,Mr. Garrison,1
+129,Mr. Slave,Stan,4
+130,Mr. Slave,Randy,2
+131,Mr. Mackey,Mr. Slave,1
+132,Cartman,Mr. Slave,2
+133,Kenny,Mr. Slave,1
+134,Alex,Mr. Slave,1
+135,Chef,Mr. Slave,1
+136,Kenny,Stan,4
+137,Kenny,Randy,2
+138,Cartman,Mr. Mackey,2
+139,Kenny,Mr. Mackey,1
+140,Chef,Mr. Mackey,1
+141,Cartman,Kenny,2
+142,Cartman,Chef,2
+143,Alex,Kenny,1
+144,Chef,Kenny,1
+145,Alex,Chef,1
+146,A Driver,Stan,3
+147,Principal Victoria,Stan,3
+148,A Driver,Runs with Premise,3
+149,Principal Victoria,Runs with Premise,3
+150,Alex,Runs with Premise,3
+151,Mr. Mackey,Runs with Premise,3
+152,A Driver,Kyle,1
+153,Kyle,Principal Victoria,1
+154,A Driver,Mr. Garrison,2
+155,A Driver,Principal Victoria,1
+156,A Driver,Jimbo,1
+157,A Driver,Alex,1
+158,A Driver,Mr. Mackey,1
+159,A Driver,Randy,1
+160,Mr. Garrison,Principal Victoria,2
+161,Jimbo,Principal Victoria,1
+162,Alex,Principal Victoria,1
+163,Mr. Mackey,Principal Victoria,1
+164,Principal Victoria,Randy,1
+165,Elders,Randy,3
+166,Field reporter,Randy,3
 167,Elders,Mr. Garrison,2
 168,Field reporter,Mr. Garrison,2
 169,Field reporter,Runs with Premise,4
 170,Elders,Field reporter,1
 171,Stan,Wise man,6
-172,Elder 1,Woman,2
-173,Runs with Premise,Woman,6
-174,Premise Running Thin,Woman,1
-175,Medicine Man,Woman,1
-176,Premise Running Thin,Runs with Premise,2
-177,Medicine Man,Runs with Premise,2
-178,Medicine Man,Premise Running Thin,1
+172,Premise Running Thin,Runs with Premise,2
+173,Medicine Man,Runs with Premise,2
+174,Medicine Man,Premise Running Thin,1

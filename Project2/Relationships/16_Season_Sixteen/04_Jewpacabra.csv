@@ -22,42 +22,23 @@
 20,Clyde,Tolkien,1
 21,Kyle,Tolkien,3
 22,Clyde,Kyle,3
-23,Cartman,Employee 1,6
-24,Cartman,Employee 2,3
-25,Cartman,Mr. Billings,27
-26,Cartman,Peters,3
-27,Employee 1,Employee 2,2
-28,Employee 1,Mr. Billings,4
-29,Employee 1,Peters,2
-30,Employee 2,Mr. Billings,2
-31,Employee 2,Peters,1
-32,Mr. Billings,Peters,2
-33,Bobo,Cliff,40
-34,Cliff,Matt,61
-35,Cartman,Cliff,55
-36,Cliff,Mr. Billings,7
-37,Bobo,Matt,44
-38,Bobo,Cartman,36
-39,Bobo,Mr. Billings,4
-40,Cartman,Matt,57
-41,Matt,Mr. Billings,7
-42,Butters,Mr. Billings,5
-43,Butters,Employee 3,5
-44,Cartman,Employee 3,6
-45,Employee 3,Mr. Billings,1
-46,Mr. Billing,Mr. Billings,2
-47,Cartman,Mr. Billing,3
-48,Cartman,Pharaoh,66
-49,Kyle,Pharaoh,12
-50,Kid 1,Pharaoh,6
-51,Child,Pharaoh,6
-52,Man 2,Pharaoh,6
-53,Cartman,Kid 1,11
-54,Cartman,Child,11
-55,Cartman,Man 2,11
-56,Kid 1,Kyle,2
-57,Child,Kyle,2
-58,Kyle,Man 2,2
-59,Child,Kid 1,1
-60,Kid 1,Man 2,1
-61,Child,Man 2,1
+23,Cartman,Mr. Billings,27
+24,Cartman,Peters,3
+25,Mr. Billings,Peters,2
+26,Bobo,Cliff,40
+27,Cliff,Matt,61
+28,Cartman,Cliff,55
+29,Cliff,Mr. Billings,7
+30,Bobo,Matt,44
+31,Bobo,Cartman,36
+32,Bobo,Mr. Billings,4
+33,Cartman,Matt,57
+34,Matt,Mr. Billings,7
+35,Butters,Mr. Billings,5
+36,Mr. Billing,Mr. Billings,2
+37,Cartman,Mr. Billing,3
+38,Cartman,Pharaoh,66
+39,Kyle,Pharaoh,12
+40,Child,Pharaoh,6
+41,Cartman,Child,11
+42,Child,Kyle,2

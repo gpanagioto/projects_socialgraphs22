@@ -58,53 +58,41 @@
 56,Kevin,Kyle,2
 57,Craig,Kevin,1
 58,Kevin,Stan,3
-59,Officer 1,Stephen,2
-60,Officer 2,Stephen,1
-61,Linda,Stephen,39
-62,Officer 1,Officer 2,1
-63,Linda,Officer 1,5
-64,Linda,Officer 2,1
-65,Butters,Linda,34
-66,Cartman,Linda,16
-67,Linda,Officer 3,4
-68,Butters,Stephen,28
-69,Butters,Officer 1,2
-70,Butters,Officer 3,2
-71,Cartman,Stephen,4
-72,Cartman,Officer 1,4
-73,Cartman,Officer 3,4
-74,Officer 3,Stephen,1
-75,Officer 1,Officer 3,1
-76,Ms. Garrison,Red,8
-77,Butters,Red,14
-78,Butters,Ms. Garrison,16
-79,Cartman,Ms. Garrison,12
-80,Clyde,Ms. Garrison,4
-81,Bebe,Ms. Garrison,4
-82,Bebe,Butters,22
-83,Heidi,Mrs. Turner,16
-84,An Old Farmer,Linda,5
-85,An Old Farmer,Stephen,25
-86,Butters,Heidi,25
-87,Heidi,Wendy,11
-88,Bebe,Wendy,11
-89,Red,Wendy,4
-90,Butters,Wendy,19
-91,Butters,Girls,7
-92,Girls,Wendy,5
-93,Clyde,Mrs. Turner,1
-94,Mrs. Turner,Stan,2
-95,Kyle,Mrs. Turner,1
-96,Cartman,Mrs. Turner,5
-97,Butters,Mrs. Turner,4
-98,Jason,Stan,10
-99,Bradley,Stan,5
-100,Cartman,Jason,12
-101,Bradley,Cartman,6
-102,Clyde,Jason,6
-103,Bradley,Clyde,3
-104,Craig,Jason,6
-105,Bradley,Craig,3
-106,Jason,Kyle,6
-107,Bradley,Kyle,3
-108,Bradley,Jason,2
+59,Linda,Stephen,39
+60,Butters,Linda,34
+61,Cartman,Linda,16
+62,Butters,Stephen,28
+63,Cartman,Stephen,4
+64,Ms. Garrison,Red,8
+65,Butters,Red,14
+66,Butters,Ms. Garrison,16
+67,Cartman,Ms. Garrison,12
+68,Clyde,Ms. Garrison,4
+69,Bebe,Ms. Garrison,4
+70,Bebe,Butters,22
+71,Heidi,Mrs. Turner,16
+72,An Old Farmer,Linda,5
+73,An Old Farmer,Stephen,25
+74,Butters,Heidi,25
+75,Heidi,Wendy,11
+76,Bebe,Wendy,11
+77,Red,Wendy,4
+78,Butters,Wendy,19
+79,Butters,Girls,7
+80,Girls,Wendy,5
+81,Clyde,Mrs. Turner,1
+82,Mrs. Turner,Stan,2
+83,Kyle,Mrs. Turner,1
+84,Cartman,Mrs. Turner,5
+85,Butters,Mrs. Turner,4
+86,Jason,Stan,10
+87,Bradley,Stan,5
+88,Cartman,Jason,12
+89,Bradley,Cartman,6
+90,Clyde,Jason,6
+91,Bradley,Clyde,3
+92,Craig,Jason,6
+93,Bradley,Craig,3
+94,Jason,Kyle,6
+95,Bradley,Kyle,3
+96,Bradley,Jason,2

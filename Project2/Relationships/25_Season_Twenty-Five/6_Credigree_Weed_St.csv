@@ -1,62 +1,58 @@
 ,source,target,weight
 0,Sharon,Stan,6
-1,Butters,Linda,4
-2,Linda,Stephen,2
-3,Butters,Stephen,2
-4,Butters,Kyle,3
-5,Cartman,Kyle,1
-6,Kelly-Ann,Kyle,1
-7,Butters,Cartman,27
-8,Butters,Kelly-Ann,3
-9,Cartman,Kelly-Ann,1
-10,Butters,Johnson,32
-11,Everyone,Johnson,2
-12,Johnson,Officer,33
-13,Butters,Everyone,5
-14,Butters,Officer,80
-15,Everyone,Officer,1
-16,Butters,Yates,13
-17,Butters,Public Defender,90
-18,Man,Yates,11
-19,Johnson,Yates,1
-20,Officer,Yates,1
-21,Farty O'Cool,Steve,30
-22,Farty O'Cool,Linda Black,10
-23,Linda Black,Steve,15
-24,Cartman,Officer,27
-25,Cartman,Stan,9
-26,Cartman,Johnson,9
-27,Cartman,Officers,15
-28,Officer,Stan,27
-29,Officer,Officers,45
-30,Butters,Stan,24
-31,Johnson,Stan,9
-32,Officers,Stan,15
-33,Butters,Officers,40
-34,Johnson,Officers,15
-35,Patron,Steve,1
-36,Steve,Tom,1
-37,Bill,Steve,1
-38,Patron,Tom,1
-39,Bill,Patron,1
-40,Bill,Tom,1
-41,Steve,Woman,3
-42,Steve,Stevens,6
-43,Butters,Steve,3
-44,Linda Black,Woman,1
-45,Linda Black,Stevens,2
-46,Butters,Linda Black,1
-47,Stevens,Woman,2
-48,Butters,Woman,13
-49,Butters,Stevens,2
-50,Butters,Saint Patrick,24
-51,Butters,Man,15
-52,Saint Patrick,Yates,16
-53,Everyone,Yates,2
-54,Woman,Yates,8
-55,Everyone,Saint Patrick,8
-56,Saint Patrick,Woman,32
-57,Man,Saint Patrick,40
-58,Everyone,Woman,4
-59,Everyone,Man,5
-60,Man,Woman,20
+1,Randy,Stan,99
+2,Randy,Sharon,12
+3,Randy,Towelie,24
+4,Randy,Steve,37
+5,Butters,Linda,4
+6,Linda,Stephen,2
+7,Butters,Stephen,2
+8,Butters,Kyle,3
+9,Cartman,Kyle,1
+10,Kelly-Ann,Kyle,1
+11,Butters,Cartman,27
+12,Butters,Kelly-Ann,3
+13,Cartman,Kelly-Ann,1
+14,Butters,Johnson,32
+15,Johnson,Officer,33
+16,Butters,Officer,80
+17,Butters,Yates,13
+18,Butters,Public Defender,90
+19,Johnson,Randy,31
+20,Johnson,Yates,1
+21,Officer,Randy,85
+22,Officer,Yates,1
+23,Butters,Randy,94
+24,Randy,Yates,8
+25,Farty O'Cool,Steve,30
+26,Farty O'Cool,Linda Black,10
+27,Linda Black,Steve,15
+28,Cartman,Officer,27
+29,Cartman,Randy,27
+30,Cartman,Stan,9
+31,Cartman,Johnson,9
+32,Cartman,Officers,15
+33,Officer,Stan,27
+34,Officer,Officers,45
+35,Officers,Randy,45
+36,Butters,Stan,24
+37,Johnson,Stan,9
+38,Officers,Stan,15
+39,Butters,Officers,40
+40,Johnson,Officers,15
+41,Patron,Steve,1
+42,Steve,Tom,1
+43,Bill,Steve,1
+44,Patron,Tom,1
+45,Bill,Patron,1
+46,Bill,Tom,1
+47,Linda Black,Randy,4
+48,Randy,Stevens,8
+49,Steve,Stevens,6
+50,Butters,Steve,3
+51,Linda Black,Stevens,2
+52,Butters,Linda Black,1
+53,Butters,Stevens,2
+54,Butters,Saint Patrick,24
+55,Saint Patrick,Yates,16
+56,Randy,Saint Patrick,16

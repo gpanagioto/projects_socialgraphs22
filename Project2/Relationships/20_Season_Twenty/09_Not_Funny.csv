@@ -17,56 +17,53 @@
 15,Cartman,Elon Musk,18
 16,Butters,Cartman,35
 17,Butters,Elon Musk,3
-18,Dane 2,Gerald,1
-19,Bedrager,Gerald,59
-20,Anonymous821,Gerald,5
-21,Bedrager,Dane 2,2
-22,Anonymous821,Dane 2,1
-23,Anonymous821,Bedrager,2
-24,Everyone,Harrison,1
-25,Everyone,Men,1
-26,Everyone,Kyle,4
-27,Everyone,Ike,1
-28,Everyone,Prayers,2
-29,Everyone,Stephen,1
-30,Harrison,Men,1
-31,Harrison,Kyle,4
-32,Harrison,Ike,1
-33,Harrison,Prayers,2
-34,Kyle,Men,4
-35,Ike,Men,1
-36,Men,Prayers,2
-37,Men,Stephen,1
-38,Kyle,Prayers,8
-39,Kyle,Stephen,4
-40,Ike,Prayers,2
-41,Ike,Stephen,1
-42,Prayers,Stephen,2
-43,Garrison,Second General,13
-44,Army Soldier,Garrison,13
-45,Garrison,Mr. Slave,52
-46,Army Soldier,Second General,2
-47,Mr. Slave,Second General,1
-48,Army Soldier,Mr. Slave,1
-49,Garrison,Ike,37
-50,First General,Garrison,7
-51,Garrison,Kyle,97
-52,Ike,Mr. Slave,7
-53,First General,Mr. Slave,7
-54,Kyle,Mr. Slave,7
-55,First General,Ike,1
-56,First General,Kyle,1
-57,Anonymous821,Dick,3
-58,Anonymous821,Trolls,1
-59,Dick,Gerald,12
-60,Dick,Trolls,3
-61,Gerald,Trolls,4
-62,Kyle,Second General,9
-63,Ike,Second General,3
-64,Army Soldier,Kyle,9
-65,Army Soldier,Ike,3
-66,Heidi,SpaceX Employee,7
-67,Cartman,SpaceX Employee,5
-68,Music video,TrollTrace Employee,1
-69,Dick,Music video,1
-70,Dick,TrollTrace Employee,1
+18,Bedrager,Gerald,59
+19,Anonymous821,Gerald,5
+20,Anonymous821,Bedrager,2
+21,Harrison,Men,1
+22,Harrison,Kyle,4
+23,Harrison,Ike,1
+24,Harrison,Randy,3
+25,Harrison,Prayers,2
+26,Kyle,Men,4
+27,Ike,Men,1
+28,Men,Randy,3
+29,Men,Prayers,2
+30,Men,Stephen,1
+31,Kyle,Randy,12
+32,Kyle,Prayers,8
+33,Kyle,Stephen,4
+34,Ike,Randy,3
+35,Ike,Prayers,2
+36,Ike,Stephen,1
+37,Prayers,Randy,6
+38,Randy,Stephen,3
+39,Prayers,Stephen,2
+40,Garrison,Second General,13
+41,Army Soldier,Garrison,13
+42,Garrison,Mr. Slave,52
+43,Army Soldier,Second General,2
+44,Mr. Slave,Second General,1
+45,Army Soldier,Mr. Slave,1
+46,Garrison,Ike,37
+47,First General,Garrison,7
+48,Garrison,Kyle,97
+49,Ike,Mr. Slave,7
+50,First General,Mr. Slave,7
+51,Kyle,Mr. Slave,7
+52,First General,Ike,1
+53,First General,Kyle,1
+54,Anonymous821,Dick,3
+55,Anonymous821,Trolls,1
+56,Dick,Gerald,12
+57,Dick,Trolls,3
+58,Gerald,Trolls,4
+59,Kyle,Second General,9
+60,Ike,Second General,3
+61,Army Soldier,Kyle,9
+62,Army Soldier,Ike,3
+63,Heidi,SpaceX Employee,7
+64,Cartman,SpaceX Employee,5
+65,Music video,TrollTrace Employee,1
+66,Dick,Music video,1
+67,Dick,TrollTrace Employee,1

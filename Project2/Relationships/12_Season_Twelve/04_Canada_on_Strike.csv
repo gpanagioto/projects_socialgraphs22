@@ -9,141 +9,107 @@
 7,Stephen Abootman,WCB President,1
 8,Craig,WCB President,1
 9,Craig,Stephen Abootman,1
-10,Lumberjack,Man 1,1
-11,Man 1,Stephen Abootman,2
-12,Man 1,Woman 1,1
-13,Man 1,Man 2,1
-14,Man 1,Man 3,1
-15,Border Guard,Man 1,1
-16,Lumberjack,Stephen Abootman,4
-17,Lumberjack,Woman 1,1
-18,Lumberjack,Man 2,1
-19,Lumberjack,Man 3,1
-20,Border Guard,Lumberjack,1
-21,Stephen Abootman,Woman 1,2
-22,Man 2,Stephen Abootman,2
-23,Man 3,Stephen Abootman,2
-24,Border Guard,Stephen Abootman,2
-25,Man 2,Woman 1,1
-26,Man 3,Woman 1,1
-27,Border Guard,Woman 1,1
-28,Man 2,Man 3,1
-29,Border Guard,Man 2,1
-30,Border Guard,Man 3,1
-31,French delegate,Stephen Abootman,25
-32,Aide 1,Stephen Abootman,35
-33,Japanese delegate,Stephen Abootman,7
-34,British delegate,Stephen Abootman,14
-35,Aide 1,French delegate,6
-36,French delegate,Japanese delegate,3
-37,British delegate,French delegate,6
-38,Aide 1,Japanese delegate,2
-39,Aide 1,British delegate,4
-40,British delegate,Japanese delegate,2
-41,Cartman,Kyle,28
-42,Cartman,Stan,17
-43,Butters,Cartman,23
-44,Announcer,Cartman,4
-45,Cartman,Terrance,8
-46,Cartman,Phillip,8
-47,Cartman,Peter Griffin,8
-48,Kyle,Stan,23
-49,Butters,Kyle,22
-50,Announcer,Kyle,2
-51,Kyle,Terrance,20
-52,Kyle,Phillip,8
-53,Kyle,Peter Griffin,4
-54,Butters,Stan,14
-55,Announcer,Stan,3
-56,Stan,Terrance,6
-57,Phillip,Stan,6
-58,Peter Griffin,Stan,6
-59,Announcer,Butters,3
-60,Butters,Terrance,6
-61,Butters,Phillip,6
-62,Butters,Peter Griffin,6
-63,Announcer,Terrance,2
-64,Announcer,Phillip,2
-65,Announcer,Peter Griffin,2
-66,Phillip,Terrance,14
-67,Peter Griffin,Terrance,4
-68,Peter Griffin,Phillip,4
-69,Stephen Abootman,Terrance,64
-70,Phillip,Stephen Abootman,30
-71,Stephen Abootman,Weird Hat Guy,12
-72,Kyle,Stephen Abootman,88
-73,Terrance,Weird Hat Guy,4
-74,Aide 1,Terrance,6
-75,Phillip,Weird Hat Guy,1
-76,Aide 1,Phillip,3
-77,Aide 1,Weird Hat Guy,1
-78,Kyle,Weird Hat Guy,4
-79,Aide 1,Kyle,4
-80,Aide 1,Tom,3
-81,Aide 1,Reporter,1
-82,Aide 1,Woman 2,1
-83,Stephen Abootman,Tom,21
-84,Reporter,Stephen Abootman,7
-85,Stephen Abootman,Woman 2,7
-86,Reporter,Tom,3
-87,Phillip,Tom,6
-88,Terrance,Tom,6
-89,Tom,Woman 2,3
-90,Phillip,Reporter,2
-91,Reporter,Terrance,2
-92,Reporter,Woman 2,1
-93,Phillip,Woman 2,2
-94,Terrance,Woman 2,2
-95,Danish man,Danish woman,2
-96,Cartman,Clerk,6
-97,Clerk,Tay Zonday,6
-98,Butters,Clerk,6
-99,Clerk,Tron Guy,6
-100,Clerk,Stan,2
-101,Clerk,Numa Numa Guy,2
-102,Chris Crocker,Clerk,2
-103,Clerk,Kyle,8
-104,Clerk,Stephen Abootman,8
-105,Cartman,Tay Zonday,11
-106,Cartman,Tron Guy,10
-107,Cartman,Numa Numa Guy,3
-108,Cartman,Chris Crocker,5
-109,Butters,Tay Zonday,9
-110,Tay Zonday,Tron Guy,15
-111,Stan,Tay Zonday,3
-112,Numa Numa Guy,Tay Zonday,3
-113,Chris Crocker,Tay Zonday,11
-114,Kyle,Tay Zonday,12
-115,Stephen Abootman,Tay Zonday,12
-116,Butters,Tron Guy,9
-117,Butters,Numa Numa Guy,3
-118,Butters,Chris Crocker,3
-119,Butters,Stephen Abootman,12
-120,Stan,Tron Guy,3
-121,Numa Numa Guy,Tron Guy,3
-122,Chris Crocker,Tron Guy,6
-123,Kyle,Tron Guy,12
-124,Stephen Abootman,Tron Guy,12
-125,Numa Numa Guy,Stan,1
-126,Chris Crocker,Stan,1
-127,Stan,Stephen Abootman,12
-128,Chris Crocker,Numa Numa Guy,1
-129,Kyle,Numa Numa Guy,4
-130,Numa Numa Guy,Stephen Abootman,4
-131,Chris Crocker,Kyle,4
-132,Chris Crocker,Stephen Abootman,4
-133,Star Wars Kid,Tay Zonday,8
-134,Afro Ninja,Tay Zonday,4
-135,Star Wars Kid,Tron Guy,2
-136,Afro Ninja,Star Wars Kid,2
-137,Chris Crocker,Star Wars Kid,2
-138,Afro Ninja,Tron Guy,1
-139,Afro Ninja,Chris Crocker,1
-140,Stephen Abootman,Swiss delegate,4
-141,French delegate,Kyle,8
-142,French delegate,Swiss delegate,4
-143,Kyle,Swiss delegate,8
-144,Aide 1,Lumberjack,1
-145,Ike,Kyle,2
-146,Ike,Stan,2
-147,Butters,Ike,1
+10,Lumberjack,Stephen Abootman,4
+11,Border Guard,Lumberjack,1
+12,Border Guard,Stephen Abootman,2
+13,French delegate,Stephen Abootman,25
+14,Japanese delegate,Stephen Abootman,7
+15,British delegate,Stephen Abootman,14
+16,French delegate,Japanese delegate,3
+17,British delegate,French delegate,6
+18,British delegate,Japanese delegate,2
+19,Husband,Wife,6
+20,Cartman,Kyle,28
+21,Cartman,Stan,17
+22,Butters,Cartman,23
+23,Announcer,Cartman,4
+24,Cartman,Terrance,8
+25,Cartman,Phillip,8
+26,Cartman,Peter Griffin,8
+27,Kyle,Stan,23
+28,Butters,Kyle,22
+29,Announcer,Kyle,2
+30,Kyle,Terrance,20
+31,Kyle,Phillip,8
+32,Kyle,Peter Griffin,4
+33,Butters,Stan,14
+34,Announcer,Stan,3
+35,Stan,Terrance,6
+36,Phillip,Stan,6
+37,Peter Griffin,Stan,6
+38,Announcer,Butters,3
+39,Butters,Terrance,6
+40,Butters,Phillip,6
+41,Butters,Peter Griffin,6
+42,Announcer,Terrance,2
+43,Announcer,Phillip,2
+44,Announcer,Peter Griffin,2
+45,Phillip,Terrance,14
+46,Peter Griffin,Terrance,4
+47,Peter Griffin,Phillip,4
+48,Stephen Abootman,Terrance,64
+49,Phillip,Stephen Abootman,30
+50,Stephen Abootman,Weird Hat Guy,12
+51,Kyle,Stephen Abootman,88
+52,Terrance,Weird Hat Guy,4
+53,Phillip,Weird Hat Guy,1
+54,Kyle,Weird Hat Guy,4
+55,Stephen Abootman,Tom,21
+56,Reporter,Stephen Abootman,7
+57,Reporter,Tom,3
+58,Phillip,Tom,6
+59,Terrance,Tom,6
+60,Phillip,Reporter,2
+61,Reporter,Terrance,2
+62,Danish man,Danish woman,2
+63,Cartman,Clerk,6
+64,Clerk,Tay Zonday,6
+65,Butters,Clerk,6
+66,Clerk,Tron Guy,6
+67,Clerk,Stan,2
+68,Clerk,Numa Numa Guy,2
+69,Chris Crocker,Clerk,2
+70,Clerk,Kyle,8
+71,Clerk,Stephen Abootman,8
+72,Cartman,Tay Zonday,11
+73,Cartman,Tron Guy,10
+74,Cartman,Numa Numa Guy,3
+75,Cartman,Chris Crocker,5
+76,Butters,Tay Zonday,9
+77,Tay Zonday,Tron Guy,15
+78,Stan,Tay Zonday,3
+79,Numa Numa Guy,Tay Zonday,3
+80,Chris Crocker,Tay Zonday,11
+81,Kyle,Tay Zonday,12
+82,Stephen Abootman,Tay Zonday,12
+83,Butters,Tron Guy,9
+84,Butters,Numa Numa Guy,3
+85,Butters,Chris Crocker,3
+86,Butters,Stephen Abootman,12
+87,Stan,Tron Guy,3
+88,Numa Numa Guy,Tron Guy,3
+89,Chris Crocker,Tron Guy,6
+90,Kyle,Tron Guy,12
+91,Stephen Abootman,Tron Guy,12
+92,Numa Numa Guy,Stan,1
+93,Chris Crocker,Stan,1
+94,Stan,Stephen Abootman,12
+95,Chris Crocker,Numa Numa Guy,1
+96,Kyle,Numa Numa Guy,4
+97,Numa Numa Guy,Stephen Abootman,4
+98,Chris Crocker,Kyle,4
+99,Chris Crocker,Stephen Abootman,4
+100,Star Wars Kid,Tay Zonday,8
+101,Afro Ninja,Tay Zonday,4
+102,Star Wars Kid,Tron Guy,2
+103,Afro Ninja,Star Wars Kid,2
+104,Chris Crocker,Star Wars Kid,2
+105,Afro Ninja,Tron Guy,1
+106,Afro Ninja,Chris Crocker,1
+107,Stephen Abootman,Swiss delegate,4
+108,French delegate,Kyle,8
+109,French delegate,Swiss delegate,4
+110,Kyle,Swiss delegate,8
+111,Ike,Kyle,2
+112,Ike,Stan,2
+113,Butters,Ike,1

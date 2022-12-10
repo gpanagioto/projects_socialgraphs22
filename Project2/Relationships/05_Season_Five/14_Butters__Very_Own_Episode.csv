@@ -3,72 +3,48 @@
 1,Butters,Chris,215
 2,Butters,Linda,265
 3,Attendant,Butters,1
-4,Man,Mr. Garrison,2
-5,Butters,Man,1
-6,Butters,Mr. Garrison,2
-7,Butters,Mr. Slave,4
-8,Chris,Mr. Slave,4
-9,Linda,Reporter 1,3
-10,News 4 Reporter,Reporter 1,1
-11,Reporter 1,Reporter 2,1
-12,Linda,News 4 Reporter,3
-13,Linda,Reporter 2,3
-14,News 4 Reporter,Reporter 2,1
-15,Barbrady,Butters,12
-16,Barbrady,Officer 1,4
-17,Barbrady,Police chief,4
-18,Barbrady,Officer 2,4
-19,Barbrady,John Ramsey,12
-20,Barbrady,Patsy Ramsey,12
-21,Barbrady,Linda,4
-22,Barbrady,Chris,4
-23,Barbrady,The Ramseys,4
-24,Butters,Officer 1,3
-25,Butters,Police chief,3
-26,Butters,Officer 2,3
-27,Butters,John Ramsey,9
-28,Butters,Patsy Ramsey,9
-29,Butters,The Ramseys,3
-30,Officer 1,Police chief,1
-31,Officer 1,Officer 2,1
-32,John Ramsey,Officer 1,3
-33,Officer 1,Patsy Ramsey,3
-34,Linda,Officer 1,1
-35,Chris,Officer 1,1
-36,Officer 1,The Ramseys,1
-37,Officer 2,Police chief,1
-38,John Ramsey,Police chief,3
-39,Patsy Ramsey,Police chief,3
-40,Linda,Police chief,1
-41,Chris,Police chief,1
-42,Police chief,The Ramseys,1
-43,John Ramsey,Officer 2,3
-44,Officer 2,Patsy Ramsey,3
-45,Linda,Officer 2,1
-46,Chris,Officer 2,1
-47,Officer 2,The Ramseys,1
-48,John Ramsey,Patsy Ramsey,29
-49,John Ramsey,Linda,11
-50,Chris,John Ramsey,11
-51,John Ramsey,The Ramseys,3
-52,Linda,Patsy Ramsey,13
-53,Chris,Patsy Ramsey,13
-54,Patsy Ramsey,The Ramseys,3
-55,Linda,The Ramseys,1
-56,Chris,The Ramseys,1
-57,Butters,Mechanic,30
-58,A Politician,Chris,2
-59,Chris,Gary Condit,10
-60,Chris,O.J. Simpson,8
-61,A Politician,Patsy Ramsey,5
-62,Gary Condit,Patsy Ramsey,25
-63,O.J. Simpson,Patsy Ramsey,20
-64,A Politician,Linda,2
-65,Gary Condit,Linda,10
-66,Linda,O.J. Simpson,8
-67,A Politician,John Ramsey,4
-68,Gary Condit,John Ramsey,20
-69,John Ramsey,O.J. Simpson,16
-70,A Politician,Gary Condit,5
-71,A Politician,O.J. Simpson,4
-72,Gary Condit,O.J. Simpson,20
+4,Butters,Mr. Garrison,2
+5,Butters,Mr. Slave,4
+6,Chris,Mr. Slave,4
+7,Linda,News 4 Reporter,3
+8,Barbrady,Butters,12
+9,Barbrady,Police chief,4
+10,Barbrady,John Ramsey,12
+11,Barbrady,Patsy Ramsey,12
+12,Barbrady,Linda,4
+13,Barbrady,Chris,4
+14,Barbrady,The Ramseys,4
+15,Butters,Police chief,3
+16,Butters,John Ramsey,9
+17,Butters,Patsy Ramsey,9
+18,Butters,The Ramseys,3
+19,John Ramsey,Police chief,3
+20,Patsy Ramsey,Police chief,3
+21,Linda,Police chief,1
+22,Chris,Police chief,1
+23,Police chief,The Ramseys,1
+24,John Ramsey,Patsy Ramsey,29
+25,John Ramsey,Linda,11
+26,Chris,John Ramsey,11
+27,John Ramsey,The Ramseys,3
+28,Linda,Patsy Ramsey,13
+29,Chris,Patsy Ramsey,13
+30,Patsy Ramsey,The Ramseys,3
+31,Linda,The Ramseys,1
+32,Chris,The Ramseys,1
+33,Butters,Mechanic,30
+34,A Politician,Chris,2
+35,Chris,Gary Condit,10
+36,Chris,O.J. Simpson,8
+37,A Politician,Patsy Ramsey,5
+38,Gary Condit,Patsy Ramsey,25
+39,O.J. Simpson,Patsy Ramsey,20
+40,A Politician,Linda,2
+41,Gary Condit,Linda,10
+42,Linda,O.J. Simpson,8
+43,A Politician,John Ramsey,4
+44,Gary Condit,John Ramsey,20
+45,John Ramsey,O.J. Simpson,16
+46,A Politician,Gary Condit,5
+47,A Politician,O.J. Simpson,4
+48,Gary Condit,O.J. Simpson,20

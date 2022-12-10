@@ -9,96 +9,50 @@
 7,Cartman,Kyle,100
 8,Butters,Kyle,116
 9,Jimmy,Kyle,28
-10,Butters,Woman,3
-11,Butters,Eugene,3
-12,Butters,Water Tester,3
-13,Kyle,Woman,11
-14,Eugene,Kyle,11
-15,Kyle,Water Tester,11
-16,Stan,Woman,7
-17,Eugene,Stan,7
-18,Stan,Water Tester,7
-19,Cartman,Woman,9
-20,Cartman,Eugene,9
-21,Cartman,Water Tester,9
-22,Eugene,Woman,1
-23,Water Tester,Woman,1
-24,Eugene,Water Tester,1
-25,Assistant,Water Tester,10
-26,Assistant,Pi-Pi,6
-27,Assistant,Lawyer,4
-28,Pi-Pi,Water Tester,15
-29,Lawyer,Water Tester,10
-30,Lawyer,Pi-Pi,6
-31,Man 1,Stan,2
-32,Man 2,Stan,2
-33,Pi-Pi,Stan,37
-34,Jimmy,Man 1,1
-35,Jimmy,Man 2,1
-36,Jimmy,Pi-Pi,10
-37,Man 1,Man 2,3
-38,Kyle,Man 1,2
-39,Man 1,Pi-Pi,1
-40,Kyle,Man 2,2
-41,Man 2,Pi-Pi,1
-42,Kyle,Pi-Pi,99
-43,Fire Marshal,Officer 1,7
-44,Fire Marshal,Water Tester,55
-45,Fire Marshal,Officer 2,7
-46,Fire Marshal,Fireman 1,7
-47,Officer 1,Water Tester,6
-48,Officer 1,Officer 2,1
-49,Fireman 1,Officer 1,1
-50,Officer 2,Water Tester,6
-51,Fireman 1,Water Tester,6
-52,Fireman 1,Officer 2,1
-53,Cartman,Man 1,3
-54,Man 1,Woman 1,1
-55,Man 1,Woman 2,1
-56,Man 1,Man 3,1
-57,Cartman,Man 2,6
-58,Cartman,Woman 1,3
-59,Cartman,Woman 2,3
-60,Cartman,Man 3,3
-61,Man 2,Woman 1,2
-62,Man 2,Woman 2,2
-63,Man 2,Man 3,2
-64,Woman 1,Woman 2,1
-65,Man 3,Woman 1,1
-66,Man 3,Woman 2,1
-67,Fire Marshal,Sharon,8
-68,Researcher 1,Sharon,4
-69,Sharon,Water Tester,2
-70,Fire Marshal,Researcher 1,8
-71,Researcher 1,Water Tester,2
-72,Butters,Pi-Pi,25
-73,Cartman,Teacher,21
-74,Señor Lopez,Teacher,6
-75,Councilman,Teacher,9
-76,Audience,Teacher,3
-77,Cartman,Señor Lopez,14
-78,Cartman,Councilman,21
-79,Audience,Cartman,7
-80,Councilman,Señor Lopez,6
-81,Audience,Señor Lopez,2
-82,Audience,Councilman,3
-83,Researcher 2,Water Tester,3
-84,Fire Marshal,Researcher 2,3
-85,Fireman 2,Researcher 2,1
-86,Police Captain,Researcher 2,1
-87,Researcher 2,Researcher 3,1
-88,Fireman 3,Researcher 2,1
-89,Fireman 2,Water Tester,3
-90,Police Captain,Water Tester,3
-91,Researcher 3,Water Tester,3
-92,Fireman 3,Water Tester,3
-93,Fire Marshal,Fireman 2,3
-94,Fire Marshal,Police Captain,3
-95,Fire Marshal,Researcher 3,3
-96,Fire Marshal,Fireman 3,3
-97,Fireman 2,Police Captain,1
-98,Fireman 2,Researcher 3,1
-99,Fireman 2,Fireman 3,1
-100,Police Captain,Researcher 3,1
-101,Fireman 3,Police Captain,1
-102,Fireman 3,Researcher 3,1
+10,Butters,Eugene,3
+11,Butters,Water Tester,3
+12,Eugene,Kyle,11
+13,Kyle,Water Tester,11
+14,Eugene,Stan,7
+15,Stan,Water Tester,7
+16,Cartman,Eugene,9
+17,Cartman,Water Tester,9
+18,Eugene,Water Tester,1
+19,Assistant,Water Tester,10
+20,Assistant,Pi-Pi,6
+21,Assistant,Lawyer,4
+22,Pi-Pi,Water Tester,15
+23,Lawyer,Water Tester,10
+24,Lawyer,Pi-Pi,6
+25,Stan,Woman Who Loses Baby,2
+26,Pi-Pi,Stan,37
+27,Jimmy,Woman Who Loses Baby,1
+28,Jimmy,Pi-Pi,10
+29,Kyle,Woman Who Loses Baby,2
+30,Pi-Pi,Woman Who Loses Baby,1
+31,Kyle,Pi-Pi,99
+32,Fire Marshal,Randy,48
+33,Randy,Water Tester,38
+34,Fire Marshal,Water Tester,55
+35,Randy,Sharon,5
+36,Fire Marshal,Sharon,8
+37,Sharon,Water Tester,2
+38,Butters,Pi-Pi,25
+39,Cartman,Teacher,21
+40,Señor Lopez,Teacher,6
+41,Councilman,Teacher,9
+42,Audience,Teacher,3
+43,Cartman,Señor Lopez,14
+44,Cartman,Councilman,21
+45,Audience,Cartman,7
+46,Councilman,Señor Lopez,6
+47,Audience,Señor Lopez,2
+48,Audience,Councilman,3
+49,Police Captain,Water Tester,3
+50,Fire Marshal,Police Captain,3
+51,Police Captain,Randy,4
+52,Kyle,Randy,4
+53,Jimmy,Randy,1
+54,Pi-Pi,Randy,3
+55,Butters,Randy,2
+56,Randy,Stan,1

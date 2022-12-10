@@ -81,16 +81,4 @@
 79,Cartman,Reporter,2
 80,Gingers,Reporter,1
 81,Cartman,Gary Nelson,21
-82,Cartman,Ginger 1,7
-83,Cartman,Ginger 2,7
-84,Cartman,Ginger 3,7
-85,Gary Nelson,Gingers,9
-86,Ginger 1,Gingers,3
-87,Ginger 2,Gingers,3
-88,Ginger 3,Gingers,3
-89,Gary Nelson,Ginger 1,3
-90,Gary Nelson,Ginger 2,3
-91,Gary Nelson,Ginger 3,3
-92,Ginger 1,Ginger 2,1
-93,Ginger 1,Ginger 3,1
-94,Ginger 2,Ginger 3,1
+82,Gary Nelson,Gingers,9

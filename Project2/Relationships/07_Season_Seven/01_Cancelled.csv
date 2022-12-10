@@ -3,97 +3,61 @@
 1,Ike,Kyle,48
 2,Kyle,Stan,378
 3,Chef,Kyle,388
-4,All,Kyle,32
-5,Cartman,Ike,39
-6,Cartman,Stan,380
-7,Cartman,Chef,439
-8,All,Cartman,26
-9,Ike,Stan,27
-10,Chef,Ike,21
-11,All,Ike,6
-12,Chef,Stan,241
-13,All,Stan,18
-14,All,Chef,14
-15,Chef,Proctologist,72
-16,Proctologist,Stan,36
-17,Kyle,Proctologist,36
-18,Cartman,Proctologist,81
-19,Chef,Jeff,125
-20,Cartman,Jeff,102
-21,Jeff,Kyle,90
-22,Jeff,Stan,54
-23,Jeff,Kenny,18
-24,Jeff,Narrator,12
-25,Jeff,Visitor Driver,6
-26,Jeff,The boys,12
-27,Chef,Kenny,52
-28,Chef,Narrator,32
-29,Chef,Visitor Driver,16
-30,Chef,The boys,34
-31,Cartman,Kenny,69
-32,Cartman,Narrator,34
-33,Cartman,Visitor Driver,17
-34,Cartman,The boys,56
-35,Kenny,Kyle,62
-36,Kyle,Narrator,30
-37,Kyle,Visitor Driver,15
-38,Kyle,The boys,53
-39,Kenny,Stan,52
-40,Narrator,Stan,18
-41,Stan,Visitor Driver,9
-42,Stan,The boys,54
-43,Kenny,Narrator,6
-44,Kenny,Visitor Driver,3
-45,Kenny,The boys,15
-46,Narrator,Visitor Driver,2
-47,Narrator,The boys,4
-48,The boys,Visitor Driver,2
-49,Alien,Kyle,60
-50,Alien,Stan,104
-51,Alien,Cartman,56
-52,Alien,Kenny,22
-53,Alien,The boys,42
-54,Jeff,Man,3
-55,Announcer,Man,1
-56,Man,Man 2,1
-57,Man,Man 3,1
-58,Man,Man 4,1
-59,Man,Others,1
-60,Announcer,Jeff,3
-61,Jeff,Man 2,3
-62,Jeff,Man 3,3
-63,Jeff,Man 4,3
-64,Jeff,Others,3
-65,Announcer,Man 2,1
-66,Announcer,Man 3,1
-67,Announcer,Man 4,1
-68,Announcer,Others,1
-69,Man 2,Man 3,1
-70,Man 2,Man 4,1
-71,Man 2,Others,1
-72,Man 3,Man 4,1
-73,Man 3,Others,1
-74,Man 4,Others,1
-75,Kyle,Najix,10
-76,Kyle,Staff,2
-77,Najix,Stan,15
-78,Najix,Staff,5
-79,Staff,Stan,3
-80,Receptionist,Stan,6
-81,Joozian 1,Receptionist,15
-82,Joozian 2,Receptionist,12
-83,Kyle,Receptionist,3
-84,Joozian 1,Stan,46
-85,Joozian 2,Stan,27
-86,Joozian 1,Joozian 2,65
-87,Joozian 1,Kyle,26
-88,Joozian 2,Kyle,15
-89,Stan,Waitress,4
-90,Kyle,Waitress,2
-91,Joozian 1,Waitress,5
-92,Cartman,Joozian 1,13
-93,Joozian 2,Waitress,2
-94,Cartman,Joozian 2,8
-95,Cartman,Waitress,1
-96,Joozian 1,The boys,4
-97,Joozian 2,The boys,3
+4,Cartman,Ike,39
+5,Cartman,Stan,380
+6,Cartman,Chef,439
+7,Ike,Stan,27
+8,Chef,Ike,21
+9,Chef,Stan,241
+10,Chef,Proctologist,72
+11,Proctologist,Stan,36
+12,Kyle,Proctologist,36
+13,Cartman,Proctologist,81
+14,Chef,Jeff,125
+15,Cartman,Jeff,102
+16,Jeff,Kyle,90
+17,Jeff,Stan,54
+18,Jeff,Kenny,18
+19,Jeff,Narrator,12
+20,Jeff,Visitor Driver,6
+21,Jeff,The boys,12
+22,Chef,Kenny,52
+23,Chef,Narrator,32
+24,Chef,Visitor Driver,16
+25,Chef,The boys,34
+26,Cartman,Kenny,69
+27,Cartman,Narrator,34
+28,Cartman,Visitor Driver,17
+29,Cartman,The boys,56
+30,Kenny,Kyle,62
+31,Kyle,Narrator,30
+32,Kyle,Visitor Driver,15
+33,Kyle,The boys,53
+34,Kenny,Stan,52
+35,Narrator,Stan,18
+36,Stan,Visitor Driver,9
+37,Stan,The boys,54
+38,Kenny,Narrator,6
+39,Kenny,Visitor Driver,3
+40,Kenny,The boys,15
+41,Narrator,Visitor Driver,2
+42,Narrator,The boys,4
+43,The boys,Visitor Driver,2
+44,Alien,Kyle,60
+45,Alien,Stan,104
+46,Alien,Cartman,56
+47,Alien,Kenny,22
+48,Alien,The boys,42
+49,Announcer,Jeff,3
+50,Jeff,Others,3
+51,Announcer,Others,1
+52,Kyle,Najix,10
+53,Kyle,Staff,2
+54,Najix,Stan,15
+55,Najix,Staff,5
+56,Staff,Stan,3
+57,Receptionist,Stan,6
+58,Kyle,Receptionist,3
+59,Stan,Waitress,4
+60,Kyle,Waitress,2
+61,Cartman,Waitress,1

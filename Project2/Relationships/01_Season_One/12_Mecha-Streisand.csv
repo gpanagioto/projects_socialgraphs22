@@ -13,21 +13,25 @@
 11,Chef,Leonard Maltin,92
 12,Kenny,Kyle,2
 13,Cartman,Kenny,1
-14,Kyle,Stan,49
-15,Cartman,Officer Barbrady,2
-16,Officer Barbrady,Stan,2
-17,Cartman,Ike,9
-18,Ike,Kyle,6
-19,Director,Sidney Poitier,1
-20,Princesses,Sidney Poitier,6
-21,Leonard Maltin,Stan,1
-22,Chef,Robert Smith,8
-23,Mr. Garrison,Singer,1
-24,Chef,Sidney Poitier,9
-25,Chef,Woman,1
-26,Chef,Stan,2
-27,Cartman,Chef,2
-28,Robert Smith,Stan,2
-29,Cartman,Robert Smith,4
-30,Jesus,Kyle,1
-31,Jesus,Stan,1
+14,Barbra Streisand,Kyle,78
+15,Kyle,Stan,49
+16,Barbra Streisand,Stan,86
+17,Barbra Streisand,Cartman,43
+18,Barbra Streisand,Officer Barbrady,6
+19,Cartman,Officer Barbrady,2
+20,Officer Barbrady,Stan,2
+21,Barbra Streisand,Milo,4
+22,Cartman,Ike,9
+23,Ike,Kyle,6
+24,Director,Sidney Poitier,1
+25,Princesses,Sidney Poitier,6
+26,Leonard Maltin,Stan,1
+27,Chef,Robert Smith,8
+28,Mr. Garrison,Singer,1
+29,Chef,Sidney Poitier,9
+30,Chef,Stan,2
+31,Cartman,Chef,2
+32,Robert Smith,Stan,2
+33,Cartman,Robert Smith,4
+34,Jesus,Kyle,1
+35,Jesus,Stan,1

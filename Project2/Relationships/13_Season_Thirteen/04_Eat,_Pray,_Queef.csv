@@ -68,49 +68,49 @@
 66,Butters,Craig,6
 67,Craig,Jason,2
 68,Cartman,Craig,4
-69,Announcer 2,Phillip,2
-70,Announcer,Announcer 2,2
-71,Announcer,Phillip,1
-72,Katherine,Katie,51
-73,Doctor,Katie,20
-74,Cartman,Katie,8
-75,Butters,Katie,4
-76,Doctor,Katherine,20
-77,Cartman,Katherine,8
-78,Butters,Katherine,4
-79,Cartman,Doctor,10
-80,Butters,Doctor,5
-81,Network President,Terrance,10
-82,Phillip,Terrance,42
-83,Network President,Phillip,4
-84,Annie,Wendy,6
-85,Annie,Stan,4
-86,Annie,Cartman,6
-87,Annie,Clyde,2
-88,Annie,Red,6
-89,Annie,Butters,2
-90,Annie,Kyle,2
-91,Annie,Bebe,6
-92,Kyle,Stephen,1
-93,Cartman,Stephen,1
-94,Butters,Stephen,2
-95,Stephen,Wendy,1
-96,Stan,Stephen,1
+69,Announcer,Phillip,1
+70,Katherine,Katie,51
+71,Doctor,Katie,20
+72,Cartman,Katie,8
+73,Butters,Katie,4
+74,Doctor,Katherine,20
+75,Cartman,Katherine,8
+76,Butters,Katherine,4
+77,Cartman,Doctor,10
+78,Butters,Doctor,5
+79,Network President,Terrance,10
+80,Phillip,Terrance,42
+81,Network President,Phillip,4
+82,Annie,Wendy,6
+83,Annie,Stan,4
+84,Annie,Cartman,6
+85,Annie,Clyde,2
+86,Annie,Red,6
+87,Annie,Butters,2
+88,Annie,Kyle,2
+89,Annie,Bebe,6
+90,Kyle,Stephen,1
+91,Cartman,Stephen,1
+92,Butters,Stephen,2
+93,Stephen,Wendy,1
+94,Stan,Stephen,1
+95,Randy,Sharon,127
+96,Randy,Stan,66
 97,Gerald,Stuart,1
 98,Gerald,Mrs. Testaburger,1
-99,Gerald,Man,1
-100,Gerald,Thomas,1
+99,Gerald,Thomas,1
+100,Gerald,Randy,2
 101,Gerald,Principal Victoria,1
 102,Mrs. Testaburger,Stuart,1
-103,Man,Stuart,1
-104,Stuart,Thomas,1
+103,Stuart,Thomas,1
+104,Randy,Stuart,2
 105,Principal Victoria,Stuart,1
-106,Man,Mrs. Testaburger,1
-107,Mrs. Testaburger,Thomas,1
+106,Mrs. Testaburger,Thomas,1
+107,Mrs. Testaburger,Randy,2
 108,Mrs. Testaburger,Principal Victoria,1
-109,Man,Thomas,1
-110,Man,Principal Victoria,1
-111,Principal Victoria,Thomas,1
+109,Randy,Thomas,2
+110,Principal Victoria,Thomas,1
+111,Principal Victoria,Randy,2
 112,Katherine,Regis,9
 113,Katherine,Kelly,3
 114,Katie,Regis,6
@@ -121,31 +121,27 @@
 119,Brian,Phillip,1
 120,Sharon,Stan,49
 121,Sharon,Shelly,10
-122,Shelly,Stan,4
-123,Katherine,Phillip,33
-124,Katherine,Terrance,46
-125,Katie,Phillip,24
-126,Katie,Terrance,34
-127,Cartman,Woman,4
-128,Cartman,Other Women,2
-129,Cartman,Woman 2,2
+122,Randy,Shelly,11
+123,Shelly,Stan,4
+124,Katherine,Phillip,33
+125,Katherine,Terrance,46
+126,Katie,Phillip,24
+127,Katie,Terrance,34
+128,Cartman,Randy,7
+129,Cartman,Other Women,2
 130,Cartman,Road Warrior Queef,2
 131,Cartman,Males,2
-132,Stan,Woman,2
-133,Other Women,Stan,1
-134,Stan,Woman 2,1
-135,Road Warrior Queef,Stan,1
-136,Males,Stan,1
-137,Other Women,Woman,2
-138,Woman,Woman 2,2
-139,Road Warrior Queef,Woman,2
-140,Males,Woman,2
-141,Other Women,Woman 2,1
-142,Other Women,Road Warrior Queef,1
-143,Males,Other Women,1
-144,Road Warrior Queef,Woman 2,1
-145,Males,Woman 2,1
-146,Males,Road Warrior Queef,1
-147,Cartman,Mr. Mackey,1
-148,Mr. Garrison,Mr. Mackey,1
-149,Cartman,Mr. Garrison,1
+132,Other Women,Stan,1
+133,Road Warrior Queef,Stan,1
+134,Males,Stan,1
+135,Other Women,Randy,3
+136,Randy,Road Warrior Queef,3
+137,Males,Randy,3
+138,Other Women,Road Warrior Queef,1
+139,Males,Other Women,1
+140,Males,Road Warrior Queef,1
+141,Mr. Mackey,Randy,1
+142,Cartman,Mr. Mackey,1
+143,Mr. Garrison,Mr. Mackey,1
+144,Mr. Garrison,Randy,1
+145,Cartman,Mr. Garrison,1

@@ -49,18 +49,14 @@
 47,Jimbo,Man in crowd,1
 48,Jesus,Man in crowd,2
 49,Father Maxi,Mr. Garrison,5
-50,Jimbo,Man 2,1
-51,Man 2,Ned,1
-52,Man 2,Mr. Garrison,1
-53,Jimbo,Ned,1
-54,Jimbo,Mr. Garrison,3
-55,Mr. Garrison,Ned,1
-56,Damien,Mr. Mackey,9
-57,Father Maxi,Jesus,8
-58,Father Maxi,Jimbo,4
-59,Jesus,Mr. Garrison,3
-60,Reporter 2,Satan,1
-61,Chef,Jesus,13
-62,Jimbo,Referee,1
-63,Mr. Garrison,Satan,1
-64,Chef,Mr. Garrison,1
+50,Jimbo,Ned,1
+51,Jimbo,Mr. Garrison,3
+52,Mr. Garrison,Ned,1
+53,Damien,Mr. Mackey,9
+54,Father Maxi,Jesus,8
+55,Father Maxi,Jimbo,4
+56,Jesus,Mr. Garrison,3
+57,Chef,Jesus,13
+58,Jimbo,Referee,1
+59,Mr. Garrison,Satan,1
+60,Chef,Mr. Garrison,1

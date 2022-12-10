@@ -18,138 +18,108 @@
 16,Betsy,Roger,10
 17,Clyde,Roger,10
 18,Kyle,Stan,23
-19,Fireman 2,Roger,6
-20,Fireman 2,Paramedic,3
-21,Clyde,Fireman 2,9
-22,Betsy,Fireman 2,6
-23,Paramedic,Roger,2
-24,Clyde,Paramedic,3
-25,Betsy,Paramedic,2
-26,Linda,Women,1
-27,Linda,Man With Grey Hair,1
-28,Linda,Woman With Brown Hair,1
-29,Man With Grey Hair,Women,1
-30,Woman With Brown Hair,Women,1
-31,Man With Grey Hair,Woman With Brown Hair,1
-32,Phillip,Ugly Bob,4
-33,Cartman,Phillip,6
-34,Phillip,Terrance,2
-35,Phillip,TSA agent 1,2
-36,Liane,Phillip,6
-37,Phillip,TSA agent 2,2
-38,Cartman,Ugly Bob,6
-39,Terrance,Ugly Bob,2
-40,TSA agent 1,Ugly Bob,2
-41,Liane,Ugly Bob,6
-42,TSA agent 2,Ugly Bob,2
-43,Cartman,Terrance,3
-44,Cartman,TSA agent 1,5
-45,Cartman,Liane,13
-46,Cartman,TSA agent 2,7
-47,TSA agent 1,Terrance,1
-48,Liane,Terrance,3
-49,TSA agent 2,Terrance,1
-50,Liane,TSA agent 1,5
-51,TSA agent 1,TSA agent 2,3
-52,Liane,TSA agent 2,7
-53,Attorney,Stan,44
-54,Attorney,Kyle,43
-55,Attorney,Jimmy,28
-56,Jimmy,Stan,10
-57,Jimmy,Kyle,11
-58,Man 1,R. Booth,2
-59,R. Wiley,Woman 2,6
-60,Cartman,Woman 2,2
-61,Gerald,Woman 2,4
-62,Cartman,R. Wiley,12
-63,Gerald,R. Wiley,24
-64,Cartman,Gerald,8
-65,Spirit,Stan,1
-66,Burns,Stan,4
-67,Clyde,Stan,1
-68,Attorney,Spirit,15
-69,Attorney,Burns,36
-70,Attorney,Clyde,12
-71,Jimmy,Spirit,1
-72,Burns,Jimmy,4
-73,Clyde,Jimmy,1
-74,Burns,Spirit,4
-75,Clyde,Spirit,3
-76,Burns,Clyde,4
-77,R. Booth,R. West,3
-78,R. Booth,R. Wiley,4
-79,R. West,R. Wiley,12
-80,Cartman,People,7
-81,Mr. Garrison,People,1
-82,Jimbo,People,1
-83,People,Sheila,1
-84,Man 3,People,1
-85,People,Woman 3,1
-86,People,Woman 4,1
-87,People,Stephen,1
-88,Man 4,People,2
-89,Cartman,Mr. Garrison,4
-90,Cartman,Jimbo,3
-91,Cartman,Sheila,3
-92,Cartman,Man 3,3
-93,Cartman,Woman 3,3
-94,Cartman,Woman 4,3
-95,Cartman,Stephen,3
-96,Cartman,Man 4,6
-97,Jimbo,Mr. Garrison,1
-98,Mr. Garrison,Sheila,1
-99,Man 3,Mr. Garrison,1
-100,Mr. Garrison,Woman 3,1
-101,Mr. Garrison,Woman 4,1
-102,Mr. Garrison,Stephen,1
-103,Man 4,Mr. Garrison,2
-104,Jimbo,Sheila,1
-105,Jimbo,Man 3,1
-106,Jimbo,Woman 3,1
-107,Jimbo,Woman 4,1
-108,Jimbo,Stephen,1
-109,Jimbo,Man 4,2
-110,Man 3,Sheila,1
-111,Sheila,Woman 3,1
-112,Sheila,Woman 4,1
-113,Sheila,Stephen,1
-114,Man 4,Sheila,2
-115,Man 3,Woman 3,1
-116,Man 3,Woman 4,1
-117,Man 3,Stephen,1
-118,Man 3,Man 4,2
-119,Woman 3,Woman 4,1
-120,Stephen,Woman 3,1
-121,Man 4,Woman 3,2
-122,Stephen,Woman 4,1
-123,Man 4,Woman 4,2
-124,Man 4,Stephen,2
-125,Cartman,Woman 5,4
-126,People,Woman 5,1
-127,Betsy,Spirit,8
-128,Cartman,Spirit,2
-129,P. Sanchez,Spirit,2
-130,Mr. Garrison,Spirit,2
-131,Sir Harrington,Spirit,6
-132,Butters,Spirit,2
-133,Attorney,Betsy,12
-134,Attorney,Cartman,3
-135,Attorney,P. Sanchez,3
-136,Attorney,Mr. Garrison,3
-137,Attorney,Sir Harrington,9
-138,Attorney,Butters,3
-139,Betsy,P. Sanchez,4
-140,Betsy,Mr. Garrison,4
-141,Betsy,Sir Harrington,12
-142,Clyde,P. Sanchez,1
-143,Clyde,Mr. Garrison,1
-144,Clyde,Sir Harrington,3
-145,Cartman,P. Sanchez,1
-146,Cartman,Sir Harrington,3
-147,Butters,Cartman,1
-148,Mr. Garrison,P. Sanchez,1
-149,P. Sanchez,Sir Harrington,3
-150,Butters,P. Sanchez,1
-151,Mr. Garrison,Sir Harrington,3
-152,Butters,Mr. Garrison,1
-153,Butters,Sir Harrington,3
+19,Paramedic,Roger,2
+20,Clyde,Paramedic,3
+21,Betsy,Paramedic,2
+22,Linda,Women,1
+23,Linda,Man With Grey Hair,1
+24,Linda,Woman With Brown Hair,1
+25,Man With Grey Hair,Women,1
+26,Woman With Brown Hair,Women,1
+27,Man With Grey Hair,Woman With Brown Hair,1
+28,Phillip,Ugly Bob,4
+29,Cartman,Phillip,6
+30,Phillip,Terrance,2
+31,Liane,Phillip,6
+32,Cartman,Ugly Bob,6
+33,Terrance,Ugly Bob,2
+34,Liane,Ugly Bob,6
+35,Cartman,Terrance,3
+36,Cartman,Liane,13
+37,Liane,Terrance,3
+38,Attorney,Stan,44
+39,Attorney,Kyle,43
+40,Attorney,Jimmy,28
+41,Jimmy,Stan,10
+42,Jimmy,Kyle,11
+43,Officer,Randy,25
+44,Cartman,R. Wiley,12
+45,Gerald,R. Wiley,24
+46,Cartman,Gerald,8
+47,Spirit,Stan,1
+48,Burns,Stan,4
+49,Clyde,Stan,1
+50,Attorney,Spirit,15
+51,Attorney,Burns,36
+52,Attorney,Clyde,12
+53,Jimmy,Spirit,1
+54,Burns,Jimmy,4
+55,Clyde,Jimmy,1
+56,Burns,Spirit,4
+57,Clyde,Spirit,3
+58,Burns,Clyde,4
+59,R. Booth,Rand,1
+60,R. Booth,R. West,3
+61,R. Booth,R. Wiley,4
+62,R. Booth,Randy,4
+63,R. West,Rand,3
+64,R. Wiley,Rand,4
+65,Rand,Randy,4
+66,R. West,R. Wiley,12
+67,R. West,Randy,12
+68,R. Wiley,Randy,16
+69,Cartman,People,7
+70,Mr. Garrison,People,1
+71,Jimbo,People,1
+72,People,Sheila,1
+73,People,Stephen,1
+74,People,Randy,6
+75,Cartman,Mr. Garrison,4
+76,Cartman,Jimbo,3
+77,Cartman,Sheila,3
+78,Cartman,Stephen,3
+79,Cartman,Randy,24
+80,Jimbo,Mr. Garrison,1
+81,Mr. Garrison,Sheila,1
+82,Mr. Garrison,Stephen,1
+83,Mr. Garrison,Randy,4
+84,Jimbo,Sheila,1
+85,Jimbo,Stephen,1
+86,Jimbo,Randy,2
+87,Sheila,Stephen,1
+88,Randy,Sheila,2
+89,Randy,Stephen,2
+90,Betsy,Spirit,8
+91,Cartman,Spirit,2
+92,P. Sanchez,Spirit,2
+93,Mr. Garrison,Spirit,2
+94,Sir Harrington,Spirit,6
+95,Butters,Spirit,2
+96,Randy,Spirit,4
+97,Attorney,Betsy,12
+98,Attorney,Cartman,3
+99,Attorney,P. Sanchez,3
+100,Attorney,Mr. Garrison,3
+101,Attorney,Sir Harrington,9
+102,Attorney,Butters,3
+103,Attorney,Randy,6
+104,Betsy,P. Sanchez,4
+105,Betsy,Mr. Garrison,4
+106,Betsy,Sir Harrington,12
+107,Betsy,Randy,8
+108,Clyde,P. Sanchez,1
+109,Clyde,Mr. Garrison,1
+110,Clyde,Sir Harrington,3
+111,Clyde,Randy,2
+112,Cartman,P. Sanchez,1
+113,Cartman,Sir Harrington,3
+114,Butters,Cartman,1
+115,Mr. Garrison,P. Sanchez,1
+116,P. Sanchez,Sir Harrington,3
+117,Butters,P. Sanchez,1
+118,P. Sanchez,Randy,2
+119,Mr. Garrison,Sir Harrington,3
+120,Butters,Mr. Garrison,1
+121,Butters,Sir Harrington,3
+122,Randy,Sir Harrington,6
+123,Butters,Randy,2

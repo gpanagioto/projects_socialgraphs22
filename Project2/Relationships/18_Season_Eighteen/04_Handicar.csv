@@ -18,166 +18,127 @@
 16,Mr. Stevenson,Older man,2
 17,Mr. Stevenson,Timmy,6
 18,Older man,Timmy,1
-19,All,Steve,10
-20,All,Timmy,2
-21,All,Nathan,12
-22,All,Mimsy,8
-23,Steve,Timmy,5
-24,Nathan,Steve,30
-25,Mimsy,Steve,20
-26,Nathan,Timmy,78
-27,Mimsy,Timmy,19
-28,Mimsy,Nathan,75
-29,Mr. Stevenson,Russian,4
-30,Arab,Mr. Stevenson,6
-31,Mr. Stevenson,SP cabbie,2
-32,Mr. Stevenson,Nathan,17
-33,American,Mr. Stevenson,2
-34,Mimsy,Mr. Stevenson,7
-35,Arab,Russian,6
-36,Russian,SP cabbie,6
-37,Nathan,Russian,14
-38,American,Russian,2
-39,Mimsy,Russian,4
-40,Arab,SP cabbie,3
-41,Arab,Nathan,15
-42,American,Arab,3
-43,Arab,Mimsy,6
-44,Nathan,SP cabbie,9
-45,American,SP cabbie,1
-46,Mimsy,SP cabbie,2
-47,American,Nathan,5
-48,American,Mimsy,2
-49,SP cabbie,Timmy,3
-50,Timmy,Woman 1,6
-51,Nathan,Woman 1,5
-52,Nathan,Transvestite,1
-53,HC driver 1,Stephen,4
-54,HC driver 2,Stephen,4
-55,Mimsy,Stephen,8
-56,HC driver 3,Stephen,4
-57,Nathan,Stephen,8
-58,Gerald,HC driver 1,1
-59,Gerald,HC driver 2,1
-60,Gerald,Mimsy,8
-61,Gerald,HC driver 3,1
-62,Gerald,Nathan,16
-63,HC driver 1,HC driver 2,1
-64,HC driver 1,Mimsy,2
-65,HC driver 1,HC driver 3,1
-66,HC driver 1,Nathan,2
-67,HC driver 2,Mimsy,2
-68,HC driver 2,HC driver 3,1
-69,HC driver 2,Nathan,2
-70,HC driver 3,Mimsy,2
-71,HC driver 3,Nathan,2
-72,Elon Musk,Reporter 1,2
-73,Elon Musk,Reporter 2,2
-74,Elon Musk,Reporter 3,2
-75,Reporter 1,Reporter 2,1
-76,Reporter 1,Reporter 3,1
-77,Reporter 2,Reporter 3,1
-78,Exec. 1,Exec. 2,1
-79,Exec. 1,Exec. 3,1
-80,Elon Musk,Exec. 1,2
-81,Exec. 1,Nathan,4
-82,Exec. 1,Exec. 4,1
-83,Exec. 1,Mimsy,1
-84,Exec. 2,Exec. 3,1
-85,Elon Musk,Exec. 2,2
-86,Exec. 2,Nathan,4
-87,Exec. 2,Exec. 4,1
-88,Exec. 2,Mimsy,1
-89,Elon Musk,Exec. 3,2
-90,Exec. 3,Nathan,4
-91,Exec. 3,Exec. 4,1
-92,Exec. 3,Mimsy,1
-93,Elon Musk,Nathan,30
-94,Elon Musk,Exec. 4,2
-95,Elon Musk,Mimsy,10
-96,Exec. 4,Nathan,4
-97,Exec. 4,Mimsy,1
-98,Elon Musk,Timmy,14
-99,Gerald,Manager,2
-100,Gerald,Shoppers,1
-101,Manager,Shoppers,2
-102,HC driver 5,HC driver 6,1
-103,HC driver 5,Timmy,1
-104,HC driver 5,HC driver 7,1
-105,HC driver 5,Matthew McConaughey,1
-106,HC driver 5,Stephen,1
-107,HC driver 6,Timmy,1
-108,HC driver 6,HC driver 7,1
-109,HC driver 6,Matthew McConaughey,1
-110,HC driver 6,Stephen,1
-111,HC driver 7,Timmy,1
-112,Matthew McConaughey,Timmy,13
-113,HC driver 7,Matthew McConaughey,1
-114,HC driver 7,Stephen,1
-115,Matthew McConaughey,Stephen,1
-116,Gerald,Stuart,5
-117,Announcer,Timmy,48
-118,Stuart,Timmy,8
-119,Dick Dastardly,Timmy,4
-120,Sharon,Timmy,4
-121,Mrs. McCormick,Timmy,4
-122,HC drivers,Timmy,8
-123,Announcer,Nathan,84
-124,Announcer,Elon Musk,24
-125,Announcer,Mimsy,36
-126,Announcer,Matthew McConaughey,36
-127,Announcer,Mr. Stevenson,12
-128,Announcer,Gerald,24
-129,Announcer,Stuart,24
-130,Announcer,Dick Dastardly,12
-131,Announcer,Sharon,12
-132,Announcer,Mrs. McCormick,12
-133,Announcer,HC drivers,24
-134,Matthew McConaughey,Nathan,21
-135,Nathan,Stuart,14
-136,Dick Dastardly,Nathan,7
-137,Nathan,Sharon,7
-138,Mrs. McCormick,Nathan,7
-139,HC drivers,Nathan,14
-140,Elon Musk,Matthew McConaughey,6
-141,Elon Musk,Mr. Stevenson,2
-142,Elon Musk,Gerald,4
-143,Elon Musk,Stuart,4
-144,Dick Dastardly,Elon Musk,2
-145,Elon Musk,Sharon,2
-146,Elon Musk,Mrs. McCormick,2
-147,Elon Musk,HC drivers,4
-148,Matthew McConaughey,Mimsy,9
-149,Mimsy,Stuart,6
-150,Dick Dastardly,Mimsy,3
-151,Mimsy,Sharon,3
-152,Mimsy,Mrs. McCormick,3
-153,HC drivers,Mimsy,6
-154,Matthew McConaughey,Mr. Stevenson,3
-155,Gerald,Matthew McConaughey,6
-156,Matthew McConaughey,Stuart,6
-157,Dick Dastardly,Matthew McConaughey,3
-158,Matthew McConaughey,Sharon,3
-159,Matthew McConaughey,Mrs. McCormick,3
-160,HC drivers,Matthew McConaughey,6
-161,Gerald,Mr. Stevenson,2
-162,Mr. Stevenson,Stuart,2
-163,Dick Dastardly,Mr. Stevenson,1
-164,Mr. Stevenson,Sharon,1
-165,Mr. Stevenson,Mrs. McCormick,1
-166,HC drivers,Mr. Stevenson,2
-167,Dick Dastardly,Gerald,2
-168,Gerald,Sharon,2
-169,Gerald,Mrs. McCormick,2
-170,Gerald,HC drivers,4
-171,Dick Dastardly,Stuart,2
-172,Sharon,Stuart,2
-173,Mrs. McCormick,Stuart,2
-174,HC drivers,Stuart,4
-175,Dick Dastardly,Sharon,1
-176,Dick Dastardly,Mrs. McCormick,1
-177,Dick Dastardly,HC drivers,2
-178,Mrs. McCormick,Sharon,1
-179,HC drivers,Sharon,2
-180,HC drivers,Mrs. McCormick,2
-181,Nathan,Nathan's mom,30
+19,Steve,Timmy,5
+20,Nathan,Steve,30
+21,Mimsy,Steve,20
+22,Nathan,Timmy,78
+23,Mimsy,Timmy,19
+24,Mimsy,Nathan,75
+25,Mr. Stevenson,Russian,4
+26,Arab,Mr. Stevenson,6
+27,Mr. Stevenson,SP cabbie,2
+28,Mr. Stevenson,Nathan,17
+29,American,Mr. Stevenson,2
+30,Mimsy,Mr. Stevenson,7
+31,Arab,Russian,6
+32,Russian,SP cabbie,6
+33,Nathan,Russian,14
+34,American,Russian,2
+35,Mimsy,Russian,4
+36,Arab,SP cabbie,3
+37,Arab,Nathan,15
+38,American,Arab,3
+39,Arab,Mimsy,6
+40,Nathan,SP cabbie,9
+41,American,SP cabbie,1
+42,Mimsy,SP cabbie,2
+43,American,Nathan,5
+44,American,Mimsy,2
+45,SP cabbie,Timmy,3
+46,Randy,SP cabbie,2
+47,Randy,Russian,2
+48,Nathan,Randy,30
+49,Randy,Timmy,17
+50,Nathan,Transvestite,1
+51,Mimsy,Stephen,8
+52,Nathan,Stephen,8
+53,Gerald,Mimsy,8
+54,Gerald,Nathan,16
+55,Elon Musk,Nathan,30
+56,Elon Musk,Mimsy,10
+57,Elon Musk,Timmy,14
+58,CNN anchor,Randy,2
+59,Gerald,Randy,10
+60,Gerald,Manager,2
+61,Gerald,Shoppers,1
+62,Manager,Randy,2
+63,Randy,Shoppers,1
+64,Manager,Shoppers,2
+65,Matthew McConaughey,Timmy,13
+66,Matthew McConaughey,Stephen,1
+67,Gerald,Stuart,5
+68,Randy,Stuart,9
+69,Announcer,Timmy,48
+70,Stuart,Timmy,8
+71,Dick Dastardly,Timmy,4
+72,Sharon,Timmy,4
+73,Mrs. McCormick,Timmy,4
+74,HC drivers,Timmy,8
+75,Announcer,Nathan,84
+76,Announcer,Elon Musk,24
+77,Announcer,Mimsy,36
+78,Announcer,Matthew McConaughey,36
+79,Announcer,Mr. Stevenson,12
+80,Announcer,Gerald,24
+81,Announcer,Randy,48
+82,Announcer,Stuart,24
+83,Announcer,Dick Dastardly,12
+84,Announcer,Sharon,12
+85,Announcer,Mrs. McCormick,12
+86,Announcer,HC drivers,24
+87,Matthew McConaughey,Nathan,21
+88,Nathan,Stuart,14
+89,Dick Dastardly,Nathan,7
+90,Nathan,Sharon,7
+91,Mrs. McCormick,Nathan,7
+92,HC drivers,Nathan,14
+93,Elon Musk,Matthew McConaughey,6
+94,Elon Musk,Mr. Stevenson,2
+95,Elon Musk,Gerald,4
+96,Elon Musk,Randy,8
+97,Elon Musk,Stuart,4
+98,Dick Dastardly,Elon Musk,2
+99,Elon Musk,Sharon,2
+100,Elon Musk,Mrs. McCormick,2
+101,Elon Musk,HC drivers,4
+102,Matthew McConaughey,Mimsy,9
+103,Mimsy,Randy,12
+104,Mimsy,Stuart,6
+105,Dick Dastardly,Mimsy,3
+106,Mimsy,Sharon,3
+107,Mimsy,Mrs. McCormick,3
+108,HC drivers,Mimsy,6
+109,Matthew McConaughey,Mr. Stevenson,3
+110,Gerald,Matthew McConaughey,6
+111,Matthew McConaughey,Randy,12
+112,Matthew McConaughey,Stuart,6
+113,Dick Dastardly,Matthew McConaughey,3
+114,Matthew McConaughey,Sharon,3
+115,Matthew McConaughey,Mrs. McCormick,3
+116,HC drivers,Matthew McConaughey,6
+117,Gerald,Mr. Stevenson,2
+118,Mr. Stevenson,Randy,4
+119,Mr. Stevenson,Stuart,2
+120,Dick Dastardly,Mr. Stevenson,1
+121,Mr. Stevenson,Sharon,1
+122,Mr. Stevenson,Mrs. McCormick,1
+123,HC drivers,Mr. Stevenson,2
+124,Dick Dastardly,Gerald,2
+125,Gerald,Sharon,2
+126,Gerald,Mrs. McCormick,2
+127,Gerald,HC drivers,4
+128,Dick Dastardly,Randy,4
+129,Randy,Sharon,4
+130,Mrs. McCormick,Randy,4
+131,HC drivers,Randy,8
+132,Dick Dastardly,Stuart,2
+133,Sharon,Stuart,2
+134,Mrs. McCormick,Stuart,2
+135,HC drivers,Stuart,4
+136,Dick Dastardly,Sharon,1
+137,Dick Dastardly,Mrs. McCormick,1
+138,Dick Dastardly,HC drivers,2
+139,Mrs. McCormick,Sharon,1
+140,HC drivers,Sharon,2
+141,HC drivers,Mrs. McCormick,2
+142,Nathan,Nathan's mom,30

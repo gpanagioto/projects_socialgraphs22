@@ -15,30 +15,37 @@
 13,Craig,Kyle,2
 14,Cartman,Michael,12
 15,Sharon,Stan,5
-16,Michael,Stephen,7
-17,Michael,Sheila,4
-18,Michael,Sharon,5
-19,Sheila,Stephen,1
-20,Sharon,Stephen,1
-21,Sharon,Sheila,1
-22,Gerald,Michael,3
-23,Gerald,Stephen,1
-24,Harris,Yates,21
-25,Blanket,Mr. Jefferson,3
-26,Kyle,Mr. Jefferson,3
-27,Mr. Jefferson,Stan,4
-28,Michael,Mr. Jefferson,3
-29,Johnson,Yates,4
-30,Frakes,Johnson,1
-31,Harris,Johnson,2
-32,Frakes,Yates,4
-33,Frakes,Harris,2
-34,Cartman,Sharon,1
-35,Maggie,Yates,6
-36,Kenny,Stan,6
-37,Kenny,Kyle,2
-38,Snetzl,Yates,36
-39,Kenny,Michael,9
-40,Cartman,Yates,1
-41,Michael,Yates,2
-42,Kyle,Yates,1
+16,Michael,Randy,12
+17,Michael,Stephen,7
+18,Michael,Sheila,4
+19,Michael,Sharon,5
+20,Randy,Stephen,3
+21,Randy,Sheila,2
+22,Randy,Sharon,3
+23,Sheila,Stephen,1
+24,Sharon,Stephen,1
+25,Sharon,Sheila,1
+26,Gerald,Randy,1
+27,Gerald,Michael,3
+28,Gerald,Stephen,1
+29,Harris,Yates,21
+30,Blanket,Mr. Jefferson,3
+31,Kyle,Mr. Jefferson,3
+32,Mr. Jefferson,Stan,4
+33,Michael,Mr. Jefferson,3
+34,Johnson,Yates,4
+35,Frakes,Johnson,1
+36,Harris,Johnson,2
+37,Frakes,Yates,4
+38,Frakes,Harris,2
+39,Randy,Stan,1
+40,Cartman,Randy,1
+41,Cartman,Sharon,1
+42,Maggie,Yates,6
+43,Kenny,Stan,6
+44,Kenny,Kyle,2
+45,Snetzl,Yates,36
+46,Kenny,Michael,9
+47,Cartman,Yates,1
+48,Michael,Yates,2
+49,Kyle,Yates,1

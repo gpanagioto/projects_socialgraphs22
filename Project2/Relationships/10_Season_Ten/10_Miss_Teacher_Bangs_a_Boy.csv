@@ -23,65 +23,44 @@
 21,Foley,Kyle,84
 22,Foley,Yates,47
 23,Foley,Mitch,7
-24,Foley,Officer 1,22
-25,Kyle,Yates,72
-26,Kyle,Mitch,12
-27,Kyle,Officer 1,36
-28,Mitch,Yates,6
-29,Officer 1,Yates,21
-30,Mitch,Officer 1,3
-31,Kyle,Stan,32
-32,Cartman,Stan,32
-33,Kenny,Stan,4
-34,Cartman,Kyle,77
-35,Kenny,Kyle,8
-36,Cartman,Kenny,8
-37,Ike,Miss Stevenson,13
-38,Cartman,Miss Stevenson,47
-39,Miss Stevenson,Principal Victoria,3
-40,Jimbo,Kyle,2
-41,Cartman,Jimbo,2
-42,Man 1,Miss Stevenson,2
-43,Man 2,Miss Stevenson,2
-44,Miss Stevenson,Officer 2,2
-45,Man 1,Man 2,1
-46,Man 1,Officer 2,1
-47,Man 2,Officer 2,1
-48,Man 3,Yates,2
-49,Lawyer,Yates,2
-50,Print reporter,Yates,2
-51,Foley,Man 3,1
-52,Foley,Lawyer,1
-53,Foley,Print reporter,1
-54,Lawyer,Man 3,1
-55,Man 3,Print reporter,1
-56,Lawyer,Print reporter,1
-57,Miss Stevenson,Therapist,2
-58,Foley,Sheila,4
-59,Sheila,Yates,12
-60,Officer 1,Sheila,4
-61,Cartman,Leeroy,7
-62,Bellboy,Leeroy,2
-63,Leeroy,Receptionist,2
-64,Head concierge,Leeroy,1
-65,Guest 1,Leeroy,1
-66,Guest 2,Leeroy,1
-67,Bellboy,Cartman,14
-68,Cartman,Receptionist,14
-69,Cartman,Head concierge,7
-70,Cartman,Guest 1,7
-71,Cartman,Guest 2,7
-72,Bellboy,Receptionist,4
-73,Bellboy,Head concierge,2
-74,Bellboy,Guest 1,2
-75,Bellboy,Guest 2,2
-76,Head concierge,Receptionist,2
-77,Guest 1,Receptionist,2
-78,Guest 2,Receptionist,2
-79,Guest 1,Head concierge,1
-80,Guest 2,Head concierge,1
-81,Guest 1,Guest 2,1
-82,Officer 3,Receptionist,1
-83,Kyle,Officer 4,1
-84,Cartman,Earl,2
-85,Earl,Miss Stevenson,1
+24,Kyle,Yates,72
+25,Kyle,Mitch,12
+26,Mitch,Yates,6
+27,Kyle,Stan,32
+28,Cartman,Stan,32
+29,Kenny,Stan,4
+30,Cartman,Kyle,77
+31,Kenny,Kyle,8
+32,Cartman,Kenny,8
+33,Ike,Miss Stevenson,13
+34,Cartman,Miss Stevenson,47
+35,Miss Stevenson,Principal Victoria,3
+36,Jimbo,Randy,6
+37,Kyle,Randy,3
+38,Cartman,Randy,3
+39,Jimbo,Kyle,2
+40,Cartman,Jimbo,2
+41,Randy,Yates,2
+42,Lawyer,Yates,2
+43,Print reporter,Yates,2
+44,Foley,Randy,1
+45,Foley,Lawyer,1
+46,Foley,Print reporter,1
+47,Lawyer,Randy,1
+48,Print reporter,Randy,1
+49,Lawyer,Print reporter,1
+50,Miss Stevenson,Therapist,2
+51,Foley,Sheila,4
+52,Sheila,Yates,12
+53,Cartman,Leeroy,7
+54,Bellboy,Leeroy,2
+55,Leeroy,Receptionist,2
+56,Head concierge,Leeroy,1
+57,Bellboy,Cartman,14
+58,Cartman,Receptionist,14
+59,Cartman,Head concierge,7
+60,Bellboy,Receptionist,4
+61,Bellboy,Head concierge,2
+62,Head concierge,Receptionist,2
+63,Cartman,Earl,2
+64,Earl,Miss Stevenson,1

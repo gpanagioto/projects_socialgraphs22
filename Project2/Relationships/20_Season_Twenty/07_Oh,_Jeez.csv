@@ -1,42 +1,38 @@
 ,source,target,weight
-0,Bill Keegan,President Elect Douche,2
-1,Butters,Cartman,24
-2,Eye in the sky,Tom,2
-3,Dangling Man,Eye in the sky,1
-4,Dangling Man,Tom,2
-5,Gerald,Ike,7
-6,Ike,Sheila,4
-7,Ike,Lead agent,1
-8,Agent 2,Ike,2
-9,Gerald,Sheila,16
-10,Gerald,Lead agent,7
-11,Agent 2,Gerald,11
+0,Bill Keegan,Randy,2
+1,President Elect Douche,Randy,4
+2,Bill Keegan,President Elect Douche,2
+3,Butters,Cartman,24
+4,Eye in the sky,Tom,2
+5,Dangling Man,Eye in the sky,1
+6,Dangling Man,Tom,2
+7,Gerald,Ike,7
+8,Ike,Sheila,4
+9,Ike,Lead agent,1
+10,Gerald,Sheila,16
+11,Gerald,Lead agent,7
 12,Lead agent,Sheila,4
-13,Agent 2,Sheila,8
-14,Agent 2,Lead agent,3
-15,Cartman,Heidi,50
-16,Gerald,Hillary Clinton,30
-17,Caitlyn,Garrison,4
-18,Agent 3,Gerald,3
-19,Agent 2,Agent 3,1
-20,Agent 3,Lead agent,1
-21,Gerald,Kyle,9
-22,Ike,Kyle,3
-23,Bill Clinton,Bill Cosby,31
-24,Gerald,Ticket agent,4
-25,Dane 5,Gerald,1
-26,Bill Clinton,Stan,12
-27,Bill Clinton,Butters,19
-28,Bill Cosby,Stan,8
-29,Butters,Stan,8
-30,Bill Cosby,Butters,4
-31,Gerald,Lennart,36
-32,Bill Clinton,Stephen,20
-33,Linda,Stephen,10
-34,Butters,Stephen,5
-35,Bill Clinton,Linda,8
-36,Butters,Linda,2
-37,Sharon,Shelly,4
-38,Dick,Gerald,35
-39,Anonymous 821,Gerald,14
-40,Anonymous 821,Dick,10
+13,Cartman,Heidi,50
+14,Gerald,Hillary Clinton,30
+15,Caitlyn,Randy,8
+16,Caitlyn,Garrison,4
+17,Garrison,Randy,8
+18,Gerald,Kyle,9
+19,Ike,Kyle,3
+20,Bill Clinton,Bill Cosby,31
+21,Gerald,Ticket agent,4
+22,Bill Clinton,Stan,12
+23,Bill Clinton,Butters,19
+24,Bill Cosby,Stan,8
+25,Butters,Stan,8
+26,Bill Cosby,Butters,4
+27,Gerald,Lennart,36
+28,Bill Clinton,Stephen,20
+29,Linda,Stephen,10
+30,Butters,Stephen,5
+31,Bill Clinton,Linda,8
+32,Butters,Linda,2
+33,Randy,Shelly,4
+34,Sharon,Shelly,4
+35,Randy,Sharon,4
+36,Dick,Gerald,35

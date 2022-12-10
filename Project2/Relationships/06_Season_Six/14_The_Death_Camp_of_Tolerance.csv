@@ -28,164 +28,134 @@
 26,Cartman,Mr. Slave,20
 27,Mr. Slave,Stan,7
 28,Cartman,Stan,19
-29,Gerald,Linda,2
-30,Kyle,Linda,6
-31,Linda,Sheila,8
-32,Linda,Sharon,2
-33,Linda,Stan,6
-34,Linda,Stephen,2
-35,Gerald,Kyle,3
-36,Gerald,Sheila,4
-37,Gerald,Sharon,3
-38,Gerald,Stan,4
-39,Gerald,Stephen,3
-40,Kyle,Sheila,12
-41,Kyle,Sharon,3
-42,Kyle,Stephen,3
-43,Sharon,Sheila,5
-44,Sheila,Stan,14
-45,Sheila,Stephen,6
-46,Sharon,Stan,6
-47,Sharon,Stephen,5
-48,Stan,Stephen,9
-49,Cartman,Tour guide,70
-50,Cartman,Voice,7
-51,Cartman,Janitor,14
-52,Tour guide,Voice,10
-53,Butters,Tour guide,10
-54,Janitor,Tour guide,20
-55,Kyle,Tour guide,10
-56,Stan,Tour guide,14
-57,Butters,Voice,1
-58,Janitor,Voice,2
-59,Kyle,Voice,1
-60,Stan,Voice,1
-61,Butters,Janitor,2
-62,Janitor,Kyle,2
-63,Janitor,Stan,2
-64,Smoker,Stan,2
-65,Richard,Stan,1
-66,Stan,The boys,5
-67,Smoker,Tour guide,8
-68,Gerald,Tour guide,5
-69,Sharon,Tour guide,5
-70,Stephen,Tour guide,8
-71,Richard,Tour guide,4
-72,The boys,Tour guide,4
-73,Gerald,Smoker,2
-74,Sharon,Smoker,2
-75,Smoker,Stephen,4
-76,Richard,Smoker,2
-77,Smoker,The boys,2
-78,Gerald,Richard,1
-79,Gerald,The boys,1
-80,Richard,Sharon,1
-81,Sharon,The boys,1
-82,Richard,Stephen,2
-83,Stephen,The boys,2
-84,Richard,The boys,1
-85,Chef,The boys,9
-86,Kyle,The boys,4
-87,Cartman,The boys,2
-88,Chef,Kyle,36
-89,Chef,Stan,36
-90,Cartman,Chef,18
-91,Mr. Slave,Principal Victoria,3
-92,Frog King,Mr. Slave,7
-93,Frog King,Principal Victoria,1
-94,Frog King,Mr. Garrison,5
-95,Chef,Principal Victoria,18
-96,Chef,Mr. Garrison,12
-97,Liane,Stan,2
-98,Butters,Stephen,4
-99,Butters,Sharon,2
-100,Butters,Liane,2
-101,Butters,Sheila,2
-102,Mr. Mackey,Stephen,2
-103,Liane,Stephen,2
-104,Mr. Mackey,Sharon,1
-105,Liane,Mr. Mackey,1
-106,Mr. Mackey,Sheila,1
-107,Liane,Sharon,1
-108,Liane,Sheila,1
-109,Mr. Slave,Sparrow Prince,5
-110,Mr. Garrison,Sparrow Prince,4
-111,Frog King,Sparrow Prince,1
-112,Camp warden,Kyle,20
-113,Catatafish,Mr. Slave,6
-114,Mr. Slave,Singers,6
-115,Catatafish,Mr. Garrison,4
-116,Mr. Garrison,Singers,4
-117,Catatafish,Singers,4
-118,Camp Soldier,Camp warden,2
-119,Camp Soldier,Kyle,2
-120,Camp Soldier,Stan,4
-121,Butters,Camp Soldier,1
-122,Camp warden,Stan,8
-123,Butters,Camp warden,2
-124,Camp Soldier,Girl 2,3
-125,Cartman,Girl 2,4
-126,Girl 2,The Girls,1
-127,Camp Soldier,Cartman,12
-128,Camp Soldier,The Girls,3
-129,Cartman,The Girls,4
-130,Mr. Garrison,Sharon,7
-131,Man 1,Sharon,1
-132,Mr. Slave,Sharon,3
-133,Man 2,Sharon,1
-134,Man 3,Sharon,1
-135,Audience,Sharon,1
-136,Mr. Garrison,Tour guide,7
-137,Man 1,Tour guide,1
-138,Mr. Slave,Tour guide,3
-139,Man 2,Tour guide,1
-140,Man 3,Tour guide,1
-141,Audience,Tour guide,1
-142,Gerald,Mr. Garrison,12
-143,Man 1,Mr. Garrison,7
-144,Man 2,Mr. Garrison,7
-145,Man 3,Mr. Garrison,17
-146,Audience,Mr. Garrison,7
-147,Gerald,Man 1,1
-148,Gerald,Mr. Slave,4
-149,Gerald,Man 2,1
-150,Gerald,Man 3,3
-151,Audience,Gerald,1
-152,Man 1,Mr. Slave,3
-153,Man 1,Man 2,1
-154,Man 1,Man 3,1
-155,Audience,Man 1,1
-156,Man 2,Mr. Slave,3
-157,Man 3,Mr. Slave,5
-158,Audience,Mr. Slave,3
-159,Man 2,Man 3,1
-160,Audience,Man 2,1
-161,Audience,Man 3,1
-162,Man 4,Mr. Garrison,5
-163,Man 5,Mr. Garrison,5
-164,Man 6,Mr. Garrison,5
-165,Man 7,Mr. Garrison,5
-166,Man 4,Man 5,1
-167,Man 3,Man 4,2
-168,Man 4,Mr. Slave,1
-169,Man 4,Man 6,1
-170,Man 4,Man 7,1
-171,Gerald,Man 4,1
-172,Man 4,Principal Victoria,1
-173,Man 3,Man 5,2
-174,Man 5,Mr. Slave,1
-175,Man 5,Man 6,1
-176,Man 5,Man 7,1
-177,Gerald,Man 5,1
-178,Man 5,Principal Victoria,1
-179,Man 3,Man 6,2
-180,Man 3,Man 7,2
-181,Man 3,Principal Victoria,2
-182,Man 6,Mr. Slave,1
-183,Man 7,Mr. Slave,1
-184,Man 6,Man 7,1
-185,Gerald,Man 6,1
-186,Man 6,Principal Victoria,1
-187,Gerald,Man 7,1
-188,Man 7,Principal Victoria,1
-189,Gerald,Principal Victoria,1
+29,Linda,Randy,6
+30,Gerald,Linda,2
+31,Kyle,Linda,6
+32,Linda,Sheila,8
+33,Linda,Sharon,2
+34,Linda,Stan,6
+35,Linda,Stephen,2
+36,Gerald,Randy,6
+37,Kyle,Randy,13
+38,Randy,Sheila,13
+39,Randy,Sharon,6
+40,Randy,Stan,16
+41,Randy,Stephen,7
+42,Gerald,Kyle,3
+43,Gerald,Sheila,4
+44,Gerald,Sharon,3
+45,Gerald,Stan,4
+46,Gerald,Stephen,3
+47,Kyle,Sheila,12
+48,Kyle,Sharon,3
+49,Kyle,Stephen,3
+50,Sharon,Sheila,5
+51,Sheila,Stan,14
+52,Sheila,Stephen,6
+53,Sharon,Stan,6
+54,Sharon,Stephen,5
+55,Stan,Stephen,9
+56,Cartman,Tour guide,70
+57,Cartman,Voice,7
+58,Cartman,Randy,28
+59,Cartman,Janitor,14
+60,Tour guide,Voice,10
+61,Randy,Tour guide,45
+62,Butters,Tour guide,10
+63,Janitor,Tour guide,20
+64,Kyle,Tour guide,10
+65,Stan,Tour guide,14
+66,Randy,Voice,4
+67,Butters,Voice,1
+68,Janitor,Voice,2
+69,Kyle,Voice,1
+70,Stan,Voice,1
+71,Butters,Randy,6
+72,Janitor,Randy,8
+73,Butters,Janitor,2
+74,Janitor,Kyle,2
+75,Janitor,Stan,2
+76,Randy,Smoker,2
+77,Randy,Richard,1
+78,Randy,The boys,1
+79,Smoker,Stan,2
+80,Richard,Stan,1
+81,Stan,The boys,5
+82,Smoker,Tour guide,8
+83,Gerald,Tour guide,5
+84,Sharon,Tour guide,5
+85,Stephen,Tour guide,8
+86,Richard,Tour guide,4
+87,The boys,Tour guide,4
+88,Gerald,Smoker,2
+89,Sharon,Smoker,2
+90,Smoker,Stephen,4
+91,Richard,Smoker,2
+92,Smoker,The boys,2
+93,Gerald,Richard,1
+94,Gerald,The boys,1
+95,Richard,Sharon,1
+96,Sharon,The boys,1
+97,Richard,Stephen,2
+98,Stephen,The boys,2
+99,Richard,The boys,1
+100,Chef,The boys,9
+101,Kyle,The boys,4
+102,Cartman,The boys,2
+103,Chef,Kyle,36
+104,Chef,Stan,36
+105,Cartman,Chef,18
+106,Mr. Slave,Principal Victoria,3
+107,Frog King,Mr. Slave,7
+108,Frog King,Principal Victoria,1
+109,Frog King,Mr. Garrison,5
+110,Chef,Principal Victoria,18
+111,Chef,Mr. Garrison,12
+112,Liane,Stan,2
+113,Mr. Mackey,Randy,1
+114,Liane,Randy,1
+115,Butters,Stephen,4
+116,Butters,Sharon,2
+117,Butters,Liane,2
+118,Butters,Sheila,2
+119,Mr. Mackey,Stephen,2
+120,Liane,Stephen,2
+121,Mr. Mackey,Sharon,1
+122,Liane,Mr. Mackey,1
+123,Mr. Mackey,Sheila,1
+124,Liane,Sharon,1
+125,Liane,Sheila,1
+126,Mr. Slave,Sparrow Prince,5
+127,Mr. Garrison,Sparrow Prince,4
+128,Frog King,Sparrow Prince,1
+129,Camp warden,Kyle,20
+130,Catatafish,Mr. Slave,6
+131,Mr. Slave,Singers,6
+132,Catatafish,Mr. Garrison,4
+133,Mr. Garrison,Singers,4
+134,Catatafish,Singers,4
+135,Camp Soldier,Camp warden,2
+136,Camp Soldier,Kyle,2
+137,Camp Soldier,Stan,4
+138,Butters,Camp Soldier,1
+139,Camp warden,Stan,8
+140,Butters,Camp warden,2
+141,Camp Soldier,Cartman,12
+142,Camp Soldier,The Girls,3
+143,Cartman,The Girls,4
+144,Mr. Garrison,Sharon,7
+145,Mr. Slave,Sharon,3
+146,Audience,Sharon,1
+147,Mr. Garrison,Tour guide,7
+148,Mr. Slave,Tour guide,3
+149,Audience,Tour guide,1
+150,Mr. Garrison,Randy,12
+151,Gerald,Mr. Garrison,12
+152,Audience,Mr. Garrison,7
+153,Mr. Slave,Randy,4
+154,Audience,Randy,1
+155,Gerald,Mr. Slave,4
+156,Audience,Gerald,1
+157,Audience,Mr. Slave,3
+158,Principal Victoria,Randy,1
+159,Gerald,Principal Victoria,1

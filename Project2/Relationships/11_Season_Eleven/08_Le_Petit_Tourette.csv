@@ -3,94 +3,68 @@
 1,Boy,Clerk,18
 2,Boy,Mom,21
 3,Boy,Thomas,21
-4,Boy,Man 1,6
-5,Cartman,Clerk,54
-6,Cartman,Mom,63
-7,Cartman,Thomas,67
-8,Cartman,Man 1,18
-9,Clerk,Mom,42
-10,Clerk,Thomas,42
-11,Clerk,Man 1,12
-12,Mom,Thomas,49
-13,Man 1,Mom,14
-14,Man 1,Thomas,14
-15,Cartman,Liane,23
-16,Cartman,Doctor,28
-17,Doctor,Liane,12
-18,Cartman,Kyle,124
-19,Kyle,Principal Victoria,20
-20,Butters,Kyle,7
-21,Craig,Kyle,16
-22,Cartman,Principal Victoria,16
-23,Butters,Cartman,12
-24,Cartman,Craig,21
-25,Butters,Principal Victoria,2
-26,Craig,Principal Victoria,4
-27,Butters,Craig,2
-28,Cartman,Mrs. Garrison,20
-29,Kyle,Mrs. Garrison,8
-30,Craig,Mrs. Garrison,4
-31,Mr. Donaldson,Principal Victoria,10
-32,Kyle,Mr. Donaldson,37
-33,Cartman,Mr. Donaldson,20
-34,Blonde Girl,Teen Boy,2
-35,Teen Boy,Thomas,6
-36,Brunette,Teen Boy,4
-37,Mr. Donaldson,Teen Boy,8
-38,Kyle,Teen Boy,8
-39,Blonde Girl,Thomas,3
-40,Blonde Girl,Brunette,2
-41,Blonde Girl,Mr. Donaldson,4
-42,Blonde Girl,Kyle,4
-43,Brunette,Thomas,6
-44,Mr. Donaldson,Thomas,12
-45,Kyle,Thomas,20
-46,Brunette,Mr. Donaldson,8
-47,Brunette,Kyle,8
-48,Mr. Donaldson,Sheila,4
-49,Gerald,Sheila,2
-50,Kyle,Sheila,6
-51,Cartman,Sheila,10
-52,Gerald,Mr. Donaldson,2
-53,Gerald,Kyle,3
-54,Cartman,Gerald,5
-55,Hansen,Predator,2
-56,Announcer,Hansen,1
-57,Cartman,Hansen,101
-58,Announcer,Cartman,1
-59,Craig,Thomas,7
-60,Mr. Mackey,Thomas,1
-61,Patty,Thomas,1
-62,Cartman,Mr. Mackey,6
-63,Cartman,Patty,4
-64,Craig,Mr. Mackey,1
-65,Craig,Patty,1
-66,Mr. Mackey,Patty,1
-67,Liane,Mr. Mackey,1
-68,HotForBoys219,Thomas,12
-69,HotForBoys219,Kyle,6
-70,Hansen,HotForBoys219,9
-71,Pedo 2,Thomas,1
-72,Audience Members,Hansen,1
-73,Audience Members,Pedo 3,1
-74,Audience Members,Pedo 4,1
-75,Audience Members,Pedo 5,1
-76,Audience Members,Pedo 6,1
-77,Audience Members,Pedo 7,1
-78,Hansen,Pedo 3,1
-79,Hansen,Pedo 4,1
-80,Hansen,Pedo 5,1
-81,Hansen,Pedo 6,1
-82,Hansen,Pedo 7,1
-83,Pedo 3,Pedo 4,1
-84,Pedo 3,Pedo 5,1
-85,Pedo 3,Pedo 6,1
-86,Pedo 3,Pedo 7,1
-87,Pedo 4,Pedo 5,1
-88,Pedo 4,Pedo 6,1
-89,Pedo 4,Pedo 7,1
-90,Pedo 5,Pedo 6,1
-91,Pedo 5,Pedo 7,1
-92,Pedo 6,Pedo 7,1
-93,Hansen,Thomas,6
-94,Craig,Hansen,4
+4,Cartman,Clerk,54
+5,Cartman,Mom,63
+6,Cartman,Thomas,67
+7,Clerk,Mom,42
+8,Clerk,Thomas,42
+9,Mom,Thomas,49
+10,Cartman,Liane,23
+11,Cartman,Doctor,28
+12,Doctor,Liane,12
+13,Cartman,Kyle,124
+14,Kyle,Principal Victoria,20
+15,Butters,Kyle,7
+16,Craig,Kyle,16
+17,Cartman,Principal Victoria,16
+18,Butters,Cartman,12
+19,Cartman,Craig,21
+20,Butters,Principal Victoria,2
+21,Craig,Principal Victoria,4
+22,Butters,Craig,2
+23,Cartman,Mrs. Garrison,20
+24,Kyle,Mrs. Garrison,8
+25,Craig,Mrs. Garrison,4
+26,Mr. Donaldson,Principal Victoria,10
+27,Kyle,Mr. Donaldson,37
+28,Cartman,Mr. Donaldson,20
+29,Blonde Girl,Teen Boy,2
+30,Teen Boy,Thomas,6
+31,Brunette,Teen Boy,4
+32,Mr. Donaldson,Teen Boy,8
+33,Kyle,Teen Boy,8
+34,Blonde Girl,Thomas,3
+35,Blonde Girl,Brunette,2
+36,Blonde Girl,Mr. Donaldson,4
+37,Blonde Girl,Kyle,4
+38,Brunette,Thomas,6
+39,Mr. Donaldson,Thomas,12
+40,Kyle,Thomas,20
+41,Brunette,Mr. Donaldson,8
+42,Brunette,Kyle,8
+43,Mr. Donaldson,Sheila,4
+44,Gerald,Sheila,2
+45,Kyle,Sheila,6
+46,Cartman,Sheila,10
+47,Gerald,Mr. Donaldson,2
+48,Gerald,Kyle,3
+49,Cartman,Gerald,5
+50,Hansen,Predator,2
+51,Announcer,Hansen,1
+52,Cartman,Hansen,101
+53,Announcer,Cartman,1
+54,Craig,Thomas,7
+55,Mr. Mackey,Thomas,1
+56,Patty,Thomas,1
+57,Cartman,Mr. Mackey,6
+58,Cartman,Patty,4
+59,Craig,Mr. Mackey,1
+60,Craig,Patty,1
+61,Mr. Mackey,Patty,1
+62,Liane,Mr. Mackey,1
+63,HotForBoys219,Thomas,12
+64,HotForBoys219,Kyle,6
+65,Hansen,HotForBoys219,9
+66,Audience Members,Hansen,1
+67,Hansen,Thomas,6
+68,Craig,Hansen,4

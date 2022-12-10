@@ -24,26 +24,31 @@
 22,Sports Commentator,Wendy,1
 23,Referee,Sports Commentator,1
 24,Gerald,Richard,10
-25,Berries,Gerald,10
-26,Gerald,Michael,5
-27,Gerald,Stephen,5
-28,Berries,Richard,4
-29,Michael,Richard,2
-30,Richard,Stephen,2
-31,Berries,Michael,2
-32,Berries,Stephen,2
-33,Michael,Stephen,1
-34,PC Principal,Wendy,6
-35,Bebe,Wendy,2
-36,Bebe,PC Principal,3
-37,Butters,Wendy,4
-38,Sheila,Shiela,2
-39,Gerald,Shiela,3
-40,Gerald,Ike,2
-41,Ike,Kyle,1
-42,Cartman,Kyle,113
-43,Cartman,Heidi,109
-44,Heidi,Kyle,59
-45,Bedrager,Gerald,1
-46,Bedrager,Dick,1
-47,BBC reporter,Bedrager,2
+25,Gerald,Randy,25
+26,Berries,Gerald,10
+27,Gerald,Michael,5
+28,Gerald,Stephen,5
+29,Randy,Richard,10
+30,Berries,Richard,4
+31,Michael,Richard,2
+32,Richard,Stephen,2
+33,Berries,Randy,10
+34,Michael,Randy,5
+35,Randy,Stephen,5
+36,Berries,Michael,2
+37,Berries,Stephen,2
+38,Michael,Stephen,1
+39,PC Principal,Wendy,6
+40,Bebe,Wendy,2
+41,Bebe,PC Principal,3
+42,Butters,Wendy,4
+43,Sheila,Shiela,2
+44,Gerald,Shiela,3
+45,Gerald,Ike,2
+46,Ike,Kyle,1
+47,Cartman,Kyle,113
+48,Cartman,Heidi,109
+49,Heidi,Kyle,59
+50,Bedrager,Gerald,1
+51,Bedrager,Dick,1
+52,BBC reporter,Bedrager,2

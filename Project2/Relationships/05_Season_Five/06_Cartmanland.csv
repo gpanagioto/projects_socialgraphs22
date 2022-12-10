@@ -67,18 +67,13 @@
 65,Kyle,Nurse,6
 66,Nurse,Sheila,9
 67,Announcer,Doctor,1
-68,Doctor,Host 1,2
-69,Doctor,Host 2,1
-70,Announcer,Host 1,2
-71,Announcer,Host 2,1
-72,Host 1,Host 2,2
-73,Cartman,Kenny,1
-74,Boy,Chris,1
-75,Boy,Mr. Fun,5
-76,Doctor,Sheila,5
-77,Agent,Cartman,14
-78,Agent,Mr. Garrett,6
-79,Agent,Mr. Fun,4
-80,Cartman,Mr. Garrett,21
-81,Mr. Fun,Mr. Garrett,6
-82,Doctor,Stan,2
+68,Cartman,Kenny,1
+69,Boy,Chris,1
+70,Boy,Mr. Fun,5
+71,Doctor,Sheila,5
+72,Agent,Cartman,14
+73,Agent,Mr. Garrett,6
+74,Agent,Mr. Fun,4
+75,Cartman,Mr. Garrett,21
+76,Mr. Fun,Mr. Garrett,6
+77,Doctor,Stan,2

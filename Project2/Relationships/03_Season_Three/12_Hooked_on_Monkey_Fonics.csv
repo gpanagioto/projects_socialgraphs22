@@ -59,46 +59,55 @@
 57,Craig,Mark,17
 58,Butters,Mark,5
 59,Butters,Craig,5
-60,Gerald,Mr. Cotswolds,5
-61,Mark,Principal Victoria,5
-62,Kenny,Mark,5
-63,Principal Victoria,Stan,5
-64,Kenny,Stan,13
-65,Kyle,Principal Victoria,3
-66,Kenny,Principal Victoria,1
-67,Craig,Principal Victoria,2
-68,Kenny,Kyle,3
-69,Craig,Kyle,6
-70,Craig,Kenny,2
-71,Announcer,Cartman,5
-72,Announcer,Liane,4
-73,Both parents,Mark,3
-74,Both parents,Mr. Cotswolds,5
-75,Both parents,Mrs. Cotswolds,1
-76,Both parents,Rebecca,4
-77,Both parents,Kyle,3
-78,Liane,Stan,8
-79,Kenny,Liane,4
-80,Cartman,Kenny,14
-81,Boys,Stan,2
-82,Bill,Stan,2
-83,Men,Stan,2
-84,Boys,Craig,1
-85,Bill,Craig,1
-86,Craig,Jimbo,3
-87,Craig,Gerald,1
-88,Craig,Men,1
-89,Boys,Butters,1
-90,Bill,Butters,1
-91,Butters,Jimbo,3
-92,Butters,Gerald,1
-93,Butters,Men,1
-94,Bill,Boys,1
-95,Boys,Jimbo,3
-96,Boys,Gerald,1
-97,Boys,Men,1
-98,Bill,Jimbo,3
-99,Bill,Gerald,1
-100,Bill,Men,1
-101,Jimbo,Men,3
-102,Gerald,Men,1
+60,Mr. Cotswolds,Randy,15
+61,Gerald,Randy,4
+62,Jimbo,Randy,9
+63,Gerald,Mr. Cotswolds,5
+64,Mark,Principal Victoria,5
+65,Kenny,Mark,5
+66,Principal Victoria,Stan,5
+67,Kenny,Stan,13
+68,Kyle,Principal Victoria,3
+69,Kenny,Principal Victoria,1
+70,Craig,Principal Victoria,2
+71,Kenny,Kyle,3
+72,Craig,Kyle,6
+73,Craig,Kenny,2
+74,Announcer,Cartman,5
+75,Announcer,Liane,4
+76,Both parents,Mark,3
+77,Both parents,Mr. Cotswolds,5
+78,Both parents,Mrs. Cotswolds,1
+79,Both parents,Rebecca,4
+80,Both parents,Kyle,3
+81,Liane,Stan,8
+82,Kenny,Liane,4
+83,Cartman,Kenny,14
+84,Boys,Stan,2
+85,Bill,Stan,2
+86,Randy,Stan,2
+87,Men,Stan,2
+88,Boys,Craig,1
+89,Bill,Craig,1
+90,Craig,Jimbo,3
+91,Craig,Randy,1
+92,Craig,Gerald,1
+93,Craig,Men,1
+94,Boys,Butters,1
+95,Bill,Butters,1
+96,Butters,Jimbo,3
+97,Butters,Randy,1
+98,Butters,Gerald,1
+99,Butters,Men,1
+100,Bill,Boys,1
+101,Boys,Jimbo,3
+102,Boys,Randy,1
+103,Boys,Gerald,1
+104,Boys,Men,1
+105,Bill,Jimbo,3
+106,Bill,Randy,1
+107,Bill,Gerald,1
+108,Bill,Men,1
+109,Jimbo,Men,3
+110,Men,Randy,1
+111,Gerald,Men,1

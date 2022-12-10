@@ -23,144 +23,81 @@
 21,Butters,Cartman,36
 22,Butters,Stan,30
 23,Butters,Kenny,2
-24,Butters,Kim,5
-25,Kim,Stan,1
-26,Cartman,Kim,2
-27,Sheila,Stan,6
-28,Cartman,Sheila,2
-29,Butters,Sheila,8
-30,Gerald,Sheila,4
-31,Kyle,Sheila,6
-32,Mr. Needlebaum,Sheila,2
-33,Sheila,Stephen,2
-34,Gerald,Stan,6
-35,Mr. Needlebaum,Stan,3
-36,Cartman,Gerald,2
-37,Cartman,Mr. Needlebaum,1
-38,Butters,Gerald,8
-39,Butters,Mr. Needlebaum,4
-40,Gerald,Kyle,6
-41,Gerald,Mr. Needlebaum,2
-42,Gerald,Stephen,2
-43,Kyle,Mr. Needlebaum,3
-44,Mr. Needlebaum,Stephen,1
-45,Butters,Mr. Adler,6
-46,Mr. Adler,Mrs. Streibel,1
-47,Cartman,Mr. Adler,3
-48,Kyle,Mr. Adler,2
-49,Mr. Adler,Stan,2
-50,Mr. Adler,Red,1
-51,Lola,Mr. Adler,2
-52,Mr. Adler,Rebecca,1
-53,Butters,Mrs. Streibel,6
-54,Butters,Red,6
-55,Butters,Lola,12
-56,Butters,Rebecca,6
-57,Cartman,Mrs. Streibel,3
-58,Kyle,Mrs. Streibel,2
-59,Mrs. Streibel,Stan,2
-60,Mrs. Streibel,Red,1
-61,Lola,Mrs. Streibel,2
-62,Mrs. Streibel,Rebecca,1
-63,Cartman,Red,3
-64,Cartman,Lola,6
-65,Cartman,Rebecca,3
-66,Kyle,Red,2
-67,Kyle,Lola,4
-68,Kyle,Rebecca,2
-69,Red,Stan,2
-70,Lola,Stan,4
-71,Rebecca,Stan,2
-72,Lola,Red,2
-73,Rebecca,Red,1
-74,Lola,Rebecca,2
-75,Announcer,Broderick,1
-76,Broderick,Stephen,4
-77,Broderick,Linda,1
-78,Broderick,Butters,5
-79,Announcer,Stephen,4
-80,Announcer,Linda,1
-81,Announcer,Butters,5
-82,Linda,Stephen,4
-83,Butters,Linda,5
-84,Assemblyman 1,Cartman,2
-85,Assemblyman 1,Assemblyman 2,3
-86,Assemblyman 1,Kyle,2
-87,Assemblyman 1,Assemblyman 3,1
-88,Assemblyman 1,Stan,4
-89,Assemblyman 1,Assemblywoman 1,2
-90,Assemblyman 1,Assemblywoman 2,3
-91,Assemblyman 1,Assemblyman 4,1
-92,Assemblyman 2,Cartman,6
-93,Assemblyman 3,Cartman,2
-94,Assemblywoman 1,Cartman,4
-95,Assemblywoman 2,Cartman,6
-96,Assemblyman 4,Cartman,2
-97,Assemblyman 2,Kyle,6
-98,Assemblyman 2,Assemblyman 3,3
-99,Assemblyman 2,Stan,12
-100,Assemblyman 2,Assemblywoman 1,6
-101,Assemblyman 2,Assemblywoman 2,9
-102,Assemblyman 2,Assemblyman 4,3
-103,Assemblyman 3,Kyle,2
-104,Assemblywoman 1,Kyle,4
-105,Assemblywoman 2,Kyle,6
-106,Assemblyman 4,Kyle,2
-107,Assemblyman 3,Stan,4
-108,Assemblyman 3,Assemblywoman 1,2
-109,Assemblyman 3,Assemblywoman 2,3
-110,Assemblyman 3,Assemblyman 4,1
-111,Assemblywoman 1,Stan,8
-112,Assemblywoman 2,Stan,12
-113,Assemblyman 4,Stan,4
-114,Assemblywoman 1,Assemblywoman 2,6
-115,Assemblyman 4,Assemblywoman 1,2
-116,Assemblyman 4,Assemblywoman 2,3
-117,Butters,Field Reporter,6
-118,Field Reporter,Stephen,2
-119,Al,Meredith,2
-120,Matt,Meredith,2
-121,Al,Matt,1
-122,Shopper 2,Stan,3
-123,Cartman,Shopper 2,3
-124,Shopper 2,Shopper 3,1
-125,Marsha,Shopper 2,2
-126,Shopper 2,Shopper 4,1
-127,Shopper 2,Shopper 5,1
-128,Kyle,Shopper 2,1
-129,Shopper 2,Shopper 6,1
-130,Shopper 2,Shopper 7,1
-131,Shopper 3,Stan,3
-132,Marsha,Stan,6
-133,Shopper 4,Stan,3
-134,Shopper 5,Stan,3
-135,Shopper 6,Stan,3
-136,Shopper 7,Stan,3
-137,Cartman,Shopper 3,3
-138,Cartman,Marsha,6
-139,Cartman,Shopper 4,3
-140,Cartman,Shopper 5,3
-141,Cartman,Shopper 6,3
-142,Cartman,Shopper 7,3
-143,Marsha,Shopper 3,2
-144,Shopper 3,Shopper 4,1
-145,Shopper 3,Shopper 5,1
-146,Kyle,Shopper 3,1
-147,Shopper 3,Shopper 6,1
-148,Shopper 3,Shopper 7,1
-149,Marsha,Shopper 4,2
-150,Marsha,Shopper 5,2
-151,Kyle,Marsha,2
-152,Marsha,Shopper 6,2
-153,Marsha,Shopper 7,2
-154,Shopper 4,Shopper 5,1
-155,Kyle,Shopper 4,1
-156,Shopper 4,Shopper 6,1
-157,Shopper 4,Shopper 7,1
-158,Kyle,Shopper 5,1
-159,Shopper 5,Shopper 6,1
-160,Shopper 5,Shopper 7,1
-161,Kyle,Shopper 6,1
-162,Kyle,Shopper 7,1
-163,Shopper 6,Shopper 7,1
-164,Bruce Jenner,The Kardashians,1
+24,Randy,Sharon,90
+25,Butters,Kim,5
+26,Kim,Stan,1
+27,Cartman,Kim,2
+28,Sheila,Stan,6
+29,Cartman,Sheila,2
+30,Randy,Sheila,4
+31,Butters,Sheila,8
+32,Gerald,Sheila,4
+33,Kyle,Sheila,6
+34,Mr. Needlebaum,Sheila,2
+35,Sheila,Stephen,2
+36,Randy,Stan,6
+37,Gerald,Stan,6
+38,Mr. Needlebaum,Stan,3
+39,Cartman,Randy,2
+40,Cartman,Gerald,2
+41,Cartman,Mr. Needlebaum,1
+42,Butters,Randy,8
+43,Gerald,Randy,4
+44,Kyle,Randy,6
+45,Mr. Needlebaum,Randy,2
+46,Randy,Stephen,2
+47,Butters,Gerald,8
+48,Butters,Mr. Needlebaum,4
+49,Gerald,Kyle,6
+50,Gerald,Mr. Needlebaum,2
+51,Gerald,Stephen,2
+52,Kyle,Mr. Needlebaum,3
+53,Mr. Needlebaum,Stephen,1
+54,Butters,Mr. Adler,6
+55,Mr. Adler,Mrs. Streibel,1
+56,Cartman,Mr. Adler,3
+57,Kyle,Mr. Adler,2
+58,Mr. Adler,Stan,2
+59,Mr. Adler,Red,1
+60,Lola,Mr. Adler,2
+61,Mr. Adler,Rebecca,1
+62,Butters,Mrs. Streibel,6
+63,Butters,Red,6
+64,Butters,Lola,12
+65,Butters,Rebecca,6
+66,Cartman,Mrs. Streibel,3
+67,Kyle,Mrs. Streibel,2
+68,Mrs. Streibel,Stan,2
+69,Mrs. Streibel,Red,1
+70,Lola,Mrs. Streibel,2
+71,Mrs. Streibel,Rebecca,1
+72,Cartman,Red,3
+73,Cartman,Lola,6
+74,Cartman,Rebecca,3
+75,Kyle,Red,2
+76,Kyle,Lola,4
+77,Kyle,Rebecca,2
+78,Red,Stan,2
+79,Lola,Stan,4
+80,Rebecca,Stan,2
+81,Lola,Red,2
+82,Rebecca,Red,1
+83,Lola,Rebecca,2
+84,Announcer,Broderick,1
+85,Broderick,Stephen,4
+86,Broderick,Linda,1
+87,Broderick,Butters,5
+88,Announcer,Stephen,4
+89,Announcer,Linda,1
+90,Announcer,Butters,5
+91,Linda,Stephen,4
+92,Butters,Linda,5
+93,Butters,Field Reporter,6
+94,Field Reporter,Stephen,2
+95,Al,Meredith,2
+96,Matt,Meredith,2
+97,Al,Matt,1
+98,Marsha,Stan,6
+99,Cartman,Marsha,6
+100,Kyle,Marsha,2
+101,Bruce Jenner,The Kardashians,1

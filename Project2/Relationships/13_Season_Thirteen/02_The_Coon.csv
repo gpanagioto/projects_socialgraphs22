@@ -3,168 +3,41 @@
 1,Lisa,The Coon,20
 2,Josh,The Coon,30
 3,Sgt. Yates,The Coon,70
-4,Officer 1,Sgt. Yates,27
-5,Officer 1,The Coon,21
-6,Cartman,Stan,19
-7,Kyle,Stan,3
-8,Cartman,Kyle,12
-9,M,The Coon,24
-10,M,Mysterion,15
-11,Mysterion,The Coon,56
-12,Maitre D,The Coon,16
-13,Cartman,Liane,4
-14,Anchor,Cartman,15
-15,Cartman,Man 1,5
-16,Cartman,Woman 1,5
-17,Cartman,Man 2,5
-18,Cartman,Crowd,5
-19,Cartman,Man 3,5
-20,Cartman,Man 4,5
-21,Cartman,Reporter,11
-22,Anchor,Man 1,3
-23,Anchor,Woman 1,3
-24,Anchor,Man 2,3
-25,Anchor,Crowd,3
-26,Anchor,Man 3,3
-27,Anchor,Man 4,3
-28,Anchor,Reporter,6
-29,Man 1,Woman 1,1
-30,Man 1,Man 2,1
-31,Crowd,Man 1,1
-32,Man 1,Man 3,1
-33,Man 1,Man 4,1
-34,Man 1,Reporter,2
-35,Man 2,Woman 1,1
-36,Crowd,Woman 1,1
-37,Man 3,Woman 1,1
-38,Man 4,Woman 1,1
-39,Reporter,Woman 1,2
-40,Crowd,Man 2,1
-41,Man 2,Man 3,1
-42,Man 2,Man 4,1
-43,Man 2,Reporter,2
-44,Crowd,Man 3,1
-45,Crowd,Man 4,1
-46,Crowd,Reporter,2
-47,Man 3,Man 4,1
-48,Man 3,Reporter,2
-49,Man 4,Reporter,2
-50,Mysterion,Officer 2,3
-51,Mysterion,Sgt. Yates,4
-52,Officer 2,Sgt. Yates,1
-53,Officer 2,The Coon,3
-54,Clyde,Stan,6
-55,Stan,Wendy,3
-56,Cartman,Clyde,10
-57,Cartman,Wendy,5
-58,Clyde,Wendy,2
-59,A Voice,The Coon,36
-60,A Voice,Professor Chaos,27
-61,Professor Chaos,The Coon,152
-62,Kyle,Mysterion,16
-63,Anchor,Professor Chaos,1
-64,Anchor 2,Professor Chaos,1
-65,Anchor,Anchor 2,1
-66,General Disarray,The Coon,6
-67,General Disarray,Professor Chaos,8
-68,Mysterion,Professor Chaos,7
-69,General Disarray,Mysterion,2
-70,Man 7,Woman 2,1
-71,Man 7,Officer 3,1
-72,Man 7,Officer 4,2
-73,Man 7,Sgt. Yates,1
-74,Man 7,Professor Chaos,3
-75,Man 7,Man 8,1
-76,Man 7,Woman 3,1
-77,Man 7,Reporter,1
-78,Man 7,Man 9,1
-79,Cartman,Man 7,1
-80,Man 7,The Coon,4
-81,Man 10,Man 7,1
-82,Man 11,Man 7,1
-83,Man 7,Mysterion,1
-84,Officer 3,Woman 2,1
-85,Officer 4,Woman 2,2
-86,Sgt. Yates,Woman 2,1
-87,Professor Chaos,Woman 2,3
-88,Man 8,Woman 2,1
-89,Woman 2,Woman 3,1
-90,Reporter,Woman 2,1
-91,Man 9,Woman 2,1
-92,Cartman,Woman 2,1
-93,The Coon,Woman 2,4
-94,Man 10,Woman 2,1
-95,Man 11,Woman 2,1
-96,Mysterion,Woman 2,1
-97,Officer 3,Officer 4,2
-98,Officer 3,Sgt. Yates,1
-99,Officer 3,Professor Chaos,3
-100,Man 8,Officer 3,1
-101,Officer 3,Woman 3,1
-102,Officer 3,Reporter,1
-103,Man 9,Officer 3,1
-104,Cartman,Officer 3,1
-105,Officer 3,The Coon,4
-106,Man 10,Officer 3,1
-107,Man 11,Officer 3,1
-108,Mysterion,Officer 3,1
-109,Officer 4,Sgt. Yates,2
-110,Officer 4,Professor Chaos,6
-111,Man 8,Officer 4,2
-112,Officer 4,Woman 3,2
-113,Officer 4,Reporter,2
-114,Man 9,Officer 4,2
-115,Cartman,Officer 4,2
-116,Officer 4,The Coon,8
-117,Man 10,Officer 4,2
-118,Man 11,Officer 4,2
-119,Mysterion,Officer 4,2
-120,Professor Chaos,Sgt. Yates,3
-121,Man 8,Sgt. Yates,1
-122,Sgt. Yates,Woman 3,1
-123,Reporter,Sgt. Yates,1
-124,Man 9,Sgt. Yates,1
-125,Cartman,Sgt. Yates,1
-126,Man 10,Sgt. Yates,1
-127,Man 11,Sgt. Yates,1
-128,Man 8,Professor Chaos,3
-129,Professor Chaos,Woman 3,3
-130,Professor Chaos,Reporter,3
-131,Man 9,Professor Chaos,3
-132,Cartman,Professor Chaos,3
-133,Man 10,Professor Chaos,3
-134,Man 11,Professor Chaos,3
-135,Man 8,Woman 3,1
-136,Man 8,Reporter,1
-137,Man 8,Man 9,1
-138,Cartman,Man 8,1
-139,Man 8,The Coon,4
-140,Man 10,Man 8,1
-141,Man 11,Man 8,1
-142,Man 8,Mysterion,1
-143,Reporter,Woman 3,1
-144,Man 9,Woman 3,1
-145,Cartman,Woman 3,1
-146,The Coon,Woman 3,4
-147,Man 10,Woman 3,1
-148,Man 11,Woman 3,1
-149,Mysterion,Woman 3,1
-150,Man 9,Reporter,1
-151,Reporter,The Coon,4
-152,Man 10,Reporter,1
-153,Man 11,Reporter,1
-154,Mysterion,Reporter,1
-155,Cartman,Man 9,1
-156,Man 9,The Coon,4
-157,Man 10,Man 9,1
-158,Man 11,Man 9,1
-159,Man 9,Mysterion,1
-160,Cartman,The Coon,4
-161,Cartman,Man 10,1
-162,Cartman,Man 11,1
-163,Cartman,Mysterion,1
-164,Man 10,The Coon,4
-165,Man 11,The Coon,4
-166,Man 10,Man 11,1
-167,Man 10,Mysterion,1
-168,Man 11,Mysterion,1
+4,Cartman,Stan,19
+5,Kyle,Stan,3
+6,Cartman,Kyle,12
+7,M,The Coon,24
+8,M,Mysterion,15
+9,Mysterion,The Coon,56
+10,Maitre D,The Coon,16
+11,Cartman,Liane,4
+12,Anchor,Cartman,15
+13,Cartman,Crowd,5
+14,Cartman,Reporter,11
+15,Anchor,Crowd,3
+16,Anchor,Reporter,6
+17,Crowd,Reporter,2
+18,Mysterion,Sgt. Yates,4
+19,Clyde,Stan,6
+20,Stan,Wendy,3
+21,Cartman,Clyde,10
+22,Cartman,Wendy,5
+23,Clyde,Wendy,2
+24,A Voice,The Coon,36
+25,A Voice,Professor Chaos,27
+26,Professor Chaos,The Coon,152
+27,Kyle,Mysterion,16
+28,Anchor,Professor Chaos,1
+29,General Disarray,The Coon,6
+30,General Disarray,Professor Chaos,8
+31,Mysterion,Professor Chaos,7
+32,General Disarray,Mysterion,2
+33,Professor Chaos,Sgt. Yates,3
+34,Reporter,Sgt. Yates,1
+35,Cartman,Sgt. Yates,1
+36,Professor Chaos,Reporter,3
+37,Cartman,Professor Chaos,3
+38,Reporter,The Coon,4
+39,Mysterion,Reporter,1
+40,Cartman,The Coon,4
+41,Cartman,Mysterion,1

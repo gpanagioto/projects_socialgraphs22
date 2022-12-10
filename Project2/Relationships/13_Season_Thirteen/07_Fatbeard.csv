@@ -19,47 +19,38 @@
 17,Cartman,Clerk,6
 18,Butters,Clerk,5
 19,Clerk,Clyde,1
-20,Butters,Somali 1,3
-21,Butters,Somali 2,6
-22,Cartman,Somali 1,3
-23,Cartman,Somali 2,6
-24,Somali 1,Somali 2,2
-25,Cartman,Pirate 2,4
-26,Cartman,Pirate 4,20
-27,Kevin,Pirate 4,3
-28,Clyde,Pirate 4,6
-29,French Captain,Mr. Leon,3
-30,Cruise Attendant,Mr. Leon,1
-31,Cartman,Mr. Leon,2
-32,Mr. Leon,Pirate 4,1
-33,Butters,Mr. Leon,1
-34,Cruise Attendant,French Captain,14
-35,Cartman,French Captain,46
-36,French Captain,Pirate 4,3
-37,Butters,French Captain,18
-38,Cartman,Cruise Attendant,18
-39,Cruise Attendant,Pirate 4,1
-40,Butters,Cruise Attendant,7
-41,Butters,Pirate 4,8
-42,Sheila,Stan,8
-43,Gerald,Stan,4
-44,Kyle,Sheila,24
-45,Gerald,Kyle,12
-46,Gerald,Sheila,8
-47,Clyde,French Captain,5
-48,Clyde,Cruise Attendant,2
-49,Cartman,Pirates,3
-50,Cartman,Choir,1
-51,Cartman,Ike,1
-52,Choir,Ike,1
-53,Paolo Captain,U.N. Leader,4
-54,French Captain,U.N. Leader,2
-55,Cruise Attendant,U.N. Leader,2
-56,French Captain,Paolo Captain,2
-57,Cruise Attendant,Paolo Captain,2
-58,Cartman,Pirate 6,1
-59,Galeed,Pirate 4,3
-60,Ike,Pirate 4,5
-61,Butters,Galeed,21
-62,Butters,Ike,35
-63,Galeed,Ike,15
+20,Deck Hand,Mr. Leon,1
+21,French Captain,Mr. Leon,3
+22,Cruise Attendant,Mr. Leon,1
+23,Cartman,Mr. Leon,2
+24,Butters,Mr. Leon,1
+25,Deck Hand,French Captain,4
+26,Cruise Attendant,Deck Hand,2
+27,Cartman,Deck Hand,2
+28,Butters,Deck Hand,1
+29,Cruise Attendant,French Captain,14
+30,Cartman,French Captain,46
+31,Butters,French Captain,18
+32,Cartman,Cruise Attendant,18
+33,Butters,Cruise Attendant,7
+34,Sheila,Stan,8
+35,Gerald,Stan,4
+36,Kyle,Sheila,24
+37,Gerald,Kyle,12
+38,Gerald,Sheila,8
+39,Clyde,French Captain,5
+40,Clyde,Cruise Attendant,2
+41,Cartman,Pirates,3
+42,Cartman,Choir,1
+43,Cartman,Ike,1
+44,Choir,Ike,1
+45,Paolo Captain,U.N. Leader,4
+46,French Captain,U.N. Leader,2
+47,Cruise Attendant,U.N. Leader,2
+48,Deck Hand,U.N. Leader,2
+49,French Captain,Paolo Captain,2
+50,Cruise Attendant,Paolo Captain,2
+51,Deck Hand,Paolo Captain,2
+52,Butters,Galeed,21
+53,Butters,Ike,35
+54,Galeed,Ike,15

@@ -1,5 +1,5 @@
 ,source,target,weight
-0,Chief of Security,Guard 1,1
+0,Chief of Security,Randy,1
 1,Cartman,Kenny,20
 2,Cartman,Clyde,18
 3,Clyde,Tolkien,1
@@ -17,89 +17,54 @@
 15,Butters,Stan,3
 16,Craig,Stan,31
 17,Female anchor,Male anchor,2
-18,Female anchor,Shopper 1,2
-19,Female anchor,Shopper 2,2
-20,Female anchor,Shopper 3,2
-21,Female anchor,Reporter,2
-22,Male anchor,Shopper 1,1
-23,Male anchor,Shopper 2,1
-24,Male anchor,Shopper 3,1
-25,Male anchor,Reporter,1
-26,Shopper 1,Shopper 2,1
-27,Shopper 1,Shopper 3,1
-28,Reporter,Shopper 1,1
-29,Shopper 2,Shopper 3,1
-30,Reporter,Shopper 2,1
-31,Reporter,Shopper 3,1
-32,Butters,Kyle,6
-33,Cartman,Kyle,83
-34,Kyle,Stan,28
-35,Clyde,Kyle,5
-36,Boys,Kyle,9
-37,Craig,Kyle,54
-38,Jimmy,Kyle,27
-39,Kyle,Tweek,9
-40,Boys,Craig,6
-41,Boys,Cartman,8
-42,Boys,Jimmy,3
-43,Boys,Tweek,1
-44,Boys,Stan,3
-45,Craig,Jimmy,24
-46,Craig,Tweek,6
-47,Cartman,Jimmy,24
-48,Cartman,Tweek,8
-49,Jimmy,Tweek,3
-50,Jimmy,Stan,32
-51,Stan,Tweek,3
-52,Dougie,Kevin,8
-53,Cartman,Kevin,16
-54,Clyde,Kevin,4
-55,Cartman,Dougie,8
-56,Clyde,Dougie,2
-57,Kenny,Kyle,2
-58,Butters,Kenny,2
-59,Clyde,Kenny,2
-60,Announcer,Elmo,6
-61,Announcer,Girl,3
-62,Announcer,Announcer 2,3
-63,Elmo,Girl,2
-64,Announcer 2,Elmo,2
-65,Announcer 2,Girl,1
-66,Guard 3,Old Cap,15
-67,Guard 3,Guard 4,3
-68,Guard 3,Shopper 1,3
-69,Guard 3,Shopper 4,9
-70,Guard 3,Shopper 5,3
-71,Guard 4,Old Cap,5
-72,Old Cap,Shopper 1,5
-73,Old Cap,Shopper 4,20
-74,Old Cap,Shopper 5,5
-75,Guard 4,Shopper 1,1
-76,Guard 4,Shopper 4,3
-77,Guard 4,Shopper 5,1
-78,Shopper 1,Shopper 4,3
-79,Shopper 1,Shopper 5,1
-80,Shopper 4,Shopper 5,3
-81,Jimmy,Michael,9
-82,Michael,Stan,15
-83,Michael,Pete,6
-84,Henrietta,Michael,3
-85,Jimmy,Pete,6
-86,Henrietta,Jimmy,3
-87,Pete,Stan,10
-88,Henrietta,Stan,5
-89,Henrietta,Pete,2
-90,Kenny,Thompson,8
-91,Cartman,Thompson,8
-92,Old Cap,Voice,4
-93,Boy,Craig,3
-94,Boy,Stan,4
-95,Boy,Jimmy,2
-96,Corporate head,Member 1,4
-97,Member 1,Member 2,2
-98,Corporate head,Member 2,2
-99,Old Cap,Shopper 6,5
-100,Shopper 6,Shopper 7,1
-101,Shopper 4,Shopper 6,1
-102,Old Cap,Shopper 7,5
-103,Shopper 4,Shopper 7,1
+18,Female anchor,Reporter,2
+19,Male anchor,Reporter,1
+20,Butters,Kyle,6
+21,Cartman,Kyle,83
+22,Kyle,Stan,28
+23,Clyde,Kyle,5
+24,Boys,Kyle,9
+25,Craig,Kyle,54
+26,Jimmy,Kyle,27
+27,Kyle,Tweek,9
+28,Boys,Craig,6
+29,Boys,Cartman,8
+30,Boys,Jimmy,3
+31,Boys,Tweek,1
+32,Boys,Stan,3
+33,Craig,Jimmy,24
+34,Craig,Tweek,6
+35,Cartman,Jimmy,24
+36,Cartman,Tweek,8
+37,Jimmy,Tweek,3
+38,Jimmy,Stan,32
+39,Stan,Tweek,3
+40,Randy,Sharon,16
+41,Dougie,Kevin,8
+42,Cartman,Kevin,16
+43,Clyde,Kevin,4
+44,Cartman,Dougie,8
+45,Clyde,Dougie,2
+46,Kenny,Kyle,2
+47,Butters,Kenny,2
+48,Clyde,Kenny,2
+49,Announcer,Elmo,6
+50,Announcer,Girl,3
+51,Elmo,Girl,2
+52,Old Cap,Randy,41
+53,Jimmy,Michael,9
+54,Michael,Stan,15
+55,Michael,Pete,6
+56,Henrietta,Michael,3
+57,Jimmy,Pete,6
+58,Henrietta,Jimmy,3
+59,Pete,Stan,10
+60,Henrietta,Stan,5
+61,Henrietta,Pete,2
+62,Kenny,Thompson,8
+63,Cartman,Thompson,8
+64,Randy,Voice,4
+65,Old Cap,Voice,4
+66,Boy,Craig,3
+67,Boy,Stan,4
+68,Boy,Jimmy,2

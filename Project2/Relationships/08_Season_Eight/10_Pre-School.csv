@@ -58,102 +58,17 @@
 56,Sixth grade leader,Stan,70
 57,Cartman,Sixth grade leader,28
 58,Sixth grade leader,Sixth graders,24
-59,Sixth grade leader,Sixth grader 2,18
-60,Sixth grade leader,Sixth grader 3,14
-61,Kyle,Sixth graders,10
-62,Kyle,Sixth grader 2,8
-63,Kyle,Sixth grader 3,6
-64,Sixth graders,Stan,14
-65,Sixth grader 2,Stan,10
-66,Sixth grader 3,Stan,8
-67,Cartman,Sixth graders,6
-68,Cartman,Sixth grader 2,6
-69,Cartman,Sixth grader 3,4
-70,Sixth grader 2,Sixth graders,4
-71,Sixth grader 3,Sixth graders,3
-72,Sixth grader 2,Sixth grader 3,3
-73,Man 2,Woman 2,1
-74,Man 3,Woman 2,1
-75,Man 2,Man 3,1
-76,Sheila,Trent,1
-77,Sixth grade leader,Sixth grader 4,8
-78,Sixth grade leader,Sixth grader 5,4
-79,Sixth grade leader,Sixth grader 8,4
-80,Kenny,Sixth grade leader,8
-81,Sixth grade leader,Sixth grader 9,4
-82,Sixth grader 4,Stan,4
-83,Sixth grader 5,Stan,2
-84,Sixth grader 8,Stan,2
-85,Sixth grader 9,Stan,2
-86,Sixth grader 4,Sixth grader 5,2
-87,Sixth grader 2,Sixth grader 4,4
-88,Sixth grader 4,Sixth grader 8,2
-89,Sixth grader 4,Sixth graders,2
-90,Sixth grader 3,Sixth grader 4,2
-91,Kyle,Sixth grader 4,4
-92,Cartman,Sixth grader 4,4
-93,Kenny,Sixth grader 4,4
-94,Sixth grader 4,Sixth grader 9,2
-95,Sixth grader 2,Sixth grader 5,2
-96,Sixth grader 5,Sixth grader 8,1
-97,Sixth grader 5,Sixth graders,1
-98,Sixth grader 3,Sixth grader 5,1
-99,Kyle,Sixth grader 5,2
-100,Cartman,Sixth grader 5,2
-101,Kenny,Sixth grader 5,2
-102,Sixth grader 5,Sixth grader 9,1
-103,Sixth grader 2,Sixth grader 8,2
-104,Kenny,Sixth grader 2,4
-105,Sixth grader 2,Sixth grader 9,2
-106,Sixth grader 8,Sixth graders,1
-107,Sixth grader 3,Sixth grader 8,1
-108,Kyle,Sixth grader 8,2
-109,Cartman,Sixth grader 8,2
-110,Kenny,Sixth grader 8,2
-111,Sixth grader 8,Sixth grader 9,1
-112,Kenny,Sixth graders,2
-113,Sixth grader 9,Sixth graders,1
-114,Kenny,Sixth grader 3,2
-115,Sixth grader 3,Sixth grader 9,1
-116,Kyle,Sixth grader 9,2
-117,Cartman,Sixth grader 9,2
-118,Kenny,Sixth grader 9,2
-119,Cartman,Man 4,2
-120,Man 4,Stan,1
-121,Dr. Doctor,Nurse 1,4
-122,Nurse 1,Nurse 2,1
-123,Nurse 1,Sixth grader,1
-124,Nurse 1,Stan,2
-125,Nurse 1,Sixth grade leader,1
-126,Kyle,Nurse 1,1
-127,Dr. Doctor,Nurse 2,4
-128,Dr. Doctor,Sixth grader,4
-129,Dr. Doctor,Sixth grade leader,4
-130,Nurse 2,Sixth grader,1
-131,Nurse 2,Stan,2
-132,Nurse 2,Sixth grade leader,1
-133,Kyle,Nurse 2,1
-134,Sixth grader,Stan,2
-135,Sixth grade leader,Sixth grader,1
-136,Kyle,Sixth grader,1
-137,Shelly,Stan,40
-138,Kyle,Shelly,8
-139,Cartman,Shelly,8
-140,Man 6,Woman 3,1
-141,Man 5,Woman 3,1
-142,Stan,Woman 3,4
-143,Kyle,Woman 3,2
-144,Cartman,Woman 3,6
-145,Kenny,Woman 3,1
-146,Trent,Woman 3,5
-147,Man 5,Man 6,1
-148,Man 6,Stan,4
-149,Kyle,Man 6,2
-150,Cartman,Man 6,6
-151,Kenny,Man 6,1
-152,Man 6,Trent,5
-153,Man 5,Stan,4
-154,Kyle,Man 5,2
-155,Cartman,Man 5,6
-156,Kenny,Man 5,1
-157,Man 5,Trent,5
+59,Kyle,Sixth graders,10
+60,Sixth graders,Stan,14
+61,Cartman,Sixth graders,6
+62,Sheila,Trent,1
+63,Kenny,Sixth grade leader,8
+64,Kenny,Sixth graders,2
+65,Dr. Doctor,Sixth grader,4
+66,Dr. Doctor,Sixth grade leader,4
+67,Sixth grader,Stan,2
+68,Sixth grade leader,Sixth grader,1
+69,Kyle,Sixth grader,1
+70,Shelly,Stan,40
+71,Kyle,Shelly,8
+72,Cartman,Shelly,8

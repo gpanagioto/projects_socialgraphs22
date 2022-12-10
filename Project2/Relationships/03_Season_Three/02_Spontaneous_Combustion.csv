@@ -2,148 +2,86 @@
 0,Kenny,Kyle,35
 1,Kyle,Manager,21
 2,Kyle,Stan,165
-3,Kyle,Man,15
-4,Cartman,Kyle,120
-5,Kyle,Woman,21
-6,Kyle,Officer Barbrady,7
-7,Blond man,Kyle,7
-8,Kyle,Man 2,7
-9,Kyle,Man 3,7
-10,Kenny,Manager,15
-11,Kenny,Stan,21
-12,Kenny,Man,10
-13,Cartman,Kenny,16
-14,Kenny,Woman,15
-15,Kenny,Officer Barbrady,5
-16,Blond man,Kenny,5
-17,Kenny,Man 2,5
-18,Kenny,Man 3,5
-19,Manager,Stan,12
-20,Man,Manager,6
-21,Cartman,Manager,9
-22,Manager,Woman,9
-23,Manager,Officer Barbrady,3
-24,Blond man,Manager,3
-25,Man 2,Manager,3
-26,Man 3,Manager,3
-27,Man,Stan,9
-28,Cartman,Stan,86
-29,Stan,Woman,12
-30,Officer Barbrady,Stan,4
-31,Blond man,Stan,4
-32,Man 2,Stan,4
-33,Man 3,Stan,4
-34,Cartman,Man,6
-35,Man,Woman,8
-36,Man,Officer Barbrady,2
-37,Blond man,Man,2
-38,Man,Man 2,2
-39,Man,Man 3,2
-40,Cartman,Woman,9
-41,Cartman,Officer Barbrady,7
-42,Blond man,Cartman,3
-43,Cartman,Man 2,3
-44,Cartman,Man 3,3
-45,Officer Barbrady,Woman,3
-46,Blond man,Woman,3
-47,Man 2,Woman,3
-48,Man 3,Woman,3
-49,Blond man,Officer Barbrady,1
-50,Man 2,Officer Barbrady,1
-51,Man 3,Officer Barbrady,1
-52,Blond man,Man 2,1
-53,Blond man,Man 3,1
-54,Man 2,Man 3,1
-55,Kyle,Priest Maxi,68
-56,Kyle,Mr. Garrison,8
-57,All,Kyle,24
-58,Mr. Garrison,Priest Maxi,11
-59,All,Priest Maxi,44
-60,Priest Maxi,Stan,38
-61,All,Mr. Garrison,4
-62,Mr. Garrison,Stan,5
-63,All,Stan,12
-64,Helen,Jerry,3
-65,Jerry,Tom,3
-66,Jerry,Man 5,3
-67,Helen,Tom,1
-68,Helen,Man 5,1
-69,Man 5,Tom,1
-70,Kenny,Townsman,2
-71,Stan,Townsman,3
-72,Cartman,Townsman,2
-73,A few people,Priest Maxi,1
-74,A few people,Crowd,2
-75,A few people,Stan,3
-76,A few people,Kyle,2
-77,A few people,Cartman,4
-78,A few people,Someone,1
-79,Crowd,Priest Maxi,3
-80,Cartman,Priest Maxi,7
-81,Priest Maxi,Someone,1
-82,Crowd,Stan,9
-83,Crowd,Kyle,5
-84,Cartman,Crowd,11
-85,Crowd,Someone,2
-86,Someone,Stan,3
-87,Kyle,Someone,2
-88,Cartman,Someone,4
-89,Mayor McDaniels,Townsman,1
-90,Crowd,Townsman,1
-91,Man,Townsman,1
-92,Kyle,Townsman,1
-93,Crowd,Mayor McDaniels,1
-94,Man,Mayor McDaniels,1
-95,Mayor McDaniels,Stan,3
-96,Kyle,Mayor McDaniels,3
-97,Crowd,Man,1
-98,Kyle,Mr. Mackey,24
-99,Mr. Mackey,Stan,24
-100,Liane,Mr. Mackey,20
-101,Kyle,Liane,30
-102,Liane,Stan,30
-103,Mephesto,Whoopi,2
-104,Gerald,Sheila,20
-105,Kyle,Sheila,10
-106,Gerald,Kyle,10
-107,Aide 2,Mayor McDaniels,4
-108,Cartman,Chef,15
-109,Jesus,Stan,9
-110,Mephesto,Stan,3
-111,Jesus,Mephesto,3
-112,Townsman 1,Townsman 2,1
-113,Townsman 1,Townsman 3,1
-114,Townsman 1,Woman,1
-115,Townsman 2,Townsman 3,1
-116,Townsman 2,Woman,1
-117,Townsman 3,Woman,1
-118,Mayor McDaniels,Townsman 4,1
-119,Mayor McDaniels,Townsman 10,1
-120,Mayor McDaniels,Mr. Garrison,1
-121,Mayor McDaniels,Townsman 11,1
-122,Mayor McDaniels,Townsman 12,1
-123,Stan,Townsman 4,2
-124,Townsman 10,Townsman 4,1
-125,Mr. Garrison,Townsman 4,1
-126,Townsman 11,Townsman 4,1
-127,Townsman 12,Townsman 4,1
-128,Kyle,Townsman 4,2
-129,Stan,Townsman 10,2
-130,Stan,Townsman 11,2
-131,Stan,Townsman 12,2
-132,Mr. Garrison,Townsman 10,1
-133,Townsman 10,Townsman 11,1
-134,Townsman 10,Townsman 12,1
-135,Kyle,Townsman 10,2
-136,Mr. Garrison,Townsman 11,1
-137,Mr. Garrison,Townsman 12,1
-138,Townsman 11,Townsman 12,1
-139,Kyle,Townsman 11,2
-140,Kyle,Townsman 12,2
-141,Blonde,Bob Dole,3
-142,Bob Dole,Gerald,2
-143,Bob Dole,Brunette,1
-144,Blonde,Gerald,6
-145,Blonde,Brunette,3
-146,Brunette,Gerald,2
-147,Townsman 14,Townsman 16,1
+3,Cartman,Kyle,120
+4,Kyle,Officer Barbrady,7
+5,Blond man,Kyle,7
+6,Kenny,Manager,15
+7,Kenny,Stan,21
+8,Cartman,Kenny,16
+9,Kenny,Officer Barbrady,5
+10,Blond man,Kenny,5
+11,Manager,Stan,12
+12,Cartman,Manager,9
+13,Manager,Officer Barbrady,3
+14,Blond man,Manager,3
+15,Cartman,Stan,86
+16,Officer Barbrady,Stan,4
+17,Blond man,Stan,4
+18,Cartman,Officer Barbrady,7
+19,Blond man,Cartman,3
+20,Blond man,Officer Barbrady,1
+21,Mayor McDaniels,Randy,35
+22,Kyle,Priest Maxi,68
+23,Kyle,Mr. Garrison,8
+24,Mr. Garrison,Priest Maxi,11
+25,Priest Maxi,Stan,38
+26,Mr. Garrison,Stan,5
+27,Helen,Jerry,3
+28,Jerry,Tom,3
+29,Helen,Tom,1
+30,Randy,Stan,136
+31,Kyle,Randy,35
+32,Kenny,Randy,4
+33,Kenny,Townsman,2
+34,Randy,Townsman,11
+35,Cartman,Randy,4
+36,Stan,Townsman,3
+37,Cartman,Townsman,2
+38,A few people,Priest Maxi,1
+39,A few people,Crowd,2
+40,A few people,Stan,3
+41,A few people,Kyle,2
+42,A few people,Cartman,4
+43,A few people,Someone,1
+44,Crowd,Priest Maxi,3
+45,Cartman,Priest Maxi,7
+46,Priest Maxi,Someone,1
+47,Crowd,Stan,9
+48,Crowd,Kyle,5
+49,Cartman,Crowd,11
+50,Crowd,Someone,2
+51,Someone,Stan,3
+52,Kyle,Someone,2
+53,Cartman,Someone,4
+54,Crowd,Randy,3
+55,Mayor McDaniels,Townsman,1
+56,Crowd,Townsman,1
+57,Kyle,Townsman,1
+58,Crowd,Mayor McDaniels,1
+59,Mayor McDaniels,Stan,3
+60,Kyle,Mayor McDaniels,3
+61,Kyle,Mr. Mackey,24
+62,Mr. Mackey,Stan,24
+63,Liane,Mr. Mackey,20
+64,Kyle,Liane,30
+65,Liane,Stan,30
+66,Mephesto,Whoopi,2
+67,Randy,Whoopi,1
+68,Mephesto,Randy,4
+69,Gerald,Sheila,20
+70,Kyle,Sheila,10
+71,Gerald,Kyle,10
+72,Cartman,Chef,15
+73,Jesus,Stan,9
+74,Mephesto,Stan,3
+75,Jesus,Randy,6
+76,Jesus,Mephesto,3
+77,Mr. Garrison,Randy,4
+78,Mayor McDaniels,Mr. Garrison,1
+79,Randy,Tom,1
+80,Blonde,Bob Dole,3
+81,Bob Dole,Gerald,2
+82,Bob Dole,Brunette,1
+83,Blonde,Gerald,6
+84,Blonde,Brunette,3
+85,Brunette,Gerald,2

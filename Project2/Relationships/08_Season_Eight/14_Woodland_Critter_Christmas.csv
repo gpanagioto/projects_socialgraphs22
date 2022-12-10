@@ -94,73 +94,61 @@
 92,Beavery,Porcupiney,6
 93,Beavery,Woodpeckery,3
 94,Beavery,Foxy,7
-95,Lion cub 1,Lion cub 2,13
-96,Lion cub 1,Stan,42
-97,Lion cub 2,Stan,32
-98,Beavery,Chickadee-y,12
-99,Lion cub 1,Lion cub 3,24
-100,Lion cub 2,Lion cub 3,18
-101,Lion cub 3,Stan,60
-102,Lion cub 3,Narrator,30
-103,Doctor,Lion cub 3,12
-104,Lion cub 1,Narrator,20
-105,Doctor,Lion cub 1,8
-106,Lion cub 2,Narrator,15
-107,Doctor,Lion cub 2,6
-108,Doctor,Stan,20
-109,Doctor,Narrator,10
-110,Kyle,Skunky,7
-111,Critters,Kyle,23
-112,Beavery,Kyle,12
-113,Kyle,Raccoony,7
-114,Beary,Kyle,9
-115,Deery,Kyle,5
-116,Kyle,Squirrely,6
-117,Beary,Raccoony,1
-118,Deery,Raccoony,1
-119,Santa,Squirrely,3
-120,Singers,Squirrely,1
-121,Kyle,Stan,25
-122,Santa,Stan,32
-123,Singers,Stan,5
-124,Beavery,Santa,6
-125,Beavery,Singers,2
-126,Kyle,Santa,14
-127,Kyle,Singers,1
-128,Santa,Skunky,6
-129,Singers,Skunky,2
-130,Critters,Santa,9
-131,Critters,Singers,3
-132,Raccoony,Santa,6
-133,Raccoony,Singers,2
-134,Santa,Singers,3
-135,Beary,Lion Cub,1
-136,Beary,Santa,2
-137,Lion Cub,Santa,2
-138,Kyle,Lion Cub,4
-139,Lion Cub,Stan,2
-140,Cartman,Kyle,24
-141,Cartman,Mr. Garrison,6
-142,Butters,Cartman,12
-143,Cartman,Tolkien,6
-144,Cartman,Clyde,12
-145,Cartman,Stan,12
-146,Kyle,Mr. Garrison,4
-147,Butters,Kyle,8
-148,Kyle,Tolkien,4
-149,Clyde,Kyle,8
-150,Butters,Mr. Garrison,2
-151,Mr. Garrison,Tolkien,1
-152,Clyde,Mr. Garrison,2
-153,Mr. Garrison,Stan,2
-154,Butters,Tolkien,2
-155,Butters,Clyde,4
-156,Butters,Stan,4
-157,Clyde,Tolkien,2
-158,Stan,Tolkien,2
-159,Clyde,Stan,4
-160,Kyle,Narrator,1
-161,Narrator,Santa,3
-162,One of the cubs,The cubs,1
-163,One of the cubs,Stan,1
-164,Stan,The cubs,1
+95,Beavery,Chickadee-y,12
+96,Doctor,Stan,20
+97,Doctor,Narrator,10
+98,Kyle,Skunky,7
+99,Critters,Kyle,23
+100,Beavery,Kyle,12
+101,Kyle,Raccoony,7
+102,Beary,Kyle,9
+103,Deery,Kyle,5
+104,Kyle,Squirrely,6
+105,Beary,Raccoony,1
+106,Deery,Raccoony,1
+107,Santa,Squirrely,3
+108,Singers,Squirrely,1
+109,Kyle,Stan,25
+110,Santa,Stan,32
+111,Singers,Stan,5
+112,Beavery,Santa,6
+113,Beavery,Singers,2
+114,Kyle,Santa,14
+115,Kyle,Singers,1
+116,Santa,Skunky,6
+117,Singers,Skunky,2
+118,Critters,Santa,9
+119,Critters,Singers,3
+120,Raccoony,Santa,6
+121,Raccoony,Singers,2
+122,Santa,Singers,3
+123,Beary,Lion Cub,1
+124,Beary,Santa,2
+125,Lion Cub,Santa,2
+126,Kyle,Lion Cub,4
+127,Lion Cub,Stan,2
+128,Cartman,Kyle,24
+129,Cartman,Mr. Garrison,6
+130,Butters,Cartman,12
+131,Cartman,Tolkien,6
+132,Cartman,Clyde,12
+133,Cartman,Stan,12
+134,Kyle,Mr. Garrison,4
+135,Butters,Kyle,8
+136,Kyle,Tolkien,4
+137,Clyde,Kyle,8
+138,Butters,Mr. Garrison,2
+139,Mr. Garrison,Tolkien,1
+140,Clyde,Mr. Garrison,2
+141,Mr. Garrison,Stan,2
+142,Butters,Tolkien,2
+143,Butters,Clyde,4
+144,Butters,Stan,4
+145,Clyde,Tolkien,2
+146,Stan,Tolkien,2
+147,Clyde,Stan,4
+148,Kyle,Narrator,1
+149,Narrator,Santa,3
+150,One of the cubs,The cubs,1
+151,One of the cubs,Stan,1
+152,Stan,The cubs,1

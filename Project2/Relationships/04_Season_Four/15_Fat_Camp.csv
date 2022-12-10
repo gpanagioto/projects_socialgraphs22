@@ -74,140 +74,105 @@
 72,Blonde Girl,Susan,4
 73,Blonde Girl,Brunet Boy,2
 74,Cartman,Driver,9
-75,Boy 1,Driver,3
-76,Boy 1,Cartman,3
-77,Susan,Taller Boy,2
-78,Eric,Taller Boy,1
-79,Rick,Susan,40
-80,Eric,Rick,3
-81,Eric,Susan,2
-82,Mr. Garrison,Stan,3
-83,Kyle,Mr. Garrison,4
-84,Mr. Garrison,Principal Victoria,1
-85,Liane,Stan,12
-86,Kyle,Liane,16
-87,Liane,Principal Victoria,4
-88,Mr. Mackey,Stan,6
-89,Kyle,Mr. Mackey,8
-90,Mr. Mackey,Principal Victoria,2
-91,Cartman,Stan,3
-92,Cartman,Kyle,4
-93,Cartman,Principal Victoria,1
-94,Jesus,Kenny,6
-95,Jesus,Man 1,6
-96,Jesus,Man 2,6
-97,Jesus,Man 3,6
-98,Jesus,Stan,12
-99,Jesus,Kyle,12
-100,Jesus,Man 4,6
-101,Jesus,Man 5,6
-102,Jesus,Man 6,6
-103,Kenny,Man 1,2
-104,Kenny,Man 2,2
-105,Kenny,Man 3,1
-106,Kenny,Man 4,1
-107,Kenny,Man 5,1
-108,Kenny,Man 6,1
-109,Man 1,Man 2,2
-110,Man 1,Man 3,1
-111,Man 1,Stan,2
-112,Kyle,Man 1,2
-113,Man 1,Man 4,1
-114,Man 1,Man 5,1
-115,Man 1,Man 6,1
-116,Man 2,Man 3,1
-117,Man 2,Stan,2
-118,Kyle,Man 2,2
-119,Man 2,Man 4,1
-120,Man 2,Man 5,1
-121,Man 2,Man 6,1
-122,Man 3,Stan,2
-123,Kyle,Man 3,2
-124,Man 3,Man 4,1
-125,Man 3,Man 5,1
-126,Man 3,Man 6,1
-127,Man 4,Stan,2
-128,Man 5,Stan,2
-129,Man 6,Stan,2
-130,Kyle,Man 4,2
-131,Kyle,Man 5,2
-132,Kyle,Man 6,2
-133,Man 4,Man 5,1
-134,Man 4,Man 6,1
-135,Man 5,Man 6,1
-136,Chef,Stan,70
-137,Chef,Kenny,10
-138,Chef,Kyle,10
-139,Student 1,Student 2,4
-140,Other Students,Student 2,2
-141,Kenny,Student 2,2
-142,Student 2,Student 3,2
-143,Other Students,Student 1,2
-144,Kenny,Student 1,2
-145,Student 1,Student 3,2
-146,Kenny,Other Students,1
-147,Other Students,Student 3,1
-148,Kenny,Student 3,1
-149,Announcer,Kenny,1
-150,Announcer,Man 1,1
-151,Announcer,Man 2,1
-152,Chad,Susan,8
-153,Blonde Girl,Rick,2
-154,Chad,Rick,8
-155,Cartman,Chad,13
-156,Blonde Girl,Chad,2
-157,Howard Stern,Tom Green,25
-158,Johnny Knoxville,Tom Green,20
-159,Kenny,Tom Green,10
-160,Howard Stern,Johnny Knoxville,20
-161,Howard Stern,Kenny,10
-162,Johnny Knoxville,Kenny,8
-163,Campers,Rick,24
-164,Campers,Rick..,4
-165,Campers,Susan,18
-166,Campers,Horace,11
-167,Rick,Rick..,5
-168,Horace,Rick,22
-169,Rick..,Susan,4
-170,Horace,Rick..,2
-171,Horace,Susan,14
-172,Kyle,Ms. Crabtree,12
-173,Ms. Crabtree,Stan,8
-174,Butters,Ms. Crabtree,2
-175,Audience,Ms. Crabtree,1
-176,Announcer,Ms. Crabtree,1
-177,Announcer,Audience,1
-178,Chad's Dad,Rick,4
-179,Chad's Dad,Susan,2
-180,Alice,Chad's Dad,1
-181,Cartman,Chad's Dad,5
-182,Chad,Chad's Dad,1
-183,Chad's Dad,Horace,3
-184,Chad's Dad,Other campers,2
-185,Chad's Dad,Girl,1
-186,Campers,Chad's Dad,1
-187,Alice,Rick,4
-188,Other campers,Rick,8
-189,Girl,Rick,4
-190,Alice,Susan,2
-191,Other campers,Susan,4
-192,Girl,Susan,2
-193,Alice,Cartman,5
-194,Alice,Chad,1
-195,Alice,Horace,3
-196,Alice,Other campers,2
-197,Alice,Girl,1
-198,Alice,Campers,1
-199,Cartman,Horace,15
-200,Cartman,Other campers,10
-201,Cartman,Girl,5
-202,Campers,Cartman,5
-203,Chad,Horace,3
-204,Chad,Other campers,2
-205,Chad,Girl,1
-206,Campers,Chad,1
-207,Horace,Other campers,6
-208,Girl,Horace,3
-209,Girl,Other campers,2
-210,Campers,Other campers,2
-211,Campers,Girl,1
+75,Susan,Taller Boy,2
+76,Eric,Taller Boy,1
+77,Rick,Susan,40
+78,Eric,Rick,3
+79,Eric,Susan,2
+80,Mr. Garrison,Stan,3
+81,Kyle,Mr. Garrison,4
+82,Mr. Garrison,Principal Victoria,1
+83,Liane,Stan,12
+84,Kyle,Liane,16
+85,Liane,Principal Victoria,4
+86,Mr. Mackey,Stan,6
+87,Kyle,Mr. Mackey,8
+88,Mr. Mackey,Principal Victoria,2
+89,Cartman,Stan,3
+90,Cartman,Kyle,4
+91,Cartman,Principal Victoria,1
+92,Jesus,Kenny,6
+93,Jesus,Stan,12
+94,Jesus,Kyle,12
+95,Chef,Stan,70
+96,Chef,Kenny,10
+97,Chef,Kyle,10
+98,Kenny,Other Students,1
+99,Announcer,Kenny,1
+100,Chad,Susan,8
+101,Blonde Girl,Rick,2
+102,Chad,Rick,8
+103,Cartman,Chad,13
+104,Blonde Girl,Chad,2
+105,Howard Stern,Tom Green,25
+106,Johnny Knoxville,Tom Green,20
+107,Kenny,Tom Green,10
+108,Howard Stern,Johnny Knoxville,20
+109,Howard Stern,Kenny,10
+110,Johnny Knoxville,Kenny,8
+111,Campers,Rick,24
+112,Campers,Rick..,4
+113,Campers,Susan,18
+114,Campers,Mr. Sanders,25
+115,Campers,Mrs. Sanders,4
+116,Campers,Horace,11
+117,Rick,Rick..,5
+118,Mr. Sanders,Rick,34
+119,Mrs. Sanders,Rick,5
+120,Horace,Rick,22
+121,Rick..,Susan,4
+122,Mr. Sanders,Rick..,6
+123,Mrs. Sanders,Rick..,1
+124,Horace,Rick..,2
+125,Mr. Sanders,Susan,26
+126,Mrs. Sanders,Susan,4
+127,Horace,Susan,14
+128,Mr. Sanders,Mrs. Sanders,6
+129,Horace,Mr. Sanders,15
+130,Horace,Mrs. Sanders,2
+131,Kyle,Ms. Crabtree,12
+132,Ms. Crabtree,Stan,8
+133,Butters,Ms. Crabtree,2
+134,Audience,Ms. Crabtree,1
+135,Announcer,Ms. Crabtree,1
+136,Announcer,Audience,1
+137,Chad's Dad,Rick,4
+138,Chad's Dad,Susan,2
+139,Alice,Chad's Dad,1
+140,Cartman,Chad's Dad,5
+141,Chad,Chad's Dad,1
+142,Chad's Dad,Horace,3
+143,Chad's Dad,Other campers,2
+144,Chad's Dad,Girl,1
+145,Chad's Dad,Mr. Sanders,1
+146,Campers,Chad's Dad,1
+147,Alice,Rick,4
+148,Other campers,Rick,8
+149,Girl,Rick,4
+150,Alice,Susan,2
+151,Other campers,Susan,4
+152,Girl,Susan,2
+153,Alice,Cartman,5
+154,Alice,Chad,1
+155,Alice,Horace,3
+156,Alice,Other campers,2
+157,Alice,Girl,1
+158,Alice,Mr. Sanders,1
+159,Alice,Campers,1
+160,Cartman,Horace,15
+161,Cartman,Other campers,10
+162,Cartman,Girl,5
+163,Cartman,Mr. Sanders,5
+164,Campers,Cartman,5
+165,Chad,Horace,3
+166,Chad,Other campers,2
+167,Chad,Girl,1
+168,Chad,Mr. Sanders,1
+169,Campers,Chad,1
+170,Horace,Other campers,6
+171,Girl,Horace,3
+172,Girl,Other campers,2
+173,Mr. Sanders,Other campers,2
+174,Campers,Other campers,2
+175,Girl,Mr. Sanders,1
+176,Campers,Girl,1

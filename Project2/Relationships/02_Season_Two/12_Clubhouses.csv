@@ -6,57 +6,58 @@
 4,Kyle,Wendy,29
 5,Bebe,Wendy,15
 6,Phillip,Terrance,1
-7,Fat Abbot,Rudy,8
-8,Kyle,Rudy,4
-9,Rudy,Stan,2
-10,Fat Abbot,Kyle,4
-11,Fat Abbot,Stan,5
-12,Kenny,Stan,8
-13,Cartman,Kenny,27
-14,Kenny,Kyle,7
-15,Kenny,Liane,8
-16,Cartman,Liane,20
-17,Sharon,Stan,65
-18,Kyle,Mr. Twig,2
-19,Mr. Garrison,Mr. Twig,6
-20,Mr. Twig,Stan,5
-21,Class,Mr. Twig,1
-22,Cartman,Mr. Twig,2
-23,Kenny,Mr. Twig,1
-24,Mr. Twig,Wendy,1
-25,Kyle,Mr. Garrison,12
-26,Class,Kyle,2
-27,Mr. Garrison,Stan,45
-28,Class,Mr. Garrison,6
-29,Cartman,Mr. Garrison,15
-30,Kenny,Mr. Garrison,6
-31,Mr. Garrison,Wendy,6
-32,Class,Stan,5
-33,Cartman,Class,2
-34,Class,Kenny,1
-35,Class,Wendy,1
-36,Cartman,Wendy,2
-37,Kenny,Wendy,1
-38,Mr. Mackey,Stan,29
-39,Mr. Mackey,Sharon,72
-40,Bebe,Stan,13
-41,Chef,Stan,29
-42,Cartman,Donald,1
-43,Cartman,Runaway girl 2,5
-44,Cartman,Runaway girl 1,31
-45,Cartman,Sharon,5
-46,Cartman,Roy,1
-47,Roy,Stan,14
-48,Roy,Sharon,11
-49,Bebe,Kyle,21
-50,Roy,Wendy,1
-51,Runaway girl 1,Runaway girl 2,2
-52,Cartman,Guy in leather jacket,3
-53,Cartman,Guy with long hair,3
-54,Guy in leather jacket,Guy with long hair,1
-55,Guy in leather jacket,Runaway girl 1,1
-56,Guy in leather jacket,Runaway girl 2,1
-57,Guy with long hair,Runaway girl 1,1
-58,Guy with long hair,Runaway girl 2,1
+7,Randy,Stan,32
+8,Randy,Sharon,98
+9,Fat Abbot,Rudy,8
+10,Kyle,Rudy,4
+11,Rudy,Stan,2
+12,Fat Abbot,Kyle,4
+13,Fat Abbot,Stan,5
+14,Kenny,Stan,8
+15,Cartman,Kenny,27
+16,Kenny,Kyle,7
+17,Kenny,Liane,8
+18,Cartman,Liane,20
+19,Sharon,Stan,65
+20,Kyle,Mr. Twig,2
+21,Mr. Garrison,Mr. Twig,6
+22,Mr. Twig,Stan,5
+23,Class,Mr. Twig,1
+24,Cartman,Mr. Twig,2
+25,Kenny,Mr. Twig,1
+26,Mr. Twig,Wendy,1
+27,Kyle,Mr. Garrison,12
+28,Class,Kyle,2
+29,Mr. Garrison,Stan,45
+30,Class,Mr. Garrison,6
+31,Cartman,Mr. Garrison,15
+32,Kenny,Mr. Garrison,6
+33,Mr. Garrison,Wendy,6
+34,Class,Stan,5
+35,Cartman,Class,2
+36,Class,Kenny,1
+37,Class,Wendy,1
+38,Cartman,Wendy,2
+39,Kenny,Wendy,1
+40,Mr. Mackey,Stan,29
+41,Mr. Mackey,Randy,72
+42,Mr. Mackey,Sharon,72
+43,Bebe,Stan,13
+44,Chef,Stan,29
+45,Cartman,Donald,1
+46,Cartman,Sharon,5
+47,Cartman,Roy,1
+48,Roy,Stan,14
+49,Roy,Sharon,11
+50,Randy,Runaway girl 1 Passenger,1
+51,Bebe,Kyle,21
+52,Roy,Wendy,1
+53,Cartman,Guy in leather jacket,3
+54,Cartman,Guy with long hair,3
+55,Guy in leather jacket,Guy with long hair,1
+56,Fat Abbot,Yolanda,9
+57,Bill,Yolanda,3
+58,Stan,Yolanda,3
 59,Bill,Fat Abbot,3
 60,Bill,Stan,1
+61,Randy,Roy,9

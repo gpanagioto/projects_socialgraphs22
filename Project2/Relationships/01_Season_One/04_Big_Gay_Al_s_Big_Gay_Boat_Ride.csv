@@ -28,84 +28,44 @@
 26,Bill,Cartman,2
 27,Cartman,Fosse,2
 28,Bookie,Jimbo,10
-29,Bookie,Gambler 1,2
-30,Bookie,Gambler 2,2
-31,Bookie,Gambler 3,2
-32,Bookie,Female Gambler 1,2
-33,Bookie,Female Gambler 2,2
-34,Bookie,Gambler 4,2
-35,Bookie,Ned,4
-36,Gambler 1,Jimbo,5
-37,Gambler 2,Jimbo,5
-38,Gambler 3,Jimbo,5
-39,Female Gambler 1,Jimbo,5
-40,Female Gambler 2,Jimbo,5
-41,Gambler 4,Jimbo,5
-42,Jimbo,Ned,32
-43,Gambler 1,Gambler 2,1
-44,Gambler 1,Gambler 3,1
-45,Female Gambler 1,Gambler 1,1
-46,Female Gambler 2,Gambler 1,1
-47,Gambler 1,Gambler 4,1
-48,Gambler 1,Ned,2
-49,Gambler 2,Gambler 3,1
-50,Female Gambler 1,Gambler 2,1
-51,Female Gambler 2,Gambler 2,1
-52,Gambler 2,Gambler 4,1
-53,Gambler 2,Ned,2
-54,Female Gambler 1,Gambler 3,1
-55,Female Gambler 2,Gambler 3,1
-56,Gambler 3,Gambler 4,1
-57,Gambler 3,Ned,2
-58,Female Gambler 1,Female Gambler 2,1
-59,Female Gambler 1,Gambler 4,1
-60,Female Gambler 1,Ned,2
-61,Female Gambler 2,Gambler 4,1
-62,Female Gambler 2,Ned,2
-63,Gambler 4,Ned,2
-64,Jesus,Robert,12
-65,Robert,Stan,3
-66,Jesus,Stan,4
-67,Kyle,Pip,6
-68,Carl,Jimbo,56
-69,Carl,Ned,24
-70,Chef,Stan,3
-71,Chef,Mr. Garrison,11
-72,Chef,Frank,6
-73,Chef,Mr. Hat,2
-74,Frank,Kyle,5
-75,Kyle,Mr. Garrison,1
-76,Kyle,Mr. Hat,1
-77,Jimbo,Kyle,1
-78,Frank,Mr. Garrison,3
-79,Frank,Mr. Hat,2
-80,Frank,Jimbo,6
-81,Jimbo,Mr. Garrison,4
-82,Jimbo,Mr. Hat,1
-83,Big Gay Al,Stan,24
-84,Gay Lion,Stan,4
-85,Big Gay Al,Gay Lion,5
-86,Cartman,Cowboy 2,1
-87,Cowboy 2,Kyle,1
-88,Cartman,Frank,1
-89,Frank,Townsman 1,1
-90,Jimbo,Townsman 1,1
-91,Kyle,Phil,1
-92,Frank,Phil,2
-93,Chef,Phil,1
-94,Jimbo,Richard,3
-95,Mr. Garrison,Richard,3
-96,Big Gay Al,Sparky,1
-97,Frank,Townsman,1
-98,Mr. Garrison,Townsman,1
-99,Mr. Hat,Townsman,1
-100,Jimbo,Stan,2
-101,Frank,Stan,8
-102,Crowd,Frank,2
-103,Crowd,Stan,6
-104,Townsperson 1,Townsperson 2,1
-105,Townsperson 1,Townsperson 3,1
-106,Townsperson 2,Townsperson 3,1
-107,Enrique,Mr. Garrison,1
-108,Enrique,Jimbo,1
-109,Enrique,Richard,1
+29,Bookie,Ned,4
+30,Jimbo,Ned,32
+31,Jesus,Robert,12
+32,Robert,Stan,3
+33,Jesus,Stan,4
+34,Kyle,Pip,6
+35,Carl,Jimbo,56
+36,Carl,Ned,24
+37,Chef,Stan,3
+38,Chef,Mr. Garrison,11
+39,Chef,Frank,6
+40,Chef,Mr. Hat,2
+41,Frank,Kyle,5
+42,Kyle,Mr. Garrison,1
+43,Kyle,Mr. Hat,1
+44,Jimbo,Kyle,1
+45,Frank,Mr. Garrison,3
+46,Frank,Mr. Hat,2
+47,Frank,Jimbo,6
+48,Jimbo,Mr. Garrison,4
+49,Jimbo,Mr. Hat,1
+50,Big Gay Al,Stan,24
+51,Gay Lion,Stan,4
+52,Big Gay Al,Gay Lion,5
+53,Cartman,Frank,1
+54,Kyle,Phil,1
+55,Frank,Phil,2
+56,Chef,Phil,1
+57,Jimbo,Richard,3
+58,Mr. Garrison,Richard,3
+59,Big Gay Al,Sparky,1
+60,Frank,Townsman,1
+61,Mr. Garrison,Townsman,1
+62,Mr. Hat,Townsman,1
+63,Jimbo,Stan,2
+64,Frank,Stan,8
+65,Crowd,Frank,2
+66,Crowd,Stan,6
+67,Enrique,Mr. Garrison,1
+68,Enrique,Jimbo,1
+69,Enrique,Richard,1

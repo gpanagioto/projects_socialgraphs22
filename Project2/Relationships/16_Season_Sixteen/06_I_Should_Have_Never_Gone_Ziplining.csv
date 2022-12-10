@@ -10,196 +10,102 @@
 8,Kenny,Stan,19
 9,Kenny,Narrator,20
 10,Clerk,Stan,10
-11,Stan,Woman 1,2
-12,Man 1,Stan,2
-13,Stan,Woman 2,4
-14,Man 2,Stan,56
-15,Michael,Stan,282
-16,Cartman,Clerk,15
-17,Clerk,Woman 1,5
-18,Clerk,Man 1,5
-19,Clerk,Woman 2,10
-20,Clerk,Narrator,15
-21,Clerk,Man 2,10
-22,Clerk,Kyle,10
-23,Clerk,Michael,20
-24,Cartman,Woman 1,3
-25,Cartman,Man 1,3
-26,Cartman,Woman 2,6
-27,Cartman,Man 2,90
-28,Cartman,Michael,454
-29,Man 1,Woman 1,1
-30,Woman 1,Woman 2,2
-31,Narrator,Woman 1,3
-32,Man 2,Woman 1,2
-33,Kyle,Woman 1,2
-34,Michael,Woman 1,4
-35,Man 1,Woman 2,2
-36,Man 1,Narrator,3
-37,Man 1,Man 2,2
-38,Kyle,Man 1,2
-39,Man 1,Michael,4
-40,Narrator,Woman 2,6
-41,Man 2,Woman 2,4
-42,Kyle,Woman 2,4
-43,Michael,Woman 2,8
-44,Man 2,Narrator,50
-45,Michael,Narrator,244
-46,Kyle,Man 2,80
-47,Man 2,Michael,92
-48,Kyle,Michael,408
-49,Man 3,Stan,13
-50,Adults,Stan,39
-51,Guide,Stan,78
-52,Boys,Stan,13
-53,Man 4,Stan,13
-54,Pete,Stan,26
-55,Stan,The boys,13
-56,Stan,Zipliner,13
-57,Some adults,Stan,13
-58,Rancher,Stan,39
-59,Duncan,Stan,13
-60,Rider 1,Stan,13
-61,Man 3,Narrator,11
-62,Man 3,Michael,21
-63,Adults,Man 3,3
-64,Kyle,Man 3,19
-65,Cartman,Man 3,21
-66,Man 2,Man 3,4
-67,Guide,Man 3,6
-68,Boys,Man 3,1
-69,Man 3,Man 4,1
-70,Man 3,Pete,2
-71,Man 3,The boys,1
-72,Man 3,Zipliner,1
-73,Man 3,Some adults,1
-74,Man 3,Rancher,3
-75,Kenny,Man 3,1
-76,Duncan,Man 3,1
-77,Man 3,Rider 1,1
-78,Adults,Narrator,33
-79,Guide,Narrator,66
-80,Boys,Narrator,11
-81,Man 4,Narrator,11
-82,Narrator,Pete,22
-83,Narrator,The boys,11
-84,Narrator,Zipliner,11
-85,Narrator,Some adults,11
-86,Narrator,Rancher,33
-87,Duncan,Narrator,11
-88,Narrator,Rider 1,11
-89,Adults,Michael,63
-90,Guide,Michael,126
-91,Boys,Michael,21
-92,Man 4,Michael,21
-93,Michael,Pete,42
-94,Michael,The boys,21
-95,Michael,Zipliner,21
-96,Michael,Some adults,21
-97,Michael,Rancher,63
-98,Kenny,Michael,21
-99,Duncan,Michael,21
-100,Michael,Rider 1,21
-101,Adults,Kyle,57
-102,Adults,Cartman,63
-103,Adults,Man 2,12
-104,Adults,Guide,18
-105,Adults,Boys,3
-106,Adults,Man 4,3
-107,Adults,Pete,6
-108,Adults,The boys,3
-109,Adults,Zipliner,3
-110,Adults,Some adults,3
-111,Adults,Rancher,9
-112,Adults,Kenny,3
-113,Adults,Duncan,3
-114,Adults,Rider 1,3
-115,Guide,Kyle,114
-116,Boys,Kyle,19
-117,Kyle,Man 4,19
-118,Kyle,Pete,38
-119,Kyle,The boys,19
-120,Kyle,Zipliner,19
-121,Kyle,Some adults,19
-122,Kyle,Rancher,57
-123,Duncan,Kyle,19
-124,Kyle,Rider 1,19
-125,Cartman,Guide,126
-126,Boys,Cartman,21
-127,Cartman,Man 4,21
-128,Cartman,Pete,42
-129,Cartman,The boys,21
-130,Cartman,Zipliner,21
-131,Cartman,Some adults,21
-132,Cartman,Rancher,63
-133,Cartman,Duncan,21
-134,Cartman,Rider 1,21
-135,Guide,Man 2,24
-136,Boys,Man 2,4
-137,Man 2,Man 4,4
-138,Man 2,Pete,8
-139,Man 2,The boys,4
-140,Man 2,Zipliner,4
-141,Man 2,Some adults,4
-142,Man 2,Rancher,12
-143,Kenny,Man 2,4
-144,Duncan,Man 2,4
-145,Man 2,Rider 1,4
-146,Boys,Guide,6
-147,Guide,Man 4,6
-148,Guide,Pete,12
-149,Guide,The boys,6
-150,Guide,Zipliner,6
-151,Guide,Some adults,6
-152,Guide,Rancher,18
-153,Guide,Kenny,6
-154,Duncan,Guide,6
-155,Guide,Rider 1,6
-156,Boys,Man 4,1
-157,Boys,Pete,2
-158,Boys,The boys,1
-159,Boys,Zipliner,1
-160,Boys,Some adults,1
-161,Boys,Rancher,3
-162,Boys,Kenny,1
-163,Boys,Duncan,1
-164,Boys,Rider 1,1
-165,Man 4,Pete,2
-166,Man 4,The boys,1
-167,Man 4,Zipliner,1
-168,Man 4,Some adults,1
-169,Man 4,Rancher,3
-170,Kenny,Man 4,1
-171,Duncan,Man 4,1
-172,Man 4,Rider 1,1
-173,Pete,The boys,2
-174,Pete,Zipliner,2
-175,Pete,Some adults,2
-176,Pete,Rancher,6
-177,Kenny,Pete,2
-178,Duncan,Pete,2
-179,Pete,Rider 1,2
-180,The boys,Zipliner,1
-181,Some adults,The boys,1
-182,Rancher,The boys,3
-183,Kenny,The boys,1
-184,Duncan,The boys,1
-185,Rider 1,The boys,1
-186,Some adults,Zipliner,1
-187,Rancher,Zipliner,3
-188,Kenny,Zipliner,1
-189,Duncan,Zipliner,1
-190,Rider 1,Zipliner,1
-191,Rancher,Some adults,3
-192,Kenny,Some adults,1
-193,Duncan,Some adults,1
-194,Rider 1,Some adults,1
-195,Kenny,Rancher,3
-196,Duncan,Rancher,3
-197,Rancher,Rider 1,3
-198,Duncan,Kenny,1
-199,Kenny,Rider 1,1
-200,Duncan,Rider 1,1
-201,Rider 2,Stan,5
-202,Kyle,Rider 2,3
-203,Cartman,Rider 2,1
+11,Michael,Stan,282
+12,Cartman,Clerk,15
+13,Clerk,Narrator,15
+14,Clerk,Kyle,10
+15,Clerk,Michael,20
+16,Cartman,Michael,454
+17,Michael,Narrator,244
+18,Kyle,Michael,408
+19,Adults,Stan,39
+20,Guide,Stan,78
+21,Boys,Stan,13
+22,Pete,Stan,26
+23,Stan,The boys,13
+24,Stan,Zipliner,13
+25,Some adults,Stan,13
+26,Rancher,Stan,39
+27,Duncan,Stan,13
+28,Adults,Narrator,33
+29,Guide,Narrator,66
+30,Boys,Narrator,11
+31,Narrator,Pete,22
+32,Narrator,The boys,11
+33,Narrator,Zipliner,11
+34,Narrator,Some adults,11
+35,Narrator,Rancher,33
+36,Duncan,Narrator,11
+37,Adults,Michael,63
+38,Guide,Michael,126
+39,Boys,Michael,21
+40,Michael,Pete,42
+41,Michael,The boys,21
+42,Michael,Zipliner,21
+43,Michael,Some adults,21
+44,Michael,Rancher,63
+45,Kenny,Michael,21
+46,Duncan,Michael,21
+47,Adults,Kyle,57
+48,Adults,Cartman,63
+49,Adults,Guide,18
+50,Adults,Boys,3
+51,Adults,Pete,6
+52,Adults,The boys,3
+53,Adults,Zipliner,3
+54,Adults,Some adults,3
+55,Adults,Rancher,9
+56,Adults,Kenny,3
+57,Adults,Duncan,3
+58,Guide,Kyle,114
+59,Boys,Kyle,19
+60,Kyle,Pete,38
+61,Kyle,The boys,19
+62,Kyle,Zipliner,19
+63,Kyle,Some adults,19
+64,Kyle,Rancher,57
+65,Duncan,Kyle,19
+66,Cartman,Guide,126
+67,Boys,Cartman,21
+68,Cartman,Pete,42
+69,Cartman,The boys,21
+70,Cartman,Zipliner,21
+71,Cartman,Some adults,21
+72,Cartman,Rancher,63
+73,Cartman,Duncan,21
+74,Boys,Guide,6
+75,Guide,Pete,12
+76,Guide,The boys,6
+77,Guide,Zipliner,6
+78,Guide,Some adults,6
+79,Guide,Rancher,18
+80,Guide,Kenny,6
+81,Duncan,Guide,6
+82,Boys,Pete,2
+83,Boys,The boys,1
+84,Boys,Zipliner,1
+85,Boys,Some adults,1
+86,Boys,Rancher,3
+87,Boys,Kenny,1
+88,Boys,Duncan,1
+89,Pete,The boys,2
+90,Pete,Zipliner,2
+91,Pete,Some adults,2
+92,Pete,Rancher,6
+93,Kenny,Pete,2
+94,Duncan,Pete,2
+95,The boys,Zipliner,1
+96,Some adults,The boys,1
+97,Rancher,The boys,3
+98,Kenny,The boys,1
+99,Duncan,The boys,1
+100,Some adults,Zipliner,1
+101,Rancher,Zipliner,3
+102,Kenny,Zipliner,1
+103,Duncan,Zipliner,1
+104,Rancher,Some adults,3
+105,Kenny,Some adults,1
+106,Duncan,Some adults,1
+107,Kenny,Rancher,3
+108,Duncan,Rancher,3
+109,Duncan,Kenny,1

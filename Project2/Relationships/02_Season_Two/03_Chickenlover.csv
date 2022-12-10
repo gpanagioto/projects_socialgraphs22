@@ -15,52 +15,36 @@
 13,Cameraman,Officer Barbrady,2
 14,Cameraman,Rancher,1
 15,Officer Barbrady,Teller,3
-16,Officer Barbrady,Reporter 1,3
-17,Reporter 1,Reporter 2,1
-18,Reporter 1,Reporter 3,1
-19,Officer Barbrady,Reporter 2,3
-20,Officer Barbrady,Reporter 3,3
-21,Reporter 2,Reporter 3,1
-22,Aide 1,Mayor McDaniels,1
-23,Mayor McDaniels,Reporter 3,3
-24,Aide 2,Mayor McDaniels,6
-25,Aide 2,Reporter 3,1
-26,Mr. Garrison,Officer Barbrady,13
-27,Kyle,Officer Barbrady,32
-28,Kyle,Mr. Garrison,4
-29,Mr. Hat,Officer Barbrady,6
-30,Mr. Garrison,Mr. Hat,2
-31,Mr. Garrison,Stan,3
-32,Cartman,Officer Barbrady,9
-33,Kenny,Stan,6
-34,Mayor McDaniels,Stan,6
-35,Aide 2,Stan,2
-36,Kenny,Mayor McDaniels,3
-37,Kenny,Officer Barbrady,7
-38,Kenny,Kyle,3
-39,Aide 2,Kenny,1
-40,Mayor McDaniels,Officer Barbrady,11
-41,Kyle,Mayor McDaniels,3
-42,Aide 2,Officer Barbrady,3
-43,Aide 2,Kyle,1
-44,Aide 1,Officer Barbrady,1
-45,Bus Driver,Officer Barbrady,23
-46,Father Maxi,Stan,2
-47,Halfy,Stan,4
-48,Father Maxi,Halfy,4
-49,Father Maxi,Mr. Garrison,2
-50,Father Maxi,Officer Barbrady,2
-51,Halfy,Mr. Garrison,2
-52,Halfy,Officer Barbrady,3
-53,Halfy,Kyle,1
-54,Cartman,Driver,9
-55,Mr. Hat,Stan,1
-56,Kyle,Mr. Hat,2
-57,Cartman,Stuart,14
-58,Carol,Stuart,12
-59,Carol,Cartman,9
-60,Barbrady,Cartman,2
-61,Barbrady,Bus Driver,2
-62,Barbrady,Kyle,1
-63,Man 1,Officer Barbrady,2
-64,Man 1,Stan,1
+16,Mr. Garrison,Officer Barbrady,13
+17,Kyle,Officer Barbrady,32
+18,Kyle,Mr. Garrison,4
+19,Mr. Hat,Officer Barbrady,6
+20,Mr. Garrison,Mr. Hat,2
+21,Mr. Garrison,Stan,3
+22,Cartman,Officer Barbrady,9
+23,Kenny,Stan,6
+24,Mayor McDaniels,Stan,6
+25,Kenny,Mayor McDaniels,3
+26,Kenny,Officer Barbrady,7
+27,Kenny,Kyle,3
+28,Mayor McDaniels,Officer Barbrady,11
+29,Kyle,Mayor McDaniels,3
+30,Bus Driver,Officer Barbrady,23
+31,Cartman,Randy,17
+32,Father Maxi,Stan,2
+33,Halfy,Stan,4
+34,Father Maxi,Halfy,4
+35,Father Maxi,Mr. Garrison,2
+36,Father Maxi,Officer Barbrady,2
+37,Halfy,Mr. Garrison,2
+38,Halfy,Officer Barbrady,3
+39,Halfy,Kyle,1
+40,Cartman,Driver,9
+41,Mr. Hat,Stan,1
+42,Kyle,Mr. Hat,2
+43,Cartman,Stuart,14
+44,Carol,Stuart,12
+45,Carol,Cartman,9
+46,Barbrady,Cartman,2
+47,Barbrady,Bus Driver,2
+48,Barbrady,Kyle,1

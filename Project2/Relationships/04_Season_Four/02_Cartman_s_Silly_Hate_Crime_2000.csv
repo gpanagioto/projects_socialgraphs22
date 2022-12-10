@@ -56,192 +56,165 @@
 54,A few others,Clyde,1
 55,Cartman,Liane,28
 56,Liane,Mr. Mackey,21
-57,Liane,Man 1,6
-58,Agent Keen,Liane,9
-59,Agent Sharp,Liane,3
-60,Cartman,Mr. Mackey,49
-61,Cartman,Man 1,14
-62,Agent Keen,Cartman,21
-63,Agent Sharp,Cartman,7
-64,Man 1,Mr. Mackey,14
-65,Agent Keen,Mr. Mackey,21
-66,Agent Sharp,Mr. Mackey,7
-67,Agent Keen,Man 1,6
-68,Agent Sharp,Man 1,2
-69,Agent Keen,Agent Sharp,3
-70,Cartman,Prosecutor,49
-71,Liane,Prosecutor,7
-72,Lizzy,Prosecutor,7
-73,Prosecutor,Stan,7
-74,Liane,Lizzy,1
-75,Liane,Stan,1
-76,Cartman,Judge,2
-77,Cartman,The girls,1
-78,Black bailiff,Cartman,1
-79,Cartman,White bailiff,1
-80,Judge,The girls,2
-81,Black bailiff,Judge,2
-82,Judge,White bailiff,2
-83,Black bailiff,The girls,1
-84,The girls,White bailiff,1
-85,Black bailiff,White bailiff,1
-86,Cartman,Kenny,16
-87,Greg Nimins,Kyle,2
-88,Greg Nimins,Stan,1
-89,Cartman,Romper Stomper,142
-90,Cartman,Warden,1
-91,Romper Stomper,Warden,2
-92,Cartman,Inmates,8
-93,Inmates,Romper Stomper,8
-94,Clyde,Pip,5
-95,All the boys,Pip,4
-96,Kyle,Pip,19
-97,Pip,Stan,27
-98,Kenny,Pip,2
-99,Butters,Pip,8
-100,Lizzy,Pip,7
-101,Pip,Some boys,2
-102,Other boys,Pip,2
-103,Pip,The group,2
-104,All the boys,Clyde,2
-105,Clyde,Kenny,1
-106,Clyde,Some boys,1
-107,Clyde,Other boys,1
-108,Clyde,The group,1
-109,All the boys,Kyle,12
-110,All the boys,Stan,18
-111,All the boys,Kenny,2
-112,All the boys,Butters,4
-113,All the boys,Lizzy,2
-114,All the boys,Some boys,2
-115,All the boys,Other boys,2
-116,All the boys,The group,2
-117,Kenny,Kyle,6
-118,Kyle,Some boys,6
-119,Kyle,Other boys,6
-120,Kyle,The group,6
-121,Kenny,Stan,9
-122,Some boys,Stan,9
-123,Other boys,Stan,9
-124,Stan,The group,9
-125,Butters,Kenny,2
-126,Kenny,Lizzy,1
-127,Kenny,Some boys,1
-128,Kenny,Other boys,1
-129,Kenny,The group,1
-130,Butters,Some boys,2
-131,Butters,Other boys,2
-132,Butters,The group,2
-133,Lizzy,Some boys,1
-134,Lizzy,Other boys,1
-135,Lizzy,The group,1
-136,Other boys,Some boys,1
-137,Some boys,The group,1
-138,Other boys,The group,1
-139,Boy 1,Mother 1,2
-140,Boy 1,Boy 2,4
-141,Boy 1,Mother 2,2
-142,Boy 1,Guard,2
-143,Boy 1,Cartman,26
-144,Boy 1,Kyle,16
-145,Boy 1,Stan,16
-146,Boy 2,Mother 1,2
-147,Mother 1,Mother 2,1
-148,Guard,Mother 1,1
-149,Cartman,Mother 1,13
-150,Kyle,Mother 1,8
-151,Mother 1,Stan,8
-152,Boy 2,Mother 2,2
-153,Boy 2,Guard,2
-154,Boy 2,Cartman,26
-155,Boy 2,Kyle,16
-156,Boy 2,Stan,16
-157,Guard,Mother 2,1
-158,Cartman,Mother 2,13
-159,Kyle,Mother 2,8
-160,Mother 2,Stan,8
-161,Cartman,Guard,33
-162,Guard,Kyle,8
-163,Guard,Stan,8
-164,Linda Black,Stan,12
-165,Stan,Steve Black,42
-166,Kyle,Linda Black,12
-167,Kyle,Steve Black,42
-168,Linda Black,Tolkien,4
-169,Linda Black,Steve Black,14
-170,Steve Black,Tolkien,14
-171,Governor,Tolkien,12
-172,Governor,Stan,15
-173,Governor,Kyle,9
-174,Guard,Romper Stomper,14
-175,Bebe,Stan,9
-176,Other girls,Stan,9
-177,Boy Sledders,Stan,18
-178,Kids at Finish Line,Stan,9
-179,Bear,Stan,9
-180,Girls,Stan,9
-181,Boys,Stan,9
-182,Bebe,Kyle,7
-183,Kyle,Other girls,7
-184,Boy Sledders,Kyle,14
-185,Kids at Finish Line,Kyle,7
-186,Bear,Kyle,7
-187,Girls,Kyle,7
-188,Boys,Kyle,7
-189,Bebe,Lizzy,5
-190,Lizzy,Other girls,5
-191,Boy Sledders,Lizzy,10
-192,Kids at Finish Line,Lizzy,5
-193,Bear,Lizzy,5
-194,Girls,Lizzy,5
-195,Boys,Lizzy,5
-196,Bebe,Clyde,3
-197,Bebe,Other girls,1
-198,Bebe,Butters,4
-199,Bebe,Cartman,10
-200,Bebe,Boy Sledders,2
-201,Bebe,Kids at Finish Line,1
-202,Bear,Bebe,1
-203,Bebe,Girls,1
-204,Bebe,Boys,1
-205,Bebe,Pip,1
-206,Clyde,Other girls,3
-207,Boy Sledders,Clyde,6
-208,Clyde,Kids at Finish Line,3
-209,Bear,Clyde,3
-210,Clyde,Girls,3
-211,Boys,Clyde,3
-212,Butters,Other girls,4
-213,Cartman,Other girls,10
-214,Boy Sledders,Other girls,2
-215,Kids at Finish Line,Other girls,1
-216,Bear,Other girls,1
-217,Girls,Other girls,1
-218,Boys,Other girls,1
-219,Other girls,Pip,1
-220,Boy Sledders,Butters,8
-221,Butters,Kids at Finish Line,4
-222,Bear,Butters,4
-223,Butters,Girls,4
-224,Boys,Butters,4
-225,Boy Sledders,Cartman,20
-226,Cartman,Kids at Finish Line,10
-227,Bear,Cartman,10
-228,Cartman,Girls,10
-229,Boys,Cartman,10
-230,Cartman,Pip,10
-231,Boy Sledders,Kids at Finish Line,2
-232,Bear,Boy Sledders,2
-233,Boy Sledders,Girls,2
-234,Boy Sledders,Boys,2
-235,Boy Sledders,Pip,2
-236,Bear,Kids at Finish Line,1
-237,Girls,Kids at Finish Line,1
-238,Boys,Kids at Finish Line,1
-239,Kids at Finish Line,Pip,1
-240,Bear,Girls,1
-241,Bear,Boys,1
-242,Bear,Pip,1
-243,Boys,Girls,1
-244,Girls,Pip,1
-245,Boys,Pip,1
+57,Agent Keen,Liane,9
+58,Agent Sharp,Liane,3
+59,Cartman,Mr. Mackey,49
+60,Agent Keen,Cartman,21
+61,Agent Sharp,Cartman,7
+62,Agent Keen,Mr. Mackey,21
+63,Agent Sharp,Mr. Mackey,7
+64,Agent Keen,Agent Sharp,3
+65,Cartman,Prosecutor,49
+66,Liane,Prosecutor,7
+67,Lizzy,Prosecutor,7
+68,Prosecutor,Stan,7
+69,Liane,Lizzy,1
+70,Liane,Stan,1
+71,Cartman,Judge,2
+72,Cartman,The girls,1
+73,Black bailiff,Cartman,1
+74,Cartman,White bailiff,1
+75,Judge,The girls,2
+76,Black bailiff,Judge,2
+77,Judge,White bailiff,2
+78,Black bailiff,The girls,1
+79,The girls,White bailiff,1
+80,Black bailiff,White bailiff,1
+81,Cartman,Kenny,16
+82,Greg Nimins,Kyle,2
+83,Greg Nimins,Stan,1
+84,Cartman,Romper Stomper,142
+85,Cartman,Warden,1
+86,Romper Stomper,Warden,2
+87,Cartman,Inmates,8
+88,Inmates,Romper Stomper,8
+89,Clyde,Pip,5
+90,All the boys,Pip,4
+91,Kyle,Pip,19
+92,Pip,Stan,27
+93,Kenny,Pip,2
+94,Butters,Pip,8
+95,Lizzy,Pip,7
+96,Pip,Some boys,2
+97,Other boys,Pip,2
+98,Pip,The group,2
+99,All the boys,Clyde,2
+100,Clyde,Kenny,1
+101,Clyde,Some boys,1
+102,Clyde,Other boys,1
+103,Clyde,The group,1
+104,All the boys,Kyle,12
+105,All the boys,Stan,18
+106,All the boys,Kenny,2
+107,All the boys,Butters,4
+108,All the boys,Lizzy,2
+109,All the boys,Some boys,2
+110,All the boys,Other boys,2
+111,All the boys,The group,2
+112,Kenny,Kyle,6
+113,Kyle,Some boys,6
+114,Kyle,Other boys,6
+115,Kyle,The group,6
+116,Kenny,Stan,9
+117,Some boys,Stan,9
+118,Other boys,Stan,9
+119,Stan,The group,9
+120,Butters,Kenny,2
+121,Kenny,Lizzy,1
+122,Kenny,Some boys,1
+123,Kenny,Other boys,1
+124,Kenny,The group,1
+125,Butters,Some boys,2
+126,Butters,Other boys,2
+127,Butters,The group,2
+128,Lizzy,Some boys,1
+129,Lizzy,Other boys,1
+130,Lizzy,The group,1
+131,Other boys,Some boys,1
+132,Some boys,The group,1
+133,Other boys,The group,1
+134,Cartman,Guard,33
+135,Guard,Kyle,8
+136,Guard,Stan,8
+137,Linda Black,Stan,12
+138,Stan,Steve Black,42
+139,Kyle,Linda Black,12
+140,Kyle,Steve Black,42
+141,Linda Black,Tolkien,4
+142,Linda Black,Steve Black,14
+143,Steve Black,Tolkien,14
+144,Governor,Tolkien,12
+145,Governor,Stan,15
+146,Governor,Kyle,9
+147,Guard,Romper Stomper,14
+148,Bebe,Stan,9
+149,Other girls,Stan,9
+150,Boy Sledders,Stan,18
+151,Kids at Finish Line,Stan,9
+152,Bear,Stan,9
+153,Girls,Stan,9
+154,Boys,Stan,9
+155,Bebe,Kyle,7
+156,Kyle,Other girls,7
+157,Boy Sledders,Kyle,14
+158,Kids at Finish Line,Kyle,7
+159,Bear,Kyle,7
+160,Girls,Kyle,7
+161,Boys,Kyle,7
+162,Bebe,Lizzy,5
+163,Lizzy,Other girls,5
+164,Boy Sledders,Lizzy,10
+165,Kids at Finish Line,Lizzy,5
+166,Bear,Lizzy,5
+167,Girls,Lizzy,5
+168,Boys,Lizzy,5
+169,Bebe,Clyde,3
+170,Bebe,Other girls,1
+171,Bebe,Butters,4
+172,Bebe,Cartman,10
+173,Bebe,Boy Sledders,2
+174,Bebe,Kids at Finish Line,1
+175,Bear,Bebe,1
+176,Bebe,Girls,1
+177,Bebe,Boys,1
+178,Bebe,Pip,1
+179,Clyde,Other girls,3
+180,Boy Sledders,Clyde,6
+181,Clyde,Kids at Finish Line,3
+182,Bear,Clyde,3
+183,Clyde,Girls,3
+184,Boys,Clyde,3
+185,Butters,Other girls,4
+186,Cartman,Other girls,10
+187,Boy Sledders,Other girls,2
+188,Kids at Finish Line,Other girls,1
+189,Bear,Other girls,1
+190,Girls,Other girls,1
+191,Boys,Other girls,1
+192,Other girls,Pip,1
+193,Boy Sledders,Butters,8
+194,Butters,Kids at Finish Line,4
+195,Bear,Butters,4
+196,Butters,Girls,4
+197,Boys,Butters,4
+198,Boy Sledders,Cartman,20
+199,Cartman,Kids at Finish Line,10
+200,Bear,Cartman,10
+201,Cartman,Girls,10
+202,Boys,Cartman,10
+203,Cartman,Pip,10
+204,Boy Sledders,Kids at Finish Line,2
+205,Bear,Boy Sledders,2
+206,Boy Sledders,Girls,2
+207,Boy Sledders,Boys,2
+208,Boy Sledders,Pip,2
+209,Bear,Kids at Finish Line,1
+210,Girls,Kids at Finish Line,1
+211,Boys,Kids at Finish Line,1
+212,Kids at Finish Line,Pip,1
+213,Bear,Girls,1
+214,Bear,Boys,1
+215,Bear,Pip,1
+216,Boys,Girls,1
+217,Girls,Pip,1
+218,Boys,Pip,1

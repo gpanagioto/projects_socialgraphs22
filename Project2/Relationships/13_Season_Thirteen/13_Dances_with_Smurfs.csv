@@ -1,74 +1,39 @@
 ,source,target,weight
 0,Gordon Stoltski,Intruder,132
-1,Intruder,Man,12
-2,Gordon Stoltski,Man,11
-3,Mike,Mr. Mackey,3
-4,Cartman,Mike,1
-5,Casey,Mike,1
-6,Cartman,Mr. Mackey,23
-7,Casey,Mr. Mackey,11
-8,Cartman,Casey,5
-9,Butters,Cartman,45
-10,Butters,Kyle,2
-11,Cartman,Kyle,7
-12,Cartman,Principal Victoria,20
-13,Mr. Mackey,Principal Victoria,7
-14,Cartman,Kindergartners,1
-15,Ike,Kyle,1
-16,Cartman,Ike,2
-17,Butters,Wendy,24
-18,Melvins,Wendy,4
-19,Melvin 1,Wendy,8
-20,Melvin 2,Wendy,10
-21,Melvin 3,Wendy,10
-22,Casey,Wendy,6
-23,Melvin 4,Wendy,4
-24,Butters,Melvins,5
-25,Butters,Melvin 1,8
-26,Butters,Melvin 2,12
-27,Butters,Melvin 3,12
-28,Butters,Casey,5
-29,Butters,Melvin 4,4
-30,Melvin 1,Melvins,2
-31,Melvin 2,Melvins,2
-32,Melvin 3,Melvins,2
-33,Casey,Melvins,2
-34,Melvin 4,Melvins,1
-35,Melvin 1,Melvin 2,4
-36,Melvin 1,Melvin 3,4
-37,Casey,Melvin 1,2
-38,Melvin 1,Melvin 4,2
-39,Melvin 2,Melvin 3,5
-40,Casey,Melvin 2,2
-41,Melvin 2,Melvin 4,2
-42,Casey,Melvin 3,2
-43,Melvin 3,Melvin 4,2
-44,Casey,Melvin 4,1
-45,Cartman,Douglas,8
-46,Butters,Douglas,5
-47,Douglas,Stan,4
-48,Cartman,Stan,32
-49,Butters,Stan,20
-50,Boy 1,Stan,4
-51,Boy 2,Stan,4
-52,Casey,Stan,4
-53,Stan,Wendy,8
-54,Boy 1,Boy 2,1
-55,Boy 1,Casey,1
-56,Boy 1,Wendy,2
-57,Boy 2,Casey,1
-58,Boy 2,Wendy,2
-59,A Melvin,Butters,5
-60,A Melvin,Casey,1
-61,A Melvin,Melvins,1
-62,A Melvin,Melvin 2,1
-63,A Melvin,Melvin 3,1
-64,A Melvin,Wendy,2
-65,A Melvin,Mr. Testaburger,2
-66,Butters,Mr. Testaburger,8
-67,Melvin 2,Mr. Testaburger,2
-68,Melvin 3,Mr. Testaburger,2
-69,Mr. Testaburger,Wendy,4
-70,Cartman,Wendy,65
-71,A Boy,Wendy,5
-72,A Boy,Cartman,6
+1,Mike,Mr. Mackey,3
+2,Cartman,Mike,1
+3,Casey,Mike,1
+4,Cartman,Mr. Mackey,23
+5,Casey,Mr. Mackey,11
+6,Cartman,Casey,5
+7,Butters,Cartman,45
+8,Butters,Kyle,2
+9,Cartman,Kyle,7
+10,Cartman,Principal Victoria,20
+11,Mr. Mackey,Principal Victoria,7
+12,Cartman,Kindergartners,1
+13,Ike,Kyle,1
+14,Cartman,Ike,2
+15,Butters,Wendy,24
+16,Melvins,Wendy,4
+17,Casey,Wendy,6
+18,Butters,Melvins,5
+19,Butters,Casey,5
+20,Casey,Melvins,2
+21,Cartman,Douglas,8
+22,Butters,Douglas,5
+23,Douglas,Stan,4
+24,Cartman,Stan,32
+25,Butters,Stan,20
+26,Casey,Stan,4
+27,Stan,Wendy,8
+28,A Melvin,Butters,5
+29,A Melvin,Casey,1
+30,A Melvin,Melvins,1
+31,A Melvin,Wendy,2
+32,A Melvin,Mr. Testaburger,2
+33,Butters,Mr. Testaburger,8
+34,Mr. Testaburger,Wendy,4
+35,Cartman,Wendy,65
+36,A Boy,Wendy,5
+37,A Boy,Cartman,6

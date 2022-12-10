@@ -23,86 +23,60 @@
 21,Boys,TV,2
 22,Cartman,TV,4
 23,Kyle,TV,2
-24,Stan,Voice,10
-25,Kyle,Voice,6
-26,Cartman,Voice,4
-27,Man,Stan,18
-28,Official,Stan,54
-29,Man 2,Stan,9
-30,Soldier 1,Stan,9
-31,Soldier 2,Stan,18
-32,Guard,Stan,28
-33,Soldier,Stan,17
-34,Soldier 3,Stan,9
-35,Man,Towelie,6
+24,Randy,Stan,1
+25,Cartman,Randy,1
+26,Randy,Sharon,1
+27,Commander,Kyle,77
+28,Commander,Stan,124
+29,Cartman,Commander,54
+30,Stan,Voice,10
+31,Kyle,Voice,6
+32,Cartman,Voice,4
+33,Official,Stan,54
+34,Guard,Stan,28
+35,Soldier,Stan,17
 36,Official,Towelie,18
-37,Man 2,Towelie,3
-38,Soldier 1,Towelie,3
-39,Soldier 2,Towelie,6
-40,Guard,Towelie,8
-41,Soldier,Towelie,7
-42,Soldier 3,Towelie,3
-43,Man,Official,12
-44,Kyle,Man,4
-45,Man,Man 2,2
-46,Man,Soldier 1,2
-47,Man,Soldier 2,4
-48,Guard,Man,4
-49,Man,Soldier,2
-50,Man,Soldier 3,2
-51,Kyle,Official,12
-52,Man 2,Official,6
-53,Official,Soldier 1,6
-54,Official,Soldier 2,12
-55,Guard,Official,12
-56,Official,Soldier,6
-57,Official,Soldier 3,6
-58,Kyle,Man 2,2
-59,Kyle,Soldier 1,2
-60,Kyle,Soldier 2,4
-61,Guard,Kyle,12
-62,Kyle,Soldier,8
-63,Kyle,Soldier 3,2
-64,Man 2,Soldier 1,1
-65,Man 2,Soldier 2,2
-66,Guard,Man 2,2
-67,Man 2,Soldier,1
-68,Man 2,Soldier 3,1
-69,Soldier 1,Soldier 2,2
-70,Guard,Soldier 1,2
-71,Soldier,Soldier 1,1
-72,Soldier 1,Soldier 3,1
-73,Guard,Soldier 2,4
-74,Soldier,Soldier 2,2
-75,Soldier 2,Soldier 3,2
-76,Guard,Soldier,2
-77,Guard,Soldier 3,2
-78,Soldier,Soldier 3,1
-79,Soldier,Woman,2
-80,Mr. Garrison,Soldier,6
-81,Research leader,Stan,82
-82,Kyle,Research leader,52
-83,Cartman,Research leader,32
-84,Sgt. Boll,Sgt. Masters,4
-85,Research leader,Towelie,22
-86,Guard,Research leader,4
-87,Cartman,Soldier,2
-88,Official 2,Research leader,2
-89,GS-401,Research leader,38
-90,GS-401,Official 2,1
-91,GS-401,Towelie,45
-92,GS-401,Stan,54
-93,GS-401,Kyle,45
-94,Cartman,GS-401,54
-95,GS-401,Zytar,27
-96,Boys,GS-401,9
-97,GS-401,Kenny,18
-98,Towelie,Zytar,15
-99,Research leader,Zytar,12
-100,Boys,Research leader,4
-101,Kenny,Research leader,8
-102,Stan,Zytar,18
-103,Kyle,Zytar,15
-104,Cartman,Zytar,18
-105,Boys,Zytar,3
-106,Kenny,Zytar,6
+37,Guard,Towelie,8
+38,Commander,Towelie,65
+39,Soldier,Towelie,7
+40,Kyle,Official,12
+41,Guard,Official,12
+42,Commander,Official,24
+43,Official,Soldier,6
+44,Guard,Kyle,12
+45,Kyle,Soldier,8
+46,Commander,Guard,8
+47,Guard,Soldier,2
+48,Commander,Soldier,22
+49,Mr. Garrison,Soldier,6
+50,Research leader,Stan,82
+51,Kyle,Research leader,52
+52,Cartman,Research leader,32
+53,Commander,Sgt. Masters,8
+54,Commander,Sgt. Boll,8
+55,Sgt. Boll,Sgt. Masters,4
+56,Research leader,Towelie,22
+57,Guard,Research leader,4
+58,Cartman,Soldier,2
+59,GS-401,Research leader,38
+60,GS-401,Towelie,45
+61,Commander,GS-401,63
+62,GS-401,Stan,54
+63,GS-401,Kyle,45
+64,Cartman,GS-401,54
+65,GS-401,Zytar,27
+66,Boys,GS-401,9
+67,GS-401,Kenny,18
+68,Towelie,Zytar,15
+69,Commander,Research leader,28
+70,Research leader,Zytar,12
+71,Boys,Research leader,4
+72,Kenny,Research leader,8
+73,Commander,Zytar,21
+74,Boys,Commander,7
+75,Commander,Kenny,14
+76,Stan,Zytar,18
+77,Kyle,Zytar,15
+78,Cartman,Zytar,18
+79,Boys,Zytar,3
+80,Kenny,Zytar,6

@@ -36,31 +36,25 @@
 34,Coon,Mintberry Crunch,65
 35,Coon,Professor Chaos,5
 36,Mintberry Crunch,Professor Chaos,2
-37,Coon,Man 2,3
-38,Man 2,Reporter,2
-39,Coon,Reporter,6
-40,Mysterion,Pete,15
-41,Michael,Pete,5
-42,Mrs. Biggle,Pete,6
-43,Henrietta,Pete,10
-44,Bradley,Pete,6
-45,Michael,Mysterion,10
-46,Mrs. Biggle,Mysterion,8
-47,Henrietta,Mysterion,20
-48,Bradley,Mysterion,8
-49,Michael,Mrs. Biggle,2
-50,Henrietta,Michael,10
-51,Bradley,Michael,2
-52,Henrietta,Mrs. Biggle,4
-53,Bradley,Mrs. Biggle,4
-54,Bradley,Henrietta,4
-55,Michael,Mintberry Crunch,4
-56,Henrietta,Mintberry Crunch,8
-57,Mintberry Crunch,Pete,2
-58,Coon,Reporter 2,20
-59,Alien Man,Coon,30
-60,Mysterion,Reporter 2,18
-61,Mintberry Crunch,Reporter 2,8
-62,Alien Man,Reporter 2,6
-63,Alien Man,Mysterion,27
-64,Alien Man,Mintberry Crunch,12
+37,Coon,Reporter,6
+38,Mysterion,Pete,15
+39,Michael,Pete,5
+40,Mrs. Biggle,Pete,6
+41,Henrietta,Pete,10
+42,Bradley,Pete,6
+43,Michael,Mysterion,10
+44,Mrs. Biggle,Mysterion,8
+45,Henrietta,Mysterion,20
+46,Bradley,Mysterion,8
+47,Michael,Mrs. Biggle,2
+48,Henrietta,Michael,10
+49,Bradley,Michael,2
+50,Henrietta,Mrs. Biggle,4
+51,Bradley,Mrs. Biggle,4
+52,Bradley,Henrietta,4
+53,Michael,Mintberry Crunch,4
+54,Henrietta,Mintberry Crunch,8
+55,Mintberry Crunch,Pete,2
+56,Alien Man,Coon,30
+57,Alien Man,Mysterion,27
+58,Alien Man,Mintberry Crunch,12

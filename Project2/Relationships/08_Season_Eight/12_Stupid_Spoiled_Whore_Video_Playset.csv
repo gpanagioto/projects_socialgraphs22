@@ -3,187 +3,155 @@
 1,Red,Wendy,37
 2,Annie,Wendy,32
 3,Store owner,Wendy,5
-4,Man,Wendy,5
-5,Paris,Wendy,7
-6,Bebe,Red,63
-7,Annie,Bebe,56
-8,Bebe,Store owner,2
-9,Bebe,Man,2
-10,Bebe,Paris,22
-11,Annie,Red,52
-12,Red,Store owner,2
-13,Man,Red,2
-14,Paris,Red,10
-15,Annie,Store owner,2
-16,Annie,Man,2
-17,Annie,Paris,14
-18,Man,Store owner,1
-19,Paris,Store owner,1
-20,Man,Paris,1
-21,Announcer,Red,2
-22,Annie,Announcer,2
-23,Announcer,Wendy,4
-24,Announcer,Bebe,2
-25,Chauffeur,Paris,46
-26,Jessie,Wendy,8
-27,Jessie,Kal,16
-28,Jessie,Singers,12
-29,Announcer,Jessie,4
-30,Kal,Wendy,8
-31,Singers,Wendy,6
-32,Kal,Singers,12
-33,Announcer,Kal,4
-34,Announcer,Singers,3
-35,Butters,Chauffeur,25
-36,Chauffeur,Chris,5
-37,Butters,Paris,73
-38,Chris,Paris,42
-39,Butters,Chris,41
-40,Mr. Testaburger,Wendy,23
-41,Mr. Testaburger,Mrs. Faulk,3
-42,Mrs. Faulk,Mrs. Stevens,1
-43,Mrs. Faulk,Woman 1,1
-44,Females,Mrs. Faulk,3
-45,Mrs. Faulk,Woman 2,1
-46,Mrs. Faulk,Teen girl 1,1
-47,Mrs. Faulk,Teen girl 2,1
-48,Mrs. Faulk,Wendy,1
-49,Mr. Testaburger,Mrs. Stevens,3
-50,Mr. Testaburger,Woman 1,3
-51,Females,Mr. Testaburger,9
-52,Mr. Testaburger,Woman 2,3
-53,Mr. Testaburger,Teen girl 1,3
-54,Mr. Testaburger,Teen girl 2,3
-55,Mrs. Stevens,Woman 1,1
-56,Females,Mrs. Stevens,3
-57,Mrs. Stevens,Woman 2,1
-58,Mrs. Stevens,Teen girl 1,1
-59,Mrs. Stevens,Teen girl 2,1
-60,Mrs. Stevens,Wendy,1
-61,Females,Woman 1,3
-62,Woman 1,Woman 2,1
-63,Teen girl 1,Woman 1,1
-64,Teen girl 2,Woman 1,1
-65,Wendy,Woman 1,1
-66,Females,Woman 2,3
-67,Females,Teen girl 1,3
-68,Females,Teen girl 2,3
-69,Females,Wendy,3
-70,Teen girl 1,Woman 2,1
-71,Teen girl 2,Woman 2,1
-72,Wendy,Woman 2,1
-73,Teen girl 1,Teen girl 2,1
-74,Teen girl 1,Wendy,1
-75,Teen girl 2,Wendy,1
-76,Butters,Linda,11
-77,Chris,Linda,29
-78,Linda,Paris,18
-79,Bebe,Girls,13
-80,Bebe,Millie,28
-81,Bebe,Sally,28
-82,Bebe,Cartman,7
-83,Girls,Wendy,3
-84,Millie,Wendy,12
-85,Sally,Wendy,12
-86,Cartman,Wendy,3
-87,Annie,Girls,10
-88,Annie,Millie,24
-89,Annie,Sally,24
-90,Annie,Cartman,6
-91,Girls,Red,9
-92,Millie,Red,28
-93,Red,Sally,28
-94,Cartman,Red,32
-95,Girls,Millie,4
-96,Girls,Sally,4
-97,Cartman,Girls,1
-98,Millie,Sally,16
-99,Cartman,Millie,4
-100,Cartman,Sally,4
-101,Bab,Clyde,1
-102,Bab,Cartman,5
-103,Bab,Red,5
-104,Bab,Kelly Rutherford-Menskin,2
-105,Bab,Kelly Pinkertonstinfurter,1
-106,Cartman,Clyde,5
-107,Clyde,Red,5
-108,Clyde,Kelly Rutherford-Menskin,2
-109,Clyde,Kelly Pinkertonstinfurter,1
-110,Cartman,Kelly Rutherford-Menskin,10
-111,Cartman,Kelly Pinkertonstinfurter,5
-112,Kelly Rutherford-Menskin,Red,10
-113,Kelly Pinkertonstinfurter,Red,5
-114,Kelly Pinkertonstinfurter,Kelly Rutherford-Menskin,2
-115,Herbert Garrison,Wendy,14
-116,Mr. Slave,Wendy,17
-117,Herbert Garrison,Mr. Slave,9
-118,Little Slave,Mr. Slave,5
-119,Boy slave,Mr. Slave,10
-120,Kid,Mr. Slave,5
-121,Little Slave,Wendy,2
-122,Boy slave,Wendy,4
-123,Kid,Wendy,2
-124,Boy slave,Little Slave,2
-125,Kid,Little Slave,1
-126,Boy slave,Kid,2
-127,Man,Woman,1
-128,Chris,Man,2
-129,Butters,Man,2
-130,Linda,Man,1
-131,Chris,Woman,2
-132,Butters,Woman,2
-133,Linda,Woman,1
-134,Annie,Stan,2
-135,Annie,Mr. Slave,14
-136,Annie,Butters,4
-137,Annie,Men,2
-138,Red,Stan,1
-139,Mr. Slave,Red,8
-140,Butters,Red,3
-141,Men,Red,1
-142,Mr. Slave,Stan,7
-143,Bebe,Stan,3
-144,Butters,Stan,2
-145,Paris,Stan,6
-146,Girls,Stan,2
-147,Men,Stan,1
-148,Bebe,Mr. Slave,23
-149,Butters,Mr. Slave,15
-150,Mr. Slave,Paris,42
-151,Girls,Mr. Slave,14
-152,Men,Mr. Slave,7
-153,Bebe,Butters,8
-154,Bebe,Men,3
-155,Butters,Girls,4
-156,Butters,Men,2
-157,Girls,Paris,12
-158,Men,Paris,6
-159,Girls,Men,2
-160,Bebe,Official,1
-161,Bebe,Crowd,1
-162,Bebe,Herbert Garrison,3
-163,Official,Red,1
-164,Crowd,Red,1
-165,Herbert Garrison,Red,2
-166,Official,Paris,2
-167,Crowd,Official,1
-168,Official,Wendy,1
-169,Herbert Garrison,Official,1
-170,Crowd,Paris,2
-171,Herbert Garrison,Paris,2
-172,Crowd,Wendy,1
-173,Crowd,Herbert Garrison,1
-174,Herbert Garrison,Mr. Stevens,1
-175,Chris,Herbert Garrison,2
-176,Butters,Herbert Garrison,1
-177,Bebe,Mr. Stevens,2
-178,Bebe,Chris,4
-179,Mr. Slave,Mr. Stevens,1
-180,Chris,Mr. Slave,2
-181,Mr. Stevens,Red,1
-182,Mr. Stevens,Wendy,1
-183,Chris,Mr. Stevens,2
-184,Butters,Mr. Stevens,1
-185,Chris,Red,2
-186,Chris,Wendy,2
-187,Butters,Wendy,1
+4,Paris,Wendy,7
+5,Bebe,Red,63
+6,Annie,Bebe,56
+7,Bebe,Store owner,2
+8,Bebe,Paris,22
+9,Annie,Red,52
+10,Red,Store owner,2
+11,Paris,Red,10
+12,Annie,Store owner,2
+13,Annie,Paris,14
+14,Paris,Store owner,1
+15,Announcer,Red,2
+16,Annie,Announcer,2
+17,Announcer,Wendy,4
+18,Announcer,Bebe,2
+19,Chauffeur,Paris,46
+20,Jessie,Wendy,8
+21,Jessie,Kal,16
+22,Jessie,Singers,12
+23,Announcer,Jessie,4
+24,Kal,Wendy,8
+25,Singers,Wendy,6
+26,Kal,Singers,12
+27,Announcer,Kal,4
+28,Announcer,Singers,3
+29,Butters,Chauffeur,25
+30,Chauffeur,Chris,5
+31,Butters,Paris,73
+32,Chris,Paris,42
+33,Butters,Chris,41
+34,Mr. Testaburger,Wendy,23
+35,Mr. Testaburger,Mrs. Faulk,3
+36,Mrs. Faulk,Mrs. Stevens,1
+37,Females,Mrs. Faulk,3
+38,Mrs. Faulk,Wendy,1
+39,Mr. Testaburger,Mrs. Stevens,3
+40,Females,Mr. Testaburger,9
+41,Females,Mrs. Stevens,3
+42,Mrs. Stevens,Wendy,1
+43,Females,Wendy,3
+44,Butters,Linda,11
+45,Chris,Linda,29
+46,Linda,Paris,18
+47,Bebe,Girls,13
+48,Bebe,Millie,28
+49,Bebe,Sally,28
+50,Bebe,Cartman,7
+51,Girls,Wendy,3
+52,Millie,Wendy,12
+53,Sally,Wendy,12
+54,Cartman,Wendy,3
+55,Annie,Girls,10
+56,Annie,Millie,24
+57,Annie,Sally,24
+58,Annie,Cartman,6
+59,Girls,Red,9
+60,Millie,Red,28
+61,Red,Sally,28
+62,Cartman,Red,32
+63,Girls,Millie,4
+64,Girls,Sally,4
+65,Cartman,Girls,1
+66,Millie,Sally,16
+67,Cartman,Millie,4
+68,Cartman,Sally,4
+69,Bab,Clyde,1
+70,Bab,Cartman,5
+71,Bab,Red,5
+72,Bab,Kelly Rutherford-Menskin,2
+73,Bab,Kelly Pinkertonstinfurter,1
+74,Cartman,Clyde,5
+75,Clyde,Red,5
+76,Clyde,Kelly Rutherford-Menskin,2
+77,Clyde,Kelly Pinkertonstinfurter,1
+78,Cartman,Kelly Rutherford-Menskin,10
+79,Cartman,Kelly Pinkertonstinfurter,5
+80,Kelly Rutherford-Menskin,Red,10
+81,Kelly Pinkertonstinfurter,Red,5
+82,Kelly Pinkertonstinfurter,Kelly Rutherford-Menskin,2
+83,Herbert Garrison,Wendy,14
+84,Mr. Slave,Wendy,17
+85,Herbert Garrison,Mr. Slave,9
+86,Little Slave,Mr. Slave,5
+87,Boy slave,Mr. Slave,10
+88,Kid,Mr. Slave,5
+89,Little Slave,Wendy,2
+90,Boy slave,Wendy,4
+91,Kid,Wendy,2
+92,Boy slave,Little Slave,2
+93,Kid,Little Slave,1
+94,Boy slave,Kid,2
+95,Annie,Stan,2
+96,Annie,Mr. Slave,14
+97,Annie,Butters,4
+98,Annie,Men,2
+99,Red,Stan,1
+100,Mr. Slave,Red,8
+101,Butters,Red,3
+102,Men,Red,1
+103,Mr. Slave,Stan,7
+104,Bebe,Stan,3
+105,Butters,Stan,2
+106,Paris,Stan,6
+107,Girls,Stan,2
+108,Men,Stan,1
+109,Bebe,Mr. Slave,23
+110,Butters,Mr. Slave,15
+111,Mr. Slave,Paris,42
+112,Girls,Mr. Slave,14
+113,Men,Mr. Slave,7
+114,Bebe,Butters,8
+115,Bebe,Men,3
+116,Butters,Girls,4
+117,Butters,Men,2
+118,Girls,Paris,12
+119,Men,Paris,6
+120,Girls,Men,2
+121,Bebe,Official,1
+122,Bebe,Crowd,1
+123,Bebe,Herbert Garrison,3
+124,Bebe,Randy,1
+125,Official,Red,1
+126,Crowd,Red,1
+127,Herbert Garrison,Red,2
+128,Randy,Red,1
+129,Official,Paris,2
+130,Crowd,Official,1
+131,Official,Wendy,1
+132,Herbert Garrison,Official,1
+133,Official,Randy,1
+134,Crowd,Paris,2
+135,Herbert Garrison,Paris,2
+136,Paris,Randy,2
+137,Crowd,Wendy,1
+138,Crowd,Herbert Garrison,1
+139,Crowd,Randy,1
+140,Randy,Wendy,1
+141,Herbert Garrison,Randy,1
+142,Herbert Garrison,Mr. Stevens,1
+143,Chris,Herbert Garrison,2
+144,Butters,Herbert Garrison,1
+145,Bebe,Mr. Stevens,2
+146,Bebe,Chris,4
+147,Mr. Slave,Mr. Stevens,1
+148,Chris,Mr. Slave,2
+149,Mr. Stevens,Red,1
+150,Mr. Stevens,Wendy,1
+151,Chris,Mr. Stevens,2
+152,Butters,Mr. Stevens,1
+153,Chris,Red,2
+154,Chris,Wendy,2
+155,Butters,Wendy,1

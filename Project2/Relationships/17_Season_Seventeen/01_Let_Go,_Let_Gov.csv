@@ -19,69 +19,56 @@
 17,Alec Baldwin,Clyde,4
 18,Alec Baldwin,Stan,2
 19,Butters,Clerk,4
-20,Clerk,Man,2
-21,Butters,Man,2
-22,Cartman,Receptionist,10
-23,Cartman,Chief,11
-24,Cartman,Patricia,5
-25,Alec Baldwin,Receptionist,4
-26,Chief,Receptionist,4
-27,Patricia,Receptionist,2
-28,Alec Baldwin,Chief,4
-29,Alec Baldwin,Patricia,2
-30,Chief,Patricia,2
-31,Butters,Pamphleteer,56
-32,Butters,Colleague,12
-33,Colleague,Pamphleteer,14
-34,Cartman,Detective,3
-35,Cartman,Joe,6
-36,Cartman,Miller,2
-37,Cartman,Larson,2
-38,Chief,Detective,3
-39,Chief,Joe,6
-40,Chief,Miller,2
-41,Chief,Larson,2
-42,Detective,Joe,18
-43,Detective,Miller,6
-44,Detective,Larson,6
-45,Joe,Miller,12
-46,Joe,Larson,12
-47,Larson,Miller,4
-48,Hippie,Joe,12
-49,Alec Baldwin,Hippie,4
-50,Alec Baldwin,Joe,3
-51,Butters,Craig,42
-52,Craig,Pamphleteer,12
-53,Alec Baldwin,Date,1
-54,Cartman,Date,4
-55,Date,Jarvis,1
-56,Alec Baldwin,Jarvis,1
-57,Cartman,Jarvis,4
-58,Barbrady,Clerk 2,6
-59,Clerk 2,Group,6
-60,Butters,Clerk 2,4
-61,Clerk 2,Customer,2
-62,Clerk 2,Larry,4
-63,Clerk 2,Clerk 3,2
-64,Barbrady,Group,9
-65,Barbrady,Butters,6
-66,Barbrady,Customer,3
-67,Barbrady,Larry,6
-68,Barbrady,Clerk 3,3
-69,Butters,Group,8
-70,Customer,Group,3
-71,Group,Larry,7
-72,Clerk 3,Group,3
-73,Butters,Customer,2
-74,Butters,Larry,6
-75,Butters,Clerk 3,2
-76,Customer,Larry,2
-77,Clerk 3,Customer,1
-78,Clerk 3,Larry,2
-79,Cartman,Liane,25
-80,Cartman,Group,2
-81,Cartman,Paul,2
-82,Cartman,Larry,2
-83,Butters,Paul,2
-84,Group,Paul,1
-85,Larry,Paul,1
+20,Cartman,Receptionist,10
+21,Cartman,Chief,11
+22,Cartman,Patricia,5
+23,Alec Baldwin,Receptionist,4
+24,Chief,Receptionist,4
+25,Patricia,Receptionist,2
+26,Alec Baldwin,Chief,4
+27,Alec Baldwin,Patricia,2
+28,Chief,Patricia,2
+29,Butters,Pamphleteer,56
+30,Butters,Colleague,12
+31,Colleague,Pamphleteer,14
+32,Cartman,Detective,3
+33,Cartman,Joe,6
+34,Cartman,Miller,2
+35,Cartman,Larson,2
+36,Chief,Detective,3
+37,Chief,Joe,6
+38,Chief,Miller,2
+39,Chief,Larson,2
+40,Detective,Joe,18
+41,Detective,Miller,6
+42,Detective,Larson,6
+43,Joe,Miller,12
+44,Joe,Larson,12
+45,Larson,Miller,4
+46,Hippie,Joe,12
+47,Alec Baldwin,Hippie,4
+48,Alec Baldwin,Joe,3
+49,Butters,Craig,42
+50,Craig,Pamphleteer,12
+51,Alec Baldwin,Date,1
+52,Cartman,Date,4
+53,Date,Jarvis,1
+54,Alec Baldwin,Jarvis,1
+55,Cartman,Jarvis,4
+56,Barbrady,Group,9
+57,Barbrady,Butters,6
+58,Barbrady,Customer,3
+59,Barbrady,Larry,6
+60,Butters,Group,8
+61,Customer,Group,3
+62,Group,Larry,7
+63,Butters,Customer,2
+64,Butters,Larry,6
+65,Customer,Larry,2
+66,Cartman,Liane,25
+67,Cartman,Group,2
+68,Cartman,Paul,2
+69,Cartman,Larry,2
+70,Butters,Paul,2
+71,Group,Paul,1
+72,Larry,Paul,1

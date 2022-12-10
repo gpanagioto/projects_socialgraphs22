@@ -17,50 +17,32 @@
 15,Aunt Nellie,Cartman,8
 16,Cartman,Uncle Budd,2
 17,Mitch,Producer,18
-18,Mitch,Woman,2
-19,Millie,Mitch,2
-20,Butters,Mitch,2
-21,Cartman,Mitch,12
-22,Boy,Mitch,2
-23,Producer,Woman,3
-24,Millie,Producer,3
-25,Butters,Producer,3
-26,Cartman,Producer,16
-27,Boy,Producer,3
-28,Millie,Woman,1
-29,Butters,Woman,1
-30,Cartman,Woman,2
-31,Boy,Woman,1
-32,Butters,Millie,1
-33,Cartman,Millie,2
-34,Boy,Millie,1
-35,Boy,Butters,1
-36,Boy,Cartman,2
-37,Producer,Staffer 1,6
-38,Mitch,Staffer 1,8
-39,Staffer 1,Staffer 2,8
-40,Cartman,Staffer 1,4
-41,Staffer 1,Staffer 3,8
-42,Producer,Staffer 2,12
-43,Producer,Staffer 3,12
-44,Mitch,Staffer 2,16
-45,Mitch,Staffer 3,16
-46,Cartman,Staffer 2,8
-47,Staffer 2,Staffer 3,16
-48,Cartman,Staffer 3,8
-49,Black official,White official,9
-50,Black official,General,11
-51,Black official,Scientist,6
-52,General,White official,16
-53,Scientist,White official,15
-54,General,Scientist,76
-55,General,Soldier,3
-56,Cartman,Soldier,1
-57,Scientist,Soldier,2
-58,Cartman,General,50
-59,Cartman,Scientist,57
-60,Cartman,White official,6
-61,Butters,Scientist,1
-62,Butters,General,5
-63,Black official,Butters,2
-64,Black official,Cartman,2
+18,Millie,Mitch,2
+19,Butters,Mitch,2
+20,Cartman,Mitch,12
+21,Boy,Mitch,2
+22,Millie,Producer,3
+23,Butters,Producer,3
+24,Cartman,Producer,16
+25,Boy,Producer,3
+26,Butters,Millie,1
+27,Cartman,Millie,2
+28,Boy,Millie,1
+29,Boy,Butters,1
+30,Boy,Cartman,2
+31,Black official,White official,9
+32,Black official,General,11
+33,Black official,Scientist,6
+34,General,White official,16
+35,Scientist,White official,15
+36,General,Scientist,76
+37,General,Soldier,3
+38,Cartman,Soldier,1
+39,Scientist,Soldier,2
+40,Cartman,General,50
+41,Cartman,Scientist,57
+42,Cartman,White official,6
+43,Butters,Scientist,1
+44,Butters,General,5
+45,Black official,Butters,2
+46,Black official,Cartman,2

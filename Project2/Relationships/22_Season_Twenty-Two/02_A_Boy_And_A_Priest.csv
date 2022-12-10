@@ -1,112 +1,106 @@
 ,source,target,weight
-0,Congregants,Fr. Maxi,4
-1,Congregants,Stephen,1
-2,Congregants,Woman,1
-3,Congregants,Townsman 1,1
-4,Fr. Maxi,Stephen,14
-5,Fr. Maxi,Woman,4
-6,Fr. Maxi,Townsman 1,7
-7,Stephen,Woman,1
-8,Stephen,Townsman 1,1
-9,Townsman 1,Woman,1
-10,Stephen,Woman 2,1
-11,Jimbo,Woman 2,1
-12,Others,Woman 2,1
-13,Jimbo,Stephen,1
-14,Others,Stephen,1
-15,Jimbo,Others,2
-16,Butters,Fr. Maxi,102
-17,Kenny,Stan,3
-18,Kyle,Stan,6
-19,Butters,Stan,16
-20,Fr. Maxi,Stan,12
-21,Cartman,Stan,9
-22,Kenny,Kyle,2
-23,Butters,Kenny,4
-24,Fr. Maxi,Kenny,4
-25,Cartman,Kenny,3
-26,Butters,Kyle,19
-27,Fr. Maxi,Kyle,20
-28,Cartman,Kyle,9
-29,Butters,Cartman,13
-30,Cartman,Fr. Maxi,19
+0,Randy,Stan,15
+1,Randy,Sharon,3
+2,Randy,Townsman,2
+3,Congregants,Fr. Maxi,4
+4,Congregants,Randy,1
+5,Congregants,Stephen,1
+6,Fr. Maxi,Randy,66
+7,Fr. Maxi,Stephen,14
+8,Randy,Stephen,26
+9,Jimbo,Stephen,1
+10,Others,Stephen,1
+11,Jimbo,Others,2
+12,Butters,Fr. Maxi,102
+13,Kenny,Stan,3
+14,Kyle,Stan,6
+15,Butters,Stan,16
+16,Fr. Maxi,Stan,12
+17,Cartman,Stan,9
+18,Kenny,Kyle,2
+19,Butters,Kenny,4
+20,Fr. Maxi,Kenny,4
+21,Cartman,Kenny,3
+22,Kenny,Randy,4
+23,Butters,Kyle,19
+24,Fr. Maxi,Kyle,20
+25,Cartman,Kyle,9
+26,Kyle,Randy,8
+27,Butters,Cartman,13
+28,Butters,Randy,21
+29,Cartman,Fr. Maxi,19
+30,Cartman,Randy,12
 31,Mr. Mackey,Ted,1
 32,Hazel,Mr. Mackey,1
 33,Mr. Mackey,Others,1
-34,Josie,Mr. Mackey,1
-35,Mr. Mackey,Ryan,1
-36,Mr. Mackey,Woman,1
+34,Mr. Mackey,Randy,5
+35,Josie,Mr. Mackey,1
+36,Mr. Mackey,Ryan,1
 37,Butters,Mr. Mackey,1
 38,Hazel,Ted,1
 39,Others,Ted,1
-40,Josie,Ted,1
-41,Ryan,Ted,1
-42,Ted,Woman,1
+40,Randy,Ted,5
+41,Josie,Ted,1
+42,Ryan,Ted,1
 43,Butters,Ted,1
 44,Hazel,Others,1
-45,Hazel,Josie,1
-46,Hazel,Ryan,1
-47,Hazel,Woman,1
+45,Hazel,Randy,5
+46,Hazel,Josie,1
+47,Hazel,Ryan,1
 48,Butters,Hazel,1
-49,Josie,Others,1
-50,Others,Ryan,1
-51,Others,Woman,1
+49,Others,Randy,6
+50,Josie,Others,1
+51,Others,Ryan,1
 52,Butters,Others,1
-53,Josie,Ryan,1
-54,Josie,Woman,1
-55,Butters,Josie,1
-56,Ryan,Woman,1
+53,Josie,Randy,5
+54,Randy,Ryan,5
+55,Josie,Ryan,1
+56,Butters,Josie,1
 57,Butters,Ryan,1
-58,Butters,Woman,1
-59,Sharon,Shelley,1
+58,Sharon,Shelley,1
+59,Randy,Shelley,1
 60,Archbishop,Mr. Mackey,4
 61,Auxiliary,Mr. Mackey,2
 62,Archbishop,Auxiliary,2
 63,Clyde,Fr. Maxi,9
 64,Clyde,Kyle,4
 65,Cartman,Clyde,4
-66,Stuart,Townsman 2,1
-67,Jimbo,Stuart,1
-68,Stuart,Townsman 3,1
-69,Others,Stuart,1
-70,Jimbo,Townsman 2,1
-71,Townsman 2,Townsman 3,1
-72,Others,Townsman 2,1
-73,Jimbo,Townsman 3,1
-74,Others,Townsman 3,1
-75,Auxiliary,Townsmen,6
-76,Auxiliary,Townsman 4,3
-77,Townsman 4,Townsmen,2
-78,Auxiliary,Priest,31
-79,Priest,Stan,10
-80,Auxiliary,Stan,33
-81,Boys,Fr. Maxi,5
-82,Boys,Clyde,1
-83,Boys,Kyle,2
-84,Boys,Cartman,1
-85,Boys,Butters,1
-86,Butters,Clyde,5
-87,Assistant,Auxiliary,19
-88,Assistant,Priest,6
-89,Assistant,Cartman,1
-90,Assistant,Clyde,1
-91,Auxiliary,Cartman,3
-92,Auxiliary,Clyde,6
-93,Cartman,Priest,1
-94,Clyde,Priest,1
-95,Auxiliary,Butters,47
-96,Clyde,Stan,1
-97,Linda,Stephen,5
-98,Fr. Maxi,Linda,2
-99,Auxiliary,Kid's voice,7
-100,Auxiliary,Fr. Maxi,49
-101,Assistant,Kid's voice,2
-102,Kid's voice,Priest,2
-103,Fr. Maxi,Kid's voice,7
-104,Butters,Kid's voice,5
-105,Assistant,Fr. Maxi,14
-106,Assistant,Butters,10
-107,Fr. Maxi,Priest,14
-108,Butters,Priest,10
-109,Fr. Maxi,Woman 4,3
-110,Townsman 1,Woman 4,1
+66,Jimbo,Stuart,1
+67,Randy,Stuart,1
+68,Others,Stuart,1
+69,Jimbo,Randy,1
+70,Auxiliary,Randy,9
+71,Randy,Townsmen,6
+72,Auxiliary,Townsmen,6
+73,Auxiliary,Priest,31
+74,Priest,Stan,10
+75,Auxiliary,Stan,33
+76,Boys,Fr. Maxi,5
+77,Boys,Clyde,1
+78,Boys,Kyle,2
+79,Boys,Cartman,1
+80,Boys,Butters,1
+81,Butters,Clyde,5
+82,Assistant,Auxiliary,19
+83,Assistant,Priest,6
+84,Assistant,Cartman,1
+85,Assistant,Clyde,1
+86,Auxiliary,Cartman,3
+87,Auxiliary,Clyde,6
+88,Cartman,Priest,1
+89,Clyde,Priest,1
+90,Auxiliary,Butters,47
+91,Clyde,Stan,1
+92,Linda,Randy,5
+93,Linda,Stephen,5
+94,Fr. Maxi,Linda,2
+95,Auxiliary,Kid's voice,7
+96,Auxiliary,Fr. Maxi,49
+97,Assistant,Kid's voice,2
+98,Kid's voice,Priest,2
+99,Fr. Maxi,Kid's voice,7
+100,Butters,Kid's voice,5
+101,Assistant,Fr. Maxi,14
+102,Assistant,Butters,10
+103,Fr. Maxi,Priest,14
+104,Butters,Priest,10

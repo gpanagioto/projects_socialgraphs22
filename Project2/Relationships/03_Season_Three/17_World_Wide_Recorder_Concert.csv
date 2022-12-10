@@ -41,139 +41,39 @@
 39,Mr. Hat,Ms. Crabtree,5
 40,Ms. Crabtree,Students,1
 41,Coordinator,Mr. Mackey,8
-42,Coordinator,New York kid 1,28
-43,Coordinator,New York kid 2,4
-44,Coordinator,Kyle,17
-45,Coordinator,Stan,13
-46,Cartman,Coordinator,17
-47,Coordinator,Kenny,5
-48,Black kid,Coordinator,4
-49,Mr. Mackey,New York kid 1,14
-50,Mr. Mackey,New York kid 2,2
-51,Black kid,Mr. Mackey,2
-52,New York kid 1,New York kid 2,7
-53,Kyle,New York kid 1,28
-54,New York kid 1,Stan,14
-55,Cartman,New York kid 1,21
-56,Kenny,New York kid 1,7
-57,Black kid,New York kid 1,7
-58,Kyle,New York kid 2,4
-59,New York kid 2,Stan,2
-60,Cartman,New York kid 2,3
-61,Kenny,New York kid 2,1
-62,Black kid,New York kid 2,1
-63,Black kid,Kyle,4
-64,Black kid,Stan,2
-65,Black kid,Cartman,3
-66,Black kid,Kenny,1
-67,Mr. Garrison,Mr. Garrison Sr.,139
-68,Mr. Garrison,Mrs. Garrison Sr.,65
-69,Mr. Garrison Sr.,Mrs. Garrison Sr.,20
-70,Coordinator,Yoko Ono,1
-71,Cartman,Yoko Ono,2
-72,Kenny,Yoko Ono,1
-73,Kyle,Yoko Ono,4
-74,Stan,Yoko Ono,3
-75,Mr. Garrison Sr.,Mr. Mackey,72
-76,Mr. Garrison,Reporter,6
-77,Mr. Garrison Sr.,Reporter,6
-78,Delivery man,Kyle,5
-79,Cartman,Delivery man,7
-80,Delivery man,Stan,4
-81,Delivery man,Kenny,1
-82,Mr. Garrison Sr.,Patron 1,72
-83,Mr. Garrison Sr.,Patron 2,64
-84,Mr. Garrison Sr.,Patron 3,56
-85,Blond,Mr. Garrison Sr.,24
-86,Mr. Garrison Sr.,Patron 4,8
-87,Mr. Garrison Sr.,Patron 5,8
-88,Mr. Garrison Sr.,Patrons,16
-89,Mr. Garrison Sr.,Patron 6,8
-90,Mr. Garrison Sr.,Patron 7,8
-91,Mr. Garrison Sr.,Patron 8,16
-92,Mr. Garrison Sr.,Patron 9,8
-93,Bartender,Mr. Garrison Sr.,16
-94,Mr. Garrison Sr.,Patron 10,8
-95,Patron 1,Patron 2,72
-96,Patron 1,Patron 3,63
-97,Blond,Patron 1,27
-98,Patron 1,Patron 4,9
-99,Patron 1,Patron 5,9
-100,Patron 1,Patrons,18
-101,Patron 1,Patron 6,9
-102,Patron 1,Patron 7,9
-103,Patron 1,Patron 8,18
-104,Patron 1,Patron 9,9
-105,Bartender,Patron 1,18
-106,Patron 1,Patron 10,9
-107,Patron 2,Patron 3,56
-108,Blond,Patron 2,24
-109,Patron 2,Patron 4,8
-110,Patron 2,Patron 5,8
-111,Patron 2,Patrons,16
-112,Patron 2,Patron 6,8
-113,Patron 2,Patron 7,8
-114,Patron 2,Patron 8,16
-115,Patron 2,Patron 9,8
-116,Bartender,Patron 2,16
-117,Patron 10,Patron 2,8
-118,Blond,Patron 3,21
-119,Patron 3,Patron 4,7
-120,Patron 3,Patron 5,7
-121,Patron 3,Patrons,14
-122,Patron 3,Patron 6,7
-123,Patron 3,Patron 7,7
-124,Patron 3,Patron 8,14
-125,Patron 3,Patron 9,7
-126,Bartender,Patron 3,14
-127,Patron 10,Patron 3,7
-128,Blond,Patron 4,3
-129,Blond,Patron 5,3
-130,Blond,Patrons,6
-131,Blond,Patron 6,3
-132,Blond,Patron 7,3
-133,Blond,Patron 8,6
-134,Blond,Patron 9,3
-135,Bartender,Blond,6
-136,Blond,Patron 10,3
-137,Patron 4,Patron 5,1
-138,Patron 4,Patrons,2
-139,Patron 4,Patron 6,1
-140,Patron 4,Patron 7,1
-141,Patron 4,Patron 8,2
-142,Patron 4,Patron 9,1
-143,Bartender,Patron 4,2
-144,Patron 10,Patron 4,1
-145,Patron 5,Patrons,2
-146,Patron 5,Patron 6,1
-147,Patron 5,Patron 7,1
-148,Patron 5,Patron 8,2
-149,Patron 5,Patron 9,1
-150,Bartender,Patron 5,2
-151,Patron 10,Patron 5,1
-152,Patron 6,Patrons,2
-153,Patron 7,Patrons,2
-154,Patron 8,Patrons,4
-155,Patron 9,Patrons,2
-156,Bartender,Patrons,4
-157,Patron 10,Patrons,2
-158,Patron 6,Patron 7,1
-159,Patron 6,Patron 8,2
-160,Patron 6,Patron 9,1
-161,Bartender,Patron 6,2
-162,Patron 10,Patron 6,1
-163,Patron 7,Patron 8,2
-164,Patron 7,Patron 9,1
-165,Bartender,Patron 7,2
-166,Patron 10,Patron 7,1
-167,Patron 8,Patron 9,2
-168,Bartender,Patron 8,4
-169,Patron 10,Patron 8,2
-170,Bartender,Patron 9,2
-171,Patron 10,Patron 9,1
-172,Bartender,Patron 10,2
-173,Cartman,Chip,2
-174,Chip,Stan,2
-175,Chip,Coordinator,2
-176,Mr. Mackey,Yoko Ono,1
-177,Mr. Garrison,Yoko Ono,1
+42,Coordinator,Kyle,17
+43,Coordinator,Stan,13
+44,Cartman,Coordinator,17
+45,Coordinator,Kenny,5
+46,Black kid,Coordinator,4
+47,Black kid,Mr. Mackey,2
+48,Black kid,Kyle,4
+49,Black kid,Stan,2
+50,Black kid,Cartman,3
+51,Black kid,Kenny,1
+52,Mr. Garrison,Mr. Garrison Sr.,139
+53,Mr. Garrison,Mrs. Garrison Sr.,65
+54,Mr. Garrison Sr.,Mrs. Garrison Sr.,20
+55,Coordinator,Yoko Ono,1
+56,Cartman,Yoko Ono,2
+57,Kenny,Yoko Ono,1
+58,Kyle,Yoko Ono,4
+59,Stan,Yoko Ono,3
+60,Mr. Garrison Sr.,Mr. Mackey,72
+61,Mr. Garrison,Reporter,6
+62,Mr. Garrison Sr.,Reporter,6
+63,Delivery man,Kyle,5
+64,Cartman,Delivery man,7
+65,Delivery man,Stan,4
+66,Delivery man,Kenny,1
+67,Blond,Mr. Garrison Sr.,24
+68,Mr. Garrison Sr.,Patrons,16
+69,Bartender,Mr. Garrison Sr.,16
+70,Blond,Patrons,6
+71,Bartender,Blond,6
+72,Bartender,Patrons,4
+73,Cartman,Chip,2
+74,Chip,Stan,2
+75,Chip,Coordinator,2
+76,Mr. Mackey,Yoko Ono,1
+77,Mr. Garrison,Yoko Ono,1

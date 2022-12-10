@@ -39,29 +39,30 @@
 37,Lucas,Stormy,2
 38,Captain,Cartman,21
 39,Cartman,Officer,8
-40,Butters,Captain,14
-41,Captain,Officer,2
-42,Butters,Officer,4
-43,Det. Yates,Stan,4
-44,Det. Yates,Kyle,8
-45,Det. Yates,Jimmy,4
-46,Det. Yates,Spielberg,24
-47,Det. Yates,Indy,24
-48,Det. Yates,Lucas,3
-49,Kyle,Spielberg,16
-50,Indy,Kyle,16
-51,Kyle,Lucas,2
-52,Jimmy,Spielberg,8
-53,Indy,Jimmy,8
-54,Jimmy,Lucas,1
-55,Deputy 2,Spielberg,1
-56,Deputy 2,Lucas,1
-57,Deputy 2,Stormtrooper,1
-58,Spielberg,Stormtrooper,1
-59,Lucas,Stormtrooper,1
-60,Kyle,Mitch,2
-61,Det. Yates,Mitch,1
-62,Clyde,Det. Yates,1
-63,Mitch,Stan,1
-64,Jimmy,Mitch,1
-65,Clyde,Mitch,1
+40,Cartman,Chinese Officer,8
+41,Butters,Captain,14
+42,Captain,Officer,2
+43,Captain,Chinese Officer,2
+44,Butters,Officer,4
+45,Butters,Chinese Officer,4
+46,Chinese Officer,Officer,1
+47,Det. Yates,Stan,4
+48,Det. Yates,Kyle,8
+49,Det. Yates,Jimmy,4
+50,Det. Yates,Spielberg,24
+51,Det. Yates,Indy,24
+52,Det. Yates,Lucas,3
+53,Kyle,Spielberg,16
+54,Indy,Kyle,16
+55,Kyle,Lucas,2
+56,Jimmy,Spielberg,8
+57,Indy,Jimmy,8
+58,Jimmy,Lucas,1
+59,Spielberg,Stormtrooper,1
+60,Lucas,Stormtrooper,1
+61,Kyle,Mitch,2
+62,Det. Yates,Mitch,1
+63,Clyde,Det. Yates,1
+64,Mitch,Stan,1
+65,Jimmy,Mitch,1
+66,Clyde,Mitch,1

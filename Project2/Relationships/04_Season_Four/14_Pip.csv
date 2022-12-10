@@ -21,33 +21,24 @@
 19,Estella,Pocket,90
 20,Estella,Steve,8
 21,Boy,Estella,8
-22,Estella,Man,40
-23,Estella,Robot Monkey,8
-24,Escaped Convict,Estella,8
-25,Boy,Pip,12
-26,Man,Pip,60
-27,Pip,Robot Monkey,12
-28,Joe,Ms. Havisham,30
-29,Joe,Steve,5
-30,Boy,Joe,5
-31,Joe,Man,25
-32,Joe,Robot Monkey,5
-33,Ms. Havisham,Pocket,66
-34,Boy,Ms. Havisham,6
-35,Man,Ms. Havisham,30
-36,Ms. Havisham,Robot Monkey,6
-37,Escaped Convict,Ms. Havisham,6
-38,Pocket,Steve,11
-39,Boy,Pocket,11
-40,Man,Pocket,55
-41,Pocket,Robot Monkey,11
-42,Boy,Steve,1
-43,Man,Steve,5
-44,Robot Monkey,Steve,1
-45,Escaped Convict,Steve,1
-46,Boy,Man,5
-47,Boy,Robot Monkey,1
-48,Boy,Escaped Convict,1
-49,Man,Robot Monkey,5
-50,Escaped Convict,Man,5
-51,Escaped Convict,Robot Monkey,1
+22,Estella,Robot Monkey,8
+23,Escaped Convict,Estella,8
+24,Boy,Pip,12
+25,Pip,Robot Monkey,12
+26,Joe,Ms. Havisham,30
+27,Joe,Steve,5
+28,Boy,Joe,5
+29,Joe,Robot Monkey,5
+30,Ms. Havisham,Pocket,66
+31,Boy,Ms. Havisham,6
+32,Ms. Havisham,Robot Monkey,6
+33,Escaped Convict,Ms. Havisham,6
+34,Pocket,Steve,11
+35,Boy,Pocket,11
+36,Pocket,Robot Monkey,11
+37,Boy,Steve,1
+38,Robot Monkey,Steve,1
+39,Escaped Convict,Steve,1
+40,Boy,Robot Monkey,1
+41,Boy,Escaped Convict,1
+42,Escaped Convict,Robot Monkey,1

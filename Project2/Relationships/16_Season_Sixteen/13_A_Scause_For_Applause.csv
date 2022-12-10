@@ -1,94 +1,93 @@
 ,source,target,weight
-0,Man,Pharmacist,1
-1,Mr. Mackey,Pharmacist,1
-2,Cartman,Pharmacist,1
-3,Man 2,Pharmacist,1
-4,Cartman,Mr. Mackey,9
-5,Man 2,Mr. Mackey,1
-6,Cartman,Man 2,1
-7,Cartman,Kenny,2
-8,Anchor Tom,Stan,2
-9,Lead scientist,Stan,62
-10,Anchor Tom,Lead scientist,4
-11,Butters,Cartman,24
-12,Cartman,Stan,30
-13,Cartman,Craig,8
-14,Butters,Stan,74
-15,Butters,Mr. Mackey,11
-16,Butters,Craig,11
-17,Mr. Mackey,Stan,18
-18,Craig,Stan,14
-19,Craig,Mr. Mackey,2
-20,A Voice,Charlie Rose,8
-21,Charlie Rose,Stan,32
-22,Charlie Rose,Chris Martin,16
-23,Charlie Rose,Retarded fish,8
-24,A Voice,Stan,4
-25,A Voice,Chris Martin,2
-26,A Voice,Retarded fish,1
-27,Chris Martin,Stan,8
-28,Retarded fish,Stan,4
-29,Chris Martin,Retarded fish,2
-30,Farmer,Stan,2
-31,Butters,Farmer,1
-32,Clerk,Farmer,1
-33,Farmer,Steve Nelson,1
-34,Clerk,Stan,2
-35,Stan,Steve Nelson,2
-36,Butters,Clerk,1
-37,Butters,Steve Nelson,1
-38,Clerk,Steve Nelson,1
-39,Lawyer,Stan,8
-40,Lawyer,Lead scientist,6
-41,Kyle,Lawyer,1
-42,Field reporter,Lawyer,1
-43,Butters,Lawyer,6
-44,Jimmy,Lawyer,1
-45,Cartman,Lawyer,1
-46,Craig,Lawyer,1
-47,Lawyer,The Class,2
-48,Kyle,Stan,33
-49,Field reporter,Stan,8
-50,Jimmy,Stan,8
-51,Stan,The Class,16
-52,Kyle,Lead scientist,6
-53,Field reporter,Lead scientist,6
-54,Butters,Lead scientist,36
-55,Jimmy,Lead scientist,6
-56,Cartman,Lead scientist,6
-57,Craig,Lead scientist,6
-58,Lead scientist,The Class,12
-59,Field reporter,Kyle,1
-60,Butters,Kyle,6
-61,Jimmy,Kyle,1
-62,Cartman,Kyle,1
-63,Craig,Kyle,1
-64,Kyle,The Class,2
-65,Butters,Field reporter,6
-66,Field reporter,Jimmy,1
-67,Cartman,Field reporter,1
-68,Craig,Field reporter,1
-69,Field reporter,The Class,2
-70,Butters,Jimmy,6
-71,Butters,The Class,12
-72,Cartman,Jimmy,1
-73,Craig,Jimmy,1
-74,Jimmy,The Class,2
-75,Cartman,The Class,2
-76,Craig,The Class,2
-77,Lead scientist,Wife,11
-78,Jesus,Stan,71
-79,Jesus,Lead scientist,16
-80,P.F. Pityef,Stan,8
-81,Jesus,P.F. Pityef,2
-82,Clyde,Craig,2
-83,Clyde,Mr. Mackey,2
-84,Cartman,Clyde,6
-85,Butters,Clyde,6
-86,Clyde,Stan,6
-87,Field reporter,Jesus,20
-88,Farmers,Field reporter,4
-89,Farmers,Jesus,5
-90,Mr. Mackey,P.F. Pityef,2
-91,Cartman,P.F. Pityef,4
-92,Butters,P.F. Pityef,2
+0,Mr. Mackey,Pharmacist,1
+1,Cartman,Pharmacist,1
+2,Cartman,Mr. Mackey,9
+3,Cartman,Kenny,2
+4,Randy,Stan,3
+5,Anchor Tom,Stan,2
+6,Lead scientist,Stan,62
+7,Anchor Tom,Randy,6
+8,Lead scientist,Randy,3
+9,Anchor Tom,Lead scientist,4
+10,Butters,Cartman,24
+11,Cartman,Stan,30
+12,Cartman,Craig,8
+13,Butters,Stan,74
+14,Butters,Mr. Mackey,11
+15,Butters,Craig,11
+16,Mr. Mackey,Stan,18
+17,Craig,Stan,14
+18,Craig,Mr. Mackey,2
+19,A Voice,Charlie Rose,8
+20,Charlie Rose,Stan,32
+21,Charlie Rose,Chris Martin,16
+22,Charlie Rose,Retarded fish,8
+23,A Voice,Stan,4
+24,A Voice,Chris Martin,2
+25,A Voice,Retarded fish,1
+26,Chris Martin,Stan,8
+27,Retarded fish,Stan,4
+28,Chris Martin,Retarded fish,2
+29,Farmer,Stan,2
+30,Butters,Farmer,1
+31,Clerk,Farmer,1
+32,Farmer,Steve Nelson,1
+33,Clerk,Stan,2
+34,Stan,Steve Nelson,2
+35,Butters,Clerk,1
+36,Butters,Steve Nelson,1
+37,Clerk,Steve Nelson,1
+38,Lawyer,Stan,8
+39,Lawyer,Lead scientist,6
+40,Kyle,Lawyer,1
+41,Field reporter,Lawyer,1
+42,Butters,Lawyer,6
+43,Jimmy,Lawyer,1
+44,Cartman,Lawyer,1
+45,Craig,Lawyer,1
+46,Lawyer,The Class,2
+47,Kyle,Stan,33
+48,Field reporter,Stan,8
+49,Jimmy,Stan,8
+50,Stan,The Class,16
+51,Kyle,Lead scientist,6
+52,Field reporter,Lead scientist,6
+53,Butters,Lead scientist,36
+54,Jimmy,Lead scientist,6
+55,Cartman,Lead scientist,6
+56,Craig,Lead scientist,6
+57,Lead scientist,The Class,12
+58,Field reporter,Kyle,1
+59,Butters,Kyle,6
+60,Jimmy,Kyle,1
+61,Cartman,Kyle,1
+62,Craig,Kyle,1
+63,Kyle,The Class,2
+64,Butters,Field reporter,6
+65,Field reporter,Jimmy,1
+66,Cartman,Field reporter,1
+67,Craig,Field reporter,1
+68,Field reporter,The Class,2
+69,Butters,Jimmy,6
+70,Butters,The Class,12
+71,Cartman,Jimmy,1
+72,Craig,Jimmy,1
+73,Jimmy,The Class,2
+74,Cartman,The Class,2
+75,Craig,The Class,2
+76,Lead scientist,Wife,11
+77,Jesus,Stan,71
+78,Jesus,Lead scientist,16
+79,P.F. Pityef,Stan,8
+80,Jesus,P.F. Pityef,2
+81,Clyde,Craig,2
+82,Clyde,Mr. Mackey,2
+83,Cartman,Clyde,6
+84,Butters,Clyde,6
+85,Clyde,Stan,6
+86,Field reporter,Jesus,20
+87,Farmers,Field reporter,4
+88,Farmers,Jesus,5
+89,Mr. Mackey,P.F. Pityef,2
+90,Cartman,P.F. Pityef,4
+91,Butters,P.F. Pityef,2

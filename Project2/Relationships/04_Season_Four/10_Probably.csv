@@ -49,148 +49,77 @@
 47,Father,Heidi,4
 48,Father,Mother,8
 49,Heidi,Mother,2
-50,Man,Man 2,1
-51,Man,Woman,1
-52,Man,Man 3,1
-53,Man,Speaker,1
-54,Man,Man 4,1
-55,Hell director,Man,5
-56,Man,Soldier,1
-57,Man,Man 5,1
-58,Crowd,Man,3
-59,Man,Satan,5
-60,Chris,Man,3
-61,Man 2,Woman,1
-62,Man 2,Man 3,1
-63,Man 2,Speaker,1
-64,Man 2,Man 4,1
-65,Hell director,Man 2,5
-66,Man 2,Soldier,1
-67,Man 2,Man 5,1
-68,Crowd,Man 2,3
-69,Man 2,Satan,5
-70,Chris,Man 2,3
-71,Man 3,Woman,1
-72,Speaker,Woman,1
-73,Man 4,Woman,1
-74,Hell director,Woman,5
-75,Soldier,Woman,1
-76,Man 5,Woman,1
-77,Crowd,Woman,3
-78,Satan,Woman,5
-79,Chris,Woman,3
-80,Man 3,Speaker,1
-81,Man 3,Man 4,1
-82,Hell director,Man 3,5
-83,Man 3,Soldier,1
-84,Man 3,Man 5,1
-85,Crowd,Man 3,3
-86,Man 3,Satan,5
-87,Chris,Man 3,3
-88,Man 4,Speaker,1
-89,Hell director,Speaker,5
-90,Soldier,Speaker,1
-91,Man 5,Speaker,1
-92,Crowd,Speaker,3
-93,Satan,Speaker,5
-94,Chris,Speaker,3
-95,Hell director,Man 4,5
-96,Man 4,Soldier,1
-97,Man 4,Man 5,1
-98,Crowd,Man 4,3
-99,Man 4,Satan,5
-100,Chris,Man 4,3
-101,Hell director,Soldier,5
-102,Hell director,Man 5,5
-103,Crowd,Hell director,15
-104,Hell director,Satan,25
-105,Chris,Hell director,15
-106,Man 5,Soldier,1
-107,Crowd,Soldier,3
-108,Satan,Soldier,5
-109,Chris,Soldier,3
-110,Crowd,Man 5,3
-111,Man 5,Satan,5
-112,Chris,Man 5,3
-113,Crowd,Satan,15
-114,Chris,Crowd,9
-115,Liane,Sister Anne,5
-116,Liane,Televangelist,1
-117,Cartman,Sister Anne,42
-118,Cartman,Televangelist,6
-119,Sister Anne,Televangelist,5
-120,Crowd,Kyle,4
-121,Butters,Kyle,6
-122,Kyle,Timmy,28
-123,Cartman,Crowd,12
-124,Butters,Cartman,24
-125,Cartman,Timmy,84
-126,Butters,Crowd,1
-127,Crowd,Timmy,7
-128,Crowd,Kids,2
-129,Butters,Timmy,7
-130,Butters,Kids,4
-131,Kids,Timmy,14
-132,JonBenét Ramsey,Satan,12
-133,Boy,Cartman,24
-134,Cartman,Ugly girl,12
-135,All,Cartman,6
-136,Boy,Kids,10
-137,Boy,Ugly girl,6
-138,All,Boy,3
-139,Kids,Ugly girl,6
-140,All,Kids,3
-141,All,Ugly girl,2
-142,Mormon 2,Satan,27
-143,Mormons,Satan,16
-144,Mormon 1,Satan,20
-145,Mormon 3,Satan,3
-146,Mormon 2,Mormons,9
-147,Mormon 1,Mormon 2,10
-148,Mormon 2,Mormon 3,2
-149,Mormon 1,Mormons,8
-150,Mormon 3,Mormons,3
-151,Mormon 1,Mormon 3,2
-152,God,Satan,58
-153,God,Mormon 2,18
-154,God,Mormon 1,12
-155,God,Mormon 4,12
-156,God,Mormons,6
-157,Mormon 4,Satan,14
-158,Mormon 2,Mormon 4,6
-159,Mormon 1,Mormon 4,4
-160,Mormon 4,Mormons,2
-161,Kids,Sister Anne,2
-162,Butters,Sister Anne,4
-163,Jesus,Sister Anne,8
-164,Bebe,Sister Anne,2
-165,Girls,Sister Anne,2
-166,Boy,Sister Anne,2
-167,Kyle,Sister Anne,2
-168,Sister Anne,Stan,2
-169,Cartman,Jesus,24
-170,Bebe,Cartman,6
-171,Cartman,Girls,6
-172,Jesus,Kids,4
-173,Bebe,Kids,1
-174,Girls,Kids,1
-175,Butters,Jesus,8
-176,Bebe,Butters,2
-177,Butters,Girls,2
-178,Boy,Butters,2
-179,Bebe,Jesus,4
-180,Girls,Jesus,4
-181,Boy,Jesus,4
-182,Jesus,Kyle,4
-183,Jesus,Stan,4
-184,Bebe,Girls,1
-185,Bebe,Boy,1
-186,Bebe,Kyle,1
-187,Bebe,Stan,1
-188,Boy,Girls,1
-189,Girls,Kyle,1
-190,Girls,Stan,1
-191,Boy,Kyle,1
-192,Boy,Stan,1
-193,Rick,Saddam,6
-194,Rick,Satan,5
+50,Hell director,Speaker,5
+51,Soldier,Speaker,1
+52,Crowd,Speaker,3
+53,Satan,Speaker,5
+54,Chris,Speaker,3
+55,Hell director,Soldier,5
+56,Crowd,Hell director,15
+57,Hell director,Satan,25
+58,Chris,Hell director,15
+59,Crowd,Soldier,3
+60,Satan,Soldier,5
+61,Chris,Soldier,3
+62,Crowd,Satan,15
+63,Chris,Crowd,9
+64,Liane,Sister Anne,5
+65,Liane,Televangelist,1
+66,Cartman,Sister Anne,42
+67,Cartman,Televangelist,6
+68,Sister Anne,Televangelist,5
+69,Crowd,Kyle,4
+70,Butters,Kyle,6
+71,Kyle,Timmy,28
+72,Cartman,Crowd,12
+73,Butters,Cartman,24
+74,Cartman,Timmy,84
+75,Butters,Crowd,1
+76,Crowd,Timmy,7
+77,Crowd,Kids,2
+78,Butters,Timmy,7
+79,Butters,Kids,4
+80,Kids,Timmy,14
+81,JonBenét Ramsey,Satan,12
+82,Boy,Cartman,24
+83,Cartman,Ugly girl,12
+84,Boy,Kids,10
+85,Boy,Ugly girl,6
+86,Kids,Ugly girl,6
+87,Mormons,Satan,16
+88,God,Satan,58
+89,God,Mormons,6
+90,Kids,Sister Anne,2
+91,Butters,Sister Anne,4
+92,Jesus,Sister Anne,8
+93,Bebe,Sister Anne,2
+94,Girls,Sister Anne,2
+95,Boy,Sister Anne,2
+96,Kyle,Sister Anne,2
+97,Sister Anne,Stan,2
+98,Cartman,Jesus,24
+99,Bebe,Cartman,6
+100,Cartman,Girls,6
+101,Jesus,Kids,4
+102,Bebe,Kids,1
+103,Girls,Kids,1
+104,Butters,Jesus,8
+105,Bebe,Butters,2
+106,Butters,Girls,2
+107,Boy,Butters,2
+108,Bebe,Jesus,4
+109,Girls,Jesus,4
+110,Boy,Jesus,4
+111,Jesus,Kyle,4
+112,Jesus,Stan,4
+113,Bebe,Girls,1
+114,Bebe,Boy,1
+115,Bebe,Kyle,1
+116,Bebe,Stan,1
+117,Boy,Girls,1
+118,Girls,Kyle,1
+119,Girls,Stan,1
+120,Boy,Kyle,1
+121,Boy,Stan,1
+122,Rick,Saddam,6
+123,Rick,Satan,5

@@ -1,142 +1,90 @@
 ,source,target,weight
 0,Gerald,Kyle,2
-1,Gerald,Woman 1,1
-2,Gerald,Man 1,1
-3,Gerald,Man 2,1
-4,Gerald,Woman 2,1
-5,Gerald,Stuart,4
-6,Man 1,Woman 1,1
-7,Man 2,Woman 1,1
-8,Woman 1,Woman 2,1
-9,Stuart,Woman 1,1
-10,Man 1,Man 2,1
-11,Man 1,Woman 2,1
-12,Man 1,Stuart,1
-13,Man 2,Woman 2,1
-14,Man 2,Stuart,1
-15,Stuart,Woman 2,1
-16,Kenny,Stuart,1
-17,Man 3,Sharon,1
-18,Man 3,Man 4,3
-19,Driver,Man 3,2
-20,Driver,Man 4,6
-21,Josh,Tom,1
-22,Mall Worker 8,Stephen,1
-23,Linda,Stephen,4
-24,Butters,Linda,2
-25,Butters,Stephen,8
-26,Butters,Girl,4
-27,Butters,Larry,4
-28,Butters,Sally,4
-29,Girl,Larry,1
-30,Girl,Sally,1
-31,Larry,Sally,1
-32,Ryan,Sarah,12
-33,Sarah,Towelie,9
-34,Ryan,Towelie,12
-35,Cartman,Kyle,68
-36,Kenny,Kyle,20
-37,Kyle,Stan,56
-38,Cartman,Kenny,25
-39,Cartman,Stan,78
-40,Kenny,Stan,20
-41,Stephen,Strikers,3
-42,Gerald,Strikers,1
-43,Strikers,Stuart,3
-44,Gerald,Stephen,3
-45,Stephen,Stuart,9
-46,All four,Kyle,5
-47,All four,Stan,6
-48,All four,Cartman,7
-49,Bezos,Josh,42
-50,Alexa,Josh,6
-51,Josh,Kids,6
-52,Boy,Josh,6
-53,Alexa,Bezos,15
-54,Bezos,Kids,7
-55,Bezos,Boy,7
-56,Alexa,Kids,1
-57,Alexa,Boy,1
-58,Boy,Kids,1
-59,Larry,Mr. Zewiski,3
-60,Mr. Zewiski,Mrs. Zewiski,3
-61,Mr. Zewiski,Towelie,3
-62,Larry,Mrs. Zewiski,1
-63,Larry,Towelie,1
-64,Mrs. Zewiski,Towelie,1
-65,Cartman,Richard,6
-66,Cartman,Mayor,9
-67,Cartman,Man 5,3
-68,Cartman,Man 6,3
-69,Cartman,Santa,21
-70,Cartman,Man 7,3
-71,Cartman,Woman 3,3
-72,Cartman,Man 8,3
-73,Cartman,Mackey,3
-74,Kyle,Richard,2
-75,Kyle,Mayor,3
-76,Kyle,Man 5,1
-77,Kyle,Man 6,1
-78,Kyle,Santa,7
-79,Kyle,Man 7,1
-80,Kyle,Woman 3,1
-81,Kyle,Man 8,1
-82,Kyle,Mackey,1
-83,Mayor,Richard,6
-84,Man 5,Richard,2
-85,Man 6,Richard,2
-86,Richard,Santa,14
-87,Man 7,Richard,2
-88,Richard,Woman 3,2
-89,Richard,Stan,4
-90,Man 8,Richard,2
-91,Mackey,Richard,2
-92,Man 5,Mayor,3
-93,Man 6,Mayor,3
-94,Mayor,Santa,21
-95,Man 7,Mayor,3
-96,Mayor,Woman 3,3
-97,Mayor,Stan,6
-98,Man 8,Mayor,3
-99,Mackey,Mayor,3
-100,Man 5,Man 6,1
-101,Man 5,Santa,7
-102,Man 5,Man 7,1
-103,Man 5,Woman 3,1
-104,Man 5,Stan,2
-105,Man 5,Man 8,1
-106,Mackey,Man 5,1
-107,Man 6,Santa,7
-108,Man 6,Man 7,1
-109,Man 6,Woman 3,1
-110,Man 6,Stan,2
-111,Man 6,Man 8,1
-112,Mackey,Man 6,1
-113,Man 7,Santa,7
-114,Santa,Woman 3,7
-115,Santa,Stan,14
-116,Man 8,Santa,7
-117,Mackey,Santa,7
-118,Man 7,Woman 3,1
-119,Man 7,Stan,2
-120,Man 7,Man 8,1
-121,Mackey,Man 7,1
-122,Stan,Woman 3,2
-123,Man 8,Woman 3,1
-124,Mackey,Woman 3,1
-125,Man 8,Stan,2
-126,Mackey,Stan,2
-127,Mackey,Man 8,1
-128,Butters,Towelie,4
-129,Stephen,Towelie,6
-130,Bezos,Cartman,16
-131,Alexa,Cartman,2
-132,Cartman,Crowd,4
-133,Bezos,Stan,16
-134,Bezos,Kyle,16
-135,Bezos,Crowd,16
-136,Alexa,Stan,2
-137,Crowd,Stan,4
-138,Alexa,Kyle,2
-139,Crowd,Kyle,4
-140,Alexa,Crowd,2
+1,Gerald,Stuart,4
+2,Kenny,Stuart,1
+3,Randy,Sharon,2
+4,Driver,Randy,10
+5,Josh,Tom,1
+6,Randy,Towelie,10
+7,Linda,Stephen,4
+8,Butters,Linda,2
+9,Butters,Stephen,8
+10,Butters,Girl,4
+11,Butters,Larry,4
+12,Butters,Sally,4
+13,Girl,Larry,1
+14,Girl,Sally,1
+15,Larry,Sally,1
+16,Ryan,Sarah,12
+17,Sarah,Towelie,9
+18,Ryan,Towelie,12
+19,Cartman,Kyle,68
+20,Kenny,Kyle,20
+21,Kyle,Stan,56
+22,Cartman,Kenny,25
+23,Cartman,Stan,78
+24,Kenny,Stan,20
+25,Stephen,Strikers,3
+26,Gerald,Strikers,1
+27,Strikers,Stuart,3
+28,Gerald,Stephen,3
+29,Stephen,Stuart,9
+30,All four,Kyle,5
+31,All four,Stan,6
+32,All four,Cartman,7
+33,Bezos,Josh,42
+34,Alexa,Josh,6
+35,Josh,Kids,6
+36,Boy,Josh,6
+37,Alexa,Bezos,15
+38,Bezos,Kids,7
+39,Bezos,Boy,7
+40,Alexa,Kids,1
+41,Alexa,Boy,1
+42,Boy,Kids,1
+43,Larry,Mr. Zewiski,3
+44,Mr. Zewiski,Mrs. Zewiski,3
+45,Mr. Zewiski,Towelie,3
+46,Mr. Zewiski,Randy,3
+47,Larry,Mrs. Zewiski,1
+48,Larry,Towelie,1
+49,Larry,Randy,1
+50,Mrs. Zewiski,Towelie,1
+51,Mrs. Zewiski,Randy,1
+52,Cartman,Richard,6
+53,Cartman,Mayor,9
+54,Cartman,Santa,21
+55,Cartman,Mackey,3
+56,Kyle,Richard,2
+57,Kyle,Mayor,3
+58,Kyle,Santa,7
+59,Kyle,Mackey,1
+60,Mayor,Richard,6
+61,Richard,Santa,14
+62,Richard,Stan,4
+63,Mackey,Richard,2
+64,Mayor,Santa,21
+65,Mayor,Stan,6
+66,Mackey,Mayor,3
+67,Santa,Stan,14
+68,Mackey,Santa,7
+69,Mackey,Stan,2
+70,Butters,Towelie,4
+71,Stephen,Towelie,6
+72,Bezos,Cartman,16
+73,Alexa,Cartman,2
+74,Cartman,Randy,10
+75,Cartman,Crowd,4
+76,Bezos,Stan,16
+77,Bezos,Kyle,16
+78,Bezos,Randy,40
+79,Bezos,Crowd,16
+80,Alexa,Stan,2
+81,Randy,Stan,10
+82,Crowd,Stan,4
+83,Alexa,Kyle,2
+84,Kyle,Randy,10
+85,Crowd,Kyle,4
+86,Alexa,Randy,5
+87,Alexa,Crowd,2
+88,Crowd,Randy,10

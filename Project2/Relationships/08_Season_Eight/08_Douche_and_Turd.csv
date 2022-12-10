@@ -1,156 +1,178 @@
 ,source,target,weight
 0,Red,Students,2
 1,Bebe,Red,2
-2,Butters,Red,1
-3,Cartman,Red,1
-4,Blonde PETA woman,Red,2
-5,Herbert Garrison,Red,7
-6,Dreadlocked PETA Man,Red,1
-7,Gas Mask PETA Member,Red,1
-8,Class,Red,1
-9,Red,Stan,2
-10,Clyde,Red,1
-11,Dreadlocked PETA man,Red,2
-12,Red,Wendy,1
-13,Bebe,Students,4
-14,Butters,Students,2
-15,Cartman,Students,2
-16,Blonde PETA woman,Students,4
-17,Herbert Garrison,Students,14
-18,Dreadlocked PETA Man,Students,2
-19,Gas Mask PETA Member,Students,2
-20,Class,Students,2
-21,Stan,Students,4
-22,Clyde,Students,2
-23,Dreadlocked PETA man,Students,4
-24,Students,Wendy,2
-25,Bebe,Butters,2
-26,Bebe,Cartman,2
-27,Bebe,Blonde PETA woman,4
-28,Bebe,Herbert Garrison,14
-29,Bebe,Dreadlocked PETA Man,2
-30,Bebe,Gas Mask PETA Member,2
-31,Bebe,Class,2
-32,Bebe,Stan,4
-33,Bebe,Clyde,2
-34,Bebe,Dreadlocked PETA man,4
-35,Bebe,Wendy,2
-36,Butters,Cartman,67
-37,Blonde PETA woman,Butters,2
-38,Butters,Herbert Garrison,11
-39,Butters,Dreadlocked PETA Man,1
-40,Butters,Gas Mask PETA Member,1
-41,Butters,Class,1
-42,Butters,Stan,6
-43,Butters,Clyde,7
-44,Butters,Dreadlocked PETA man,2
-45,Butters,Wendy,1
-46,Blonde PETA woman,Cartman,2
-47,Cartman,Herbert Garrison,13
-48,Cartman,Dreadlocked PETA Man,1
-49,Cartman,Gas Mask PETA Member,1
-50,Cartman,Class,1
-51,Cartman,Stan,24
-52,Cartman,Clyde,19
-53,Cartman,Dreadlocked PETA man,2
-54,Cartman,Wendy,1
-55,Blonde PETA woman,Herbert Garrison,14
-56,Blonde PETA woman,Dreadlocked PETA Man,2
-57,Blonde PETA woman,Gas Mask PETA Member,2
-58,Blonde PETA woman,Class,2
-59,Blonde PETA woman,Stan,4
-60,Blonde PETA woman,Clyde,2
-61,Blonde PETA woman,Dreadlocked PETA man,4
-62,Blonde PETA woman,Wendy,2
-63,Dreadlocked PETA Man,Herbert Garrison,7
-64,Gas Mask PETA Member,Herbert Garrison,7
-65,Class,Herbert Garrison,7
-66,Herbert Garrison,Stan,14
-67,Clyde,Herbert Garrison,7
-68,Dreadlocked PETA man,Herbert Garrison,14
-69,Herbert Garrison,Wendy,7
-70,Dreadlocked PETA Man,Gas Mask PETA Member,1
-71,Class,Dreadlocked PETA Man,1
-72,Dreadlocked PETA Man,Stan,2
-73,Clyde,Dreadlocked PETA Man,1
-74,Dreadlocked PETA Man,Dreadlocked PETA man,2
-75,Dreadlocked PETA Man,Wendy,1
-76,Class,Gas Mask PETA Member,1
-77,Gas Mask PETA Member,Stan,2
-78,Clyde,Gas Mask PETA Member,1
-79,Dreadlocked PETA man,Gas Mask PETA Member,2
-80,Gas Mask PETA Member,Wendy,1
-81,Class,Stan,2
-82,Class,Clyde,1
-83,Class,Dreadlocked PETA man,2
-84,Class,Wendy,1
-85,Clyde,Stan,2
-86,Dreadlocked PETA man,Stan,4
-87,Stan,Wendy,2
-88,Clyde,Dreadlocked PETA man,2
-89,Clyde,Wendy,1
-90,Dreadlocked PETA man,Wendy,2
-91,Cartman,Kyle,173
-92,Kenny,Kyle,36
-93,Kyle,Stan,72
-94,Butters,Kyle,56
-95,Jimmy,Kyle,91
-96,Cartman,Kenny,26
-97,Cartman,Jimmy,84
-98,Kenny,Stan,8
-99,Butters,Kenny,8
-100,Jimmy,Kenny,14
-101,Jimmy,Stan,7
-102,Butters,Jimmy,28
-103,Giant Douche,Herbert Garrison,2
-104,Cartman,Giant Douche,8
-105,Butters,Giant Douche,2
-106,Giant Douche,Kyle,2
-107,Herbert Garrison,Kyle,4
-108,Sharon,Stan,48
-109,Shelly,Stan,7
-110,Puff Daddy,Stan,38
-111,Sharon,Shelly,6
-112,Puff Daddy,Sharon,18
-113,Puff Daddy,Shelly,3
-114,Posse,Puff Daddy,1
-115,Principal Victoria,Stan,12
-116,Principal Victoria,Sharon,8
-117,A bodyguard,Kyle,1
-118,Kyle,Puff Daddy,1
-119,A bodyguard,Stan,2
-120,A bodyguard,Puff Daddy,1
-121,Blonde PETA member 2,Stan,40
-122,Bearded PETA member,Blonde PETA member 2,30
-123,Blonde PETA member,Blonde PETA member 2,5
-124,Balding man,Blonde PETA member 2,30
-125,Blonde PETA member 2,Ostrich-baby,5
-126,Bearded PETA member,Stan,48
-127,Blonde PETA member,Stan,8
-128,Balding man,Stan,83
-129,Ostrich-baby,Stan,15
-130,Bearded PETA member,Blonde PETA member,6
-131,Balding man,Bearded PETA member,36
-132,Bearded PETA member,Ostrich-baby,6
-133,Balding man,Blonde PETA member,6
-134,Blonde PETA member,Ostrich-baby,1
-135,Balding man,Ostrich-baby,11
-136,Giant Douche,Jim Lehrer,20
-137,Cartman,Jim Lehrer,4
-138,Man in shorts,Stan,7
-139,Bodyguard,Stan,7
-140,PETA man,Stan,7
-141,Balding man,Puff Daddy,10
-142,Balding man,Man in shorts,5
-143,Balding man,Bodyguard,5
-144,Balding man,PETA man,5
-145,Man in shorts,Puff Daddy,2
-146,Bodyguard,Puff Daddy,2
-147,PETA man,Puff Daddy,2
-148,Ostrich-baby,Puff Daddy,2
-149,Bodyguard,Man in shorts,1
-150,Man in shorts,PETA man,1
-151,Man in shorts,Ostrich-baby,1
-152,Bodyguard,PETA man,1
-153,Bodyguard,Ostrich-baby,1
-154,Ostrich-baby,PETA man,1
+2,Mandy,Red,1
+3,Butters,Red,1
+4,Cartman,Red,1
+5,Blonde PETA woman,Red,2
+6,Herbert Garrison,Red,7
+7,Dreadlocked PETA Man,Red,1
+8,Gas Mask PETA Member,Red,1
+9,Class,Red,1
+10,Red,Stan,2
+11,Clyde,Red,1
+12,Dreadlocked PETA man,Red,2
+13,Red,Wendy,1
+14,Bebe,Students,4
+15,Mandy,Students,2
+16,Butters,Students,2
+17,Cartman,Students,2
+18,Blonde PETA woman,Students,4
+19,Herbert Garrison,Students,14
+20,Dreadlocked PETA Man,Students,2
+21,Gas Mask PETA Member,Students,2
+22,Class,Students,2
+23,Stan,Students,4
+24,Clyde,Students,2
+25,Dreadlocked PETA man,Students,4
+26,Students,Wendy,2
+27,Bebe,Mandy,2
+28,Bebe,Butters,2
+29,Bebe,Cartman,2
+30,Bebe,Blonde PETA woman,4
+31,Bebe,Herbert Garrison,14
+32,Bebe,Dreadlocked PETA Man,2
+33,Bebe,Gas Mask PETA Member,2
+34,Bebe,Class,2
+35,Bebe,Stan,4
+36,Bebe,Clyde,2
+37,Bebe,Dreadlocked PETA man,4
+38,Bebe,Wendy,2
+39,Butters,Mandy,1
+40,Cartman,Mandy,1
+41,Blonde PETA woman,Mandy,2
+42,Herbert Garrison,Mandy,7
+43,Dreadlocked PETA Man,Mandy,1
+44,Gas Mask PETA Member,Mandy,1
+45,Class,Mandy,1
+46,Mandy,Stan,2
+47,Clyde,Mandy,1
+48,Dreadlocked PETA man,Mandy,2
+49,Mandy,Wendy,1
+50,Butters,Cartman,67
+51,Blonde PETA woman,Butters,2
+52,Butters,Herbert Garrison,11
+53,Butters,Dreadlocked PETA Man,1
+54,Butters,Gas Mask PETA Member,1
+55,Butters,Class,1
+56,Butters,Stan,6
+57,Butters,Clyde,7
+58,Butters,Dreadlocked PETA man,2
+59,Butters,Wendy,1
+60,Blonde PETA woman,Cartman,2
+61,Cartman,Herbert Garrison,13
+62,Cartman,Dreadlocked PETA Man,1
+63,Cartman,Gas Mask PETA Member,1
+64,Cartman,Class,1
+65,Cartman,Stan,24
+66,Cartman,Clyde,19
+67,Cartman,Dreadlocked PETA man,2
+68,Cartman,Wendy,1
+69,Blonde PETA woman,Herbert Garrison,14
+70,Blonde PETA woman,Dreadlocked PETA Man,2
+71,Blonde PETA woman,Gas Mask PETA Member,2
+72,Blonde PETA woman,Class,2
+73,Blonde PETA woman,Stan,4
+74,Blonde PETA woman,Clyde,2
+75,Blonde PETA woman,Dreadlocked PETA man,4
+76,Blonde PETA woman,Wendy,2
+77,Dreadlocked PETA Man,Herbert Garrison,7
+78,Gas Mask PETA Member,Herbert Garrison,7
+79,Class,Herbert Garrison,7
+80,Herbert Garrison,Stan,14
+81,Clyde,Herbert Garrison,7
+82,Dreadlocked PETA man,Herbert Garrison,14
+83,Herbert Garrison,Wendy,7
+84,Dreadlocked PETA Man,Gas Mask PETA Member,1
+85,Class,Dreadlocked PETA Man,1
+86,Dreadlocked PETA Man,Stan,2
+87,Clyde,Dreadlocked PETA Man,1
+88,Dreadlocked PETA Man,Dreadlocked PETA man,2
+89,Dreadlocked PETA Man,Wendy,1
+90,Class,Gas Mask PETA Member,1
+91,Gas Mask PETA Member,Stan,2
+92,Clyde,Gas Mask PETA Member,1
+93,Dreadlocked PETA man,Gas Mask PETA Member,2
+94,Gas Mask PETA Member,Wendy,1
+95,Class,Stan,2
+96,Class,Clyde,1
+97,Class,Dreadlocked PETA man,2
+98,Class,Wendy,1
+99,Clyde,Stan,2
+100,Dreadlocked PETA man,Stan,4
+101,Stan,Wendy,2
+102,Clyde,Dreadlocked PETA man,2
+103,Clyde,Wendy,1
+104,Dreadlocked PETA man,Wendy,2
+105,Cartman,Kyle,173
+106,Kenny,Kyle,36
+107,Kyle,Stan,72
+108,Butters,Kyle,56
+109,Jimmy,Kyle,91
+110,Cartman,Kenny,26
+111,Cartman,Jimmy,84
+112,Kenny,Stan,8
+113,Butters,Kenny,8
+114,Jimmy,Kenny,14
+115,Jimmy,Stan,7
+116,Butters,Jimmy,28
+117,Giant Douche,Herbert Garrison,2
+118,Cartman,Giant Douche,8
+119,Butters,Giant Douche,2
+120,Giant Douche,Kyle,2
+121,Giant Douche,Turd Sandwich,31
+122,Herbert Garrison,Kyle,4
+123,Herbert Garrison,Turd Sandwich,2
+124,Cartman,Turd Sandwich,9
+125,Butters,Turd Sandwich,2
+126,Kyle,Turd Sandwich,2
+127,Sharon,Stan,48
+128,Randy,Stan,58
+129,Shelly,Stan,7
+130,Puff Daddy,Stan,38
+131,Randy,Sharon,44
+132,Sharon,Shelly,6
+133,Puff Daddy,Sharon,18
+134,Randy,Shelly,6
+135,Puff Daddy,Randy,20
+136,Puff Daddy,Shelly,3
+137,Posse,Puff Daddy,1
+138,Principal Victoria,Randy,16
+139,Principal Victoria,Stan,12
+140,Principal Victoria,Sharon,8
+141,A bodyguard,Kyle,1
+142,Kyle,Puff Daddy,1
+143,Kyle,Randy,2
+144,A bodyguard,Stan,2
+145,A bodyguard,Puff Daddy,1
+146,A bodyguard,Randy,2
+147,Bearded PETA member,Stan,48
+148,Blonde PETA member,Stan,8
+149,Balding man,Stan,83
+150,Ostrich-baby,Stan,15
+151,Bearded PETA member,Blonde PETA member,6
+152,Balding man,Bearded PETA member,36
+153,Bearded PETA member,Ostrich-baby,6
+154,Balding man,Blonde PETA member,6
+155,Blonde PETA member,Ostrich-baby,1
+156,Balding man,Ostrich-baby,11
+157,Giant Douche,Jim Lehrer,20
+158,Cartman,Jim Lehrer,4
+159,Jim Lehrer,Turd Sandwich,24
+160,Man in shorts,Stan,7
+161,Bodyguard,Stan,7
+162,PETA man,Stan,7
+163,Balding man,Puff Daddy,10
+164,Balding man,Man in shorts,5
+165,Balding man,Bodyguard,5
+166,Balding man,PETA man,5
+167,Man in shorts,Puff Daddy,2
+168,Bodyguard,Puff Daddy,2
+169,PETA man,Puff Daddy,2
+170,Ostrich-baby,Puff Daddy,2
+171,Bodyguard,Man in shorts,1
+172,Man in shorts,PETA man,1
+173,Man in shorts,Ostrich-baby,1
+174,Bodyguard,PETA man,1
+175,Bodyguard,Ostrich-baby,1
+176,Ostrich-baby,PETA man,1

@@ -47,57 +47,43 @@
 45,A driver,The other ladies,1
 46,Cartman,Mr. Mackey,20
 47,Mr. Mackey,Stan,10
-48,Reporter 1,Tom,6
-49,Reporter 1,Sportwriter,2
-50,Reporter 1,Reporter 2,2
-51,Sportwriter,Tom,3
-52,Reporter 2,Tom,3
-53,Reporter 2,Sportwriter,1
-54,Publicist,Stan,7
-55,Cartman,Publicist,11
-56,Laura,Male Diner,2
-57,Male Diner,Sheila,5
-58,Harriet,Male Diner,7
-59,Linda S.,Male Diner,2
-60,Cartman,Mabel,6
-61,Mabel,Stan,4
-62,Kenny,Mabel,2
-63,Dr. Gauche,Yates,20
-64,Mom,Sportswriter,9
-65,Sportswriter,Theresa,3
-66,Mabel,Sportswriter,6
-67,Sportswriter,Tom,18
-68,Cartman,Sportswriter,6
-69,Sportswriter,Stan,3
-70,Kyle,Sportswriter,3
-71,All,Sportswriter,3
-72,Publicist,Sportswriter,3
-73,Mom,Theresa,3
-74,Mabel,Mom,6
-75,Mom,Tom,18
-76,Cartman,Mom,6
-77,Mom,Stan,3
-78,Kyle,Mom,3
-79,All,Mom,3
-80,Mom,Publicist,3
-81,Mabel,Theresa,2
-82,Theresa,Tom,6
-83,Cartman,Theresa,2
-84,Stan,Theresa,1
-85,Kyle,Theresa,1
-86,All,Theresa,1
-87,Publicist,Theresa,1
-88,Mabel,Tom,12
-89,Kyle,Mabel,2
-90,All,Mabel,2
-91,Mabel,Publicist,2
-92,Cartman,Tom,12
-93,Stan,Tom,6
-94,Kyle,Tom,6
-95,All,Tom,6
-96,Publicist,Tom,6
-97,All,Cartman,2
-98,All,Stan,1
-99,All,Kyle,1
-100,Kyle,Publicist,1
-101,All,Publicist,1
+48,Sportwriter,Tom,3
+49,Publicist,Stan,7
+50,Cartman,Publicist,11
+51,Laura,Male Diner,2
+52,Male Diner,Sheila,5
+53,Harriet,Male Diner,7
+54,Linda S.,Male Diner,2
+55,Cartman,Mabel,6
+56,Mabel,Stan,4
+57,Kenny,Mabel,2
+58,Dr. Gauche,Yates,20
+59,Mom,Sportswriter,9
+60,Sportswriter,Theresa,3
+61,Mabel,Sportswriter,6
+62,Sportswriter,Tom,18
+63,Cartman,Sportswriter,6
+64,Sportswriter,Stan,3
+65,Kyle,Sportswriter,3
+66,Publicist,Sportswriter,3
+67,Mom,Theresa,3
+68,Mabel,Mom,6
+69,Mom,Tom,18
+70,Cartman,Mom,6
+71,Mom,Stan,3
+72,Kyle,Mom,3
+73,Mom,Publicist,3
+74,Mabel,Theresa,2
+75,Theresa,Tom,6
+76,Cartman,Theresa,2
+77,Stan,Theresa,1
+78,Kyle,Theresa,1
+79,Publicist,Theresa,1
+80,Mabel,Tom,12
+81,Kyle,Mabel,2
+82,Mabel,Publicist,2
+83,Cartman,Tom,12
+84,Stan,Tom,6
+85,Kyle,Tom,6
+86,Publicist,Tom,6
+87,Kyle,Publicist,1

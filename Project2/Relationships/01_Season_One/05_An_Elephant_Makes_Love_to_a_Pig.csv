@@ -48,37 +48,28 @@
 46,Chef,Mephesto,3
 47,Kenny,Mephesto,3
 48,Chef,Kenny,1
-49,Mr. Garrison,Woman,1
-50,Stan,Townsman,2
-51,Kyle,Townsman,1
-52,Kenny,Townsman,1
-53,TV Newscaster,TV Voice,1
-54,Jesus,TV Newscaster,1
-55,Jesus,TV Voice,1
-56,Jimbo,Mr. Garrison,1
-57,Jimbo,Kyle,2
-58,Jimbo,Stan,2
-59,Cartman,Shelly,2
-60,Kyle,Shelly,1
+49,Stan,Townsman,2
+50,Kyle,Townsman,1
+51,Kenny,Townsman,1
+52,TV Newscaster,TV Voice,1
+53,Jesus,TV Newscaster,1
+54,Jesus,TV Voice,1
+55,Jimbo,Mr. Garrison,1
+56,Jimbo,Kyle,2
+57,Jimbo,Stan,2
+58,Cartman,Shelly,2
+59,Kyle,Shelly,1
+60,Randy,Shelly,4
 61,Sharon,Shelly,2
-62,Sharon,Stan,1
-63,Mr. Garrison,Terrance,1
-64,Kid 1,Kid 2,1
-65,Clyde,Kid 1,1
-66,Kid 1,Kyle,1
-67,Cartman,Kid 1,1
-68,Kid 1,Mr. Garrison,1
-69,Hat,Kid 1,1
-70,Clyde,Kid 2,1
-71,Kid 2,Kyle,1
-72,Cartman,Kid 2,1
-73,Kid 2,Mr. Garrison,1
-74,Hat,Kid 2,1
-75,Clyde,Kyle,1
-76,Cartman,Clyde,1
-77,Clyde,Mr. Garrison,1
-78,Clyde,Hat,1
-79,Hat,Kyle,1
-80,Cartman,Mr. Garrison,1
-81,Cartman,Hat,1
-82,Hat,Mr. Garrison,1
+62,Randy,Sharon,2
+63,Randy,Stan,2
+64,Sharon,Stan,1
+65,Mr. Garrison,Terrance,1
+66,Clyde,Kyle,1
+67,Cartman,Clyde,1
+68,Clyde,Mr. Garrison,1
+69,Clyde,Hat,1
+70,Hat,Kyle,1
+71,Cartman,Mr. Garrison,1
+72,Cartman,Hat,1
+73,Hat,Mr. Garrison,1

@@ -23,69 +23,52 @@
 21,Craig,Wendy,2
 22,Clyde,Craig,2
 23,Clyde,Wendy,1
-24,Cartman,Polly Prissypants,54
-25,Butters,Stan,2
-26,Jimmy,Stan,2
-27,Fifth Grader,Stan,1
-28,Butters,Cartman,2
-29,Butters,Jimmy,12
-30,Butters,Fifth Grader,2
-31,Cartman,Jimmy,2
-32,Cartman,Fifth Grader,1
-33,Fifth Grader,Jimmy,2
-34,Board rep,Butters,8
-35,Board rep,Jimmy,12
-36,Cartman,Liane,41
-37,Class,Kyle,2
-38,Kid 1,Kyle,2
-39,Kid 2,Kyle,2
-40,Kid 4,Kyle,2
-41,Cartman,Class,6
-42,Cartman,Kid 1,6
-43,Cartman,Kid 2,6
-44,Cartman,Kid 4,6
-45,Class,Craig,2
-46,Craig,Kid 1,2
-47,Craig,Kid 2,2
-48,Craig,Kid 4,2
-49,Class,Stan,1
-50,Kid 1,Stan,1
-51,Kid 2,Stan,1
-52,Kid 4,Stan,1
-53,Class,Kid 1,1
-54,Class,Kid 2,1
-55,Class,Kid 4,1
-56,Kid 1,Kid 2,1
-57,Kid 1,Kid 4,1
-58,Kid 2,Kid 4,1
-59,Board rep,Receptionist,2
-60,Polly Prissypants,Rumpertumskin,21
-61,Liane,Polly Prissypants,15
-62,Muscleman Marc,Polly Prissypants,9
-63,Cartman,Rumpertumskin,33
-64,Cartman,Muscleman Marc,15
-65,Liane,Rumpertumskin,15
-66,Muscleman Marc,Rumpertumskin,9
-67,Liane,Muscleman Marc,15
-68,Officer 1,Sgt. Yates,8
-69,Officer 1,Officer 2,4
-70,Officer 2,Sgt. Yates,8
-71,Cartman,Fireman 2,3
-72,Female reporter,Patron,1
-73,Fifth grader,Stan,3
-74,Fifth grader,Kyle,3
-75,Bob,Linda,1
-76,Bob,Liane,1
-77,Liane,Linda,1
-78,Cartman,Tolkien,26
-79,Kyle,Tolkien,1
-80,Stan,Tolkien,2
-81,Kenny,Tolkien,1
-82,Cartman,Kenny,5
-83,Kenny,Kyle,1
-84,Kenny,Stan,2
-85,Classmates,Stephen Tamill,1
-86,Jimmy,Stephen Tamill,4
-87,Butters,Stephen Tamill,2
-88,Polly Prissypants,Stan,4
-89,Kyle,Polly Prissypants,4
+24,Cartman,Peter Panda,22
+25,Cartman,Polly Prissypants,54
+26,Peter Panda,Polly Prissypants,8
+27,Butters,Stan,2
+28,Jimmy,Stan,2
+29,Fifth Grader,Stan,1
+30,Butters,Cartman,2
+31,Butters,Jimmy,12
+32,Butters,Fifth Grader,2
+33,Cartman,Jimmy,2
+34,Cartman,Fifth Grader,1
+35,Fifth Grader,Jimmy,2
+36,Board rep,Butters,8
+37,Board rep,Jimmy,12
+38,Cartman,Liane,41
+39,Class,Kyle,2
+40,Cartman,Class,6
+41,Class,Craig,2
+42,Class,Stan,1
+43,Board rep,Receptionist,2
+44,Peter Panda,Rumpertumskin,6
+45,Liane,Peter Panda,10
+46,Muscleman Marc,Peter Panda,6
+47,Polly Prissypants,Rumpertumskin,21
+48,Liane,Polly Prissypants,15
+49,Muscleman Marc,Polly Prissypants,9
+50,Cartman,Rumpertumskin,33
+51,Cartman,Muscleman Marc,15
+52,Liane,Rumpertumskin,15
+53,Muscleman Marc,Rumpertumskin,9
+54,Liane,Muscleman Marc,15
+55,Female reporter,Patron,1
+56,Fifth grader,Stan,3
+57,Fifth grader,Kyle,3
+58,Bob,Linda,1
+59,Bob,Liane,1
+60,Liane,Linda,1
+61,Cartman,Tolkien,26
+62,Kyle,Tolkien,1
+63,Stan,Tolkien,2
+64,Kenny,Tolkien,1
+65,Cartman,Kenny,5
+66,Kenny,Kyle,1
+67,Kenny,Stan,2
+68,Classmates,Stephen Tamill,1
+69,Jimmy,Stephen Tamill,4
+70,Butters,Stephen Tamill,2
+71,Polly Prissypants,Stan,4
+72,Kyle,Polly Prissypants,4

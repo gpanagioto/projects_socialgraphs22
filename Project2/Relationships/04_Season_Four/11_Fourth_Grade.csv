@@ -70,26 +70,30 @@
 68,Ms. Choksondik,Timmy,28
 69,Stan,The Nerds,3
 70,Kyle,The Nerds,2
-71,Brunette,Pilot,14
-72,Pilot,Timmy,10
-73,Hansen,Pilot,14
-74,Brunette,Timmy,28
-75,Brunette,Hansen,44
-76,Hansen,Timmy,28
-77,Mr. Garrison,Ms. Choksondik,85
-78,Mr. Garrison,Principal Victoria,5
-79,Chef,Mr. Garrison,2
-80,Mr. Garrison,Mr. Mackey,2
-81,Field Reporter,Timmy,2
-82,Brunette,Kenny,8
-83,Brunette,Stan,8
-84,Hansen,Kenny,10
-85,Hansen,Stan,10
-86,Kenny,Timmy,8
-87,Kenny,Pilot,4
-88,Pilot,Stan,4
-89,Clean Garrison,Ms. Choksondik,4
-90,Ms. Choksondik,Unkempt Garrison,2
-91,Clean Garrison,Mr. Garrison,4
-92,Mr. Garrison,Unkempt Garrison,2
-93,Clean Garrison,Unkempt Garrison,83
+71,Pilot,SWAT Hansen,1
+72,Brunette,SWAT Hansen,6
+73,SWAT Hansen,Timmy,2
+74,Hansen,SWAT Hansen,4
+75,Brunette,Pilot,14
+76,Pilot,Timmy,10
+77,Hansen,Pilot,14
+78,Brunette,Timmy,28
+79,Brunette,Hansen,44
+80,Hansen,Timmy,28
+81,Mr. Garrison,Ms. Choksondik,85
+82,Mr. Garrison,Principal Victoria,5
+83,Chef,Mr. Garrison,2
+84,Mr. Garrison,Mr. Mackey,2
+85,Field Reporter,Timmy,2
+86,Brunette,Kenny,8
+87,Brunette,Stan,8
+88,Hansen,Kenny,10
+89,Hansen,Stan,10
+90,Kenny,Timmy,8
+91,Kenny,Pilot,4
+92,Pilot,Stan,4
+93,Clean Garrison,Ms. Choksondik,4
+94,Ms. Choksondik,Unkempt Garrison,2
+95,Clean Garrison,Mr. Garrison,4
+96,Mr. Garrison,Unkempt Garrison,2
+97,Clean Garrison,Unkempt Garrison,83

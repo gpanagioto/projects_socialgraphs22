@@ -1,142 +1,72 @@
 ,source,target,weight
-0,Chet,Stan,6
-1,Girl,Stan,3
-2,Stan,Trainer 2,3
-3,Japanese Man 1,Stan,3
-4,Japanese Man 2,Stan,3
+0,Randy,Stan,7
+1,Chet,Stan,6
+2,Girl,Stan,3
+3,Chet,Randy,4
+4,Girl,Randy,2
 5,Chet,Girl,2
-6,Chet,Trainer 2,2
-7,Chet,Japanese Man 1,2
-8,Chet,Japanese Man 2,2
-9,Girl,Trainer 2,1
-10,Girl,Japanese Man 1,1
-11,Girl,Japanese Man 2,1
-12,Japanese Man 1,Trainer 2,1
-13,Japanese Man 2,Trainer 2,1
-14,Japanese Man 1,Japanese Man 2,1
-15,Japanese Man 4,Jessica,1
-16,Commentator 2,Japanese Man 5,1
-17,Cartman,Stan,267
-18,Cartman,Kyle,8
-19,Cartman,Kenny,54
-20,Kyle,Stan,12
-21,Kenny,Stan,85
-22,Kenny,Kyle,2
-23,Butters,Stan,6
-24,First Mate,Japanese Sailor,1
-25,Japanese Sailor,Woman,5
-26,Captain,Japanese Sailor,11
-27,Japanese Sailor,Stan,8
-28,Crew,Japanese Sailor,1
-29,Crewman,Japanese Sailor,3
-30,Japanese Sailor,Luke,2
-31,Crewman 2,Japanese Sailor,2
-32,Japanese Sailor,Woman 2,1
-33,First Mate,Woman,5
-34,Captain,First Mate,11
-35,First Mate,Stan,8
-36,Crew,First Mate,1
-37,Crewman,First Mate,3
-38,First Mate,Luke,2
-39,Crewman 2,First Mate,2
-40,First Mate,Woman 2,1
-41,Captain,Woman,55
-42,Stan,Woman,40
-43,Crew,Woman,5
-44,Crewman,Woman,15
-45,Luke,Woman,10
-46,Crewman 2,Woman,10
-47,Woman,Woman 2,5
-48,Captain,Stan,88
-49,Captain,Crew,11
-50,Captain,Crewman,33
-51,Captain,Luke,22
-52,Captain,Crewman 2,22
-53,Captain,Woman 2,11
-54,Crew,Stan,8
-55,Crewman,Stan,24
-56,Luke,Stan,60
-57,Crewman 2,Stan,54
-58,Stan,Woman 2,56
-59,Crew,Crewman,3
-60,Crew,Luke,2
-61,Crew,Crewman 2,2
-62,Crew,Woman 2,1
-63,Crewman,Luke,6
-64,Crewman,Crewman 2,6
-65,Crewman,Woman 2,3
-66,Crewman 2,Luke,8
-67,Luke,Woman 2,8
-68,Crewman 2,Woman 2,6
-69,Larry King,Luke,6
-70,Larry King,Stan,30
-71,Larry King,Woman 2,12
-72,Larry King,Sid,18
-73,Luke,Sid,3
-74,Sid,Stan,15
-75,Sid,Woman 2,6
-76,Announcer,Stan,114
-77,Crewman 3,Stan,38
-78,Crewman 4,Stan,19
-79,Benjamin,Stan,19
-80,DC Crewmen,Stan,19
-81,Japanese Pilot,Stan,19
-82,Cartman,Luke,24
-83,Kenny,Luke,8
-84,Announcer,Luke,12
-85,Crewman 3,Luke,4
-86,Crewman 4,Luke,2
-87,Benjamin,Luke,2
-88,DC Crewmen,Luke,2
-89,Japanese Pilot,Luke,2
-90,Cartman,Crewman 2,24
-91,Announcer,Cartman,72
-92,Cartman,Crewman 3,24
-93,Cartman,Crewman 4,12
-94,Benjamin,Cartman,12
-95,Cartman,Woman 2,24
-96,Cartman,DC Crewmen,12
-97,Cartman,Japanese Pilot,12
-98,Crewman 2,Kenny,8
-99,Announcer,Kenny,24
-100,Crewman 3,Kenny,8
-101,Crewman 4,Kenny,4
-102,Benjamin,Kenny,4
-103,Kenny,Woman 2,8
-104,DC Crewmen,Kenny,4
-105,Japanese Pilot,Kenny,4
-106,Announcer,Crewman 2,12
-107,Crewman 2,Crewman 3,4
-108,Crewman 2,Crewman 4,2
-109,Benjamin,Crewman 2,2
-110,Crewman 2,DC Crewmen,2
-111,Crewman 2,Japanese Pilot,2
-112,Announcer,Crewman 3,12
-113,Announcer,Crewman 4,6
-114,Announcer,Benjamin,6
-115,Announcer,Woman 2,12
-116,Announcer,DC Crewmen,6
-117,Announcer,Japanese Pilot,6
-118,Crewman 3,Crewman 4,2
-119,Benjamin,Crewman 3,2
-120,Crewman 3,Woman 2,4
-121,Crewman 3,DC Crewmen,2
-122,Crewman 3,Japanese Pilot,2
-123,Benjamin,Crewman 4,1
-124,Crewman 4,Woman 2,2
-125,Crewman 4,DC Crewmen,1
-126,Crewman 4,Japanese Pilot,1
-127,Benjamin,Woman 2,2
-128,Benjamin,DC Crewmen,1
-129,Benjamin,Japanese Pilot,1
-130,DC Crewmen,Woman 2,2
-131,Japanese Pilot,Woman 2,2
-132,DC Crewmen,Japanese Pilot,1
-133,Cartman,Guard,2
-134,Cartman,Emperor Akihito,14
-135,Guard,Stan,3
-136,Emperor Akihito,Stan,18
-137,Emperor Akihito,Guard,4
-138,Guard,Kenny,1
-139,Emperor Akihito,Kenny,4
-140,Emperor Akihito,Hatoyama,1
+6,Cartman,Stan,267
+7,Cartman,Kyle,8
+8,Cartman,Kenny,54
+9,Kyle,Stan,12
+10,Kenny,Stan,85
+11,Kenny,Kyle,2
+12,Butters,Stan,6
+13,First Mate,Japanese Sailor,1
+14,Captain,Japanese Sailor,11
+15,Japanese Sailor,Stan,8
+16,Crew,Japanese Sailor,1
+17,Crewman,Japanese Sailor,3
+18,Japanese Sailor,Luke,2
+19,Captain,First Mate,11
+20,First Mate,Stan,8
+21,Crew,First Mate,1
+22,Crewman,First Mate,3
+23,First Mate,Luke,2
+24,Captain,Stan,88
+25,Captain,Crew,11
+26,Captain,Crewman,33
+27,Captain,Luke,22
+28,Crew,Stan,8
+29,Crewman,Stan,24
+30,Luke,Stan,60
+31,Crew,Crewman,3
+32,Crew,Luke,2
+33,Crewman,Luke,6
+34,Larry King,Luke,6
+35,Larry King,Stan,30
+36,Larry King,Sid,18
+37,Luke,Sid,3
+38,Sid,Stan,15
+39,Announcer,Stan,114
+40,Benjamin,Stan,19
+41,DC Crewmen,Stan,19
+42,Japanese Pilot,Stan,19
+43,Cartman,Luke,24
+44,Kenny,Luke,8
+45,Announcer,Luke,12
+46,Benjamin,Luke,2
+47,DC Crewmen,Luke,2
+48,Japanese Pilot,Luke,2
+49,Announcer,Cartman,72
+50,Benjamin,Cartman,12
+51,Cartman,DC Crewmen,12
+52,Cartman,Japanese Pilot,12
+53,Announcer,Kenny,24
+54,Benjamin,Kenny,4
+55,DC Crewmen,Kenny,4
+56,Japanese Pilot,Kenny,4
+57,Announcer,Benjamin,6
+58,Announcer,DC Crewmen,6
+59,Announcer,Japanese Pilot,6
+60,Benjamin,DC Crewmen,1
+61,Benjamin,Japanese Pilot,1
+62,DC Crewmen,Japanese Pilot,1
+63,Cartman,Guard,2
+64,Cartman,Emperor Akihito,14
+65,Guard,Stan,3
+66,Emperor Akihito,Stan,18
+67,Emperor Akihito,Guard,4
+68,Guard,Kenny,1
+69,Emperor Akihito,Kenny,4
+70,Emperor Akihito,Hatoyama,1

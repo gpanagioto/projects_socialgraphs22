@@ -1,96 +1,65 @@
 ,source,target,weight
 0,Kids,Mailman,6
 1,Bradley Biggle,Mailman,3
-2,All,Mailman,3
-3,Mailman,Mr. Hankey,3
-4,Girl 1,Mailman,3
-5,Boy 1,Mailman,3
-6,Girl 2,Mailman,3
-7,Bradley Biggle,Kids,2
-8,All,Kids,2
-9,Kids,Mr. Hankey,2
-10,Girl 1,Kids,2
-11,Boy 1,Kids,2
-12,Girl 2,Kids,2
-13,All,Bradley Biggle,1
-14,Bradley Biggle,Mr. Hankey,1
-15,Bradley Biggle,Girl 1,1
-16,Boy 1,Bradley Biggle,1
-17,Bradley Biggle,Girl 2,1
-18,All,Mr. Hankey,1
-19,All,Girl 1,1
-20,All,Boy 1,1
-21,All,Girl 2,1
-22,Girl 1,Mr. Hankey,1
-23,Boy 1,Mr. Hankey,1
-24,Girl 2,Mr. Hankey,1
-25,Boy 1,Girl 1,1
-26,Girl 1,Girl 2,1
-27,Boy 1,Girl 2,1
-28,Cartman,Kyle,105
-29,Kyle,Stan,58
-30,Cartman,Stan,72
-31,Kyle,Sheila,53
-32,Gerald,Kyle,37
-33,Cartman,Sheila,73
-34,Cartman,Gerald,45
-35,Sheila,Stan,52
-36,Gerald,Stan,44
-37,Gerald,Sheila,50
-38,Adolf,Satan,18
-39,Adolf,With Demons,3
-40,Adolf,With the Kennedys,3
-41,Adolf,With the Damned,3
-42,Adolf,With Choir,12
-43,Adolf,Females,15
-44,Adolf,Males,6
-45,Adolf,All,3
-46,Adolf,Bailey,3
-47,Satan,With Demons,6
-48,Satan,With the Kennedys,6
-49,Satan,With the Damned,6
-50,Satan,With Choir,24
-51,Females,Satan,30
-52,Males,Satan,12
-53,All,Satan,6
-54,Bailey,Satan,6
-55,With Demons,With the Kennedys,1
-56,With Demons,With the Damned,1
-57,With Choir,With Demons,4
-58,Females,With Demons,5
-59,Males,With Demons,2
-60,All,With Demons,1
-61,Bailey,With Demons,1
-62,With the Damned,With the Kennedys,1
-63,With Choir,With the Kennedys,4
-64,Females,With the Kennedys,5
-65,Males,With the Kennedys,2
-66,All,With the Kennedys,1
-67,Bailey,With the Kennedys,1
-68,With Choir,With the Damned,4
-69,Females,With the Damned,5
-70,Males,With the Damned,2
-71,All,With the Damned,1
-72,Bailey,With the Damned,1
-73,Females,With Choir,20
-74,Males,With Choir,8
-75,All,With Choir,4
-76,Bailey,With Choir,4
-77,Females,Males,10
-78,All,Females,5
-79,Bailey,Females,5
-80,All,Males,2
-81,Bailey,Males,2
-82,All,Bailey,1
-83,Left,Right,3
-84,Centers,Right,1
-85,Center,Right,1
-86,Class,Kenny,1
-87,Jesus,Santa,306
-88,Both,Santa,108
-89,Both,Jesus,102
-90,Cartman,With Boys,1
-91,Mr. Hankey,With Boys,1
-92,Kyle,With Boys,1
-93,Cartman,Mr. Hankey,1
-94,Kyle,Mr. Hankey,1
+2,Mailman,Mr. Hankey,3
+3,Bradley Biggle,Kids,2
+4,Kids,Mr. Hankey,2
+5,Bradley Biggle,Mr. Hankey,1
+6,Cartman,Kyle,105
+7,Kyle,Stan,58
+8,Cartman,Stan,72
+9,Kyle,Sheila,53
+10,Gerald,Kyle,37
+11,Cartman,Sheila,73
+12,Cartman,Gerald,45
+13,Sheila,Stan,52
+14,Gerald,Stan,44
+15,Gerald,Sheila,50
+16,Adolf,Satan,18
+17,Adolf,With Demons,3
+18,Adolf,With the Kennedys,3
+19,Adolf,With the Damned,3
+20,Adolf,With Choir,12
+21,Adolf,Females,15
+22,Adolf,Males,6
+23,Adolf,Bailey,3
+24,Satan,With Demons,6
+25,Satan,With the Kennedys,6
+26,Satan,With the Damned,6
+27,Satan,With Choir,24
+28,Females,Satan,30
+29,Males,Satan,12
+30,Bailey,Satan,6
+31,With Demons,With the Kennedys,1
+32,With Demons,With the Damned,1
+33,With Choir,With Demons,4
+34,Females,With Demons,5
+35,Males,With Demons,2
+36,Bailey,With Demons,1
+37,With the Damned,With the Kennedys,1
+38,With Choir,With the Kennedys,4
+39,Females,With the Kennedys,5
+40,Males,With the Kennedys,2
+41,Bailey,With the Kennedys,1
+42,With Choir,With the Damned,4
+43,Females,With the Damned,5
+44,Males,With the Damned,2
+45,Bailey,With the Damned,1
+46,Females,With Choir,20
+47,Males,With Choir,8
+48,Bailey,With Choir,4
+49,Females,Males,10
+50,Bailey,Females,5
+51,Bailey,Males,2
+52,Left,Right,3
+53,Centers,Right,1
+54,Center,Right,1
+55,Class,Kenny,1
+56,Jesus,Santa,306
+57,Both,Santa,108
+58,Both,Jesus,102
+59,Cartman,With Boys,1
+60,Mr. Hankey,With Boys,1
+61,Kyle,With Boys,1
+62,Cartman,Mr. Hankey,1
+63,Kyle,Mr. Hankey,1

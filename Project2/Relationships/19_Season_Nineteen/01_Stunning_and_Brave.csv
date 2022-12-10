@@ -29,111 +29,62 @@
 27,Gerald,Stuart,9
 28,Stephen,Stuart,9
 29,Ryan,Stuart,9
-30,PC bro 1,Stuart,24
-31,PC bro 2,Stuart,18
-32,PC bro 3,Stuart,6
-33,PC Principal,Stuart,12
-34,PC bro 4,Stuart,9
-35,Gerald,Stephen,9
-36,Gerald,Ryan,9
-37,Gerald,PC bro 1,24
-38,Gerald,PC bro 2,18
-39,Gerald,PC bro 3,6
-40,Gerald,PC bro 4,9
-41,Ryan,Stephen,9
-42,PC bro 1,Stephen,24
-43,PC bro 2,Stephen,19
-44,PC bro 3,Stephen,6
-45,PC Principal,Stephen,12
-46,PC bro 4,Stephen,9
-47,PC bro 1,Ryan,24
-48,PC bro 2,Ryan,18
-49,PC bro 3,Ryan,6
-50,PC Principal,Ryan,12
-51,PC bro 4,Ryan,9
-52,PC bro 1,PC bro 2,48
-53,PC bro 1,PC bro 3,16
-54,PC Principal,PC bro 1,32
-55,PC bro 1,PC bro 4,24
-56,PC bro 2,PC bro 3,12
-57,PC Principal,PC bro 2,24
-58,PC bro 2,PC bro 4,18
-59,PC Principal,PC bro 3,8
-60,PC bro 3,PC bro 4,6
-61,PC Principal,PC bro 4,12
-62,Friend,Janitor,1
-63,Cartman,Stan,36
-64,Cartman,Kyle,95
-65,Boys,Cartman,27
-66,Kyle,Stan,31
-67,Butters,Stan,11
-68,Boys,Stan,9
-69,Boys,Kyle,9
-70,Boys,Butters,9
-71,PC bro 5,PC bro 6,4
-72,PC bro 5,PC bro 7,1
-73,PC bro 5,PC bro 8,1
-74,PC Principal,PC bro 5,2
-75,PC bro 5,PC bros,10
-76,PC bro 6,PC bro 7,1
-77,PC bro 6,PC bro 8,1
-78,PC Principal,PC bro 6,2
-79,PC bro 6,PC bros,6
-80,PC bro 7,PC bro 8,1
-81,PC Principal,PC bro 7,2
-82,PC bro 7,PC bros,4
-83,PC Principal,PC bro 8,2
-84,PC bro 8,PC bros,4
-85,PC Principal,PC bros,8
-86,PC Principal,Pledges,4
-87,Pledge 1,Pledges,1
-88,Pledge 2,Pledges,1
-89,Pledges,Topher,1
-90,PC Principal,Pledge 1,4
-91,PC Principal,Pledge 2,4
-92,PC Principal,Topher,4
-93,Pledge 1,Pledge 2,1
-94,Pledge 1,Topher,1
-95,Pledge 2,Topher,1
-96,A passing bro,Stan,5
-97,A passing bro,Kyle,3
-98,Cartman,PC bros,10
-99,PC bros,Pregnant Mexican Women,2
-100,PC bro 2,PC bros,2
-101,PC bros,Stephen,2
-102,A PC Bro,PC bros,2
-103,Kyle,PC bros,2
-104,PC bros,Townsman,2
-105,Cartman,PC bro 5,15
-106,PC bro 5,Pregnant Mexican Women,3
-107,PC bro 2,PC bro 5,3
-108,PC bro 5,Stephen,3
-109,A PC Bro,PC bro 5,3
-110,Kyle,PC bro 5,3
-111,PC bro 5,Townsman,3
-112,Cartman,Pregnant Mexican Women,5
-113,Cartman,PC bro 2,5
-114,Cartman,PC bro 6,5
-115,Cartman,Stephen,5
-116,A PC Bro,Cartman,5
-117,Cartman,Townsman,5
-118,PC bro 2,Pregnant Mexican Women,1
-119,PC bro 6,Pregnant Mexican Women,1
-120,Pregnant Mexican Women,Stephen,1
-121,A PC Bro,Pregnant Mexican Women,1
-122,Kyle,Pregnant Mexican Women,1
-123,Pregnant Mexican Women,Townsman,1
-124,PC bro 2,PC bro 6,1
-125,A PC Bro,PC bro 2,1
-126,Kyle,PC bro 2,1
-127,PC bro 2,Townsman,1
-128,PC bro 6,Stephen,1
-129,A PC Bro,PC bro 6,1
-130,Kyle,PC bro 6,1
-131,PC bro 6,Townsman,1
-132,A PC Bro,Stephen,1
-133,Kyle,Stephen,1
-134,Stephen,Townsman,1
-135,A PC Bro,Kyle,1
-136,A PC Bro,Townsman,1
-137,Kyle,Townsman,1
+30,Randy,Stuart,3
+31,PC Principal,Stuart,12
+32,Gerald,Stephen,9
+33,Gerald,Ryan,9
+34,Gerald,Randy,3
+35,Ryan,Stephen,9
+36,Randy,Stephen,4
+37,PC Principal,Stephen,12
+38,Randy,Ryan,3
+39,PC Principal,Ryan,12
+40,PC Principal,Randy,18
+41,Friend,Janitor,1
+42,Cartman,Stan,36
+43,Cartman,Kyle,95
+44,Boys,Cartman,27
+45,Kyle,Stan,31
+46,Butters,Stan,11
+47,Boys,Stan,9
+48,Boys,Kyle,9
+49,Boys,Butters,9
+50,PC bros,Randy,14
+51,PC Principal,PC bros,8
+52,Randy,Sharon,6
+53,PC Principal,Pledges,4
+54,Pledges,Randy,2
+55,Pledges,Topher,1
+56,PC Principal,Topher,4
+57,Randy,Topher,2
+58,Cartman,Cartman Brady,12
+59,Butters,Cartman Brady,8
+60,Randy,Stan,10
+61,A passing bro,Stan,5
+62,Kyle,Randy,7
+63,A passing bro,Kyle,3
+64,A passing bro,Randy,2
+65,Cartman,PC bros,10
+66,PC bros,Pregnant Mexican Women,2
+67,PC bros,Stephen,2
+68,A PC Bro,PC bros,2
+69,Kyle,PC bros,2
+70,PC bros,Townsman,2
+71,Cartman,Randy,5
+72,Pregnant Mexican Women,Randy,1
+73,A PC Bro,Randy,1
+74,Randy,Townsman,1
+75,Cartman,Pregnant Mexican Women,5
+76,Cartman,Stephen,5
+77,A PC Bro,Cartman,5
+78,Cartman,Townsman,5
+79,Pregnant Mexican Women,Stephen,1
+80,A PC Bro,Pregnant Mexican Women,1
+81,Kyle,Pregnant Mexican Women,1
+82,Pregnant Mexican Women,Townsman,1
+83,A PC Bro,Stephen,1
+84,Kyle,Stephen,1
+85,Stephen,Townsman,1
+86,A PC Bro,Kyle,1
+87,A PC Bro,Townsman,1
+88,Kyle,Townsman,1

@@ -34,58 +34,60 @@
 32,Mr. Mackey,Nurse Gollum,25
 33,Mr. Mackey,Van Gelder,15
 34,Principal Victoria,Van Gelder,4
-35,Teen 1,Teen 2,1
-36,Dr. Adams,The Class,2
-37,Cartman,Liane,4
-38,Cartman,Cosette,2
-39,Cartman,Cosette's mother,2
-40,Cosette,Liane,1
-41,Cosette's mother,Liane,1
-42,Cosette,Cosette's mother,2
-43,Clyde,Mr. Garrison,2
-44,Clyde,Dr. Adams,2
-45,Clyde,Several kids,2
-46,A girl,Clyde,2
-47,Another girl,Clyde,2
-48,Clyde,Wendy,2
-49,Clyde,Fosse,2
-50,Mr. Garrison,Several kids,1
-51,A girl,Mr. Garrison,1
-52,Another girl,Mr. Garrison,1
-53,Mr. Garrison,Wendy,1
-54,Fosse,Mr. Garrison,1
-55,Dr. Adams,Several kids,1
-56,A girl,Dr. Adams,1
-57,Another girl,Dr. Adams,1
-58,Dr. Adams,Wendy,1
-59,Dr. Adams,Fosse,1
-60,A girl,Several kids,1
-61,Another girl,Several kids,1
-62,Several kids,Wendy,1
-63,Fosse,Several kids,1
-64,A girl,Another girl,1
-65,A girl,Wendy,1
-66,A girl,Fosse,1
-67,Another girl,Wendy,1
-68,Another girl,Fosse,1
-69,Fosse,Wendy,1
-70,Cartman,Center judge,3
-71,Center judge,Liane,1
-72,Blonde judge,Cartman,2
-73,Blonde judge,Center judge,1
-74,Asian reporter,Dr. Adams,2
-75,Kyle,Officer Barbrady,7
-76,Officer Barbrady,Stan,16
-77,Cartman,Director,11
-78,Director,Liane,1
-79,Dr. Adams,Officer Barbrady,20
-80,Chef,Stan,2
-81,Chef,Officer Barbrady,6
-82,Chef,Dr. Adams,2
-83,Cartman,Voice-over,2
-84,Mr. Mackey,Stan,2
-85,Nurse Gollum,Stan,1
-86,Mr. Mackey,Officer Barbrady,5
-87,Dr. Adams,Mr. Mackey,2
-88,Nurse Gollum,Officer Barbrady,2
-89,Dr. Adams,Nurse Gollum,1
+35,Dr. Adams,The Class,2
+36,Cartman,Liane,4
+37,Cartman,Cosette,2
+38,Cartman,Cosette's mother,2
+39,Cosette,Liane,1
+40,Cosette's mother,Liane,1
+41,Cosette,Cosette's mother,2
+42,Clyde,Mr. Garrison,2
+43,Clyde,Dr. Adams,2
+44,Clyde,Several kids,2
+45,A girl,Clyde,2
+46,Another girl,Clyde,2
+47,Clyde,Wendy,2
+48,Clyde,Fosse,2
+49,Mr. Garrison,Several kids,1
+50,A girl,Mr. Garrison,1
+51,Another girl,Mr. Garrison,1
+52,Mr. Garrison,Wendy,1
+53,Fosse,Mr. Garrison,1
+54,Dr. Adams,Several kids,1
+55,A girl,Dr. Adams,1
+56,Another girl,Dr. Adams,1
+57,Dr. Adams,Wendy,1
+58,Dr. Adams,Fosse,1
+59,A girl,Several kids,1
+60,Another girl,Several kids,1
+61,Several kids,Wendy,1
+62,Fosse,Several kids,1
+63,A girl,Another girl,1
+64,A girl,Wendy,1
+65,A girl,Fosse,1
+66,Another girl,Wendy,1
+67,Another girl,Fosse,1
+68,Fosse,Wendy,1
+69,Cartman,Center judge,3
+70,Center judge,Liane,1
+71,Blonde judge,Cartman,2
+72,Blonde judge,Center judge,1
+73,Asian reporter,Dr. Adams,2
+74,Kyle,Officer Barbrady,7
+75,Officer Barbrady,Stan,16
+76,Cartman,Director,11
+77,Director,Liane,1
+78,Cartman,Stagehand,4
+79,Director,Stagehand,4
+80,Dr. Adams,Officer Barbrady,20
+81,Chef,Stan,2
+82,Chef,Officer Barbrady,6
+83,Chef,Dr. Adams,2
+84,Cartman,Grandma,6
+85,Cartman,Voice-over,2
+86,Mr. Mackey,Stan,2
+87,Nurse Gollum,Stan,1
+88,Mr. Mackey,Officer Barbrady,5
+89,Dr. Adams,Mr. Mackey,2
+90,Nurse Gollum,Officer Barbrady,2
+91,Dr. Adams,Nurse Gollum,1

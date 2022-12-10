@@ -35,70 +35,70 @@
 33,Cartman,Doctor,29
 34,Doctor,Receptionist,3
 35,Cartman,Receptionist,2
-36,Mrs. Stevens,Principal Victoria,2
-37,Bodybuilder,Tea Bag Participant,2
-38,Bodybuilder,Doctor,4
-39,Bodybuilder,Michael,1
-40,Bodybuilder,Tuong Lu Kim,1
-41,Bodybuilder,Wigger,1
-42,Bodybuilder,Cartman,3
-43,Doctor,Tea Bag Participant,8
-44,Michael,Tea Bag Participant,2
-45,Tea Bag Participant,Tuong Lu Kim,2
-46,Tea Bag Participant,Wigger,2
-47,Cartman,Tea Bag Participant,6
-48,Doctor,Michael,4
-49,Doctor,Tuong Lu Kim,14
-50,Doctor,Wigger,4
-51,Michael,Tuong Lu Kim,1
-52,Michael,Wigger,1
-53,Cartman,Michael,5
-54,Tuong Lu Kim,Wigger,1
-55,Cartman,Tuong Lu Kim,5
-56,Cartman,Wigger,3
-57,Riley,Theresa,3
-58,Daniel,Doctor,23
-59,Chase,Daniel,13
-60,Daniel,Wayne D,15
-61,Daniel,Gretchen,9
-62,Daniel,Tuong Lu Kim,8
-63,Cartman,Daniel,10
-64,Chase,Doctor,15
-65,Doctor,Wayne D,18
-66,Doctor,Gretchen,13
-67,Chase,Wayne D,10
-68,Chase,Gretchen,6
-69,Chase,Tuong Lu Kim,6
-70,Cartman,Chase,5
-71,Gretchen,Wayne D,7
-72,Tuong Lu Kim,Wayne D,6
-73,Cartman,Wayne D,9
-74,Gretchen,Tuong Lu Kim,4
-75,Cartman,Gretchen,4
-76,Ms. Turnod,Wendy,1
-77,Clerk,Customer,1
-78,Cartman,Customer,1
-79,Cartman,Clerk,1
-80,Cartman,Field Reporter,6
-81,Chase,Field Reporter,3
-82,Daniel,Field Reporter,3
-83,Field Reporter,Wayne D,3
-84,Butters,Linda,9
-85,Butters,Driver 1,3
-86,Butters,Driver 2,3
-87,Butters,Driver 3,3
-88,Driver 1,Linda,3
-89,Driver 2,Linda,3
-90,Driver 3,Linda,3
-91,Driver 1,Driver 2,1
-92,Driver 1,Driver 3,1
-93,Driver 2,Driver 3,1
-94,Cartman,Woman,2
-95,Wayne D,Woman,1
-96,Michael,Woman,1
-97,Announcer,Woman,1
-98,Rebecca Turnod,Woman,2
-99,Daniel,Woman,1
+36,Principal Victoria,Randy,6
+37,Mrs. Stevens,Randy,3
+38,Mrs. Stevens,Principal Victoria,2
+39,Bodybuilder,Tea Bag Participant,2
+40,Bodybuilder,Doctor,4
+41,Bodybuilder,Michael,1
+42,Bodybuilder,Tuong Lu Kim,1
+43,Bodybuilder,Wigger,1
+44,Bodybuilder,Cartman,3
+45,Doctor,Tea Bag Participant,8
+46,Michael,Tea Bag Participant,2
+47,Tea Bag Participant,Tuong Lu Kim,2
+48,Tea Bag Participant,Wigger,2
+49,Cartman,Tea Bag Participant,6
+50,Doctor,Michael,4
+51,Doctor,Tuong Lu Kim,14
+52,Doctor,Wigger,4
+53,Michael,Tuong Lu Kim,1
+54,Michael,Wigger,1
+55,Cartman,Michael,5
+56,Tuong Lu Kim,Wigger,1
+57,Cartman,Tuong Lu Kim,5
+58,Cartman,Wigger,3
+59,Randy,Theresa,4
+60,Riley,Theresa,3
+61,Randy,Riley,12
+62,Daniel,Doctor,23
+63,Chase,Daniel,13
+64,Daniel,Wayne D,15
+65,Daniel,Gretchen,9
+66,Daniel,Tuong Lu Kim,8
+67,Cartman,Daniel,10
+68,Chase,Doctor,15
+69,Doctor,Wayne D,18
+70,Doctor,Gretchen,13
+71,Chase,Wayne D,10
+72,Chase,Gretchen,6
+73,Chase,Tuong Lu Kim,6
+74,Cartman,Chase,5
+75,Gretchen,Wayne D,7
+76,Tuong Lu Kim,Wayne D,6
+77,Cartman,Wayne D,9
+78,Gretchen,Tuong Lu Kim,4
+79,Cartman,Gretchen,4
+80,Ms. Turnod,Wendy,1
+81,Randy,Wendy,1
+82,Ms. Turnod,Randy,1
+83,Doctor,Randy,15
+84,Daniel,Randy,14
+85,Cartman,Randy,30
+86,Randy,Wayne D,14
+87,Gretchen,Randy,5
+88,Clerk,Customer,1
+89,Customer,Randy,2
+90,Cartman,Customer,1
+91,Clerk,Randy,2
+92,Cartman,Clerk,1
+93,Field Reporter,Randy,24
+94,Cartman,Field Reporter,6
+95,Chase,Field Reporter,3
+96,Daniel,Field Reporter,3
+97,Field Reporter,Wayne D,3
+98,Chase,Randy,8
+99,Butters,Linda,9
 100,Announcer,Cartman,2
 101,Cartman,Rebecca Turnod,4
 102,Michael,Wayne D,1
@@ -106,7 +106,10 @@
 104,Rebecca Turnod,Wayne D,2
 105,Announcer,Michael,1
 106,Michael,Rebecca Turnod,2
-107,Daniel,Michael,1
-108,Announcer,Rebecca Turnod,2
-109,Announcer,Daniel,1
-110,Daniel,Rebecca Turnod,2
+107,Michael,Randy,1
+108,Daniel,Michael,1
+109,Announcer,Rebecca Turnod,2
+110,Announcer,Randy,1
+111,Announcer,Daniel,1
+112,Randy,Rebecca Turnod,2
+113,Daniel,Rebecca Turnod,2

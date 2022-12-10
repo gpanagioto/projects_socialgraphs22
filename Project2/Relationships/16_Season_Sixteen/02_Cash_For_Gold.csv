@@ -1,56 +1,33 @@
 ,source,target,weight
-0,Marvin,Sharon,15
-1,Cartman,Stan,41
-2,Kyle,Stan,35
-3,Cartman,Kyle,24
-4,Clerk 1,Stan,10
-5,Clerk 1,Kyle,4
-6,Cartman,Clerk 1,2
-7,Clerk 2,Stan,4
-8,Clerk 3,Stan,4
-9,Clerk 3,Kyle,2
-10,Dean,Vivian,9
-11,Cartman,Kenny,5
-12,Cartman,Dean,5
-13,Caller,Cartman,11
-14,Kenny,Stan,4
-15,Dean,Stan,67
-16,Caller,Stan,3
-17,Kenny,Kyle,4
-18,Dean,Kyle,2
-19,Caller,Kyle,2
-20,Dean,Kenny,1
-21,Caller,Kenny,1
-22,Caller,Dean,1
-23,Marvin,Stan,32
-24,Butters,Cartman,11
-25,Butters,Leroy,4
-26,Cartman,Leroy,8
-27,Dean,Marcia,8
-28,Marcia,Stan,8
-29,Caller,Mrs. Appleby,5
-30,Cartman,Mrs. Appleby,30
-31,Manager,Stan,3
-32,Kyle,Manager,6
-33,Kenny,Manager,3
-34,Butters,Stan,3
-35,Butters,Twirler 1,1
-36,Butters,Kyle,3
-37,Butters,Twirler 2,1
-38,Butters,Twirler 3,1
-39,Butters,Twirler 4,1
-40,Stan,Twirler 1,1
-41,Stan,Twirler 2,1
-42,Stan,Twirler 3,1
-43,Stan,Twirler 4,1
-44,Kyle,Twirler 1,1
-45,Twirler 1,Twirler 2,1
-46,Twirler 1,Twirler 3,1
-47,Twirler 1,Twirler 4,1
-48,Kyle,Twirler 2,1
-49,Kyle,Twirler 3,1
-50,Kyle,Twirler 4,1
-51,Twirler 2,Twirler 3,1
-52,Twirler 2,Twirler 4,1
-53,Twirler 3,Twirler 4,1
-54,Cartman,Clerk 4,81
+0,Randy,Sharon,12
+1,Marvin,Sharon,15
+2,Marvin,Randy,20
+3,Cartman,Stan,41
+4,Kyle,Stan,35
+5,Cartman,Kyle,24
+6,Dean,Vivian,9
+7,Cartman,Kenny,5
+8,Cartman,Dean,5
+9,Caller,Cartman,11
+10,Kenny,Stan,4
+11,Dean,Stan,67
+12,Caller,Stan,3
+13,Kenny,Kyle,4
+14,Dean,Kyle,2
+15,Caller,Kyle,2
+16,Dean,Kenny,1
+17,Caller,Kenny,1
+18,Caller,Dean,1
+19,Marvin,Stan,32
+20,Butters,Cartman,11
+21,Butters,Leroy,4
+22,Cartman,Leroy,8
+23,Dean,Marcia,8
+24,Marcia,Stan,8
+25,Caller,Mrs. Appleby,5
+26,Cartman,Mrs. Appleby,30
+27,Manager,Stan,3
+28,Kyle,Manager,6
+29,Kenny,Manager,3
+30,Butters,Stan,3
+31,Butters,Kyle,3

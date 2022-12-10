@@ -96,60 +96,45 @@
 94,Linda,Sharon,1
 95,Sharon,Stephen,1
 96,Linda,Stephen,1
-97,Man 1,Woman 1,1
-98,Man 1,Specialist,1
-99,General Deckter,Man 1,3
-100,Fanciful Mayor,Man 1,1
-101,Man 1,Man 2,1
-102,Butters,Man 1,1
-103,Specialist,Woman 1,1
-104,General Deckter,Woman 1,3
-105,Fanciful Mayor,Woman 1,1
-106,Man 2,Woman 1,1
-107,Butters,Woman 1,1
-108,General Deckter,Specialist,26
-109,Fanciful Mayor,Specialist,1
-110,Man 2,Specialist,1
-111,Butters,Specialist,1
-112,Fanciful Mayor,General Deckter,3
-113,General Deckter,Man 2,3
-114,Butters,General Deckter,3
-115,Fanciful Mayor,Man 2,1
-116,Butters,Man 2,1
-117,Judge,Kyle,8
-118,Cartman,Judge,8
-119,M. Night Shyalaman,Specialist,6
-120,Michael Bay,Specialist,6
-121,Mel Gibson,Specialist,6
-122,General Deckter,M. Night Shyalaman,27
-123,General Deckter,Michael Bay,27
-124,General Deckter,Mel Gibson,27
-125,M. Night Shyalaman,Michael Bay,9
-126,M. Night Shyalaman,Mel Gibson,9
-127,Mel Gibson,Michael Bay,9
-128,Pat the Hammer,Rockety Rocket,4
-129,Cinderella,Pat the Hammer,4
-130,Butters,Pat the Hammer,6
-131,Pat the Hammer,Suitcase,2
-132,Fanciful Mayor,Rockety Rocket,10
-133,Cinderella,Fanciful Mayor,8
-134,Fanciful Mayor,Suitcase,4
-135,Cinderella,Rockety Rocket,4
-136,Butters,Rockety Rocket,8
-137,Rockety Rocket,Suitcase,2
-138,Butters,Cinderella,6
-139,Cinderella,Suitcase,2
-140,Butters,Suitcase,3
-141,Craig,Specialist,1
-142,Craig,General Deckter,3
-143,Cartman,Specialist,6
-144,Cartman,General Deckter,18
-145,Clyde,Specialist,1
-146,Clyde,General Deckter,3
-147,Specialist,Stan,1
-148,General Deckter,Stan,3
-149,Kyle,Specialist,3
-150,General Deckter,Kyle,9
-151,Butters,Terrorists,2
-152,Rockety Rocket,Terrorists,1
-153,Fanciful Mayor,Terrorists,2
+97,General Deckter,Specialist,26
+98,Fanciful Mayor,Specialist,1
+99,Butters,Specialist,1
+100,Fanciful Mayor,General Deckter,3
+101,Butters,General Deckter,3
+102,Judge,Kyle,8
+103,Cartman,Judge,8
+104,M. Night Shyalaman,Specialist,6
+105,Michael Bay,Specialist,6
+106,Mel Gibson,Specialist,6
+107,General Deckter,M. Night Shyalaman,27
+108,General Deckter,Michael Bay,27
+109,General Deckter,Mel Gibson,27
+110,M. Night Shyalaman,Michael Bay,9
+111,M. Night Shyalaman,Mel Gibson,9
+112,Mel Gibson,Michael Bay,9
+113,Pat the Hammer,Rockety Rocket,4
+114,Cinderella,Pat the Hammer,4
+115,Butters,Pat the Hammer,6
+116,Pat the Hammer,Suitcase,2
+117,Fanciful Mayor,Rockety Rocket,10
+118,Cinderella,Fanciful Mayor,8
+119,Fanciful Mayor,Suitcase,4
+120,Cinderella,Rockety Rocket,4
+121,Butters,Rockety Rocket,8
+122,Rockety Rocket,Suitcase,2
+123,Butters,Cinderella,6
+124,Cinderella,Suitcase,2
+125,Butters,Suitcase,3
+126,Craig,Specialist,1
+127,Craig,General Deckter,3
+128,Cartman,Specialist,6
+129,Cartman,General Deckter,18
+130,Clyde,Specialist,1
+131,Clyde,General Deckter,3
+132,Specialist,Stan,1
+133,General Deckter,Stan,3
+134,Kyle,Specialist,3
+135,General Deckter,Kyle,9
+136,Butters,Terrorists,2
+137,Rockety Rocket,Terrorists,1
+138,Fanciful Mayor,Terrorists,2

@@ -2,31 +2,31 @@
 0,Kyle,Stan,225
 1,Cartman,Kyle,187
 2,Cartman,Stan,268
-3,Man,Russell Crowe,7
-4,Man,Stan,17
-5,Man,Shelly,9
-6,Russell Crowe,Stan,146
-7,Russell Crowe,Shelly,49
-8,Shelly,Stan,123
-9,Kyle,Shelly,81
-10,Cartman,Shelly,104
-11,Butters,Shelly,41
-12,Shelly,Tugger,16
-13,Butters,Stan,118
-14,Stan,Tugger,31
-15,Kyle,Russell Crowe,99
-16,Kyle,Man,10
-17,Butters,Kyle,88
-18,Kyle,Tugger,22
-19,Cartman,Russell Crowe,116
-20,Cartman,Man,13
-21,Butters,Cartman,100
-22,Cartman,Tugger,26
-23,Butters,Russell Crowe,49
-24,Russell Crowe,Tugger,82
-25,Butters,Man,5
-26,Man,Tugger,2
-27,Butters,Tugger,10
+3,Russell Crowe,Stan,146
+4,Russell Crowe,Shelly,49
+5,Shelly,Stan,123
+6,Kyle,Shelly,81
+7,Cartman,Shelly,104
+8,Butters,Shelly,41
+9,Shelly,Tugger,16
+10,Man with Mustache,Shelly,8
+11,Butters,Stan,118
+12,Stan,Tugger,31
+13,Man with Mustache,Stan,15
+14,Kyle,Russell Crowe,99
+15,Butters,Kyle,88
+16,Kyle,Tugger,22
+17,Kyle,Man with Mustache,10
+18,Cartman,Russell Crowe,116
+19,Butters,Cartman,100
+20,Cartman,Tugger,26
+21,Cartman,Man with Mustache,13
+22,Butters,Russell Crowe,49
+23,Russell Crowe,Tugger,82
+24,Man with Mustache,Russell Crowe,6
+25,Butters,Tugger,10
+26,Butters,Man with Mustache,5
+27,Man with Mustache,Tugger,2
 28,Ike,Stan,12
 29,Gerald,Stan,9
 30,Lehrer,Stan,3
@@ -121,25 +121,13 @@
 119,Announcer,Tugger,8
 120,Cartman,Old woman,1
 121,Doctor,Russell Crowe,16
-122,Old folks,Old woman 2,1
-123,Cartman,Old folks,2
-124,Old folks,Old man 2,1
-125,Old folks,The boys,1
-126,Old folks,Stan,1
-127,Cartman,Old woman 2,2
-128,Old man 2,Old woman 2,1
-129,Old woman 2,The boys,1
-130,Old woman 2,Stan,1
-131,Cartman,Old man 2,2
-132,Old man 2,The boys,1
-133,Old man 2,Stan,1
-134,Shelly,The boys,1
-135,All,Tugger,1
-136,Chef,Tugger,1
-137,All,Stan,1
-138,All,Chef,1
-139,A girl,Wally B.,1
-140,Russell Crowe,Wally B.,1
-141,Tugger,Wally B.,1
-142,A girl,Russell Crowe,1
-143,A girl,Tugger,1
+122,Cartman,Old folks,2
+123,Old folks,The boys,1
+124,Old folks,Stan,1
+125,Shelly,The boys,1
+126,Chef,Tugger,1
+127,A girl,Wally B.,1
+128,Russell Crowe,Wally B.,1
+129,Tugger,Wally B.,1
+130,A girl,Russell Crowe,1
+131,A girl,Tugger,1

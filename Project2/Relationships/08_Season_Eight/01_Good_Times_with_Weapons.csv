@@ -12,163 +12,139 @@
 10,Cartman,Craig,68
 11,Cartman,Tolkien,16
 12,Cartman,Clyde,22
-13,All,Cartman,4
-14,Craig,Stan,75
-15,Craig,Kyle,71
-16,Craig,Tolkien,10
-17,Clyde,Craig,15
-18,All,Craig,2
-19,Stan,Tolkien,16
-20,Clyde,Stan,21
-21,All,Stan,3
-22,Kyle,Tolkien,16
-23,Clyde,Kyle,20
-24,All,Kyle,1
-25,Clyde,Tolkien,5
-26,All,Tolkien,1
-27,All,Clyde,1
-28,Butters,Stan,136
-29,Butters,Cartman,139
-30,Butters,Linda,10
-31,Butters,Kyle,146
-32,Butters,Kenny,25
-33,Cartman,Jimmy,14
-34,Cartman,Singer,6
-35,Butters,Craig,16
-36,Butters,Jimmy,4
-37,Butters,Clyde,5
-38,Butters,Tolkien,3
-39,Butters,Singer,2
-40,Jimmy,Kyle,13
-41,Kyle,Singer,4
-42,Jimmy,Stan,14
-43,Singer,Stan,5
-44,Craig,Jimmy,11
-45,Craig,Singer,5
-46,Clyde,Jimmy,5
-47,Jimmy,Tolkien,3
-48,Jimmy,Singer,2
-49,Clyde,Singer,2
-50,Singer,Tolkien,1
-51,Chef,Stan,24
-52,Stan,The Boys,6
-53,Chef,Kyle,30
-54,Kyle,The Boys,6
-55,Cartman,Chef,12
-56,Cartman,The Boys,2
-57,Craig,Kenny,3
-58,Clyde,Kenny,2
-59,Kenny,Tolkien,2
-60,Jimmy,Kenny,1
-61,Chef,Kenny,6
-62,Kenny,The Boys,1
-63,Chef,Craig,6
-64,Craig,The Boys,1
-65,Chef,Clyde,6
-66,Clyde,The Boys,1
-67,Chef,Tolkien,6
-68,The Boys,Tolkien,1
-69,Chef,Jimmy,6
-70,Jimmy,The Boys,1
-71,Chef,The Boys,6
-72,Butters,Dr. Doctor,2
-73,Dr. Doctor,Nurse,4
-74,Announcer,Dr. Doctor,2
-75,Dr. Doctor,Stan,8
-76,Dr. Doctor,Kyle,12
-77,Cartman,Dr. Doctor,8
-78,Dr. Doctor,Kenny,2
-79,Craig,Dr. Doctor,4
-80,Clyde,Dr. Doctor,2
-81,Dr. Doctor,Tolkien,2
-82,Butters,Nurse,2
-83,Announcer,Butters,1
-84,Announcer,Nurse,2
-85,Nurse,Stan,8
-86,Kyle,Nurse,12
-87,Cartman,Nurse,8
-88,Kenny,Nurse,2
-89,Craig,Nurse,4
-90,Clyde,Nurse,2
-91,Nurse,Tolkien,2
-92,Announcer,Stan,4
-93,Announcer,Kyle,6
-94,Announcer,Cartman,4
-95,Announcer,Kenny,1
-96,Announcer,Craig,2
-97,Announcer,Clyde,1
-98,Announcer,Tolkien,1
-99,Butters,Vet,4
-100,Assistant,Butters,2
-101,Assistant,Vet,2
-102,Craig,Roger,12
-103,Barker,Roger,6
-104,Butters,Roger,3
-105,Linda,Roger,3
-106,Roger,Sheila,3
-107,Barker,Stan,12
-108,Linda,Stan,6
-109,Sheila,Stan,8
-110,Barker,Kyle,12
-111,Kyle,Linda,6
-112,Kyle,Sheila,8
-113,Barker,Craig,8
-114,Craig,Linda,4
-115,Craig,Sheila,4
-116,Barker,Cartman,4
-117,Barker,Butters,2
-118,Barker,Linda,2
-119,Barker,Sheila,2
-120,Cartman,Linda,2
+13,Craig,Stan,75
+14,Craig,Kyle,71
+15,Craig,Tolkien,10
+16,Clyde,Craig,15
+17,Stan,Tolkien,16
+18,Clyde,Stan,21
+19,Kyle,Tolkien,16
+20,Clyde,Kyle,20
+21,Clyde,Tolkien,5
+22,Butters,Stan,136
+23,Butters,Cartman,139
+24,Butters,Linda,10
+25,Butters,Kyle,146
+26,Butters,Kenny,25
+27,Cartman,Jimmy,14
+28,Cartman,Singer,6
+29,Butters,Craig,16
+30,Butters,Jimmy,4
+31,Butters,Clyde,5
+32,Butters,Tolkien,3
+33,Butters,Singer,2
+34,Jimmy,Kyle,13
+35,Kyle,Singer,4
+36,Jimmy,Stan,14
+37,Singer,Stan,5
+38,Craig,Jimmy,11
+39,Craig,Singer,5
+40,Clyde,Jimmy,5
+41,Jimmy,Tolkien,3
+42,Jimmy,Singer,2
+43,Clyde,Singer,2
+44,Singer,Tolkien,1
+45,Chef,Stan,24
+46,Stan,The Boys,6
+47,Chef,Kyle,30
+48,Kyle,The Boys,6
+49,Cartman,Chef,12
+50,Cartman,The Boys,2
+51,Craig,Kenny,3
+52,Clyde,Kenny,2
+53,Kenny,Tolkien,2
+54,Jimmy,Kenny,1
+55,Chef,Kenny,6
+56,Kenny,The Boys,1
+57,Chef,Craig,6
+58,Craig,The Boys,1
+59,Chef,Clyde,6
+60,Clyde,The Boys,1
+61,Chef,Tolkien,6
+62,The Boys,Tolkien,1
+63,Chef,Jimmy,6
+64,Jimmy,The Boys,1
+65,Chef,The Boys,6
+66,Butters,Dr. Doctor,2
+67,Dr. Doctor,Nurse,4
+68,Announcer,Dr. Doctor,2
+69,Dr. Doctor,Stan,8
+70,Dr. Doctor,Kyle,12
+71,Cartman,Dr. Doctor,8
+72,Dr. Doctor,Kenny,2
+73,Craig,Dr. Doctor,4
+74,Clyde,Dr. Doctor,2
+75,Dr. Doctor,Tolkien,2
+76,Butters,Nurse,2
+77,Announcer,Butters,1
+78,Announcer,Nurse,2
+79,Nurse,Stan,8
+80,Kyle,Nurse,12
+81,Cartman,Nurse,8
+82,Kenny,Nurse,2
+83,Craig,Nurse,4
+84,Clyde,Nurse,2
+85,Nurse,Tolkien,2
+86,Announcer,Stan,4
+87,Announcer,Kyle,6
+88,Announcer,Cartman,4
+89,Announcer,Kenny,1
+90,Announcer,Craig,2
+91,Announcer,Clyde,1
+92,Announcer,Tolkien,1
+93,Butters,Vet,4
+94,Assistant,Butters,2
+95,Assistant,Vet,2
+96,Craig,Roger,12
+97,Barker,Roger,6
+98,Butters,Roger,3
+99,Linda,Roger,3
+100,Randy,Roger,3
+101,Roger,Sheila,3
+102,Barker,Stan,12
+103,Linda,Stan,6
+104,Randy,Stan,6
+105,Sheila,Stan,8
+106,Barker,Kyle,12
+107,Kyle,Linda,6
+108,Kyle,Randy,6
+109,Kyle,Sheila,8
+110,Barker,Craig,8
+111,Craig,Linda,4
+112,Craig,Randy,4
+113,Craig,Sheila,4
+114,Barker,Cartman,4
+115,Barker,Butters,2
+116,Barker,Linda,2
+117,Barker,Randy,2
+118,Barker,Sheila,2
+119,Cartman,Linda,2
+120,Cartman,Randy,2
 121,Cartman,Sheila,5
-122,Butters,Sheila,1
-123,Linda,Sheila,1
-124,Man 1,Townsfolk,1
-125,Gerald,Man 1,1
-126,Man 1,Man 2,1
-127,Man 1,Stan,2
-128,Cartman,Man 1,3
-129,Man 1,Skeeter,1
-130,Man 1,Sheila,1
-131,Man 1,Mr. Garrison,1
-132,Kyle,Man 1,2
-133,Man,Man 1,1
-134,Gerald,Townsfolk,1
-135,Man 2,Townsfolk,1
-136,Stan,Townsfolk,2
-137,Cartman,Townsfolk,3
-138,Skeeter,Townsfolk,1
-139,Sheila,Townsfolk,1
-140,Mr. Garrison,Townsfolk,1
-141,Kyle,Townsfolk,2
-142,Man,Townsfolk,1
-143,Gerald,Man 2,1
-144,Gerald,Stan,2
-145,Cartman,Gerald,3
-146,Gerald,Skeeter,1
-147,Gerald,Sheila,1
-148,Gerald,Mr. Garrison,1
-149,Gerald,Kyle,2
-150,Gerald,Man,1
-151,Man 2,Stan,2
-152,Cartman,Man 2,3
-153,Man 2,Skeeter,1
-154,Man 2,Sheila,1
-155,Man 2,Mr. Garrison,1
-156,Kyle,Man 2,2
-157,Man,Man 2,1
-158,Skeeter,Stan,2
-159,Mr. Garrison,Stan,2
-160,Man,Stan,2
-161,Cartman,Skeeter,3
-162,Cartman,Mr. Garrison,3
-163,Cartman,Man,3
-164,Sheila,Skeeter,1
-165,Mr. Garrison,Skeeter,1
-166,Kyle,Skeeter,2
-167,Man,Skeeter,1
-168,Mr. Garrison,Sheila,1
-169,Man,Sheila,1
-170,Kyle,Mr. Garrison,2
-171,Man,Mr. Garrison,1
-172,Kyle,Man,2
+122,Butters,Randy,1
+123,Butters,Sheila,1
+124,Linda,Randy,1
+125,Linda,Sheila,1
+126,Randy,Sheila,1
+127,Gerald,Townsfolk,1
+128,Stan,Townsfolk,2
+129,Cartman,Townsfolk,3
+130,Skeeter,Townsfolk,1
+131,Sheila,Townsfolk,1
+132,Mr. Garrison,Townsfolk,1
+133,Kyle,Townsfolk,2
+134,Gerald,Stan,2
+135,Cartman,Gerald,3
+136,Gerald,Skeeter,1
+137,Gerald,Sheila,1
+138,Gerald,Mr. Garrison,1
+139,Gerald,Kyle,2
+140,Skeeter,Stan,2
+141,Mr. Garrison,Stan,2
+142,Cartman,Skeeter,3
+143,Cartman,Mr. Garrison,3
+144,Sheila,Skeeter,1
+145,Mr. Garrison,Skeeter,1
+146,Kyle,Skeeter,2
+147,Mr. Garrison,Sheila,1
+148,Kyle,Mr. Garrison,2

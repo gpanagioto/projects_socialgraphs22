@@ -23,59 +23,27 @@
 21,Craig,Tolkien,3
 22,Jimmy,Tolkien,1
 23,Craig,Jimmy,1
-24,Man,Woman,25
-25,Butters,Woman,16
-26,Butters,Man,10
-27,Both,Butters,20
-28,Butters,Singers,10
-29,Both,Singers,8
-30,Worker 1,Worker 2,12
-31,Worker 1,Worker 3,18
-32,Butters,Worker 1,24
-33,Worker 2,Worker 3,6
-34,Butters,Worker 2,12
-35,Butters,Worker 3,12
-36,Elderly man,Worker 2,2
-37,Elderly man,Yimenez,2
-38,Butters,Elderly man,2
-39,Worker 2,Yimenez,4
-40,Butters,Yimenez,4
-41,Border officer 1,Border officer 2,3
-42,Border officer 2,Charlie,6
-43,Border officer 1,Charlie,2
-44,Kyle,Mr. Geiger,3
-45,Cartman,Mr. Geiger,4
-46,Chris,Mr. Geiger,1
-47,Chris,Kyle,3
-48,Cartman,Chris,4
-49,Butters,Crowd,2
-50,Cartman,Marcus,10
-51,Border officer 3,Marcus,3
-52,Border officer 2,Marcus,9
-53,Border officer 3,Cartman,2
-54,Border officer 2,Cartman,16
-55,Border officer 2,Border officer 3,2
-56,Butters,President Calderón,2
-57,Border officer 2,Border officer 4,3
-58,Border officer 4,Marcus,1
-59,Border officer 4,Border officer 5,1
-60,Border officer 4,Other Officers,1
-61,Border officer 4,Cartman,4
-62,Border officer 4,Butters,4
-63,Border officer 2,Border officer 5,3
-64,Border officer 2,Other Officers,3
-65,Border officer 2,Butters,12
-66,Border officer 5,Marcus,1
-67,Marcus,Other Officers,1
-68,Butters,Marcus,4
-69,Border officer 5,Other Officers,1
-70,Border officer 5,Cartman,4
-71,Border officer 5,Butters,4
-72,Cartman,Other Officers,4
-73,Butters,Other Officers,4
-74,Butters,Cartman,18
-75,Butters,Mexicans,2
-76,Butters,Commentator,2
-77,Cartman,Mexicans,1
-78,Cartman,Commentator,1
-79,Commentator,Mexicans,1
+24,Both,Butters,20
+25,Butters,Singers,10
+26,Both,Singers,8
+27,Elderly man,Yimenez,2
+28,Butters,Elderly man,2
+29,Butters,Yimenez,4
+30,Kyle,Mr. Geiger,3
+31,Cartman,Mr. Geiger,4
+32,Chris,Mr. Geiger,1
+33,Chris,Kyle,3
+34,Cartman,Chris,4
+35,Butters,Crowd,2
+36,Cartman,Marcus,10
+37,Butters,President Calderón,2
+38,Marcus,Other Officers,1
+39,Butters,Marcus,4
+40,Cartman,Other Officers,4
+41,Butters,Other Officers,4
+42,Butters,Cartman,18
+43,Butters,Mexicans,2
+44,Butters,Commentator,2
+45,Cartman,Mexicans,1
+46,Cartman,Commentator,1
+47,Commentator,Mexicans,1
