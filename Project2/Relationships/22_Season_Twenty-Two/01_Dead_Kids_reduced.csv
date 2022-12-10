@@ -1,0 +1,60 @@
+,source,target,weight
+0,Butters,Cartman,35
+1,Cartman,Tolkien,58
+2,Cartman,Craig,4
+3,Cartman,Kyle,7
+4,Cartman,Class,4
+5,Butters,Tolkien,1
+6,Butters,Craig,1
+7,Butters,Kyle,1
+8,Butters,Class,1
+9,Craig,Tolkien,1
+10,Kyle,Tolkien,1
+11,Class,Tolkien,1
+12,Craig,Kyle,1
+13,Class,Craig,1
+14,Class,Kyle,1
+15,Cartman,Stan,6
+16,Bill Keegan,Stan,2
+17,Kyle,Stan,2
+18,Sharon,Stan,28
+19,Bill Keegan,Cartman,3
+20,Cartman,Sharon,6
+21,Bill Keegan,Kyle,1
+22,Bill Keegan,Sharon,2
+23,Kyle,Sharon,2
+24,Randy,Stan,30
+25,Randy,Sharon,153
+26,Cartman,Mr. Mackey,28
+27,Cartman,PC Principal,14
+28,Mr. Mackey,Tolkien,12
+29,PC Principal,Tolkien,6
+30,Mr. Mackey,PC Principal,8
+31,Sharon,Stephen,39
+32,Randy,Stephen,36
+33,Laura,Stephen,3
+34,Ryan,Stephen,3
+35,Laura,Sharon,3
+36,Ryan,Sharon,3
+37,Laura,Randy,2
+38,Randy,Ryan,2
+39,Laura,Ryan,1
+40,Doctor,Sharon,16
+41,Cartman,Steve,12
+42,Linda Black,Steve,2
+43,Steve,Tolkien,4
+44,Linda,Steve,2
+45,Cartman,Linda Black,6
+46,Cartman,Linda,6
+47,Linda Black,Tolkien,2
+48,Linda,Linda Black,1
+49,Linda,Tolkien,2
+50,Harriet,Sharon,18
+51,Linda,Sharon,2
+52,Harriet,Linda,1
+53,Sharon,Townsman,7
+54,Harriet,Stephen,6
+55,Stephen,Townsman,3
+56,Harriet,Randy,8
+57,Randy,Townsman,4
+58,Harriet,Townsman,2

@@ -1,0 +1,106 @@
+,source,target,weight
+0,Cartman,Randy,15
+1,Cartman,Gerald,17
+2,Cartman,Sheila,9
+3,Cartman,Sharon,5
+4,Gerald,Randy,70
+5,Randy,Sheila,17
+6,Randy,Sharon,7
+7,Gerald,Sheila,23
+8,Gerald,Sharon,14
+9,Sharon,Sheila,8
+10,Audience,Kyle,2
+11,Kyle,Sheila,10
+12,Gerald,Kyle,17
+13,Cartman,Kyle,15
+14,Kyle,Sharon,6
+15,Kyle,Randy,18
+16,Mayor McDaniels,Randy,16
+17,Jimbo,Randy,14
+18,Mr. Garrison,Randy,23
+19,Chef,Randy,11
+20,Jimbo,Mayor McDaniels,4
+21,Mayor McDaniels,Mr. Garrison,4
+22,Chef,Mayor McDaniels,4
+23,Jimbo,Mr. Garrison,5
+24,Chef,Jimbo,2
+25,Chef,Mr. Garrison,3
+26,Cartman,Stan,32
+27,Cartman,The boys,4
+28,Butters,Cartman,20
+29,Kyle,Stan,29
+30,Kyle,The boys,3
+31,Butters,Kyle,15
+32,Stan,The boys,6
+33,Butters,Stan,30
+34,Butters,The boys,5
+35,Randy,Runs with Premise,26
+36,Chris,Randy,10
+37,Randy,Stan,87
+38,Chris,Runs with Premise,4
+39,Mr. Garrison,Runs with Premise,16
+40,Runs with Premise,Stan,17
+41,Kyle,Runs with Premise,5
+42,Runs with Premise,Sheila,2
+43,Chef,Runs with Premise,2
+44,Jimbo,Runs with Premise,5
+45,Chris,Mr. Garrison,2
+46,Chris,Stan,8
+47,Chris,Kyle,2
+48,Chris,Sheila,2
+49,Chef,Chris,2
+50,Chris,Jimbo,2
+51,Mr. Garrison,Stan,17
+52,Kyle,Mr. Garrison,4
+53,Mr. Garrison,Sheila,1
+54,Sheila,Stan,4
+55,Chef,Stan,8
+56,Jimbo,Stan,10
+57,Chef,Kyle,1
+58,Jimbo,Kyle,3
+59,Chef,Sheila,1
+60,Jimbo,Sheila,1
+61,Stan,Townsfolk,9
+62,Mr. Mackey,Stan,10
+63,Gerald,Stan,6
+64,Randy,Townsfolk,12
+65,Mr. Mackey,Randy,7
+66,Mr. Mackey,Townsfolk,3
+67,Gerald,Townsfolk,6
+68,Mr. Garrison,Townsfolk,3
+69,Kyle,Townsfolk,3
+70,Jimbo,Townsfolk,3
+71,Gerald,Mr. Mackey,2
+72,Mr. Garrison,Mr. Mackey,4
+73,Kyle,Mr. Mackey,2
+74,Jimbo,Mr. Mackey,2
+75,Gerald,Mr. Garrison,2
+76,Gerald,Jimbo,2
+77,Mr. Garrison,Mr. Slave,1
+78,Cartman,Mr. Garrison,2
+79,Kenny,Mr. Garrison,1
+80,Mr. Slave,Stan,4
+81,Mr. Slave,Randy,2
+82,Mr. Mackey,Mr. Slave,1
+83,Cartman,Mr. Slave,2
+84,Kenny,Mr. Slave,1
+85,Chef,Mr. Slave,1
+86,Kenny,Stan,4
+87,Kenny,Randy,2
+88,Cartman,Mr. Mackey,2
+89,Kenny,Mr. Mackey,1
+90,Chef,Mr. Mackey,1
+91,Cartman,Kenny,2
+92,Cartman,Chef,2
+93,Chef,Kenny,1
+94,Principal Victoria,Stan,3
+95,Principal Victoria,Runs with Premise,3
+96,Mr. Mackey,Runs with Premise,3
+97,Kyle,Principal Victoria,1
+98,Mr. Garrison,Principal Victoria,2
+99,Jimbo,Principal Victoria,1
+100,Mr. Mackey,Principal Victoria,1
+101,Principal Victoria,Randy,1
+102,Field reporter,Randy,3
+103,Field reporter,Mr. Garrison,2
+104,Field reporter,Runs with Premise,4

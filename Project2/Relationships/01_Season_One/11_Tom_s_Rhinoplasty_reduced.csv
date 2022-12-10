@@ -1,0 +1,41 @@
+,source,target,weight
+0,Stan,Wendy,31
+1,Kyle,Principal Victoria,1
+2,Cartman,Kenny,4
+3,Cartman,Stan,28
+4,Cartman,Principal Victoria,1
+5,Kenny,Stan,8
+6,Kenny,Principal Victoria,2
+7,Principal Victoria,Stan,3
+8,Cartman,Ms. Ellen,15
+9,Ms. Ellen,Stan,36
+10,Mr. Hat,Tom,2
+11,Mr. Garrison,Tom,18
+12,Kyle,Stan,27
+13,Cartman,Kyle,22
+14,Chef,Kyle,10
+15,Chef,Stan,20
+16,Cartman,Chef,7
+17,Chef,Wendy,12
+18,Chef,Kenny,4
+19,Kenny,Wendy,3
+20,Bebe,Cartman,1
+21,Bebe,Ms. Ellen,2
+22,Bebe,Stan,1
+23,Chef,Ms. Ellen,16
+24,Kyle,Ms. Ellen,8
+25,Ms. Ellen,Wendy,18
+26,Kyle,Wendy,20
+27,Cartman,Wendy,13
+28,Bebe,Wendy,4
+29,Cartman,Clyde,1
+30,Clyde,Stan,1
+31,Clyde,Kyle,1
+32,Mr. Garrison,Wendy,2
+33,Ms. Ellen,Principal Victoria,15
+34,Principal Victoria,Wendy,7
+35,Mr. Garrison,Mr. Hat,3
+36,Kenny,Kyle,1
+37,Leader,Principal Victoria,3
+38,Leader,Ms. Ellen,4
+39,Leader,Wendy,1

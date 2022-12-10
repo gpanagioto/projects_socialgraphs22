@@ -1,0 +1,98 @@
+,source,target,weight
+0,Cartman,Elderly woman,9
+1,Kyle,Stan,22
+2,Driver,Kyle,15
+3,Kenny,Kyle,3
+4,Driver,Stan,18
+5,Kenny,Stan,4
+6,Driver,Kenny,3
+7,Cartman,Singer,5
+8,Sharon,Stan,2
+9,Chef,Gerald,2
+10,Chef,Guard,2
+11,Cartman,Chef,34
+12,Chef,Mayor McDaniels,6
+13,Chef,Randy,13
+14,Chef,Linda,7
+15,Chef,Mr. Mackey,3
+16,Gerald,Guard,1
+17,Cartman,Gerald,7
+18,Gerald,Mayor McDaniels,3
+19,Gerald,Randy,1
+20,Gerald,Linda,1
+21,Gerald,Mr. Mackey,1
+22,Cartman,Guard,7
+23,Guard,Mayor McDaniels,3
+24,Guard,Randy,1
+25,Guard,Linda,1
+26,Guard,Mr. Mackey,1
+27,Cartman,Mayor McDaniels,51
+28,Cartman,Randy,78
+29,Cartman,Linda,31
+30,Cartman,Mr. Mackey,15
+31,Mayor McDaniels,Randy,3
+32,Linda,Mayor McDaniels,3
+33,Mayor McDaniels,Mr. Mackey,3
+34,Linda,Randy,26
+35,Mr. Mackey,Randy,5
+36,Linda,Mr. Mackey,1
+37,Cartman,Stan,19
+38,Officer Barbrady,Stan,8
+39,Cartman,Kyle,21
+40,Kyle,Officer Barbrady,8
+41,Cartman,Driver,16
+42,Driver,Officer Barbrady,8
+43,Cartman,Officer Barbrady,50
+44,Mayor McDaniels,Officer Barbrady,15
+45,Anchorman,Stan,1
+46,Anchorman,Kyle,1
+47,Randy,Sharon,5
+48,Anchorman,Reporter,1
+49,Jimbo,Randy,13
+50,Cartman,Sheila,17
+51,Cartman,Jimbo,21
+52,Cartman,Principal Victoria,8
+53,Randy,Sheila,9
+54,Principal Victoria,Randy,4
+55,Chef,Sheila,3
+56,Jimbo,Sheila,4
+57,Mr. Mackey,Sheila,2
+58,Principal Victoria,Sheila,2
+59,Chef,Jimbo,3
+60,Chef,Principal Victoria,1
+61,Jimbo,Mr. Mackey,2
+62,Jimbo,Principal Victoria,2
+63,Mr. Mackey,Principal Victoria,1
+64,Randy,Steven,9
+65,Cartman,Steven,15
+66,Jimbo,Steven,3
+67,Jimbo,Linda,2
+68,Linda,Steven,6
+69,Chef,Steven,3
+70,Butters,Randy,1
+71,Mrs. Garrison,Randy,1
+72,Linda,Sharon,1
+73,Butters,Sharon,1
+74,Chef,Sharon,1
+75,Cartman,Sharon,1
+76,Sharon,Sheila,1
+77,Mrs. Garrison,Sharon,1
+78,Butters,Linda,1
+79,Linda,Sheila,1
+80,Linda,Mrs. Garrison,1
+81,Butters,Chef,1
+82,Butters,Cartman,1
+83,Butters,Sheila,1
+84,Butters,Mrs. Garrison,1
+85,Chef,Mrs. Garrison,1
+86,Cartman,Mrs. Garrison,1
+87,Mrs. Garrison,Sheila,1
+88,Mayor McDaniels,Townsfolk,1
+89,Guard,Kyle,1
+90,Mr. Mackey,Steven,1
+91,Singer,Stan,1
+92,Kyle,Linda,3
+93,Kyle,Randy,6
+94,Linda,Stan,3
+95,Randy,Stan,5
+96,Chef,Kyle,1

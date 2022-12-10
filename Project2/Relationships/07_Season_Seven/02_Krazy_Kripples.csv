@@ -25,77 +25,87 @@
 23,King,Reeve,9
 24,Bum,Jimmy,4
 25,Bum,Timmy,2
-26,Large Crip,Timmy,7
-27,Officer,Timmy,14
-28,Driver,Timmy,7
-29,Jimmy,Large Crip,13
-30,Jimmy,Officer,26
-31,Driver,Jimmy,13
-32,Large Crip,Officer,2
-33,Driver,Large Crip,1
-34,Driver,Officer,2
-35,Crips,Jimmy,2
-36,Cipac,Crips,1
-37,Crips,Timmy,1
-38,Cipac,Jimmy,4
-39,Cipac,Timmy,3
-40,Jimmy,Pops,9
-41,Crowd,Reeve,1
-42,Reporter,Stan,1
-43,Kyle,Reporter,1
-44,Jimmy,Mr. Kim,56
-45,Mr. Kim,Timmy,32
-46,Jimmy,Mamsie,14
-47,Jimmy,Ryan,31
-48,Mamsie,Pops,2
-49,Pops,Ryan,3
-50,Mamsie,Ryan,6
-51,Aide,Reeve,5
-52,Aide,Hackman,4
-53,Hackman,Reeve,38
-54,Blood,Jimmy,28
-55,Blood,Hyde,8
-56,Blood,Richardson,4
-57,Blood,Ryan,2
-58,Blood,Timmy,7
-59,Hyde,Jimmy,40
-60,Jimmy,Richardson,20
-61,Hyde,Richardson,8
-62,Hyde,Ryan,4
-63,Hyde,Timmy,12
-64,Richardson,Ryan,2
-65,Richardson,Timmy,6
-66,Ryan,Timmy,3
-67,Gerald,Randy,1
-68,Liane,Randy,1
-69,Randy,Reporter,3
-70,Hackman,Randy,3
-71,Randy,Reeve,3
-72,Gerald,Liane,1
-73,Gerald,Reporter,3
-74,Gerald,Hackman,3
-75,Gerald,Reeve,3
-76,Liane,Reporter,3
-77,Hackman,Liane,3
-78,Liane,Reeve,3
-79,Hackman,Reporter,9
-80,Reeve,Reporter,9
-81,Janitor,Jimmy,3
-82,Janitor,Mr. Appleby,2
-83,Jimmy,Mr. Appleby,6
-84,Crip,Jimmy,10
-85,Crip,Timmy,2
-86,Dr. Doom,Saddam Hussein,1
-87,Dr. Doom,Reeve,3
-88,Dr. Doom,Professor Chaos,1
-89,Dr. Doom,Hackman,3
-90,Reeve,Saddam Hussein,3
-91,Professor Chaos,Saddam Hussein,1
-92,Hackman,Saddam Hussein,3
-93,Professor Chaos,Reeve,3
-94,Hackman,Professor Chaos,3
-95,Jimmy,Someone,8
-96,Blood,Someone,1
-97,Crip,Someone,1
-98,Someone,Timmy,1
-99,Blood,Crip,1
+26,Braided Crip,Timmy,7
+27,Buff Crip,Timmy,19
+28,Officer,Timmy,14
+29,Driver,Timmy,7
+30,Braided Crip,Jimmy,13
+31,Buff Crip,Jimmy,54
+32,Jimmy,Officer,26
+33,Driver,Jimmy,13
+34,Braided Crip,Buff Crip,2
+35,Braided Crip,Officer,2
+36,Braided Crip,Driver,1
+37,Buff Crip,Officer,4
+38,Buff Crip,Driver,2
+39,Driver,Officer,2
+40,Buff Crip,Crips,2
+41,Buff Crip,Cipac,2
+42,Crips,Jimmy,2
+43,Cipac,Crips,1
+44,Crips,Timmy,1
+45,Cipac,Jimmy,4
+46,Cipac,Timmy,3
+47,Jimmy,Pops,9
+48,Crowd,Reeve,1
+49,Reporter,Stan,1
+50,Kyle,Reporter,1
+51,Jimmy,Mr. Kim,56
+52,Mr. Kim,Timmy,32
+53,Jimmy,Mamsie,14
+54,Jimmy,Ryan,31
+55,Mamsie,Pops,2
+56,Pops,Ryan,3
+57,Mamsie,Ryan,6
+58,Aide,Reeve,5
+59,Aide,Hackman,4
+60,Hackman,Reeve,38
+61,Blood,Jimmy,28
+62,Blood,Hyde,8
+63,Blood,Richardson,4
+64,Blood,Ryan,2
+65,Blood,Timmy,7
+66,Hyde,Jimmy,40
+67,Jimmy,Richardson,20
+68,Hyde,Richardson,8
+69,Hyde,Ryan,4
+70,Hyde,Timmy,12
+71,Richardson,Ryan,2
+72,Richardson,Timmy,6
+73,Ryan,Timmy,3
+74,Gerald,Randy,1
+75,Liane,Randy,1
+76,Randy,Reporter,3
+77,Hackman,Randy,3
+78,Randy,Reeve,3
+79,Gerald,Liane,1
+80,Gerald,Reporter,3
+81,Gerald,Hackman,3
+82,Gerald,Reeve,3
+83,Liane,Reporter,3
+84,Hackman,Liane,3
+85,Liane,Reeve,3
+86,Hackman,Reporter,9
+87,Reeve,Reporter,9
+88,Janitor,Jimmy,3
+89,Janitor,Mr. Appleby,2
+90,Jimmy,Mr. Appleby,6
+91,Crip,Jimmy,10
+92,Crip,Timmy,2
+93,Dr. Doom,Saddam Hussein,1
+94,Dr. Doom,Reeve,3
+95,Dr. Doom,Professor Chaos,1
+96,Dr. Doom,Hackman,3
+97,Reeve,Saddam Hussein,3
+98,Professor Chaos,Saddam Hussein,1
+99,Hackman,Saddam Hussein,3
+100,Professor Chaos,Reeve,3
+101,Hackman,Professor Chaos,3
+102,Jimmy,Someone,8
+103,Buff Crip,Someone,3
+104,Blood,Buff Crip,3
+105,Buff Crip,Crip,3
+106,Blood,Someone,1
+107,Crip,Someone,1
+108,Someone,Timmy,1
+109,Blood,Crip,1

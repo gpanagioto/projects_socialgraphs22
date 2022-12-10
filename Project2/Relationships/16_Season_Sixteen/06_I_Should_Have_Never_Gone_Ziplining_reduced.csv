@@ -1,0 +1,72 @@
+,source,target,weight
+0,Cartman,Kyle,441
+1,Kyle,Narrator,231
+2,Kyle,Stan,275
+3,Cartman,Narrator,267
+4,Cartman,Stan,305
+5,Narrator,Stan,158
+6,Kenny,Kyle,32
+7,Cartman,Kenny,46
+8,Kenny,Stan,19
+9,Kenny,Narrator,20
+10,Clerk,Stan,10
+11,Michael,Stan,282
+12,Cartman,Clerk,15
+13,Clerk,Narrator,15
+14,Clerk,Kyle,10
+15,Clerk,Michael,20
+16,Cartman,Michael,454
+17,Michael,Narrator,244
+18,Kyle,Michael,408
+19,Adults,Stan,39
+20,Guide,Stan,78
+21,Boys,Stan,13
+22,Pete,Stan,26
+23,Stan,The boys,13
+24,Rancher,Stan,39
+25,Adults,Narrator,33
+26,Guide,Narrator,66
+27,Boys,Narrator,11
+28,Narrator,Pete,22
+29,Narrator,The boys,11
+30,Narrator,Rancher,33
+31,Adults,Michael,63
+32,Guide,Michael,126
+33,Boys,Michael,21
+34,Michael,Pete,42
+35,Michael,The boys,21
+36,Michael,Rancher,63
+37,Kenny,Michael,21
+38,Adults,Kyle,57
+39,Adults,Cartman,63
+40,Adults,Guide,18
+41,Adults,Boys,3
+42,Adults,Pete,6
+43,Adults,The boys,3
+44,Adults,Rancher,9
+45,Adults,Kenny,3
+46,Guide,Kyle,114
+47,Boys,Kyle,19
+48,Kyle,Pete,38
+49,Kyle,The boys,19
+50,Kyle,Rancher,57
+51,Cartman,Guide,126
+52,Boys,Cartman,21
+53,Cartman,Pete,42
+54,Cartman,The boys,21
+55,Cartman,Rancher,63
+56,Boys,Guide,6
+57,Guide,Pete,12
+58,Guide,The boys,6
+59,Guide,Rancher,18
+60,Guide,Kenny,6
+61,Boys,Pete,2
+62,Boys,The boys,1
+63,Boys,Rancher,3
+64,Boys,Kenny,1
+65,Pete,The boys,2
+66,Pete,Rancher,6
+67,Kenny,Pete,2
+68,Rancher,The boys,3
+69,Kenny,The boys,1
+70,Kenny,Rancher,3

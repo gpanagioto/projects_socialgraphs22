@@ -1,0 +1,38 @@
+,source,target,weight
+0,Cartman,Mr. Garrison,12
+1,Kyle,Stan,21
+2,Cartman,Stan,4
+3,Cartman,Kyle,8
+4,Dispatcher,Officer Barbrady,1
+5,Officer Barbrady,Stan,45
+6,Rancher,Stan,1
+7,Cameraman,Stan,1
+8,Officer Barbrady,Rancher,12
+9,Cameraman,Officer Barbrady,2
+10,Cameraman,Rancher,1
+11,Mr. Garrison,Officer Barbrady,13
+12,Kyle,Officer Barbrady,32
+13,Kyle,Mr. Garrison,4
+14,Mr. Hat,Officer Barbrady,6
+15,Mr. Garrison,Mr. Hat,2
+16,Mr. Garrison,Stan,3
+17,Cartman,Officer Barbrady,9
+18,Kenny,Stan,6
+19,Mayor McDaniels,Stan,6
+20,Kenny,Mayor McDaniels,3
+21,Kenny,Officer Barbrady,7
+22,Kenny,Kyle,3
+23,Mayor McDaniels,Officer Barbrady,11
+24,Kyle,Mayor McDaniels,3
+25,Cartman,Randy,17
+26,Father Maxi,Stan,2
+27,Father Maxi,Mr. Garrison,2
+28,Father Maxi,Officer Barbrady,2
+29,Cartman,Driver,9
+30,Mr. Hat,Stan,1
+31,Kyle,Mr. Hat,2
+32,Cartman,Stuart,14
+33,Carol,Stuart,12
+34,Carol,Cartman,9
+35,Barbrady,Cartman,2
+36,Barbrady,Kyle,1

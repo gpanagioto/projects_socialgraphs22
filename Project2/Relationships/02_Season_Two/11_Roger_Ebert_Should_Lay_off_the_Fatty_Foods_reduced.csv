@@ -1,0 +1,47 @@
+,source,target,weight
+0,Kyle,Mr. Garrison,38
+1,Kyle,Stan,34
+2,Cartman,Kyle,18
+3,Mr. Garrison,Stan,43
+4,Cartman,Mr. Garrison,25
+5,Cartman,Stan,17
+6,Announcer,Cartman,8
+7,Announcer,Kyle,1
+8,Announcer,Mr. Garrison,2
+9,Dr. Adams,Kyle,10
+10,Dr. Adams,Mr. Garrison,9
+11,Cartman,Dr. Adams,5
+12,Dr. Adams,Stan,9
+13,Boy,Kyle,1
+14,Boy,Stan,1
+15,Boy,Mr. Garrison,1
+16,Boy,Cartman,1
+17,Cartman,Liane,4
+18,Clyde,Mr. Garrison,2
+19,Clyde,Dr. Adams,2
+20,A girl,Clyde,2
+21,Clyde,Wendy,2
+22,Clyde,Fosse,2
+23,A girl,Mr. Garrison,1
+24,Mr. Garrison,Wendy,1
+25,Fosse,Mr. Garrison,1
+26,A girl,Dr. Adams,1
+27,Dr. Adams,Wendy,1
+28,Dr. Adams,Fosse,1
+29,A girl,Wendy,1
+30,A girl,Fosse,1
+31,Fosse,Wendy,1
+32,Kyle,Officer Barbrady,7
+33,Officer Barbrady,Stan,16
+34,Cartman,Director,11
+35,Director,Liane,1
+36,Cartman,Stagehand,4
+37,Director,Stagehand,4
+38,Dr. Adams,Officer Barbrady,20
+39,Chef,Stan,2
+40,Chef,Officer Barbrady,6
+41,Chef,Dr. Adams,2
+42,Cartman,Voice-over,2
+43,Mr. Mackey,Stan,2
+44,Mr. Mackey,Officer Barbrady,5
+45,Dr. Adams,Mr. Mackey,2

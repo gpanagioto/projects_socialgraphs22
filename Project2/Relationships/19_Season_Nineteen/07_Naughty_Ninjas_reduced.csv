@@ -1,0 +1,91 @@
+,source,target,weight
+0,Officer Barbrady,Sgt. Yates,1
+1,Officer Barbrady,PC Principal,3
+2,Barbrady,Officer Barbrady,2
+3,Boy,Officer Barbrady,1
+4,PC Principal,Sgt. Yates,3
+5,Barbrady,Sgt. Yates,2
+6,Boy,Sgt. Yates,1
+7,Barbrady,PC Principal,6
+8,Boy,PC Principal,3
+9,Barbrady,Boy,2
+10,Barbrady,Mayor McDaniels,36
+11,Barbrady,Johnson,24
+12,Johnson,Mayor McDaniels,18
+13,Sgt. Yates,Stuart,20
+14,Mitch,Sgt. Yates,4
+15,Carol,Sgt. Yates,8
+16,Mitch,Stuart,5
+17,Carol,Stuart,10
+18,Carol,Mitch,2
+19,Cartman,Stan,31
+20,Kyle,Stan,8
+21,Butters,Stan,8
+22,Cartman,Kyle,26
+23,Butters,Cartman,29
+24,Butters,Kyle,7
+25,Cartman,Tolkien,26
+26,Cartman,Clyde,17
+27,Cartman,Driver,4
+28,Cartman,Passenger,4
+29,Stan,Tolkien,11
+30,Clyde,Stan,4
+31,Driver,Stan,1
+32,Passenger,Stan,1
+33,Clyde,Tolkien,6
+34,Driver,Tolkien,1
+35,Passenger,Tolkien,1
+36,Clyde,Driver,2
+37,Clyde,Passenger,2
+38,Driver,Passenger,1
+39,Patron,Skeeter,2
+40,Randy,Skeeter,4
+41,Patron,Randy,2
+42,Kyle,Tolkien,4
+43,Butters,Tolkien,9
+44,Clyde,Kyle,2
+45,Butters,Clyde,4
+46,Cartman,Reporter,4
+47,Anchor,Cartman,4
+48,Butters,Reporter,1
+49,Reporter,Stan,2
+50,Reporter,Tolkien,1
+51,Anchor,Reporter,1
+52,Anchor,Butters,1
+53,Anchor,Stan,2
+54,Anchor,Tolkien,1
+55,Mayor McDaniels,Randy,14
+56,Gerald,Randy,6
+57,Randy,Stephen,13
+58,Gerald,Mayor McDaniels,5
+59,Mayor McDaniels,Stephen,8
+60,Gerald,Stephen,7
+61,Jimmy,Ryan,2
+62,Mayor McDaniels,Sgt. Yates,6
+63,Randy,Sgt. Yates,6
+64,Barbrady,Randy,35
+65,Barbrady,Stephen,7
+66,Aide,Barbrady,9
+67,Johnson,Randy,5
+68,Aide,Randy,5
+69,Johnson,Stephen,1
+70,Aide,Johnson,2
+71,Aide,Stephen,1
+72,Aide,Mayor McDaniels,3
+73,Randy,Sharon,20
+74,Barbrady,Kyle,10
+75,Kyle,Randy,2
+76,David,Kyle,2
+77,Barbrady,Tolkien,5
+78,Randy,Tolkien,1
+79,David,Tolkien,1
+80,Barbrady,Cartman,5
+81,Cartman,Randy,2
+82,Cartman,David,1
+83,Barbrady,Stan,10
+84,Randy,Stan,2
+85,David,Stan,2
+86,Barbrady,David,5
+87,David,Randy,1
+88,Cartman,Sgt. Yates,3
+89,Cartman,Mayor McDaniels,1

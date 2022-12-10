@@ -1,0 +1,35 @@
+,source,target,weight
+0,Mr. Mackey,Randy,9
+1,Randy,Sharon,16
+2,Nelson,Sharon,3
+3,Nelson,Randy,4
+4,Kyle,Stan,19
+5,Cartman,Stan,5
+6,Cartman,Kyle,334
+7,Jenny,Kyle,15
+8,Ike,Jenny,9
+9,Boy,Jenny,3
+10,Jenny,Stan,3
+11,Ike,Kyle,15
+12,Boy,Kyle,5
+13,Boy,Ike,3
+14,Ike,Stan,3
+15,Boy,Stan,1
+16,Joe,Randy,10
+17,Butters,Kyle,87
+18,Butters,Stan,18
+19,Butters,Cartman,92
+20,Randy,Towelie,23
+21,Joe,Towelie,2
+22,Randy,Stan,21
+23,Kyle,Mr. Mackey,12
+24,Cartman,Mr. Mackey,14
+25,Butters,Mr. Mackey,2
+26,Patron,Randy,2
+27,Kyle,Randy,45
+28,Kyle,Towelie,9
+29,Cartman,Randy,30
+30,Butters,Randy,5
+31,Cartman,Towelie,6
+32,Butters,Towelie,1
+33,Stan,Towelie,1

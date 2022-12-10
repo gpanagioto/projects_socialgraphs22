@@ -1,0 +1,54 @@
+,source,target,weight
+0,Kyle,Stan,35
+1,Cartman,Kyle,22
+2,Cartman,Stan,53
+3,Kenny,Stan,5
+4,Cartman,Kenny,3
+5,Kenny,Kyle,3
+6,Chef,Kyle,20
+7,Cartman,Chef,4
+8,Chef,Pip,29
+9,Chef,Jimbo,19
+10,Clyde,Kyle,3
+11,Clyde,Stan,9
+12,Cartman,Clyde,6
+13,Bill,Fosse,5
+14,Cartman,Mr. Garrison,30
+15,Mr. Garrison,Mr. Hat,14
+16,Mr. Garrison,Stan,23
+17,Cartman,Mr. Hat,10
+18,Mr. Hat,Stan,6
+19,Bill,Stan,4
+20,Fosse,Stan,4
+21,Bill,Cartman,2
+22,Cartman,Fosse,2
+23,Jimbo,Ned,32
+24,Jesus,Stan,4
+25,Kyle,Pip,6
+26,Chef,Stan,3
+27,Chef,Mr. Garrison,11
+28,Chef,Frank,6
+29,Chef,Mr. Hat,2
+30,Frank,Kyle,5
+31,Kyle,Mr. Garrison,1
+32,Kyle,Mr. Hat,1
+33,Jimbo,Kyle,1
+34,Frank,Mr. Garrison,3
+35,Frank,Mr. Hat,2
+36,Frank,Jimbo,6
+37,Jimbo,Mr. Garrison,4
+38,Jimbo,Mr. Hat,1
+39,Big Gay Al,Stan,24
+40,Cartman,Frank,1
+41,Kyle,Phil,1
+42,Frank,Phil,2
+43,Chef,Phil,1
+44,Jimbo,Richard,3
+45,Mr. Garrison,Richard,3
+46,Frank,Townsman,1
+47,Mr. Garrison,Townsman,1
+48,Mr. Hat,Townsman,1
+49,Jimbo,Stan,2
+50,Frank,Stan,8
+51,Crowd,Frank,2
+52,Crowd,Stan,6

@@ -1,0 +1,121 @@
+,source,target,weight
+0,Stan,Wendy,10
+1,Butters,Wendy,8
+2,Clyde,Wendy,6
+3,Red,Wendy,12
+4,Cartman,Wendy,19
+5,Tweek,Wendy,3
+6,Bebe,Wendy,12
+7,Kyle,Wendy,7
+8,Jimmy,Wendy,3
+9,Jason,Wendy,3
+10,Butters,Stan,9
+11,Clyde,Stan,3
+12,Red,Stan,7
+13,Cartman,Stan,15
+14,Stan,Tweek,1
+15,Bebe,Stan,7
+16,Kyle,Stan,5
+17,Jimmy,Stan,1
+18,Jason,Stan,1
+19,Butters,Clyde,2
+20,Butters,Red,4
+21,Butters,Cartman,28
+22,Butters,Tweek,1
+23,Bebe,Butters,4
+24,Butters,Kyle,8
+25,Butters,Jimmy,1
+26,Butters,Jason,4
+27,Clyde,Red,4
+28,Cartman,Clyde,6
+29,Clyde,Tweek,1
+30,Bebe,Clyde,4
+31,Clyde,Kyle,2
+32,Clyde,Jimmy,1
+33,Clyde,Jason,1
+34,Cartman,Red,12
+35,Red,Tweek,1
+36,Bebe,Red,10
+37,Kyle,Red,4
+38,Jimmy,Red,1
+39,Jason,Red,1
+40,Cartman,Tweek,3
+41,Bebe,Cartman,12
+42,Cartman,Kyle,10
+43,Cartman,Jimmy,3
+44,Cartman,Jason,5
+45,Bebe,Tweek,1
+46,Kyle,Tweek,1
+47,Jimmy,Tweek,1
+48,Jason,Tweek,1
+49,Bebe,Kyle,4
+50,Bebe,Jimmy,1
+51,Bebe,Jason,1
+52,Jimmy,Kyle,1
+53,Jason,Kyle,1
+54,Jason,Jimmy,1
+55,Butters,Craig,6
+56,Craig,Jason,2
+57,Cartman,Craig,4
+58,Announcer,Phillip,1
+59,Katherine,Katie,51
+60,Doctor,Katie,20
+61,Cartman,Katie,8
+62,Butters,Katie,4
+63,Doctor,Katherine,20
+64,Cartman,Katherine,8
+65,Butters,Katherine,4
+66,Cartman,Doctor,10
+67,Butters,Doctor,5
+68,Phillip,Terrance,42
+69,Annie,Wendy,6
+70,Annie,Stan,4
+71,Annie,Cartman,6
+72,Annie,Clyde,2
+73,Annie,Red,6
+74,Annie,Butters,2
+75,Annie,Kyle,2
+76,Annie,Bebe,6
+77,Kyle,Stephen,1
+78,Cartman,Stephen,1
+79,Butters,Stephen,2
+80,Stephen,Wendy,1
+81,Stan,Stephen,1
+82,Randy,Sharon,127
+83,Randy,Stan,66
+84,Gerald,Stuart,1
+85,Gerald,Mrs. Testaburger,1
+86,Gerald,Thomas,1
+87,Gerald,Randy,2
+88,Gerald,Principal Victoria,1
+89,Mrs. Testaburger,Stuart,1
+90,Stuart,Thomas,1
+91,Randy,Stuart,2
+92,Principal Victoria,Stuart,1
+93,Mrs. Testaburger,Thomas,1
+94,Mrs. Testaburger,Randy,2
+95,Mrs. Testaburger,Principal Victoria,1
+96,Randy,Thomas,2
+97,Principal Victoria,Thomas,1
+98,Principal Victoria,Randy,2
+99,Katherine,Kelly,3
+100,Katie,Kelly,2
+101,Brian,Terrance,1
+102,Brian,Phillip,1
+103,Sharon,Stan,49
+104,Sharon,Shelly,10
+105,Randy,Shelly,11
+106,Shelly,Stan,4
+107,Katherine,Phillip,33
+108,Katherine,Terrance,46
+109,Katie,Phillip,24
+110,Katie,Terrance,34
+111,Cartman,Randy,7
+112,Cartman,Males,2
+113,Males,Stan,1
+114,Males,Randy,3
+115,Mr. Mackey,Randy,1
+116,Cartman,Mr. Mackey,1
+117,Mr. Garrison,Mr. Mackey,1
+118,Mr. Garrison,Randy,1
+119,Cartman,Mr. Garrison,1

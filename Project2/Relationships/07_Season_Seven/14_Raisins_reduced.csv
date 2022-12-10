@@ -1,0 +1,98 @@
+,source,target,weight
+0,Cartman,Stan,41
+1,Bebe,Cartman,30
+2,Butters,Cartman,22
+3,Cartman,Kyle,24
+4,Bebe,Stan,22
+5,Butters,Stan,95
+6,Kyle,Stan,172
+7,Bebe,Butters,5
+8,Bebe,Kyle,5
+9,Butters,Kyle,55
+10,Kyle,Wendy,27
+11,Jimmy,Kyle,78
+12,Stan,Wendy,36
+13,Jimmy,Stan,101
+14,Jimmy,Wendy,24
+15,Butters,Wendy,9
+16,Cartman,Wendy,3
+17,Butters,Jimmy,33
+18,Cartman,Jimmy,11
+19,Blonde,Brunette,1
+20,Brunette,Kyle,3
+21,Brunette,Jimmy,1
+22,Brunette,Butters,4
+23,Brunette,Cartman,2
+24,Brunette,Lexus,6
+25,Brunette,The boys,1
+26,Brunette,Porsche,1
+27,Blonde,Kyle,3
+28,Blonde,Jimmy,1
+29,Blonde,Butters,4
+30,Blonde,Cartman,2
+31,Blonde,Lexus,6
+32,Blonde,The boys,1
+33,Blonde,Porsche,1
+34,Kyle,Lexus,30
+35,Kyle,The boys,3
+36,Kyle,Porsche,9
+37,Jimmy,Lexus,10
+38,Jimmy,The boys,1
+39,Jimmy,Porsche,3
+40,Butters,Lexus,206
+41,Butters,The boys,4
+42,Butters,Porsche,53
+43,Cartman,Lexus,16
+44,Cartman,The boys,2
+45,Cartman,Porsche,4
+46,Lexus,The boys,6
+47,Lexus,Porsche,32
+48,Porsche,The boys,1
+49,Cartman,Raisins girl,1
+50,Porsche,Stan,10
+51,Porsche,Raisins girl,11
+52,Lexus,Stan,20
+53,Raisins girl,Stan,5
+54,Kyle,Raisins girl,3
+55,Lexus,Raisins girl,14
+56,Butters,Raisins girl,26
+57,Jimmy,Raisins girl,1
+58,Butters,Maury,16
+59,Lexus,Maury,16
+60,Henrietta,Michael,16
+61,Michael,Stan,31
+62,Michael,Pete,17
+63,Henrietta,Stan,24
+64,Henrietta,Pete,13
+65,Pete,Stan,44
+66,Mercedes,Porsche,14
+67,Mercedes,Raisins girl,8
+68,Butters,Mercedes,33
+69,Lexus,Mercedes,16
+70,Butters,Stephen,60
+71,Linda,Stephen,40
+72,Chris,Stephen,8
+73,Butters,Linda,78
+74,Butters,Chris,12
+75,Chris,Linda,8
+76,Kyle,Michael,6
+77,Kyle,Pete,24
+78,Henrietta,Kyle,6
+79,Linda,Mercedes,18
+80,Mercedes,Stephen,12
+81,Boy,Mercedes,3
+82,Boy,Butters,9
+83,Linda,Raisins girl,12
+84,Raisins girl,Stephen,8
+85,Boy,Raisins girl,2
+86,Boy,Linda,6
+87,Linda,Porsche,24
+88,Lexus,Linda,24
+89,Boy,Stephen,4
+90,Porsche,Stephen,16
+91,Lexus,Stephen,16
+92,Boy,Porsche,4
+93,Boy,Lexus,4
+94,Butters,Pete,18
+95,Butters,Michael,18
+96,Butters,Henrietta,6

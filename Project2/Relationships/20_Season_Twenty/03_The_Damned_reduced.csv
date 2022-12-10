@@ -1,0 +1,33 @@
+,source,target,weight
+0,Gerald,Officer,6
+1,Kyle,Officer,2
+2,Gerald,Kyle,12
+3,Clyde,Tolkien,1
+4,Clyde,Craig,1
+5,Clyde,Kyle,1
+6,Butters,Clyde,2
+7,Clyde,Jimmy,1
+8,Craig,Tolkien,1
+9,Kyle,Tolkien,1
+10,Butters,Tolkien,2
+11,Jimmy,Tolkien,1
+12,Craig,Kyle,1
+13,Butters,Craig,2
+14,Craig,Jimmy,1
+15,Butters,Kyle,2
+16,Jimmy,Kyle,1
+17,Butters,Jimmy,2
+18,Randy,Stan,2
+19,Sharon,Stan,1
+20,Randy,Sharon,2
+21,Butters,PC Principal,1
+22,Cartman,Heidi,46
+23,Cartman,Driver,4
+24,Driver,Heidi,4
+25,Randy,Stephen,70
+26,Garrison,Randy,6
+27,Gerald,Patron,2
+28,Field Reporter,Patron,1
+29,Field Reporter,Gerald,2
+30,Berries,Randy,2
+31,Gerald,Ike,1

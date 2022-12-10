@@ -1,0 +1,36 @@
+,source,target,weight
+0,Class,Mr. Garrison,11
+1,Cartman,Class,3
+2,Class,Kyle,1
+3,Class,Mr. Mackey,10
+4,Class,Stan,1
+5,Cartman,Mr. Garrison,41
+6,Kyle,Mr. Garrison,18
+7,Mr. Garrison,Mr. Mackey,119
+8,Mr. Garrison,Stan,16
+9,Cartman,Kyle,91
+10,Cartman,Mr. Mackey,93
+11,Cartman,Stan,80
+12,Kyle,Mr. Mackey,53
+13,Kyle,Stan,63
+14,Mr. Mackey,Stan,40
+15,Cartman,Kenny,32
+16,Kenny,Kyle,22
+17,Kenny,Stan,16
+18,Kenny,Mr. Garrison,3
+19,Kenny,Mr. Mackey,26
+20,Kenny,Mr. Hat,15
+21,Kenny,Ms. Crabtree,3
+22,Cartman,Mr. Hat,35
+23,Cartman,Ms. Crabtree,7
+24,Kyle,Mr. Hat,20
+25,Kyle,Ms. Crabtree,4
+26,Mr. Hat,Stan,15
+27,Ms. Crabtree,Stan,3
+28,Mr. Garrison,Mr. Hat,5
+29,Mr. Garrison,Ms. Crabtree,1
+30,Mr. Hat,Mr. Mackey,40
+31,Mr. Mackey,Ms. Crabtree,8
+32,Mr. Hat,Ms. Crabtree,5
+33,Mr. Garrison,Reporter,6
+34,Bartender,Blond,6

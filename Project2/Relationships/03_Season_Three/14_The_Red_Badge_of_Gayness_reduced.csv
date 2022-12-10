@@ -1,0 +1,125 @@
+,source,target,weight
+0,Cartman,Kyle,194
+1,Cartman,Stan,130
+2,Cartman,Kenny,20
+3,Kyle,Stan,125
+4,Kenny,Kyle,10
+5,Kenny,Stan,4
+6,Men,Stan,28
+7,Kyle,Men,33
+8,Jimbo,Men,29
+9,Men,Mr. Garrison,5
+10,Men,Stuart,4
+11,Cartman,Men,43
+12,Grandpa,Men,3
+13,Jimbo,Stan,72
+14,Mr. Garrison,Stan,16
+15,Stan,Stuart,10
+16,Grandpa,Stan,25
+17,Jimbo,Kyle,83
+18,Kyle,Mr. Garrison,22
+19,Kyle,Stuart,14
+20,Grandpa,Kyle,19
+21,Jimbo,Mr. Garrison,46
+22,Jimbo,Stuart,24
+23,Cartman,Jimbo,189
+24,Grandpa,Jimbo,29
+25,Mr. Garrison,Stuart,6
+26,Cartman,Mr. Garrison,44
+27,Grandpa,Mr. Garrison,4
+28,Cartman,Stuart,27
+29,Grandpa,Stuart,1
+30,Cartman,Grandpa,21
+31,Grandpa,Randy,32
+32,Grandpa,Ned,4
+33,Gerald,Grandpa,12
+34,Jimbo,Randy,81
+35,Jimbo,Ned,5
+36,Gerald,Jimbo,24
+37,Ned,Randy,7
+38,Cartman,Randy,73
+39,Gerald,Randy,19
+40,Randy,Stan,25
+41,Cartman,Ned,7
+42,Gerald,Ned,2
+43,Ned,Stan,3
+44,Cartman,Gerald,19
+45,Gerald,Stan,12
+46,Gerald,Mr. Garrison,7
+47,Gerald,Kyle,10
+48,Barbrady,Gerald,1
+49,Mr. Garrison,Randy,18
+50,Barbrady,Mr. Garrison,1
+51,Kyle,Randy,22
+52,Barbrady,Randy,4
+53,Barbrady,Grandpa,2
+54,Barbrady,Kyle,1
+55,Barbrady,Stan,1
+56,Barbrady,Cartman,1
+57,Barbrady,Jimbo,3
+58,Bartender,Randy,4
+59,Randy,Stuart,10
+60,Men,Randy,6
+61,Kenny,Randy,4
+62,Bartender,Jimbo,9
+63,Jimbo,Kenny,9
+64,Bartender,Cartman,9
+65,Bartender,Kyle,3
+66,Bartender,Stan,1
+67,Bartender,Mr. Garrison,2
+68,Kenny,Mr. Garrison,2
+69,Bartender,Gerald,1
+70,Bartender,Stuart,1
+71,Bartender,Men,1
+72,Bartender,Kenny,1
+73,Gerald,Stuart,3
+74,Gerald,Men,1
+75,Gerald,Kenny,1
+76,Kenny,Stuart,1
+77,Kenny,Men,1
+78,Driver,Jimbo,1
+79,Butters,Kyle,12
+80,Butters,Stan,15
+81,Brunet,Grandpa,3
+82,Blond,Grandpa,3
+83,Grandpa,Soldier,3
+84,Blond,Brunet,1
+85,Brunet,Stan,3
+86,Brunet,Randy,1
+87,Brunet,Kyle,2
+88,Brunet,Gerald,2
+89,Brunet,Jimbo,2
+90,Brunet,Soldier,1
+91,Blond,Stan,3
+92,Blond,Randy,1
+93,Blond,Kyle,2
+94,Blond,Gerald,2
+95,Blond,Jimbo,2
+96,Blond,Soldier,1
+97,Soldier,Stan,3
+98,Randy,Soldier,1
+99,Kyle,Soldier,2
+100,Gerald,Soldier,2
+101,Jimbo,Soldier,2
+102,Mr. Garrison,Ned,1
+103,Ned,Stuart,1
+104,Kyle,Ned,1
+105,Mr. Garrison,Soldiers,3
+106,Gerald,Soldiers,1
+107,Randy,Soldiers,1
+108,Cartman,Soldiers,1
+109,Jimbo,Soldiers,1
+110,Soldiers,Stan,1
+111,Kyle,Soldiers,1
+112,Cartman,Guide,5
+113,Guide,Jimbo,4
+114,Guide,Men,2
+115,Guide,Randy,1
+116,Guide,Stan,3
+117,Guide,Leader,1
+118,Cartman,Leader,5
+119,Jimbo,Leader,4
+120,Leader,Men,2
+121,Leader,Randy,1
+122,Leader,Stan,3
+123,Aide,Al Gore,4

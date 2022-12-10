@@ -1,0 +1,30 @@
+,source,target,weight
+0,Randy,Stan,7
+1,Chet,Stan,6
+2,Girl,Stan,3
+3,Chet,Randy,4
+4,Girl,Randy,2
+5,Chet,Girl,2
+6,Cartman,Stan,267
+7,Cartman,Kyle,8
+8,Cartman,Kenny,54
+9,Kyle,Stan,12
+10,Kenny,Stan,85
+11,Kenny,Kyle,2
+12,Butters,Stan,6
+13,Captain,Stan,88
+14,Captain,Luke,22
+15,Luke,Stan,60
+16,Announcer,Stan,114
+17,Cartman,Luke,24
+18,Kenny,Luke,8
+19,Announcer,Luke,12
+20,Announcer,Cartman,72
+21,Announcer,Kenny,24
+22,Cartman,Guard,2
+23,Cartman,Emperor Akihito,14
+24,Guard,Stan,3
+25,Emperor Akihito,Stan,18
+26,Emperor Akihito,Guard,4
+27,Guard,Kenny,1
+28,Emperor Akihito,Kenny,4

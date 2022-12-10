@@ -1,0 +1,48 @@
+,source,target,weight
+0,Cartman,Liane,4
+1,Cartman,Kenny,3
+2,Cartman,Stan,44
+3,Kyle,Stan,48
+4,Cartman,Kyle,58
+5,Carol,Kenny,4
+6,Kenny,Stuart,2
+7,Carol,Stuart,12
+8,Carol,Driver,1
+9,Driver,Kenny,1
+10,Kenny,Peter,12
+11,Michael,Peter,1
+12,Kenny,Michael,3
+13,Gabriel,Kenny,1
+14,Gabriel,Michael,11
+15,Doctor,Stuart,10
+16,Carol,Doctor,11
+17,Lawyer,Stan,24
+18,Kyle,Lawyer,18
+19,Cartman,Lawyer,24
+20,Doctor,Kyle,10
+21,Carol,Kyle,12
+22,Kyle,Stuart,6
+23,Doctor,Stan,2
+24,Carol,Stan,4
+25,Stan,Stuart,2
+26,Cartman,Doctor,10
+27,Carol,Cartman,16
+28,Cartman,Stuart,8
+29,Gabriel,Kyle,12
+30,Gabriel,Stan,10
+31,Skeeter,Stan,1
+32,Anchor,Stan,2
+33,Mrs. Garrison,Stan,1
+34,Gabriel,Skeeter,1
+35,Anchor,Skeeter,2
+36,Mrs. Garrison,Skeeter,1
+37,Cartman,Skeeter,1
+38,Anchor,Gabriel,2
+39,Gabriel,Mrs. Garrison,1
+40,Cartman,Gabriel,1
+41,Anchor,Mrs. Garrison,2
+42,Anchor,Cartman,2
+43,Cartman,Mrs. Garrison,1
+44,Cartman,Judge,9
+45,Judge,Kyle,12
+46,Judge,Stan,9

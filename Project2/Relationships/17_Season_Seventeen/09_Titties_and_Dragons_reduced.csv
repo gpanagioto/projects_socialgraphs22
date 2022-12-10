@@ -1,0 +1,58 @@
+,source,target,weight
+0,Cartman,Clyde,10
+1,Clyde,Kyle,9
+2,Clyde,Liane,1
+3,Cartman,Kyle,110
+4,Cartman,Liane,5
+5,Kyle,Liane,4
+6,Craig,Jimmy,4
+7,Craig,Stan,28
+8,Craig,Pete,8
+9,Craig,Kyle,20
+10,Cartman,Craig,12
+11,Clyde,Craig,4
+12,Jimmy,Stan,9
+13,Jimmy,Pete,2
+14,Jimmy,Kyle,6
+15,Cartman,Jimmy,8
+16,Clyde,Jimmy,1
+17,Pete,Stan,14
+18,Kyle,Stan,100
+19,Cartman,Stan,105
+20,Clyde,Stan,7
+21,Kyle,Pete,10
+22,Cartman,Pete,6
+23,Clyde,Pete,2
+24,Cartman,Kenny,13
+25,Stan,Thompson,36
+26,Cartman,Thompson,66
+27,Cartman,Manager,28
+28,Kyle,Manager,16
+29,Kyle,Sharon,8
+30,Sharon,Stan,7
+31,Crowd,Manager,2
+32,Crowd,Pete,1
+33,Manager,Pete,2
+34,Clyde,Kenny,1
+35,Gates,Kyle,7
+36,Kenny,Kyle,7
+37,Cartman,Gates,10
+38,Gates,Kenny,1
+39,Gates,Stan,2
+40,Kenny,Stan,1
+41,Butters,Gates,2
+42,Butters,Cartman,6
+43,Randy,Rick,2
+44,Rick,Sharon,1
+45,Randy,Sharon,2
+46,Cartman,Randy,2
+47,Randy,Stan,1
+48,Gates,Randy,1
+49,Butters,Stan,2
+50,Stan,The boys,4
+51,Butters,Jimmy,1
+52,Butters,Kyle,1
+53,Butters,The boys,2
+54,Jimmy,The boys,2
+55,Cartman,The boys,10
+56,Kyle,The boys,2

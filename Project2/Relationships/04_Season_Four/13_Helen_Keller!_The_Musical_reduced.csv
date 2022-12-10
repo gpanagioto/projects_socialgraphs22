@@ -1,0 +1,99 @@
+,source,target,weight
+0,Kyle,Wendy,29
+1,Kyle,Stan,39
+2,Kyle,Timmy,68
+3,Cartman,Kyle,99
+4,Bebe,Kyle,17
+5,Butters,Kyle,20
+6,Clyde,Kyle,27
+7,Kyle,Tolkien,11
+8,Kids,Kyle,27
+9,Stan,Wendy,26
+10,Timmy,Wendy,15
+11,Cartman,Wendy,40
+12,Bebe,Wendy,10
+13,Butters,Wendy,14
+14,Clyde,Wendy,13
+15,Tolkien,Wendy,6
+16,Kids,Wendy,13
+17,Stan,Timmy,20
+18,Cartman,Stan,52
+19,Bebe,Stan,12
+20,Butters,Stan,17
+21,Clyde,Stan,16
+22,Stan,Tolkien,7
+23,Kids,Stan,15
+24,Cartman,Timmy,89
+25,Bebe,Timmy,15
+26,Butters,Timmy,11
+27,Clyde,Timmy,26
+28,Timmy,Tolkien,6
+29,Kids,Timmy,17
+30,Bebe,Cartman,34
+31,Butters,Cartman,30
+32,Cartman,Clyde,67
+33,Cartman,Tolkien,16
+34,Cartman,Kids,39
+35,Bebe,Butters,10
+36,Bebe,Clyde,12
+37,Bebe,Tolkien,4
+38,Bebe,Kids,9
+39,Butters,Clyde,11
+40,Butters,Tolkien,5
+41,Butters,Kids,10
+42,Clyde,Tolkien,4
+43,Clyde,Kids,8
+44,Kids,Tolkien,7
+45,Kyle,Rancher,42
+46,Rancher,Timmy,24
+47,Cartman,Liane,9
+48,Cartman,Others,10
+49,Clyde,Others,4
+50,Bebe,Others,1
+51,Others,Timmy,4
+52,Kyle,Others,2
+53,Boy,Timmy,2
+54,Father,Timmy,1
+55,Elderly man,Timmy,1
+56,Heidi,Timmy,1
+57,Kelly,Timmy,1
+58,Boy,Father,2
+59,Boy,Elderly man,2
+60,Boy,Heidi,2
+61,Boy,Kelly,2
+62,Elderly man,Father,1
+63,Father,Heidi,1
+64,Father,Kelly,1
+65,Elderly man,Heidi,1
+66,Elderly man,Kelly,1
+67,Heidi,Kelly,1
+68,Sharon,Sheila,3
+69,Gerald,Sheila,4
+70,Randy,Sheila,2
+71,Gerald,Sharon,2
+72,Randy,Sharon,1
+73,Gerald,Randy,2
+74,Mr. Mackey,Principal Victoria,2
+75,Mr. Garrison,Mr. Mackey,1
+76,Kids,Mr. Mackey,1
+77,Mr. Mackey,Sheila,1
+78,Mr. Mackey,Sharon,1
+79,Mr. Garrison,Principal Victoria,2
+80,Kids,Principal Victoria,3
+81,Principal Victoria,Sheila,2
+82,Principal Victoria,Sharon,2
+83,Kids,Mr. Garrison,1
+84,Mr. Garrison,Sheila,1
+85,Mr. Garrison,Sharon,1
+86,Kids,Sheila,1
+87,Kids,Sharon,1
+88,Cartman,Principal Victoria,3
+89,Jimbo,Timmy,9
+90,Bebe,Jimbo,1
+91,Bebe,Principal Victoria,1
+92,Jimbo,Kids,1
+93,Principal Victoria,Timmy,3
+94,Cartman,Jimbo,2
+95,Jimbo,Kyle,1
+96,Jimbo,Principal Victoria,1
+97,Kyle,Principal Victoria,1

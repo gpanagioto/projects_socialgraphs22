@@ -1,0 +1,99 @@
+,source,target,weight
+0,Butters,Kyle,2
+1,Butters,Clyde,3
+2,Butters,Stan,15
+3,Butters,Cartman,3
+4,Butters,Jason,1
+5,Butters,Jimmy,1
+6,Butters,Craig,1
+7,Clyde,Kyle,1
+8,Kyle,Stan,39
+9,Cartman,Kyle,31
+10,Jason,Kyle,1
+11,Jimmy,Kyle,2
+12,Craig,Kyle,1
+13,Clyde,Stan,1
+14,Cartman,Clyde,1
+15,Clyde,Jason,1
+16,Clyde,Jimmy,1
+17,Clyde,Craig,1
+18,Cartman,Stan,44
+19,Jason,Stan,1
+20,Jimmy,Stan,23
+21,Craig,Stan,1
+22,Cartman,Jason,1
+23,Cartman,Jimmy,4
+24,Cartman,Craig,1
+25,Jason,Jimmy,1
+26,Craig,Jason,1
+27,Craig,Jimmy,1
+28,Bebe,Red,2
+29,Cartman,Red,2
+30,Red,Stan,3
+31,Heidi,Red,1
+32,Butters,Red,1
+33,Kids,Red,1
+34,Bridon,Red,2
+35,Kyle,Red,1
+36,Bebe,Cartman,6
+37,Bebe,Stan,18
+38,Bebe,Heidi,2
+39,Bebe,Butters,3
+40,Bebe,Kids,4
+41,Bebe,Bridon,16
+42,Bebe,Kyle,4
+43,Cartman,Heidi,2
+44,Cartman,Kids,11
+45,Bridon,Cartman,4
+46,Heidi,Stan,3
+47,Kids,Stan,28
+48,Bridon,Stan,151
+49,Butters,Heidi,1
+50,Heidi,Kids,1
+51,Bridon,Heidi,2
+52,Heidi,Kyle,1
+53,Butters,Kids,3
+54,Bridon,Butters,16
+55,Bridon,Kids,26
+56,Kids,Kyle,4
+57,Bridon,Kyle,2
+58,Kenny,Stan,20
+59,Kenny,Kyle,14
+60,Cartman,Kenny,13
+61,Kyle,Mr. Garrison,4
+62,Kyle,Wendy,4
+63,Class,Kyle,6
+64,Cartman,Mr. Garrison,4
+65,Cartman,Wendy,4
+66,Cartman,Class,6
+67,Mr. Garrison,Stan,2
+68,Stan,Wendy,37
+69,Class,Stan,3
+70,Mr. Garrison,Wendy,4
+71,Bebe,Mr. Garrison,2
+72,Class,Mr. Garrison,6
+73,Bebe,Wendy,2
+74,Class,Wendy,6
+75,Bebe,Class,3
+76,Jimmy,Wendy,15
+77,Kids,Lola,2
+78,Lola,Stan,11
+79,Butters,Lola,1
+80,Bebe,Lola,1
+81,Bridon,Lola,12
+82,Bridon,Mr. Gueermo,146
+83,Jimmy,Kids,3
+84,Bridon,Jason,4
+85,Bridon,Mr. Mackey,5
+86,Jason,Mr. Gueermo,9
+87,Jason,Mr. Mackey,1
+88,Mr. Gueermo,Mr. Mackey,9
+89,Mr. Gueermo,Stan,1
+90,Scott,Stan,12
+91,Kyle,Scott,8
+92,Cartman,Scott,11
+93,Kenny,Scott,5
+94,Butters,Wendy,2
+95,Clyde,Wendy,1
+96,Bridon,Clyde,1
+97,Bridon,Wendy,1

@@ -1,0 +1,83 @@
+,source,target,weight
+0,Sharon,Stan,19
+1,Randy,Stan,7
+2,Shelly,Stan,4
+3,Randy,Sharon,9
+4,Sharon,Shelly,8
+5,Randy,Shelly,2
+6,Cartman,Liane,117
+7,Kyle,Liane,105
+8,Liane,Stuart,8
+9,Kenny,Liane,4
+10,Liane,Stan,63
+11,Liane,Sheila,4
+12,Cartman,Kyle,199
+13,Cartman,Stuart,8
+14,Cartman,Kenny,12
+15,Cartman,Stan,144
+16,Cartman,Sheila,4
+17,Kyle,Stuart,4
+18,Kenny,Kyle,9
+19,Kyle,Stan,141
+20,Kyle,Sheila,2
+21,Kenny,Stuart,2
+22,Stan,Stuart,8
+23,Sheila,Stuart,2
+24,Kenny,Stan,9
+25,Kenny,Sheila,1
+26,Sheila,Stan,4
+27,Grandpa,Liane,20
+28,Grandpa,Kyle,29
+29,Cartman,Grandpa,24
+30,Grandpa,Stan,20
+31,Announcer,Stan,1
+32,Announcer,Cartman,20
+33,Announcer,Kyle,1
+34,Announcer,Reporter,1
+35,Cartman,Reporter,2
+36,Liane,Randy,3
+37,Liane,Sharon,12
+38,Liane,Shelly,3
+39,Kid,Stan,5
+40,Kid,Kyle,10
+41,Cartman,Kid,4
+42,Kenny,Kid,1
+43,Kids,Kyle,24
+44,Girl,Kyle,12
+45,Kyle,Mother,6
+46,Kids,Stan,12
+47,Girl,Stan,6
+48,Mother,Stan,3
+49,Girl,Kids,8
+50,Kids,Mother,4
+51,Kid,Kids,4
+52,Girl,Mother,2
+53,Girl,Kid,2
+54,Kid,Mother,1
+55,Cartman,The Boys,4
+56,Cartman,Officer,8
+57,Kyle,The Boys,3
+58,Kyle,Officer,7
+59,Stan,The Boys,3
+60,Officer,Stan,7
+61,Kenny,The Boys,1
+62,Kenny,Officer,2
+63,Officer,The Boys,2
+64,Cartman,Terrance,1
+65,Cartman,Phillip,1
+66,Stan,Terrance,1
+67,Phillip,Stan,1
+68,Phillip,Terrance,5
+69,Officer,Police Chief,1
+70,Kyle,Sharon,3
+71,Robert Pooner,Stan,4
+72,Kyle,Randy,2
+73,Kyle,Robert Pooner,2
+74,Grandpa,Sharon,1
+75,Grandpa,Randy,1
+76,Grandpa,Robert Pooner,1
+77,Cartman,Sharon,1
+78,Cartman,Randy,1
+79,Cartman,Robert Pooner,1
+80,Robert Pooner,Sharon,1
+81,Randy,Robert Pooner,1

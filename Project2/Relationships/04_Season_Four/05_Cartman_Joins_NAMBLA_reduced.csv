@@ -1,0 +1,92 @@
+,source,target,weight
+0,Cartman,Stan,104
+1,Kyle,Stan,70
+2,Carol,Stan,11
+3,Kenny,Stan,11
+4,Stan,Stuart,10
+5,Cartman,Kyle,104
+6,Carol,Cartman,13
+7,Cartman,Kenny,13
+8,Cartman,Stuart,14
+9,Carol,Kyle,11
+10,Kenny,Kyle,11
+11,Kyle,Stuart,13
+12,Carol,Kenny,33
+13,Carol,Stuart,27
+14,Kenny,Stuart,27
+15,Cartman,Tony,36
+16,Agent,Tony,12
+17,Agent,Cartman,20
+18,Dad,Mom,9
+19,Dad,Kenny,3
+20,Kenny,Mom,3
+21,Cartman,Mr. Garrison,20
+22,Agent,Mr. Garrison,10
+23,Mr. Garrison,Officer Barbrady,18
+24,Officer Barbrady,Tony,12
+25,Mr. Garrison,Tony,6
+26,Cartman,Dr. Mephesto,25
+27,Cartman,Members,6
+28,Announcer,Kenny,2
+29,Dr. Doctor,Kenny,6
+30,Carol,Dr. Doctor,9
+31,Dr. Doctor,Stuart,3
+32,Butters,Stan,10
+33,Mr. Harris,Stan,3
+34,Stan,Timmy,6
+35,Butters,Cartman,32
+36,Cartman,Mr. Harris,2
+37,Cartman,Timmy,9
+38,Butters,Kyle,6
+39,Kyle,Mr. Harris,1
+40,Kyle,Timmy,3
+41,Butters,Mr. Harris,2
+42,Butters,Timmy,6
+43,Mr. Harris,Timmy,1
+44,Mephesto,Mr. Garrison,6
+45,Blond Member,Mephesto,6
+46,Members,Mephesto,12
+47,Blond Member,Mr. Garrison,1
+48,Members,Mr. Garrison,2
+49,Blond Member,Members,2
+50,Mephesto,Stan,6
+51,Stan,Waiter,10
+52,Stan,The Boys,7
+53,Agent,Stan,2
+54,Kyle,Mephesto,3
+55,Kyle,Waiter,5
+56,Kyle,The Boys,8
+57,Agent,Kyle,1
+58,Mephesto,Waiter,15
+59,Mephesto,The Boys,6
+60,Carol,Mephesto,6
+61,Kenny,Mephesto,6
+62,Mephesto,Stuart,3
+63,Mephesto,Timmy,3
+64,Agent,Mephesto,3
+65,The Boys,Waiter,10
+66,Carol,Waiter,10
+67,Kenny,Waiter,10
+68,Stuart,Waiter,5
+69,Timmy,Waiter,5
+70,Agent,Waiter,5
+71,Carol,The Boys,4
+72,Kenny,The Boys,4
+73,Stuart,The Boys,3
+74,The Boys,Timmy,3
+75,Agent,The Boys,2
+76,Carol,Timmy,2
+77,Agent,Carol,2
+78,Kenny,Timmy,2
+79,Agent,Kenny,2
+80,Stuart,Timmy,1
+81,Agent,Stuart,1
+82,Agent,Timmy,1
+83,Cartman,Tolkien,7
+84,Cartman,The Boys,10
+85,Timmy,Tolkien,1
+86,Stan,Tolkien,1
+87,The Boys,Tolkien,1
+88,Kyle,Tolkien,1
+89,Butters,Tolkien,4
+90,Butters,The Boys,4

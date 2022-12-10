@@ -1,0 +1,94 @@
+,source,target,weight
+0,Ike,Kyle,15
+1,Gerald,Ike,7
+2,Harry,Ike,12
+3,Elise,Ike,5
+4,Ike,Sheila,1
+5,Gerald,Kyle,7
+6,Harry,Kyle,23
+7,Elise,Kyle,12
+8,Kyle,Sheila,3
+9,Gerald,Harry,32
+10,Elise,Gerald,16
+11,Gerald,Sheila,26
+12,Elise,Harry,16
+13,Harry,Sheila,21
+14,Elise,Sheila,11
+15,Kyle,Stan,95
+16,Cartman,Stan,71
+17,Cartman,Kyle,120
+18,Mayor McDaniels,Mr. Garrison,6
+19,Chef,Mayor McDaniels,3
+20,Cartman,Mayor McDaniels,9
+21,Liane,Mayor McDaniels,3
+22,Mayor McDaniels,Randy,3
+23,Mayor McDaniels,Stan,3
+24,Chef,Mr. Garrison,2
+25,Cartman,Mr. Garrison,6
+26,Liane,Mr. Garrison,2
+27,Mr. Garrison,Randy,2
+28,Mr. Garrison,Stan,2
+29,Cartman,Chef,3
+30,Chef,Liane,1
+31,Chef,Randy,1
+32,Chef,Stan,1
+33,Cartman,Liane,3
+34,Cartman,Randy,3
+35,Liane,Randy,1
+36,Liane,Stan,1
+37,Randy,Stan,1
+38,Cartman,Kenny,12
+39,Kenny,Kyle,19
+40,Kenny,Stan,7
+41,Doctor,Kyle,35
+42,Kyle,Scott,79
+43,Kyle,Priest,7
+44,Cartman,Doctor,10
+45,Doctor,Scott,20
+46,Doctor,Priest,5
+47,Doctor,Stan,5
+48,Cartman,Scott,38
+49,Cartman,Priest,2
+50,Priest,Scott,4
+51,Scott,Stan,26
+52,Priest,Stan,1
+53,Kyle,Rick,86
+54,Rick,Stan,37
+55,Cartman,Rick,47
+56,Rick,Scott,55
+57,Cartman,Steve,32
+58,Rick,Steve,56
+59,Scott,Steve,36
+60,Kyle,Steve,51
+61,Stan,Steve,23
+62,Kenny,Steve,3
+63,Kyle,Saddam Hussein,16
+64,Ike,Scott,3
+65,Kenny,Scott,3
+66,Saddam Hussein,Scott,6
+67,Harry,Scott,6
+68,Elise,Scott,3
+69,Ike,Rick,4
+70,Ike,Steve,2
+71,Ike,Kenny,1
+72,Ike,Stan,2
+73,Ike,Saddam Hussein,2
+74,Cartman,Ike,3
+75,Kenny,Rick,4
+76,Rick,Saddam Hussein,8
+77,Harry,Rick,8
+78,Elise,Rick,4
+79,Saddam Hussein,Steve,4
+80,Harry,Steve,4
+81,Elise,Steve,2
+82,Kenny,Saddam Hussein,2
+83,Harry,Kenny,2
+84,Elise,Kenny,1
+85,Saddam Hussein,Stan,4
+86,Harry,Stan,4
+87,Elise,Stan,2
+88,Harry,Saddam Hussein,4
+89,Elise,Saddam Hussein,2
+90,Cartman,Saddam Hussein,6
+91,Cartman,Harry,6
+92,Cartman,Elise,3

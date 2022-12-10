@@ -1,0 +1,36 @@
+,source,target,weight
+0,Cartman,Mr. Garrison,6
+1,Kyle,Mr. Garrison,12
+2,Mr. Garrison,Stan,6
+3,Kid,Mr. Garrison,6
+4,Cartman,Kyle,40
+5,Cartman,Stan,37
+6,Cartman,Kid,1
+7,Kyle,Stan,56
+8,Kid,Kyle,2
+9,Kid,Stan,1
+10,Boys,Chef,7
+11,Boys,Kyle,3
+12,Boys,Cartman,2
+13,Boys,Stan,2
+14,Chef,Kyle,47
+15,Cartman,Chef,21
+16,Chef,Stan,26
+17,Gerald,Prosecutor,1
+18,Chef,Gerald,4
+19,Dr. Doctor,Mr. Garrison,6
+20,Elton John,Kyle,11
+21,Cartman,Elton John,11
+22,Elton John,Stan,26
+23,Chef,Sheila,1
+24,Chef,Mayor McDaniels,2
+25,Chef,Mayor,2
+26,Mayor,Mayor McDaniels,1
+27,Mr. Garrison,Officer Barbrady,5
+28,Chef,Officer,1
+29,Barbrady,Dr. Doctor,1
+30,Barbrady,Mr. Garrison,2
+31,Chef,Mr. Garrison,7
+32,Kyle,Teen MC,3
+33,Cartman,Teen MC,2
+34,Chef,Reporter,2

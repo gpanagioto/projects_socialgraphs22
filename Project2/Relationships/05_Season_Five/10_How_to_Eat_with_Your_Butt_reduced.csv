@@ -1,0 +1,54 @@
+,source,target,weight
+0,Kyle,Stan,81
+1,Butters,Stan,34
+2,Cartman,Stan,80
+3,Ms. Choksondik,Stan,4
+4,Butters,Kyle,42
+5,Cartman,Kyle,129
+6,Kyle,Ms. Choksondik,16
+7,Butters,Cartman,42
+8,Butters,Ms. Choksondik,37
+9,Cartman,Ms. Choksondik,63
+10,Kenny,Ms. Choksondik,14
+11,Cartman,Kenny,14
+12,Butters,Kenny,10
+13,Cartman,Receptionist,35
+14,Receptionist,Steven,83
+15,Cartman,Steven,28
+16,Stan,Steven,22
+17,Receptionist,Stan,5
+18,Kyle,Steven,23
+19,Kyle,Receptionist,4
+20,Stan,Tolkien,4
+21,Linda,Stan,20
+22,Craig,Stan,4
+23,Kyle,Tolkien,3
+24,Butters,Tolkien,6
+25,Linda,Tolkien,5
+26,Craig,Tolkien,1
+27,Kyle,Linda,15
+28,Craig,Kyle,3
+29,Butters,Linda,30
+30,Butters,Craig,6
+31,Craig,Linda,5
+32,Cartman,Mr. Mackey,20
+33,Carol,Steven,15
+34,Carol,Receptionist,15
+35,Audience,Cartman,2
+36,President,Steven,42
+37,Cartman,Jimmy,121
+38,Butters,Stephen,40
+39,Butters,Clyde,8
+40,Kyle,Stephen,10
+41,Clyde,Kyle,2
+42,Stan,Stephen,5
+43,Clyde,Stan,1
+44,Clyde,Stephen,5
+45,Cartman,President,12
+46,President,Stan,8
+47,Mr. Garrison,President,2
+48,Kyle,President,10
+49,Mr. Garrison,Steven,3
+50,Cartman,Mr. Garrison,6
+51,Mr. Garrison,Stan,4
+52,Kyle,Mr. Garrison,5

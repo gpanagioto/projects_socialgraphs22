@@ -1,0 +1,100 @@
+,source,target,weight
+0,Mitch Conner,Mr. Garrison,6
+1,Cartman,Mitch Conner,60
+2,Cartman,Mr. Garrison,7
+3,Jimbo,Stan,4
+4,Sgt. Yates,Stan,4
+5,Randy,Stan,8
+6,Santa,Stan,6
+7,Kyle,Stan,71
+8,Mr. Hankey,Stan,4
+9,Jimbo,Sgt. Yates,1
+10,Jimbo,Randy,2
+11,Jimbo,Santa,1
+12,Jimbo,Kyle,1
+13,Jimbo,Mr. Hankey,1
+14,Randy,Sgt. Yates,2
+15,Santa,Sgt. Yates,1
+16,Kyle,Sgt. Yates,1
+17,Mr. Hankey,Sgt. Yates,1
+18,Randy,Santa,2
+19,Kyle,Randy,2
+20,Mr. Hankey,Randy,2
+21,Kyle,Santa,3
+22,Mr. Hankey,Santa,1
+23,Kyle,Mr. Hankey,1
+24,Buddha,Jesus,6
+25,Buddha,Joseph Smith,2
+26,Buddha,Lao Tse,1
+27,Buddha,Seaman,2
+28,Jesus,Joseph Smith,23
+29,Jesus,Lao Tse,6
+30,Jesus,Seaman,28
+31,Joseph Smith,Lao Tse,2
+32,Joseph Smith,Seaman,8
+33,Lao Tse,Seaman,2
+34,Cartman,Dr. Mephesto,53
+35,Dr. Mephesto,Kevin,6
+36,Dr. Mephesto,Mitch Conner,18
+37,Cartman,Kevin,3
+38,Kevin,Mitch Conner,1
+39,Randy,Tom Cruise,6
+40,Mickey Mouse,Tom Cruise,4
+41,Mickey Mouse,Randy,2
+42,Kenny,Stan,6
+43,Kenny,Kyle,8
+44,Jesus,Mr. Slave,1
+45,Joseph Smith,Mr. Slave,1
+46,Mr. Slave,Seaman,1
+47,Cartman,Kyle,71
+48,Cartman,Stan,64
+49,Dr. Mephesto,Kyle,44
+50,Dr. Mephesto,Stan,34
+51,Kyle,Mitch Conner,35
+52,Mitch Conner,Stan,33
+53,Rob Reiner,Tom Cruise,4
+54,A Voice,Mitch Conner,6
+55,A Voice,Cartman,15
+56,Russell Crowe,Tom Cruise,2
+57,Cartman,Liane,5
+58,Liane,Mr. Garrison,2
+59,Jimbo,Liane,1
+60,Cartman,Jimbo,2
+61,Jimbo,Mr. Garrison,1
+62,Jesus,Tom Cruise,10
+63,Mickey Mouse,Rob Reiner,1
+64,Jesus,Mickey Mouse,1
+65,Jesus,Rob Reiner,1
+66,Dr. Mephesto,Mr. Garrison,1
+67,Mr. Garrison,Seaman,1
+68,Mr. Garrison,Stan,2
+69,Mr. Garrison,Tom Cruise,3
+70,Kyle,Mr. Garrison,2
+71,Jesus,Mr. Garrison,3
+72,Mr. Garrison,Santa,1
+73,Cartman,Seaman,3
+74,Cartman,Tom Cruise,25
+75,Cartman,Jesus,9
+76,Cartman,Santa,3
+77,Dr. Mephesto,Liane,1
+78,Liane,Seaman,1
+79,Liane,Stan,2
+80,Liane,Tom Cruise,3
+81,Kyle,Liane,2
+82,Jesus,Liane,3
+83,Liane,Santa,1
+84,Dr. Mephesto,Seaman,1
+85,Dr. Mephesto,Tom Cruise,3
+86,Dr. Mephesto,Jesus,3
+87,Dr. Mephesto,Santa,1
+88,Seaman,Stan,2
+89,Seaman,Tom Cruise,3
+90,Kyle,Seaman,2
+91,Santa,Seaman,1
+92,Stan,Tom Cruise,16
+93,Jesus,Stan,6
+94,Kyle,Tom Cruise,16
+95,Santa,Tom Cruise,3
+96,Jesus,Kyle,6
+97,Jesus,Santa,3
+98,Mitch Conner,Tom Cruise,10

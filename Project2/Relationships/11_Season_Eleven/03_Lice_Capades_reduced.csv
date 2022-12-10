@@ -1,0 +1,67 @@
+,source,target,weight
+0,Cartman,Mrs. Garrison,35
+1,Bebe,Cartman,12
+2,Cartman,Class,10
+3,Cartman,Kenny,14
+4,Bebe,Mrs. Garrison,9
+5,Class,Mrs. Garrison,15
+6,Kenny,Mrs. Garrison,5
+7,Bebe,Class,3
+8,Bebe,Kenny,1
+9,Class,Kenny,1
+10,Butters,Stan,6
+11,Butters,Cartman,21
+12,Butters,Craig,8
+13,Butters,Kenny,3
+14,Cartman,Stan,28
+15,Craig,Stan,11
+16,Kenny,Stan,5
+17,Cartman,Craig,40
+18,Craig,Kenny,7
+19,Clyde,Girl,3
+20,Girl,Nurse,1
+21,Doctor,Girl,3
+22,Clyde,Nurse,3
+23,Clyde,Doctor,9
+24,Doctor,Nurse,3
+25,Cartman,Red,4
+26,Craig,Mrs. Garrison,15
+27,Mrs. Garrison,Stan,8
+28,Mrs. Garrison,Red,6
+29,Butters,Mrs. Garrison,7
+30,Class,Craig,4
+31,Craig,Red,2
+32,Bebe,Craig,3
+33,Class,Stan,2
+34,Red,Stan,1
+35,Bebe,Stan,3
+36,Class,Red,2
+37,Butters,Class,2
+38,Bebe,Red,1
+39,Butters,Red,1
+40,Bebe,Butters,2
+41,Craig,Kyle,21
+42,Clyde,Craig,14
+43,Cartman,Kyle,78
+44,Cartman,Clyde,39
+45,Kyle,Stan,16
+46,Butters,Kyle,10
+47,Bebe,Kyle,5
+48,Clyde,Kyle,19
+49,Clyde,Stan,10
+50,Butters,Clyde,6
+51,Bebe,Clyde,1
+52,Jimmy,Kyle,10
+53,Kyle,Tolkien,7
+54,Cartman,Jimmy,13
+55,Cartman,Tolkien,9
+56,Craig,Jimmy,2
+57,Jimmy,Tolkien,2
+58,Craig,Tolkien,2
+59,Butters,Tolkien,1
+60,Clyde,Tolkien,1
+61,Clyde,Jimmy,3
+62,Clyde,Mrs. Garrison,6
+63,Clyde,Kenny,8
+64,Kenny,Kyle,6
+65,Kyle,Mrs. Garrison,3

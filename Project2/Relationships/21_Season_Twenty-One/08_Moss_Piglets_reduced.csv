@@ -1,0 +1,72 @@
+,source,target,weight
+0,Francis,Steve,2
+1,Francis,Nathan,13
+2,Francis,The kids,2
+3,Francis,Mimsy,1
+4,Nathan,Steve,13
+5,Steve,The kids,4
+6,Mimsy,Steve,3
+7,Nathan,The kids,10
+8,Mimsy,Nathan,46
+9,Mimsy,The kids,2
+10,Theresa,Wendy,14
+11,Heidi,Theresa,48
+12,Heidi,Wendy,34
+13,Jimmy,Nathan,76
+14,Nathan,Timmy,21
+15,Jimmy,Timmy,24
+16,Jimmy,Mimsy,24
+17,Mimsy,Timmy,6
+18,Heidi,Mackey,76
+19,Cartman,Wendy,4
+20,Cartman,Heidi,153
+21,Cartman,Theresa,11
+22,Jimmy,Steve,2
+23,Butters,Heidi,8
+24,Butters,Cartman,6
+25,Butters,Clyde,2
+26,Butters,Stan,2
+27,Butters,Kyle,2
+28,Butters,Jerry Jones,6
+29,Butters,PC Principal,4
+30,Clyde,Heidi,4
+31,Heidi,Stan,4
+32,Heidi,Kyle,4
+33,Heidi,Jerry Jones,74
+34,Heidi,PC Principal,18
+35,Cartman,Clyde,3
+36,Cartman,Stan,3
+37,Cartman,Kyle,3
+38,Cartman,Jerry Jones,54
+39,Cartman,PC Principal,12
+40,Clyde,Stan,1
+41,Clyde,Kyle,1
+42,Clyde,Jerry Jones,3
+43,Clyde,PC Principal,2
+44,Kyle,Stan,1
+45,Jerry Jones,Stan,3
+46,PC Principal,Stan,2
+47,Jerry Jones,Kyle,3
+48,Kyle,PC Principal,2
+49,Jerry Jones,PC Principal,13
+50,Jerry Jones,Jimmy,15
+51,Jerry Jones,Nathan,54
+52,Mackey,Theresa,1
+53,PC Principal,Theresa,1
+54,Cartman,Mackey,3
+55,Mackey,PC Principal,1
+56,Jerry Jones,Mimsy,6
+57,Nathan,PC Principal,5
+58,Nathan,Owners,5
+59,Heidi,Nathan,35
+60,Mr. Mackey,Nathan,10
+61,Cartman,Nathan,21
+62,Jerry Jones,Owners,7
+63,Jerry Jones,Mr. Mackey,14
+64,Owners,PC Principal,1
+65,Mr. Mackey,PC Principal,2
+66,Heidi,Owners,6
+67,Mr. Mackey,Owners,2
+68,Cartman,Owners,3
+69,Heidi,Mr. Mackey,12
+70,Cartman,Mr. Mackey,6

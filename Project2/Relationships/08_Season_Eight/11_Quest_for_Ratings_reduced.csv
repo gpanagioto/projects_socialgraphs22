@@ -1,0 +1,97 @@
+,source,target,weight
+0,Cartman,Jimmy,96
+1,Butters,Cartman,89
+2,Cartman,Tolkien,63
+3,Cartman,Kyle,96
+4,Cartman,Stan,148
+5,Cartman,Craig,19
+6,Butters,Jimmy,27
+7,Butters,Tolkien,29
+8,Butters,Kyle,52
+9,Butters,Stan,74
+10,Butters,Craig,3
+11,Jimmy,Tolkien,23
+12,Jimmy,Kyle,42
+13,Jimmy,Stan,62
+14,Craig,Jimmy,5
+15,Kyle,Tolkien,32
+16,Stan,Tolkien,46
+17,Craig,Tolkien,2
+18,Kyle,Stan,96
+19,Craig,Kyle,8
+20,Craig,Stan,16
+21,Bradley,Stan,3
+22,Kevin,Stan,3
+23,Bradley,Cartman,3
+24,Cartman,Kevin,3
+25,Bradley,Kevin,1
+26,Bradley,Kyle,1
+27,Bradley,Craig,3
+28,Kevin,Kyle,1
+29,Craig,Kevin,3
+30,Cartman,Kenny,2
+31,Craig,Kenny,2
+32,Clyde,Kenny,2
+33,Kenny,Kids,2
+34,Kenny,Kyle,4
+35,Kenny,Tolkien,2
+36,Kenny,Stan,4
+37,Butters,Kenny,2
+38,Cartman,Clyde,1
+39,Cartman,Kids,1
+40,Clyde,Craig,1
+41,Craig,Kids,1
+42,Clyde,Kids,1
+43,Clyde,Kyle,2
+44,Clyde,Tolkien,1
+45,Clyde,Stan,2
+46,Butters,Clyde,1
+47,Kids,Kyle,2
+48,Kids,Tolkien,1
+49,Kids,Stan,2
+50,Butters,Kids,1
+51,Announcer,Kyle,8
+52,Announcer,Cartman,11
+53,Announcer,Tolkien,5
+54,Announcer,Stan,11
+55,Announcer,Butters,7
+56,Announcer,Jimmy,3
+57,Stan,The boys,4
+58,Kyle,The boys,2
+59,Cartman,The boys,1
+60,Butters,The boys,1
+61,Herbert Garrison,Kyle,6
+62,Kyle,Mr. Slave,6
+63,Herbert Garrison,Stan,6
+64,Mr. Slave,Stan,6
+65,Cartman,Herbert Garrison,2
+66,Cartman,Mr. Slave,2
+67,Herbert Garrison,Jimmy,4
+68,Jimmy,Mr. Slave,4
+69,Herbert Garrison,Mr. Slave,4
+70,Butters,Herbert Garrison,2
+71,Butters,Mr. Slave,2
+72,Kyle,Pete,5
+73,Bebe,Kyle,5
+74,Kyle,Principal Victoria,10
+75,Butters,Pete,3
+76,Bebe,Butters,3
+77,Butters,Principal Victoria,6
+78,Pete,Stan,7
+79,Bebe,Stan,7
+80,Principal Victoria,Stan,14
+81,Cartman,Pete,3
+82,Bebe,Cartman,3
+83,Cartman,Principal Victoria,6
+84,Pete,Tolkien,2
+85,Bebe,Tolkien,2
+86,Principal Victoria,Tolkien,4
+87,Jimmy,Pete,2
+88,Bebe,Jimmy,2
+89,Jimmy,Principal Victoria,4
+90,Announcer,Pete,1
+91,Announcer,Bebe,1
+92,Announcer,Principal Victoria,2
+93,Bebe,Pete,1
+94,Pete,Principal Victoria,2
+95,Bebe,Principal Victoria,2

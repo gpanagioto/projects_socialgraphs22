@@ -1,0 +1,49 @@
+,source,target,weight
+0,Kenny,Stan,18
+1,Kenny,Kyle,18
+2,Cartman,Kenny,9
+3,Kyle,Stan,209
+4,Cartman,Stan,78
+5,Cartman,Kyle,71
+6,Both,Cartman,5
+7,Both,Stan,4
+8,Both,Kyle,2
+9,Mayor McDaniels,Stan,16
+10,Kyle,Mayor McDaniels,16
+11,Cartman,Mayor McDaniels,4
+12,Dr. Mephesto,Mayor McDaniels,34
+13,Mayor,Mayor McDaniels,4
+14,Dr. Mephesto,Stan,45
+15,Mayor,Stan,4
+16,Dr. Mephesto,Kyle,30
+17,Kyle,Mayor,4
+18,Cartman,Dr. Mephesto,16
+19,Cartman,Mayor,1
+20,Dr. Mephesto,Mayor,4
+21,Officer Barbrady,Reporter,2
+22,Dr. Mephesto,Reporter,2
+23,Dr. Mephesto,Officer Barbrady,1
+24,Kyle,Reporter,1
+25,Dr. Mephesto,Larry,82
+26,Larry,Mayor McDaniels,12
+27,Kyle,Officer Barbrady,12
+28,Officer Barbrady,Stan,9
+29,Cartman,Officer Barbrady,3
+30,Kenny,Officer Barbrady,3
+31,Larry,Stan,58
+32,Kyle,Larry,46
+33,Agent,Dr. Mephesto,40
+34,Agent,Larry,5
+35,Agent,Kyle,6
+36,Agent,Stan,3
+37,Dr. Mephesto,Mephesto,2
+38,Agent,Mephesto,4
+39,Larry,Leslie,72
+40,Cartman,Larry,4
+41,Agent,Cartman,12
+42,Clerk,Kyle,6
+43,Clerk,Stan,4
+44,Agent,Clerk,1
+45,Clerk,Dr. Mephesto,2
+46,Agent,Pilot,1
+47,Dr. Mephesto,Pilot,1

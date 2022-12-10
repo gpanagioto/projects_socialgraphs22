@@ -1,0 +1,51 @@
+,source,target,weight
+0,Kyle,Stan,118
+1,Ike,Kyle,14
+2,Cartman,Kyle,127
+3,Ike,Stan,6
+4,Cartman,Stan,133
+5,Cartman,Ike,6
+6,Ms. Crabtree,Stan,3
+7,Kyle,Ms. Crabtree,3
+8,Bill,Ms. Crabtree,3
+9,Cartman,Ms. Crabtree,4
+10,Bill,Stan,30
+11,Bill,Kyle,20
+12,Bill,Cartman,54
+13,Ike,Mr. Garrison,23
+14,Ike,Sally,4
+15,Mr. Garrison,Sally,35
+16,Cartman,Kids,5
+17,Bill,Kids,1
+18,Kids,Kyle,3
+19,Jenny,Mr. Garrison,5
+20,Ike,Jenny,2
+21,Mr. Garrison,Other kids,3
+22,Mr. Garrison,Other Kids,3
+23,Girl,Mr. Garrison,3
+24,Other kids,Sally,2
+25,Other Kids,Sally,2
+26,Girl,Sally,2
+27,Other Kids,Other kids,1
+28,Girl,Other kids,1
+29,Girl,Other Kids,1
+30,Barbrady,Cartman,16
+31,Barbrady,Bill,13
+32,Barbrady,Kyle,5
+33,Barbrady,Stan,15
+34,Mr. Garrison,Supporters,26
+35,Sally,Supporters,3
+36,Liane,Stan,8
+37,Kyle,Liane,4
+38,Kenny,Stan,5
+39,Cartman,Kenny,3
+40,Kenny,Kyle,4
+41,Mark,Stan,4
+42,Kyle,Mark,1
+43,Jesse Jackson,Mr. Garrison,15
+44,Jesse Jackson,Sally,6
+45,Ike,Jesse Jackson,3
+46,Jesse Jackson,Kids,3
+47,Kids,Mr. Garrison,5
+48,Kids,Sally,2
+49,Ike,Kids,1

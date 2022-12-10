@@ -1,0 +1,49 @@
+,source,target,weight
+0,Kyle,Mr. Mackey,2
+1,Butters,Kyle,10
+2,Cartman,Kyle,39
+3,Kyle,Stan,44
+4,Butters,Mr. Mackey,2
+5,Cartman,Mr. Mackey,2
+6,Mr. Mackey,Stan,2
+7,Butters,Cartman,2
+8,Butters,Stan,8
+9,Cartman,Stan,32
+10,Kenny,Kyle,47
+11,Kenny,Stan,34
+12,Cartman,Kenny,42
+13,Father,Kenny,19
+14,Cartman,Father,8
+15,Father,Kyle,6
+16,Father,Stan,4
+17,Gerald,Reporter,6
+18,Gerald,Girl,3
+19,Gerald,Sheila,34
+20,Girl,Reporter,2
+21,Reporter,Sheila,2
+22,Girl,Sheila,1
+23,Gerald,Sharon,2
+24,Sharon,Stephen,2
+25,Randy,Sharon,1
+26,Gerald,Stephen,10
+27,Gerald,Randy,8
+28,Randy,Stephen,3
+29,Butters,Kenny,10
+30,Gerald,Kyle,54
+31,Kyle,Sheila,19
+32,Father,Gerald,9
+33,Gerald,Kenny,10
+34,Gerald,Jimbo,1
+35,Jimbo,Kenny,1
+36,Jimbo,Sheila,1
+37,Kenny,Sheila,2
+38,Gerald,Stan,6
+39,Sheila,Stan,1
+40,Randy,Sheila,1
+41,Sheila,Stephen,1
+42,Randy,Stan,1
+43,Stan,Stephen,1
+44,Kyle,Randy,1
+45,Kyle,Stephen,1
+46,Kenny,Randy,1
+47,Kenny,Stephen,1

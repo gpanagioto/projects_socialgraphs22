@@ -1,0 +1,126 @@
+,source,target,weight
+0,Gary,Mr. Garrison,20
+1,Gary,Kyle,45
+2,Gary,Stan,208
+3,Cartman,Gary,95
+4,Kyle,Mr. Garrison,4
+5,Mr. Garrison,Stan,4
+6,Cartman,Mr. Garrison,4
+7,Kyle,Stan,53
+8,Cartman,Kyle,37
+9,Cartman,Stan,103
+10,Butters,Cartman,12
+11,Cartman,Clyde,6
+12,Cartman,Craig,6
+13,Cartman,Tolkien,6
+14,Butters,Clyde,2
+15,Butters,Stan,18
+16,Butters,Kyle,8
+17,Butters,Craig,2
+18,Butters,Gary,10
+19,Butters,Tolkien,2
+20,Clyde,Stan,9
+21,Clyde,Kyle,4
+22,Clyde,Craig,1
+23,Clyde,Gary,5
+24,Clyde,Tolkien,1
+25,Craig,Stan,9
+26,Stan,Tolkien,9
+27,Craig,Kyle,4
+28,Kyle,Tolkien,4
+29,Craig,Gary,5
+30,Craig,Tolkien,1
+31,Gary,Tolkien,5
+32,Gary,Mom,36
+33,Dad,Mom,22
+34,Mark,Mom,24
+35,Jenny,Mom,11
+36,Dave,Mom,3
+37,Amanda,Mom,3
+38,Mom,Stan,19
+39,Mom,The kids,3
+40,Kids,Mom,7
+41,Dad,Gary,66
+42,Gary,Mark,114
+43,Gary,Jenny,45
+44,Dave,Gary,20
+45,Amanda,Gary,10
+46,Gary,The kids,10
+47,Gary,Kids,20
+48,Dad,Mark,48
+49,Dad,Jenny,20
+50,Dad,Dave,6
+51,Amanda,Dad,6
+52,Dad,Stan,34
+53,Dad,The kids,6
+54,Dad,Kids,10
+55,Jenny,Mark,28
+56,Dave,Mark,11
+57,Amanda,Mark,8
+58,Mark,Stan,75
+59,Mark,The kids,8
+60,Kids,Mark,10
+61,Dave,Jenny,4
+62,Amanda,Jenny,3
+63,Jenny,Stan,31
+64,Jenny,The kids,3
+65,Jenny,Kids,5
+66,Amanda,Dave,1
+67,Dave,Stan,13
+68,Dave,The kids,1
+69,Dave,Kids,1
+70,Amanda,Stan,5
+71,Amanda,The kids,1
+72,Amanda,Kids,1
+73,Stan,The kids,5
+74,Kids,Stan,19
+75,Kids,The kids,1
+76,Butler,Customer,2
+77,Customer,Smith,6
+78,Customer,Wife,2
+79,Angel,Customer,1
+80,Customer,Singers,1
+81,Butler,Smith,20
+82,Butler,Wife,4
+83,Angel,Butler,2
+84,Butler,Singers,3
+85,Smith,Wife,12
+86,Angel,Smith,6
+87,Singers,Smith,27
+88,Angel,Wife,2
+89,Singers,Wife,2
+90,Angel,Singers,1
+91,Sharon,Stan,34
+92,Randy,Sharon,36
+93,Sharon,Shelly,8
+94,Randy,Stan,118
+95,Shelly,Stan,33
+96,Randy,Shelly,30
+97,Karen,Randy,32
+98,Butler,People,2
+99,People,Smith,16
+100,People,Singers,2
+101,Karen,Stan,22
+102,Cartman,Karen,12
+103,Cartman,Mark,18
+104,Cartman,Jenny,6
+105,Cartman,Dave,6
+106,Karen,Kyle,4
+107,Kyle,Mark,6
+108,Jenny,Kyle,2
+109,Dave,Kyle,2
+110,Gary,Karen,22
+111,Karen,Mark,7
+112,Jenny,Karen,3
+113,Dave,Karen,2
+114,Gary,Shelly,6
+115,Mark,Shelly,3
+116,Karen,Shelly,2
+117,Jenny,Shelly,2
+118,Gary,Randy,16
+119,Mark,Randy,8
+120,Jenny,Randy,6
+121,Mrs. Harris,Singers,3
+122,Mrs. Harris,Smith,2
+123,Kids,Randy,4
+124,Kids,Shelly,2

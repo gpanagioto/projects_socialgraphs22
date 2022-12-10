@@ -1,0 +1,63 @@
+,source,target,weight
+0,Girl,Kyle,7
+1,Butters,Girl,3
+2,Girl,Sheila,3
+3,Butters,Kyle,21
+4,Kyle,Sheila,23
+5,Butters,Sheila,9
+6,Det. Harris,Randy,39
+7,Randy,Sharon,12
+8,Adams,Randy,16
+9,Det. Harris,Sharon,6
+10,Adams,Det. Harris,24
+11,Adams,Sharon,4
+12,Kyle,Stan,51
+13,Announcer,MJ's hologram,3
+14,Cartman,MJ's hologram,25
+15,Kyle,MJ's hologram,18
+16,MJ's hologram,Stan,3
+17,Announcer,Cartman,9
+18,Announcer,Kyle,12
+19,Announcer,Stan,9
+20,Cartman,Kyle,131
+21,Cartman,Stan,37
+22,Record producer,Ron,18
+23,Cartman,Record producer,58
+24,Cartman,Ron,26
+25,Det. Harris,MJ's hologram,19
+26,MJ's hologram,Randy,29
+27,Det. Harris,Mitchell,8
+28,MJ's hologram,Mitchell,2
+29,MJ's hologram,Sharon,2
+30,Kyle,Record producer,24
+31,Kyle,Randy,2
+32,Record producer,Stan,8
+33,Randy,Record producer,6
+34,Randy,Stan,4
+35,Dad,Mom,6
+36,Cartman,Dad,7
+37,Cartman,Mom,4
+38,Dad,Steve,1
+39,Cartman,Steve,1
+40,Cartman,Det. Harris,2
+41,Cartman,Stephen,11
+42,Cartman,Ike,11
+43,Cartman,Kids,11
+44,Kyle,Ron,7
+45,Kyle,Stephen,7
+46,Ike,Kyle,7
+47,Kids,Kyle,7
+48,Record producer,Stephen,3
+49,MJ's hologram,Record producer,6
+50,Ike,Record producer,3
+51,Kids,Record producer,3
+52,Ron,Stephen,1
+53,MJ's hologram,Ron,2
+54,Ike,Ron,1
+55,Kids,Ron,1
+56,MJ's hologram,Stephen,2
+57,Ike,Stephen,1
+58,Kids,Stephen,1
+59,Ike,MJ's hologram,2
+60,Kids,MJ's hologram,2
+61,Ike,Kids,1

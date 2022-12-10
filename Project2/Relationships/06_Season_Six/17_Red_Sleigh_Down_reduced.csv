@@ -1,0 +1,41 @@
+,source,target,weight
+0,Cartman,Townsfolk,16
+1,Kyle,Townsfolk,8
+2,Mayor McDaniels,Townsfolk,12
+3,Jimbo,Townsfolk,4
+4,Jimmy,Townsfolk,8
+5,Mr. Garrison,Townsfolk,4
+6,Cartman,Kyle,89
+7,Cartman,Mayor McDaniels,12
+8,Cartman,Jimbo,4
+9,Cartman,Jimmy,8
+10,Cartman,Mr. Garrison,4
+11,Kyle,Mayor McDaniels,6
+12,Jimbo,Kyle,2
+13,Jimmy,Kyle,4
+14,Kyle,Mr. Garrison,2
+15,Jimbo,Mayor McDaniels,3
+16,Jimmy,Mayor McDaniels,6
+17,Mayor McDaniels,Mr. Garrison,3
+18,Jimbo,Jimmy,2
+19,Jimbo,Mr. Garrison,1
+20,Jimmy,Mr. Garrison,2
+21,Cartman,Stan,60
+22,Kyle,Stan,42
+23,A Voice,Stan,4
+24,Mr. Hankey,Stan,58
+25,A Voice,Cartman,8
+26,Cartman,Mr. Hankey,122
+27,A Voice,Kyle,7
+28,Kyle,Mr. Hankey,79
+29,A Voice,Mr. Hankey,9
+30,Mr. Hankey,Santa,48
+31,Cartman,Santa,59
+32,Santa,Stan,26
+33,Kyle,Santa,16
+34,Jesus,Mr. Hankey,17
+35,Cartman,Jesus,9
+36,Jesus,Stan,15
+37,Jesus,Kyle,11
+38,Jesus,Santa,24
+39,Soldier,Stan,1

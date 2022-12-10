@@ -1,0 +1,69 @@
+,source,target,weight
+0,Kyle,Stan,94
+1,Cartman,Stan,92
+2,Cartman,Kyle,119
+3,Kenny,Stan,7
+4,Cartman,Kenny,7
+5,Kenny,Kyle,6
+6,Butters,Kyle,4
+7,Butters,Mr. Garrison,1
+8,Kyle,Mr. Garrison,9
+9,Mitchell,Mr. Garrison,1
+10,Jimbo,Mr. Garrison,9
+11,Mr. Garrison,Randy,14
+12,Frank,Mr. Garrison,1
+13,Jimbo,Mitchell,1
+14,Mitchell,Randy,1
+15,Frank,Mitchell,5
+16,Jimbo,Randy,7
+17,Frank,Jimbo,1
+18,Frank,Randy,1
+19,Cartman,Mitchell,1
+20,Mitchell,Stan,1
+21,Announcer,Stan,4
+22,Announcer,Cartman,1
+23,Announcer,Kyle,2
+24,Ms. Choksondik,Stan,12
+25,Stan,Timmy,2
+26,Butters,Stan,2
+27,Kyle,Ms. Choksondik,18
+28,Kyle,Timmy,3
+29,Cartman,Ms. Choksondik,24
+30,Ms. Choksondik,Timmy,6
+31,Butters,Ms. Choksondik,6
+32,Cartman,Timmy,4
+33,Butters,Cartman,4
+34,Butters,Timmy,1
+35,Kindergartners,Mr. Garrison,1
+36,Mr. Mackey,Principal Victoria,1
+37,Peter,Principal Victoria,1
+38,Barbrady,Principal Victoria,1
+39,Mr. Mackey,Peter,1
+40,Barbrady,Mr. Mackey,1
+41,Barbrady,Peter,1
+42,Mr. Garrison,Stan,8
+43,Cartman,Mr. Garrison,8
+44,Kyle,The Boys,6
+45,Chef,The Boys,10
+46,Cartman,The Boys,2
+47,Stan,The Boys,2
+48,Chef,Kyle,52
+49,Cartman,Chef,29
+50,Chef,Stan,39
+51,Chef,Kenny,4
+52,Chef,HBC President,32
+53,HBC President,Kyle,24
+54,Cartman,HBC President,8
+55,Lead Knight,Stan,7
+56,Chef,Lead Knight,4
+57,HBC President,Lead Knight,16
+58,Kyle,Lead Knight,4
+59,Drew,Randy,6
+60,Drew,Mr. Garrison,8
+61,Drew,Jimbo,4
+62,Drew,Lead Knight,1
+63,Drew,HBC President,1
+64,Cartman,Lead Knight,2
+65,Ike,Sheila,1
+66,Gerald,Ike,1
+67,Gerald,Sheila,1

@@ -1,0 +1,79 @@
+,source,target,weight
+0,Randy,Stan,15
+1,Randy,Sharon,3
+2,Randy,Townsman,2
+3,Fr. Maxi,Randy,66
+4,Fr. Maxi,Stephen,14
+5,Randy,Stephen,26
+6,Jimbo,Stephen,1
+7,Others,Stephen,1
+8,Jimbo,Others,2
+9,Butters,Fr. Maxi,102
+10,Kenny,Stan,3
+11,Kyle,Stan,6
+12,Butters,Stan,16
+13,Fr. Maxi,Stan,12
+14,Cartman,Stan,9
+15,Kenny,Kyle,2
+16,Butters,Kenny,4
+17,Fr. Maxi,Kenny,4
+18,Cartman,Kenny,3
+19,Kenny,Randy,4
+20,Butters,Kyle,19
+21,Fr. Maxi,Kyle,20
+22,Cartman,Kyle,9
+23,Kyle,Randy,8
+24,Butters,Cartman,13
+25,Butters,Randy,21
+26,Cartman,Fr. Maxi,19
+27,Cartman,Randy,12
+28,Mr. Mackey,Ted,1
+29,Mr. Mackey,Others,1
+30,Mr. Mackey,Randy,5
+31,Mr. Mackey,Ryan,1
+32,Butters,Mr. Mackey,1
+33,Others,Ted,1
+34,Randy,Ted,5
+35,Ryan,Ted,1
+36,Butters,Ted,1
+37,Others,Randy,6
+38,Others,Ryan,1
+39,Butters,Others,1
+40,Randy,Ryan,5
+41,Butters,Ryan,1
+42,Auxiliary,Mr. Mackey,2
+43,Clyde,Fr. Maxi,9
+44,Clyde,Kyle,4
+45,Cartman,Clyde,4
+46,Jimbo,Stuart,1
+47,Randy,Stuart,1
+48,Others,Stuart,1
+49,Jimbo,Randy,1
+50,Auxiliary,Randy,9
+51,Auxiliary,Priest,31
+52,Priest,Stan,10
+53,Auxiliary,Stan,33
+54,Boys,Fr. Maxi,5
+55,Boys,Clyde,1
+56,Boys,Kyle,2
+57,Boys,Cartman,1
+58,Boys,Butters,1
+59,Butters,Clyde,5
+60,Assistant,Auxiliary,19
+61,Assistant,Priest,6
+62,Assistant,Cartman,1
+63,Assistant,Clyde,1
+64,Auxiliary,Cartman,3
+65,Auxiliary,Clyde,6
+66,Cartman,Priest,1
+67,Clyde,Priest,1
+68,Auxiliary,Butters,47
+69,Clyde,Stan,1
+70,Linda,Randy,5
+71,Linda,Stephen,5
+72,Fr. Maxi,Linda,2
+73,Auxiliary,Fr. Maxi,49
+74,Assistant,Fr. Maxi,14
+75,Assistant,Butters,10
+76,Fr. Maxi,Priest,14
+77,Butters,Priest,10

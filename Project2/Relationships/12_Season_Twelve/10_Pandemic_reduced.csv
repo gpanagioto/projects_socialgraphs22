@@ -1,0 +1,44 @@
+,source,target,weight
+0,Cartman,Kenny,22
+1,Kenny,Kyle,17
+2,Kenny,Stan,25
+3,Cartman,Kyle,48
+4,Cartman,Stan,81
+5,Kyle,Stan,63
+6,Sharon,Stan,10
+7,Randy,Stan,12
+8,Shelly,Stan,3
+9,Randy,Sharon,32
+10,Sharon,Shelly,5
+11,Randy,Shelly,8
+12,Cartman,Craig,19
+13,Craig,Stan,21
+14,Craig,Kyle,18
+15,Guard,Kyle,2
+16,Guard,Stan,2
+17,Guard,Kenny,2
+18,Laura,Thomas,16
+19,Gerald,Laura,8
+20,Laura,Sharon,16
+21,Laura,Randy,8
+22,Laura,Sheila,8
+23,Gerald,Thomas,8
+24,Sharon,Thomas,16
+25,Randy,Thomas,8
+26,Sheila,Thomas,8
+27,Gerald,Sharon,8
+28,Gerald,Randy,4
+29,Gerald,Sheila,4
+30,Sharon,Sheila,8
+31,Randy,Sheila,4
+32,Craig,Kenny,4
+33,Mr. Garrison,Randy,10
+34,Mr. Garrison,Officer Barbrady,2
+35,Linda,Mr. Garrison,2
+36,Mr. Garrison,Stephen,2
+37,Officer Barbrady,Randy,5
+38,Linda,Randy,5
+39,Randy,Stephen,5
+40,Linda,Officer Barbrady,1
+41,Officer Barbrady,Stephen,1
+42,Linda,Stephen,1

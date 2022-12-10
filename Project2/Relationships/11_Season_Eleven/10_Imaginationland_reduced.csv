@@ -1,0 +1,82 @@
+,source,target,weight
+0,Cartman,Kyle,149
+1,Clyde,Kyle,9
+2,Kyle,Tolkien,12
+3,Butters,Kyle,45
+4,Kyle,Stan,61
+5,Jimmy,Kyle,18
+6,Craig,Kyle,15
+7,Jason,Kyle,6
+8,Cartman,Clyde,19
+9,Cartman,Tolkien,26
+10,Butters,Cartman,52
+11,Cartman,Stan,45
+12,Cartman,Jimmy,13
+13,Cartman,Craig,32
+14,Cartman,Jason,13
+15,Clyde,Tolkien,2
+16,Butters,Clyde,4
+17,Clyde,Stan,4
+18,Clyde,Jimmy,1
+19,Clyde,Craig,3
+20,Clyde,Jason,1
+21,Butters,Tolkien,8
+22,Stan,Tolkien,6
+23,Jimmy,Tolkien,2
+24,Craig,Tolkien,4
+25,Jason,Tolkien,2
+26,Butters,Stan,27
+27,Butters,Jimmy,10
+28,Butters,Craig,8
+29,Butters,Jason,4
+30,Jimmy,Stan,11
+31,Craig,Stan,7
+32,Jason,Stan,3
+33,Craig,Jimmy,2
+34,Jason,Jimmy,1
+35,Craig,Jason,2
+36,Gerald,Kyle,28
+37,Gerald,Sheila,12
+38,Cartman,Gerald,28
+39,Kyle,Sheila,21
+40,Cartman,Sheila,21
+41,Fanciful Mayor,Jimmy,14
+42,Fanciful Mayor,Kyle,42
+43,Fanciful Mayor,Stan,34
+44,Butters,Fanciful Mayor,38
+45,Lollipop King,Stan,2
+46,Charlie Brown,Stan,2
+47,Fanciful Mayor,Lollipop King,3
+48,Charlie Brown,Fanciful Mayor,3
+49,Charlie Brown,Lollipop King,1
+50,Butters,The Boys,3
+51,Stan,The Boys,1
+52,Kyle,The Boys,1
+53,Kyle,Sharon,5
+54,Kyle,Linda,5
+55,Kyle,Stephen,5
+56,Sharon,Stan,3
+57,Linda,Stan,3
+58,Stan,Stephen,3
+59,Linda,Sharon,1
+60,Sharon,Stephen,1
+61,Linda,Stephen,1
+62,General Deckter,Specialist,26
+63,Fanciful Mayor,Specialist,1
+64,Butters,Specialist,1
+65,Fanciful Mayor,General Deckter,3
+66,Butters,General Deckter,3
+67,Judge,Kyle,8
+68,Cartman,Judge,8
+69,Fanciful Mayor,Rockety Rocket,10
+70,Butters,Rockety Rocket,8
+71,Craig,Specialist,1
+72,Craig,General Deckter,3
+73,Cartman,Specialist,6
+74,Cartman,General Deckter,18
+75,Clyde,Specialist,1
+76,Clyde,General Deckter,3
+77,Specialist,Stan,1
+78,General Deckter,Stan,3
+79,Kyle,Specialist,3
+80,General Deckter,Kyle,9

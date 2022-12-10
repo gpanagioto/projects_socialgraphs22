@@ -1,0 +1,198 @@
+,source,target,weight
+0,Cartman,Stan,96
+1,Cartman,Kenny,17
+2,Cartman,Kyle,48
+3,Kenny,Stan,19
+4,Kyle,Stan,45
+5,Kenny,Kyle,8
+6,Announcer,Sheila,1
+7,Announcer,Gerald,3
+8,Announcer,Kyle,2
+9,Gerald,Sheila,12
+10,Kyle,Sheila,22
+11,Gerald,Kyle,24
+12,Gerald,Sharon,5
+13,Gerald,Randy,13
+14,Gerald,Stuart,8
+15,Gerald,Skeeter,4
+16,Randy,Sharon,24
+17,Sharon,Stuart,4
+18,Sharon,Skeeter,7
+19,Randy,Stuart,13
+20,Randy,Skeeter,16
+21,Skeeter,Stuart,2
+22,Linda,Sheila,6
+23,Linda,Sharon,13
+24,Linda,Sarah,6
+25,Sharon,Sheila,6
+26,Sarah,Sheila,4
+27,Sarah,Sharon,6
+28,Butters,Cartman,4
+29,Cartman,Clyde,4
+30,Cartman,Craig,45
+31,Cartman,Chef,16
+32,Butters,Kenny,1
+33,Clyde,Kenny,1
+34,Craig,Kenny,7
+35,Chef,Kenny,4
+36,Butters,Stan,5
+37,Clyde,Stan,5
+38,Craig,Stan,45
+39,Chef,Stan,20
+40,Butters,Clyde,1
+41,Butters,Craig,4
+42,Butters,Kyle,2
+43,Butters,Chef,4
+44,Clyde,Craig,4
+45,Clyde,Kyle,2
+46,Chef,Clyde,4
+47,Craig,Kyle,19
+48,Chef,Craig,16
+49,Chef,Kyle,8
+50,Class,Mr. Garrison,4
+51,Class,Timmy,1
+52,Class,Stan,2
+53,Class,Kyle,1
+54,Class,Craig,2
+55,Cartman,Class,4
+56,Mr. Garrison,Timmy,4
+57,Mr. Garrison,Stan,8
+58,Kyle,Mr. Garrison,68
+59,Craig,Mr. Garrison,8
+60,Cartman,Mr. Garrison,16
+61,Stan,Timmy,2
+62,Kyle,Timmy,1
+63,Craig,Timmy,2
+64,Cartman,Timmy,4
+65,Jimbo,Mr. Slave,8
+66,Mr. Garrison,Mr. Slave,51
+67,Mr. Slave,Randy,8
+68,Mr. Slave,Richard,8
+69,Mr. Slave,Skeeter,2
+70,Jimbo,Mr. Garrison,56
+71,Jimbo,Randy,30
+72,Jimbo,Richard,17
+73,Jimbo,Skeeter,10
+74,Mr. Garrison,Randy,56
+75,Mr. Garrison,Richard,56
+76,Mr. Garrison,Skeeter,14
+77,Randy,Richard,17
+78,Richard,Skeeter,4
+79,Stan,Tolkien,5
+80,Jason,Stan,10
+81,Cartman,Tolkien,6
+82,Cartman,Jason,12
+83,Kyle,Tolkien,3
+84,Jason,Kyle,6
+85,Craig,Tolkien,3
+86,Craig,Jason,6
+87,Jason,Tolkien,2
+88,A voice,Kyle,6
+89,Kyle,Thom,10
+90,A voice,Sheila,3
+91,Sheila,Thom,4
+92,A voice,Gerald,3
+93,Gerald,Thom,3
+94,A voice,Thom,1
+95,Chef,Mr. Garrison,20
+96,Chef,Mr. Slave,10
+97,Clerk,Kyle,4
+98,Kyle,Mr. Slave,9
+99,Cartman,Randy,8
+100,Cartman,Richard,1
+101,Cartman,Ryan,2
+102,Cartman,Gerald,1
+103,Cartman,Jimbo,2
+104,Cartman,Sharon,3
+105,Cartman,Linda,2
+106,Randy,Ryan,8
+107,Linda,Randy,11
+108,Richard,Ryan,1
+109,Gerald,Richard,1
+110,Richard,Sharon,1
+111,Linda,Richard,1
+112,Gerald,Ryan,1
+113,Jimbo,Ryan,2
+114,Ryan,Sharon,3
+115,Linda,Ryan,2
+116,Gerald,Jimbo,1
+117,Gerald,Linda,1
+118,Jimbo,Sharon,7
+119,Jimbo,Linda,4
+120,Craig,Tom,15
+121,Craig,Randy,21
+122,Craig,Men,3
+123,Craig,Other men,3
+124,Craig,Sharon,6
+125,Craig,Linda,3
+126,Craig,Jimbo,3
+127,Craig,Ryan,3
+128,Craig,Stuart,3
+129,Stan,Tom,10
+130,Randy,Stan,14
+131,Men,Stan,2
+132,Other men,Stan,2
+133,Sharon,Stan,4
+134,Linda,Stan,2
+135,Jimbo,Stan,2
+136,Ryan,Stan,2
+137,Stan,Stuart,2
+138,Randy,Tom,35
+139,Men,Tom,5
+140,Other men,Tom,5
+141,Sharon,Tom,10
+142,Linda,Tom,5
+143,Jimbo,Tom,5
+144,Cartman,Tom,5
+145,Ryan,Tom,5
+146,Stuart,Tom,5
+147,Kenny,Tom,5
+148,Men,Randy,7
+149,Other men,Randy,7
+150,Kenny,Randy,7
+151,Men,Other men,1
+152,Men,Sharon,2
+153,Linda,Men,1
+154,Jimbo,Men,1
+155,Cartman,Men,1
+156,Men,Ryan,1
+157,Men,Stuart,1
+158,Kenny,Men,1
+159,Other men,Sharon,2
+160,Linda,Other men,1
+161,Jimbo,Other men,1
+162,Cartman,Other men,1
+163,Other men,Ryan,1
+164,Other men,Stuart,1
+165,Kenny,Other men,1
+166,Kenny,Sharon,2
+167,Linda,Stuart,1
+168,Kenny,Linda,1
+169,Jimbo,Stuart,1
+170,Jimbo,Kenny,1
+171,Cartman,Stuart,1
+172,Ryan,Stuart,1
+173,Kenny,Ryan,1
+174,Kenny,Stuart,1
+175,Mr. Garrison,Thom,8
+176,Leader,Mr. Garrison,4
+177,Leader,Thom,1
+178,Mr. Slave,Thom,1
+179,Kyle,Leader,2
+180,Leader,Mr. Slave,1
+181,Officer Barbrady,Sharon,2
+182,Linda,Skeeter,3
+183,Linda,Officer Barbrady,1
+184,Jimbo,Officer Barbrady,2
+185,Officer Barbrady,Randy,3
+186,Officer Barbrady,Skeeter,3
+187,Sharon,Thom,2
+188,Linda,Thom,2
+189,Sarah,Thom,2
+190,Mr. Garrison,Sharon,8
+191,Linda,Mr. Garrison,8
+192,Mr. Garrison,Sarah,8
+193,Mr. Garrison,Sheila,4
+194,Kyle,Sharon,4
+195,Kyle,Linda,4
+196,Kyle,Sarah,4

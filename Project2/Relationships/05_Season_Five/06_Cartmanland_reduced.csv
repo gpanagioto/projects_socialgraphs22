@@ -1,0 +1,51 @@
+,source,target,weight
+0,Cartman,Liane,36
+1,Cartman,Priest,10
+2,Assistant,Cartman,5
+3,Liane,Priest,4
+4,Assistant,Liane,2
+5,Assistant,Priest,2
+6,Kyle,Stan,100
+7,Kenny,Kyle,9
+8,Kenny,Stan,12
+9,Jimbo,Ned,2
+10,Cartman,Jimbo,6
+11,Jimbo,Mr. Garrison,2
+12,Cartman,Ned,3
+13,Mr. Garrison,Ned,1
+14,Cartman,Mr. Garrison,3
+15,Cartman,Priest Maxi,6
+16,Cartman,Kyle,53
+17,Cartman,Stan,54
+18,Kyle,Priest Maxi,6
+19,Priest Maxi,Stan,4
+20,Chris,Liane,1
+21,Cartman,Chris,10
+22,Gerald,Kyle,64
+23,Kyle,Sheila,64
+24,Gerald,Stan,6
+25,Gerald,Sheila,85
+26,Sheila,Stan,8
+27,Boy,Kids,2
+28,Cartman,Kids,18
+29,Butters,Kids,8
+30,Clyde,Kids,4
+31,Boy,Cartman,19
+32,Boy,Butters,4
+33,Boy,Clyde,2
+34,Butters,Cartman,36
+35,Cartman,Clyde,18
+36,Butters,Clyde,8
+37,Cartman,Timmy,5
+38,Boy,Timmy,1
+39,Stan,Timmy,3
+40,Boy,Stan,3
+41,Gerald,Nurse,9
+42,Kyle,Nurse,6
+43,Nurse,Sheila,9
+44,Announcer,Doctor,1
+45,Cartman,Kenny,1
+46,Boy,Chris,1
+47,Doctor,Sheila,5
+48,Agent,Cartman,14
+49,Doctor,Stan,2

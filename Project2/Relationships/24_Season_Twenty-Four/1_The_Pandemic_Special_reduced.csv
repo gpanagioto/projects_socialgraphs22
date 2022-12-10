@@ -1,0 +1,124 @@
+,source,target,weight
+0,Butters,Stephen,6
+1,Roger,Stephen,8
+2,Butters,Roger,1
+3,Randy,Sharon,152
+4,Clyde,Wendy,1
+5,Clyde,Kyle,1
+6,Clyde,Stan,1
+7,Cartman,Clyde,12
+8,Clyde,Liane,9
+9,Kyle,Wendy,1
+10,Stan,Wendy,1
+11,Cartman,Wendy,12
+12,Liane,Wendy,9
+13,Kyle,Stan,129
+14,Cartman,Kyle,84
+15,Kyle,Liane,9
+16,Cartman,Stan,99
+17,Liane,Stan,9
+18,Cartman,Liane,108
+19,Sharon,Stan,27
+20,Randy,Stan,49
+21,Shelly,Stan,6
+22,Sharon,Shelly,12
+23,Randy,Shelly,8
+24,Anchor Tom,Stan,1
+25,Chief Scientist,Stan,27
+26,Anchor Tom,Sharon,1
+27,Chief Scientist,Sharon,13
+28,Anchor Tom,Chief Scientist,3
+29,Anchor Tom,Randy,2
+30,Chief Scientist,Randy,52
+31,Mickey Mouse,Randy,1
+32,Mickey,Randy,56
+33,Mickey,Stan,2
+34,Sheila,Stephen,4
+35,Sheila,Thomas,2
+36,Mr. Mackey,Sheila,4
+37,Mrs. Testaburger,Sheila,1
+38,Roger,Sheila,1
+39,Sharon,Sheila,1
+40,Stephen,Thomas,13
+41,Mr. Mackey,Stephen,16
+42,Mrs. Testaburger,Stephen,7
+43,Sharon,Stephen,4
+44,Mr. Mackey,Thomas,8
+45,Mrs. Testaburger,Thomas,3
+46,Roger,Thomas,2
+47,Sharon,Thomas,2
+48,Mr. Mackey,Mrs. Testaburger,4
+49,Mr. Mackey,Roger,4
+50,Mr. Mackey,Sharon,4
+51,Mrs. Testaburger,Roger,1
+52,Mrs. Testaburger,Sharon,1
+53,Roger,Sharon,1
+54,Bill Keegan,Stan,12
+55,Bill Keegan,Randy,15
+56,Bill Keegan,Chief Scientist,15
+57,Bill Keegan,Sharon,6
+58,Cartman,Yates,14
+59,Cartman,Mitch,9
+60,Cartman,Tolkien,3
+61,Mitch,Yates,6
+62,Kyle,Yates,14
+63,Tolkien,Yates,2
+64,Kyle,Mitch,3
+65,Mitch,Tolkien,3
+66,Kyle,Tolkien,1
+67,Stan,Yates,16
+68,Jimbo,Randy,28
+69,Butters,Stan,86
+70,Garrison,Stan,67
+71,Jimbo,Sharon,18
+72,Gerald,Sheila,2
+73,Dr. Doctor,Gerald,6
+74,Gerald,Nurse,2
+75,Dr. Doctor,Sheila,3
+76,Nurse,Sheila,1
+77,Dr. Doctor,Nurse,3
+78,Craig,Stan,12
+79,Jimmy,Stan,12
+80,Butters,Kyle,27
+81,Butters,Craig,2
+82,Butters,Jimmy,2
+83,Butters,Cartman,19
+84,Craig,Kyle,1
+85,Jimmy,Kyle,1
+86,Craig,Jimmy,1
+87,Cartman,Craig,5
+88,Cartman,Jimmy,5
+89,Bill Keegan,Stephen,3
+90,Bill Keegan,Thomas,1
+91,Bill Keegan,Mrs. Testaburger,1
+92,Mayor McDaniels,Yates,8
+93,Kyle,Randy,12
+94,Kyle,Stephen,8
+95,Kyle,Thomas,4
+96,Chief Scientist,Kyle,4
+97,Garrison,Kyle,4
+98,Stan,Stephen,8
+99,Stan,Thomas,4
+100,Butters,Yates,3
+101,Randy,Yates,9
+102,Stephen,Yates,6
+103,Thomas,Yates,3
+104,Chief Scientist,Yates,3
+105,Garrison,Yates,3
+106,Butters,Randy,3
+107,Butters,Thomas,1
+108,Butters,Chief Scientist,1
+109,Butters,Garrison,1
+110,Randy,Stephen,6
+111,Randy,Thomas,3
+112,Cartman,Randy,6
+113,Garrison,Randy,3
+114,Cartman,Stephen,4
+115,Chief Scientist,Stephen,2
+116,Garrison,Stephen,2
+117,Cartman,Thomas,2
+118,Chief Scientist,Thomas,1
+119,Garrison,Thomas,1
+120,Cartman,Chief Scientist,2
+121,Cartman,Garrison,2
+122,Chief Scientist,Garrison,1

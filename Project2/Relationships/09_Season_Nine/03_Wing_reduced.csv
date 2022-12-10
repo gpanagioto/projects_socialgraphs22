@@ -1,0 +1,49 @@
+,source,target,weight
+0,Cartman,Stan,274
+1,Mrs. Garrison,Stan,3
+2,Class,Stan,1
+3,Cartman,Mrs. Garrison,5
+4,Cartman,Class,2
+5,Class,Mrs. Garrison,2
+6,Cartman,Kyle,271
+7,Kyle,Stan,219
+8,Cartman,Tolkien,89
+9,Stan,Tolkien,34
+10,Kyle,Tolkien,39
+11,Kenny,Stan,25
+12,Cartman,Kenny,39
+13,Kenny,Tolkien,8
+14,Kenny,Kyle,24
+15,Mrs. Garrison,Tolkien,3
+16,Principal Victoria,Tolkien,3
+17,Principal Victoria,Stan,1
+18,Cartman,Principal Victoria,1
+19,Mrs. Garrison,Principal Victoria,1
+20,Agent,Kyle,41
+21,Don,Kyle,12
+22,Agent,Cartman,44
+23,Cartman,Don,28
+24,Agent,Tolkien,10
+25,Don,Tolkien,20
+26,Agent,Kenny,2
+27,Don,Kenny,4
+28,Agent,Stan,39
+29,Don,Stan,8
+30,Agent,Don,8
+31,Attendant,Kyle,7
+32,Attendant,Cartman,6
+33,Attendant,Stan,7
+34,Agent,Attendant,5
+35,Announcer,Cartman,3
+36,Announcer,Kyle,2
+37,Announcer,Stan,1
+38,Announcer,The Boys,2
+39,Cartman,The Boys,28
+40,Kyle,The Boys,18
+41,Stan,The Boys,20
+42,Cartman,Producer,55
+43,Producer,Stan,45
+44,Kyle,Producer,35
+45,Kenny,Producer,10
+46,Producer,The Boys,10
+47,Kenny,The Boys,4

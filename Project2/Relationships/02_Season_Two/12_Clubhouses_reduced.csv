@@ -1,0 +1,37 @@
+,source,target,weight
+0,Kyle,Stan,72
+1,Cartman,Stan,48
+2,Cartman,Kyle,38
+3,Stan,Wendy,36
+4,Kyle,Wendy,29
+5,Bebe,Wendy,15
+6,Phillip,Terrance,1
+7,Randy,Stan,32
+8,Randy,Sharon,98
+9,Kenny,Stan,8
+10,Cartman,Kenny,27
+11,Kenny,Kyle,7
+12,Kenny,Liane,8
+13,Cartman,Liane,20
+14,Sharon,Stan,65
+15,Kyle,Mr. Garrison,12
+16,Class,Kyle,2
+17,Mr. Garrison,Stan,45
+18,Class,Mr. Garrison,6
+19,Cartman,Mr. Garrison,15
+20,Kenny,Mr. Garrison,6
+21,Mr. Garrison,Wendy,6
+22,Class,Stan,5
+23,Cartman,Class,2
+24,Class,Kenny,1
+25,Class,Wendy,1
+26,Cartman,Wendy,2
+27,Kenny,Wendy,1
+28,Mr. Mackey,Stan,29
+29,Mr. Mackey,Randy,72
+30,Mr. Mackey,Sharon,72
+31,Bebe,Stan,13
+32,Chef,Stan,29
+33,Cartman,Sharon,5
+34,Bebe,Kyle,21
+35,Bill,Stan,1

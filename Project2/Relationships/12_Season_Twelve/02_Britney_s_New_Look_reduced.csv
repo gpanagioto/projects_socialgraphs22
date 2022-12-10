@@ -1,0 +1,90 @@
+,source,target,weight
+0,Cartman,Randy,11
+1,Moderator,Randy,2
+2,Cartman,Moderator,1
+3,Butters,Randy,12
+4,Anchorman,Butters,4
+5,Butters,Robert Pooner,16
+6,Butters,Cartman,16
+7,Butters,Ron,12
+8,Butters,Kyle,25
+9,Butters,Hillary Clinton,4
+10,Butters,Stan,22
+11,Anchorman,Randy,3
+12,Randy,Robert Pooner,12
+13,Randy,Ron,9
+14,Kyle,Randy,21
+15,Hillary Clinton,Randy,3
+16,Randy,Stan,24
+17,Anchorman,Robert Pooner,4
+18,Anchorman,Cartman,3
+19,Anchorman,Ron,3
+20,Anchorman,Kyle,3
+21,Anchorman,Hillary Clinton,1
+22,Anchorman,Stan,2
+23,Cartman,Robert Pooner,12
+24,Robert Pooner,Ron,22
+25,Kyle,Robert Pooner,12
+26,Hillary Clinton,Robert Pooner,4
+27,Robert Pooner,Stan,8
+28,Cartman,Ron,9
+29,Cartman,Kyle,14
+30,Cartman,Hillary Clinton,3
+31,Cartman,Stan,11
+32,Kyle,Ron,9
+33,Hillary Clinton,Ron,3
+34,Ron,Stan,6
+35,Hillary Clinton,Kyle,3
+36,Kyle,Stan,74
+37,Hillary Clinton,Stan,2
+38,Cartman,Guard,4
+39,Guard,Kyle,10
+40,Guard,Stan,10
+41,Butters,Guard,8
+42,Britney,Guard,10
+43,Guard,The Boys,2
+44,Britney,Kyle,27
+45,Britney,Stan,37
+46,Britney,The Boys,5
+47,Britney,Butters,15
+48,Britney,Cartman,5
+49,Kyle,The Boys,4
+50,Stan,The Boys,4
+51,Butters,The Boys,3
+52,Cartman,The Boys,1
+53,Doctor,Stan,24
+54,Doctor,Kyle,22
+55,Anchorman,Reporter,1
+56,Chris,Reporter,1
+57,Anchorman,Chris,1
+58,Doctor,Manager,5
+59,Britney,Doctor,5
+60,Britney,Manager,11
+61,Manager,Stan,18
+62,Kyle,Manager,16
+63,Kyle,Singers,2
+64,Singers,Stan,2
+65,Clerk,Stan,1
+66,Leslie,Ron,5
+67,Leslie,Robert Pooner,2
+68,Kyle,Reporter,3
+69,Manager,Reporter,2
+70,Officer,Reporter,1
+71,Kyle,Officer,3
+72,Manager,Officer,2
+73,Gerald,Stan,6
+74,Mother,Stan,6
+75,Britney,Gerald,1
+76,Britney,Randy,3
+77,Britney,Mother,1
+78,Gerald,Kyle,4
+79,Kyle,Mother,4
+80,Gerald,Randy,3
+81,Gerald,Manager,1
+82,Gerald,Mother,1
+83,Doctor,Gerald,1
+84,Manager,Randy,3
+85,Mother,Randy,3
+86,Doctor,Randy,3
+87,Manager,Mother,1
+88,Doctor,Mother,1

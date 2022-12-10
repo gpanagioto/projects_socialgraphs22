@@ -1,0 +1,71 @@
+,source,target,weight
+0,Cartman,Mr. Mackey,12
+1,Mr. Mackey,Stan,6
+2,Kenny,Mr. Mackey,3
+3,Mr. Mackey,Priest Maxi,6
+4,Cartman,Stan,197
+5,Cartman,Kenny,42
+6,Cartman,Priest Maxi,54
+7,Kenny,Stan,49
+8,Priest Maxi,Stan,33
+9,Kenny,Priest Maxi,2
+10,Men,Singers,1
+11,Men,Satan,4
+12,Gary,Men,1
+13,Satan,Singers,4
+14,Gary,Singers,1
+15,Gary,Satan,4
+16,Chris,Satan,232
+17,Chris,Saddam,46
+18,Saddam,Satan,86
+19,Randy,Sharon,4
+20,Randy,Stan,5
+21,Cartman,Randy,4
+22,Priest Maxi,Randy,2
+23,Sharon,Stan,4
+24,Cartman,Sharon,2
+25,Priest Maxi,Sharon,2
+26,Sister Anne,Stan,110
+27,Butters,Stan,48
+28,Cartman,Sister Anne,105
+29,Kenny,Sister Anne,36
+30,Butters,Sister Anne,28
+31,Butters,Cartman,48
+32,Butters,Kenny,12
+33,Cartman,Kyle,54
+34,Cartman,Timmy,28
+35,Kyle,Stan,55
+36,Stan,Timmy,26
+37,Kenny,Kyle,13
+38,Butters,Kyle,18
+39,Kyle,Timmy,14
+40,Kenny,Timmy,6
+41,Butters,Timmy,6
+42,Priest Maxi,Sister Anne,32
+43,Gerald,Ike,6
+44,Gerald,Sheila,10
+45,Gerald,Kyle,10
+46,Ike,Sheila,15
+47,Ike,Kyle,17
+48,Kyle,Sheila,25
+49,Kyle,Priest Maxi,14
+50,Ike,Priest Maxi,7
+51,Ike,Stan,1
+52,Kyle,Sister Anne,8
+53,Ike,Sister Anne,4
+54,Secretary,Sister Anne,10
+55,Stan,Tolkien,4
+56,Butters,Tolkien,2
+57,Clyde,Tolkien,2
+58,Kenny,Tolkien,1
+59,Cartman,Tolkien,2
+60,Clyde,Stan,8
+61,Butters,Clyde,4
+62,Clyde,Kenny,2
+63,Cartman,Clyde,4
+64,Butters,Priest Maxi,4
+65,Randy,Sister Anne,1
+66,Heidi,Randy,1
+67,Heidi,Sister Anne,1
+68,Heidi,Stan,1
+69,Cartman,Heidi,2

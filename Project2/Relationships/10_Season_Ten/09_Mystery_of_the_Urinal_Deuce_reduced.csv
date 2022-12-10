@@ -1,0 +1,78 @@
+,source,target,weight
+0,Butters,Mr. Mackey,3
+1,Mr. Mackey,Stan,3
+2,Jimmy,Mr. Mackey,3
+3,Cartman,Mr. Mackey,6
+4,Kyle,Mr. Mackey,3
+5,Butters,Stan,6
+6,Butters,Jimmy,1
+7,Butters,Cartman,52
+8,Butters,Kyle,47
+9,Jimmy,Stan,1
+10,Cartman,Stan,12
+11,Kyle,Stan,170
+12,Cartman,Jimmy,2
+13,Jimmy,Kyle,1
+14,Cartman,Kyle,92
+15,Frank,Joe,59
+16,Kyle,Sheila,4
+17,Principal Victoria,Skeeter,2
+18,Other men,Principal Victoria,2
+19,Mr. Adler,Principal Victoria,1
+20,Mr. Mackey,Principal Victoria,6
+21,Principal Victoria,Sheila,1
+22,Jimbo,Principal Victoria,1
+23,Principal Victoria,Randy,1
+24,Principal Victoria,Richard,1
+25,Det. Yates,Principal Victoria,1
+26,Other men,Skeeter,4
+27,Mr. Adler,Skeeter,2
+28,Mr. Mackey,Skeeter,8
+29,Sheila,Skeeter,2
+30,Jimbo,Skeeter,2
+31,Randy,Skeeter,2
+32,Richard,Skeeter,2
+33,Det. Yates,Skeeter,2
+34,Mr. Adler,Other men,2
+35,Mr. Mackey,Other men,8
+36,Other men,Sheila,2
+37,Jimbo,Other men,2
+38,Other men,Randy,2
+39,Other men,Richard,2
+40,Det. Yates,Other men,2
+41,Mr. Adler,Mr. Mackey,4
+42,Mr. Adler,Sheila,1
+43,Jimbo,Mr. Adler,1
+44,Mr. Adler,Randy,1
+45,Mr. Adler,Richard,1
+46,Det. Yates,Mr. Adler,1
+47,Mr. Mackey,Sheila,4
+48,Jimbo,Mr. Mackey,4
+49,Mr. Mackey,Randy,4
+50,Mr. Mackey,Richard,4
+51,Det. Yates,Mr. Mackey,4
+52,Jimbo,Sheila,1
+53,Randy,Sheila,1
+54,Richard,Sheila,1
+55,Det. Yates,Sheila,1
+56,Jimbo,Randy,1
+57,Jimbo,Richard,1
+58,Det. Yates,Jimbo,1
+59,Randy,Richard,1
+60,Det. Yates,Randy,2
+61,Det. Yates,Richard,1
+62,Det. Yates,Frank,5
+63,Frank,Randy,5
+64,Det. Yates,Joe,5
+65,Joe,Randy,5
+66,Mr. Mackey,Mrs. Garrison,2
+67,Clyde,Mr. Mackey,2
+68,Clyde,Principal Victoria,1
+69,Bush,Kyle,80
+70,Bush,Stan,77
+71,Frank,Stan,36
+72,Joe,Stan,9
+73,Frank,Kyle,40
+74,Joe,Kyle,10
+75,Bush,Frank,12
+76,Bush,Joe,3

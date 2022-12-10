@@ -1,0 +1,133 @@
+,source,target,weight
+0,DJ,Stan,3
+1,Cartman,Kyle,99
+2,Kyle,Stan,154
+3,Cartman,Stan,138
+4,Cartman,Guide,6
+5,Guide,Kyle,1
+6,Kenny,Kyle,21
+7,Kenny,Stan,21
+8,Cartman,Kenny,16
+9,DJ,Priest Maxi,4
+10,David,Fieldy,20
+11,David,Jonathan,72
+12,Fieldy,Jonathan,43
+13,Cartman,Liane,24
+14,Liane,Stan,8
+15,Kyle,Liane,4
+16,A voice,Kyle,4
+17,A voice,Cartman,2
+18,A voice,Stan,2
+19,Stan,The Boys,9
+20,Jonathan,Stan,73
+21,Priest Maxi,Stan,16
+22,Kyle,The Boys,8
+23,Jonathan,Kyle,61
+24,Kyle,Priest Maxi,6
+25,Cartman,The Boys,2
+26,Cartman,Jonathan,25
+27,Cartman,Priest Maxi,6
+28,Jonathan,The Boys,13
+29,Priest Maxi,The Boys,1
+30,Jonathan,Priest Maxi,25
+31,Brunet,Sheila,111
+32,Blond,Brunet,66
+33,Blond,Sheila,60
+34,Brunet,Crowd,6
+35,Barbrady,Brunet,6
+36,Brunet,Priest Maxi,6
+37,Barbrady,Crowd,9
+38,Crowd,Priest Maxi,6
+39,Barbrady,Priest Maxi,9
+40,DJ,Jonathan,16
+41,DJ,Kyle,8
+42,DJ,David,8
+43,DJ,Kenny,2
+44,DJ,Fieldy,6
+45,DJ,The Boys,2
+46,Jonathan,Kenny,9
+47,David,Kyle,17
+48,Fieldy,Kyle,14
+49,David,Kenny,4
+50,David,Stan,14
+51,David,The Boys,4
+52,Fieldy,Kenny,3
+53,Kenny,The Boys,1
+54,Fieldy,Stan,7
+55,Fieldy,The Boys,3
+56,Gerald,Sheila,1
+57,Mr. Garrison,Sheila,1
+58,Sharon,Sheila,2
+59,Crowd,Sheila,1
+60,Randy,Sheila,1
+61,Gerald,Mr. Garrison,1
+62,Gerald,Sharon,1
+63,Crowd,Gerald,1
+64,Gerald,Randy,1
+65,Mr. Garrison,Sharon,1
+66,Crowd,Mr. Garrison,1
+67,Mr. Garrison,Randy,1
+68,Crowd,Sharon,1
+69,Randy,Sharon,1
+70,Crowd,Randy,3
+71,Cartman,David,14
+72,Brunet,Cartman,2
+73,Cartman,Crowd,4
+74,Cartman,Randy,2
+75,Cartman,Fieldy,2
+76,Barbrady,Cartman,6
+77,Cartman,Chef,2
+78,Brunet,Stan,4
+79,Crowd,Stan,4
+80,Randy,Stan,2
+81,Barbrady,Stan,8
+82,Chef,Stan,8
+83,Brunet,Jonathan,10
+84,Crowd,Jonathan,14
+85,Jonathan,Randy,7
+86,Barbrady,Jonathan,24
+87,Chef,Jonathan,16
+88,Brunet,David,5
+89,Crowd,David,8
+90,David,Randy,4
+91,Barbrady,David,13
+92,David,Priest Maxi,10
+93,Chef,David,7
+94,Brunet,Randy,1
+95,Brunet,Fieldy,2
+96,Brunet,Chef,4
+97,Crowd,Fieldy,2
+98,Chef,Crowd,2
+99,Fieldy,Randy,1
+100,Barbrady,Randy,3
+101,Priest Maxi,Randy,2
+102,Chef,Randy,1
+103,Barbrady,Fieldy,4
+104,Fieldy,Priest Maxi,4
+105,Chef,Fieldy,4
+106,Barbrady,Chef,6
+107,Chef,Priest Maxi,8
+108,Jonathan,Sheila,3
+109,Jonathan,Sharon,3
+110,David,Sheila,1
+111,David,Sharon,1
+112,Fieldy,Sheila,1
+113,Fieldy,Sharon,1
+114,Chef,Sheila,3
+115,Chef,Kyle,3
+116,Chef,Sharon,3
+117,Priest Maxi,Sheila,2
+118,Priest Maxi,Sharon,2
+119,Brunet,Kyle,1
+120,Brunet,Sharon,1
+121,Barbrady,Sheila,1
+122,Barbrady,Kyle,1
+123,Barbrady,Sharon,1
+124,Kyle,Sheila,1
+125,Sheila,Stan,2
+126,Kyle,Sharon,1
+127,Sharon,Stan,2
+128,Jonathan,Mr. Garrison,1
+129,Mr. Garrison,Stan,1
+130,Cartman,Mr. Garrison,1
+131,Kenny,Mr. Garrison,1

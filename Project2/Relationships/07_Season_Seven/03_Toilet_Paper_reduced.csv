@@ -1,0 +1,51 @@
+,source,target,weight
+0,Cartman,Teacher,29
+1,Cartman,Kyle,227
+2,Cartman,Stan,127
+3,Butters,Cartman,31
+4,Kyle,Teacher,9
+5,Stan,Teacher,14
+6,Butters,Teacher,6
+7,Kyle,Stan,64
+8,Butters,Kyle,26
+9,Butters,Stan,19
+10,Kenny,Kyle,17
+11,Cartman,Kenny,40
+12,Kenny,Stan,21
+13,Kenny,Teacher,2
+14,Cartman,Cashier,30
+15,Cashier,Kyle,15
+16,Cashier,Stan,5
+17,Cartman,Clyde,3
+18,Butters,Clyde,1
+19,Clyde,Mr. Garrison,1
+20,Clyde,Kyle,1
+21,Cartman,Mr. Garrison,3
+22,Butters,Mr. Garrison,1
+23,Kyle,Mr. Garrison,1
+24,Cartman,Mr. Mackey,25
+25,Mr. Mackey,Stan,9
+26,Kyle,Mr. Mackey,26
+27,Kenny,Mr. Mackey,2
+28,Josh,Officer Barbrady,157
+29,Butters,Kenny,2
+30,Officer Barbrady,Stan,10
+31,Cartman,Officer Barbrady,18
+32,Butters,Officer Barbrady,32
+33,Kyle,Officer Barbrady,28
+34,Butters,Stephen,16
+35,Butters,Linda,8
+36,Linda,Stephen,8
+37,Officer Barbrady,Stephen,8
+38,Linda,Officer Barbrady,4
+39,Mr. Mackey,Principal Victoria,9
+40,Josh,Mr. Mackey,6
+41,Mr. Mackey,Officer Barbrady,6
+42,Kyle,Principal Victoria,18
+43,Josh,Kyle,12
+44,Josh,Principal Victoria,6
+45,Officer Barbrady,Principal Victoria,6
+46,Principal Victoria,Stan,3
+47,Cartman,Principal Victoria,9
+48,Josh,Stan,2
+49,Cartman,Josh,6

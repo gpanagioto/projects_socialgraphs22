@@ -1,0 +1,65 @@
+,source,target,weight
+0,Butters,Stan,4
+1,Butters,Kyle,2
+2,Butters,Cartman,2
+3,Kyle,Stan,24
+4,Cartman,Stan,2
+5,Cartman,Kyle,1
+6,Stan,Wendy,42
+7,Dr. Chinstrap,Stan,101
+8,Class,Stan,13
+9,Class,Dr. Chinstrap,9
+10,Dr. Chinstrap,Kyle,18
+11,Class,Kyle,2
+12,Mr. Mackey,Stan,18
+13,Principal Victoria,Sharon,2
+14,Dr. Chinstrap,Principal Victoria,3
+15,Principal Victoria,Randy,1
+16,Dr. Chinstrap,Sharon,108
+17,Randy,Sharon,2
+18,Dr. Chinstrap,Randy,39
+19,Dr. Chinstrap,Mr. Mackey,32
+20,Billy,Mackey,59
+21,Mackey,Stan,152
+22,Billy,Stan,47
+23,Dr. Chinstrap,Pinkerton,38
+24,Pinkerton,Randy,4
+25,Driver,Stan,9
+26,Randy,Stan,55
+27,Driver,Mackey,2
+28,Mackey,Randy,12
+29,Billy,Driver,1
+30,Billy,Randy,6
+31,Driver,Randy,6
+32,DiCaprio,Dr. Chinstrap,38
+33,Pinkerton,Sharon,34
+34,DiCaprio,Pinkerton,13
+35,DiCaprio,Sharon,102
+36,Class,Mackey,7
+37,Billy,Class,1
+38,Class,DiCaprio,2
+39,DiCaprio,Mackey,32
+40,DiCaprio,Stan,23
+41,Billy,DiCaprio,8
+42,Dr. Chinstrap,Fire Captain,10
+43,Fire Captain,Pinkerton,12
+44,Dr. Chinstrap,Freddy Krueger,65
+45,Billy,Fire Captain,6
+46,Billy,Freddy Krueger,2
+47,Fire Captain,Stan,20
+48,Freddy Krueger,Stan,7
+49,Fire Captain,Mackey,18
+50,Freddy Krueger,Mackey,6
+51,DiCaprio,Fire Captain,11
+52,DiCaprio,Freddy Krueger,4
+53,Fire Captain,Freddy Krueger,5
+54,Fire Captain,Randy,2
+55,Freddy Krueger,Randy,1
+56,Mr. Mackey,Randy,2
+57,DiCaprio,Randy,1
+58,Fire Captain,Mr. Mackey,4
+59,Freddy Krueger,Mr. Mackey,2
+60,Freddy Krueger,Pinkerton,1
+61,DiCaprio,Mr. Mackey,2
+62,Mr. Mackey,Pinkerton,2
+63,Pinkerton,Stan,1

@@ -1,0 +1,136 @@
+,source,target,weight
+0,Mr. Garrison,Mr. Slave,2
+1,Cartman,Mr. Slave,8
+2,Cartman,Mr. Garrison,2
+3,Kyle,Stan,54
+4,Kyle,Protesters,12
+5,Kyle,Mr. Mackey,14
+6,A voice,Kyle,3
+7,Kyle,Tom,9
+8,Cartman,Kyle,72
+9,Kyle,Skeeter,19
+10,Kyle,Stuart,15
+11,Kyle,Supporters,11
+12,Kyle,Randy,19
+13,Protesters,Stan,16
+14,Mr. Mackey,Stan,18
+15,A voice,Stan,3
+16,Stan,Tom,9
+17,Cartman,Stan,55
+18,Skeeter,Stan,22
+19,Stan,Stuart,18
+20,Stan,Supporters,15
+21,Randy,Stan,23
+22,Mr. Mackey,Protesters,14
+23,A voice,Protesters,2
+24,Protesters,Tom,6
+25,Cartman,Protesters,4
+26,Protesters,Skeeter,10
+27,Protesters,Stuart,6
+28,Protesters,Supporters,10
+29,Protesters,Randy,10
+30,A voice,Mr. Mackey,2
+31,Mr. Mackey,Tom,6
+32,Cartman,Mr. Mackey,8
+33,Mr. Mackey,Skeeter,20
+34,Mr. Mackey,Stuart,7
+35,Mr. Mackey,Supporters,10
+36,Mr. Mackey,Randy,18
+37,A voice,Tom,3
+38,A voice,Cartman,2
+39,A voice,Skeeter,2
+40,A voice,Stuart,1
+41,A voice,Supporters,1
+42,A voice,Randy,1
+43,Cartman,Tom,6
+44,Skeeter,Tom,6
+45,Stuart,Tom,3
+46,Supporters,Tom,3
+47,Randy,Tom,3
+48,Cartman,Skeeter,12
+49,Cartman,Stuart,6
+50,Cartman,Supporters,2
+51,Cartman,Randy,10
+52,Skeeter,Stuart,16
+53,Skeeter,Supporters,8
+54,Randy,Skeeter,58
+55,Stuart,Supporters,7
+56,Randy,Stuart,19
+57,Randy,Supporters,9
+58,Butters,Mr. Garrison,2
+59,Butters,Class,1
+60,Class,Mr. Garrison,2
+61,Kenny,Kyle,10
+62,Kyle,Mr. Slave,4
+63,Cartman,Kenny,7
+64,Kenny,Stan,11
+65,Mr. Slave,Stan,3
+66,Kenny,Mr. Slave,1
+67,Jimbo,Randy,14
+68,Protester,Randy,2
+69,Gerald,Randy,16
+70,Randy,Townsfolk,7
+71,Jimbo,Protesters,3
+72,Protester,Protesters,1
+73,Gerald,Protesters,3
+74,Protesters,Townsfolk,1
+75,Jimbo,Protester,3
+76,Jimbo,Stuart,4
+77,Gerald,Jimbo,5
+78,Jimbo,Townsfolk,4
+79,Jimbo,Skeeter,12
+80,Protester,Stuart,1
+81,Gerald,Protester,1
+82,Protester,Townsfolk,1
+83,Protester,Skeeter,1
+84,Gerald,Stuart,10
+85,Stuart,Townsfolk,3
+86,Gerald,Townsfolk,4
+87,Gerald,Skeeter,13
+88,Skeeter,Townsfolk,6
+89,Mayor McDaniels,Randy,11
+90,Mayor McDaniels,Skeeter,12
+91,Gerald,Mayor McDaniels,4
+92,Mayor McDaniels,Stuart,2
+93,Mayor McDaniels,Mr. Mackey,3
+94,Mayor McDaniels,Townsfolk,2
+95,Jimbo,Mayor McDaniels,3
+96,Gerald,Mr. Mackey,5
+97,Mr. Mackey,Townsfolk,2
+98,Jimbo,Mr. Mackey,2
+99,Dr. Doctor,Liane,3
+100,Dr. Doctor,Kyle,2
+101,Dr. Doctor,Stan,1
+102,Kyle,Liane,6
+103,Liane,Stan,3
+104,Kenny,Protesters,2
+105,Gerald,Kyle,8
+106,Kenny,Randy,6
+107,Gerald,Stan,10
+108,Kenny,Mr. Mackey,2
+109,Gerald,Supporters,4
+110,Gerald,Kenny,4
+111,Kenny,Supporters,4
+112,Kenny,Skeeter,4
+113,Kenny,Stuart,6
+114,Adams,Cartman,7
+115,Mr. Mackey,Sharon,3
+116,Protesters,Sharon,3
+117,Randy,Sharon,1
+118,Sharon,Stan,2
+119,Kyle,Sharon,1
+120,Sharon,Skeeter,1
+121,Sharon,Supporters,2
+122,Cartman,Townsman,4
+123,Stan,Townsman,2
+124,Kyle,Townsman,2
+125,Randy,Townsman,2
+126,Skeeter,Townsman,2
+127,Gerald,Townsman,1
+128,Mr. Mackey,Townsman,1
+129,Stuart,Townsman,1
+130,Townsfolk,Townsman,1
+131,Cartman,Gerald,4
+132,Cartman,Townsfolk,4
+133,Stan,Townsfolk,2
+134,Kyle,Townsfolk,2

@@ -1,0 +1,27 @@
+,source,target,weight
+0,Kyle,Mr. Mackey,6
+1,Butters,Kyle,2
+2,Kyle,Stan,112
+3,Al Gore,Kyle,44
+4,Butters,Mr. Mackey,3
+5,Mr. Mackey,Stan,3
+6,Al Gore,Mr. Mackey,9
+7,Butters,Stan,1
+8,Al Gore,Butters,3
+9,Al Gore,Stan,97
+10,Cartman,Kyle,179
+11,Cartman,Stan,100
+12,Randy,Stan,10
+13,Kyle,Randy,8
+14,Al Gore,Cartman,17
+15,Cartman,Randy,4
+16,Al Gore,Randy,6
+17,Kenny,Stan,34
+18,Al Gore,Kenny,7
+19,Kenny,Kyle,62
+20,Cartman,Kenny,57
+21,Al Gore,Group,7
+22,Group,Kyle,2
+23,Al Gore,The boys,8
+24,Kyle,The boys,2
+25,Stan,The boys,2

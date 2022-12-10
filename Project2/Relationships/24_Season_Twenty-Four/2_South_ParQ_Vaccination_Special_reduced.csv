@@ -1,0 +1,63 @@
+,source,target,weight
+0,Mr. Mackey,Walgreens Bouncer,17
+1,Stephen Stotch,Walgreens Bouncer,8
+2,Mr. Mackey,Stephen Stotch,2
+3,Cartman,Stan,185
+4,Cartman,Kenny,72
+5,Kenny,Kyle,47
+6,Cartman,Kyle,213
+7,Bebe,Cartman,4
+8,Cartman,Kids,4
+9,Bebe,Kids,1
+10,Kyle,Stan,128
+11,Butters,Kyle,6
+12,Kenny,Stan,43
+13,Butters,Kenny,2
+14,Butters,Stan,4
+15,Butters,Cartman,10
+16,Mr. Garrison,Thompson,1
+17,Mr. Garrison,PC Principal,6
+18,Man with Burgundy Coat,Walgreens Bouncer,8
+19,Chris,Man with Burgundy Coat,6
+20,Man with Burgundy Coat,Stephen Stotch,2
+21,Chris,Walgreens Bouncer,12
+22,Chris,Stephen Stotch,3
+23,Marvin,Stan,1
+24,Cartman,Mr. Garrison,4
+25,Red,Scott,1
+26,Cartman,Red,5
+27,Kyle,Red,4
+28,Red,Stan,1
+29,Cartman,Scott,16
+30,Kyle,Scott,8
+31,Scott,Stan,7
+32,Bob White,Mr. Garrison,9
+33,Kenny,Mr. Mackey,5
+34,Cartman,Mr. Mackey,21
+35,Mr. Mackey,Stan,11
+36,Kyle,Mr. Mackey,11
+37,Cartman,Walgreens Bouncer,12
+38,Stan,Walgreens Bouncer,14
+39,Kyle,Walgreens Bouncer,10
+40,Clark,Ellen,4
+41,Ellen,Richard,4
+42,Clark,Richard,4
+43,Clark,Scott,3
+44,Chris,Tom,20
+45,Bebe,Mr. Garrison,15
+46,Cartman,Stephen,2
+47,Cartman,Man with Burgundy Coat,1
+48,Man with Burgundy Coat,Stephen,1
+49,Kyle,Stephen,1
+50,Kyle,Man with Burgundy Coat,1
+51,Craig,Mr. Garrison,14
+52,Gerald,Kyle,36
+53,Bob,Mr. Garrison,92
+54,Butters,Scott,6
+55,Mr. Garrison,Stan,1
+56,Mr. Garrison,Scott,1
+57,Mr. Garrison,Stephen,1
+58,Clyde,Stan,6
+59,Cartman,Clyde,8
+60,Clyde,Kyle,4
+61,Clyde,Kenny,4

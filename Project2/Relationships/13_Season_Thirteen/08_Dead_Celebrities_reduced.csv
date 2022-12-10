@@ -1,0 +1,83 @@
+,source,target,weight
+0,Gerald,Sheila,8
+1,Ike,Sheila,4
+2,Gerald,Ike,8
+3,Billy Mays,Ike,23
+4,Ike,Kyle,40
+5,Billy Mays,Kyle,23
+6,Cartman,Kyle,101
+7,Kenny,Kyle,19
+8,Kyle,Stan,60
+9,Cartman,Kenny,17
+10,Cartman,Stan,47
+11,Kenny,Stan,10
+12,Grant,Jason,40
+13,Jason,Kyle,7
+14,Grant,Kyle,5
+15,Jason,Stan,7
+16,Grant,Stan,5
+17,Billy Mays,Cartman,6
+18,Billy Mays,Walter Cronkite,15
+19,Billy Mays,Farrah Fawcett,4
+20,Billy Mays,DJ AM,4
+21,Billy Mays,Patrick Swayze,4
+22,Billy Mays,Michael Jackson,16
+23,Billy Mays,Stan,9
+24,Billy Mays,Kenny,3
+25,Cartman,Walter Cronkite,8
+26,Cartman,Farrah Fawcett,2
+27,Cartman,DJ AM,2
+28,Cartman,Patrick Swayze,2
+29,Cartman,Michael Jackson,10
+30,Cartman,Ike,22
+31,Farrah Fawcett,Walter Cronkite,4
+32,DJ AM,Walter Cronkite,9
+33,Patrick Swayze,Walter Cronkite,7
+34,Michael Jackson,Walter Cronkite,20
+35,Stan,Walter Cronkite,12
+36,Kyle,Walter Cronkite,24
+37,Ike,Walter Cronkite,8
+38,Kenny,Walter Cronkite,4
+39,DJ AM,Farrah Fawcett,1
+40,Farrah Fawcett,Patrick Swayze,1
+41,Farrah Fawcett,Michael Jackson,6
+42,Farrah Fawcett,Stan,3
+43,Farrah Fawcett,Kyle,6
+44,Farrah Fawcett,Ike,2
+45,Farrah Fawcett,Kenny,1
+46,DJ AM,Patrick Swayze,2
+47,DJ AM,Michael Jackson,5
+48,DJ AM,Stan,3
+49,DJ AM,Kyle,6
+50,DJ AM,Ike,2
+51,DJ AM,Kenny,1
+52,Michael Jackson,Patrick Swayze,5
+53,Patrick Swayze,Stan,3
+54,Kyle,Patrick Swayze,6
+55,Ike,Patrick Swayze,2
+56,Kenny,Patrick Swayze,1
+57,Michael Jackson,Stan,15
+58,Kyle,Michael Jackson,30
+59,Ike,Michael Jackson,10
+60,Kenny,Michael Jackson,5
+61,Ike,Stan,18
+62,Ike,Kenny,4
+63,DJ AM,Flight Attendant,4
+64,Flight Attendant,Walter Cronkite,9
+65,Pilot,Walter Cronkite,6
+66,Patrick Swayze,Pilot,2
+67,Flight Attendant,Patrick Swayze,1
+68,Billy Mays,Pilot,2
+69,Billy Mays,Flight Attendant,2
+70,DJ AM,Pilot,2
+71,Flight Attendant,Pilot,2
+72,Heidi,Kyle,3
+73,Cartman,Heidi,3
+74,Heidi,Stan,1
+75,Heidi,Ike,2
+76,Farrah Fawcett,Others,1
+77,Farrah Fawcett,Flight Attendant,1
+78,Flight Attendant,Others,1
+79,Michael Jackson,Others,1
+80,Billy Mays,Others,1
+81,Flight Attendant,Michael Jackson,1

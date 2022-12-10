@@ -1,0 +1,71 @@
+,source,target,weight
+0,Kyle,Stan,140
+1,Kyle,Pete,21
+2,Cartman,Kyle,119
+3,Clyde,Kyle,14
+4,Butters,Kyle,32
+5,Kyle,Timmy,20
+6,Pete,Stan,27
+7,Cartman,Stan,133
+8,Clyde,Stan,18
+9,Butters,Stan,32
+10,Stan,Timmy,34
+11,Cartman,Pete,12
+12,Clyde,Pete,6
+13,Butters,Pete,6
+14,Pete,Timmy,3
+15,Cartman,Clyde,8
+16,Butters,Cartman,25
+17,Cartman,Timmy,31
+18,Butters,Clyde,4
+19,Clyde,Timmy,2
+20,Butters,Timmy,2
+21,Butters,Kenny,1
+22,Butters,Ms. Choksondik,5
+23,Cartman,Kenny,5
+24,Cartman,Ms. Choksondik,119
+25,Kenny,Stan,6
+26,Ms. Choksondik,Stan,68
+27,Kenny,Kyle,2
+28,Kyle,Ms. Choksondik,52
+29,Kenny,Ms. Choksondik,5
+30,Kyle,Tweek,7
+31,Cartman,Tweek,5
+32,Stan,Tweek,4
+33,Butters,Tweek,2
+34,Chef,Mr. Mackey,13
+35,Chef,Ms. Choksondik,35
+36,Chef,Principal Victoria,22
+37,Mr. Mackey,Ms. Choksondik,35
+38,Mr. Mackey,Principal Victoria,22
+39,Ms. Choksondik,Principal Victoria,63
+40,Stan,Wendy,3
+41,Kids,Wendy,2
+42,Kyle,Wendy,3
+43,Ms. Choksondik,Wendy,6
+44,Cartman,Wendy,5
+45,Timmy,Wendy,2
+46,Kids,Stan,6
+47,Kids,Kyle,6
+48,Kids,Ms. Choksondik,12
+49,Cartman,Kids,10
+50,Kids,Timmy,4
+51,Ms. Choksondik,Timmy,28
+52,Brunette,Pilot,14
+53,Pilot,Timmy,10
+54,Hansen,Pilot,14
+55,Brunette,Timmy,28
+56,Brunette,Hansen,44
+57,Hansen,Timmy,28
+58,Mr. Garrison,Ms. Choksondik,85
+59,Mr. Garrison,Principal Victoria,5
+60,Chef,Mr. Garrison,2
+61,Mr. Garrison,Mr. Mackey,2
+62,Field Reporter,Timmy,2
+63,Brunette,Kenny,8
+64,Brunette,Stan,8
+65,Hansen,Kenny,10
+66,Hansen,Stan,10
+67,Kenny,Timmy,8
+68,Kenny,Pilot,4
+69,Pilot,Stan,4

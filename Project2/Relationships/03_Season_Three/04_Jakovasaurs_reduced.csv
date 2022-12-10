@@ -1,0 +1,114 @@
+,source,target,weight
+0,Cartman,Stan,89
+1,Kyle,Stan,53
+2,Cartman,Kyle,102
+3,Jimbo,Ned,27
+4,Jimbo,Stan,12
+5,Jimbo,Kyle,23
+6,Cartman,Jimbo,45
+7,Ned,Stan,4
+8,Kyle,Ned,3
+9,Cartman,Ned,14
+10,Mayor,Sheila,8
+11,Cartman,Sheila,4
+12,Ned,Sheila,1
+13,Jimbo,Sheila,1
+14,Sheila,Stan,2
+15,Mr. Garrison,Sheila,4
+16,Rancher,Sheila,1
+17,Cartman,Mayor,46
+18,Mayor,Ned,22
+19,Jimbo,Mayor,17
+20,Mayor,Stan,12
+21,Mayor,Mr. Garrison,30
+22,Mayor,Rancher,7
+23,Cartman,Mr. Garrison,8
+24,Cartman,Rancher,1
+25,Mr. Garrison,Ned,4
+26,Ned,Rancher,1
+27,Jimbo,Mr. Garrison,5
+28,Jimbo,Rancher,1
+29,Mr. Garrison,Stan,8
+30,Rancher,Stan,1
+31,Mr. Garrison,Rancher,4
+32,Cartman,Liane,34
+33,Jakov,Kyle,20
+34,Cartman,Jakov,92
+35,Jakov,Stan,25
+36,Amanda,Ned,12
+37,Amanda,Jimbo,6
+38,Kyle,Mayor,7
+39,Jakov,Mayor,132
+40,Jakov,Mephesto,6
+41,Mephesto,Stan,4
+42,Kyle,Mephesto,2
+43,Jakov,Randy,17
+44,Commentator,Jakov,21
+45,Jakov,Men,14
+46,Gerald,Jakov,14
+47,Jakov,Mr. Mackey,7
+48,Commentator,Randy,6
+49,Men,Randy,2
+50,Gerald,Randy,4
+51,Mr. Mackey,Randy,2
+52,Commentator,Men,3
+53,Commentator,Gerald,6
+54,Commentator,Mr. Mackey,3
+55,Gerald,Men,2
+56,Men,Mr. Mackey,1
+57,Gerald,Mr. Mackey,2
+58,Kyle,Sheila,3
+59,Mr. Hat,Stan,1
+60,Kyle,Mr. Garrison,4
+61,Mr. Garrison,Mr. Hat,4
+62,Kyle,Mr. Hat,1
+63,Cartman,Mr. Hat,1
+64,Chef,Mr. Garrison,1
+65,Chef,Mayor,2
+66,Chef,Jimbo,1
+67,Mayor,Men,2
+68,Mayor,Others,2
+69,Liane,Mayor,6
+70,Jakov,Others,7
+71,Jakov,Liane,13
+72,Jakov,Jimbo,16
+73,Men,Others,1
+74,Cartman,Men,6
+75,Liane,Men,1
+76,Jimbo,Men,1
+77,Cartman,Others,6
+78,Liane,Others,1
+79,Jimbo,Others,1
+80,Jimbo,Liane,7
+81,Boy,Jakov,32
+82,Boy,Cartman,8
+83,Barbrady,Ned,10
+84,Jakov,Ned,14
+85,Ned,Stagehand,1
+86,Barbrady,Mayor,118
+87,Mayor,Stagehand,11
+88,Barbrady,Jakov,86
+89,Barbrady,Stagehand,10
+90,Jakov,Stagehand,8
+91,Kenny,Stan,2
+92,Kenny,Kyle,3
+93,Cartman,Kenny,3
+94,Crowd,Randy,2
+95,Cartman,Randy,6
+96,Jimbo,Randy,3
+97,Liane,Randy,2
+98,Mayor,Randy,2
+99,Ned,Randy,2
+100,Kyle,Randy,1
+101,Randy,Stan,1
+102,Crowd,Jakov,6
+103,Cartman,Crowd,12
+104,Crowd,Jimbo,6
+105,Crowd,Liane,4
+106,Crowd,Mayor,4
+107,Crowd,Ned,4
+108,Crowd,Kyle,2
+109,Crowd,Stan,2
+110,Liane,Ned,4
+111,Kyle,Liane,2
+112,Liane,Stan,2

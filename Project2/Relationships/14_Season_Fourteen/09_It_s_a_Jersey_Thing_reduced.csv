@@ -1,0 +1,40 @@
+,source,target,weight
+0,Gerald,Sheila,5
+1,Gerald,Ike,3
+2,Gerald,Kyle,4
+3,Ike,Sheila,18
+4,Kyle,Sheila,44
+5,Ike,Kyle,16
+6,Joe,Sharon,7
+7,Randy,Sharon,9
+8,Joe,Randy,2
+9,Cartman,Kyle,111
+10,Cartman,Stan,46
+11,Kyle,Stan,39
+12,Sharon,Sheila,10
+13,Mr. Garrison,Randy,5
+14,Jimbo,Mr. Garrison,2
+15,Mr. Garrison,Sheila,1
+16,Jimbo,Randy,13
+17,Randy,Sheila,1
+18,Jimbo,Sheila,2
+19,Kenny,Kyle,8
+20,Kenny,Stan,5
+21,Cartman,Kenny,12
+22,Randy,Stuart,6
+23,Mr. Garrison,Stuart,1
+24,Stephen,Stuart,2
+25,Randy,Stephen,14
+26,Mr. Garrison,Stephen,2
+27,Barbrady,Randy,3
+28,Barbrady,Jimbo,1
+29,Barbrady,Stephen,2
+30,Jimbo,Stephen,2
+31,Butters,Cartman,12
+32,Gerald,Randy,6
+33,Gerald,Jimbo,1
+34,Jimbo,Sharon,1
+35,Gerald,Sharon,1
+36,Butters,Stan,4
+37,Butters,Kyle,4
+38,Jimbo,Stuart,1

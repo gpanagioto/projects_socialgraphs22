@@ -1,0 +1,39 @@
+,source,target,weight
+0,PC Principal,Strong Woman,78
+1,Butters,PC Principal,2
+2,Butters,Strong Woman,2
+3,David,Strong Woman,40
+4,Heather,Strong Woman,63
+5,David,Heather,40
+6,Butters,Cartman,14
+7,Butters,Mr. Mackey,3
+8,Butters,Scott,9
+9,Cartman,Mr. Mackey,5
+10,Cartman,Scott,19
+11,Mr. Mackey,Scott,2
+12,Cartman,Stan,29
+13,Clyde,Stan,8
+14,Butters,Stan,8
+15,Scott,Stan,5
+16,Kyle,Stan,5
+17,Cartman,Clyde,5
+18,Cartman,Kyle,4
+19,Butters,Clyde,4
+20,Clyde,Scott,1
+21,Clyde,Kyle,1
+22,Butters,Kyle,1
+23,Kyle,Scott,1
+24,Heather,PC Principal,102
+25,Cartman,Tammy,7
+26,Cartman,Kelly,2
+27,Stan,Tammy,6
+28,Kelly,Tammy,2
+29,Kelly,Stan,3
+30,Mr. Mackey,Stan,6
+31,Clyde,Mr. Mackey,2
+32,Pete,Strong Woman,6
+33,Heather,Pete,8
+34,Cartman,Heather,24
+35,Heather,Tammy,8
+36,Cartman,Pete,3
+37,Pete,Tammy,1

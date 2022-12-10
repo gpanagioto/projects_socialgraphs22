@@ -1,0 +1,50 @@
+,source,target,weight
+0,Kyle,Mrs. Garrison,23
+1,Kyle,Stan,19
+2,Cartman,Kyle,36
+3,Butters,Kyle,4
+4,Mrs. Garrison,Stan,21
+5,Cartman,Mrs. Garrison,23
+6,Butters,Mrs. Garrison,11
+7,Cartman,Stan,20
+8,Butters,Stan,4
+9,Butters,Cartman,4
+10,Kenny,Kyle,7
+11,Cartman,Kenny,6
+12,Kenny,Stan,3
+13,Cartman,Laborers,4
+14,Cartman,The Boys,4
+15,Kyle,Laborers,6
+16,Laborers,Stan,2
+17,Laborers,The Boys,1
+18,Kenny,Laborers,1
+19,Kyle,The Boys,6
+20,Stan,The Boys,2
+21,Kenny,The Boys,1
+22,Clyde,Kyle,3
+23,Clyde,Jimmy,1
+24,Cartman,Clyde,3
+25,Clyde,Mrs. Garrison,6
+26,Clyde,Stan,1
+27,Butters,Clyde,1
+28,Class,Clyde,1
+29,Jimmy,Kyle,3
+30,Class,Kyle,3
+31,Cartman,Jimmy,3
+32,Jimmy,Mrs. Garrison,6
+33,Jimmy,Stan,1
+34,Butters,Jimmy,1
+35,Class,Jimmy,1
+36,Cartman,Class,3
+37,Class,Mrs. Garrison,6
+38,Class,Stan,1
+39,Butters,Class,1
+40,Linda,Patty,2
+41,Katie,Linda,5
+42,Katie,Patty,2
+43,Katie,Narrator,7
+44,Anchor,Katie,1
+45,Linda,Narrator,7
+46,Anchor,Linda,1
+47,Anchor,Narrator,7
+48,Laborers,Linda,1

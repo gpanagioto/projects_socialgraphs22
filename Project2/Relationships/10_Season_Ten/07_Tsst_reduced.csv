@@ -1,0 +1,27 @@
+,source,target,weight
+0,Cartman,Liane,387
+1,Liane,Mr. Mackey,12
+2,Cartman,Mr. Mackey,15
+3,Announcer,Girl,4
+4,Boy,Girl,1
+5,Cartman,Girl,24
+6,Girl,Liane,6
+7,Announcer,Boy,4
+8,Announcer,Cartman,96
+9,Announcer,Liane,24
+10,Boy,Cartman,24
+11,Boy,Liane,6
+12,Doctor,Liane,4
+13,Cartman,Stan,33
+14,Cartman,Kyle,19
+15,Butters,Cartman,17
+16,Cartman,Kenny,5
+17,Kyle,Stan,9
+18,Butters,Stan,6
+19,Kenny,Stan,1
+20,Butters,Kyle,4
+21,Kenny,Kyle,1
+22,Butters,Kenny,2
+23,Cartman,Jimmy,6
+24,Craig,Jimmy,2
+25,Cartman,Craig,3

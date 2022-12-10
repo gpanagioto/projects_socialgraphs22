@@ -1,0 +1,28 @@
+,source,target,weight
+0,Bob,Tom,4
+1,Mayor McDaniels,Tom,1
+2,Kyle,Stan,60
+3,Cartman,Kyle,81
+4,Cartman,Stan,39
+5,Kyle,Sheila,6
+6,Cartman,Kenny,11
+7,Kenny,Kyle,13
+8,Kenny,Stan,11
+9,Kyle,Officer Barbrady,12
+10,Officer Barbrady,Stan,6
+11,Kyle,Rancher,3
+12,Cartman,Rancher,1
+13,Dr. Doctor,Stan,6
+14,Dr. Doctor,Kyle,6
+15,Cartman,Soldier,6
+16,Jimbo,Mitchell,1
+17,Announcer,Stan,5
+18,Announcer,Cartman,3
+19,Announcer,Kyle,3
+20,Kyle,Mr. Garrison,1
+21,Father Maxi,Kyle,1
+22,Father Maxi,Mr. Garrison,1
+23,Officer Barbrady,Townspeople,2
+24,Jimbo,Mayor McDaniels,15
+25,Mayor McDaniels,Officer Barbrady,12
+26,Jimbo,Officer Barbrady,4

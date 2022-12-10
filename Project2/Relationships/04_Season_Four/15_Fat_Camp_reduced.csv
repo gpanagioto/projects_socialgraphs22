@@ -1,0 +1,121 @@
+,source,target,weight
+0,Class,Ms. Choksondik,3
+1,Class,Wendy,1
+2,Butters,Class,1
+3,Class,Stan,2
+4,Class,Kyle,2
+5,Class,Kenny,2
+6,Ms. Choksondik,Wendy,3
+7,Butters,Ms. Choksondik,3
+8,Ms. Choksondik,Stan,9
+9,Kyle,Ms. Choksondik,10
+10,Kenny,Ms. Choksondik,7
+11,Butters,Wendy,1
+12,Stan,Wendy,2
+13,Kyle,Wendy,2
+14,Kenny,Wendy,2
+15,Butters,Stan,14
+16,Butters,Kyle,20
+17,Butters,Kenny,6
+18,Kyle,Stan,85
+19,Kenny,Stan,23
+20,Kenny,Kyle,22
+21,Phillip,Terrance,9
+22,Cartman,Terrance,12
+23,Liane,Terrance,6
+24,Cartman,Phillip,12
+25,Liane,Phillip,6
+26,Cartman,Liane,31
+27,Liane,Mr. Mackey,14
+28,Dr. Doctor,Liane,6
+29,Liane,Mr. Garrison,10
+30,Cartman,Mr. Mackey,12
+31,Dr. Doctor,Mr. Mackey,4
+32,Mr. Garrison,Mr. Mackey,6
+33,Cartman,Dr. Doctor,10
+34,Cartman,Mr. Garrison,11
+35,Dr. Doctor,Mr. Garrison,4
+36,Ms. Choksondik,Principal Victoria,1
+37,Kyle,Principal Victoria,7
+38,Principal Victoria,Stan,5
+39,Kenny,Principal Victoria,1
+40,Bebe,Kyle,1
+41,Bebe,Stan,1
+42,Bebe,Ms. Choksondik,1
+43,Liane,Rick,4
+44,Cartman,Rick,44
+45,Cartman,Taller Boy,8
+46,Rick,Taller Boy,27
+47,Kids,Stan,4
+48,Clyde,Stan,4
+49,Stan,Tolkien,4
+50,Kids,Kyle,6
+51,Clyde,Kyle,6
+52,Kyle,Tolkien,6
+53,Kenny,Kids,2
+54,Butters,Kids,2
+55,Clyde,Kids,1
+56,Kids,Tolkien,1
+57,Clyde,Kenny,2
+58,Kenny,Tolkien,2
+59,Butters,Clyde,2
+60,Butters,Tolkien,2
+61,Clyde,Tolkien,1
+62,Cartman,Susan,26
+63,Blonde Girl,Cartman,8
+64,Blonde Girl,Susan,4
+65,Cartman,Driver,9
+66,Susan,Taller Boy,2
+67,Rick,Susan,40
+68,Mr. Garrison,Stan,3
+69,Kyle,Mr. Garrison,4
+70,Mr. Garrison,Principal Victoria,1
+71,Liane,Stan,12
+72,Kyle,Liane,16
+73,Liane,Principal Victoria,4
+74,Mr. Mackey,Stan,6
+75,Kyle,Mr. Mackey,8
+76,Mr. Mackey,Principal Victoria,2
+77,Cartman,Stan,3
+78,Cartman,Kyle,4
+79,Cartman,Principal Victoria,1
+80,Jesus,Kenny,6
+81,Jesus,Stan,12
+82,Jesus,Kyle,12
+83,Chef,Stan,70
+84,Chef,Kenny,10
+85,Chef,Kyle,10
+86,Announcer,Kenny,1
+87,Chad,Susan,8
+88,Blonde Girl,Rick,2
+89,Chad,Rick,8
+90,Cartman,Chad,13
+91,Blonde Girl,Chad,2
+92,Campers,Rick,24
+93,Campers,Susan,18
+94,Campers,Mr. Sanders,25
+95,Campers,Horace,11
+96,Mr. Sanders,Rick,34
+97,Horace,Rick,22
+98,Mr. Sanders,Susan,26
+99,Horace,Susan,14
+100,Horace,Mr. Sanders,15
+101,Kyle,Ms. Crabtree,12
+102,Ms. Crabtree,Stan,8
+103,Butters,Ms. Crabtree,2
+104,Audience,Ms. Crabtree,1
+105,Announcer,Ms. Crabtree,1
+106,Announcer,Audience,1
+107,Girl,Rick,4
+108,Girl,Susan,2
+109,Cartman,Horace,15
+110,Cartman,Girl,5
+111,Cartman,Mr. Sanders,5
+112,Campers,Cartman,5
+113,Chad,Horace,3
+114,Chad,Girl,1
+115,Chad,Mr. Sanders,1
+116,Campers,Chad,1
+117,Girl,Horace,3
+118,Girl,Mr. Sanders,1
+119,Campers,Girl,1

@@ -1,0 +1,43 @@
+,source,target,weight
+0,Butters,Stan,2
+1,Butters,Kyle,2
+2,Butters,PC Principal,2
+3,Kyle,Stan,4
+4,PC Principal,Stan,4
+5,Kyle,PC Principal,4
+6,Jimmy,PC Principal,81
+7,PC Principal,PC bros,2
+8,Jimmy,Nathan,24
+9,Nathan,PC Principal,34
+10,Mr. Mackey,Nathan,4
+11,Jimmy,Mr. Mackey,2
+12,Gerald,Rancher,1
+13,Rancher,Stephen,1
+14,Anchor Tom,Rancher,1
+15,Rancher,Randy,1
+16,Gerald,Stephen,1
+17,Anchor Tom,Gerald,1
+18,Gerald,Randy,1
+19,Anchor Tom,Stephen,1
+20,Randy,Stephen,1
+21,Anchor Tom,Randy,1
+22,Hillary,Moderator,2
+23,Garrison,Moderator,6
+24,Caitlyn,Moderator,2
+25,Moderator,Principal Victoria,2
+26,Garrison,Hillary,12
+27,Caitlyn,Hillary,4
+28,Hillary,Principal Victoria,4
+29,Caitlyn,Garrison,12
+30,Garrison,Principal Victoria,12
+31,Caitlyn,Principal Victoria,6
+32,Blonde,Jimmy,3
+33,Jimmy,PC bros,1
+34,Blonde,PC bros,3
+35,Barbrady,Jimmy,7
+36,Randy,Sharon,12
+37,Agent,Jimmy,31
+38,Jimmy,Leslie,35
+39,Mr. Garrison,Principal Victoria,2
+40,Caitlyn,Mr. Garrison,1
+41,Agent,Leslie,4

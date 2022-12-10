@@ -1,0 +1,29 @@
+,source,target,weight
+0,Randy,Sharon,9
+1,Kyle,Randy,7
+2,Butters,Randy,3
+3,Randy,Stan,37
+4,Cartman,Randy,8
+5,Craig,Randy,3
+6,Butters,Kyle,8
+7,Kyle,Stan,198
+8,Cartman,Kyle,11
+9,Craig,Kyle,8
+10,Butters,Stan,11
+11,Butters,Cartman,9
+12,Butters,Craig,6
+13,Cartman,Stan,20
+14,Craig,Stan,11
+15,Cartman,Craig,9
+16,Producer,Stan,30
+17,Kyle,Producer,24
+18,Guest,Producer,6
+19,Guest,Stan,5
+20,Guest,Kyle,4
+21,Kyle,Older Boy,6
+22,Cartman,Tolkien,4
+23,Craig,Tolkien,4
+24,Butters,Tolkien,2
+25,Craig,The Boys,1
+26,Cartman,The Boys,2
+27,Butters,The Boys,2

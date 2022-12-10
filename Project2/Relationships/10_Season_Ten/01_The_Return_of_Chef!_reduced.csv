@@ -1,0 +1,67 @@
+,source,target,weight
+0,Kyle,Stan,124
+1,Chef,Mrs. Garrison,8
+2,Gerald,Mr. Mackey,1
+3,Gerald,Randy,1
+4,Chef,Gerald,1
+5,Mr. Mackey,Randy,2
+6,Chef,Mr. Mackey,1
+7,Chef,Randy,22
+8,Cartman,Stan,56
+9,Cartman,Chef,68
+10,Cartman,Kyle,58
+11,Chef,Stan,107
+12,Chef,Kyle,103
+13,Chef,Jimbo,7
+14,Chef,Townsfolk,7
+15,Mrs. Garrison,Randy,3
+16,Jimbo,Mrs. Garrison,1
+17,Mrs. Garrison,Townsfolk,1
+18,Kyle,Mrs. Garrison,1
+19,Mrs. Garrison,Stan,1
+20,Jimbo,Randy,3
+21,Randy,Townsfolk,3
+22,Kyle,Randy,4
+23,Randy,Stan,3
+24,Jimbo,Townsfolk,1
+25,Jimbo,Kyle,1
+26,Jimbo,Stan,1
+27,Kyle,Townsfolk,1
+28,Stan,Townsfolk,1
+29,Kenny,Stan,11
+30,Kenny,Kyle,15
+31,Cartman,Clyde,6
+32,Cartman,The Boys,10
+33,Clyde,Kyle,15
+34,Kyle,The Boys,12
+35,Clyde,Stan,9
+36,Chef,Clyde,18
+37,Clyde,The Boys,3
+38,Stan,The Boys,15
+39,Chef,The Boys,26
+40,Butters,Kyle,4
+41,Butters,Stan,6
+42,Chef,Kenny,16
+43,Cartman,Kenny,8
+44,Butler,Kyle,24
+45,Butler,Stan,9
+46,Butler,Cartman,3
+47,Nurse,Stan,4
+48,Chef,Nurse,4
+49,Kyle,Nurse,3
+50,Cartman,Nurse,2
+51,Blonde,Chef,8
+52,Chef,DJ,8
+53,Blonde,Stan,4
+54,DJ,Stan,4
+55,Blonde,Kyle,2
+56,DJ,Kyle,2
+57,Blonde,Cartman,3
+58,Cartman,DJ,3
+59,Blonde,DJ,1
+60,Blonde,The Boys,2
+61,Blonde,Kenny,1
+62,DJ,The Boys,2
+63,DJ,Kenny,1
+64,Kenny,The Boys,2
+65,Kyle,Mr. Mackey,1

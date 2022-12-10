@@ -1,0 +1,26 @@
+,source,target,weight
+0,Butters,Vampir,63
+1,Pete,Vampir,58
+2,Henrietta,Vampir,27
+3,Michael,Vampir,33
+4,Henrietta,Pete,52
+5,Michael,Pete,47
+6,Henrietta,Michael,24
+7,Butters,Linda,21
+8,Butters,Stephen,69
+9,Linda,Stephen,19
+10,Pete,Principal Victoria,6
+11,Mr. Mackey,Pete,2
+12,Michael,Principal Victoria,6
+13,Michael,Mr. Mackey,2
+14,Mr. Mackey,Principal Victoria,3
+15,Principal Victoria,Vampir,6
+16,Mr. Mackey,Vampir,2
+17,Butters,Cartman,15
+18,Cartman,Liane,15
+19,Butters,Liane,9
+20,Butters,Henrietta,13
+21,Butters,Pete,15
+22,Butters,Michael,2
+23,Clerk,Pete,1
+24,Butters,Clerk,1

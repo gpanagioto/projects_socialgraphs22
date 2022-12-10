@@ -1,0 +1,30 @@
+,source,target,weight
+0,Laura,Stephen,1
+1,Kyle,Sheila,31
+2,Gerald,Kyle,36
+3,Ike,Kyle,50
+4,Gerald,Sheila,6
+5,Gerald,Ike,6
+6,Ike,Sheila,13
+7,Cartman,Heidi,53
+8,Elon Musk,Heidi,9
+9,Butters,Heidi,3
+10,Cartman,Elon Musk,18
+11,Butters,Cartman,35
+12,Butters,Elon Musk,3
+13,Bedrager,Gerald,59
+14,Kyle,Men,4
+15,Ike,Men,1
+16,Men,Randy,3
+17,Men,Stephen,1
+18,Kyle,Randy,12
+19,Kyle,Stephen,4
+20,Ike,Randy,3
+21,Ike,Stephen,1
+22,Randy,Stephen,3
+23,Garrison,Mr. Slave,52
+24,Garrison,Ike,37
+25,Garrison,Kyle,97
+26,Ike,Mr. Slave,7
+27,Kyle,Mr. Slave,7
+28,Dick,Gerald,12

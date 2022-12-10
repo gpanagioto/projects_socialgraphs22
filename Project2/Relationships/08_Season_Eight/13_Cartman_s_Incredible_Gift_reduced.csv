@@ -1,0 +1,39 @@
+,source,target,weight
+0,Butters,Stan,6
+1,Butters,Cartman,13
+2,Butters,Kyle,12
+3,Butters,Craig,1
+4,Butters,Tolkien,2
+5,Cartman,Stan,24
+6,Kyle,Stan,20
+7,Craig,Stan,4
+8,Stan,Tolkien,6
+9,Cartman,Kyle,75
+10,Cartman,Craig,6
+11,Cartman,Tolkien,6
+12,Craig,Kyle,4
+13,Kyle,Tolkien,6
+14,Craig,Tolkien,1
+15,Dr. Doctor,Liane,27
+16,Cartman,Liane,47
+17,Liane,Nurse,5
+18,Liane,Yates,37
+19,Liane,Murphy,22
+20,Cartman,Dr. Doctor,35
+21,Cartman,Nurse,7
+22,Cartman,Yates,116
+23,Cartman,Murphy,71
+24,Dr. Doctor,Nurse,5
+25,Dr. Doctor,Yates,41
+26,Dr. Doctor,Murphy,23
+27,Nurse,Yates,7
+28,Murphy,Nurse,4
+29,Murphy,Yates,135
+30,Kyle,Yates,38
+31,Kyle,Murphy,22
+32,Butters,Yates,4
+33,Butters,Murphy,2
+34,Kenny,Yates,2
+35,Kenny,Murphy,1
+36,Kenny,Kyle,4
+37,Dr. Doctor,Kyle,1

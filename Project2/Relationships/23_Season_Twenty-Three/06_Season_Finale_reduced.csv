@@ -1,0 +1,58 @@
+,source,target,weight
+0,Mayor McDaniels,Randy,6
+1,Mayor,Mayor McDaniels,6
+2,Mayor,Randy,36
+3,Cartman,Kyle,6
+4,Jason,Kyle,4
+5,Cartman,Jason,6
+6,Shelly,Stan,16
+7,Sharon,Shelly,20
+8,Sharon,Stan,16
+9,Garrison,Randy,63
+10,Sharon,Sheila,8
+11,Sheila,Shelly,2
+12,Linda Black,Sheila,2
+13,Bob,Sheila,4
+14,Mrs. White,Sheila,2
+15,Butters,Sheila,4
+16,Cartman,Sheila,4
+17,Linda Black,Sharon,4
+18,Bob,Sharon,8
+19,Mrs. White,Sharon,4
+20,Butters,Sharon,8
+21,Cartman,Sharon,8
+22,Linda Black,Shelly,1
+23,Bob,Shelly,2
+24,Mrs. White,Shelly,1
+25,Butters,Shelly,2
+26,Cartman,Shelly,2
+27,Bob,Linda Black,2
+28,Linda Black,Mrs. White,1
+29,Butters,Linda Black,2
+30,Cartman,Linda Black,2
+31,Bob,Mrs. White,64
+32,Bob,Butters,4
+33,Bob,Cartman,4
+34,Butters,Mrs. White,2
+35,Cartman,Mrs. White,3
+36,Butters,Cartman,4
+37,Bob,Jeff,32
+38,Jeff,Mrs. White,16
+39,Doctor,Randy,16
+40,Alejandro,Mrs. White,17
+41,Alejandro,Bob,29
+42,Alejandro,Anchor,2
+43,Anchor,Mrs. White,5
+44,Anchor,Bob,6
+45,Alejandro,Jeff,2
+46,Crowd,Field reporter,1
+47,Crowd,Mrs. White,1
+48,Bob,Crowd,5
+49,Alejandro,Crowd,3
+50,Field reporter,Mrs. White,1
+51,Bob,Field reporter,4
+52,Alejandro,Field reporter,2
+53,Crowd,Randy,3
+54,Bob,Randy,3
+55,Alejandro,Randy,3
+56,Randy,Reporter,1

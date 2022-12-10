@@ -38,82 +38,72 @@
 36,Mrs. Tweek,Richard,1
 37,Mrs. Tweek,Stephen,2
 38,Randy,Towelie,30
-39,Craig,Linda B.,1
-40,Jimmy,Linda B.,1
-41,Cartman,Linda B.,1
-42,Butters,Linda B.,1
-43,Kenny,Linda B.,1
-44,Liane,Linda B.,1
-45,Linda B.,Randy,3
-46,Gerald,Linda B.,1
-47,Linda B.,Stephen,2
-48,Linda B.,Thomas,1
-49,Craig,Jimmy,2
-50,Cartman,Craig,2
-51,Butters,Craig,2
-52,Craig,Kenny,1
-53,Craig,Liane,1
-54,Craig,Randy,3
-55,Craig,Gerald,1
-56,Craig,Stephen,2
-57,Craig,Thomas,1
-58,Cartman,Jimmy,2
-59,Butters,Jimmy,2
-60,Jimmy,Kenny,1
-61,Jimmy,Liane,1
-62,Jimmy,Randy,3
-63,Gerald,Jimmy,1
-64,Jimmy,Stephen,2
-65,Jimmy,Thomas,1
-66,Butters,Cartman,2
-67,Cartman,Kenny,1
-68,Cartman,Liane,1
-69,Cartman,Randy,3
-70,Cartman,Gerald,1
-71,Cartman,Stephen,2
-72,Cartman,Thomas,1
-73,Butters,Kenny,1
-74,Butters,Liane,1
-75,Butters,Randy,3
-76,Butters,Gerald,1
-77,Butters,Stephen,2
-78,Butters,Thomas,1
-79,Kenny,Liane,1
-80,Kenny,Randy,3
-81,Gerald,Kenny,1
-82,Kenny,Stephen,2
-83,Kenny,Thomas,1
-84,Liane,Randy,3
-85,Gerald,Liane,1
-86,Liane,Thomas,1
-87,Gerald,Randy,3
-88,Randy,Thomas,3
-89,Gerald,Stephen,2
-90,Gerald,Thomas,1
-91,Stephen,Thomas,2
-92,Butters,Santa,4
-93,Santa,driver,4
-94,Mr. Testaburger,Santa,4
-95,Butters,driver,1
-96,Butters,Mr. Testaburger,1
-97,Mr. Testaburger,driver,1
-98,Shelley,Towelie,6
-99,Towelie,Worker,6
-100,Randy,Shelley,12
-101,Randy,Worker,12
-102,Shelley,Worker,4
-103,Jimmy,Kyle,1
-104,Craig,Kyle,1
-105,Cartman,Kyle,1
-106,Kyle,Linda Stotch,1
-107,Butters,Kyle,1
-108,Jimmy,Linda Stotch,1
-109,Craig,Linda Stotch,1
-110,Cartman,Linda Stotch,1
-111,Butters,Linda Stotch,1
-112,Elf,Santa,2
-113,Elf,Randy,2
-114,Randy,Santa,4
-115,Linda,Stephen,4
-116,Laura,Thomas,1
-117,Mr. Mackey,Steve,1
+39,Craig,Jimmy,2
+40,Cartman,Craig,2
+41,Butters,Craig,2
+42,Craig,Kenny,1
+43,Craig,Liane,1
+44,Craig,Randy,3
+45,Craig,Gerald,1
+46,Craig,Stephen,2
+47,Craig,Thomas,1
+48,Cartman,Jimmy,2
+49,Butters,Jimmy,2
+50,Jimmy,Kenny,1
+51,Jimmy,Liane,1
+52,Jimmy,Randy,3
+53,Gerald,Jimmy,1
+54,Jimmy,Stephen,2
+55,Jimmy,Thomas,1
+56,Butters,Cartman,2
+57,Cartman,Kenny,1
+58,Cartman,Liane,1
+59,Cartman,Randy,3
+60,Cartman,Gerald,1
+61,Cartman,Stephen,2
+62,Cartman,Thomas,1
+63,Butters,Kenny,1
+64,Butters,Liane,1
+65,Butters,Randy,3
+66,Butters,Gerald,1
+67,Butters,Stephen,2
+68,Butters,Thomas,1
+69,Kenny,Liane,1
+70,Kenny,Randy,3
+71,Gerald,Kenny,1
+72,Kenny,Stephen,2
+73,Kenny,Thomas,1
+74,Liane,Randy,3
+75,Gerald,Liane,1
+76,Liane,Thomas,1
+77,Gerald,Randy,3
+78,Randy,Thomas,3
+79,Gerald,Stephen,2
+80,Gerald,Thomas,1
+81,Stephen,Thomas,2
+82,Butters,Santa,4
+83,Santa,driver,4
+84,Mr. Testaburger,Santa,4
+85,Butters,driver,1
+86,Butters,Mr. Testaburger,1
+87,Mr. Testaburger,driver,1
+88,Shelley,Towelie,6
+89,Towelie,Worker,6
+90,Randy,Shelley,12
+91,Randy,Worker,12
+92,Shelley,Worker,4
+93,Jimmy,Kyle,1
+94,Craig,Kyle,1
+95,Cartman,Kyle,1
+96,Kyle,Linda Stotch,1
+97,Butters,Kyle,1
+98,Jimmy,Linda Stotch,1
+99,Craig,Linda Stotch,1
+100,Cartman,Linda Stotch,1
+101,Butters,Linda Stotch,1
+102,Elf,Santa,2
+103,Elf,Randy,2
+104,Randy,Santa,4
+105,Linda,Stephen,4
+106,Laura,Thomas,1
+107,Mr. Mackey,Steve,1

@@ -1,0 +1,110 @@
+,source,target,weight
+0,Gerald,Roger,1
+1,Randy,Sharon,43
+2,Gerald,Randy,16
+3,Gerald,Stuart,3
+4,Randy,Stuart,11
+5,Cartman,Heidi,170
+6,Randy,Thomas,3
+7,Gerald,Thomas,2
+8,Cartman,Liane,27
+9,Heidi,Liane,12
+10,Randy,The men,13
+11,Randy,Stephen,55
+12,Stephen,The men,3
+13,Butters,Scott,1
+14,Butters,Cartman,19
+15,Butters,Heidi,1
+16,Cartman,Scott,2
+17,Heidi,Scott,1
+18,Jimmy,Tolkien,2
+19,Butters,Jimmy,5
+20,Jimmy,Kyle,2
+21,Jimmy,Stan,3
+22,Cartman,Jimmy,2
+23,Butters,Tolkien,10
+24,Kyle,Tolkien,4
+25,Stan,Tolkien,6
+26,Cartman,Tolkien,4
+27,Butters,Kyle,17
+28,Butters,Stan,30
+29,Kyle,Stan,27
+30,Cartman,Kyle,32
+31,Cartman,Stan,27
+32,Randy,Ryan,12
+33,Ryan,Stuart,3
+34,Gerald,Ryan,3
+35,Randy,Richard,1
+36,Richard,Stuart,1
+37,Richard,Stephen,1
+38,Richard,The men,1
+39,Kyle,Richard,1
+40,Gerald,Richard,1
+41,Richard,Ryan,1
+42,Kyle,Randy,1
+43,Stephen,Stuart,7
+44,Stuart,The men,1
+45,Kyle,Stuart,1
+46,Kyle,Stephen,1
+47,Gerald,Stephen,1
+48,Ryan,Stephen,7
+49,Kyle,The men,1
+50,Gerald,The men,2
+51,Ryan,The men,2
+52,Gerald,Kyle,1
+53,Kyle,Ryan,1
+54,Butters,Garrison,49
+55,Garrison,Stan,7
+56,Cartman,Sgt. Yates,21
+57,Cartman,Rick,10
+58,Rick,Sgt. Yates,8
+59,Randy,Steve,6
+60,Randy,Sgt. Yates,7
+61,Kids,Randy,3
+62,Stephen,Steve,12
+63,Sgt. Yates,Stephen,6
+64,Kids,Stephen,6
+65,Ryan,Steve,2
+66,Ryan,Sgt. Yates,2
+67,Kids,Ryan,1
+68,Sgt. Yates,Steve,2
+69,Steve,Stuart,2
+70,Kids,Steve,2
+71,Sgt. Yates,Stuart,1
+72,Kids,Sgt. Yates,1
+73,Kids,Stuart,1
+74,Garrison,Randy,16
+75,Peter,Randy,4
+76,A girl,Randy,4
+77,Heidi,Randy,8
+78,Cartman,Randy,4
+79,Garrison,Peter,4
+80,A girl,Garrison,4
+81,Garrison,Sgt. Yates,4
+82,Garrison,Heidi,8
+83,Cartman,Garrison,4
+84,Garrison,Gerald,4
+85,Garrison,Ryan,4
+86,Garrison,The men,4
+87,A girl,Peter,1
+88,Peter,Sgt. Yates,1
+89,Heidi,Peter,2
+90,Cartman,Peter,1
+91,Gerald,Peter,1
+92,Peter,Ryan,1
+93,Peter,The men,1
+94,A girl,Sgt. Yates,1
+95,A girl,Heidi,2
+96,A girl,Cartman,1
+97,A girl,Gerald,1
+98,A girl,Ryan,1
+99,A girl,The men,1
+100,Heidi,Sgt. Yates,2
+101,Gerald,Sgt. Yates,1
+102,Sgt. Yates,The men,1
+103,Gerald,Heidi,2
+104,Heidi,Ryan,2
+105,Heidi,The men,2
+106,Cartman,Gerald,1
+107,Cartman,Ryan,1
+108,Cartman,The men,1

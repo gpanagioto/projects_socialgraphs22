@@ -1,0 +1,30 @@
+,source,target,weight
+0,Stan,Timmy,4
+1,Jimmy,Stan,6
+2,Cartman,Stan,20
+3,Kyle,Stan,16
+4,Jimmy,Timmy,130
+5,Cartman,Timmy,14
+6,Kyle,Timmy,8
+7,Cartman,Jimmy,34
+8,Jimmy,Kyle,12
+9,Cartman,Kyle,62
+10,Francis,Timmy,4
+11,Nathan,Timmy,32
+12,Francis,Jimmy,11
+13,Jimmy,Nathan,88
+14,Francis,Nathan,8
+15,Jimmy,Ryan,49
+16,Girl,Ryan,7
+17,Girl,Jimmy,7
+18,Cartman,Liane,56
+19,Coach,Timmy,1
+20,Coach,Jimmy,2
+21,Cartman,Michael,4
+22,Liane,Michael,5
+23,Mr. Mackey,Timmy,56
+24,Jimmy,Sarah,6
+25,Host,Jimmy,15
+26,Cartman,Host,7
+27,Blonde Girl,Cartman,3
+28,Host,Timmy,4

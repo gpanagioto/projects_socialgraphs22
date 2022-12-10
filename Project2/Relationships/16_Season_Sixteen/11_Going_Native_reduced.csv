@@ -1,0 +1,27 @@
+,source,target,weight
+0,Cartman,Stan,14
+1,Kyle,Stan,9
+2,Cartman,Kyle,14
+3,Butters,Stan,5
+4,Butters,Kyle,5
+5,Butters,Cartman,10
+6,Butters,Stephen,72
+7,Linda,Stephen,22
+8,Principal Victoria,Stephen,16
+9,Butters,Linda,16
+10,Butters,Principal Victoria,12
+11,Linda,Principal Victoria,4
+12,Kenny,Kyle,3
+13,Cartman,Kenny,3
+14,Kenny,Stan,2
+15,Butters,Kenny,18
+16,Butters,Officer,10
+17,Blond man,Officer,6
+18,Blond man,Butters,23
+19,Blond man,Patty,5
+20,Blond man,Chief,23
+21,Butters,Patty,3
+22,Butters,Chief,21
+23,Chief,Patty,8
+24,Chief,Kenny,2
+25,Butters,Captain,5

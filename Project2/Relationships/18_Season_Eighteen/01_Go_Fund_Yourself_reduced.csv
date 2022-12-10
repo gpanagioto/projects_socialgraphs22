@@ -1,0 +1,31 @@
+,source,target,weight
+0,Cartman,Kenny,16
+1,Kyle,Stan,81
+2,Cartman,Stan,49
+3,Cartman,Kyle,152
+4,Butters,Stan,15
+5,Randy,Stan,12
+6,Butters,Randy,6
+7,Butters,Kyle,37
+8,Kyle,Randy,3
+9,Kenny,Stan,4
+10,Kenny,Kyle,8
+11,Butters,Cartman,65
+12,Butters,Kenny,8
+13,Cartman,Dan Snyder,56
+14,Cartman,Coach,16
+15,Butters,Dan Snyder,7
+16,Coach,Dan Snyder,14
+17,Butters,Coach,2
+18,Dan Snyder,Goodell,21
+19,Dan Snyder,Jerry Jones,5
+20,Dan Snyder,Owners,5
+21,Goodell,Jerry Jones,1
+22,Goodell,Owners,1
+23,Jerry Jones,Owners,1
+24,Announcer,Commentator,8
+25,Announcer,Dan Snyder,8
+26,Commentator,Dan Snyder,4
+27,Crowd,Dan Snyder,4
+28,Announcer,Crowd,2
+29,Commentator,Crowd,1

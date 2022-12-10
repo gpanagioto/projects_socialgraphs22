@@ -1,0 +1,72 @@
+,source,target,weight
+0,Cartman,Wendy,369
+1,Mr. Garrison,Wendy,16
+2,Butters,Wendy,28
+3,Cartman,Mr. Garrison,20
+4,Butters,Cartman,71
+5,Butters,Mr. Garrison,6
+6,Stan,Wendy,13
+7,Bebe,Wendy,16
+8,Girls,Wendy,10
+9,Cartman,Stan,40
+10,Bebe,Cartman,23
+11,Cartman,Girls,9
+12,Butters,Stan,5
+13,Bebe,Butters,7
+14,Butters,Girls,1
+15,Bebe,Stan,3
+16,Girls,Stan,1
+17,Bebe,Girls,1
+18,Cartman,Tolkien,2
+19,Clyde,Tolkien,1
+20,Jimmy,Tolkien,1
+21,Butters,Tolkien,1
+22,Cartman,Clyde,9
+23,Cartman,Jimmy,22
+24,Clyde,Jimmy,2
+25,Butters,Clyde,6
+26,Butters,Jimmy,14
+27,Pete,Stan,3
+28,Michael,Stan,2
+29,Craig,Stan,2
+30,Jimmy,Stan,3
+31,Michael,Pete,1
+32,Craig,Pete,2
+33,Jimmy,Pete,2
+34,Butters,Pete,6
+35,Craig,Michael,1
+36,Jimmy,Michael,1
+37,Butters,Michael,1
+38,Craig,Jimmy,5
+39,Butters,Craig,12
+40,Bebe,Jimmy,3
+41,Bebe,Mr. Garrison,2
+42,Bebe,Clyde,1
+43,Jimmy,Mr. Garrison,2
+44,Clyde,Mr. Garrison,2
+45,Cartman,Craig,17
+46,Cartman,Mr. Mackey,6
+47,Butters,Mr. Mackey,4
+48,Craig,Mr. Mackey,2
+49,Craig,Wendy,3
+50,Jimmy,Mr. Mackey,2
+51,Jimmy,Wendy,5
+52,Mr. Mackey,Wendy,1
+53,Mrs. Testaburger,Wendy,36
+54,Mr. Testaburger,Wendy,18
+55,Liane,Wendy,12
+56,Mr. Testaburger,Mrs. Testaburger,18
+57,Cartman,Mrs. Testaburger,18
+58,Liane,Mrs. Testaburger,12
+59,Cartman,Mr. Testaburger,9
+60,Liane,Mr. Testaburger,6
+61,Cartman,Liane,6
+62,Cartman,Pete,11
+63,Bebe,Pete,2
+64,Pete,Wendy,4
+65,Mr. Garrison,Principal Victoria,2
+66,Cartman,Principal Victoria,3
+67,Principal Victoria,Wendy,28
+68,Clyde,Pete,1
+69,Clyde,Craig,1
+70,Clyde,Wendy,1

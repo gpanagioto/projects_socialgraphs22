@@ -1,0 +1,20 @@
+,source,target,weight
+0,Mr. Garrison,Voice,1
+1,Kyle,Sheila,64
+2,Ike,Kyle,3
+3,Ike,Sheila,7
+4,Clerk,Mr. Garrison,48
+5,Mr. Garrison,People,32
+6,Clerk,People,24
+7,Mr. Garrison,Mr. Hat,16
+8,Cartman,Kyle,140
+9,Cartman,Stan,10
+10,Kyle,Stan,13
+11,Randy,Stuart,1
+12,Kyle,Ms. Choksondik,36
+13,Cartman,Ms. Choksondik,30
+14,Guests,Mr. Hat,3
+15,Guests,Mr. Garrison,12
+16,Jimbo,Mr. Garrison,12
+17,Jimbo,Randy,8
+18,Mr. Garrison,Randy,24

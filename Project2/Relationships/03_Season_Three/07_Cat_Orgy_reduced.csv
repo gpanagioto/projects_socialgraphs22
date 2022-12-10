@@ -1,0 +1,18 @@
+,source,target,weight
+0,Cartman,Liane,74
+1,Liane,Shelly,24
+2,Cartman,Kitty,48
+3,Cartman,Shelly,300
+4,Kitty,Liane,10
+5,Kitty,Shelly,31
+6,Announcer,Cartman,6
+7,Cartman,Host,6
+8,Announcer,Shelly,6
+9,Host,Shelly,6
+10,Announcer,Host,1
+11,Cartman,Clyde,4
+12,Clyde,Shelly,1
+13,Clyde,Kitty,1
+14,Mark,Shelly,4
+15,Liane,Mr. Mackey,3
+16,Cartman,Mr. Mackey,3

@@ -1,0 +1,47 @@
+,source,target,weight
+0,Cartman,Stan,22
+1,Kenny,Stan,1
+2,Kyle,Stan,1
+3,Cartman,Kenny,5
+4,Cartman,Kyle,5
+5,Kenny,Kyle,14
+6,Butters,Kenny,17
+7,Butters,Kyle,43
+8,Chairman,Randy,4
+9,Chairman,Mrs. McCormick,4
+10,Mrs. McCormick,Randy,1
+11,Kyle,Priest,5
+12,Butters,Priest,4
+13,Announcer,Stan,8
+14,Announcer,Cartman,8
+15,David Letterman,Therapist,11
+16,Bill Clinton,David Letterman,4
+17,Charlie Sheen,David Letterman,1
+18,David Letterman,Kyle,4
+19,David Letterman,The men,1
+20,Butters,David Letterman,2
+21,Bill Clinton,Therapist,23
+22,Charlie Sheen,Therapist,6
+23,Kyle,Therapist,28
+24,The men,Therapist,6
+25,Butters,Therapist,15
+26,Bill Clinton,Charlie Sheen,3
+27,Bill Clinton,Kyle,8
+28,Bill Clinton,The men,3
+29,Bill Clinton,Butters,6
+30,Charlie Sheen,Kyle,2
+31,Charlie Sheen,The men,1
+32,Butters,Charlie Sheen,2
+33,Kyle,The men,2
+34,Butters,The men,2
+35,Therapist,Tiger Woods,5
+36,David Letterman,Tiger Woods,1
+37,Kyle,Tiger Woods,2
+38,Bill Clinton,Tiger Woods,1
+39,Chairman,Obama,53
+40,Chairman,Therapist,6
+41,Obama,Therapist,5
+42,Chairman,Kyle,18
+43,Kyle,Obama,15
+44,Kyle,Randy,1
+45,Butters,Randy,1

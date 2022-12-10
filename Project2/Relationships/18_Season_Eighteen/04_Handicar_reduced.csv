@@ -1,0 +1,73 @@
+,source,target,weight
+0,Gerald,Sheila,4
+1,Sheila,Stephen,5
+2,Linda,Sheila,1
+3,Sheila,Timmy,2
+4,Gerald,Stephen,24
+5,Gerald,Linda,4
+6,Gerald,Timmy,16
+7,Linda,Stephen,5
+8,Stephen,Timmy,11
+9,Linda,Timmy,2
+10,Passenger,Timmy,2
+11,Mr. Stevenson,Timmy,6
+12,Steve,Timmy,5
+13,Nathan,Steve,30
+14,Mimsy,Steve,20
+15,Nathan,Timmy,78
+16,Mimsy,Timmy,19
+17,Mimsy,Nathan,75
+18,Mr. Stevenson,Nathan,17
+19,Mimsy,Mr. Stevenson,7
+20,Nathan,Randy,30
+21,Randy,Timmy,17
+22,Mimsy,Stephen,8
+23,Nathan,Stephen,8
+24,Gerald,Mimsy,8
+25,Gerald,Nathan,16
+26,Elon Musk,Nathan,30
+27,Elon Musk,Mimsy,10
+28,Elon Musk,Timmy,14
+29,Gerald,Randy,10
+30,Gerald,Manager,2
+31,Manager,Randy,2
+32,Gerald,Stuart,5
+33,Randy,Stuart,9
+34,Announcer,Timmy,48
+35,Stuart,Timmy,8
+36,Sharon,Timmy,4
+37,Mrs. McCormick,Timmy,4
+38,Announcer,Nathan,84
+39,Announcer,Elon Musk,24
+40,Announcer,Mimsy,36
+41,Announcer,Mr. Stevenson,12
+42,Announcer,Gerald,24
+43,Announcer,Randy,48
+44,Announcer,Stuart,24
+45,Announcer,Sharon,12
+46,Announcer,Mrs. McCormick,12
+47,Nathan,Stuart,14
+48,Nathan,Sharon,7
+49,Mrs. McCormick,Nathan,7
+50,Elon Musk,Mr. Stevenson,2
+51,Elon Musk,Gerald,4
+52,Elon Musk,Randy,8
+53,Elon Musk,Stuart,4
+54,Elon Musk,Sharon,2
+55,Elon Musk,Mrs. McCormick,2
+56,Mimsy,Randy,12
+57,Mimsy,Stuart,6
+58,Mimsy,Sharon,3
+59,Mimsy,Mrs. McCormick,3
+60,Gerald,Mr. Stevenson,2
+61,Mr. Stevenson,Randy,4
+62,Mr. Stevenson,Stuart,2
+63,Mr. Stevenson,Sharon,1
+64,Mr. Stevenson,Mrs. McCormick,1
+65,Gerald,Sharon,2
+66,Gerald,Mrs. McCormick,2
+67,Randy,Sharon,4
+68,Mrs. McCormick,Randy,4
+69,Sharon,Stuart,2
+70,Mrs. McCormick,Stuart,2
+71,Mrs. McCormick,Sharon,1

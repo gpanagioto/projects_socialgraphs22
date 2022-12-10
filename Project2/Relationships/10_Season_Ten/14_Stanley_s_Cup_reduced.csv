@@ -1,0 +1,28 @@
+,source,target,weight
+0,Driver,Stan,9
+1,Judge,Stan,64
+2,Morgan,Stan,12
+3,Nelson,Stan,148
+4,Coach,Stan,24
+5,Morgan,Nelson,4
+6,Coach,Morgan,2
+7,Coach,Nelson,8
+8,Randy,Sharon,36
+9,Sharon,Stan,24
+10,Randy,Stan,55
+11,Announcer,Crowd,3
+12,Announcer,Randy,6
+13,Announcer,Kyle,3
+14,Crowd,Randy,2
+15,Crowd,Kyle,1
+16,Kyle,Randy,2
+17,A man,Stan,4
+18,Judge,Nelson,20
+19,Announcer,Stan,2
+20,Announcer,Judge,1
+21,Dr. Doctor,Nelson,30
+22,Dr. Doctor,Stan,30
+23,Dr. Doctor,Judge,10
+24,Kyle,Stan,12
+25,Official,Stan,30
+26,Judge,Official,5

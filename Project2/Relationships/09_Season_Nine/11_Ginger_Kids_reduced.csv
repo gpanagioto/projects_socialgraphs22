@@ -1,0 +1,72 @@
+,source,target,weight
+0,Cartman,Mrs. Garrison,16
+1,Kyle,Mrs. Garrison,22
+2,Class,Mrs. Garrison,3
+3,Butters,Mrs. Garrison,4
+4,Clyde,Mrs. Garrison,3
+5,Mrs. Garrison,Stan,6
+6,Cartman,Kyle,84
+7,Cartman,Class,5
+8,Butters,Cartman,6
+9,Cartman,Clyde,17
+10,Cartman,Stan,25
+11,Class,Kyle,7
+12,Butters,Kyle,8
+13,Clyde,Kyle,18
+14,Kyle,Stan,55
+15,Butters,Class,1
+16,Class,Clyde,1
+17,Class,Stan,2
+18,Butters,Clyde,1
+19,Butters,Stan,2
+20,Clyde,Stan,4
+21,Girl,Kyle,4
+22,Boy,Kyle,9
+23,Father,Kyle,28
+24,Kyle,Mother,8
+25,Boy,Girl,6
+26,Father,Girl,7
+27,Girl,Stan,1
+28,Girl,Mother,2
+29,Boy,Father,7
+30,Boy,Stan,3
+31,Boy,Mother,2
+32,Father,Stan,7
+33,Father,Mother,14
+34,Mother,Stan,2
+35,Kyle,Tolkien,7
+36,Jimmy,Kyle,7
+37,Kenny,Kyle,15
+38,Boy,Clyde,1
+39,Clyde,Tolkien,4
+40,Clyde,Jimmy,4
+41,Clyde,Kenny,1
+42,Boy,Tolkien,1
+43,Boy,Jimmy,1
+44,Boy,Kenny,1
+45,Jimmy,Tolkien,2
+46,Stan,Tolkien,2
+47,Kenny,Tolkien,1
+48,Jimmy,Stan,2
+49,Jimmy,Kenny,1
+50,Kenny,Stan,12
+51,Cartman,Liane,15
+52,Doctor,Liane,12
+53,Cartman,Doctor,12
+54,Cartman,Tolkien,4
+55,Craig,Tolkien,1
+56,Cartman,Craig,4
+57,Cartman,Jimmy,4
+58,Clyde,Craig,3
+59,Craig,Kyle,2
+60,Craig,Jimmy,1
+61,Boy,Cartman,4
+62,Boy,Older Boy,2
+63,Boy,Kids,3
+64,Cartman,Older Boy,8
+65,Cartman,Girl,4
+66,Cartman,Kids,4
+67,Girl,Older Boy,2
+68,Kids,Older Boy,2
+69,Girl,Kids,3
+70,Cartman,Reporter,2

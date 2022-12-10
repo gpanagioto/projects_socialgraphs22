@@ -1,0 +1,43 @@
+,source,target,weight
+0,Kyle,President Obama,7
+1,Cartman,President Obama,15
+2,Cartman,Kyle,124
+3,Cartman,Liane,11
+4,Kyle,Liane,18
+5,Agent,President Obama,18
+6,Kyle,Stan,86
+7,Jimmy,Stan,18
+8,Craig,Stan,11
+9,Butters,Stan,62
+10,Jimmy,Kyle,31
+11,Craig,Kyle,20
+12,Butters,Kyle,126
+13,Craig,Jimmy,3
+14,Butters,Jimmy,25
+15,Butters,Craig,14
+16,Doctor,Kyle,7
+17,Kenny,Kyle,21
+18,Butters,Doctor,9
+19,Doctor,Stan,3
+20,Doctor,Kenny,3
+21,Doctor,Jimmy,2
+22,Butters,Kenny,27
+23,Kenny,Stan,9
+24,Jimmy,Kenny,6
+25,Craig,President Obama,2
+26,President Obama,Stan,2
+27,Jimmy,President Obama,2
+28,Cartman,Craig,3
+29,Cartman,Stan,3
+30,Cartman,Jimmy,3
+31,Kyle,Mickey Mouse,6
+32,Jimmy,Liane,6
+33,Jimmy,Mickey Mouse,4
+34,Liane,Stan,9
+35,Liane,Mickey Mouse,6
+36,Mickey Mouse,Stan,6
+37,Butters,Cartman,4
+38,Cartman,Mickey Mouse,64
+39,Field reporter,Kyle,16
+40,Chris,Kyle,4
+41,Chris,Field reporter,4

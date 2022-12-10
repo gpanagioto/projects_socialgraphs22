@@ -1,0 +1,78 @@
+,source,target,weight
+0,Cartman,Kyle,115
+1,Kyle,Stan,82
+2,Cartman,Stan,90
+3,Kyle,Mr. Mackey,18
+4,Kyle,Mr. Slave,3
+5,Cartman,Mr. Mackey,24
+6,Cartman,Mr. Slave,5
+7,Mr. Mackey,Mr. Slave,4
+8,Mr. Mackey,Stan,8
+9,Mr. Slave,Stan,1
+10,Cartman,Principal Victoria,9
+11,Cartman,Sharon,6
+12,Cartman,Sheila,16
+13,Cartman,Randy,24
+14,Cartman,Liane,8
+15,Cartman,Gerald,3
+16,Kyle,Principal Victoria,9
+17,Principal Victoria,Sharon,6
+18,Principal Victoria,Sheila,12
+19,Principal Victoria,Stan,3
+20,Principal Victoria,Randy,6
+21,Liane,Principal Victoria,6
+22,Gerald,Principal Victoria,3
+23,Kyle,Sharon,6
+24,Kyle,Sheila,18
+25,Kyle,Randy,23
+26,Kyle,Liane,9
+27,Gerald,Kyle,3
+28,Sharon,Sheila,8
+29,Sharon,Stan,2
+30,Randy,Sharon,4
+31,Liane,Sharon,4
+32,Gerald,Sharon,2
+33,Sheila,Stan,8
+34,Randy,Sheila,10
+35,Liane,Sheila,10
+36,Gerald,Sheila,4
+37,Randy,Stan,20
+38,Liane,Stan,4
+39,Gerald,Stan,1
+40,Liane,Randy,5
+41,Gerald,Randy,2
+42,Gerald,Liane,2
+43,Mr. Garrison,Stan,8
+44,Rob Reiner,Stan,21
+45,Cartman,Mr. Garrison,6
+46,Cartman,Rob Reiner,75
+47,Kyle,Mr. Garrison,7
+48,Kyle,Rob Reiner,48
+49,Mr. Garrison,Rob Reiner,11
+50,Bartender,Cartman,1
+51,Bartender,Kyle,1
+52,Bartender,Rob Reiner,6
+53,Kenny,Stan,10
+54,Kenny,Kyle,10
+55,Cartman,Kenny,11
+56,Kenny,Randy,2
+57,Rob Reiner,Townspeople,14
+58,Mr. Mackey,Rob Reiner,14
+59,Randy,Rob Reiner,7
+60,Rob Reiner,Sheila,14
+61,Liane,Rob Reiner,7
+62,Mr. Mackey,Townspeople,4
+63,Randy,Townspeople,2
+64,Kyle,Townspeople,6
+65,Stan,Townspeople,4
+66,Mr. Garrison,Townspeople,2
+67,Cartman,Townspeople,4
+68,Sheila,Townspeople,4
+69,Liane,Townspeople,2
+70,Mr. Mackey,Randy,2
+71,Mr. Garrison,Mr. Mackey,2
+72,Mr. Mackey,Sheila,4
+73,Liane,Mr. Mackey,2
+74,Mr. Garrison,Randy,1
+75,Mr. Garrison,Sheila,2
+76,Liane,Mr. Garrison,1

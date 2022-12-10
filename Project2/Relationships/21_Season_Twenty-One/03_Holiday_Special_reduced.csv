@@ -1,0 +1,36 @@
+,source,target,weight
+0,Cartman,Stan,28
+1,Kyle,Stan,30
+2,Butters,Stan,8
+3,Cartman,Kyle,33
+4,Butters,Cartman,18
+5,Butters,Kyle,12
+6,Kyle,Randy,9
+7,Randy,Stan,40
+8,Field Reporter,Randy,9
+9,Jimmy,Stan,2
+10,Cartman,Jimmy,8
+11,Jimmy,Kyle,6
+12,Butters,Jimmy,3
+13,Randy,Sharon,30
+14,Announcer,Randy,6
+15,Randy,Steve,4
+16,Driver,Randy,2
+17,Announcer,Sharon,3
+18,Sharon,Steve,2
+19,Driver,Sharon,1
+20,Announcer,Steve,6
+21,Announcer,Driver,3
+22,Driver,Steve,2
+23,Kyle,Mr. Galtman,10
+24,Kenny,Mr. Galtman,24
+25,Kenny,Kyle,8
+26,Bill,Sharon,4
+27,Bill,Randy,80
+28,Kenny,Stan,18
+29,Cartman,Kenny,12
+30,Mr. Galtman,Stan,13
+31,Cartman,Mr. Galtman,6
+32,Mr. Galtman,Randy,5
+33,Bill,Mr. Galtman,3
+34,Bill,Stan,3

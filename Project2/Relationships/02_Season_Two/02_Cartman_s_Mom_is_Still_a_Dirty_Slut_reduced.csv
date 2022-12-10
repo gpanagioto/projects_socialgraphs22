@@ -1,0 +1,65 @@
+,source,target,weight
+0,Kyle,Mr. Garrison,1
+1,Cartman,Mr. Garrison,7
+2,Chef,Mr. Garrison,7
+3,Cartman,Chef,13
+4,Chef,Kyle,12
+5,Kyle,Stan,17
+6,Chef,Stan,10
+7,Cartman,Kyle,24
+8,Sharon,Sheila,1
+9,Greenfield,Mayor McDaniels,27
+10,Mayor McDaniels,Officer Barbrady,7
+11,Jimbo,Mayor McDaniels,14
+12,Cameraman,Mayor McDaniels,5
+13,Greenfield,Officer Barbrady,6
+14,Greenfield,Jimbo,19
+15,Cameraman,Greenfield,5
+16,Jimbo,Officer Barbrady,5
+17,Cameraman,Officer Barbrady,1
+18,Cameraman,Jimbo,1
+19,Liane,Receptionist,49
+20,Cartman,Stan,11
+21,Dr. Doctor,Stan,16
+22,Dr. Doctor,Kyle,23
+23,Assistant,Greenfield,8
+24,Greenfield,Mr. Garrison,14
+25,Greenfield,Mr. Hat,4
+26,Assistant,Mr. Garrison,5
+27,Assistant,Mr. Hat,1
+28,Mr. Garrison,Mr. Hat,2
+29,Cartman,Dr. Doctor,17
+30,Chef,Dr. Doctor,8
+31,Mayor McDaniels,Mr. Garrison,4
+32,Mr. Garrison,Officer Barbrady,3
+33,Jimbo,Mr. Garrison,12
+34,Assistant,Mayor McDaniels,1
+35,Assistant,Officer Barbrady,1
+36,Assistant,Jimbo,4
+37,Barbrady,Jimbo,5
+38,Barbrady,Officer Barbrady,1
+39,Barbrady,Mr. Garrison,3
+40,Cartman,Kenny,8
+41,Dr. Doctor,Kenny,34
+42,Assistant,Barbrady,1
+43,Barbrady,Greenfield,2
+44,Kenny,Kyle,12
+45,Kenny,Stan,4
+46,Chef,Mephesto,16
+47,Dr. Doctor,Mephesto,2
+48,Ned,Officer Barbrady,1
+49,Officer Barbrady,Singer,1
+50,Jimbo,Ned,1
+51,Jimbo,Singer,1
+52,Mayor McDaniels,Ned,1
+53,Mayor McDaniels,Singer,1
+54,Ned,Singer,1
+55,Mr. Garrison,Ned,1
+56,Mr. Garrison,Singer,1
+57,Cartman,Mephesto,10
+58,Cartman,Liane,5
+59,Liane,Mephesto,10
+60,Mephesto,Mr. Garrison,10
+61,Chef,Liane,4
+62,Liane,Mr. Garrison,4
+63,Liane,Stan,1

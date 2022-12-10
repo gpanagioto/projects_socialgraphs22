@@ -1,0 +1,58 @@
+,source,target,weight
+0,Butters,Jimmy,20
+1,Reeve,Townspeople,4
+2,Jimmy,Reeve,24
+3,Cartman,Reeve,4
+4,Reeve,Stan,12
+5,Kyle,Reeve,8
+6,Reeve,Timmy,12
+7,Jimmy,Townspeople,6
+8,Cartman,Townspeople,1
+9,Stan,Townspeople,3
+10,Kyle,Townspeople,2
+11,Timmy,Townspeople,3
+12,Cartman,Jimmy,26
+13,Jimmy,Stan,33
+14,Jimmy,Kyle,22
+15,Jimmy,Timmy,191
+16,Cartman,Stan,15
+17,Cartman,Kyle,10
+18,Cartman,Timmy,7
+19,Kyle,Stan,13
+20,Stan,Timmy,12
+21,Kyle,Timmy,8
+22,Officer,Timmy,14
+23,Driver,Timmy,7
+24,Jimmy,Officer,26
+25,Driver,Jimmy,13
+26,Driver,Officer,2
+27,Crowd,Reeve,1
+28,Reporter,Stan,1
+29,Kyle,Reporter,1
+30,Jimmy,Ryan,31
+31,Aide,Reeve,5
+32,Aide,Hackman,4
+33,Hackman,Reeve,38
+34,Ryan,Timmy,3
+35,Gerald,Randy,1
+36,Liane,Randy,1
+37,Randy,Reporter,3
+38,Hackman,Randy,3
+39,Randy,Reeve,3
+40,Gerald,Liane,1
+41,Gerald,Reporter,3
+42,Gerald,Hackman,3
+43,Gerald,Reeve,3
+44,Liane,Reporter,3
+45,Hackman,Liane,3
+46,Liane,Reeve,3
+47,Hackman,Reporter,9
+48,Reeve,Reporter,9
+49,Janitor,Jimmy,3
+50,Reeve,Saddam Hussein,3
+51,Professor Chaos,Saddam Hussein,1
+52,Hackman,Saddam Hussein,3
+53,Professor Chaos,Reeve,3
+54,Hackman,Professor Chaos,3
+55,Jimmy,Someone,8
+56,Someone,Timmy,1

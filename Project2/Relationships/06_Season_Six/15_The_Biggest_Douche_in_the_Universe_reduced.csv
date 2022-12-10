@@ -1,0 +1,36 @@
+,source,target,weight
+0,Cartman,Liane,21
+1,Dr. Doctor,Liane,20
+2,Cartman,Dr. Doctor,20
+3,Kyle,Stan,112
+4,Chef,Stan,43
+5,Chef,Kyle,28
+6,Chef,Dr. Doctor,28
+7,Dr. Doctor,Stan,12
+8,Dr. Doctor,Kyle,4
+9,Cartman,Chef,46
+10,Cartman,Stan,24
+11,Cartman,Kyle,14
+12,Chef,Liane,28
+13,Liane,Stan,13
+14,Kyle,Liane,7
+15,John Edward,Stan,235
+16,John Edward,Kyle,93
+17,Cartman,John Edward,16
+18,Chef,John Edward,16
+19,Announcer,Stan,8
+20,Announcer,Liane,4
+21,Announcer,Cartman,10
+22,Announcer,Chef,1
+23,Announcer,Kyle,5
+24,Butler,Stan,12
+25,Butler,John Edward,9
+26,Liane,Pilot,2
+27,Cartman,Pilot,6
+28,Announcer,Pilot,6
+29,Adults,Kyle,2
+30,Adults,Stan,14
+31,Chef,Thomas,47
+32,Liane,Thomas,16
+33,Cartman,Thomas,20
+34,Audience,Stan,15

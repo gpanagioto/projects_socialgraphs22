@@ -1,0 +1,89 @@
+,source,target,weight
+0,Kyle,Stan,112
+1,Kid,Stan,4
+2,Cartman,Stan,107
+3,Mr. Garrison,Stan,37
+4,Class,Stan,8
+5,Stan,Tweek,101
+6,Kid,Kyle,2
+7,Cartman,Kyle,101
+8,Kyle,Mr. Garrison,18
+9,Class,Kyle,4
+10,Kyle,Tweek,102
+11,Cartman,Kid,1
+12,Kid,Mr. Garrison,6
+13,Class,Kid,2
+14,Kid,Tweek,3
+15,Cartman,Mr. Garrison,17
+16,Cartman,Class,2
+17,Cartman,Tweek,76
+18,Class,Mr. Garrison,12
+19,Mr. Garrison,Tweek,34
+20,Class,Tweek,6
+21,Customer,Richard,12
+22,Customer,Postum,10
+23,Postum,Richard,50
+24,Barbrady,Richard,2
+25,Officer Barbrady,Richard,2
+26,Barbrady,Officer Barbrady,1
+27,Mrs. Tweak,Richard,38
+28,Mrs. Tweak,Tweek,23
+29,Kyle,Mrs. Tweak,16
+30,Mrs. Tweak,Stan,10
+31,Richard,Stan,44
+32,Richard,Tweek,65
+33,Kyle,Richard,42
+34,Kenny,Stan,4
+35,Kenny,Tweek,3
+36,Kenny,Kyle,5
+37,Cartman,Kenny,3
+38,Boys,Stan,4
+39,Boys,Kyle,1
+40,Boys,Tweek,1
+41,Boys,Richard,5
+42,Cartman,Richard,11
+43,Boys,Cartman,1
+44,Kyle,Postum,4
+45,Postum,Stan,5
+46,Postum,Tweek,6
+47,Cartman,Postum,5
+48,Mayor,Mr. Garrison,16
+49,Blond Member,Mayor,6
+50,Mayor,Stan,8
+51,Mayor,Tweek,20
+52,Mayor,Ted,6
+53,Johnson,Mayor,8
+54,Blond Member,Mr. Garrison,2
+55,Mr. Garrison,Ted,2
+56,Johnson,Mr. Garrison,4
+57,Blond Member,Stan,1
+58,Blond Member,Tweek,3
+59,Blond Member,Ted,1
+60,Blond Member,Johnson,1
+61,Stan,Ted,1
+62,Johnson,Stan,2
+63,Ted,Tweek,3
+64,Johnson,Tweek,4
+65,Johnson,Ted,1
+66,Audience,Postum,13
+67,Audience,Stan,1
+68,Audience,Cartman,1
+69,Audience,Mr. Garrison,1
+70,Mr. Garrison,Postum,7
+71,Kyle,Voice-over,1
+72,Stan,Voice-over,1
+73,Cartman,Voice-over,1
+74,Kenny,Voice-over,1
+75,Tweek,Voice-over,1
+76,Crowd,Postum,1
+77,Mayor,Postum,6
+78,Johnson,Postum,3
+79,Mayor,Richard,6
+80,Johnson,Richard,3
+81,Mr. Garrison,Richard,6
+82,Cartman,Mayor,2
+83,Kyle,Mayor,2
+84,Cartman,Johnson,1
+85,Johnson,Kyle,1
+86,Stan,Supporter,4
+87,Kyle,Supporter,4

@@ -24,35 +24,31 @@
 22,Pi-Pi,Water Tester,15
 23,Lawyer,Water Tester,10
 24,Lawyer,Pi-Pi,6
-25,Stan,Woman Who Loses Baby,2
-26,Pi-Pi,Stan,37
-27,Jimmy,Woman Who Loses Baby,1
-28,Jimmy,Pi-Pi,10
-29,Kyle,Woman Who Loses Baby,2
-30,Pi-Pi,Woman Who Loses Baby,1
-31,Kyle,Pi-Pi,99
-32,Fire Marshal,Randy,48
-33,Randy,Water Tester,38
-34,Fire Marshal,Water Tester,55
-35,Randy,Sharon,5
-36,Fire Marshal,Sharon,8
-37,Sharon,Water Tester,2
-38,Butters,Pi-Pi,25
-39,Cartman,Teacher,21
-40,Señor Lopez,Teacher,6
-41,Councilman,Teacher,9
-42,Audience,Teacher,3
-43,Cartman,Señor Lopez,14
-44,Cartman,Councilman,21
-45,Audience,Cartman,7
-46,Councilman,Señor Lopez,6
-47,Audience,Señor Lopez,2
-48,Audience,Councilman,3
-49,Police Captain,Water Tester,3
-50,Fire Marshal,Police Captain,3
-51,Police Captain,Randy,4
-52,Kyle,Randy,4
-53,Jimmy,Randy,1
-54,Pi-Pi,Randy,3
-55,Butters,Randy,2
-56,Randy,Stan,1
+25,Pi-Pi,Stan,37
+26,Jimmy,Pi-Pi,10
+27,Kyle,Pi-Pi,99
+28,Fire Marshal,Randy,48
+29,Randy,Water Tester,38
+30,Fire Marshal,Water Tester,55
+31,Randy,Sharon,5
+32,Fire Marshal,Sharon,8
+33,Sharon,Water Tester,2
+34,Butters,Pi-Pi,25
+35,Cartman,Teacher,21
+36,Señor Lopez,Teacher,6
+37,Councilman,Teacher,9
+38,Audience,Teacher,3
+39,Cartman,Señor Lopez,14
+40,Cartman,Councilman,21
+41,Audience,Cartman,7
+42,Councilman,Señor Lopez,6
+43,Audience,Señor Lopez,2
+44,Audience,Councilman,3
+45,Police Captain,Water Tester,3
+46,Fire Marshal,Police Captain,3
+47,Police Captain,Randy,4
+48,Kyle,Randy,4
+49,Jimmy,Randy,1
+50,Pi-Pi,Randy,3
+51,Butters,Randy,2
+52,Randy,Stan,1

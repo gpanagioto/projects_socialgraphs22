@@ -1,0 +1,41 @@
+,source,target,weight
+0,Cartman,Mr. Mackey,1
+1,Cartman,Scott,49
+2,Mr. Mackey,Scott,1
+3,Scott,Stan,31
+4,Cartman,Stan,25
+5,Jimmy,Stan,16
+6,Jimmy,Scott,26
+7,Cartman,Jimmy,21
+8,Clark,Dispatcher,4
+9,Clark,Stephen,5
+10,Pete,Scott,36
+11,Clark,Dave,7
+12,Kyle,Stan,6
+13,Dean,Stan,3
+14,Announcer,Stan,3
+15,Stan,The Boys,3
+16,Jimmy,Kyle,6
+17,Dean,Kyle,2
+18,Cartman,Kyle,6
+19,Announcer,Kyle,2
+20,Kyle,Scott,8
+21,Kyle,The Boys,2
+22,Dean,Jimmy,3
+23,Announcer,Jimmy,3
+24,Jimmy,The Boys,3
+25,Cartman,Dean,3
+26,Announcer,Dean,1
+27,Dean,Scott,4
+28,Dean,The Boys,1
+29,Announcer,Cartman,3
+30,Cartman,The Boys,3
+31,Announcer,Scott,4
+32,Announcer,The Boys,1
+33,Scott,The Boys,4
+34,Bob White,Stephen,1
+35,Bob White,Clark,1
+36,Cartman,Clyde,4
+37,Clyde,Jimmy,2
+38,Clyde,Stan,3
+39,Clyde,Scott,5

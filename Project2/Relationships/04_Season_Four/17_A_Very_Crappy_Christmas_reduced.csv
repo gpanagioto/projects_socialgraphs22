@@ -1,0 +1,68 @@
+,source,target,weight
+0,Ike,Kyle,3
+1,Ike,Sheila,2
+2,Kyle,Sheila,6
+3,Kyle,Stan,238
+4,Cartman,Stan,82
+5,Cartman,Kyle,113
+6,Kyle,Mr. Hankey,108
+7,Autumn,Kyle,29
+8,Cartman,Mr. Hankey,62
+9,Autumn,Cartman,18
+10,Autumn,Mr. Hankey,109
+11,Mr. Hankey,Stan,18
+12,Autumn,Stan,6
+13,Red,Stan,2
+14,Assistant,Ms. Choksondik,1
+15,Cartman,Charlie Brown,4
+16,Charlie Brown,Stan,5
+17,Charlie Brown,Kyle,4
+18,Charlie Brown,Kenny,1
+19,Cartman,Kenny,4
+20,Kenny,Stan,5
+21,Kenny,Kyle,4
+22,Kyle,Mayor,32
+23,Mayor,Stan,13
+24,Mayor,The Boys,8
+25,Kyle,The Boys,6
+26,Stan,The Boys,2
+27,Butters,Stan,12
+28,Butters,The boys,4
+29,Butters,Cartman,12
+30,Butters,Kyle,12
+31,Stan,The boys,15
+32,Cartman,The boys,11
+33,Kyle,The boys,19
+34,Johnson,Mayor,6
+35,Johnson,Mr. Hankey,21
+36,Autumn,Johnson,9
+37,Mayor,Mr. Hankey,24
+38,Autumn,Mayor,9
+39,Cartman,Mayor,11
+40,Aide,Mayor,3
+41,Aide,Mr. Hankey,2
+42,Aide,Kyle,4
+43,Aide,Stan,1
+44,Aide,Cartman,1
+45,Jesus,Santa,2
+46,Mr. Mackey,Randy,1
+47,Mayor,Mr. Mackey,3
+48,Mr. Mackey,Ms. Choksondik,1
+49,Kyle,Mr. Mackey,2
+50,Mr. Hankey,Mr. Mackey,1
+51,Autumn,Mr. Mackey,1
+52,Mr. Mackey,Stan,2
+53,Cartman,Mr. Mackey,2
+54,Mayor,Randy,3
+55,Ms. Choksondik,Randy,1
+56,Kyle,Randy,2
+57,Mr. Hankey,Randy,1
+58,Autumn,Randy,1
+59,Randy,Stan,2
+60,Cartman,Randy,2
+61,Mayor,Ms. Choksondik,3
+62,Kyle,Ms. Choksondik,2
+63,Mr. Hankey,Ms. Choksondik,1
+64,Autumn,Ms. Choksondik,1
+65,Ms. Choksondik,Stan,2
+66,Cartman,Ms. Choksondik,2

@@ -1,0 +1,71 @@
+,source,target,weight
+0,Linda,Sheila,3
+1,Sheila,Stephen,18
+2,Randy,Sheila,14
+3,Linda,Stephen,7
+4,Linda,Randy,5
+5,Randy,Stephen,27
+6,Cartman,Stan,30
+7,Kyle,Stan,35
+8,Cartman,Kyle,10
+9,Gerald,Stephen,18
+10,Gerald,Randy,26
+11,Gerald,Sheila,9
+12,Butters,Gerald,1
+13,Butters,Stephen,7
+14,Butters,Randy,4
+15,Butters,Sheila,4
+16,Stan,Stephen,4
+17,Phil,Stephen,19
+18,Stephen,The parents,2
+19,Josh,Stephen,20
+20,Phil,Stan,1
+21,Stan,The parents,1
+22,Josh,Stan,2
+23,Sheila,Stan,2
+24,Phil,The parents,7
+25,Josh,Phil,66
+26,Phil,Sheila,12
+27,Josh,The parents,5
+28,Sheila,The parents,2
+29,Josh,Sheila,11
+30,Butters,Kyle,5
+31,Butters,Cartman,13
+32,Butters,Stan,22
+33,Josh,Randy,37
+34,Randy,The Boys,1
+35,Randy,Stan,1
+36,Cartman,Randy,1
+37,Josh,The Boys,1
+38,Butters,Josh,2
+39,Cartman,Josh,1
+40,Stephen,The Boys,2
+41,Cartman,Stephen,2
+42,Sheila,The Boys,1
+43,Cartman,Sheila,1
+44,Butters,The Boys,2
+45,Stan,The Boys,1
+46,Cartman,The Boys,1
+47,Cartman,Ike,4
+48,Butters,Ike,6
+49,Ike,Kyle,2
+50,Gerald,Josh,29
+51,Gerald,Phil,36
+52,Gerald,The parents,2
+53,Phil,Randy,46
+54,Randy,The parents,3
+55,Josh,Sharon,5
+56,Gerald,Sharon,3
+57,Phil,Sharon,5
+58,Sharon,Sheila,1
+59,Sharon,Stephen,3
+60,Randy,Sharon,3
+61,Heather,Kyle,2
+62,Heather,Stan,12
+63,Gerald,Linda,3
+64,Announcer,Stan,10
+65,Announcer,Kyle,1
+66,Announcer,Butters,1
+67,Announcer,Cartman,1
+68,Linda,Phil,5
+69,Josh,Linda,2

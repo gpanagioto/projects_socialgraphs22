@@ -1,0 +1,48 @@
+,source,target,weight
+0,Cartman,Stan,163
+1,Cartman,Kyle,236
+2,Cartman,Kenny,22
+3,Kyle,Stan,87
+4,Kenny,Stan,8
+5,Kenny,Kyle,13
+6,Cartman,Scott,500
+7,Kyle,Rick,9
+8,Cartman,Rick,18
+9,Rick,Stan,3
+10,Kenny,Rick,3
+11,Clyde,Kids,1
+12,Clyde,Kyle,2
+13,Cartman,Clyde,5
+14,Butters,Clyde,1
+15,Clyde,Stan,1
+16,Clyde,Timmy,2
+17,Kids,Kyle,2
+18,Cartman,Kids,5
+19,Butters,Kids,1
+20,Kids,Stan,1
+21,Kids,Timmy,2
+22,Butters,Kyle,2
+23,Kyle,Timmy,4
+24,Butters,Cartman,5
+25,Cartman,Timmy,10
+26,Butters,Stan,1
+27,Butters,Timmy,2
+28,Stan,Timmy,2
+29,Cartman,Jimbo,113
+30,Cartman,Ned,35
+31,Cartman,Mr. Tenorman,21
+32,A man,Cartman,7
+33,Jimbo,Ned,55
+34,Jimbo,Mr. Tenorman,33
+35,A man,Jimbo,11
+36,Mr. Tenorman,Ned,15
+37,A man,Ned,5
+38,A man,Mr. Tenorman,3
+39,Scott,Stan,7
+40,Phil,Thom,1
+41,Kyle,Scott,31
+42,Mr. Tenorman,Scott,6
+43,Chef,Stan,8
+44,Cartman,Chef,40
+45,Chef,Kyle,8
+46,Chef,Scott,12

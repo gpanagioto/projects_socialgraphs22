@@ -1,0 +1,93 @@
+,source,target,weight
+0,Cartman,Kyle,150
+1,Brian,Cartman,31
+2,Cartman,Stan,29
+3,Brian,Kyle,99
+4,Kyle,Stan,75
+5,Brian,Stan,6
+6,Cartman,Kenny,1
+7,Kenny,Kyle,3
+8,Kenny,Stan,1
+9,Cartman,Mike,12
+10,Kyle,Mike,45
+11,Mike,Stan,6
+12,Butters,Kyle,31
+13,Butters,Clyde,6
+14,Butters,Stan,3
+15,Butters,Craig,3
+16,Butters,Tolkien,1
+17,Clyde,Kyle,35
+18,Craig,Kyle,22
+19,Kyle,Tolkien,5
+20,Clyde,Stan,5
+21,Clyde,Craig,4
+22,Clyde,Tolkien,1
+23,Craig,Stan,8
+24,Stan,Tolkien,2
+25,Craig,Tolkien,3
+26,Brian,Guard,3
+27,Guard,Kelly,3
+28,Guard,Mike,3
+29,Guard,Nelson,3
+30,Brian,Kelly,1
+31,Brian,Mike,84
+32,Brian,Nelson,1
+33,Kelly,Mike,1
+34,Kelly,Nelson,1
+35,Mike,Nelson,1
+36,Aide,Putin,6
+37,Aide,Kyle,7
+38,Aide,Stan,2
+39,Aide,Cartman,1
+40,Aide,Craig,1
+41,Aide,Tweek,1
+42,Aide,Clyde,1
+43,Kyle,Putin,42
+44,Putin,Stan,12
+45,Cartman,Putin,6
+46,Craig,Putin,6
+47,Putin,Tweek,6
+48,Clyde,Putin,6
+49,Kyle,Tweek,7
+50,Stan,Tweek,2
+51,Cartman,Craig,1
+52,Cartman,Tweek,1
+53,Cartman,Clyde,7
+54,Craig,Tweek,1
+55,Clyde,Tweek,1
+56,ALF leader,Field reporter,2
+57,Field reporter,Protesters,2
+58,Anchor Tom,Field reporter,2
+59,ALF leader,Protesters,1
+60,ALF leader,Anchor Tom,1
+61,Anchor Tom,Protesters,1
+62,Kyle,Sheila,6
+63,Jimmy,Kyle,12
+64,Butters,Sheila,1
+65,Clyde,Sheila,2
+66,Cartman,Sheila,2
+67,Jimmy,Sheila,2
+68,Butters,Cartman,5
+69,Butters,Jimmy,2
+70,Clyde,Jimmy,4
+71,Cartman,Jimmy,4
+72,Brian,Sheila,6
+73,Mike,Sheila,3
+74,Driver,Kyle,36
+75,Butters,Driver,8
+76,Brian,Driver,28
+77,Cartman,Driver,4
+78,Clyde,Driver,4
+79,Driver,Mike,12
+80,ALF leader,Driver,20
+81,ALF leader,Kyle,60
+82,Brian,Butters,14
+83,Butters,Mike,6
+84,ALF leader,Butters,10
+85,Brian,Clyde,7
+86,ALF leader,Brian,35
+87,ALF leader,Cartman,10
+88,Clyde,Mike,3
+89,ALF leader,Clyde,5
+90,ALF leader,Mike,15
+91,ALF leader,Stan,15

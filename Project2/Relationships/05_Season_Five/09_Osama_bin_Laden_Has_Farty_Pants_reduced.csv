@@ -1,0 +1,110 @@
+,source,target,weight
+0,Butters,Cartman,20
+1,Cartman,Stan,154
+2,Cartman,Kyle,101
+3,Cartman,Officer Barbrady,16
+4,Butters,Stan,15
+5,Butters,Kyle,10
+6,Butters,Officer Barbrady,20
+7,Kyle,Stan,123
+8,Officer Barbrady,Stan,12
+9,Kyle,Officer Barbrady,8
+10,Cartman,Ms. Choksondik,15
+11,Ms. Choksondik,Wendy,6
+12,Cartman,Wendy,10
+13,Sharon,Stan,8
+14,Randy,Stan,8
+15,Randy,Sharon,6
+16,Official,Stan,32
+17,Stan,Tweek,8
+18,Richard,Stan,8
+19,People,Stan,8
+20,Johnson,Stan,8
+21,Kenny,Stan,14
+22,Official,Tweek,4
+23,Official,Richard,4
+24,Official,People,4
+25,Johnson,Official,4
+26,Cartman,Official,8
+27,Kyle,Official,8
+28,Kenny,Official,4
+29,Richard,Tweek,1
+30,People,Tweek,1
+31,Johnson,Tweek,1
+32,Cartman,Tweek,2
+33,Kyle,Tweek,2
+34,Kenny,Tweek,1
+35,People,Richard,1
+36,Johnson,Richard,1
+37,Cartman,Richard,2
+38,Kyle,Richard,2
+39,Kenny,Richard,1
+40,Johnson,People,1
+41,Cartman,People,2
+42,Kyle,People,2
+43,Kenny,People,1
+44,Cartman,Johnson,2
+45,Johnson,Kyle,2
+46,Johnson,Kenny,1
+47,Cartman,Kenny,11
+48,Kenny,Kyle,9
+49,Postman,Stan,18
+50,Stan,Towelie,36
+51,Stan,The Boys,14
+52,Cartman,Postman,12
+53,Kyle,Postman,6
+54,Postman,Towelie,18
+55,Postman,The Boys,6
+56,Cartman,Towelie,24
+57,Cartman,The Boys,11
+58,Kyle,Towelie,12
+59,Kyle,The Boys,6
+60,The Boys,Towelie,12
+61,Stan,Tony,33
+62,Soldier,Stan,6
+63,Soldiers,Stan,8
+64,Soldier,Tony,8
+65,Soldiers,Tony,9
+66,Soldier,Soldiers,2
+67,Pilot,Stan,8
+68,Boys,Stan,2
+69,Cartman,Pilot,12
+70,Boys,Cartman,3
+71,Pilot,The Boys,2
+72,Kyle,Pilot,10
+73,Kenny,Pilot,6
+74,Boys,Pilot,2
+75,Kenny,The Boys,2
+76,Boys,The Boys,1
+77,Boys,Kyle,2
+78,Boys,Kenny,2
+79,Kyle,Soldiers,6
+80,Kenny,Soldiers,1
+81,Pilot,Soldiers,2
+82,Cartman,Soldiers,5
+83,Protester,Stan,11
+84,Cartman,Protester,7
+85,Kyle,Protester,6
+86,Cartman,Voice,2
+87,Cartman,Osama bin Laden,41
+88,Cameraman,Cartman,2
+89,Osama bin Laden,Voice,3
+90,Kyle,Voice,1
+91,Cameraman,Voice,1
+92,Stan,Voice,1
+93,Kyle,Osama bin Laden,24
+94,Cameraman,Osama bin Laden,3
+95,Osama bin Laden,Stan,14
+96,Cameraman,Kyle,1
+97,Cameraman,Stan,1
+98,General,Tony,1
+99,General,Soldiers,2
+100,General,Osama bin Laden,4
+101,Osama bin Laden,Soldiers,4
+102,Osama bin Laden,Soldier,4
+103,Cartman,General,2
+104,Cartman,Soldier,2
+105,General,Kyle,3
+106,General,Soldier,1
+107,General,Stan,2
+108,Kyle,Soldier,3

@@ -1,0 +1,36 @@
+,source,target,weight
+0,Narrator,Stuart,1
+1,Cartman,Scott,10
+2,Butters,Cartman,53
+3,Cartman,Kyle,53
+4,Butters,Scott,75
+5,Kyle,Scott,6
+6,Butters,Kyle,3
+7,Dave,John,12
+8,Butters,Thompson,12
+9,Cartman,Thompson,45
+10,Gates,Secretary,5
+11,Butler,Scott,16
+12,Butler,Butters,52
+13,Kyle,Thompson,12
+14,Tammy,Tom,3
+15,Gates,Tom,2
+16,Gates,Tammy,2
+17,Cartman,Mrs. McCormick,2
+18,Cartman,Other kids,5
+19,Other kids,Stan,7
+20,Kenny,Other kids,3
+21,Kyle,Other kids,2
+22,Cartman,Stan,35
+23,Cartman,Kenny,15
+24,Kenny,Stan,21
+25,Kyle,Stan,14
+26,Kenny,Kyle,6
+27,Cartman,Gates,12
+28,Gates,Thompson,6
+29,Aide,President,4
+30,Aide,Craig,2
+31,Aide,Kenny,2
+32,Craig,President,2
+33,Kenny,President,2
+34,Craig,Kenny,1

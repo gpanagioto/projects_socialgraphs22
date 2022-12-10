@@ -1,0 +1,53 @@
+,source,target,weight
+0,Announcer,Stan,12
+1,Announcer,Cartman,4
+2,Announcer,Kyle,4
+3,Announcer,The Boys,8
+4,Cartman,Stan,110
+5,Kyle,Stan,95
+6,Stan,The Boys,6
+7,Cartman,Kyle,123
+8,Cartman,The Boys,2
+9,Kyle,The Boys,2
+10,Cartman,Tweek,189
+11,Kyle,Tweek,129
+12,Stan,Tweek,124
+13,Richard,Tweek,10
+14,Cartman,Richard,6
+15,Crowd,Stan,46
+16,Crowd,Tweek,37
+17,Crowd,Kyle,18
+18,Cartman,Crowd,28
+19,Crowd,Skeeter,31
+20,Skeeter,Stan,33
+21,Cartman,Skeeter,16
+22,Skeeter,Tweek,30
+23,Kyle,Skeeter,11
+24,Cartman,George Lucas,65
+25,George Lucas,Tweek,70
+26,George Lucas,Kyle,76
+27,George Lucas,Stan,54
+28,A voice,Tweek,2
+29,A voice,Stan,4
+30,A voice,Kyle,5
+31,A voice,George Lucas,7
+32,Members,Tweek,4
+33,Members,Skeeter,2
+34,Audience,Stan,6
+35,Audience,Tweek,3
+36,Audience,George Lucas,3
+37,Aide,Townsman,1
+38,Townsfolk,Townsman,3
+39,Kyle,Townsman,1
+40,Skeeter,Townsman,1
+41,Stan,Townsman,1
+42,Townsman,Tweek,1
+43,Aide,Townsfolk,3
+44,Aide,Kyle,1
+45,Aide,Skeeter,1
+46,Aide,Stan,1
+47,Aide,Tweek,1
+48,Kyle,Townsfolk,3
+49,Skeeter,Townsfolk,3
+50,Stan,Townsfolk,3
+51,Townsfolk,Tweek,3

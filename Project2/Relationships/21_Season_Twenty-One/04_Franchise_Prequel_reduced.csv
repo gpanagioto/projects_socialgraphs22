@@ -1,0 +1,71 @@
+,source,target,weight
+0,Doctor,Jimmy,1
+1,Cartman,Jimmy,42
+2,Jimmy,Stan,8
+3,Jimmy,Tolkien,6
+4,Cartman,Stan,44
+5,Cartman,Tolkien,6
+6,Stan,Tolkien,1
+7,Cartman,Clyde,7
+8,Clyde,Stan,4
+9,Clyde,Kyle,2
+10,Clyde,Craig,3
+11,Cartman,Kyle,38
+12,Cartman,Craig,15
+13,Kyle,Stan,12
+14,Craig,Stan,9
+15,Craig,Kyle,3
+16,Butters,Cartman,24
+17,Butters,Stan,26
+18,Butters,Kyle,16
+19,Randy,Thomas,11
+20,Steve,Thomas,4
+21,Stephen,Thomas,10
+22,Linda,Thomas,2
+23,Randy,Steve,5
+24,Randy,Stephen,13
+25,Linda,Randy,3
+26,Stephen,Steve,5
+27,Linda,Steve,1
+28,Linda,Stephen,3
+29,Mark,Mr. Mackey,10
+30,Cartman,Heidi,33
+31,Jimmy,Kyle,8
+32,Heidi,Kyle,6
+33,Heidi,Jimmy,6
+34,Heidi,Stan,3
+35,Mrs. Tweak,Richard,5
+36,Mark,Mrs. Tweak,3
+37,Mark,Richard,12
+38,Mark,Stephen,4
+39,Mark,Ryan,2
+40,Cartman,Mark,56
+41,Butters,Jimmy,8
+42,Butters,Mark,16
+43,Butters,Clyde,4
+44,Kyle,Mark,16
+45,Jimmy,Mark,32
+46,Clyde,Jimmy,2
+47,Clyde,Mark,4
+48,Mark,Stan,4
+49,Sgt. Yates,Stephen,10
+50,Sgt. Yates,Thomas,10
+51,Sgt. Yates,Steve,5
+52,Randy,Sgt. Yates,10
+53,Kenny,Kyle,1
+54,Cartman,Kenny,1
+55,Mark,Tolkien,12
+56,Mark,Thomas,12
+57,Mark,Randy,12
+58,Jimmy,Thomas,2
+59,Jimmy,Randy,2
+60,Kyle,Tolkien,1
+61,Thomas,Tolkien,1
+62,Randy,Tolkien,1
+63,Kyle,Thomas,1
+64,Kyle,Randy,1
+65,Cartman,Thomas,4
+66,Cartman,Randy,4
+67,Butters,Stephen,4
+68,Cartman,Stephen,1
+69,Stan,Stephen,1

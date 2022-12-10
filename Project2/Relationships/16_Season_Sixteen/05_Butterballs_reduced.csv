@@ -1,0 +1,58 @@
+,source,target,weight
+0,Butters,Kyle,25
+1,Butters,Stan,50
+2,Butters,Craig,14
+3,Butters,Cartman,21
+4,Butters,Red,20
+5,Kyle,Stan,117
+6,Craig,Kyle,6
+7,Cartman,Kyle,18
+8,Kyle,Red,6
+9,Craig,Stan,12
+10,Cartman,Stan,24
+11,Red,Stan,14
+12,Cartman,Craig,7
+13,Craig,Red,5
+14,Cartman,Red,7
+15,Linda,Stephen,10
+16,Butters,Stephen,22
+17,Grammy,Stephen,22
+18,Butters,Linda,18
+19,Grammy,Linda,23
+20,Butters,Grammy,83
+21,Butters,Mr. Adler,18
+22,Grammy,Red,7
+23,Mr. Adler,Red,3
+24,Grammy,Mr. Adler,21
+25,Jimmy,Stan,4
+26,Jason,Jimmy,1
+27,Jimmy,Pete,1
+28,Jimmy,Kyle,2
+29,Butters,Jimmy,2
+30,Jason,Stan,4
+31,Pete,Stan,4
+32,Jason,Pete,1
+33,Jason,Kyle,2
+34,Butters,Jason,2
+35,Kyle,Pete,2
+36,Butters,Pete,2
+37,Stan,Stephen,12
+38,Grammy,Stan,6
+39,Linda,Stan,3
+40,Grammy,Professor Chaos,20
+41,Jesus,Stan,4
+42,Clyde,Stan,4
+43,Cartman,Clyde,1
+44,Clyde,Red,1
+45,Clyde,Craig,1
+46,Clyde,Timmy,1
+47,Clyde,Mr. Mackey,1
+48,Stan,Timmy,4
+49,Mr. Mackey,Stan,4
+50,Cartman,Timmy,1
+51,Cartman,Mr. Mackey,1
+52,Red,Timmy,1
+53,Mr. Mackey,Red,1
+54,Craig,Timmy,1
+55,Craig,Mr. Mackey,1
+56,Mr. Mackey,Timmy,1

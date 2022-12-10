@@ -1,0 +1,67 @@
+,source,target,weight
+0,Cartman,Stan,42
+1,Kyle,Stan,111
+2,Butters,Stan,13
+3,Clyde,Stan,3
+4,Craig,Stan,62
+5,Mr. Mackey,Stan,5
+6,Cartman,Kyle,51
+7,Butters,Cartman,23
+8,Cartman,Clyde,9
+9,Cartman,Craig,9
+10,Cartman,Mr. Mackey,84
+11,Butters,Kyle,14
+12,Clyde,Kyle,4
+13,Craig,Kyle,44
+14,Kyle,Mr. Mackey,4
+15,Butters,Clyde,2
+16,Butters,Craig,4
+17,Butters,Mr. Mackey,3
+18,Clyde,Craig,1
+19,Clyde,Mr. Mackey,1
+20,Craig,Mr. Mackey,1
+21,Cartman,Principal Victoria,69
+22,Cartman,Mr. Adler,9
+23,Mr. Mackey,Principal Victoria,49
+24,Mr. Adler,Principal Victoria,17
+25,Mr. Adler,Mr. Mackey,27
+26,Jenny,Kyle,15
+27,Jenny,Stan,15
+28,Butters,Jenny,5
+29,Cartman,Jenny,55
+30,Jenny,Mr. Garrison,15
+31,Class,Jenny,5
+32,Jenny,Kids,5
+33,Jenny,Timmy,5
+34,Cartman,Mr. Garrison,18
+35,Class,Mr. Garrison,3
+36,Kids,Mr. Garrison,3
+37,Mr. Garrison,Timmy,3
+38,Cartman,Class,6
+39,Cartman,Kids,6
+40,Cartman,Timmy,6
+41,Class,Kids,1
+42,Class,Timmy,1
+43,Kids,Timmy,1
+44,Kenny,Kyle,12
+45,Kyle,Wendy,23
+46,Craig,Kenny,12
+47,Craig,Wendy,17
+48,Kenny,Stan,36
+49,Stan,Wendy,41
+50,Kenny,Wendy,12
+51,Kyle,Tolkien,7
+52,Stan,Tolkien,7
+53,Tolkien,Wendy,2
+54,Craig,Tolkien,4
+55,Frog King,Singer,2
+56,Butters,Singers,5
+57,Craig,Singers,5
+58,Kyle,Singers,11
+59,Singers,Stan,14
+60,Frog King,Stan,11
+61,Frog King,Kyle,4
+62,Frog King,Singers,5
+63,Butters,Frog King,2
+64,Craig,Frog King,1
+65,Frog King,Mr. Mackey,3

@@ -1,0 +1,49 @@
+,source,target,weight
+0,Mr. Mackey,Principal Victoria,4
+1,Kyle,Principal Victoria,6
+2,Cartman,Principal Victoria,45
+3,Kids,Principal Victoria,3
+4,Kyle,Mr. Mackey,2
+5,Cartman,Mr. Mackey,19
+6,Kids,Mr. Mackey,1
+7,Cartman,Kyle,176
+8,Kids,Kyle,2
+9,Cartman,Kids,13
+10,Kenny,Kyle,9
+11,Cartman,Kenny,11
+12,Kyle,Stan,53
+13,Kyle,Michael,20
+14,Cartman,Stan,49
+15,Cartman,Michael,17
+16,Kenny,Stan,1
+17,Kenny,Michael,3
+18,Michael,Stan,3
+19,Driver,Jennifer Lopez,3
+20,Kyle,Mr. Garrison,8
+21,Butters,Kyle,6
+22,Kyle,Mr. Slave,2
+23,Cartman,Mr. Garrison,16
+24,Butters,Cartman,12
+25,Cartman,Mr. Slave,4
+26,Mr. Garrison,Stan,4
+27,Butters,Stan,3
+28,Mr. Slave,Stan,1
+29,Butters,Mr. Garrison,12
+30,Mr. Garrison,Mr. Slave,4
+31,Butters,Mr. Slave,3
+32,Jennifer Lopez,Mr. Mackey,10
+33,Bebe,Mr. Mackey,1
+34,Jennifer Lopez,Principal Victoria,10
+35,Cartman,Jennifer Lopez,68
+36,Bebe,Jennifer Lopez,10
+37,Bebe,Principal Victoria,1
+38,Bebe,Cartman,6
+39,Cartman,Liane,21
+40,Dr. Doctor,Liane,2
+41,Kyle,Liane,4
+42,Cartman,Dr. Doctor,2
+43,Dr. Doctor,Kyle,2
+44,Jennifer Lopez,Kyle,9
+45,Jennifer Lopez,Mitch Conner,6
+46,Kyle,Mitch Conner,12
+47,Cartman,Mitch Conner,6

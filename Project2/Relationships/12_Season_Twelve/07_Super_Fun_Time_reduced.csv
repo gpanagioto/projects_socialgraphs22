@@ -1,0 +1,77 @@
+,source,target,weight
+0,Pioneer Paul,Stan,102
+1,Kyle,Pioneer Paul,55
+2,Mr. Garrison,Pioneer Paul,28
+3,Cartman,Pioneer Paul,65
+4,Kenny,Pioneer Paul,13
+5,Butters,Pioneer Paul,55
+6,Kyle,Stan,39
+7,Mr. Garrison,Stan,28
+8,Cartman,Stan,72
+9,Kenny,Stan,10
+10,Butters,Stan,62
+11,Kyle,Mr. Garrison,14
+12,Cartman,Kyle,23
+13,Kenny,Kyle,3
+14,Butters,Kyle,13
+15,Cartman,Mr. Garrison,62
+16,Kenny,Mr. Garrison,10
+17,Butters,Mr. Garrison,32
+18,Cartman,Kenny,15
+19,Butters,Cartman,260
+20,Butters,Kenny,10
+21,Stan,Wendy,24
+22,Chad,Stan,1
+23,Pioneer Paul,Wendy,26
+24,Kyle,Wendy,15
+25,Chad,Wendy,1
+26,Chad,Pioneer Paul,2
+27,Chad,Kyle,1
+28,Clerk,Wendy,11
+29,Clerk,Kyle,24
+30,Clerk,Pioneer Paul,40
+31,Clerk,Stan,38
+32,Clerk,Leader,9
+33,Leader,Wendy,6
+34,Kyle,Leader,9
+35,Leader,Pioneer Paul,15
+36,Leader,Stan,18
+37,Butters,Cashier,2
+38,Cartman,Cashier,1
+39,Blond,Mr. Garrison,1
+40,Leader,Mr. Garrison,1
+41,Mr. Garrison,Police Chief,5
+42,Blond,Leader,1
+43,Blond,Police Chief,3
+44,Leader,Police Chief,3
+45,Franz,Leader,4
+46,Craig,Franz,6
+47,Franz,Pioneer Paul,49
+48,Craig,Pioneer Paul,1
+49,Franz,Wendy,6
+50,Franz,Jimmy,1
+51,Jimmy,Wendy,1
+52,Franz,Mr. Garrison,14
+53,Franz,Kenny,13
+54,Franz,Stan,40
+55,Police Chief,Stan,8
+56,Franz,Kyle,5
+57,Kyle,Police Chief,1
+58,Kenny,Wendy,1
+59,Mr. Garrison,Wendy,2
+60,Cartman,Wendy,7
+61,Butters,Wendy,7
+62,Police Chief,Wendy,1
+63,Clerk,Franz,10
+64,Cartman,Franz,35
+65,Butters,Franz,35
+66,Franz,Police Chief,5
+67,Clerk,Kenny,2
+68,Kenny,Police Chief,1
+69,Pioneer Paul,Police Chief,7
+70,Clerk,Mr. Garrison,4
+71,Cartman,Clerk,14
+72,Butters,Clerk,14
+73,Clerk,Police Chief,2
+74,Cartman,Police Chief,7
+75,Butters,Police Chief,7
