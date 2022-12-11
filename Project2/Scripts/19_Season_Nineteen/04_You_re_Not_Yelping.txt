@@ -285,3 +285,10 @@ Lead singer : <poem><i>Bein' a food critic's easy!</i></poem>
 Backup singers : <poem><i>Boogers and cum.</i></poem>
 Lead singer : <poem><i>Oh, you feel a little queasy?</i></poem>
 +++++together+++++
+Lead singer : <poem><i>Do you need a diagnosis? Well doctor's got one.</i></poem>
+Backup singers : Oooo-oooo-oooo-oooo
+Dr. Doctor : Your stomach seems to be filled with boogers and cum.
+Backup singers : <poem><i>Boogers and cum.</i></poem>
+Lead singer : <poem><i>Piss in your potatoes.</i></poem>
+Backup singers : <poem><i>Boogers and cum.</i></poem>
+Backup singers : Boogers and cum!
