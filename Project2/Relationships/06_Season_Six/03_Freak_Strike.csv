@@ -15,55 +15,60 @@
 13,Brunet Trekker,Kyle,2
 14,Blond Trekker,Cartman,7
 15,Blond Trekker,Kyle,3
-16,Butters,Stagehand,18
-17,Butters,Disfigured country singer,78
-18,Butters,Roger,9
-19,Disfigured country singer,Stagehand,14
-20,Roger,Stagehand,2
-21,Disfigured country singer,Roger,7
-22,Cartman,Maury,108
-23,Butters,Maury,110
-24,Kyle,Maury,22
-25,Maury,Stan,11
-26,Cartman,Operator,25
-27,Cartman,Liane,49
-28,Butters,Stephen,6
-29,Butters,Linda,3
-30,Linda,Stephen,2
-31,Disfigured country singer,The Freaks,5
-32,Butters,The Freaks,40
-33,Maury,Studio audience,35
-34,Maury,Vanessa,9
-35,Maury,Vanity,31
-36,Maury,Some audience members,4
-37,Studio audience,Vanessa,5
-38,Studio audience,Vanity,19
-39,Some audience members,Studio audience,2
-40,Vanessa,Vanity,5
-41,Some audience members,Vanessa,1
-42,Some audience members,Vanity,2
-43,Cartman,Stagehand,1
-44,Incredibly obese black man,The Freaks,2
-45,Butters,Incredibly obese black man,3
-46,Disfigured country singer,Incredibly obese black man,1
-47,Liane,Maury,20
-48,Liane,Studio audience,12
-49,Cartman,Studio audience,24
-50,Liane,Vanessa,4
-51,Cartman,Vanessa,6
-52,Liane,Vanity,12
-53,Cartman,Vanity,22
-54,Police captain,The Freaks,18
-55,Middle Dwarf,The Freaks,6
-56,Butters,Police captain,15
-57,Butters,Middle Dwarf,5
-58,Middle Dwarf,Police captain,3
-59,Joline,Maury,16
-60,Joline,Vanity,8
-61,Cartman,Joline,8
-62,Joline,Studio audience,12
-63,Elephant man,Maury,4
-64,Cameraman,Maury,4
-65,Cartman,Elephant man,1
-66,Cameraman,Elephant man,1
-67,Cameraman,Cartman,1
+16,Butters,Man with no face,31
+17,Butters,Stagehand,18
+18,Butters,Disfigured country singer,78
+19,Butters,Roger,9
+20,Man with no face,Stagehand,6
+21,Disfigured country singer,Man with no face,24
+22,Man with no face,Roger,3
+23,Disfigured country singer,Stagehand,14
+24,Roger,Stagehand,2
+25,Disfigured country singer,Roger,7
+26,Cartman,Maury,108
+27,Butters,Maury,110
+28,Kyle,Maury,22
+29,Maury,Stan,11
+30,Cartman,Operator,25
+31,Cartman,Liane,49
+32,Butters,Stephen,6
+33,Butters,Linda,3
+34,Linda,Stephen,2
+35,Disfigured country singer,The Freaks,5
+36,Butters,The Freaks,40
+37,Man with no face,The Freaks,1
+38,Maury,Studio audience,35
+39,Maury,Vanessa,9
+40,Maury,Vanity,31
+41,Maury,Some audience members,4
+42,Studio audience,Vanessa,5
+43,Studio audience,Vanity,19
+44,Some audience members,Studio audience,2
+45,Vanessa,Vanity,5
+46,Some audience members,Vanessa,1
+47,Some audience members,Vanity,2
+48,Cartman,Stagehand,1
+49,Incredibly obese black man,The Freaks,2
+50,Butters,Incredibly obese black man,3
+51,Disfigured country singer,Incredibly obese black man,1
+52,Liane,Maury,20
+53,Liane,Studio audience,12
+54,Cartman,Studio audience,24
+55,Liane,Vanessa,4
+56,Cartman,Vanessa,6
+57,Liane,Vanity,12
+58,Cartman,Vanity,22
+59,Police captain,The Freaks,18
+60,Middle Dwarf,The Freaks,6
+61,Butters,Police captain,15
+62,Butters,Middle Dwarf,5
+63,Middle Dwarf,Police captain,3
+64,Joline,Maury,16
+65,Joline,Vanity,8
+66,Cartman,Joline,8
+67,Joline,Studio audience,12
+68,Elephant man,Maury,4
+69,Cameraman,Maury,4
+70,Cartman,Elephant man,1
+71,Cameraman,Elephant man,1
+72,Cameraman,Cartman,1

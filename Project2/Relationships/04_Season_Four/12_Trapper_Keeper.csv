@@ -37,68 +37,76 @@
 35,Filmore,Flora,6
 36,Flora,Two kids,4
 37,Flora,Other kids,4
-38,Flora,Other Kids,4
-39,Flora,Girl,4
-40,Mr. Garrison,Two kids,3
-41,Mr. Garrison,Other kids,3
-42,Mr. Garrison,Other Kids,3
-43,Girl,Mr. Garrison,3
-44,Sally,Two kids,2
-45,Other kids,Sally,2
-46,Other Kids,Sally,2
-47,Girl,Sally,2
-48,Filmore,Two kids,1
-49,Filmore,Other kids,1
-50,Filmore,Other Kids,1
-51,Filmore,Girl,1
-52,Other kids,Two kids,1
-53,Other Kids,Two kids,1
-54,Girl,Two kids,1
-55,Other Kids,Other kids,1
-56,Girl,Other kids,1
-57,Girl,Other Kids,1
-58,Barbrady,Cartman,16
-59,Barbrady,Bill,13
-60,Barbrady,Kyle,5
-61,BSM-471,Bill,6
-62,BSM-471,Cartman,78
-63,Barbrady,Stan,15
-64,BSM-471,Stan,115
-65,BSM-471,Barbrady,6
-66,BSM-471,Kyle,70
-67,Mr. Garrison,Supporters,26
-68,Fillmore,Mr. Garrison,7
-69,Flora,Supporters,3
-70,Fillmore,Flora,1
-71,Filmore,Supporters,10
-72,Fillmore,Supporters,3
-73,Fillmore,Filmore,2
-74,Sally,Supporters,3
-75,BSM-471,Liane,8
-76,Liane,Stan,8
-77,Kyle,Liane,4
-78,Stan,Trapper Keeper,17
-79,Kenny,Stan,5
-80,Cartman,Kenny,3
-81,Kenny,Trapper Keeper,2
-82,Kenny,Kyle,4
-83,Mark,Stan,4
-84,Mark,Trapper Keeper,1
-85,BSM-471,Mark,3
-86,Kyle,Mark,1
-87,BSM-471,Trapper Keeper,4
-88,Cops,Mark,1
-89,BSM-471,Cops,1
-90,Cops,Stan,1
-91,Rosie,Stan,2
-92,Rosie,Trapper Keeper,2
-93,BSM-471,Rosie,1
-94,Jesse Jackson,Mr. Garrison,15
-95,Filmore,Jesse Jackson,9
-96,Jesse Jackson,Sally,6
-97,Ike,Jesse Jackson,3
-98,Jesse Jackson,Kids,3
-99,Kids,Mr. Garrison,5
-100,Filmore,Kids,3
-101,Kids,Sally,2
-102,Ike,Kids,1
+38,Flora,Some Kids,4
+39,Flora,Other Kids,4
+40,Flora,Girl,4
+41,Mr. Garrison,Two kids,3
+42,Mr. Garrison,Other kids,3
+43,Mr. Garrison,Some Kids,3
+44,Mr. Garrison,Other Kids,3
+45,Girl,Mr. Garrison,3
+46,Sally,Two kids,2
+47,Other kids,Sally,2
+48,Sally,Some Kids,2
+49,Other Kids,Sally,2
+50,Girl,Sally,2
+51,Filmore,Two kids,1
+52,Filmore,Other kids,1
+53,Filmore,Some Kids,1
+54,Filmore,Other Kids,1
+55,Filmore,Girl,1
+56,Other kids,Two kids,1
+57,Some Kids,Two kids,1
+58,Other Kids,Two kids,1
+59,Girl,Two kids,1
+60,Other kids,Some Kids,1
+61,Other Kids,Other kids,1
+62,Girl,Other kids,1
+63,Other Kids,Some Kids,1
+64,Girl,Some Kids,1
+65,Girl,Other Kids,1
+66,Barbrady,Cartman,16
+67,Barbrady,Bill,13
+68,Barbrady,Kyle,5
+69,BSM-471,Bill,6
+70,BSM-471,Cartman,78
+71,Barbrady,Stan,15
+72,BSM-471,Stan,115
+73,BSM-471,Barbrady,6
+74,BSM-471,Kyle,70
+75,Mr. Garrison,Supporters,26
+76,Fillmore,Mr. Garrison,7
+77,Flora,Supporters,3
+78,Fillmore,Flora,1
+79,Filmore,Supporters,10
+80,Fillmore,Supporters,3
+81,Fillmore,Filmore,2
+82,Sally,Supporters,3
+83,BSM-471,Liane,8
+84,Liane,Stan,8
+85,Kyle,Liane,4
+86,Stan,Trapper Keeper,17
+87,Kenny,Stan,5
+88,Cartman,Kenny,3
+89,Kenny,Trapper Keeper,2
+90,Kenny,Kyle,4
+91,Mark,Stan,4
+92,Mark,Trapper Keeper,1
+93,BSM-471,Mark,3
+94,Kyle,Mark,1
+95,BSM-471,Trapper Keeper,4
+96,Cops,Mark,1
+97,BSM-471,Cops,1
+98,Cops,Stan,1
+99,Rosie,Stan,2
+100,Rosie,Trapper Keeper,2
+101,BSM-471,Rosie,1
+102,Jesse Jackson,Mr. Garrison,15
+103,Filmore,Jesse Jackson,9
+104,Jesse Jackson,Sally,6
+105,Ike,Jesse Jackson,3
+106,Jesse Jackson,Kids,3
+107,Kids,Mr. Garrison,5
+108,Filmore,Kids,3
+109,Kids,Sally,2
+110,Ike,Kids,1

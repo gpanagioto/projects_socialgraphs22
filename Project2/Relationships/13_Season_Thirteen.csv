@@ -813,130 +813,136 @@
 811,Luke,Sid,3
 812,Sid,Stan,15
 813,Benjamin,Stan,19
-814,DC Crewmen,Stan,19
-815,Japanese Pilot,Stan,19
-816,Cartman,Luke,24
-817,Kenny,Luke,8
-818,Announcer,Luke,12
-819,Benjamin,Luke,2
-820,DC Crewmen,Luke,2
-821,Japanese Pilot,Luke,2
-822,Benjamin,Cartman,12
-823,Cartman,DC Crewmen,12
-824,Cartman,Japanese Pilot,12
-825,Announcer,Kenny,24
-826,Benjamin,Kenny,4
-827,DC Crewmen,Kenny,4
-828,Japanese Pilot,Kenny,4
-829,Announcer,Benjamin,6
-830,Announcer,DC Crewmen,6
-831,Announcer,Japanese Pilot,6
-832,Benjamin,DC Crewmen,1
-833,Benjamin,Japanese Pilot,1
-834,DC Crewmen,Japanese Pilot,1
-835,Cartman,Guard,2
-836,Cartman,Emperor Akihito,14
-837,Guard,Stan,3
-838,Emperor Akihito,Stan,18
-839,Emperor Akihito,Guard,4
-840,Guard,Kenny,1
-841,Emperor Akihito,Kenny,4
-842,Emperor Akihito,Hatoyama,1
-843,Cartman,Lead Biker,7
-844,Cartman,Other Bikers,3
-845,Lead Biker,Other Bikers,2
-846,Kyle,Lead Biker,1
-847,Lead Biker,Stan,1
-848,Big Gay Al,Mr. Slave,3
-849,Cartman,Mayor McDaniels,12
-850,Cartman,Other Kids,3
-851,Mayor McDaniels,Stan,20
-852,Kyle,Mayor McDaniels,13
-853,Mayor McDaniels,Other Kids,3
-854,Mayor McDaniels,Mr. Mackey,6
-855,Other Kids,Stan,4
-856,Mr. Mackey,Stan,8
-857,Kyle,Other Kids,3
-858,Kyle,Mr. Mackey,6
-859,Mr. Mackey,Other Kids,2
-860,Field Reporter,News Anchor,28
-861,Martin,News Anchor,4
-862,Lead Biker,News Anchor,16
-863,News Anchor,Randy,4
-864,Field Reporter,Martin,7
-865,Field Reporter,Lead Biker,28
-866,Field Reporter,Randy,7
-867,Lead Biker,Martin,4
-868,Martin,Randy,1
-869,Lead Biker,Randy,4
-870,Another Mayor,Mayor McDaniels,3
-871,Another Mayor,Kyle,1
-872,Another Mayor,Stan,2
-873,Another Mayor,Cartman,1
-874,Gordon Stoltski,Intruder,132
-875,Mike,Mr. Mackey,3
-876,Cartman,Mike,1
-877,Casey,Mike,1
-878,Casey,Mr. Mackey,11
-879,Cartman,Casey,5
-880,Cartman,Principal Victoria,20
-881,Mr. Mackey,Principal Victoria,7
-882,Cartman,Kindergartners,1
-883,Melvins,Wendy,4
-884,Casey,Wendy,6
-885,Butters,Melvins,5
-886,Butters,Casey,5
-887,Casey,Melvins,2
-888,Cartman,Douglas,8
-889,Butters,Douglas,5
-890,Douglas,Stan,4
-891,Casey,Stan,4
-892,A Melvin,Butters,5
-893,A Melvin,Casey,1
-894,A Melvin,Melvins,1
-895,A Melvin,Wendy,2
-896,A Melvin,Mr. Testaburger,2
-897,Butters,Mr. Testaburger,8
-898,Mr. Testaburger,Wendy,4
-899,A Boy,Wendy,5
-900,A Boy,Cartman,6
-901,Butters,Eugene,3
-902,Butters,Water Tester,3
-903,Eugene,Kyle,11
-904,Kyle,Water Tester,11
-905,Eugene,Stan,7
-906,Stan,Water Tester,7
-907,Cartman,Eugene,9
-908,Cartman,Water Tester,9
-909,Eugene,Water Tester,1
-910,Assistant,Water Tester,10
-911,Assistant,Pi-Pi,6
-912,Assistant,Lawyer,4
-913,Pi-Pi,Water Tester,15
-914,Lawyer,Water Tester,10
-915,Lawyer,Pi-Pi,6
-916,Pi-Pi,Stan,37
-917,Jimmy,Pi-Pi,10
-918,Kyle,Pi-Pi,99
-919,Fire Marshal,Randy,48
-920,Randy,Water Tester,38
-921,Fire Marshal,Water Tester,55
-922,Fire Marshal,Sharon,8
-923,Sharon,Water Tester,2
-924,Butters,Pi-Pi,25
-925,Cartman,Teacher,21
-926,Señor Lopez,Teacher,6
-927,Councilman,Teacher,9
-928,Audience,Teacher,3
-929,Cartman,Señor Lopez,14
-930,Cartman,Councilman,21
-931,Audience,Cartman,7
-932,Councilman,Señor Lopez,6
-933,Audience,Señor Lopez,2
-934,Audience,Councilman,3
-935,Police Captain,Water Tester,3
-936,Fire Marshal,Police Captain,3
-937,Police Captain,Randy,4
-938,Jimmy,Randy,1
-939,Pi-Pi,Randy,3
-940,Butters,Randy,2
+814,Stan,The Crew,19
+815,DC Crewmen,Stan,19
+816,Japanese Pilot,Stan,19
+817,Cartman,Luke,24
+818,Kenny,Luke,8
+819,Announcer,Luke,12
+820,Benjamin,Luke,2
+821,Luke,The Crew,2
+822,DC Crewmen,Luke,2
+823,Japanese Pilot,Luke,2
+824,Benjamin,Cartman,12
+825,Cartman,The Crew,12
+826,Cartman,DC Crewmen,12
+827,Cartman,Japanese Pilot,12
+828,Announcer,Kenny,24
+829,Benjamin,Kenny,4
+830,Kenny,The Crew,4
+831,DC Crewmen,Kenny,4
+832,Japanese Pilot,Kenny,4
+833,Announcer,Benjamin,6
+834,Announcer,The Crew,6
+835,Announcer,DC Crewmen,6
+836,Announcer,Japanese Pilot,6
+837,Benjamin,The Crew,1
+838,Benjamin,DC Crewmen,1
+839,Benjamin,Japanese Pilot,1
+840,DC Crewmen,The Crew,1
+841,Japanese Pilot,The Crew,1
+842,DC Crewmen,Japanese Pilot,1
+843,Cartman,Guard,2
+844,Cartman,Emperor Akihito,14
+845,Guard,Stan,3
+846,Emperor Akihito,Stan,18
+847,Emperor Akihito,Guard,4
+848,Guard,Kenny,1
+849,Emperor Akihito,Kenny,4
+850,Emperor Akihito,Hatoyama,1
+851,Cartman,Lead Biker,7
+852,Kyle,Lead Biker,1
+853,Lead Biker,Stan,1
+854,Big Gay Al,Mr. Slave,3
+855,Cartman,Mayor McDaniels,12
+856,Cartman,Other Kids,3
+857,Mayor McDaniels,Stan,20
+858,Kyle,Mayor McDaniels,13
+859,Mayor McDaniels,Other Kids,3
+860,Mayor McDaniels,Mr. Mackey,6
+861,Other Kids,Stan,4
+862,Mr. Mackey,Stan,8
+863,Kyle,Other Kids,3
+864,Kyle,Mr. Mackey,6
+865,Mr. Mackey,Other Kids,2
+866,Field Reporter,News Anchor,28
+867,Martin,News Anchor,4
+868,Lead Biker,News Anchor,16
+869,News Anchor,Randy,4
+870,Field Reporter,Martin,7
+871,Field Reporter,Lead Biker,28
+872,Field Reporter,Randy,7
+873,Lead Biker,Martin,4
+874,Martin,Randy,1
+875,Lead Biker,Randy,4
+876,Another Mayor,Mayor McDaniels,3
+877,Another Mayor,Kyle,1
+878,Another Mayor,Stan,2
+879,Another Mayor,Cartman,1
+880,Gordon Stoltski,Intruder,132
+881,Mike,Mr. Mackey,3
+882,Cartman,Mike,1
+883,Casey,Mike,1
+884,Casey,Mr. Mackey,11
+885,Cartman,Casey,5
+886,Cartman,Principal Victoria,20
+887,Mr. Mackey,Principal Victoria,7
+888,Cartman,Kindergartners,1
+889,Melvins,Wendy,4
+890,Casey,Wendy,6
+891,Butters,Melvins,5
+892,Butters,Casey,5
+893,Casey,Melvins,2
+894,Cartman,Douglas,8
+895,Butters,Douglas,5
+896,Douglas,Stan,4
+897,Casey,Stan,4
+898,A Melvin,Butters,5
+899,A Melvin,Casey,1
+900,A Melvin,Melvins,1
+901,A Melvin,Wendy,2
+902,A Melvin,Mr. Testaburger,2
+903,Butters,Mr. Testaburger,8
+904,Mr. Testaburger,Wendy,4
+905,A Boy,Wendy,5
+906,A Boy,Cartman,6
+907,Butters,Eugene,3
+908,Butters,Water Tester,3
+909,Eugene,Kyle,11
+910,Kyle,Water Tester,11
+911,Eugene,Stan,7
+912,Stan,Water Tester,7
+913,Cartman,Eugene,9
+914,Cartman,Water Tester,9
+915,Eugene,Water Tester,1
+916,Assistant,Water Tester,10
+917,Assistant,Pi-Pi,6
+918,Assistant,Lawyer,4
+919,Pi-Pi,Water Tester,15
+920,Lawyer,Water Tester,10
+921,Lawyer,Pi-Pi,6
+922,Pi-Pi,Stan,37
+923,Jimmy,Pi-Pi,10
+924,Kyle,Pi-Pi,99
+925,Fire Marshal,Randy,48
+926,Randy,Water Tester,38
+927,Fire Marshal,Water Tester,55
+928,Fire Marshal,Sharon,8
+929,Sharon,Water Tester,2
+930,Butters,Pi-Pi,25
+931,Cartman,Teacher,21
+932,Señor Lopez,Teacher,6
+933,Councilman,Teacher,9
+934,Audience,Teacher,3
+935,Cartman,Señor Lopez,14
+936,Cartman,Councilman,21
+937,Audience,Cartman,7
+938,Councilman,Señor Lopez,6
+939,Audience,Señor Lopez,2
+940,Audience,Councilman,3
+941,Police Captain,Water Tester,3
+942,Fire Marshal,Police Captain,3
+943,Police Captain,Randy,4
+944,Jimmy,Randy,1
+945,Pi-Pi,Randy,3
+946,Butters,Randy,2

@@ -40,33 +40,41 @@
 38,Sid,Stan,15
 39,Announcer,Stan,114
 40,Benjamin,Stan,19
-41,DC Crewmen,Stan,19
-42,Japanese Pilot,Stan,19
-43,Cartman,Luke,24
-44,Kenny,Luke,8
-45,Announcer,Luke,12
-46,Benjamin,Luke,2
-47,DC Crewmen,Luke,2
-48,Japanese Pilot,Luke,2
-49,Announcer,Cartman,72
-50,Benjamin,Cartman,12
-51,Cartman,DC Crewmen,12
-52,Cartman,Japanese Pilot,12
-53,Announcer,Kenny,24
-54,Benjamin,Kenny,4
-55,DC Crewmen,Kenny,4
-56,Japanese Pilot,Kenny,4
-57,Announcer,Benjamin,6
-58,Announcer,DC Crewmen,6
-59,Announcer,Japanese Pilot,6
-60,Benjamin,DC Crewmen,1
-61,Benjamin,Japanese Pilot,1
-62,DC Crewmen,Japanese Pilot,1
-63,Cartman,Guard,2
-64,Cartman,Emperor Akihito,14
-65,Guard,Stan,3
-66,Emperor Akihito,Stan,18
-67,Emperor Akihito,Guard,4
-68,Guard,Kenny,1
-69,Emperor Akihito,Kenny,4
-70,Emperor Akihito,Hatoyama,1
+41,Stan,The Crew,19
+42,DC Crewmen,Stan,19
+43,Japanese Pilot,Stan,19
+44,Cartman,Luke,24
+45,Kenny,Luke,8
+46,Announcer,Luke,12
+47,Benjamin,Luke,2
+48,Luke,The Crew,2
+49,DC Crewmen,Luke,2
+50,Japanese Pilot,Luke,2
+51,Announcer,Cartman,72
+52,Benjamin,Cartman,12
+53,Cartman,The Crew,12
+54,Cartman,DC Crewmen,12
+55,Cartman,Japanese Pilot,12
+56,Announcer,Kenny,24
+57,Benjamin,Kenny,4
+58,Kenny,The Crew,4
+59,DC Crewmen,Kenny,4
+60,Japanese Pilot,Kenny,4
+61,Announcer,Benjamin,6
+62,Announcer,The Crew,6
+63,Announcer,DC Crewmen,6
+64,Announcer,Japanese Pilot,6
+65,Benjamin,The Crew,1
+66,Benjamin,DC Crewmen,1
+67,Benjamin,Japanese Pilot,1
+68,DC Crewmen,The Crew,1
+69,Japanese Pilot,The Crew,1
+70,DC Crewmen,Japanese Pilot,1
+71,Cartman,Guard,2
+72,Cartman,Emperor Akihito,14
+73,Guard,Stan,3
+74,Emperor Akihito,Stan,18
+75,Emperor Akihito,Guard,4
+76,Guard,Kenny,1
+77,Emperor Akihito,Kenny,4
+78,Emperor Akihito,Hatoyama,1

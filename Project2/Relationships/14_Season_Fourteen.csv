@@ -29,7 +29,7 @@
 27,Butters,Priest,4
 28,Announcer,Elin,4
 29,Announcer,Tiger,2
-30,Announcer,Stan,9
+30,Announcer,Stan,10
 31,Announcer,Cartman,25
 32,David Letterman,Therapist,11
 33,Bill Clinton,David Letterman,4
@@ -128,7 +128,7 @@
 126,Kenny,Stephen,2
 127,Butters,Cartman,281
 128,Butters,Stan,56
-129,Randy,Sharon,199
+129,Randy,Sharon,223
 130,Butters,Kim,5
 131,Kim,Stan,1
 132,Cartman,Kim,2
@@ -140,7 +140,7 @@
 138,Kyle,Sheila,51
 139,Mr. Needlebaum,Sheila,2
 140,Sheila,Stephen,2
-141,Randy,Stan,244
+141,Randy,Stan,256
 142,Gerald,Stan,12
 143,Mr. Needlebaum,Stan,3
 144,Cartman,Randy,33
@@ -599,7 +599,7 @@
 597,Santa,Scott Tenorman,6
 598,Dr. Mephesto,Liane,1
 599,Liane,Seaman,1
-600,Liane,Stan,2
+600,Liane,Stan,6
 601,Liane,Tom Cruise,3
 602,Kyle,Liane,2
 603,Jesus,Liane,3
@@ -830,7 +830,7 @@
 828,Dr. Chinstrap,Freddy Krueger,65
 829,Billy,Fire Captain,6
 830,Billy,Freddy Krueger,2
-831,Fire Captain,Stan,20
+831,Fire Captain,Stan,28
 832,Freddy Krueger,Stan,7
 833,Fire Captain,Mackey,18
 834,Freddy Krueger,Mackey,6
@@ -846,181 +846,226 @@
 844,DiCaprio,Mr. Mackey,2
 845,Mr. Mackey,Pinkerton,2
 846,Pinkerton,Stan,1
-847,Mysterion,Tony Hayward,19
-848,Field Reporter,Mysterion,12
-849,Mysterion,Toolshed,142
-850,Human Kite,Mysterion,114
-851,Mysterion,TupperWear,11
-852,Mosquito,Mysterion,36
-853,Iron Maiden,Mysterion,8
-854,Mint-Berry Crunch,Mysterion,26
-855,Field Reporter,Toolshed,6
-856,Field Reporter,Human Kite,3
-857,Field Reporter,TupperWear,3
-858,Field Reporter,Mosquito,3
-859,Field Reporter,Iron Maiden,3
-860,Field Reporter,Mint-Berry Crunch,3
-861,Human Kite,Toolshed,109
-862,Toolshed,TupperWear,12
-863,Mosquito,Toolshed,30
-864,Iron Maiden,Toolshed,10
-865,Mint-Berry Crunch,Toolshed,20
-866,Human Kite,TupperWear,12
-867,Human Kite,Mosquito,38
-868,Human Kite,Iron Maiden,8
-869,Human Kite,Mint-Berry Crunch,15
-870,Mosquito,TupperWear,8
-871,Iron Maiden,TupperWear,5
-872,Mint-Berry Crunch,TupperWear,3
-873,Iron Maiden,Mosquito,6
-874,Mint-Berry Crunch,Mosquito,8
-875,Iron Maiden,Mint-Berry Crunch,3
-876,Coon,Passengers,5
-877,Blonde Girl,Passengers,4
-878,Blonde Girl,Coon,20
-879,Captain Hindsight,Mosquito,8
-880,Mosquito,Narrator,1
-881,Mosquito,Professor Chaos,4
-882,Captain Hindsight,Mysterion,78
-883,Mysterion,Narrator,8
-884,Mysterion,Professor Chaos,19
-885,Captain Hindsight,Human Kite,24
-886,Human Kite,Narrator,3
-887,Human Kite,Professor Chaos,10
-888,Captain Hindsight,Toolshed,32
-889,Captain Hindsight,Narrator,8
-890,Captain Hindsight,Mint-Berry Crunch,16
-891,Captain Hindsight,Professor Chaos,16
-892,Narrator,Toolshed,4
-893,Professor Chaos,Toolshed,10
-894,Mint-Berry Crunch,Narrator,2
-895,Narrator,Professor Chaos,2
-896,Mint-Berry Crunch,Professor Chaos,4
-897,Captain Hindsight,Tony Hayward,20
-898,Coon,Tony Hayward,10
-899,Captain Hindsight,Coon,8
-900,Coon,Mysterion,118
-901,Betsy,Mosquito,2
-902,Betsy,Human Kite,3
-903,Betsy,Toolshed,1
-904,Betsy,Mint-Berry Crunch,1
-905,Betsy,Mysterion,3
-906,Carol,Stuart,54
-907,Mysterion,Stuart,54
-908,Carol,Mysterion,36
-909,Cult Leader,Mysterion,7
-910,Cult Leader,Toolshed,9
-911,Cult Leader,Human Kite,6
-912,Cult Leader,Pete,7
-913,Cult Leader,Michael,7
-914,Cult Leader,Followers,2
-915,Cult Leader,Mint-Berry Crunch,3
-916,Mysterion,Pete,32
-917,Michael,Mysterion,27
-918,Followers,Mysterion,2
-919,Pete,Toolshed,3
-920,Michael,Toolshed,3
-921,Followers,Toolshed,3
-922,Human Kite,Pete,2
-923,Human Kite,Michael,2
-924,Followers,Human Kite,2
-925,Michael,Pete,31
-926,Followers,Pete,1
-927,Mint-Berry Crunch,Pete,1
-928,Followers,Michael,1
-929,Michael,Mint-Berry Crunch,1
-930,Followers,Mint-Berry Crunch,1
-931,Injured Man,Jack Brolin,1
-932,Firkle,Michael,5
-933,Firkle,Pete,5
-934,Firkle,Mysterion,3
-935,Cult Leader,Firkle,1
-936,Coon,Singer,24
-937,Cult Leader,Mosquito,1
-938,Cult Leader,TupperWear,1
-939,Cult Leader,Iron Maiden,1
-940,Human Kite,Mintberry Crunch,44
-941,Mintberry Crunch,Toolshed,49
-942,Mintberry Crunch,Mysterion,93
-943,Coon,Liane,36
-944,Coon,Mosquito,16
-945,Mintberry Crunch,Mosquito,5
-946,Coon,TupperWear,10
-947,Mintberry Crunch,TupperWear,4
-948,Professor Chaos,TupperWear,2
-949,Coon,Toolshed,19
-950,Coon,Human Kite,56
-951,Coon,Iron Maiden,5
-952,Iron Maiden,Mintberry Crunch,2
-953,Iron Maiden,Professor Chaos,1
-954,Coon,Mintberry Crunch,65
-955,Coon,Professor Chaos,5
-956,Mintberry Crunch,Professor Chaos,2
-957,Coon,Reporter,6
-958,Mrs. Biggle,Pete,6
-959,Henrietta,Pete,10
-960,Bradley,Pete,6
-961,Mrs. Biggle,Mysterion,8
-962,Henrietta,Mysterion,20
-963,Bradley,Mysterion,8
-964,Michael,Mrs. Biggle,2
-965,Henrietta,Michael,10
-966,Bradley,Michael,2
-967,Henrietta,Mrs. Biggle,4
-968,Bradley,Mrs. Biggle,4
-969,Bradley,Henrietta,4
-970,Michael,Mintberry Crunch,4
-971,Henrietta,Mintberry Crunch,8
-972,Mintberry Crunch,Pete,2
-973,Alien Man,Coon,30
-974,Alien Man,Mysterion,27
-975,Alien Man,Mintberry Crunch,12
-976,Guy Fieri,Sharon,6
-977,Announcer,Sharon,3
-978,Paula Deen,Sharon,6
-979,Guy Fieri,Randy,14
-980,Announcer,Randy,19
-981,Paula Deen,Randy,14
-982,Announcer,Guy Fieri,2
-983,Guy Fieri,Paula Deen,4
-984,Announcer,Paula Deen,2
-985,Sharon,Stan,16
-986,Phillip,Terrance,4
-987,Randy,Terrance,12
-988,Alton Brown,Terrance,8
-989,Stan,Terrance,2
-990,Announcer,Terrance,2
-991,Phillip,Randy,12
-992,Alton Brown,Phillip,8
-993,Phillip,Stan,2
-994,Announcer,Phillip,2
-995,Alton Brown,Randy,46
-996,Alton Brown,Stan,10
-997,Alton Brown,Announcer,8
-998,Hotline Man,Sharon,6
-999,Amanda,Sharon,21
-1000,Hotline Man,Randy,22
-1001,Amanda,Randy,77
-1002,Amanda,Hotline Man,14
-1003,Michael,Sharon,16
-1004,Shake Weight,Sharon,111
-1005,Shake Weight,Stan,10
-1006,Craig,Randy,7
-1007,Craig,Stan,3
-1008,Kenny,Randy,2
-1009,Bobby Flay,Randy,10
-1010,Jamie Oliver,Randy,7
-1011,Bobby Flay,Cartman,2
-1012,Alton Brown,Cartman,2
-1013,Cartman,Jamie Oliver,1
-1014,Bobby Flay,Stan,6
-1015,Jamie Oliver,Stan,3
-1016,Alton Brown,Bobby Flay,4
-1017,Bobby Flay,Jamie Oliver,2
-1018,Bobby Flay,Kyle,2
-1019,Alton Brown,Jamie Oliver,4
-1020,Alton Brown,Kyle,2
-1021,Jamie Oliver,Kyle,1
-1022,Rosemary,Shake Weight,4
-1023,Rosemary,Sharon,3
-1024,Announcer,Jamie Oliver,1
+847,Coon,Toolshed,105
+848,Toolshed,TupperWear,20
+849,Mosquito,Toolshed,56
+850,Iron Maiden,Toolshed,15
+851,Mint-Berry Crunch,Toolshed,25
+852,News 4 Reporter,Toolshed,2
+853,Coon,TupperWear,46
+854,Coon,Mosquito,135
+855,Coon,Iron Maiden,28
+856,Coon,Mint-Berry Crunch,25
+857,Coon,News 4 Reporter,11
+858,Mosquito,TupperWear,15
+859,Iron Maiden,TupperWear,7
+860,Mint-Berry Crunch,TupperWear,5
+861,News 4 Reporter,TupperWear,2
+862,Iron Maiden,Mosquito,15
+863,Mint-Berry Crunch,Mosquito,18
+864,Mosquito,News 4 Reporter,3
+865,Iron Maiden,Mint-Berry Crunch,5
+866,Iron Maiden,News 4 Reporter,1
+867,Mint-Berry Crunch,News 4 Reporter,1
+868,Coon,Liane,74
+869,Fire Captain,Liane,32
+870,Coon,Fire Captain,40
+871,Fire Captain,Fireman,40
+872,Fire Captain,Mosquito,8
+873,Fire Captain,Officer,16
+874,Announcer,Fire Captain,8
+875,Captain Hindsight,Fire Captain,32
+876,Fireman,Liane,20
+877,Liane,Mosquito,4
+878,Liane,Officer,8
+879,Announcer,Liane,4
+880,Captain Hindsight,Liane,16
+881,Coon,Fireman,25
+882,Coon,Officer,10
+883,Coon,Stan,5
+884,Announcer,Coon,5
+885,Captain Hindsight,Coon,34
+886,Fireman,Mosquito,5
+887,Fireman,Officer,10
+888,Fireman,Stan,5
+889,Announcer,Fireman,5
+890,Captain Hindsight,Fireman,20
+891,Mosquito,Officer,2
+892,Mosquito,Stan,1
+893,Announcer,Mosquito,1
+894,Captain Hindsight,Mosquito,12
+895,Officer,Stan,2
+896,Announcer,Officer,2
+897,Captain Hindsight,Officer,8
+898,Captain Hindsight,Stan,4
+899,Announcer,Captain Hindsight,4
+900,Sharon,Stan,24
+901,Professor Chaos,Toolshed,17
+902,Mysterion,Toolshed,165
+903,Mosquito,Professor Chaos,12
+904,Mosquito,Mysterion,56
+905,Coon,Professor Chaos,33
+906,Coon,Mysterion,200
+907,Professor Chaos,TupperWear,4
+908,Mysterion,TupperWear,18
+909,Mysterion,Professor Chaos,26
+910,Butler,Cartman,24
+911,Captain Hindsight,Cartman,64
+912,Butler,Captain Hindsight,60
+913,Iron Maiden,Professor Chaos,2
+914,Mint-Berry Crunch,Professor Chaos,5
+915,Iron Maiden,Mysterion,11
+916,Mint-Berry Crunch,Mysterion,29
+917,Liane,Toolshed,4
+918,Liane,Mysterion,10
+919,Liane,TupperWear,2
+920,Reporter,Tony Hayward,1
+921,Stan,Tony Hayward,1
+922,Reporter,Stan,1
+923,Mysterion,Tony Hayward,19
+924,Field Reporter,Mysterion,12
+925,Human Kite,Mysterion,114
+926,Field Reporter,Toolshed,6
+927,Field Reporter,Human Kite,3
+928,Field Reporter,TupperWear,3
+929,Field Reporter,Mosquito,3
+930,Field Reporter,Iron Maiden,3
+931,Field Reporter,Mint-Berry Crunch,3
+932,Human Kite,Toolshed,109
+933,Human Kite,TupperWear,12
+934,Human Kite,Mosquito,38
+935,Human Kite,Iron Maiden,8
+936,Human Kite,Mint-Berry Crunch,15
+937,Coon,Passengers,5
+938,Blonde Girl,Passengers,4
+939,Blonde Girl,Coon,20
+940,Mosquito,Narrator,1
+941,Captain Hindsight,Mysterion,78
+942,Mysterion,Narrator,8
+943,Captain Hindsight,Human Kite,24
+944,Human Kite,Narrator,3
+945,Human Kite,Professor Chaos,10
+946,Captain Hindsight,Toolshed,32
+947,Captain Hindsight,Narrator,8
+948,Captain Hindsight,Mint-Berry Crunch,16
+949,Captain Hindsight,Professor Chaos,16
+950,Narrator,Toolshed,4
+951,Mint-Berry Crunch,Narrator,2
+952,Narrator,Professor Chaos,2
+953,Captain Hindsight,Tony Hayward,20
+954,Coon,Tony Hayward,10
+955,Betsy,Mosquito,2
+956,Betsy,Human Kite,3
+957,Betsy,Toolshed,1
+958,Betsy,Mint-Berry Crunch,1
+959,Betsy,Mysterion,3
+960,Carol,Stuart,54
+961,Mysterion,Stuart,54
+962,Carol,Mysterion,36
+963,Cult Leader,Mysterion,7
+964,Cult Leader,Toolshed,9
+965,Cult Leader,Human Kite,6
+966,Cult Leader,Pete,7
+967,Cult Leader,Michael,7
+968,Cult Leader,Followers,2
+969,Cult Leader,Mint-Berry Crunch,3
+970,Mysterion,Pete,32
+971,Michael,Mysterion,27
+972,Followers,Mysterion,2
+973,Pete,Toolshed,3
+974,Michael,Toolshed,3
+975,Followers,Toolshed,3
+976,Human Kite,Pete,2
+977,Human Kite,Michael,2
+978,Followers,Human Kite,2
+979,Michael,Pete,31
+980,Followers,Pete,1
+981,Mint-Berry Crunch,Pete,1
+982,Followers,Michael,1
+983,Michael,Mint-Berry Crunch,1
+984,Followers,Mint-Berry Crunch,1
+985,Injured Man,Jack Brolin,1
+986,Firkle,Michael,5
+987,Firkle,Pete,5
+988,Firkle,Mysterion,3
+989,Cult Leader,Firkle,1
+990,Coon,Singer,24
+991,Cult Leader,Mosquito,1
+992,Cult Leader,TupperWear,1
+993,Cult Leader,Iron Maiden,1
+994,Human Kite,Mintberry Crunch,44
+995,Mintberry Crunch,Toolshed,49
+996,Mintberry Crunch,Mysterion,93
+997,Mintberry Crunch,Mosquito,5
+998,Mintberry Crunch,TupperWear,4
+999,Coon,Human Kite,56
+1000,Iron Maiden,Mintberry Crunch,2
+1001,Coon,Mintberry Crunch,65
+1002,Mintberry Crunch,Professor Chaos,2
+1003,Coon,Reporter,6
+1004,Mrs. Biggle,Pete,6
+1005,Henrietta,Pete,10
+1006,Bradley,Pete,6
+1007,Mrs. Biggle,Mysterion,8
+1008,Henrietta,Mysterion,20
+1009,Bradley,Mysterion,8
+1010,Michael,Mrs. Biggle,2
+1011,Henrietta,Michael,10
+1012,Bradley,Michael,2
+1013,Henrietta,Mrs. Biggle,4
+1014,Bradley,Mrs. Biggle,4
+1015,Bradley,Henrietta,4
+1016,Michael,Mintberry Crunch,4
+1017,Henrietta,Mintberry Crunch,8
+1018,Mintberry Crunch,Pete,2
+1019,Alien Man,Coon,30
+1020,Alien Man,Mysterion,27
+1021,Alien Man,Mintberry Crunch,12
+1022,Guy Fieri,Sharon,6
+1023,Announcer,Sharon,3
+1024,Paula Deen,Sharon,6
+1025,Guy Fieri,Randy,14
+1026,Announcer,Randy,19
+1027,Paula Deen,Randy,14
+1028,Announcer,Guy Fieri,2
+1029,Guy Fieri,Paula Deen,4
+1030,Announcer,Paula Deen,2
+1031,Phillip,Terrance,4
+1032,Randy,Terrance,12
+1033,Alton Brown,Terrance,8
+1034,Stan,Terrance,2
+1035,Announcer,Terrance,2
+1036,Phillip,Randy,12
+1037,Alton Brown,Phillip,8
+1038,Phillip,Stan,2
+1039,Announcer,Phillip,2
+1040,Alton Brown,Randy,46
+1041,Alton Brown,Stan,10
+1042,Alton Brown,Announcer,8
+1043,Hotline Man,Sharon,6
+1044,Amanda,Sharon,21
+1045,Hotline Man,Randy,22
+1046,Amanda,Randy,77
+1047,Amanda,Hotline Man,14
+1048,Michael,Sharon,16
+1049,Shake Weight,Sharon,111
+1050,Shake Weight,Stan,10
+1051,Craig,Randy,7
+1052,Craig,Stan,3
+1053,Kenny,Randy,2
+1054,Bobby Flay,Randy,10
+1055,Jamie Oliver,Randy,7
+1056,Bobby Flay,Cartman,2
+1057,Alton Brown,Cartman,2
+1058,Cartman,Jamie Oliver,1
+1059,Bobby Flay,Stan,6
+1060,Jamie Oliver,Stan,3
+1061,Alton Brown,Bobby Flay,4
+1062,Bobby Flay,Jamie Oliver,2
+1063,Bobby Flay,Kyle,2
+1064,Alton Brown,Jamie Oliver,4
+1065,Alton Brown,Kyle,2
+1066,Jamie Oliver,Kyle,1
+1067,Rosemary,Shake Weight,4
+1068,Rosemary,Sharon,3
+1069,Announcer,Jamie Oliver,1

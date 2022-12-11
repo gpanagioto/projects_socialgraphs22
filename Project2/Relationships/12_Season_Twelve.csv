@@ -12,9 +12,9 @@
 10,Cartman,Principal Victoria,84
 11,Butters,Stan,134
 12,Doctor Matlock,Stan,6
-13,Kyle,Stan,403
+13,Kyle,Stan,447
 14,Mr. Mackey,Stan,5
-15,Cartman,Stan,356
+15,Cartman,Stan,410
 16,Butters,Doctor Matlock,9
 17,Butters,Kyle,92
 18,Butters,Mr. Mackey,12
@@ -23,7 +23,7 @@
 21,Doctor Matlock,Mr. Mackey,3
 22,Cartman,Doctor Matlock,9
 23,Kyle,Mr. Mackey,17
-24,Cartman,Kyle,407
+24,Cartman,Kyle,433
 25,Cartman,Mr. Mackey,32
 26,Cartman,Waitress,24
 27,Cartman,Jimmy,34
@@ -63,7 +63,7 @@
 61,Cartman,Moderator,1
 62,Barack Obama,Cartman,1
 63,Barack Obama,Moderator,1
-64,Butters,Randy,14
+64,Butters,Randy,19
 65,Anchorman,Butters,4
 66,Butters,Robert Pooner,16
 67,Butters,Ron,12
@@ -192,9 +192,9 @@
 190,Bob Summers,Doctor,2
 191,Doctor,Mother,1
 192,Bill,Gil,1
-193,Kenny,Kyle,87
-194,Kenny,Stan,90
-195,Cartman,Kenny,96
+193,Kenny,Kyle,95
+194,Kenny,Stan,98
+195,Cartman,Kenny,105
 196,Father,Kenny,19
 197,Cartman,Father,59
 198,Father,Kyle,6
@@ -206,10 +206,10 @@
 204,Reporter,Sheila,2
 205,Girl,Sheila,1
 206,Gerald,Sharon,10
-207,Sharon,Stephen,2
-208,Randy,Sharon,65
+207,Sharon,Stephen,12
+208,Randy,Sharon,162
 209,Gerald,Stephen,14
-210,Randy,Stephen,24
+210,Randy,Stephen,46
 211,Butters,Kenny,20
 212,Father,Gerald,9
 213,Gerald,Kenny,10
@@ -226,7 +226,7 @@
 224,Kenny,Stephen,1
 225,Cartman,WCB President,2
 226,Cartman,Stephen Abootman,18
-227,Cartman,Craig,39
+227,Cartman,Craig,94
 228,Mr. Mackey,WCB President,1
 229,Mr. Mackey,Stephen Abootman,1
 230,Craig,Mr. Mackey,3
@@ -339,9 +339,9 @@
 337,Cartman,Mrs. Miller,9
 338,Cartman,Class,36
 339,Cartman,Marija,8
-340,Linda,Stephen,63
-341,Butters,Stephen,98
-342,Butters,Linda,40
+340,Linda,Stephen,65
+341,Butters,Stephen,100
+342,Butters,Linda,41
 343,Mrs. Garrison,Stephen,2
 344,A woman,Stephen,1
 345,A woman,Mrs. Garrison,2
@@ -366,12 +366,12 @@
 364,Marija,Mrs. Miller,1
 365,Sharon,Stan,28
 366,Shelly,Stan,19
-367,Sharon,Shelly,22
-368,Randy,Shelly,27
+367,Sharon,Shelly,40
+368,Randy,Shelly,51
 369,Kyle,Mr. Garrison,22
-370,Mr. Garrison,Randy,16
+370,Mr. Garrison,Randy,34
 371,Gerald,Mr. Garrison,2
-372,Mr. Garrison,Stephen,16
+372,Mr. Garrison,Stephen,22
 373,Anchorman,Gerald,2
 374,Old-Timer,Randy,3
 375,Old-Timer,Stan,1
@@ -603,7 +603,7 @@
 601,Butters,Tolkien,1
 602,Pete,Stan,3
 603,Michael,Stan,2
-604,Craig,Stan,24
+604,Craig,Stan,126
 605,Michael,Pete,48
 606,Craig,Pete,2
 607,Jimmy,Pete,2
@@ -660,7 +660,7 @@
 658,A Girl,Pete,1
 659,A Girl,Craig,1
 660,A Girl,Wendy,1
-661,Craig,Kyle,19
+661,Craig,Kyle,61
 662,Chief aide,Michael Chertoff,28
 663,A musician,Kyle,1
 664,A musician,Guard,2
@@ -668,8 +668,8 @@
 666,A musician,Stan,1
 667,A musician,Kenny,1
 668,Michael Chertoff,Translator,25
-669,Kyle,Michael Chertoff,25
-670,Michael Chertoff,Stan,35
+669,Kyle,Michael Chertoff,33
+670,Michael Chertoff,Stan,51
 671,Kyle,Translator,5
 672,Stan,Translator,5
 673,Laura,Thomas,16
@@ -690,303 +690,321 @@
 688,Gerlad,Sheila,2
 689,Chief aide,Stan,9
 690,Kenny,Michael Chertoff,6
-691,Cartman,Michael Chertoff,10
+691,Cartman,Michael Chertoff,18
 692,Chief aide,Kyle,6
 693,Chief aide,Kenny,3
 694,Cartman,Chief aide,3
-695,Craig,Michael Chertoff,4
+695,Craig,Michael Chertoff,28
 696,Other Musicians,Thompson,2
 697,Anchorman Tom,Paul Harris,12
 698,Anchorman Tom,Shopper,3
 699,Paul Harris,Shopper,4
-700,Craig,Kenny,4
+700,Craig,Kenny,12
 701,Mr. Garrison,Officer Barbrady,2
 702,Linda,Mr. Garrison,6
-703,A Woman,Mr. Garrison,2
-704,Officer Barbrady,Randy,5
-705,Linda,Randy,7
-706,A Woman,Randy,5
+703,A Woman,Mr. Garrison,5
+704,Officer Barbrady,Randy,6
+705,Linda,Randy,12
+706,A Woman,Randy,11
 707,Linda,Officer Barbrady,1
 708,Officer Barbrady,Stephen,1
 709,A Woman,Officer Barbrady,1
 710,A Woman,Linda,1
-711,A Woman,Stephen,1
-712,Gerald,Obama,3
-713,Gerald,Supporters,1
-714,Obama,Randy,9
-715,Obama,Supporters,3
-716,Randy,Supporters,4
-717,Mr. Harris,Mrs. Harris,1
-718,Mr. Adler,Mr. Harris,1
-719,Mr. Harris,Randy,2
-720,Linda Black,Mr. Harris,1
-721,Mr. Adler,Mrs. Harris,1
-722,Mrs. Harris,Randy,2
-723,Linda Black,Mrs. Harris,1
-724,Mr. Adler,Randy,2
-725,Linda Black,Mr. Adler,1
-726,Linda Black,Randy,2
-727,Crowd,Stephen,4
-728,McCain,Stephen,4
-729,Stephen,Supporters,4
-730,Mr. Mackey,Stephen,4
-731,Butters,Crowd,2
-732,Crowd,McCain,1
-733,Crowd,Supporters,1
-734,Crowd,Linda,2
-735,Crowd,Mr. Mackey,1
-736,Crowd,Mr. Garrison,2
-737,Crowd,Randy,25
-738,Butters,McCain,2
-739,Butters,Supporters,2
-740,McCain,Supporters,1
-741,Linda,McCain,2
-742,McCain,Mr. Mackey,1
-743,McCain,Mr. Garrison,2
-744,McCain,Randy,1
-745,Linda,Supporters,2
-746,Mr. Mackey,Supporters,1
-747,Mr. Garrison,Supporters,2
-748,Linda,Mr. Mackey,2
-749,Mr. Garrison,Mr. Mackey,2
-750,Mr. Mackey,Randy,1
-751,McCain,Obama,74
-752,Davis,Obama,21
-753,Davis,McCain,24
-754,Randy,Revelers,8
-755,Barbrady,Crowd,16
-756,Crowd,Reveler,4
-757,Crowd,Revelers,4
-758,Crowd,Stan,4
-759,Cartman,Crowd,4
-760,Barbrady,Randy,24
-761,Randy,Reveler,6
-762,Barbrady,Reveler,4
-763,Barbrady,Revelers,4
-764,Barbrady,Stan,4
-765,Barbrady,Cartman,4
-766,Reveler,Revelers,1
-767,Reveler,Stan,1
-768,Cartman,Reveler,1
-769,Revelers,Stan,1
-770,Cartman,Revelers,1
-771,McCain,Neely,15
-772,McCain,Quincy,36
-773,Neely,Obama,16
-774,Neely,Quincy,12
-775,Davis,Neely,4
-776,Obama,Quincy,46
-777,Davis,Quincy,10
-778,Chief of Security,Obama,48
-779,Randy,Randy's boss,24
-780,Randy's boss,Stan,12
-781,Kyle,Randy's boss,3
-782,McCain,Palin,8
-783,Obama,Palin,8
-784,Michelle,Obama,51
-785,Chief of Security,Michelle,2
-786,Obama,Sarah,3
-787,McCain,Michelle,16
-788,Michelle,Sarah,5
-789,Davis,Michelle,5
-790,McCain,Sarah,2
-791,Davis,Sarah,1
-792,Kyle,Nurse,8
-793,Nurse,Stan,8
-794,Nurse,Randy,4
-795,Obama,Smithsonian guard,8
-796,Kyle,Obama,8
-797,Ike,Obama,8
-798,Michelle,Smithsonian guard,3
-799,Michelle,Quincy,7
-800,Kyle,Michelle,3
-801,Ike,Michelle,3
-802,Quincy,Smithsonian guard,1
-803,Kyle,Smithsonian guard,1
-804,Ike,Smithsonian guard,1
-805,Kyle,Quincy,1
-806,Ike,Quincy,1
-807,Michelle,Neely,2
-808,Butters,Jason,1
-809,Jason,Kyle,1
-810,Clyde,Jason,1
-811,Jason,Stan,1
-812,Cartman,Jason,1
-813,Jason,Jimmy,1
-814,Craig,Jason,1
-815,Millie,Red,1
-816,Bebe,Millie,2
-817,Cartman,Millie,2
-818,Girls' Table,Millie,1
-819,Millie,Stan,3
-820,Boys' table except for The Boys,Millie,1
-821,Heidi,Millie,1
-822,Butters,Millie,1
-823,Kids,Millie,1
-824,Bridon,Millie,2
-825,Kyle,Millie,1
-826,Bebe,Red,2
-827,Cartman,Red,2
-828,Girls' Table,Red,1
-829,Red,Stan,3
-830,Boys' table except for The Boys,Red,1
-831,Heidi,Red,1
-832,Butters,Red,1
-833,Kids,Red,1
-834,Bridon,Red,2
-835,Kyle,Red,1
-836,Bebe,Girls' Table,2
-837,Bebe,Boys' table except for The Boys,2
-838,Bebe,Heidi,2
-839,Bebe,Kids,4
-840,Bebe,Bridon,16
-841,Bebe,Kyle,4
-842,Cartman,Girls' Table,2
-843,Boys' table except for The Boys,Cartman,2
-844,Cartman,Heidi,2
-845,Cartman,Kids,11
-846,Bridon,Cartman,4
-847,Girls' Table,Stan,3
-848,Boys' table except for The Boys,Girls' Table,1
-849,Girls' Table,Heidi,1
-850,Butters,Girls' Table,1
-851,Girls' Table,Kids,1
-852,Bridon,Girls' Table,2
-853,Girls' Table,Kyle,1
-854,Boys' table except for The Boys,Stan,3
-855,Heidi,Stan,3
-856,Kids,Stan,28
-857,Bridon,Stan,151
-858,Boys' table except for The Boys,Heidi,1
-859,Boys' table except for The Boys,Butters,1
-860,Boys' table except for The Boys,Kids,1
-861,Boys' table except for The Boys,Bridon,2
-862,Boys' table except for The Boys,Kyle,1
-863,Butters,Heidi,1
-864,Heidi,Kids,1
-865,Bridon,Heidi,2
-866,Heidi,Kyle,1
-867,Butters,Kids,3
-868,Bridon,Butters,16
-869,Bridon,Kids,26
-870,Kids,Kyle,4
-871,Bridon,Kyle,2
-872,Class,Kyle,6
-873,Class,Stan,3
-874,Class,Mr. Garrison,6
-875,Class,Wendy,6
-876,Bebe,Class,3
-877,Kids,Lola,2
-878,Lola,Stan,11
-879,Butters,Lola,1
-880,Bebe,Lola,1
-881,Bridon,Lola,12
-882,Bridon,Mr. Gueermo,146
-883,Mr. Gueermo,Mrs. Gueermo,116
-884,Bridon,Mrs. Gueermo,58
-885,Jimmy,Kids,3
-886,Bridon,Mr. Garrett,30
-887,Mr. Garrett,Stan,9
-888,Bridon,Jason,4
-889,Bridon,Mr. Mackey,5
-890,Jason,Mr. Gueermo,9
-891,Jason,Mr. Garrett,4
-892,Jason,Mr. Mackey,1
-893,Mr. Garrett,Mr. Gueermo,36
-894,Mr. Gueermo,Mr. Mackey,9
-895,Mr. Garrett,Mr. Mackey,6
-896,Mr. Gueermo,Stan,1
-897,Scott,Stan,12
-898,Kyle,Scott,8
-899,Cartman,Scott,11
-900,Kenny,Scott,5
-901,Male CPS Agent,Mr. Gueermo,35
-902,Female CPS Agent,Male CPS Agent,10
-903,Male CPS Agent,Mrs. Gueermo,5
-904,Female CPS Agent,Mr. Gueermo,14
-905,Female CPS Agent,Mrs. Gueermo,2
-906,Bridon,Clyde,1
-907,Bridon,Wendy,1
-908,Spiky Vampire,Vampir,22
-909,Midnight Vampire,Spiky Vampire,4
-910,Butters,Spiky Vampire,15
-911,Sparkly Vampire,Spiky Vampire,4
-912,Bloodrayne,Spiky Vampire,4
-913,Other Vampires,Spiky Vampire,3
-914,Spiky Vampire,Tape,3
-915,Midnight Vampire,Vampir,15
-916,Butters,Vampir,63
-917,Sparkly Vampire,Vampir,12
-918,Bloodrayne,Vampir,12
-919,Other Vampires,Vampir,5
-920,Tape,Vampir,5
-921,Butters,Midnight Vampire,11
-922,Midnight Vampire,Sparkly Vampire,2
-923,Bloodrayne,Midnight Vampire,2
-924,Midnight Vampire,Other Vampires,1
-925,Midnight Vampire,Tape,1
-926,Butters,Sparkly Vampire,5
-927,Bloodrayne,Butters,5
-928,Butters,Other Vampires,5
-929,Butters,Tape,5
-930,Bloodrayne,Sparkly Vampire,2
-931,Other Vampires,Sparkly Vampire,1
-932,Sparkly Vampire,Tape,1
-933,Bloodrayne,Other Vampires,1
-934,Bloodrayne,Tape,1
-935,Other Vampires,Tape,1
-936,Pete,Vampir,58
-937,Henrietta,Vampir,27
-938,Michael,Vampir,33
-939,Other Vamps,Vampir,7
-940,Pete,Spiky Vampire,6
-941,Henrietta,Spiky Vampire,3
-942,Michael,Spiky Vampire,2
-943,Other Vamps,Spiky Vampire,1
-944,Henrietta,Pete,52
-945,Midnight Vampire,Pete,6
-946,Bloodrayne,Pete,6
-947,Pete,Sparkly Vampire,6
-948,Other Vamps,Pete,6
-949,Henrietta,Michael,24
-950,Henrietta,Midnight Vampire,3
-951,Bloodrayne,Henrietta,3
-952,Henrietta,Sparkly Vampire,3
-953,Henrietta,Other Vamps,3
-954,Michael,Midnight Vampire,2
-955,Bloodrayne,Michael,2
-956,Michael,Sparkly Vampire,2
-957,Michael,Other Vamps,2
-958,Midnight Vampire,Other Vamps,1
-959,Bloodrayne,Other Vamps,1
-960,Other Vamps,Sparkly Vampire,1
-961,Butters,Cowlick Vampire,6
-962,Cowlick Vampire,Vampir,3
-963,Cowlick Vampire,Midnight Vampire,1
-964,Little Vamp,Pete,2
-965,Pete,Shades Vamp,2
-966,Little Vamp,Michael,2
-967,Michael,Shades Vamp,2
-968,Henrietta,Little Vamp,2
-969,Henrietta,Shades Vamp,2
-970,Little Vamp,Shades Vamp,1
-971,Pete,Principal Victoria,6
-972,Mr. Mackey,Pete,2
-973,Michael,Principal Victoria,6
-974,Michael,Mr. Mackey,2
-975,Principal Victoria,Vampir,6
-976,Mr. Mackey,Vampir,2
-977,Firkle,Michael,2
-978,Firkle,Pete,3
-979,Firkle,Henrietta,2
-980,Goths,Henrietta,2
-981,Goths,Michael,5
-982,Goths,Pete,4
-983,Goths,Vampir,3
-984,Henrietta,Waitress,16
-985,Butters,Henrietta,13
-986,Pete,Waitress,16
-987,Pete,Spiky Vamp,1
-988,Clerk,Pete,1
-989,Butters,Spiky Vamp,1
-990,Clerk,Spiky Vamp,1
+711,A Woman,Stephen,3
+712,A Voice,Stan,2
+713,Connor,Stan,6
+714,A Voice,Kyle,1
+715,Connor,Kyle,3
+716,A Voice,Connor,3
+717,Reporter,Sharon,10
+718,Randy,Reporter,8
+719,Butters,Sharon,1
+720,Linda,Sharon,1
+721,Mr. Garrison,Sharon,12
+722,A Woman,Sharon,4
+723,Mr. Garrison,Shelly,3
+724,Shelly,Stephen,2
+725,A Woman,Shelly,1
+726,Husband,Shelly,1
+727,Husband,Randy,3
+728,Husband,Sharon,2
+729,Craig,Randy,1
+730,Gerald,Obama,3
+731,Gerald,Supporters,1
+732,Obama,Randy,9
+733,Obama,Supporters,3
+734,Randy,Supporters,4
+735,Mr. Harris,Mrs. Harris,1
+736,Mr. Adler,Mr. Harris,1
+737,Mr. Harris,Randy,2
+738,Linda Black,Mr. Harris,1
+739,Mr. Adler,Mrs. Harris,1
+740,Mrs. Harris,Randy,2
+741,Linda Black,Mrs. Harris,1
+742,Mr. Adler,Randy,2
+743,Linda Black,Mr. Adler,1
+744,Linda Black,Randy,2
+745,Crowd,Stephen,4
+746,McCain,Stephen,4
+747,Stephen,Supporters,4
+748,Mr. Mackey,Stephen,4
+749,Butters,Crowd,2
+750,Crowd,McCain,1
+751,Crowd,Supporters,1
+752,Crowd,Linda,2
+753,Crowd,Mr. Mackey,1
+754,Crowd,Mr. Garrison,2
+755,Crowd,Randy,25
+756,Butters,McCain,2
+757,Butters,Supporters,2
+758,McCain,Supporters,1
+759,Linda,McCain,2
+760,McCain,Mr. Mackey,1
+761,McCain,Mr. Garrison,2
+762,McCain,Randy,1
+763,Linda,Supporters,2
+764,Mr. Mackey,Supporters,1
+765,Mr. Garrison,Supporters,2
+766,Linda,Mr. Mackey,2
+767,Mr. Garrison,Mr. Mackey,2
+768,Mr. Mackey,Randy,1
+769,McCain,Obama,74
+770,Davis,Obama,21
+771,Davis,McCain,24
+772,Randy,Revelers,8
+773,Barbrady,Crowd,16
+774,Crowd,Reveler,4
+775,Crowd,Revelers,4
+776,Crowd,Stan,4
+777,Cartman,Crowd,4
+778,Barbrady,Randy,24
+779,Randy,Reveler,6
+780,Barbrady,Reveler,4
+781,Barbrady,Revelers,4
+782,Barbrady,Stan,4
+783,Barbrady,Cartman,4
+784,Reveler,Revelers,1
+785,Reveler,Stan,1
+786,Cartman,Reveler,1
+787,Revelers,Stan,1
+788,Cartman,Revelers,1
+789,McCain,Neely,15
+790,McCain,Quincy,36
+791,Neely,Obama,16
+792,Neely,Quincy,12
+793,Davis,Neely,4
+794,Obama,Quincy,46
+795,Davis,Quincy,10
+796,Chief of Security,Obama,48
+797,Randy,Randy's boss,24
+798,Randy's boss,Stan,12
+799,Kyle,Randy's boss,3
+800,McCain,Palin,8
+801,Obama,Palin,8
+802,Michelle,Obama,51
+803,Chief of Security,Michelle,2
+804,Obama,Sarah,3
+805,McCain,Michelle,16
+806,Michelle,Sarah,5
+807,Davis,Michelle,5
+808,McCain,Sarah,2
+809,Davis,Sarah,1
+810,Kyle,Nurse,8
+811,Nurse,Stan,8
+812,Nurse,Randy,4
+813,Obama,Smithsonian guard,8
+814,Kyle,Obama,8
+815,Ike,Obama,8
+816,Michelle,Smithsonian guard,3
+817,Michelle,Quincy,7
+818,Kyle,Michelle,3
+819,Ike,Michelle,3
+820,Quincy,Smithsonian guard,1
+821,Kyle,Smithsonian guard,1
+822,Ike,Smithsonian guard,1
+823,Kyle,Quincy,1
+824,Ike,Quincy,1
+825,Michelle,Neely,2
+826,Butters,Jason,1
+827,Jason,Kyle,1
+828,Clyde,Jason,1
+829,Jason,Stan,1
+830,Cartman,Jason,1
+831,Jason,Jimmy,1
+832,Craig,Jason,1
+833,Millie,Red,1
+834,Bebe,Millie,2
+835,Cartman,Millie,2
+836,Girls' Table,Millie,1
+837,Millie,Stan,3
+838,Boys' table except for The Boys,Millie,1
+839,Heidi,Millie,1
+840,Butters,Millie,1
+841,Kids,Millie,1
+842,Bridon,Millie,2
+843,Kyle,Millie,1
+844,Bebe,Red,2
+845,Cartman,Red,2
+846,Girls' Table,Red,1
+847,Red,Stan,3
+848,Boys' table except for The Boys,Red,1
+849,Heidi,Red,1
+850,Butters,Red,1
+851,Kids,Red,1
+852,Bridon,Red,2
+853,Kyle,Red,1
+854,Bebe,Girls' Table,2
+855,Bebe,Boys' table except for The Boys,2
+856,Bebe,Heidi,2
+857,Bebe,Kids,4
+858,Bebe,Bridon,16
+859,Bebe,Kyle,4
+860,Cartman,Girls' Table,2
+861,Boys' table except for The Boys,Cartman,2
+862,Cartman,Heidi,2
+863,Cartman,Kids,11
+864,Bridon,Cartman,4
+865,Girls' Table,Stan,3
+866,Boys' table except for The Boys,Girls' Table,1
+867,Girls' Table,Heidi,1
+868,Butters,Girls' Table,1
+869,Girls' Table,Kids,1
+870,Bridon,Girls' Table,2
+871,Girls' Table,Kyle,1
+872,Boys' table except for The Boys,Stan,3
+873,Heidi,Stan,3
+874,Kids,Stan,28
+875,Bridon,Stan,151
+876,Boys' table except for The Boys,Heidi,1
+877,Boys' table except for The Boys,Butters,1
+878,Boys' table except for The Boys,Kids,1
+879,Boys' table except for The Boys,Bridon,2
+880,Boys' table except for The Boys,Kyle,1
+881,Butters,Heidi,1
+882,Heidi,Kids,1
+883,Bridon,Heidi,2
+884,Heidi,Kyle,1
+885,Butters,Kids,3
+886,Bridon,Butters,16
+887,Bridon,Kids,26
+888,Kids,Kyle,4
+889,Bridon,Kyle,2
+890,Class,Kyle,6
+891,Class,Stan,3
+892,Class,Mr. Garrison,6
+893,Class,Wendy,6
+894,Bebe,Class,3
+895,Kids,Lola,2
+896,Lola,Stan,11
+897,Butters,Lola,1
+898,Bebe,Lola,1
+899,Bridon,Lola,12
+900,Bridon,Mr. Gueermo,146
+901,Mr. Gueermo,Mrs. Gueermo,116
+902,Bridon,Mrs. Gueermo,58
+903,Jimmy,Kids,3
+904,Bridon,Mr. Garrett,30
+905,Mr. Garrett,Stan,9
+906,Bridon,Jason,4
+907,Bridon,Mr. Mackey,5
+908,Jason,Mr. Gueermo,9
+909,Jason,Mr. Garrett,4
+910,Jason,Mr. Mackey,1
+911,Mr. Garrett,Mr. Gueermo,36
+912,Mr. Gueermo,Mr. Mackey,9
+913,Mr. Garrett,Mr. Mackey,6
+914,Mr. Gueermo,Stan,1
+915,Scott,Stan,12
+916,Kyle,Scott,8
+917,Cartman,Scott,11
+918,Kenny,Scott,5
+919,Male CPS Agent,Mr. Gueermo,35
+920,Female CPS Agent,Male CPS Agent,10
+921,Male CPS Agent,Mrs. Gueermo,5
+922,Female CPS Agent,Mr. Gueermo,14
+923,Female CPS Agent,Mrs. Gueermo,2
+924,Bridon,Clyde,1
+925,Bridon,Wendy,1
+926,Spiky Vampire,Vampir,22
+927,Midnight Vampire,Spiky Vampire,4
+928,Butters,Spiky Vampire,15
+929,Sparkly Vampire,Spiky Vampire,4
+930,Bloodrayne,Spiky Vampire,4
+931,Other Vampires,Spiky Vampire,3
+932,Spiky Vampire,Tape,3
+933,Midnight Vampire,Vampir,15
+934,Butters,Vampir,63
+935,Sparkly Vampire,Vampir,12
+936,Bloodrayne,Vampir,12
+937,Other Vampires,Vampir,5
+938,Tape,Vampir,5
+939,Butters,Midnight Vampire,11
+940,Midnight Vampire,Sparkly Vampire,2
+941,Bloodrayne,Midnight Vampire,2
+942,Midnight Vampire,Other Vampires,1
+943,Midnight Vampire,Tape,1
+944,Butters,Sparkly Vampire,5
+945,Bloodrayne,Butters,5
+946,Butters,Other Vampires,5
+947,Butters,Tape,5
+948,Bloodrayne,Sparkly Vampire,2
+949,Other Vampires,Sparkly Vampire,1
+950,Sparkly Vampire,Tape,1
+951,Bloodrayne,Other Vampires,1
+952,Bloodrayne,Tape,1
+953,Other Vampires,Tape,1
+954,Pete,Vampir,58
+955,Henrietta,Vampir,27
+956,Michael,Vampir,33
+957,Other Vamps,Vampir,7
+958,Pete,Spiky Vampire,6
+959,Henrietta,Spiky Vampire,3
+960,Michael,Spiky Vampire,2
+961,Other Vamps,Spiky Vampire,1
+962,Henrietta,Pete,52
+963,Midnight Vampire,Pete,6
+964,Bloodrayne,Pete,6
+965,Pete,Sparkly Vampire,6
+966,Other Vamps,Pete,6
+967,Henrietta,Michael,24
+968,Henrietta,Midnight Vampire,3
+969,Bloodrayne,Henrietta,3
+970,Henrietta,Sparkly Vampire,3
+971,Henrietta,Other Vamps,3
+972,Michael,Midnight Vampire,2
+973,Bloodrayne,Michael,2
+974,Michael,Sparkly Vampire,2
+975,Michael,Other Vamps,2
+976,Midnight Vampire,Other Vamps,1
+977,Bloodrayne,Other Vamps,1
+978,Other Vamps,Sparkly Vampire,1
+979,Butters,Cowlick Vampire,6
+980,Cowlick Vampire,Vampir,3
+981,Cowlick Vampire,Midnight Vampire,1
+982,Little Vamp,Pete,2
+983,Pete,Shades Vamp,2
+984,Little Vamp,Michael,2
+985,Michael,Shades Vamp,2
+986,Henrietta,Little Vamp,2
+987,Henrietta,Shades Vamp,2
+988,Little Vamp,Shades Vamp,1
+989,Pete,Principal Victoria,6
+990,Mr. Mackey,Pete,2
+991,Michael,Principal Victoria,6
+992,Michael,Mr. Mackey,2
+993,Principal Victoria,Vampir,6
+994,Mr. Mackey,Vampir,2
+995,Firkle,Michael,2
+996,Firkle,Pete,3
+997,Firkle,Henrietta,2
+998,Goths,Henrietta,2
+999,Goths,Michael,5
+1000,Goths,Pete,4
+1001,Goths,Vampir,3
+1002,Henrietta,Waitress,16
+1003,Butters,Henrietta,13
+1004,Pete,Waitress,16
+1005,Pete,Spiky Vamp,1
+1006,Clerk,Pete,1
+1007,Butters,Spiky Vamp,1
+1008,Clerk,Spiky Vamp,1

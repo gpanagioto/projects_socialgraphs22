@@ -30,43 +30,39 @@
 28,Joseph,Matthew,1
 29,Ike,Matthew,1
 30,Ike,Joseph,1
-31,Chief elder,Elder Harris,9
-32,Chief elder,Kenny,32
-33,Kenny,Scouts,2
-34,Chief elder,Kyle,28
-35,Kyle,Scouts,2
-36,Chief elder,Scouts,1
-37,Kenny,Moses,19
-38,Kyle,Moses,17
-39,Chief elder,Moses,37
-40,Ike,Squirt,2
-41,Chief elder,Garth,5
-42,Garth,Moses,4
-43,Garth,Kenny,2
-44,Garth,Kyle,2
-45,Elder Harris,Kenny,4
-46,Kenny,Scout,3
-47,Chief elder,Elder,5
-48,Chief elder,Scout,6
-49,Elder Harris,Kyle,5
-50,Kyle,Scout,2
-51,Elder Harris,Moses,3
-52,Elder,Moses,3
-53,Moses,Scout,3
-54,Elder,Elder Harris,3
-55,Elder Harris,Scout,1
-56,Elder,Scout,1
-57,Bear cub,Squirt,3
-58,Kenny,Squirt,7
-59,Bear cub,Kenny,2
-60,Schlomo,Shlomo,6
-61,Kenny,Shlomo,1
-62,Kyle,Shlomo,1
-63,Elder Harris,Shlomo,1
-64,Shlomo,Squirt,1
-65,Kenny,Schlomo,6
-66,Kyle,Schlomo,6
-67,Elder Harris,Schlomo,6
-68,Schlomo,Squirt,6
-69,Kyle,Squirt,1
-70,Elder Harris,Squirt,1
+31,Chief elder,Kenny,32
+32,Kenny,Scouts,2
+33,Chief elder,Kyle,28
+34,Kyle,Scouts,2
+35,Chief elder,Scouts,1
+36,Kenny,Moses,19
+37,Kyle,Moses,17
+38,Chief elder,Moses,37
+39,Ike,Squirt,2
+40,Chief elder,Garth,5
+41,Garth,Moses,4
+42,Garth,Kenny,2
+43,Garth,Kyle,2
+44,Kenny,Scout,3
+45,Chief elder,Elder,5
+46,Chief elder,Scout,6
+47,Kyle,Scout,2
+48,Elder,Moses,3
+49,Moses,Scout,3
+50,Elder,Scout,1
+51,Bear cub,Squirt,3
+52,Kenny,Squirt,7
+53,Bear cub,Kenny,2
+54,Elder Schwartz,Shlomo,7
+55,Elder Schwartz,Schlomo,42
+56,Elder Schwartz,Kenny,7
+57,Elder Schwartz,Kyle,7
+58,Elder Schwartz,Squirt,7
+59,Schlomo,Shlomo,6
+60,Kenny,Shlomo,1
+61,Kyle,Shlomo,1
+62,Shlomo,Squirt,1
+63,Kenny,Schlomo,6
+64,Kyle,Schlomo,6
+65,Schlomo,Squirt,6
+66,Kyle,Squirt,1
