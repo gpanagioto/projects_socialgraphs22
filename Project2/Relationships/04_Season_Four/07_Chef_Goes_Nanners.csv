@@ -1,0 +1,180 @@
+,source,target,weight
+0,Jimbo,Mayor,26
+1,Chef,Jimbo,67
+2,Chef,Mayor,36
+3,Class,Mr. Wyland,4
+4,Cartman,Class,8
+5,Class,Kyle,4
+6,Class,Stan,2
+7,Class,Craig,2
+8,Cartman,Mr. Wyland,8
+9,Kyle,Mr. Wyland,19
+10,Mr. Wyland,Stan,5
+11,Craig,Mr. Wyland,2
+12,Cartman,Kyle,8
+13,Cartman,Stan,4
+14,Cartman,Craig,4
+15,Kyle,Stan,43
+16,Craig,Kyle,2
+17,Craig,Stan,1
+18,Ned,Stan,1
+19,Kyle,Ned,1
+20,Jimbo,Ned,15
+21,Jimbo,Stan,2
+22,Jimbo,Kyle,14
+23,Chef,Randy,7
+24,Randy,Wendy,1
+25,Mr. Mackey,Randy,4
+26,Principal Victoria,Randy,4
+27,Chef,Wendy,29
+28,Chef,Mr. Mackey,28
+29,Chef,Principal Victoria,28
+30,Mr. Mackey,Wendy,4
+31,Principal Victoria,Wendy,4
+32,Mr. Mackey,Principal Victoria,16
+33,Mr. Wyland,Wendy,13
+34,Stan,Wendy,3
+35,Kyle,Wendy,15
+36,Chef,Stan,20
+37,Chef,Kyle,71
+38,Cartman,Wendy,166
+39,Butters,Cartman,8
+40,Cartman,Clyde,8
+41,Butters,Wendy,5
+42,Clyde,Wendy,5
+43,Butters,Clyde,1
+44,Chef,Reporter,16
+45,Chef,Monk,4
+46,Chef,The KKK,16
+47,Chef,KKK Leader,12
+48,Chef,Ned,4
+49,Chef,Sheila,4
+50,Chef,Mr. Garrison,18
+51,Jimbo,Reporter,11
+52,Jimbo,Monk,3
+53,Jimbo,The KKK,13
+54,Jimbo,KKK Leader,40
+55,Jimbo,Sheila,3
+56,Jimbo,Mr. Garrison,12
+57,Mayor,Reporter,6
+58,Mayor,Monk,2
+59,Mayor,The KKK,6
+60,KKK Leader,Mayor,4
+61,Mayor,Ned,2
+62,Mayor,Sheila,2
+63,Mayor,Mr. Garrison,6
+64,Monk,Reporter,3
+65,Reporter,The KKK,13
+66,KKK Leader,Reporter,10
+67,Ned,Reporter,3
+68,Reporter,Sheila,3
+69,Mr. Garrison,Reporter,15
+70,Monk,The KKK,3
+71,KKK Leader,Monk,2
+72,Monk,Ned,1
+73,Monk,Sheila,1
+74,Monk,Mr. Garrison,3
+75,KKK Leader,The KKK,14
+76,Ned,The KKK,5
+77,Sheila,The KKK,3
+78,Mr. Garrison,The KKK,15
+79,KKK Leader,Ned,14
+80,KKK Leader,Sheila,2
+81,KKK Leader,Mr. Garrison,12
+82,Ned,Sheila,1
+83,Mr. Garrison,Ned,3
+84,Mr. Garrison,Sheila,3
+85,Chef,Johnson,1
+86,Assistant,Chef,1
+87,Johnson,Mayor,2
+88,Assistant,Mayor,2
+89,Assistant,Johnson,1
+90,Kenny,Stan,20
+91,Gerald,Stan,15
+92,Kenny,Kyle,28
+93,Gerald,Kyle,21
+94,Gerald,Kenny,12
+95,KKK Leader,Officer Barbrady,2
+96,Officer Barbrady,The KKK,2
+97,Mr. Garrison,Officer Barbrady,3
+98,Chef,Officer Barbrady,2
+99,Officer Barbrady,Reporter,2
+100,Jimbo,Officer Barbrady,1
+101,Brother Anderson,Jimbo,2
+102,Jimbo,KKK Members,50
+103,Jimbo,Ticket 2974 Holder,2
+104,Brother Anderson,Ned,2
+105,KKK Members,Ned,10
+106,Ned,Ticket 2974 Holder,2
+107,Brother Anderson,The KKK,1
+108,KKK Members,The KKK,1
+109,The KKK,Ticket 2974 Holder,1
+110,Brother Anderson,KKK Leader,4
+111,KKK Leader,KKK Members,36
+112,KKK Leader,Ticket 2974 Holder,4
+113,Brother Anderson,KKK Members,1
+114,Brother Anderson,Ticket 2974 Holder,1
+115,KKK Members,Ticket 2974 Holder,1
+116,Cartman's voice,Wendy,4
+117,A Member,KKK Members,8
+118,A Member,Jimbo,6
+119,A Member,KKK Leader,4
+120,A Member,Ned,1
+121,Bebe,Wendy,25
+122,People in Audience,Wendy,2
+123,Really Shocked Man,Wendy,2
+124,Kyle's Team,Wendy,6
+125,Mayor,Wendy,2
+126,A Few People,Wendy,2
+127,Some KKK members,Wendy,2
+128,Jimbo,Wendy,4
+129,Audience Members,Wendy,2
+130,People in Audience,Really Shocked Man,1
+131,Mr. Wyland,People in Audience,2
+132,Kyle,People in Audience,6
+133,Chef,People in Audience,11
+134,Kyle's Team,People in Audience,3
+135,Mayor,People in Audience,1
+136,A Few People,People in Audience,1
+137,People in Audience,Some KKK members,1
+138,Jimbo,People in Audience,2
+139,Audience Members,People in Audience,1
+140,Mr. Wyland,Really Shocked Man,2
+141,Kyle,Really Shocked Man,6
+142,Chef,Really Shocked Man,11
+143,Kyle's Team,Really Shocked Man,3
+144,Mayor,Really Shocked Man,1
+145,A Few People,Really Shocked Man,1
+146,Really Shocked Man,Some KKK members,1
+147,Jimbo,Really Shocked Man,2
+148,Audience Members,Really Shocked Man,1
+149,Chef,Mr. Wyland,22
+150,Kyle's Team,Mr. Wyland,6
+151,Mayor,Mr. Wyland,2
+152,A Few People,Mr. Wyland,2
+153,Mr. Wyland,Some KKK members,2
+154,Jimbo,Mr. Wyland,4
+155,Audience Members,Mr. Wyland,2
+156,Kyle,Kyle's Team,18
+157,Kyle,Mayor,6
+158,A Few People,Kyle,6
+159,Kyle,Some KKK members,6
+160,Audience Members,Kyle,6
+161,Chef,Kyle's Team,33
+162,A Few People,Chef,11
+163,Chef,Some KKK members,11
+164,Audience Members,Chef,11
+165,Kyle's Team,Mayor,3
+166,A Few People,Kyle's Team,3
+167,Kyle's Team,Some KKK members,3
+168,Jimbo,Kyle's Team,6
+169,Audience Members,Kyle's Team,3
+170,A Few People,Mayor,1
+171,Mayor,Some KKK members,1
+172,Audience Members,Mayor,1
+173,A Few People,Some KKK members,1
+174,A Few People,Jimbo,2
+175,A Few People,Audience Members,1
+176,Jimbo,Some KKK members,2
+177,Audience Members,Some KKK members,1
+178,Audience Members,Jimbo,2

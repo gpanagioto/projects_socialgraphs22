@@ -1,0 +1,48 @@
+,source,target,weight
+0,Butters,Cartman,317
+1,Butters,Stephen,8
+2,Linda,Stephen,8
+3,Cartman,Stephen,2
+4,Butters,Linda,19
+5,Cartman,Linda,6
+6,Cartman,Kyle,18
+7,Cartman,Stan,8
+8,Butters,Kyle,10
+9,Butters,Stan,6
+10,Kyle,Stan,4
+11,Liane,Linda,9
+12,Aunt Nellie,Butters,13
+13,Butters,Uncle Budd,4
+14,Aunt Nellie,Uncle Budd,7
+15,Aunt Nellie,Cartman,8
+16,Cartman,Uncle Budd,2
+17,Mitch,Producer,18
+18,Millie,Mitch,2
+19,Butters,Mitch,2
+20,Cartman,Mitch,12
+21,Boy,Mitch,2
+22,Millie,Producer,3
+23,Butters,Producer,3
+24,Cartman,Producer,16
+25,Boy,Producer,3
+26,Butters,Millie,1
+27,Cartman,Millie,2
+28,Boy,Millie,1
+29,Boy,Butters,1
+30,Boy,Cartman,2
+31,Black official,White official,9
+32,Black official,General,11
+33,Black official,Scientist,6
+34,General,White official,16
+35,Scientist,White official,15
+36,General,Scientist,76
+37,General,Soldier,3
+38,Cartman,Soldier,1
+39,Scientist,Soldier,2
+40,Cartman,General,50
+41,Cartman,Scientist,57
+42,Cartman,White official,6
+43,Butters,Scientist,1
+44,Butters,General,5
+45,Black official,Butters,2
+46,Black official,Cartman,2

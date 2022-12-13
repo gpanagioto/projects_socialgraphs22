@@ -1,0 +1,165 @@
+,source,target,weight
+0,Gerald,Sheila,8
+1,Ike,Sheila,4
+2,Gerald,Ike,8
+3,Billy Mays,Ike,23
+4,Ike,Kyle,40
+5,Billy Mays,Kyle,23
+6,Dr. Land,Ike,20
+7,Cartman,Kyle,101
+8,Kenny,Kyle,19
+9,Kyle,Stan,60
+10,Cartman,Kenny,17
+11,Cartman,Stan,47
+12,Kenny,Stan,10
+13,Jason,Kris,5
+14,Grant,Jason,40
+15,Grant,Kris,2
+16,Jason,Kyle,7
+17,Grant,Kyle,5
+18,Jason,Stan,7
+19,Grant,Stan,5
+20,Dr. Carroll,Stan,6
+21,Dr. Phillips,Stan,21
+22,Dr. Carroll,Kyle,6
+23,Dr. Phillips,Kyle,36
+24,Cartman,Dr. Carroll,6
+25,Cartman,Dr. Phillips,16
+26,Dr. Carroll,Dr. Phillips,4
+27,Billy Mays,Cartman,6
+28,Billy Mays,Walter Cronkite,15
+29,Billy Mays,Dr. Phillips,15
+30,Billy Mays,Farrah Fawcett,4
+31,Billy Mays,DJ AM,4
+32,Billy Mays,Patrick Swayze,4
+33,Billy Mays,Michael Jackson,16
+34,Billy Mays,Stan,9
+35,Billy Mays,Kenny,3
+36,Cartman,Walter Cronkite,8
+37,Cartman,Farrah Fawcett,2
+38,Cartman,DJ AM,2
+39,Cartman,Patrick Swayze,2
+40,Cartman,Michael Jackson,10
+41,Cartman,Ike,22
+42,Dr. Phillips,Walter Cronkite,20
+43,Farrah Fawcett,Walter Cronkite,4
+44,DJ AM,Walter Cronkite,9
+45,Patrick Swayze,Walter Cronkite,7
+46,Michael Jackson,Walter Cronkite,20
+47,Stan,Walter Cronkite,12
+48,Kyle,Walter Cronkite,24
+49,Ike,Walter Cronkite,8
+50,Kenny,Walter Cronkite,4
+51,Dr. Phillips,Farrah Fawcett,5
+52,DJ AM,Dr. Phillips,5
+53,Dr. Phillips,Patrick Swayze,5
+54,Dr. Phillips,Michael Jackson,25
+55,Dr. Phillips,Ike,10
+56,Dr. Phillips,Kenny,5
+57,DJ AM,Farrah Fawcett,1
+58,Farrah Fawcett,Patrick Swayze,1
+59,Farrah Fawcett,Michael Jackson,6
+60,Farrah Fawcett,Stan,3
+61,Farrah Fawcett,Kyle,6
+62,Farrah Fawcett,Ike,2
+63,Farrah Fawcett,Kenny,1
+64,DJ AM,Patrick Swayze,2
+65,DJ AM,Michael Jackson,5
+66,DJ AM,Stan,3
+67,DJ AM,Kyle,6
+68,DJ AM,Ike,2
+69,DJ AM,Kenny,1
+70,Michael Jackson,Patrick Swayze,5
+71,Patrick Swayze,Stan,3
+72,Kyle,Patrick Swayze,6
+73,Ike,Patrick Swayze,2
+74,Kenny,Patrick Swayze,1
+75,Michael Jackson,Stan,15
+76,Kyle,Michael Jackson,30
+77,Ike,Michael Jackson,10
+78,Kenny,Michael Jackson,5
+79,Ike,Stan,18
+80,Ike,Kenny,4
+81,Flight Attendant,Passengers,7
+82,DJ AM,Passengers,3
+83,Passengers,Walter Cronkite,7
+84,DJ AM,Flight Attendant,4
+85,Flight Attendant,Walter Cronkite,9
+86,Jessica's Mom,MC,4
+87,Brandy's Mom,Jessica's Mom,2
+88,Jessica's Mom,Kyle,1
+89,Cartman,Jessica's Mom,2
+90,Jessica's Mom,Stan,1
+91,Ike,Jessica's Mom,1
+92,Brandy's Mom,MC,8
+93,Kyle,MC,5
+94,Cartman,MC,9
+95,MC,Stan,6
+96,Ike,MC,5
+97,Brandy's Mom,Kyle,2
+98,Brandy's Mom,Cartman,4
+99,Brandy's Mom,Stan,2
+100,Brandy's Mom,Ike,2
+101,David Carradine,Walter Cronkite,3
+102,Pilot,Walter Cronkite,6
+103,David Carradine,Patrick Swayze,1
+104,Patrick Swayze,Pilot,2
+105,Flight Attendant,Patrick Swayze,1
+106,Passengers,Patrick Swayze,1
+107,Billy Mays,David Carradine,1
+108,Billy Mays,Pilot,2
+109,Billy Mays,Flight Attendant,2
+110,Billy Mays,Passengers,1
+111,David Carradine,Pilot,2
+112,DJ AM,David Carradine,1
+113,David Carradine,Flight Attendant,1
+114,David Carradine,Passengers,1
+115,DJ AM,Pilot,2
+116,Flight Attendant,Pilot,2
+117,Passengers,Pilot,2
+118,Kylie's Mom,Stan,2
+119,Kylie,Stan,2
+120,An Officer,Stan,2
+121,Kylie,Kylie's Mom,1
+122,Kylie's Mom,MC,1
+123,Ike,Kylie's Mom,1
+124,Kenny,Kylie's Mom,1
+125,An Officer,Kylie's Mom,1
+126,Kyle,Kylie's Mom,1
+127,Cartman,Kylie's Mom,1
+128,Kylie,MC,1
+129,Ike,Kylie,1
+130,Kenny,Kylie,1
+131,An Officer,Kylie,1
+132,Kyle,Kylie,1
+133,Cartman,Kylie,1
+134,Kenny,MC,1
+135,An Officer,MC,1
+136,An Officer,Ike,1
+137,An Officer,Kenny,1
+138,An Officer,Kyle,1
+139,An Officer,Cartman,1
+140,Heidi's Mom,Kyle,3
+141,Kyle,Lady Judge,9
+142,Heidi's Mom,Stan,1
+143,Lady Judge,Stan,3
+144,Heidi's Mom,Kenny,1
+145,Cartman,Heidi's Mom,5
+146,Heidi's Mom,Lady Judge,3
+147,Kenny,Lady Judge,3
+148,Cartman,Lady Judge,15
+149,Heidi,Kyle,3
+150,Cartman,Heidi,3
+151,Heidi,Stan,1
+152,Heidi,Ike,2
+153,Bea Arthur,Farrah Fawcett,1
+154,Farrah Fawcett,Others,1
+155,Farrah Fawcett,Flight Attendant,1
+156,Bea Arthur,Others,1
+157,Bea Arthur,Flight Attendant,1
+158,Bea Arthur,Michael Jackson,1
+159,Bea Arthur,Billy Mays,1
+160,Flight Attendant,Others,1
+161,Michael Jackson,Others,1
+162,Billy Mays,Others,1
+163,Flight Attendant,Michael Jackson,1

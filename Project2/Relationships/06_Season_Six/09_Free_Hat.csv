@@ -1,0 +1,91 @@
+,source,target,weight
+0,Announcer,Stan,12
+1,Announcer,Cartman,4
+2,Announcer,Kyle,4
+3,Announcer,The Boys,8
+4,Cartman,Stan,110
+5,Kyle,Stan,95
+6,Stan,The Boys,6
+7,Cartman,Kyle,123
+8,Cartman,The Boys,2
+9,Kyle,The Boys,2
+10,Cartman,Ticket Operator,5
+11,Cartman,Tweek,189
+12,Kyle,Ticket Operator,3
+13,Ticket Operator,Tweek,4
+14,Stan,Ticket Operator,3
+15,Kyle,Tweek,129
+16,Stan,Tweek,124
+17,Richard,Tweek,10
+18,Cartman,Richard,6
+19,Crowd,Stan,46
+20,Crowd,Tweek,37
+21,Crowd,Kyle,18
+22,Cartman,Crowd,28
+23,Crowd,Skeeter,31
+24,Crowd,Some people,4
+25,Skeeter,Stan,33
+26,Some people,Stan,5
+27,Cartman,Skeeter,16
+28,Skeeter,Tweek,30
+29,Kyle,Skeeter,11
+30,Skeeter,Some people,4
+31,Cartman,Some people,1
+32,Some people,Tweek,3
+33,Kyle,Some people,1
+34,Cartman,Ted Koppel,30
+35,Cartman,Steven Spielberg,38
+36,Cartman,George Lucas,65
+37,Ted Koppel,Tweek,30
+38,Steven Spielberg,Tweek,58
+39,George Lucas,Tweek,70
+40,Kyle,Ted Koppel,24
+41,Steven Spielberg,Ted Koppel,36
+42,George Lucas,Ted Koppel,24
+43,Stan,Ted Koppel,6
+44,Kyle,Steven Spielberg,57
+45,George Lucas,Kyle,76
+46,George Lucas,Steven Spielberg,61
+47,Stan,Steven Spielberg,34
+48,George Lucas,Stan,54
+49,A voice,Tweek,2
+50,A voice,Stan,4
+51,A voice,Kyle,5
+52,A voice,George Lucas,7
+53,A voice,Steven Spielberg,5
+54,Matt Stone,Trey Parker,3
+55,Announcer,Trey Parker,6
+56,Announcer,Matt Stone,2
+57,Members,Tweek,4
+58,Members,Skeeter,2
+59,Francis Ford Coppola,Steven Spielberg,8
+60,Francis Ford Coppola,Tweek,8
+61,Cartman,Francis Ford Coppola,4
+62,Francis Ford Coppola,Stan,2
+63,Francis Ford Coppola,Kyle,4
+64,Audience,Steven Spielberg,6
+65,Audience,Stan,6
+66,Audience,Tweek,3
+67,Audience,George Lucas,3
+68,Aide,Townsman,1
+69,Townsfolk,Townsman,3
+70,Kyle,Townsman,1
+71,Hat McCullough,Townsman,1
+72,Skeeter,Townsman,1
+73,Stan,Townsman,1
+74,Townsman,Tweek,1
+75,Aide,Townsfolk,3
+76,Aide,Kyle,1
+77,Aide,Hat McCullough,1
+78,Aide,Skeeter,1
+79,Aide,Stan,1
+80,Aide,Tweek,1
+81,Kyle,Townsfolk,3
+82,Hat McCullough,Townsfolk,3
+83,Skeeter,Townsfolk,3
+84,Stan,Townsfolk,3
+85,Townsfolk,Tweek,3
+86,Hat McCullough,Kyle,1
+87,Hat McCullough,Skeeter,1
+88,Hat McCullough,Stan,1
+89,Hat McCullough,Tweek,1

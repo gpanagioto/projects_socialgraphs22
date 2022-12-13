@@ -1,0 +1,160 @@
+,source,target,weight
+0,Kyle,Stan,98
+1,Bum,Kyle,17
+2,Cartman,Kyle,91
+3,Kenny,Kyle,14
+4,Bum,Stan,8
+5,Cartman,Stan,77
+6,Kenny,Stan,14
+7,Bum,Cartman,16
+8,Bum,Kenny,2
+9,Cartman,Kenny,12
+10,Cartman,Clyde,3
+11,Clyde,Stan,2
+12,Clyde,Kyle,2
+13,Bum,Clyde,1
+14,Clyde,Kenny,1
+15,Fire Chief,Mayor McDaniels,1
+16,Fire Chief,Mr. Valmer,2
+17,Fire Chief,Other Members,1
+18,Fire Chief,Randy,2
+19,Fire Chief,Mr. Mackey,1
+20,Fire Chief,Gerald,1
+21,Aide,Fire Chief,1
+22,Fire Chief,Mrs. Testaburger,1
+23,Fire Chief,Homeless advisor,1
+24,Mayor McDaniels,Mr. Valmer,2
+25,Mayor McDaniels,Other Members,1
+26,Mayor McDaniels,Randy,2
+27,Mayor McDaniels,Mr. Mackey,1
+28,Gerald,Mayor McDaniels,1
+29,Aide,Mayor McDaniels,1
+30,Mayor McDaniels,Mrs. Testaburger,1
+31,Homeless advisor,Mayor McDaniels,1
+32,Mr. Valmer,Other Members,2
+33,Mr. Valmer,Randy,4
+34,Mr. Mackey,Mr. Valmer,2
+35,Gerald,Mr. Valmer,2
+36,Aide,Mr. Valmer,2
+37,Mr. Valmer,Mrs. Testaburger,2
+38,Homeless advisor,Mr. Valmer,2
+39,Other Members,Randy,2
+40,Mr. Mackey,Other Members,1
+41,Gerald,Other Members,1
+42,Aide,Other Members,1
+43,Mrs. Testaburger,Other Members,1
+44,Homeless advisor,Other Members,1
+45,Mr. Mackey,Randy,2
+46,Gerald,Randy,24
+47,Aide,Randy,2
+48,Mrs. Testaburger,Randy,2
+49,Homeless advisor,Randy,2
+50,Gerald,Mr. Mackey,1
+51,Aide,Mr. Mackey,1
+52,Mr. Mackey,Mrs. Testaburger,1
+53,Homeless advisor,Mr. Mackey,1
+54,Aide,Gerald,1
+55,Gerald,Mrs. Testaburger,1
+56,Gerald,Homeless advisor,37
+57,Aide,Mrs. Testaburger,1
+58,Aide,Homeless advisor,1
+59,Homeless advisor,Mrs. Testaburger,1
+60,Jimbo,Randy,22
+61,Chris Swollenballs,Randy,1
+62,Chris Swollenballs,Kyle,4
+63,Cartman,Chris Swollenballs,4
+64,Chris Swollenballs,Stan,4
+65,Aide,Stan,12
+66,Aide,The Boys,8
+67,Aide,Kyle,4
+68,Aide,Cartman,8
+69,Aide,Kenny,4
+70,Stan,The Boys,10
+71,Kyle,The Boys,6
+72,Cartman,The Boys,16
+73,Kenny,The Boys,2
+74,Gerald,Stephen,11
+75,Bums,Gerald,5
+76,Randy,Stephen,34
+77,Bums,Randy,3
+78,Bums,Stephen,2
+79,Homeless advisor,Stan,16
+80,Cartman,Homeless advisor,30
+81,Homeless advisor,Kyle,30
+82,Linda,Stephen,13
+83,A Man,Linda,2
+84,Linda,Randy,39
+85,Linda,Steve,6
+86,A Man,Stephen,3
+87,Stephen,Steve,9
+88,A Man,Randy,4
+89,A Man,Steve,3
+90,Randy,Steve,12
+91,Bum,Homeless advisor,9
+92,Gerald,Kyle,8
+93,Cartman,Gerald,8
+94,Bum,Gerald,4
+95,Jimbo,Linda,10
+96,Head of Public Safety,Jimbo,6
+97,Gerald,Jimbo,2
+98,Jimbo,Stephen,8
+99,Glen,Jimbo,6
+100,Head of Public Safety,Randy,21
+101,Glen,Randy,21
+102,Head of Public Safety,Linda,12
+103,Gerald,Linda,4
+104,Glen,Linda,12
+105,Gerald,Head of Public Safety,3
+106,Head of Public Safety,Stephen,3
+107,Glen,Head of Public Safety,9
+108,Gerald,Glen,3
+109,Glen,Stephen,3
+110,Dennis,Stan,35
+111,Christine,Stan,28
+112,Dennis,Kyle,40
+113,Christine,Kyle,32
+114,Cartman,Dennis,20
+115,Cartman,Christine,16
+116,Christine,Dennis,20
+117,Dennis,Kenny,5
+118,Christine,Kenny,4
+119,A Woman,Jimbo,2
+120,Jimbo,Stan,2
+121,Jimbo,Kyle,2
+122,Cartman,Jimbo,6
+123,Backup Singers,Jimbo,2
+124,Jimbo,The Boys,8
+125,Bum,Jimbo,2
+126,A Woman,Stephen,3
+127,Stan,Stephen,3
+128,Kyle,Stephen,3
+129,Cartman,Stephen,9
+130,Backup Singers,Stephen,3
+131,Stephen,The Boys,12
+132,Bum,Stephen,3
+133,A Woman,Linda,1
+134,Linda,Stan,1
+135,Kyle,Linda,1
+136,Cartman,Linda,3
+137,Backup Singers,Linda,1
+138,Linda,The Boys,4
+139,Bum,Linda,1
+140,A Woman,Randy,3
+141,A Woman,Stan,1
+142,A Woman,Kyle,1
+143,A Woman,Cartman,3
+144,A Woman,Backup Singers,1
+145,A Woman,The Boys,4
+146,A Woman,Bum,1
+147,Randy,Stan,3
+148,Kyle,Randy,3
+149,Cartman,Randy,9
+150,Backup Singers,Randy,3
+151,Randy,The Boys,12
+152,Bum,Randy,3
+153,Backup Singers,Stan,1
+154,Backup Singers,Kyle,1
+155,Backup Singers,Cartman,3
+156,Backup Singers,The Boys,4
+157,Backup Singers,Bum,1
+158,Bum,The Boys,4

@@ -1,12 +1,34 @@
 ,source,target,weight
-0,Kyle,Stan,3
-1,Cartman,Stan,4
-2,Butters,Stan,3
-3,Cartman,Kyle,3
-4,Butters,Kyle,3
-5,Butters,Cartman,3
-6,Cartman,Liane,1
-7,Cartman,Tuong Lu Kim,2
-8,Randy,Wendy,1
-9,Cartman,Randy,5
-10,Butters,Linda,1
+0,Cartman,Kyle,12
+1,Cartman,Stan,8
+2,Butters,Cartman,6
+3,Kyle,Stan,6
+4,Butters,Kyle,6
+5,Butters,Stan,3
+6,Cartman,Craig,2
+7,Craig,Kyle,2
+8,Craig,Stan,1
+9,Butters,Craig,1
+10,Cartman,Clyde,4
+11,Clyde,Kyle,4
+12,Clyde,Stan,2
+13,Butters,Clyde,2
+14,Cartman,Millie,2
+15,Cartman,Nelly,2
+16,Millie,Stan,1
+17,Nelly,Stan,1
+18,Millie,Nelly,1
+19,Cartman,Doctor,8
+20,Cartman,Liane,2
+21,Doctor,Liane,1
+22,Cartman,Michael,24
+23,Cartman,Tuong Lu Kim,4
+24,Doctor,Michael,6
+25,Doctor,Tuong Lu Kim,2
+26,Michael,Tuong Lu Kim,6
+27,Randy,Theresa,1
+28,Randy,Wendy,1
+29,Cartman,Randy,10
+30,Doctor,Randy,1
+31,Butters,Linda,2
+32,Michael,Randy,6

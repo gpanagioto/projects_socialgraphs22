@@ -1,0 +1,54 @@
+,source,target,weight
+0,Gerald,Kyle,14
+1,Butters,Charlotte,25
+2,Dick,Gerald,140
+3,Kyle,Stan,5
+4,Butters,Stan,9
+5,Clyde,Stan,1
+6,Stan,Tolkien,1
+7,Butters,Kyle,15
+8,Clyde,Kyle,3
+9,Kyle,Tolkien,3
+10,Butters,Clyde,5
+11,Butters,Tolkien,5
+12,Clyde,Tolkien,1
+13,Gerald,Sheila,160
+14,Dick,Sheila,5
+15,Kyle,Wendy,2
+16,Kyle,Referee,2
+17,Kyle,Sports Commentator,2
+18,Stan,Wendy,2
+19,Referee,Stan,1
+20,Sports Commentator,Stan,1
+21,Referee,Wendy,1
+22,Sports Commentator,Wendy,1
+23,Referee,Sports Commentator,1
+24,Gerald,Richard,10
+25,Gerald,Randy,25
+26,Berries,Gerald,10
+27,Gerald,Michael,5
+28,Gerald,Stephen,5
+29,Randy,Richard,10
+30,Berries,Richard,4
+31,Michael,Richard,2
+32,Richard,Stephen,2
+33,Berries,Randy,10
+34,Michael,Randy,5
+35,Randy,Stephen,5
+36,Berries,Michael,2
+37,Berries,Stephen,2
+38,Michael,Stephen,1
+39,PC Principal,Wendy,6
+40,Bebe,Wendy,2
+41,Bebe,PC Principal,3
+42,Butters,Wendy,4
+43,Sheila,Shiela,2
+44,Gerald,Shiela,3
+45,Gerald,Ike,2
+46,Ike,Kyle,1
+47,Cartman,Kyle,113
+48,Cartman,Heidi,109
+49,Heidi,Kyle,59
+50,Bedrager,Gerald,1
+51,Bedrager,Dick,1
+52,BBC reporter,Bedrager,2

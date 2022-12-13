@@ -1,0 +1,87 @@
+,source,target,weight
+0,Cartman,Kyle,133
+1,Butters,Kyle,50
+2,Kyle,Stan,47
+3,Butters,Cartman,122
+4,Cartman,Stan,65
+5,Butters,Stan,18
+6,Butters,Linda,7
+7,Cartman,Clyde,4
+8,Cartman,Jimmy,37
+9,Cartman,Tweek,11
+10,Cartman,Towelie,10
+11,Cartman,Ride operator,4
+12,Jimmy,Kyle,31
+13,Jimmy,Tweek,4
+14,Jimmy,Towelie,5
+15,Jimmy,Ride operator,3
+16,Jimmy,Stan,19
+17,Kyle,Tweek,14
+18,Kyle,Towelie,10
+19,Kyle,Ride operator,3
+20,Towelie,Tweek,2
+21,Ride operator,Tweek,1
+22,Stan,Tweek,3
+23,Ride operator,Towelie,1
+24,Stan,Towelie,2
+25,Ride operator,Stan,1
+26,Kyle,Timmy,9
+27,DogPoo,Kyle,3
+28,Dougie,Kyle,3
+29,Timmy,Tweek,3
+30,Cartman,Timmy,6
+31,DogPoo,Timmy,1
+32,Dougie,Timmy,1
+33,Stan,Timmy,2
+34,DogPoo,Tweek,2
+35,Dougie,Tweek,2
+36,Cartman,DogPoo,2
+37,Cartman,Dougie,2
+38,DogPoo,Dougie,1
+39,DogPoo,Stan,1
+40,Dougie,Stan,1
+41,Butters,Stephen,1
+42,Cartman,Ms. Choksondik,48
+43,Butters,Ms. Choksondik,108
+44,Ms. Choksondik,The class,12
+45,Cartman,The class,4
+46,Butters,The class,9
+47,Cartman,Craig,2
+48,Craig,Stan,1
+49,Pip,Tweek,2
+50,Kyle,Pip,12
+51,Pip,Tolkien,2
+52,Pip,Timmy,2
+53,Pip,Towelie,2
+54,Cartman,Pip,12
+55,Jimmy,Pip,2
+56,Clyde,Pip,2
+57,Tolkien,Tweek,1
+58,Clyde,Tweek,1
+59,Kyle,Tolkien,9
+60,Clyde,Kyle,5
+61,Timmy,Tolkien,1
+62,Tolkien,Towelie,3
+63,Cartman,Tolkien,9
+64,Jimmy,Tolkien,3
+65,Clyde,Tolkien,1
+66,Timmy,Towelie,1
+67,Jimmy,Timmy,1
+68,Clyde,Timmy,1
+69,Clyde,Towelie,1
+70,Clyde,Jimmy,1
+71,Butters,Dougie,49
+72,Stan,Tolkien,2
+73,Kyle,Vendor,1
+74,Fans,Kyle,1
+75,Pip,Vendor,2
+76,Cartman,Vendor,3
+77,Stan,Vendor,1
+78,Butters,Vendor,2
+79,Fans,Vendor,1
+80,Pip,Stan,2
+81,Butters,Pip,4
+82,Fans,Pip,2
+83,Cartman,Fans,3
+84,Fans,Stan,1
+85,Butters,Fans,2

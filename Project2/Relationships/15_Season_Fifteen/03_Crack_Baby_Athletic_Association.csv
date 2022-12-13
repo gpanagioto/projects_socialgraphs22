@@ -1,0 +1,50 @@
+,source,target,weight
+0,Kyle,Stan,49
+1,Announcer,Kyle,7
+2,Kyle,Singer,7
+3,Kyle,Sarah McLachlan,21
+4,Announcer,Stan,4
+5,Singer,Stan,4
+6,Sarah McLachlan,Stan,12
+7,Announcer,Singer,1
+8,Announcer,Sarah McLachlan,3
+9,Sarah McLachlan,Singer,3
+10,Kyle,Nurse,21
+11,Cartman,Kyle,240
+12,Kyle,Ms. Williams,14
+13,Cartman,Nurse,12
+14,Ms. Williams,Nurse,6
+15,Cartman,Ms. Williams,8
+16,Butters,Cartman,17
+17,Kyle,Waiter,1
+18,Cartman,Waiter,1
+19,Craig,Kyle,7
+20,Butters,Kyle,9
+21,Cartman,Craig,14
+22,Butters,Craig,3
+23,Cartman,Clyde,47
+24,Clyde,Kyle,25
+25,Cartman,Dean Howland,49
+26,Clyde,Craig,10
+27,Craig,Postmaster,2
+28,Craig,Postman,1
+29,Clyde,Postmaster,2
+30,Postman,Postmaster,2
+31,Clyde,Postman,1
+32,Clyde,Roger,12
+33,Betsy,Clyde,9
+34,Both Parents,Clyde,3
+35,Betsy,Roger,12
+36,Craig,Roger,4
+37,Both Parents,Roger,4
+38,Betsy,Craig,3
+39,Betsy,Both Parents,3
+40,Both Parents,Craig,1
+41,Butters,Clyde,8
+42,Clyde,Stan,8
+43,Cartman,Stan,12
+44,Craig,Stan,2
+45,Butters,Stan,4
+46,Kyle,Mr. Peters,9
+47,Cartman,Mr. Peters,6
+48,Butters,Mr. Peters,3

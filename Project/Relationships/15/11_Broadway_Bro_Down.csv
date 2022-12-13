@@ -1,10 +1,7 @@
 ,source,target,weight
 0,Randy,Sharon,7
-1,Cartman,Stan,1
-2,Shelly,Stan,4
-3,Cartman,Shelly,1
-4,Randy,Stephen,2
-5,Randy,Stan,1
-6,Sharon,Stan,1
-7,Randy,Shelly,2
-8,Sharon,Shelly,1
+1,Cartman,Stan,2
+2,Randy,Stephen,4
+3,Randy,Stan,1
+4,Sharon,Stan,1
+5,Bros,Randy,1

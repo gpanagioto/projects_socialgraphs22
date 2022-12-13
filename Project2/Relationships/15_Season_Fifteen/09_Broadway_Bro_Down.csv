@@ -1,0 +1,56 @@
+,source,target,weight
+0,Peter Nelson,Randy,45
+1,Randy,Sharon,164
+2,Male,Witches,2
+3,Cartman,Shelly,1
+4,Randy,Stephen,6
+5,Sharon,Stan,4
+6,Sharon,Shelly,2
+7,Randy,Stan,4
+8,Randy,Shelly,5
+9,Shelly,Stan,5
+10,Mr. Feegan,Shelly,9
+11,Mr. Feegan,Stan,3
+12,Females,Males,2
+13,Bob,Randy,3
+14,Peter Nelson,Stephen,1
+15,Bob,Peter Nelson,1
+16,Bob,Stephen,1
+17,Both,Men,1
+18,Both,Reginald,1
+19,Reginald,Representative,2
+20,Randy,Reginald,2
+21,Both,Representative,2
+22,Both,Randy,2
+23,Randy,Representative,16
+24,Representative,Webber,6
+25,Schwartz,Webber,12
+26,Sondheim,Webber,29
+27,Randy,Webber,33
+28,Elton John,Webber,5
+29,Representative,Schwartz,6
+30,Representative,Sondheim,10
+31,Elton John,Representative,2
+32,Schwartz,Sondheim,26
+33,Randy,Schwartz,30
+34,Elton John,Schwartz,4
+35,Randy,Sondheim,111
+36,Elton John,Sondheim,8
+37,Elton John,Randy,9
+38,Larry,Shelly,1
+39,Mrs. Feegan,Sharon,6
+40,Sondheim,Spectator,8
+41,Randy,Spectator,9
+42,Spectator,Webber,1
+43,Schwartz,Spectator,1
+44,Bros,Schwartz,1
+45,Bros,Sondheim,3
+46,Bros,Randy,3
+47,Bros,Elton John,1
+48,Bros,Webber,2
+49,Elderly Man,Shelly,1
+50,Shelly,Usher,1
+51,Elderly Man,Randy,3
+52,Randy,Usher,3
+53,Elderly Man,Usher,1
+54,Announcer,Audience,1

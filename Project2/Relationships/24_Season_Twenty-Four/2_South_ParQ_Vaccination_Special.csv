@@ -1,0 +1,132 @@
+,source,target,weight
+0,Mr. Mackey,Richard Adler,2
+1,Mr. Mackey,Walgreens Bouncer,17
+2,Stephen Stotch,Walgreens Bouncer,8
+3,Elderly Woman,Walgreens Bouncer,4
+4,Man with Green Coat,Walgreens Bouncer,8
+5,Mr. Mackey,Stephen Stotch,2
+6,Elderly Woman,Mr. Mackey,2
+7,Man with Green Coat,Mr. Mackey,2
+8,Elderly Woman,Stephen Stotch,1
+9,Man with Green Coat,Stephen Stotch,1
+10,Elderly Woman,Man with Green Coat,1
+11,Cartman,Stan,185
+12,Cartman,Kenny,72
+13,Kenny,Kyle,47
+14,Cartman,Kyle,213
+15,Bebe,Cartman,4
+16,Cartman,Mrs. Nelson,57
+17,Cartman,Kids,4
+18,Bebe,Mrs. Nelson,4
+19,Bebe,Kids,1
+20,Kids,Mrs. Nelson,4
+21,Kyle,Stan,128
+22,Butters,Kyle,6
+23,Kenny,Stan,43
+24,Butters,Kenny,2
+25,Butters,Stan,4
+26,Butters,Cartman,10
+27,Bus Driver,Mr. Garrison,1
+28,Mr. Garrison,Thompson,1
+29,Mr. Garrison,PC Principal,6
+30,Mr. Service,PC Principal,3
+31,Mr. Garrison,Mr. Service,18
+32,Man with Burgundy Coat,Walgreens Bouncer,8
+33,Chris,Man with Burgundy Coat,6
+34,Elderly People,Man with Burgundy Coat,6
+35,Man with Burgundy Coat,Stephen Stotch,2
+36,Chris,Walgreens Bouncer,12
+37,Elderly People,Walgreens Bouncer,12
+38,Chris,Elderly People,9
+39,Chris,Stephen Stotch,3
+40,Elderly People,Stephen Stotch,3
+41,Elderly Men,Stan,1
+42,Marvin,Stan,1
+43,Elderly Men,Marvin,1
+44,Cartman,Mr. Garrison,4
+45,Red,Scott,1
+46,Cartman,Red,5
+47,Kyle,Red,4
+48,Red,Stan,1
+49,Cartman,Scott,16
+50,Kyle,Scott,8
+51,Scott,Stan,7
+52,Dr. Alphonse Mephesto,Walgreens Bouncer,3
+53,Dr. Alphonse Mephesto,Mr. Mackey,3
+54,Mr. Garrison,Unnamed Shopper,3
+55,Bob White,Unnamed Shopper,3
+56,Bob White,Mr. Garrison,9
+57,Elderly Man on Motorcycle,Mr. Mackey,5
+58,Elderly Man on Motorcycle,Kenny,1
+59,Cartman,Elderly Man on Motorcycle,4
+60,Elderly Man on Motorcycle,Stan,2
+61,Elderly Man on Motorcycle,Kyle,2
+62,Kenny,Mr. Mackey,5
+63,Cartman,Mr. Mackey,21
+64,Mr. Mackey,Stan,11
+65,Kyle,Mr. Mackey,11
+66,Bob White,Female QAnon Tutor,4
+67,Cartman,Walgreens Bouncer,12
+68,Stan,Walgreens Bouncer,14
+69,Elderly Woman in Wheelchair,Walgreens Bouncer,10
+70,Kyle,Walgreens Bouncer,10
+71,Walgreens Bouncer,Walgreens Pharmacist,8
+72,Cartman,Man with Green Coat,13
+73,Cartman,Elderly Woman in Wheelchair,30
+74,Cartman,Walgreens Pharmacist,24
+75,Man with Green Coat,Stan,14
+76,Elderly Woman in Wheelchair,Stan,35
+77,Stan,Walgreens Pharmacist,28
+78,Elderly Woman in Wheelchair,Man with Green Coat,10
+79,Kyle,Man with Green Coat,11
+80,Man with Green Coat,Walgreens Pharmacist,8
+81,Elderly Woman in Wheelchair,Kyle,25
+82,Elderly Woman in Wheelchair,Walgreens Pharmacist,20
+83,Kyle,Walgreens Pharmacist,20
+84,Clark,Ellen,4
+85,Ellen,Richard,4
+86,Clark,Richard,4
+87,Advertiser,Female QAnon Tutor,1
+88,Advertiser,Bob White,1
+89,Jake Angeli,Scott,9
+90,Clark,Jake Angeli,3
+91,Clark,Scott,3
+92,Chris,Tom,20
+93,Bebe,Mr. Service,6
+94,Bebe,Mr. Garrison,15
+95,Kyle,Mrs. Nelson,19
+96,Mrs. Nelson,Stan,13
+97,Kenny,Mrs. Nelson,8
+98,Cartman,Stephen,2
+99,Cartman,Man with Burgundy Coat,1
+100,Man with Green Coat,Stephen,1
+101,Man with Burgundy Coat,Stephen,1
+102,Kyle,Stephen,1
+103,Man with Burgundy Coat,Man with Green Coat,1
+104,Kyle,Man with Burgundy Coat,1
+105,Craig,Female QAnon Tutor,14
+106,Craig,Mr. Garrison,14
+107,Female QAnon Tutor,Mr. Garrison,49
+108,Gerald,Kyle,36
+109,Bob,Crystal,24
+110,Bob,Mr. Garrison,92
+111,Crystal,Mr. Garrison,18
+112,Lil' Qties Blonde Girl,Scott,3
+113,Butters,Lil' Qties Blonde Girl,2
+114,Kyle,Lil' Qties Blonde Girl,1
+115,Cartman,Lil' Qties Blonde Girl,1
+116,Butters,Scott,6
+117,Mr. Garrison,Mr.Garrison,3
+118,Bob,Mr.Garrison,4
+119,Bob,Mr. Service,5
+120,Qanon Member,Stan,1
+121,Mr. Garrison,Stan,1
+122,Qanon Member,Scott,1
+123,Mr. Garrison,Qanon Member,1
+124,Mr. Garrison,Scott,1
+125,Mr. Garrison,Stephen,1
+126,Mr. Mackey,Mrs. Nelson,1
+127,Clyde,Stan,6
+128,Cartman,Clyde,8
+129,Clyde,Kyle,4
+130,Clyde,Kenny,4

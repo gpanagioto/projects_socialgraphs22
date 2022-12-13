@@ -1,0 +1,59 @@
+,source,target,weight
+0,Randy,Stan,34
+1,Benny,Randy,36
+2,Mrs. Farnickle,Randy,3
+3,Benny,Stan,120
+4,Mrs. Farnickle,Stan,10
+5,Benny,Mrs. Farnickle,12
+6,Anchor,Mr. Garrison,2
+7,Anchor,Stephen,2
+8,Anchor,Butters,2
+9,Anchor,Darryl Weathers,2
+10,Mr. Garrison,Stephen,1
+11,Butters,Mr. Garrison,1
+12,Darryl Weathers,Mr. Garrison,1
+13,Butters,Stephen,1
+14,Darryl Weathers,Stephen,1
+15,Butters,Darryl Weathers,1
+16,Randy,Sharon,2
+17,Sharon,Stan,2
+18,Cartman,Randy,4
+19,Clerk,Stan,16
+20,Gerald,Randy,1
+21,Cartman,Clyde,4
+22,Clyde,Kyle,5
+23,Butters,Clyde,2
+24,Cartman,Kyle,24
+25,Butters,Cartman,9
+26,Butters,Kyle,14
+27,Receptionist,Stan,5
+28,Josh,Stan,25
+29,Josh,Receptionist,5
+30,Father Maxi,Randy,12
+31,Father Maxi,Skeeter,4
+32,Randy,Skeeter,6
+33,Kyle,Mr. Garrison,21
+34,Stan,Stockbroker,25
+35,Randy,Stephen,10
+36,Father Maxi,Stephen,2
+37,Skeeter,Stephen,1
+38,Cartman,Stephen,1
+39,Cartman,Father Maxi,2
+40,Cartman,Skeeter,1
+41,Jimmy,Kyle,4
+42,Butters,Jimmy,1
+43,Cartman,Jimmy,1
+44,Darryl,Randy,4
+45,Randy,Sheila,8
+46,Kyle,Randy,8
+47,Dr. Doctor,Randy,4
+48,Darryl,Stephen,2
+49,Sheila,Stephen,4
+50,Kyle,Stephen,4
+51,Dr. Doctor,Stephen,2
+52,Darryl,Sheila,2
+53,Darryl,Kyle,2
+54,Darryl,Dr. Doctor,1
+55,Kyle,Sheila,4
+56,Dr. Doctor,Sheila,2
+57,Dr. Doctor,Kyle,2

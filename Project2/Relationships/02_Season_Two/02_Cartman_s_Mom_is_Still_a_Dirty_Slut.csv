@@ -1,0 +1,86 @@
+,source,target,weight
+0,Kyle,Mr. Garrison,1
+1,Cartman,Mr. Garrison,7
+2,Chef,Mr. Garrison,7
+3,Cartman,Chef,13
+4,Chef,Kyle,12
+5,Kyle,Stan,17
+6,Chef,Stan,10
+7,Cartman,Kyle,24
+8,Sharon,Sheila,1
+9,Greenfield,Mayor McDaniels,27
+10,Mayor McDaniels,Officer Barbrady,7
+11,Jimbo,Mayor McDaniels,14
+12,Cameraman,Mayor McDaniels,5
+13,Greenfield,Officer Barbrady,6
+14,Greenfield,Jimbo,19
+15,Cameraman,Greenfield,5
+16,Jimbo,Officer Barbrady,5
+17,Cameraman,Officer Barbrady,1
+18,Cameraman,Jimbo,1
+19,Liane,Receptionist,49
+20,Cartman,Stan,11
+21,Dr. Doctor,Stan,16
+22,Dr. Doctor,Kyle,23
+23,Assistant,Greenfield,8
+24,Greenfield,Mr. Garrison,14
+25,Greenfield,Mr. Hat,4
+26,Assistant,Mr. Garrison,5
+27,Assistant,Mr. Hat,1
+28,Mr. Garrison,Mr. Hat,2
+29,Liane,O'Reilly,4
+30,Cartman,Dr. Doctor,17
+31,Garrison Actor,Mr. Hat Actor,1
+32,Eric Roberts as Kevin,Garrison Actor,1
+33,Garrison Actor,Greenfield,2
+34,Eric Roberts,Garrison Actor,1
+35,Eric Roberts as Kevin,Mr. Hat Actor,1
+36,Greenfield,Mr. Hat Actor,2
+37,Eric Roberts,Mr. Hat Actor,1
+38,Eric Roberts as Kevin,Greenfield,2
+39,Eric Roberts,Eric Roberts as Kevin,1
+40,Eric Roberts,Greenfield,2
+41,Cameraman,John Walsh,1
+42,Greenfield,John Walsh,1
+43,Dr. Doctor,Goodly,2
+44,Chef,Dr. Doctor,8
+45,Greenfield,Mayor McDaneils,1
+46,Mayor McDaneils,Mr. Garrison,1
+47,Mayor McDaneils,Mayor McDaniels,1
+48,Assistant,Mayor McDaneils,1
+49,Mayor McDaneils,Officer Barbrady,1
+50,Jimbo,Mayor McDaneils,1
+51,Mayor McDaniels,Mr. Garrison,4
+52,Mr. Garrison,Officer Barbrady,3
+53,Jimbo,Mr. Garrison,12
+54,Assistant,Mayor McDaniels,1
+55,Assistant,Officer Barbrady,1
+56,Assistant,Jimbo,4
+57,Barbrady,Jimbo,5
+58,Barbrady,Officer Barbrady,1
+59,Barbrady,Mr. Garrison,3
+60,Cartman,Kenny,8
+61,Dr. Doctor,Kenny,34
+62,Assistant,Barbrady,1
+63,Barbrady,Greenfield,2
+64,Kenny,Kyle,12
+65,Kenny,Stan,4
+66,Clinton,Liane,20
+67,Chef,Mephesto,16
+68,Dr. Doctor,Mephesto,2
+69,Ned,Officer Barbrady,1
+70,Officer Barbrady,Singer,1
+71,Jimbo,Ned,1
+72,Jimbo,Singer,1
+73,Mayor McDaniels,Ned,1
+74,Mayor McDaniels,Singer,1
+75,Ned,Singer,1
+76,Mr. Garrison,Ned,1
+77,Mr. Garrison,Singer,1
+78,Cartman,Mephesto,10
+79,Cartman,Liane,5
+80,Liane,Mephesto,10
+81,Mephesto,Mr. Garrison,10
+82,Chef,Liane,4
+83,Liane,Mr. Garrison,4
+84,Liane,Stan,1

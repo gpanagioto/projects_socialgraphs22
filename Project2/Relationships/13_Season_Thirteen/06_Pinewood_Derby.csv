@@ -1,0 +1,128 @@
+,source,target,weight
+0,Randy,Sharon,20
+1,Sharon,Stan,11
+2,Randy,Stan,126
+3,Reporter,Stan,1
+4,Official,Stan,12
+5,Mr. Hollis,Stan,8
+6,Official,Randy,18
+7,Mr. Hollis,Randy,16
+8,Mr. Hollis,Official,6
+9,Judge,Mr. Hollis,2
+10,Judge,Randy,13
+11,Anchorman,Emmett,1
+12,Agent Clark,Stan,20
+13,Agent Marx,Stan,10
+14,Agent Clark,Agent Marx,8
+15,Agent Clark,Randy,20
+16,Agent Clark,Sharon,4
+17,Agent Marx,Randy,10
+18,Agent Marx,Sharon,2
+19,General,Randy,14
+20,General,Gordon Brown,1
+21,General,Nicolas Sarkozy,1
+22,General,Taro Aso,1
+23,General,Hu Jintao,1
+24,General,Reporter,1
+25,Alien,General,3
+26,General,Townsman,1
+27,General,McGee-zax,3
+28,General,New Yorker,1
+29,General,Judge,1
+30,Gordon Brown,Randy,32
+31,Nicolas Sarkozy,Randy,20
+32,Randy,Taro Aso,20
+33,Hu Jintao,Randy,25
+34,Randy,Reporter,6
+35,Alien,Randy,18
+36,Randy,Townsman,6
+37,McGee-zax,Randy,89
+38,New Yorker,Randy,6
+39,Gordon Brown,Nicolas Sarkozy,2
+40,Gordon Brown,Taro Aso,3
+41,Gordon Brown,Hu Jintao,3
+42,Gordon Brown,Reporter,1
+43,Alien,Gordon Brown,3
+44,Gordon Brown,Townsman,1
+45,Gordon Brown,McGee-zax,7
+46,Gordon Brown,New Yorker,1
+47,Gordon Brown,Judge,1
+48,Nicolas Sarkozy,Taro Aso,1
+49,Hu Jintao,Nicolas Sarkozy,2
+50,Nicolas Sarkozy,Reporter,1
+51,Alien,Nicolas Sarkozy,3
+52,Nicolas Sarkozy,Townsman,1
+53,McGee-zax,Nicolas Sarkozy,7
+54,New Yorker,Nicolas Sarkozy,1
+55,Judge,Nicolas Sarkozy,1
+56,Hu Jintao,Taro Aso,2
+57,Reporter,Taro Aso,1
+58,Alien,Taro Aso,3
+59,Taro Aso,Townsman,1
+60,McGee-zax,Taro Aso,3
+61,New Yorker,Taro Aso,1
+62,Judge,Taro Aso,1
+63,Hu Jintao,Reporter,1
+64,Alien,Hu Jintao,3
+65,Hu Jintao,Townsman,1
+66,Hu Jintao,McGee-zax,7
+67,Hu Jintao,New Yorker,1
+68,Hu Jintao,Judge,1
+69,Alien,Reporter,3
+70,Reporter,Townsman,1
+71,McGee-zax,Reporter,3
+72,New Yorker,Reporter,1
+73,Judge,Reporter,1
+74,Alien,Townsman,3
+75,Alien,McGee-zax,9
+76,Alien,New Yorker,3
+77,Alien,Judge,3
+78,McGee-zax,Townsman,3
+79,New Yorker,Townsman,1
+80,Judge,Townsman,1
+81,McGee-zax,New Yorker,3
+82,Judge,McGee-zax,6
+83,Judge,New Yorker,1
+84,McGee-zax,Stephen,4
+85,McGee-zax,Stan,24
+86,McGee-zax,Silvio Berlusconi,4
+87,Randy,Stephen,17
+88,Stan,Stephen,4
+89,Silvio Berlusconi,Stephen,1
+90,Gordon Brown,Stephen,1
+91,Hu Jintao,Stephen,1
+92,Nicolas Sarkozy,Stephen,1
+93,Randy,Silvio Berlusconi,14
+94,Silvio Berlusconi,Stan,3
+95,Gordon Brown,Stan,3
+96,Hu Jintao,Stan,3
+97,Nicolas Sarkozy,Stan,3
+98,Gordon Brown,Silvio Berlusconi,1
+99,Hu Jintao,Silvio Berlusconi,1
+100,Nicolas Sarkozy,Silvio Berlusconi,1
+101,Judge,Stan,4
+102,General,Stan,3
+103,Mr. Garrison,Randy,3
+104,General,Stephen,2
+105,General,Mr. Garrison,2
+106,Mr. Garrison,Stephen,1
+107,Mr. Garrison,Stan,1
+108,Angela Merkel,Randy,2
+109,John Howard,Randy,7
+110,Angela Merkel,Taro Aso,1
+111,John Howard,Taro Aso,2
+112,Angela Merkel,John Howard,1
+113,Randy,Vladimir Putin,7
+114,Luiz Inácio Lula da Silva,Randy,7
+115,Taro Aso,Vladimir Putin,1
+116,Gordon Brown,Vladimir Putin,1
+117,Luiz Inácio Lula da Silva,Vladimir Putin,1
+118,Luiz Inácio Lula da Silva,Taro Aso,1
+119,Gordon Brown,Luiz Inácio Lula da Silva,1
+120,Matti Vanhanen,Taro Aso,3
+121,Matti Vanhanen,Randy,15
+122,Gordon Brown,Matti Vanhanen,3
+123,Gordon Brown,John Howard,1
+124,Hu Jintao,Matti Vanhanen,3
+125,John Howard,Matti Vanhanen,3
+126,Hu Jintao,John Howard,1

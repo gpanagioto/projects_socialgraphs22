@@ -1,0 +1,123 @@
+,source,target,weight
+0,Cartman,Elderly woman,9
+1,Kyle,Stan,22
+2,Driver,Kyle,15
+3,Kenny,Kyle,3
+4,Driver,Stan,18
+5,Kenny,Stan,4
+6,Driver,Kenny,3
+7,Cartman,Singer,5
+8,Sharon,Stan,2
+9,Chef,Linda Stotch,2
+10,Chef,Gerald,2
+11,Chef,Guard,2
+12,Cartman,Chef,34
+13,Chef,Mayor McDaniels,6
+14,Chef,Randy,13
+15,Chef,Linda,7
+16,Chef,Mr. Mackey,3
+17,Gerald,Linda Stotch,1
+18,Guard,Linda Stotch,1
+19,Cartman,Linda Stotch,7
+20,Linda Stotch,Mayor McDaniels,3
+21,Linda Stotch,Randy,1
+22,Linda,Linda Stotch,1
+23,Linda Stotch,Mr. Mackey,1
+24,Gerald,Guard,1
+25,Cartman,Gerald,7
+26,Gerald,Mayor McDaniels,3
+27,Gerald,Randy,1
+28,Gerald,Linda,1
+29,Gerald,Mr. Mackey,1
+30,Cartman,Guard,7
+31,Guard,Mayor McDaniels,3
+32,Guard,Randy,1
+33,Guard,Linda,1
+34,Guard,Mr. Mackey,1
+35,Cartman,Mayor McDaniels,51
+36,Cartman,Randy,78
+37,Cartman,Linda,31
+38,Cartman,Mr. Mackey,15
+39,Mayor McDaniels,Randy,3
+40,Linda,Mayor McDaniels,3
+41,Mayor McDaniels,Mr. Mackey,3
+42,Linda,Randy,26
+43,Mr. Mackey,Randy,5
+44,Linda,Mr. Mackey,1
+45,Cartman,Stan,19
+46,Officer Barbrady,Stan,8
+47,Cartman,Kyle,21
+48,Kyle,Officer Barbrady,8
+49,Cartman,Driver,16
+50,Driver,Officer Barbrady,8
+51,Cartman,Officer Barbrady,50
+52,Mayor McDaniels.,Officer Barbrady,3
+53,Mayor McDaniels,Officer Barbrady,15
+54,Cartman,Mayor McDaniels.,6
+55,Mayor McDaniels,Mayor McDaniels.,5
+56,Anchorman,MC,2
+57,Anchorman,Stan,1
+58,Anchorman,Kyle,1
+59,MC,Stan,2
+60,Kyle,MC,2
+61,Randy,Sharon,5
+62,Anchorman,Reporter,1
+63,Jimbo,Randy,13
+64,Jimbo,Male hippie,1
+65,Female hippie,Jimbo,1
+66,Male hippie,Randy,2
+67,Female hippie,Randy,2
+68,Female hippie,Male hippie,1
+69,Cartman,Sheila,17
+70,Cartman,Jimbo,21
+71,Cartman,Principal Victoria,8
+72,Randy,Sheila,9
+73,Principal Victoria,Randy,4
+74,Chef,Sheila,3
+75,Jimbo,Sheila,4
+76,Mr. Mackey,Sheila,2
+77,Principal Victoria,Sheila,2
+78,Chef,Jimbo,3
+79,Chef,Principal Victoria,1
+80,Jimbo,Mr. Mackey,2
+81,Jimbo,Principal Victoria,2
+82,Mr. Mackey,Principal Victoria,1
+83,Randy,Steven,9
+84,Cartman,Steven,15
+85,Jimbo,Steven,3
+86,Jimbo,Linda,2
+87,Linda,Steven,6
+88,Chef,Steven,3
+89,Butters,Randy,1
+90,Mrs. Garrison,Randy,1
+91,Linda,Sharon,1
+92,Butters,Sharon,1
+93,Chef,Sharon,1
+94,Cartman,Sharon,1
+95,Sharon,Sheila,1
+96,Mrs. Garrison,Sharon,1
+97,Butters,Linda,1
+98,Linda,Sheila,1
+99,Linda,Mrs. Garrison,1
+100,Butters,Chef,1
+101,Butters,Cartman,1
+102,Butters,Sheila,1
+103,Butters,Mrs. Garrison,1
+104,Chef,Mrs. Garrison,1
+105,Cartman,Mrs. Garrison,1
+106,Mrs. Garrison,Sheila,1
+107,Mayor McDaniels,Townsfolk,1
+108,Guard,Kyle,1
+109,Mr. Mackey,Steven,1
+110,A hippie,Stan,2
+111,A hippie,Singer,1
+112,Singer,Stan,1
+113,Kyle,Linda,3
+114,Kyle,Randy,6
+115,A hippie,Kyle,1
+116,Linda,Stan,3
+117,Randy,Stan,5
+118,A hippie,Linda,3
+119,A hippie,Cartman,3
+120,A hippie,Randy,5
+121,Chef,Kyle,1

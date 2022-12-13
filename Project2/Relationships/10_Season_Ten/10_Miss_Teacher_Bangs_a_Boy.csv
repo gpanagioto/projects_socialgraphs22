@@ -1,0 +1,66 @@
+,source,target,weight
+0,Cartman,Hall monitor,12
+1,Hall monitor,Principal Victoria,3
+2,Cartman,Principal Victoria,21
+3,Cartman,Mr. Mackey,8
+4,Mr. Mackey,Principal Victoria,4
+5,Boy,Cartman,20
+6,Cartman,Teacher,12
+7,Cartman,Fillmore,3
+8,Cartman,Class,3
+9,Cartman,Ike,9
+10,Fillmore,Teacher,4
+11,Class,Teacher,4
+12,Ike,Teacher,28
+13,Class,Fillmore,1
+14,Fillmore,Ike,1
+15,Class,Ike,1
+16,Butters,Cartman,15
+17,Kyle,Sheila,24
+18,Kyle,Teacher,42
+19,Ike,Kyle,42
+20,Ike,Sheila,10
+21,Foley,Kyle,84
+22,Foley,Yates,47
+23,Foley,Mitch,7
+24,Kyle,Yates,72
+25,Kyle,Mitch,12
+26,Mitch,Yates,6
+27,Kyle,Stan,32
+28,Cartman,Stan,32
+29,Kenny,Stan,4
+30,Cartman,Kyle,77
+31,Kenny,Kyle,8
+32,Cartman,Kenny,8
+33,Ike,Miss Stevenson,13
+34,Cartman,Miss Stevenson,47
+35,Miss Stevenson,Principal Victoria,3
+36,Jimbo,Randy,6
+37,Kyle,Randy,3
+38,Cartman,Randy,3
+39,Jimbo,Kyle,2
+40,Cartman,Jimbo,2
+41,Randy,Yates,2
+42,Lawyer,Yates,2
+43,Print reporter,Yates,2
+44,Foley,Randy,1
+45,Foley,Lawyer,1
+46,Foley,Print reporter,1
+47,Lawyer,Randy,1
+48,Print reporter,Randy,1
+49,Lawyer,Print reporter,1
+50,Miss Stevenson,Therapist,2
+51,Foley,Sheila,4
+52,Sheila,Yates,12
+53,Cartman,Leeroy,7
+54,Bellboy,Leeroy,2
+55,Leeroy,Receptionist,2
+56,Head concierge,Leeroy,1
+57,Bellboy,Cartman,14
+58,Cartman,Receptionist,14
+59,Cartman,Head concierge,7
+60,Bellboy,Receptionist,4
+61,Bellboy,Head concierge,2
+62,Head concierge,Receptionist,2
+63,Cartman,Earl,2
+64,Earl,Miss Stevenson,1

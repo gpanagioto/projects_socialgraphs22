@@ -1,0 +1,142 @@
+,source,target,weight
+0,Cartman,Kyle,101
+1,Cartman,Randy,27
+2,Cartman,Stan,92
+3,Cartman,Sharon,11
+4,Kyle,Randy,18
+5,Kyle,Stan,99
+6,Kyle,Sharon,8
+7,Randy,Stan,32
+8,Randy,Sharon,86
+9,Sharon,Stan,12
+10,Narrator,Randy,27
+11,Narrator,Sharon,18
+12,Stan,Stephen,4
+13,Cartman,Stephen,5
+14,Butters,Linda,7
+15,Butters,Stephen,7
+16,Butters,Evan Stone,4
+17,Linda,Stephen,5
+18,Evan Stone,Linda,1
+19,Evan Stone,Stephen,1
+20,Butters,Stan,45
+21,Butters,Kyle,69
+22,Butters,Cartman,27
+23,Kyle,Sixth grader leader,67
+24,Sixth grader leader,Stan,59
+25,Cartman,Sixth grader leader,51
+26,Linda,Randy,7
+27,Randy,Stephen,22
+28,Linda,Sharon,4
+29,Sharon,Stephen,7
+30,Butters,Randy,4
+31,Butters,Sharon,3
+32,Gerald,Sheila,24
+33,Randy,Sheila,33
+34,Linda,Sheila,4
+35,Sheila,Stephen,11
+36,Sharon,Sheila,10
+37,Liane,Sheila,4
+38,Butters,Sheila,4
+39,Gerald,Randy,27
+40,Gerald,Linda,3
+41,Gerald,Stephen,11
+42,Gerald,Sharon,7
+43,Gerald,Liane,3
+44,Butters,Gerald,3
+45,Liane,Randy,2
+46,Liane,Linda,1
+47,Liane,Stephen,1
+48,Liane,Sharon,1
+49,Butters,Liane,1
+50,Clyde,Stan,28
+51,Clyde,Kyle,17
+52,Cartman,Clyde,33
+53,Other sixth graders,Sixth grader leader,4
+54,Jimmy,Other Boys,1
+55,Craig,Other Boys,1
+56,Kevin,Other Boys,1
+57,Cartman,Other Boys,1
+58,Clyde,Other Boys,2
+59,Other Boys,Stan,1
+60,Other Boys,Tolkien,1
+61,Craig,Jimmy,9
+62,Jimmy,Kevin,1
+63,Cartman,Jimmy,27
+64,Clyde,Jimmy,10
+65,Jimmy,Stan,12
+66,Jimmy,Tolkien,5
+67,Craig,Kevin,1
+68,Cartman,Craig,24
+69,Clyde,Craig,18
+70,Craig,Stan,20
+71,Craig,Tolkien,9
+72,Cartman,Kevin,1
+73,Clyde,Kevin,2
+74,Kevin,Stan,1
+75,Kevin,Tolkien,1
+76,Cartman,Tolkien,9
+77,Clyde,Tolkien,10
+78,Stan,Tolkien,9
+79,Clyde,Tweek,8
+80,Clyde,Kindergartner,4
+81,Clyde,Other boys,4
+82,Kyle,Tolkien,6
+83,Tolkien,Tweek,4
+84,Kindergartner,Tolkien,2
+85,Other boys,Tolkien,2
+86,Stan,Tweek,8
+87,Kindergartner,Stan,6
+88,Other boys,Stan,4
+89,Cartman,Tweek,8
+90,Cartman,Kindergartner,13
+91,Cartman,Other boys,4
+92,Jimmy,Kyle,18
+93,Kyle,Tweek,6
+94,Craig,Kyle,16
+95,Kindergartner,Kyle,8
+96,Kyle,Other boys,3
+97,Jimmy,Tweek,4
+98,Jimmy,Kindergartner,5
+99,Jimmy,Other boys,2
+100,Craig,Tweek,8
+101,Kindergartner,Tweek,2
+102,Other boys,Tweek,2
+103,Craig,Kindergartner,6
+104,Craig,Other boys,4
+105,Kindergartner,Other boys,1
+106,Gerald,Linda Black,2
+107,Gerald,Steve,7
+108,Linda Black,Randy,2
+109,Linda Black,Steve,2
+110,Randy,Steve,4
+111,Steve,Tolkien,3
+112,Sheila,Steve,3
+113,Randy,Tolkien,1
+114,Gerald,Tolkien,2
+115,Sheila,Tolkien,1
+116,Butters,Kindergartner,1
+117,Butters,Jimmy,3
+118,Craig,Sixth grader leader,4
+119,Kindergartner,Sixth grader leader,2
+120,Gerald,Jimmy,8
+121,Adults,Gerald,2
+122,Jimmy,Sharon,4
+123,Adults,Sharon,1
+124,Jimmy,Randy,16
+125,Adults,Randy,4
+126,Jimmy,Stephen,12
+127,Adults,Jimmy,4
+128,Jimmy,Sheila,4
+129,Adults,Stephen,3
+130,Adults,Sheila,1
+131,Butters,Sixth grader leader,25
+132,Randy,Sixth grader leader,5
+133,Sheila,Sixth grader leader,4
+134,Sharon,Sixth grader leader,1
+135,Gerald,Sixth grader leader,2
+136,Sixth grader leader,Stephen,1
+137,Cartman,Sheila,4
+138,Cartman,Gerald,2
+139,Sheila,Stan,8
+140,Gerald,Stan,4

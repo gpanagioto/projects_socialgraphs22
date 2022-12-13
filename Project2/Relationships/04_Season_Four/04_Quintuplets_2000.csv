@@ -1,0 +1,166 @@
+,source,target,weight
+0,Sharon,Sheila,4
+1,Liane,Sheila,1
+2,Sheila,Stan,1
+3,Kyle,Sheila,1
+4,Grandpa,Sheila,3
+5,Liane,Sharon,5
+6,Sharon,Stan,27
+7,Kyle,Sharon,21
+8,Grandpa,Sharon,20
+9,Liane,Stan,3
+10,Kyle,Liane,2
+11,Grandpa,Liane,3
+12,Kyle,Stan,52
+13,Grandpa,Stan,10
+14,Grandpa,Kyle,4
+15,Cartman,Sharon,19
+16,Randy,Sharon,27
+17,Announcer,Sharon,1
+18,Cartman,Stan,61
+19,Randy,Stan,28
+20,Announcer,Stan,2
+21,Cartman,Randy,18
+22,Announcer,Cartman,3
+23,Cartman,Liane,3
+24,Cartman,Kyle,45
+25,Announcer,Randy,1
+26,Liane,Randy,1
+27,Kyle,Randy,17
+28,Announcer,Liane,1
+29,Announcer,Kyle,1
+30,Cartman,Kenny,10
+31,Kenny,Kyle,12
+32,Kenny,Stan,10
+33,Clown,Sharon,1
+34,Kenny,Sharon,1
+35,Clown,Kyle,4
+36,Cartman,Clown,3
+37,Clown,Stan,2
+38,Clown,Kenny,1
+39,A Quint,Grandmama,3
+40,A Quint,Romanian official,4
+41,A Quint,Attendant,2
+42,Grandmama,Romanian official,14
+43,Attendant,Grandmama,6
+44,Attendant,Romanian official,8
+45,Native paddler in vest,Romanian official,2
+46,Grandpa,Kenny,38
+47,Cartman,Grandpa,1
+48,Grandmama,Top girl,2
+49,Romanian official,Top girl,1
+50,Grandmama,Grandpa,30
+51,Grandpa,Randy,32
+52,Grandmama,Stan,4
+53,Grandmama,Randy,12
+54,Grandmama,Sharon,8
+55,Kenny,Narrator,9
+56,Grandmama,Kenny,18
+57,Cartman,Nadia,3
+58,All five quints in unison,Cartman,3
+59,A Quint,Cartman,3
+60,Cartman,The boys,6
+61,Nadia,Stan,4
+62,All five quints in unison,Stan,4
+63,A Quint,Stan,4
+64,Stan,The boys,7
+65,Kyle,Nadia,4
+66,All five quints in unison,Kyle,4
+67,A Quint,Kyle,4
+68,Kyle,The boys,6
+69,All five quints in unison,Nadia,1
+70,A Quint,Nadia,1
+71,Kenny,Nadia,1
+72,Nadia,The boys,1
+73,A Quint,All five quints in unison,1
+74,All five quints in unison,Kenny,1
+75,All five quints in unison,The boys,1
+76,A Quint,Kenny,1
+77,A Quint,The boys,1
+78,Kenny,The boys,1
+79,Sharon,The boys,3
+80,Randy,The boys,3
+81,A Quint,Reporter,1
+82,President,Romanian official,2
+83,Kenny,Mrs. McCormick,15
+84,Instructor,Kenny,15
+85,Instructor,Mrs. McCormick,9
+86,Anchor Tom,Randy,3
+87,Randy,Voice,6
+88,Anchor Tom,Stan,3
+89,Anchor Tom,Voice,2
+90,Anchor Tom,Kyle,2
+91,Anchor Tom,Sharon,2
+92,Anchor Tom,Cartman,2
+93,Stan,Voice,6
+94,Kyle,Voice,4
+95,Sharon,Voice,4
+96,Cartman,Voice,4
+97,Janet Reno,Mr. Vladchick,8
+98,Janet Reno,Romanian official,12
+99,All three men,Janet Reno,4
+100,Mr. Vladchick,Romanian official,6
+101,All three men,Mr. Vladchick,2
+102,All three men,Romanian official,3
+103,A Protester,Stephen Stotch,2
+104,Protesters,Stephen Stotch,4
+105,Sharon,Stephen Stotch,2
+106,Randy,Stephen Stotch,2
+107,Protester,Stephen Stotch,2
+108,Collins,Stephen Stotch,2
+109,A Protester,Protesters,2
+110,A Protester,Sharon,1
+111,A Protester,Randy,1
+112,A Protester,Protester,1
+113,A Protester,Collins,1
+114,Protesters,Sharon,2
+115,Protesters,Randy,2
+116,Protester,Protesters,2
+117,Collins,Protesters,2
+118,Protester,Sharon,2
+119,Collins,Sharon,1
+120,Protester,Randy,2
+121,Collins,Randy,1
+122,Collins,Protester,1
+123,A quint,Kyle,2
+124,A quint,Randy,2
+125,A quint,Sharon,1
+126,A quint,Stan,2
+127,Janet Reno,Soldier,16
+128,Carol,Kenny,6
+129,Kenny,Music instructor,4
+130,Assistant,Kenny,2
+131,Carol,Music instructor,6
+132,Assistant,Carol,2
+133,Assistant,Music instructor,1
+134,Phillip,Terrance,1
+135,Phillip,Randy,1
+136,Lead soldier,Phillip,1
+137,Janet Reno,Phillip,2
+138,Grandpa,Phillip,3
+139,Phillip,Protester,1
+140,Phillip,Stan,1
+141,Randy,Terrance,1
+142,Lead soldier,Terrance,1
+143,Janet Reno,Terrance,2
+144,Grandpa,Terrance,3
+145,Protester,Terrance,1
+146,Stan,Terrance,1
+147,Lead soldier,Randy,1
+148,Janet Reno,Randy,2
+149,Janet Reno,Lead soldier,2
+150,Grandpa,Lead soldier,3
+151,Lead soldier,Protester,1
+152,Lead soldier,Stan,1
+153,Grandpa,Janet Reno,6
+154,Janet Reno,Protester,4
+155,Janet Reno,Stan,5
+156,Grandpa,Protester,3
+157,Protester,Stan,1
+158,Soldier,Stan,2
+159,Janet Reno,Sharon,2
+160,Janet Reno,Nadia,2
+161,Nadia,Protester,1
+162,Nadia,Sharon,1
+163,Cartman,Janet Reno,4
+164,Janet Reno,Kyle,1

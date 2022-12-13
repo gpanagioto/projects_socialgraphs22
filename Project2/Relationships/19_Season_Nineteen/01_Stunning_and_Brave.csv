@@ -1,0 +1,88 @@
+,source,target,weight
+0,Cartman,Various adults,1
+1,Mr. Mackey,Various adults,3
+2,PC Principal,Various adults,7
+3,Mr. Garrison,Various adults,1
+4,Butters,Various adults,2
+5,Tuong Lu Kim,Various adults,1
+6,Cartman,Mr. Mackey,3
+7,Cartman,PC Principal,79
+8,Cartman,Mr. Garrison,1
+9,Butters,Cartman,73
+10,Cartman,Tuong Lu Kim,1
+11,Mr. Mackey,PC Principal,21
+12,Mr. Garrison,Mr. Mackey,3
+13,Butters,Mr. Mackey,8
+14,Mr. Mackey,Tuong Lu Kim,3
+15,Mr. Garrison,PC Principal,7
+16,Butters,PC Principal,14
+17,PC Principal,Tuong Lu Kim,7
+18,Butters,Mr. Garrison,2
+19,Mr. Garrison,Tuong Lu Kim,1
+20,Butters,Tuong Lu Kim,2
+21,Butters,Kyle,27
+22,Kenny,Kyle,2
+23,Kyle,Mr. Mackey,2
+24,Butters,Kenny,2
+25,Kenny,Mr. Mackey,1
+26,Gerald,PC Principal,42
+27,Gerald,Stuart,9
+28,Stephen,Stuart,9
+29,Ryan,Stuart,9
+30,Randy,Stuart,3
+31,PC Principal,Stuart,12
+32,Gerald,Stephen,9
+33,Gerald,Ryan,9
+34,Gerald,Randy,3
+35,Ryan,Stephen,9
+36,Randy,Stephen,4
+37,PC Principal,Stephen,12
+38,Randy,Ryan,3
+39,PC Principal,Ryan,12
+40,PC Principal,Randy,18
+41,Friend,Janitor,1
+42,Cartman,Stan,36
+43,Cartman,Kyle,95
+44,Boys,Cartman,27
+45,Kyle,Stan,31
+46,Butters,Stan,11
+47,Boys,Stan,9
+48,Boys,Kyle,9
+49,Boys,Butters,9
+50,PC bros,Randy,14
+51,PC Principal,PC bros,8
+52,Randy,Sharon,6
+53,PC Principal,Pledges,4
+54,Pledges,Randy,2
+55,Pledges,Topher,1
+56,PC Principal,Topher,4
+57,Randy,Topher,2
+58,Randy,Stan,10
+59,A passing bro,Stan,5
+60,Kyle,Randy,7
+61,A passing bro,Kyle,3
+62,A passing bro,Randy,2
+63,Cartman,PC bros,10
+64,PC bros,Pregnant Mexican Women,2
+65,PC bros,Stephen,2
+66,A PC Bro,PC bros,2
+67,Kyle,PC bros,2
+68,PC bros,Townsman,2
+69,Cartman,Randy,5
+70,Pregnant Mexican Women,Randy,1
+71,A PC Bro,Randy,1
+72,Randy,Townsman,1
+73,Cartman,Pregnant Mexican Women,5
+74,Cartman,Stephen,5
+75,A PC Bro,Cartman,5
+76,Cartman,Townsman,5
+77,Pregnant Mexican Women,Stephen,1
+78,A PC Bro,Pregnant Mexican Women,1
+79,Kyle,Pregnant Mexican Women,1
+80,Pregnant Mexican Women,Townsman,1
+81,A PC Bro,Stephen,1
+82,Kyle,Stephen,1
+83,Stephen,Townsman,1
+84,A PC Bro,Kyle,1
+85,A PC Bro,Townsman,1
+86,Kyle,Townsman,1

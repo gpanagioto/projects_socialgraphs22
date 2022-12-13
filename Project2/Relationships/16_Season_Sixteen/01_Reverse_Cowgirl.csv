@@ -1,0 +1,125 @@
+,source,target,weight
+0,Betsy,Clyde,40
+1,Cartman,Clyde,7
+2,Clyde,Kyle,7
+3,Betsy,Cartman,8
+4,Betsy,Kyle,8
+5,Cartman,Kyle,11
+6,Cartmam,Kyle,1
+7,Butters,Kyle,2
+8,Kyle,Roger,1
+9,Butters,Cartmam,2
+10,Betsy,Cartmam,6
+11,Cartmam,Clyde,4
+12,Cartmam,Roger,1
+13,Betsy,Butters,16
+14,Butters,Clyde,9
+15,Butters,Roger,2
+16,Betsy,Roger,10
+17,Clyde,Roger,10
+18,Kyle,Stan,23
+19,Paramedic,Roger,2
+20,Clyde,Paramedic,3
+21,Betsy,Paramedic,2
+22,Linda,Women,1
+23,Linda,Man With Grey Hair,1
+24,Linda,Woman With Brown Hair,1
+25,Man With Grey Hair,Women,1
+26,Woman With Brown Hair,Women,1
+27,Man With Grey Hair,Woman With Brown Hair,1
+28,Phillip,Ugly Bob,4
+29,Cartman,Phillip,6
+30,Phillip,Terrance,2
+31,Liane,Phillip,6
+32,Cartman,Ugly Bob,6
+33,Terrance,Ugly Bob,2
+34,Liane,Ugly Bob,6
+35,Cartman,Terrance,3
+36,Cartman,Liane,13
+37,Liane,Terrance,3
+38,Attorney,Stan,44
+39,Attorney,Kyle,43
+40,Attorney,Jimmy,28
+41,Jimmy,Stan,10
+42,Jimmy,Kyle,11
+43,Officer,Randy,25
+44,Cartman,R. Wiley,12
+45,Gerald,R. Wiley,24
+46,Cartman,Gerald,8
+47,Spirit,Stan,1
+48,Burns,Stan,4
+49,Clyde,Stan,1
+50,Attorney,Spirit,15
+51,Attorney,Burns,36
+52,Attorney,Clyde,12
+53,Jimmy,Spirit,1
+54,Burns,Jimmy,4
+55,Clyde,Jimmy,1
+56,Burns,Spirit,4
+57,Clyde,Spirit,3
+58,Burns,Clyde,4
+59,R. Booth,Rand,1
+60,R. Booth,R. West,3
+61,R. Booth,R. Wiley,4
+62,R. Booth,Randy,4
+63,R. West,Rand,3
+64,R. Wiley,Rand,4
+65,Rand,Randy,4
+66,R. West,R. Wiley,12
+67,R. West,Randy,12
+68,R. Wiley,Randy,16
+69,Cartman,People,7
+70,Mr. Garrison,People,1
+71,Jimbo,People,1
+72,People,Sheila,1
+73,People,Stephen,1
+74,People,Randy,6
+75,Cartman,Mr. Garrison,4
+76,Cartman,Jimbo,3
+77,Cartman,Sheila,3
+78,Cartman,Stephen,3
+79,Cartman,Randy,24
+80,Jimbo,Mr. Garrison,1
+81,Mr. Garrison,Sheila,1
+82,Mr. Garrison,Stephen,1
+83,Mr. Garrison,Randy,4
+84,Jimbo,Sheila,1
+85,Jimbo,Stephen,1
+86,Jimbo,Randy,2
+87,Sheila,Stephen,1
+88,Randy,Sheila,2
+89,Randy,Stephen,2
+90,Betsy,Spirit,8
+91,Cartman,Spirit,2
+92,P. Sanchez,Spirit,2
+93,Mr. Garrison,Spirit,2
+94,Sir Harrington,Spirit,6
+95,Butters,Spirit,2
+96,Randy,Spirit,4
+97,Attorney,Betsy,12
+98,Attorney,Cartman,3
+99,Attorney,P. Sanchez,3
+100,Attorney,Mr. Garrison,3
+101,Attorney,Sir Harrington,9
+102,Attorney,Butters,3
+103,Attorney,Randy,6
+104,Betsy,P. Sanchez,4
+105,Betsy,Mr. Garrison,4
+106,Betsy,Sir Harrington,12
+107,Betsy,Randy,8
+108,Clyde,P. Sanchez,1
+109,Clyde,Mr. Garrison,1
+110,Clyde,Sir Harrington,3
+111,Clyde,Randy,2
+112,Cartman,P. Sanchez,1
+113,Cartman,Sir Harrington,3
+114,Butters,Cartman,1
+115,Mr. Garrison,P. Sanchez,1
+116,P. Sanchez,Sir Harrington,3
+117,Butters,P. Sanchez,1
+118,P. Sanchez,Randy,2
+119,Mr. Garrison,Sir Harrington,3
+120,Butters,Mr. Garrison,1
+121,Butters,Sir Harrington,3
+122,Randy,Sir Harrington,6
+123,Butters,Randy,2

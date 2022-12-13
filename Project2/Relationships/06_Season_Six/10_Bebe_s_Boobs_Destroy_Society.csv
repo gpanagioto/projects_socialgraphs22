@@ -1,0 +1,175 @@
+,source,target,weight
+0,Liane,Stan,2
+1,Kyle,Stan,97
+2,Stan,Tweek,8
+3,Kyle,Liane,2
+4,Liane,Tweek,2
+5,Kyle,Tweek,7
+6,Cartman,Polly Prissy Pants,54
+7,Polly Prissy Pants,Precious,3
+8,Liane,Polly Prissy Pants,12
+9,Cartman,Precious,8
+10,Cartman,Liane,32
+11,Liane,Precious,4
+12,Bebe,Wendy,31
+13,Bebe,Mr. Mackey,36
+14,Bebe,Cartman,100
+15,Bebe,Kyle,58
+16,Bebe,Stan,66
+17,Bebe,Clyde,44
+18,Bebe,Tolkien,14
+19,Bebe,Butters,24
+20,Bebe,Craig,20
+21,All the boys,Bebe,8
+22,Mr. Mackey,Wendy,18
+23,Cartman,Wendy,13
+24,Kyle,Wendy,15
+25,Stan,Wendy,15
+26,Clyde,Wendy,32
+27,Tolkien,Wendy,8
+28,Butters,Wendy,17
+29,Craig,Wendy,15
+30,All the boys,Wendy,4
+31,Cartman,Mr. Mackey,24
+32,Kyle,Mr. Mackey,9
+33,Mr. Mackey,Stan,24
+34,Clyde,Mr. Mackey,30
+35,Mr. Mackey,Tolkien,9
+36,Butters,Mr. Mackey,9
+37,Craig,Mr. Mackey,12
+38,All the boys,Mr. Mackey,6
+39,Cartman,Kyle,102
+40,Cartman,Stan,103
+41,Cartman,Clyde,22
+42,Cartman,Tolkien,8
+43,Butters,Cartman,19
+44,Cartman,Craig,11
+45,All the boys,Cartman,8
+46,Clyde,Kyle,41
+47,Kyle,Tolkien,13
+48,Butters,Kyle,22
+49,Craig,Kyle,13
+50,All the boys,Kyle,6
+51,Clyde,Stan,38
+52,Stan,Tolkien,13
+53,Butters,Stan,17
+54,Craig,Stan,13
+55,All the boys,Stan,4
+56,Clyde,Tolkien,16
+57,Butters,Clyde,32
+58,Clyde,Craig,24
+59,All the boys,Clyde,4
+60,Butters,Tolkien,9
+61,Craig,Tolkien,7
+62,All the boys,Tolkien,2
+63,Butters,Craig,17
+64,All the boys,Butters,2
+65,All the boys,Craig,4
+66,Stan,The boys,20
+67,Bebe,The boys,23
+68,Butters,The boys,8
+69,Kyle,The boys,18
+70,Cartman,The boys,9
+71,Clyde,The boys,23
+72,The boys,Tolkien,6
+73,The boys,Wendy,13
+74,Bebe,Driver,6
+75,Clyde,Driver,8
+76,Driver,Tolkien,2
+77,Driver,The boys,4
+78,Butters,Driver,4
+79,Driver,Kyle,14
+80,Driver,Stan,6
+81,Craig,Driver,2
+82,Cartman,Driver,2
+83,Driver,Jimbo,2
+84,Bebe,Jimbo,3
+85,Clyde,Jimbo,4
+86,Jimbo,Tolkien,1
+87,Craig,The boys,5
+88,Jimbo,The boys,2
+89,Butters,Jimbo,2
+90,Jimbo,Kyle,7
+91,Jimbo,Stan,3
+92,Craig,Jimbo,1
+93,Cartman,Jimbo,1
+94,Mr. Mackey,The boys,18
+95,Clyde,Millie,6
+96,Clyde,Esther,3
+97,Clyde,Red,2
+98,Clyde,Girls,1
+99,Millie,Wendy,36
+100,Esther,Wendy,18
+101,Red,Wendy,12
+102,Girls,Wendy,6
+103,Kyle,Millie,6
+104,Esther,Kyle,3
+105,Kyle,Red,2
+106,Girls,Kyle,1
+107,Millie,The boys,6
+108,Esther,The boys,3
+109,Red,The boys,2
+110,Girls,The boys,1
+111,Esther,Millie,18
+112,Millie,Red,12
+113,Bebe,Millie,12
+114,Girls,Millie,6
+115,Esther,Red,6
+116,Bebe,Esther,6
+117,Esther,Girls,3
+118,Bebe,Red,4
+119,Girls,Red,2
+120,Bebe,Girls,2
+121,Bebe,Mrs. Stevens,38
+122,Cartman,Tweek,10
+123,Clyde,The Other Boys,4
+124,The Other Boys,Wendy,3
+125,Craig,The Other Boys,3
+126,The Other Boys,Tolkien,1
+127,Butters,The Other Boys,4
+128,Bradley,Stan,10
+129,Francis,Stan,11
+130,Kevin,Stan,10
+131,Stan,Timmy,5
+132,Mrs. Stevens,Stan,27
+133,Bradley,Francis,4
+134,Bradley,Kevin,4
+135,Bradley,Kyle,4
+136,Bradley,Timmy,2
+137,Bradley,Mrs. Stevens,6
+138,Francis,Kevin,4
+139,Francis,Kyle,6
+140,Francis,Timmy,2
+141,Francis,Mrs. Stevens,6
+142,Kevin,Kyle,4
+143,Kevin,Timmy,2
+144,Kevin,Mrs. Stevens,6
+145,Kyle,Timmy,2
+146,Kyle,Mrs. Stevens,6
+147,Mrs. Stevens,Timmy,3
+148,Bebe,Polly Prissy Pants,21
+149,Bebe,Francis,7
+150,Cartman,Francis,10
+151,Kyle,Polly Prissy Pants,6
+152,Butters,Polly Prissy Pants,3
+153,Francis,Polly Prissy Pants,3
+154,Polly Prissy Pants,Stan,3
+155,Butters,Francis,1
+156,Craig,Mrs. Stevens,4
+157,Bebe,Dr. Hallis,90
+158,Bebe,Blonde nurse,9
+159,Bebe,Brunette nurse,9
+160,Blonde nurse,Dr. Hallis,10
+161,Brunette nurse,Dr. Hallis,10
+162,Blonde nurse,Brunette nurse,1
+163,Randy,Sharon,32
+164,Randy,Stan,56
+165,Sharon,Stan,28
+166,Left breast,Right breast,9
+167,Bebe,Left breast,12
+168,Left breast,Mrs. Stevens,9
+169,Bebe,Right breast,12
+170,Mrs. Stevens,Right breast,9
+171,Mrs. Testaburger,Wendy,12
+172,Dr. Hallis,Wendy,18
+173,Dr. Hallis,Mrs. Testaburger,24

@@ -1,0 +1,101 @@
+,source,target,weight
+0,Cartman,Liane,4
+1,Cartman,Kenny,3
+2,Kenny,Tall goth,1
+3,Kenny,Sixth grader,1
+4,Cartman,Tall goth,3
+5,Cartman,Sixth grader,3
+6,Sixth grader,Tall goth,1
+7,Cartman,Stan,44
+8,Kyle,Stan,48
+9,Game voice,Stan,2
+10,Cartman,Kyle,58
+11,Cartman,Game voice,2
+12,Game voice,Kyle,2
+13,Carol,Kenny,4
+14,Kenny,Stuart,2
+15,Carol,Stuart,12
+16,Carol,Game voice,1
+17,Carol,Driver,1
+18,Game voice,Kenny,1
+19,Driver,Game voice,1
+20,Driver,Kenny,1
+21,Kenny,Peter,12
+22,Michael,Peter,1
+23,Hooded figure,Satan,24
+24,Kenny,Michael,3
+25,Angels,Kenny,1
+26,Gabriel,Kenny,1
+27,Angels,Michael,3
+28,Gabriel,Michael,11
+29,Angels,Gabriel,1
+30,Doctor,Male nurse,2
+31,Doctor,Stuart,10
+32,Carol,Doctor,11
+33,Lawyer,Stan,24
+34,Kyle,Lawyer,18
+35,Cartman,Lawyer,24
+36,Satan,Spy angel,4
+37,Doctor,Kyle,10
+38,Carol,Kyle,12
+39,Kyle,Stuart,6
+40,Doctor,Stan,2
+41,Carol,Stan,4
+42,Stan,Stuart,2
+43,Cartman,Doctor,10
+44,Carol,Cartman,16
+45,Cartman,Stuart,8
+46,Gabriel,Uriel,12
+47,Michael,Uriel,4
+48,Cartman,Chief Justice,4
+49,Chief Justice,Doctor,6
+50,Doctor,Police officer,3
+51,Chief Justice,Stuart,2
+52,Police officer,Stuart,1
+53,Carol,Chief Justice,4
+54,Carol,Police officer,2
+55,Cartman,Police officer,1
+56,Chief Justice,Kyle,4
+57,Kyle,Police officer,2
+58,Chief Justice,Police officer,2
+59,Kyle,Uriel,12
+60,Stan,Uriel,10
+61,Gabriel,Kyle,12
+62,Gabriel,Stan,10
+63,Skeeter,Stan,1
+64,Anchor,Stan,2
+65,Mrs. Garrison,Stan,1
+66,Skeeter,Uriel,1
+67,Anchor,Uriel,2
+68,Mrs. Garrison,Uriel,1
+69,Cartman,Uriel,1
+70,Gabriel,Skeeter,1
+71,Anchor,Skeeter,2
+72,Mrs. Garrison,Skeeter,1
+73,Cartman,Skeeter,1
+74,Anchor,Gabriel,2
+75,Gabriel,Mrs. Garrison,1
+76,Cartman,Gabriel,1
+77,Anchor,Mrs. Garrison,2
+78,Anchor,Cartman,2
+79,Cartman,Mrs. Garrison,1
+80,George Bush,Hooded figure,16
+81,Cartman,Cartman's Side,6
+82,Cartman,Kyle's Side,3
+83,Cartman,Judge,9
+84,Both sides,Cartman,3
+85,Cartman's Side,Kyle,8
+86,Kyle,Kyle's Side,4
+87,Judge,Kyle,12
+88,Both sides,Kyle,4
+89,Cartman's Side,Kyle's Side,2
+90,Cartman's Side,Judge,6
+91,Cartman's Side,Stan,6
+92,Both sides,Cartman's Side,2
+93,Judge,Kyle's Side,3
+94,Kyle's Side,Stan,3
+95,Both sides,Kyle's Side,1
+96,Judge,Stan,9
+97,Both sides,Judge,3
+98,Both sides,Stan,3
+99,Hooded figure,Spy angel,1

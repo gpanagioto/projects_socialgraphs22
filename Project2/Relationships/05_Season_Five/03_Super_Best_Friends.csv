@@ -1,0 +1,166 @@
+,source,target,weight
+0,Butters,Stan,18
+1,Blaine,Stan,51
+2,Carol,Stan,6
+3,Crowd,Stan,6
+4,Kyle,Stan,160
+5,Cartman,Stan,34
+6,Jimbo,Stan,18
+7,Blaintologist,Stan,9
+8,Blaine,Butters,9
+9,Butters,Carol,2
+10,Butters,Crowd,2
+11,Butters,Kyle,13
+12,Butters,Cartman,10
+13,Butters,Jimbo,6
+14,Blaintologist,Butters,1
+15,Blaine,Carol,18
+16,Blaine,Crowd,30
+17,Blaine,Kyle,69
+18,Blaine,Cartman,45
+19,Blaine,Jimbo,54
+20,Blaine,Blaintologist,13
+21,Carol,Crowd,4
+22,Carol,Kyle,10
+23,Carol,Cartman,6
+24,Carol,Jimbo,12
+25,Blaintologist,Carol,2
+26,Crowd,Kyle,13
+27,Cartman,Crowd,12
+28,Crowd,Jimbo,12
+29,Blaintologist,Crowd,2
+30,Cartman,Kyle,96
+31,Jimbo,Kyle,30
+32,Blaintologist,Kyle,9
+33,Cartman,Jimbo,18
+34,Blaintologist,Cartman,4
+35,Blaintologist,Jimbo,6
+36,Stan,Steven,25
+37,Cartman,Steven,26
+38,Butters,Steven,15
+39,Kyle,Steven,26
+40,Ike,Kyle,3
+41,Ike,Sheila,3
+42,Kyle,Sheila,9
+43,Barber,Butters,1
+44,Recruits,Steven,1
+45,Recruits,Stan,11
+46,Butters,Recruits,1
+47,Kyle,Recruits,4
+48,Cartman,Recruits,1
+49,Aide,Recruits,6
+50,Aide,Steven,6
+51,Aide,Stan,66
+52,Aide,Butters,6
+53,Aide,Kyle,24
+54,Aide,Cartman,6
+55,Cartman,Elderly woman,67
+56,Elderly woman,Kyle,25
+57,Cartman,Driver,2
+58,Driver,Kyle,1
+59,Driver,Stan,1
+60,Jesus,Stan,85
+61,Announcer,Blaine,8
+62,Announcer,Kyle,2
+63,Announcer,Jesus,8
+64,Announcer,Cartman,4
+65,Announcer,Crowd,6
+66,Announcer,Elderly woman,2
+67,Blaine,Jesus,36
+68,Blaine,Elderly woman,4
+69,Jesus,Kyle,26
+70,Cartman,Jesus,15
+71,Crowd,Jesus,12
+72,Elderly woman,Jesus,4
+73,Crowd,Elderly woman,3
+74,Buddha,Stan,20
+75,Buddha,Jesus,15
+76,Member,Steven,8
+77,Kyle,Member,4
+78,Cartman,Member,2
+79,Loa Tse,Mohammad,3
+80,Jesus,Mohammad,18
+81,Mohammad,Stan,14
+82,Joseph Smith,Mohammad,10
+83,Mohammad,Seaman,12
+84,Buddha,Mohammad,8
+85,Jesus,Loa Tse,1
+86,Loa Tse,Stan,2
+87,Joseph Smith,Loa Tse,1
+88,Loa Tse,Seaman,3
+89,Buddha,Loa Tse,2
+90,Jesus,Joseph Smith,24
+91,Jesus,Seaman,12
+92,Joseph Smith,Stan,28
+93,Seaman,Stan,12
+94,Joseph Smith,Seaman,6
+95,Buddha,Joseph Smith,8
+96,Buddha,Seaman,8
+97,Joseph Smith,Moses,8
+98,Joseph Smith,Lao Tse,11
+99,Joseph Smith,Krishna,7
+100,Moses,Stan,4
+101,Lao Tse,Stan,10
+102,Krishna,Stan,8
+103,Jesus,Moses,12
+104,Jesus,Lao Tse,9
+105,Jesus,Krishna,12
+106,Mohammad,Moses,6
+107,Lao Tse,Mohammad,3
+108,Krishna,Mohammad,4
+109,Lao Tse,Moses,4
+110,Krishna,Moses,4
+111,Krishna,Lao Tse,3
+112,Blaine,Steven,1
+113,George Bush,Karl Rove,1
+114,Karl Rove,Larry,1
+115,George Bush,Larry,1
+116,Blaintologist,Jesus,5
+117,Jesus,Lincoln,5
+118,Blaine,Buddha,8
+119,Blaine,Mohammad,4
+120,Blaine,Joseph Smith,12
+121,Blaine,Krishna,4
+122,Blaine,Lao Tse,4
+123,Blaine,Seaman,4
+124,Blaine,Lincoln,4
+125,Buddha,Krishna,2
+126,Buddha,Lao Tse,2
+127,Blaintologist,Buddha,2
+128,Buddha,Kyle,8
+129,Buddha,Lincoln,2
+130,Buddha,Cartman,2
+131,Blaintologist,Mohammad,1
+132,Kyle,Mohammad,4
+133,Lincoln,Mohammad,1
+134,Cartman,Mohammad,1
+135,Blaintologist,Joseph Smith,3
+136,Joseph Smith,Kyle,12
+137,Joseph Smith,Lincoln,3
+138,Cartman,Joseph Smith,3
+139,Krishna,Seaman,2
+140,Blaintologist,Krishna,1
+141,Krishna,Kyle,4
+142,Krishna,Lincoln,1
+143,Cartman,Krishna,1
+144,Lao Tse,Seaman,1
+145,Blaintologist,Lao Tse,1
+146,Kyle,Lao Tse,4
+147,Lao Tse,Lincoln,1
+148,Cartman,Lao Tse,1
+149,Blaintologist,Seaman,1
+150,Kyle,Seaman,4
+151,Lincoln,Seaman,1
+152,Cartman,Seaman,1
+153,Lincoln,Stan,6
+154,Blaintologist,Lincoln,1
+155,Kyle,Lincoln,4
+156,Cartman,Lincoln,1
+157,Jesus,Narrator,14
+158,Moses,Narrator,6
+159,Moses,Seaman,2
+160,Mohammad,Narrator,6
+161,Krishna,Narrator,3
+162,Narrator,Seaman,3
+163,Kyle,Narrator,1
+164,Cartman,Narrator,1

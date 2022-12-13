@@ -1,0 +1,176 @@
+,source,target,weight
+0,Gerald,Sheila,30
+1,Ike,Kyle,4
+2,Kyle,Stan,40
+3,Cartman,Stan,34
+4,Randy,Stan,6
+5,Cartman,Kyle,76
+6,Kyle,Randy,18
+7,Cartman,Randy,8
+8,Jimbo,Stuart,4
+9,Jimbo,Stephen,8
+10,Jimbo,Randy,9
+11,Jimbo,Mechanic,7
+12,Stephen,Stuart,4
+13,Randy,Stuart,5
+14,Mechanic,Stuart,3
+15,Randy,Stephen,13
+16,Mechanic,Stephen,7
+17,Mechanic,Randy,7
+18,Cartman,Liane,10
+19,Cartman,Security agent,15
+20,Liane,Security agent,6
+21,Randy,UPS man,69
+22,Randy,Sharon,27
+23,Sharon,UPS man,15
+24,Cartman,Jeff,42
+25,Cartman,Michael,20
+26,Stephen,UPS man,12
+27,Stuart,UPS man,1
+28,Cartman,UPS man,26
+29,UPS man,Varashnu,3
+30,Kevin,UPS man,4
+31,Cartman,Varashnu,24
+32,Cartman,Kevin,32
+33,Kevin,Varashnu,12
+34,Gerald,Mr. Mackey,2
+35,Mr. Mackey,Randy,3
+36,Mr. Mackey,Sgt. Yates,1
+37,Mr. Mackey,Security agent,1
+38,Mr. Mackey,Spokesman,1
+39,Husband,Mr. Mackey,3
+40,Mr. Mackey,Stranger,2
+41,Mr. Mackey,Wife,1
+42,Mr. Mackey,Peter,2
+43,Gerald,Randy,14
+44,Gerald,Sgt. Yates,6
+45,Gerald,Security agent,2
+46,Gerald,Spokesman,2
+47,Gerald,Husband,6
+48,Gerald,Stranger,4
+49,Gerald,Wife,2
+50,Gerald,Peter,4
+51,Randy,Sgt. Yates,5
+52,Randy,Security agent,3
+53,Randy,Spokesman,3
+54,Husband,Randy,9
+55,Randy,Stranger,6
+56,Randy,Wife,3
+57,Peter,Randy,6
+58,Security agent,Sgt. Yates,1
+59,Sgt. Yates,Spokesman,1
+60,Husband,Sgt. Yates,3
+61,Sgt. Yates,Stranger,2
+62,Sgt. Yates,Wife,1
+63,Peter,Sgt. Yates,2
+64,Security agent,Spokesman,1
+65,Husband,Security agent,3
+66,Security agent,Stranger,2
+67,Security agent,Wife,1
+68,Peter,Security agent,2
+69,Husband,Spokesman,3
+70,Spokesman,Stranger,2
+71,Spokesman,Wife,1
+72,Peter,Spokesman,2
+73,Husband,Stranger,6
+74,Husband,Wife,3
+75,Husband,Peter,6
+76,Stranger,Wife,2
+77,Peter,Stranger,4
+78,Peter,Wife,2
+79,Boy,Shoe Salesman,2
+80,Boy,Mom,4
+81,Boy,David,4
+82,Boy,Spokesman,2
+83,Mom,Shoe Salesman,2
+84,David,Shoe Salesman,2
+85,Shoe Salesman,Spokesman,1
+86,David,Mom,4
+87,Mom,Spokesman,2
+88,David,Spokesman,2
+89,Marcus,Stan,6
+90,Kyle,Marcus,24
+91,Cartman,Marcus,60
+92,Randy,Steve Black,3
+93,Alvin,Randy,3
+94,Stephen,Steve Black,1
+95,Alvin,Stephen,1
+96,Alvin,Steve Black,1
+97,Kyle,Sheila,12
+98,Sheila,UPS man,18
+99,Brian,Sheila,6
+100,Cartman,Sheila,4
+101,Jimbo,Sheila,2
+102,Martin,Sheila,4
+103,Randy,Sheila,4
+104,Mike,Sheila,2
+105,Sgt. Yates,Sheila,2
+106,Sheila,Stephen,2
+107,Officer,Sheila,2
+108,Sheila,The men,2
+109,Kyle,UPS man,54
+110,Brian,Kyle,18
+111,Gerald,Kyle,24
+112,Jimbo,Kyle,6
+113,Kyle,Martin,12
+114,Kyle,Mike,6
+115,Kyle,Sgt. Yates,6
+116,Kyle,Stephen,6
+117,Kyle,Officer,6
+118,Kyle,The men,6
+119,Brian,UPS man,27
+120,Gerald,UPS man,36
+121,Jimbo,UPS man,9
+122,Martin,UPS man,18
+123,Mike,UPS man,9
+124,Sgt. Yates,UPS man,9
+125,Officer,UPS man,9
+126,The men,UPS man,9
+127,Brian,Cartman,6
+128,Brian,Gerald,12
+129,Brian,Jimbo,3
+130,Brian,Martin,6
+131,Brian,Randy,6
+132,Brian,Mike,3
+133,Brian,Sgt. Yates,3
+134,Brian,Stephen,3
+135,Brian,Officer,3
+136,Brian,The men,3
+137,Cartman,Gerald,8
+138,Cartman,Jimbo,2
+139,Cartman,Martin,4
+140,Cartman,Mike,2
+141,Cartman,Sgt. Yates,2
+142,Cartman,Stephen,2
+143,Cartman,Officer,2
+144,Cartman,The men,2
+145,Gerald,Jimbo,4
+146,Gerald,Martin,8
+147,Gerald,Mike,4
+148,Gerald,Stephen,4
+149,Gerald,Officer,4
+150,Gerald,The men,4
+151,Jimbo,Martin,2
+152,Jimbo,Mike,1
+153,Jimbo,Sgt. Yates,1
+154,Jimbo,Officer,1
+155,Jimbo,The men,1
+156,Martin,Randy,4
+157,Martin,Mike,2
+158,Martin,Sgt. Yates,2
+159,Martin,Stephen,2
+160,Martin,Officer,2
+161,Martin,The men,2
+162,Mike,Randy,2
+163,Officer,Randy,2
+164,Randy,The men,2
+165,Mike,Sgt. Yates,1
+166,Mike,Stephen,1
+167,Mike,Officer,1
+168,Mike,The men,1
+169,Sgt. Yates,Stephen,1
+170,Officer,Sgt. Yates,1
+171,Sgt. Yates,The men,1
+172,Officer,Stephen,1
+173,Stephen,The men,1
+174,Officer,The men,1

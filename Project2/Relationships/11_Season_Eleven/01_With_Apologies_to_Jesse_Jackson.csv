@@ -1,0 +1,59 @@
+,source,target,weight
+0,Pat Sajak,Randy,46
+1,Jimbo,Stephen,2
+2,Randy,Stan,7
+3,Pat Sajak,Stan,6
+4,Randy,Sharon,1
+5,Cartman,Stan,42
+6,Cartman,Kyle,9
+7,Cartman,Tolkien,42
+8,Kyle,Stan,6
+9,Stan,Tolkien,58
+10,Kyle,Tolkien,6
+11,Jesse Jackson,Randy,63
+12,Brian,Jesse Jackson,9
+13,Brian,Randy,7
+14,Butters,Mr. Nelson,3
+15,Butters,Cartman,3
+16,Butters,Mr. Mackey,1
+17,Cartman,Mr. Nelson,55
+18,Mr. Mackey,Mr. Nelson,19
+19,Cartman,Mr. Mackey,13
+20,Audience,Comedian,3
+21,Comedian,Randy,3
+22,Audience,Randy,1
+23,Clerk,Three kids,2
+24,Randy,Three kids,2
+25,Clerk,Randy,4
+26,Mr. Nelson,Principal Victoria,24
+27,Mr. Mackey,Principal Victoria,6
+28,Cartman,Principal Victoria,15
+29,Mr. Nelson,Tolkien,1
+30,Mr. Nelson,Stan,1
+31,Craig,Mr. Nelson,2
+32,Craig,Kids,1
+33,Cartman,Craig,2
+34,Kids,Mr. Nelson,2
+35,Cartman,Kids,2
+36,Black Man,Randy,1
+37,Randy,Skeeter,39
+38,Passenger,Skeeter,54
+39,Driver,Skeeter,36
+40,Richards,Skeeter,19
+41,Passenger,Randy,24
+42,Driver,Randy,16
+43,Randy,Richards,23
+44,Driver,Passenger,24
+45,Passenger,Richards,12
+46,Driver,Richards,8
+47,Fuhrman,Randy,8
+48,Randy,Scott,4
+49,Fuhrman,Scott,2
+50,Fuhrman,Richards,6
+51,Richards,Scott,3
+52,Butters,Tolkien,4
+53,Butters,Stan,3
+54,Kyle,Mr. Nelson,1
+55,Most Senators,Randy,3
+56,Most Senators,Richards,1
+57,Most Senators,Skeeter,1

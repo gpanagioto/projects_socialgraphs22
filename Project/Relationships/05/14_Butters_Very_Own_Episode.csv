@@ -1,9 +1,9 @@
 ,source,target,weight
-0,Butters,Linda,9
+0,Butters,Linda,18
 1,Barbrady,Butters,1
-2,Barbrady,Linda,1
-3,Cartman,Stan,1
-4,Butters,Stan,1
-5,Linda,Stan,1
-6,Butters,Cartman,1
-7,Cartman,Linda,1
+2,Barbrady,Linda,2
+3,Cartman,Stan,2
+4,Butters,Cartman,2
+5,Cartman,Linda,4
+6,Butters,Stan,1
+7,Linda,Stan,2

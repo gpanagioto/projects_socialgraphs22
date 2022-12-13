@@ -1,0 +1,103 @@
+,source,target,weight
+0,Mr. Adler,Stan,93
+1,Cartman,Stan,165
+2,Kyle,Stan,137
+3,Stan,Tweek,143
+4,Craig,Stan,59
+5,Cartman,Mr. Adler,46
+6,Kyle,Mr. Adler,42
+7,Mr. Adler,Tweek,20
+8,Craig,Mr. Adler,16
+9,Cartman,Kyle,129
+10,Cartman,Tweek,102
+11,Cartman,Craig,117
+12,Kyle,Tweek,105
+13,Craig,Kyle,40
+14,Craig,Tweek,46
+15,Kenny,Wendy,8
+16,Cartman,Kenny,12
+17,Bebe,Cartman,4
+18,Annie,Cartman,4
+19,Cartman,Clyde,32
+20,Cartman,Tolkien,4
+21,Kenny,Kyle,14
+22,Bebe,Kyle,5
+23,Annie,Kyle,5
+24,Clyde,Kyle,31
+25,Kyle,Tolkien,5
+26,Kenny,Stan,22
+27,Bebe,Stan,3
+28,Annie,Stan,3
+29,Clyde,Stan,17
+30,Stan,Tolkien,3
+31,Bebe,Kenny,14
+32,Annie,Kenny,2
+33,Clyde,Kenny,6
+34,Kenny,Tolkien,2
+35,Annie,Bebe,1
+36,Bebe,Clyde,3
+37,Bebe,Tolkien,1
+38,Annie,Clyde,3
+39,Annie,Tolkien,1
+40,Clyde,Tolkien,3
+41,Mrs. Tweak,Tweek,15
+42,Richard,Tweek,5
+43,Mrs. Tweak,Richard,3
+44,Craig,Thomas,4
+45,Craig,Laura Tucker,2
+46,Laura Tucker,Thomas,2
+47,Mr. Adler,Pearl,20
+48,Fiancée,Pearl,4
+49,Fiancée,Mr. Adler,101
+50,Clyde,Craig,6
+51,Bebe,Pearl,19
+52,Fiancée,Kyle,7
+53,Cartman,Fiancée,7
+54,Clyde,Mr. Adler,20
+55,Clyde,Fiancée,4
+56,Kyle,Wendy,24
+57,Stan,Wendy,32
+58,Cartman,Wendy,32
+59,Craig,Wendy,8
+60,Tweek,Wendy,12
+61,Crowd,Wendy,8
+62,Clyde,Wendy,4
+63,Crowd,Kyle,12
+64,Crowd,Stan,16
+65,Cartman,Crowd,16
+66,Craig,Crowd,4
+67,Crowd,Tweek,6
+68,Clyde,Tweek,5
+69,Clyde,Crowd,2
+70,Jimbo,Tweek,45
+71,Ned,Tweek,25
+72,Jimbo,Ned,45
+73,Jimbo,Stan,9
+74,Jimbo,Kyle,9
+75,Ned,Stan,5
+76,Kyle,Ned,5
+77,Craig,Master,24
+78,Cartman,Master,30
+79,Class,Pearl,18
+80,Bebe,Class,4
+81,Class,Kenny,12
+82,Class,Wendy,2
+83,Kenny,Pearl,54
+84,Pearl,Wendy,9
+85,Bebe,Wendy,2
+86,Fiancée,Stan,24
+87,Gram'ma,Stan,4
+88,Stan,Uncle Corey,4
+89,Kenny,Mr. Adler,60
+90,Gram'ma,Mr. Adler,15
+91,Mr. Adler,Uncle Corey,15
+92,Cartman,Gram'ma,1
+93,Cartman,Uncle Corey,1
+94,Fiancée,Kenny,24
+95,Gram'ma,Kenny,4
+96,Kenny,Uncle Corey,4
+97,Gram'ma,Kyle,1
+98,Kyle,Uncle Corey,1
+99,Fiancée,Gram'ma,6
+100,Fiancée,Uncle Corey,6
+101,Gram'ma,Uncle Corey,1

@@ -1,0 +1,119 @@
+,source,target,weight
+0,Randy,Stan,88
+1,Mr. Mackey,Randy,16
+2,Mr. Mackey,Stan,14
+3,Randy,Sharon,58
+4,Pip,Randy,6
+5,Butters,Randy,44
+6,Dougie,Randy,2
+7,All three,Randy,2
+8,Mr. Mackey,Sharon,15
+9,Mr. Mackey,Pip,6
+10,Butters,Mr. Mackey,4
+11,Dougie,Mr. Mackey,2
+12,All three,Mr. Mackey,2
+13,Sharon,Stan,21
+14,Pip,Stan,102
+15,Butters,Stan,104
+16,Dougie,Stan,42
+17,All three,Stan,6
+18,Pip,Sharon,3
+19,Butters,Sharon,10
+20,Dougie,Sharon,1
+21,All three,Sharon,1
+22,Butters,Pip,71
+23,Dougie,Pip,34
+24,All three,Pip,3
+25,Butters,Dougie,27
+26,All three,Butters,2
+27,All three,Dougie,1
+28,Gerald,Sheila,6
+29,Gerald,Mr. Mackey,9
+30,Gerald,Sharon,36
+31,Gerald,Randy,258
+32,Mr. Mackey,Sheila,6
+33,Sharon,Sheila,6
+34,Randy,Sheila,4
+35,ATF agent,Barbrady,4
+36,ATF agent,ATF lead,11
+37,ATF lead,Barbrady,19
+38,ATF agent,Johnson,4
+39,ATF lead,Johnson,6
+40,Blond man,Burly man,3
+41,Burly man,Randy,15
+42,Burly man,Jimbo,6
+43,Burly man,Other men,3
+44,Burly man,Gerald,6
+45,Blond man,Randy,5
+46,Blond man,Jimbo,2
+47,Blond man,Other men,1
+48,Blond man,Gerald,2
+49,Jimbo,Randy,24
+50,Other men,Randy,5
+51,Jimbo,Other men,2
+52,Gerald,Jimbo,10
+53,Gerald,Other men,2
+54,Reporter,Stan,15
+55,Dougie,Reporter,9
+56,Pip,Reporter,10
+57,Butters,Reporter,12
+58,Gerald,Stan,46
+59,Butters,Gerald,26
+60,ATF lead,Stan,6
+61,Barbrady,Stan,2
+62,ATF lead,Butters,3
+63,Barbrady,Butters,1
+64,Mr. Garrison,Mr. Mackey,1
+65,Other man,Randy,13
+66,Goateed man,Other man,2
+67,Gerald,Other man,7
+68,Other man,Sharon,3
+69,Other man,Stan,4
+70,Butters,Other man,2
+71,Goateed man,Randy,26
+72,Gerald,Goateed man,14
+73,Goateed man,Sharon,6
+74,Goateed man,Stan,8
+75,Butters,Goateed man,4
+76,Dougie,Ganz,7
+77,Ganz,Reporter,19
+78,Butters,Ganz,18
+79,Ganz,Stan,21
+80,Ganz,Pip,11
+81,Mackey,Randy,14
+82,Ned,Randy,7
+83,Gerald,Mackey,6
+84,Gerald,Ned,3
+85,Mackey,Ned,2
+86,Jimbo,Mackey,4
+87,Jimbo,Ned,2
+88,Blond agent,Reporter,1
+89,ATF agent,Reporter,1
+90,Derek,Reporter,2
+91,Kyle,Reporter,3
+92,Blond agent,Ganz,4
+93,ATF agent,Ganz,4
+94,Derek,Ganz,8
+95,Ganz,Kyle,12
+96,Blond agent,Pip,2
+97,ATF agent,Blond agent,1
+98,Blond agent,Derek,2
+99,Blond agent,Dougie,1
+100,Blond agent,Butters,3
+101,Blond agent,Stan,3
+102,Blond agent,Kyle,3
+103,ATF agent,Pip,2
+104,Derek,Pip,4
+105,Kyle,Pip,6
+106,ATF agent,Derek,2
+107,ATF agent,Dougie,1
+108,ATF agent,Butters,3
+109,ATF agent,Stan,3
+110,ATF agent,Kyle,3
+111,Derek,Dougie,2
+112,Butters,Derek,6
+113,Derek,Stan,6
+114,Derek,Kyle,6
+115,Dougie,Kyle,3
+116,Butters,Kyle,9
+117,Kyle,Stan,9

@@ -1,0 +1,59 @@
+,source,target,weight
+0,Freja Ollegard,Gerald,9
+1,Audience Member,Freja Ollegard,3
+2,Audience Member,Gerald,3
+3,Gerald,Officer,6
+4,Barkley,Officer,7
+5,Kyle,Officer,2
+6,Barkley,Gerald,42
+7,Gerald,Kyle,12
+8,Barkley,Kyle,14
+9,Clyde,Tolkien,1
+10,Clyde,Craig,1
+11,Clyde,Kyle,1
+12,Butters,Clyde,2
+13,Clyde,Jimmy,1
+14,Craig,Tolkien,1
+15,Kyle,Tolkien,1
+16,Butters,Tolkien,2
+17,Jimmy,Tolkien,1
+18,Craig,Kyle,1
+19,Butters,Craig,2
+20,Craig,Jimmy,1
+21,Butters,Kyle,2
+22,Jimmy,Kyle,1
+23,Butters,Jimmy,2
+24,Randy,Stan,2
+25,Sharon,Stan,1
+26,Randy,Sharon,2
+27,Garrison,Lester Holt,6
+28,Clinton,Lester Holt,6
+29,Clinton,Garrison,36
+30,Butters,PC Principal,1
+31,Cartman,Heidi,46
+32,Cartman,Driver,4
+33,Cartman,Martha,4
+34,Driver,Heidi,4
+35,Heidi,Martha,4
+36,Driver,Martha,4
+37,Randy,Stephen,70
+38,Ryan Valmer,Stephen,3
+39,Randy,Ryan Valmer,2
+40,Garrison,Random Person,6
+41,Garrison,Randy,6
+42,Random Person,Randy,2
+43,CNN Anchor,Patron,2
+44,Gerald,Patron,2
+45,Field Reporter,Patron,1
+46,Patron,Paul,1
+47,CNN Anchor,Gerald,4
+48,CNN Anchor,Field Reporter,2
+49,CNN Anchor,Paul,2
+50,Field Reporter,Gerald,2
+51,Gerald,Paul,2
+52,Field Reporter,Paul,1
+53,Jud,Randy,2
+54,Berries,Randy,2
+55,Berries,Jud,1
+56,Gerald,Shelia,16
+57,Gerald,Ike,1

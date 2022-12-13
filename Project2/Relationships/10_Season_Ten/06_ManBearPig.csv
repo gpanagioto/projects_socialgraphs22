@@ -1,0 +1,38 @@
+,source,target,weight
+0,Kyle,Mr. Mackey,6
+1,Butters,Kyle,2
+2,Kyle,Stan,112
+3,Al Gore,Kyle,44
+4,Butters,Mr. Mackey,3
+5,Mr. Mackey,Stan,3
+6,Al Gore,Mr. Mackey,9
+7,Butters,Stan,1
+8,Al Gore,Butters,3
+9,Al Gore,Stan,97
+10,Cartman,Kyle,179
+11,Cartman,Stan,100
+12,Beast,Stan,2
+13,Randy,Stan,10
+14,Beast,Kyle,2
+15,Beast,Cartman,1
+16,Al Gore,Beast,3
+17,Beast,Randy,2
+18,Kyle,Randy,8
+19,Al Gore,Cartman,17
+20,Cartman,Randy,4
+21,Al Gore,Randy,6
+22,Kenny,Stan,34
+23,Al Gore,Kenny,7
+24,Kenny,Kyle,62
+25,Cartman,Kenny,57
+26,Group,Tour guide,6
+27,Al Gore,Tour guide,35
+28,Al Gore,Group,7
+29,Kyle,Tour guide,10
+30,Group,Kyle,2
+31,Al Gore,The boys,8
+32,Kyle,The boys,2
+33,Stan,The boys,2
+34,Al Gore,Fireman,3
+35,Al Gore,Police officer,2
+36,Ranger,Tour guide,1

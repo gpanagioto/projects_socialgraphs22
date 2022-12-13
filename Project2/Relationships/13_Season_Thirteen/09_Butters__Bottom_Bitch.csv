@@ -1,0 +1,80 @@
+,source,target,weight
+0,Butters,Cartman,46
+1,Butters,Stan,45
+2,Butters,Kyle,26
+3,Butters,Craig,7
+4,Butters,Clyde,24
+5,Cartman,Stan,8
+6,Cartman,Kyle,8
+7,Cartman,Craig,3
+8,Cartman,Clyde,7
+9,Kyle,Stan,3
+10,Craig,Stan,1
+11,Clyde,Stan,5
+12,Craig,Kyle,1
+13,Clyde,Kyle,2
+14,Clyde,Craig,2
+15,Francis,Jimmy,2
+16,Butters,Francis,5
+17,Francis,Sally,4
+18,Cartman,Francis,1
+19,Francis,Tweek,1
+20,Francis,Kevin,1
+21,Butters,Jimmy,10
+22,Jimmy,Sally,8
+23,Cartman,Jimmy,2
+24,Jimmy,Tweek,2
+25,Jimmy,Kevin,2
+26,Butters,Sally,50
+27,Butters,Tweek,5
+28,Butters,Kevin,5
+29,Cartman,Sally,4
+30,Sally,Tweek,4
+31,Kevin,Sally,4
+32,Cartman,Tweek,1
+33,Cartman,Kevin,1
+34,Kevin,Tweek,1
+35,Butters,Scott,1
+36,Megan,Sally,2
+37,Butters,Megan,2
+38,Murphy,Yates,9
+39,Driver,Yates,11
+40,Kenny,Stan,2
+41,Butters,Kenny,4
+42,Cartman,Kenny,1
+43,Kenny,Kyle,1
+44,Bishop,Butters,8
+45,Butters,Stephen,2
+46,Butters,Kids,2
+47,Annie,Kids,1
+48,Annie,Butters,2
+49,Bebe,Butters,30
+50,Butters,Wendy,20
+51,Butters,Mr. Garrison,10
+52,Bebe,Wendy,6
+53,Bebe,Stan,9
+54,Bebe,Clyde,3
+55,Bebe,Cartman,3
+56,Bebe,Mr. Garrison,3
+57,Stan,Wendy,6
+58,Clyde,Wendy,2
+59,Cartman,Wendy,2
+60,Mr. Garrison,Wendy,2
+61,Mr. Garrison,Stan,3
+62,Clyde,Mr. Garrison,1
+63,Cartman,Mr. Garrison,1
+64,Bishop,Murphy,2
+65,Bishop,Yates,8
+66,Black bitch,White bitch,2
+67,Butters,Charise,13
+68,Butters,Receptionist,72
+69,Boss,Receptionist,9
+70,Boss,Butters,8
+71,Charise,Sally,9
+72,Sally,Yates,6
+73,Bishop,Sally,3
+74,Charise,Yates,6
+75,Bishop,Charise,3
+76,Butters,Yates,21
+77,Keshawn,Yates,25
+78,Butters,Keshawn,15

@@ -1,0 +1,68 @@
+,source,target,weight
+0,Kyle,Sheila,86
+1,Kenny,Kyle,116
+2,Kenny,Sheila,71
+3,Gerald,Kenny,32
+4,Gerald,Kyle,50
+5,Gerald,Sheila,34
+6,Ike,Kenny,14
+7,Ike,Sheila,22
+8,Ike,Kyle,36
+9,Gerald,Ike,20
+10,Gerald,Ranger,8
+11,Kyle,Ranger,24
+12,Ranger,Sheila,12
+13,Kenny,Ranger,12
+14,Ike,Ranger,8
+15,Chief elder,Elders,2
+16,Elder,Kyle,24
+17,Inductee,Kyle,2
+18,Inductees,Kyle,8
+19,Elder,Inductee,9
+20,Elder,Inductees,36
+21,Elder,Kenny,12
+22,Inductee,Inductees,4
+23,Inductee,Kenny,1
+24,Inductees,Kenny,4
+25,Ishmael,Matthew,1
+26,Ishmael,Joseph,1
+27,Ike,Ishmael,1
+28,Joseph,Matthew,1
+29,Ike,Matthew,1
+30,Ike,Joseph,1
+31,Chief elder,Kenny,32
+32,Kenny,Scouts,2
+33,Chief elder,Kyle,28
+34,Kyle,Scouts,2
+35,Chief elder,Scouts,1
+36,Kenny,Moses,19
+37,Kyle,Moses,17
+38,Chief elder,Moses,37
+39,Ike,Squirt,2
+40,Chief elder,Garth,5
+41,Garth,Moses,4
+42,Garth,Kenny,2
+43,Garth,Kyle,2
+44,Kenny,Scout,3
+45,Chief elder,Elder,5
+46,Chief elder,Scout,6
+47,Kyle,Scout,2
+48,Elder,Moses,3
+49,Moses,Scout,3
+50,Elder,Scout,1
+51,Bear cub,Squirt,3
+52,Kenny,Squirt,7
+53,Bear cub,Kenny,2
+54,Elder Schwartz,Shlomo,7
+55,Elder Schwartz,Schlomo,42
+56,Elder Schwartz,Kenny,7
+57,Elder Schwartz,Kyle,7
+58,Elder Schwartz,Squirt,7
+59,Schlomo,Shlomo,6
+60,Kenny,Shlomo,1
+61,Kyle,Shlomo,1
+62,Shlomo,Squirt,1
+63,Kenny,Schlomo,6
+64,Kyle,Schlomo,6
+65,Schlomo,Squirt,6
+66,Kyle,Squirt,1

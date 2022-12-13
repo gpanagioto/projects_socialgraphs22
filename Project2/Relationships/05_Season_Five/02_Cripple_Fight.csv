@@ -1,0 +1,111 @@
+,source,target,weight
+0,Kenny,Stan,13
+1,Stan,Stuart,15
+2,Randy,Stan,45
+3,Cartman,Stan,48
+4,Stan,Timmy,91
+5,Kenny,Stuart,3
+6,Kenny,Randy,7
+7,Cartman,Kenny,6
+8,Kenny,Timmy,6
+9,Randy,Stuart,24
+10,Cartman,Stuart,7
+11,Stuart,Timmy,7
+12,Cartman,Randy,18
+13,Randy,Timmy,20
+14,Cartman,Timmy,38
+15,Butters,Cartman,11
+16,Big Gay Al,Cartman,15
+17,Boys,Cartman,3
+18,Butters,Randy,4
+19,Butters,Stuart,2
+20,Big Gay Al,Butters,19
+21,Butters,Stan,22
+22,Butters,Timmy,14
+23,Boys,Butters,2
+24,Big Gay Al,Randy,8
+25,Boys,Randy,5
+26,Big Gay Al,Stuart,4
+27,Boys,Stuart,1
+28,Big Gay Al,Stan,28
+29,Big Gay Al,Timmy,14
+30,Big Gay Al,Boys,3
+31,Boys,Stan,22
+32,Boys,Timmy,18
+33,Randy,Stephen,3
+34,Randy,Tolkien's father,3
+35,Randy,Skeeter,3
+36,Priest Maxi,Randy,3
+37,Stephen,Stuart,2
+38,Stephen,Tolkien's father,1
+39,Skeeter,Stephen,1
+40,Priest Maxi,Stephen,1
+41,Stuart,Tolkien's father,2
+42,Skeeter,Stuart,2
+43,Priest Maxi,Stuart,2
+44,Skeeter,Tolkien's father,1
+45,Priest Maxi,Tolkien's father,1
+46,Priest Maxi,Skeeter,1
+47,Jimmy,Timmy,103
+48,Jimmy,Stan,56
+49,Butters,Jimmy,15
+50,Jimmy,Stuart,4
+51,Jimmy,Randy,8
+52,Big Gay Al,Jimmy,14
+53,Cartman,Jimmy,27
+54,Jimmy,Kenny,4
+55,Butters,Kenny,1
+56,Big Gay Al,Kenny,1
+57,Jimmy,Sharon,4
+58,Jimmy,Sheila,4
+59,Sharon,Sheila,1
+60,Cartman,Sharon,1
+61,Sharon,Timmy,2
+62,Cartman,Sheila,1
+63,Sheila,Timmy,2
+64,Big Gay Al,Head Scoutmaster,40
+65,Big Gay Al,Marc,4
+66,Mr. Grazier,Randy,10
+67,Head Scoutmaster,Randy,2
+68,Mr. Grazier,Stuart,6
+69,Head Scoutmaster,Mr. Grazier,2
+70,Head Scoutmaster,Stuart,1
+71,Mr. Grazier,Timmy,10
+72,Scouts,Timmy,4
+73,Jimmy,Mr. Grazier,5
+74,Jimmy,Scouts,2
+75,Cartman,Mr. Grazier,15
+76,Cartman,Scouts,6
+77,Mr. Grazier,Scouts,14
+78,Randy,Scouts,6
+79,Scouts,Stuart,4
+80,Boys,Little Girl,1
+81,Boys,Jimmy,6
+82,Little Girl,Stan,5
+83,Little Girl,Timmy,8
+84,Cartman,Little Girl,2
+85,Butters,Little Girl,1
+86,Jimmy,Little Girl,6
+87,Stan,Susan,1
+88,Susan,Timmy,3
+89,Jimmy,Susan,3
+90,Farmer,Joe,1
+91,Gloria Allred,Reporter,2
+92,Reporter,Tom,2
+93,Gloria Allred,Tom,1
+94,Stuart,Tom,1
+95,Randy,Tom,1
+96,Chief Justice,Crowd,6
+97,Chief Justice,Randy,2
+98,Chief Justice,Stan,2
+99,Chief Justice,Gloria Allred,2
+100,Crowd,Randy,3
+101,Crowd,Stan,3
+102,Crowd,Gloria Allred,3
+103,Gloria Allred,Randy,1
+104,Gloria Allred,Stan,3
+105,Big Gay Al,Gloria Allred,3
+106,Butters,Gloria Allred,1
+107,Cartman,Gloria Allred,1
+108,Gloria Allred,Jimmy,2
+109,Gloria Allred,Timmy,2

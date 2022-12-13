@@ -1,0 +1,63 @@
+,source,target,weight
+0,Butters,Guest,2
+1,Butters,Cartman,2
+2,Butters,Sawitsky,2
+3,Cartman,Guest,1
+4,Guest,Sawitsky,1
+5,Cartman,Sawitsky,1
+6,Cartman,Kyle,34
+7,Kyle,Stan,32
+8,Cartman,Stan,10
+9,Duncan Everton,Narrator,3
+10,Cartman,Narrator,12
+11,Kyle,Narrator,18
+12,Narrator,Stan,3
+13,Kenny,Narrator,3
+14,Charles Biggens,Narrator,3
+15,Cartman,Duncan Everton,4
+16,Duncan Everton,Kyle,5
+17,Duncan Everton,Stan,1
+18,Duncan Everton,Kenny,1
+19,Charles Biggens,Duncan Everton,1
+20,Cartman,Kenny,4
+21,Cartman,Charles Biggens,4
+22,Kenny,Kyle,11
+23,Charles Biggens,Kyle,5
+24,Kenny,Stan,16
+25,Charles Biggens,Stan,1
+26,Charles Biggens,Kenny,1
+27,THC President,Wife,1
+28,Stan,THC President,11
+29,Kyle,THC President,36
+30,Announcer,Butters,1
+31,Butters,Narrator,3
+32,Butters,Kyle,1
+33,Announcer,Narrator,3
+34,Announcer,Kyle,1
+35,Kyle,Sawitsky,20
+36,Narrator,THC President,2
+37,Cartman,Liane,9
+38,Cartman,Chet,12
+39,Sawitsky,Stan,10
+40,Miles,Stan,36
+41,Sawitzky,Stan,5
+42,Kyle,Miles,53
+43,Kyle,Sawitzky,2
+44,Kenny,Sawitsky,6
+45,Kenny,Miles,15
+46,Kenny,Sawitzky,3
+47,Miles,Sawitsky,10
+48,Sawitsky,Sawitzky,2
+49,Miles,Sawitzky,5
+50,Natalie,Stan,6
+51,Miles,Natalie,22
+52,A pilot,Stan,1
+53,A pilot,Miles,7
+54,Miles,THC President,33
+55,A pilot,Kyle,3
+56,A pilot,THC President,2
+57,Natalie,THC President,29
+58,Kyle,Natalie,45
+59,Narrator,Pilgrim,2
+60,Miles,Pilgrim,1
+61,Miles,Narrator,2

@@ -1,4 +1,10 @@
 ,source,target,weight
-0,Cartman,Liane,4
-1,Liane,Shelly,3
-2,Cartman,Shelly,14
+0,Cartman,Liane,8
+1,Cartman,Kitty,6
+2,Kitty,Liane,1
+3,Cartman,Skyler,16
+4,Kitty,Skyler,1
+5,Cartman,Clyde,4
+6,Clyde,Kitty,2
+7,Mark,Skyler,4
+8,Liane,Skyler,1

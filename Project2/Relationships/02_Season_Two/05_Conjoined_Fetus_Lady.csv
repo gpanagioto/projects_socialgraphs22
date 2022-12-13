@@ -1,0 +1,71 @@
+,source,target,weight
+0,Chef,Stan,14
+1,Cartman,Pip,6
+2,Cartman,Stan,17
+3,Cartman,Kyle,18
+4,Pip,Stan,7
+5,Kyle,Pip,9
+6,Kyle,Stan,16
+7,Chef,Kyle,15
+8,Cartman,Chef,15
+9,Chef,Pip,2
+10,Cartman,Clyde,2
+11,Bebe,Cartman,2
+12,Bebe,Clyde,1
+13,Clyde,Stan,1
+14,Bebe,Stan,1
+15,Kyle,Nurse Gollum,16
+16,Boys,Cartman,6
+17,Boys,Kyle,9
+18,Boys,Stan,6
+19,Boys,Sheila,6
+20,Cartman,Sheila,8
+21,Kyle,Sheila,12
+22,Sheila,Stan,8
+23,Gerald,Sheila,3
+24,Sharon,Sheila,1
+25,Randy,Sheila,1
+26,Sharon,Stan,1
+27,Randy,Sharon,1
+28,Randy,Stan,1
+29,Principal Victoria,Sheila,53
+30,Mr. Mackey,Sheila,26
+31,Mr. Mackey,Principal Victoria,27
+32,Chef,Mrs. Crabtre,3
+33,Mrs. Crabtre,Ms. Crabtree,2
+34,Chef,Ms. Crabtree,6
+35,Bob Thomas,Chef,1
+36,Nurse Gollum,Sheila,40
+37,Nurse Gollum,Principal Victoria,22
+38,Gerald,Mr. Mackey,1
+39,Mr. Mackey,Nurse Gollum,14
+40,Chef,Mrs. Crabtree,12
+41,Referee,Stan,2
+42,Announcer,Stan,1
+43,Chef,Referee,9
+44,Announcer,Chef,4
+45,Cartman,Referee,2
+46,Announcer,Cartman,1
+47,Kyle,Referee,2
+48,Announcer,Referee,2
+49,Announcer,Kyle,1
+50,Kyle,Player,2
+51,Mayor McDaniels,Nurse Gollum,4
+52,Kevin,Stan,2
+53,Cartman,Kevin,2
+54,Chef,Kevin,2
+55,Kevin,Kyle,1
+56,Chinese commentator,Referee,1
+57,Chef,Chinese commentator,1
+58,Referee,Tom,1
+59,Chinese commentator,Tom,4
+60,Chinese commentator,Kyle,1
+61,Chinese kid,Tom,2
+62,Chinese commentator,Chinese kid,1
+63,Chinese kid,Kevin,1
+64,Kyle,Mayor McDaniels,2
+65,Mayor McDaniels,Stan,1
+66,Cartman,Mayor McDaniels,1
+67,Mayor McDaniels,Sheila,2
+68,Nurse Gollum,Stan,2
+69,Cartman,Nurse Gollum,2

@@ -1,0 +1,173 @@
+,source,target,weight
+0,Kyle,Mr. Garrison,7
+1,Cartman,Kyle,33
+2,Class,Kyle,4
+3,Clyde,Kyle,2
+4,Kyle,Peetie,44
+5,Cartman,Mr. Garrison,6
+6,Class,Mr. Garrison,15
+7,Clyde,Mr. Garrison,8
+8,Mr. Garrison,Peetie,10
+9,Cartman,Class,5
+10,Cartman,Clyde,2
+11,Cartman,Peetie,29
+12,Class,Clyde,5
+13,Class,Peetie,4
+14,Clyde,Peetie,2
+15,Cartman,Stan,121
+16,Peetie,Stan,61
+17,Cartman,Gerald,41
+18,Cartman,Judge Julie,34
+19,Gerald,Kyle,51
+20,Judge Julie,Kyle,11
+21,Kyle,Stan,67
+22,Gerald,Judge Julie,30
+23,Gerald,Stan,39
+24,Judge Julie,Stan,36
+25,Collector,Stan,3
+26,Cartman,Collector,5
+27,Collector,Gerald,3
+28,Gerald,Mr. Garrison,24
+29,Judge Julie,Mr. Garrison,13
+30,Gerald,Principal Victoria,21
+31,Gerald,Peetie,20
+32,Mr. Garrison,Stan,7
+33,Clyde,Stan,2
+34,Bebe,Stan,2
+35,Class,Stan,6
+36,Kenny,Stan,9
+37,Bebe,Mr. Garrison,3
+38,Kenny,Mr. Garrison,3
+39,Bebe,Cartman,1
+40,Cartman,Kenny,3
+41,Bebe,Clyde,2
+42,Clyde,Kenny,1
+43,Bebe,Class,3
+44,Bebe,Kenny,1
+45,Class,Kenny,3
+46,Bebe,Gerald,1
+47,Clyde,Gerald,3
+48,Chairman,Mr. Evans,4
+49,Chairman,Peetie,3
+50,Mr. Evans,Peetie,12
+51,Cartman,Pip,2
+52,Cartman,Principal Victoria,2
+53,Judge Julie,Pip,2
+54,Pip,Principal Victoria,1
+55,Gerald,Pip,1
+56,Judge Julie,Principal Victoria,5
+57,Judge Julie,Tweek,1
+58,Principal Victoria,Tweek,1
+59,Clyde,Craig,2
+60,Craig,Gerald,4
+61,Craig,Mr. Garrison,4
+62,Boys,Chef,6
+63,Boys,Stan,10
+64,Boys,Cartman,5
+65,Boys,Kyle,8
+66,Chef,Stan,18
+67,Cartman,Chef,18
+68,Chef,Kyle,12
+69,Mr. Evans,Stan,20
+70,Kyle,Mr. Evans,5
+71,Cartman,Mr. Evans,5
+72,Company rep,Peetie,12
+73,Jukebox,Standing Patron,1
+74,Barkeep,Jukebox,3
+75,Jukebox,Skeeter,1
+76,Jukebox,Peetie,1
+77,Barkeep,Standing Patron,3
+78,Skeeter,Standing Patron,1
+79,Peetie,Standing Patron,1
+80,Barkeep,Skeeter,35
+81,Barkeep,Peetie,11
+82,Peetie,Skeeter,9
+83,Barkeep,Stan,37
+84,Barkeep,Patron with hat,14
+85,Barkeep,Cartman,14
+86,Skeeter,Stan,22
+87,Patron with hat,Stan,10
+88,Patron with hat,Skeeter,8
+89,Cartman,Skeeter,8
+90,Cartman,Patron with hat,4
+91,Stan,Worm,14
+92,Boys,Worm,2
+93,Willy,Worm,10
+94,Pig,Worm,2
+95,Cartman,Worm,4
+96,Falcon,Worm,2
+97,Kyle,Worm,12
+98,Jimmy,Worm,4
+99,Kenny,Worm,2
+100,Peetie,Worm,12
+101,Badger,Worm,2
+102,Stan,Willy,35
+103,Pig,Stan,7
+104,Falcon,Stan,7
+105,Jimmy,Stan,14
+106,Badger,Stan,7
+107,Boys,Willy,5
+108,Boys,Pig,1
+109,Boys,Falcon,1
+110,Boys,Jimmy,2
+111,Boys,Kenny,1
+112,Boys,Peetie,6
+113,Badger,Boys,1
+114,Pig,Willy,5
+115,Cartman,Willy,10
+116,Falcon,Willy,5
+117,Kyle,Willy,30
+118,Jimmy,Willy,10
+119,Kenny,Willy,5
+120,Peetie,Willy,30
+121,Badger,Willy,5
+122,Cartman,Pig,2
+123,Falcon,Pig,1
+124,Kyle,Pig,6
+125,Jimmy,Pig,2
+126,Kenny,Pig,1
+127,Peetie,Pig,6
+128,Badger,Pig,1
+129,Cartman,Falcon,2
+130,Cartman,Jimmy,4
+131,Badger,Cartman,2
+132,Falcon,Kyle,6
+133,Falcon,Jimmy,2
+134,Falcon,Kenny,1
+135,Falcon,Peetie,6
+136,Badger,Falcon,1
+137,Jimmy,Kyle,12
+138,Kenny,Kyle,6
+139,Badger,Kyle,6
+140,Jimmy,Kenny,2
+141,Jimmy,Peetie,12
+142,Badger,Jimmy,2
+143,Kenny,Peetie,6
+144,Badger,Kenny,1
+145,Badger,Peetie,6
+146,Jimbo,Kyle,1
+147,Kyle,Skeeter,2
+148,Barkeep,Kyle,2
+149,Bearded man,Kyle,1
+150,Jimbo,Mr. Garrison,1
+151,Mr. Garrison,Skeeter,2
+152,Barkeep,Mr. Garrison,2
+153,Bearded man,Mr. Garrison,1
+154,Jimbo,Stan,1
+155,Bearded man,Stan,1
+156,Jimbo,Peetie,4
+157,Bearded man,Peetie,4
+158,Judge Julie,Peetie,4
+159,Jimbo,Skeeter,2
+160,Barkeep,Jimbo,2
+161,Bearded man,Jimbo,1
+162,Gerald,Jimbo,2
+163,Jimbo,Judge Julie,1
+164,Bearded man,Skeeter,2
+165,Gerald,Skeeter,4
+166,Judge Julie,Skeeter,2
+167,Barkeep,Bearded man,2
+168,Barkeep,Gerald,4
+169,Barkeep,Judge Julie,2
+170,Bearded man,Gerald,2
+171,Bearded man,Judge Julie,1

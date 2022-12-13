@@ -1,0 +1,80 @@
+,source,target,weight
+0,Tooth,Toothbrush,4
+1,Cast,Tooth,3
+2,Mr. Mackey,Tooth,9
+3,Dental Floss,Tooth,3
+4,Hard Candy,Tooth,1
+5,Cast,Toothbrush,4
+6,Mr. Mackey,Toothbrush,16
+7,Dental Floss,Toothbrush,5
+8,Hard Candy,Toothbrush,2
+9,Cast,Mr. Mackey,9
+10,Cast,Dental Floss,3
+11,Cast,Hard Candy,1
+12,Dental Floss,Mr. Mackey,12
+13,Hard Candy,Mr. Mackey,4
+14,Dental Floss,Hard Candy,2
+15,Ike,Narrator,4
+16,Anchor,Geddy Lee,1
+17,Canadian PM,Geddy Lee,1
+18,Geddy Lee,Kyle,1
+19,Geddy Lee,Ike,1
+20,Anchor,Canadian PM,1
+21,Anchor,Kyle,1
+22,Anchor,Ike,1
+23,Canadian PM,Kyle,1
+24,Canadian PM,Ike,1
+25,Ike,Kyle,1
+26,Kyle,Tooth,3
+27,Kyle,Toothbrush,3
+28,Cast,Kyle,3
+29,Kyle,Mr. Mackey,10
+30,Leader,Ugly Bob,20
+31,The Giant,Ugly Bob,4
+32,Scott,Ugly Bob,45
+33,Ike,Ugly Bob,12
+34,Leader,The Giant,5
+35,Leader,Scott,30
+36,Ike,Leader,5
+37,Scott,The Giant,6
+38,Ike,The Giant,1
+39,Ike,Scott,19
+40,Female,Male,4
+41,Male,Scott,4
+42,Female,Scott,15
+43,Dental Floss,Dentist,2
+44,Dental Floss,Toothpaste,1
+45,Another kindergartner,Dental Floss,1
+46,Dentist,Toothpaste,1
+47,Another kindergartner,Dentist,1
+48,Dentist,Mr. Mackey,2
+49,Another kindergartner,Toothpaste,1
+50,Mr. Mackey,Toothpaste,1
+51,Another kindergartner,Mr. Mackey,1
+52,Group,Male,3
+53,Male,Ugly Bob,9
+54,Group,Ugly Bob,3
+55,Baby,Scott,8
+56,Princess,Scott,23
+57,Female,Ugly Bob,7
+58,Baby,Ugly Bob,5
+59,Princess,Ugly Bob,15
+60,Baby,Female,3
+61,Female,Ike,4
+62,Female,Princess,13
+63,Baby,Ike,3
+64,Baby,Princess,7
+65,Ike,Princess,8
+66,Dentist,Kyle,1
+67,Dental Floss,Kyle,1
+68,Mr. Mackey,Sgt. Yates,9
+69,Officer,Sgt. Yates,3
+70,Sgt. Yates,Toothbrush,3
+71,Mr. Mackey,Officer,3
+72,Officer,Toothbrush,1
+73,Cartman,Stan,1
+74,Kyle,Stan,1
+75,Narrator,Stan,1
+76,Cartman,Kyle,1
+77,Cartman,Narrator,1
+78,Kyle,Narrator,1

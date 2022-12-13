@@ -1,5 +1,12 @@
 ,source,target,weight
-0,Cartman,Liane,7
-1,Butters,Cartman,2
-2,Jimbo,Tuong Lu Kim,2
-3,Jimbo,Liane,1
+0,John,Liane,6
+1,Cartman,Liane,14
+2,Butters,Cartman,4
+3,Harriet,Jimbo,5
+4,Harriet,Tuong Lu Kim,2
+5,Jimbo,Tuong Lu Kim,2
+6,Cartman,Richard,16
+7,Harriet,John,3
+8,Jimbo,John,3
+9,Harriet,Liane,1
+10,Jimbo,Liane,1

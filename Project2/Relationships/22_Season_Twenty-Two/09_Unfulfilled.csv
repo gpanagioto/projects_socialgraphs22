@@ -1,0 +1,94 @@
+,source,target,weight
+0,Linda,Stephen,12
+1,Gruff Worker,Stephen,30
+2,Gruff Worker,Linda,2
+3,Butters,Stan,6
+4,Cartman,Stan,38
+5,Larry,Stan,4
+6,Porsche,Stan,2
+7,Mercedes,Stan,2
+8,Butters,Cartman,3
+9,Butters,Larry,6
+10,Butters,Porsche,3
+11,Butters,Mercedes,3
+12,Cartman,Larry,2
+13,Cartman,Porsche,1
+14,Cartman,Mercedes,1
+15,Larry,Porsche,2
+16,Larry,Mercedes,2
+17,Mercedes,Porsche,1
+18,Richard,Stephen,4
+19,Josh,Richard,2
+20,Bearded Worker,Richard,1
+21,Beefy Worker,Richard,1
+22,Josh,Stephen,14
+23,Bearded Worker,Stephen,9
+24,Beefy Worker,Stephen,4
+25,Bearded Worker,Josh,2
+26,Beefy Worker,Josh,2
+27,Bearded Worker,Beefy Worker,1
+28,Kenny,Stan,25
+29,Cartman,Kenny,23
+30,Kenny,Kyle,16
+31,Kyle,Stan,26
+32,Cartman,Kyle,23
+33,Barkeep,Stephen,5
+34,Barkeep,Gruff Worker,3
+35,Barkeep,Stuart,4
+36,Barkeep,Bearded Worker,1
+37,Barkeep,Skeeter,1
+38,Stephen,Stuart,26
+39,Skeeter,Stephen,5
+40,Gruff Worker,Stuart,20
+41,Bearded Worker,Gruff Worker,3
+42,Gruff Worker,Skeeter,3
+43,Bearded Worker,Stuart,4
+44,Skeeter,Stuart,4
+45,Bearded Worker,Skeeter,1
+46,Cartman,Liane,2
+47,Liane,Tom,6
+48,Josh,Liane,4
+49,Cartman,Tom,3
+50,Cartman,Josh,2
+51,Josh,Tom,10
+52,Janson,Mayor,32
+53,Bezos,Janson,16
+54,Bezos,Mayor,38
+55,Butters,Linda,6
+56,Butters,Stephen,6
+57,Bezos,Stephen,1
+58,Gamestop employee,Hobby employee,1
+59,Build-A-Bear Workshop employee,Kyle,1
+60,Build-A-Bear Workshop employee,Cartman,2
+61,Build-A-Bear Workshop employee,Stan,4
+62,Build-A-Bear Workshop employee,Mall Workers,2
+63,Build-A-Bear Workshop employee,Kenny,1
+64,Kyle,Mall Workers,2
+65,Cartman,Mall Workers,4
+66,Mall Workers,Stan,8
+67,Kenny,Mall Workers,2
+68,Customers,Tom,2
+69,Customers,Randy,2
+70,Customers,Josh,2
+71,Customers,Stuart,2
+72,Customers,Strikers,1
+73,Customers,Gruff Worker,4
+74,Customers,Stephen,3
+75,Randy,Tom,4
+76,Stuart,Tom,4
+77,Strikers,Tom,2
+78,Gruff Worker,Tom,8
+79,Stephen,Tom,6
+80,Josh,Randy,4
+81,Randy,Stuart,4
+82,Randy,Strikers,2
+83,Gruff Worker,Randy,8
+84,Randy,Stephen,6
+85,Josh,Stuart,4
+86,Josh,Strikers,2
+87,Gruff Worker,Josh,8
+88,Strikers,Stuart,2
+89,Gruff Worker,Strikers,4
+90,Stephen,Strikers,3
+91,Bezos,Stan,15
+92,Mayor,Stan,3

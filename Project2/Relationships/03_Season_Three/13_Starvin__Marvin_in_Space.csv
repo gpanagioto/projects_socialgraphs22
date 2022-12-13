@@ -1,0 +1,113 @@
+,source,target,weight
+0,Hollis,Marvin,19
+1,Ethiopians,Marvin,8
+2,Ethiopian,Marvin,5
+3,Chief,Marvin,5
+4,Ethiopians,Hollis,4
+5,Ethiopian,Hollis,2
+6,Chief,Hollis,2
+7,Ethiopian,Ethiopians,1
+8,Chief,Ethiopians,1
+9,Chief,Ethiopian,1
+10,Mr. Garrison,Sphinx,2
+11,Cartman,Sphinx,58
+12,Kyle,Sphinx,37
+13,Connelly,Sphinx,69
+14,Kenny,Sphinx,9
+15,Cartman,Mr. Garrison,2
+16,Kyle,Mr. Garrison,2
+17,Connelly,Mr. Garrison,2
+18,Kenny,Mr. Garrison,2
+19,Cartman,Kyle,111
+20,Cartman,Connelly,79
+21,Cartman,Kenny,12
+22,Connelly,Kyle,45
+23,Kenny,Kyle,14
+24,Connelly,Kenny,13
+25,Kyle,Stan,107
+26,Cartman,Stan,102
+27,Sphinx,Stan,33
+28,Connelly,Stan,44
+29,Crowd,Marvin,6
+30,Crowd,Mayor,10
+31,Marvin,Mayor,15
+32,Stan,The Boys,4
+33,Connelly,The Boys,8
+34,Cartman,The Boys,8
+35,Kyle,The Boys,4
+36,Sphinx,The Boys,4
+37,Connelly,Sally,44
+38,Sally,Sphinx,24
+39,Cartman,Pat,5
+40,Boys,Cartman,12
+41,Cartman,Marvin,39
+42,Cartman,Singer,14
+43,Kyle,Pat,7
+44,Kenny,Pat,1
+45,Boys,Pat,1
+46,Marvin,Pat,4
+47,Pat,Stan,5
+48,Pat,Singer,2
+49,Boys,Kyle,20
+50,Kyle,Marvin,66
+51,Kyle,Singer,26
+52,Boys,Kenny,1
+53,Kenny,Marvin,6
+54,Kenny,Stan,11
+55,Kenny,Singer,2
+56,Boys,Marvin,12
+57,Boys,Stan,14
+58,Boys,Singer,4
+59,Marvin,Stan,50
+60,Marvin,Singer,12
+61,Singer,Stan,16
+62,Connelly,Hollis,12
+63,Hollis,Sphinx,11
+64,Marklar Leader,Stan,36
+65,Cartman,Marklar Leader,12
+66,Kyle,Marklar Leader,12
+67,Marklar Leader,Marvin,6
+68,Marvin,Sphinx,12
+69,Connelly,Marvin,11
+70,Hollis,Stan,11
+71,Hollis,Kyle,21
+72,Cartman,Hollis,16
+73,Pat,Susan,4
+74,FBI agent,Sphinx,3
+75,Connelly,FBI agent,5
+76,FBI agent,Kyle,3
+77,FBI agent,Marvin,1
+78,FBI agent,Stan,3
+79,Cartman,FBI agent,3
+80,FBI agent,Kenny,2
+81,Ethiopians,Kyle,6
+82,Kyle,The boys,6
+83,Marvin,The boys,2
+84,Boys,Hollis,2
+85,Hollis,Singer,2
+86,Hollis,The boys,1
+87,Boys,Ethiopians,1
+88,Boys,The boys,1
+89,Ethiopians,Stan,3
+90,Cartman,Ethiopians,3
+91,Ethiopians,Singer,2
+92,Ethiopians,The boys,1
+93,Stan,The boys,3
+94,Cartman,The boys,2
+95,Singer,The boys,2
+96,Kenny,Sally,4
+97,Cartman,Crew,1
+98,Crew,Ethiopians,1
+99,Crew,Marvin,1
+100,Crew,Hollis,1
+101,Computer,Stan,2
+102,Sally,Stan,12
+103,Computer,Kyle,3
+104,Kyle,Sally,18
+105,Computer,Sally,6
+106,Computer,Connelly,1
+107,Computer,Hollis,2
+108,Cartman,Computer,5
+109,Computer,Sphinx,1
+110,Hollis,Sally,12
+111,Cartman,Sally,30
