@@ -1,0 +1,159 @@
+,source,target,weight
+0,Randy,Stan,26
+1,Randy,Shelly,3
+2,Shelly,Stan,1
+3,Kyle,Stan,30
+4,Linda,Stephen,1
+5,Linda,Stan,3
+6,Linda,Randy,5
+7,Gerald,Linda,1
+8,Crowd,Linda,1
+9,Jimbo,Linda,1
+10,Linda,Sheila,1
+11,Linda,Mr. Mackey,1
+12,Stan,Stephen,3
+13,Randy,Stephen,6
+14,Gerald,Stephen,2
+15,Crowd,Stephen,1
+16,Jimbo,Stephen,2
+17,Sheila,Stephen,1
+18,Mr. Mackey,Stephen,2
+19,Gerald,Stan,6
+20,Crowd,Stan,4
+21,Jimbo,Stan,7
+22,Sheila,Stan,15
+23,Mr. Mackey,Stan,4
+24,Gerald,Randy,6
+25,Crowd,Randy,6
+26,Jimbo,Randy,11
+27,Randy,Sheila,4
+28,Mr. Mackey,Randy,7
+29,Crowd,Gerald,1
+30,Gerald,Jimbo,2
+31,Gerald,Sheila,9
+32,Gerald,Mr. Mackey,2
+33,Crowd,Jimbo,2
+34,Crowd,Sheila,1
+35,Crowd,Mr. Mackey,1
+36,Jimbo,Sheila,1
+37,Jimbo,Mr. Mackey,2
+38,Mr. Mackey,Sheila,1
+39,Sharon,Tom,1
+40,Sharon,al-Zawahri,1
+41,Linda,Sharon,1
+42,Randy,Sharon,1
+43,Tom,al-Zawahri,1
+44,Linda,Tom,1
+45,Randy,Tom,1
+46,Linda,al-Zawahri,1
+47,Randy,al-Zawahri,2
+48,Kyle,Randy,2
+49,Jimbo,Kyle,1
+50,Crowd,Kyle,1
+51,Cartman,Kyle,178
+52,Cartman,Stan,41
+53,Cartman,Lois,14
+54,Cartman,Peter,35
+55,Cartman,Chris,7
+56,Cartman,Stewie,7
+57,Brian,Cartman,7
+58,Cartman,Sheila,28
+59,Cartman,Gerald,7
+60,Kyle,Lois,14
+61,Kyle,Peter,35
+62,Chris,Kyle,7
+63,Kyle,Stewie,7
+64,Brian,Kyle,7
+65,Kyle,Sheila,36
+66,Gerald,Kyle,15
+67,Lois,Stan,6
+68,Peter,Stan,15
+69,Chris,Stan,3
+70,Stan,Stewie,3
+71,Brian,Stan,3
+72,Lois,Peter,10
+73,Chris,Lois,2
+74,Lois,Stewie,2
+75,Brian,Lois,2
+76,Lois,Sheila,8
+77,Gerald,Lois,2
+78,Chris,Peter,5
+79,Peter,Stewie,5
+80,Brian,Peter,5
+81,Peter,Sheila,20
+82,Gerald,Peter,5
+83,Chris,Stewie,1
+84,Brian,Chris,1
+85,Chris,Sheila,4
+86,Chris,Gerald,1
+87,Brian,Stewie,1
+88,Sheila,Stewie,4
+89,Gerald,Stewie,1
+90,Brian,Sheila,4
+91,Brian,Gerald,1
+92,Kyle,Mrs. Garrison,2
+93,Kyle,Wendy,1
+94,Kyle,Mr. Mackey,1
+95,Cartman,Mrs. Garrison,5
+96,Mrs. Garrison,Wendy,2
+97,Mr. Mackey,Mrs. Garrison,3
+98,Mrs. Garrison,Stan,5
+99,Cartman,Wendy,2
+100,Cartman,Mr. Mackey,3
+101,Mr. Mackey,Wendy,1
+102,Stan,Wendy,1
+103,Cartman,SNN anchor,2
+104,Cartman,FOX President,1
+105,Cartman,Randy,1
+106,Cartman,al-Zawahri,1
+107,Mrs. Garrison,SNN anchor,2
+108,FOX President,Mrs. Garrison,1
+109,Mrs. Garrison,Randy,4
+110,Mrs. Garrison,al-Zawahri,1
+111,FOX President,SNN anchor,2
+112,Randy,SNN anchor,2
+113,SNN anchor,al-Zawahri,2
+114,Mr. Mackey,SNN anchor,2
+115,FOX President,Randy,1
+116,FOX President,al-Zawahri,1
+117,FOX President,Mr. Mackey,1
+118,Mr. Mackey,al-Zawahri,1
+119,Kenny,Stan,3
+120,Cartman,Kenny,6
+121,Kenny,Kyle,2
+122,Gerald,Ike,4
+123,Ike,Kyle,8
+124,Ike,Sheila,4
+125,Mayor McDaniels,Randy,4
+126,Prof. Thomas,Randy,10
+127,Mayor McDaniels,Prof. Thomas,4
+128,Jimbo,Mayor McDaniels,2
+129,Mayor McDaniels,Stephen,2
+130,Mayor McDaniels,Mr. Mackey,2
+131,Gerald,Mayor McDaniels,2
+132,Jimbo,Prof. Thomas,4
+133,Prof. Thomas,Stephen,2
+134,Mr. Mackey,Prof. Thomas,2
+135,Gerald,Prof. Thomas,2
+136,Prof. Thomas,Stan,6
+137,Farmer,Stan,3
+138,Stan,Wife,6
+139,Dylan,Stan,6
+140,Farmer,Randy,3
+141,Randy,Wife,6
+142,Dylan,Randy,6
+143,Farmer,Jimbo,1
+144,Jimbo,Wife,2
+145,Dylan,Jimbo,2
+146,Jimbo,Mrs. Garrison,1
+147,Farmer,Prof. Thomas,2
+148,Prof. Thomas,Wife,4
+149,Dylan,Prof. Thomas,4
+150,Mrs. Garrison,Prof. Thomas,2
+151,Farmer,Wife,2
+152,Dylan,Farmer,2
+153,Farmer,Mrs. Garrison,1
+154,Dylan,Wife,4
+155,Mrs. Garrison,Wife,2
+156,Dylan,Mrs. Garrison,2
+157,FOX President,President Bush,6

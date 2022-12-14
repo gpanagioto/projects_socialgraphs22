@@ -1,0 +1,81 @@
+,source,target,weight
+0,Cartman,Mrs. Nelson,36
+1,Butters,Cartman,35
+2,Cartman,Tolkien,58
+3,Cartman,Craig,4
+4,Cartman,Kyle,7
+5,Cartman,Class,4
+6,Cartman,SWAT officer,4
+7,Butters,Mrs. Nelson,9
+8,Mrs. Nelson,Tolkien,9
+9,Craig,Mrs. Nelson,9
+10,Kyle,Mrs. Nelson,9
+11,Class,Mrs. Nelson,9
+12,Mrs. Nelson,SWAT officer,9
+13,Butters,Tolkien,1
+14,Butters,Craig,1
+15,Butters,Kyle,1
+16,Butters,Class,1
+17,Butters,SWAT officer,1
+18,Craig,Tolkien,1
+19,Kyle,Tolkien,1
+20,Class,Tolkien,1
+21,SWAT officer,Tolkien,1
+22,Craig,Kyle,1
+23,Class,Craig,1
+24,Craig,SWAT officer,1
+25,Class,Kyle,1
+26,Kyle,SWAT officer,1
+27,Class,SWAT officer,1
+28,Cartman,Stan,6
+29,Bill Keegan,Stan,2
+30,Kyle,Stan,2
+31,Sharon,Stan,28
+32,Bill Keegan,Cartman,3
+33,Cartman,Sharon,6
+34,Bill Keegan,Kyle,1
+35,Bill Keegan,Sharon,2
+36,Kyle,Sharon,2
+37,Randy,Stan,30
+38,Randy,Sharon,153
+39,Cartman,Mr. Mackey,28
+40,Cartman,PC Principal,14
+41,An officer,Cartman,7
+42,Mr. Mackey,Tolkien,12
+43,PC Principal,Tolkien,6
+44,An officer,Tolkien,3
+45,Mr. Mackey,PC Principal,8
+46,An officer,Mr. Mackey,4
+47,An officer,PC Principal,2
+48,Sharon,Stephen,39
+49,Randy,Stephen,36
+50,Laura,Stephen,3
+51,Ryan,Stephen,3
+52,Laura,Sharon,3
+53,Ryan,Sharon,3
+54,Laura,Randy,2
+55,Randy,Ryan,2
+56,Laura,Ryan,1
+57,Paramedic,Randy,6
+58,Cartman,Nichole,42
+59,Doctor,Sharon,16
+60,Cartman,Steve,12
+61,Linda Black,Steve,2
+62,Steve,Tolkien,4
+63,Linda,Steve,2
+64,Cartman,Linda Black,6
+65,Cartman,Linda,6
+66,Linda Black,Tolkien,2
+67,Linda,Linda Black,1
+68,Linda,Tolkien,2
+69,Linda Stotch,Sharon,2
+70,Harriet,Sharon,18
+71,Harriet,Linda Stotch,1
+72,Linda,Sharon,2
+73,Harriet,Linda,1
+74,Sharon,Townsman,7
+75,Harriet,Stephen,6
+76,Stephen,Townsman,3
+77,Harriet,Randy,8
+78,Randy,Townsman,4
+79,Harriet,Townsman,2

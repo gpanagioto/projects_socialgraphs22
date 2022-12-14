@@ -1,0 +1,133 @@
+,source,target,weight
+0,Kyle,Stan,69
+1,Cartman,Stan,60
+2,Craig,Stan,4
+3,Jimmy,Stan,8
+4,Butters,Stan,30
+5,Cartman,Kyle,51
+6,Craig,Kyle,4
+7,Jimmy,Kyle,8
+8,Butters,Kyle,30
+9,Cartman,Craig,4
+10,Cartman,Jimmy,8
+11,Butters,Cartman,28
+12,Craig,Jimmy,2
+13,Butters,Craig,7
+14,Butters,Jimmy,14
+15,Kenny,Stan,49
+16,Kenny,Kyle,50
+17,Cartman,Kenny,39
+18,Kenny,Tammy,61
+19,Joe,Jonas Brothers,10
+20,Jonas Brothers,Nick,6
+21,Joe,Nick,34
+22,Kevin,Nick,26
+23,Jonas Brothers,Mr. Slave,1
+24,Kenny,Usher,12
+25,Kenny,Roadie,4
+26,Girl in Puppy T-shirt,Kenny,8
+27,Fat Girl,Kenny,12
+28,Girl in O T-shirt,Kenny,4
+29,Jonas Brothers,Kenny,4
+30,Joe,Kenny,16
+31,Kenny,Nick,16
+32,Kenny,Kevin,16
+33,Kenny,The Girls,4
+34,Tammy,Usher,18
+35,Roadie,Usher,3
+36,Girl in Puppy T-shirt,Usher,6
+37,Fat Girl,Usher,9
+38,Girl in O T-shirt,Usher,3
+39,Jonas Brothers,Usher,3
+40,Joe,Usher,12
+41,Nick,Usher,12
+42,Kevin,Usher,12
+43,The Girls,Usher,3
+44,Roadie,Tammy,6
+45,Girl in Puppy T-shirt,Tammy,12
+46,Fat Girl,Tammy,18
+47,Girl in O T-shirt,Tammy,6
+48,Jonas Brothers,Tammy,6
+49,Joe,Tammy,24
+50,Nick,Tammy,24
+51,Kevin,Tammy,24
+52,Tammy,The Girls,6
+53,Girl in Puppy T-shirt,Roadie,2
+54,Fat Girl,Roadie,3
+55,Girl in O T-shirt,Roadie,1
+56,Jonas Brothers,Roadie,1
+57,Joe,Roadie,6
+58,Nick,Roadie,4
+59,Kevin,Roadie,5
+60,Roadie,The Girls,1
+61,Fat Girl,Girl in Puppy T-shirt,6
+62,Girl in O T-shirt,Girl in Puppy T-shirt,2
+63,Girl in Puppy T-shirt,Jonas Brothers,2
+64,Girl in Puppy T-shirt,Joe,8
+65,Girl in Puppy T-shirt,Nick,8
+66,Girl in Puppy T-shirt,Kevin,8
+67,Girl in Puppy T-shirt,The Girls,2
+68,Fat Girl,Girl in O T-shirt,3
+69,Fat Girl,Jonas Brothers,3
+70,Fat Girl,Joe,12
+71,Fat Girl,Nick,12
+72,Fat Girl,Kevin,12
+73,Fat Girl,The Girls,3
+74,Girl in O T-shirt,Jonas Brothers,1
+75,Girl in O T-shirt,Joe,4
+76,Girl in O T-shirt,Nick,4
+77,Girl in O T-shirt,Kevin,4
+78,Girl in O T-shirt,The Girls,1
+79,Jonas Brothers,Kevin,4
+80,Jonas Brothers,The Girls,1
+81,Joe,Kevin,54
+82,Joe,The Girls,4
+83,Nick,The Girls,4
+84,Kevin,The Girls,4
+85,Director,Joe,11
+86,Director,Kevin,11
+87,Kevin,Mickey,50
+88,Joe,Mickey,70
+89,Director,Mickey,14
+90,Director,Nick,2
+91,Mickey,Nick,17
+92,Host,Joe,30
+93,Host,Mickey,30
+94,Host,Kevin,12
+95,Host,Nick,12
+96,Host,Stan,18
+97,Cartman,Host,12
+98,Host,Kyle,18
+99,Joe,Stan,17
+100,Cartman,Joe,10
+101,Joe,Kyle,17
+102,Mickey,Stan,23
+103,Cartman,Mickey,13
+104,Kyle,Mickey,20
+105,Kevin,Stan,7
+106,Cartman,Kevin,4
+107,Kevin,Kyle,7
+108,Nick,Stan,6
+109,Cartman,Nick,4
+110,Kyle,Nick,6
+111,Audience,Stan,1
+112,Roadie,Stan,1
+113,Father,Stan,1
+114,Audience,Kyle,1
+115,Kyle,Roadie,1
+116,Father,Kyle,1
+117,Audience,Mickey,5
+118,Mickey,Roadie,5
+119,Father,Mickey,5
+120,Audience,Joe,2
+121,Father,Joe,2
+122,Audience,Kevin,1
+123,Father,Kevin,1
+124,Audience,Roadie,1
+125,Audience,Father,1
+126,Father,Roadie,1
+127,Mickey,Reporter,1
+128,Mickey,Tammy,5
+129,Kenny,Mickey,5
+130,Reporter,Tammy,5
+131,Kenny,Reporter,5

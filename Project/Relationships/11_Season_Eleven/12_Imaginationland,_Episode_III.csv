@@ -1,0 +1,170 @@
+,source,target,weight
+0,Aslan,Beavery Beaver,2
+1,Beavery Beaver,Butters,1
+2,Aslan,Butters,49
+3,Kyle,Stan,97
+4,Cartman,Kyle,104
+5,Cartman,Stan,36
+6,Aslan,Gandalf,16
+7,Aslan,Glinda,4
+8,Aslan,Luke Skywalker,12
+9,Aslan,Steven,4
+10,Aslan,Wonder Woman,11
+11,Aslan,Zeus,5
+12,Butters,Gandalf,22
+13,Butters,Glinda,7
+14,Butters,Luke Skywalker,16
+15,Butters,Steven,7
+16,Butters,Wonder Woman,11
+17,Butters,Zeus,10
+18,Gandalf,Glinda,2
+19,Gandalf,Luke Skywalker,4
+20,Gandalf,Steven,2
+21,Gandalf,Wonder Woman,4
+22,Gandalf,Zeus,2
+23,Glinda,Luke Skywalker,1
+24,Glinda,Steven,1
+25,Glinda,Wonder Woman,1
+26,Glinda,Zeus,1
+27,Luke Skywalker,Steven,1
+28,Luke Skywalker,Wonder Woman,3
+29,Luke Skywalker,Zeus,2
+30,Steven,Wonder Woman,1
+31,Steven,Zeus,1
+32,Wonder Woman,Zeus,1
+33,Anchorman,Mike,2
+34,General Deckter,Kyle,42
+35,Chief Justice,General Deckter,1
+36,Cartman,General Deckter,54
+37,General Deckter,Steven,1
+38,General Deckter,Stan,6
+39,Chief Justice,Kyle,7
+40,Kyle,Steven,7
+41,Cartman,Chief Justice,5
+42,Chief Justice,Steven,1
+43,Chief Justice,Stan,3
+44,Cartman,Steven,5
+45,Stan,Steven,3
+46,Beary Bear,Tron Soldier,1
+47,Icarus,Tron Soldier,1
+48,Aslan,Tron Soldier,3
+49,Tron Soldier,Wonder Woman,1
+50,Santa,Tron Soldier,2
+51,Luke Skywalker,Tron Soldier,1
+52,Beary Bear,Icarus,1
+53,Aslan,Beary Bear,3
+54,Beary Bear,Wonder Woman,1
+55,Beary Bear,Santa,2
+56,Beary Bear,Luke Skywalker,1
+57,Aslan,Icarus,3
+58,Icarus,Wonder Woman,1
+59,Icarus,Santa,2
+60,Icarus,Luke Skywalker,1
+61,Aslan,Santa,7
+62,Santa,Wonder Woman,2
+63,Luke Skywalker,Santa,3
+64,Hippies,Kyle,2
+65,Al Gore,Kyle,10
+66,Al Gore,Hippies,1
+67,Butters,Perseus,8
+68,Butters,Robin Hood,8
+69,Butters,Cavity Creeps,4
+70,Archangel,Butters,4
+71,Butters,Stan,25
+72,Perseus,Robin Hood,4
+73,Aslan,Perseus,8
+74,Cavity Creeps,Perseus,2
+75,Perseus,Wonder Woman,2
+76,Gandalf,Perseus,4
+77,Archangel,Perseus,2
+78,Perseus,Stan,8
+79,Luke Skywalker,Perseus,2
+80,Aslan,Robin Hood,8
+81,Cavity Creeps,Robin Hood,2
+82,Robin Hood,Wonder Woman,2
+83,Gandalf,Robin Hood,4
+84,Archangel,Robin Hood,2
+85,Robin Hood,Stan,8
+86,Luke Skywalker,Robin Hood,2
+87,Aslan,Cavity Creeps,4
+88,Archangel,Aslan,4
+89,Aslan,Stan,19
+90,Cavity Creeps,Wonder Woman,1
+91,Cavity Creeps,Gandalf,2
+92,Archangel,Cavity Creeps,1
+93,Cavity Creeps,Stan,4
+94,Cavity Creeps,Luke Skywalker,1
+95,Archangel,Wonder Woman,1
+96,Stan,Wonder Woman,4
+97,Archangel,Gandalf,2
+98,Gandalf,Stan,8
+99,Archangel,Stan,4
+100,Archangel,Luke Skywalker,1
+101,Luke Skywalker,Stan,19
+102,General Deckter,Lab Tech,10
+103,General Deckter,Tom,20
+104,General Deckter,Personnel,5
+105,Cartman,Lab Tech,8
+106,Cartman,Tom,16
+107,Cartman,Personnel,4
+108,Lab Tech,Tom,8
+109,Lab Tech,Personnel,2
+110,Personnel,Tom,4
+111,Jesus,Kyle,27
+112,Kyle,Luke Skywalker,39
+113,Kyle,Superman,48
+114,Jesus,Stan,11
+115,Stan,Superman,16
+116,Jesus,Luke Skywalker,7
+117,Jesus,Superman,8
+118,Luke Skywalker,Superman,12
+119,Lollipop King,Popeye,1
+120,Beary Bear,Lollipop King,1
+121,Beary Bear,Popeye,1
+122,Aslan,Jesus,2
+123,Al Gore,Cartman,6
+124,Al Gore,General Deckter,16
+125,Aslan,Fanciful Mayor,3
+126,Aslan,Cartman,5
+127,Aslan,Kyle,3
+128,Aslan,Lollipop King,1
+129,Aslan,General Deckter,1
+130,Stan,Zeus,3
+131,Fanciful Mayor,Stan,9
+132,Lollipop King,Stan,3
+133,Santa,Stan,3
+134,Butters,Jesus,3
+135,Butters,Fanciful Mayor,9
+136,Butters,Cartman,15
+137,Butters,Kyle,9
+138,Butters,Lollipop King,3
+139,Butters,General Deckter,3
+140,Butters,Santa,3
+141,Jesus,Zeus,1
+142,Fanciful Mayor,Zeus,3
+143,Cartman,Zeus,5
+144,Kyle,Zeus,3
+145,Lollipop King,Zeus,1
+146,General Deckter,Zeus,1
+147,Santa,Zeus,1
+148,Fanciful Mayor,Jesus,3
+149,Cartman,Jesus,5
+150,Jesus,Lollipop King,1
+151,General Deckter,Jesus,1
+152,Jesus,Santa,1
+153,Fanciful Mayor,Luke Skywalker,3
+154,Cartman,Fanciful Mayor,15
+155,Fanciful Mayor,Kyle,9
+156,Fanciful Mayor,Lollipop King,3
+157,Fanciful Mayor,General Deckter,3
+158,Fanciful Mayor,Santa,3
+159,Cartman,Luke Skywalker,5
+160,Lollipop King,Luke Skywalker,1
+161,General Deckter,Luke Skywalker,1
+162,Cartman,Lollipop King,5
+163,Cartman,Santa,5
+164,Kyle,Lollipop King,3
+165,Kyle,Santa,3
+166,General Deckter,Lollipop King,1
+167,Lollipop King,Santa,1
+168,General Deckter,Santa,1

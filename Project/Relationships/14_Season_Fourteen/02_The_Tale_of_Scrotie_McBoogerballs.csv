@@ -1,0 +1,103 @@
+,source,target,weight
+0,Cartman,Mr. Garrison,35
+1,Cartman,Stan,57
+2,Cartman,Kenny,32
+3,Cartman,Kyle,72
+4,Cartman,Class,5
+5,Mr. Garrison,Stan,7
+6,Kenny,Mr. Garrison,7
+7,Kyle,Mr. Garrison,7
+8,Class,Mr. Garrison,7
+9,Kenny,Stan,9
+10,Kyle,Stan,44
+11,Class,Stan,1
+12,Kenny,Kyle,24
+13,Class,Kenny,1
+14,Class,Kyle,1
+15,Butters,Stephen,28
+16,Kyle,Stephen,7
+17,Cartman,Stephen,5
+18,Stan,Stephen,4
+19,Kenny,Stephen,2
+20,Butters,Kyle,28
+21,Butters,Cartman,36
+22,Butters,Stan,30
+23,Butters,Kenny,2
+24,Randy,Sharon,90
+25,Butters,Kim,5
+26,Kim,Stan,1
+27,Cartman,Kim,2
+28,Sheila,Stan,6
+29,Cartman,Sheila,2
+30,Randy,Sheila,4
+31,Butters,Sheila,8
+32,Gerald,Sheila,4
+33,Kyle,Sheila,6
+34,Mr. Needlebaum,Sheila,2
+35,Sheila,Stephen,2
+36,Randy,Stan,6
+37,Gerald,Stan,6
+38,Mr. Needlebaum,Stan,3
+39,Cartman,Randy,2
+40,Cartman,Gerald,2
+41,Cartman,Mr. Needlebaum,1
+42,Butters,Randy,8
+43,Gerald,Randy,4
+44,Kyle,Randy,6
+45,Mr. Needlebaum,Randy,2
+46,Randy,Stephen,2
+47,Butters,Gerald,8
+48,Butters,Mr. Needlebaum,4
+49,Gerald,Kyle,6
+50,Gerald,Mr. Needlebaum,2
+51,Gerald,Stephen,2
+52,Kyle,Mr. Needlebaum,3
+53,Mr. Needlebaum,Stephen,1
+54,Butters,Mr. Adler,6
+55,Mr. Adler,Mrs. Streibel,1
+56,Cartman,Mr. Adler,3
+57,Kyle,Mr. Adler,2
+58,Mr. Adler,Stan,2
+59,Mr. Adler,Red,1
+60,Lola,Mr. Adler,2
+61,Mr. Adler,Rebecca,1
+62,Butters,Mrs. Streibel,6
+63,Butters,Red,6
+64,Butters,Lola,12
+65,Butters,Rebecca,6
+66,Cartman,Mrs. Streibel,3
+67,Kyle,Mrs. Streibel,2
+68,Mrs. Streibel,Stan,2
+69,Mrs. Streibel,Red,1
+70,Lola,Mrs. Streibel,2
+71,Mrs. Streibel,Rebecca,1
+72,Cartman,Red,3
+73,Cartman,Lola,6
+74,Cartman,Rebecca,3
+75,Kyle,Red,2
+76,Kyle,Lola,4
+77,Kyle,Rebecca,2
+78,Red,Stan,2
+79,Lola,Stan,4
+80,Rebecca,Stan,2
+81,Lola,Red,2
+82,Rebecca,Red,1
+83,Lola,Rebecca,2
+84,Announcer,Broderick,1
+85,Broderick,Stephen,4
+86,Broderick,Linda,1
+87,Broderick,Butters,5
+88,Announcer,Stephen,4
+89,Announcer,Linda,1
+90,Announcer,Butters,5
+91,Linda,Stephen,4
+92,Butters,Linda,5
+93,Butters,Field Reporter,6
+94,Field Reporter,Stephen,2
+95,Al,Meredith,2
+96,Matt,Meredith,2
+97,Al,Matt,1
+98,Marsha,Stan,6
+99,Cartman,Marsha,6
+100,Kyle,Marsha,2
+101,Bruce Jenner,The Kardashians,1

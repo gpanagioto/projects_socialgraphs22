@@ -1,0 +1,79 @@
+,source,target,weight
+0,Randy,Stan,23
+1,Randy,Stephen,66
+2,Mr. Mackey,Randy,22
+3,Mr. Mackey,Stephen,24
+4,Cartman,Stephen,8
+5,Esposa,Stephen,2
+6,Girl,Stephen,2
+7,Cartman,Esposa,4
+8,Cartman,Girl,4
+9,Esposa,Girl,1
+10,Cartman,Kyle,37
+11,Ike,Kyle,6
+12,Gerald,Kyle,30
+13,Kyle,Sheila,24
+14,Cartman,Ike,4
+15,Cartman,Gerald,20
+16,Cartman,Sheila,16
+17,Gerald,Ike,5
+18,Ike,Sheila,4
+19,Gerald,Sheila,20
+20,Randy,Towelie,34
+21,Stan,Towelie,3
+22,David,Jeff,83
+23,David,Rodgers,6
+24,David,Martinez,2
+25,Aguilar,David,2
+26,David,Kyle,54
+27,Boy,David,2
+28,David,Girl,2
+29,Martinez,Rodgers,3
+30,Aguilar,Rodgers,3
+31,Kyle,Rodgers,9
+32,Jeff,Rodgers,6
+33,Boy,Rodgers,3
+34,Girl,Rodgers,3
+35,Aguilar,Martinez,1
+36,Kyle,Martinez,3
+37,Jeff,Martinez,2
+38,Boy,Martinez,1
+39,Girl,Martinez,1
+40,Aguilar,Kyle,3
+41,Aguilar,Jeff,2
+42,Aguilar,Boy,1
+43,Aguilar,Girl,1
+44,Jeff,Kyle,94
+45,Boy,Kyle,3
+46,Girl,Kyle,3
+47,Boy,Jeff,2
+48,Girl,Jeff,2
+49,Boy,Girl,1
+50,Jeff,Mexican Joker,20
+51,Jeff,Princess Star,12
+52,David,Mexican Joker,10
+53,David,Princess Star,6
+54,Mexican Joker,Princess Star,15
+55,Cartman,David,5
+56,Jimbo,Randy,10
+57,Jimbo,Mr. Mackey,10
+58,Jimbo,Stephen,30
+59,Husband,Wife,8
+60,Jack,Wife,4
+61,Husband,Jack,2
+62,Cmdr Miller,News Anchor,20
+63,Cmdr Miller,Jeff,40
+64,Cmdr Miller,David,10
+65,Cmdr Miller,Kyle,15
+66,Cmdr Miller,Kids,5
+67,Cartman,Cmdr Miller,5
+68,Jeff,News Anchor,32
+69,David,News Anchor,8
+70,Kyle,News Anchor,12
+71,Kids,News Anchor,4
+72,Cartman,News Anchor,4
+73,Jeff,Kids,8
+74,Cartman,Jeff,8
+75,David,Kids,2
+76,Kids,Kyle,3
+77,Cartman,Kids,1

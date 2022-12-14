@@ -1,0 +1,54 @@
+,source,target,weight
+0,Cartman,Kyle,25
+1,Cartman,Stan,85
+2,Cartman,Kenny,5
+3,Brian,Cartman,65
+4,Cartman,Kelly,10
+5,Kyle,Stan,89
+6,Kenny,Kyle,4
+7,Brian,Kyle,52
+8,Kelly,Kyle,8
+9,Kenny,Stan,16
+10,Brian,Stan,220
+11,Kelly,Stan,38
+12,Brian,Kenny,13
+13,Kelly,Kenny,2
+14,Brian,Kelly,28
+15,Sharon,Stan,58
+16,Randy,Stan,149
+17,Marvin,Stan,8
+18,Randy,Sharon,46
+19,Marvin,Sharon,3
+20,Marvin,Randy,5
+21,Michelle,Stan,42
+22,Kelly,Michelle,7
+23,Brian,Michelle,14
+24,Brian,Mr. Mackey,4
+25,Mike,Mr. Mackey,4
+26,Brian,Mike,16
+27,President,Randy,77
+28,President,Stan,162
+29,President,Sharon,22
+30,President,Shelly,4
+31,John Travolta,President,4
+32,Cruise,President,40
+33,Sharon,Shelly,3
+34,John Travolta,Sharon,3
+35,Cruise,Sharon,30
+36,Randy,Shelly,9
+37,John Travolta,Randy,9
+38,Cruise,Randy,94
+39,John Travolta,Shelly,1
+40,Shelly,Stan,10
+41,Cruise,Shelly,10
+42,John Travolta,Stan,10
+43,Cruise,John Travolta,10
+44,Cruise,Stan,100
+45,Chris,Sergeant,1
+46,Randy,Xenu,12
+47,President,Xenu,30
+48,Sharon,Xenu,3
+49,Stan,Xenu,12
+50,Cruise,Nicole,20
+51,Cruise,Travolta,16
+52,Randy,Travolta,4

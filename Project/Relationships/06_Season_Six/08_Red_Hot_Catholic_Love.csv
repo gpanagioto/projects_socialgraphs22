@@ -1,0 +1,139 @@
+,source,target,weight
+0,Randy,Stan,13
+1,Linda,Richard,6
+2,Cartman,Tweek,36
+3,Richard,Stuart,2
+4,Sharon,Stuart,1
+5,Randy,Stuart,1
+6,Priest Maxi,Stuart,1
+7,Stephen,Stuart,1
+8,Richard,Sharon,8
+9,Randy,Richard,10
+10,Priest Maxi,Richard,4
+11,Richard,Stephen,4
+12,Randy,Sharon,7
+13,Priest Maxi,Sharon,1
+14,Sharon,Stephen,1
+15,Priest Maxi,Randy,1
+16,Randy,Stephen,7
+17,Priest Maxi,Stephen,1
+18,Boys,Counselor,15
+19,Boys,Stan,6
+20,Boys,Butters,6
+21,Boys,Cartman,3
+22,Counselor,Stan,10
+23,Butters,Counselor,10
+24,Cartman,Counselor,5
+25,Butters,Stan,4
+26,Cartman,Stan,62
+27,Butters,Cartman,2
+28,Randy,Roger,7
+29,Richard,Roger,5
+30,Linda,Roger,3
+31,Roger,Stephen,4
+32,Linda,Randy,5
+33,Linda,Stephen,2
+34,Cartman,Kyle,167
+35,Cartman,Chef,20
+36,Cartman,Parents,20
+37,Cartman,Randy,14
+38,Cartman,Richard,14
+39,Kyle,Tweek,38
+40,Kyle,Stan,60
+41,Chef,Kyle,22
+42,Kyle,Parents,22
+43,Kyle,Randy,15
+44,Kyle,Richard,15
+45,Stan,Tweek,14
+46,Chef,Tweek,6
+47,Parents,Tweek,6
+48,Randy,Tweek,3
+49,Richard,Tweek,3
+50,Chef,Stan,8
+51,Parents,Stan,8
+52,Richard,Stan,4
+53,Chef,Parents,4
+54,Chef,Randy,2
+55,Chef,Richard,2
+56,Parents,Randy,2
+57,Parents,Richard,2
+58,Elderly priest,Priest Maxi,32
+59,Elderly priest,Fat priest,4
+60,Elderly priest,Other priests,8
+61,Fat priest,Priest Maxi,8
+62,Other priests,Priest Maxi,16
+63,Fat priest,Other priests,2
+64,Cartman,Craig,10
+65,Craig,Stan,4
+66,Craig,Kyle,6
+67,Italian cardinal,Priest Maxi,59
+68,Italian cardinal,Other Cardinals,5
+69,French cardinal,Italian cardinal,9
+70,Italian cardinal,Moroccan cardinal,5
+71,British cardinal,Italian cardinal,13
+72,Italian cardinal,The Clergy,5
+73,Gelgamek cardinal,Italian cardinal,9
+74,Other Cardinals,Priest Maxi,5
+75,French cardinal,Priest Maxi,19
+76,Moroccan cardinal,Priest Maxi,5
+77,British cardinal,Priest Maxi,17
+78,Priest Maxi,The Clergy,5
+79,Gelgamek cardinal,Priest Maxi,19
+80,French cardinal,Other Cardinals,1
+81,Moroccan cardinal,Other Cardinals,1
+82,British cardinal,Other Cardinals,1
+83,Other Cardinals,The Clergy,1
+84,Gelgamek cardinal,Other Cardinals,1
+85,French cardinal,Moroccan cardinal,1
+86,British cardinal,French cardinal,1
+87,French cardinal,The Clergy,1
+88,French cardinal,Gelgamek cardinal,5
+89,British cardinal,Moroccan cardinal,1
+90,Moroccan cardinal,The Clergy,1
+91,Gelgamek cardinal,Moroccan cardinal,1
+92,British cardinal,The Clergy,1
+93,British cardinal,Gelgamek cardinal,1
+94,Gelgamek cardinal,The Clergy,1
+95,Sharon,Stan,8
+96,Another cardinal,French cardinal,4
+97,A Bishop,French cardinal,2
+98,Another cardinal,Priest Maxi,14
+99,A Bishop,Priest Maxi,7
+100,Another cardinal,Gelgamek cardinal,4
+101,Another cardinal,Italian cardinal,4
+102,A Bishop,Another cardinal,2
+103,A Bishop,Gelgamek cardinal,2
+104,A Bishop,Italian cardinal,2
+105,News anchor,Tweek,3
+106,Surgeon General,Tweek,1
+107,Cartman,News anchor,15
+108,Cartman,Surgeon General,5
+109,News anchor,Stan,6
+110,Stan,Surgeon General,2
+111,Kyle,News anchor,15
+112,Kyle,Surgeon General,5
+113,News anchor,Surgeon General,3
+114,FBI agent,Martha Stewart,2
+115,Old monk,Priest Maxi,12
+116,Linda,Sharon,2
+117,Roger,Sharon,2
+118,British cardinal,The clergy,2
+119,British cardinal,Queen Spider,4
+120,A bishop,British cardinal,2
+121,Priest Maxi,The clergy,5
+122,Priest Maxi,Queen Spider,10
+123,A bishop,Priest Maxi,5
+124,Italian cardinal,The clergy,4
+125,Italian cardinal,Queen Spider,8
+126,A bishop,Italian cardinal,4
+127,Queen Spider,The clergy,2
+128,A bishop,The clergy,1
+129,A bishop,Queen Spider,2
+130,A Man,Kyle,4
+131,Kyle,Linda,4
+132,A Man,Cartman,4
+133,Cartman,Linda,4
+134,A Man,Randy,1
+135,A Man,Linda,1
+136,A Man,Richard,1
+137,British cardinal,Richard,1

@@ -1,0 +1,111 @@
+,source,target,weight
+0,Cartman,Kyle,441
+1,Kyle,Narrator,231
+2,Kyle,Stan,275
+3,Cartman,Narrator,267
+4,Cartman,Stan,305
+5,Narrator,Stan,158
+6,Kenny,Kyle,32
+7,Cartman,Kenny,46
+8,Kenny,Stan,19
+9,Kenny,Narrator,20
+10,Clerk,Stan,10
+11,Michael,Stan,282
+12,Cartman,Clerk,15
+13,Clerk,Narrator,15
+14,Clerk,Kyle,10
+15,Clerk,Michael,20
+16,Cartman,Michael,454
+17,Michael,Narrator,244
+18,Kyle,Michael,408
+19,Adults,Stan,39
+20,Guide,Stan,78
+21,Boys,Stan,13
+22,Pete,Stan,26
+23,Stan,The boys,13
+24,Stan,Zipliner,13
+25,Some adults,Stan,13
+26,Rancher,Stan,39
+27,Duncan,Stan,13
+28,Adults,Narrator,33
+29,Guide,Narrator,66
+30,Boys,Narrator,11
+31,Narrator,Pete,22
+32,Narrator,The boys,11
+33,Narrator,Zipliner,11
+34,Narrator,Some adults,11
+35,Narrator,Rancher,33
+36,Duncan,Narrator,11
+37,Adults,Michael,63
+38,Guide,Michael,126
+39,Boys,Michael,21
+40,Michael,Pete,42
+41,Michael,The boys,21
+42,Michael,Zipliner,21
+43,Michael,Some adults,21
+44,Michael,Rancher,63
+45,Kenny,Michael,21
+46,Duncan,Michael,21
+47,Adults,Kyle,57
+48,Adults,Cartman,63
+49,Adults,Guide,18
+50,Adults,Boys,3
+51,Adults,Pete,6
+52,Adults,The boys,3
+53,Adults,Zipliner,3
+54,Adults,Some adults,3
+55,Adults,Rancher,9
+56,Adults,Kenny,3
+57,Adults,Duncan,3
+58,Guide,Kyle,114
+59,Boys,Kyle,19
+60,Kyle,Pete,38
+61,Kyle,The boys,19
+62,Kyle,Zipliner,19
+63,Kyle,Some adults,19
+64,Kyle,Rancher,57
+65,Duncan,Kyle,19
+66,Cartman,Guide,126
+67,Boys,Cartman,21
+68,Cartman,Pete,42
+69,Cartman,The boys,21
+70,Cartman,Zipliner,21
+71,Cartman,Some adults,21
+72,Cartman,Rancher,63
+73,Cartman,Duncan,21
+74,Boys,Guide,6
+75,Guide,Pete,12
+76,Guide,The boys,6
+77,Guide,Zipliner,6
+78,Guide,Some adults,6
+79,Guide,Rancher,18
+80,Guide,Kenny,6
+81,Duncan,Guide,6
+82,Boys,Pete,2
+83,Boys,The boys,1
+84,Boys,Zipliner,1
+85,Boys,Some adults,1
+86,Boys,Rancher,3
+87,Boys,Kenny,1
+88,Boys,Duncan,1
+89,Pete,The boys,2
+90,Pete,Zipliner,2
+91,Pete,Some adults,2
+92,Pete,Rancher,6
+93,Kenny,Pete,2
+94,Duncan,Pete,2
+95,The boys,Zipliner,1
+96,Some adults,The boys,1
+97,Rancher,The boys,3
+98,Kenny,The boys,1
+99,Duncan,The boys,1
+100,Some adults,Zipliner,1
+101,Rancher,Zipliner,3
+102,Kenny,Zipliner,1
+103,Duncan,Zipliner,1
+104,Rancher,Some adults,3
+105,Kenny,Some adults,1
+106,Duncan,Some adults,1
+107,Kenny,Rancher,3
+108,Duncan,Rancher,3
+109,Duncan,Kenny,1

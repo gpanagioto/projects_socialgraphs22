@@ -1,0 +1,178 @@
+,source,target,weight
+0,Class,Ms. Choksondik,3
+1,Class,Wendy,1
+2,Butters,Class,1
+3,Class,Stan,2
+4,Class,Kyle,2
+5,Class,Kenny,2
+6,Ms. Choksondik,Wendy,3
+7,Butters,Ms. Choksondik,3
+8,Ms. Choksondik,Stan,9
+9,Kyle,Ms. Choksondik,10
+10,Kenny,Ms. Choksondik,7
+11,Butters,Wendy,1
+12,Stan,Wendy,2
+13,Kyle,Wendy,2
+14,Kenny,Wendy,2
+15,Butters,Stan,14
+16,Butters,Kyle,20
+17,Butters,Kenny,6
+18,Kyle,Stan,85
+19,Kenny,Stan,23
+20,Kenny,Kyle,22
+21,Phillip,Terrance,9
+22,Cartman,Terrance,12
+23,Liane,Terrance,6
+24,Cartman,Phillip,12
+25,Liane,Phillip,6
+26,Cartman,Liane,31
+27,Liane,Mr. Mackey,14
+28,Dr. Doctor,Liane,6
+29,Liane,Mr. Garrison,10
+30,Cartman,Mr. Mackey,12
+31,Dr. Doctor,Mr. Mackey,4
+32,Mr. Garrison,Mr. Mackey,6
+33,Cartman,Dr. Doctor,10
+34,Cartman,Mr. Garrison,11
+35,Dr. Doctor,Mr. Garrison,4
+36,Ms. Choksondik,Principal Victoria,1
+37,Kyle,Principal Victoria,7
+38,Principal Victoria,Stan,5
+39,Kenny,Principal Victoria,1
+40,Bebe,Kyle,1
+41,Bebe,Stan,1
+42,Bebe,Ms. Choksondik,1
+43,Liane,Male Counselor,4
+44,Cartman,Male Counselor,4
+45,Male Counselor,Rick,4
+46,Liane,Rick,4
+47,Cartman,Rick,44
+48,Cartman,Taller Boy,8
+49,Cartman,Pink Monster,6
+50,Rick,Taller Boy,27
+51,Pink Monster,Taller Boy,12
+52,Pink Monster,Rick,18
+53,Kids,Stan,4
+54,Clyde,Stan,4
+55,Stan,Tolkien,4
+56,Kids,Kyle,6
+57,Clyde,Kyle,6
+58,Kyle,Tolkien,6
+59,Kenny,Kids,2
+60,Butters,Kids,2
+61,Clyde,Kids,1
+62,Kids,Tolkien,1
+63,Clyde,Kenny,2
+64,Kenny,Tolkien,2
+65,Butters,Clyde,2
+66,Butters,Tolkien,2
+67,Clyde,Tolkien,1
+68,Cartman,Susan,26
+69,Brunet Boy,Cartman,8
+70,Blonde Girl,Cartman,8
+71,Brunet Boy,Susan,2
+72,Blonde Girl,Susan,4
+73,Blonde Girl,Brunet Boy,2
+74,Cartman,Driver,9
+75,Susan,Taller Boy,2
+76,Eric,Taller Boy,1
+77,Rick,Susan,40
+78,Eric,Rick,3
+79,Eric,Susan,2
+80,Mr. Garrison,Stan,3
+81,Kyle,Mr. Garrison,4
+82,Mr. Garrison,Principal Victoria,1
+83,Liane,Stan,12
+84,Kyle,Liane,16
+85,Liane,Principal Victoria,4
+86,Mr. Mackey,Stan,6
+87,Kyle,Mr. Mackey,8
+88,Mr. Mackey,Principal Victoria,2
+89,Cartman,Stan,3
+90,Cartman,Kyle,4
+91,Cartman,Principal Victoria,1
+92,Jesus,Kenny,6
+93,Jesus,Stan,12
+94,Jesus,Kyle,12
+95,Chef,Stan,70
+96,Chef,Kenny,10
+97,Chef,Kyle,10
+98,Kenny,Other Students,1
+99,Announcer,Kenny,1
+100,Chad,Susan,8
+101,Blonde Girl,Rick,2
+102,Chad,Rick,8
+103,Cartman,Chad,13
+104,Blonde Girl,Chad,2
+105,Howard Stern,Tom Green,25
+106,Johnny Knoxville,Tom Green,20
+107,Kenny,Tom Green,10
+108,Howard Stern,Johnny Knoxville,20
+109,Howard Stern,Kenny,10
+110,Johnny Knoxville,Kenny,8
+111,Campers,Rick,24
+112,Campers,Rick..,4
+113,Campers,Susan,18
+114,Campers,Mr. Sanders,25
+115,Campers,Mrs. Sanders,4
+116,Campers,Horace,11
+117,Rick,Rick..,5
+118,Mr. Sanders,Rick,34
+119,Mrs. Sanders,Rick,5
+120,Horace,Rick,22
+121,Rick..,Susan,4
+122,Mr. Sanders,Rick..,6
+123,Mrs. Sanders,Rick..,1
+124,Horace,Rick..,2
+125,Mr. Sanders,Susan,26
+126,Mrs. Sanders,Susan,4
+127,Horace,Susan,14
+128,Mr. Sanders,Mrs. Sanders,6
+129,Horace,Mr. Sanders,15
+130,Horace,Mrs. Sanders,2
+131,Kyle,Ms. Crabtree,12
+132,Ms. Crabtree,Stan,8
+133,Butters,Ms. Crabtree,2
+134,Audience,Ms. Crabtree,1
+135,Announcer,Ms. Crabtree,1
+136,Announcer,Audience,1
+137,Chad's Dad,Rick,4
+138,Chad's Dad,Susan,2
+139,Alice,Chad's Dad,1
+140,Cartman,Chad's Dad,5
+141,Chad,Chad's Dad,1
+142,Chad's Dad,Horace,3
+143,Chad's Dad,Other campers,2
+144,Chad's Dad,Girl,1
+145,Chad's Dad,Mr. Sanders,1
+146,Campers,Chad's Dad,1
+147,Alice,Rick,4
+148,Other campers,Rick,8
+149,Girl,Rick,4
+150,Alice,Susan,2
+151,Other campers,Susan,4
+152,Girl,Susan,2
+153,Alice,Cartman,5
+154,Alice,Chad,1
+155,Alice,Horace,3
+156,Alice,Other campers,2
+157,Alice,Girl,1
+158,Alice,Mr. Sanders,1
+159,Alice,Campers,1
+160,Cartman,Horace,15
+161,Cartman,Other campers,10
+162,Cartman,Girl,5
+163,Cartman,Mr. Sanders,5
+164,Campers,Cartman,5
+165,Chad,Horace,3
+166,Chad,Other campers,2
+167,Chad,Girl,1
+168,Chad,Mr. Sanders,1
+169,Campers,Chad,1
+170,Horace,Other campers,6
+171,Girl,Horace,3
+172,Girl,Other campers,2
+173,Mr. Sanders,Other campers,2
+174,Campers,Other campers,2
+175,Girl,Mr. Sanders,1
+176,Campers,Girl,1

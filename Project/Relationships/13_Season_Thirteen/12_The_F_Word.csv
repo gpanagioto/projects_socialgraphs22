@@ -1,0 +1,45 @@
+,source,target,weight
+0,Kyle,Stan,41
+1,Kenny,Stan,17
+2,Cartman,Stan,77
+3,Kenny,Kyle,3
+4,Cartman,Kyle,27
+5,Cartman,Kenny,6
+6,Gerald,Randy,1
+7,Cartman,Lead Biker,7
+8,Kyle,Lead Biker,1
+9,Lead Biker,Stan,1
+10,Jimmy,Kyle,4
+11,Butters,Kyle,8
+12,Cartman,Jimmy,12
+13,Butters,Cartman,24
+14,Jimmy,Stan,14
+15,Butters,Jimmy,8
+16,Butters,Stan,28
+17,Big Gay Al,Mr. Slave,3
+18,Cartman,Mayor McDaniels,12
+19,Cartman,Other Kids,3
+20,Cartman,Mr. Mackey,6
+21,Mayor McDaniels,Stan,20
+22,Kyle,Mayor McDaniels,13
+23,Mayor McDaniels,Other Kids,3
+24,Mayor McDaniels,Mr. Mackey,6
+25,Other Kids,Stan,4
+26,Mr. Mackey,Stan,8
+27,Kyle,Other Kids,3
+28,Kyle,Mr. Mackey,6
+29,Mr. Mackey,Other Kids,2
+30,Field Reporter,News Anchor,28
+31,Martin,News Anchor,4
+32,Lead Biker,News Anchor,16
+33,News Anchor,Randy,4
+34,Field Reporter,Martin,7
+35,Field Reporter,Lead Biker,28
+36,Field Reporter,Randy,7
+37,Lead Biker,Martin,4
+38,Martin,Randy,1
+39,Lead Biker,Randy,4
+40,Another Mayor,Mayor McDaniels,3
+41,Another Mayor,Kyle,1
+42,Another Mayor,Stan,2
+43,Another Mayor,Cartman,1

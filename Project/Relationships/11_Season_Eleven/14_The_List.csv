@@ -1,0 +1,126 @@
+,source,target,weight
+0,Butters,Stan,13
+1,Craig,Stan,21
+2,Stan,Tolkien,7
+3,Cartman,Stan,35
+4,Clyde,Stan,17
+5,Kyle,Stan,78
+6,Kenny,Stan,7
+7,Butters,Craig,15
+8,Butters,Tolkien,5
+9,Butters,Cartman,38
+10,Butters,Clyde,15
+11,Butters,Kyle,12
+12,Butters,Kenny,5
+13,Craig,Tolkien,6
+14,Cartman,Craig,30
+15,Clyde,Craig,12
+16,Craig,Kyle,18
+17,Craig,Kenny,6
+18,Cartman,Tolkien,10
+19,Clyde,Tolkien,4
+20,Kyle,Tolkien,6
+21,Kenny,Tolkien,2
+22,Cartman,Clyde,24
+23,Cartman,Kyle,30
+24,Cartman,Kenny,10
+25,Clyde,Kyle,18
+26,Clyde,Kenny,4
+27,Kenny,Kyle,6
+28,Bebe,Cartman,9
+29,Bebe,Butters,3
+30,Craig,Nelly,3
+31,A Boy,Craig,6
+32,Cartman,Nelly,5
+33,Clyde,Nelly,3
+34,A Boy,Nelly,2
+35,Nelly,Stan,5
+36,Nelly,Tolkien,1
+37,Butters,Nelly,1
+38,Kenny,Nelly,1
+39,Kyle,Nelly,4
+40,A Boy,Cartman,10
+41,A Boy,Clyde,6
+42,A Boy,Stan,10
+43,A Boy,Tolkien,2
+44,A Boy,Butters,2
+45,A Boy,Kenny,2
+46,A Boy,Kyle,8
+47,Linda,Stephen,2
+48,Butters,Stephen,2
+49,Butters,Linda,1
+50,Kyle,Sheila,20
+51,Gerald,Kyle,5
+52,Gerald,Sheila,4
+53,Anne,Clyde,4
+54,Clyde,Girl,4
+55,Anne,Butters,2
+56,Anne,Girl,1
+57,Anne,Cartman,1
+58,Butters,Girl,2
+59,Cartman,Girl,1
+60,Bushy Eyebrows Boy,Kyle,5
+61,Big-Eared Boy,Kyle,8
+62,Big-Eared Boy,Fat Girl,2
+63,Big-Eared Boy,Bushy Eyebrows Boy,2
+64,Big-Eared Boy,Lola,4
+65,Big-Eared Boy,Stan,12
+66,Big-Eared Boy,Wendy,12
+67,Fat Girl,Kyle,4
+68,Kyle,Lola,8
+69,Kyle,Wendy,49
+70,Bushy Eyebrows Boy,Fat Girl,1
+71,Fat Girl,Lola,2
+72,Fat Girl,Stan,6
+73,Fat Girl,Wendy,6
+74,Bushy Eyebrows Boy,Lola,2
+75,Bushy Eyebrows Boy,Stan,6
+76,Bushy Eyebrows Boy,Wendy,6
+77,Lola,Stan,26
+78,Lola,Wendy,58
+79,Stan,Wendy,91
+80,Bebe,Red,10
+81,Girls,Red,6
+82,Lola,Red,4
+83,Millie,Red,2
+84,Red,Wendy,10
+85,Heidi,Red,2
+86,Red,Stan,6
+87,Bebe,Girls,15
+88,Bebe,Lola,10
+89,Bebe,Millie,5
+90,Bebe,Wendy,45
+91,Bebe,Heidi,5
+92,Bebe,Stan,46
+93,Girls,Lola,6
+94,Girls,Millie,3
+95,Girls,Wendy,9
+96,Girls,Heidi,3
+97,Girls,Stan,6
+98,Lola,Millie,2
+99,Heidi,Lola,2
+100,Millie,Wendy,3
+101,Heidi,Millie,1
+102,Millie,Stan,2
+103,Heidi,Wendy,3
+104,Heidi,Stan,2
+105,A Voice,Kyle,8
+106,A Voice,Abraham Lincoln,8
+107,A Voice,Clyde,2
+108,Abraham Lincoln,Kyle,17
+109,Abraham Lincoln,Clyde,4
+110,Jerry,Kyle,1
+111,Jenny,Lola,25
+112,Jenny,Wendy,40
+113,Jenny,Stan,10
+114,Wendy,Yamal,2
+115,A Girl,Stan,6
+116,Officer,Stan,7
+117,A Girl,Kyle,5
+118,Bebe,Kyle,30
+119,Kyle,Officer,5
+120,A Girl,Bebe,6
+121,A Girl,Wendy,5
+122,A Girl,Officer,1
+123,Bebe,Officer,6
+124,Officer,Wendy,5

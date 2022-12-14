@@ -1,0 +1,82 @@
+,source,target,weight
+0,Coon,Toolshed,86
+1,Toolshed,TupperWear,8
+2,Mosquito,Toolshed,26
+3,Iron Maiden,Toolshed,5
+4,Mint-Berry Crunch,Toolshed,5
+5,News 4 Reporter,Toolshed,2
+6,Coon,TupperWear,36
+7,Coon,Mosquito,119
+8,Coon,Iron Maiden,23
+9,Coon,Mint-Berry Crunch,25
+10,Coon,News 4 Reporter,11
+11,Mosquito,TupperWear,7
+12,Iron Maiden,TupperWear,2
+13,Mint-Berry Crunch,TupperWear,2
+14,News 4 Reporter,TupperWear,2
+15,Iron Maiden,Mosquito,9
+16,Mint-Berry Crunch,Mosquito,10
+17,Mosquito,News 4 Reporter,3
+18,Iron Maiden,Mint-Berry Crunch,2
+19,Iron Maiden,News 4 Reporter,1
+20,Mint-Berry Crunch,News 4 Reporter,1
+21,Coon,Liane,38
+22,Fire Captain,Liane,32
+23,Coon,Fire Captain,40
+24,Fire Captain,Fireman,40
+25,Fire Captain,Mosquito,8
+26,Fire Captain,Officer,16
+27,Fire Captain,Stan,8
+28,Announcer,Fire Captain,8
+29,Captain Hindsight,Fire Captain,32
+30,Fireman,Liane,20
+31,Liane,Mosquito,4
+32,Liane,Officer,8
+33,Liane,Stan,4
+34,Announcer,Liane,4
+35,Captain Hindsight,Liane,16
+36,Coon,Fireman,25
+37,Coon,Officer,10
+38,Coon,Stan,5
+39,Announcer,Coon,5
+40,Captain Hindsight,Coon,26
+41,Fireman,Mosquito,5
+42,Fireman,Officer,10
+43,Fireman,Stan,5
+44,Announcer,Fireman,5
+45,Captain Hindsight,Fireman,20
+46,Mosquito,Officer,2
+47,Mosquito,Stan,1
+48,Announcer,Mosquito,1
+49,Captain Hindsight,Mosquito,4
+50,Officer,Stan,2
+51,Announcer,Officer,2
+52,Captain Hindsight,Officer,8
+53,Announcer,Stan,1
+54,Captain Hindsight,Stan,4
+55,Announcer,Captain Hindsight,4
+56,Randy,Sharon,24
+57,Sharon,Stan,8
+58,Randy,Stan,12
+59,Professor Chaos,Toolshed,7
+60,Mysterion,Toolshed,23
+61,Mosquito,Professor Chaos,8
+62,Mosquito,Mysterion,20
+63,Coon,Professor Chaos,28
+64,Coon,Mysterion,82
+65,Professor Chaos,TupperWear,2
+66,Mysterion,TupperWear,7
+67,Mysterion,Professor Chaos,7
+68,Butler,Cartman,24
+69,Captain Hindsight,Cartman,64
+70,Butler,Captain Hindsight,60
+71,Iron Maiden,Professor Chaos,1
+72,Mint-Berry Crunch,Professor Chaos,1
+73,Iron Maiden,Mysterion,3
+74,Mint-Berry Crunch,Mysterion,3
+75,Liane,Toolshed,4
+76,Liane,Mysterion,10
+77,Liane,TupperWear,2
+78,Reporter,Tony Hayward,1
+79,Stan,Tony Hayward,1
+80,Reporter,Stan,1

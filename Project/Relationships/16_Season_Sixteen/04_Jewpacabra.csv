@@ -1,0 +1,44 @@
+,source,target,weight
+0,Cartman,Sheila,24
+1,Cartman,Kyle,118
+2,Kyle,Sheila,15
+3,Butters,Craig,9
+4,Butters,Kenny,3
+5,Butters,Cartman,119
+6,Butters,Tolkien,3
+7,Butters,Clyde,3
+8,Butters,Kyle,9
+9,Craig,Kenny,3
+10,Cartman,Craig,27
+11,Craig,Tolkien,3
+12,Clyde,Craig,3
+13,Craig,Kyle,9
+14,Cartman,Kenny,9
+15,Kenny,Tolkien,1
+16,Clyde,Kenny,1
+17,Kenny,Kyle,3
+18,Cartman,Tolkien,9
+19,Cartman,Clyde,9
+20,Clyde,Tolkien,1
+21,Kyle,Tolkien,3
+22,Clyde,Kyle,3
+23,Cartman,Mr. Billings,27
+24,Cartman,Peters,3
+25,Mr. Billings,Peters,2
+26,Bobo,Cliff,40
+27,Cliff,Matt,61
+28,Cartman,Cliff,55
+29,Cliff,Mr. Billings,7
+30,Bobo,Matt,44
+31,Bobo,Cartman,36
+32,Bobo,Mr. Billings,4
+33,Cartman,Matt,57
+34,Matt,Mr. Billings,7
+35,Butters,Mr. Billings,5
+36,Mr. Billing,Mr. Billings,2
+37,Cartman,Mr. Billing,3
+38,Cartman,Pharaoh,66
+39,Kyle,Pharaoh,12
+40,Child,Pharaoh,6
+41,Cartman,Child,11
+42,Child,Kyle,2

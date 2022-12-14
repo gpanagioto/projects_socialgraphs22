@@ -1,0 +1,104 @@
+,source,target,weight
+0,Kyle,Stan,6
+1,Kyle,OC Member,1
+2,Chef,Stan,18
+3,Chef,Kyle,6
+4,Randy,Sharon,29
+5,Randy,Stan,45
+6,Sharon,Stan,16
+7,Cartman,Kyle,6
+8,Cartman,Kenny,6
+9,Cartman,Chef,7
+10,Cartman,Stan,4
+11,Cartman,OC Members,9
+12,Cartman,Townsman,3
+13,Kenny,Kyle,4
+14,Kyle,OC Members,6
+15,Kyle,Townsman,2
+16,Chef,Kenny,4
+17,Kenny,Stan,2
+18,Kenny,OC Members,6
+19,Kenny,Townsman,2
+20,Chef,OC Members,6
+21,Chef,Townsman,2
+22,OC Members,Stan,3
+23,Stan,Townsman,1
+24,OC Members,Townsman,3
+25,Coach,Randy,48
+26,Sharon,Skeeter,2
+27,Dr. Doctor,Sharon,2
+28,Jimbo,Sharon,2
+29,Chef,Sharon,1
+30,Nurse,Sharon,1
+31,Mr. Garrison,Sharon,1
+32,Dr. Doctor,Skeeter,4
+33,Jimbo,Skeeter,5
+34,Chef,Skeeter,3
+35,Randy,Skeeter,9
+36,Nurse,Skeeter,2
+37,Skeeter,Stan,9
+38,Mr. Garrison,Skeeter,3
+39,Dr. Doctor,Jimbo,4
+40,Chef,Dr. Doctor,2
+41,Dr. Doctor,Randy,8
+42,Dr. Doctor,Nurse,2
+43,Dr. Doctor,Stan,8
+44,Dr. Doctor,Mr. Garrison,2
+45,Chef,Jimbo,3
+46,Jimbo,Randy,9
+47,Jimbo,Nurse,2
+48,Jimbo,Stan,10
+49,Jimbo,Mr. Garrison,4
+50,Chef,Randy,5
+51,Chef,Nurse,1
+52,Chef,Mr. Garrison,2
+53,Nurse,Randy,4
+54,Mr. Garrison,Randy,5
+55,Nurse,Stan,4
+56,Mr. Garrison,Nurse,1
+57,Mr. Garrison,Stan,6
+58,Michael,Stan,27
+59,Michael,Pete,5
+60,Pete,Stan,7
+61,Henrietta,Pete,6
+62,Firkle,Pete,3
+63,Henrietta,Stan,4
+64,Firkle,Stan,2
+65,Firkle,Henrietta,2
+66,Henrietta,Michael,2
+67,Firkle,Michael,1
+68,Michael,Yao,12
+69,Stan,Yao,32
+70,Maury,Stan,6
+71,Mercedes,Stan,32
+72,Maury,Mercedes,4
+73,Butters,Linda,20
+74,Linda,Stan,16
+75,Linda,Mercedes,4
+76,Butters,Stan,76
+77,Butters,Mercedes,5
+78,Rancher,Yao,2
+79,Mercedes,Yao,2
+80,Chef,Yao,2
+81,Chef,Mercedes,1
+82,Jimbo,MC,2
+83,MC,Mr. Garrison,2
+84,Announcer,MC,2
+85,MC,Mercedes,4
+86,MC,Stan,3
+87,Announcer,Jimbo,1
+88,Jimbo,Mercedes,2
+89,Announcer,Mr. Garrison,1
+90,Mercedes,Mr. Garrison,2
+91,Announcer,Mercedes,2
+92,Announcer,Stan,1
+93,Chef,MC,1
+94,Skeeter,Yao,1
+95,Cartman,Skeeter,1
+96,Mr. Garrison,Yao,1
+97,Cartman,Mr. Garrison,1
+98,Jimbo,Yao,1
+99,Cartman,Jimbo,1
+100,Randy,Yao,1
+101,Cartman,Yao,1
+102,Cartman,Randy,1

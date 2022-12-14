@@ -1,0 +1,133 @@
+,source,target,weight
+0,Cartman,Kyle,92
+1,Cartman,Stan,113
+2,Kyle,Stan,63
+3,Kyle,Referee,4
+4,Kyle,Slaughterhouse,6
+5,Boys,Kyle,6
+6,Butters,Kyle,11
+7,Referee,Stan,8
+8,Slaughterhouse,Stan,12
+9,Boys,Stan,12
+10,Butters,Stan,12
+11,Cartman,Referee,4
+12,Cartman,Slaughterhouse,6
+13,Boys,Cartman,6
+14,Butters,Cartman,13
+15,Referee,Slaughterhouse,6
+16,Boys,Referee,6
+17,Butters,Referee,4
+18,Boys,Slaughterhouse,9
+19,Butters,Slaughterhouse,6
+20,Boys,Butters,6
+21,Kyle,Wendy,4
+22,Janitor,Kyle,3
+23,Stan,Wendy,11
+24,Janitor,Stan,15
+25,Cartman,Wendy,12
+26,Cartman,Janitor,12
+27,Janitor,Wendy,6
+28,Cartman,Mr. Tuong,3
+29,Cartman,Mr. Lu Kim,9
+30,Cartman,Kenny,39
+31,Kyle,Mr. Tuong,1
+32,Kyle,Mr. Lu Kim,3
+33,Kenny,Kyle,19
+34,Mr. Tuong,Stan,1
+35,Mr. Lu Kim,Mr. Tuong,3
+36,Kenny,Mr. Tuong,1
+37,Mr. Lu Kim,Stan,3
+38,Kenny,Stan,33
+39,Kenny,Mr. Lu Kim,3
+40,Announcer,Crowd,5
+41,Crowd,The boys,1
+42,Announcer,The boys,2
+43,Det. Harris,Stuart,9
+44,Randy,Stan,6
+45,Kyle,Randy,10
+46,Cartman,Voice,5
+47,Breeder,Cartman,30
+48,Kyle,Voice,4
+49,Breeder,Voice,6
+50,Stan,Voice,3
+51,Breeder,Kyle,24
+52,Breeder,Stan,18
+53,Randy,Sharon,30
+54,Announcer,Cartman,13
+55,Cartman,Someone,5
+56,Cartman,Crowd,8
+57,Cartman,Promoter,29
+58,Announcer,Kyle,8
+59,Kyle,Someone,3
+60,Crowd,Kyle,5
+61,Kyle,Promoter,17
+62,Announcer,Someone,2
+63,Announcer,Stan,5
+64,Announcer,Promoter,8
+65,Crowd,Someone,1
+66,Someone,Stan,2
+67,Promoter,Someone,3
+68,Crowd,Stan,3
+69,Crowd,Promoter,5
+70,Promoter,Stan,8
+71,Kindergarten boy,Kindergartners,2
+72,Kindergarten boy,Randy,6
+73,Kindergartners,Randy,3
+74,Craig,Kyle,2
+75,Kyle,Mr. Garrison,2
+76,Coach,Kyle,6
+77,Jimmy,Kyle,2
+78,Cartman,Craig,4
+79,Butters,Craig,2
+80,Craig,Mr. Garrison,1
+81,Coach,Craig,3
+82,Craig,Stan,1
+83,Craig,Jimmy,1
+84,Craig,Wendy,1
+85,Cartman,Mr. Garrison,4
+86,Cartman,Coach,12
+87,Cartman,Jimmy,4
+88,Butters,Mr. Garrison,2
+89,Butters,Coach,6
+90,Butters,Jimmy,2
+91,Butters,Wendy,2
+92,Coach,Mr. Garrison,3
+93,Mr. Garrison,Stan,1
+94,Jimmy,Mr. Garrison,1
+95,Mr. Garrison,Wendy,1
+96,Coach,Stan,3
+97,Coach,Jimmy,3
+98,Coach,Wendy,3
+99,Jimmy,Stan,1
+100,Jimmy,Wendy,1
+101,Det. Harris,Girl,5
+102,Cartman,Manager,6
+103,Cartman,ESPN host,9
+104,Cartman,Det. Harris,12
+105,Cartman,Randy,12
+106,Cartman,René Dif,3
+107,ESPN host,Kyle,6
+108,Det. Harris,Kyle,8
+109,Kyle,René Dif,2
+110,ESPN host,Stan,3
+111,Det. Harris,Stan,4
+112,René Dif,Stan,1
+113,Crowd,ESPN host,3
+114,Det. Harris,ESPN host,12
+115,ESPN host,Promoter,6
+116,Announcer,ESPN host,3
+117,ESPN host,Randy,12
+118,ESPN host,René Dif,3
+119,Crowd,Det. Harris,4
+120,Crowd,Randy,4
+121,Crowd,René Dif,1
+122,Det. Harris,Promoter,8
+123,Announcer,Det. Harris,4
+124,Det. Harris,Randy,16
+125,Det. Harris,René Dif,4
+126,Promoter,Randy,8
+127,Promoter,René Dif,2
+128,Announcer,Randy,4
+129,Announcer,René Dif,1
+130,Randy,René Dif,4
+131,Butters,Kenny,1

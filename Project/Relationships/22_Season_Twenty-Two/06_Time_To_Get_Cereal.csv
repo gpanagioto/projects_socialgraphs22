@@ -1,0 +1,43 @@
+,source,target,weight
+0,Jimbo,Ned,17
+1,Jimbo,Randy,4
+2,Jimbo,Stan,4
+3,Ned,Randy,2
+4,Randy,Stan,1
+5,Ned,Stan,2
+6,Strong Woman,Yates,8
+7,Brown,Yates,4
+8,Brown,Strong Woman,2
+9,Cartman,Kenny,10
+10,Cartman,Kyle,31
+11,Cartman,Stan,35
+12,Cartman,Mackey,3
+13,Kenny,Kyle,11
+14,Kenny,Stan,10
+15,Kenny,Mackey,1
+16,Kyle,Stan,52
+17,Kyle,Mackey,3
+18,Mackey,Stan,3
+19,Cartman,Yates,9
+20,Yates,Yatess,2
+21,Kyle,Receptionist,3
+22,Kenny,Receptionist,3
+23,Gore,Stan,80
+24,Gore,Kyle,57
+25,Cartman,Gore,34
+26,Husband,Susan,16
+27,Gore,Kenny,5
+28,Maggie,Yates,42
+29,Kyle,The Boys,6
+30,Cartman,The Boys,3
+31,Stan,The Boys,9
+32,Gore,The Boys,15
+33,Kyle,Satan,14
+34,Gore,Satan,24
+35,Kenny,Satan,4
+36,Satan,Stan,4
+37,Female officer,Stan,2
+38,Female officer,Yates,2
+39,Female officer,Kyle,1
+40,Stan,Yates,4
+41,Kyle,Yates,2

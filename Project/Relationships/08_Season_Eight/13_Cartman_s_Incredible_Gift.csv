@@ -1,0 +1,64 @@
+,source,target,weight
+0,Butters,Stan,6
+1,Butters,Cartman,13
+2,Butters,Kyle,12
+3,Butters,Craig,1
+4,Butters,Tolkien,2
+5,Cartman,Stan,24
+6,Kyle,Stan,20
+7,Craig,Stan,4
+8,Stan,Tolkien,6
+9,Cartman,Kyle,75
+10,Cartman,Craig,6
+11,Cartman,Tolkien,6
+12,Craig,Kyle,4
+13,Kyle,Tolkien,6
+14,Craig,Tolkien,1
+15,Dr. Doctor,Liane,27
+16,Cartman,Liane,47
+17,Liane,Nurse,5
+18,Liane,Yates,37
+19,Liane,Murphy,22
+20,Cartman,Dr. Doctor,35
+21,Cartman,Nurse,7
+22,Cartman,Yates,116
+23,Cartman,Murphy,71
+24,Dr. Doctor,Nurse,5
+25,Dr. Doctor,Yates,41
+26,Dr. Doctor,Murphy,23
+27,Nurse,Yates,7
+28,Murphy,Nurse,4
+29,Murphy,Yates,135
+30,Tom Johansen,Yates,4
+31,Murphy,Tom Johansen,2
+32,Cartman,Tom Johansen,2
+33,Liane,Tom Johansen,1
+34,Kyle,Yates,38
+35,Kyle,Murphy,22
+36,Butters,Yates,4
+37,Butters,Murphy,2
+38,Cartman,Lou,6
+39,Kyle,Lou,14
+40,Lou,Michael Deets,2
+41,Lou,Murphy,4
+42,Lou,Weird Man,2
+43,Cartman,Michael Deets,49
+44,Cartman,Weird Man,3
+45,Kyle,Michael Deets,3
+46,Kyle,Weird Man,3
+47,Michael Deets,Murphy,8
+48,Michael Deets,Weird Man,1
+49,Murphy,Weird Man,1
+50,Liane,Other psychics,1
+51,Female psychic,Liane,8
+52,Cartman,Other psychics,3
+53,Female psychic,Other psychics,2
+54,Cartman,Female psychic,10
+55,Lou,Yates,4
+56,Kenny,Yates,2
+57,Kenny,Murphy,1
+58,Kenny,Kyle,4
+59,Kenny,Lou,2
+60,Female Detective,Yates,1
+61,Dr. Doctor,Kyle,1
+62,Michael Deets,Yates,11

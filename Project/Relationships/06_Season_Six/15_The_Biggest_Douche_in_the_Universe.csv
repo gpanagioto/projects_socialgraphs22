@@ -1,0 +1,70 @@
+,source,target,weight
+0,Cartman,Liane,21
+1,Brunette nurse,Liane,1
+2,Dr. Doctor,Liane,20
+3,Cartman,Dr. Doctor,20
+4,Kyle,Stan,112
+5,Chef,Stan,43
+6,Chef,Kyle,28
+7,Chef,Dr. Doctor,28
+8,Dr. Doctor,Stan,12
+9,Dr. Doctor,Kyle,4
+10,Cartman,Chef,46
+11,Cartman,Stan,24
+12,Cartman,Kyle,14
+13,Chef,Liane,28
+14,Liane,Stan,13
+15,Kyle,Liane,7
+16,Chef,Page,1
+17,John Edward,Stan,235
+18,John Edward,Kyle,93
+19,Cartman,John Edward,16
+20,Audience Members,John Edward,16
+21,Chef,John Edward,16
+22,Audience Members,Stan,4
+23,Audience Members,Kyle,5
+24,Audience Members,Cartman,1
+25,Audience Members,Chef,1
+26,Announcer,Stan,8
+27,Announcer,Liane,4
+28,Announcer,Cartman,10
+29,Announcer,Chef,1
+30,Announcer,Kyle,5
+31,Butler,Stan,12
+32,Pre-recorded voice,Stan,10
+33,Butler,Pre-recorded voice,1
+34,Butler,John Edward,9
+35,John Edward,Pre-recorded voice,9
+36,Liane,Pilot,2
+37,Liane,Rob Schneider,2
+38,Cartman,Pilot,6
+39,Announcer,Pilot,6
+40,Pilot,Rob Schneider,4
+41,Cartman,Rob Schneider,6
+42,Announcer,Rob Schneider,7
+43,Construction worker,Kyle,4
+44,Adults,Kyle,2
+45,Kyle,Scout,2
+46,Construction worker,Stan,28
+47,Adults,Stan,14
+48,Scout,Stan,14
+49,Adults,Construction worker,2
+50,Construction worker,Scout,2
+51,Adults,Scout,1
+52,Chef,Thomas,47
+53,Nellie,Thomas,89
+54,Liane,Thomas,16
+55,Cartman,Thomas,20
+56,Chef,Nellie,51
+57,Liane,Nellie,20
+58,Cartman,Nellie,22
+59,Audience,Stan,15
+60,John Edward,Lead alien,32
+61,Lead alien,Stan,28
+62,Kyle,Lead alien,4
+63,Bee alien,Lion-head alien,9
+64,John Edward,Lion-head alien,6
+65,Frankenstein alien,Lion-head alien,3
+66,Bee alien,John Edward,6
+67,Bee alien,Frankenstein alien,3
+68,Frankenstein alien,John Edward,2

@@ -1,0 +1,49 @@
+,source,target,weight
+0,Kyle,Tweek,120
+1,Stan,Tweek,126
+2,Butters,Tweek,21
+3,Cartman,Tweek,115
+4,Kyle,Stan,141
+5,Butters,Kyle,27
+6,Cartman,Kyle,141
+7,Butters,Stan,20
+8,Cartman,Stan,164
+9,Butters,Cartman,23
+10,Butters,Dougie,142
+11,Dougie,News anchor,16
+12,Butters,News anchor,32
+13,Kyle,Phillip,6
+14,Phillip,Tweek,10
+15,Phillip,Stan,10
+16,Phillip,Terrance,2
+17,News anchor,Phillip,4
+18,Cartman,Phillip,4
+19,Kyle,Terrance,3
+20,Kyle,News anchor,6
+21,Terrance,Tweek,5
+22,News anchor,Tweek,10
+23,Stan,Terrance,5
+24,News anchor,Stan,10
+25,News anchor,Terrance,2
+26,Cartman,Terrance,2
+27,Cartman,News anchor,4
+28,Chef,Stan,19
+29,Chef,Kyle,18
+30,Cartman,Chef,18
+31,Chef,Tweek,7
+32,Cartman,Voice,5
+33,Tweek,Voice,5
+34,Stan,Voice,7
+35,Kyle,Voice,5
+36,Announcer,Dougie,4
+37,Announcer,Butters,5
+38,Cartman,Frances,32
+39,Dougie,Ms. Crabtree,1
+40,Dougie,Mr. Garrison,2
+41,Chef,Dougie,1
+42,Butters,Ms. Crabtree,3
+43,Butters,Mr. Garrison,6
+44,Butters,Chef,3
+45,Mr. Garrison,Ms. Crabtree,2
+46,Chef,Ms. Crabtree,1
+47,Chef,Mr. Garrison,2

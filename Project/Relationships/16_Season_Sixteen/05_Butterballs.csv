@@ -1,0 +1,74 @@
+,source,target,weight
+0,Butters,Kyle,25
+1,Butters,Stan,50
+2,Butters,Craig,14
+3,Butters,Cartman,21
+4,Butters,Red,20
+5,Kyle,Stan,117
+6,Craig,Kyle,6
+7,Cartman,Kyle,18
+8,Kyle,Red,6
+9,Craig,Stan,12
+10,Cartman,Stan,24
+11,Red,Stan,14
+12,Cartman,Craig,7
+13,Craig,Red,5
+14,Cartman,Red,7
+15,Linda,Stephen,10
+16,Butters,Stephen,22
+17,Grammy,Stephen,22
+18,Butters,Linda,18
+19,Grammy,Linda,23
+20,Butters,Grammy,83
+21,Butters,Mr. Adler,18
+22,Grammy,Red,7
+23,Mr. Adler,Red,3
+24,Grammy,Mr. Adler,21
+25,Lorraine,Stan,8
+26,Lorraine,Red,4
+27,Lorraine,Riley,4
+28,Riley,Stan,2
+29,Red,Riley,1
+30,Jimmy,Stan,4
+31,Jason,Jimmy,1
+32,Jimmy,Pete,1
+33,Jimmy,Kyle,2
+34,Jimmy,Older girl,1
+35,Butters,Jimmy,2
+36,Jason,Stan,4
+37,Pete,Stan,4
+38,Older girl,Stan,4
+39,Jason,Pete,1
+40,Jason,Kyle,2
+41,Jason,Older girl,1
+42,Butters,Jason,2
+43,Kyle,Pete,2
+44,Older girl,Pete,1
+45,Butters,Pete,2
+46,Kyle,Older girl,2
+47,Butters,Older girl,2
+48,Stan,Stephen,12
+49,Grammy,Stan,6
+50,Linda,Stan,3
+51,Grammy,Professor Chaos,20
+52,Gramm,Grammy,4
+53,Gramm,Professor Chaos,5
+54,Bailey,Jabs,9
+55,Dr. Oz,Stan,6
+56,Butters,Dr. Oz,30
+57,Jesus,Stan,4
+58,Clyde,Stan,4
+59,Cartman,Clyde,1
+60,Clyde,Red,1
+61,Clyde,Craig,1
+62,Clyde,Timmy,1
+63,Clyde,Mr. Mackey,1
+64,Stan,Timmy,4
+65,Mr. Mackey,Stan,4
+66,Cartman,Timmy,1
+67,Cartman,Mr. Mackey,1
+68,Red,Timmy,1
+69,Mr. Mackey,Red,1
+70,Craig,Timmy,1
+71,Craig,Mr. Mackey,1
+72,Mr. Mackey,Timmy,1

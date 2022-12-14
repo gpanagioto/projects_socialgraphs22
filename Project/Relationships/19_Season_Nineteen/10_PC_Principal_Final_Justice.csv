@@ -1,0 +1,155 @@
+,source,target,weight
+0,Butters,Charlotte,1
+1,Charlotte,Kyle,1
+2,Butters,Kyle,23
+3,Cartman,Kyle,47
+4,Kenny,Kyle,11
+5,Kyle,Stan,36
+6,Cartman,Kenny,5
+7,Cartman,Stan,16
+8,Butters,Cartman,10
+9,Kenny,Stan,3
+10,Butters,Kenny,4
+11,Butters,Stan,6
+12,Sharon,Stan,20
+13,Randy,Stan,136
+14,Randy,Sharon,42
+15,Mr. Garrison,Principal Victoria,14
+16,Mr. Garrison,Randy,60
+17,Caitlyn,Mr. Garrison,3
+18,Principal Victoria,Randy,42
+19,Caitlyn,Principal Victoria,1
+20,Caitlyn,Randy,2
+21,Jimmy,Nathan,50
+22,Classi,Jimmy,36
+23,Classi,Nathan,35
+24,Cartman,Liane,121
+25,Principal Victoria,Stan,21
+26,PC Principal,Weathers,18
+27,Johnson,PC Principal,3
+28,Leslie,PC Principal,16
+29,Kyle,PC Principal,12
+30,Johnson,Weathers,6
+31,Leslie,Weathers,30
+32,Kyle,Weathers,18
+33,Johnson,Leslie,5
+34,Johnson,Kyle,3
+35,Kyle,Leslie,48
+36,Sharon,Shelly,15
+37,Randy,Shelly,46
+38,Shelly,Stan,23
+39,Jimbo,Officer Barbrady,6
+40,Caitlyn Jenner,Randy,6
+41,Mr. Garrison,Stan,17
+42,Mr. Garrison,Shelly,3
+43,Caitlyn Jenner,Mr. Garrison,3
+44,Caitlyn Jenner,Stan,3
+45,Principal Victoria,Shelly,1
+46,Caitlyn Jenner,Principal Victoria,1
+47,Caitlyn Jenner,Shelly,1
+48,Announcer,David,24
+49,Cartman,David,12
+50,David,Randy,54
+51,David,Mr. Garrison,24
+52,David,Kyle,18
+53,David,Stan,12
+54,David,Jimmy,12
+55,David,Sharon,6
+56,David,Officer Barbrady,6
+57,David,Mr. Mackey,30
+58,David,Principal Victoria,12
+59,David,Gerald,6
+60,David,Stephen,6
+61,David,Leslie,6
+62,David,PC Principal,6
+63,Announcer,Cartman,8
+64,Announcer,Randy,36
+65,Announcer,Mr. Garrison,16
+66,Announcer,Kyle,12
+67,Announcer,Stan,8
+68,Announcer,Jimmy,8
+69,Announcer,Sharon,4
+70,Announcer,Officer Barbrady,4
+71,Announcer,Mr. Mackey,20
+72,Announcer,Principal Victoria,8
+73,Announcer,Gerald,4
+74,Announcer,Stephen,4
+75,Announcer,Leslie,4
+76,Announcer,PC Principal,4
+77,Cartman,Randy,18
+78,Cartman,Mr. Garrison,8
+79,Cartman,Jimmy,4
+80,Cartman,Sharon,2
+81,Cartman,Officer Barbrady,2
+82,Cartman,Mr. Mackey,10
+83,Cartman,Principal Victoria,4
+84,Cartman,Gerald,2
+85,Cartman,Stephen,2
+86,Cartman,Leslie,2
+87,Cartman,PC Principal,2
+88,Kyle,Randy,27
+89,Jimmy,Randy,18
+90,Officer Barbrady,Randy,9
+91,Mr. Mackey,Randy,45
+92,Gerald,Randy,9
+93,Randy,Stephen,9
+94,Leslie,Randy,9
+95,PC Principal,Randy,9
+96,Kyle,Mr. Garrison,12
+97,Jimmy,Mr. Garrison,8
+98,Mr. Garrison,Sharon,4
+99,Mr. Garrison,Officer Barbrady,4
+100,Mr. Garrison,Mr. Mackey,20
+101,Gerald,Mr. Garrison,4
+102,Mr. Garrison,Stephen,4
+103,Leslie,Mr. Garrison,4
+104,Mr. Garrison,PC Principal,4
+105,Jimmy,Kyle,6
+106,Kyle,Sharon,3
+107,Kyle,Officer Barbrady,3
+108,Kyle,Mr. Mackey,15
+109,Kyle,Principal Victoria,6
+110,Gerald,Kyle,3
+111,Kyle,Stephen,3
+112,Jimmy,Stan,4
+113,Officer Barbrady,Stan,2
+114,Mr. Mackey,Stan,10
+115,Gerald,Stan,2
+116,Stan,Stephen,2
+117,Leslie,Stan,2
+118,PC Principal,Stan,2
+119,Jimmy,Sharon,2
+120,Jimmy,Officer Barbrady,2
+121,Jimmy,Mr. Mackey,10
+122,Jimmy,Principal Victoria,4
+123,Gerald,Jimmy,2
+124,Jimmy,Stephen,2
+125,Jimmy,Leslie,2
+126,Jimmy,PC Principal,2
+127,Officer Barbrady,Sharon,1
+128,Mr. Mackey,Sharon,5
+129,Principal Victoria,Sharon,2
+130,Gerald,Sharon,1
+131,Sharon,Stephen,1
+132,Leslie,Sharon,1
+133,PC Principal,Sharon,1
+134,Mr. Mackey,Officer Barbrady,5
+135,Officer Barbrady,Principal Victoria,2
+136,Gerald,Officer Barbrady,1
+137,Officer Barbrady,Stephen,1
+138,Leslie,Officer Barbrady,1
+139,Officer Barbrady,PC Principal,1
+140,Mr. Mackey,Principal Victoria,10
+141,Gerald,Mr. Mackey,5
+142,Mr. Mackey,Stephen,5
+143,Leslie,Mr. Mackey,5
+144,Mr. Mackey,PC Principal,5
+145,Gerald,Principal Victoria,2
+146,Principal Victoria,Stephen,2
+147,Leslie,Principal Victoria,2
+148,PC Principal,Principal Victoria,2
+149,Gerald,Stephen,1
+150,Gerald,Leslie,1
+151,Gerald,PC Principal,1
+152,Leslie,Stephen,1
+153,PC Principal,Stephen,1

@@ -1,0 +1,77 @@
+,source,target,weight
+0,President,Terrance,8
+1,Phillip,Terrance,10
+2,Phillip,President,12
+3,Stan,Tweek,3
+4,Cartman,Stan,11
+5,Heidi,Stan,15
+6,Kyle,Stan,11
+7,Stan,Wendy,1
+8,Craig,Stan,2
+9,Kids,Stan,1
+10,Butters,Stan,1
+11,Cartman,Tweek,5
+12,Heidi,Tweek,6
+13,Kyle,Tweek,5
+14,Tweek,Wendy,1
+15,Craig,Tweek,2
+16,Kids,Tweek,1
+17,Butters,Tweek,1
+18,Cartman,Heidi,36
+19,Cartman,Kyle,12
+20,Cartman,Wendy,5
+21,Cartman,Craig,10
+22,Cartman,Kids,5
+23,Butters,Cartman,5
+24,Heidi,Kyle,16
+25,Heidi,Wendy,6
+26,Craig,Heidi,12
+27,Heidi,Kids,6
+28,Butters,Heidi,6
+29,Kyle,Wendy,2
+30,Craig,Kyle,4
+31,Kids,Kyle,2
+32,Butters,Kyle,2
+33,Craig,Wendy,2
+34,Kids,Wendy,1
+35,Butters,Wendy,1
+36,Craig,Kids,2
+37,Butters,Craig,2
+38,Butters,Kids,1
+39,PC Principal,Strong Woman,117
+40,Phillip,Stan,3
+41,Cartman,Phillip,2
+42,Heidi,Phillip,3
+43,Canadian Mexican,Phillip,1
+44,Kyle,Phillip,2
+45,Stan,Terrance,6
+46,Cartman,Terrance,4
+47,Heidi,Terrance,6
+48,Canadian Mexican,Terrance,2
+49,Kyle,Terrance,4
+50,Canadian Mexican,Stan,3
+51,Canadian Mexican,Cartman,2
+52,Canadian Mexican,Heidi,3
+53,Canadian Mexican,Kyle,1
+54,Mr. Mackey,Strong Woman,8
+55,Strong Woman,Substitute Teacher,3
+56,Mr. Mackey,Substitute Teacher,2
+57,Mr. Mackey,PC Principal,40
+58,PC Principal,Substitute Teacher,1
+59,Doctor,PC Principal,30
+60,Kyle,Strong Woman,30
+61,Anchor Tom,Kyle,36
+62,Kyle,Minister of Streaming,144
+63,Anchor Tom,Minister of Streaming,36
+64,Miss Conduct,Mr. Mackey,108
+65,Girl,Terrance,2
+66,Girl,Phillip,1
+67,Girl,Kyle,1
+68,Garrison,Minister of Streaming,9
+69,Miss Conduct,Strong Woman,3
+70,Miss Conduct,Mr. Adler,3
+71,Miss Conduct,PC Principal,3
+72,Mr. Adler,Mr. Mackey,2
+73,Mr. Adler,Strong Woman,1
+74,Mr. Adler,PC Principal,1
+75,Garrison,Kyle,12

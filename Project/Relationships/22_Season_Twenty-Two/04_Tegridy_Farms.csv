@@ -1,0 +1,56 @@
+,source,target,weight
+0,Mr. Mackey,Randy,9
+1,Randy,Sharon,16
+2,Nelson,Sharon,3
+3,Nelson,Randy,4
+4,Kyle,Stan,19
+5,Cartman,Stan,5
+6,Cartman,Kyle,334
+7,Jenny,Kyle,15
+8,Ike,Jenny,9
+9,Boy,Jenny,3
+10,Jenny,Quaid,3
+11,Jenny,Stan,3
+12,Ike,Kyle,15
+13,Boy,Kyle,5
+14,Kyle,Quaid,5
+15,Boy,Ike,3
+16,Ike,Quaid,3
+17,Ike,Stan,3
+18,Boy,Quaid,1
+19,Boy,Stan,1
+20,Quaid,Stan,1
+21,Joe,Randy,10
+22,Butters,Kyle,87
+23,Butters,Stan,18
+24,Butters,Cartman,92
+25,Randy,Towelie,23
+26,Randy,Vape Rep,71
+27,Kyle,Ms. Blaze,18
+28,Cartman,Ms. Blaze,20
+29,Butters,Ms. Blaze,4
+30,Joe,Towelie,2
+31,Butters,Vaping Man,5
+32,Kyle,Vaping Man,19
+33,Cartman,Vaping Man,20
+34,Randy,Stan,21
+35,Cartman,Vape Dealer,56
+36,Kyle,Vape Dealer,56
+37,Butters,Vape Dealer,7
+38,Kyle,Mr. Mackey,12
+39,Cartman,Mr. Mackey,14
+40,Butters,Mr. Mackey,2
+41,Patron,Randy,2
+42,Bodybuilder,Patron,2
+43,Bodybuilder,Randy,4
+44,Kyle,Vape Rep,27
+45,Kyle,Randy,45
+46,Kyle,Towelie,9
+47,Cartman,Vape Rep,18
+48,Towelie,Vape Rep,3
+49,Butters,Vape Rep,3
+50,Cartman,Randy,30
+51,Butters,Randy,5
+52,Cartman,Towelie,6
+53,Butters,Towelie,1
+54,Stan,Towelie,1

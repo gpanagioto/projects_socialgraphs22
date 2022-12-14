@@ -1,0 +1,59 @@
+,source,target,weight
+0,Class,Mr. Mackey,5
+1,Class,Jimmy,3
+2,Cartman,Class,1
+3,Class,Stan,1
+4,Jimmy,Mr. Mackey,15
+5,Cartman,Mr. Mackey,5
+6,Mr. Mackey,Stan,5
+7,Cartman,Jimmy,91
+8,Jimmy,Stan,8
+9,Cartman,Stan,3
+10,Jimmy,Kyle,15
+11,Kyle,Stan,3
+12,Clyde,Kyle,3
+13,Cartman,Kyle,6
+14,Butters,Kyle,6
+15,Clyde,Jimmy,5
+16,Butters,Jimmy,40
+17,Clyde,Stan,1
+18,Butters,Stan,2
+19,Cartman,Clyde,2
+20,Butters,Clyde,2
+21,Butters,Cartman,4
+22,Jimmy,Ryan,36
+23,Doctor Pal,Jimmy,63
+24,Doctor Pal,Ryan,28
+25,Jimmy,Mrs. Garrison,2
+26,Bertha,Jimmy,32
+27,Bertha,Cartman,20
+28,Jimmy,Shauna,72
+29,Cartman,Shauna,48
+30,Jimmy,Waiter,7
+31,Shauna,Waiter,9
+32,Cartman,Waiter,5
+33,Jimmy,Officer Barbrady,49
+34,Jimmy,Prostitute,6
+35,Jimmy,Nut Gobbler,155
+36,Nut Gobbler,Prostitute,4
+37,Jimmy,Roma,11
+38,Jimmy,Pimp,58
+39,Nut Gobbler,Roma,9
+40,Pimp,Roma,5
+41,Nut Gobbler,Pimp,47
+42,Pimp,Q Money,3
+43,Nut Gobbler,Q Money,22
+44,Jimmy,Q Money,48
+45,Mrs. Garrison,Tall Goth,1
+46,Mrs. Garrison,Red Goth,1
+47,Red Goth,Tall Goth,1
+48,Cabbie,Motorcyclist,1
+49,Cabbie,Nut Gobbler,3
+50,Cabbie,Jimmy,9
+51,Motorcyclist,Nut Gobbler,1
+52,Jimmy,Motorcyclist,1
+53,Mrs. Garrison,Stephen,2
+54,Butters,Mrs. Garrison,2
+55,Butters,Stephen,1
+56,Cabbie,Q Money,2
+57,Cartman,Liane,1

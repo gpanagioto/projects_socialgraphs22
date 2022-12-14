@@ -1,0 +1,51 @@
+,source,target,weight
+0,Kyle,Stan,3
+1,Butters,Stan,4
+2,Butters,Kyle,13
+3,Jimmy,Timmy,6
+4,Francis,Timmy,3
+5,Francis,Jimmy,1
+6,Stan,Towelie,11
+7,Kyle,Towelie,28
+8,Jimmy,Towelie,6
+9,Blue Team,Towelie,6
+10,Timmy,Towelie,3
+11,Jimmy,Stan,2
+12,Blue Team,Stan,2
+13,Stan,Timmy,1
+14,Jimmy,Kyle,2
+15,Blue Team,Kyle,2
+16,Kyle,Timmy,1
+17,Blue Team,Jimmy,4
+18,Blue Team,Timmy,2
+19,Mimsy,Nathan,113
+20,Lenora,Towelie,10
+21,Lenora,Stan,2
+22,Butters,Lenora,2
+23,Butters,Towelie,28
+24,Jimmy,Nathan,30
+25,Jimmy,Mimsy,27
+26,Steve,Towelie,1
+27,Nathan,Timmy,6
+28,Mimsy,Timmy,8
+29,Steve,Timmy,1
+30,Francis,Nathan,5
+31,Francis,Mimsy,5
+32,Francis,Steve,1
+33,Nathan,Steve,5
+34,Mimsy,Steve,5
+35,Jeff Van Vonderen,Towelie,45
+36,Butters,Jeff Van Vonderen,23
+37,Jeff Van Vonderen,Kyle,48
+38,Cartman,Jeff Van Vonderen,32
+39,Cartman,Towelie,16
+40,Butters,Cartman,8
+41,Cartman,Kyle,24
+42,Campers,Jimmy,20
+43,Campers,Mimsy,5
+44,Campers,Nathan,5
+45,Jeff Van Vonderen,Stan,3
+46,Jeff Van Vonderen,Towel,3
+47,Stan,Towel,1
+48,Towel,Towelie,3
+49,Butters,Towel,1

@@ -1,0 +1,59 @@
+,source,target,weight
+0,Bannon,Surgeon,1
+1,Bannon,Caitlyn,1
+2,Caitlyn,Surgeon,1
+3,Caitlyn,Garrison,4
+4,Cartman,Secretary,24
+5,Cartman,Cher,12
+6,Cher,Secretary,8
+7,Mackey,PC Principal,14
+8,Garrison,Mackey,12
+9,Garrison,PC Principal,42
+10,Guard Berry,Tubbs,2
+11,Don,Tubbs,8
+12,Don,Waiter Berry,4
+13,Tubbs,Waiter Berry,2
+14,Bedrager,Dick,15
+15,Dick,Gerald,12
+16,Bedrager,Gerald,10
+17,Garrison,Stephen,3
+18,First general,Stephen,2
+19,First general,Garrison,64
+20,Anonymous821,Dick,4
+21,Anonymous821,Gerald,6
+22,Cartman,Heidi,33
+23,Butters,Heidi,28
+24,Butters,Cartman,45
+25,Gerald,Ike,84
+26,Ike,Sheila,49
+27,Ike,Shelia,7
+28,Gerald,Sheila,84
+29,Gerald,Shelia,12
+30,Sheila,Shelia,7
+31,Garrison,Second general,12
+32,Garrison,Third general,4
+33,First general,Second general,12
+34,First general,Third general,4
+35,Second general,Third general,3
+36,Putin,Tubbs,8
+37,Cartman,Tour assistant,4
+38,Cartman,Elon Musk,22
+39,Cartman,PA door voice,4
+40,Butters,Tour assistant,1
+41,Butters,Elon Musk,7
+42,Butters,PA door voice,1
+43,Elon Musk,Tour assistant,4
+44,PA door voice,Tour assistant,1
+45,Elon Musk,PA door voice,4
+46,Boris Johnson,Garrison,24
+47,Garrison,UK aide,24
+48,Boris Johnson,First general,4
+49,First general,UK aide,4
+50,Boris Johnson,UK aide,16
+51,Cartman,Groups,4
+52,Elon Musk,Groups,6
+53,Butters,Groups,2
+54,Berry Henchmen,Memberberries,1
+55,Berry Henchmen,Don,4
+56,Don,Memberberries,4
+57,Kyle,Sheila,9

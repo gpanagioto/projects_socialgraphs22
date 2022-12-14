@@ -1,0 +1,74 @@
+,source,target,weight
+0,Randy,Stan,11
+1,Cartman,Randy,16
+2,Kyle,Randy,16
+3,Kenny,Randy,4
+4,Cartman,Stan,44
+5,Kyle,Stan,106
+6,Kenny,Stan,15
+7,Cartman,Kyle,92
+8,Cartman,Kenny,8
+9,Kenny,Kyle,22
+10,Butters,Cartman,79
+11,Cartman,Tolkien,101
+12,Butters,Tolkien,36
+13,Gerald,Kyle,32
+14,Gerald,Sheila,4
+15,Gerald,Stan,14
+16,Gerald,Kenny,5
+17,Kyle,Sheila,7
+18,Sheila,Stan,3
+19,Kenny,Sheila,1
+20,Kyle,Yates,23
+21,Stan,Yates,14
+22,Randy,Yates,3
+23,Kenny,Yates,6
+24,Field reporter,Kyle,2
+25,James Hetfield,Kyle,1
+26,Field reporter,Stan,2
+27,Field reporter,James Hetfield,2
+28,James Hetfield,Stan,1
+29,Kyle,Lars,18
+30,Driver,Kyle,9
+31,Britney,Kyle,9
+32,Kyle,Other acts,9
+33,Driver,Lars,2
+34,Lars,Stan,8
+35,Britney,Lars,2
+36,Lars,Other acts,2
+37,Driver,Stan,4
+38,Britney,Driver,1
+39,Driver,Other acts,1
+40,Britney,Stan,4
+41,Other acts,Stan,4
+42,Britney,Other acts,1
+43,Kyle,Tolkien,12
+44,A fan,Tolkien,4
+45,Announcer,Tolkien,4
+46,Michael Collins,Tolkien,20
+47,Stan,Tolkien,4
+48,A Man,Tolkien,4
+49,A fan,Cartman,12
+50,Announcer,Cartman,12
+51,Cartman,Michael Collins,60
+52,A Man,Cartman,12
+53,A fan,Kyle,3
+54,Announcer,Kyle,3
+55,Kyle,Michael Collins,15
+56,Butters,Kyle,3
+57,A Man,Kyle,3
+58,A fan,Announcer,1
+59,A fan,Michael Collins,5
+60,A fan,Stan,1
+61,A fan,Butters,1
+62,A Man,A fan,1
+63,Announcer,Michael Collins,5
+64,Announcer,Stan,1
+65,Announcer,Butters,1
+66,A Man,Announcer,1
+67,Michael Collins,Stan,5
+68,Butters,Michael Collins,5
+69,A Man,Michael Collins,5
+70,Butters,Stan,1
+71,A Man,Stan,1
+72,A Man,Butters,1

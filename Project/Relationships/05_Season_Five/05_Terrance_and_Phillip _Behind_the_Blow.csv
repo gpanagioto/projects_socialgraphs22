@@ -1,0 +1,142 @@
+,source,target,weight
+0,Cartman,Kyle,59
+1,Cartman,The Boys,4
+2,Cartman,Phillip,39
+3,Cartman,Terrance,65
+4,Cartman,Stan,62
+5,Kyle,The Boys,10
+6,Kyle,Phillip,125
+7,Kyle,Terrance,175
+8,Kyle,Stan,136
+9,Phillip,The Boys,10
+10,Terrance,The Boys,7
+11,Stan,The Boys,6
+12,Phillip,Terrance,136
+13,Phillip,Stan,104
+14,Stan,Terrance,159
+15,Announcer,Stan,2
+16,Announcer,Kyle,2
+17,Announcer,Cartman,1
+18,Butters,Kyle,6
+19,Kyle,Ms. Choksondik,18
+20,Class,Kyle,12
+21,Kyle,Older man,77
+22,Kyle,Younger man,21
+23,Butters,Cartman,2
+24,Cartman,Ms. Choksondik,6
+25,Cartman,Class,4
+26,Cartman,Older man,23
+27,Cartman,Younger man,7
+28,Butters,Stan,4
+29,Butters,Ms. Choksondik,3
+30,Butters,Class,2
+31,Butters,Older man,8
+32,Butters,Younger man,3
+33,Butters,The Boys,1
+34,Ms. Choksondik,Stan,12
+35,Class,Stan,8
+36,Older man,Stan,60
+37,Stan,Younger man,16
+38,Class,Ms. Choksondik,6
+39,Ms. Choksondik,Older man,24
+40,Ms. Choksondik,Younger man,9
+41,Ms. Choksondik,The Boys,3
+42,Class,Older man,16
+43,Class,Younger man,6
+44,Class,The Boys,2
+45,Older man,Younger man,29
+46,Older man,The Boys,8
+47,The Boys,Younger man,3
+48,Audience,Terrance,13
+49,Audience,Kyle,2
+50,Audience,Stan,3
+51,Audience,Cartman,2
+52,Bouncer,Kyle,12
+53,Bouncer,Stan,16
+54,Bouncer,Cartman,16
+55,Obese Woman,Terrance,126
+56,Both,Terrance,18
+57,Obese woman,Terrance,18
+58,Kenny,Terrance,36
+59,Both,Obese Woman,7
+60,Cartman,Obese Woman,7
+61,Obese Woman,Obese woman,7
+62,Obese Woman,Stan,28
+63,Kyle,Obese Woman,28
+64,Kenny,Obese Woman,7
+65,Both,Cartman,1
+66,Both,Obese woman,1
+67,Both,Stan,4
+68,Both,Kyle,4
+69,Both,Kenny,1
+70,Cartman,Obese woman,1
+71,Cartman,Kenny,4
+72,Obese woman,Stan,4
+73,Kyle,Obese woman,4
+74,Kenny,Obese woman,1
+75,Kenny,Stan,14
+76,Kenny,Kyle,21
+77,Clyde,Older man,10
+78,Clyde,Stan,8
+79,Clyde,Kyle,6
+80,Clyde,Younger man,2
+81,Cartman,Clyde,2
+82,Clyde,Phillip,2
+83,Older man,Phillip,25
+84,Phillip,Younger man,1
+85,Phillip,The other boys,8
+86,Stan,The other boys,6
+87,Cartman,The other boys,2
+88,Kyle,The other boys,4
+89,Jack,Kyle,34
+90,Jack,Stan,16
+91,Kenny,Older man,4
+92,Older man,Terrance,18
+93,Jack,Older man,8
+94,Kenny,Phillip,20
+95,Jack,Kenny,8
+96,Jack,Phillip,52
+97,Jack,Terrance,39
+98,Cartman,Jack,4
+99,Crowd,Jack,6
+100,Carl,Jack,6
+101,Jack,Narrator,15
+102,Jack,The Boys,3
+103,Jack,Mr. Garrison,3
+104,Cher,Jack,3
+105,Crowd,Kyle,4
+106,Carl,Crowd,4
+107,Crowd,Narrator,10
+108,Crowd,The Boys,2
+109,Crowd,Phillip,8
+110,Crowd,Mr. Garrison,2
+111,Cher,Crowd,2
+112,Crowd,Terrance,2
+113,Carl,Kyle,7
+114,Kyle,Narrator,10
+115,Kyle,Mr. Garrison,2
+116,Cher,Kyle,2
+117,Carl,Narrator,10
+118,Carl,The Boys,2
+119,Carl,Phillip,8
+120,Carl,Mr. Garrison,2
+121,Carl,Cher,2
+122,Carl,Terrance,2
+123,Narrator,The Boys,5
+124,Narrator,Phillip,23
+125,Mr. Garrison,Narrator,5
+126,Cher,Narrator,5
+127,Narrator,Terrance,7
+128,Mr. Garrison,The Boys,1
+129,Cher,The Boys,1
+130,Mr. Garrison,Phillip,4
+131,Cher,Phillip,4
+132,Cher,Mr. Garrison,1
+133,Mr. Garrison,Terrance,1
+134,Cher,Terrance,1
+135,Carl,Cartman,1
+136,Carl,Stan,2
+137,Carl,Kenny,1
+138,Mr. Mackey,Phillip,3
+139,Mr. Mackey,Terrance,2
+140,Mr. Mackey,Narrator,1

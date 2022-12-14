@@ -1,0 +1,138 @@
+,source,target,weight
+0,Kyle,Stan,112
+1,Kid,Stan,4
+2,Cartman,Stan,107
+3,Mr. Garrison,Stan,37
+4,Class,Stan,8
+5,Stan,Tweek,101
+6,Kid,Kyle,2
+7,Cartman,Kyle,101
+8,Kyle,Mr. Garrison,18
+9,Class,Kyle,4
+10,Kyle,Tweek,102
+11,Cartman,Kid,1
+12,Kid,Mr. Garrison,6
+13,Class,Kid,2
+14,Kid,Tweek,3
+15,Cartman,Mr. Garrison,17
+16,Cartman,Class,2
+17,Cartman,Tweek,76
+18,Class,Mr. Garrison,12
+19,Mr. Garrison,Tweek,34
+20,Class,Tweek,6
+21,Customer,Richard,12
+22,Customer,Postum,10
+23,Postum,Richard,50
+24,Barbrady,Richard,2
+25,Officer Barbrady,Richard,2
+26,Barbrady,Officer Barbrady,1
+27,Mrs. Tweak,Richard,38
+28,Mrs. Tweek,Tweek,2
+29,Mrs. Tweak,Tweek,23
+30,Kyle,Mrs. Tweek,1
+31,Mrs. Tweek,Stan,1
+32,Mrs. Tweak,Mrs. Tweek,1
+33,Kyle,Mrs. Tweak,16
+34,Mrs. Tweak,Stan,10
+35,Richard,Stan,44
+36,Richard,Tweek,65
+37,Kyle,Richard,42
+38,Kenny,Stan,4
+39,Kenny,Tweek,3
+40,Kenny,Kyle,5
+41,Cartman,Kenny,3
+42,Boys,Stan,4
+43,Boys,Kyle,1
+44,Boys,Tweek,1
+45,Boys,Richard,5
+46,Cartman,Richard,11
+47,Boys,Cartman,1
+48,Cartman,Lady Member,10
+49,Lady Member,Mr. Garrison,24
+50,Lady Member,Stan,16
+51,Lady Member,Tweek,22
+52,Kyle,Lady Member,9
+53,Lady Member,Richard,8
+54,Lady Member,Postum,2
+55,Kyle,Postum,4
+56,Postum,Stan,5
+57,Postum,Tweek,6
+58,Cartman,Postum,5
+59,Lady Member,Mayor,25
+60,Lady Member,Male Member,4
+61,Blond Member,Lady Member,4
+62,Lady Member,The Other Members,4
+63,Lady Member,Ted,4
+64,Johnson,Lady Member,4
+65,Mayor,Mr. Garrison,16
+66,Male Member,Mayor,6
+67,Blond Member,Mayor,6
+68,Mayor,The Other Members,6
+69,Mayor,Stan,8
+70,Mayor,Tweek,20
+71,Mayor,Ted,6
+72,Johnson,Mayor,8
+73,Male Member,Mr. Garrison,2
+74,Blond Member,Mr. Garrison,2
+75,Mr. Garrison,The Other Members,2
+76,Mr. Garrison,Ted,2
+77,Johnson,Mr. Garrison,4
+78,Blond Member,Male Member,1
+79,Male Member,The Other Members,1
+80,Male Member,Stan,1
+81,Male Member,Tweek,3
+82,Male Member,Ted,1
+83,Johnson,Male Member,1
+84,Blond Member,The Other Members,1
+85,Blond Member,Stan,1
+86,Blond Member,Tweek,3
+87,Blond Member,Ted,1
+88,Blond Member,Johnson,1
+89,Stan,The Other Members,1
+90,The Other Members,Tweek,3
+91,Ted,The Other Members,1
+92,Johnson,The Other Members,1
+93,Stan,Ted,1
+94,Johnson,Stan,2
+95,Ted,Tweek,3
+96,Johnson,Tweek,4
+97,Johnson,Ted,1
+98,Audience,Postum,13
+99,Audience,Mediator,10
+100,Mediator,Postum,13
+101,Audience,Stan,1
+102,Mediator,Stan,1
+103,Audience,Cartman,1
+104,Cartman,Mediator,1
+105,Audience,Mr. Garrison,1
+106,Mediator,Mr. Garrison,1
+107,Mr. Garrison,Postum,7
+108,Kyle,Voice-over,1
+109,Stan,Voice-over,1
+110,Cartman,Voice-over,1
+111,Kenny,Voice-over,1
+112,Tweek,Voice-over,1
+113,Blonde Protester,Crowd,1
+114,Crowd,Lady Protester,1
+115,Lady Protester,Postum,1
+116,Crowd,Postum,1
+117,Mayor,Postum,6
+118,Johnson,Postum,3
+119,Mayor,Richard,6
+120,Johnson,Richard,3
+121,Mr. Garrison,Richard,6
+122,Cartman,Mayor,2
+123,Kyle,Mayor,2
+124,Cartman,Johnson,1
+125,Johnson,Kyle,1
+126,Cartman,Gnome,71
+127,Gnome,Stan,61
+128,Gnome,Kyle,56
+129,Gnome,Tweek,30
+130,Cartman,Gnomes,3
+131,Gnome,Gnomes,8
+132,Gnomes,Kyle,4
+133,Gnomes,Stan,5
+134,Lady Member,Supporter,2
+135,Stan,Supporter,4
+136,Kyle,Supporter,4

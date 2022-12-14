@@ -1,0 +1,155 @@
+,source,target,weight
+0,Cartman,Chris,6
+1,Cartman,Kyle,127
+2,Cartman,Stan,198
+3,Cartman,Mrs. Farnickle,27
+4,Chris,Kyle,8
+5,Chris,Stan,10
+6,Chris,Mrs. Farnickle,8
+7,Kyle,Stan,183
+8,Kyle,Mrs. Farnickle,31
+9,Mrs. Farnickle,Stan,41
+10,Kyle,Mr. Farnickle,5
+11,Mr. Farnickle,Stan,7
+12,Cartman,Mr. Farnickle,5
+13,Mr. Farnickle,Mrs. Farnickle,3
+14,Girl,Liane,3
+15,Liane,The boys,1
+16,Liane,Stan,4
+17,Cartman,Liane,20
+18,Kyle,Liane,2
+19,Liane,Sarah,1
+20,Girl,The boys,3
+21,Girl,Stan,12
+22,Cartman,Girl,6
+23,Girl,Kyle,6
+24,Girl,Sarah,3
+25,Stan,The boys,4
+26,Cartman,The boys,3
+27,Kyle,The boys,3
+28,Sarah,The boys,1
+29,Sarah,Stan,4
+30,Cartman,Sarah,3
+31,Kyle,Sarah,2
+32,Stan,The Boy,3
+33,Stan,Tucker,90
+34,The Boy,Tucker,4
+35,Cartman,The Boy,1
+36,Kyle,The Boy,1
+37,Cartman,Tucker,46
+38,Kyle,Tucker,46
+39,Cartman,Kenny,55
+40,Kenny,Stan,24
+41,Kenny,Kyle,17
+42,Butters,Cartman,132
+43,Butters,Kenny,24
+44,Butters,Stan,19
+45,Butters,Kyle,12
+46,Bill,Fosse,61
+47,Bill,Cartman,43
+48,Cartman,Fosse,71
+49,Fosse,Kyle,70
+50,Bill,Kyle,42
+51,Fosse,Stan,130
+52,Bill,Stan,78
+53,Fosse,Tucker,60
+54,Fosse,Kenny,10
+55,Bill,Tucker,36
+56,Bill,Kenny,6
+57,Kenny,Tucker,6
+58,Sarah,Sarah's Mom,1
+59,Cartman,Sarah's Mom,1
+60,Dawson,Stan,20
+61,Dawson,Kyle,17
+62,Cartman,Dawson,20
+63,Cartman,Murphy,14
+64,Murphy,Stan,8
+65,Hopkins,Murphy,14
+66,Dawson,Murphy,31
+67,Cartman,Hopkins,7
+68,Hopkins,Stan,1
+69,Dawson,Hopkins,17
+70,Butters,Liane,12
+71,Kyle,Mr. Garrison,2
+72,Cartman,Mr. Garrison,2
+73,Dawson,Mr. Garrison,2
+74,Mr. Garrison,The boys,2
+75,Dawson,The boys,1
+76,Kyle,Murphy,6
+77,Kenny,Stripper,4
+78,DJ,Kenny,2
+79,Bouncer,Kenny,4
+80,Stan,Stripper,3
+81,DJ,Stripper,4
+82,Bouncer,Stripper,8
+83,Kyle,Stripper,3
+84,DJ,Stan,1
+85,Bouncer,Stan,2
+86,Bouncer,DJ,4
+87,DJ,Kyle,1
+88,Bouncer,Kyle,2
+89,Bouncer,Gino,10
+90,Bouncer,Tall goon,4
+91,Bouncer,Cartman,4
+92,Bouncer,Dawson,10
+93,Bouncer,Hopkins,6
+94,Bouncer,Murphy,6
+95,Bouncer,Jenkins,6
+96,Bouncer,Lead FBI agent,4
+97,Bouncer,Fields,4
+98,Gino,Tall goon,10
+99,Cartman,Gino,10
+100,Gino,Kenny,5
+101,Dawson,Gino,25
+102,Gino,Stripper,5
+103,Gino,Hopkins,15
+104,Gino,Murphy,15
+105,Gino,Jenkins,15
+106,DJ,Gino,5
+107,Gino,Lead FBI agent,10
+108,Fields,Gino,10
+109,Cartman,Tall goon,4
+110,Kenny,Tall goon,2
+111,Dawson,Tall goon,10
+112,Stripper,Tall goon,2
+113,Hopkins,Tall goon,6
+114,Murphy,Tall goon,6
+115,Jenkins,Tall goon,6
+116,DJ,Tall goon,2
+117,Lead FBI agent,Tall goon,4
+118,Fields,Tall goon,4
+119,Cartman,Stripper,2
+120,Cartman,Jenkins,6
+121,Cartman,DJ,2
+122,Cartman,Lead FBI agent,4
+123,Cartman,Fields,4
+124,Dawson,Kenny,5
+125,Hopkins,Kenny,3
+126,Kenny,Murphy,3
+127,Jenkins,Kenny,3
+128,Kenny,Lead FBI agent,2
+129,Fields,Kenny,2
+130,Dawson,Stripper,5
+131,Dawson,Jenkins,15
+132,DJ,Dawson,5
+133,Dawson,Lead FBI agent,10
+134,Dawson,Fields,10
+135,Hopkins,Stripper,3
+136,Murphy,Stripper,3
+137,Jenkins,Stripper,3
+138,Lead FBI agent,Stripper,2
+139,Fields,Stripper,2
+140,Hopkins,Jenkins,9
+141,DJ,Hopkins,3
+142,Hopkins,Lead FBI agent,6
+143,Fields,Hopkins,6
+144,Jenkins,Murphy,9
+145,DJ,Murphy,3
+146,Lead FBI agent,Murphy,6
+147,Fields,Murphy,6
+148,DJ,Jenkins,3
+149,Jenkins,Lead FBI agent,6
+150,Fields,Jenkins,6
+151,DJ,Lead FBI agent,2
+152,DJ,Fields,2
+153,Fields,Lead FBI agent,4

@@ -1,0 +1,39 @@
+,source,target,weight
+0,Chris,Head waiter,20
+1,Head waiter,Towelie,60
+2,Head waiter,Male diner,30
+3,Chris,Towelie,24
+4,Chris,Male diner,12
+5,Male diner,Towelie,36
+6,Joint,Towelie,15
+7,Oprah,Towelie,123
+8,Her crotch,Towelie,4
+9,Mingie,Towelie,40
+10,Her crotch,Oprah,8
+11,Mingie,Oprah,85
+12,Her crotch,Mingie,2
+13,A voice,Mingie,8
+14,Gary,Mingie,240
+15,A voice,Gary,6
+16,Dimitri,Geraldo,10
+17,Geraldo,Mingie,100
+18,Gary,Geraldo,110
+19,Dimitri,Mingie,10
+20,Dimitri,Gary,11
+21,Larry King,Towelie,16
+22,Geraldo,Larry King,16
+23,Geraldo,Towelie,16
+24,Gary,Oprah,68
+25,Latino Protesters,Towelie,7
+26,Latino Protesters,Oprah,4
+27,Joint,Latino Protesters,2
+28,Joint,Oprah,8
+29,Audience,Mingie,12
+30,Gary,Towelie,34
+31,Audience,Gary,12
+32,Audience,Oprah,36
+33,Audience,Towelie,21
+34,Officer,Oprah,9
+35,Mingie,Officer,30
+36,Gary,Officer,18
+37,Officer,Towelie,3

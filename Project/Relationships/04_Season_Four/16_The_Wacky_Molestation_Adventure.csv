@@ -1,0 +1,88 @@
+,source,target,weight
+0,Ike,Stan,2
+1,Ike,Kyle,3
+2,Cartman,Ike,1
+3,Kyle,Stan,86
+4,Cartman,Stan,55
+5,Cartman,Kyle,94
+6,Kyle,Sheila,32
+7,Gerald,Sheila,17
+8,Gerald,Kyle,24
+9,Kenny,Stan,4
+10,Cartman,Kenny,10
+11,Kenny,Kyle,10
+12,Case Worker,Sheila,8
+13,Case Worker,Kyle,4
+14,Cartman,Kids,1
+15,Butters,Craig,16
+16,Linda,More Voices,7
+17,Mark,More Voices,9
+18,Jenny,More Voices,2
+19,Filmore,More Voices,2
+20,Kindergartners,More Voices,3
+21,Kindergartner,More Voices,1
+22,Craig,More Voices,3
+23,Linda,Mark,168
+24,Jenny,Linda,14
+25,Filmore,Linda,14
+26,Kindergartners,Linda,27
+27,Kindergartner,Linda,7
+28,Craig,Linda,21
+29,Jenny,Mark,18
+30,Filmore,Mark,18
+31,Kindergartners,Mark,33
+32,Kindergartner,Mark,9
+33,Craig,Mark,27
+34,Filmore,Jenny,4
+35,Jenny,Kindergartners,6
+36,Jenny,Kindergartner,2
+37,Craig,Jenny,6
+38,Filmore,Kindergartners,6
+39,Filmore,Kindergartner,2
+40,Craig,Filmore,6
+41,Kindergartner,Kindergartners,3
+42,Craig,Kindergartners,9
+43,Craig,Kindergartner,3
+44,Cartman,Linda,46
+45,Butter's Voice,Linda,2
+46,Francis,Linda,2
+47,Cartman,Mark,79
+48,Butter's Voice,Cartman,6
+49,Cartman,Francis,6
+50,Butter's Voice,Mark,4
+51,Francis,Mark,4
+52,Butter's Voice,Francis,1
+53,Kids,Stan,117
+54,Kids,Kyle,27
+55,Kids,Mark,45
+56,Kids,Linda,27
+57,Boy,Kids,18
+58,Mark,Stan,102
+59,Linda,Stan,59
+60,Boy,Stan,26
+61,Kyle,Mark,43
+62,Kyle,Linda,24
+63,Boy,Kyle,6
+64,Boy,Mark,10
+65,Boy,Linda,6
+66,Gerald,Speaker,4
+67,Gerald,Randy,4
+68,Carol,Gerald,4
+69,Gerald,Mr. Evans,12
+70,Sheila,Speaker,1
+71,Randy,Sheila,1
+72,Carol,Sheila,1
+73,Mr. Evans,Sheila,3
+74,Randy,Speaker,1
+75,Carol,Speaker,1
+76,Mr. Evans,Speaker,3
+77,Carol,Randy,1
+78,Mr. Evans,Randy,3
+79,Carol,Mr. Evans,7
+80,Butters,Linda,22
+81,Butters,Cartman,27
+82,Blond Man,Mr. Evans,8
+83,Blond Man,Carol,2
+84,Butters,Mark,36
+85,Butters,Stan,16
+86,Butters,Kyle,12

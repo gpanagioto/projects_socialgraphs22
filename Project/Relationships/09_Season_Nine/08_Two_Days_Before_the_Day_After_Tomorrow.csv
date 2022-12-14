@@ -1,0 +1,119 @@
+,source,target,weight
+0,Cartman,Stan,262
+1,Sharon,Tom,5
+2,Field reporter,Tom,3
+3,Mitch,Tom,6
+4,Field reporter,Sharon,3
+5,Mitch,Sharon,2
+6,Field reporter,Mitch,2
+7,Randy,Tom,10
+8,Randy,Stan,91
+9,Chet,Randy,1
+10,Stan,Tom,5
+11,Chet,Tom,1
+12,Chet,Stan,1
+13,Randy,Sharon,23
+14,Sharon,Stan,30
+15,Cartman,Kyle,119
+16,Butters,Cartman,9
+17,Kyle,Stan,173
+18,Butters,Stan,6
+19,Butters,Kyle,2
+20,Driver,Sharon,1
+21,Driver,Stan,1
+22,Driver,Randy,4
+23,Mrs. Garrison,Sheila,2
+24,Sharon,Sheila,2
+25,Sheila,Stan,12
+26,Gerald,Sheila,2
+27,Announcer,Sheila,1
+28,Anchor,Sheila,1
+29,Field reporter,Sheila,1
+30,Officer Barbrady,Sheila,1
+31,Sheila,Stephen,3
+32,Jimbo,Sheila,1
+33,Kyle,Sheila,12
+34,Cartman,Sheila,3
+35,Randy,Sheila,4
+36,Mrs. Garrison,Sharon,4
+37,Mrs. Garrison,Stan,24
+38,Gerald,Mrs. Garrison,4
+39,Announcer,Mrs. Garrison,2
+40,Anchor,Mrs. Garrison,2
+41,Field reporter,Mrs. Garrison,2
+42,Mrs. Garrison,Officer Barbrady,2
+43,Mrs. Garrison,Stephen,6
+44,Jimbo,Mrs. Garrison,2
+45,Kyle,Mrs. Garrison,24
+46,Cartman,Mrs. Garrison,6
+47,Mrs. Garrison,Randy,8
+48,Gerald,Sharon,7
+49,Announcer,Sharon,2
+50,Anchor,Sharon,2
+51,Officer Barbrady,Sharon,2
+52,Sharon,Stephen,8
+53,Jimbo,Sharon,2
+54,Kyle,Sharon,24
+55,Cartman,Sharon,6
+56,Gerald,Stan,36
+57,Announcer,Stan,12
+58,Anchor,Stan,12
+59,Field reporter,Stan,12
+60,Officer Barbrady,Stan,12
+61,Stan,Stephen,44
+62,Jimbo,Stan,12
+63,Announcer,Gerald,2
+64,Anchor,Gerald,2
+65,Field reporter,Gerald,2
+66,Gerald,Officer Barbrady,2
+67,Gerald,Stephen,14
+68,Gerald,Jimbo,2
+69,Gerald,Kyle,24
+70,Cartman,Gerald,6
+71,Gerald,Randy,41
+72,Anchor,Announcer,1
+73,Announcer,Field reporter,1
+74,Announcer,Officer Barbrady,1
+75,Announcer,Stephen,3
+76,Announcer,Jimbo,1
+77,Announcer,Kyle,12
+78,Announcer,Cartman,3
+79,Announcer,Randy,4
+80,Anchor,Field reporter,1
+81,Anchor,Officer Barbrady,1
+82,Anchor,Stephen,3
+83,Anchor,Jimbo,1
+84,Anchor,Kyle,12
+85,Anchor,Cartman,3
+86,Anchor,Randy,4
+87,Field reporter,Officer Barbrady,1
+88,Field reporter,Stephen,3
+89,Field reporter,Jimbo,1
+90,Field reporter,Kyle,12
+91,Cartman,Field reporter,3
+92,Field reporter,Randy,4
+93,Officer Barbrady,Stephen,3
+94,Jimbo,Officer Barbrady,1
+95,Kyle,Officer Barbrady,12
+96,Cartman,Officer Barbrady,3
+97,Officer Barbrady,Randy,4
+98,Jimbo,Stephen,3
+99,Kyle,Stephen,36
+100,Cartman,Stephen,9
+101,Randy,Stephen,33
+102,Jimbo,Kyle,12
+103,Cartman,Jimbo,3
+104,Jimbo,Randy,4
+105,Kyle,Randy,48
+106,Cartman,Randy,12
+107,Gerald,Mr. Mackey,3
+108,Gerald,Tom,3
+109,Mr. Mackey,Sharon,1
+110,Mr. Mackey,Stephen,2
+111,Stephen,Tom,2
+112,Mr. Mackey,Randy,9
+113,Mr. Mackey,Stan,4
+114,Mr. Mackey,Tom,1
+115,General,Officer,4
+116,Officer,Scientist,3
+117,General,Scientist,12

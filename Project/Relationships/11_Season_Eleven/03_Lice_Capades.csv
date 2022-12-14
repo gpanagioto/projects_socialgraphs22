@@ -1,0 +1,81 @@
+,source,target,weight
+0,Cartman,Mrs. Garrison,35
+1,Bebe,Cartman,12
+2,Cartman,Class,10
+3,Cartman,Kenny,14
+4,Bebe,Mrs. Garrison,9
+5,Class,Mrs. Garrison,15
+6,Kenny,Mrs. Garrison,5
+7,Bebe,Class,3
+8,Bebe,Kenny,1
+9,Class,Kenny,1
+10,Kelly,Male Louse,6
+11,Kelly,Travis,21
+12,Male Louse,Travis,2
+13,Butters,Stan,6
+14,Butters,Cartman,21
+15,Butters,Craig,8
+16,Butters,Kenny,3
+17,Butters,Lead screener,1
+18,Cartman,Stan,28
+19,Craig,Stan,11
+20,Kenny,Stan,5
+21,Lead screener,Stan,1
+22,Cartman,Craig,40
+23,Cartman,Lead screener,2
+24,Craig,Kenny,7
+25,Craig,Lead screener,1
+26,Kenny,Lead screener,1
+27,Clyde,Lead screener,12
+28,President,Travis,4
+29,Older Louse,President,3
+30,Older Louse,Travis,12
+31,Clyde,Girl,3
+32,Girl,Nurse,1
+33,Doctor,Girl,3
+34,Clyde,Nurse,3
+35,Clyde,Doctor,9
+36,Doctor,Nurse,3
+37,Lice,Travis,5
+38,Kelly,Lice,2
+39,Cartman,Red,4
+40,Craig,Mrs. Garrison,15
+41,Mrs. Garrison,Stan,8
+42,Mrs. Garrison,Red,6
+43,Butters,Mrs. Garrison,7
+44,Class,Craig,4
+45,Craig,Red,2
+46,Bebe,Craig,3
+47,Class,Stan,2
+48,Red,Stan,1
+49,Bebe,Stan,3
+50,Class,Red,2
+51,Butters,Class,2
+52,Bebe,Red,1
+53,Butters,Red,1
+54,Bebe,Butters,2
+55,Craig,Kyle,21
+56,Clyde,Craig,14
+57,Cartman,Kyle,78
+58,Cartman,Clyde,39
+59,Kyle,Stan,16
+60,Butters,Kyle,10
+61,Bebe,Kyle,5
+62,Clyde,Kyle,19
+63,Clyde,Stan,10
+64,Butters,Clyde,6
+65,Bebe,Clyde,1
+66,Jimmy,Kyle,10
+67,Kyle,Tolkien,7
+68,Cartman,Jimmy,13
+69,Cartman,Tolkien,9
+70,Craig,Jimmy,2
+71,Jimmy,Tolkien,2
+72,Craig,Tolkien,2
+73,Butters,Tolkien,1
+74,Clyde,Tolkien,1
+75,Clyde,Jimmy,3
+76,Clyde,Mrs. Garrison,6
+77,Clyde,Kenny,8
+78,Kenny,Kyle,6
+79,Kyle,Mrs. Garrison,3

@@ -1,0 +1,173 @@
+,source,target,weight
+0,Daniel,Douglas,1
+1,Annie,Douglas,3
+2,Douglas,Red,2
+3,Douglas,Lola,1
+4,Douglas,Nelly,2
+5,Butters,Douglas,2
+6,Clyde,Douglas,1
+7,Douglas,Wendy,2
+8,Douglas,Jimmy,1
+9,Cartman,Douglas,3
+10,Douglas,Heidi,1
+11,Annie,Daniel,3
+12,Daniel,Red,2
+13,Daniel,Lola,1
+14,Daniel,Nelly,2
+15,Butters,Daniel,2
+16,Clyde,Daniel,1
+17,Daniel,Wendy,2
+18,Daniel,Jimmy,1
+19,Cartman,Daniel,3
+20,Daniel,Heidi,1
+21,Annie,Red,6
+22,Annie,Lola,3
+23,Annie,Nelly,6
+24,Annie,Butters,8
+25,Annie,Clyde,4
+26,Annie,Wendy,7
+27,Annie,Jimmy,3
+28,Annie,Cartman,12
+29,Annie,Heidi,5
+30,Lola,Red,2
+31,Nelly,Red,4
+32,Butters,Red,4
+33,Clyde,Red,2
+34,Red,Wendy,4
+35,Jimmy,Red,2
+36,Cartman,Red,6
+37,Heidi,Red,2
+38,Lola,Nelly,2
+39,Butters,Lola,2
+40,Clyde,Lola,1
+41,Lola,Wendy,2
+42,Jimmy,Lola,1
+43,Cartman,Lola,3
+44,Heidi,Lola,1
+45,Butters,Nelly,4
+46,Clyde,Nelly,2
+47,Nelly,Wendy,4
+48,Jimmy,Nelly,2
+49,Cartman,Nelly,6
+50,Heidi,Nelly,2
+51,Butters,Clyde,4
+52,Butters,Wendy,6
+53,Butters,Jimmy,2
+54,Butters,Cartman,21
+55,Butters,Heidi,15
+56,Clyde,Wendy,3
+57,Clyde,Jimmy,1
+58,Cartman,Clyde,6
+59,Clyde,Heidi,3
+60,Jimmy,Wendy,2
+61,Cartman,Wendy,9
+62,Heidi,Wendy,4
+63,Cartman,Jimmy,3
+64,Heidi,Jimmy,1
+65,Cartman,Heidi,76
+66,Crowd Members,Garrison,2
+67,Crowd Members,Supporter,1
+68,Garrison,Supporter,2
+69,Bedrager,Danes,12
+70,Dick,Gerald,41
+71,Butters,PC Principal,1
+72,Cartman,PC Principal,8
+73,Heidi,PC Principal,8
+74,Chris Christie,Garrison,44
+75,Garrison,Supporters,3
+76,Andrew,Anonymous821,8
+77,Anonymous821,Anyomous821,4
+78,A Troll,Anonymous821,4
+79,Anonymous821,Dick,9
+80,Anonymous821,Gerald,18
+81,Andrew,Anyomous821,2
+82,A Troll,Andrew,2
+83,Andrew,Dick,4
+84,Andrew,Gerald,8
+85,A Troll,Anyomous821,1
+86,Anyomous821,Dick,2
+87,Anyomous821,Gerald,4
+88,A Troll,Dick,2
+89,A Troll,Gerald,4
+90,Cartman,Garrison,8
+91,Cartman,Stan,1
+92,Cartman,Tolkien,1
+93,Cartman,Chris Christie,4
+94,Garrison,Heidi,8
+95,Heidi,Stan,1
+96,Heidi,Tolkien,1
+97,Chris Christie,Heidi,4
+98,Garrison,Stan,8
+99,Garrison,Tolkien,8
+100,Butters,Garrison,8
+101,Stan,Tolkien,1
+102,Chris Christie,Stan,4
+103,Butters,Stan,1
+104,Chris Christie,Tolkien,4
+105,Butters,Tolkien,1
+106,Butters,Chris Christie,4
+107,Gerald,Sheila,4
+108,Dick,Sheila,2
+109,Adviser,Chris Christie,1
+110,Adviser,Supporters,1
+111,Chris Christie,Supporters,1
+112,Che Gamorrah,PurpleheadedQueeflicker,1
+113,MLKKK,PurpleheadedQueeflicker,1
+114,Anonymous821,PurpleheadedQueeflicker,1
+115,PurpleheadedQueeflicker,URFATANDDUM,1
+116,PurpleheadedQueeflicker,SuperSexyLisa18,1
+117,PurpleheadedQueeflicker,YourMomsTits,1
+118,Gerald,PurpleheadedQueeflicker,2
+119,Dick,PurpleheadedQueeflicker,1
+120,Che Gamorrah,MLKKK,1
+121,Anonymous821,Che Gamorrah,1
+122,Che Gamorrah,URFATANDDUM,1
+123,Che Gamorrah,SuperSexyLisa18,1
+124,Che Gamorrah,YourMomsTits,1
+125,Che Gamorrah,Gerald,2
+126,Che Gamorrah,Dick,1
+127,Anonymous821,MLKKK,1
+128,MLKKK,URFATANDDUM,1
+129,MLKKK,SuperSexyLisa18,1
+130,MLKKK,YourMomsTits,1
+131,Gerald,MLKKK,2
+132,Dick,MLKKK,1
+133,Anonymous821,URFATANDDUM,1
+134,Anonymous821,SuperSexyLisa18,1
+135,Anonymous821,YourMomsTits,1
+136,SuperSexyLisa18,URFATANDDUM,1
+137,URFATANDDUM,YourMomsTits,1
+138,Gerald,URFATANDDUM,2
+139,Dick,URFATANDDUM,1
+140,SuperSexyLisa18,YourMomsTits,1
+141,Gerald,SuperSexyLisa18,2
+142,Dick,SuperSexyLisa18,1
+143,Gerald,YourMomsTits,2
+144,Dick,YourMomsTits,1
+145,Garrison,Randy,52
+146,Garrison,Member Berry,6
+147,Member Berry,Randy,6
+148,Bill Keegan,Dick,6
+149,CNN Anchor,Dick,3
+150,Dick,Kyle,6
+151,Bill Keegan,Gerald,12
+152,CNN Anchor,Gerald,6
+153,Gerald,Kyle,12
+154,Bill Keegan,CNN Anchor,2
+155,Bill Keegan,Kyle,4
+156,CNN Anchor,Kyle,2
+157,Cartman,Driver,3
+158,Cartman,Kyle,3
+159,Butters,Driver,2
+160,Driver,Kyle,1
+161,Driver,Heidi,2
+162,Driver,Wendy,1
+163,Clyde,Driver,1
+164,Annie,Driver,1
+165,Butters,Kyle,2
+166,Heidi,Kyle,2
+167,Kyle,Wendy,1
+168,Clyde,Kyle,1
+169,Annie,Kyle,1
+170,Garrison,Member Berries,4
+171,Member Berries,Randy,4

@@ -1,0 +1,105 @@
+,source,target,weight
+0,Kyle,Stan,94
+1,Cartman,Stan,92
+2,Cartman,Kyle,119
+3,Kenny,Stan,7
+4,Cartman,Kenny,7
+5,Kenny,Kyle,6
+6,Randy,Sam,6
+7,Butters,Kyle,4
+8,Butters,Mr. Garrison,1
+9,Kyle,Mr. Garrison,9
+10,Mitchell,Mr. Garrison,1
+11,Jimbo,Mr. Garrison,9
+12,Mr. Garrison,Randy,14
+13,Frank,Mr. Garrison,1
+14,Jimbo,Mitchell,1
+15,Mitchell,Randy,1
+16,Frank,Mitchell,5
+17,Jimbo,Randy,7
+18,Frank,Jimbo,1
+19,Frank,Randy,1
+20,Cartman,Mitchell,1
+21,Mitchell,Stan,1
+22,Announcer,Stan,4
+23,Announcer,Cartman,1
+24,Announcer,Kyle,2
+25,Bar Patrons,Frank,2
+26,Bar Patrons,Mitchell,2
+27,Rick Watts,Tom,1
+28,Ms. Choksondik,Stan,12
+29,Stan,Timmy,2
+30,Butters,Stan,2
+31,Kyle,Ms. Choksondik,18
+32,Kyle,Timmy,3
+33,Cartman,Ms. Choksondik,24
+34,Ms. Choksondik,Timmy,6
+35,Butters,Ms. Choksondik,6
+36,Cartman,Timmy,4
+37,Butters,Cartman,4
+38,Butters,Timmy,1
+39,Filmore,Mr. Garrison,1
+40,Filmore,Kindergartners,1
+41,Kindergartners,Mr. Garrison,1
+42,Elderly Man,Principal Victoria,1
+43,Elderly Man,Mr. Mackey,1
+44,Elderly Man,Peter,1
+45,Barbrady,Elderly Man,1
+46,Mr. Mackey,Principal Victoria,1
+47,Peter,Principal Victoria,1
+48,Barbrady,Principal Victoria,1
+49,Mr. Mackey,Peter,1
+50,Barbrady,Mr. Mackey,1
+51,Barbrady,Peter,1
+52,Mr. Garrison,Stan,8
+53,Cartman,Mr. Garrison,8
+54,Kyle,The Boys,6
+55,Chef,The Boys,10
+56,Cartman,The Boys,2
+57,Stan,The Boys,2
+58,Chef,Kyle,52
+59,Cartman,Chef,29
+60,Chef,Stan,39
+61,Kyle,Librarian,10
+62,Chef,Librarian,8
+63,Librarian,Stan,10
+64,Cartman,Librarian,8
+65,Kenny,Librarian,2
+66,Chef,Kenny,4
+67,Chef,HBC President,32
+68,HBC President,Kyle,24
+69,Cartman,HBC President,8
+70,Lead Knight,Stan,7
+71,Chef,Lead Knight,4
+72,Executives,Lead Knight,5
+73,HBC President,Lead Knight,16
+74,Executives,HBC President,3
+75,Kyle,Lead Knight,4
+76,Barker,Chef,18
+77,Barker,Kyle,7
+78,Barker,Stan,23
+79,HBC President,Mimi,2
+80,Barker,Waitress,1
+81,Chef,Sorcerer,10
+82,Barker,Sorcerer,2
+83,Drew,Randy,6
+84,Drew,Mr. Garrison,8
+85,Drew,Jimbo,4
+86,Drew,Lead Knight,1
+87,Drew,HBC President,1
+88,Drew,Mimi,1
+89,Lead Knight,Mimi,1
+90,Sorcerer,Stan,6
+91,Kyle,Sorcerer,3
+92,Cartman,Sorcerer,6
+93,Blond Knight,HBC President,2
+94,Bald Knight,HBC President,2
+95,Bald Knight,Blond Knight,1
+96,Cartman,Lead Knight,2
+97,Cartman,Geldon,2
+98,Geldon,Lead Knight,1
+99,Geldon,Kyle,2
+100,Geldon,Stan,1
+101,Ike,Sheila,1
+102,Gerald,Ike,1
+103,Gerald,Sheila,1

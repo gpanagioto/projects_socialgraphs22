@@ -1,0 +1,102 @@
+,source,target,weight
+0,Girl,Kyle,7
+1,Butters,Girl,3
+2,Girl,Sheila,3
+3,Butters,Kyle,21
+4,Kyle,Sheila,23
+5,Butters,Sheila,9
+6,Bill Cosby,Kyle,36
+7,Det. Harris,Randy,39
+8,Randy,Sharon,12
+9,Adams,Randy,16
+10,MJ's Hologram,Randy,4
+11,Det. Harris,Sharon,6
+12,Adams,Det. Harris,24
+13,Det. Harris,MJ's Hologram,6
+14,Adams,Sharon,4
+15,MJ's Hologram,Sharon,1
+16,Adams,MJ's Hologram,4
+17,Kyle,Stan,51
+18,Announcer,MJ's hologram,3
+19,Cartman,MJ's hologram,25
+20,Kyle,MJ's hologram,18
+21,MJ's hologram,Stan,3
+22,Announcer,Cartman,9
+23,Announcer,Kyle,12
+24,Announcer,Stan,9
+25,Cartman,Kyle,131
+26,Cartman,Stan,37
+27,Record producer,Ron,18
+28,Cartman,Record producer,58
+29,Cartman,Ron,26
+30,Det. Harris,MJ's hologram,19
+31,MJ's hologram,Randy,29
+32,Conner,Kyle,23
+33,Kyle,PewDiePie,58
+34,Conner,Stan,2
+35,Conner,PewDiePie,25
+36,PewDiePie,Stan,2
+37,Det. Harris,Front Desk Officer,16
+38,Det. Harris,Mitchell,8
+39,Front Desk Officer,Mitchell,8
+40,Front Desk Officer,MJ's hologram,4
+41,MJ's hologram,Mitchell,2
+42,MJ's hologram,Sharon,2
+43,Kyle,Record producer,24
+44,Kyle,Randy,2
+45,Record producer,Stan,8
+46,Randy,Record producer,6
+47,Randy,Stan,4
+48,Det. Harris,Peterson,12
+49,Cartman,Elvis' Hologram,2
+50,Cartman,Iggy's Ass,4
+51,Elvis' Hologram,Iggy's Ass,2
+52,Bill's hologram,Taylor,16
+53,Bill's hologram,Dad,12
+54,Bill's hologram,Mom,8
+55,Bill's hologram,Cartman,8
+56,Dad,Taylor,12
+57,Mom,Taylor,8
+58,Cartman,Taylor,8
+59,Dad,Mom,6
+60,Cartman,Dad,7
+61,Cartman,Mom,4
+62,Dad,Steve,1
+63,Cartman,Steve,1
+64,Cartman,Peterson,2
+65,Cartman,Det. Harris,2
+66,Cartman,Stephen,11
+67,Cartman,Conner,33
+68,Cartman,Ike,11
+69,Cartman,PewDiePie,88
+70,Cartman,Kids,11
+71,Kyle,Ron,7
+72,Kyle,Stephen,7
+73,Ike,Kyle,7
+74,Kids,Kyle,7
+75,Record producer,Stephen,3
+76,MJ's hologram,Record producer,6
+77,Conner,Record producer,9
+78,Ike,Record producer,3
+79,PewDiePie,Record producer,24
+80,Kids,Record producer,3
+81,Ron,Stephen,1
+82,MJ's hologram,Ron,2
+83,Conner,Ron,3
+84,Ike,Ron,1
+85,PewDiePie,Ron,8
+86,Kids,Ron,1
+87,MJ's hologram,Stephen,2
+88,Conner,Stephen,3
+89,Ike,Stephen,1
+90,PewDiePie,Stephen,8
+91,Kids,Stephen,1
+92,Conner,MJ's hologram,6
+93,Ike,MJ's hologram,2
+94,MJ's hologram,PewDiePie,16
+95,Kids,MJ's hologram,2
+96,Conner,Ike,3
+97,Conner,Kids,3
+98,Ike,PewDiePie,8
+99,Ike,Kids,1
+100,Kids,PewDiePie,8

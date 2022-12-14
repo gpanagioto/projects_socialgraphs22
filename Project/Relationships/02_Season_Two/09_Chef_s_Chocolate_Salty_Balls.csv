@@ -1,0 +1,57 @@
+,source,target,weight
+0,Phyllis,Robert Redford,8
+1,Mr. Twig,Wendy,4
+2,Kyle,Mr. Twig,1
+3,Mr. Garrison,Mr. Twig,2
+4,Mr. Twig,Stan,1
+5,Cartman,Mr. Twig,3
+6,Kyle,Wendy,4
+7,Mr. Garrison,Wendy,8
+8,Stan,Wendy,10
+9,Cartman,Wendy,13
+10,Kyle,Mr. Garrison,6
+11,Kyle,Stan,16
+12,Cartman,Kyle,17
+13,Mr. Garrison,Stan,2
+14,Cartman,Mr. Garrison,11
+15,Cartman,Stan,23
+16,Kenny,Stan,1
+17,Chef,Stan,13
+18,Stan,The boys,3
+19,Chef,Kyle,17
+20,Kyle,The boys,5
+21,Chef,The boys,3
+22,Cartman,Chef,9
+23,Cartman,The boys,8
+24,Candice,Stan,1
+25,Kyle,Sheila,2
+26,Kyle,Mr. Hankey,30
+27,Mr. Hankey,Sheila,1
+28,Cartman,Robert Redford,9
+29,Cartman,Phyllis,2
+30,Mr. Garrison,The boys,4
+31,Cartman,Mr. Hankey,16
+32,Mr. Hankey,The boys,15
+33,Mr. Hankey,Stan,10
+34,Female director,Kyle,2
+35,Mayor McDaniels,Robert Redford,6
+36,Marty,Robert Redford,3
+37,Robert Redford,Stan,6
+38,Chef,Robert Redford,3
+39,Cartman,Mayor McDaniels,4
+40,Marty,Mayor McDaniels,2
+41,Mayor McDaniels,Stan,4
+42,Chef,Mayor McDaniels,2
+43,Cartman,Marty,2
+44,Marty,Stan,2
+45,Chef,Marty,1
+46,Kyle,Robert Redford,1
+47,Cowboy,Tom,2
+48,Cowboy,Wendy,1
+49,Tom,Wendy,1
+50,Cowboy,Stan,1
+51,Stan,Tom,1
+52,Chef,Mr. Hankey,4
+53,Mayor McDaniels,Townsfolk,1
+54,Mr. Hankey,Townsfolk,1
+55,Mayor McDaniels,Mr. Hankey,1

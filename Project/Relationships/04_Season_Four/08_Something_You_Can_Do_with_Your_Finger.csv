@@ -1,0 +1,77 @@
+,source,target,weight
+0,Cartman,Kyle,223
+1,Kyle,Stan,74
+2,Kenny,Kyle,25
+3,Cartman,Stan,181
+4,Cartman,Kenny,57
+5,Kenny,Stan,20
+6,Sharon,Stan,8
+7,Randy,Stan,132
+8,Shelly,Stan,4
+9,Randy,Sharon,12
+10,Sharon,Shelly,5
+11,Randy,Shelly,5
+12,Butters,Cartman,30
+13,Butters,Kyle,10
+14,Butters,Stan,10
+15,Butters,Schroeder,2
+16,Butters,Ike,6
+17,Butters,Kenny,2
+18,Butters,Wendy,2
+19,Cartman,Schroeder,15
+20,Cartman,Ike,45
+21,Cartman,Wendy,24
+22,Kyle,Schroeder,5
+23,Ike,Kyle,15
+24,Kyle,Wendy,10
+25,Schroeder,Stan,5
+26,Ike,Stan,15
+27,Stan,Wendy,7
+28,Ike,Schroeder,3
+29,Kenny,Schroeder,1
+30,Schroeder,Wendy,1
+31,Ike,Kenny,3
+32,Ike,Wendy,3
+33,Kenny,Wendy,2
+34,Cartman,Veteran guard,78
+35,Stan,Veteran guard,14
+36,Kyle,Veteran guard,7
+37,Rookie guard,Veteran guard,9
+38,Manager,Veteran guard,47
+39,Cartman,Rookie guard,36
+40,Manager,Rookie guard,33
+41,Cartman,Manager,255
+42,Cartman,Chef,56
+43,Bebe,Cartman,26
+44,Bebe,Timmy,9
+45,Bebe,Kyle,3
+46,Bebe,Girls,9
+47,Cartman,Timmy,46
+48,Cartman,Girls,24
+49,Kyle,Timmy,3
+50,Girls,Timmy,9
+51,Girls,Kyle,3
+52,Cartman,Randy,6
+53,Bebe,Randy,3
+54,Bebe,Stan,2
+55,Madman,Veteran guard,4
+56,Cartman,Madman,22
+57,Madman,Manager,14
+58,Madman,Timmy,4
+59,Madman,Mr. Mackey,4
+60,Liane,Madman,2
+61,Timmy,Veteran guard,4
+62,Mr. Mackey,Veteran guard,4
+63,Liane,Veteran guard,2
+64,Cartman,Mr. Mackey,22
+65,Cartman,Liane,11
+66,Manager,Timmy,14
+67,Manager,Mr. Mackey,14
+68,Liane,Manager,7
+69,Mr. Mackey,Timmy,4
+70,Liane,Timmy,2
+71,Liane,Mr. Mackey,2
+72,Kyle,Manager,24
+73,Kenny,Manager,6
+74,Manager,Wendy,4
+75,Manager,Stan,8

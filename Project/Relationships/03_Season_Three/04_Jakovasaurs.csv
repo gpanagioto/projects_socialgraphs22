@@ -1,0 +1,177 @@
+,source,target,weight
+0,Cartman,Stan,89
+1,Kyle,Stan,53
+2,Cartman,Kyle,102
+3,Cartman,Creature,17
+4,Creature,Stan,7
+5,Creature,Kyle,12
+6,Jimbo,Ned,27
+7,Jimbo,Stan,12
+8,Jimbo,Kyle,23
+9,Cartman,Jimbo,45
+10,Ned,Stan,4
+11,Kyle,Ned,3
+12,Cartman,Ned,14
+13,Creature,Jimbo,13
+14,FED,Sheila,1
+15,Mayor,Sheila,8
+16,Creature,Sheila,1
+17,Cartman,Sheila,4
+18,Ned,Sheila,1
+19,Jimbo,Sheila,1
+20,Hope,Sheila,1
+21,Sheila,Stan,2
+22,Mr. Garrison,Sheila,4
+23,Junjun,Sheila,7
+24,Rancher,Sheila,1
+25,FED,Mayor,7
+26,Creature,FED,1
+27,Cartman,FED,1
+28,FED,Ned,1
+29,FED,Jimbo,1
+30,FED,Hope,1
+31,FED,Stan,1
+32,FED,Mr. Garrison,4
+33,FED,Junjun,1
+34,FED,Rancher,1
+35,Creature,Mayor,7
+36,Cartman,Mayor,46
+37,Mayor,Ned,22
+38,Jimbo,Mayor,17
+39,Hope,Mayor,7
+40,Mayor,Stan,12
+41,Mayor,Mr. Garrison,30
+42,Junjun,Mayor,15
+43,Mayor,Rancher,7
+44,Creature,Ned,1
+45,Creature,Hope,1
+46,Creature,Mr. Garrison,4
+47,Creature,Junjun,1
+48,Creature,Rancher,1
+49,Cartman,Hope,1
+50,Cartman,Mr. Garrison,8
+51,Cartman,Junjun,28
+52,Cartman,Rancher,1
+53,Hope,Ned,1
+54,Mr. Garrison,Ned,4
+55,Junjun,Ned,1
+56,Ned,Rancher,1
+57,Hope,Jimbo,1
+58,Jimbo,Mr. Garrison,5
+59,Jimbo,Junjun,2
+60,Jimbo,Rancher,1
+61,Hope,Stan,1
+62,Hope,Mr. Garrison,4
+63,Hope,Junjun,1
+64,Hope,Rancher,1
+65,Mr. Garrison,Stan,8
+66,Junjun,Stan,11
+67,Rancher,Stan,1
+68,Junjun,Mr. Garrison,4
+69,Mr. Garrison,Rancher,4
+70,Junjun,Rancher,1
+71,Cartman,Liane,34
+72,Jakovasaur,Liane,5
+73,Cartman,Jakovasaur,26
+74,Jakovasaur,Kyle,2
+75,Jakov,Kyle,20
+76,Cartman,Jakov,92
+77,Jakovasaur,Stan,4
+78,Jakov,Jakovasaur,1
+79,Jakov,Stan,25
+80,Jakov,Junjun,24
+81,Junjun,Kyle,20
+82,Amanda,Ned,12
+83,Amanda,Jimbo,6
+84,Kyle,Mayor,7
+85,Jakov,Mayor,132
+86,Jakov,Mephesto,6
+87,Junjun,Mephesto,2
+88,Mephesto,Stan,4
+89,Kyle,Mephesto,2
+90,Jakov,Randy,17
+91,Commentator,Jakov,21
+92,Jakov,Men,14
+93,Gerald,Jakov,14
+94,Jakov,Mr. Mackey,7
+95,Jakov,The Others,7
+96,Commentator,Randy,6
+97,Men,Randy,2
+98,Gerald,Randy,4
+99,Mr. Mackey,Randy,2
+100,Randy,The Others,2
+101,Commentator,Men,3
+102,Commentator,Gerald,6
+103,Commentator,Mr. Mackey,3
+104,Commentator,The Others,3
+105,Gerald,Men,2
+106,Men,Mr. Mackey,1
+107,Men,The Others,1
+108,Gerald,Mr. Mackey,2
+109,Gerald,The Others,2
+110,Mr. Mackey,The Others,1
+111,Kyle,Sheila,3
+112,Mr. Hat,Stan,1
+113,Kyle,Mr. Garrison,4
+114,Mr. Garrison,Mr. Hat,4
+115,Kyle,Mr. Hat,1
+116,Cartman,Mr. Hat,1
+117,Chef,Mr. Garrison,1
+118,Mr. Garrison,Trashman,1
+119,Chef,Trashman,1
+120,Chef,Mayor,2
+121,Chef,Jimbo,1
+122,Mayor,Trashman,2
+123,Jimbo,Trashman,1
+124,Mayor,Men,2
+125,Mayor,Others,2
+126,Liane,Mayor,6
+127,Jakov,Others,7
+128,Jakov,Liane,13
+129,Jakov,Jimbo,16
+130,Junjun,Men,1
+131,Junjun,Others,1
+132,Junjun,Liane,1
+133,Men,Others,1
+134,Cartman,Men,6
+135,Liane,Men,1
+136,Jimbo,Men,1
+137,Cartman,Others,6
+138,Liane,Others,1
+139,Jimbo,Others,1
+140,Jimbo,Liane,7
+141,Boy,Jakov,32
+142,Boy,Junjun,4
+143,Boy,Cartman,8
+144,Jakov,Mayo,3
+145,Mayo,Mayor,2
+146,Barbrady,Ned,10
+147,Jakov,Ned,14
+148,Ned,Stagehand,1
+149,Barbrady,Mayor,118
+150,Mayor,Stagehand,11
+151,Barbrady,Jakov,86
+152,Barbrady,Stagehand,10
+153,Jakov,Stagehand,8
+154,Kenny,Stan,2
+155,Kenny,Kyle,3
+156,Cartman,Kenny,3
+157,Crowd,Randy,2
+158,Cartman,Randy,6
+159,Jimbo,Randy,3
+160,Liane,Randy,2
+161,Mayor,Randy,2
+162,Ned,Randy,2
+163,Kyle,Randy,1
+164,Randy,Stan,1
+165,Crowd,Jakov,6
+166,Cartman,Crowd,12
+167,Crowd,Jimbo,6
+168,Crowd,Liane,4
+169,Crowd,Mayor,4
+170,Crowd,Ned,4
+171,Crowd,Kyle,2
+172,Crowd,Stan,2
+173,Liane,Ned,4
+174,Kyle,Liane,2
+175,Liane,Stan,2

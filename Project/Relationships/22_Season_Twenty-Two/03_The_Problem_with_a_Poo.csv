@@ -1,0 +1,60 @@
+,source,target,weight
+0,Mayor McDaniels,Randy,7
+1,Randy,Ryan,1
+2,Councilwoman,Randy,2
+3,Mayor's aide,Randy,1
+4,Mrs. Testaburger,Randy,1
+5,Mr. Hankey,Randy,6
+6,Mayor McDaniels,Ryan,5
+7,Councilwoman,Mayor McDaniels,10
+8,Mayor McDaniels,Mayor's aide,5
+9,Mayor McDaniels,Mrs. Testaburger,5
+10,Mayor McDaniels,Mr. Hankey,33
+11,Councilwoman,Ryan,2
+12,Mayor's aide,Ryan,1
+13,Mrs. Testaburger,Ryan,1
+14,Mr. Hankey,Ryan,4
+15,Councilwoman,Mayor's aide,2
+16,Councilwoman,Mrs. Testaburger,2
+17,Councilwoman,Mr. Hankey,8
+18,Mayor's aide,Mrs. Testaburger,1
+19,Mayor's aide,Mr. Hankey,4
+20,Mr. Hankey,Mrs. Testaburger,4
+21,Cartman,Craig,1
+22,Craig,Mr. Hankey,1
+23,Cartman,Mr. Hankey,1
+24,PC Principal,Strong Woman,97
+25,Cartman,Kyle,18
+26,Cartman,Stan,13
+27,Kyle,Stan,18
+28,Kyle,Mr. Hankey,86
+29,Male Lawyer,Mr. Hankey,2
+30,Female lawyer,Male Lawyer,1
+31,Female lawyer,Mr. Hankey,2
+32,Mr. Hankey,Mr. Prewitt,1
+33,Gerald,Kyle,3
+34,Gerald,Mr. Hankey,3
+35,Dr. Bender,PC Principal,30
+36,Kenny,Kyle,4
+37,Kenny,Stan,3
+38,Cartman,Kenny,3
+39,Female Nurse,Strong Woman,10
+40,Male Nurse,Strong Woman,5
+41,Female Nurse,PC Principal,12
+42,Male Nurse,PC Principal,6
+43,Female Nurse,Male Nurse,2
+44,Mr. Hankey,Mr. Waithouse,36
+45,Elderly Woman,Strong Woman,10
+46,Elderly Woman,Man with Orange Shirt,8
+47,Elderly Woman,PC Principal,2
+48,Man with Orange Shirt,Strong Woman,20
+49,Man with Orange Shirt,PC Principal,4
+50,Jogger,PC Principal,2
+51,Mr. Hankey,PC Principal,8
+52,Kyle,PC Principal,2
+53,Jogger,Mr. Hankey,4
+54,Jogger,Kyle,1
+55,Mr. Hankey,Stan,2
+56,Mayor McDaniels,Stan,2
+57,Randy,Stan,1
+58,Apu,Bart,1

@@ -1,0 +1,74 @@
+,source,target,weight
+0,Cartman,Stan,79
+1,Butters,Stan,131
+2,Kyle,Stan,66
+3,Butters,Cartman,172
+4,Cartman,Kyle,82
+5,Butters,Kyle,124
+6,Damla,Maury,36
+7,Brunet Trekker,Butters,4
+8,Blond Trekker,Butters,6
+9,Brunet Trekker,Stan,6
+10,Blond Trekker,Stan,9
+11,Brunet Trekker,Cartman,5
+12,Blond Trekker,Brunet Trekker,7
+13,Brunet Trekker,Kyle,2
+14,Blond Trekker,Cartman,7
+15,Blond Trekker,Kyle,3
+16,Butters,Man with no face,31
+17,Butters,Stagehand,18
+18,Butters,Disfigured country singer,78
+19,Butters,Roger,9
+20,Man with no face,Stagehand,6
+21,Disfigured country singer,Man with no face,24
+22,Man with no face,Roger,3
+23,Disfigured country singer,Stagehand,14
+24,Roger,Stagehand,2
+25,Disfigured country singer,Roger,7
+26,Cartman,Maury,108
+27,Butters,Maury,110
+28,Kyle,Maury,22
+29,Maury,Stan,11
+30,Cartman,Operator,25
+31,Cartman,Liane,49
+32,Butters,Stephen,6
+33,Butters,Linda,3
+34,Linda,Stephen,2
+35,Disfigured country singer,The Freaks,5
+36,Butters,The Freaks,40
+37,Man with no face,The Freaks,1
+38,Maury,Studio audience,35
+39,Maury,Vanessa,9
+40,Maury,Vanity,31
+41,Maury,Some audience members,4
+42,Studio audience,Vanessa,5
+43,Studio audience,Vanity,19
+44,Some audience members,Studio audience,2
+45,Vanessa,Vanity,5
+46,Some audience members,Vanessa,1
+47,Some audience members,Vanity,2
+48,Cartman,Stagehand,1
+49,Incredibly obese black man,The Freaks,2
+50,Butters,Incredibly obese black man,3
+51,Disfigured country singer,Incredibly obese black man,1
+52,Liane,Maury,20
+53,Liane,Studio audience,12
+54,Cartman,Studio audience,24
+55,Liane,Vanessa,4
+56,Cartman,Vanessa,6
+57,Liane,Vanity,12
+58,Cartman,Vanity,22
+59,Police captain,The Freaks,18
+60,Middle Dwarf,The Freaks,6
+61,Butters,Police captain,15
+62,Butters,Middle Dwarf,5
+63,Middle Dwarf,Police captain,3
+64,Joline,Maury,16
+65,Joline,Vanity,8
+66,Cartman,Joline,8
+67,Joline,Studio audience,12
+68,Elephant man,Maury,4
+69,Cameraman,Maury,4
+70,Cartman,Elephant man,1
+71,Cameraman,Elephant man,1
+72,Cameraman,Cartman,1

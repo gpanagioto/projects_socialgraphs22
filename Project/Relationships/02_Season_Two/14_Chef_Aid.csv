@@ -1,0 +1,64 @@
+,source,target,weight
+0,Cartman,Mr. Garrison,6
+1,Mr. Garrison,Mr. Twig,22
+2,Kyle,Mr. Garrison,12
+3,Mr. Garrison,Stan,6
+4,Kid,Mr. Garrison,6
+5,Cartman,Mr. Twig,1
+6,Cartman,Kyle,40
+7,Cartman,Stan,37
+8,Cartman,Kid,1
+9,Kyle,Mr. Twig,2
+10,Mr. Twig,Stan,1
+11,Kid,Mr. Twig,1
+12,Kyle,Stan,56
+13,Kid,Kyle,2
+14,Kid,Stan,1
+15,Boys,Chef,7
+16,Boys,Kyle,3
+17,Boys,Cartman,2
+18,Boys,Stan,2
+19,Chef,Kyle,47
+20,Cartman,Chef,21
+21,Chef,Stan,26
+22,Chef,Mr. Big record producer,16
+23,Kyle,Mr. Big record producer,8
+24,Cartman,Mr. Big record producer,3
+25,Gerald,Judge Moses,1
+26,Gerald,Prosecutor,1
+27,Judge Moses,Prosecutor,1
+28,Chef,Gerald,4
+29,Dr. Doctor,Mr. Garrison,6
+30,Gerald,Johnnie Cochran,2
+31,Chef,Johnnie Cochran,2
+32,Chef,Judge Moses,5
+33,Mr. Big record producer,Stan,4
+34,Bulter,Kyle,2
+35,Elton John,Kyle,11
+36,Cartman,Elton John,11
+37,Elton John,Stan,26
+38,Chef,Sheila,1
+39,Cartman,Meat Loaf,8
+40,Kyle,Meat Loaf,8
+41,Meat Loaf,Stan,5
+42,Boys,Meat Loaf,1
+43,Chef,Veronica Crabtree,4
+44,Chef,Mayor McDaniels,2
+45,Chef,Mayor,2
+46,Mayor,Mayor McDaniels,1
+47,Mr. Garrison,Officer Barbrady,5
+48,Chef,Officer,1
+49,Barbrady,Dr. Doctor,1
+50,Barbrady,Mr. Garrison,2
+51,Chef,Mr. Garrison,7
+52,Rick James,Teen MC,2
+53,Kyle,Teen MC,3
+54,Joe Strummer,Kyle,1
+55,Cartman,Teen MC,2
+56,Cartman,Joe Strummer,1
+57,Mr. Big record producer,Teen MC,2
+58,Joe Strummer,Mr. Big record producer,1
+59,Joe Strummer,Teen MC,2
+60,Dean Ween,Gene Ween,6
+61,Johnnie Cochran,Producer,1
+62,Chef,Reporter,2

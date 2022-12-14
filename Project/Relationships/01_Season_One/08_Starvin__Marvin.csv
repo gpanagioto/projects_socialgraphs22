@@ -1,0 +1,59 @@
+,source,target,weight
+0,Kyle,Liane,3
+1,Cartman,Kyle,30
+2,Cartman,Liane,13
+3,Cartman,TV announcer,9
+4,Cartman,Sally Struthers,26
+5,Cartman,Stan,39
+6,Cartman,Kenny,6
+7,Kyle,TV announcer,7
+8,Sally Struthers,TV announcer,8
+9,Stan,TV announcer,11
+10,Kenny,TV announcer,2
+11,Kyle,Sally Struthers,12
+12,Kyle,Stan,52
+13,Kenny,Kyle,6
+14,Sally Struthers,Stan,20
+15,Kenny,Sally Struthers,4
+16,Kenny,Stan,11
+17,Cartman,Mr. Garrison,9
+18,Mr. Garrison,Stan,6
+19,Cartman,Wendy,12
+20,Cartman,Mr. Hat,4
+21,Mr. Garrison,Wendy,3
+22,Mr. Hat,Wendy,3
+23,Mr. Garrison,Mr. Hat,1
+24,Mayor McDaniels,Mephesto,8
+25,Liane,Stan,1
+26,Liane,TV announcer,1
+27,Phillip,Terrance,1
+28,Cartman,Marvin,3
+29,Kyle,Mr. Garrison,7
+30,Bebe,Mr. Garrison,3
+31,Clyde,Mr. Garrison,3
+32,Mr. Garrison,Pip,3
+33,Class,Mr. Garrison,3
+34,Bebe,Stan,1
+35,Clyde,Stan,1
+36,Pip,Stan,1
+37,Class,Stan,1
+38,Bebe,Kyle,2
+39,Clyde,Kyle,2
+40,Kyle,Pip,2
+41,Class,Kyle,2
+42,Bebe,Clyde,1
+43,Bebe,Pip,1
+44,Bebe,Class,1
+45,Clyde,Pip,1
+46,Class,Clyde,1
+47,Class,Pip,1
+48,Principal Victoria,Stan,10
+49,Kyle,Principal Victoria,15
+50,Chef,Mephesto,18
+51,Aide,Mayor McDaniels,4
+52,Liane,Sally Struthers,2
+53,Marvin,Sally Struthers,2
+54,Liane,Marvin,4
+55,Chef,Mayor McDaniels,2
+56,Cartman,Red Cross dude,1
+57,Jimbo,Kyle,1

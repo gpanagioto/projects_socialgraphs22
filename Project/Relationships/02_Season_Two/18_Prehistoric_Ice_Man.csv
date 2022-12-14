@@ -1,0 +1,80 @@
+,source,target,weight
+0,Aussie,Kenny,8
+1,Kenny,Stan,18
+2,Kenny,Kyle,18
+3,Cartman,Kenny,9
+4,Aussie,Stan,13
+5,Aussie,Kyle,10
+6,Aussie,Cartman,15
+7,Kyle,Stan,209
+8,Cartman,Stan,78
+9,Cartman,Kyle,71
+10,Both,Cartman,5
+11,Both,Stan,4
+12,Both,Kyle,2
+13,Mayor McDaniels,Some people,4
+14,Other people,Some people,1
+15,Some people,Stan,4
+16,Kyle,Some people,4
+17,Cartman,Some people,1
+18,Dr. Mephesto,Some people,4
+19,Mayor,Some people,1
+20,Mayor McDaniels,Other people,4
+21,Mayor McDaniels,Stan,16
+22,Kyle,Mayor McDaniels,16
+23,Cartman,Mayor McDaniels,4
+24,Dr. Mephesto,Mayor McDaniels,34
+25,Mayor,Mayor McDaniels,4
+26,Other people,Stan,4
+27,Kyle,Other people,4
+28,Cartman,Other people,1
+29,Dr. Mephesto,Other people,4
+30,Mayor,Other people,1
+31,Dr. Mephesto,Stan,45
+32,Mayor,Stan,4
+33,Dr. Mephesto,Kyle,30
+34,Kyle,Mayor,4
+35,Cartman,Dr. Mephesto,16
+36,Cartman,Mayor,1
+37,Dr. Mephesto,Mayor,4
+38,Officer Barbrady,Reporter,2
+39,Dr. Mephesto,Reporter,2
+40,Dr. Mephesto,Officer Barbrady,1
+41,Kyle,Reporter,1
+42,Dr. Mephesto,Larry,82
+43,Larry,Mayor McDaniels,12
+44,Kyle,Officer Barbrady,12
+45,Officer Barbrady,Stan,9
+46,Cartman,Officer Barbrady,3
+47,Kenny,Officer Barbrady,3
+48,Larry,Stan,58
+49,Kyle,Larry,46
+50,Agent,Dr. Mephesto,40
+51,Dr. Mepehsto,Dr. Mephesto,1
+52,Agent,Dr. Mepehsto,1
+53,Agent,Larry,5
+54,Dr. Mepehsto,Larry,1
+55,Agent,Kyle,6
+56,Agent,Stan,3
+57,Dr. Mephesto,Mephesto,2
+58,Agent,Mephesto,4
+59,Larry,Leslie,72
+60,Cartman,Larry,4
+61,Agent,Cartman,12
+62,Agent,Aussie,10
+63,Clerk,Kyle,6
+64,Clerk,Stan,4
+65,Aussie,Dr. Mephesto,10
+66,Agent,Clerk,1
+67,Clerk,Dr. Mephesto,2
+68,Conductor,Larry,2
+69,Agent,Conductor,4
+70,Cartman,Conductor,2
+71,Aussie,Larry,2
+72,Agent,Pilot,1
+73,Dr. Mephesto,Pilot,1
+74,Cow,Dr. Mephesto,1
+75,Agent,Cow,1
+76,Cow,Stan,2
+77,Cow,Kyle,2
+78,Cartman,Cow,2

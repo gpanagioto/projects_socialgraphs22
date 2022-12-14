@@ -1,0 +1,40 @@
+,source,target,weight
+0,Jenkins,Stan,12
+1,Jenkins,Kyle,12
+2,Cartman,Jenkins,24
+3,Kyle,Stan,30
+4,Cartman,Stan,38
+5,Cartman,Kyle,48
+6,Hugh,Mr. Clarkson,3
+7,Mr. Clarkson,Townsman,1
+8,Mr. Clarkson,Stephen,1
+9,Hugh,Townsman,3
+10,Hugh,Stephen,3
+11,Stephen,Townsman,1
+12,Randy,Stan,144
+13,Gore,Kyle,93
+14,Marvin,Stan,90
+15,Margaret,Stan,7
+16,Margaret,Marvin,6
+17,Kenny,Kyle,27
+18,Cartman,Kenny,31
+19,Cartman,Satan,19
+20,Kenny,Satan,8
+21,Kyle,Satan,35
+22,Maggie,Yates,36
+23,Cartman,Gore,9
+24,Gore,Satan,9
+25,Alec,Jim,2
+26,Guest,Jim,2
+27,Gore,Jim,4
+28,Alec,Guest,1
+29,Alec,Gore,2
+30,Gore,Guest,2
+31,Cartman,Marvin,5
+32,Kyle,Marvin,4
+33,Kenny,Stan,24
+34,Kenny,Marvin,4
+35,Stan,Yates,2
+36,Lawyer,Stan,16
+37,Kyle,Lawyer,2
+38,Lawyer,Marvin,4

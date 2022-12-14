@@ -1,0 +1,70 @@
+,source,target,weight
+0,Boy,Cartman,27
+1,Boy,Clerk,18
+2,Boy,Mom,21
+3,Boy,Thomas,21
+4,Cartman,Clerk,54
+5,Cartman,Mom,63
+6,Cartman,Thomas,67
+7,Clerk,Mom,42
+8,Clerk,Thomas,42
+9,Mom,Thomas,49
+10,Cartman,Liane,23
+11,Cartman,Doctor,28
+12,Doctor,Liane,12
+13,Cartman,Kyle,124
+14,Kyle,Principal Victoria,20
+15,Butters,Kyle,7
+16,Craig,Kyle,16
+17,Cartman,Principal Victoria,16
+18,Butters,Cartman,12
+19,Cartman,Craig,21
+20,Butters,Principal Victoria,2
+21,Craig,Principal Victoria,4
+22,Butters,Craig,2
+23,Cartman,Mrs. Garrison,20
+24,Kyle,Mrs. Garrison,8
+25,Craig,Mrs. Garrison,4
+26,Mr. Donaldson,Principal Victoria,10
+27,Kyle,Mr. Donaldson,37
+28,Cartman,Mr. Donaldson,20
+29,Blonde Girl,Teen Boy,2
+30,Teen Boy,Thomas,6
+31,Brunette,Teen Boy,4
+32,Mr. Donaldson,Teen Boy,8
+33,Kyle,Teen Boy,8
+34,Blonde Girl,Thomas,3
+35,Blonde Girl,Brunette,2
+36,Blonde Girl,Mr. Donaldson,4
+37,Blonde Girl,Kyle,4
+38,Brunette,Thomas,6
+39,Mr. Donaldson,Thomas,12
+40,Kyle,Thomas,20
+41,Brunette,Mr. Donaldson,8
+42,Brunette,Kyle,8
+43,Mr. Donaldson,Sheila,4
+44,Gerald,Sheila,2
+45,Kyle,Sheila,6
+46,Cartman,Sheila,10
+47,Gerald,Mr. Donaldson,2
+48,Gerald,Kyle,3
+49,Cartman,Gerald,5
+50,Hansen,Predator,2
+51,Announcer,Hansen,1
+52,Cartman,Hansen,101
+53,Announcer,Cartman,1
+54,Craig,Thomas,7
+55,Mr. Mackey,Thomas,1
+56,Patty,Thomas,1
+57,Cartman,Mr. Mackey,6
+58,Cartman,Patty,4
+59,Craig,Mr. Mackey,1
+60,Craig,Patty,1
+61,Mr. Mackey,Patty,1
+62,Liane,Mr. Mackey,1
+63,HotForBoys219,Thomas,12
+64,HotForBoys219,Kyle,6
+65,Hansen,HotForBoys219,9
+66,Audience Members,Hansen,1
+67,Hansen,Thomas,6
+68,Craig,Hansen,4

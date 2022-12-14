@@ -1,0 +1,63 @@
+,source,target,weight
+0,Randy,Sharon,58
+1,Sharon,Stan,59
+2,Sharon,Shelly,10
+3,Randy,Stan,111
+4,Randy,Shelly,16
+5,Shelly,Stan,13
+6,Fillmore,Randy,3
+7,Boy,Fillmore,1
+8,Boy,Randy,3
+9,Randy,Shopper,10
+10,Ghost,Shopper,6
+11,Shopper,Stan,2
+12,Sharon,Shopper,2
+13,Ghost,Randy,15
+14,Ghost,Stan,3
+15,Ghost,Sharon,3
+16,Cartman,Kenny,18
+17,Butters,Cartman,8
+18,Cartman,Jimmy,4
+19,Butters,Kenny,3
+20,Jimmy,Kenny,1
+21,Butters,Jimmy,2
+22,Kyle,Stan,99
+23,Kenny,Stan,25
+24,Cartman,Stan,47
+25,Kyle,Sharon,30
+26,Kenny,Sharon,5
+27,Cartman,Sharon,5
+28,Kyle,Randy,51
+29,Kenny,Randy,10
+30,Cartman,Randy,7
+31,Kyle,Shelly,6
+32,Kenny,Shelly,1
+33,Cartman,Shelly,1
+34,Kenny,Kyle,18
+35,Cartman,Kyle,28
+36,Stan,The boys,3
+37,Cartman,The boys,8
+38,Kyle,The boys,1
+39,Kenny,The boys,1
+40,Boyfriend,Girlfriend,2
+41,Boyfriend,Randy,2
+42,Girlfriend,Randy,1
+43,Ben,Girlfriend,12
+44,Girlfriend,Stan,12
+45,Ben,Stan,9
+46,Cartman,Sgt. Yates,6
+47,Officer,Sgt. Yates,2
+48,Cartman,Officer,1
+49,Kyle,Sgt. Yates,21
+50,Sgt. Yates,Stan,31
+51,Kenny,Sgt. Yates,7
+52,Butters,Stan,9
+53,A Banana,Stan,4
+54,A Banana,Butters,1
+55,Mr. Garrison,Stan,2
+56,Mr. Garrison,Randy,2
+57,Family,Randy,1
+58,Randy,Sgt. Yates,9
+59,Butters,Randy,3
+60,Butters,Sgt. Yates,3
+61,Butters,Kyle,3

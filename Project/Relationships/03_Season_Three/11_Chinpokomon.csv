@@ -1,0 +1,205 @@
+,source,target,weight
+0,Cartman,Kitty,14
+1,Announcer,Cartman,58
+2,Cartman,Singer,28
+3,Cartman,Japanese Woman,7
+4,Announcer,Kitty,10
+5,Kitty,Singer,4
+6,Japanese Woman,Kitty,2
+7,Announcer,Singer,70
+8,Announcer,Japanese Woman,5
+9,Japanese Woman,Singer,2
+10,Cartman,Liane,30
+11,Boy,Girl,2
+12,Boy,Louis,2
+13,Boy,Cartman,20
+14,Boy,Stan,8
+15,Boy,Kenny,10
+16,Girl,Louis,1
+17,Cartman,Girl,8
+18,Girl,Stan,2
+19,Girl,Kenny,5
+20,Cartman,Louis,8
+21,Louis,Stan,2
+22,Kenny,Louis,5
+23,Cartman,Stan,191
+24,Cartman,Kenny,52
+25,Kenny,Stan,19
+26,Cashier,Liane,1
+27,Japanese woman,Liane,2
+28,Kids,Liane,2
+29,Cashier,Japanese woman,3
+30,Cashier,Kids,1
+31,Japanese woman,Kids,1
+32,Kenny,Kyle,12
+33,Cartman,Kyle,169
+34,Kyle,Stan,189
+35,Kyle,Sheila,25
+36,Gerald,Kyle,24
+37,Ike,Kyle,12
+38,Gerald,Sheila,13
+39,Ike,Sheila,6
+40,Gerald,Ike,8
+41,Cashier,Kyle,3
+42,A voice,Kyle,1
+43,Kyle,Lambtron,1
+44,A voice,Cashier,3
+45,Cashier,Lambtron,3
+46,A voice,Lambtron,1
+47,Cartman,Japanese woman,6
+48,Announcer,Kyle,13
+49,Japanese woman,Kyle,6
+50,Announcer,Stan,22
+51,Japanese woman,Stan,4
+52,Announcer,Japanese woman,2
+53,Announcer,Kenny,1
+54,Japanese woman,Kenny,2
+55,Japanese woman,Red,16
+56,Japanese woman,Taller man,2
+57,Japanese woman,Mr. Ose,14
+58,Japanese woman,President Hirohito,16
+59,Japanese woman,Lambtor,2
+60,Cashier,Red,8
+61,Cashier,Taller man,1
+62,Cashier,Mr. Ose,7
+63,Cashier,President Hirohito,8
+64,Cashier,Lambtor,1
+65,Red,Taller man,8
+66,Mr. Ose,Red,56
+67,President Hirohito,Red,64
+68,Lambtor,Red,8
+69,Mr. Ose,Taller man,7
+70,President Hirohito,Taller man,8
+71,Lambtor,Taller man,1
+72,Mr. Ose,President Hirohito,102
+73,Lambtor,Mr. Ose,7
+74,Lambtor,President Hirohito,8
+75,Randy,Sharon,29
+76,Roostor,Sharon,3
+77,Randy,Roostor,2
+78,Narrator,Sharon,3
+79,Narrator,Randy,3
+80,Japanese woman,Singer,2
+81,Sharon,Singer,4
+82,Liane,Singer,2
+83,Sheila,Singer,6
+84,Randy,Singer,2
+85,Japanese woman,Sharon,2
+86,Japanese woman,Sheila,3
+87,Japanese woman,Randy,1
+88,Liane,Sharon,5
+89,Sharon,Sheila,22
+90,Liane,Sheila,5
+91,Liane,Randy,6
+92,Randy,Sheila,8
+93,Kids,Stan,32
+94,Singer,Stan,14
+95,Mr. Ose,Stan,35
+96,Emperor Hirohito,Stan,4
+97,Instructors,Stan,2
+98,Kids,Singer,5
+99,Kids,Mr. Ose,187
+100,Kids,Kyle,22
+101,Cartman,Kids,15
+102,Emperor Hirohito,Kids,10
+103,Instructors,Kids,5
+104,Mr. Ose,Singer,6
+105,Kyle,Singer,9
+106,Emperor Hirohito,Singer,2
+107,Instructors,Singer,1
+108,Kyle,Mr. Ose,25
+109,Cartman,Mr. Ose,17
+110,Emperor Hirohito,Mr. Ose,12
+111,Instructors,Mr. Ose,6
+112,Emperor Hirohito,Kyle,6
+113,Instructors,Kyle,3
+114,Cartman,Emperor Hirohito,4
+115,Cartman,Instructors,2
+116,Emperor Hirohito,Instructors,2
+117,Class,Stan,6
+118,Mr. Garrison,Stan,25
+119,Stan,Wendy,3
+120,Class,Mr. Garrison,10
+121,Cartman,Class,4
+122,Class,Wendy,2
+123,Cartman,Mr. Garrison,15
+124,Mr. Garrison,Wendy,5
+125,Cartman,Wendy,2
+126,Mr. Garrison,Sharon,5
+127,Mr. Garrison,Priest Maxi,9
+128,Mayor,Mr. Garrison,3
+129,Mr. Garrison,President Hirohito,20
+130,Mr. Garrison,Randy,11
+131,Mr. Garrison,Mr. Ose,10
+132,Jimbo,Mr. Garrison,3
+133,Priest Maxi,Sharon,3
+134,Mayor,Sharon,3
+135,President Hirohito,Sharon,36
+136,Mr. Ose,Sharon,174
+137,Jimbo,Sharon,1
+138,Mayor,Priest Maxi,3
+139,President Hirohito,Priest Maxi,18
+140,Priest Maxi,Randy,6
+141,Mr. Ose,Priest Maxi,9
+142,Jimbo,Priest Maxi,3
+143,Mayor,President Hirohito,6
+144,Mayor,Randy,2
+145,Mayor,Mr. Ose,3
+146,Jimbo,Mayor,1
+147,President Hirohito,Randy,22
+148,Jimbo,President Hirohito,6
+149,Mr. Ose,Randy,11
+150,Jimbo,Randy,2
+151,Jimbo,Mr. Ose,3
+152,Liane,Mayor,2
+153,Mayor,Sheila,2
+154,Announcer,Boys,20
+155,Announcer,Boy,20
+156,Boys,Singer,12
+157,Boy,Boys,4
+158,Boys,Cartman,4
+159,Boys,Stan,4
+160,Boys,Kyle,2
+161,Boy,Singer,12
+162,Boy,Kyle,2
+163,Kids,Sharon,158
+164,Kids,President Hirohito,26
+165,Gerald,Kids,12
+166,Kids,Sheila,13
+167,Gerald,Mr. Ose,13
+168,Mr. Ose,Sheila,14
+169,Sharon,Stan,33
+170,Gerald,Sharon,13
+171,President Hirohito,Stan,22
+172,Gerald,Stan,1
+173,Sheila,Stan,11
+174,Gerald,President Hirohito,2
+175,President Hirohito,Sheila,4
+176,Kids,Randy,5
+177,Kids,Mr. Garrison,1
+178,Kids,Other kids,1
+179,Randy,Stan,50
+180,Liane,Stan,10
+181,Other kids,Stan,10
+182,Cartman,Randy,25
+183,Other kids,Randy,5
+184,Kyle,Randy,35
+185,Liane,Mr. Garrison,1
+186,Mr. Garrison,Other kids,1
+187,Kyle,Mr. Garrison,7
+188,Mr. Garrison,Sheila,1
+189,Liane,President Hirohito,2
+190,Liane,Mr. Ose,1
+191,Liane,Other kids,1
+192,Kyle,Liane,7
+193,Cartman,President Hirohito,10
+194,Cartman,Other kids,5
+195,Cartman,Sharon,10
+196,Cartman,Sheila,5
+197,Other kids,President Hirohito,2
+198,Kyle,President Hirohito,14
+199,Mr. Ose,Other kids,1
+200,Other kids,Sharon,2
+201,Kyle,Other kids,7
+202,Other kids,Sheila,1
+203,Kyle,Sharon,14

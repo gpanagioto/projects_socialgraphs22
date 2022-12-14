@@ -1,0 +1,123 @@
+,source,target,weight
+0,Cartman,Tuong Lu Kim,29
+1,Kyle,Tuong Lu Kim,35
+2,Stan,Tuong Lu Kim,55
+3,Cartman,Kyle,179
+4,Cartman,Stan,161
+5,Kyle,Stan,116
+6,Butters,Stan,139
+7,Butters,Kyle,143
+8,Butters,Cartman,286
+9,Butters,Tuong Lu Kim,8
+10,Herbert Garrison,Randy,5
+11,Herbert Garrison,Singer,1
+12,Herbert Garrison,Jared,10
+13,Herbert Garrison,Some men,1
+14,Cartman,Herbert Garrison,1
+15,Randy,Singer,1
+16,Jared,Randy,9
+17,Randy,Some men,1
+18,Cartman,Randy,1
+19,Jared,Singer,10
+20,Singer,Some men,1
+21,Cartman,Singer,1
+22,Jared,Some men,1
+23,Cartman,Jared,11
+24,Cartman,Some men,1
+25,Butters,Jared,10
+26,Jared,Kyle,64
+27,Jared,Stan,24
+28,Christine,Jared,42
+29,Chef,Kyle,12
+30,Cartman,Chef,9
+31,Chef,Stan,8
+32,Butters,Chef,10
+33,Singer,Subway Representative,5
+34,Jared,Subway Representative,24
+35,A woman,Subway Representative,4
+36,A woman,Singer,1
+37,A woman,Jared,5
+38,Cartman,The Boys,4
+39,The Boys,Tuong Lu Kim,5
+40,Kyle,The Boys,2
+41,Stan,The Boys,1
+42,Jared,Tyler,4
+43,Scott,Tyler,2
+44,Jared,Scott,2
+45,Cartman,Linda,34
+46,Cartman,Stephen,49
+47,Butters,Linda,22
+48,Butters,Stephen,33
+49,Linda,Stan,12
+50,Stan,Stephen,18
+51,Kyle,Linda,10
+52,Kyle,Stephen,15
+53,Linda,Stephen,6
+54,Jared,Jimbo,8
+55,Jimbo,Mayor McDaniels,4
+56,Chef,Jimbo,3
+57,Jimbo,Skeeter,3
+58,Jared,Mayor McDaniels,15
+59,Chef,Jared,11
+60,Jared,Skeeter,11
+61,Chef,Mayor McDaniels,7
+62,Mayor McDaniels,Skeeter,7
+63,Chef,Skeeter,5
+64,Herbert Garrison,Man in Crowd,1
+65,Herbert Garrison,Jimbo,3
+66,Jimbo,Man in Crowd,1
+67,Jared,Man in Crowd,1
+68,Cartman,Terrance,8
+69,Linda,Terrance,6
+70,Phillip,Terrance,2
+71,Cartman,Phillip,4
+72,Linda,Phillip,3
+73,Kyle,Mayor McDaniels,3
+74,Mayor McDaniels,Stan,3
+75,Mayor McDaniels,People in Crowd,9
+76,Gerald,Mayor McDaniels,3
+77,Mayor McDaniels,Randy,6
+78,Herbert Garrison,Mayor McDaniels,6
+79,Mayor McDaniels,Mr. Mackey,6
+80,Kyle,People in Crowd,3
+81,Kyle,Skeeter,2
+82,Gerald,Kyle,1
+83,Kyle,Randy,2
+84,Herbert Garrison,Kyle,4
+85,Kyle,Mr. Mackey,2
+86,Jimbo,Kyle,1
+87,Chef,People in Crowd,6
+88,Chef,Gerald,2
+89,Chef,Randy,4
+90,Chef,Herbert Garrison,4
+91,Chef,Mr. Mackey,4
+92,People in Crowd,Stan,3
+93,Skeeter,Stan,2
+94,Gerald,Stan,1
+95,Randy,Stan,2
+96,Herbert Garrison,Stan,7
+97,Mr. Mackey,Stan,2
+98,Jimbo,Stan,1
+99,Jared,People in Crowd,12
+100,People in Crowd,Skeeter,6
+101,Gerald,People in Crowd,3
+102,People in Crowd,Randy,6
+103,Herbert Garrison,People in Crowd,6
+104,Mr. Mackey,People in Crowd,6
+105,Jimbo,People in Crowd,3
+106,Gerald,Jared,4
+107,Jared,Mr. Mackey,8
+108,Gerald,Skeeter,2
+109,Randy,Skeeter,4
+110,Herbert Garrison,Skeeter,4
+111,Mr. Mackey,Skeeter,4
+112,Gerald,Randy,2
+113,Gerald,Herbert Garrison,2
+114,Gerald,Mr. Mackey,2
+115,Gerald,Jimbo,1
+116,Mr. Mackey,Randy,4
+117,Jimbo,Randy,2
+118,Herbert Garrison,Mr. Mackey,4
+119,Jimbo,Mr. Mackey,2
+120,Herbert Garrison,Tuong Lu Kim,5
+121,Butters,Herbert Garrison,1
